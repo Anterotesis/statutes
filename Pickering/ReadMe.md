@@ -1,8 +1,10 @@
 Read Me
 
-This folder contains the OCR'd text of volumes 33 to 37 of the Danby Pickering edition of the Statutes At Large.
+This folder contains the OCR'd text of volumes 32 to 37 of the Danby Pickering edition of the Statutes At Large, covering the years 1778 to 1792.
 
 These volumes were digitized by Google, and the PDFs can be found at:
+
+32: https://books.google.co.uk/books?id=FcAuAAAAIAAJ
 
 33: http://books.google.com/books?id=a6Q3AAAAMAAJ&pg=PP9#v=onepage&q&f=false
 
