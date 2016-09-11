@@ -20,6 +20,6 @@ Volume 9: 1762 – 1763, Index and Appendix: https://archive.org/details/statute
 
 Complete Index to the Statutes At Large: https://archive.org/details/acompleteindext00britgoog
 
-They have been OCR'd using Abbyy FineReader version 12.1.5. No normalization has been applied; the OCR is therefore still absolutely hideous.
+They have been OCR'd using Abbyy FineReader version 12.1.5. Ted Underwood's OCRnormalizer has been run over it; the OCR is therefore no longer absolutely hideous, just extremely foul.
 
 This is part of the Statutes Project: http://statutes.org.uk/site/
