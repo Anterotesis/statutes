@@ -25,5 +25,7 @@ https://github.com/tedunderwood/DataMunging
 
 Be warned: The OCR is still, at this stage, very poor!
 
+These texts are all over 200 years old, and as such are clearly in the public domain.
+
 This is part of the Statutes Project:
 http://statutes.org.uk/site/
