@@ -21,7 +21,7 @@ FROM
 MAGNA CHARTA
 
 To the END of the
-
+---
 Thirteenth Parliament of Great Britain*
 
 Anno 1773.
@@ -34,7 +34,7 @@ VOL. XXX.
 
 CAMBRIDGE,
 
-Printed by JOHN ARCHDEACON, Printer to the UNIVERSITY; for CHARLES BATHURST, at the Crofs-Keys, opposite St.Dunstan’* Church in Fleet-Street, London. 1773.
+Printed by JOHN ARCHDEACON, Printer to the UNIVERSITY; for CHARLES BATHURST, at the Crofs-Keys, opposite St.Dunstan’s Church in Fleet-Street, London. 1773.
 
 CUM PRIVILEGIO.
 
@@ -10202,13 +10202,9 @@ Preamble. *1 j| WHEREAS by an act, made in the twenty-eighth year:/ Aft aSGco. 2
 
 in the seventh year of the reign $f his present Majesty, (intituled, An act to explain, amend, and reduce into one act of parliament, the general laws now in being for regulating the turnpike roads of this kingdom, and for other purposes therein mentioned,) the said act of the twenty- eighth year of his late Majesty, exceptfo much thereofas continued the acts then made for repairing and amending turnpike roads, subject to the tolls and duties by such acts rej'peftivdy granted, was repealed: and whereas by one other aft, made in the thirteenth year of the reign of his present Majesty, (intituled, An act to explain, a-mend, and reduce into one act of parliament, the general laws now in being for regulating the turnpike roads in that partiof Great Britain called England', and for other purposes,) the said act of the feve nth year of his present Majesty, except so much thereof as repeated the fiver al acts therein mentioned, was also repealed: and whereas doubts have ar fieri, whether the said laft-mentioned aft, madg in the thirteenth year of his present Majesty, by repealing the said act ‘ of the f venth year of his present Majesty, in the manner aforesaid, hath not virtually repealed that part of the act of the twenty-eighth \year of his late Moje/Jy, which continued the said turnpike acts for five years; in order therefore to obviate all such doubts, and to enjorce the find provision for continuing the said turnpike acts, as contained in the said act of the twenty-eighth year of his late Majesty9s reign; be it enacted by the King's most excellent majesty, by and with the
 
-advice
-
 I774‘] Anno deciftid quarto GeoHoii III. 0.37,-39. 3S7
 
-advice and consent of the lords-fpiritual and temporal, and commons, in this present parliament assembled, and by the authority of the same. That the provision made by the said act of the Provision* of twenty-eighth year of the reign of his late Majesty* for conti- ^ *
-
-nuing the several acts, made for repairing and amending turn- tornpike”^ pike roads for five years, shall be and continue in full force, and roads for five be as effectual, to all intents and purposes, as the same could, years, conti-might, or ought to have been, if the said acts of the seventh and nuc<1* thirteenth years of his present Majesty’s reign, or either of them, bad not been made; any thing in those aftsj or in either of them, contained to the contrary notwithstanding.
+advice and consent of the lords-fpiritual and temporal, and commons, in this present parliament assembled, and by the authority of the same. That the provision made by the said act of the Provision* of twenty-eighth year of the reign of his late Majesty* for continuing the several acts, made for repairing and amending turn- tornpike”^ pike roads for five years, shall be and continue in full force, and roads for five be as effectual, to all intents and purposes, as the same could, years, conti-might, or ought to have been, if the said acts of the seventh and nuc<1* thirteenth years of his present Majesty’s reign, or either of them, bad not been made; any thing in those aftsj or in either of them, contained to the contrary notwithstanding.
 
 II. And be it further enacted. That all and every person and Persons who persons, who hath or have received, or shall hereafter receive, have or shall any tolls, or other duties, at any turnpike or toll-gate; or who ^any turn!, hath acted, or shall hereafter act, in any other respect under the p,ke by the authority of, and in execution of any of the powers of any act aforesaid ad or acts of parliament so continued, or intended to be continued, indemnified, by the said recited ad of the twenty eighth year of his late Ma- &c* jefty, shall be, and is and are hereby indemnified for what he, she, or they, have so received or done, or for what he or they shall receive, or do by virtue thereof.
 
@@ -10302,7 +10298,7 @@ Anno decimo quarto Georgii III* C.41,42. [1774.
 
 CAP. XLI.
 
-An oH for further*continuing so much cf two cfls, made in the sixth and thirteenth years of the reign of his present Madefy, as relates to the opening and ejlablijhing certain free ports in tie ijknd of Jamaica.
+An oH for further continuing so much cf two cfls, made in the sixth and thirteenth years of the reign of his present Madefy, as relates to the opening and ejlablijhing certain free ports in tie ijknd of Jamaica.
 
 Preamble. \\7 HEREAS an act of parliament was made in tfoe Jixth Aft 6 Geo.3. VV year of the reign of his present Mayfly, (intituled* act for opening and eftabliihing certain ports jnthe illands of Jamaica and Dominica, For the more free importation and exportation of certain goods and merchandises.; for granting certain duties to defray the expences of opening, maintaining, fecur-iog, and improving fucii ports $ for ascertaining the dunes to be paid upon the importation of goods from the said illand of Dominica into this kingdom; and for securing the duues upon goods imported from the said island into any other British colony ) which was to continue in force until the first day cf September, one thousand seven hundred and fevenly-three, and from theme and aft to the end of the then next session of parliament; and which, by anil Geo. 3. 0tbcr ag], made in the thirteenth year of his present Majejlfs reign,
 
@@ -15362,6 +15358,7 @@ An act to enlarge the term and powers of an act, passed in the north yeor of his
 
 CAP. CXV1II.
 
-An act for continuing the term and enlarging the powers granted by an acty poffed in thy twenty-eighth year of his late Majesty* s reign y for repairing the road from the north end of Browns Lamy in Great Stoughton, in the county of Huntingt<my through Kimbclton and Higham Ferrers, to the way-poft near Wellingborough Bridge in the county of Northampton, and from the pound in Kimbohon to the way-poft in Great Cat worth Fid/ near Brington Bridge, in the said county of Huntingdon; crA for repealing so much of an act of the tenth year cf his present Majesty s reign, as relates to the road between the north end tf Brown's Lane and the foutb end thereof.
+An act for continuing the term and enlarging the powers granted by an acty poffed in thy twenty-eighth year of his late Majesty's reign y for repairing the road from the north end of Browns Lamy in Great Stoughton, in the county of Huntingt<my through Kimbclton and Higham Ferrers, to the way-poft near Wellingborough Bridge in the county of Northampton, and from the pound in Kimbohon to the way-poft in Great Cat worth Fid/ near Brington Bridge, in the said county of Huntingdon; crA for repealing so much of an act of the tenth year cf his present Majesty s reign, as relates to the road between the north end tf Brown's Lane and the foutb end thereof.
 
 The End of the Thirtieth VOLUME.
+
