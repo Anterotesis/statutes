@@ -2054,8 +2054,6 @@ v10° GEO. IV.
 
 C. 6.
 
-
-
 CERTIFICATE to be given by the Justice before whom a Recruit is attested, who has enlisted for the Service either of His Majesty or the East India Company.
 
 }T	One	of	His	Majesty’s	Justices of the
@@ -2201,7 +2199,9 @@ DESCRIPTION Return of	committed	to	Confinement	at	on	the	Day	of
 as a Deserter from the	Battalion	of	the	Regiment	of	\	.
 
 Afire.	Size.		Complexion.	Colour of		Marks.	Probable Date of Enlistment,	Probable Date of Desertion, & from whence.	Name, Occupation, and Address of the Person by whom apprehended.	Particulars of the Evidence upon which the Prisoner is committed.	Whether the Prisoner confessed before the Magistrate that he is a Deserter.
+
 6	Feet.	Inches.		Hair.	Eyes.		and in what District.				
+
 								-			
 
 I do hereby certify, That the Prisoner has been duly examined before me as to the Circumstances herein stated, and has declared in my Presence that he * a Deserter from the before-mentioned Corps.
@@ -2565,6 +2565,7 @@ Commencement of Act.
 SCHEDULE to which this Act refers.
 
 Date of the Registry.	Name of the Party.	Age.	Place of Birth.	Name of the Order, Community, or Society whereof he is a Member.	Name and usual Residence of the next immediate Superior of the Order, Community,or Society.	Usual Place of Residence of the Party.
+
 					-	
 
 CAP. VIII.
@@ -2906,6 +2907,7 @@ Freeholds.
 'TVAKE notice, That it is my Intention to apply to register a Freehold in the County of	the	particulars	whereof are as follows s
 
 Name and Residence of Applicant.	Description of Freehold, with the Names of Barony and Townland in which it is situate.	^Yearly Value io be registered.
+
 		
 
 SCHEDULE HI.
@@ -2913,6 +2915,7 @@ SCHEDULE HI.
 List of Applications to be entered by the Clerk of the Peace.
 
 No.	Name and Residence of Applicant.	Description of Freehold, with the Names of Barony and Townland in which it is situate.	Yearly Value to be registered.
+
 			• . •
 
 SCHEDULE IV.
@@ -3970,26 +3973,47 @@ TABLE (A.) to which this Act refers.
 DUTIES.
 
 Silk; viz*	£	*.	d.
+
 — Knubs or Husks of Silk and Waste Silk - the cwt.	0	1	0
+
 	Raw Silk - - - the lb.	0	0	1
+
 —— Thrown Silk, not dyed; viz.  Singles - - - the lb.	0	1	6
+
 Tram - - the lb.	0	2	0
+
 Organzine and Crape Silk - the lb.	0	3	6
+
 	Thrown Silk, dyed; viz*  Singles or Tram - - the lb.	0	3	0
+
 Organzine or Crape Silk - - the lb.	0	5	2
+
 	Manufactures of Silk, or of Silk mixed with any other Material, the Produce of Europe; viz.  Silk or Satin, Plain - - the lb.	0	11	0
+
 - - - or, and at the Option of the Officers of the Customs  for every £100 of the Value	25	0	0
+
 Silk or Satin, Figured or Brocaded - the lb.	0	15	0
+
 	or, and at the Option of the Officers of the Customs  for every jglOO of the Value	30	0	0
+
 Gauze, Plain - - - the lb.'	0	17	0
+
 	or, and at the Option of the Officers of the Customs  for every *glOO of the Value Gauze, Striped, Figured, or Brocaded - the lb.	30	0	0
+
 	1	7	6
+
 - or, and at the Option of the Officers of the Customs for every sglOO of the Value	so	0	0
+
 Crape, Plain - - - the lb.	0	16	0
+
 - - - or, and at the Option of the Officers of the Customs  for every cglOO of the Value	so	0	0
+
 Crape, Figured - - the lb.	0	18	0
+
 	or, and at the Option of the Officers of the Customs  for every £100 of the Value	so	0	0
+
 Velvet, Plain ... the lb.	1	2	0
+
 	or, and at the Option of the Officers of the Customs  for every ^100 of the Value  u a	so	0	0
 
 10° GEO. IV.
@@ -3997,19 +4021,33 @@ Velvet, Plain ... the lb.	1	2	0
 A.D. 1829.
 
 	£	s.	d.
+
 Velvet, Figured - - the lb. - - - or, and at the Option of the* Officers of the Customs	]	7	6
+
 for every s£lOO of the Value Ribbons, Embossed, or Figured with Velvet - . the lb. - - - or, and at the Option of the Officers of the Customs	so	0	0
+
 	0	17	0
+
 for every *£100 of the Value * - - and further, if mixed with Gold, Silver, or other Metal, in addition to the above Rates, when the Duty is not	so	0	0
+
 charged according to the Value - - the lb.	0	10	0
+
 Fancy Silk Net or Tricot - - the lb.	1	4	0
+
 Plain Silk Lace or Net, called Tulle, the square yard 	Manufactures of Silk, or of Silk mixed with any other Material, the Produce of and imported from British Possessions within the Limits of the East India Company’s	0	1	4
+
 Charter - - for every £ 100 of the Vaue 	Millinery of Silk, or of which the greater Part of the Materials is of Silk ; viz.	20	0	0
+
 Turbans or Caps - - each	0	15	0
+
 Hats or Bonnets - - - each	1	5	0
+
 Dresses - - each - - - or, and at the Option of the Officers of the Customs	2	10	0
+
 for every «£100 of the Value — Manufactures of Silk, or of Silk and any other Material, not particularly enumerated or otherwise charged with Duty	40	0	0
+
 for every s£l00 of the Value  	Articles of Manufacture of Silk, or of Silk and any other  Material, wholly or in Part made up, not particularly enumerated, or otherwise charged with Duty, for every	SO	0	0
+
 j£l00of the Value	30	0	0
 
 TABLE (B.) to which this Act refers.
@@ -4017,8 +4055,11 @@ TABLE (B.) to which this Act refers.
 DRAWBACKS on the EXPORTATION of SILK GOODS manufactured in the United Kingdom.
 
 For every lb. of Stuffs or Ribbons of Silk, composed of Silk only,	£ £«
+
 and being of the Value of Fourteerf Shillings at least For every lb. of Stuffs or Ribbons of Silk and Cotton mixed, whereof One Half at least shall be Silk, and being of the	0,3 6
+
 Value of Four Shillings and Eight-pence at least -For . every lb. of Stuffs or Ribbons of Silk and Worsted mixed, whereof One Half at least shall be Silk, and being of the Value	0 1 2
+
 of Two Shillings and Four-pence at least	0 0 7
 
 CAP.
@@ -4394,8 +4435,6 @@ XXXVIII.	And he it farther enacted, That no Stamp Duty whatever shall be paid or
 A.D. 1829.
 
 JO0 GEO. IV.
-
-
 
 119
 
@@ -5033,8 +5072,6 @@ of his Out-Pension, if the same shall be demanded within Six Calendar Months fro
 
 £
 
-
-
 To the Collector of C Customs at € His Majesty's | Excise at To the Clerk of the Treasurer of . * His Majesty's Navy, at Exd.
 
 10 Geo. IV.	L
@@ -5228,8 +5265,6 @@ X.	And be it further enacted, That in case any Pensioner to whom such Duplicate 
 XI.	And be it enacted, That all Assignments, Bargains, Sales, Contracts, Agreements, or Securities whatsoever, which shall be given or made by any Commissioned Officer, Warrant Officer, Petty Officer, Seaman, or Marine, entitled to any Greenwich Out-Pension, for the Transfer of any such Pension, or to give or assign any Interest therein, or for, upon, or in respect of any such his Pension, shall be absolutely null and void to all Intents and Purposes whatsoever; except such Assignments as are or shall be authorized to be made under the Provisions of any Act or Acts
 
 relating
-
-
 
 10° GEO. IV.
 
@@ -7502,40 +7537,75 @@ XIII.	4 And Whereas it is expedient to empower the Collectors 4 and Comptrollers
 Duties. New Duties.
 
 	Duty.
+
 	J. d.
+
 Anchovies - - - - the lb.	0 0 2
+
 Angelica - - - the lb.	0 0 3
+
 Boots, Shoes, and Calashes; viz.	
+
 •	- Women’s Boots and Calashes - the Dozen Pairs	1 10 0
+
 - - - if lined or trimmed with Fur or other Trimming,	
+
 the Dozen Pairs	1 16 0
+
 	Women’s Shoes, with Cork or Double Soles, quilted	
+
 Shoes and Clogs, ^ - - the Dozen Pairs	1 6 0
+
 - - - if trimmed or lined with Fur or any other Trim-.	
+
 ming, - - the Dozen Pairs	19 0
+
 	Women’s Shoes of Silk, Satin, Jeans, or other Stuffs,	
+
 Kid, Morocco, or other Leather - the Dozen Pairs	0 18 0
+
 - - - if trimmed or lined with Fur or other Trimming,	
+
 the Dozen Pairs	14 0
+
 	— Children’s Boots, Shoes, and Calashes, not exceeding	
+
 7 Inches in Length, to be charged with Two Thirds	
+
 of the above Duties.	
+
 ■	Men’s Boots - - - the Dozen Pairs	2 14 0
+
 —		Men’sp Shoes - the Dozen Pairs	1 4 0
+
 	Children’s Boots and Shoes, not exceeding 7 Inches in	
+
 Length, to be charged with Two Thirds of the above.	
+
 ‘ Duties.	
+
 Braziletto Wood, imported from a British Possession the Ton	0 3 0
+
 	not so imported - - - the Ton	0 4 6
+
 Canella Alba - - the lb.	0 0 1
+
 Cassia Lignea, imported from any British Possession - the lb.	0 0 6
+
 Cinnamon - . - - - the lb.	0 1 0
+
 	0 0 6
+
 Cortex Eleutheria - - the lb.	0 0 1
+
 Hides; viz.	
+
 ■ ■ ■■■« Muscovy or Russia Hides, tanned, coloured, shaved, or	
+
 otherwise dressed, - - the Hide	0 5 0
+
 - - - Pieces, tanned, coloured, shaved, or otherwise	
+
 dressed - the lb.	0 2 6
 
 A.D.1829.	10°GEO, IV.	C.43.
@@ -7551,51 +7621,97 @@ C.4>3.
 A.D. 1829.
 
 	Duty.
+
 Hides continued; viz.	£ s. d.
+
 	Hides, or Pieces of Hides, tanned, tawed, curried, or	
+
 in any Way dressed, not particularly enumerated or	
+
 described, nor otherwise charged with Duty,	
+
 for every 100/. of the Value	40 0 0
+
 Hoops, Wood; viz.	
+
 	— not exceeding 6 Feet in Length • the 1,000	0 5 0
+
 	exceeding 6 Feet, and not exceeding 9 Feet in Length	
+
 the 1,000	0 7 6
+
 —— exceeding 9 Feet, and not exceeding 12 Feet in Length	
+
 the 1,000	0 10 0
+
 ■ ■— exceeding 12 Feet, and not exceeding 15 Feet in	
+
 Length - the 1,000	0 12 6
+
 ■ ■ exceeding 15 Feet in Length - - the 1,000	0 15 0
+
 Iron, Chromate of, - - the Ton	0 5 0
+
 Oil of Olives, imported in a Ship, belonging to any of the	
+
 Subjects of the King of the Two Sicilies, m Addi-	
+
 tion to the Duties imposed by any other Act or Acts,	
+
 the Tun	1 1 0
+
 Painters Colours, not otherwise enumerated or described,	
+
 for every 100/. of the Value	10 0 0
+
 Raisins, not being Raisins of the Sun, and not being the Pro-	
+
 duce of any British Possession, - the Cwt.	10 0
+
 Sago; viz.	
+
 	Pearl - - the Cwt.	0 15 0
+
 - - - imported from any British Possession • the Cwt.	0 10 0
+
 	0 15 0
+
 	imported from any British Possession the Cwt.	0 10 0
+
 Skins; viz.	
+
 ■ ■■ Kid, in the Hair, undressed - the 100 Skins	0 0 4
+
 	Lamb, in the Wool, undressed - the 100 Skins	0 0 4
+
 Tar, Barbadoes - - the Cwt.	0 2 6
+
 Turpentine, being of greater Value than 12s. the Cwt. and not	
+
 >. being of greater Value than 15s. the Cwt. thereof	
+
 the Cwt.	0 5 4
+
 Wax, Bees; viz.	
+
 • ■ unbleached - - the Cwt.	1 10 0
+
 —	in any Degree bleached - - the Cwt.	3 0 0
+
 	imported from any British Possession in Asia, Africa,	
+
 or America; viz.	
+
 	unbleached - the Cwt.	0 10 0
+
 	in any Degree bleached - - the Cwt.	1 0 0
+
 Wine, the Produce of His Majesty’s Settlement of the Cape of	
+
 Good Hope, or the Territories or Dependencies	
+
 thereof, until the 1st January 1833 - the Gallon	0 2 5
+
 and after the 1st January 1833 - the Gallon	0 3 0
 
 XV. And
@@ -10180,8 +10296,6 @@ An Act for directing Reports to be made respecting Gaols in Scotland.	[	19th Jun
 
 4 pedient
 
-
-
 Ho?*dayn,
 
 Court of Peculiars may be held in Doctors Commons.
@@ -10937,11 +11051,17 @@ Report of Poinding and Sale.
 Report of the Poinding and Sale at the Instance of C. Z>. [design him] against E. F, [design him].
 
 Lots.	Effects.		Appraised at			Sold at. 1  \		
+
 	-		£	s*	d.	£	Sm	i  d. 1
+
 1.	An Eight-day Clock	-	4	0	0	4	10	O i
+
 2.	Six Chairs, at 6/	-	1	16	0	1	18	O ;
+
 3.	One Table	-	0	8	0	0	8	o
+
 4.	One Chest of Drawers	-	1	12	0	1	12	o
+
 			7	16	0	8	8	o
 
 UPON the Day of Eighteen hundred and between the Hours of	and	by	virtue of* a Decree of the Sheriff of	^	given	under the Hand of the
@@ -10991,6 +11111,7 @@ C.55, 56.	885
 SCHEDULE (E)
 
 No.  1	Dates of Complaints.	Pursuers.	Defenders.	Sums.	How due.	How  cited.	By what Officer.	Interlocutors and Decrees.
+
 								
 
 N. B. — After the Name of each Pursuer and Defender let the Letter P. or A. be added, in order to mark whether the Party was present or absent when the Cause was called; let Expences be also entered under the Head of “ Interlocutors.’*
@@ -11253,8 +11374,6 @@ A.D. 182d.
 
 C .56.
 
-
-
 XXVI.	And be it further enacted, That it shall not be lawful Proceedings for any such Society, by any Rule at any General Meeting, or necessary for the otherwise, to dissolve or determine such Society, so long as the Dissolution of Intents or Purposes declared by such Society, or any of them, “y Society* remain to be carried into Effect, without obtaining the Votes of
 
 Consent of Five Sixths in Value of the then existing Members of such Society, to be ascertained in Manner hereinafter mentioned, and also the Consent of all Persons then receiving or then entitled to receive Relief from such Society, either on Account of Sickness, Age, or Infirmity, to be testified under their Hands individually and respectively; and for the Purpose of ascertaining the Votes of such Five Sixths in Value, every Member shall be entitled to One Vote, and an additional Vote for every Five Years that he may have been a Member: Provided also, that no One Member shall have more than Five Votes in the Whole; and in all Cases of Dissolution, the intended Appropriation or Division of the Funds or other Property of such Society shall be fairly and distinctly stated in the proposed Plan of Dissolution, prior to such Consent being given; nor shall it be lawful for such Society by Stock not divi-any Rule to direct the Division or Distribution of such Stock or sible but for Fund, or any Part thereof, to or amongst the several Members of general Pur-such Society other than for carrying into Effect the general In- P°£so*,th® tents and Purposes of such Society, declared by them, and con- lety* firmed by the Justices of the Peace as aforesaid, according to the Directions of this Act; but that all such Rules for the Dissolution or Determination of any such Society, without such Consent as aforesaid, or for the Distribution or Division of the Stock or Fund of such Society, contrary to the Rules which shall have been confirmed by the said Justices at their Sessions, and filed in pursuance of this Act, shall be void and of none Effect; and in the Penalties for il-Event of such Division or Misappropriation of the Funds of such legal' Dissolu-Society, without the Consent hereby declared to be requisite, the ^on or Division Trustee or other Officer or Person aiding or abetting therein shall of Funds# be liable to the like Penalties as are hereinbefore provided for in Cases of Fraud.
@@ -11402,8 +11521,11 @@ of the Sickness and Mortality experienced therein for the Period of Five Years, 
 ending December Slst, 18 .
 
 o5 W •  <	Trade or Profession.	Date of Birth.	Date of Admission into the Society.	Date of becoming a Free Member.	For what Time entitled to Relief on account of Sickness,										For what Time entitled to Relief on account of Superannuation,										>»  0  1	Place of Residence at Time of Death.	REMARKS.
+
 					In 18		In 18		In 18		In 18		In 18		In 18		In 18		In 18		In 18		In 18				
+
 					Weeks.	Days.	Weeks.	Q	Weeks.	Days.	Weeks.	Days.	Weeks.	in	Weeks.	Days.	i  *	Days.	p*  1	•sx«a	Weeks.	Days-	Weeks.	!			
+
 [N. B.— This Column may be filled up with Initials.]											• .		-		* ‘								-				
 
 10 Geo. IV.	A	a	Form
@@ -11712,8 +11834,6 @@ No Rate for Houses on such Roads.
 
 Repealing Pro-vision in Act 7G.4. direct, ing a certain Payment to the Parish of Paddington.
 
-
-
 10* GEO, IV.
 
 set
@@ -11739,8 +11859,6 @@ ninth
 16° GEO. IV.
 
 &.59.
-
-
 
 ninth Parts of the dear yearly Rents and Profits which shall arise from the Lands and Hereditaments conveyed by the said Indenture of the Sixth Day of July in the Twenty-first Year of Queen Elizabeth, and be received by the said Commissioners after the said First Day of January next, to be by the said Vestry applied in or towards the repairing, improving, watching, watering, and lighting of so much of the Road from Saint Giles's Pound to Edge* ware as, under the Provisions herein-before contained, will be repaired and maintained by the said Parish of Paddington ; and shall also pay to the said Vestrymen of the Parish of Saint Marylebone,, or as they shall direct, Seven equal Thirty-ninth Parts of the Said last-mentioned clear yearly Rents and Profits, to be by the said last-mentioned Vestrymen applied in or towards the repairing, improving, watching, watering, and lighting of so much of the said Road from Saint Giles's Pound to Edgeware as, under the Provisions herein-before contained, will be maintained and repaired by the said last-mentioned Parish; and the said Commissioners shall apply the Residue of the clear yearly Rents and Profits which shall arise from the Lands and Hereditaments conveyed by the said Indenture of the Nineteenth Day of December in the Twenty-fifth Year of the Reign of Queen Elizabeth, towards the repairing and improving of the Roads comprised in the Sixth District hereinafter described; and shall apply the Residue of the clear yearly Rents and Profits which shall arise from the Lands and Hereditaments conveyed by the said Indenture of the Sixth Day of July in the Twenty-first Year of the Reign of Queen Elizabeth* in the first Place, towards the repairing and improving of the Roads comprised in the Seventh and Eighth Districts hereinafter described, and, subject thereto, in or towards the repairing and improving of the Roads comprised in the said Sixth District.
 
@@ -12222,8 +12340,6 @@ James Frith Mr. Bass Jane Morgan -Unoccupied
 
 William Hoy
 
-
-
 Edward
 
 dener
@@ -12431,26 +12547,47 @@ A.D. 1829.
 § XI.
 
 £46,610 12		4
+
 1,278,4*03	13	9
+
 143,411	0	0
+
 189,037	0	0
+
 56,044	0 10	
+
 33,000	0	0
+
 700,000	0	0
+
 402,929 12		5*
+
 247,304	15	7
+
 81,229	19	11
+
 1,483	4	9
+
 1,728,908	O	0
+
 70,244	0	0
+
 8,600	0	0
+
 42,817	0	a
+
 3,813	0	0
+
 74,959	0	0
+
 257,342	0	0
+
 29,413	0	0
+
 1,223	0	0
+
 8,392	0	0
+
 3,507	0	0
 
 Foreign Officers, and Allowances to Widows and Children of deceased Foreign Officers.
@@ -12514,25 +12651,45 @@ A.D. 1829.
 102,721 0 0
 
 	93,612	0	0
+
 	2,600	0	0
+
 	6,115	0	0
+
 i XII.	28,046,800	0	0
+
 XIII.	392,000	0	0
+
 XIV.	3,040	0	0
+
 	10,445	0	0
+
 	3,600	0	0
+
 	4,000	0	0
+
 	2,820	0	0
+
 	17,728	0	0
+
 	10,478	5	10
+
 	4,000	0	0
+
 XV.	4,000,000	0	0
+
 	10,029	17	1
+
 	24,155	13	8
+
 	19,899	0	0
+
 	32,500	0	0
+
 	7,000	0	0
+
 	8,000	0	0
+
 	20,000	0	0
 
 C.60.
@@ -12809,8 +12966,6 @@ For the Belfast Academical Institution.
 
 For the Society for discountenancing Vice.
 
-
-
 M2
 
 C.60.
@@ -12836,19 +12991,33 @@ XXIII.
 XXIV.
 
 £25,000	0	0
+
 8,928	0	0
+
 700	0	0
+
 17,385	0	0
+
 15,000	0	0
+
 5,000	0	0
+
 3,500	0	0
+
 50,000	0	0
+
 14,360	6	0
+
 740	6	2
+
 5,547	0	0
+
 24,300	0	0
+
 7,328	6	2
+
 3,049	0	0
+
 22,800	0	0
 
 For the Society for educating the Poor.
@@ -14119,8 +14288,6 @@ An Act for making a Turnpike Road to communicate with the Lower Kings Ferry over
 
 {Powers, 8fc. of 5 G.4. c.69. extended to this Act, $ 1. No Toll to be paid on repassing on same Day, § 15. Two full Tolls only to be paid for passing and repassing once through all the Gates on the Roads on same Day, $ 16. No Exemption allowed in respect of Carriages having the Nails of the Tire projecting more than One Quarter of an Inch, § 17.]
 
-
-
 416
 
 C. lxxxvii—Ixxxix.	10° GEO. TV,
@@ -15190,8 +15357,4 @@ Woods and Forests, consolidating and amending Laws relating to the Management an
 Writers in the Service of the East India Company, continuing Act of 7 Geo. IV. respecting the Appointment of -	16
 
 Yeomanry Corps, amending Laws relating to	*30
-
-
-
-
 
