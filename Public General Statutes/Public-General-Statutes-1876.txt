@@ -16,9 +16,7 @@ WITH
 
 A COPIOUS INDEX, TABLES,
 
-&c.
-
-C .
+&C.
 
 LONDON:
 
@@ -41,7 +39,7 @@ TABLE
 OF
 
 The Titles of the Public General Acts passed in the Third Session of the Twenty-first Parliament of the United Kingdom of Great Britain and Ireland.
-
+---
 1. AN Act to raise the sum of Four million and eighty thousand pounds by Exchequer Bonds. 1
 
 2. An Act to apply the sum of Four million and eighty thousand pounds out of the Consolidated Fund to the service of the year ending on the thirty-first day of March one thousand eight hundred and seventy-six. 2
@@ -23227,6 +23225,6 @@ Provision for neighbouring counties to Central Criminal Court district; 5.
 Definitions; 6.
 
 Workhouses. See Poor Law.
-
+---
 LONDON: Printed by George Edward Eyre and William Spotiswoode, Printers to the Queen's most Excellent Majesty. 1876.
 
