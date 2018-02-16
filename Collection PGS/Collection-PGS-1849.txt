@@ -6,8 +6,6 @@ OF THE
 
 PUBLIC GENERAL STATUTES
 
-/
-
 PASSED IN
 
 THE TWELFTH AND THIRTEENTH YEAR
@@ -18,8 +16,8 @@ QUEEN VICTORIA,
 
 1849.
 
-.LONDON:
-
+LONDON:
+---
 Printed by Georoe Edward Eyre and William Spottiswoode,
 
 PRINTERS TO THE QUEEN'S MOST EXCELLENT MAJESTY:
@@ -30,7 +28,7 @@ By W. Benning & Co., Law Booksellers and Publishers,
 
 43, Fleet Street
 
-A •
+A
 
 TABLE
 
@@ -4227,8 +4225,6 @@ Amount applied for Emigration under thia Act.
 Total Amount of Rate in Aid remaining unissued.
 
 CAP.
-
-^.
 
 .1849.
 
@@ -27701,8 +27697,4 @@ Cap. in
 76. U.K. 86. I.
 
 LONDON: Printed by Georgs Edward Eyre and William Spottiswoodb, Printers to the Queen's most Excellent Majesty. 1849.
-
-3
-
-►
 
