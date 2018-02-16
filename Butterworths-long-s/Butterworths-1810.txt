@@ -20,9 +20,9 @@ And sold by J. Butterworth, Law Bookseller, in Fleet-Street.
 
 1810.
 
-[Price 161. in Boards.]
+---
 
-v^.
+[Price 161. in Boards.]
 
 A
 
@@ -130,11 +130,11 @@ fury to purchase certain Quays within the Port of London. Ibid.
 
 Bills. 36
 
-24. An Ad to amend an Ad, passed in the lad Session of Parlia-
+24. An Act to amend an Ad, passed in the lad Session of Parlia-
 
 ment, for completing the Militia of Great Britain ; and to make farther Provision for completing the said Militia. 41
 
-25. An Ad to amend several Acts, relating to the Local Militia
+25. An Act to amend several Acts, relating to the Local Militia
 
 of Great Britain. 43
 
@@ -142,7 +142,7 @@ of Great Britain. 43
 
 out of WarehouTe and exported to Foreign Parts. 49
 
-27. An Ad to continue, until the Twenty fifth Day of March
+27. An Act to continue, until the Twenty fifth Day of March
 
 One thousand eight hundred and thirty one, certain Acts made in the Parliament of Ireland, for the better Regulation of the Silk Manufadure. 50
 
@@ -152,11 +152,11 @@ One thousand eight hundred and thirty one, certain Acts made in the Parliament o
 
 amending the lrijh Road Acts. *53
 
-jo. An Ad to regulate the Fees payable to Coroners in Ireland, upon holding luquifitions. 54
+jo. An Act to regulate the Fees payable to Coroners in Ireland, upon holding luquifitions. 54
 
 ji. An Act for augmenting the Salaries of the Lords of Session, Lords Commissioners of Judiciary, and Barons of Exchequer in Scotland, and Judges in Ireland. Ibid.
 
-32. An Ad to rgneal certain Parts of several Acts of the Parlia-
+32. An Act to rgneal certain Parts of several Acts of the Parlia-
 
 ment in Irela/£^so far as relates to the limiting the Number of Ptrfons to be carried by Stage Coaches or other Carriages; for enading other Limitations in lieu thereof; and for other Purposes relating thereto. 57
 
@@ -342,21 +342,21 @@ tj. Aa Ad to repeal several Acts respecting the Woollen Mann-ia&urc, and for ind
 
 84. An Act for augmenting Parochial Stipends, in certain Cases, m Scotland* 21 o
 
-8j. An Ad to regulate the taking of Securities in all Offices, in re-
+8j. An Act to regulate the taking of Securities in all Offices, in re-
 
 . sped of which Security ought to be given : and for ayoiding the Grant of all such Offices, in the Event of such Security not being
 
 . given within a Time to be limited after the Grant of such Office. 217
 
-86. An Ad to amend Two Acts passed in the Thirty ninth and
+86. An Act to amend Two Acts passed in the Thirty ninth and
 
 Forty third Years of His present Majesty, for regulating the* Manner in which the East India Company dull hire and take up Ships. 221
 
-87. An Ad to amend Two Acts, relating to the railing Men for the
+87. An Act to amend Two Acts, relating to the railing Men for the
 
 Service of the East India Company ; and the Quartering and Bil-letting such Men; and to Trials by Regimental Courts Martial. 222
 
-88. An Ad to make Provisions for a limited Time respecting certain
+88. An Act to make Provisions for a limited Time respecting certain
 
 Grants of Offices. 225
 
@@ -368,7 +368,7 @@ One thousand eight hundred and eleven, the Charge of the Pay and Clothing of the
 
 Militia and Local Militia in Great Britain for the Year One thou* land eight hundred and ten. 234
 
-91. An Ad to revive and continue, until the Twenty fifth Day of
+91. An Act to revive and continue, until the Twenty fifth Day of
 
 March One thousand eight hundred and eleven, and amend so much of an Ad made in the Thirty ninth and Fortieth Year of His present Majesty, as grants certain Allowances to Adjutants and Serjeant Majors of the Militia of England disembodied finder an Ad of the lame Session of Parliament. 240
 
@@ -380,15 +380,15 @@ head, in the Ille of Anglefea. 249
 
 94 An Act for granting to His Majesty a Sum of Money to be raised by Lotteries. 2 '4
 
-95. An Ad to enable the Corporation for preserving and improving the Port of Dublin, to ered, repair and maintain Light Houses round the Coails of Ireland, and to raise a Fund for defraying the
+95. An Act to enable the Corporation for preserving and improving the Port of Dublin, to ered, repair and maintain Light Houses round the Coails of Ireland, and to raise a Fund for defraying the
 
 Charge thereof. Ibid*
 
-96. An Ad to amend an Ad palTed in this Session of Parliament, •
+96. An Act to amend an Ad palTed in this Session of Parliament, •
 
 intituled, An A3 for increajing. the Rates of Subfjlence to be paid to Innkeepers and 0there on quartering Soldiers. 259
 
-97. An Ad to continue until the Fifth Day of July One thou-
+97. An Act to continue until the Fifth Day of July One thou-
 
 fand eight hundred and eleven, and to amend several Acts for granting certain Rates and Duties, and for allowing certain Drawbacks and Bounties on Goods, Wares and Merchandize imported into and exported from Ireland; and to grant to His Majesty Until the said Fifth Day of July One thousand eight hundred and eleven, certain new and additional Duties on the Importation, and to allow Drawback on the Exportation of certain Goods, Wares and Merchandize into and from Ireland. 260
 
@@ -508,7 +508,7 @@ piefent Majesty, To far as the same relate to the Road from Buck land D inham to
 
 xii. An Act for continuing the Term and amending Two Acts
 
-pafled in the Twenty ninth and Thirty fifth Years of His present Majesty, for amending the several Roads therein described, so far as the said Acts relate to the piftrift of Road from Bury to Haflingden, and from thence to Blackburn and WhaUey, all in the County Palatine of Lancasier; anA also for making a Branch of Road from Portfield to the West End of the Town of Padiham$ in the same County. Ibid.
+passed in the Twenty ninth and Thirty fifth Years of His present Majesty, for amending the several Roads therein described, so far as the said Acts relate to the piftrift of Road from Bury to Haflingden, and from thence to Blackburn and WhaUey, all in the County Palatine of Lancasier; anA also for making a Branch of Road from Portfield to the West End of the Town of Padiham$ in the same County. Ibid.
 
 *iii. An Act for continuing the Term, and altering and enlarging the Powers of Two Acts, passed in the Tenth and Twentieth Years of His present Majesty, for repairing and widening several Roads leading from the Town of Louth, in the County of Lin-coin. Ibid.
 
@@ -580,17 +580,17 @@ The TITLES of the STATUTES,
 
 and other Parities and Places therein mentioned, in the County of Nottingham. Page 423
 
-xxxii. An Ad to alter and explain an Ad made in the Forty seventh
+xxxii. An Act to alter and explain an Ad made in the Forty seventh
 
 Year of His present Majesty, to enable the Provident Institution to sue in the Name of their Managing Director, and to enrol Annuities. Ibid.
 
-xxxiii. An Ad to amend an Ad inade in the Twenty sixth Year
+xxxiii. An Act to amend an Ad inade in the Twenty sixth Year
 
 of His present Majesty's Reign, for incorporating and regulating the Clyde Marine Society. Jlfia.
 
 yxxiv. An Act for continuing and amending Three Acts, passed in the Fourteenth Year of His late Majesty, and Second and Twenty ninth Years of His present Majesty, 10 far as they relate to repairing the Road from Doncajler in the County of Yorks to Salter's Brook in the County of Chefier. 424.
 
-xxxv. An Ad to continue the Term, and amend and enlarge the Powers of Two Acts, of His prtr ' n r i
+xxxv. An Act to continue the Term, and amend and enlarge the Powers of Two Acts, of His prtr ' n r i
 
 Bangor, IVortbcnbury and Hanmert
 
@@ -604,7 +604,7 @@ xxxvii. An Act for inclosing Lands in the Parish of Eafi Mark*
 
 ham, in the County of Nottingham. Ibid
 
-xxxviii. An Ad to repeal an Ad made in the Thirteenth Year
+xxxviii. An Act to repeal an Ad made in the Thirteenth Year
 
 of His present Majesty, for paving, lighting and cleaning the Town of Brighthelmjlone, in the County of Sussex, and removing and preventing Nuisances and Annoyances therein; for regulating the Market; for building and repairing Groyns to render the Coast safe and commodious; for landing Coal and Culm, and laying a Duty thereon, and for making other Proviftons in lieu thereof; and for regulating Weights and Measures, and building a Town Hall. Ibid,
 
@@ -632,13 +632,13 @@ xlri, An Act for improving the Upper End of the Barrier Bunk, on the North Side 
 
 tlm An Act for altering, amending and enlarging the Powers of an Ad, passed in the Forty fifth Year of His present Majesty, for building a Bridge over that Part of the River Rumney which divides the Parish of Rumney in the County of Monmouth, and the Parish of Roath in the County of Glamorgan. Ibid.
 
-slix. An Ad to continue and amend Three Acts passed in the Twenty fecortd Year of His late Majesty, and the Fourteenth and Thirty lixth Year of His present Majesty, for repairing the Hoad from North Shields, in the County of Northumberland, to the Town |of Newcastle upon Tyne, and to make and repair certain additional Branches of Road communicating therewith, 426 L An Ad to amend an Ad passed in the Thirty second Year of His present Majesty, for building a Bridge over the River South EJk9 at or near Montrose. Ibid.
+slix. An Act to continue and amend Three Acts passed in the Twenty fecortd Year of His late Majesty, and the Fourteenth and Thirty lixth Year of His present Majesty, for repairing the Hoad from North Shields, in the County of Northumberland, to the Town |of Newcastle upon Tyne, and to make and repair certain additional Branches of Road communicating therewith, 426 L An Act to amend an Ad passed in the Thirty second Year of His present Majesty, for building a Bridge over the River South EJk9 at or near Montrose. Ibid.
 
 li. An Act for enlarging the Powers granted bv His Majesty to the Royal Institution of Great Britain, and for extending and more eftedually promoting the Objects thereof. Ibid.
 
-Hi. An Ad to continue the Term and alter and enlarge the Powers of federal Acts of His present Majesty, for repairing certain Roads in the Counties of Carnarvon and Denbigh, and for more effectually repairing, improving and keeping in Repair certain other Roads in the County of Carnarvon. 431
+Hi. An Act to continue the Term and alter and enlarge the Powers of federal Acts of His present Majesty, for repairing certain Roads in the Counties of Carnarvon and Denbigh, and for more effectually repairing, improving and keeping in Repair certain other Roads in the County of Carnarvon. 431
 
-iiii. An Ad to continue the Terms and enlarge the Powers of Two Acts of the Seventh and Twenty ninth Years of His present Majesty, for repairing the Road leading from the High Road between Bromley and Famborough, in the County of Kent, to Beggars9 Bujb, in the Turnpike Road leading from Tonbridge Wells to Maresjield\ in the County of Sussex. 432
+iiii. An Act to continue the Terms and enlarge the Powers of Two Acts of the Seventh and Twenty ninth Years of His present Majesty, for repairing the Road leading from the High Road between Bromley and Famborough, in the County of Kent, to Beggars9 Bujb, in the Turnpike Road leading from Tonbridge Wells to Maresjield\ in the County of Sussex. 432
 
 liv. An Act for continuing and amending Two Acts passed in the Third and Twenty fourth Years of His present Majesty, for repairing the Roads from Letnsford Mill, through Welwyn and Stevenage to Hit chin, and from Welwyn through Codicot to Hitchin aforesaid, all in the County of Hertford. Ibid.
 
@@ -658,7 +658,7 @@ lviii. An Act for more effectually repairing and keeping in Repair several Roads
 
 lix. An Act for making and keeping in Repair a Carriage Road from the Turnpike Road leading from Rotherham in the County of York9 to Mantjield m the County of Nottingham, at or near Clown in the County of Derby, to the Turnpike Road leading from Worksop to Kelham9 at or near Budby in the County of Nottingham. Ibid'.
 
-lx. An Ad to amend so much of an Ad made in the Parliament of Ireland, in the Twenty sixth Year of His present Majesty, for making and repairing Publick Roads in the County of Dublin, as relates to the Roads within the Barony of Rathdown. 433 lxi. An Act for amending an Ad of the Forty second Year of His present Majesty for repairing the Road from Buchton Burn through Berwick upon Tweed to Lammerton Hill» and several other Roads therein mentioned, in the County of Durham and Liberties of Berwick upon Tweed. Ibid.
+lx. An Act to amend so much of an Ad made in the Parliament of Ireland, in the Twenty sixth Year of His present Majesty, for making and repairing Publick Roads in the County of Dublin, as relates to the Roads within the Barony of Rathdown. 433 lxi. An Act for amending an Ad of the Forty second Year of His present Majesty for repairing the Road from Buchton Burn through Berwick upon Tweed to Lammerton Hill» and several other Roads therein mentioned, in the County of Durham and Liberties of Berwick upon Tweed. Ibid.
 
 Ixii. An Act to amend several Acts for repairing Roads leading to and through the Town of Frome in the County of Somersetf and for paving the Footways and lighting the Streets within the said Town, and for removing Part of the present Market Place in the said Town. Ibid,
 
@@ -720,19 +720,19 @@ IxXxvi. An Act for altering and amending 9D Ad, passed in the lift Session of Pa
 
 btxxvii. An Act for maintaining * Bridge across the River Beasdey* to be cad led The Lovat Bridge, fa the County of Invomeft. Ibid. hxxriii. An Act for making and tnaietatiung a Road partly by an Archway through the East Side of Highgate Bill, communicating with the present Turnpike Road from London to Barnet, at Upper Holloway, in the Panlh of Bmint Maty Ifiington, and near the Brook below the Fifth Mile Stone, in the Panfti of Horufey, in the Couaty of . Middlesex. Ibid.
 
-lxxxtx. An Ad to enable the Birmingham Life A durance and Annuity Office to sue in the Name of their Secretary, and to inrol Annuities. Ibid.
+lxxxtx. An Act to enable the Birmingham Life A durance and Annuity Office to sue in the Name of their Secretary, and to inrol Annuities. Ibid.
 
 xc. An Act to enable the Birmingham Fire Office Company to sue in the Name of their Secretary. Ibid.
 
-Xci. An Ad to regulate the loading of Ships with Coals in the Port of NewcoJUe upon Tyne* Ibid•
+Xci. An Act to regulate the loading of Ships with Coals in the Port of NewcoJUe upon Tyne* Ibid•
 
 xcii. An Act for continuing the Term, and altering and enlarging the Powers of several Acts for repairing the Roads therein mentioned, so far as the same relate to the Road from the Red House, near Doncqfler, to the South End of Wakefield Bridge, and from Wakefield to PontcfraB, and from thence to Wetland, and from PontefraB to Went bridge, all in the West Riding of the Couaty of Tori. Ibid.
 
-tdii. An Ad to continue the Term, and alter and enlaige the Powers of Two Acts, passed in the Fifth and Sixteenth Years of His present Majesty, for repairing the Road from the Great Bridge in the Borough of Warwick to the Town of Northampton. 439
+tdii. An Act to continue the Term, and alter and enlaige the Powers of Two Acts, passed in the Fifth and Sixteenth Years of His present Majesty, for repairing the Road from the Great Bridge in the Borough of Warwick to the Town of Northampton. 439
 
 xciv. An Act for more effectually amending, widening and repair* ing the Road leading from Ayhjbwry, in the County of Bucking-ham, to Hocklisse, in the County of Bedford. Ibid.
 
-xcv. An Ad to continue the Term and alter and enlarge the Powers of several Acts for repairing the Roads from Birmingham to War-mington, and from Birmingham to Edgehill, in the County of Warwick, so far as the same relate to the Road from Birmingham to Warmington, and so on to the utmost Limits of the said County on Edgehill. Ifad.
+xcv. An Act to continue the Term and alter and enlarge the Powers of several Acts for repairing the Roads from Birmingham to War-mington, and from Birmingham to Edgehill, in the County of Warwick, so far as the same relate to the Road from Birmingham to Warmington, and so on to the utmost Limits of the said County on Edgehill. Ifad.
 
 xevi. An Act for continuing the Term and enlarging the PowBY of Two Acts of the Eighth and Twenty eighth Years of His present Majesty, so far as the same relate to the Road from the
 
@@ -818,7 +818,7 @@ cxxix. An Act for amending and rendering mote effe&wl an Act of Ifi$ ,prefcnt Ma
 
 cm. An Act to amend and ^render more cfthftual an Act of His present Majesty, for erecting a new Church, to .be called Chrll Church, in the Town of Birmingham in the County of Warwick; and for providing a Maintenance and Residence for the Mi rafter or perpetual Curate thereof. 444
 
-cxxxi. An Act for the more equally affdBng and o&Befting the Poor Rates within the Hamlet of Mile End Old Towny in the Patifh of Saint D unfan St ebon Heath jotherwife Stepney, in the County of Middlcfexy to alter, enlarge or repair a Woi^kboufe or Work-housesofthefaid Hamlet, and managing.tbeCoocems thereof. Ibid. Ctxxii. An Act to enable the Company of Proprietors of the West Middlesex Waterworks to raifc .a further Sum of Money; and to alter, vary, amend and enlarge the Powers of the Aft passed in the Forty sixth Year of His present Majesty, for making the •faid Waterworks; and for extending the same. Ibid.
+cxxxi. An Act for the more equally affdBng and o&Befting the Poor Rates within the Hamlet of Mile End Old Towny in the Patifh of Saint D unfan St ebon Heath jotherwise Stepney, in the County of Middlcfexy to alter, enlarge or repair a Woi^kboufe or Work-housesofthefaid Hamlet, and managing.tbeCoocems thereof. Ibid. Ctxxii. An Act to enable the Company of Proprietors of the West Middlesex Waterworks to raifc .a further Sum of Money; and to alter, vary, amend and enlarge the Powers of the Aft passed in the Forty sixth Year of His present Majesty, for making the •faid Waterworks; and for extending the same. Ibid.
 
 cxxxiii. An Act for enlarging the Tnan and Powers of an Act of His present Majesty, for repairing the Road from Buckingham, through Mcackley, to join the Daventry Turnpike Road near Banbury. Ibid.
 
@@ -836,7 +836,7 @@ cxxxri. An Act for making and maintaining a Road from a Place called TJlrad, in 
 
 cxxxvii. An Act for making and maintaining a Road from Bran-dlefome Moss Gate, in the Township of Elton, to the Duke of Tork*% Publick House, in the Towninip of Blackburn, and Three , federal Branches of Road therefrom, all in the County Palatine of Lasuafer. Ibid1
 
-cxxxviii. An Ad to alter and amend an Ad passed in the Forty fifth Year of the Reign of His present Majesty, intituled. An AS to vejl the settled Estates of Johu Hamilton Fitzmaurice, commonly called Lord Kirkwall, in the Counties of Denbigh and Flint,, tn Trujleer in Trujl to be sold for the Payment of Debts aJfcQing the same, and bis other settled Estates ; and after Payment thereof , for the Invejlmeht of the Rest due of the Monies to arise by such Sale, m the Purchase of other Estates, to be conveyed to the Uses of the feud settled EJlates ; and for other Purposes therein mentioned. Ibid cxxxix. An Act for inclosing Lands in the Parish of Dymercbiony in the County of Flint. Ibid
+cxxxviii. An Act to alter and amend an Ad passed in the Forty fifth Year of the Reign of His present Majesty, intituled. An AS to vejl the settled Estates of Johu Hamilton Fitzmaurice, commonly called Lord Kirkwall, in the Counties of Denbigh and Flint,, tn Trujleer in Trujl to be sold for the Payment of Debts aJfcQing the same, and bis other settled Estates ; and after Payment thereof , for the Invejlmeht of the Rest due of the Monies to arise by such Sale, m the Purchase of other Estates, to be conveyed to the Uses of the feud settled EJlates ; and for other Purposes therein mentioned. Ibid cxxxix. An Act for inclosing Lands in the Parish of Dymercbiony in the County of Flint. Ibid
 
 cxl. An Act for inclosing Lands within the Manor and Parish of Cub bam, in the County of Oxford. Ibid
 
@@ -854,7 +854,7 @@ cxlrii. An
 
 {Local (if Pnfonaly) 50* GEO. III.
 
-cxlfii. An Act for forming, paving, and otherwise improving certain Stmts* and other Pubbck Passages and Places, in the Parish of SauU Pamcrai in the County of Middlesex, which are or shall be , made upon Ground belonging to Joseph Lucas Esquire. Pare 446 Calvin. An Ad to alter, amend and enlarge the Powers of Two , Acts, passed for making and maintaining a navigable Canal from the River Thames or Ifs, at or near the Town of Abingdon in the County of Berks, to join or communicate with the Kennet and Avon Carnal, at or near the Town of Trowbridge in the County of Wilts, and alfb certain navigable Cuts therein described. Ibid. cxHx. An Act for making mor effectual Provision for lighting, watching, paving, deansing, regulating and improving the Streets / and other Public* Places in the Parish of Saint Luke, in the County ' of Middlesex. Ibid.
+cxlfii. An Act for forming, paving, and otherwise improving certain Stmts* and other Pubbck Passages and Places, in the Parish of SauU Pamcrai in the County of Middlesex, which are or shall be , made upon Ground belonging to Joseph Lucas Esquire. Pare 446 Calvin. An Act to alter, amend and enlarge the Powers of Two , Acts, passed for making and maintaining a navigable Canal from the River Thames or Ifs, at or near the Town of Abingdon in the County of Berks, to join or communicate with the Kennet and Avon Carnal, at or near the Town of Trowbridge in the County of Wilts, and alfb certain navigable Cuts therein described. Ibid. cxHx. An Act for making mor effectual Provision for lighting, watching, paving, deansing, regulating and improving the Streets / and other Public* Places in the Parish of Saint Luke, in the County ' of Middlesex. Ibid.
 
 cL An Act for supplying with Water Upper and Lower Hollo way, Highbury, Connor bury. Upper IJlington, and their respective Vicinities, all in the Parish of Saint Mary, IJlington, in the County of Middlesex, and for other Purposes relating thereto. Ibid.
 
@@ -866,7 +866,7 @@ diii. An Act for repealing an Ad passed in the Thirty third Year of His pnefent 
 
 cKv. An Act for more effectually amending, widening and keeping in Repair the Roads leading from the Town of Northampton to Chain Bridge, near the Town of Market Harborough, and from the Direction roft in Kingjlhorbe, in the County of Northampton, to Welford Bridge in the same fcounty. Ibid.
 
-civ. An Ad to enable Sir Henry St. John Carew St. John Mil dm ay Baronet, to exercise certain rowers of jointuring and charging certain settled Estates in the County of Essex with Portions for
+civ. An Act to enable Sir Henry St. John Carew St. John Mil dm ay Baronet, to exercise certain rowers of jointuring and charging certain settled Estates in the County of Essex with Portions for
 
 younger Children. Ibid.
 
@@ -950,11 +950,11 @@ clxxxvi. An Act for inclosing Lands in the Manor of Caereinion Ifcoed, in the Co
 
 clxxxvii. An Act for more effectually cleansing, lighting and * etching the Borough and Town of Weymouth and Melcomhe Regis in the County of Dor/et, and removing Incroachments and Annoyances therein 5 for licensing and regulating Chairmen and other Persons plying for Hire ; for establishmg Markets 5 and for giving further Powers to the Quay Mailer of the Harbour of the said Town. Ibid.
 
-clxxxviii. An Ad to continue for Two Years an Ad passed in the Forty eighth Year of His present Majesty, for preventing the Right of Presentation to the Redory and Parish of Simonburnt in the County of Northumberland, from lapsing, for a limited Time. Ibid.
+clxxxviii. An Act to continue for Two Years an Ad passed in the Forty eighth Year of His present Majesty, for preventing the Right of Presentation to the Redory and Parish of Simonburnt in the County of Northumberland, from lapsing, for a limited Time. Ibid.
 
-clxxxix. An Ad to amend and enlarge the Powers of an Ad passed in the Forty fifth Year of His present Majesty, for atteffing the Proprietors of Lands iti the County of Rofs% towards the Ex-penee of making and supporting certain Roads and Bridget therein, and of an Ad passed in the Forty seventh Year of Hit present Majesty, for regulating and converting the Statute Labour in the Counties of Ross and Cromarty, and Part of the County of Nairn, locally fituated in the County of Ross. 481
+clxxxix. An Act to amend and enlarge the Powers of an Ad passed in the Forty fifth Year of His present Majesty, for atteffing the Proprietors of Lands iti the County of Rofs% towards the Ex-penee of making and supporting certain Roads and Bridget therein, and of an Ad passed in the Forty seventh Year of Hit present Majesty, for regulating and converting the Statute Labour in the Counties of Ross and Cromarty, and Part of the County of Nairn, locally fituated in the County of Ross. 481
 
-cxc. An Ad to alter, amend and enlarge the Powers of so much of an Ad, passed in the Fourth Year of His present Majesty, as relates to the maintaining, reg(dating and employing the Poor within the Parish of Saint John at Hackney, in the County of . Middlesex. Ibid.
+cxc. An Act to alter, amend and enlarge the Powers of so much of an Ad, passed in the Fourth Year of His present Majesty, as relates to the maintaining, reg(dating and employing the Poor within the Parish of Saint John at Hackney, in the County of . Middlesex. Ibid.
 
 cxci. An Act for extinguishing all Right of Common in, over and upon certain Parcels of Land in Saint George*s Fields, in the County of Surrey 5 and for repealing so much /)f Two Acts passed in the Twenty sixth and Forty seventh Years of His pre-ient Majesty, as prevents the erecting Buildings on certain Parts of the said Parcels of Land, within a limited Distance from the Sides of such of the Roads therein mentioned as abut thereon; and for improving Saint George*s Fields aforesaid. Ibid.
 
@@ -968,7 +968,7 @@ of
 
 further continuing an Ad, passed in the Thirty eighth Year of His Majeftr, for the better Management of the Workhouse and Foundling Hospital in Dublin. Page 481
 
-cxciii. An Ad to incorporate and regulate an Jnftitution, to be called " The Belfafi Academical Institution" for affording to Youth a Classical and Mercantile Education. Ibid\
+cxciii. An Act to incorporate and regulate an Jnftitution, to be called " The Belfafi Academical Institution" for affording to Youth a Classical and Mercantile Education. Ibid\
 
 cxciv. An Att to alter, amend and render more effectual Two Acts of the Twenty ninth Year of His late Majesty, and the Fortieth Year of His present Majesty, for draining and preferring certain Fen Lands, in the IJU of Ely, and County of Norfolk, lying between the Hundred Foot River and the Oufe9 and bounded on the South by the Hard Lands of Mefally Wicham, Wentwortb9 IV'ickfordy Ely, Downham and Lit deport; and for empowering the Governor, Bailiffs and Commonalty of the Company of Con-fenrators of the Great Level of the Fens, commonly called Bed-ford Level, to fell certain Lands lying within the Limits aforesaid, called Invested Lands. Ibid.
 
@@ -1412,7 +1412,7 @@ it to be for the Benefit and Advantage of that Part of the United Kkgdoro eitted
 
 * III. And whereas an A A was passed in the last Session of Parlia- 49 G*3* c* ••
 
-4 ment, intituled. An Ad to fuss end the Importation o/'British or Irifh-* made Spirits into Great Britain or Ireland respectively until tie Firjb 4 Day of Juno One thousand eight hundred and nine, which Aft was 4 further continued by another Aft passed in the last Session of Parlia-4 ment, until the Twenty fifth Day of March One thousand eight 4 hundred and ten : And whereas it is expedient that all the Provilions 4 far preventing the Importation of British or Ir'Jb-made Spirits into 4 Great Britain or Ireland respectively should be further continued :* further eonti-Beit therefore en&sted, That all the Powers and ProvHionsin the first nued (except the recited Aft contained (except as far as respects the Remission of the p#®j|r*on ut 4 Penalty for the Forfeiture ot any Spirits arriving in Great Britain or c :y\) Ireland respectively, within a Time therein limited) shall continue and be in force from tne Expiration of the last recited Aft until Four Months after the Expiration of the Time which shall be fixed under the Authority of this Act for prohibiting the Distillation of Spirits from Grain in Great Britain•
+4 ment, intituled. An Act to fuss end the Importation o/'British or Irifh-* made Spirits into Great Britain or Ireland respectively until tie Firjb 4 Day of Juno One thousand eight hundred and nine, which Aft was 4 further continued by another Aft passed in the last Session of Parlia-4 ment, until the Twenty fifth Day of March One thousand eight 4 hundred and ten : And whereas it is expedient that all the Provilions 4 far preventing the Importation of British or Ir'Jb-made Spirits into 4 Great Britain or Ireland respectively should be further continued :* further eonti-Beit therefore en&sted, That all the Powers and ProvHionsin the first nued (except the recited Aft contained (except as far as respects the Remission of the p#®j|r*on ut 4 Penalty for the Forfeiture ot any Spirits arriving in Great Britain or c :y\) Ireland respectively, within a Time therein limited) shall continue and be in force from tne Expiration of the last recited Aft until Four Months after the Expiration of the Time which shall be fixed under the Authority of this Act for prohibiting the Distillation of Spirits from Grain in Great Britain•
 
 IV. And be it further enacted. That this Act may be varied, al- , AAmty be trued or repealed, by any Aft to be passed in this prtrfent Session of wied, See. Parliament.
 
@@ -1826,7 +1826,7 @@ An Act to continue pn Aft, made in the Forty fourth Year of His present Majesty,
 
 WHEREAS the Laws hereinafter mentioned have by Experience been found useful and beneficial, and it is expedient * that the Came should be further continued and One of them amend-% ed/ Be it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and bv the Authority of the same. That an Act made in the Forty fourth Year of the Reign of His present Majesty, intituled, An AS for permitting, until the Firs Day of Augult One thousand eight hundred and fevcriy the Exportation of Salt from the Port of Nassau in the ljland of New Providence, the Port of Exuma and the Port of Crooked Island in the Bahama Islands, in Ships belonging to the Inhabitants of the United States of America, and coming in Ballaf / which hid Aft was, by an Act of the Forty seventh Year of the Reign of His present Majesty, continued until the Twenty fifth Day of March One thousand eight hundred and ten, shall be, and the same is hereby further continued, until the Twenty fifth Day of March One thousand eight hundred and thirteen.
 
-11. And be it further enacted, That an Act made in the Forty eighth Year of the Reign of His present Majesty, intituled, An Ad to permitt until the Twenty ffth Day of March, One thousand eight hundred and ten, Sugar and Coffee to be exported from His Majcfy's Colonies or Plantations to any Port in Europe to the Southward of 50 Geo. III. C Cape
+11. And be it further enacted, That an Act made in the Forty eighth Year of the Reign of His present Majesty, intituled, An Act to permitt until the Twenty ffth Day of March, One thousand eight hundred and ten, Sugar and Coffee to be exported from His Majcfy's Colonies or Plantations to any Port in Europe to the Southward of 50 Geo. III. C Cape
 
 46G.8.C.117* continued till 25 th March, ISIS.
 
@@ -1914,7 +1914,7 @@ until the First Day of April One thousand eight hundred and eleven; and that thi
 
 CAP. XV.
 
-An Ad to grant to His Majesty Duties upon Spirits made or distilled in Ireland from Corn •, to allow certain Drawbacks on the Exportation thereof; to make further Regulations for the Encourageraeut ofLicenfed Di(tiliers; and for amending the Laws relating to the Diitillery in Irelandf
+An Act to grant to His Majesty Duties upon Spirits made or distilled in Ireland from Corn •, to allow certain Drawbacks on the Exportation thereof; to make further Regulations for the Encourageraeut ofLicenfed Di(tiliers; and for amending the Laws relating to the Diitillery in Irelandf
 
 [6th April 1810.J
 
@@ -2053,8 +2053,6 @@ Still under the said recited Act of the Forty sixth Year aforesaid ; and also tb
 XL And be it further enacted. That in lieu of the several Nura- How Duties calker of Charges of Singlings or Low Wines, set forth in the said re- cul*t*i. cited Ad of the Forty ninth Year of His pTefent Majesty's Reign, and in the Schedule thereto annexed, in respect to Stills under One hundred and fifty Gallons Content, for the Quantity of Spirits pro-doceable wherefrom respectively, any Distiller is chargeable with Duty in respect of any such Still, every such Distiller shall, froA and alter the said Fifth Day of March One thousand eight hundrea and tea, for every Four Weeks or Twenty eight Days which any Still whatever of such Distiller, under One hundred and fifty Gallons Content, and not less than Forty four Gallons Content, shall continue, or shall be presumed to continue, working under the Regulations of the said recited Act of the Forty sixth Year of His present Majcity's Reign, or of tim Ad, or any other Ad for amending the lame, be charged with and shall pay Duty for such Quantity of Spiritsas might be produced (according to the Rates specified in the hud recited Act of the Forty fi<th Year, and this Act, or any other AA for amending the said Ad of the Forty sixth Year) from Two hundred Charges of Low Wines or Singlings for every such Still, Charge on all whatever the Content of any such Still may be, between One hun- Spirits actually died and fifty Gallons and Forty four Galions; and that every ddblied.
 
 Distiller
-
-v^.
 
 2 fir
 
@@ -2532,7 +2530,7 @@ XV. And he it further enacted, That if any Person or Persons dial! a! any time o
 
 CAP. XXIV.
 
-An Ad to amend an Act, parted in the lad Session of Parliament, for completing the Militia of Great Britain; and to make further Provision for completing the said Militia.
+An Act to amend an Act, parted in the lad Session of Parliament, for completing the Militia of Great Britain; and to make further Provision for completing the said Militia.
 
 [i8th^pr/7i8io.]
 
@@ -2590,7 +2588,7 @@ An Act to amend several Acts relating to the Local Militia of Great Britain. ' [
 
 4 TXT HE REAS an Act passed in the Forty eighth Year of the
 
-* W Reign of His present Majesty, intituled, An Act for en-4 ailing His nfajejly to ejtablijh a permanent Local Militia Force, under 1 certain Rejlridions, for the Defence of the Realm : And whereas an ( Aft passed in the lad Session of Parliament, intituled, An Ad to 4 amend and render more effectual an Ad passed in the last Session of Par-
+* W Reign of His present Majesty, intituled, An Act for en-4 ailing His nfajejly to ejtablijh a permanent Local Militia Force, under 1 certain Rejlridions, for the Defence of the Realm : And whereas an ( Aft passed in the lad Session of Parliament, intituled, An Act to 4 amend and render more effectual an Ad passed in the last Session of Par-
 
 * for enabling His Majesty to ejtablijh a permanent Local Mill-
 
@@ -2600,11 +2598,11 @@ An Act to amend several Acts relating to the Local Militia of Great Britain. ' [
 
 * of His present Majesty, intituled, An Act for enabling His Majesty 4 h efiablijb a permanent Local Militia Force in Scotland, under certain { Rejlridions, for the Defence of the Realm : Aud whereas an Act
 
-* passed in the lift Scflion of Parliament, intituled, An Ad to amend 4 and render more eft dual,,an Ad faffed in the last Session of Parliament,
+* passed in the lift Scflion of Parliament, intituled, An Act to amend 4 and render more eft dual,,an Ad faffed in the last Session of Parliament,
 
 * for enabling His Majesty to eflabltjb a permanent Local Militia Force in 4 Scotland, under certain Rejlridions, for the Defence of the Realm : i And whereas another Aft passed in the last Session of Parliament,
 
-4 intituled. An Ad to amend several Acts passed in the last and present 4 Stjftons of Parliament, relating to the Local Militia : And whereas it 4 is expedient that further Proviiions (houldhe made in relation to the 4 Local Militia established by the said recited Acts ;* Be it therefore enacted by the -King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament attembled, and by the Authority of the same, That in every Case in which His Majesty, by His Secretary of State or otherwise, shall have ordered and dirested, or shall hereafter order and direct, that the Serjeants, Corporals and Drummers of the Local Militia allowed to remain on permanent Pay, shall be reduced in any Proportion below the Number allowed by the several Acts relating to the Local Militia of Englandand Scotland refpec-vely, it shall be lawful for the Commanding Officer of any Regiment, Battalion or Corps, with'the Approbation of the Lieutenant or Vice Lieutenant, or Deputy Lieutenant acting for the Lieutenant, in case the Lieutenant shall be absent, and of His Majesty's Secretary of State, to agree with the Serjeants, Corporals or Drummers of his Regiment, Battalion or Corps, dr any of them, or with any other
+4 intituled. An Act to amend several Acts passed in the last and present 4 Stjftons of Parliament, relating to the Local Militia : And whereas it 4 is expedient that further Proviiions (houldhe made in relation to the 4 Local Militia established by the said recited Acts ;* Be it therefore enacted by the -King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament attembled, and by the Authority of the same, That in every Case in which His Majesty, by His Secretary of State or otherwise, shall have ordered and dirested, or shall hereafter order and direct, that the Serjeants, Corporals and Drummers of the Local Militia allowed to remain on permanent Pay, shall be reduced in any Proportion below the Number allowed by the several Acts relating to the Local Militia of Englandand Scotland refpec-vely, it shall be lawful for the Commanding Officer of any Regiment, Battalion or Corps, with'the Approbation of the Lieutenant or Vice Lieutenant, or Deputy Lieutenant acting for the Lieutenant, in case the Lieutenant shall be absent, and of His Majesty's Secretary of State, to agree with the Serjeants, Corporals or Drummers of his Regiment, Battalion or Corps, dr any of them, or with any other
 
 Persons
 
@@ -3518,7 +3516,7 @@ C-3J.
 
 underwritten upon the Fird Policy or Indrument, and shall produce the same to the Commissioners of Stamps within One Calendar Moth after the lad Subscription upon the Fird Policy or Indrument; and if in the latter Case it shall be proved to the $atisfa&ion Gf the said Commissioners that a greater Sura was subscribed or underwritten upon the Fird Policy or Indrument through Inadvertence and by Mistake, then it shall be lawful for the said Commissioners to allow Ss Spoiled, and to cancel the Stamjjf. on the Fird Policy or Instrument, and to give other Stamp! M the same Description .and Value, or otherwise at their Discretion, where it shall appear to them to be expedient. Stamps of any other Description aod of equal Value in lieu thereof.
 
-IX. And be it further enacted, That all the Monies to arise from the Duties granted by this A£l shall be paid into the Hands of the Receiver General of the Duties on damped Vellum, Parchment and Paper, who shall from time to time pay the same into the Bank of England for safe Cudody, pursuant to the Act in that case made and provided, and shall thereafter pay the same together with the Monies arising from the other Duties under the Management pf the Com-missioners of Stamps (except those on Lottery Licences and Shares of Tickets) after deducting the Charges of railing, colliding and accounting for the same, and all other Charges fird payable thereout into the Receipt of His Majesty's Exchequer at Westminster, in one Sum, at such times and in such manner as the present Stamp Duties are by the Laws in force directed to be paid ; and that the Money so paijd into the said Receipt shall be carried to and made Part of the said Consolidated Fund of Great Britain.
+IX. And be it further enacted, That all the Monies to arise from the Duties granted by this A£l shall be paid into the Hands of the Receiver General of the Duties on damped Vellum, Parchment and Paper, who shall from time to time pay the same into the Bank of England for safe Cudody, pursuant to the Act in that case made and provided, and shall thereafter pay the same together with the Monies arising from the other Duties under the Management of the Com-missioners of Stamps (except those on Lottery Licences and Shares of Tickets) after deducting the Charges of railing, colliding and accounting for the same, and all other Charges fird payable thereout into the Receipt of His Majesty's Exchequer at Westminster, in one Sum, at such times and in such manner as the present Stamp Duties are by the Laws in force directed to be paid ; and that the Money so paijd into the said Receipt shall be carried to and made Part of the said Consolidated Fund of Great Britain.
 
 X. And be it further enacted, That the clear Monies arising from the Duties hereby granted shall go and be considered as Part of the yearly Sum of Three millions nine hundred and fifty six thousand seven hundred and ninety Pounds and Ten pence, directed to be set apart in the Exchequer, by the Act patTcd in the Forty eighth Year of His Majesty's Reign hereinbefore referred to, and entitled An Act for repealing the Stamp Duties on Deeds, Law Proceedings, and other written or printed Injlrumentsy and the Duties on Legacies and Succejpons to Personal Ejlate upon Intejlacies now payable in Great Britain, and for granting new Duties -in lieu thereof; and that the yearly Sum of Thirty two thousand Pounds, Part ot the yearly Sum of forty two thousand Pounds, by the said lad mentioned Aft required to be paid by the Governor and Company of the Bank of England, as a Compensation for the Exemption of their Notes and Bills from Stamp Duty, shall be set apart at the Exchequer in addition to the said yearly Sum of Three millions nine hundred and fifty six thousand seven hundred and ninety Pounds and Ten pence $ an<J that the Remainder of the said yearly Sum of Forty thousand Pounds shall be deemed an Addition to the public Revenue of Great Britain, for the Purpose of defraying the increased annual Charge occasioned by any Loan made or Stock created by virtue of any Act or A As pafledin the Forty eighth Year of His Majesty's Reign.
 
@@ -3728,7 +3726,7 @@ An A£l for enabling His Majesty to settle an Annuity on i||fc Serene Highness t
 
 • Majesty's mod gracipus MefFage, wherein Your Majesty has been 4 pleased to date, that, in consequence of the continued Occupation 4 of the Territories of the Duke of Brunfwici Wolfenbuttel by the 4 French Armies since the unfortunate Events which were attended 4 by the lamented Death of his illudrious Father in the Year One 4 thousand eight hundred and fix, His Serene Highness the present 4 Duke of Brunswick lVolfcnbvttcl> Your Majesty's Nephew, has, 4 after a Series of gallant but unavailing Efforts for the Recovery 4 of his Pofsessions, been compelled to seek an Asylum in Your 4 Majesty's Dominions, Your Majesty recommended to the House of 4 Commons to consider of the Means of enabling Your Majesty to 4 make some Provision for the Eftablilhinent of His Serene Highness 4 during such time as the State of the Continent might continue to 4 preclude the Return of His Serene Highness to nis own Domi-4 nions ;' Do most humbly beseech Your Majesty that it may be enabled, and be it enacted by the King's Mod Excellent Majesty, by and with the Advice and Confeflt of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled,.and by the Authority of the same, That it shall be lawful for the King's Mod Excellent M«*jesty by any Warrant under His Royal Sign Manual, to give and grant unto His Serene Highness the Duke of Brunfivick IVolfenbutteU an Annuity not exceeding Seven thousand Pounds of lawful Money of Great Britain ; which said Annuity may commence and take Effect from the Fird Day of January One thousand eight hundred and teni and shall be paid quarterly at the Four usual Days of Payment in the Year ; that is to say, tf.e Fifth Day of ^rj/, the Fifth Day of Ju/y, the Tenth Day of October, and the Fifth Day of January, in every Year, until the State of the Continent of Europe shall allow the Return of His Serene Highness to his own Dominions ; and that the said Annuity shall and may by such Warrant be directed to be issuing and payable out of, and charged and chargeable upon the Consolidated fund of Great Britain, after paying or reserving sufficient to pay all such Sum and Sums of Money as hath or have been directed to be paid out of the same by any former A£i or A&s of Parliament, but with Preference to all other Payments which shall or may hereafter be changed upon and payable out of the said Fund.
 
-II. And be it further enacted, That the said Annuity shall be paid and payable af the Receipt of His Majesty's Exchequer out pf the said Fund, and the Auditor of the said Receipt shall, and he is hereby required by virtue of such Warrant to make forth and pass Debentures from time to time for paying the said Annuity as the same shall become due and payable, without any Fees or Charges to be demanded or taken for paying the same or any Part thereof; and the Acquittance or Acquittances, Receipt or Receipts of the said
+II. And be it further enacted, That the said Annuity shall be paid and payable af the Receipt of His Majesty's Exchequer out of the said Fund, and the Auditor of the said Receipt shall, and he is hereby required by virtue of such Warrant to make forth and pass Debentures from time to time for paying the said Annuity as the same shall become due and payable, without any Fees or Charges to be demanded or taken for paying the same or any Part thereof; and the Acquittance or Acquittances, Receipt or Receipts of the said
 
 Duke
 
@@ -4156,7 +4154,7 @@ Qol.Jiow to be pecuniary Penalty by this Act imposed does not exceed the Sum of
 
 recovered. Twenty Pounds, it shall be recoverable before One of His Majesty'*
 
-Justices of the Peace of the County, Riding, Shire, Division, City, Liberty, Town or Place, wherein the Offence shall be committed, on Proof of the Offence, either by voluntary Confession of the Party or Parties accused, or by the Oath of One or more credible WitneU pr Witnesses, and one Moiety of every such last mentioned Penalty shall belong to His Majesty, his Heirs and SuccefTors, and the other Moiety to the Informer or Informers prosecuting for the same, and in case of Non-payment, the said Justice, by Warrant under his Hand and Seal, shall cause the same to be levied by Distress and Sale of the Offender's Goods and Chattels, or of the Good3 and Chattels with which such Offender shall be found tracting, and the Overplus pf the Money raised, after dedu&ing the Penalty and Expeace of
+Justices of the Peace of the County, Riding, Shire, Division, City, Liberty, Town or Place, wherein the Offence shall be committed, on Proof of the Offence, either by voluntary Confession of the Party or Parties accused, or by the Oath of One or more credible WitneU pr Witnesses, and one Moiety of every such last mentioned Penalty shall belong to His Majesty, his Heirs and SuccefTors, and the other Moiety to the Informer or Informers prosecuting for the same, and in case of Non-payment, the said Justice, by Warrant under his Hand and Seal, shall cause the same to be levied by Distress and Sale of the Offender's Goods and Chattels, or of the Good3 and Chattels with which such Offender shall be found tracting, and the Overplus of the Money raised, after dedu&ing the Penalty and Expeace of
 
 the
 
@@ -4244,7 +4242,7 @@ C.4L 50* GEO. III.
 
 XXIX. And be it further enacted, That no Conviction upon this Act shall be removed or removeable by Writ of Certiorari or otherwise into His Majesty's Court of King's Dench or any other Court, fare upon an Appeal as by this Act is directed.
 
-XXX. And be it further enacted. That every Just ice before whom any Person hath already been convicted of any Offence under or by virtue of any of the Acts hereby repealed, and having received for His Majesty's Use any Part or Share of any Penalty levied, inflicted or paid under or by virtue of such Conviction for which he has not already accounted, shall, within Six Months after the passing of this Act, transmit to the Commitftonfers for licensing Hawkers, Pedlar! and Petty Chapmen, a Schedule or Schedules containing the Names of the Persons so convisted, the Day on which they were convisted, their respective Offences, and the respective Sums now remaining in the Hands of such Juilice for His Majesty's Use, which were levied or paid under or by virtue of such Convictions, arranged according to the several Counties, Ridings or Places within which such Convictions Lath been made, and every Justice before whom any such Person shall be convicted of any Offence under or by virtue of this Act, shall take and receive Hw Majesty's Share of the Penalty levied or paid under or by virtue of such Conviction, amd that every such Justice, his Executors or Adminiftratars, shall pay or caule to be paid all fuck Sums of Money as shall be remaining in his or their Hands at the time of the passing of this Act, at the next General Quarter-Seifions pf the Peace after the passing of this Act ; and all such Sums which he shall so take or receive upon any Conviction under or by virtue of this Act asaforesaid, at the next General Selfions of the Peace after he shall have so taken or received the same, into the Hands of the Clerk of the Peace or other such like Officer for the County, Riding or Place, within which such Conviction shall have been made, who is heteby directed to remit the same forthwith, without Fee or Reward, to the said Commillioners for licensing Hawkers, Pedlars and Petty Chapmen, or to such Person or Persons as the greatest Part of them shall appoint, and that every Justice, his Executors or Administrators, (hill immediately on such Payment made to any Clerk of the Peace or other such Officer, transmit a like Schedule to the said Commillioners, or to such Person or Persons as they or the greater Part of them shall appoint.
+XXX. And be it further enacted. That every Just ice before whom any Person hath already been convicted of any Offence under or by virtue of any of the Acts hereby repealed, and having received for His Majesty's Use any Part or Share of any Penalty levied, inflicted or paid under or by virtue of such Conviction for which he has not already accounted, shall, within Six Months after the passing of this Act, transmit to the Commitftonfers for licensing Hawkers, Pedlar! and Petty Chapmen, a Schedule or Schedules containing the Names of the Persons so convisted, the Day on which they were convisted, their respective Offences, and the respective Sums now remaining in the Hands of such Juilice for His Majesty's Use, which were levied or paid under or by virtue of such Convictions, arranged according to the several Counties, Ridings or Places within which such Convictions Lath been made, and every Justice before whom any such Person shall be convicted of any Offence under or by virtue of this Act, shall take and receive Hw Majesty's Share of the Penalty levied or paid under or by virtue of such Conviction, amd that every such Justice, his Executors or Adminiftratars, shall pay or caule to be paid all fuck Sums of Money as shall be remaining in his or their Hands at the time of the passing of this Act, at the next General Quarter-Seifions of the Peace after the passing of this Act ; and all such Sums which he shall so take or receive upon any Conviction under or by virtue of this Act asaforesaid, at the next General Selfions of the Peace after he shall have so taken or received the same, into the Hands of the Clerk of the Peace or other such like Officer for the County, Riding or Place, within which such Conviction shall have been made, who is heteby directed to remit the same forthwith, without Fee or Reward, to the said Commillioners for licensing Hawkers, Pedlars and Petty Chapmen, or to such Person or Persons as the greatest Part of them shall appoint, and that every Justice, his Executors or Administrators, (hill immediately on such Payment made to any Clerk of the Peace or other such Officer, transmit a like Schedule to the said Commillioners, or to such Person or Persons as they or the greater Part of them shall appoint.
 
 XXXI. And
 
@@ -4718,7 +4716,7 @@ be applicable, or where any Conversions for Statute Labour shall be allocated or
 
 CAP. XLIV.
 
-An Ad to provide for a durable Allowance of Superannuntioit to the Officers of Excise in Scotland, under certain Rdtric-tions. [2d June iBio.j
+An Act to provide for a durable Allowance of Superannuntioit to the Officers of Excise in Scotland, under certain Rdtric-tions. [2d June iBio.j
 
 WHEREAS an Ad was passed in the lad Session of Parlia-
 
@@ -5476,7 +5474,7 @@ VII. Provided also, and be it enacted, That nothing io this Act contained shall 
 
 CAP. L.
 
-An Ad to explain and amend an Ad made in the lad Session of Parliament, relating to the Relief and Employment of the Poor, so far as relates to the more effectual carrying the same into Execution 5 and to extend the Provisions thereof to Parishes which shall not have adopted the Provisions of an Ad of the Twenty second Year of His present Majesty, for the better Relief and Employment of the Poor.
+An Act to explain and amend an Ad made in the lad Session of Parliament, relating to the Relief and Employment of the Poor, so far as relates to the more effectual carrying the same into Execution 5 and to extend the Provisions thereof to Parishes which shall not have adopted the Provisions of an Ad of the Twenty second Year of His present Majesty, for the better Relief and Employment of the Poor.
 
 [9th June 1810.]
 
@@ -5852,7 +5850,7 @@ An Act to revive and continue, until the Twenty fifth Day of March One thduLnd -
 
 * Vt .ence been found useful and beneficial, and it is expedient
 
-* that the same should be rev ved and further continued Be it therefore enacted by the King's Mod Excellent Majesty, by and with the Advice and Content of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same. That an Act made in the Thirty ninth Year of the Reign so His present Majesty, intituled, An Ad to revive and continue, until the End of the nest Sffion of Parliament, an Ad made in the Thirty fifth Tear of the Reign of His Majcjlv, to continue and amend an Art, made in the Twenty jixth Tear of the Reign of His Majesty, intituled, An Act for the more ejj\ dual Encouragement of the British Fifhcries ; and to a mind an Ad made in the Twenty fisth Tear of the Reign of His present Majesty, for extending the Fftherits, and improving the Sea Coad of this Kingdom ; which was amended and continued by an Act of the Thirty ninth and Fortieth Years of the Reign of H s present •Majesty, and revived, amended and continued by Six Acts, of the Forty first, Forty fecund, Forty fourth. Forty sixth, Forty seventh and Forty eighth Years of the Reign of His present Majesty, until the Twenty fifth Day of March One thousand eight hundred and nine, fnall from and after the said Twenty fifth Day of March be revived, and the same is hereby revived and further continued until the Twenty filth Day of Mach One thousand eight hundred and eleven, and all the Powers and Provifious of the said Act hereby revived and continued, as to the Payment of Bounties, and all other Clauses,
+* that the same should be rev ved and further continued Be it therefore enacted by the King's Mod Excellent Majesty, by and with the Advice and Content of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same. That an Act made in the Thirty ninth Year of the Reign so His present Majesty, intituled, An Act to revive and continue, until the End of the nest Sffion of Parliament, an Ad made in the Thirty fifth Tear of the Reign of His Majcjlv, to continue and amend an Art, made in the Twenty jixth Tear of the Reign of His Majesty, intituled, An Act for the more ejj\ dual Encouragement of the British Fifhcries ; and to a mind an Ad made in the Twenty fisth Tear of the Reign of His present Majesty, for extending the Fftherits, and improving the Sea Coad of this Kingdom ; which was amended and continued by an Act of the Thirty ninth and Fortieth Years of the Reign of H s present •Majesty, and revived, amended and continued by Six Acts, of the Forty first, Forty fecund, Forty fourth. Forty sixth, Forty seventh and Forty eighth Years of the Reign of His present Majesty, until the Twenty fifth Day of March One thousand eight hundred and nine, fnall from and after the said Twenty fifth Day of March be revived, and the same is hereby revived and further continued until the Twenty filth Day of Mach One thousand eight hundred and eleven, and all the Powers and Provifious of the said Act hereby revived and continued, as to the Payment of Bounties, and all other Clauses,
 
 Restrictions,
 
@@ -5946,7 +5944,7 @@ AJXjBio.
 
 4 payable out of any Revenue belonging to His Majesty in Great 4 Britain, exceeding the Value of One hundred Pounds per Annum :
 
-4 And whereas by another Aft passed in the Thirty second Year of .32 G- s. c.33. 4 the Reign of His said late Mujesty, King George the Second, in-4 tituled, An Ad to explain and amend an Act made in the last Session 4 of Parliament intituled, An Act for granting to H'u Majesty several 4 Rates and Duties upon Offices and Penjions, and upon Houses, and 1 upon Windows or Lights, and for raising the Sum of Five Millions by 4 Annuities, and a Lottery, to be charged on the fata Rates and Duties,
+4 And whereas by another Aft passed in the Thirty second Year of .32 G- s. c.33. 4 the Reign of His said late Mujesty, King George the Second, in-4 tituled, An Act to explain and amend an Act made in the last Session 4 of Parliament intituled, An Act for granting to H'u Majesty several 4 Rates and Duties upon Offices and Penjions, and upon Houses, and 1 upon Windows or Lights, and for raising the Sum of Five Millions by 4 Annuities, and a Lottery, to be charged on the fata Rates and Duties,
 
 4 so far as the same relates to the Rates and Duties on Offices and Pen-4 /tens, certain Provisions were made for collecting and paying the said 4 lift mentioned Duty of One Shilling in the Pound: and whereas by tjG. 3. c. 13. 4 another Aft passed in the Twenty seventh Year of the Reign of § 4?«
 
@@ -6392,7 +6390,7 @@ IX* And he it further enacted, That if any Person or Persons whatever shall by F
 
 CAP. LXIII.'
 
-An Ad to enable His Majesty to authorize the Exportation of the Machinery necessary for erecting a Mint in the Brazils.
+An Act to enable His Majesty to authorize the Exportation of the Machinery necessary for erecting a Mint in the Brazils.
 
 [9th Jutie 181 o.]
 
@@ -6512,7 +6510,7 @@ A«D. i8to* yd® GEO. IH« C* 64.
 
 the Charge or Command of the Ship or Vessel id which futSi Goods, Wares or Merchandize are intended to be exported, and One other fuffident Surety, to be approved of by the Collector and Comptroller of the Customs at the Port of Exportation, enter into Bond to His Majesty, his Heirs and Successors, in Treble the Value of the dune, for the due Exportation of such Goods, Wares or Merchandize, and for producing a Gertilicate of the landing thereof at the Port or Place for which entered, according to the Directions of the said Act of the Forty third Year of His present Majesty ; Provided that if upon the further Examination of the said Goods, Wares and Merchandize, the same or any Part thereof shall be found to be less in Quantity or Weight than when delivered from the Warehouse at the Port of Importation, the Exporter or Proprietor thereof shall immediately pay the full Doties of Customs and Excise upon the Deficiency, previous to the Goods being allowed to be shipped for Exportation.
 
-IV. Aod be it further enacted, That if after the Arrival of such Goods, Wares or Merchandize, at any other warehouftng Port, the Proprietor thereof shall not have an Opportunity of shipping the same for Exportation, it shall and may be lawful to lodge and deposit the Articles in any Warehouse approved under the Regulations of the said Acts passed in the Forty fifth and Forty sixth Years of the Reign of His present Majesty, provided an Entry be made for that Purpose w ith the proper Officers of the Customs, and Bond given to His Majesty, his Heirs and Successors, by the Proprietor or his Agent, and One fuffident Surety to be approved of by the Collector ana Comptroller of the Customs in such Port, in double the Amount pf the .full Duties due and payable on the Importation of such Goods, Wares and Merchandize, with Condition that the same shall either be duly exported, or that the full Duties of Customs due aud payable on the Importation thereof shall be paid to the proper Officer* withio such Period of time as was allowed for that Purpose at the Port where the same were first entered and warehoused; but if the Prpprietor shall fail or neglect to make such Entry and give such Security, it shall and may be Jawful for the Commissioners of the Cuf-tpmi in England or Scotland respectively to cause all such Gooda, Wares and Merchandize, which (nail not be shipped for Exportation to bp disposed of in the same manner as Goods, Wares and Merchandize are directed to he disposed of by the said Act of the Forty third Year pf the Keign pf Hi* present Majesty.
+IV. Aod be it further enacted, That if after the Arrival of such Goods, Wares or Merchandize, at any other warehouftng Port, the Proprietor thereof shall not have an Opportunity of shipping the same for Exportation, it shall and may be lawful to lodge and deposit the Articles in any Warehouse approved under the Regulations of the said Acts passed in the Forty fifth and Forty sixth Years of the Reign of His present Majesty, provided an Entry be made for that Purpose w ith the proper Officers of the Customs, and Bond given to His Majesty, his Heirs and Successors, by the Proprietor or his Agent, and One fuffident Surety to be approved of by the Collector ana Comptroller of the Customs in such Port, in double the Amount of the .full Duties due and payable on the Importation of such Goods, Wares and Merchandize, with Condition that the same shall either be duly exported, or that the full Duties of Customs due aud payable on the Importation thereof shall be paid to the proper Officer* withio such Period of time as was allowed for that Purpose at the Port where the same were first entered and warehoused; but if the Prpprietor shall fail or neglect to make such Entry and give such Security, it shall and may be Jawful for the Commissioners of the Cuf-tpmi in England or Scotland respectively to cause all such Gooda, Wares and Merchandize, which (nail not be shipped for Exportation to bp disposed of in the same manner as Goods, Wares and Merchandize are directed to he disposed of by the said Act of the Forty third Year of the Keign pf Hi* present Majesty.
 
 V. And be it further enacted. That whenever any Goods, Wares pr Merchandize, removed from the Port of Importation to any other warehouhng Port, are secured in Warehouse* under the Authority of this Act, ail and every the Provisions, Powers, Authorities, Penalties, Forfeitures, Regulations, Rcftriftions, Acts, Matters and Thing* relating to the landing, warehausing, keeping, infpediing, taking Account pf or otherwise securing of Goods, Wares and Merchandize, padcrjtbe said Act of the Forty third Year of the Reign of His present Majesty, and of the Duties due and payable thereon, shall, in so far as the same are applicable, and except where the same are altered pr varied by this Act, be from thenceforth construed to extend to the Goods, Wares and Merqhandize so removed from the original Port of Importation and secured in Warehpufes at any other ware-houfiqg fort, in like manner in every respect, and as fully and amply as
 
@@ -6892,7 +6890,7 @@ Only On* Tom- XXL And be it further enacted, That any One of the said Com* missi
 
 CAP. LXVI.
 
-An Ad to authorize the Judge Advocate General to fend and receive Letters and Packets free from the Duty of Postage.
+An Act to authorize the Judge Advocate General to fend and receive Letters and Packets free from the Duty of Postage.
 
 [9th June 1810.J
 
@@ -6930,7 +6928,7 @@ An Act for raising the Sum of Six Millions by Exchequer Bills, for the Service o
 
 CAP. LXX.
 
-An Ad to enable the Commissioners of His Majesty's Treasury to issue Exchequer Bills, on the Credit of such Aids or Supplies as have been or shall be granted by Parliament for the Service of Great Britain, for the Year One thousand eight hundred and ten. [9th June 1810.]
+An Act to enable the Commissioners of His Majesty's Treasury to issue Exchequer Bills, on the Credit of such Aids or Supplies as have been or shall be granted by Parliament for the Service of Great Britain, for the Year One thousand eight hundred and ten. [9th June 1810.]
 
 44 Treasury may issue Exchequer Bills, as prescribed by 48 G. 3. 44 c. 1.—$ 1. Claoses, See. in recited Act, relating to Exchequer 44 Bills extended to this Act. § 2. Treasury not to issue Exche* 14 quer Bills on the Credit of 49 G. 3. c. 1. in any other manner than 44 at authorised by that Ad, &c. § 3. Interest not exceeding 34d. 44 per Centum pir+Diem. $ 4. Exchequer Bills may«jit the Expira-44 tion of Four Months after Date, he taken in Payment of the 44 Revenue. Bills received at Exchequer locked up, § 5. Bank of
 
@@ -7290,7 +7288,7 @@ A.D.i8io* 5a0 GEO. III.
 
 XVIII. Provided always, and be it further enacted, That if any Corporation Money Co agreed or awarded to be paid for any Lands or Heredi- left than aool. tameBts purchased, taken or used for the Purposes aforesaid, and an'| belonging to any Corporation or to any Person or Persons under In- how applied, capacity or Disability as aforesaid, shall be less than the Sum of Two
 
-Hundred Pounds, and shall exceed the Sum of Twenty Pounds, then, and in such case, the same shall (at the Option of the Person or Persons for the time being entitled to the Rents and Profits of the Lands or Hereditaments taken or used, or of his or her or their Guardian dr Guardians, Committee or Committees, in case of Infancy or Lunacy, to be signified in Writing under their respective Handsj be paid into the said Bank of Ireland in the Name and with the Privity of the said Accountant General of the said High Court of Chancery, and be placed to his Account as aforesaid, in order to be applied in the manner hereinbefore dirested, or othervvife the same shall be paid, at the like Option, to Two Trustees to be nominated by the Person or Persons making such Option, and approved of by the Commissioners for executing this Act, (such Nomination and Approbation to be signified in Writing under the Hands of the nominating and approving Parties) in order that such Principal Money and the Dividends ariiing therefrom may be applied in manner hereinbefore directed, so far as the same may be applicable without obtaining or being required t<v obtain the Direction or Approbation of the said Court of Chancery*
+Hundred Pounds, and shall exceed the Sum of Twenty Pounds, then, and in such case, the same shall (at the Option of the Person or Persons for the time being entitled to the Rents and Profits of the Lands or Hereditaments taken or used, or of his or her or their Guardian dr Guardians, Committee or Committees, in case of Infancy or Lunacy, to be signified in Writing under their respective Handsj be paid into the said Bank of Ireland in the Name and with the Privity of the said Accountant General of the said High Court of Chancery, and be placed to his Account as aforesaid, in order to be applied in the manner hereinbefore dirested, or otherwise the same shall be paid, at the like Option, to Two Trustees to be nominated by the Person or Persons making such Option, and approved of by the Commissioners for executing this Act, (such Nomination and Approbation to be signified in Writing under the Hands of the nominating and approving Parties) in order that such Principal Money and the Dividends ariiing therefrom may be applied in manner hereinbefore directed, so far as the same may be applicable without obtaining or being required t<v obtain the Direction or Approbation of the said Court of Chancery*
 
 XIX. Provided also, and be it further enacted, That where such where Money Money so agreed or awarded to be paid as last before mentioned shall less than 20k be less than Twenty Pounds, then, and in all such cases, the same ho* applied, shall be applied to the Use of the Person or Persons who would for
 
@@ -8062,7 +8060,7 @@ A11 Aft to repeal an Act made in the Forty seventh Year of His present Majesty, 
 
 [15th June 1810.J
 
-4 YT7HEREAS an Act was made in the Forty seventh Year of 4 VV His present Majesty's Reign, intituled, An Ad to suppress 4 Insurrections, and prevent the D'Jlurbance of the Public Peace in 4 Ireland: And whereas it is expedient that the said Act should be 4 repealedBe it therefore enacted by the King's Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same. That from and immediately after the passing of this Act, the said recited Aft of the Forty seventh Year aforesaid Shall be and the same is hereby repealed, except only so far as relates to any Proceedings had under the said Act at any time before the passing of this present Aft.
+4 YT7HEREAS an Act was made in the Forty seventh Year of 4 VV His present Majesty's Reign, intituled, An Act to suppress 4 Insurrections, and prevent the D'Jlurbance of the Public Peace in 4 Ireland: And whereas it is expedient that the said Act should be 4 repealedBe it therefore enacted by the King's Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same. That from and immediately after the passing of this Act, the said recited Aft of the Forty seventh Year aforesaid Shall be and the same is hereby repealed, except only so far as relates to any Proceedings had under the said Act at any time before the passing of this present Aft.
 
 CAP. LXXIX.
 
@@ -8123,8 +8121,6 @@ CAP. LXXXL An AS to continue until theFirft Day of Augufi One thousand eight hun
 . II. And be it further enaSed, That it shall and may be lawful for the Lords Commissioners of His Majesty's Treasury in Ireland\ or the Lord High Treasurer of Ireland for the time being, and they are hereby authorized and required to issue, and cause to be issued over and above the Sums mentioned in the said recited ASs of the Forty fourth, Forty seventh and Forty ninth Years aforesaid, a further Sum of Money not exceeding Two thousand Pounds, to such Per-fon or Persons as the Commissioners under the said recited ASs, or any Three cr more of them, shall, by Writing under their Hands, desire or direS, out of* any Part of the Publick Monies remaining in His Majesty's Exchequer in Ireland; which Sums so issued and paid shall be employed for the Payment of Clerks, Meflengerg, and other Officers, and in defraying all other necessary Charges in or about the Execution of the Powers of the said recited AS, and this Act, and in such manner and in such Proportions as shall be appointed by the said Commissioners, or any Three or more of them, by Writing under their Hands and Seals in that Behalf, and that such Sums shall be accounted for by the Person or Persons to whom the same shall be issued or paid according to the Course of His Majesty's Exchequer of /rr-land) without any Feet or other Charges to be taken or demanded
 
 far
-
-v^.
 
 50° GEO. III.
 
@@ -8526,7 +8522,7 @@ II. And be it further enacted, That it shall and may be lawful to and for the sa
 
 CAP. LXXXVII.
 
-An Ad to amend Two Acts, relating to the railing Men for the Service of the East India Company and the Quartering and Biiletting such Men ; and to Trials by Regimental Courts Martial. [15th June 1810.]
+An Act to amend Two Acts, relating to the railing Men for the Service of the East India Company and the Quartering and Biiletting such Men ; and to Trials by Regimental Courts Martial. [15th June 1810.]
 
 * XT7HEREAS an Ad passed in the Thirty ninth Year of the 1 W Reign of His present Majesty, intituled, An AQ for the better
 
@@ -9454,7 +9450,7 @@ An Act to enable the Corporation for preserving and improving the Port of Dublin
 
 * the Parliament of Ireland, in the Thirty sixth Year of His present
 
-afi O. 3. (I.) 4 Majesty'a Reign, intituled. An Ad to empower the Commissioners of
+afi O. 3. (I.) 4 Majesty'a Reign, intituled. An Act to empower the Commissioners of
 
 c. 18. * His Majesty's Revenue, with the Approbation of the Lord Lieutenant,
 
@@ -9462,7 +9458,7 @@ c. 18. * His Majesty's Revenue, with the Approbation of the Lord Lieutenant,
 
 4f> G.a. c. io6. 4 the Purposes in the said Act mentioned : And whereas by an Act 4 made in the Forty sixth Year of His present Majesty's Reign, inti-
 
-* tilied, An Ad to provide for the better Execution of the several Ads> 4 Matters and Things under the Management of the Commissioners of
+* tilied, An Act to provide for the better Execution of the several Ads> 4 Matters and Things under the Management of the Commissioners of
 
 * Customs and Port Duties, and of the Commissioners of Inland Excije 4 and Taxes in Ireland, certain rowers were veiled in the said Com-4 missioners of Customs and Port Duties, to enable them to pur-4 chafe Lands and Tenements for building Light Houses: And 4 whereas certain Funds have been established in Ireland, towards the 4 eresting, repairing and maintaining of the Light Houses round the 4 Coasts thereof; and it is expedient, that the Management of the 4 said Funds, and all Powers and Authorities relating to such Light 4 Houses, should be veiled in the Corporation for preserving and 4 improving the Port of Dublin, and that the Charge of eresting, 4 repairing and maintaining such Light Houses, should be further 4 borne and defrayed by the Payment of a Duty on all Entries 4 Inwards and Outwards, and Coaftward in the several Porta of 4 Ireland:* May it therefore please Your Majesty that it may be ert-acted; and be it enacted by the King's Mod Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Tern-
 
@@ -9688,7 +9684,7 @@ AJXi&to.
 
 50* GEO. III. C. 97.
 
-Shillings ; and for and upon each and eveiy Tun of any other Sort of Wines not otherwile enumerated, the Sum of Twelve Pounds and Twelve Shillings, and so in proportion for any greater or less Quantity of such Wines respectively,
+Shillings ; and for and upon each and eveiy Tun of any other Sort of Wines not otherwise enumerated, the Sum of Twelve Pounds and Twelve Shillings, and so in proportion for any greater or less Quantity of such Wines respectively,
 
 VII. And be it further enacted, That all the Duties and Draw- Duties paid lu backs io this Act mentioned, and also the Duties and Drawbacks Ikmft Ctirrrncy, in the respective Schedules hereunto annexed, specified, mentioned ConfouXted ° and contained, shall be paid and payable, and received and receivable Fuad.
 
@@ -9722,7 +9718,7 @@ farther enacted, That ererj such Importer of, Dealer in. Seller or
 
 Retailer of Foreign Wine* in Ireland, who shall respectively have any such Wines in his, her or their PofRflion, in any Warehouse, Store Room. Shop, Celiar, Vault, or other Place, or in the Custody or Possession of any other Person for his, her or their Use, shall within Three Days after the Fifth Day of *7///yOne thousand eight hundred and ten deliver at the Office of the Collector of Excise of the Dtftri& in which such'Wine shall have been on the said Twenty eighth Day of May One thousand eight hundred and ten, or any other Day b«N tween that Day and the said Fifth Day of July inclusive, a just, true and particular Account in Writing of the Quantity of all the Foreign Wine which on the said Twenty eighth Day of May One thousand eight hundred and ten, or on any Day between that Day and the said Fifth Day of July Qne thousand eight hundred and ten inclusive, shall have so been in the Cuflodv or Possession of such Dealer in. Seller or Retailer of Foreign Wine, in every such Warehouse or other Place, or in the Custody or Possession of any Pe:foo for his or her Use, describing the Places in which the same shall bo, and the Situation thereof, and diftinguiftiing such Foreign Wines from eaeh Other, according to the true Denomination thereof, a* the same ard hereinbefore described, and also diftinguiftiing whether such Wines are Red or White; and all W ines in Bottles shall be accounted for accord* ing to the Number of Bottles, without expressing the Number of Gallons of Wine contained in such Bottles, hut ell inflating the Number of such Gallons in the whole, by a fair Calculation made on the actual Content of any given Number of such Bottles, indifferently chosen ; and every such Importer of, or Dealer in, or Seller or Retailer of Foreign Wine, shall make Oath, or if a Quaker a solemn ^Affirmation, before the Colleftorof Excise of the Dittrift, that such Account is a just, true ai d perfect Account of all such Wines as aforesaid, which Oath or Affirmation such Collector is hereby authorized tp administer; and every such Importer, Deakr, Seller, Retailer, or other Person, who shall neglect to deliver, or cause to be deli vend such Account, within the time aforesaid, and to make such Oath or Affirmation, or who shall deliver, or cause to he delivered, any false or untrue Account, shall forfeit the Sum of Two hundred Pound*, and all.such Foreign Wines of which such Account shall f 101 be ck* livered, or of which any false or untrue Account shall be delivered, shall also be forfeited, together with the £asks, Bottle*, Jars, Vef* fels, Hogftieads and Packages containing the same respectively, and shall and may be seized by any Officer or Officers of His Majeft)** Revenue in Ireland.
 
-XI. And be it further enabled, That for the Purposes of this Act it shall and may be lawful for any Officer or Officers cf Excise, from time to time, to enter into aH or any of the Wafehouses, Store* houfvft, Rooms, Shops, Celiars, Vaults and other Place* of any such Importer of or Dealer in, or Seller of Foreign Wine whether by Wholefah? or Retail, and into any Plact where any Wine belong* ing to any Importer of, Dealer in or Seller or Retailer of Wine shall be, add by tailing, gauging or otherwise, to take an Accouot pf the Quantity and Quality of all Wine then and there found in the Custody of or belonging to any such Importer, Dealer, Seiler or Retailer, in any Calk, or in any Vessel, except Bottles, and aHo to take an Account of all such Wine as shall be then and there found i*
+XI. And be it further enabled, That for the Purposes of this Act it shall and may be lawful for any Officer or Officers cf Excise, from time to time, to enter into aH or any of the Wafehouses, Store* houfvft, Rooms, Shops, Celiars, Vaults and other Place* of any such Importer of or Dealer in, or Seller of Foreign Wine whether by Wholefah? or Retail, and into any Plact where any Wine belong* ing to any Importer of, Dealer in or Seller or Retailer of Wine shall be, add by tailing, gauging or otherwise, to take an Accouot of the Quantity and Quality of all Wine then and there found in the Custody of or belonging to any such Importer, Dealer, Seiler or Retailer, in any Calk, or in any Vessel, except Bottles, and aHo to take an Account of all such Wine as shall be then and there found i*
 
 3ot\kh
 
@@ -10374,7 +10370,7 @@ An Act for confirming an Agreement for the Purchase of the Prifage and Butlerage
 
 * TT7 HERE AS by an Act made in the Forty sixth Year of the 46 G. 8. c. 94.
 
-* VV Reign of His present Majesty, intituled, An Ad to enable 4 the CommjJJirjncrs for executing the Office of Lord High Treasurer of 4 Ireland to contract for the Duties of Prifage and Butlerage in Ireland,
+* VV Reign of His present Majesty, intituled, An Act to enable 4 the CommjJJirjncrs for executing the Office of Lord High Treasurer of 4 Ireland to contract for the Duties of Prifage and Butlerage in Ireland,
 
 * reciting that the Right Honourable E.ul of Ormonde and Offory 4 was or claimed to be entitled to the Prifage and Butlerage of all 4 Wines brought into any of the Ports, Havens, Creeks, Rivers,
 
@@ -11454,7 +11450,7 @@ For every Writ of Venire Facias or Fieri Facias issued out of the City Court of 
 
 For all Executions out of the City Court directed to the said Marshal, Six pence in the Pound for every Sum of or under One hundred Pounds; and where the Execution is for more than One hundred Pounds, then to receive only Three pence per Pound for each Pound, over and above the Sum of One hundred Pounds, and in such manner and under such Reftri&ions as are appointed * by this Act for the Marshal of the Four Courts. *
 
-LXXIX. And he it further enacted, That the said Marshal of the Marflnl of D il-City of Dublin shall observe and keep the same Rules, and take the Kn to obferv* lame Rates for the Lodging and Accommodation of Prisoners, in such Sort and in such manner as the Marshal of the Four Courts shall Marihifof from time to time be entitled to take, save so far as the same may pjur CoUrSfc. be othenvife ordered by the said Court of King's Bench ; and in case the Marshal of the City of Dublin for the time being, his Deputy, or any other Person or Persons employed under him, shall take, receive or e'xaft any other or greater Fees than as aforesaid, or any Gratuity or Reward from any Person whatsoever committed as a Prisoner to his Custody, or shall not observe and perform the Rules and Rates in every Respect herein ordainedy or which shall
+LXXIX. And he it further enacted, That the said Marshal of the Marflnl of D il-City of Dublin shall observe and keep the same Rules, and take the Kn to obferv* lame Rates for the Lodging and Accommodation of Prisoners, in such Sort and in such manner as the Marshal of the Four Courts shall Marihifof from time to time be entitled to take, save so far as the same may pjur CoUrSfc. be otherwise ordered by the said Court of King's Bench ; and in case the Marshal of the City of Dublin for the time being, his Deputy, or any other Person or Persons employed under him, shall take, receive or e'xaft any other or greater Fees than as aforesaid, or any Gratuity or Reward from any Person whatsoever committed as a Prisoner to his Custody, or shall not observe and perform the Rules and Rates in every Respect herein ordainedy or which shall
 
 frdra
 
@@ -11804,7 +11800,7 @@ Fourth.—The said Inspectors and Surveyors shall give or cause to Notice to Vtv
 
 Fifth.—In default of a Meeting of the said respective Commif- In it hat case fioners before the time limited by the said Acts or this Act, for the Delivery t-f Or-Hearing of any Appeals from the Charges of the said Surveyor or tifica-.e of S>ur-Infpedor, or if the said Surveyor or Inspector shall not have had Notice of a Meeting of the said respective Commissioners, it shall be 11 ciem* lawful for the said Commissioners and they are hereby required, at their First Meeting to be held thereafter, to sign and allow the said Certificates, and afterwards to hear and determine all Appeals therefrom. '
 
-Sixth.—The Certificate delivered to the Commissioners containing Certificate the Day or Days of Service of the Notice delivered to the Party* sufficient Proof charged shall be deemed sufficient Proof of the Contents thereof, ot Contents rf iiniMs the contrary be shewn on the Production of such Notice to the said respective Commissioners by the Party charged; and no Proof of the Contents of any such Notice shall be required by the said Commissioners to be given to them, cither by a Copy thereof 9r othervvise, previous to their signing or allowing the said Certificates,
+Sixth.—The Certificate delivered to the Commissioners containing Certificate the Day or Days of Service of the Notice delivered to the Party* sufficient Proof charged shall be deemed sufficient Proof of the Contents thereof, ot Contents rf iiniMs the contrary be shewn on the Production of such Notice to the said respective Commissioners by the Party charged; and no Proof of the Contents of any such Notice shall be required by the said Commissioners to be given to them, cither by a Copy thereof 9r otherwise, previous to their signing or allowing the said Certificates,
 
 33*
 
@@ -12248,7 +12244,7 @@ TreafuTv may . JI. And be it further enacted. That it shall be lawful fortbe Com
 
 CAP. CVI1I.
 
-An Ad to amend and enlarge the Powers of an Ad, parted in the Second Year of His present Majesty, for the Encouragement of the Fisheries of this Kingdom, apd the Protection of the Persons employed therein.
+An Act to amend and enlarge the Powers of an Ad, parted in the Second Year of His present Majesty, for the Encouragement of the Fisheries of this Kingdom, apd the Protection of the Persons employed therein.
 
 [20th. June 1810.]
 
@@ -12564,8 +12560,6 @@ X. And be it further enacted, That it shall be lawful for the Ford Mayor, Alderm
 
 Perfoa
 
-QjOOQle
-
 Person or Persons who shall have full Power, arid they and each of them are hereby authorized (either in Company with the Officers of His Majesty's Cuiloms or without) to enter into any Boat, Barge or other Vessel laden with Coals, Culm or Cinders, passing on or about to pass nearer to London than the Boundary Stone aforesaid ; and that every Officer or Officers, or other Person or Persons to be appointed by the said Mayor, Aldermen and Commons as aforesaid,
 
 shall and lawfully may have and exercise all and every or any the Powers and several ways and means of ascertaining the Weights and
@@ -12686,7 +12680,7 @@ f rrt'.fiwl Copie* in rases of Appeal.
 
 C. ii%* 5o0 GEO. Ill, A.D.1810.
 
-IV. And be it enabled, That in Processes of Adjudication, the Extract of the Decree shall, from and after the paflitig of this Act, be in the Form which has heretofore been used for the Abbreviate pf the Adjudication in case a Decree shall be pronounced for the Adjudger; but where the Defender is aflbilzied, the Extract shall te in the Form hereinbefore directed to be used in the Case of Decrees of Abfoivitor.
+IV. And be it enabled, That in Processes of Adjudication, the Extract of the Decree shall, from and after the paflitig of this Act, be in the Form which has heretofore been used for the Abbreviate of the Adjudication in case a Decree shall be pronounced for the Adjudger; but where the Defender is aflbilzied, the Extract shall te in the Form hereinbefore directed to be used in the Case of Decrees of Abfoivitor.
 
 V. Aknd be it enacted. That in Actions of Cejpo Bonorum, the Extract of the Decree shall be in the Form at present used for the Abitraft in Decreets of Ctjfto, with an Addition thereto of the Names of all the Creditors cited.
 
@@ -12995,8 +12989,6 @@ LVII. And be it enacted, That the said Barons of Exchequer shall consider the Si
 LVII I. Provided always, and be it enacted, That it shall and may be lawful for the said Barons, who are hereby required, to order and direct such Sum or Sums of Money to be from time to time paid to any such Officer of Court or Person as aforesaid, who shall make Application to them pursuant to this Act, as the said Baronfe shall think proper, as an Interim Allowance, until the Com: penfation or Provision to be awarded to any such Person by virtue of thi* Ad shall be ascertained and finally determined; and every such Allowance so ordered to be paid by the said Barons shall be paid at the time and in the manner they shall direct out of the aforesaid Monies charged or made chargeable with the Fees, Salaries and othet Charges for keeping up the Court* of Seffioa, Justiciary and Exchequer aforesaid.
 
 : LIX. And
-
-v^.
 
 -AD. i e id.
 
@@ -15376,11 +15368,9 @@ Cap• i*
 
 An A d for making a fair and equal County Rate for the County of Cumberland. [l2th March 1810.]
 
-4 WHEREAS an Ad was passed in the Forty seventh Year 47 G.3. ScfT. 2. 4 W of the Reign of His preient Majesty, intituled, An Ad to c.xxxiL 4 enable His Majesty to grant the Citadel Walls of the City of Carlide,
+4 WHEREAS an Ad was passed in the Forty seventh Year 47 G.3. ScfT. 2. 4 W of the Reign of His preient Majesty, intituled, An Act to c.xxxiL 4 enable His Majesty to grant the Citadel Walls of the City of Carlide,
 
 • and certain Grounds adjoining thereto, to the Justices of the Peace 4 for the County of Cumberland, for building Courts of Justice for the 4 said County, and for other Purposes relating thereto : And whereas 4 the said Justices were authorized and empowered by the said Ad 4 to ered and build a proper Shire Hall and Court Houses with 4 suitable Offices and Accommodations, for the more convenient 4 holding the Assizes and for other publick Purposes for the said County, as should to them the said Justices appear expedient and 4 necessary; and to pay, discharge and defray all the Expences, Cods 4 and Charges attending the erecting and building of the same, and t all incidental Expences in the effecting and carrying into Execution t the fevers} Purposes of the said Ad, by and out of the publick * 4 County
-
-v^.
 
 C.i.
 
@@ -16000,7 +15990,7 @@ An A A to continue and amend Three Acts passed in the Twenty second Year of His 
 
 Cap 1.
 
-An Ad to amend an Ad passed in the Thirty second Year of His present Majesty, for building a Bridge over tthe River South EJk, at or near Montrose. [18th April 1810.]
+An Act to amend an Ad passed in the Thirty second Year of His present Majesty, for building a Bridge over tthe River South EJk, at or near Montrose. [18th April 1810.]
 
 [Former Tolls to eease, and new Tolls granted.2
 
@@ -16148,7 +16138,7 @@ of as such by ail Judges, Justices and others, without being specially pleaded.
 
 Cap. Hi.
 
-An Ad to continue the Term and alter and enlarge the Powers of 9G 3. c. 77. several Acts of His present Majesty, for repairing certain Roads 17C.3.C. ill. in the Counties of Carnarvon and Denbigh, and for more effectually repairing, improving and peeping >n Repair certain other Roads in the County of Carnarvon, (a) [18th April 1810.]
+An Act to continue the Term and alter and enlarge the Powers of 9G 3. c. 77. several Acts of His present Majesty, for repairing certain Roads 17C.3.C. ill. in the Counties of Carnarvon and Denbigh, and for more effectually repairing, improving and peeping >n Repair certain other Roads in the County of Carnarvon, (a) [18th April 1810.]
 
 [Additional Truflces. Double Toll* on Sunday.]
 
@@ -16182,7 +16172,7 @@ Dull id.
 
 Cap. liii*
 
-An Ad to continue the Terms and enlarge the Powers of Two Ad* of the Seventh and Twenty ninth Years of His present Majesty,
+An Act to continue the Terms and enlarge the Powers of Two Ad* of the Seventh and Twenty ninth Years of His present Majesty,
 
 for repairing the Road leading from the High Road between Bromley and Farnborongh, in the County of Kent, to Beggars1 Bujb, in the Turnpike Road leading from Tonbridge Wells to Maresjicld, in the County of Sufix. (c) £i8th April i8io.]
 
@@ -16460,7 +16450,7 @@ An Act for improving the Barrier Bank on the South Side of * " . Mor'eton'j Lean
 
 Cap. lxxviii.
 
-An Ad to amend and render more effectual Two Ad9 of His late and 30 G*c*36-prefent Majesty for draining, preserving and inclosing Lands in 34 G^OrC.iot* March, Wimblington and UpwelU in the Isle of Ely aHd County of Cambridge, so far as the said Acts relate to the First and Second'
+An Act to amend and render more effectual Two Ad9 of His late and 30 G*c*36-prefent Majesty for draining, preserving and inclosing Lands in 34 G^OrC.iot* March, Wimblington and UpwelU in the Isle of Ely aHd County of Cambridge, so far as the said Acts relate to the First and Second'
 
 Districts therein mentioned. * [18th May 18 to.]<
 
@@ -16488,7 +16478,7 @@ An Act for amending and enlarging the Powers of an Ad of His 43G.3.c.cxxtHu pres
 
 Cap. lxxxiii.
 
-An Act for better lighting, watching, cleansing and repairing the 29 G. 2. r. «r. Highways, and otherwile improving the Hamlet of Ratcliff\ iti to
+An Act for better lighting, watching, cleansing and repairing the 29 G. 2. r. «r. Highways, and otherwise improving the Hamlet of Ratcliff\ iti to
 
 the County of Middlesex9 and for repealing an Ad of the Twtfoty ninth Year of His late Majesty relative thereto; and for the better lc Relief and Maintenance of the Poor of the said Hamlet.
 
@@ -16588,7 +16578,7 @@ wick, so far as the same relate to the Road from Birmingham to Warmington, and s
 
 Cap. xcvi.
 
-An Act for continuing the Term and enlarging the Powers of Two 8 G. 3. c.4;. A6ts of the Eighth and Twenty eighth Years of His present asG.a.c. 10a. M'ajesty, fp far as the same relate to the Road from the Townfhlp of Huddersfield, in the Well Riding of the County of York, to Woodhead, in the County Palatine of Chefier, and from thence to a Bridge over the River Mtrfey, called Enter slough Bridge, pn the Confines pf the County of Derby, (c) [ 18tfi fliay ia|0.]
+An Act for continuing the Term and enlarging the Powers of Two 8 G. 3. c.4;. A6ts of the Eighth and Twenty eighth Years of His present asG.a.c. 10a. M'ajesty, fp far as the same relate to the Road from the Townfhlp of Huddersfield, in the Well Riding of the County of York, to Woodhead, in the County Palatine of Chefier, and from thence to a Bridge over the River Mtrfey, called Enter slough Bridge, pn the Confines of the County of Derby, (c) [ 18tfi fliay ia|0.]
 
 [Former Tolls to cease, and new T9IU granted*']
 
@@ -16642,13 +16632,13 @@ Cap. ci.
 
 Cap. cii.
 
-An Ad to continue the Term and alter and enlarge the Powers of Two A&s of His present Majesty, for repairing the Road from the Alfreton Turnpike Road, near a Place called Little Robins, in the Parish of Mansfield* in the County of Nottingham* to the Nottingham Turnpike Road near Tanjley* in the County of Derby. and from Woolley Moor to the Chejlerfield Turnpike Road at KelJBdge, in the said County of Derby, (e) [18th May 1810. j
+An Act to continue the Term and alter and enlarge the Powers of Two A&s of His present Majesty, for repairing the Road from the Alfreton Turnpike Road, near a Place called Little Robins, in the Parish of Mansfield* in the County of Nottingham* to the Nottingham Turnpike Road near Tanjley* in the County of Derby. and from Woolley Moor to the Chejlerfield Turnpike Road at KelJBdge, in the said County of Derby, (e) [18th May 1810. j
 
 [Additional Trttjlecs appointed."]
 
 Cap. ciii.
 
-aG. 3. c. 65. An Ad to continue the Term and alter and enlarge the Powers of 11 G. 3. c.87. Three Acts* passed in the Second, Eleventh and Twenty second
+aG. 3. c. 65. An Act to continue the Term and alter and enlarge the Powers of 11 G. 3. c.87. Three Acts* passed in the Second, Eleventh and Twenty second
 
 2 ' 3‘ c*116* Years of His present Majesty, for repairing the Road leading from
 
@@ -16864,7 +16854,7 @@ present Majesty, for dividing and allotting certain Fens, called The Ea/i and We
 
 Cap. cxxx.
 
-43 G. 3. c. cxvii. An Ad to amend and render more effcdual an Ad of His present Majesty, for erecting a new Church, to be called Christ Churchy in the Town of Birmingham in the County of Warwick} and for providing a Maintenance and Residence for the Mirtifter or perpetual Curate thereof. [24th May 1810.]
+43 G. 3. c. cxvii. An Act to amend and render more effcdual an Ad of His present Majesty, for erecting a new Church, to be called Christ Churchy in the Town of Birmingham in the County of Warwick} and for providing a Maintenance and Residence for the Mirtifter or perpetual Curate thereof. [24th May 1810.]
 
 Cap. cxxxi.
 
@@ -16874,7 +16864,7 @@ An Act for the more equally aflefiing and colleding the Poor Ratei within the Ha
 
 Cap.cxxxiu
 
-46 G. 3. c. mix. An Ad to enable the Company of Proprietors of the West Mid&tfn
+46 G. 3. c. mix. An Act to enable the Company of Proprietors of the West Mid&tfn
 
 * [j60,0001.] Waterworks to raise a further Sum of Money*; and to alrer, vary, amend and enlarge the Powers of the Ad passed in the Forty sixth Year of lus present Majesty, for making the said Waterworks; and for extending the same. [24th May 1810.]
 
@@ -16890,7 +16880,7 @@ Sunday.']
 
 Cap. cxxxiv.
 
-3oG.3.(T.)c.46. An Ad to amend an Ad, passed in the Parliament of Ireland, in the repealed, as to Thirtieth Year of His Majesty's Reign, for repairing the Turnpike Power to divide Road leading from Kinnegad to Athlone. . [24th May 1810.3
+3oG.3.(T.)c.46. An Act to amend an Ad, passed in the Parliament of Ireland, in the repealed, as to Thirtieth Year of His Majesty's Reign, for repairing the Turnpike Power to divide Road leading from Kinnegad to Athlone. . [24th May 1810.3
 
 " [New Tolls.]
 
@@ -17048,7 +17038,7 @@ An Act for more effectually amending, widening and keeping in Repair the Roads l
 
 Cap. civ.
 
-An Ad to enable Sir Henry St. John Carevt St. John Mildmay Baronet, to exercise certain Powers of jointuring and charging certain settled Estates in the County of Essex with Portions for younger Children, (q. P.) [id Vanr 18x0.]
+An Act to enable Sir Henry St. John Carevt St. John Mildmay Baronet, to exercise certain Powers of jointuring and charging certain settled Estates in the County of Essex with Portions for younger Children, (q. P.) [id Vanr 18x0.]
 
 Cap. dvi.
 
@@ -18020,7 +18010,7 @@ An Act for altering and amending an Ad made in the Forty third Year of His prese
 
 Cap. clxix.
 
-An Ad to amend an Ad, made in the Tenth Year of His present Majesty, for paving, repairing, cleansing, lighting and watching the Streets and other publick Passages in the Town of South-a nipt on• [9th June 1810.]
+An Act to amend an Ad, made in the Tenth Year of His present Majesty, for paving, repairing, cleansing, lighting and watching the Streets and other publick Passages in the Town of South-a nipt on• [9th June 1810.]
 
 Cap. clxx.
 
@@ -18142,7 +18132,7 @@ An Act for more effrdually cleansing, lighting and * atebing the Borough and Tow
 
 * Cap. clxxxviii.
 
-43 G. 9. c.slvii. An Ad to continue for Two Years an Ad passed in the Forty eighth Year of His grefeut Maje^y, for prevent ng the Right of rre-
+43 G. 9. c.slvii. An Act to continue for Two Years an Ad passed in the Forty eighth Year of His grefeut Maje^y, for prevent ng the Right of rre-
 
 feutatiou
 
@@ -18198,7 +18188,7 @@ j*# GEO. III.
 
 Cap. cxcv.
 
-An A St for vetting a certain Plot of Land on Wandon otherwlfe Wavendon Heath in the County of Buckingham, in the Mod Noble John Duke of Bedford in Fee Simple, and for charging the same and certain Ettates of the said Duke with a perpetual Annual Rent Charge, to be payable to the Churchwardens and Overseers of the Poor of the Parish of Wandon otherwHe Wavendon in the said County, in Manner and upon the Trusts therein mentioned, (q. P.) [15th June
+An A St for vetting a certain Plot of Land on Wandon otherwise Wavendon Heath in the County of Buckingham, in the Mod Noble John Duke of Bedford in Fee Simple, and for charging the same and certain Ettates of the said Duke with a perpetual Annual Rent Charge, to be payable to the Churchwardens and Overseers of the Poor of the Parish of Wandon otherwHe Wavendon in the said County, in Manner and upon the Trusts therein mentioned, (q. P.) [15th June
 
 Cap. cxcvi.
 
@@ -18498,7 +18488,7 @@ improve the Docks and Works already made, and also to make, complete and maintai
 
 XXI* Provided always, and be it further enacted, That it shall he lawful for the said Company to make another Entrance into the River Thames, at any Point between Trinity Street and the Ead or lower Side of the Premises in the PoiTeilion of Medieurs Young and Wallis* usually known by the Name of the Lavender Dock, and for that Purpose to cut through such Part of Rotherhithe Street as shall b* necessary for the making such Entrance ; and the f?id Company shall, ia such Case, make a good and sufficient Bridge, and keep the Came in repair, as directed by this Act, and make good all such Parts of the said Street, or any Parts adjoining thereto, as shall be damageef *n making such Entrance; provided always, that it shall not be lawful for the said Company to take any Houses, Buildings, Lands, Tenements or Ifereditaments, for the Purposes of making such Entrance, without the Consent of the Owners and Occupiers ^hereof in Writing first had and obtained.
 
-XXII. And be it further enacted, That the said Company, ia making these Docks and other Works, shall not deviate from or extend beyond the Line described in the said Map or Plan deported in the QQce pf the Clerk of the Peace for the County of Surrey, ip and the said Schedule, marked (A ) hereunto annexed, without the Consent in Writing of the Person or Persons whose Lands or Pre-mifea shall be wanted for their Purpose; but it shall be lawful for the said Company, with such Consent, to purchase any Lands, Tenements qr Hereditaments^ for all or any of the Purposes afgresaid, although the same shall not be within the said Line, not exceeding Twenty Acres in the Whole, to be so purchased with such Consent as aforesaid; Provided always, that nothing in this Act contained shall extend or be construed to extend to authorize or empowev the said Company, or any Person or Perfqns on their Behalf, to take qr make use of, for the Purposes of this Act, any Houses, Gardens or Orchards, without the Consent of the Owners or Proprietors thereof iq Writing, fird had and obtained; save and except the Houses* Buildings, Lands, Tenements and other Hereditaments, mentioned apd described m the Schedule hereunto annexed, marked (A.)
+XXII. And be it further enacted, That the said Company, ia making these Docks and other Works, shall not deviate from or extend beyond the Line described in the said Map or Plan deported in the QQce of the Clerk of the Peace for the County of Surrey, ip and the said Schedule, marked (A ) hereunto annexed, without the Consent in Writing of the Person or Persons whose Lands or Pre-mifea shall be wanted for their Purpose; but it shall be lawful for the said Company, with such Consent, to purchase any Lands, Tenements qr Hereditaments^ for all or any of the Purposes afgresaid, although the same shall not be within the said Line, not exceeding Twenty Acres in the Whole, to be so purchased with such Consent as aforesaid; Provided always, that nothing in this Act contained shall extend or be construed to extend to authorize or empowev the said Company, or any Person or Perfqns on their Behalf, to take qr make use of, for the Purposes of this Act, any Houses, Gardens or Orchards, without the Consent of the Owners or Proprietors thereof iq Writing, fird had and obtained; save and except the Houses* Buildings, Lands, Tenements and other Hereditaments, mentioned apd described m the Schedule hereunto annexed, marked (A.)
 
 XXHI. And be it further enacted, That the said Company shall have full Power and Authority to supply the Docks, Basons, and other Works already made, or hereafter to be made, or any of them,, at all times hereafter, with Water from the River Thames, ami all such Brooks, Springs, Rivulets, Rivers, Waters and Water-courses, as shall be found ia the digging and making the said Docks or Basons, and other Works respectively.
 
@@ -19052,7 +19042,7 @@ pf making this Act His Majesty, or the Mayor and Commonalty
 
 Sad Citizens of the City of London, or the Lord Mayor of the said
 
-City for the time being, as Conservator pf the River of Thames and
+City for the time being, as Conservator of the River of Thames and
 
 Waters of Medway^ aid or might lawfully claim, use or exercise;
 
@@ -19072,9 +19062,9 @@ I, XXXIII. Provided also, *nd be it further enacted, That no- Prorifo for Rights
 
 herwife Bjllingfgate Porters) from exercising and enjoying within the said Wet Docks, and other Work$ already made, pr to he made by virtpp of this Act, the Right of Meafurage and Porterage of alj. Cpro, Grain , and §ecd of what Kind foevpr, and of Salt,
 
-and Fruit, and of fdl other Merchandizes mpafurable, or to be mea-(predf at the Rates and Prices as regulated and settled, or to be regulated and settled, by the .Lord Mayor, Aldermen and Commons pf the City of London, in Common Council assembled, in such and the same manner in every refpe^f as they now and heretofore have •pjoyed such Right of Meafu*a£€ and Porterage in any Part of the Ifert of London,
+and Fruit, and of fdl other Merchandizes mpafurable, or to be mea-(predf at the Rates and Prices as regulated and settled, or to be regulated and settled, by the .Lord Mayor, Aldermen and Commons of the City of London, in Common Council assembled, in such and the same manner in every refpe^f as they now and heretofore have •pjoyed such Right of Meafu*a£€ and Porterage in any Part of the Ifert of London,
 
-L*XXXIV. Provided alfp, and be .it further enacted, That no- Rcfcmng IWr tfc#ig bi this A^ contained shall extend, or be .cpnffrued to extend, ofgu-siugWine* to prohibit, defeat, alter or dimiuifh any Power, Authority or Ju- and other Article# riffi&ipn which at the time pf making this Act the Mayor* or £L»d Doeksta Cownooajty or Citizens of the pity of London,, or the Lord Mayor Lity of London, pf the said City for the. time being, or bis Deputy to the Exercise of guaging all Wines, Qjl, Hopey, and other gu*gable Merchan-<ftrc, imported, or brought into the hud Wft Pocks already made or tp be made by virtue of t hip Aft, by the River of Thames, or to be exported therefrom, nor to prejudice or derogate from any other the Right*? Privileges, Liberties* Tolls, Customs, Dues, Duties and Commodities of the said Mayor, Commonalty and Citizens of the City of London, but that the said May^r fur the time being, or his Deputy, shall exercise and enjoy the Rights of gauging within the said Wet Docks already made, or to be made, as aforesaid, and upon
+L*XXXIV. Provided alfp, and be .it further enacted, That no- Rcfcmng IWr tfc#ig bi this A^ contained shall extend, or be .cpnffrued to extend, ofgu-siugWine* to prohibit, defeat, alter or dimiuifh any Power, Authority or Ju- and other Article# riffi&ipn which at the time pf making this Act the Mayor* or £L»d Doeksta Cownooajty or Citizens of the pity of London,, or the Lord Mayor Lity of London, of the said City for the. time being, or bis Deputy to the Exercise of guaging all Wines, Qjl, Hopey, and other gu*gable Merchan-<ftrc, imported, or brought into the hud Wft Pocks already made or tp be made by virtue of t hip Aft, by the River of Thames, or to be exported therefrom, nor to prejudice or derogate from any other the Right*? Privileges, Liberties* Tolls, Customs, Dues, Duties and Commodities of the said Mayor, Commonalty and Citizens of the City of London, but that the said May^r fur the time being, or his Deputy, shall exercise and enjoy the Rights of gauging within the said Wet Docks already made, or to be made, as aforesaid, and upon
 
 L 1 2 the
 
@@ -19116,7 +19106,7 @@ A.DaSio. 5d° GEO. UL C. ccvii. 5*r
 
 4 Given under my Hand and Seal, the Day and Year Rrft raen-4 tioned.'
 
-LXXXVIII. And be it further enacted, That for the Purposes foweT of this Act, the said Company, their Deputies, Agents, Officers ,mo and Workmen, are hereby authorized and empowered, from and immediately after the passing of this Act, to enter upon any Lands and Grounds whatsoever, for the Purpose of furveytng, taking and levelling of, and marking out the Ground and Premises intended to be made use of for the Purpose of making the said Dock or Docks | they, the said Company, their Deputies, Agents, Officers and Workmen, doing as little Damage as may be, and giving Three Days Notice in Writing, signed by their Clerk, to the Occupier or Occupiers of such Lands, Tenements, Houses, Buildings, Grounds or Hereditaments, and making Satisfaction for all Damage that shall be done.
+LXXXVIII. And be it further enacted, That for the Purposes foweT of this Act, the said Company, their Deputies, Agents, Officers ,mo and Workmen, are hereby authorized and empowered, from and immediately after the passing of this Act, to enter upon any Lands and Grounds whatsoever, for the Purpose of surveytng, taking and levelling of, and marking out the Ground and Premises intended to be made use of for the Purpose of making the said Dock or Docks | they, the said Company, their Deputies, Agents, Officers and Workmen, doing as little Damage as may be, and giving Three Days Notice in Writing, signed by their Clerk, to the Occupier or Occupiers of such Lands, Tenements, Houses, Buildings, Grounds or Hereditaments, and making Satisfaction for all Damage that shall be done.
 
 LXXXIX. Provided always, and be it further enacted, That tl.e Error in Schedule said Company shall and may make the said Dock or Docks, and the 10 liie Roads and Bridges connected therewith, and take Poisession, for *j|^loPur" the Purposes of this Act, of any of the Houses, Buildings, Lands,
 
@@ -19164,7 +19154,7 @@ lave been left at the Office of the said Company, make such neafon-able Compensa
 
 XCIV. Afcd be it farther ena^ed, That if any Action or Suit shall Claim* for Date brought or commenced again (I any Person or Persons, Bodies nsge 10 bejnade Politick or Corporate, for any Thing done in pursuance of tV® Ad, J*1"rwo . every £uch Ad*on or Suit shall be brought or commenced within Six Calendar Months next after the Fad committed, or in case there /hall te a Continuation of Damages, then within Two Months after the doing or committing such ©amage shall have ceased, and not afterwarm, and shall be laid and brought in the County where the Matter in Difpote or Cause fall arise, and not elsewhere ; asd the Defendant or Defendants in such Action or Suit shall and may plead the General Iffoe, and give this Act and the Special Matter in £vi- Geacril Issue. dence, at any Trial to be had thereupon, and that the same was done in purfpance and by the Authority of this Act ; and if it fall appear to Ijave beea so done, or if any Action or Suit fall be brought after the time so limited for bringing the ferine* or in any other County • or - Place than as aforesaid, then ana in every such case the Jury fail find for the Defendant or Defendants } or if the Plaintiff or Plaintiffs (haU becoms sonfuitedof his, her or fair Action or fat, after the _
 
-Defendant or Defendants shall have appeared, or if a Verdict shall pass again ft the Plaintiff or Plaintiffs, or if upon Demurer ofotherwife Judgment shall be given agaiuft the Plaintiff or Plaintiffs, the ©e-* fondant or Defendants shall have Cods, and shall have such Remedy Costs. for the same as any Defendant hath for Colts of Suit in other Cases by Law,
+Defendant or Defendants shall have appeared, or if a Verdict shall pass again ft the Plaintiff or Plaintiffs, or if upon Demurer ofotherwise Judgment shall be given agaiuft the Plaintiff or Plaintiffs, the ©e-* fondant or Defendants shall have Cods, and shall have such Remedy Costs. for the same as any Defendant hath for Colts of Suit in other Cases by Law,
 
 XCV. Atid be it further enacted and declared, That this Act fall. Publiok Ad. be deemed and taken to be a Publick Ad, ^nd fall be judicially taken Notice of as such by all Judges, Justices,. and others, without bost% JpeciaBy pleaded.
 
@@ -19672,7 +19662,7 @@ So* GEO. III.
 
 To V* divided Into Shares of tool. each.
 
-im the Property of the said late Theatre Royal Drury Za/fi, and the Profits and Property thereof, and then for and toward! rebuilding, cre&iog and finishing the said intended new Theatre, and the fuiTomdnw Buildings and Improvement9 necessary thereto, and in ptmcbafaig, making axul completing the Se$nery, Machinery, Wardrobe, Furniture, Music, Decorations, and other Appendages, and otherwise for carrying this Act into Execution ; and that the said Sum of Three hundred thousand Pounds shall be divided into Shares of One hundred Pounds each, and that the Qqd Shares . shall be and they are hereby veiled in the said several Per fops and Bodies Politick, Corporate or Collegiate, £0 fqbscribing, and their fereral and respective Executors, Adminiftraton, Suceeftbrs and Af« signs, to their and every of their proper Use and Benefit, proportion-aWy to the several Sums they shall several ly pay and contribute, and all Bodies Politick, Corporate and Collegiate, and all other Persons, their several and respective SuccefTors, Executors, Adminiilrators and Assigns, who Audi several ly subscribe for Ooe or more Share or Sham, shall be entitled to, and receive the entire and net Ciftribution of an equal proportionable Part according to the Money so by them respectively paid of the Prodts and Advantages that shall and may arise aod accrue from the Sums of Money to be raised, recovered or received from the said Theatre and Property by the said Company of Proprietors : Provided always, that in case the said Company of Proprietor* shall not contta& and agree with all the Persons inter tiled in the said ^Theatre, and other Property, for the Purchase of such several Inte-refrs within- the Term of Two Years from the passing pf this Act, then, and in such Case, this Act and all the Matters and Things therein contained shall become null and yoid.
+im the Property of the said late Theatre Royal Drury Za/fi, and the Profits and Property thereof, and then for and toward! rebuilding, cre&iog and finishing the said intended new Theatre, and the fuiTomdnw Buildings and Improvement9 necessary thereto, and in ptmcbafaig, making axul completing the Se$nery, Machinery, Wardrobe, Furniture, Music, Decorations, and other Appendages, and otherwise for carrying this Act into Execution ; and that the said Sum of Three hundred thousand Pounds shall be divided into Shares of One hundred Pounds each, and that the Qqd Shares . shall be and they are hereby veiled in the said several Per fops and Bodies Politick, Corporate or Collegiate, £0 fqbscribing, and their fereral and respective Executors, Adminiftraton, Suceeftbrs and Af« signs, to their and every of their proper Use and Benefit, proportion-aWy to the several Sums they shall several ly pay and contribute, and all Bodies Politick, Corporate and Collegiate, and all other Persons, their several and respective SuccefTors, Executors, Adminiilrators and Assigns, who Audi several ly subscribe for Ooe or more Share or Sham, shall be entitled to, and receive the entire and net Ciftribution of an equal proportionable Part according to the Money so by them respectively paid of the Prodts and Advantages that shall and may arise aod accrue from the Sums of Money to be raised, recovered or received from the said Theatre and Property by the said Company of Proprietors : Provided always, that in case the said Company of Proprietor* shall not contta& and agree with all the Persons inter tiled in the said ^Theatre, and other Property, for the Purchase of such several Inte-refrs within- the Term of Two Years from the passing of this Act, then, and in such Case, this Act and all the Matters and Things therein contained shall become null and yoid.
 
 IIL And be k further enad&ed, That all and every the Shares and Proportions of all Bodies Politick, Corporate and Collegiate, and *11 other Person and Persons, of and in the said Undertaking or the Joint Stock or Fund of the said Company of Proprietors, shall be and be deemed to be Personal Ell ate and traofmimble as such, and not of the Nature of Real Property.
 
@@ -19960,7 +19950,7 @@ XXIV. And be it further enacted, That this Act shall be .deemed and taken to be 
 
 Cap. eexv.
 
-An Ad to alter and.amend the Lydney and Ltdbrook Railway Ad, to vaty certain Parts of the said Railway, and to extend the same from -Lidbrock to Bjhop's IVood, and from the Lower Forge to the Crop Ptilj and for making a Basin and Canal to communicate with the River Severn vx Nafs Pqint. [21ft June 1810.]
+An Act to alter and.amend the Lydney and Ltdbrook Railway Ad, to vaty certain Parts of the said Railway, and to extend the same from -Lidbrock to Bjhop's IVood, and from the Lower Forge to the Crop Ptilj and for making a Basin and Canal to communicate with the River Severn vx Nafs Pqint. [21ft June 1810.]
 
 Cep. eexvi.
 
@@ -20198,7 +20188,7 @@ A*D.l8lO*
 
 50* GEO. in.
 
-and in every such Case, it shall and may be lawful to and for die bid Commissioners, by Writing under their Hands and Seals* to nonti« nate and appoint some other tit and proper Person (not interested in die said Divifipn and Inclosure) to be a Surveyor in the Room or Stead of every Surveyor so dying* refusing or negfe&ing to ad or becoming incapable of acting in the Execution of the find recited Act and this Act $ and every Surveyor so nominated and appointed shall have the like Powers and Authorities* and shall be fulled and liable to the like Rules* Regulations and Restrictions as it he had been originally appointed a Surveyor by virtue of this Act* SaTveyortomakt VII* And be it further enacted, That as soon as conveniently-may be the said Surveyor shall proceed to make an accurate Survey and Plan as well of all Messuages* Cottages and Sckes thereof as of all Lands and Grounds in whatsoever Manor* Parish* To wo ship, Hamlet or Place the same are fit ante, in respect whereof the Owners or Occupiers of the same respectively are entitled to a Right of Commonage upon the Open Commonable Lands and Grounds to be indofed by virtue of this Act or any Part thereof (fave and except such Lands and Grounds as have teen already surveyed and are hereafter directed not to be again surveyed or planned) and shall enquire and find out and in and by the Survey and Plan thereof, and in a Book of Reference to the lame, set forth a minute and exact Account of all and singular the Premises so furveyed* und the Quantity and Contents of each several Field, Inclosure, and Parcel of Land thereof, with the Names of all and every the Owners and Occupiers thereof* respectively, thereby dilUnguiming such of the ^ Premises as are of Freehold Tenure from such as are of Copyhold or Customary or Leasehold Tenures* and of what particular Manors or Loidfhips or Persons the said Copyhold or Customary or Leasehold Tenements are feveraily and respectively holden*
+and in every such Case, it shall and may be lawful to and for die bid Commissioners, by Writing under their Hands and Seals* to nonti« nate and appoint some other tit and proper Person (not interested in die said Divifipn and Inclosure) to be a Surveyor in the Room or Stead of every Surveyor so dying* refusing or negfe&ing to ad or becoming incapable of acting in the Execution of the find recited Act and this Act $ and every Surveyor so nominated and appointed shall have the like Powers and Authorities* and shall be fulled and liable to the like Rules* Regulations and Restrictions as it he had been originally appointed a Surveyor by virtue of this Act* SaTveyortomakt VII* And be it further enacted, That as soon as conveniently-may be the said Surveyor shall proceed to make an accurate Survey and Plan as well of all Messuages* Cottages and Sckes thereof as of all Lands and Grounds in whatsoever Manor* Parish* To wo ship, Hamlet or Place the same are fit ante, in respect whereof the Owners or Occupiers of the same respectively are entitled to a Right of Commonage upon the Open Commonable Lands and Grounds to be indofed by virtue of this Act or any Part thereof (fave and except such Lands and Grounds as have teen already surveyed and are hereafter directed not to be again surveyed or planned) and shall enquire and find out and in and by the Survey and Plan thereof, and in a Book of Reference to the lame, set forth a minute and exact Account of all and singular the Premises so surveyed* und the Quantity and Contents of each several Field, Inclosure, and Parcel of Land thereof, with the Names of all and every the Owners and Occupiers thereof* respectively, thereby dilUnguiming such of the ^ Premises as are of Freehold Tenure from such as are of Copyhold or Customary or Leasehold Tenures* and of what particular Manors or Loidfhips or Persons the said Copyhold or Customary or Leasehold Tenements are feveraily and respectively holden*
 
 Proprietors pro- VIII. And be it further enacted* That it shall and may be law-ducing approved ful for any Person or Persons having in bis, her or their Custody or
 
@@ -20398,7 +20388,7 @@ C. ccrriii. 50* GEO. III. AJD.itia
 
 or conveyed.
 
-XXIX. And be it further enacted, That the said Comniffionecw /hall mark and set out such Part and Parti of the said Purlieus or Open Commonable Lands and Grounds hereby directed to be dt- trided, allotted and inclosed (other than and except His Majesty's kid Lands, aod the said Six hundred Acres (o hereinafter ve wed in and awarded to the King'* Majesty, and to the said Thomas ThtJHsihaparta in Compensation of his Rights as Warden of the said Forest as aforesaid) as by the Sale thereof, will, in the Judgment of the said Cona-sniffioners, raise a fufficieat Sum of Money, to defray and difebarge all the Costs, Charges and Ex peaces incident to and attending the obtaining and palfitig of this Act, and of preparing and tnralliitg the Award to be made by the said Commissioners, and of furveying* admeasuring, planning, valuing, dividing, fencing and allotting the Lands sod Grounds to be divided, feneed, allotted and mdosed, by virtue of this Act. and of surveying, admeafuring and planning fad1 other Lands as shall by virtue of this Act be surveyed, vneafured mad planned, and all the Charges of the said Commissioners, their AJ-feFors, Clerks, Assistants and Servants, and all the other necessary Expences of the several Perfont to be employed by the said CommiU (ioners in and about the same, and all the Expences of formings completing and repairing the publick Carriage Roads and High* ways, to be set out by the said Commissioners as afo refold, and aO Other Expences of carrying this Act into Execution; and that it shall be lawful for the said Commissioners, as soon after the passing of this Act as they /hall think proper, and so from time to time aa often as they fhaH think necessary, to fell by publick Sale by Auction, in the manner and subject to the Directions and Regulations mentioned and prescribed in. and by the said recited Act unto any Ferfon or Pferfons, such Part or Parts of the said Opes Common* able Lands and Grounds hereby directed to be divided, allotted and inclosed, as they shall mark and set out and deem fufficieat fee the Purposes a fore fa id, amPthe Purchase Mosey of the said Lands so to be sold as aforesaid shall be paid into the Hands of the said Com* mtlftoners, and the Rcoeipt or Receipts of the said Commissioners for such Purchase Money, shall he a fufficsent DHcharge to the Pur* chafer or Purchasers for the same; and immediately after such Receipt or Receipts shall be given to such Purchaser or Furchafev* the Allotments, Pieces or Parcels of Land (o pnrohafed bj him, her or them, shall by virtue of this Act become vetted in built her or them, and his, twr and their rvfoedive Heirs and Aftns, in absolute Fee Simple, and shall be inclosed and held in Severalty, by the Pur. chafer or Purchasers thereof refpedivelv as his, her or their private and absolute Property, and shall be allotted accordingly by the said Commissioners, and the kid Purchase Money kail be app&d in defraying such Charges and Expenses as aforckid.
+XXIX. And be it further enacted, That the said Comniffionecw /hall mark and set out such Part and Parti of the said Purlieus or Open Commonable Lands and Grounds hereby directed to be dt- trided, allotted and inclosed (other than and except His Majesty's kid Lands, aod the said Six hundred Acres (o hereinafter ve wed in and awarded to the King'* Majesty, and to the said Thomas ThtJHsihaparta in Compensation of his Rights as Warden of the said Forest as aforesaid) as by the Sale thereof, will, in the Judgment of the said Cona-sniffioners, raise a fufficieat Sum of Money, to defray and difebarge all the Costs, Charges and Ex peaces incident to and attending the obtaining and palfitig of this Act, and of preparing and tnralliitg the Award to be made by the said Commissioners, and of surveying* admeasuring, planning, valuing, dividing, fencing and allotting the Lands sod Grounds to be divided, feneed, allotted and mdosed, by virtue of this Act. and of surveying, admeafuring and planning fad1 other Lands as shall by virtue of this Act be surveyed, vneafured mad planned, and all the Charges of the said Commissioners, their AJ-feFors, Clerks, Assistants and Servants, and all the other necessary Expences of the several Perfont to be employed by the said CommiU (ioners in and about the same, and all the Expences of formings completing and repairing the publick Carriage Roads and High* ways, to be set out by the said Commissioners as afo refold, and aO Other Expences of carrying this Act into Execution; and that it shall be lawful for the said Commissioners, as soon after the passing of this Act as they /hall think proper, and so from time to time aa often as they fhaH think necessary, to fell by publick Sale by Auction, in the manner and subject to the Directions and Regulations mentioned and prescribed in. and by the said recited Act unto any Ferfon or Pferfons, such Part or Parts of the said Opes Common* able Lands and Grounds hereby directed to be divided, allotted and inclosed, as they shall mark and set out and deem fufficieat fee the Purposes a fore fa id, amPthe Purchase Mosey of the said Lands so to be sold as aforesaid shall be paid into the Hands of the said Com* mtlftoners, and the Rcoeipt or Receipts of the said Commissioners for such Purchase Money, shall he a fufficsent DHcharge to the Pur* chafer or Purchasers for the same; and immediately after such Receipt or Receipts shall be given to such Purchaser or Furchafev* the Allotments, Pieces or Parcels of Land (o pnrohafed bj him, her or them, shall by virtue of this Act become vetted in built her or them, and his, twr and their rvfoedive Heirs and Aftns, in absolute Fee Simple, and shall be inclosed and held in Severalty, by the Pur. chafer or Purchasers thereof refpedivelv as his, her or their private and absolute Property, and shall be allotted accordingly by the said Commissioners, and the kid Purchase Money kail be app&d in defraying such Charges and Expenses as aforckid.
 
 XXX. And be it further enacted. That in case such Part or Parte of the said Open Commonable Lands and Grounds hereby directed to be sold as hereinbefore mentioned, shall be sold for more Money than wiQ be required to defray such Costs, Charges and Expences as aforesaid, then, and in such Case, fuck Surplus Mooey shall ho divided and apportioned, between the Several Purlieu Owner* and
 
