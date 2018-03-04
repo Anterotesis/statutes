@@ -40,7 +40,7 @@ A Table containing the Titles of all the Statutes Passed During The Session:—
 
 Public General Acts - v
 
-Local Acts - xiv 
+Local Acts - xiv
 
 Private Acts - xxxiv
 
@@ -285,7 +285,9 @@ lxi. An Act to confirm a Provisional Order made by the Local Government Beard fo
 lxii. An Act to confirm an Order made by the Board of Trade under The Sea Fisheries Act, 1868, relating to Bosham.
 
 lxiii. An Act for confirming certain Provisional Orders made by the Board of Trade under The General Pier and Harbour Act, 1861, relating to Bouldnor, Broadstairs, East Loch Tarbert, Felixstowe, Filey, Fishguard, Fraserburgh, Ilfracombe, Lochaline, Newlyn, and Sandhaven.
+
 ---
+
 lxxxi. An Act for confirming certain Provisional Orders made by the Board of Trade under The Gas and Waterworks Facilities Act, 1870, relating to Fleetwood Gas, Midsomer Norton Gas, Holywell Water, and Monmouth Gas and Water.
 
 iTmrii. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Districts of Buxton, Clayton, Crewe, Hitchin, Idle, Leyton, Nottingham (two), Shanklin, Walthamstow, Wellingborough, and Wimbledon.
@@ -740,8 +742,6 @@ Clxiii. An Act to enable the London and Blackwall Railway Company to enlarge the
 
 Clxiv. An Act to authorise the Provost, Magistrates, and Town Council of the Burgh of Dumbarton to supply the Burgh and adjacent district with Gas; to erect a Pier in the River Clyde, and road of approach thereto; and for other purposes.
 
-Tooele
-
 Local Acts.
 
 xxvii
@@ -1002,7 +1002,7 @@ Table B.—Acts of former Sessions (in chronological order) Repealed and Amended
 
 (A.)
 
-Acts of 36 & 37 Yict. (in order of Chapter) showing their effect on former Acts.
+Acts of 36 & 37 Vict. (in order of Chapter) showing their effect on former Acts.
 
 Ch.
 
@@ -1010,9 +1010,9 @@ Ch.
 
 2. Polling Districts (Ireland) [I.]
 
-Amends 35 & 36 Yict c. 33., Ballot Act, 1872.
+Amends 35 & 36 Vict c. 33., Ballot Act, 1872.
 
-Repeals section 19 of 13 & 14 Yict. c. 69., Parliamentary Voters (Ireland).
+Repeals section 19 of 13 & 14 Vict. c. 69., Parliamentary Voters (Ireland).
 
 [Amended by Ch. 30.]
 
@@ -1020,11 +1020,11 @@ Repeals section 19 of 13 & 14 Yict. c. 69., Parliamentary Voters (Ireland).
 
 4. Somerset House (King's College Lease) [E.]
 
-Recites 25 & 26 Yict. c. 93., Thames Embankment.
+Recites 25 & 26 Vict. c. 93., Thames Embankment.
 
 5. Epping Forest [E.l
 
-Amends 34 & 35 Viet. c. 93. and 35 & 36 Yict. c. 95.
+Amends 34 & 35 Viet. c. 93. and 35 & 36 Vict. c. 95.
 
 6. Turks and Caicos Islands [C.]
 
@@ -1042,7 +1042,7 @@ Repeals sections 6 and 8, and Second Schedule, of 35 & 36 Viet. c. 65. Revives r
 
 10. Mutiny [U.K.]
 
-Applies 26 & 27 Yict. c. 57., Regimental Debts.
+Applies 26 & 27 Vict. c. 57., Regimental Debts.
 
 „ Acts relating to Military Prisons.
 
@@ -1050,11 +1050,11 @@ Applies 26 & 27 Yict. c. 57., Regimental Debts.
 
 12. Custody of Infants [E. & L]
 
-Repeals 2 a 3 Yict. c. 54.
+Repeals 2 a 3 Vict. c. 54.
 
 13. Salmon Fisheries Commissioners [E.]
 
-Amends 28 & 29 Yict. c. 12].
+Amends 28 & 29 Vict. c. 12].
 
 d
 
@@ -1739,8 +1739,6 @@ Grand Jury Presentments Amended 34
 (Ireland)— Superannua-
 
 tion.
-
-Tooele
 
 Act repealed or amended.
 
@@ -3070,8 +3068,6 @@ c. 28. c. 29. c. 30. c. 31. ss. 3., 5. c. 32. ss. 2., 5. Supply. Militia Ballots
 
 c. 33. c. 36. 8. 1. c. 37. s. 1. c. 38. c. 39. s. 8. c. 41. 88. 1., 6. c. 42. s. 1. c. 47. 8. 1. c. 50. c. 51. in pt. c. 52. Relief of Insolvent Debtors (Ireland). Commitments by Courts of Equity for Contempts, &c. Criminal Trials (Scotland). Relief of Insolvent Debtors (England). Transportation of Offenders from Great Britain, Army Pensions. Office of Treasurer of the Navy. Payment of Debts out of Real Estate. Duties on Sugar imported. Duties on Cyder ana on Beer and Ale. Militia Pay. g
 
-Tooele
-
 Act repealed by 36 & 37 Vict. c. 91. Subject-matter.
 
 11 Geo. 4. & 1 Will. 4. c. 54. in pt. J c. 58. ss. 1., 6. Reviving, continuing, and amending several Acts relating to the Fisheries. Receipt and Appropriation of Fees and Emoluments, Common Law Courts.
@@ -3148,7 +3144,7 @@ Ch. 2.
 
 A 2
 
-4 Ch. 2. Polling Districts {Ireland). 36 Yict.
+4 Ch. 2. Polling Districts {Ireland). 36 Vict.
 
 (5.) In case at any such court of revision it appears to the chairman holding the same that there is in the order relating to such county or riding, confirmed in manner aforesaid, any error, then if it shall be proved to the satisfaction of such chairman that any such error is merely clerical, he shall at once correct the same, but if any such error shall not be proved to the satisfaction of such chairman to be merely clerical he shall forthwith report the same to the clerk of Her Majesty's Privy Council in Ireland; and it shall be lawful for the Lord Lieutenant or other chief governor or governors of Ireland, by and with the advice of Her Majesty's Privy Council in Ireland, to make an order authorising such chairman to correct such error in manner to be specified in such order, and such chairman shall thereupon correct such error in conformity with such order; and such chairman shall sign his name to each such correction, upon such order so confirmed, and then and in every such case the said order shall be read and construed as if the same had originally contained the said correction :
 
@@ -3156,7 +3152,7 @@ A 2
 
 Repeal of 3, Section forty-six of the Act passed in the session of
 
-Yict Parliament held in the thirteenth and fourteenth years of the c. 69. reign of Her present Majesty, chapter sixty-nine, shall be and
+Vict Parliament held in the thirteenth and fourteenth years of the c. 69. reign of Her present Majesty, chapter sixty-nine, shall be and
 
 Courts of the same is hereby repealed ; and in lieu thereof be it enacted, heTdTaMuallv ^hat the chairman of every county or riding shall in every year, between the eighth day of September and the twenty-fifth day of October, both inclusive, make a circuit and hold open courts for the revision of the lists of voters in such county or riding at the several places in such county or riding at which courts for the revision of lists of voters were held in the year one thousand eight hundred and seventy-two, or at such of the said places and such other places, or at such other places as the Lord Lieutenant or other chief governor or governors of Ireland, by and with the advice of Her Majesty's Privy Council in Ireland may from time to time, by order to be published in the Dublin Gazette name and appoint. Every such order may specify the polling district or districts the lists of and for which shall be revised at each of such courts, and thereupon such lists shall be so revised. Every court of revision held in accordance with the provisions of this section shall be deemed to be held under the said Act passed in the
 
@@ -3174,7 +3170,7 @@ for such city, town, or borough, held next after the passing of this Act, shall,
 
 A 3
 
-Cfl. 2. Polling Districts (Ireland). 36 Yict.
+Cfl. 2. Polling Districts (Ireland). 36 Vict.
 
 SCHEDULE.
 
@@ -3234,7 +3230,7 @@ The endorsement shall be as follows: County of .
 
 Polling district of Polling place
 
-Ch. 3. Consolidated Fund (.£9,317,346 19s. 9d) 36 Yict.
+Ch. 3. Consolidated Fund (.£9,317,346 19s. 9d) 36 Vict.
 
 Issue of 453,346/.19s.9d. out of the Consolidated Fund for the service of the years ending 31st March 1872 and 1873.
 
@@ -3716,15 +3712,13 @@ I
 
 I
 
-36 Yict.
+36 Vict.
 
 disobey any lawful command of his superior officer; or who being confined in a military prison shall offer any violence against a visitor or other his superior military officer being in the execution of his office; all and every person and persons so offending in any of the matters before mentioned, whether such offence be committed within this realm or in any other of Her Majesty's dominions, or in foreign parts, upon land or upon the sea, shall suffer death, or penal servitude, or such other punishment as by a court-martial shall be awarded : Provided always, that any non-commissioned officer or soldier attested for or in pay in any regiment or corps who shall, without having first obtained a regular discharge therefrom, enlist himself in Her Majesty's army, may be deemed to have deserted Her Majesty's service, and shall be liable to be punished accordingly.
 
 Judgment of 16. In all cases where the punishment of death shall have death may be been awarded by a general court-martial or detachment general pen^servi-01 court-martial it shall be lawful for Her Majesty, or, if in any tude or other place out of the United Kingdom or British Isles, for the punishments, commanding officer having authority to confirm the sentence, instead of causing such sentence to be carried into execution, to order the offender to be kept in penal servitude for any term not less than five years, or to suffer such term of imprisonment, with or without hard labour, and with or without solitary confinement, as shall seem meet to Her Majesty, or to the officer commanding as aforesaid.
 
 Embezzlement, 17. Any officer or soldier of Her Majesty's army, or any &C *°h Sh?r<h Person employed in the War Department, or in any way pernd servitude, concerned in the care or distribution of any money, provisions, or by fine, im- forage, arms, clothing, ammunition, or other stores belonging pnsonraent, &c. ^ jjer Majesty's army or for Her Majesty's use, who shall embezzle, fraudulently misapply, wilfully damage, steal, or receive the same, knowing them to have been stolen, or shall be concerned therein or connive thereat, may be tried for the same by a general court-martial, and sentenced to be kept in penal servitude for any term not less than five years, or to suffer such punishment of fine, imprisonment with or without hard labour, dismissal from Her Majesty's service, reduction to the ranks if a warrant or non-commissioned officer, as such court shall think fit, according to the nature and degree of the offence; and every such offender shall, m addition to any other punishment, make good at his own expense the loss and damage sustained, and in every such case the court is required to ascertain by evidence the amount of such loss or damage, and to declare by their sentence that such amount shall be made good by such offender; and the loss and damage so ascertained as aforesaid shall be a debt to Her Majesty, and may be recovered in any of Her Majesty's courts at Westminster or in Dublin, or the Court of Exchequer in Scotland,
-
-Tooele
 
 Oh. 10.
 
@@ -3738,7 +3732,7 @@ C 2
 
 A8 to execution of sentences of penal servitude in the United Kingdom.
 
-28 Ch. TO. Mutiny. , 36 Yict.
+28 Ch. TO. Mutiny. , 36 Vict.
 
 Bench; and the said clerk shall have a fee of two shillings and sixpence only for filing the same, and shall, on application, deliver a certificate in writing (not taking more than two shillings and sixpence for the same) to such offender or to any person applying in his or Her Majesty's behalf, showing the Christian and surname of such offender, his offence, the place where the court was held before which he was convicted, and the conditions on which the order of penal servitude was made; which certificate shall be sufficient proof of the conviction and sentence of such offender, and also of the terms on which such order for his penal servitude was made, in any court and in any proceeding wherein it may be necessary to inquire into the same.
 
@@ -3760,7 +3754,7 @@ C 3
 
 . 30 Ch. 10.
 
-Mutiny. 36 Yict.
+Mutiny. 36 Vict.
 
 Of forfeitures, when combined with penal servitude.
 
@@ -3830,7 +3824,7 @@ other than the military prisons set apart by the authority of prisoners in this 
 
 Oh. 10.
 
-36 Vicr.
+36 Vict.
 
 34
 
@@ -3958,7 +3952,7 @@ Dissent and relief from enlistment
 
 Attesting of recruits.
 
-Ch. 10. Mutiny* 36 Vicr.
+Ch. 10. Mutiny* 36 Vict.
 
 he shall remain with the recruiting party Bhall be entitled to be billeted.
 
@@ -4026,7 +4020,7 @@ Soldiers may be transferred from one service to another.
 
 Re-engagement of soldiers for a further term.
 
-Ch. 10. Mutiny. 36 Yict.
+Ch. 10. Mutiny. 36 Vict.
 
 53. When any corps shall be relieved or disbanded at any station beyond the seas it shall be lawful for any officers thereunto authorised by the officer commanding in chief at such station to receive as transfers as many of the soldiers belonging to the corps leaving the station as shall be willing and fit for service for any corps appointed to remain; and every soldier so transferred is hereby deemed to be discharged from his former corps, and an attested certificate of transfer shall be delivered to the soldier.
 
@@ -4244,8 +4238,6 @@ and the condition of the ways by which such carriages and vessels are to pass ; 
 
 75. Every soldier enlisted in Great Britain or Ireland shall, when entitled to his discharge, if then serving abroad, be sent home, if he shall so require, free of expense, and shall be entitled to receive marching money from the place of his being landed (or, if discharged at home, shall receive marching money from the place of his discharge,) to the parish or
 
-Tooele
-
 1873. Mutmy. Oh. 10. 61
 
 place in which he shall have been originally enlisted, or at which he shall at the time of his discharge decide to take up his residence (if the cost of conveyance to such place shall not exceed the cost of conveyance to the place of his original enlistment) : Provided that nothing in this section shall apply to soldiers appointed sergeant instructors, or attached for completion of service, to the reserve forces.
@@ -4272,7 +4264,7 @@ Penalty on unlawful recruiting.
 
 Penalty for inducing soldiers to desert
 
-pH. M). Mutmy. 36 Yict.
+pH. M). Mutmy. 36 Vict.
 
 78. Any person (except the Army Purchase Commissioners and persons acting under their authority by virtue of the provisions of the Regulation of the Forces Act, 1871,) who shall negotiate, act as agent for, or otherwise aid or connive at the sale "or purchase of any commission in Her Majesty's army shall forfeit for every such offence the sum of one hundred pounds; and any person who shall negotiate, act as agent for, or otherwise aid or connive at any exchange in respect of which any sum of money or other consideration exceeding the sum or consideration sanctioned by the military authorities shall be given or received shall forfeit for every such offence the sum of one hundred pounds.
 
@@ -4310,7 +4302,7 @@ Ch. 10.
 
 Mutiny.
 
-36 Vicr.
+36 Vict.
 
 for every such offence, upon conviction thereof by a board of not less than three of the visitors of the prison, to be imprisoned, either with or without hard labour, for any time not exceeding six calendar months, in addition to his original sentence, or to be subjected to corporal punishment not exceeding fifty lashes, or upon conviction thereof by a single visitor to be imprisoned, with or without hard labour, for any time not exceeding seventy-two hours, in addition to his original sentence, or to be subjected to corporal, punishment not exceeding twenty-five lashes; or if such soldier shall, within forty-eight hours of the expiration of his original or of any additional sentence, be guilty of any offence against the rules of the prison, he may for every such offence, on conviction thereof by a board or by a single visitor, be ordered to be kept in prison for a period not exceeding seventy-two hours either in a dark cell or in a light cell, and with or without hard labour, on a bread and water diet, or otherwise ; Certain pro- and all the provisions of any Act or Acts of Parliament for fb?re!rt^Ct# re£u*ati°11 or better ordering of gaols, houses of correction,
 
@@ -4366,7 +4358,7 @@ Ch. 10.
 
 Mubmy.
 
-36 Vicr.
+36 Vict.
 
 68
 
@@ -4457,8 +4449,6 @@ Mutiny.
 98. It shall be the duty of all officers and soldiers to observe and conform to the provisions contained in "The Regimental Debts Act, 1863/' and in the regulations for the better execution of the purposes of the said Act prescribed from time to time by warrant under the Royal Sign Manual.
 
 99. In all places in India where any body of Her Majesty's forces may be serving situate beyond the jurisdiction of any court of small causes established by or under the authority of the Governor General of India in Council, actions of debt and all personal actions against officers or against persons licensed to act as sutlers, or other persons amenable to the provisions of this Act not being soldiers, shall be cognizable before a court of requests composed of military officers, and not elsewhere, provided the value in question shall not exceed four hundred rupees, and that the defendant was a person of the above description when the cause of action arose, which court the commanding officer of any camp, garrison, cantonment, or military post is hereby authorised and empowered to convene. Whenever owing to paucity of officers, or to any other cause, a court of requests cannot conveniently be held at the station where the defendant or defendants may be, it shall be lawful for the officer commanding the division or district to authorise the assembly of a court by the officer commanding at the nearest place where such court can be formed. Courts of requests shall in all practicable cases consist of five commissioned officers, and in no instance of less
-
-Tooele
 
 1873.
 
@@ -4886,7 +4876,7 @@ such punishments as shall accord with the provisions of this Act; provided that 
 
 H 2
 
-36 Vicr.
+36 Vict.
 
 Powers of divisional and detachment courts-martial
 
@@ -5102,7 +5092,7 @@ or when absent without leave.
 
 Stoppages.
 
-Cff. 11. Marine Mutiny. 3G Yict.
+Cff. 11. Marine Mutiny. 3G Vict.
 
 receive either the whole of such arrears of pay, or a proportion thereof, and to reckon service during his absence; and any marine who shall be convicted of desertion, or of absence without leave, shall, in addition to any punishment awarded by the court, forfeit his pay for the day or days during which he was in a state of desertion, or during his absence without leave; and if any marine shall absent himself without leave for any period, and shall not account for the same to the satisfaction of the commanding officer, or if any marine shall be guilty of any other offence which the commanding officer may not think necessary to bring before a court-martial, the commanding officer may, in addition to any minor punishment he is authorised to award, order that such marine shall be imprisoned for such period not exceeding one hundred and sixty-eight hours, with or without hard labour, and with or without solitary confinement, as the said commanding officer may think fit, and such marine shall forfeit his pay for any day or days on which he may be so imprisoned; and the said commanding officer may moreover order that, in addition to or instead of such imprisonment and forfeiture, or any other punishment which he has authority to inflict, any marine who shall have so absented himself as aforesaid shall forfeit his pay for the day or days during which he shall have so absented himself; and, in pursuance of any such order as aforesaid, the pay of the marine shall be accordingly forfeited: Provided always, that such marine shall not be liable to be afterwards tried by a court-martial for any offence for which he shall have been so punished, ordered to suffer imprisonment, punishment, or forfeiture as last aforesaid: Provided also, that any marine who shall be so ordered to suffer imprisonment or forfeiture of pay shall, if he so request, have a right to be tried by a court-martial for his offence instead of submitting to such imprisonment or forfeiture : Provided also, that it shall be lawful for the said Lord High Admiral or the said Commissioners to order or withhold the payment of the whole or any part of the pay of any officer or marine during the period of absence by any of the causes aforesaid.
 
@@ -5132,7 +5122,7 @@ Ch. 11.
 
 Marine Mutiny.
 
-36 Vicr.
+36 Vict.
 
 forces in India, in the event of the sentence of transportation or penal servitude being commuted to imprisonment, to order such award of forfeiture, deprivation of pay, or stoppages of pay to be enforced, mitigated, or remitted as may be deemed expedient.
 
@@ -5192,7 +5182,7 @@ A sentence of imprisonment or of penal servitude passed either by a court-martia
 
 43. Every gaoler or keeper of any public prison, gaol, Notice to be house of correction, or other place of confinement, to whom ^radorfof i"m-
 
-106 Ch. 11. Marme Mutiny. 36 Yict.
+106 Ch. 11. Marme Mutiny. 36 Vict.
 
 prisonment in any notice shall have been given, or who BhaJl have reason to
 
@@ -5250,7 +5240,7 @@ Call.
 
 Marine Mutiny.
 
-36 Yict.
+36 Vict.
 
 Penalty on marines attempting to desert from head quarters.
 
@@ -5570,7 +5560,7 @@ the amount of twenty-one days marching money) to enable
 
 him to reach his home, or the place at which he shall at the time of his discharge decide to take up his residence, if the cost of conveyance to such a place shall not exceed the cost of conveyance to the place of his original enlistment, which
 
-128 Ch. 11. Marine Mutiny. 36 Vicr.
+128 Ch. 11. Marine Mutiny. 36 Vict.
 
 allowance shall be calculated according to the distance he has to travel: Provided always, that no person who shall purchase his own discharge, or be discharged on account of misbehaviour, or at his own desire, before the expiration of his period of service, shall be entitled to any such allowance.
 
@@ -5595,8 +5585,6 @@ enter into or break open the dwelling-house or outhouse of deserters with-any pe
 Ch. 11. Marine Mutiny. 36 Vict.
 
 deserter, or any other person acting for or on his behalf, upon any account or pretence whatsoever, or who shall solicit or entice any marine or marine deserter, or shall be employed by any marine or marine deserter, knowing him to be such, to sell any arms, ammunition, medals for good conduct or dis-tinguishment, or other service, marine clothes, or military furniture, or any other articles which, according to the custom of the marine corps, are generally deemed regimental or divisional necessaries, or any provisions, sheets, or other articles used in barracks or provided under barrack regulations, whether on shore or afloat, and whether the marine or marine deserter or other person be or be not borne on the books of any one of Her Majesty's ships, or be or be not embarked, or who shall have in his or her possession or keeping any arms, ammunition, medals, marine clothes, or military furniture, or any other articles which, according to the custom of the marine corps, are generally deemed regimental or divisional necessaries, or any provisions, spirits, sheets, or other articles used in barracks or provided under barrack regulations, and shall not give a satisfactory account how he or she came by the same, or shall change or cause the colour or mark of any such clothes, appointments, necessaries, sheets, or other articles to be changed or defaced, or who shall pawn, sell, or deposit in any place or with any person such articles of regimental necessaries, with or without the consent of such marine, shall forfeit for every such offence any sum not exoeeding twenty pounds, together with treble the value of all or any of the several articles; and if any person having been at any time previously convicted of either of the above offences under this or any previous Act for the regulation of Her Majesty's Royal Marine forces while on shore shall afterwards be guilty of any such oflence, he or she shall for every such offence forfeit any sum not exceeding twenty pounds but not less than five pounds, and the treble value of all or any of the several articles, and shall, in addition to such forfeiture, be committed to the common gaol or house of correction, there to be imprisoned only, or to be imprisoned with or without hard labour, for such term not exceeding six calendar months as the convicting justice or justices shall think fit; and upon any information against any person for a second or any subsequent offence, a copy of the former conviction, certified by the proper officer having the care or custody of such conviction, or any copy of the same proved to be a true copy, shall be sufficient evidence to prove such former conviction; and if any credible person shall prove, on oath before a justice of the peace or person exercising like authority according to the laws of that part of Her Majesty's dominions in which the offence shall be committed, a reasonable cause to suspect that any person has in his or her possession or on his or her premises any property of the description herein-before described, on or with respect
-
-Tooele
 
 1873. Marine Mutiny. Cff. 11. 131
 
@@ -6062,8 +6050,6 @@ An Act to amend the Law relating to Marriages in Ireland in certain cases. [15th
 
 WHEREAS doubts have been entertained whether the provisions of the Act passed in the twenty-sixth year of the reign of Her present Majesty, chapter twenty-seven, relating to the registration of places of public worship in
 
-Tooele
-
 1873. Marriages in Ireland. Ch. 16. 147
 
 Ireland, and the solemnization of marriages therein, extend to places of public worship used by any church or religious community who are not Roman Catholics and who do not describe themselves as Protestant:
@@ -6226,9 +6212,7 @@ of any bond or obligation, or by the terms of any instrument gtoek to be in writ
 
 agreement or contract, shall, unless such option and notice be Stocks, Funds, declared and given as herein-after provided, be deemed in law or Securities
 
-Tooele
-
-Ch. 17. East India Stock Dividend Redemption. 36 Vicr.
+Ch. 17. East India Stock Dividend Redemption. 36 Vict.
 
 offered by way and equity to be satisfied by making a transfer of such an tioiTante?" amonn^ any Stocks, Funds, or Securities which may be noticegiTen. offered by the Secretary of State in Council for the acceptance of the proprietors of East India Stock, by way of commutation as aforesaid, as would upon an assent by a person entitled thereto be receivable in respect of such an amount of East India Stock as under such condition, terms, agreement, or con-As to payment tract should be transferred; and where any person or persons of dividend. ghall, at tiie time of the passing of this Act, be bound by the condition of any bond or obligation, or by the terms of any instrument in writing, or by any agreement or contract, to pay half-yearly sums equal to the Dividends on any specified amount of East India Stock, every such bond, obligation, instrument, agreement, or contract shall be satisfied by the payment of half-yearly sums equal to the Dividends of or upon such amount of any Stocks, Funds, or Securities which may be offered by the Secretary of State in Council for the acceptance of the proprietors of East India Stock, by way of commutation as aforesaid, as would upon an assent by a person entitled thereto be receivable in respect of such specified amount of East India Stock.
 
@@ -6568,7 +6552,7 @@ In lieu of the duty of excise now chargeable upon sugar used in brewing there sh
 
 Ch. 18,19. Customs Inland Revenue.
 
-36 Vicr.
+36 Vict.
 
 Interpretation.
 
@@ -6818,7 +6802,7 @@ Short title of Act.
 
 34 & 35 Viet* c. 25.
 
-Ch. 23, 24. Supemnnuation Act Arnendment. 36 Yict.
+Ch. 23, 24. Supemnnuation Act Arnendment. 36 Vict.
 
 1. The Commissioners of Her Majesty's Treasury may, if they think fit, at any time before the first day of January one thousand eight hundred and seventy-four, with the concurrence of the Civil Service Commissioners, and on application being made to them for that purpose by the head or heads of any public department of the State, declare by order or warrant that any person who has been appointed to a permanent situation in such department without a certificate from the Civil Service Commissioners after the passing of the said Superannuation Act, 1859, and before the fourth day of June one thousand eight hundred and seventy, was so appointed through inadvertence on the part of the head or heads of such department, and without any default on the part of the person so appointed, and every person with respect to whom such order or warrant may be issued shall be in the same position as regards his claim to a superannuation allowance or gratuity, under the said Superannuation Act, 1859, as he would have been in if he had been admitted into the Civil Service with a certificate from the Civil Service Commissioners.
 
@@ -6968,7 +6952,7 @@ day of his holding the summer quarter sessions of the peace or civil bill court 
 
 Juries (Ireland).
 
-36 Vicr.
+36 Vict.
 
 Powers to correct jurors books may be exercised by any judge, &c.
 
@@ -7668,8 +7652,6 @@ Be it therefore enacted by the Queen's most Excellent Majesty, by and with the a
 
 2. In each county in which the register of persons entitled Alteration of to vote at any election of a member or members to serve in dates* Parliament for such county to be made in pursuance of the provisions of section eighteen of the Ballot Act, as amended by the Polling Districts (Ireland) Act, 1873, is not completed and delivered to the sheriff before the first day of June one thousand eight hundred and seventy-three, the commencement of the usual annual formation of the register of persons entitled to vote at any election of a member or members to serve in Parliament for such county, and all subsequent proceedings in relation thereto, shall in the year one thousand eight hundred and seventy-three be respectively postponed from the said first day of June, and the other days now by law prescribed, until the tenth day of July then next and such other days as are by this Act prescribed ; and for the purpose of forming such register in every such county in the said year one thousand eight hundred and seventy-three the enactments mentioned in the first column of the schedule to this Act shall be construed as if the dates mentioned in the third column of the said schedule were substituted for the dates in the second column of the said schedule opposite to which they are placed; and all acts, matters, and things required to be done or published on the days and at the times prescribed by the
 
-Tooele
-
 Ch. SO.
 
 Hegistvation {Ireland).
@@ -7774,7 +7756,7 @@ Column 8. Substituted Date.
 
 194
 
-Ch. 31. Matrimonial Causes Acts Amendment. 36 Vicr.
+Ch. 31. Matrimonial Causes Acts Amendment. 36 Vict.
 
 Extension of sect. 7. of 23 & 24 Viet, c. 144. and sect. 3. of 29 & 30 Viet, c. 32. to suits for nullity of marriage.
 
@@ -7990,7 +7972,7 @@ L That notwithstanding anything in the said Act contained, Grand juries it shall
 
 Ch. 35.
 
-County Authorities (.Loans). 86 & 87 Yict.
+County Authorities (.Loans). 86 & 87 Vict.
 
 Short title.
 
@@ -8224,7 +8206,7 @@ I, the within-named A.B., [or, if an endorsement has previously been madey the a
 
 S 2
 
-208 Ch. 35, 36, County Authorities {Loans). 36 & 37 Vicr.
+208 Ch. 35, 36, County Authorities {Loans). 36 & 37 Vict.
 
 hereby transfer to the said C.D., his executors, administrators, and assigns, the within-contained county debenture, and all my estate and interest therein. In witness thereto I have hereunto affixed my seal this day of
 
@@ -8402,8 +8384,6 @@ WHEREAS by the Act of the third and fourth years of the reign of Her Majesty, ch
 
 " A plan may from time to time be laid before the Eccle-" siastical Commissioners for England by any of the said
 
-Tooele
-
 214
 
 Ch. 39.
@@ -8484,7 +8464,7 @@ And whereas under the provisions of section fifty-three of the Thames Embankment
 
 Ch. 40.
 
-Thames Embankment (Land). 36 & 37 Yict.
+Thames Embankment (Land). 36 & 37 Vict.
 
 Short title.
 
@@ -8696,7 +8676,7 @@ Shares, &c. to be registered a one office only.
 
 Share, &c. may be transferred from on
 
-Ch. 43. Indian Railways Registration. 36 & 37 Yict.
+Ch. 43. Indian Railways Registration. 36 & 37 Vict.
 
 registration, and transfer of shares, stock, bonds, and securities of the Company, and the registration of transfers of shares, stock, bonds, and securities, and the registration of shareholders, and may from time to time remove or alter the place of any such office, and may make such regulations, consistent with the provisions of this Act, as they think fit, for enabling and facilitating the issue, registration, and transfer of shares, stock, bonds, and securities, and the registration of transfers of shares, stock, bonds, and securities, and the registration of shareholders at such office, and all and every the powers and provisions in relation to the issue, transfer, and registration of shares, stock, bonds, and securities, and the registration of transfers of shares, stock, bonds, and securities, and the registration of shareholders in Great Britain, contained in any deed of settlement or Act of Parliament under or by which the Company shall be constituted or governed, shall apply and be in force as to the shares, stock, bonds, and securities, and the registration of transfers thereof, and the registration of shareholders, to be issued, transferred, registered and made at such office in India, except so far as the same are inconsistent with the provisions of this Act.
 
@@ -8744,7 +8724,7 @@ Definitions.
 
 Definition of warrant.
 
-Ch.44. National DM Commissioners {Annuities). 36& 37 Vicr.
+Ch.44. National DM Commissioners {Annuities). 36& 37 Vict.
 
 Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
@@ -9348,7 +9328,7 @@ both Houses of Parliament within fourteen days after the making thereof if Parli
 
 Ch. 48.
 
-Railway and Canal Traffic. 36 & 37 Yict.
+Railway and Canal Traffic. 36 & 37 Vict.
 
 Determination of fees.
 
@@ -9414,7 +9394,7 @@ And whereas by section forty-four of the Public Health 35 & 36 Viet Act, 1872, t
 
 And whereas it is expedient to authorise such advances as herein-after mentioned for the purposes of loans to school boards, under section fifty-seven of the Elementary Education Act, 1870 (in this Act referred to as school loans), and of loans to sanitary authorities under section forty-four of the Public Health Act, 1872 (in this Act referred to as sanitary loans):
 
-252 Ch. 49. Public Works Loan Conimissioners. 36 & 37 Yict.
+252 Ch. 49. Public Works Loan Conimissioners. 36 & 37 Vict.
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows ; (that is to say,)
 
@@ -9828,7 +9808,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 Ch. 55, 56.
 
-Medical Act Amendment. 36 & 37 Vicr.
+Medical Act Amendment. 36 & 37 Vict.
 
 complied with such conditions relating thereto, as may be agreed upon between the said University and the college or body, colleges or bodies, with whom the said University may be united or co-operating as aforesaid.
 
@@ -10352,7 +10332,7 @@ The term " treaty " includes any convention, agreement, engagement, or arrangeme
 
 286
 
-Ch. 59. Slave Trade (East African Courts). 36 & 37 Yict.
+Ch. 59. Slave Trade (East African Courts). 36 & 37 Vict.
 
 Jurisdiction of courts in regard to slave vessels, slaves, goods, and effects.
 
@@ -10504,8 +10484,6 @@ Peijury, and subornation of peijury, whether under common or statute law.
 
 Any indictable offence under the Larceny Act, 1861, or any Act amending or substituted for the same, which is not included in the first schedule to the principal Aet.
 
-Tooele
-
 291
 
 1873. Extradition Act, 1870 (Amendment). Ch. 60,61.
@@ -10636,7 +10614,7 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 Ch. 63.
 
-Lem Agents (Scotland). 86 & 37 VlCT.
+Lem Agents (Scotland). 86 & 37 VICT.
 
 Admission, enrolment, and powers of Law Agents.
 
@@ -10706,7 +10684,7 @@ Exceptions to the rule that applicant shall undergo examination as to fitness to
 
 Law Agents (Scotland).
 
-36 & 37 Yict.
+36 & 37 Vict.
 
 admission shall be in writing and signed by a judge of the Court, and shall be stamped with the stamps required by law to be impressed on the admission of Law Agents.
 
@@ -10747,8 +10725,6 @@ by law on admission to practise as an Agent before the Court of Session shall be
 be entitled to subscribe the said roll, and the Sheriff Clerk shall be paid a fee of five shillings for each subscription, and every Agent shall, on subscribing the said roll, deliver to the Sheriff Clerk a note specifying his place of business, and shall deliver a similar note so often as he shall change the same.
 
 14. It shall be lawful for the Lord President of the Court Lord President of Session, from time to time, to issue rules and directions may make rules with respect to -the keeping and subscription of the rolls ^bscribSf^ directed to be kept by the two preceding sections, and such rolls.
-
-Tooele
 
 Borrowing
 
@@ -10896,7 +10872,7 @@ Cc 2
 
 Ch. 64.
 
-Ecclesiastical Commissioners. 36 & 37 Yict,
+Ecclesiastical Commissioners. 36 & 37 Vict,
 
 cathedral church of Chichester; and it is expedient to repeal part of the said proviso: Be it therefore enacted, that so much of the said proviso in section fifty-one of the Ecclesiastical Commissioners Act, 1840, as relates to any dignity, office, or prebend which is permanently annexed to any bishopric shall be repealed as from the avoidance of the same bishopric which happens next after the passing of this Act, or as from any earlier date at which the bishop, by an instrument in writing under his hand, registered in the registry of the diocese of such bishopric, signifies his assent that such repeal shall take effect so far as regards his bishopric; and when such repeal takes effect (in the case of any bishopric) the said dignity, office, or prebend shall be severed from the bishopric, and shall be subject to the provisions of the Ecclesiastical Commissioners Act, 1840, and the Acts amending the same relating to non-residentiary prebends.
 
@@ -10911,8 +10887,6 @@ Order to effect 5. After the date of the publication of an Order in Council tran
 Short titles of 0. The Acts mentioned in the schedule to this Act are Act8* in this Act referred to and may be cited by the short titles
 
 set opposite their names, and this Act may be cited as the Ecclesiastical Commissioners Act, 1873.
-
-Tooele
 
 Ecclesiastical Canvmisdicmers, Ch. 64, 65.
 
@@ -10947,8 +10921,6 @@ Be it therefore enacted by the Queen's most Excellent Majesty, by and with the a
 L From and after the passing of this Act it shall not be Grand juries necessary, save as is herein-after provided, for the sheriff of the county of Dublin, or for the sheriff of the county of the the Court of city of Dublin, to summon a grand jury of the county of Queen's Bench Dublin, or a grand jury of the county of the city of Dublin, to attend the Court of Queen's Bench at Dublin, unless such receive notice.
 
 Cc 3
-
-Tooele
 
 Ch. 65,66. Court of Queen's Bench ( ) 36 & 37 Tier.
 
@@ -11014,7 +10986,7 @@ Ch. 66.
 
 Constitution of Court of Appeal.
 
-Supreme Court of Judicature. 36 & 37 Yict.
+Supreme Court of Judicature. 36 & 37 Vict.
 
 England, the Master of the Rolls, the Lord Chief Justice of the Common Pleas, and the Lord Chief Baron, and their successors respectively, shall continue to be appointed to the same respective offices, with the same precedence, and by the same respective titles, and in the same manner, respectively, as heretofore. Every Judge who shall be appointed to fill the place of any other Judge of the said High Court of Justice shall be styled in his appointment " Judge of Her Majesty's High Court of Justice," and shall be appointed in the same manner in which the Puisne Justices and Junior Barons of the Superior Courts of Common Law have been heretofore appointed : Provided always, that if at the commencement of this Act the number rof Puisne Justices and Junior Barons who shall become Judges of the said High Court shall exceed twelve in the whole, no new Judge of the said High Court shall be appointed in the place of any such Puisne Justice or Junior Baron who shall die or resign while such whole number shall exceed twelve, it being intended that the permanent number of Judges of the said High Court shall not exceed twenty-one.
 
@@ -11178,7 +11150,7 @@ or any one or more of the Judges of the said Courts, respectively, sitting in Co
 
 Ch. 66.
 
-Supreme Court of JudAcatw'e. 36 & 37 Vicr.
+Supreme Court of JudAcatw'e. 36 & 37 Vict.
 
 (4.) All jurisdiction and powers of the Court of Exchequer Chamber:
 
@@ -11294,8 +11266,6 @@ tenant for life any legal right to commit waste of the description known as equi
 
 (7.) Stipulations in contracts, as to time or otherwise, which would not before the passing of this Act have been deemed to be or to have become of the essence of such contracts in a Court of Equity, Bhall receive
 
-Tooele
-
 1873. Swpreme Court of Judicature. Ch. 66. 321
 
 in all Courts the same construction and effect as they would have heretofore received in equity.
@@ -11389,8 +11359,6 @@ Any Judge of any of the said Divisions may be transferred by Her Majesty, under 
 Upon any vacancy happening among the Judges of the said High Court, the Judge appointed to fill such vacancy shall, subject to the provisions of this Act, and to any Rules of Court which may be made pursuant thereto, become a member of the same Division to which the Judge whose place has become vacant belonged.
 
 Power to alter 32. Her Majesty in Council may from time to time, upon Divisions by any report or recommendation of the Council of Judges of
-
-Tooele
 
 SwjM'eme Court of Judicature.
 
@@ -11626,8 +11594,6 @@ before whom such cause or matter may bepending, for'inquiry and report to any of
 
 60. And whereas it is expedient to facilitate the prosecution in country districts of such proceedings as may be more
 
-Tooele
-
 1873. Supreme Court of Judicature. Ch. 66. 335
 
 speedily, cheaply, and conveniently carried on therein, it shall tries in the be lawful for Her Majesty, by Order in Council, from time country for the to time to direct that there shall be District Registrars in such Supreme ^onrt places as shall be in such order mentioned for districts to be thereby defined, from which writs of summons for the commencement of actions in the High Court of Justice may be issued, and in which such proceedings may be taken and recorded as are herein-affcer mentioned ; and Her Majesty may thereby appoint that any Registrar of any County Court, or any Registrar or Prothonotary or District Prothono-tary of any local Court whose jurisdiction is hereby transferred to the said High Court of Justice, or from which an appeal is ‘hereby given to the said Court of Appeal, or any person who, having been a District Registrar of the Court of Probate, or of the Admiralty Court, shall under this Act become and be a District Registrar of the said High Court of Justice, or who shall hereafter be appointed such District Registrar, shall and may be a District Registrar of the said High Court for the purpose of issuing such writs as aforesaid, and having such proceedings taken before him as are herein-after mentioned. This section shall come into operation immediately upon the passing of this Act.
@@ -11646,7 +11612,7 @@ alter, a Table of Fees to be taken by such District Registrars in respect of all
 
 Ch. 66.
 
-Supreme Court of Judicature. 36 & 37 Vicr.
+Supreme Court of Judicature. 36 & 37 Vict.
 
 Proceedings to be taken in District Registries.
 
@@ -11828,7 +11794,7 @@ Ch. 66.
 
 Supreme Court of Judicature.
 
-36 & 37 Vicr.
+36 & 37 Vict.
 
 him such sum, either by way of compensation, or as an addition to his salary, as it thinks just, having regard to the tenure of office by such officer and to the other circumstances of the case.
 
@@ -12134,8 +12100,6 @@ Abatement.
 
 Form of plead-ings.|
 
-Tooele
-
 354
 
 Power to settle issues.
@@ -12202,7 +12166,7 @@ Court, without reference to the division of the High Court to which such actions
 
 Ch. .66.
 
-Supreme Court of Judicature. 36 & 37 Yict.
+Supreme Court of Judicature. 36 & 37 Vict.
 
 Mode of trying actions.
 
@@ -12280,7 +12244,7 @@ may make an order for the preservation or interim custody of the subject-matter 
 
 on such terms as to the Court or Judge may seem desirable, of
 
-358 Cff. 66. Supreme Court of Judicature. 36 & 37 Vicr.
+358 Cff. 66. Supreme Court of Judicature. 36 & 37 Vict.
 
 any goods, wares, or merchandise which may be of a perishable nature or likely to injure from keeping, or which for any other just and sufficient reason it may be desirable to have sold at once.
 
@@ -12622,7 +12586,7 @@ Evening sittings of revision court.
 
 Ch. 70.
 
-36 & 37 Vicr.
+36 & 37 Vict.
 
 Adjournment of court by revising barrister.
 
@@ -12922,8 +12886,6 @@ Penalty on 22. In all fishery districts in which licenses are payable witu>ut8al
 
 to take or kill, salmon by any means whatsoever other than a properly licensed fishing weir, fishing mill dam, fixed engine, instrument, net, ol* device for catching or facilitating the catching of salmon, or assisting any such person in so doing,
 
-Tooele
-
 •1873.
 
 Salmon Fishery.
@@ -13218,7 +13180,7 @@ binding on all persons.
 
 Penalty on all persons, rebuilding weirs and making new weirs without fish passes, and raising or altering weirs so as to increase obstruction to passage of salmon.
 
-Ch. 71. Salmon Fishery. 36 & 37 Yict.
+Ch. 71. Salmon Fishery. 36 & 37 Vict.
 
 by all parties, and shall be sufficient to justify all persons acting under the same.
 
@@ -13254,7 +13216,7 @@ Ch.- 71.
 
 Salmon Fishery.
 
-36 & 37 VlCT.
+36 & 37 VICT.
 
 Provision as fish passes.
 
@@ -13288,7 +13250,7 @@ And it shall be lawful for the Secretary of State to approve and certify any fis
 
 Salmon Fishery.
 
-36 & 37 Yict.
+36 & 37 Vict.
 
 Amendment of sections 23, 24, and 26 of "The Salmon Fishery Act, 1861."
 
@@ -13614,7 +13576,7 @@ v^ooole
 
 406
 
-Expiring Laws Continuance. 36 & 37 Vicr.
+Expiring Laws Continuance. 36 & 37 Vict.
 
 Cff. 75.
 
@@ -13810,7 +13772,7 @@ Ch. 76.
 
 Railway Regulations.
 
-36 & 37 Vicr.
+36 & 37 Vict.
 
 SCHEDULES to which the foregoing Act refers. FIRST SCHEDULE.
 
@@ -14201,8 +14163,6 @@ misconduct by him as a member of the corps—or for other sufficient cause—the
 (a.) He is on board any of Her Majesty's ships or on march or duty with the corps or brigade to which he belongs, or any portion thereof, or (6.) He is engaged in any exercise or drill with such corps or brigade, or any portion thereof, or (c.) He is wearing the clothing or accoutrements of such corps or brigade, and is going to or returning from any of Her Majesty's ships or any place of exercise, drill, or assembly of such corps or brigade, or is otherwise on duty, disobeys any lawful order of any officer under whose command he then is, or is guilty of misconduct, the officer then in command of the corps or brigade, or any superior officer under whose command the corps or brigade then is, may order the offender, if an officer, into arrest, and if not an officer, into the custody of any volunteer belonging to the corps or brigade, or of any petty officer of the naval artillery volunteer permanent staff:
 
 Provided that the offender be not kept in such arrest or custody longer than during the time of the corps or brigade, or such portion thereof as aforesaid, then remaining on board any of Her Majesty's ships, or on march, or dutv, or continuing engaged in any such exercise or drill as aforesaid, or otherwise on duty, and for the purposes of this provision any such officer or volunteer or petty officer while going to or returning from any of Her Majesty's ships or any place of exercise, drill, or assembly of his corps shall [No. 36. Frice 2d.] N n
-
-Tooele
 
 be deemed to be on duty so long as he continues to wear the clothing or accoutrements of such corps or brigade:
 
@@ -16338,8 +16298,6 @@ The court to which such application is made may make such order as to the detent
 
 Qq 3
 
-Tooele
-
 Ch. 85. Merchant Shipping Acts Amendment. 36 & 37 Vict.
 
 Power for Board of Trade to vary requirements as to boats.
@@ -16363,8 +16321,6 @@ If he fails so to do, and no reasonable cause for such failure is shown, the col
 Every master or person in charge of a British vessel who fails, without reasonable cause, to render such assistance or give such information as aforesaid shall be deemed guilty of a misdemeanor, and if he is a certificated officer an inquiry into his conduct may be held, and his certificate may be cancelled or suspended.
 
 17. If in any case of collision it is proved to the court before which the case is tried that any of the regulations for preventing collision contained in or made under the Merchant
-
-Tooele
 
 463
 
@@ -17184,7 +17140,7 @@ The term * slave court " means every British slave court, every mixed commission
 
 The term " existing slave trade treaty" means a treaty made^by or on behalf of Her Majesty or Her Royal predecessors with any foreign state for the more effectual suppression of the slave trade and in force at the passing of this Act.
 
-Slave Trade (ConmUdation). 36 & 37 Vicr.
+Slave Trade (ConmUdation). 36 & 37 Vict.
 
 Visitation and seizure by cruisers, &c. oi suspected slave ships.
 
@@ -17285,8 +17241,6 @@ a further tonnage bounty at the rate of thirty shillings for every ton of the to
 Where any slave so condemned is not delivered over in consequence of death, sickness, or other inevitable circumstances, the Treasury may, if they think fit, pay to the seizors of such slave one moiety of the slave bounty which would have been due in respect of such slave if he had been delivered over.
 
 [No. 42. Price 2A] T t
-
-Tooele
 
 494 Ch. 88. Slave Trade (Consolidation). 86 & 37 Vict.
 
@@ -18038,7 +17992,7 @@ __ /
 
 the third column thereof, as from the dates specified in the fourth column thereof, be subject to the modifications specified in the fifth column thereof, and shall, to the same extent, as so modified, continue in force until the bonded debts are paid off, but in any case no longer than the dates specified in the sixth column thereof.
 
-512 Ch. 90. Turnpike Acts Continuance, <kc. 36 & 37 Vicr.
+512 Ch. 90. Turnpike Acts Continuance, <kc. 36 & 37 Vict.
 
 Schedule 11. 9. The Acts specified in the first and second columns of the
 
@@ -18398,13 +18352,11 @@ Date of Act. Title of Act.
 
 [iVo. 44. Price 2d] X x
 
-Tooele
-
 518
 
 Ch. 90.
 
-Turnpike Acts Continuance, <&c. 36 & 37 Vicr.
+Turnpike Acts Continuance, <&c. 36 & 37 Vict.
 
 Date of Act. Title of Act.
 
@@ -19222,7 +19174,7 @@ o
 
 Date of Act. ♦ Title of Act. Extent to which Act is modified and continued. Dates from which Modifications are to commence. Modifications. Dates up to which Continuation is enacted. Arrears of Interest extinguished.
 
-H & 15 Yict. o. cxxxiii. 112. An Act for repairing the road from Sheffield in the county of York to the Marple Bridge Road in the parish of Glossop in the county of Derby, and the branch to Mortimer's Road in the parish of Hathersage in the said county of Derby. The entire Act 1 November 1873 - Amount expended in repair of roads to be not less than 180/., and limited to 220/. per annum. Salaries limited to 40/. per annum. No interest payable. lsf of November 1875, and no longer.
+H & 15 Vict. o. cxxxiii. 112. An Act for repairing the road from Sheffield in the county of York to the Marple Bridge Road in the parish of Glossop in the county of Derby, and the branch to Mortimer's Road in the parish of Hathersage in the said county of Derby. The entire Act 1 November 1873 - Amount expended in repair of roads to be not less than 180/., and limited to 220/. per annum. Salaries limited to 40/. per annum. No interest payable. lsf of November 1875, and no longer.
 
 16 & 17 Viet. c. cxxyiii. 113. An Act to authorise the opening of a diversion of the Wakefield and Sheffield Turnpike Road, and for other purposes. The entire Act 1 November 1873 - Amount expended in repair of roads to be not less than 1,100/. and limited to 1,200/. per annum. Salaries and incidentals limited to 100/. per annum. Rate of interest not to exceed 2/. per cent, per annum. Iff of November 1876, and no longer.
 
@@ -20536,7 +20488,7 @@ Ch. 91.
 
 Statute Law Revision.
 
-36 & 37 VlCT.
+36 & 37 VICT.
 
 c. 33. An Act the title of which begins with the words,—An Act to continue, until the Expiration of Six Months,—and ends with the words,—Timber for Naval Purposes, from the British Colonies in North America, Duty free.
 
@@ -22026,7 +21978,7 @@ An Act for further continuing, until the Fifth Day of July One thousand eight hu
 
 An Act to continue the Laws now in force relating to Yeomanry Corps in Ireland.
 
-36 & 37 Vicr.
+36 & 37 Vict.
 
 c. 45. in part. An Act for building and promoting the building of\. .. ni.mpl__ additional Churches in populous Parishes - - Jm ' Sections One to Nine. Section Thirteen from " and in which the " to " mentioned Sections Eighteen and Twenty. Section Twenty-two, the words " be enrolled in the High Court of Chancery, and 99. Section Twenty-three, the words " enrolled and ". Sections Thirty-seven, Seventy-one, and Eighty-six. The rest of this Act so far as it confers power to enforce payment of any rate.
 
@@ -22270,7 +22222,7 @@ Ch. 91.
 
 Statute Lam) Revision.
 
-36 & 37 Vicr.
+36 & 37 Vict.
 
 c. 136. in part.
 
@@ -22384,7 +22336,7 @@ c. 27. in part. An Act to regulate the Appointment and Tenure of \ •  . , the 
 
 c. 31. An Act for raising the Sum of Twenty-nine Millions by Exchequer Bilb, for the Service of the Year One thousand eight hundred and twenty. 3 E 2
 
-36 & 37 Vicr.
+36 & 37 Vict.
 
 1
 
@@ -22447,8 +22399,6 @@ c. 77. An Act the title of which begins with the words,—An Act to continue,—
 c. 79. An Act for making Allowances to licensed Brewers in Ireland, on account of the additional Duty on Malt used by them within a certain Period.
 
 c. 81. An Act to amend several Acts made in the Fifty-seventh and Fifty-eighth Years of His late Majesty, for the Advance of Money for carrying on Public Works, and for other Purposes, so far as the said Acts relate to Ireland. 3 E 3
-
-Tooele
 
 36 & 37 Vict.
 
@@ -23624,7 +23574,7 @@ c. 50. An Act the title of which begins with the words,—An Act to defray,—an
 
 c. 51. An Act for further amending an Act passed in the Fourth Year of His present Majesty's Reign, for the better Administration of Justice in the Equity Side of the Court of Exchequer in Ireland.
 
-36 & 37 VlCT.
+36 & 37 VICT.
 
 c. 52. in part. An Act to consolidate and amend certain Laws relating' to the Revenue of Excise on Malt made in the United Kingdom; and for amending the Laws re- 1 . . # _oYri. lating to Brewers in Ireland, and to the Allowance * P * in respect of the Malt Duty on Spirits made in Scotland and Ireland from Malt only - - - J Sections Ten to Nineteen, Forty-seven to Fifty-three, Sixty-six to Seventy-five, Seventy-nine, Eighty, and Eighty-three.
 
@@ -23972,7 +23922,7 @@ Ch. 91.
 
 Statute Law Revision.
 
-36 & 37 Yict.
+36 & 37 Vict.
 
 c. 28. An Act to apply a Sum out of the Consolidated Fund and the Surplus of Ways ana Means to the Service of the Year One thousand eight hundred and twenty-nine.
 
@@ -24158,7 +24108,7 @@ Ch. 91.
 
 Statute Law Revision.
 
-36 & 37 VlCT.
+36 & 37 VICT.
 
 c. 64. in part. An Act to permit the general Sale of Beer and Cyder 1 ^ ^. njtme]v  by Retail in England - - - - J ^ Section Two from " together with the Christian name " to " sureties " for the party so to be licensed "; from " within ten days " to " upon the execution of such bond "; the words " and shall expire " at the end of twelve calendar months after the day on which such " license shall be dated 99; the words " shall be according to the form " in the schedule annexed to this Act, and "; from " nor to any " person" to " licensed to sell beer by retail "; and the words " and w of his sureties respectively ". So much of Section Thirty as incorporates or applies any repealed enactment. The Schedule.
 
@@ -24869,7 +24819,9 @@ Provisional Orders Confirmation:—Canterbury; Caterham; Denbigh ;
 Maidstone ; Weston-super-Mare. Ch. xlii.
 
 Ditto :—Holywell; Monmouth. Ch. lxxxi.
+
 ---
+
 [Index removed.]
 
 LONDON: Printed by George Edward Eyre and William Spottiswoode, Printers to the Queen's most Excellent Majesty. 1873.
