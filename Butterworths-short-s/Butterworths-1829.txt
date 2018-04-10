@@ -896,7 +896,7 @@ CAP.I.
 
 An Act for the Suppression of dangerous Associations*or Assemblies in Ireland. [5th March 1829.]
 
-* XTITHEREAS an Association hath for some Time past existed
+WHEREAS an Association hath for some Time past existed
 
 * 11 in Ireland, calling itself, or which hath been usually called 1 " The Catholic Association," the Acts and Proceedings of which c are dangerous to the Public Tranquillity and inconsistent with
 
@@ -1140,7 +1140,7 @@ An Act for punishing Mutiny and Desertion; and for the better Payment of the Arm
 
 [23d March 1829.]
 
-4 T¥THEREAS the raising or keeping a Standing Army within 4 YY the United Kingdom of Great Britain and Ireland\ in 4 Time of Peace, unless it be with the Consent of Parliament, is 4 against Law: And Whereas it is adjudged necessary by His 4 Majesty, and this present Parliament, that a Body of Forces
+WHEREAS the raising or keeping a Standing Army within 4 YY the United Kingdom of Great Britain and Ireland\ in 4 Time of Peace, unless it be with the Consent of Parliament, is 4 against Law: And Whereas it is adjudged necessary by His 4 Majesty, and this present Parliament, that a Body of Forces
 
 * should be continued, for the Safety of the United Kingdom, the 4 Defence of the Possessions of His Majesty's Crown, and the
 
@@ -2136,7 +2136,7 @@ CAP. VII.
 
 An Act for the Relief of His Majesty's Roman Catholic Subjects. [18th April 1829.]
 
-1 WHEREAS by various Acts of Parliament certain Restraints 1 11 and Disabilities are imposed on the Roman Catholic Sub-
+WHEREAS by various Acts of Parliament certain Restraints 1 11 and Disabilities are imposed on the Roman Catholic Sub-
 
 4 jects of His Majesty, to which other Subjects of His Majesty 4 are not liable: And Whereas it is expedient that such Restraints 4 and Disabilities shall be from henceforth discontinued: And 4 Whereas by various Acts certain Oaths and certain Declarations, 4 commonly called the Declaration against Transubstantiation, and 4 the Declaration against Transubstantiation and the Invocation of 4 Saints and the Sacrifice of the Mass, as practised in the Church * of Rome, are or may be required to be taken, made, and subscribed by the Subjects of His Majesty, as Qualifications for 4 sitting and voting in Parliament, and for the Enjoyment of certain Offices, Franchises, and Civil Rights:* Be it enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the Commencement of this Act all such Parts of the said Acts as require the said Declarations, or either of them, to be made or subscribed by any of His Majesty's Subjects, as a Qualification for sitting and voting in Parliament, or for the Exercise or Enjoyment of any Office, Franchise, or Civil Right, be and the same are (save as hereinafter provided and excepted) hereby repealed.
 
@@ -2274,7 +2274,7 @@ any such Person shall be elected to serve in Parliament as Aforesaid, such Elect
 
 X. And be it enacted, That it shall be lawful for any of His Majesty's Subjects professing the Roman Catholic Religion to hold, exercise, and enjoy all Civil and Military Offices and Places of Trust or Profit under His Majesty, His Heirs or Successors, and to exercise any other Franchise or Civil Right, except as hereinafter excepted, upon taking and subscribing, at the Times and in the Manner hereinafter mentioned, the Oath hereinbefore appointed and set forth, instead of the Oaths of Allegiance, Supremacy, and Abjuration, and instead of such other Oath or Oaths as are or may be now by Law required to be taken for the Purpose aforesaid by any of His Majesty's Subjects professing the Roman Catholic Religion.
 
-XI. Provided always, and be it enacted, That nothing herein contained shallbe construed to exempt any Person professing the Roman Catholic Religion from the Necessity of taking any Oath or Oaths, or making any Declaration, not herein-before mentioned, which are or may be by Law required to be taken or subscribed by any Person on his Admission into any such Office or Place of Trust or Profit as aforesaid.
+XI. Provided always, and be it enacted, That nothing herein contained shall be construed to exempt any Person professing the Roman Catholic Religion from the Necessity of taking any Oath or Oaths, or making any Declaration, not herein-before mentioned, which are or may be by Law required to be taken or subscribed by any Person on his Admission into any such Office or Place of Trust or Profit as aforesaid.
 
 XII. Provided also, and be it further enacted, That nothing herein contained shall extend or be construed to extend to enable any Person or Persons professing the Roman Catholic Religion to hold or exercise the Office of Guardians and Justices of the United Kingdom, or of Regent of the United Kingdom, under whatever Name, Style, or Title such Office may be constituted; nor to enable any Person, otherwise than as he is now by Law enabled, to hold or enjoy the Office of Lord High Chancellor, Lord Keeper or Lord Commissioner of the Great Seal of Great Britain or Ireland; or the Office of Lord Lieutenant, or Lord Deputy, or other Chief Governor or Governors of Ireland; or His Majesty's High Commissioner to the General Assembly of the Church of Scotland.
 
@@ -2480,7 +2480,7 @@ An Act to amend certain Acts of the Parliament of Ireland relative to the Electi
 
 [13th April 1829.]
 
-* WHEREAS by an Act of the Parliament of Ireland, passed ‘ W in the Thirty-third Year of the Reign of King Henry the
+WHEREAS by an Act of the Parliament of Ireland, passed ‘ W in the Thirty-third Year of the Reign of King Henry the
 
 ‘ Eighth, intituled An Act for the Adjournment of the Parliament, ss H. 8. (L)
 
@@ -2884,7 +2884,7 @@ An Act for fixing, until the Twenty-fifth Day of March One thousand eight hundre
 
 [13th April 1829.]
 
-* WHEREAS by an Act passed in the present Session of 10G.4. c.6.
+WHEREAS by an Act passed in the present Session of 10G.4. c.6.
 
 * W Parliament, for punishing Mutiny and Desertion, and 4 for the better Payment of the Army and their Quarters, it is 4 (amongst other Things) enacted, that Officers and Soldiers shall 4 be furnished with Diet and Small Beer, upon paying and 4 allowing for the same the several Rates that are or shall be 4 established by any Act or Acts; and an Option is given to 4 Innholders and others upon whom Officers and Soldiers are 4 quartered and billetted, to furnish certain Articles gratis in lieu
 
@@ -2962,7 +2962,7 @@ CAP. X.
 
 An Act to suspend, until the End of the next Session of Parliament, the making of Lists and the Ballots and Enrolments for the Militia of the United Kingdom, and to reduce the permanent Staff, and regulate the Allowances of Serjeants hereafter appointed. [13th April 1829.]
 
-* WHEREAS it is expedient to suspend, for a limited Period,
+WHEREAS it is expedient to suspend, for a limited Period,
 
 ‘ YV the making of Lists and the Ballots and Enrolments for
 
@@ -3040,7 +3040,7 @@ An Act to indemnify such Persons in the United Kingdom as have omitted to qualif
 
 [13th April 1829.]
 
-* WHEREAS divers Persons, who, on account of their Offices,
+WHEREAS divers Persons, who, on account of their Offices,
 
 4 W Places, Employments, or Professions, or any other Cause 4 or Occasion, ought to have taken and subscribed the Oaths
 
@@ -3156,7 +3156,7 @@ CAP. XIII.
 
 An Act to provide for Monies paid into Court under Acts afterwards repealed. [1 Sth April 1829.]
 
-* WHEREAS under the Provisions of various Acts heretofore 4 W passed, relating to Turnpike . Roads, Canals, Bridges, and 4 other Works, Monies paid for the Purchase of Lands, Houses,
+WHEREAS under the Provisions of various Acts heretofore 4 W passed, relating to Turnpike . Roads, Canals, Bridges, and 4 other Works, Monies paid for the Purchase of Lands, Houses,
 
 4 Buildings, or other Property taken for the Purposes of such Acts,
 
@@ -3188,7 +3188,7 @@ CAP. XIV.
 
 An Act for repealing several Acts relating to the Charity for the Relief of the Poor Widows of Commissioned and Warrant Officers in the Royal Navy, and for substituting other Provisions in lieu thereof. [14th May 1829.]
 
-4 TI7HEREAS by an Act passed in the Sixth Year of the Reign 4 IT of His Majesty King George the Second, being an Act for enabling His Majesty to apply Five hundred thousand Pounds 4 out of the Sinking Fund for the Service of the Year One thousand .10 Geo. IV. G ‘seven
+WHEREAS by an Act passed in the Sixth Year of the Reign 4 IT of His Majesty King George the Second, being an Act for enabling His Majesty to apply Five hundred thousand Pounds 4 out of the Sinking Fund for the Service of the Year One thousand .10 Geo. IV. G ‘seven
 
 Money paid into the Bank under any repealed Act shall be applied, and the Authority of the Courts of Chancery and Exchequer exercised, as if such Act had not been repealed.
 
@@ -3284,7 +3284,7 @@ CAP. XV.
 
 An Act to facilitate the Public Business in certain Cases in the Navy and Victualling Departments. [14th May 1829.3
 
-‘ TY7HEREAS by divers Acts certain Powers and Authorities ‘ W are given to, and certain Duties imposed upon, the Principal ‘ Officers and Commissioners of His Majesty's Navy, and the Com-
+WHEREAS by divers Acts certain Powers and Authorities ‘ W are given to, and certain Duties imposed upon, the Principal ‘ Officers and Commissioners of His Majesty's Navy, and the Com-
 
 * missioners for Victualling His Majesty's Navy: And Whereas
 
@@ -3316,7 +3316,7 @@ CAP. XVI.
 
 An Act to continue the Operation of an Act of the Seventh Year of His present Majesty, for suspending the Provisions of an Act of His late Majesty respecting the Appointment of Writers in the Service of the East India Company; and to amend the Provisions of an Act of the Forty-seventh . Year of His late Majesty, so far as they relate to the Period of Residence at Hertford College as a Qualification for certain Offices. [14th May 1829.]
 
-< X¥THEREAS an Act was passed in the Seventh Year of the « W Reign of His present Majesty, intituled An Act to suspend 7 G.4. c,56.
+WHEREAS an Act was passed in the Seventh Year of the « W Reign of His present Majesty, intituled An Act to suspend 7 G.4. c,56.
 
 * the Provisions of an Act of His late Majesty respecting the Ap-
 
@@ -3502,7 +3502,7 @@ An Act to explain and amend an Act of the Parliament of Scotland^ intituled An A
 
 [14th May 1829.]
 
-‘ WHEREAS an Act was passed by the Parliament of Scotland
+WHEREAS an Act was passed by the Parliament of Scotland
 
 * W in the Year Sixteen hundred and eighty-one, intituled An c Act concerning the Registration of Seisins and Reversions within ‘ Burgh: And Whereas in the Registration of Instruments of
 
@@ -3538,7 +3538,7 @@ An Act to carry into Execution the Stipulations of a Convention between His Maje
 
 [14th May 1829.]
 
-‘ TK7HEREAS considerable Difficulties having presented them-< V? selves in carrying into Effect, by means of a Mixed Com-
+WHEREAS considerable Difficulties having presented them-< V? selves in carrying into Effect, by means of a Mixed Com-
 
 * mission, the Stipulations of the Convention concluded and signed ‘ at Madrid on the Twelfth of March One thousand eight hundred 4 and twenty-three, for the Adjustment of Claims preferred re-‘ apectively by the Subjects of their Britannic and Catholic Ma-‘ jeades it was agreed between their said Majesties that an amicable ‘ Settlement or Compromise should be effected of all Claims re-‘ gistered under the above-mentioned Convention, which shall ap-‘ pear to he just and legitimate; and, in furtherance of such
 
@@ -3746,7 +3746,7 @@ CAP. XXL
 
 An Act to continue Compositions for the Assessed Taxes for a further Term of One Year. [14th May 1829.]
 
-4 TJS/HEREAS the several Duties of Composition for the 4 v V Assessed Taxes payable under the Provisions of an Act
+WHEREAS the several Duties of Composition for the 4 v V Assessed Taxes payable under the Provisions of an Act
 
 4 passed in the Seventh Year of the Reign of His present Majesty, intituled An Act to enable Persons to continue their Compositions for Assessed Taxes for further Periods, and for allotoing Persons tvho have not compounded to enter into Composition 4 for a limited Termy will expire on the Fifth Day of April One 4 thousand eight hundred and thirty; and it is expedient to continue and extend such Compositions for the further Term of 4 One Year, to determine on the Fifth Day of April One thousand 4 eight hundred and thirty-ono, in manner and subject to the Provisions hereinafter mentioned: ' Be it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That the several Duties now payable under all and every Contract 10 Geo. IV. H of
 
@@ -3788,7 +3788,7 @@ CAP. XXII.
 
 An Act to provide until the Thirty-first Day of December One thousand eight hundred and thirty-four, for the Government of His Majesty's Settlements in Western Australia, on the Western Coast of New Holland. [14th May 1829.]
 
-€ TfTHEREAS divers of His Majesty's Subjects have, by the ‘ W Licence and Consent of His Majesty, effected a Settlement < upon certain wild and unoccupied Lands on the Western Coast of * Neto Holland and the Islands adjacent, which Settlements have
+WHEREAS divers of His Majesty's Subjects have, by the ‘ W Licence and Consent of His Majesty, effected a Settlement < upon certain wild and unoccupied Lands on the Western Coast of * Neto Holland and the Islands adjacent, which Settlements have
 
 * received
 
@@ -3818,7 +3818,7 @@ An Act to impose Duties on the Importation of Silk and Silk Goods, and to allow 
 
 [22d May 1829.]
 
-4 VITHEREAS it is expedient that the Duties now payable upon 4 W the Importation of Silk and Silk Goods shall cease and determine, and that other Duties shall be imposed in lieu thereof Be it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the Fifth Day of After 5th July July next all Duties payable upon the Importation of Silk and Silk the Duties pay Goods under any Act or Acts now in force shall be repealed, and aW®**P°n 1™-that from and after the said Fifth Day of July the several Duties of Customs set forth in Figures in the Table hereunto annexed, repealed, and marked (A.), shall be raised, levied, collected, and paid unto. His those set forth Majesty, in like Manner as if such Duties had been imposed in and iu Table (A.) by an Act passed in the Sixth Year of His Majesty's Reign, inti- kried-tuled An Act for granting Duties of Customs, and had been set forth in a Table thereunto annexed.
+WHEREAS it is expedient that the Duties now payable upon 4 W the Importation of Silk and Silk Goods shall cease and determine, and that other Duties shall be imposed in lieu thereof Be it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the Fifth Day of After 5th July July next all Duties payable upon the Importation of Silk and Silk the Duties pay Goods under any Act or Acts now in force shall be repealed, and aW®**P°n 1™-that from and after the said Fifth Day of July the several Duties of Customs set forth in Figures in the Table hereunto annexed, repealed, and marked (A.), shall be raised, levied, collected, and paid unto. His those set forth Majesty, in like Manner as if such Duties had been imposed in and iu Table (A.) by an Act passed in the Sixth Year of His Majesty's Reign, inti- kried-tuled An Act for granting Duties of Customs, and had been set forth in a Table thereunto annexed.
 
 II. And be it further enacted. That it shall not be lawful to Restrictions as import into the United Kingdom any Manufactures of Silk in any to.the IPlPort'
 
@@ -3980,7 +3980,7 @@ CAP. XXIV.
 
 An Act to enable the Commissioners for the Redaction of the National Debt to grant Life Annuities and Annuities for Terms of Years. * [22d May 1829.*J
 
-‘ 'VTJTHEREAS an Act was passed in the last Session of Parlia-
+WHEREAS an Act was passed in the last Session of Parlia-
 
 * Tf ment,. intituled An Act to repeal so much of several Acts as 9 G.4. c.ls.
 
@@ -4456,7 +4456,7 @@ An Act to provide for the better Management of the Affairs
 
 of Greenwich Hospital. [22d May 1829.]
 
-* X¥THEREAS His late Majesty King George the Third did, by Lettere Patent, ‘ VY Letters Patent bearing Date the Sixth Day of December dated 6th Dec.
+WHEREAS His late Majesty King George the Third did, by Lettere Patent, ‘ VY Letters Patent bearing Date the Sixth Day of December dated 6th Dec.
 
 4 One thousand seven hundred and seventy-five, ordain, appoint, 1775#
 
@@ -5382,7 +5382,7 @@ CAP. XXVII.
 
 An Act to amend the several Acts for regulating the Reduction of the National Debt. [1st June 1829.]
 
-d G.4. c.90. 4 WHEREAS by an Act passed in the last Session of Parlia-
+WHEREAS by an Act passed in the last Session of Parlia-
 
 4 V V ment, intituled An Act to amend the Acts for regulating the 4 Reduction of the National Debt, it is amongst other Things 1 enacted, that until the Fifth Day of July One thousand eight 4 hundred and twenty-nine, unless other Provisions shall in the * mean Time be made by Parliament, there shall be set apart and 4 issued at the Receipt of the Exchequer, out of the Consolidated 4 Fund of the United Kingdom of -Great Britain and Ireland, to 4 be placed to the Account of the Commissioners for the Reduction of the National Debt, to be by them applied towards the 4 Reduction of the National Debt, such Sum of Money as (together 4 with the Interest on all Capital Stock whatever which on the 4 Fifth Day of July One thousand eight hundred and twenty-eight 4 was standing in the Names of the said Commissioners, either on 4 account of the Sinking Fund, or on account of Stock transferred 4 to them for the Purchase of Life Annuities,) shall not exceed
 
@@ -5478,7 +5478,7 @@ An Act to defray the Charge of the Pay, Clothing, and contingent and other Expen
 
 [1st June 1829.]
 
-4 WHEREAS it is necessary that Provision should be made 4 VV for defraying the Charge of the Pay, Clothing, and con-
+WHEREAS it is necessary that Provision should be made 4 VV for defraying the Charge of the Pay, Clothing, and con-
 
 * tingent and other Expences of the Regular Militia, and of the
 
@@ -5916,7 +5916,7 @@ An Act to continue and amend the Laws relating to Yeomanry
 
 Corps in Ireland'. [1st June 1829.]
 
-‘ WHEREAS an Act was made in the Forty-third Year of the
+WHEREAS an Act was made in the Forty-third Year of the
 
 * VY Reign of His late Majesty King George the Third, intituled
 
@@ -6194,7 +6194,7 @@ CAP. XXXII.
 
 An Act to enable One or more of the Commissioners of Excise to act for the Dispatch of Business for Scotland and Ireland respectively. [4th June 1829.]
 
-‘ WHEREAS by an Act passed in the Seventh and Eighth
+WHEREAS by an Act passed in the Seventh and Eighth
 
 * W Years of the Reign of His present Majesty, intituled An
 
@@ -6306,7 +6306,7 @@ CAP. XXXIV.
 
 An Act for consolidating and amending the Statutes in Ireland relating to Offences against the Person. [4th June 1829*3
 
-1 WHEREAS an Act was passed in the last Session of Par-
+WHEREAS an Act was passed in the last Session of Par-
 
 * W liament, intituled An Act for consolidating and amending 4 the Statutes in England relative to Offences against the Person; ‘ and it is expedient that Provision should be made in Ireland for
 
@@ -6972,7 +6972,7 @@ CAP. XXXVI.
 
 An Act to continue until the End of the next Session of Parliament, and to amend the Acts for the Relief of Insolvent Debtors in Ireland. [4th June 1829.]
 
-4 YTI7HEREAS an Act was passed in the Session holden in the 4 ▼ V First and Second Years of His present Majesty's Reign,
+WHEREAS an Act was passed in the Session holden in the 4 ▼ V First and Second Years of His present Majesty's Reign,
 
 4 intituled An Act for the Relief of Insolvent Debtors in Ireland, to 4 continue in force until the First Day of August One thousand
 
@@ -6990,7 +6990,7 @@ An Act to amend the Laws relating to Coroners in Ireland.
 
 [4th June 1829.]
 
-* WHEREAS an Act was passed in the Parliament of Ireland, 4 V? . in the Sixth Year of the Reign of Queen Ann, intituled 4 An Act for lessening Sheriffs Fees on Executions, whereby, after 4 reciting that through the great Corruption and Partiality of 4 Sub-Sheriffs and their Bailiffs it had become very difficult to 4 have any Mesne Process or Execution duly executed, but that 4 Returns were made that the Party against whom such Process 4 or Execution issued was not to be found, and that he had no 4 Lands or Goods, although the contrary was true, it was enacted, 4 that where any Sheriff should, on any Mesne Process or Execution, return that the Person against whom such Mesne Process 4 or Execution should issue could not be found, or that he had 4 not any Goods or Lands, in such Case the Party Plaintiff might 4 take out the same or any other Mesne Process or Execution,
+WHEREAS an Act was passed in the Parliament of Ireland, 4 V? . in the Sixth Year of the Reign of Queen Ann, intituled 4 An Act for lessening Sheriffs Fees on Executions, whereby, after 4 reciting that through the great Corruption and Partiality of 4 Sub-Sheriffs and their Bailiffs it had become very difficult to 4 have any Mesne Process or Execution duly executed, but that 4 Returns were made that the Party against whom such Process 4 or Execution issued was not to be found, and that he had no 4 Lands or Goods, although the contrary was true, it was enacted, 4 that where any Sheriff should, on any Mesne Process or Execution, return that the Person against whom such Mesne Process 4 or Execution should issue could not be found, or that he had 4 not any Goods or Lands, in such Case the Party Plaintiff might 4 take out the same or any other Mesne Process or Execution,
 
 10 Geo. IV. P 4 directed
 
@@ -7036,7 +7036,7 @@ An Act for the more effectual Punishment of Attempts to
 
 murder in certain Cases in Scotland. [4th June 1829.]
 
-4 WHEREAS an Act was passed in the Sixth Year of the 4 11 Reign of His present Majesty, intituled An Act to make
+WHEREAS an Act was passed in the Sixth Year of the 4 11 Reign of His present Majesty, intituled An Act to make
 
 < Provision in Scotland for the further Prevention of malicious 4 shooting and attempting to discharge loaded Fire Armsf stabbing, 4 cutting, wounding, poisoning, and disabling His Majesty's Suo-* jects; which Act did not extend to the Punishment of Cases of 1 Attempts to murder by means of Suffocation, Strangulation, and 4 Drowning: And Whereas it is expedient that a suitable Punishment should attach to such Crimes, and that the Provisions 4 relative to all the aforesaid Offences should be included in One 4 Act;' Be it therefore enacted by the Kings most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the passing of this Act, the before-recited Act passed in the Sixth Year of the Reign of His present Majesty shall be and the same is hereby repealed, except as to any Offences against the same committed before the passing of this Act, which shall be dealt with and punished as if this Act had not been passed.
 
@@ -7104,7 +7104,7 @@ CAR XLI.
 
 An Act to amend the Laws for the Regulation of the Butter Trade in Ireland. [\9\hJune 1829.]
 
-4 VjrrHEREAS by an Act passed in the Fifty-second Year of 4 VV the Reign of His late Majesty King George the Third,
+WHEREAS by an Act passed in the Fifty-second Year of 4 VV the Reign of His late Majesty King George the Third,
 
 4 intituled An Act for the better Regulation of the Butter Trade in 52 G.3. c.134. 4 Ireland, it is amongst other Things enacted, that Public Weighmasters or Joint Public Weighmasters and Tasters of Butter 4 shall, in Manner therein mentioned, be appointed in and for 4 every City, Town Corporate, Place of Export, or Market Town *
 
@@ -7236,7 +7236,7 @@ An Act to amend an Act of the Fourth Year of His present
 
 Majesty, for the Amendment of the Laws respecting Charitable Loan Societies in L'eland. [19th June 1829.]
 
-* WHEREAS an Act was passed in the Fourth Year of His ‘ VV present Majesty's Reign, intituled An Act for the Amend-
+WHEREAS an Act was passed in the Fourth Year of His ‘ VV present Majesty's Reign, intituled An Act for the Amend-
 
 * ment of the Laws respecting Charitable Loan Societies zk Ireland,
 
@@ -7282,7 +7282,7 @@ An Act to amend the Laws relating to the Customs.
 
 [19th June 1829.]
 
-4 WHEREAS several Acts were passed in the Sixth Year of 4 W His present Majesty's Reign, for consolidating the Laws * of the Customs, and it is found necessary to make certain 4 Alterations and Amendments therein: ' Be it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the Twenty-first Day of June One thousand eight hundred and twenty-nine, the several Enactments hereinafter contained shall come into and be and continue in full Force and Operation, for all the Purposes mentioned therein.
+WHEREAS several Acts were passed in the Sixth Year of 4 W His present Majesty's Reign, for consolidating the Laws * of the Customs, and it is found necessary to make certain 4 Alterations and Amendments therein: ' Be it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the Twenty-first Day of June One thousand eight hundred and twenty-nine, the several Enactments hereinafter contained shall come into and be and continue in full Force and Operation, for all the Purposes mentioned therein.
 
 II. 4 And Whereas by One of the said Acts, intituled An Act 4 for the Management of the Customs, it is enacted, that the District comprehending the City, Suburbs, and Liberties of Dublin, 4 and the Port of Dublin, and the several Creeks and Members 4 thereof, and all Parishes, Parts, and Places of the City and 4 County of the City of Dublin and County of Dublin, and all and 4 every the Baronies, Parts, and Places of the same, shall be subject to the Rule and Government of the Commissioners and 4 Assistant Commissioners of Customs in Ireland, in all Matters 4 relating to the collecting, managing, and levying all Revenues 4 of Customs within the same; and that all Complaints and Informations for the Recovery of any Fine, Penalty, or Forfeiture, 4 for any Offence against or any Breach of any Act or Acts in
 
@@ -7666,7 +7666,7 @@ An Act for improving the Police in and near the Metropolis.
 
 [19th June 1829.]
 
-* WHEREAS Offences against Property have of late increased
+WHEREAS Offences against Property have of late increased
 
 * W in and near the Metropolis; and the local Establishments
 
@@ -8390,7 +8390,7 @@ CAP. XLV.
 
 An Act to continue, until the Fifth Day of July One thousand eight hundred and thirty-two, an Act for the more effectual Administration of the Office of a Justice of the Peace in and near the Metropolis. [19th June 1829.]
 
-* WHEREAS an Act was passed in the Third Year of the 4 VV present Reign, intituled An Act for the more effectual Ad- 3 0.4. c.55.
+WHEREAS an Act was passed in the Third Year of the 4 VV present Reign, intituled An Act for the more effectual Ad- 3 0.4. c.55.
 
 4 ministration of the Office of a Justice of the Peace in and near 4 the Metropolis, and for the more effectual Prevention of Depredations on the River Thames and its Vicinity, for Seven Years,
 
@@ -8440,7 +8440,7 @@ An Act for more effectually executing an Act of the last Session of Parliament, 
 
 • [19th June 1829.]
 
-4 WHEREAS by an Act passed in the last Session of Parliament,
+WHEREAS by an Act passed in the last Session of Parliament,
 
 * VV intituled An Act for the better Regulation of Divisions in 4 the several Counties of England and Wales, the Court of Quarter 4 Sessions is empowered in certain Cases to make Orders for 4 altering existing Divisions, and for constituting new Divisions ‘ for holding Petty Sessions, whereby in many Cases Parts of a
 
@@ -8490,7 +8490,7 @@ An Act to continue for One Year, and until the End of the next Session of Parlia
 
 [19th June 1829.]
 
-4 WHEREAS an Act was made in the Forty-seventh Year of 4 VY the Reign of His late Majesty King George the Third, 4 intituled An Act to prevent improper Persons from having Arms 4 in Ireland, to continue in Force, from the passing thereof, for 4 Two Years, and from thence until the End of the then next 4 Session of Parliament: And Whereas, by an Act made in the 4 Fiftieth Year of His said late Majesty's Reign, the said recited 4 Act of the Forty-seventh Year of His said late Majesty's Reign 4 was continued and amended: And Whereas, by an Act made in 4 the Fourth Year of the Reign of His present Majesty, the said 4 recited Acts of the Forty-seventh and Fiftieth Years were continued, and are in Force until the End of this present Session 4 of Parliament: And Whereas it is expedient that the said Two 4 recited Acts of the Forty-seventh and Fiftieth Years of the 4 Reign of His said late Majesty should be further continued and 4 amended Be it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That the said recited Act of the Forty-seventh Year of the Reign of His late Majesty, as the said Act is amended by the said recited Act of the Fiftieth Year of the Reign of His said late Majesty, and by this Act, shall be and the said Acts are hereby continued, and shall be and remain and continue in Force, from the passing of this Act, for One Year, and until the End of the then next Session of Parliament, as the same are amended by this Act.
+WHEREAS an Act was made in the Forty-seventh Year of 4 VY the Reign of His late Majesty King George the Third, 4 intituled An Act to prevent improper Persons from having Arms 4 in Ireland, to continue in Force, from the passing thereof, for 4 Two Years, and from thence until the End of the then next 4 Session of Parliament: And Whereas, by an Act made in the 4 Fiftieth Year of His said late Majesty's Reign, the said recited 4 Act of the Forty-seventh Year of His said late Majesty's Reign 4 was continued and amended: And Whereas, by an Act made in 4 the Fourth Year of the Reign of His present Majesty, the said 4 recited Acts of the Forty-seventh and Fiftieth Years were continued, and are in Force until the End of this present Session 4 of Parliament: And Whereas it is expedient that the said Two 4 recited Acts of the Forty-seventh and Fiftieth Years of the 4 Reign of His said late Majesty should be further continued and 4 amended Be it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That the said recited Act of the Forty-seventh Year of the Reign of His late Majesty, as the said Act is amended by the said recited Act of the Fiftieth Year of the Reign of His said late Majesty, and by this Act, shall be and the said Acts are hereby continued, and shall be and remain and continue in Force, from the passing of this Act, for One Year, and until the End of the then next Session of Parliament, as the same are amended by this Act.
 
 II. And be it further enacted, That it shall and may be lawful to and for the Lord Lieutenant or other Chief Governor or Governors of Ireland, by any Order to be signified by his or their Chief Secretary, or in the Absence of such Secretary, then by the Under Secretary, to remit or mitigate any Penalty, Forfeiture, or Punishment which may have been or may be incurred by any Person or Persons for any Offence against the said recited Acts or either of them, upon such Terms and subject to such Conditions as to such Lord Lieutenant or other Chief Governor or Governors shall seem fitting and expedient.
 
@@ -8506,7 +8506,7 @@ C«48.
 
 CAP. XLVilL An Act to authorize the Sale and Transfer of the Stocks or Funds standing in the Books of the Bank of Ireland on account of the Office of the Clerk of the Pleas in the Court of Exchequer in Ireland, and the Payment and Application of the Produce of such Stocks or Funds to the Consolidated Fund of the United Kingdom. [19th June 1829.]
 
-4 WHEREAS by an Act made in the Fifty-sixth Year of the 4 W Reign of His late Majesty King George the Third, intituled An Act to make Provision for securingt for a Time to be 55 g.s. c.122. 4 limited, the Profits of the Office of Clerk of the Pleas of His 4 Majesty s Court of Exchequer in Ireland, it was among other 4 Things enacted, that certain Persons, Clerks, and Officers in the 4 said Act mentioned should deliver and transmit to the Auditor 4 General of the Exchequer of Ireland One or more Account or 4 Accounts, stating the several Sums of Money received for or on 4 account of or by reason of the Fees or pecuniary Profits of or by 4 or under Colour of the said Office of Clerk of the Pleas in the 4 said Court, or of the several other Places or Situations in the 4 said Act mentioned, during the several Periods and at the 4 several Times and in Manner in the said Act mentioned and 4 directed; and it was by the said recited Act also enacted, that 4 each and every Person who should deliver any such Account 4 under the Provisions of the said Act should pay or cause to be 4 paid into the Bank of Ireland, to an Account to be kept in the 4 Books of the said Bank, and to be intituled 44 In the Matter of 4 the Office of Clerk of the Pleas in the Court of Exchequer," the 4 Amount of all Sums in such Account admitted to be received 4 (subject to such Deduction as in the said Act is provided);
+WHEREAS by an Act made in the Fifty-sixth Year of the 4 W Reign of His late Majesty King George the Third, intituled An Act to make Provision for securingt for a Time to be 55 g.s. c.122. 4 limited, the Profits of the Office of Clerk of the Pleas of His 4 Majesty s Court of Exchequer in Ireland, it was among other 4 Things enacted, that certain Persons, Clerks, and Officers in the 4 said Act mentioned should deliver and transmit to the Auditor 4 General of the Exchequer of Ireland One or more Account or 4 Accounts, stating the several Sums of Money received for or on 4 account of or by reason of the Fees or pecuniary Profits of or by 4 or under Colour of the said Office of Clerk of the Pleas in the 4 said Court, or of the several other Places or Situations in the 4 said Act mentioned, during the several Periods and at the 4 several Times and in Manner in the said Act mentioned and 4 directed; and it was by the said recited Act also enacted, that 4 each and every Person who should deliver any such Account 4 under the Provisions of the said Act should pay or cause to be 4 paid into the Bank of Ireland, to an Account to be kept in the 4 Books of the said Bank, and to be intituled 44 In the Matter of 4 the Office of Clerk of the Pleas in the Court of Exchequer," the 4 Amount of all Sums in such Account admitted to be received 4 (subject to such Deduction as in the said Act is provided);
 
 4 and it was by the said recited Act further enacted, that all 4 Money which should be paid into the said Bank to the Account 4 in the said Matter should, under the Orders of the said Court of 4 Exchequer, be laid out and invested in the Purchase of such 4 Irish Government Stock as the said Court should direct, to the 4 Credit of the said Account in the said Matter, and that the 4 Interest of such Stock, and all Accumulation thereon, should 4 in like Manner and under the like Orders be from Time to Tinde 4 so laid out and invested; and it was by the said recited Act 4 moreover enacted, that all Sums which should be so paid in to 4 the said Bank of Ireland under the Provisions of[ the said Act 4 should, notwithstanding the Expiration or Repeal of the said 4 Act, remain in the Bank until Provision should be made by some 4 other Act or Acts of Parliament to be passed for the Purpose of 4 directing and authorizing the Payment and Application of the 4 same, and to be paid and applied in such Manner as should or 4 might be directed or authorized by such Act: And Whereas 4 several Sums of Money have from Time to Time been paid into 4 the Bank of Ireland in pursuance of the Provisions of the said 4 recited Act, and, together with certain Interest thereof and 4 Accumulations thereon, have been, under the Orders of the said 4 Court of Exchequer, laid out and invested in the Purchase of 4 Irish Government Stock in Manner by the said recited Act
 
@@ -8558,7 +8558,7 @@ An Act to consolidate and amend the Laws relating to the Management and Improvem
 
 Forests, Parks, and Chases; of the Land Revenue of the Crown within the Survey of the Exchequer in England; and of the Land Revenue of the Crown in Irelands and for extending certain Provisions relating to the same to the Isles of Man and Alderney. [19th June 1829.]
 
-4 WHEREAS by an Act passed in the First Year of the Reign * W of Her late Majesty Queen Anne, intituled An Act for the iAnn.sti.c.7. 4 better Support of Her Majesty's Household\ and of the Honour 4 and Dignity of the Crown, all the Manors, Messuages, Lands,
+WHEREAS by an Act passed in the First Year of the Reign * W of Her late Majesty Queen Anne, intituled An Act for the iAnn.sti.c.7. 4 better Support of Her Majesty's Household\ and of the Honour 4 and Dignity of the Crown, all the Manors, Messuages, Lands,
 
 4 Tenements, Rents, Tithes, Woods, or other Hereditaments (Advowsons of Churches and Vicarages only excepted), in England,
 
@@ -10048,7 +10048,7 @@ An Act to amend the Law relating to the Employment of Children in Cotton Mills a
 
 [19th June 1829.]
 
-4 WHEREAS an Act was passed in the Sixth Year of His pre-
+WHEREAS an Act was passed in the Sixth Year of His pre-
 
 * VV sent Majesty King George the Fourth, intituled An Act to x make further Provisions for the Regulation of Cotton Mills and 4 Factories, and for the better Preservation of the Health of young
 
@@ -10086,7 +10086,7 @@ CAP. LIII.
 
 An Act to regulate the Duties, Salaries, and Emoluments of the Officers, Clerks, and Ministers of certain Ecclesiastical Courts in England. [19th June 1829.]
 
-‘ WHEREAS the Commissioners authorized and appointed by 4 VV several Commissions and Warrants, as well from His late
+WHEREAS the Commissioners authorized and appointed by 4 VV several Commissions and Warrants, as well from His late
 
 * Majesty King George the Third, as from His present Majesty, to < make a diligent Examination of the Duties, Salaries, and Emo-‘ luments of the several Officers, Clerks, and Ministers of Justice
 
@@ -10194,7 +10194,7 @@ Cap. liv.
 
 An Act for directing Reports to be made respecting Gaols in Scotland. [ 19th June 1829.]
 
-4 WHEREAS the Gaols in Scotland are in general insecure 4 TV and incommodious, and it is necessary that sufficient Gaols
+WHEREAS the Gaols in Scotland are in general insecure 4 TV and incommodious, and it is necessary that sufficient Gaols
 
 * should be there erected and maintained: And Whereas it.is ex-
 
@@ -11022,7 +11022,7 @@ CAP. LVI.
 
 An Act to consolidate and amend the Laws relating to Friendly Societies. [19th June 1829.]
 
-* WHEREAS it is expedient to amend the Laws relating to
+WHEREAS it is expedient to amend the Laws relating to
 
 * W Friendly Societies, and to consolidate the same in One Act,
 
@@ -11498,7 +11498,7 @@ An Act to repeal an Act of the Parliament of Ireland, of the Ninth Year of the R
 
 [19th June 1829.]
 
-* WHEREAS an Act was passed in the Parliament of Ireland
+WHEREAS an Act was passed in the Parliament of Ireland
 
 4 Vf in the Ninth Year of the Reign of Queen Anne, intituled 9 Anne, c.12.
 
@@ -11556,7 +11556,7 @@ CAP. LIX.
 
 An Act to amend an Act of the Seventh Year of His present Majesty, for consolidating the Trusts of the several Turnpike Roads in the Neighbourhood of the Metropolis, North of the River Thames, and to make and maintain Two New or* Branch Roads to communicate with the said Metropolis Roads. [19th June 1829.3
 
-4 TY7HEREAS by an Act passed in the Seventh Year of tha 7 G.4. c.cxlii. ‘ n Reign of His present Majesty, intituled An Act for con-.
+WHEREAS by an Act passed in the Seventh Year of tha 7 G.4. c.cxlii. ‘ n Reign of His present Majesty, intituled An Act for con-.
 
 4 solidating the Trusts of the several Turnpike Roads in the Neigh* 4 bourhoodof the Metropolis, North of the River Thames, the several 4 Roads in the Neighbourhood or the Metropolis, North of tha 4 River Thames, which are particularly mentioned and described 11 4 in
 
@@ -12976,7 +12976,7 @@ An Act to amend an Act of the Seventh Year of His present Majesty, for extending
 
 [24th June 1829.]
 
-4 TIP" HERE AS by an Act passed in the Seventh Year of the « W Reign of His present Majesty, intituled An Act to extend 7 G.4. c.77. 4 to Charing Cross, the Strand, and Places adjacent, the Powers of 4 an Act for making a more convenient Communication from Mary-
+WHEREAS by an Act passed in the Seventh Year of the « W Reign of His present Majesty, intituled An Act to extend 7 G.4. c.77. 4 to Charing Cross, the Strand, and Places adjacent, the Powers of 4 an Act for making a more convenient Communication from Mary-
 
 * le-bone Park, and to enable the Commissioners of His Majesty's 4 Woods, Forests, and Land Revenues to grant Leases of the Site of 4 Carlton Palace, reciting, that by an Act passed in the Fifty-third
 
@@ -13384,7 +13384,7 @@ An Act to exclude Persons accepting Offices in the East Indies from being Member
 
 £24fth June 1829.]
 
-* 'V¥THEREAS by an Act passed in the Sixth Year of the
+WHEREAS by an Act passed in the Sixth Year of the
 
 € ▼ V Reign of Queen Anne, intituled An Act for the Security
 
@@ -13426,7 +13426,7 @@ An Act to render valid an Act to amend the Law relating to the Employment of Chi
 
 [24it\ijune 1829.]
 
-* WHEREAS a Bill, intituled An Act to amend the Law re- f
+WHEREAS a Bill, intituled An Act to amend the Law re- f
 
 * TV lating to the Employment of Children in Cotton MiUs and 4 Factories, passed the Commons and was sent to the Lords on
 
@@ -14274,7 +14274,7 @@ An Act to provide for the more effectual Execution of the Office of a Justice of
 
 [1st June 1829.]
 
-4 WHEREAS the Execution of the Office of a Justice of the i YV Peace within the Parishes of Merthyr Tidvil, Geliygare, 4 and Aberdare, in the County of Glamorgan, has become, and is
+WHEREAS the Execution of the Office of a Justice of the i YV Peace within the Parishes of Merthyr Tidvil, Geliygare, 4 and Aberdare, in the County of Glamorgan, has become, and is
 
 * likely to continue very difficult and burthensome, owing to the 4 Extent of the Population and the Increase of Manufactures, 4 within the Limits of the said Parishes: And Whereas a sufficient 4 Number of Justices of the Peace for the said County cannot be
 

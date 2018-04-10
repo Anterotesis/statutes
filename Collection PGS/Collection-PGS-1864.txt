@@ -1066,7 +1066,7 @@ CAP. I.
 
 An Act to authorize the Inclosure of certain Lands in pursuance of a Report of the Inclosure Commissioners for England and Wales. [18th March 1864,]
 
-f \\T HERE AS the Inclosure Commissioners for England and Wales have, in pursuance
+WHEREAS the Inclosure Commissioners for England and Wales have, in pursuance
 
 * * * of " The Acts for the Inclosure, Exchange, and Improvement of Land," issued their
 
@@ -1178,7 +1178,7 @@ c
 
 <
 
-Yl^HEREAS the Court of Directors of the East India Company did, on the Eleventh * * Day of August One thousand eight hundred and fifty-eight, unanimously resolve that, as a special Mark of the high Sense entertained by the East India Company of the eminent Services of the Right Honourable Sir John Laird Mair Lawrence, Knight Grand Cross of the Most Honourable Order of the Bath, Knight of the Most Exalted Order of the Star of India, late Chief Commissioner of the Punjab, and now Her Majesty's Viceroy and Governor General of India, in crushing incipient Mutiny in the Punjab, and maintaining that Province in Tranquillity during a Year of almost universal Convulsion, in equipping Troops and preparing Munitions of War for distant Operations, thereby mainly contributing to the Re-capture of Delhi, and to the subsequent Successes which attended the British Arms, and also as a Testimony of the high Sense entertained by the East Lidia Company of his high public Character and Conduct throughout a long and distinguished Career, an Annuity of Two thousand Pounds, commencing from the Date of his Retirement from the Civil Service of the East India Company, be granted to the said Ridtit Honourable Sir John Laird Mair Lawrence for the Term of his natural Life, which Resolution has been sanctioned by the General Court of Proprietors of the said Company, and confirmed by the Board of Commissioners for the Affairs of India, in the Manner required by Law to give full Effect to such Resolution: And whereas by an Act passed in the Session held in the Third and Fourth Years of the Reign of His late Majesty King William the Fourth,
+WHEREAS the Court of Directors of the East India Company did, on the Eleventh * * Day of August One thousand eight hundred and fifty-eight, unanimously resolve that, as a special Mark of the high Sense entertained by the East India Company of the eminent Services of the Right Honourable Sir John Laird Mair Lawrence, Knight Grand Cross of the Most Honourable Order of the Bath, Knight of the Most Exalted Order of the Star of India, late Chief Commissioner of the Punjab, and now Her Majesty's Viceroy and Governor General of India, in crushing incipient Mutiny in the Punjab, and maintaining that Province in Tranquillity during a Year of almost universal Convulsion, in equipping Troops and preparing Munitions of War for distant Operations, thereby mainly contributing to the Re-capture of Delhi, and to the subsequent Successes which attended the British Arms, and also as a Testimony of the high Sense entertained by the East Lidia Company of his high public Character and Conduct throughout a long and distinguished Career, an Annuity of Two thousand Pounds, commencing from the Date of his Retirement from the Civil Service of the East India Company, be granted to the said Ridtit Honourable Sir John Laird Mair Lawrence for the Term of his natural Life, which Resolution has been sanctioned by the General Court of Proprietors of the said Company, and confirmed by the Board of Commissioners for the Affairs of India, in the Manner required by Law to give full Effect to such Resolution: And whereas by an Act passed in the Session held in the Third and Fourth Years of the Reign of His late Majesty King William the Fourth,
 
 ( intituled
 
@@ -1192,7 +1192,7 @@ CAP. III.
 
 An Act for punishing Mutiny and Desertion, and for the better Payment of the Army and their Quarters. [18th March 1864.]
 
-4 Tl^HEREAS the raising or keeping a Standing Array within the United Kingdom of 4 * * Great Biitain and Ireland in Time of Peace, unless it be with the Consent of Parlia-
+WHEREAS the raising or keeping a Standing Array within the United Kingdom of 4 * * Great Biitain and Ireland in Time of Peace, unless it be with the Consent of Parlia-
 
 4 ment, is against Law: And whereas it is adjudged necessary by Her Majesty and this preBent Parliament that a Body of Forces should be continued for the Safety of the United
 
@@ -2376,7 +2376,7 @@ CAP. IV.
 
 An Act for the Regulation of Her Majesty's Royal Marine Forces while on shore. [18th March 1864.]
 
-c ‘'^7'HEREAS is judged necessary for the Safety of the United Kingdom, and the 1 * * Defence of the Possessions of this Realm, that a Body of Royal Marine Forces should
+WHEREAS is judged necessary for the Safety of the United Kingdom, and the 1 * * Defence of the Possessions of this Realm, that a Body of Royal Marine Forces should
 
 * be employed in Her Majesty's Fleet and Naval Service, under the Direction of the Lord c High Admiral of the United Kingdom, or the Commissioners for executing the Office of f Lori High Admiral aforesaid: And whereas the said Forces may frequently be quartered f or be on shore, or sent to do Duty or be on board Transport Ships or Merchant Ships or
 
@@ -3444,7 +3444,7 @@ CAP. VII.
 
 An Act to amend the Law relating to Bills of Exchange and Promissory Notes in Ireland. [28th April 1864.].
 
-‘ VX^HEREAS an Act was passed in the Ninth Year of the Reign of King George the € " Fourth, Chapter Twenty-four, intituled An Act to repeal certain Acts, and to conso~ 9 G. 4. c. 24.
+WHEREAS an Act was passed in the Ninth Year of the Reign of King George the € " Fourth, Chapter Twenty-four, intituled An Act to repeal certain Acts, and to conso~ 9 G. 4. c. 24.
 
 s Kdate and amend the Laws relating to Bills of Exchange and Promissory Notes in Ireland:
 
@@ -3486,7 +3486,7 @@ An Act to allow the making of Malt Duty-free to be used in feeding Animals.
 
 [28th April 1864.]
 
-( YI/'HERE AS it is expedient to allow Malt to be made Duty-free to be used in the feeding * * * of Animals Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS it is expedient to allow Malt to be made Duty-free to be used in the feeding * * * of Animals Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 Malt may be made and used free of Duty in the feeding of Animals, if mixed with Linseed, Ac.
 
@@ -3554,7 +3554,7 @@ CAP. X.
 
 An Act to continue for a further Period certain Provisions of the Union Relief Aid Acts. [28th April 1864.]
 
-c 'l^l/'HEREAS it is expedient that certain Provisions of the Union Relief Aid Acts, * • 1862 and 1863, should be further extended for a limited Period:' Be it therefore
+WHEREAS it is expedient that certain Provisions of the Union Relief Aid Acts, * • 1862 and 1863, should be further extended for a limited Period:' Be it therefore
 
 enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same:
 
@@ -3704,7 +3704,7 @@ An Act to further extend the Time for making Enrolments under the Act passed in 
 
 Act to amend the Law relating to the Conveyance of Lands for Charitable Uses, and otherwise to amend the said Law. [13th May 1864.]
 
-4 TAfHEREAS by an Act passed in the Twenty-fourth Year of the Reign of Her present 24 A 25 Vict
+WHEREAS by an Act passed in the Twenty-fourth Year of the Reign of Her present 24 A 25 Vict
 
 * * ^ Majesty, Chapter Nine, Time was given for enrolling certain Deeds, Assurances, c* 9*
 
@@ -3748,7 +3748,7 @@ CAP. XIV.
 
 An Act to confirm certain Provisional Orders under " The Land Drainage Act, 1861." [13th May 1864.]
 
-f T\7"HEREAS the Inclosure Commissioners for England and Wales have, in pursuance
+WHEREAS the Inclosure Commissioners for England and Wales have, in pursuance
 
 * * * of " The Land Drainage Act, 1861," duly made the Provisional Orders contained in 4 the First, Second, Third, and Fourth Parts of the Schedule to this Act annexed, and it ( is by the said Act provided that no such Orders shall be of any Validity whatever until € they shall have been confirmed by Parliament, and it is expedient that the said Orders
 
@@ -3896,7 +3896,7 @@ CAP. XV.
 
 An Act for making better and further Provision for the more efficient Despatch of Business in the High Court of Chancery. [13th May 1864.]
 
-28 & 24 Vict. * V1JHEREAS by the Act of the Twenty-third and Twenty-fourth Years of Her present c. 149. « ** Majesty, Chapter One hundred and forty-nine, after reciting that in consequence
+WHEREAS by the Act of the Twenty-third and Twenty-fourth Years of Her present c. 149. « ** Majesty, Chapter One hundred and forty-nine, after reciting that in consequence
 
 * of the Amount of Business transacted in the Chambers of the Master of the Rolls it had
 
@@ -3956,7 +3956,7 @@ All Acts, &c. done by H. P. St. G. Tucker valid.
 
 An Act to confirm the Appointment of Henry Pendock St. George Tucker Esquire as One of the Judges of Her Majesty's High Court at Bombay, and to establish the Validity of certain Proceedings therein. [13th May 1864.]
 
-€ VVTHEREAS Henry Pendock St. George Tucker Esquire, of the Bombay Civil Service, ‘ * * was on the Twenty-seventh Day of July One thousand eight hundred and sixty-three
+WHEREAS Henry Pendock St. George Tucker Esquire, of the Bombay Civil Service, ‘ * * was on the Twenty-seventh Day of July One thousand eight hundred and sixty-three
 
 • appointed by Her Majesty to be One of Her Majesty's Judges of the High Court of ‘ Judicature at Bombay: And whereas Doubts have arisen whether the said Henry Pendock
 
@@ -3974,7 +3974,7 @@ An Act for the Abolitiou of Vestry Cess in Ireland, and for other Purposes relat
 
 No Vestry in Ireland to le?y Hate after Commencement of Act. Powers of Vestry with respect to deserted Children to cease.
 
-* VAfHEREAS it is expedient to abolish Vestry Cess in Ireland, and to make other Pro-‘ * * visions in relation thereto:1 Be it enacted by the Queens most Excellent Majesty,
+WHEREAS it is expedient to abolish Vestry Cess in Ireland, and to make other Pro-‘ * * visions in relation thereto:1 Be it enacted by the Queens most Excellent Majesty,
 
 by and with the Advice and Consent of . the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
@@ -4484,7 +4484,7 @@ An Act to enable Joint Stock Companies carrying on Business in Foreign Countries
 
 [13th May 1864.]
 
-1 Tl^HEREAS there have been and may be established in the United Kingdom Com-
+WHEREAS there have been and may be established in the United Kingdom Com-
 
 * ** panies whose Business is to be carried on in Countries not situate in the United
 
@@ -4548,7 +4548,7 @@ CAP, XXI.
 
 An Act to indemnify certain Persons from any penal Consequences which they may have incurred by sitting and voting as Members of the House of Commons while holding the Office of Under Secretary of State. [23d June 1864.]
 
-4 YJtTHEREAS by an Act passed in the Session held in the Twenty-first and Twenty-V second Years of the Reign of Her present Majesty, intituled An Act for the better 4 Government of India, it is among other things enacted, that after the Commencement of
+WHEREAS by an Act passed in the Session held in the Twenty-first and Twenty-V second Years of the Reign of Her present Majesty, intituled An Act for the better 4 Government of India, it is among other things enacted, that after the Commencement of
 
 * that Act any Four of Her Majesty's Principal Secretaries of State for the Time being,
 
@@ -4582,7 +4582,7 @@ CAR XXII.
 
 An Act to amend the Laws which regulate the Registration of Parliamentary Voters in Counties in Ireland. [23d June 1864.J
 
-€ WHEREAS an Act was passed in the Twenty-fifth and Twenty-sixth Years of the € * * Reign of Her Majesty, intituled An Act to amend the Law relating to the Duration
+WHEREAS an Act was passed in the Twenty-fifth and Twenty-sixth Years of the € * * Reign of Her Majesty, intituled An Act to amend the Law relating to the Duration
 
 * of contested Elections for Counties in Ireland, and for establishing additional Places for ‘ taking the Poll thereat, whereby (amongst other Matters) it is enacted, that it shall be
 
@@ -5000,7 +5000,7 @@ An Act to repeal Enactments relating to Naval Prize of War and Matters connected
 
 [23d June 1864.]
 
-‘ HERE AS the Enactments described in the Schedule to this Act relate wholly or 1 * " mainly to Naval Prize of War and Matters connected therewith or with the Discipline
+WHEREAS the Enactments described in the Schedule to this Act relate wholly or 1 * " mainly to Naval Prize of War and Matters connected therewith or with the Discipline
 
 * or Management of the Navy, and the same either have ceased to be in force, or on the Com-
 
@@ -5532,7 +5532,7 @@ CAP. XXV.
 
 An Act for regulating Naval Prize of War. [23d June 1864.]
 
-€ \\THEREAS it is expedient to enact permanently, with Amendments, such Provisions € " concerning Naval Prize, and Matters connected therewith, as have heretofore been
+WHEREAS it is expedient to enact permanently, with Amendments, such Provisions € " concerning Naval Prize, and Matters connected therewith, as have heretofore been
 
 f usually passed at the Beginning of a War;'
 
@@ -5952,7 +5952,7 @@ An Act to confirm certain Provisional Orders under " The Local Government Act, 1
 
 Wilton. [23d Jime 1864.]
 
-4 WHEREAS the Secretary of State for the Home Department, being One of Her ‘ ** Majesty's Principal Secretaries of State, has, under the Provisions of the Local
+WHEREAS the Secretary of State for the Home Department, being One of Her ‘ ** Majesty's Principal Secretaries of State, has, under the Provisions of the Local
 
 * Government Act, 1858, duly made certain Provisional Orders which are contained in the
 
@@ -7588,7 +7588,7 @@ An Act for regulating the Proving and Sale of Chain Cables and Anchors.
 
 [23d June 1864.]
 
-* IITHEREAS it is essential, for the better Security of Lives and Property afloat ift
+WHEREAS it is essential, for the better Security of Lives and Property afloat ift
 
 * * * Sea-going Ships, to make Provision for the proper testing of Chain Cables arid
 
@@ -7690,7 +7690,7 @@ CAP. XXVIII.
 
 An Act to amend " The Common Law Procedure (Ireland) Act, 1853/' in relation to Jurors and Juries in the County of Cork. [23d June 1864.]
 
-,* YI^HEREAS it is expedient to amend €s The Common Law Procedure Amendment Act ‘ • (Ireland), 1853," as herein-after mentioned, and to make Provision,, as hereia?after ‘ mentioned, in relation to Jurors and Juries in the County of CorkBe it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled/ and by the Authority of the same, as follows:
+WHEREAS it is expedient to amend €s The Common Law Procedure Amendment Act ‘ • (Ireland), 1853," as herein-after mentioned, and to make Provision,, as hereia?after ‘ mentioned, in relation to Jurors and Juries in the County of CorkBe it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled/ and by the Authority of the same, as follows:
 
 1, In citing this Act in any Precept, Instrument, Document, Pleading, Proceeding, or Act of Parliament, it shall be sufficient Designation to use the Expression " The Common Law Procedure Amendment Act (Ireland), 1864, as to County of Cork Juriea."
 
@@ -7758,7 +7758,7 @@ CAP. XXIX.
 
 An Act to amend the Act Third and Fourth Victoria, Chapter Fifty-four, for making further Provision for the Confinement and Maintenance of Insane Prisoners. [23d June 1864.]
 
-* WHEREAS it is expedient to amend an Act passed in the Session of the Third and ( * * Fourth Years of Her Majesty's Reign, Chapter Fifty-four, intituled An Act for
+WHEREAS it is expedient to amend an Act passed in the Session of the Third and ( * * Fourth Years of Her Majesty's Reign, Chapter Fifty-four, intituled An Act for
 
 1 waking further Provision for the Confinement and Maintenance of Insane Prisoners':  Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
@@ -7824,7 +7824,7 @@ CAP. XXX.
 
 An Act to provide for the Alteration of the Circuits of the Court of Justiciary in Scotland, and for holding additional Circuit Courts. [23d June 1864.]
 
-€ V^HEREAS it is expedient to make Provision for altering the Circuits of the Court of ‘ " Justiciary in Scotland :v Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled* and by the Authority of the same, as follows:
+WHEREAS it is expedient to make Provision for altering the Circuits of the Court of ‘ " Justiciary in Scotland :v Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled* and by the Authority of the same, as follows:
 
 1. It shall be lawful for Her Majesty in Council, from Time to Time as Her Majesty in Council may think fit, to alter the Circuits of the Court of Justiciary in Scotland* or any of them, to form new Circuits* to fix and determine the Limits of each existing or new Cirouit*:  and the Counties or Portions of Counties, Cities or Burghs, and Districts, which shall be included within the same, to detach any County or Portion of a County from any Circuit* and to include the same in any other existing or new Circuit, and also to fix and determine the Places at which the Circuit Courts shall be held within each such Circuit, and to alter such Places: Provided always, that Circuit Courts shall continue to be held at such Towns as are appointed for keeping and holding Circuit Courts by an Act of the Parliament of Scotland, Number Forty, made in the Year One thousand six hundred and seventy-two* intituled An Act concerning the Regulation of Judicatories, and an Act passed in the Twentieth Year of His Majesty King George the Second, Chapter Forty-three, intituled An Act for taking away and abolishing the Heritable Jurisdictions in Scotland.
 
@@ -7840,7 +7840,7 @@ An Act to settle an Annuity on Mary Louisa Countess of Elgin and Kincar-: dine, 
 
 Most Gracious Sovereign,
 
-€ Tl/'HERE AS Your Majesty, by Your most gracious Message, hath been pleased to ( " signify that Your Majesty, taking into consideration the distinguished Services
+WHEREAS Your Majesty, by Your most gracious Message, hath been pleased to ( " signify that Your Majesty, taking into consideration the distinguished Services
 
 ‘ performed throughout a long Series of Years by the late James Earl of Elgin arid Kin-
 
@@ -7866,7 +7866,7 @@ An Act to enable certain Banking Copartnerships which shall discontinue the Issu
 
 [30th June 1864.]
 
-* WHEREAS by an Act passed in the Session holden in the Seventh Year of the
+WHEREAS by an Act passed in the Session holden in the Seventh Year of the
 
 * " Reign of His late Majesty King George the Fourth, Chapter Forty-six, intituled
 
@@ -7906,7 +7906,7 @@ CAR XXXIII.
 
 An Act to facilitate the Commutation and Sale of certain Vicarage Teinds in Scotland. [30th June 1864.]
 
-O®33) € 'VIT'HEREAS by Two Acts, being respectively the Seventeenth and Nineteenth of the cc. 17^1?. ' * * First Parliament of His Majesty King Charles the First, held at Edinburgh in the
+WHEREAS by Two Acts, being respectively the Seventeenth and Nineteenth of the cc. 17^1?. ' * * First Parliament of His Majesty King Charles the First, held at Edinburgh in the
 
 * Year Sixteen hundred and thirty-three, Provision was made for the Valuation and Sale
 
@@ -8016,7 +8016,7 @@ Persons holding certain Public OfTces.
 
 [30th June 1864.]
 
-i WHEREAS by the Act of the Session of the Twenty-first and Twenty-second Years ‘ " of the Reign of Her present Majesty, Chapter One hundred and six, it is provided
+WHEREAS by the Act of the Session of the Twenty-first and Twenty-second Years ‘ " of the Reign of Her present Majesty, Chapter One hundred and six, it is provided
 
 * that after the Commencement of that Act any Four of Her Majesty's Principal Secretaries f of State for the Time being, and any Four of the Under Secretaries for the Time being
 
@@ -8068,7 +8068,7 @@ An Act for more effectually regulating the Sale of Beer in Ireland.
 
 [30th June 1864.]
 
-( TI/THEREAS ^ *8 exPe(^ent to amend the Law with respect to certain Houses in * ** Ireland (commonly called " Beerhouses") licensed for the Sale of Beer to be drunk
+WHEREAS ^ *8 exPe(^ent to amend the Law with respect to certain Houses in * ** Ireland (commonly called " Beerhouses") licensed for the Sale of Beer to be drunk
 
 c or consumed elsewhere than on the Premises where sold:' Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
@@ -8158,7 +8158,7 @@ CAP. XXXYI.
 
 An Act to amend the Law relative to the Payment of the Shares of Prize and other Money belonging to deceased Officers and Soldiers of Her Majesty's Land Forces. [30th June 1864.]
 
-* Tl/'HERE AS by Section Twenty-five of the Act of the Session of the Second and ‘ ** Third Years of King William the Fourth (Chapter Fifty three), "for consolidating
+WHEREAS by Section Twenty-five of the Act of the Session of the Second and ‘ ** Third Years of King William the Fourth (Chapter Fifty three), "for consolidating
 
 « " and amending the Laws relating to the Payment of Army Prize Money," it is enacted
 
@@ -8214,7 +8214,7 @@ An Act to amend and extend the Act for the Regulation of Chimney Sweepers.
 
 [30th June 1864.]
 
-‘ Yl/'HEREAS by the Act of the Session of the Third and Fourth Years of Her ‘ *" Majesty Queen Victoria (Chapter Eighty-five), " for the Regulation of Chimney
+WHEREAS by the Act of the Session of the Third and Fourth Years of Her ‘ *" Majesty Queen Victoria (Chapter Eighty-five), " for the Regulation of Chimney
 
 ‘ " Sweepers and Chimneys," Provision was made to prevent any Person compelling or knowingly allowing a Child or young Person under the Age of Twenty-one Years to c ascend or descend a Chimney or enter a Flue for the Purpose cf sweeping, cleaning, or ‘ coring the same, or for extinguishing Fire therein:
 
@@ -8282,7 +8282,7 @@ An Act to facilitate the Redemption of Chief Rents in Ireland.
 
 [30th June 1864.]
 
-f WHEREAS it is expedient to enable Persons holding Lands or Tenements subject to c , * any Rent to redeem the said Rent:' Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS it is expedient to enable Persons holding Lands or Tenements subject to c , * any Rent to redeem the said Rent:' Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 1. Any Lands or Tenements held in Fee Farm, pr for Lives renewable for ever, or for Any Term whereof more than Two hundred Years shall be unexpircd, shall, if subject to any Rent during the Continuance of such Estate, be deemed Land within the Provisions of this Act; and any Person entitled in possession to such Lands or Tenements, or to the Rents and Profits thereof, under any Will or Settlement for any Term of Years determinable on the dropping of a Life or Lives, or for any greater Estate (not being a Term of Years less than the Term for which such Lands or Tenements may be held), shall be deemed the Owner of such Lands or Tenements; and any Person entitled under any Will or Settlement to an immediate Estate in the said Rent, or in the Reversion to which the same may be incident, for any Term of Years determinable on the dropping of a Life or Lives, or for any greater Estate, shall be deemed the Owner of such Rent; and every Estate in Land or Rent, other than an unincumbered Estate in Fee, shall be deemed a limited Estate, within the Provisions of this Act; and the Words " Lands or Tenements" in this Act shall extend to any divided or undivided Shares thereof respectively; and the Word "Rent" shall extend to any Part or Parts thereof; and the Words " Owner or Persbn " shall extend to Two or more Persons seised of or entitled to divided or undivided Shares of or Estates in the said Lands and Rents respectively, and shall also include any Corporate Bodies, Aggregate or Sole.
 
@@ -8350,7 +8350,7 @@ An Act to amend the Union Assessment Committee Act (1862).
 
 [14th July 1864.]
 
-‘ WHEREAS it is expedient to amend the Union Assessment Committee Act, 1862, i " in regard to Appeals against Poor Rates, and to make further Provisions for f securing correct and uniform V aluations of the Property liable to be assessed to the Relief i of the PoorBe it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same:
+WHEREAS it is expedient to amend the Union Assessment Committee Act, 1862, i " in regard to Appeals against Poor Rates, and to make further Provisions for f securing correct and uniform V aluations of the Property liable to be assessed to the Relief i of the PoorBe it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same:
 
 1. Before any Appeal shall be heard by any Special or Quarter Sessions against a Poor Rate made for any Parish contained in any Union to which the Union Assessment Committee Act, 1862, applies, the Appellant shall give Twenty-one Days Notice in Writing
 
@@ -8428,7 +8428,7 @@ CAP. XL.
 
 An Act for authorizing the Relinquishment in favour of the King of the Hellenes of certain Money payable in respect of the Greek Loan. [14th July 1864.]
 
-"ll^HEREAS by the Act of the Session of the Second and Third Years of His late Majesty King William the Fourth (Chapter One hundred and twenty-one), "to " enable His Majesty to carry into effect a Convention made between His Majesty and " the King of the French and Emperor of All the Russias and the King of Bavariaafter Recitals, showing that His said late Majesty and the then King of the French and the then Emperor of All the Russias had entered into Undertakings for the guaranteeing of a Loan to be contracted by Prince Otho of Bavaria as King of Greece., His said late Mfyeety, His Heirs and Successors, were authorized to guarantee such Loan upon the Terms and Conditions therein referred to, and the Commissioners of the Treasury of the United Kingdom were empowered out of the Consolidated Fund to issue such Sums as in the said Act were mentioned:
+WHEREAS by the Act of the Session of the Second and Third Years of His late Majesty King William the Fourth (Chapter One hundred and twenty-one), "to " enable His Majesty to carry into effect a Convention made between His Majesty and " the King of the French and Emperor of All the Russias and the King of Bavariaafter Recitals, showing that His said late Majesty and the then King of the French and the then Emperor of All the Russias had entered into Undertakings for the guaranteeing of a Loan to be contracted by Prince Otho of Bavaria as King of Greece., His said late Mfyeety, His Heirs and Successors, were authorized to guarantee such Loan upon the Terms and Conditions therein referred to, and the Commissioners of the Treasury of the United Kingdom were empowered out of the Consolidated Fund to issue such Sums as in the said Act were mentioned:
 
 i And whereas the said Act was amended by the Act of the Session of the Sixth and Seventh Years of His said late Majesty, Chapter Ninety-four:
 
@@ -8486,7 +8486,7 @@ An Act for confirming a Scheme of the Charity Commissioners for the Charity call
 
 [14th July 1864.]
 
-€ YJJ HERE AS the Charity Commissioners for England and Wales, in their Report to ‘ Her Majesty of their Proceedings during the Year One thousand eight hundred ‘ and sixty-three, have reported that they have provisionally approved and certified a Scheme € for " The Free Grammar School in the City of Coventry" and such Scheme is set out in ‘ the Appendix to their said Report: And whereas it is expedient that the said Scheme, as c the same is set out in the Schedule to this Act, should be confirmedBe it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS the Charity Commissioners for England and Wales, in their Report to ‘ Her Majesty of their Proceedings during the Year One thousand eight hundred ‘ and sixty-three, have reported that they have provisionally approved and certified a Scheme € for " The Free Grammar School in the City of Coventry" and such Scheme is set out in ‘ the Appendix to their said Report: And whereas it is expedient that the said Scheme, as c the same is set out in the Schedule to this Act, should be confirmedBe it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 1. The said Scheme shall be confirmed and take effect.
 
@@ -8550,7 +8550,7 @@ CAP.- XLIII.
 
 An Act to grant additional Facilities for the Purchase of small Government Annuities, and for assuring Payments of Money on Death. [14th July 1864.]
 
-4 YI^HEREAS under the Act Sixteenth and Seventeenth Victoria, Chapter Forty-five, 4 * * Deferred Annuities of small Amounts can only be granted upon the Condition that 4 the full Amount required to purchase such Annuities shall be paid in One Sum, or by 4 annual Payments during a Course of Years fixed at the Time of Purchase: And whereas 4 under the said Act Contracts for Payment of a Sum of Money on Death cannot be 4 entered into except upon the Condition that the Party contracting for such Payment on 4 Death shall at the same Time purchase a Deferred Annuity depending upon his or her 4 own Life: And whereas it is expedient to amend the said ActBe it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS under the Act Sixteenth and Seventeenth Victoria, Chapter Forty-five, 4 * * Deferred Annuities of small Amounts can only be granted upon the Condition that 4 the full Amount required to purchase such Annuities shall be paid in One Sum, or by 4 annual Payments during a Course of Years fixed at the Time of Purchase: And whereas 4 under the said Act Contracts for Payment of a Sum of Money on Death cannot be 4 entered into except upon the Condition that the Party contracting for such Payment on 4 Death shall at the same Time purchase a Deferred Annuity depending upon his or her 4 own Life: And whereas it is expedient to amend the said ActBe it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 1. Deferred Annuities, authorized to be granted by the- Second Section of the said Act, may be granted upon the Condition, to be fixed at the Time of Purchase, that the Sum required under the said Act to purchase such Annuity shall be payable in smaller Instalments and at shorter Periods than are now fixed by the said Act.
 
@@ -8662,7 +8662,7 @@ An Act to amend the Act relating to Divorce and Matrimonial Causes in England, T
 
 [14th July 1864.]
 
-f YA7 HEREAS it is expedient to amend -an Act passed in the Twentieth and Twenty-* ** first Years of the Reign of Her present Majesty, Chapter Eighty-five:' Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS it is expedient to amend -an Act passed in the Twentieth and Twenty-* ** first Years of the Reign of Her present Majesty, Chapter Eighty-five:' Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 1, Where under the Provisions of Section Twenty-one of the said Act a Wife deserted by her Husband shall have obtained or shall hereafter obtain an Order protecting, her Earnings and Property from a Police Magistrate, or Justices in Petty Sessions, or the Court for Divorce and Matrimonial Causes, as the Case may be, the Husband and any Creditor or other Person claiming under him may apply to the Court or to the Magistrate or Justices by whom such Order was made for the Discharge thereof as by the said Act authorized; and in case the said Order shall have been made by a Police Magistrate and the said Magistrate shall have died or been removed, or have become incapable of acting, then in every such Case the Husband or Creditor, or such other Person as aforesaid, may apply to the Magistrate for the Time being acting a9 the Successor or in the Place of the Magistrate who made the Order of Protection, for the Discharge of it, who shall have Authority to make an Order discharging the same; and an Order for Discharge of an Order for Protection may be applied for to and be granted by the Court, although the Order for Protection was not made by the Court, and an Order for Protection made at One Petty Sessions may be discharged by the Justices of any later Petty Sessions, or by the Court.
 
@@ -8674,7 +8674,7 @@ CAP. XLV.
 
 An Act to further amend The Settled Estates Act of 1856. [14th July 1864^
 
-4 \\THEREAS by the Tenth Section of the Act passed in the Parliament holden in the 4 * Nineteenth and Twentieth Years of Her Majesty's Reign, intituled An Act to facilitote Liases and Sales of Settled Estates, it was enacted, that when the Court of Chancery 4 should deem it expedient that any general Powers of leasing any Settled Estates, conformably to the said Act, should be vested in Trustees, it might, by Order, vest any such ‘ Power accordingly either in the existing Trustees of the Settlement or in any other 4 Persons, and that in every such Case the Court, if it should think fit, might impose any 4 Conditions as to Consents or otherwise on the Exercise of such Power: And whereas, in 4 order to protect the Interests of Persons interested in the Settled Estates affected by such 4 Powers, the Practice of the said Court has been to require that Leases granted in pursuance of a Power vested in any Trustees or other Persons, under the Provisions of the said 4 Tenth Section of the said Act, should be settled by the said Court or by a Judge thereof, 4 or otherwise should be made conformable with a model Lease deposited in the Chambers 4 of the Judge: And whereas the Introduction of such a Condition has been found to 4 occasion Delay and Expense, and so to create great Difficulties in carrying into execution 4 the Objects of the Act, and such Conditions may in general be safely omitted, and it is 4 therefore expedient that the said Act should be amended as herein-after mentioned Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS by the Tenth Section of the Act passed in the Parliament holden in the 4 * Nineteenth and Twentieth Years of Her Majesty's Reign, intituled An Act to facilitote Liases and Sales of Settled Estates, it was enacted, that when the Court of Chancery 4 should deem it expedient that any general Powers of leasing any Settled Estates, conformably to the said Act, should be vested in Trustees, it might, by Order, vest any such ‘ Power accordingly either in the existing Trustees of the Settlement or in any other 4 Persons, and that in every such Case the Court, if it should think fit, might impose any 4 Conditions as to Consents or otherwise on the Exercise of such Power: And whereas, in 4 order to protect the Interests of Persons interested in the Settled Estates affected by such 4 Powers, the Practice of the said Court has been to require that Leases granted in pursuance of a Power vested in any Trustees or other Persons, under the Provisions of the said 4 Tenth Section of the said Act, should be settled by the said Court or by a Judge thereof, 4 or otherwise should be made conformable with a model Lease deposited in the Chambers 4 of the Judge: And whereas the Introduction of such a Condition has been found to 4 occasion Delay and Expense, and so to create great Difficulties in carrying into execution 4 the Objects of the Act, and such Conditions may in general be safely omitted, and it is 4 therefore expedient that the said Act should be amended as herein-after mentioned Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 1. In Orders to be hereafter made under the said Tenth Section for vesting any Powers of leasing in any Trustees or other Persons, no Condition shall be inserted requiring that the Leases thereby authorized should be submitted to or be settled by the said Court or a
 
@@ -8724,7 +8724,7 @@ CAP. XLVI.
 
 An Act to provide for tJbe Investment and Appropriation of all Monies received by the Commissioners for the Reduction of the National Debt on account of Deferred Life Annuities and Payments to be made on Death. [14th July 1864.]
 
-‘ Ti^HEREAS it is expedient to provide for the Investment and Appropriation of alj c Monies received by the Commissioners for the Reduction of the National Debt under
+WHEREAS it is expedient to provide for the Investment and Appropriation of alj c Monies received by the Commissioners for the Reduction of the National Debt under
 
 c any Acts in force in that respect on account of Deferred Life Annuities and Payments on c Death, and to secure due Payment thereof to the Parties respectively entitled thereto;' Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of ttye same, as follows:
 
@@ -8762,7 +8762,7 @@ An Act to amend the Penal Servitude Acts.
 
 [25th July 1864.]
 
-4 Y\T HERE AS Two Acts were passed, the one Chapter Ninety-nine in the Session of the i6 &, 17 Vict. ‘ - Sixteenth and Seventeenth Years of the Reign of Her present Majesty, and the other c- "•
+WHEREAS Two Acts were passed, the one Chapter Ninety-nine in the Session of the i6 &, 17 Vict. ‘ - Sixteenth and Seventeenth Years of the Reign of Her present Majesty, and the other c- "•
 
 * Chapter Three in the Session of the Twentieth and Twenty-first Years of the same Reign, 203* 21 Vict*
 
@@ -8902,7 +8902,7 @@ An Act for the Extension of the Factory Acts.
 
 [25th July 1864.]
 
-YI/'HERE AS it is expedient to provide for the effectual cleansing and Ventilation of
+WHEREAS it is expedient to provide for the effectual cleansing and Ventilation of
 
 < * the Factories in which are carried on the Manufactures and Employments specified
 
@@ -9032,7 +9032,7 @@ CAP. XLIX.
 
 An Act to indemnify such Persons in the United Kingdom as have omitted to qualify themselves for Offices and Employments, and to extend the Time limited for those Purposes respectively. [25th July 1864.]
 
-YY^HEREAS divers Persons who, on account of their Offices, Places, Employments, " or Professions, or any other Cause or. Occasion, ought to haVe qualified themselves according to an Act of the First Year of King George the First, Statute Two, Chapter Thirteen; or according to an Act of the Thirteenth Year of King Charles the Second, Statute Two, Chapter One; or according to an Act of the Thirtieth Year of King Charles the Second, Statute Two; or according to an Act of the Eighth Year of King George the First, Chapter Six; or according to an Act of the Ninth Year of King George the Second, Chapter Twenty-six; or according to an Act of the Eighteenth Year of King George the Second, Chapter Twenty; or according to an Act of the Sixth Year of King George the Third, Chapter Fifty-three; or according to an Act of the'Ninth Year of King George the Fourth, Chapter Seventeen; or according to an Act of the Tenth Year of King George the Fourth, Chapter Seven, so far only as the said Act relates to any Civil or Military Offices, or Places of Trust, or Places of Profit, or Corporate Offices; or according to an Act of the Session holden in the Twenty-first and Twenty-second Years of Her Majesty, Chapter Forty-eight, have, through Ignorance of the Law, Absence, or some unavoidable Accident, omitted to qualify themselves, within such Time and in such Manner as in and by the said Acts respectively is required, whereby they have incurred, or may be in danger of incurring, divers Penalties and Disabilities 2' For quieting the Minds of Her Majesty's Subjects, and for preventing any Inconvenience that might otherwise happen by means of such Omissions, be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, m this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS divers Persons who, on account of their Offices, Places, Employments, " or Professions, or any other Cause or. Occasion, ought to haVe qualified themselves according to an Act of the First Year of King George the First, Statute Two, Chapter Thirteen; or according to an Act of the Thirteenth Year of King Charles the Second, Statute Two, Chapter One; or according to an Act of the Thirtieth Year of King Charles the Second, Statute Two; or according to an Act of the Eighth Year of King George the First, Chapter Six; or according to an Act of the Ninth Year of King George the Second, Chapter Twenty-six; or according to an Act of the Eighteenth Year of King George the Second, Chapter Twenty; or according to an Act of the Sixth Year of King George the Third, Chapter Fifty-three; or according to an Act of the'Ninth Year of King George the Fourth, Chapter Seventeen; or according to an Act of the Tenth Year of King George the Fourth, Chapter Seven, so far only as the said Act relates to any Civil or Military Offices, or Places of Trust, or Places of Profit, or Corporate Offices; or according to an Act of the Session holden in the Twenty-first and Twenty-second Years of Her Majesty, Chapter Forty-eight, have, through Ignorance of the Law, Absence, or some unavoidable Accident, omitted to qualify themselves, within such Time and in such Manner as in and by the said Acts respectively is required, whereby they have incurred, or may be in danger of incurring, divers Penalties and Disabilities 2' For quieting the Minds of Her Majesty's Subjects, and for preventing any Inconvenience that might otherwise happen by means of such Omissions, be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, m this present Parliament assembled, and by the Authority of the same, as follows:
 
 L Every Person who, at or before the passing of this Act, hath omitted to take or make and subscribe any Oath, Assurance, or Declaration, or otherwise to qualify himself within such Time and in such Manner as in and by the said Acts, or any of them, is required, and who, after accepting any such Office, Place, or Employment, or undertaking any Profession or Thing, on account of which such Qualification ought to have been had and is required, before the passing of this Act, hath taken and subscribed the Oaths or Oath and Assurance, or made the Declarations or Declaration required by Law, or who, on or before the Twenty-fifth Day of March One thousand eight hundred and sixty-five, or if Parliament be then sitting before the End of the then Session of Parliament, shall take and subscribe the Oaths or
 
@@ -9106,7 +9106,7 @@ CAP. L.
 
 An Act to amend an Act of the Twenty-fifth Year of the Reign of Her present Majesty, to provide for the Registration and Transfer of Indian Stocks at the Bank of Ireland, and for the mutual Transfer of such Stocks from and to the Banks of England and Ireland respectively. [25th July 1864.]
 
-25 Vict. c. 7. < WHEREAS by an Act passed in the Session holden in the Twenty-fifth Year of the
+WHEREAS by an Act passed in the Session holden in the Twenty-fifth Year of the
 
 c ** Reign of Her present Majesty, Chapter Seven, Provision was made for the Regis-c tration and Transfer of India Stocks at the Bank of Ireland, and for the mutual Transfer ‘ of such Stocks from and to the Banks of England and Ireland respectively: And c whereas it was therein provided that all Assignments or Transfers at the Bank of Ireland ‘ of any Part of the several Stocks, and the proportional Dividend attached thereto, should
 
@@ -9126,7 +9126,7 @@ India Office in Her Majesty for the Service of
 
 [25th July 1864*3
 
-YI^HEREAS under or by virtue of the Powers and Provisions of the Acts following, or * * some of them, namely, the Acts of the Eighteenth and Nineteenth Years of Her Majesty, Chapter Ninety-five, the Twenty-second and Twenty-third Years of Her Majesty, Chapter Nineteen, the Twenty-fourth and Twenty-fifth Years of Her Majesty, Chapters Thirty-three and Eighty-eight, and the Twenty-fifth and Twenty-sixth rears of Her Majesty, Chapter Seventy-four (being the Acts for the Extension of the Public Offices in Downing Street), the Land described in the Schedule to this Act, together with other Land, has been purchased or otherwise acquired by and is now vested in the Commissioners of Her Majesty's Works and Public Buildings: And whereas the Secretary of State in Council of India has proposed to purchase the said Land described in the Schedule to this Act as a Site for Offices of his Department for a Sum of Eighty-six thousand seven hundred and sixty-five Pounds Seventeen Shillings and Fourpence, and Parts of the same Land were acquired by the said Commissioners of Her Majesty's Works and Public Buildings with a view to such proposed Purchase, and the Purchase Monies for such last-mentioned Parts, amounting in the whole to the Sum of Thirty-three thousand two hundred and twenty Pounds Seventeen Shillings and Sevenpence, were in
+WHEREAS under or by virtue of the Powers and Provisions of the Acts following, or * * some of them, namely, the Acts of the Eighteenth and Nineteenth Years of Her Majesty, Chapter Ninety-five, the Twenty-second and Twenty-third Years of Her Majesty, Chapter Nineteen, the Twenty-fourth and Twenty-fifth Years of Her Majesty, Chapters Thirty-three and Eighty-eight, and the Twenty-fifth and Twenty-sixth rears of Her Majesty, Chapter Seventy-four (being the Acts for the Extension of the Public Offices in Downing Street), the Land described in the Schedule to this Act, together with other Land, has been purchased or otherwise acquired by and is now vested in the Commissioners of Her Majesty's Works and Public Buildings: And whereas the Secretary of State in Council of India has proposed to purchase the said Land described in the Schedule to this Act as a Site for Offices of his Department for a Sum of Eighty-six thousand seven hundred and sixty-five Pounds Seventeen Shillings and Fourpence, and Parts of the same Land were acquired by the said Commissioners of Her Majesty's Works and Public Buildings with a view to such proposed Purchase, and the Purchase Monies for such last-mentioned Parts, amounting in the whole to the Sum of Thirty-three thousand two hundred and twenty Pounds Seventeen Shillings and Sevenpence, were in
 
 4 fact
 
@@ -9160,7 +9160,7 @@ CAP. LII.
 
 An Act to amend the Law relating to the Valuation of Rateable Property in Ireland. [25th July 1864.]
 
-€ T^LTHEREAS it is expedient to amend the Law relating to the Valuation of Rateable € ▼▼ Property in Ireland in the Manner herein-after mentionedBe it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords
+WHEREAS it is expedient to amend the Law relating to the Valuation of Rateable € ▼▼ Property in Ireland in the Manner herein-after mentionedBe it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords
 
 Spiritual
 
@@ -9886,7 +9886,7 @@ An Act for the Union of the Diocesan Courts and Registries in Ireland; for the R
 
 [25th July 1864.]
 
-\\/rHEREAS it is expedient to make Provision for the Union of the Consistorial or * * Diocesan Courts and Registries in Ireland; to alter and amend the Procedure and
+WHEREAS it is expedient to make Provision for the Union of the Consistorial or * * Diocesan Courts and Registries in Ireland; to alter and amend the Procedure and
 
 * Practice of the Provincial and Diocesan Courts and Registries, in order that the same may
 
@@ -10490,7 +10490,7 @@ CAP. LV.
 
 An Act for the better Regulation of Street Music within the Metropolitan Police District. [25th July 1864.]
 
-c TljrHEREAS hy Section Fifty-seven of the Act passed in the Session of Parliament 4 * * held in the Second and Third Years of the Reign of Her present Majesty, intituled
+WHEREAS hy Section Fifty-seven of the Act passed in the Session of Parliament 4 * * held in the Second and Third Years of the Reign of Her present Majesty, intituled
 
 1 An Act for further improving the Police in and near the Metropolis, it was enacted, that << any Householder within the Metropolitan Police District might require any Street c Musician to depart from the Neighbourhood of the House of any such Householder, on 4 account of the Illness of any Inmate of such House, or for other reasonable Cause: And 4 whereas the said Provision has been found insufficient for the Protection of such Householders from Annoyauoe by Street MusiciansBe it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority 6f the same, as follows:
 
@@ -10688,7 +10688,7 @@ CAP. LVII.
 
 An Act to. make Provision respecting the Acquisition of Lands required by the Admiralty for the Public Service, and respecting the Use and Disposition thereof* and the Execution of Works thereon. [25th July 1864.]
 
-‘ T^UHEREAS it is expedient to make Provision for the Acquisition by the Admiralty, ‘ v by Agreement, of Lands required for the Public Service:
+WHEREAS it is expedient to make Provision for the Acquisition by the Admiralty, ‘ v by Agreement, of Lands required for the Public Service:
 
 € And whereas it is expedient to consolidate into One General Act sundry Provisions ‘ usually introduced into Special Acts from Time to Time empowering the Admiralty to c purchase particular Lands for the Public Service by Agreement or compulsorily, and that
 
@@ -10922,7 +10922,7 @@ CAP. LVIII.
 
 An Act for confirming a Provisional Order concerning Pilotage made by the Board of Trade under The Merchant Shipping Act Amendment Act, 1862, relating to Hartlepool. [25th July 1864.]
 
-£ HERE AS a Provisional Order made by the Board of Trade under The Merchant * Shipping Act Amendment Act, 1862, does not take effect unless and until it is
+WHEREAS a Provisional Order made by the Board of Trade under The Merchant * Shipping Act Amendment Act, 1862, does not take effect unless and until it is
 
 ‘ confirmed by Act of Parliament:
 
@@ -11176,7 +11176,7 @@ An Act to continue the Deputy Commissioners in Lunacy in Scotland, and to make f
 
 [25th July 1864.]
 
-20 & 21 Vict. ( "INHEREAS by the Act Twentieth and Twenty-first Victoria, Chapter Seventy-one, c* 71* t ▼ ▼ Provision was made for the Appointment of Deputy Commissioners under the said
+WHEREAS by the Act Twentieth and Twenty-first Victoria, Chapter Seventy-one, c* 71* t ▼ ▼ Provision was made for the Appointment of Deputy Commissioners under the said
 
 25 & 26 Vict. < Act for Five Years after the passing thereof, and by the Act Twenty-fifth and Twenty-c‘ 54‘ ( sixth Victoria, Chapter Fifty-four, the Provisions of the first-recited Act were continued
 
@@ -11192,7 +11192,7 @@ CAP. LX.
 
 An Act to enable Her Majesty to grant a Lease for Nine hundred and ninety-nine Years of the Building known as the College of Physicians in Pall Mall East. [25th July 1864.]
 
-* WHEREAS the Site of the Building known as the College of Physicians in Pall Mall c * ~ East in the County of Middlesex was formerly Part of the Royal Mews, and was
+WHEREAS the Site of the Building known as the College of Physicians in Pall Mall c * ~ East in the County of Middlesex was formerly Part of the Royal Mews, and was
 
 * appropriated under the Powers of the Act of the Fifty-third Year of King George the
 
@@ -11228,7 +11228,7 @@ An Act for empowering the Commissioners of the Treasury to guarantee, and the Co
 
 [25th July 1864.]
 
-* WHEREAS under the Acts mentioned in the Schedule to this Act (hereafter in this
+WHEREAS under the Acts mentioned in the Schedule to this Act (hereafter in this
 
 * ' * Act referred to as the Embankment and Improvement Acts') the Metropolitan Board
 
@@ -11388,7 +11388,7 @@ CAP. LXIII.
 
 An Act to suspend the making of Lists and the Ballots for the Militia of the United Kingdom. [25th July 1864.]
 
-* \\[ HERE AS it is expedient to suspend for a further Period the Ballots for the Militia € " of the United Kingdom: ' Be it therefore enacted by the Queen's most Excellent
+WHEREAS it is expedient to suspend for a further Period the Ballots for the Militia € " of the United Kingdom: ' Be it therefore enacted by the Queen's most Excellent
 
 Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
@@ -11410,7 +11410,7 @@ CAP. LXIV*
 
 An Act for further regulating the closing of Public Houses and Refreshment Houses within the Metropolitan Police District, the City of London, certain Corporate Boroughs, and other Places. [25th July 1864.]
 
-c WHEREAS it is expedient to amend the Law relating to the closing of Public Houses ‘ * * and Refreshment Houses within the Metropolitan Police District, the City of
+WHEREAS it is expedient to amend the Law relating to the closing of Public Houses ‘ * * and Refreshment Houses within the Metropolitan Police District, the City of
 
 < Londony certain Corporate Boroughs, and other PlacesBe it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
@@ -11502,7 +11502,7 @@ An Act for amending the Law relating to the Removal of Clerks of the Peace.
 
 [25th July 1864.]
 
-Yl/'HEREAS by the Sixth Section of the Act of the First Year of King William and * * Queen Mary, Chapter Twenty-one, it was enacted, that if in any County, Riding, Division, or Place any Clerk of the Peace already nominated or thereafter to be nominated should.misdemean himself in the Execution of his Office, and thereupon Complaint in Writing of the said Misdemeanor should be exhibited against him to the Justices of the Peace in their General Quarter Sessions, it should be lawful for the said Justices or the major Part of them, from Time to Time, upon Examination, and due Proof thereof, openly in their said General Quarter Sessions, to suspend or discharge him from the said Office; and in such Case the Custos Rotulorum or other Person to whom the Right of Nomination belonged should appoint another sufficient Person to be a Clerk of the Peace, as in the said Act mentioned: And whereas Cases have occurred in which Clerks of the Peace have been guilty of such Misconduct as to render them unfit to hold their Offices, but the Justices have been unable to remove them by reason that such Misconduct did not occur in the Execution of their Office: And whereas it is expedient to provide for such
+WHEREAS by the Sixth Section of the Act of the First Year of King William and * * Queen Mary, Chapter Twenty-one, it was enacted, that if in any County, Riding, Division, or Place any Clerk of the Peace already nominated or thereafter to be nominated should.misdemean himself in the Execution of his Office, and thereupon Complaint in Writing of the said Misdemeanor should be exhibited against him to the Justices of the Peace in their General Quarter Sessions, it should be lawful for the said Justices or the major Part of them, from Time to Time, upon Examination, and due Proof thereof, openly in their said General Quarter Sessions, to suspend or discharge him from the said Office; and in such Case the Custos Rotulorum or other Person to whom the Right of Nomination belonged should appoint another sufficient Person to be a Clerk of the Peace, as in the said Act mentioned: And whereas Cases have occurred in which Clerks of the Peace have been guilty of such Misconduct as to render them unfit to hold their Offices, but the Justices have been unable to remove them by reason that such Misconduct did not occur in the Execution of their Office: And whereas it is expedient to provide for such
 
 c Cases
 
@@ -11534,7 +11534,7 @@ Incioffures in Schedule may be proceeded with.
 
 Short Title.
 
-* WHEREAS the Inclosure Commissioners for England and Wales have, in pursuance
+WHEREAS the Inclosure Commissioners for England and Wales have, in pursuance
 
 ‘ ** of " The Acts for the Inclosure, Exchange, and Improvement of Land," issued
 
@@ -11614,7 +11614,7 @@ CAP. LXVII.
 
 An Act to amend the Law in certain Cases relating to Trespasses in Pursuit of Game. [25th July 1864.]
 
-f YI^HEREAS it is expedient to amend the Law in certain Cases relative to the 4 * * Recovery of Penalties for Trespass on Lands in Ireland in Pursuit of Game, and ( to prevent the Necessity of Occupiers of Lands not interested in such Game being made c Party Prosecutors in Proceedings for the Recovery of such PenaltiesBe it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Loras Spiritual and Temporal, and Commons, in this preeent Parliament assembled, and by the Authority of the same:
+WHEREAS it is expedient to amend the Law in certain Cases relative to the 4 * * Recovery of Penalties for Trespass on Lands in Ireland in Pursuit of Game, and ( to prevent the Necessity of Occupiers of Lands not interested in such Game being made c Party Prosecutors in Proceedings for the Recovery of such PenaltiesBe it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Loras Spiritual and Temporal, and Commons, in this preeent Parliament assembled, and by the Authority of the same:
 
 1. Where the Landlord or Lessor of any Land has reserved to himself, by any Deed or Writing, the exclusive Right to the Game on such Land, then suoh Landlord or Lessor, for the Purpose of prosecuting all Persons for trespassing in Pursuit of Game on such Land without his Consent, shall be deemed the legal Occupier of the said Land; and any Person who shall enter or be upon the said Land in Search of or in Pursuit of Game without the Consent of such Landlord or Lessor shall be deemed a Trespasser, and shall, on Conviction thereof before One or more Justices of the Peace sitting in Petty Sessions, forfeit and pay such Sum not exceeding Forty Shillings, together with the Costs, as the said Justice or Justices shall think fit; and such Penalty and Costs shall be recovered and levied in the same Mode and with the same Power of Appeal as are provided for the recovering and levying of any Penalties under the Petty Sessions Act of the Fourteenth
 
@@ -11646,7 +11646,7 @@ CAP. LXVIII.
 
 An Act to amend the Local Government Act of 1858 so far as it applies to Oxford. [25th July 1864.]
 
-4 VI/7 HERE AS by the Local Government Act, 1858, Section Eighty-two, it is provided ‘ " that the Oxford Commissioners described in the Thirty-first Section of the Public < Health Act, 1848, shall be the Body authorized to adopt the said Local Government
+WHEREAS by the Local Government Act, 1858, Section Eighty-two, it is provided ‘ " that the Oxford Commissioners described in the Thirty-first Section of the Public < Health Act, 1848, shall be the Body authorized to adopt the said Local Government
 
 * Act for the District within their Jurisdiction: And whereas the said Commissioners have f adopted the said Act: And whereas it is provided by the said Act that the Local Board ‘ of the Oxford District shall consist of the several Persons therein mentioned, and shall be s elected in manner therein mentioned: And whereas the Election of the said Com-‘ missioners cannot take place, in pursuance of the said first-mentioned Act, until on and ‘ after the Twenty-fifth Day of March One thousand eight hundred and sixty-five: And
 
@@ -11668,7 +11668,7 @@ An Act to defray the Charge of the Pay, Clothing, and contingent and other Expen
 
 [25th July 1864.]
 
-‘ HEREAS it is necessary that Provision should be made for defraying the Charge ‘ * * of the Pay, Clothing, and contingent and other Expenses of the Regular Militia,
+WHEREAS it is necessary that Provision should be made for defraying the Charge ‘ * * of the Pay, Clothing, and contingent and other Expenses of the Regular Militia,
 
 * including the Miners of Cornwall and Devon, when disembodied, in Great Britain and ‘ Ireland, and for making in certain Cases Allowances of Retired Pay to Subaltern Officers ‘ and Surgeons Mates and Assistant Surgeons of the Regular Militia, and of the Miners of ‘ Devon and Cornwall, also to Adjutants, Paymasters, Surgeons, and Quartermasters of the
 
@@ -12596,7 +12596,7 @@ An Act to substitute fixed instead of fluctuating Incomes for the Members of cer
 
 [25th July 1864.]
 
-* HERE AS it is expedient to make Arrangements for securing fixed Incomes to the
+WHEREAS it is expedient to make Arrangements for securing fixed Incomes to the
 
 f * * Members of certain minor Corporations in certain of the Cathedral Churches in f England in lieu of their present fluctuating IncomesBe it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
@@ -12606,7 +12606,7 @@ CAP. LXXI.
 
 An Act for amending and extending the Railways, Ireland, Act, 1851, and the Railways, Ireland, Act, I860. [25th July 1864.]
 
-i WHEREAS it is expedient that the " Railways Act, Ireland, 1851," and the u Rail-( * * ways Act, Irelandy 1860," should be amended, and the Provisions thereof extended, ( as herein-after mentioned Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS it is expedient that the " Railways Act, Ireland, 1851," and the u Rail-( * * ways Act, Irelandy 1860," should be amended, and the Provisions thereof extended, ( as herein-after mentioned Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 1. In all Cases where the Amount of Money which the Arbitrator appointed under the Provisions of the said Acts, or either of them, shall have awarded to be paid by the Company
 
@@ -12712,7 +12712,7 @@ CAP. LXXII.
 
 An Act to explain certain Provisions contained in the Drainage and Improvement of Lands (Ireland) Act, 1863. [25th July 1864.]
 
-* yi/'HERE AS an Act was passed in the Session held in the Twenty-sixth and Twenty-‘ * * seventh Years of Her Majesty Queen Victoria, being " The Drainage and Improve-
+WHEREAS an Act was passed in the Session held in the Twenty-sixth and Twenty-‘ * * seventh Years of Her Majesty Queen Victoria, being " The Drainage and Improve-
 
 ment of Lands Act (Ireland), 1863 And whereas Doubts may arise as to the Priorities in which, under and by virtue of the Forty-ninth Section of the said Act, the Monies, Rentcharges, and Instalments therein mentioned shall or may be respectively chargeable upon Lands other than those actually drained or improved, though being Portion of the same Townland or Denomination as the Lands so drained or improved; and it is expedient that any such Doubts should be removedBe it therefore enacted and declared
 
@@ -14704,7 +14704,7 @@ CAP. LXXV.
 
 An Act to amend the Law relating to certain Nuisances on Turnpike Roads, and to continue certain Turnpike Acts in Great Britain. [29th July 1864.]
 
-f VlfHEREAS it is expedient to amend the Law relating to Nuisances on Turnpike c ** Roads, and to continue for limited Times the Acts herein-after specified:* Beit enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS it is expedient to amend the Law relating to Nuisances on Turnpike c ** Roads, and to continue for limited Times the Acts herein-after specified:* Beit enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 1. * Whereas by the General Act for the Regulation of Highways, passed in the Session f of the Fifth and Sixth Years of the Reign of King William the Fourth, Chapter Fifty, c Section Seventy, it is, amongst other things, provided that it shall not be lawful for any
 
@@ -14866,7 +14866,7 @@ CAP. LXXVI.
 
 An Act to make valid defective Registration of Deeds in certain Cases, and to substitute Stamps in lieu of the Fees now payable on Proceedings in the Registrar of Deeds Office in Ireland. [29th July 1864.]
 
-€ YATHEREAS by an Act of Parliament made in Ireland in the Sixth Year of the Reign ( * " of Queen Anne, intituled An Act for the public registering of all Deeds, Conveyances, 6 Anne, c. 2.
+WHEREAS by an Act of Parliament made in Ireland in the Sixth Year of the Reign ( * " of Queen Anne, intituled An Act for the public registering of all Deeds, Conveyances, 6 Anne, c. 2.
 
 * and Wills that shall be made of any Honours, Manors, Lands, Tenements, or Heredita- (O
 
@@ -14964,7 +14964,7 @@ CAP. LXXVIX.
 
 An Act to repeal and in part to re-enact certain Acts of Parliament relating to the Ionian States, and to establish the Validity of certain Things done in the said States. # [29th July 1864.]
 
-f Yl/'HEREAS in consequence of the Relinquishment by Her Majesty of Her Majesty's c * * Protectorate over the United States of the Ionian Islands, it has been expedient to ‘ repeal certain Acts of Parliament relating to the said States, and to make Provision € respecting certain Matters and Things done therein:' Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS in consequence of the Relinquishment by Her Majesty of Her Majesty's c * * Protectorate over the United States of the Ionian Islands, it has been expedient to ‘ repeal certain Acts of Parliament relating to the said States, and to make Provision € respecting certain Matters and Things done therein:' Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 1. An Act of Parliament passed in the Twentieth Year of Her Majesty, Chapter Pour, intituled An Act to enable the Subjects of the Ionian States to hold Military and Naval Commissions under the Crown, shall be and the same is hereby repealed.
 
@@ -15052,7 +15052,7 @@ CAP. LXXVIII.
 
 An Act for impressing by Machinery Signatures of Names on Bank Notes and certain Buis of the Bank of Ireland. [29th July 1864.]
 
-* Tl^HEREAS it is expedient that the Name or Names of the Person or Persons for the c ▼ t Time being authorized by the Governor and Company of the Bank of Ireland to sigu ‘ Bank Notes, Bank Post Bills, and Bank Bills of Exchange on behalf of the said Governor f and Company should be impressed by Machinery upon such Bank Notes, Bank Post Bills,
+WHEREAS it is expedient that the Name or Names of the Person or Persons for the c ▼ t Time being authorized by the Governor and Company of the Bank of Ireland to sigu ‘ Bank Notes, Bank Post Bills, and Bank Bills of Exchange on behalf of the said Governor f and Company should be impressed by Machinery upon such Bank Notes, Bank Post Bills,
 
 * and Bank Bills of Exchange, in such Form as may from Time to Time be adopted by the 1 said Governor and Company, instead of being subscribed in the Handwriting of such Person
 
@@ -15070,7 +15070,7 @@ CAP. LXXIX.
 
 An Act to confirm certain Provisional Orders made under an Act of the Fifteenth Year of Her present Majesty, to facilitate Arrangements for the Relief of Turnpike Trusts. [29th July 1864.]
 
-* A/I/^HEREAS by an Act of the Fifteenth Year of Her Majesty, Chapter Thirty-eight,
+WHEREAS by an Act of the Fifteenth Year of Her Majesty, Chapter Thirty-eight,
 
 * " " to facilitate Arrangements for the Relief of Turnpike Trusts, and to make certain
 
@@ -15614,7 +15614,7 @@ CAP. LXXX.
 
 An Act to extend the Provisions of ‘‘The Criminal Justice Act, 1855," to the Liberties of the Cinque Ports and to the District of Romney Marsh in the County of Kent. [29th July 1864.]
 
-* YX^HEREAS an Act of the Nineteenth and Twentieth Years of the Reign of Her c f present Majesty, Chapter One hundred and eighteen. Section One, enacts that so c much of Section Nine of the herein-before recited Act of the Eighteenth and Nineteenth ( Years of the Reign of Her present Majesty as provides that every Petty Sessions for the € Purposes of that Act shall be the Petty Sessions holden for a Petty Sessional Division ‘ shall not extend nor be applicable to Petty Sessions holden in or for the Liberties of the c Cinque Ports or any Part thereofBe it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS an Act of the Nineteenth and Twentieth Years of the Reign of Her c f present Majesty, Chapter One hundred and eighteen. Section One, enacts that so c much of Section Nine of the herein-before recited Act of the Eighteenth and Nineteenth ( Years of the Reign of Her present Majesty as provides that every Petty Sessions for the € Purposes of that Act shall be the Petty Sessions holden for a Petty Sessional Division ‘ shall not extend nor be applicable to Petty Sessions holden in or for the Liberties of the c Cinque Ports or any Part thereofBe it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 1. So much of the Act of the Nineteenth and Twentieth Years of the Reign of Her present Majesty as is herein-before recited, shall be and is hereby repealed.
 
@@ -15640,7 +15640,7 @@ An Act for amending the Act 11th & 12th George the Third, Cap. 17. (I.), in resp
 
 [29th July 1864.]
 
-4 HERE AS an Act was passed in the Third and Fourth Years of the Reign of His
+WHEREAS an Act was passed in the Third and Fourth Years of the Reign of His
 
 4 * * late Majesty King William the Fourth, intituled An Act to alter and amend the Laws
 
@@ -15662,7 +15662,7 @@ CAP. LXXXII.
 
 An Act to guarantee the Liquidation of a Loan for the Service of the Colony of New Zealand. [29th July 1864.]
 
-YX^HEREAS by an Act of the General Assembly of New Zealand passed in the * * Twenty-seventh Year of Her Majesty, intituled An Act for raising a Loan of Three million Pounds Sterling for the Public Service of the Colony of New Zealand, it was 4 enacted, that it should be lawful for the Governor of New Zealand4 to appoint the Agent 4 or Agents therein mentioned, with Authority to borrow and raise on behalf of the 4 said Colony such Sum or Sums of Money not exceeding in all Three million Pounds 4 Sterling as the said Governor might direct: And whereas it is expedient that the Commissioners of Her Majesty's Treasury should be authorized to guarantee the Payment of 4 Interest and Repayment of the Principal of Part of the Sum so to be borrowed, not 4 exceeding the Amount of One million Pounds Sterling, upon the Conditions hereinafter mentionedBe it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS by an Act of the General Assembly of New Zealand passed in the * * Twenty-seventh Year of Her Majesty, intituled An Act for raising a Loan of Three million Pounds Sterling for the Public Service of the Colony of New Zealand, it was 4 enacted, that it should be lawful for the Governor of New Zealand4 to appoint the Agent 4 or Agents therein mentioned, with Authority to borrow and raise on behalf of the 4 said Colony such Sum or Sums of Money not exceeding in all Three million Pounds 4 Sterling as the said Governor might direct: And whereas it is expedient that the Commissioners of Her Majesty's Treasury should be authorized to guarantee the Payment of 4 Interest and Repayment of the Principal of Part of the Sum so to be borrowed, not 4 exceeding the Amount of One million Pounds Sterling, upon the Conditions hereinafter mentionedBe it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 1. The Liquidation of all such Sums, not exceeding in the whole the Sum of One million Pounds, as shall be borrowed and raised in Great Britain, with the Approbation of the Commissioners of Her Majesty's Treasury, under the said first-recited Act of the General Assembly of New Zealand, or of any Act passed in Amendment of the same, together with the Interest thereon not exceeding the yearly Rate of Four Pounds for One hundred Pounds, shall be guaranteed under this Act; and for giving effect to such Guarantee it shall be lawful for the Commissioners of Her Majesty's Treasury to direct and cause to be issued and paid out of the growing Produce of the Consolidated Fund of the United Kingdom of Great Britain and Ireland such Sums as shall be required to make good any Deficiency which shall happen in the regular Payment, on the Part of New Zealand, of the Interest accruing due upon such Sums as shall be borrowed as aforesaid, or in the Liquidation of the Principal Sums when the same shall become payable.
 
@@ -15724,7 +15724,7 @@ An Act to confirm certain Provisional Orders under 44 The Local Government Act, 
 
 [29th July 1864*.]
 
-‘ WHEREAS the Secretary of State for the Home Department, being One of Her ‘ ' * Majesty's Principal Secretaries of State, has, under the Provisions of the Local
+WHEREAS the Secretary of State for the Home Department, being One of Her ‘ ' * Majesty's Principal Secretaries of State, has, under the Provisions of the Local
 
 * Government Act, 1858, duly made certain Provisional Orders which are contained in the
 
@@ -17568,7 +17568,7 @@ An Act for continuing various expiring Acts.
 
 [29th July 1864.]
 
-W HERE AS the several Acts mentioned in the First Column of the Schedule hereto c ** are wholly, or as to certain Provisions thereof, limited to expire at the Times c specified in respect of such Acts in the Fourth Column of the said Schedule: And f whereas it is expedient to continue such Acts, in so far as they are temporary in their c Duration, for the Times mentioned in respect of such Acts respectively in the Fifth
+WHEREAS the several Acts mentioned in the First Column of the Schedule hereto c ** are wholly, or as to certain Provisions thereof, limited to expire at the Times c specified in respect of such Acts in the Fourth Column of the said Schedule: And f whereas it is expedient to continue such Acts, in so far as they are temporary in their c Duration, for the Times mentioned in respect of such Acts respectively in the Fifth
 
 Z z 2 c Column
 
@@ -17618,7 +17618,7 @@ CAP. LXXXV.
 
 An Act for the Prevention of Contagious Diseases at certain Naval and Military Stations. [29th July 1864.]
 
-c A\/rHEREAS it is expedient to make Provisions calculated to prevent the spreading * * ~ of certain Contagious Diseases in the Places to which this Act applies:*
+WHEREAS it is expedient to make Provisions calculated to prevent the spreading * * ~ of certain Contagious Diseases in the Places to which this Act applies:*
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
@@ -17990,7 +17990,7 @@ CAP. LXXXVII.
 
 An Act to amend the Law relating to Publication of Accounts of Com imported, and to Returns of Purchases and Sales of Corn. [29th July 1864.]
 
-4 WHEREAS by the Act of the Session of the Fifth and Sixth Years of Her Majesty 5 & 6 Vict.
+WHEREAS by the Act of the Session of the Fifth and Sixth Years of Her Majesty 5 & 6 Vict.
 
 •4 " Queen Victoria (Chapter Fourteen,) 44 to amend the Laws for the Importation of c- 14*
 
@@ -18246,7 +18246,7 @@ CAP. XC.
 
 An Act to amend an Act of the present Session, Chapter Eighteen, as to the Stamp Duties on certain Letters or Powers of Attorney. [29th July 1864.]
 
-‘ WHEREAS by an Act passed in the present Session of Parliament, Chapter Eighteen, ‘ * * certain Stamp Duties are granted and imposed for and upon any Letter or Power of
+WHEREAS by an Act passed in the present Session of Parliament, Chapter Eighteen, ‘ * * certain Stamp Duties are granted and imposed for and upon any Letter or Power of
 
 ‘ Attorney for the Sale, Transfer, or Acceptance of any of the Government or Parliamentary ‘ Stocks or Funds, and also for and upon any Letter or Power of Attorney for the Receipt
 
@@ -18394,7 +18394,7 @@ An Act for annexing Conditions to the Appointment of Persons to Offices in the G
 
 [29th July 1864.]
 
-4 \\THEREAS a Commission was issued in the Year One thousand eight hundred and 4 " sixty-one, under Letters Patent of Her Majesty, for the Purpose of inquiring
+WHEREAS a Commission was issued in the Year One thousand eight hundred and 4 " sixty-one, under Letters Patent of Her Majesty, for the Purpose of inquiring
 
 4 into the Nature and Application of the Endowments and into the Administration and 4 Management of the Colleges and Schools named in the Schedule annexed hereto: And 4 whereas the said Commission reported, amongst other things, to Her Majesty, that Parliamentary Legislation would be required in order to make the Changes which the said 4 Commission considered desirable, in respect, amongst other things, of the Governing Bodies 27 & 28 Vict. 3 B "of
 
@@ -18458,7 +18458,7 @@ CAP. XCIII.
 
 An Act for confirming certain Provisional Orders made by the Board of Trade under The General Pier and Harbour Act, 1861, relating to Brighton, Eastbourne, Sundown, Walton-on-the-Naze, Clevedon, Rhyl, Bray, Kircubbin, Walton, (Suffolk), Holy wood, Exe Bight, Lytham, Ardglass, Filey, Greenock, Carlingford Lough, Wexford, Torquay, and Oban. [29th July 1864.]
 
-c WHEREAS a Provisional Order made by the Board of Trade under The General
+WHEREAS a Provisional Order made by the Board of Trade under The General
 
 < Pier and Harbour Act, 1861, is not of any Validity or Force whatever until the
 
@@ -31020,7 +31020,7 @@ CAP. XCIV.
 
 An Act to remove Disabilities affecting the Bishops and Clergy of the Protestant Episcopal Church in Scotland. [29th July 1864.]
 
-‘ A\^THEREAS an Act was passed in the Thirty-second Year of the Reign of His
+WHEREAS an Act was passed in the Thirty-second Year of the Reign of His
 
 * * * Majesty King George the Third, intituled An Act for granting Relief to Pastors,
 
@@ -31096,7 +31096,7 @@ CAP. XCV.
 
 An Act to amend the Act Ninth and Tenth Victoria, Chapter Ninety-three, for compensating the Families of Persons killed by Accident. [29th July 1864.]
 
-c WHEREAS by an Act passed in the Session of Parliament holden in the Ninth and ‘ * * Tenth Years of Her Majesty's Reign, intituled An Act for compensating the Families
+WHEREAS by an Act passed in the Session of Parliament holden in the Ninth and ‘ * * Tenth Years of Her Majesty's Reign, intituled An Act for compensating the Families
 
 e of Persons killed by Accident, it is amongst other things provided, that every such Actiou
 
@@ -31134,7 +31134,7 @@ An Act' to enable certain Royal and Parliamentary Burghs in Scotland to avail th
 
 [29th July 1864.]
 
-c VS^HEREAS by an Act passed in the Twenty-second and Twenty-third Years of the c * " Reign of Her present Majesty, intituled An Act for regulating Measures used in Sales i of Gas, Royal Burghs in Scotland not being County Towns were enabled to avail them-c selves of the Provisions of the said Act, and it was compulsory on Counties and Royal
+WHEREAS by an Act passed in the Twenty-second and Twenty-third Years of the c * " Reign of Her present Majesty, intituled An Act for regulating Measures used in Sales i of Gas, Royal Burghs in Scotland not being County Towns were enabled to avail them-c selves of the Provisions of the said Act, and it was compulsory on Counties and Royal
 
 * Burghs being County Towns to bring the said Act into operation: And whereas by ‘ another Act passed in the Twenty-third and Twenty-fourth Years of Her present Majesty, ‘ intituled An Act to amend the Act for regulating Measures used in Sales of Gas9 it was
 
@@ -31158,7 +31158,7 @@ An Act to make further Provision for the Registration of Burials in England.
 
 [29th July 1864.]
 
-c WHEREAS Provision is made by Law in England for the Registration of Burials c ' ' performed according to the Rites of the Established Church and of all Burials in * Grounds provided under the Burial Acts:
+WHEREAS Provision is made by Law in England for the Registration of Burials c ' ' performed according to the Rites of the Established Church and of all Burials in * Grounds provided under the Burial Acts:
 
 ‘ And whereas it is expedient that all Burials in England be registered Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
@@ -31228,7 +31228,7 @@ An Act to amend the Procedure of the Civil Bill Courts in Ireland.
 
 [29th July 1864.]
 
-i Tl/'HERE AS it is expedient to amend the Procedure in the Civil Bill Courts in Ireland, c * * and to make Provision for the better Execution of the Decrees and Orders of such
+WHEREAS it is expedient to amend the Procedure in the Civil Bill Courts in Ireland, c * * and to make Provision for the better Execution of the Decrees and Orders of such
 
 c CourtsBe it therefore enacted by the Queens most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
@@ -31920,7 +31920,7 @@ CAP. C.
 
 An Act to confirm certain Proceedings of the Justices for the County of Sussex. [29th July 1864.]
 
-* VI^HEREAS the County of Sussex is divided or reputed to be divided for certain
+WHEREAS the County of Sussex is divided or reputed to be divided for certain
 
 * * * Purposes into Two Divisions called respectively the Eastern and Western Divisions, ‘ but there is but One Commission of the Peace for the whole County: And whereas the c Court of Quarter Sessions for the said County is for Convenience held every Quarter first
 
@@ -31970,7 +31970,7 @@ An Act to amend the Act for the better Management of Highways in England.
 
 [29th July 1864.]
 
-1 YI^THEREAS it is expedient to amend an Act passed in the Session holden in the ‘ ** Twenty-fifth and Twenty-sixth Years of the Reign of Her present Majesty,
+WHEREAS it is expedient to amend an Act passed in the Session holden in the ‘ ** Twenty-fifth and Twenty-sixth Years of the Reign of Her present Majesty,
 
 * Chapter Sixty-one, and intituled An Act for the better Management of Highways in
 
@@ -32576,7 +32576,7 @@ cap. cm.
 
 An Act to authorize the Acquisition of Lands by the Admiralty with a view to the Extension of Portsmouth Dockyard, and for other Purposes connected therewith. [29th July 1864.]
 
-‘ Vl^HEREAS it is expedient that the Admiralty be empowered to acquire certain c Property, and to execute certain Works, with a view to the Extension of Her
+WHEREAS it is expedient that the Admiralty be empowered to acquire certain c Property, and to execute certain Works, with a view to the Extension of Her
 
 * Majesty's Dockyard at Portsmouth:
 
@@ -32672,7 +32672,7 @@ CAP. CIV.
 
 An Act to extend the Powers of the Public Works (Manufacturing Districts) Act, 1863. [29th July 1864.]
 
-* YI^HEREAS by The Public Works (Manufacturing Districts) Act, 1863, herein-nfter
+WHEREAS by The Public Works (Manufacturing Districts) Act, 1863, herein-nfter
 
 * * * called the Special Act, Power was given to charge the Consolidated Fund with One
 
@@ -32734,7 +32734,7 @@ CAR CV.
 
 An Act to explain the Statutes of Her present Majesty for amending the Laws relating to the Removal of the Poor. [29th July 1864.]
 
-‘ Tl^HEREAS it is enacted in the First Section of the Statute of the Twenty-fifth Year ‘ " of the Reign of Her present Majesty, Chapter Fifty-five, that after the Twenty-‘ fifth Day of March then next the Period of Three Years should be substituted for that i of Five Years specified in the First Section of the Statute Ninth and Tenth Victoria, ‘ Chapter Sixty-six, and that the Residence of a Person in any Part of a Union should have ‘ the same Effect in reference to the Provisions of the said Section as a Residence in any i Parish: And whereas Doubts exist as to the proper Meaning of this latter Provision, and * it is desirable to remove the sameBe it therefore declared and enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the
+WHEREAS it is enacted in the First Section of the Statute of the Twenty-fifth Year ‘ " of the Reign of Her present Majesty, Chapter Fifty-five, that after the Twenty-‘ fifth Day of March then next the Period of Three Years should be substituted for that i of Five Years specified in the First Section of the Statute Ninth and Tenth Victoria, ‘ Chapter Sixty-six, and that the Residence of a Person in any Part of a Union should have ‘ the same Effect in reference to the Provisions of the said Section as a Residence in any i Parish: And whereas Doubts exist as to the proper Meaning of this latter Provision, and * it is desirable to remove the sameBe it therefore declared and enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the
 
 same:
 
@@ -32766,7 +32766,7 @@ CAP. CVII.
 
 An Act to confirm a Provisional Order under " The Drainage and Improvement of Lands (Ireland) Act, 1863" [29th July 1864.]
 
-* \\l HERE AS the Commissioners of Public Works in Ireland have, in pursuance of
+WHEREAS the Commissioners of Public Works in Ireland have, in pursuance of
 
 t v v The Drainage and Improvement of Lands Act (Ireland), 1863," duly made the
 
@@ -32862,7 +32862,7 @@ An Act to amend The West Indian Incumbered Estates Acts."
 
 [29th July 1864.]
 
-c \U HERE AS, it is contemplated that " The West Indian Incumbered Estates Acts, 1854,
+WHEREAS, it is contemplated that " The West Indian Incumbered Estates Acts, 1854,
 
 ‘ * * 1858, 1862," should, in so far as such Acts or any Provisions thereof are temporary
 
@@ -33204,7 +33204,7 @@ An Act for the Amendment of the Law relating to the Mitigation of Penalties.
 
 [29th July 1864.]
 
-c Y\7HEREAS by various Public Acts of Parliament Penalties are imposed in respect
+WHEREAS by various Public Acts of Parliament Penalties are imposed in respect
 
 * * * of certain Offences, and it is provided that such Penalties are not to be reduced ( below the Limits in such Acts specified: And whereas the Provisions of the said Public
 
@@ -33222,7 +33222,7 @@ CAP. CXL
 
 An Act to transfer certain Houses in and near Cranbourne Street in the City of Westminster' from the Commissioners of Her Majesty's Works to Her Majesty, for the Considerations therein mentioned. [29th July 1864.]
 
-c XVI HERE AS under and by virtue of Three several Acts of Parliament, (namely,) c * * an Act of the Fifteenth and Sixteenth Years of Queen Victoria, Chapter Seventy- 16 Vict ( eight, an Act of the Sixteenth and Seventeenth Years of Queen Victoria, Chapter Forty- \q &17 Vict. c four, and an Act of the Twentieth and Twenty-first Years of Queen Victoria, Chapter c. 44.
+WHEREAS under and by virtue of Three several Acts of Parliament, (namely,) c * * an Act of the Fifteenth and Sixteenth Years of Queen Victoria, Chapter Seventy- 16 Vict ( eight, an Act of the Sixteenth and Seventeenth Years of Queen Victoria, Chapter Forty- \q &17 Vict. c four, and an Act of the Twentieth and Twenty-first Years of Queen Victoria, Chapter c. 44.
 
 ‘ Sixty-seven, the Commissioners of Her Majesty's Works and Public Buildings have 20^& 21 Vict. ‘ executed and completed divers Improvements in Pimlico and in the Neighbourhood of c Buckingham Palace, in the same Acts or some of them specified or referred to, including ‘ divers new Streets, Thoroughfares, and open Spaces which have been given up to the ‘ Public: And whereas the Property appropriated to the said Improvements consisted,
 
@@ -33404,7 +33404,7 @@ CAP. CXII.
 
 An Act to amend the Law relating to future Judgments, Statutes, and Recognizances. [29th July 1864.]
 
-i Y^HEREAS it is desirable to assimilate the Law affecting Freehold, Copyhold, and ( * * Leasehold Estates to that affecting purely Personal Estates in respect of future
+WHEREAS it is desirable to assimilate the Law affecting Freehold, Copyhold, and ( * * Leasehold Estates to that affecting purely Personal Estates in respect of future
 
 ‘ Judgments, Statutes, and RecognizancesTherefore be it enacted by the Queen's most Excellent Majesty, by and with the Adyice and Consent of the Lords Spiritual and
 
@@ -33468,7 +33468,7 @@ CAP. CXIII.
 
 An Act to amend the Laws relating to the Conservancy of the River Thames; and for other Purposes relating thereto. [29th July 1864,]
 
-* \JLT HERE AS it is expedient to provide for the Addition to the Conservators of the
+WHEREAS it is expedient to provide for the Addition to the Conservators of the
 
 ‘ * * River Thames of a certain Number of Elective Conservators, and to discontinue the
 
@@ -34174,7 +34174,7 @@ CAP. CXIV.
 
 The Improvement of Land Act, 1864. [29th July 1864.]
 
-‘ \\l HERE AS an Act was passed in the Twelfth and Thirteenth Years of Her present 6 * * Majesty, intituled An Act to promote the Advance of private Money for Drainage of
+WHEREAS an Act was passed in the Twelfth and Thirteenth Years of Her present 6 * * Majesty, intituled An Act to promote the Advance of private Money for Drainage of
 
 ‘ Lands in Great Britain and Ire'an!, and several Companies have been incorporated by * Act of Parliament, with special Powers for promoting the Improvement of Land in
 
@@ -35028,7 +35028,7 @@ CAP. CXV.
 
 An Act to prohibit the placing of poisoned Flesh and poisonous Matters in Plantations, Fields, and open Places, and to extend " The Poisoned Grain Prohibition Act, 1863." [29th July 1864.]
 
-‘ YI^HEREAS it is expedient to extend the Provisions of an Act passed in the Session of ‘ * * Parliament held in the Twenty-sixth and Twenty-seventh Years of the Reign of Her
+WHEREAS it is expedient to extend the Provisions of an Act passed in the Session of ‘ * * Parliament held in the Twenty-sixth and Twenty-seventh Years of the Reign of Her
 
 ‘ present Majesty, intituled An Act to prohibit the Sale and Use of Poisoned Grain or Seed:'* Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows: .
 
@@ -35038,7 +35038,7 @@ CAP. CXVI.
 
 An Act to make Provision for distributing the Charge of Relief of certain Classes of poor Persons over the whole of the Metropolis. [29th July 1864.]
 
-‘ WHEREAS it is expedient that Provision should be made for distributing the Charge f * * of the Relief of certain poor Persons in the Metropolis during the ensuing Winter ‘ otherwise than is now lawful:' Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same,
+WHEREAS it is expedient that Provision should be made for distributing the Charge f * * of the Relief of certain poor Persons in the Metropolis during the ensuing Winter ‘ otherwise than is now lawful:' Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same,
 
 1# That after the Twenty-ninth Day of September next the Guardians of every Union or Parish situated wholly or partly within the District to which the Metropolis Local Management Act applies may, subject to the Orders and Regulations of the Poor Law Board, make
 
@@ -35078,7 +35078,7 @@ CAP. CXVII.
 
 An Act to render permissive the Use of the Metric System of Weights and Measures. [29th July 1864.]
 
-* YXJ HERE AS, for the Promotion and Extension of our internal as well as our foreign
+WHEREAS, for the Promotion and Extension of our internal as well as our foreign
 
 * " Trade, and for the Advancement of Science, it is expedient to legalize the Use of
 
@@ -35178,7 +35178,7 @@ An Act to amend the Acts relating to Sjalmon Fisheries in Scotland.
 
 [29th July 1864.]
 
-c VlfHEREAS an Act wa3 passed in the Twenty-fifth and Twenty-sixth Years of the
+WHEREAS an Act wa3 passed in the Twenty-fifth and Twenty-sixth Years of the
 
 * " Reign of Her Majesty Queen Victoria, intituled An Act to regulate and amend the c Law respecting the Salmon Fisheries of Scotland; and another Act was passed in the ‘ Twenty-sixth and Twenty-seventh Years of the Reign of Her Majesty Queen Victoria, ‘ intituled An Act to continue the Powers of the Commissioners under the Salmon Fisheries ‘ (Scotland) Act until the First Day of January One thousand eight hundred and sixty-five,
 
@@ -35224,7 +35224,7 @@ CAP. CXIX.
 
 An Actfto make Provision for the Discipline of the Navy. [29th July 1864.]
 
-* \/INHEREAS it is expedient to amend the Law relating to the Government of the
+WHEREAS it is expedient to amend the Law relating to the Government of the
 
 * * ^ Navy, whereon, under the good Providence of God, the Wealth, Safety* ahd f Strength of the Kingdom chiefly depend
 
@@ -35924,7 +35924,7 @@ CAP. CXX.
 
 An Act to facilitate in certain Cases the obtaining of further Powers by Railway Companies. [29th July 1864.]
 
-4 Tl^HEREAS it is expedient that in certain Cases Railway Companies be enabled to € " obtain further Powers on complying with the Conditions of a General Act of 4 Parliament, without being obliged to procure in each Case a Special Act:'
+WHEREAS it is expedient that in certain Cases Railway Companies be enabled to € " obtain further Powers on complying with the Conditions of a General Act of 4 Parliament, without being obliged to procure in each Case a Special Act:'
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
