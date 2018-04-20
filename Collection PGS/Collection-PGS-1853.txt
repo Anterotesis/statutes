@@ -287,25 +287,25 @@ CXXV. An Act to continue and amend the Metropolitan Sewers Acts. 853
 CXXVI. An Act to confirm certain Provisional Orders of the General Board of Health for Accrington, Bangor, and Uxbridge, and to provide for conducting the First Election of a Local Board of Health at Elland. 854
 
 CXXVII. An Act to reduce the Duties payable in respect of Hackney Carriages used in the Metropolis, and to amend the Laws relating to the granting of Licences and Payment of Duties in respect of Metropolitan Stage and Hackney Carriages, and to make Provision as to the Charge for the Hire of Hackney Carriages in certain Cases. 862
----
+
 CXXVIII. An Act to abate the Nuisance arising from the Smoke of Furnaces in the Metropolis and from Steam Vessels above London Bridge. 866
 
 CXXIX. An Act further to amend the Law relating to Pilotage. 867
 
-CXXX. An Act to amend the Acts for promoting the Drainage of Lands and Improvements in connexion therewith in Ireland. 87 5
+CXXX. An Act to amend the Acts for promoting the Drainage of Lands and Improvements in connexion therewith in Ireland. 875
 
-CXXXL An Act to amend various Laws relating to Merchant Shipping. 886
+CXXXI. An Act to amend various Laws relating to Merchant Shipping. 886
 
 CXXXII. An Act to extend the Provisions of an Act of the present Session for redeeming or commuting the Annuity payable to the South Sea Company and certain Annuities of Three Pounds per Centum per Annum, and to provide for Payments to be made under the said Act. 901
 
-CXXXIIL An Act to suspend the making of Lists and the Ballots and Enrolments for the Militia of the United Kingdom, and to amend the Law in relation to the Militia in England. 904
+CXXXIII. An Act to suspend the making of Lists and the Ballots and Enrolments for the Militia of the United Kingdom, and to amend the Law in relation to the Militia in England. 904
 
 CXXXIV. An Act to amend the Laws concerning the Burial of the Dead in England beyond the Limits of the Metropolis, and to amend the Act concerning the Burial of the Dead in the Metropolis. 910
 
 CXXXV. An Act to continue certain Turnpike Acts in Great Britain, and to make further Provisions concerning Turnpike Roads in England. 912
 
 CXXXVI. An Act for enabling Grand Juries in Ireland to borrow Money from private Sources, on the Security of Presentment, and for transferring to Counties certain Works constructed wholly or in part with Public Money. 916
-
+---
 CXXXVII. An Act for the better Administration of Charitable Trusts. 927
 
 LOCAL AND PERSONAL ACTS.
@@ -376,9 +376,7 @@ xxvii. An Act for discharging the Inhabitants of the Townships of Wakefield, Alv
 
 xxviii. An Act for the further Improvement of the Borough of Wolverhampton, and for regulating the Markets therein, and for other Purposes.
 
-xxix. An Act for better lighting, watching, and otherwise improving the ToWn of Blackpool
-
-. and the rest of the Township of Layton with Warbrick in the County Palatine of
+xxix. An Act for better lighting, watching, and otherwise improving the ToWn of Blackpool and the rest of the Township of Layton with Warbrick in the County Palatine of
 
 Lancaster, and for other Purposes, and of which the Short Title is €€ The Blackpool Improvement Act, 1853."
 
@@ -1298,15 +1296,11 @@ An Act for enabling the Commissioners of Inland Revenue to dispose of certain Pr
 
 8 G. 3. c. as. «
 
-WHEREAS by an Act passed in the Session of Parliament holden in the Eighth Year * of the Reign of His late Majesty King Georye the Third, intituled An Act for carrying into execution an Agreement made between the Mayor and Commonalty and Citizens of the City of London, and the Wardens and Commonalty of the Mystery of Mercers of the said City, and Stamp Brooksbank Esquire, Secretary to the Commissioners of His Majesty's Revenue of Excise, for the Purchase of Gresham College, and the Ground and Buildings thereunto belonging, and for vesting the same unalienably in the Crown, for the Purpose of erecting and building an Excise Office there, and for enabling the Lecturers of the said College to marry, notwithstanding any Restriction contained in the Will of Sir Thomas Gresham Knight, deceased, it is enacted, that it should and might be lawful to and for all Bodies Politic, Corporate, or Collegiate, and all Trustees, Mortgagees, and Feoffees in Trust, Guardians of Infants, and Committees of Lunatics and Idiots, Executors and Administrators whatsoever, and all and every other Person or Persons whomsoever, who were or should be seised, possessed, or interested in any Lands or Tenements standing or being contiguous or adjoining to the said College, to bargain and sell the same to such Person or Persons as the Commissioners of His Majesty's Treasury then being, or any Three or more of them, or the High Treasurer, or the Commissioners of His Majesty's Treasury for the Time being, or any Three or more of them, should by Writing under his or their Hands appoint, to contract for the Purchase thereof for the Purpose aforesaid, and such Lands or Tenements so to be purchased should be conveyed to iris Majesty, His Heirs or Successors, by Deed or Deeds, to be enrolled in His Majesty's Court of King's Bench, and when so purchased should be and be deemed to be and were thereby declared to be vested in and annexed to the Imperial Crown of this Realm, and should be and remain for ever unalien-
-
-( able
-
--
+WHEREAS by an Act passed in the Session of Parliament holden in the Eighth Year * of the Reign of His late Majesty King Georye the Third, intituled An Act for carrying into execution an Agreement made between the Mayor and Commonalty and Citizens of the City of London, and the Wardens and Commonalty of the Mystery of Mercers of the said City, and Stamp Brooksbank Esquire, Secretary to the Commissioners of His Majesty's Revenue of Excise, for the Purchase of Gresham College, and the Ground and Buildings thereunto belonging, and for vesting the same unalienably in the Crown, for the Purpose of erecting and building an Excise Office there, and for enabling the Lecturers of the said College to marry, notwithstanding any Restriction contained in the Will of Sir Thomas Gresham Knight, deceased, it is enacted, that it should and might be lawful to and for all Bodies Politic, Corporate, or Collegiate, and all Trustees, Mortgagees, and Feoffees in Trust, Guardians of Infants, and Committees of Lunatics and Idiots, Executors and Administrators whatsoever, and all and every other Person or Persons whomsoever, who were or should be seised, possessed, or interested in any Lands or Tenements standing or being contiguous or adjoining to the said College, to bargain and sell the same to such Person or Persons as the Commissioners of His Majesty's Treasury then being, or any Three or more of them, or the High Treasurer, or the Commissioners of His Majesty's Treasury for the Time being, or any Three or more of them, should by Writing under his or their Hands appoint, to contract for the Purchase thereof for the Purpose aforesaid, and such Lands or Tenements so to be purchased should be conveyed to iris Majesty, His Heirs or Successors, by Deed or Deeds, to be enrolled in His Majesty's Court of King's Bench, and when so purchased should be and be deemed to be and were thereby declared to be vested in and annexed to the Imperial Crown of this Realm, and should be and remain for ever unalienable
 
 16" VICTORIA, c.8. 9
 
-* able from the same, and all Contracts, Agreements, and Sales, and all Conveyances by ‘ such Deeds, enrolled as aforesaid, which should be made by such Bodies Politic, Corporate,
+from the same, and all Contracts, Agreements, and Sales, and all Conveyances by ‘ such Deeds, enrolled as aforesaid, which should be made by such Bodies Politic, Corporate,
 
 ‘ or Collegiate, or other Persons aforesaid, should be valid and effectual to all Intents and c Purposes, any Law, Statute, or Usage, or any other Matter or Thing, to the contrary
 
@@ -1701,8 +1695,6 @@ over.
 over, as the Case may be: Provided also, that the Time during which any Prisoner under Sentence of Imprisonment by a Court-martial shall be detained in Military Custody shall be reckoned as Imprisonment under the Sentence, for whatever Purpose such Detention shall take place.
 
 XLTI. The Gaoler, or Person having the immediate Inspection of any public Prison, Gaol, House of Correction, Lock-up House, or other Place of Confinement in any Part of Her Majesty's Dominions, shall diet and supply every Soldier imprisoned by the Sentence of a Court-martial or as a Deserter with Fuel and other Necessaries according to the Regulations of such Place of Confinement, and shall receive on account of every Soldier, during the Period of his Imprisonment, Sixpence per Diem, which the Secretary-at-War shall cause to be issued out of the Subsistence of such Soldier, upon Application in Writing signed by any Justice within whose Jurisdiction such Place of Confinement shall be locally situated, together with a Copy of the Order of Commitment, and which Sum of Sixpence per Diem shall be carried to the Credit of the Fund from which the Expense of such Place of Confinement is defrayed.
-
-♦
 
 XLIII. Every Gaoler, or Person having the immediate Inspection of any public Prison, Gaol, House of Correction, or other Place of Confinement, to whom any Notice shall have been given, or who shall have Reason to believe or to know, that any Person in his Custody for any Offence, Civil or Military, is a Soldier liable to serve Her Majesty on the Expiration of his Imprisonment, shall give, if in Great Britain, to the Secretary-at-War, and if in Ireland to the General commanding Her Majesty's Forces in Ireland, One Month's Notice of the Period of such Expiration of Imprisonment, or if there shall not be sufficient Time for a Month's Notice then the longest practicable Notice thereof.
 
@@ -9871,10 +9863,6 @@ XLII I. The Commissioners shall, at the Request of any Successor, or any Person 
 XLIV. The following Persons, besides the Successor, shall be personally accountable to Her Majesty for the Duty payable in respect of any Succession, but to the Extent only of the Property or Funds actually received or disposed of by them respectively after the Time appointed for the Commencement of this Act; that is to say, every Trustee, Guardian, Committee, Tutor, or Curator, or Husband in "whom respectively any Property, or the Management of any Property, subject to such Duty, shall be vested, and every Person in whom the same shall be vested by Alienation or other derivative Title at the Time of the Succession becoming an Interest in possession; and all such Trustees, Guardians, Committees, Tutors, Curators, Husbands, and Persons shall be authorized to compound or pay in advance or commute any Duty, and retain out of the Property, subject to any such Duty, the Amount thereof, or to raise such Amount, and the Expenses incident thereto, at Interest on the Security of such Property, with Power to give effectual Discharges for the same, and such Security shall have Priority over any Charge or Incumbrance created by the Successor; and in the event of the Nonpayment of such Duty as aforesaid every Person hereby made accountable shall be a Debtor to Her Majesty in the Amount of the unpaid Duty for which he shall be so accountable.
 
 XLV. The Persons hereby made accountable for the Payment of Duty in respect of any Succession, or some of them, shall, in the Case of Personal Property, at the Time of the first Payment, Delivery, Retainer, Satisfaction, or other Discharge of the same or any Part thereof
-
-to
-
-v^.o©Qle
 
 16° & 17° VICTORIA, c.51. 261
 
@@ -27886,8 +27874,6 @@ Free.
 
 0 2 6 0 1 Q
 
-v^.ooo[e
-
 16° & 17° VICTORIA, c.106.
 
 98. Cherries, raw - - - « - the Bushel
@@ -40724,8 +40710,6 @@ Two Copies of Notice of Trial to aaaex
 
 r ■ 0 Z Q
 
-v^o Qie
-
 820
 
 16° & 17" VICTORIES, c. 113,114.
@@ -42313,10 +42297,6 @@ WHEREAS the General Boqrd of Health have, in pursuance of the Public Health
 to I. The Reverend Edward Sanford of Elland shall be substituted for David Meredith Clerk,
 
 Elcctiou of the Charles Musgrave Norris Esquire, of Elland aforesaid, for George Bayldon Baker, to
-
-conduct
-
-v^oogie
 
 16° & 17" VICTORIA, c. 126.
 
