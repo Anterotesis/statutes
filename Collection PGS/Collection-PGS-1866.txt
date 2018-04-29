@@ -1994,7 +1994,7 @@ Form of Oath to be taken by a Master whose Apprentice has absconded.
 
 T of do make Oath, That I am by
 
-"*■ Trade a , and that was bound to
+"** Trade a , and that was bound to
 
 serve as an Apprentice to me in the said Trade, by Indenture dated the Day of for the Term of
 
@@ -2076,7 +2076,7 @@ Form of Declaration of Attestation of a Commissary's or Purveyor's Accounts.
 
 I do solemnly and sincerely declare. That I have
 
-'*■ not applied any Monies or Stores or Supplies under my Care or Distribution to my own Use, or to the private Use of any other Person by way of Loan to such Person or otherwise, or in any Manner applied them, or knowingly permitted them to be applied, to any other than Public Purposes, according to the Duty of my Office.
+'** not applied any Monies or Stores or Supplies under my Care or Distribution to my own Use, or to the private Use of any other Person by way of Loan to such Person or otherwise, or in any Manner applied them, or knowingly permitted them to be applied, to any other than Public Purposes, according to the Duty of my Office.
 
 Declared before me by the witliin-named 1 this Day of j
 
@@ -3128,7 +3128,7 @@ Perjury.
 
 Definition of Terms.
 
-Marines not to ■be billeted in private Houses, & c.
+Marines not to *be billeted in private Houses, & c.
 
 Cap, 10, Marine Mutiny. ' 29 VICT.
 
@@ -3166,7 +3166,7 @@ A.B.
 
 rT'AKE Notice, That you enlisted with at
 
-"*■ o'Clock* on the
+"** o'Clock* on the
 
 Day of - for the Royal Marines, and if you do not
 
@@ -3294,7 +3294,7 @@ Form of Justice's Certificate to be given to the Master of an Apprentice.
 
 1 T One of Her Majesty's Justices of the
 
-to wit. J -*■ Peace of certify, That of
+to wit. J -** Peace of certify, That of
 
 came before me at the
 
@@ -3328,11 +3328,11 @@ of and was committed to Confinement at on the Day of as Deserter from the Royal 
 
 Age - - - -{
 
-Height - - - ■{ Peet. Inches.
+Height - - - *{ Peet. Inches.
 
-Complexion - - ■{
+Complexion - - *{
 
-Hair - - ■{
+Hair - - *{
 
 Eyes - - -{
 
@@ -4386,7 +4386,7 @@ Cap. 23.
 
 Tobacco, viz.
 
-------Unmanufact tired ■
+------Unmanufact tired *
 
 ------- Manufactured
 
@@ -5326,7 +5326,7 @@ Exchequer Bills and Bonds. -Cap. 25. 205
 
 the United Kingdom, or out of the growing Produce thereof.
 
-25. All the Provisions and Penalties of this Act contained Certain Provi-in Sections Eight, Nine, Ten, Eleven, Twelve, Thirteen, ^Ttoextend Fourteen, Fifteen, Sixteen, Seventeen, Eighteen, Nineteen, to all outstand-Twenty, Twenty-one, Twenty-two, and Twenty-three, shall be mg Exchequer applied and extended to such Exchequer Bills made out and ■Bllls* issued in pursuance of any former Act or Acts as shall remain outstanding after the Commencement of this Act.
+25. All the Provisions and Penalties of this Act contained Certain Provi-in Sections Eight, Nine, Ten, Eleven, Twelve, Thirteen, ^Ttoextend Fourteen, Fifteen, Sixteen, Seventeen, Eighteen, Nineteen, to all outstand-Twenty, Twenty-one, Twenty-two, and Twenty-three, shall be mg Exchequer applied and extended to such Exchequer Bills made out and *Bllls* issued in pursuance of any former Act or Acts as shall remain outstanding after the Commencement of this Act.
 
 26. The several Sections Three, Four, Five, Six, Fourteen, Certain Pro-Sixteen, Seventeen, Eighteen, Nineteen, Twenty, Twenty- visions of this one, Twenty-two, Twenty-three, and Twenty-four of this Act, to^ll Ex^he-applicable to Exchequer Bills, shall apply and be construed quer Bonds, to and in relation to all Exchequer Bonds to be made out and
 
@@ -5632,7 +5632,7 @@ WHEREAS the Inclosure Commissioners for England * * and Wales have* in pursuance
 
 Inclosure.
 
-Inclosures in Schedule may he proceeded ■with.
+Inclosures in Schedule may he proceeded *with.
 
 Short Title.
 
@@ -9030,7 +9030,7 @@ CAP. LVI.
 
 An Act for confirming certain Provisional Orders made by the Board of Trade under The General Pier and Harbour Act, 1861, relating to Clynder, Hastings, and Newly n. [30th July 1866.]
 
-WHEREAS a Provisional Order made by the Board of < ▼ ▼ Trade under The General Pier and Harbour Act, 1861,
+WHEREAS a Provisional Order made by the Board of < * * Trade under The General Pier and Harbour Act, 1861,
 
 * is not of any Validity or Force whatever until the Confir-
 
@@ -11498,7 +11498,7 @@ Ores, per ton - - - - 1 0
 
 Oysters, per bushel - - - - 0 3
 
-Paint, per cwt. - - ■*- - 0 4
+Paint, per cwt. - - **- - 0 4
 
 Pitch and tar, per barrel - - - - 0 6
 
@@ -12646,7 +12646,7 @@ For any portmanteau, trunk, parcel, or other article of passengers luggage, for 
 
 VI.—Rates for laying Water Main on Pier.
 
-Water, per ton ■ - - - 0 6
+Water, per ton * - - - 0 6
 
 LLANDUDNO.
 
@@ -12840,7 +12840,7 @@ Hand carts and perambulators, each - 1 0
 
 Casks (empty) not being returned packages, per pun-
 
-x cheon ■ - - - - -03
+x cheon * - - - - -03
 
 Other casks in proportion.
 
@@ -14746,7 +14746,7 @@ CAP. LIX.
 
 An Act to appoint additional Commissioners for executing the Acts for granting a Land Tax and other Rates and Taxes. [6th August 1866.]
 
-‘ \\^H^REAS an Act was passed in the Seventh and Eighth c ▼▼ Years of the Reign of His Majesty King George the c Fourth, Chapter Seventy-five:
+‘ \\^H^REAS an Act was passed in the Seventh and Eighth c ** Years of the Reign of His Majesty King George the c Fourth, Chapter Seventy-five:
 
 c And whereas another Act was passed in the Ninth Year of e the Reign of His said Majesty, Chapter Thirty-eight:
 
@@ -15578,11 +15578,11 @@ Artillery. £ s. d.
 
 c the Tenth Year of the Reign of His Majesty King George c the Fourth: ' All such Paymasters, Surgeons, Quartermasters, Subalterns, Surgeons Mates, and Assistant Surgeons, to entitle them to the Receipt of such retired Allowances, shall make and subscribe the following Declaration; (videlicet,) c T do solemnly and sincerely declare, That
 
-4 -*■ I formerly served as a in the
+4 -** I formerly served as a in the
 
 4 Militia; that I am not in Holy Orders; and that from the f Day of to the Day of
 
-e ■ I did not hold or enjoy any Place or Employ-
+e * I did not hold or enjoy any Place or Employ-
 
 c ment of Profit, Civil or Military, under Her Majesty, or in c the Colonies or Possessions of Her Majesty beyond the Seas, c or under any other Government, besides my Allowance of 4 * per Diem as a of the said Militia,
 
@@ -17970,7 +17970,7 @@ their General or Quarter Sessions of the Peace, or at any c Adjournment thereof,
 
 * mentioned a Basis or Standard for fair and equal County c Rates:
 
-■ And whereas b}^ The Union Assessment Committee Act, c 1862, Boards of Guardians are empowered to appoint Assess-
+* And whereas b}^ The Union Assessment Committee Act, c 1862, Boards of Guardians are empowered to appoint Assess-
 
 * ment Committees for the Purpose of making the Parochial
 
@@ -19630,7 +19630,7 @@ Christ Church aforesaid: And whereas the Vicar of Rochdale?* c as such Vicar* is
 
 * the Pew or Seat, so that such Rents might amount in the f whole to not less than Two hundred and twenty Pounds per c Annum, out of which the Trustees were to pay the annual c Sum of Two hundred Pounds to the Minister, and Fifteen c Pounds to the Clerk; and the Proprietors of Pews or Seats ‘ were empowered to appoint a Lecturer, to be paid by volun-c tary Subscription, and to appoint to the Offices of Church or
 
-Chapel Warden, and Clerk, and Organist, and were made *■ liable to a Rate to provide for certain Expenses of Divine e Service, and for interior Repairs; and it was further enacted,
+Chapel Warden, and Clerk, and Organist, and were made ** liable to a Rate to provide for certain Expenses of Divine e Service, and for interior Repairs; and it was further enacted,
 
 * that for the Purposes of that Act it should be lawful for the f Trustees to levy a Rate on the Occupiers of all Houses, f Buildings, Lands, Tenements, and Hereditaments in the c Town of Rochdale not exceeding One Shilling in the Pound
 
@@ -20434,7 +20434,7 @@ Borrowing Power.
 
 them.
 
-Hosted byCjOO^LC
+Hosted
 
 any Remedy which Conservators at present have.
 
@@ -21510,7 +21510,7 @@ It is enacted that the Application of so much of the said Surpluses to cover the
 
 Expenditure
 
-Hosted byCjOO^LC
+Hosted
 
 597
 
@@ -25816,7 +25816,7 @@ No. on Plan. Description of Lands, Messuages, Buildings, and Premises. Names of 
 
 23 The Northern Part of the "White Lion" Inn Yard, with Kitchen, Malthouse, Stabling, and Shed. George Arnold -John Henley. Thomas Tongue Thomas Tongue.
 
-24 House and Shop Amos Brittan ■ Thomas Allway. Henry Liddon. Thomas Tongue.
+24 House and Shop Amos Brittan * Thomas Allway. Henry Liddon. Thomas Tongue.
 
 25 House Herbert Riddle Robert Gay Barrow. William Done Bushell. William Sanders. Thomas Richard Sanders. Henry Sanders. Edwin Hopkins. James Hopkins. Mary Tomlins. Lavinia Harding. Benjamin Cleck. William Bignall. Emanuel Roberts.
 
@@ -25934,7 +25934,7 @@ The same
 
 No, on Plan. Description of Lands, Messuages, Buildings, and Premises. Names of Owners or reputed Owners. Names of Lessees or reputed Lessees. Names of Occupiers.
 
-10 House, with Passage to the Synagogue, also the Synagogue and Vestry Rooms, &c. connected with it. The Trustees of the Jews Synagogue and Premises. Abraham Alexander. William W olfAlexander. Levy Levy. Moses Blanckensee. Joseph Abraham. Abraham Moseley. ■ Joseph Michael. Jonas Rousseau. John Solomon, junior. Philip Douglas Alexander. Joseph Michael Plat-nauer. Moss Cohen. Henry Simmons. m m m Reverend Joseph Benjamin.
+10 House, with Passage to the Synagogue, also the Synagogue and Vestry Rooms, &c. connected with it. The Trustees of the Jews Synagogue and Premises. Abraham Alexander. William W olfAlexander. Levy Levy. Moses Blanckensee. Joseph Abraham. Abraham Moseley. * Joseph Michael. Jonas Rousseau. John Solomon, junior. Philip Douglas Alexander. Joseph Michael Plat-nauer. Moss Cohen. Henry Simmons. m m m Reverend Joseph Benjamin.
 
 11 House and Shop, Yard, Straw and Cow Houses. The Mayor, Aldermen, and Burgesses of the City of Bristol. Robert Simms. mm* Robert Simms.
 
@@ -26336,7 +26336,7 @@ No. on Plan. Description of Lands, Messuages, Buildings, and Premises. Names of 
 
 965 Tenement in Taylors Court. The same " - Edward Williams,
 
-97 Tenement in Taylors Court. The same ■ " - Sarah Cook,
+97 Tenement in Taylors Court. The same * " - Sarah Cook,
 
 98 Cellar beneath Stable belonging to John Longman and Thomas Hine * marked also 65 on Plan. William Wellington Ball Frederick Henry Ball. Samuel Alexander. Trustees for Jane Ann Ball, Louisa Singer Ball, Ellen Ball. Thomas Hine. Joseph Reeve.
 
@@ -27256,11 +27256,11 @@ Cottage Robert Chidley Harris - Mark Isaac.
 
 St Michael's Steps.
 
-42 Cottage Prudence Court Joseph B. Taylor. Elizabeth Jones. ■ ■ ■ Prudence Court.
+42 Cottage Prudence Court Joseph B. Taylor. Elizabeth Jones. * * * Prudence Court.
 
 43 Cottage, Yard, and Outbuildings. Prudence Court Joseph B. Taylor. Elizabeth Jones. - - - John Watkins.
 
-44 Cottage and Yard - Prudence Court Joseph B. Taylor. Elizabeth J ones. - - ■* John Morgan.
+44 Cottage and Yard - Prudence Court Joseph B. Taylor. Elizabeth J ones. - - ** John Morgan.
 
 45 Cottage - Prudence Court Joseph B. Taylor. Elizabeth Jones. - — ** William Lewis Pike.
 
@@ -27736,7 +27736,7 @@ No. on Plan. Description of Property-proposed to be taken. Owner or reputed Owne
 
 62 House, Yard, Office, Workshops, Sawpits, Timber Yard, and Buildings. Lord Scarsdale - Executors of late Thos. Gadsby. Executors of la Thomas Gadsby
 
-63 House, Office, and Pleasure Grounds. Lord Scarsdale - *■ Henry Hutchinsor
+63 House, Office, and Pleasure Grounds. Lord Scarsdale - ** Henry Hutchinsor
 
 64 Brewery and Yard, Offices and Stabling, and Offices over. Moreton Charles Wedge William Alton ai Edward Barneti William Turn Shaw.
 
@@ -28133,8 +28133,6 @@ Provisional Order putting in force the Lands Clauses Consolidation Act* 1845* wi
 Whereas the West Hove Improvement Commissioners, acting under the Hove Improvement Act* 1858* within the
 
 District,
-
-CjOOQ 1C
 
 Cap, 106. Local Government Supplemental (No. 3). 29 & 30 YlCT.
 
@@ -29810,7 +29808,7 @@ c A Justice according to Law, without Partiality, Favour, or c Affection; and I 
 
 c I do swear. That I will not upon any
 
-c -*■ Account, at any Time whatsoever, disclose or discover c the Vote or Opinion of any particular Member of the Court-* martial, unless thereunto required in due Course of Law.
+c -** Account, at any Time whatsoever, disclose or discover c the Vote or Opinion of any particular Member of the Court-* martial, unless thereunto required in due Course of Law.
 
 6 So help me GOD.5
 
@@ -31054,7 +31052,7 @@ In Scotland a County Board may contribute to any Certified Reformatory School wi
 
 829
 
-■Variation of Order.
+*Variation of Order.
 
 Power of Prison Authority to contract with Managers of Schools.
 
@@ -31626,7 +31624,7 @@ Order of Detention:
 
 841
 
-As to Children under 12 Years of Age charged ■with Offences.
+As to Children under 12 Years of Age charged *with Offences.
 
 842
 
@@ -32146,7 +32144,7 @@ YS7HEEEAS the Act of the present Session of Parlia-‘ " * ment. Chapter One, in
 
 Lord Lieutenant or other Chief Governor or Governors of ‘ Ireland to apprehend and detain for a limited Time such Persons ‘ as he or they shall suspect of conspiring against Her Majesty's 1 Person and Government, expires on the First Day of Sep-1 tember One thousand eight hundred and sixty-six, and it is c expedient to continue the same for a further limited Period Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent* of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
-1. The said Act shall continue in force until the Expiration of Twenty-one Days after the Commencement of the Session of Parliament immediately succeeding the present Session; and the said Act shall be construed as if the Words " until the Expira-tion of Twenty-one Days after the Commencement of the " Session immediately succeeding the present Session99 were throughout the said Act substituted for the Words " until the tc First of September One thousand eight hundred and sixty-
+1. The said Act shall continue in force until the Expiration of Twenty-one Days after the Commencement of the Session of Parliament immediately succeeding the present Session; and the said Act shall be construed as if the Words " until the Expiration of Twenty-one Days after the Commencement of the " Session immediately succeeding the present Session99 were throughout the said Act substituted for the Words " until the tc First of September One thousand eight hundred and sixty-
 
 six.
 

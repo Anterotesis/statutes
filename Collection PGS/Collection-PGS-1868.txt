@@ -554,7 +554,7 @@ cxvi. An Act to confer further Powers on the Wolverhampton and Walsall Railway C
 
 cxvii. An
 
-{Local §■ Personal, declared Public, §rc.) 31° & 32° VICT.
+{Local §* Personal, declared Public, §rc.) 31° & 32° VICT.
 
 cxvii. An Act to separate for certain Purposes Portions of the Borough of Belfast from the County of Down, and for other Purposes relating to the Improvement and Regulation of the Borough.
 
@@ -752,7 +752,7 @@ An Act to confirm a Provisional Order under " The Drainage and Improvement of La
 
 WHEREAS the Commissioners of Public Works in Irelomd have, in pursuance of
 
-< ▼? "The Drainage and Improvement of Lands Act (Ireland), 1863," and the Acts
+< *? "The Drainage and Improvement of Lands Act (Ireland), 1863," and the Acts
 
 * amending the same, duly made the Provisional Order contained in the Schedule to this
 
@@ -1660,7 +1660,7 @@ kept for distilling Brandy and Strong Waters, nor in the House of any Shopkeeper
 
 Supply of 68. For the regular Provision of Carriages for Her Majesty's Forces, and their Baggage,
 
-Carriages. jn their Marches in Great Britain and Ireland, all Justices of the Peace within their several Jurisdictions being duly required thereunto by an Order from Her Majesty, or the General of Her Forces, or other Person duly authorized in that Behalf, shall, on Production to them of such Order, or a Copy thereof, certified by the Commanding Officer, by some Officer or Non-commissioned Officer of the Regiment or Corps so ordered to march, issue a Warrant to any Constable having Authority to act in any Place from, through, near, or to which the Troop shall be ordered to march, (for each of which Warrants the Fee of One Shilling only shall be paid,) requiring him to provide the Carriages, Horses, and Oxen, and Drivers therein mentioned, and allowing sufficient Time to do the same, specifying the Places from and to which the said Carriages shall travel, and the Distance between the Places, for which Distance only so specified Payment shall be demanded, and which Distance shall not, except in Cases of pressing Emergency, exceed a Days March prescribed in the Order of Route, and shall in no Cases exceed Twenty-five Miles; and the Constables receiving such Warrants shall order such Persons as they shall think proper, having Carriages, to furnish the requisite Supply, who are hereby required to furnish the same accordingly; and when sufficient Carriages cannot be procured within the proper Jurisdiction, any Justice of the next adjoining Jurisdiction shall, by a like Course of Proceeding, supply the Deficiency; and in order that the Burden of providing Carriages may fall equally, and to prevent Inconvenience arising from there being no Justice near the Place where Troops may be quartered on the March, any Justice residing nearest to such Place may cause a List to be made out once in every Year of all Persons liable to furnish such Carriages, and of the Number and Description of their said Carriages, (which List shall at all seasonable Hours be open to the Inspection of the said Persons,) and may by Warrant under his Hand authorize the Constable within his Jurisdiction to give Orders to provide Carriages, without any special Warrant for that Purpose, which Orders shall be valid in all respects; and all Orders for such Carriages shall be made from such Lists in regular Rotation, as far as the same can be done.
+Carriages. in their Marches in Great Britain and Ireland, all Justices of the Peace within their several Jurisdictions being duly required thereunto by an Order from Her Majesty, or the General of Her Forces, or other Person duly authorized in that Behalf, shall, on Production to them of such Order, or a Copy thereof, certified by the Commanding Officer, by some Officer or Non-commissioned Officer of the Regiment or Corps so ordered to march, issue a Warrant to any Constable having Authority to act in any Place from, through, near, or to which the Troop shall be ordered to march, (for each of which Warrants the Fee of One Shilling only shall be paid,) requiring him to provide the Carriages, Horses, and Oxen, and Drivers therein mentioned, and allowing sufficient Time to do the same, specifying the Places from and to which the said Carriages shall travel, and the Distance between the Places, for which Distance only so specified Payment shall be demanded, and which Distance shall not, except in Cases of pressing Emergency, exceed a Days March prescribed in the Order of Route, and shall in no Cases exceed Twenty-five Miles; and the Constables receiving such Warrants shall order such Persons as they shall think proper, having Carriages, to furnish the requisite Supply, who are hereby required to furnish the same accordingly; and when sufficient Carriages cannot be procured within the proper Jurisdiction, any Justice of the next adjoining Jurisdiction shall, by a like Course of Proceeding, supply the Deficiency; and in order that the Burden of providing Carriages may fall equally, and to prevent Inconvenience arising from there being no Justice near the Place where Troops may be quartered on the March, any Justice residing nearest to such Place may cause a List to be made out once in every Year of all Persons liable to furnish such Carriages, and of the Number and Description of their said Carriages, (which List shall at all seasonable Hours be open to the Inspection of the said Persons,) and may by Warrant under his Hand authorize the Constable within his Jurisdiction to give Orders to provide Carriages, without any special Warrant for that Purpose, which Orders shall be valid in all respects; and all Orders for such Carriages shall be made from such Lists in regular Rotation, as far as the same can be done.
 
 Rates to be 69. In every Case in which the whole Distance for which any Carriage shall be paid for Car- impressed shall be under One Mile the Rate of a full Mile shall be paid; and the Rates e^rionTreSt^ Pa^ f°r Carriages impressed shall be, in Great Britain, for every Mile which a
 
@@ -1722,7 +1722,7 @@ by Her Majesty under Her Sign Manual, or by the Secretary of State for the War D
 
 as Agent for or in relation to the Purchase, Sale, or Exchange of any Commission in Her m
 
-, « * ■% _ Commissions.
+, « * *% _ Commissions.
 
 Majesty s Army shall forfeit for every such Offence the Sum of One hundred Pounds; and every Person, whether authorized as an Army Agent or not, who shall receive any Money or Reward in respect of any such Purchase, Sale, or Exchange, or who shall negotiate or receive for any Purpose whatsoever any Money or Consideration where no Price is allowed by Her Majesty's Regulations, or any Money or Consideration exceeding the Amount so allowed, shall forfeit One hundred Pounds, and treble the Value of the Consideration where the Commission is not allowed to be sold, or treble the Excess of such Consideration beyond the regular Price.
 
@@ -2324,7 +2324,7 @@ Declared and subscribed before me, at this
 
 Day of 186
 
-}■
+}*
 
 for
 
@@ -2388,7 +2388,7 @@ I do hereby certify, that the Prisoner has been duly examined before me as to th
 
 the above-mentioned Corps.
 
-.....■ -........ Signature and Address of
+.....* -........ Signature and Address of
 
 Magistrate.
 
@@ -2918,8 +2918,6 @@ or Appointments, issued to him while on the Volunteer Permanent Staff, and not d
 
 shall
 
-yjooole
-
 79
 
 31° VICTORIAE, c. 15.
@@ -3136,7 +3134,7 @@ SCHEDULE referred to by this Act.
 
 Form of Oaths to be taken by Members of Courts-martial.
 
-V7UU shall well and truly try and determine according to the Evidence in the Matter now -*■ before you. So help you GOD.
+V7UU shall well and truly try and determine according to the Evidence in the Matter now -** before you. So help you GOD.
 
 V OU shall duly administer Justice, according to the Rules and Articles for the better Government of Her Majesty's Royal Marine Forces, and according to an Act now in force for the Regulation of the said Forces while on shore, without Partiality, Favour, or Affection, and if any Doubt shall arise which is not explained by the said Articles or Act, according to your Conscience, the best of your Understanding, and the Custom of War in the like Cases: And you shall not divulge the Sentence of the Court until it shall be duly approved; neither shall you, upon any account* at any Time whatsoever, disclose or discover the Vote or Opinion of any particular Member of the Court-martial, unless required to give Evidence thereof as a Witness by a Court of Justice or a Court-martial in a due Course of Law. So help you GOD.
 
@@ -3376,7 +3374,7 @@ CAP. XVII.
 
 An Act to further continue and appropriate the London Coal and Wine Duties. [29th May 1868.]
 
-T3E it enacted by the Queen's most Excellent Majesty, by and with the Advice and -■-* Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+T3E it enacted by the Queen's most Excellent Majesty, by and with the Advice and -*-* Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 1. All Duties by The London Coal and Wine Duties Continuance Act, 1861, continued Continuance of until the Fifth Day of July One thousand eight hundred and seventy-two, and by The & 2r
 
@@ -3532,7 +3530,7 @@ Name of Railway. Name of Shareholder. Amount of Share Capital held by him. Wheth
 
 • a # t
 
-— ■   --- - (Signed)
+— *   --- - (Signed)
 
 * The Secretary will insert these Particulars.
 
@@ -4946,7 +4944,7 @@ Mode of proving certain Documents.
 
 31° & 32" VICTORIA, c. 35,36,37.
 
-3. This Act and the recited Act shall be read and construed as One Act, and the same together may be cited and referred to as ■4 The Duchy of Cornwall Management Acts, 1863-1868."
+3. This Act and the recited Act shall be read and construed as One Act, and the same together may be cited and referred to as *4 The Duchy of Cornwall Management Acts, 1863-1868."
 
 CAP. XXXVI. An Act to make perpetual the Alkali Act, 1863.
 
@@ -5590,7 +5588,7 @@ this Act shall be deemed to be included in the Term " Wreck " as used in any Act
 
 x tut 1. i. ol • J & included
 
-to Merchant Shipping. jn Term
+to Merchant Shipping. in Term
 
 Registry of Sea-Fishing Boats. " Wreck*"
 
@@ -7419,8 +7417,6 @@ Old
 Boroughs
 
 (England).
-
-Cjoooie
 
 31° & 32° VICTORIA, c. 46. 181
 
@@ -9920,7 +9916,7 @@ I hereby claim to be inserted in the List of Voters in respect of the Occupation
 
 Christian Name and Surname at foil Length. Profession, Trade, or Calling. Description of Lodgings. Description of House or Houses in which Lodgings sitnate, with Number, if any, and Name of Street Name, Description, and Residence of Persons or Person to whom Rent paid.
 
-■
+*
 
 I, the above-named hereby declare that I have been, during
 
@@ -11808,9 +11804,9 @@ Decision:
 
 52>. If ihe ‘Condition of the Recognizance entered into by an Appellant is not complied with, a Justice shall certify on the Back thereof the Fact and Nature of the Non-compliance* and shalb transmit the Recognizance to the Clerk of the Peace for the County of Kildare, and the same*shall be prooeieded on in like Manner a$ a Recognizance forfeited at Quarter Session^ imay for the Time being by Law be proceeded on; and the Certificate :$£' the;Justa&efsljalL be Evidence 'of the Recognizance having been forfeited.
 
-• t (■• a ' ' y: 1 ' " ■' ■: '
+• t (*• a ' ' y: 1 ' " *' *: '
 
-, j 1.J, i)-, > v, , i ■ i, . i • •. - - Award. .. i;:
+, j 1.J, i)-, > v, , i * i, . i • •. - - Award. .. i;:
 
 56. The Commissioners shall make their Award (hereafter in this Act referred to as the Award) not later than the Thirty-first Day of December One thousand eight hundred and sixty-nine, or such further Time as the Lord Lieutenant in Council shall direct, unless prevented from so doing by the Pendency of any Appeal, and in that Case as soon after that Day as the Determination of the Appeal permits.
 
@@ -12166,9 +12162,9 @@ Rq$tM^f^^ Lease, and subject;to the like Covenants and Conditions for
 
 the jsje;op^ipg Payment of the said Fee-form Rent as are contained in such Lpase with rj^ppptf'^0 thejiReht ;therpby, reserved, and, with ^nd subject to such other Covenants, Conditions, Exceptions, and Reservations (save Covenants to grant,-accept,, and take a Renewal of such Lease, if there be any such), as are contained in such Lease and then subsisting, and all the Provisions of the Renewable Leasehold Conversion Act, so far as the same maybe applicable, are heTebyincorporated with this Section; and such Fee-farm Grant so to be executed shall operate and take effect in like Manner, and with the like Incidents and Consequences to all Intents and Purposes, as if the same were a Fee-farm Grant in Conversion of a Lease, in Perpetuity within the Meaning of the said last-mentioned Act, and made under the Provisions thereof.
 
-2. Where any Lands situate in any County of a City or County of a Town in Ireland are or may be held by any Person under any Lease made by Governors of Schools as aforesaid for a Term of Twenty-one Years, it shall be lawful for the said Governors at any Time before the Expiration of the said Term, if they so think fit, to make to such Tenant a Lease or Demise in Fee of all or any of such Lands, subject to a perpetual yearly Fee-farm. Rent of such Amount as herein-after mentioned, to be charged upon such Lands, and to be payable >on the same^ Days and Times as the yearly Rent made payable by such Terminable Lease, and, subject id the like Covenants and Conditions for the securing the Payment bf the .said Fee-farm Rent! as! are ■ contained in such Terminable Lease with respectthe B^t thereby reserved, and. With and subject to such other Covenants, Conditions, Exceptions, and Reservations as are contained in such Terminable Lease and then subsisting: Provided always, that for the making of such Lease or Demise in Fee no Fine, Foregift, Premium, or Consideration in Money or otherwise; shall be given or promised to the said Governors .;
+2. Where any Lands situate in any County of a City or County of a Town in Ireland are or may be held by any Person under any Lease made by Governors of Schools as aforesaid for a Term of Twenty-one Years, it shall be lawful for the said Governors at any Time before the Expiration of the said Term, if they so think fit, to make to such Tenant a Lease or Demise in Fee of all or any of such Lands, subject to a perpetual yearly Fee-farm. Rent of such Amount as herein-after mentioned, to be charged upon such Lands, and to be payable >on the same^ Days and Times as the yearly Rent made payable by such Terminable Lease, and, subject id the like Covenants and Conditions for the securing the Payment bf the .said Fee-farm Rent! as! are * contained in such Terminable Lease with respectthe B^t thereby reserved, and. With and subject to such other Covenants, Conditions, Exceptions, and Reservations as are contained in such Terminable Lease and then subsisting: Provided always, that for the making of such Lease or Demise in Fee no Fine, Foregift, Premium, or Consideration in Money or otherwise; shall be given or promised to the said Governors .;
 
-. m. , . ■ - 3. The
+. m. , . * - 3. The
 
 Owner of Lease may require Fee-farm Grant.
 
@@ -12300,7 +12296,7 @@ Be it therefore enacted by the Queen's most Excellent Majesty, by and with the A
 
 4. All Writs which may be recorded in the General Register of Sasines in Terms of this Act shall, previous to being presented for Registration, have a Warrant endorsed or written thereon, in or as nearly as may be in the Form of Schedule (A) No. 1. hereto annexed, specifying the Person or Persons on whose Behalf the Writ is so presented, and the County or Counties in which the Lands to which such Writ has reference are situated, and signed by such Person or Persons, or his or their Agent or Agents; and the Form of Warrant of Registration hereby prescribed shall supersede and be used in place of the Form of Warrant of Registration as given in Schedule (A) No. 1. annexed to " The Titles to Land (Scotland) Act, 1858." And in the Case of an Assignation of an unrecorded Conveyance in virtue of the Provisions of the Thirteenth Section of the said " Titles to Land 31 & 32 Vict. P p (Scotland)
 
-All Writs shall have a Warrant of Registration endorsed thereon, specifying County or Counties in ■which Lands lie.
+All Writs shall have a Warrant of Registration endorsed thereon, specifying County or Counties in *which Lands lie.
 
 Competent to record Writs in other County or Counties to which they refer by new Warrant
 
@@ -13336,7 +13332,7 @@ Saving of Powers of Alteration hitherto exercised.
 
 General Saving as to Matters herein stated.
 
-s.'U" ■
+s.'U" *
 
 , Inquest, or Proceedings of a Judicial ^ 'preliminary to or in the course of any
 
@@ -13448,15 +13444,15 @@ Commander of the, Forces. . ... Chief Seoretary for Ireland.
 
 ;[ I,o i -,i[) 'io rj'i-. l> bid
 
-; ;1 j: i: ■; • L nib L» L btl !'
+; ;1 j: i: *; • L nib L» L btl !'
 
 | i . ' J I, ..I . r; itll. ‘hIT
 
-':  • f •: n • > tI ‘dT ■ , • »iiwt
+':  • f •: n • > tI ‘dT * , • »iiwt
 
 ^The Oath as to Scotland is to be tendered by the Lord President of the Court of Session at a Sitting of the Court.
 
-j* L' ■ jtl'iJL'jf i'f oi if..
+j* L' * jtl'iJL'jf i'f oi if..
 
 I is to be tendered by'Wie
 
@@ -13656,7 +13652,7 @@ CAP. LXXVT.
 
 : •rt-Mi'J J^llI
 
-' ■ f i ' r. M ^, ^ i • 'll » I Ml J t b.r.H 1 • . / OV/T
+' * f i ' r. M ^, ^ i • 'll » I Ml J t b.r.H 1 • . / OV/T
 
 1 . ' t • '' 1 . 'i .
 
@@ -13666,9 +13662,9 @@ Irel qhd; to
 
 , masters. Quartermasters, Surgeons, Assistant &urgoqn^, and iSurgeppsjSfates of the Militia; and to authorize the Employment, of, the JSoa-pomuussiQued Officers. [31st July 1868.]
 
-: ■ 1 • t 1.• . / . ' / ‘ i- • t i ' rf >. rriv'l b
+: * 1 • t 1.• . / . ' / ‘ i- • t i ' rf >. rriv'l b
 
-WHEREAS it is necessary that Provision should be, made fQF defrayin^f t^e.^pfge ■* ■ of the Pay, Clothing, and contingent and other Expenses ef the, ^eg]^ayn^i^iy%
+WHEREAS it is necessary that Provision should be, made fQF defrayin^f t^e.^pfge ** * of the Pay, Clothing, and contingent and other Expenses ef the, ^eg]^ayn^i^iy%
 
 ‘ including the Miners of Cornwall and Devon, when di^mbodied* , &reql\ BrttfrbV' y and Ireland, and for making in certain Cases Allowances of Retired Pay Uf Subajt^pp. ‘ Officers and Surgeons Mates and Assistant Surgeons of the Regular MjUtifi, ftpd
 
@@ -13676,7 +13672,7 @@ WHEREAS it is necessary that Provision should be, made fQF defrayin^f t^e.^pfge 
 
 * masters of the Regular Militia, who have been'allowed -to retire, aind‘ft6 Acijuitats
 
-9 disabled after long Serviced Be it therefore enacted by'the Queen's jmost Excellent Majesty, by and with the Advice And Consent of the Lords' Spirittfal* And Teinp&ral, and Commons, in this' present Parliament assembled, and by the Anthotityof tbd dinele, as follows:* "■ i: "• " • ''i'" !>•-.
+9 disabled after long Serviced Be it therefore enacted by'the Queen's jmost Excellent Majesty, by and with the Advice And Consent of the Lords' Spirittfal* And Teinp&ral, and Commons, in this' present Parliament assembled, and by the Anthotityof tbd dinele, as follows:* "* i: "• " • ''i'" !>•-.
 
 1. .The Secretary of State for War for the Time being shaH cause, to be issued |ani paid, the whole Sum required for the Regular Militia of Great Britain and Ireland (when disembodied) in the Manner and for the several Uses herein-after mentioned (that .is to say,) for the Pay of the Permanent Staff of the said Regular Militia at the da^ily plates following; (that is to say*) , ,, r } f! !
 
@@ -13690,7 +13686,7 @@ and of less than 360 Private Men - - -
 
 „ Serjeant Major, where One is appointed in Corps consisting of Two or more Companies -„ Quartermaster Serjeant (in Corps whose Establishment exceeds Four Companies) and for the Serjeant performing the Duty of both Quarter* master Serjeant and Paymaster Serjeant (in Corps consisting of Four Companies or less) ...
 
-„ Serjeant Instructor of Musketry or Gtfnnery „ Paymaster Serjeant (in Corps whose Establishment exceeds Four Companies) - - ■ - * -
+„ Serjeant Instructor of Musketry or Gtfnnery „ Paymaster Serjeant (in Corps whose Establishment exceeds Four Companies) - - * - * -
 
 „ Serjeant, Orderly Room Clerk, Drum Major, or Bugle Major „ Drummer, Trumpeter, Bugler, or Fifer above Sixteen Tears of Age - - - - - - r
 
@@ -13754,7 +13750,7 @@ d..'
 
 0 3 0 0 2 .8
 
-1 i ■■ i . 0 2 8
+1 i ** i . 0 2 8
 
 0 2 p
 
@@ -14014,7 +14010,7 @@ upfifc either by Age op Iaflrraity, for tlae Performance bf ihe Duties of their 
 
 Yearfiil of which iFiye Years as an Adjutant of Militia,, an Allowance of Three
 
-•f,;t j » •••; .■/ '
+•f,;t j » •••; .*/ '
 
 '.fT^f^aty Y^ar-S, of which/SefVen Years as an Adjutant of Militia, an Allowance of ^pur SbHlii^s^^jD^m: s < , .
 
@@ -14024,9 +14020,9 @@ i Thirty Years,;ofi Which Fifteen Years as an Adjutant of Militia, an Allowance 
 
 Provided that such Adjutants shall retain any Right they may have to Half Pay or to Out-Pension, notwithstanding the Grant of such retired Allowance as aforesaid; and all such1 Allowance^ shall be granted upon the Production to the Secretary of State for War df a Certificate of such Service and Disability; and upon the Order of the Secretary of State fbr War/founded tipon such Certificate, the Paymaster General shall pay to such Adjdt&ht the' above Allowance: Provided always, that no Person shall be entitled to rccdive each Allowance as aforesaid who shall hold any Military Office or Employment of Prbfifc tinder Her Majesty or any other Government; and that no Person who before the First Day of June One thousand eight hundred and twenty-nine held any Civil Place or I^j^ovjpftpt of Profit, wder,the Crown, or in the Colonies or Possessions of Her Majesty beyond; ifhe , Styis* or under any other Government, shall receive any Part of the 6aid AjdpWajppe fpr, a^y Tfme dbriug which he held such Civil Place or Employment, except in th^jCfi^ in w;ifioh' the Emolumentsof such Civil. Place or Employment shall not exceed Th?;e,e Titpep the, Amount of the said Allowance, and unless in sncih excepted Gases the Rpyal Qpps^nt to?the holding of such Civil Place or Employment shall have been signified through Secretarypf. State for War; and that no Person appointed on or after the EimtTDp.y>of Ju^Cne thousand eight hundred land twenty-nine/to any Civil Place or Employment of Profit under Her Majesty, or in the Colonies or Possessions of Her Majesty beyond the Seas, or under any other Government, shall receive any Part of the said Allowance for ahyTime during which lie shall hold sucli Civil Place or Employment.
 
-‘>(i ro **'i;m "• ‘ l('f '* '*■■ m 1 ... .:
+‘>(i ro **'i;m "• ‘ l('f '* '*** m 1 ... .:
 
-r. ^2. _c And where?® certain Allowances have been granted to reduced Adjutants of the ‘ ^op^J^i^tia;' The said Allowances shall be issued and paid during the Continuance of tm&/(Act* under the Restrictions and in the Manner hereinafter expressed: Provided ajiw^ya^ tqat in  .; the Ca^qs jn which any such Local Militia Adjutants have been permitted to receive the said Allowances whilst holding any Civil Qffioes under the Crown, to which Offices they had been appointed previously to the Twenty-eighth Day of July One thousand eight hundred and twenty weight, it shall be lawful to continue the Payment of the said,Allowance^ ,under tbq same Regulations and Restrictions as those under which the Pe^issiqn, yvas originally granted. ,
+r. ^2. _c And where?® certain Allowances have been granted to reduced Adjutants of the ‘ ^op^J^i^tia;' The said Allowances shall be issued and paid during the Continuance of tm&/(Act* under the Restrictions and in the Manner hereinafter expressed: Provided ajiw^ya^ tqat in  .; the Ca^qs in which any such Local Militia Adjutants have been permitted to receive the said Allowances whilst holding any Civil Qffioes under the Crown, to which Offices they had been appointed previously to the Twenty-eighth Day of July One thousand eight hundred and twenty weight, it shall be lawful to continue the Payment of the said,Allowance^ ,under tbq same Regulations and Restrictions as those under which the Pe^issiqn, yvas originally granted. ,
 
 23. Every Adjutant of Local Militia who shall claim under the Authority of this Act to receive any Part of the said Allowance shall, previous to receiving the same, and in order to entitle himself thereto, take and subscribe a Declaration before some One of Her Majesty's Justices of the Peace in the United Kingdom, or Notary Public, or other Officer now by Law authorized to administer or receive such Declaration, or before some One of Her Majesty's Ministers, Secretaries of Embassy, of Legation, or Consuls abroad, in the Words or tp the Effect following; (that is to say,)
 
@@ -14110,7 +14106,7 @@ And the said Accounts shall be transmitted to the Secretary of State for War, wh
 
 c T do solemnly declare, That I will, to the best of my Ability, faith-
 
-‘ -*■ fully and truly report as to the Fitness for Service of the Man or Men about to be ‘ submitted to my Examination, and that I will not receive from any of them any Fee or ‘ Reward whatever for any such Examination/
+‘ -** fully and truly report as to the Fitness for Service of the Man or Men about to be ‘ submitted to my Examination, and that I will not receive from any of them any Fee or ‘ Reward whatever for any such Examination/
 
 And every such Surgeon shall receive for each Day's Attendance at such Meeting a Sum not less than Half a Guinea nor exceeding Two Guineas, according to the Extent of the Duty performed: Provided always, that the Accounts and Vouchers upon which the said Allowances shall be recommended by the Deputy Lieutenants of the respective Subdivisions shall be transmitted to the Secretary of State for War, with the Accounts of the Lieutenancy Clerks, for Examination and Payment.
 
@@ -16928,7 +16924,7 @@ CAP. LXXXVIII.
 
 An Act for transferring the Pee and other Funds of the Courts of Chancery and Exchequer in Ireland to the Consolidated Fund. [31st July 1868.]
 
-WHEREAS by "The Chancery (Ireland) Act, 1867," it was provided that the Income 4 ▼ t of all Suitors Fee and other Flinds should be accounted for and paid into the 1 Exchequer in such Manner as the'Commissioners of Her Majesty's Treasury might ‘direct: ? 1 i ‘
+WHEREAS by "The Chancery (Ireland) Act, 1867," it was provided that the Income 4 * t of all Suitors Fee and other Flinds should be accounted for and paid into the 1 Exchequer in such Manner as the'Commissioners of Her Majesty's Treasury might ‘direct: ? 1 i ‘
 
 * And Whereas the Income'of the Funds above mentioned arises from the Dividends on 4 the Surh of One hundred arid forty-six'thousand two hundred and eighty-five Pounds 4 Nine Three per Cent. Stock, standing in the Name of the Accountant
 
@@ -17776,7 +17772,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and wlLli the Advice and
 
 31" & 32" VICTOR LE, c. 99. 383
 
-9. This Act may be cited for all Purposes as " The Annual Turnpike Acta Continuance Short Title. Act, 1868." ■ . .
+9. This Act may be cited for all Purposes as " The Annual Turnpike Acta Continuance Short Title. Act, 1868." * . .
 
 SCHEDULES.
 
@@ -17794,7 +17790,7 @@ Acts which are to expire at the Date (1st November 1868) mentioned in
 
 30 & 31 Vict, c, 121.
 
-Date of Act   >■■■■ -T ;■«  :—T    "1  ~— ' Title of Act.
+Date of Act   >**** -T ;*«  :—T    "1  ~— ' Title of Act.
 
 55 G. 3. c. li. - An Act for amending the Road from Keighley to Bradford, and fpr making and maintaining a Branch therefrom, all in the West Riding of the County of York.
 
@@ -18620,7 +18616,7 @@ WalsaH and Hamstead - 527 250 4* 30
 
 Warwick - Birmingham and Stratford-on-Avon - 1,095 279 738 300 4 9
 
-Coventry and Wolvey Warwick, Paddlebrook, and Stratford ■ 41 200 4 4± 1 24
+Coventry and Wolvey Warwick, Paddlebrook, and Stratford * 41 200 4 4± 1 24
 
 Worcester - Birmingham and Bromsgrove - 953 392 4 29
 
@@ -19609,8 +19605,6 @@ Procedure in place of Advocations ob contingentiam.
 Exclusion of Review in such Cases.
 
 Appeals substituted for Advocations under special Enactments.
-
-Cjoooie
 
 416
 
@@ -21528,8 +21522,6 @@ Crown Charter of Resignation.
 
 Victoria, dkc. We do hereby give, grant, and dispone, and for ever confirm to A.B. and his Heirs and Assignees whomsoever [or in case there be a Substitution of Heirs, here insert it at full Length, or refer to it as in Schedule ((7.)], heritably and irredeemably, all and whole [here insert, or refer as in Schedule (E.) or Schedule ((?.), as the Case may be, to the Lands. In case there be any Conditions of Entail, or any Real Burdens, &c., proper to be inserted or referred to, insert them here immediately after the Description of the Lands, or refer to them as in Schedule ((7.) or Schedule (2).), as the Case may be], which Lands and others formerly belonged to C D., holden by him immediately of the Crown, in Terms of [here state briefly the Investiture of the last entered Vassal, whether a Crown Precept and Sasine, or Crown Charter and Sasine, or other Crown Writ, as recorded in the Register of Sasines, or otherwise, as the Case may be], and were at the Date of applying for these Presents resigned by him into Our Hands by virtue of a Procuratory 31 & 32 Vict. 3 R [or
 
-Ljoooie
-
 486
 
 31° & 32° VICTORIA c. 101.
@@ -21733,8 +21725,6 @@ May it therefore please your Lordship, in Terms of the said Act, to grant Warran
 Note.—The above Form is applicable to the Case where the Petitioner requires a Writ of Registration. In other Cases the Form must be varied so far as necessary to suit the Circumstances.
 
 No. 2.
-
-Cjoooie
 
 493
 
@@ -24250,7 +24240,7 @@ Incumbents of certain Parishes, &c. to be Vicars.
 
 Short Title. " School."
 
-Definition of existing " Go-▼eming Body:"
+Definition of existing " Go-*eming Body:"
 
 CAP. CXVII.
 
@@ -24362,7 +24352,7 @@ b. To convert Emoluments attached to any particular College at Oxford or Cambrid
 
 (6.) With respect to the Number, Position, Rank in the School, and Salaries and Emoluments of Masters who may receive any Salary or Emolument out of Property belonging to or held in trust for the School, with Power to abolish any such Mastership other than the Head Mastership, and to remove any Conditions as to Marriage, Education at a particular Place, or otherwise attaching to any Candidates for such Mastership:
 
-(7.) With respect to the Disposal of the Income of the Property of the School, either for the Purpose of improving or enlarging the existing Establishment or of founding Exhibitions or Scholarships tenable at the School or elsewhere, or of establishing any subordinate or other Schools in connexion therewith, with Power in the Case of Eton and Winchester Colleges to regulate the future ■ Income and all other Emoluments of the future Provost and Fellows and the future Warden and Fellows respectively, and to determine the Number of such Fellows, and the Emoluments and Advantages to be hereafter enjoyed by all the Members of each of those Foundations, or by those now entitled to any Payment thereout:
+(7.) With respect to the Disposal of the Income of the Property of the School, either for the Purpose of improving or enlarging the existing Establishment or of founding Exhibitions or Scholarships tenable at the School or elsewhere, or of establishing any subordinate or other Schools in connexion therewith, with Power in the Case of Eton and Winchester Colleges to regulate the future * Income and all other Emoluments of the future Provost and Fellows and the future Warden and Fellows respectively, and to determine the Number of such Fellows, and the Emoluments and Advantages to be hereafter enjoyed by all the Members of each of those Foundations, or by those now entitled to any Payment thereout:
 
 (8.) With respect to any Office not heretofore mentioned the Salary of which is payable out of Property belonging to or held in trust for the School
 
@@ -25226,7 +25216,7 @@ n Traffic Expenses .. .. do. D.  „ Live Stock
 
 „ Special and Miscellaneous Expenses (if any)
 
-* Balance carried to Net Revenue Account • ■
+* Balance carried to Net Revenue Account • *
 
 £ ! £
 
@@ -25638,8 +25628,6 @@ L From and after the Thirty-first Day of December One thousand eight hundred and
 
 2. The
 
-Cjoooie
-
 31° & 32° VICTORIA, c. 121.
 
 2. The several Articles named or described in the Schedule (A.) shall be deemed to be Poisons within the Meaning of this Act, and the Council of the Pharmaceutical Society of Great Britain (herein-after referred to as the Pharmaceutical Society) may from Time to Time, by Resolution, declare that any Article in such Resolution named ought to be deemed a Poison within the Meaning of this Act; and thereupon the said Society shall submit the same for the Approval of the Privy Council, and if such Approval shall be given, then such Resolution and Approval shall be advertised in the London Gazette, and on the Expiration of One Month from such Advertisement the Article named in such Resolution shall be deemed to be a Poison within the Meaning of this Act.
@@ -25671,8 +25659,6 @@ Examiners under Pharmacy Act to be the Examiners under this Act.
 Certificate of competent Skill, &c.
 
 Application of Fees to Purpose of Phar-
-
-Cjoooie
 
 maceatical Society.
 
@@ -26168,7 +26154,7 @@ An Act to amend the Law relating to Salmon Fisheries in Scotland.
 
 WHEREAS an Act was passed in the Twenty-fifth and Twenty-sixth Years of Her 4 * present Majesty, Chapter Ninety-seven, intituled An Act to regulate and amend
 
-1 the Law respecting the Salmon Fisheries of Scotland; and another Act was passed in c the Twenty-sixth and Twenty-seventh Years of Her present Majesty, Chapter Fifty, 1 intituled An Act to continue the Powers of the Commissioners under the Salmon ■c Fisheries (Scotland) Act until the First Day of January One thousand eight hundred ‘ and sixty-five, and to amend the said Act; and another Act was passed in the Twenty-‘ seventh and Twenty-eighth Years of Her present Majesty, Chapter One hundred and ‘ eighteen, intituled An Act to amend the Acts relating to Salmon Fisheries in Scotland; ‘ and it is expedient that the recited Acts should be amended, and further Provision made ‘ with respect to Salmon Fisheries in Scotland Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+1 the Law respecting the Salmon Fisheries of Scotland; and another Act was passed in c the Twenty-sixth and Twenty-seventh Years of Her present Majesty, Chapter Fifty, 1 intituled An Act to continue the Powers of the Commissioners under the Salmon *c Fisheries (Scotland) Act until the First Day of January One thousand eight hundred ‘ and sixty-five, and to amend the said Act; and another Act was passed in the Twenty-‘ seventh and Twenty-eighth Years of Her present Majesty, Chapter One hundred and ‘ eighteen, intituled An Act to amend the Acts relating to Salmon Fisheries in Scotland; ‘ and it is expedient that the recited Acts should be amended, and further Provision made ‘ with respect to Salmon Fisheries in Scotland Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 1. This Act may be cited for all Purposes as " The Salmon Fisheries (Scotland) Act, 1868."
 
@@ -27134,7 +27120,7 @@ The same Byelmv shall apply to the several Rivers according to the Limits, and t
 
 Names of Rivers. i Limits of Estuary. Date from 'which Byelaw to take effect.
 
-Aline ! _: ■ A straight Line drawn 15 Degrees North of true West from Bolorkle Point on the East Shore to the Mainland on the West Shore. 1 11th Mar. 1865.
+Aline ! _: * A straight Line drawn 15 Degrees North of true West from Bolorkle Point on the East Shore to the Mainland on the West Shore. 1 11th Mar. 1865.
 
 Alness - i A straight Line drawn between the East and 1 West Sutors of Cromarty. 14th Mar. 1865.
 
@@ -28340,7 +28326,7 @@ The SCHEDULE.
 
 Form of Affidavit required and to be received from Persons applying for Probates of Wills and Letters of Administration, in Cafes in which Mortgage Debts may be deducted from the Value of Leaseholds.
 
-j ■'
+j *'
 
 No. 1.—For Executors.
 

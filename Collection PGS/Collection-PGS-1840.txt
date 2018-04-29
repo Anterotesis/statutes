@@ -338,7 +338,7 @@ xxxv. An Act for more effectually repairing and improving certain Roads near Tor
 
 XI
 
-(Local$■ Personal, declared Public, $c.) 3° & 4° VICTORIA.
+(Local$* Personal, declared Public, $c.) 3° & 4° VICTORIA.
 
 xxxvi. An Act for more effectually repairing several Roads leading from the Town of Taunton in the County of Somerset, and for making several Deviations and new Lines of Road connected therewith.
 
@@ -870,7 +870,7 @@ Battens of the Growth and Produce of any British Possession in America, and impo
 
 the 120 0 7 6
 
-■ exceeding 16 Feet in Length and not exceeding 21 Feet in Length,
+* exceeding 16 Feet in Length and not exceeding 21 Feet in Length,
 
 and not above 7 Inches in Width, and not exceeding 2| Inches in Thickness ----- - the 120 0 9 0
 
@@ -898,7 +898,7 @@ not above 7 Inches in Width, and not exceeding 3J Inches in Thickness ----- - th
 
 Rattens imported into Ireland—continued.
 
-— -■ ■ exceeding 16 Feet in Length and not exceeding 18 Feet in Length,
+— -* * exceeding 16 Feet in Length and not exceeding 18 Feet in Length,
 
 not above 7 Inches in Width, and not exceeding 3£ Inches in Thickness - - - - - the 120
 
@@ -928,7 +928,7 @@ Batten Ends of the Growth and Produce of any British Possession in America, and 
 
 exceeding 2| Inches in Thickness - - - the 120
 
-— ' ■ under 6 Feet in Length, not above 7 Inches in Width, and exceed-
+— ' * under 6 Feet in Length, not above 7 Inches in Width, and exceed-
 
 ing 2| Inches in Thickness - the 120
 
@@ -950,11 +950,11 @@ Deals imported into Great Britain; viz.—
 
 in Length, and not exceeding 3J Inches in Thickness - the 120 —— above 7 Inches in Width, above 16 Feet in Length and not above 21 Feet in Length, and not exceeding 3J Inches in Thickness - the 120
 
-■ --- above 7 Inches in Width, above 21 Feet in Length and not above 45
+* --- above 7 Inches in Width, above 21 Feet in Length and not above 45
 
 Feet in Length, and not above 3$ Inches in Thickness - the 120
 
-■ "■ above 45 Feet in Length, or above 3| Inches in Thickness (not being
+* "* above 45 Feet in Length, or above 3| Inches in Thickness (not being
 
 Timber 8 Inches Square or upwards), the Load containing 50 Cubic Feet - - -
 
@@ -968,11 +968,11 @@ Deals of the Growth and Produce of any British Possession in America, and import
 
 in Length, and not exceeding 3J Inches in Thickness - the 120
 
-— ■ above 7 Inches in Width, being 6 Feet in Length and not above 21 Feet
+— * above 7 Inches in Width, being 6 Feet in Length and not above 21 Feet
 
 in Length, and exceeding 3| Inches in Thickness - the 120 ---- above 7 Inches in Width, exceeding 21 Feet in Length, and not exceeding 4 Inches in Thickness - the 120
 
-— '■ above 7 Inches in Width, exceeding 21 Feet in Length, and exceeding
+— '* above 7 Inches in Width, exceeding 21 Feet in Length, and exceeding
 
 4 Inches in Thickness (not being Timber 8 Inches Square or upwards)
 
@@ -1074,7 +1074,7 @@ exceeding 3 J Inches in Thickness; viz.—
 
 the 120
 
-■ - exceeding 14 Feet in Length and not exceeding 16 Feet in Length,
+* - exceeding 14 Feet in Length and not exceeding 16 Feet in Length,
 
 the 120
 
@@ -1124,7 +1124,7 @@ exceeding 3J Inches in Thickness - the 120
 
 ----------above 7 Inches in Width, being under 6 Feet long, and exceeding
 
-31 Inches in Thickness ■ - - the 120
+31 Inches in Thickness * - - the 120
 
 Deal Ends imported into Ireland; viz.—
 
@@ -1292,7 +1292,7 @@ An Act to extend to the British Colonies in the West Indies an Act passed in the
 
 [Sd July 1840.]
 
-WHEREAS it is expedient that the Provisions of an Act passed in the Fifth and Sixth c - ▼ ▼ Years of the Reign of His late Majesty King William the Fourth, intituled An Act to
+WHEREAS it is expedient that the Provisions of an Act passed in the Fifth and Sixth c - * * Years of the Reign of His late Majesty King William the Fourth, intituled An Act to
 
 * repeal an Act of the Ninth Year of His late Majesty, for regulating the Carriage of Passengers
 
@@ -1950,7 +1950,7 @@ An Act to re-unite the Provinces of Upper and Lower Canada, and for the Governme
 
 WHEREAS it is necessary that Provision be made for the good Government of the
 
-€ ? ▼ Provinces of Upper Canada and Lower Canada, in such Manner as may secure the
+€ ? * Provinces of Upper Canada and Lower Canada, in such Manner as may secure the
 
 * Rights and Liberties and promote the Interests of all Classes of Her Majesty's Subjects c within the same: And whereas to this end it is expedient that the said Provinces be € re-united and form One Province for the Purposes of Executive Government and Legis-
 
@@ -3092,7 +3092,7 @@ taken or to be taken by the said Commissioners for the Purposes of the said reci
 
 IX. And be it enacted, That all and every the several Clauses, Powers, Provisoes, Enacts Powers of ferments, Penalties, and Restrictions in the said recited Acts contained, so far as the same can JJ^uded to be made applicable, and are not varied by this Act, shall be taken to extend to this Act, and Securities under to every thing to be done and the further Securities to be taken in pursuance of this Act, and Act. in all respects as if such Extension of Time and further Security had been granted and made in pursuance of the Provisions of this Act.
 
-X. And be it enacted, That this Act maybe altered or repealed by any Act to be passed in Act may be this Session of Parliament. ■""£*this
+X. And be it enacted, That this Act maybe altered or repealed by any Act to be passed in Act may be this Session of Parliament. *""£*this
 
 CAP. XLI.
 
@@ -3206,7 +3206,7 @@ II. And be it further enacted, That every such Mortgage shall contain a Covenant
 
 payable upon such Mortgage or Mortgages during the Term of his natural Life. dpal, &c.
 
-III. Provided always, and be it further enacted, That whenever the Principal Money or Principal, &c. Interest to be secured by any such Mortgage or Mortgages, or any Part thereof respectively, jn
+III. Provided always, and be it further enacted, That whenever the Principal Money or Principal, &c. Interest to be secured by any such Mortgage or Mortgages, or any Part thereof respectively, in
 
 shall be in arrear and unpaid for more than Forty Days after the same respectively shall to e recover become due, it shall be lawful for the Mortgagee or Mortgagees, his or their Executors, Administrators, Successors, or Assigns, to recover the same respectively, or so much respectively as shall be then due, and the Costs and Charges attending the Recovery thereof, by Distress and Sale, in such Manner as Landlords may recover Rents reserved upon Leases for Years.
 
@@ -4690,7 +4690,7 @@ Streets of Dublin, and he is hereby authorized and directed, to give or receive 
 
 XXII. And be it enacted, That it shall and may be lawful for the said Commissioners under this Act, and their Successors, from Time to Time to contract with a fit Person or fit Persons for all or any Works necessary for the Purposes and Objects of this Act, in like Manner as they are now empowered to do for any Works under the said recited Acts of the Forty-seventh and Fifty-fourth Years of the Reign of His late Majesty King George the Third*
 
-V ■
+V *
 
 XXIII. .And be it enacted, That in the Books of Account of the said Commissioners distinct and separate Accounts shall be kept of the Produce of each and every distinct Tax, Rate, and Assessment hereby imposed, or directed to be raised, levied, or paid, and what Sum or Sums shall have been paid and applied to the Purposes of this Act respectively.
 
@@ -6390,7 +6390,7 @@ furnishing Men towards the Quota of a County in the following Proportions; videl
 
 For a Subdivision furnishing 50 Men and under - - •
 
-from 51 to 150 Men -from J151 to 250 Men - . - r ■ m
+from 51 to 150 Men -from J151 to 250 Men - . - r * m
 
 from 251 Men and upwards - 7* - -
 
@@ -6924,7 +6924,7 @@ c that such detached Portion of the County of Mayo should be comprised and inclu
 
 Provisions of II. And be it enacted, That all the Clauses, Powers, Provisions, Regulations, Penalties, fn^es^ 1 of84 an(^ forfeitures in the said last-mentioned Act contained, in relation to the ascertaining and de^hed'por- making out the Boundaries of any detached or isolated Portion of any County, or in relation tionsofa to any detached or isolated Portion of a County annexed to or incorporated with any other ^TanTtW County under and by virtue of the Authority therein contained, shall extend and apply, as CountyextenX far as the same are applicable, to this Act, as fully and effectually as if such Clauses, Powers, ed to this Act. Provisions, Regulations, Penalties, and Forfeitures were herein set forth and re-enacted, and that the said last-recited Act and this Act shall be construed together as One Act to all Intents and Purposes whatsoever.
 
-Act may be III. And be it enacted, That this Act may be amended or repealed by any Act to be passed amended, &c. jn the present Session of Parliament.
+Act may be III. And be it enacted, That this Act may be amended or repealed by any Act to be passed amended, &c. in the present Session of Parliament.
 
 3° & 4° VICTORIA, c.77.
 
@@ -7042,7 +7042,7 @@ Where puch Powers not sufficient, Court may enlarge them.
 
 Where no such Powers, Court may create them.
 
-Court of Chancery may substitute a Perron to act pro hac ▼ice in certain Cases.
+Court of Chancery may substitute a Perron to act pro hac *ice in certain Cases.
 
 Proviso.
 
@@ -8558,7 +8558,7 @@ Lavell, & Co.
 
 1 B Robert Abraham -
 
-* * ■ ' ■ 1 X/IaKc —
+* * * ' * 1 X/IaKc —
 
 Stone-yard Paving Committee ... Paving Committee of
 
@@ -8760,13 +8760,13 @@ Ditto - Ditto Ditto Ditto.
 
 Ditto - m Ditto Ditto Ditto.
 
-Ditto - William Willett and John Hedges. ■ . • Charles Murrell.
+Ditto - William Willett and John Hedges. * . • Charles Murrell.
 
 Ditto - . Edward Jenkins - Richard Wilson Simon Willament
 
 Ditto - m James Bethell - Maria Rolfe.
 
-Ditto m James Kingsmill - m ■ ■ m- m Thomas Edwards. *.
+Ditto m James Kingsmill - m * * m- m Thomas Edwards. *.
 
 Ditto m Sir Peter Laurie - - Crawfield.
 
@@ -8844,7 +8844,7 @@ Ground.
 
 4 Ditto - Elizabeth Stevens - - Robert Charles Stur-
 
-5 Ditto Ditto - ■ — • geon. Ditto.
+5 Ditto Ditto - * — • geon. Ditto.
 
 6 Ditto - Ditto - Ditto.
 
@@ -9942,7 +9942,7 @@ Shop*or Out- 4 Materials may be;' be it therefore enacted, That it shall be lawf
 
 housestoinspect Owners of any such Materials, or any other Person duly authorized by him or them, from such Materials. Time to Time, as Occasion shall require, to demand Leave of Entrance, and enter, at all
 
-reasonable Hours in the Daytime, into the Shops or Outhouses of any Person or Persons employed by him or them to work up or manufacture any of the said Materials, or other Place or Places where the Work shall be carried on, and there to inspect the State and In case of Re- Condition of such Materials; and in case of Refusal by any such Person or Persons so fusai the Owner employed to permit such Entrance or Inspection, such Owner or other authorized Person ■Justice for°a may g° before the nearest Justice of the Peace, and make Oath that such Materials have been Search War- intrusted to a Weaver, Sewer, or other Person, and that he has reasonable Grounds for nnU suspecting some Loss or Injury to the Property so intrusted as aforesaid, as such Person has
+reasonable Hours in the Daytime, into the Shops or Outhouses of any Person or Persons employed by him or them to work up or manufacture any of the said Materials, or other Place or Places where the Work shall be carried on, and there to inspect the State and In case of Re- Condition of such Materials; and in case of Refusal by any such Person or Persons so fusai the Owner employed to permit such Entrance or Inspection, such Owner or other authorized Person *Justice for°a may g° before the nearest Justice of the Peace, and make Oath that such Materials have been Search War- intrusted to a Weaver, Sewer, or other Person, and that he has reasonable Grounds for nnU suspecting some Loss or Injury to the Property so intrusted as aforesaid, as such Person has
 
 refused to permit the same to be inspected; and it shall be lawful for such Justice, and he is hereby required, to issue his Warrant to search the Dwelling House and Premises of such Person; and if the whole of the Materials so intrusted cannot be found therein, or cannot be produced to the Constable executing the Warrant, such Constable shall apprehend such Person, and bring him before some Justice of the Peace, there to be examined; and if upon
 
@@ -11594,7 +11594,7 @@ passed ip the First and Second Years of the Rfcign of Her present Majesty, intit
 
 VIII. And be it enacted, That the said several Persons so appointed to take the said The Persons Accounts, or to assist therein, shall sign and certify the same, and make solemn Affirmation the before any Justice of the Peace within the County, to the Effect that the said Account has CerSyn^d° been truly and faithfully taken by him (or them), and that to the best of his (or their) affirm as to Knowledge the same is correct, so far as may be known, and shall deliver the same to such
 
-Officer of the said Police or Constabulary Forces, or other Person as may be appointed by thSrto the^ the said Lord Lieutenant or other Chief Governor or Governors to receive the same, within Officer appoint-each County, City, Town, or Place; and such Officer or Person shall examine the same, and ^^ recelve cause any Defect or Inaccuracy which may be discovered therein to be supplied or corrected such Officer to so far as may be possible^ and shall certify and transmit the same to the Office of the said transmit them Chief or Under Secretary, in such Manner and within such Time as the said Lord Lieu- to the pffice tenant or other Chief Governor or Governors shall direct, and the same shall be digested and reduced into Order under the Direction of the said Chief or Under Secretary, by such Persons as the said Lord Lieutenant or other Chief Governor or Governors shall appoint for that Purpose; and that an Abstract thereof shall be laid before both Houses of Parliament An Abstract within Twelve Months after the Day on which the said Account shall be taken, or (if Parlia-ment be not then sitting) within the first Fourteen Days of the Session next ensuing. Parliament.
+Officer of the said Police or Constabulary Forces, or other Person as may be appointed by thSrto the^ the said Lord Lieutenant or other Chief Governor or Governors to receive the same, within Officer appoint-each County, City, Town, or Place; and such Officer or Person shall examine the same, and ^^ recelve cause any Defect or Inaccuracy which may be discovered therein to be supplied or corrected such Officer to so far as may be possible^ and shall certify and transmit the same to the Office of the said transmit them Chief or Under Secretary, in such Manner and within such Time as the said Lord Lieu- to the pffice tenant or other Chief Governor or Governors shall direct, and the same shall be digested and reduced into Order under the Direction of the said Chief or Under Secretary, by such Persons as the said Lord Lieutenant or other Chief Governor or Governors shall appoint for that Purpose; and that an Abstract thereof shall be laid before both Houses of Parliament An Abstract within Twelve Months after the Day on which the said Account shall be taken, or (if Parliament be not then sitting) within the first Fourteen Days of the Session next ensuing. Parliament.
 
 IX. And be it enacted, That every solemn Affirmation or Declaration made or signed Punishment of under the Authority of this Act shall be of the same'Force and Effect as If the Person making such Affirmation or Declaration had taken an Oath in the usual Form; so that if the Person Affirmation or making such Affirmation or Declaration shall be convicted of having therein wilfully and Declaration, falsely affirmed or declared any Matter or Thing, he shall be subject to the same Pains,
 
@@ -11912,7 +11912,7 @@ IX. And be it enacted, That all Loans or Sums of Money which have been borrowed 
 
 and
 
-■11"
+*11"
 
 1
 
@@ -16572,7 +16572,7 @@ Thus: Scheme 6. may be altered by making the first Instalment payable on the Twe
 
 4 H
 
-3" ■& 4" VICTORIA, c. 111,112
+3" *& 4" VICTORIA, c. 111,112
 
 1 & 2Viet* c. 96.
 
@@ -18178,7 +18178,7 @@ xcviii. An Act for more effectually widening and improving the Road from Wells t
 
 xeix. An Act for more effectually repairing and maintaining several Roads leading to and from the Town of Bradford in the County of Wilts, and for maintaining a Bridge over the River Avon at Stokeford in the said County.
 
-c. An Act for repairing the Roads leading from Henley-vpon-Thames to Culham Bridge, and to thp Chancellor's Milestone near Magdalen Bridge, in the County of Oxford.
+c. An Act for repairing the Roads leading from Henley-upon-Thames to Culham Bridge, and to thp Chancellor's Milestone near Magdalen Bridge, in the County of Oxford.
 
 b 3 pi. An
 
@@ -19212,7 +19212,7 @@ Height - Feet. Inches.
 
 Complexion
 
-Hair - - -■ /
+Hair - - -* /
 
 Eyes - - -
 
@@ -19234,11 +19234,11 @@ I do hereby certify, that the Prisoner has been duly examined before me as to th
 
 from the above-mentioned Corps.
 
-■■■ - Signature and Address of
+*** - Signature and Address of
 
 Magistrate.
 
-»----- ■■■ Signature of Prisoner.
+»----- *** Signature of Prisoner.
 
 ------------- Signature of Informant.
 
@@ -19896,7 +19896,7 @@ cr
 
 I do hereby certify, that the Prisoner has been duly examined before me as to the Circumstances herein stated, and has declared in my Presence that he * a Deserter from the before-mentioned Corps.
 
-■ ■— Signature and Address of
+* *— Signature and Address of
 
 Magistrate,
 
@@ -20718,7 +20718,7 @@ Satisfaction for the Value of Premises taken may be accepted.
 
 If Parties cannot agree the Amount to be settled by a Jury.
 
-XXVIII. And be it enacted, That all and every Body and Bodies Politic, Corporate, or Collegiate, Trustee or Trustees, and other Person and Persons, herein-before capacitated to contract for, sell, and convey any such Tenements or Hereditaments as aforesaid, and any other Owner or Owners of any such Tenements or Hereditaments, or any Share or Shares, Estate or Estates, Interest or Interests therein, or Charge or Charges thereon, may accept and receive such Satisfaction and Recompence for the Value thereof; and such Body or Bodies, Trustee or Trustees, Person or Persons, Owner or Owners, and also any Tenant or Tenants, or other Occupier or Occupiers of any suchr Premises, entitled to arty Compensation for Tenants Fixtures, and for any other Injury or Damage as shall be sustained on account of the Execution of this Act, or in anywise relating thereto, mayjaccept and receive such Sum of Money in respect thereof as shall be agreed upon between them respectively and the said Commissioners of Her Majesty's Woods, Forests, Land Revenues, Works, and Buildings; and in case the said Commissioners, and the said Parties interested in such Tenements or Hereditaments or Fixtures, or sustaining any Injury or Damage, cannot or do not agree as to the Amount or Value of such Satisfaction, Recompence, or Compensation, the same respectively shall be ascertained and settled by a Jury in manner herein-after directed.
+XXVIII. And be it enacted, That all and every Body and Bodies Politic, Corporate, or Collegiate, Trustee or Trustees, and other Person and Persons, herein-before capacitated to contract for, sell, and convey any such Tenements or Hereditaments as aforesaid, and any other Owner or Owners of any such Tenements or Hereditaments, or any Share or Shares, Estate or Estates, Interest or Interests therein, or Charge or Charges thereon, may accept and receive such Satisfaction and Recompence for the Value thereof; and such Body or Bodies, Trustee or Trustees, Person or Persons, Owner or Owners, and also any Tenant or Tenants, or other Occupier or Occupiers of any suchr Premises, entitled to any Compensation for Tenants Fixtures, and for any other Injury or Damage as shall be sustained on account of the Execution of this Act, or in anywise relating thereto, mayjaccept and receive such Sum of Money in respect thereof as shall be agreed upon between them respectively and the said Commissioners of Her Majesty's Woods, Forests, Land Revenues, Works, and Buildings; and in case the said Commissioners, and the said Parties interested in such Tenements or Hereditaments or Fixtures, or sustaining any Injury or Damage, cannot or do not agree as to the Amount or Value of such Satisfaction, Recompence, or Compensation, the same respectively shall be ascertained and settled by a Jury in manner herein-after directed.
 
 ment of their Estates and Claims within One Calendar Month after Notice.
 
@@ -21526,7 +21526,7 @@ Gateway leading to Back Premises. Dock Street Thomas Webster - John Way and John
 
 22 Ditto - Ditto John Way and John House. Mary Thompson.
 
-21 Ditto - , Ditto ' - ■; Ditto . George Call.
+21 Ditto - , Ditto ' - *; Ditto . George Call.
 
 20 Ditto - Ditto Ditto . Abraham Rozier.
 
@@ -21592,7 +21592,7 @@ CAP. XIII.
 
 An Act to authorize the Advance of a Sum of Money out of the Consolidated Fund on account of the Colony of South Australia. [10th May 1841,]
 
-WHEREAS an Act was passed in the Session of Parliament holden in the Fourth and 4 ▼ * Fifth Years of the Reign of King William the Fourth, intituled An Act ty empower 4 His Majesty to erect South Australia into a British Province or Provinces, and to provide for 4 the Colonization and Government thereof: And whereas another Act was passed in the Session 4 of Parliament holden in the First and Second Years of the Reign of Her Majesty Queen 4 Victoria, intituled An Act to amend an Act of the Fourth and Fifth Years of His late Majesty, 4 empowering His Majesty to erect South Australia into a British Province or Provinces: And 4 whereas certain Bills have been drawn and Expences incurred on account of the Colony of South Australia, and it is necessary to make immediate Provision for the Payment thereof Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That it shall be lawful for the Lord High Treasurer, or the Commissioners of Her Majesty's Treasury of the United Kingdom of Great Britain and Ireland, for the Time being, or any Three or more of them, from Time to Time to advance and lend to the Colonization Commissioners for South Australia for the Time being, out of the Consolidated Fund of the United Kingdom of Great Britain and Ireland, or out of the growing Produce of the said Fund, free and clear of all Fees and Deductions whatsoever, any Sum or Sums of Money not exceeding One hundred and fifty-five thousand Pounds in the whole, at such Rate of Interest as the said Lord High Treasurer or the said Commissioners of Her Majesty's Treasury shall direct, the same to be applied for the Payment of Bills drawn and Expences incurred on account of the Colony of South Australia; and that the Repayment of all Advances so made, with the Interest accruing thereon, shall be secured in such Manner as may be provided by any Act passed for that Purpose in this Session of Parliament,
+WHEREAS an Act was passed in the Session of Parliament holden in the Fourth and 4 * * Fifth Years of the Reign of King William the Fourth, intituled An Act ty empower 4 His Majesty to erect South Australia into a British Province or Provinces, and to provide for 4 the Colonization and Government thereof: And whereas another Act was passed in the Session 4 of Parliament holden in the First and Second Years of the Reign of Her Majesty Queen 4 Victoria, intituled An Act to amend an Act of the Fourth and Fifth Years of His late Majesty, 4 empowering His Majesty to erect South Australia into a British Province or Provinces: And 4 whereas certain Bills have been drawn and Expences incurred on account of the Colony of South Australia, and it is necessary to make immediate Provision for the Payment thereof Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That it shall be lawful for the Lord High Treasurer, or the Commissioners of Her Majesty's Treasury of the United Kingdom of Great Britain and Ireland, for the Time being, or any Three or more of them, from Time to Time to advance and lend to the Colonization Commissioners for South Australia for the Time being, out of the Consolidated Fund of the United Kingdom of Great Britain and Ireland, or out of the growing Produce of the said Fund, free and clear of all Fees and Deductions whatsoever, any Sum or Sums of Money not exceeding One hundred and fifty-five thousand Pounds in the whole, at such Rate of Interest as the said Lord High Treasurer or the said Commissioners of Her Majesty's Treasury shall direct, the same to be applied for the Payment of Bills drawn and Expences incurred on account of the Colony of South Australia; and that the Repayment of all Advances so made, with the Interest accruing thereon, shall be secured in such Manner as may be provided by any Act passed for that Purpose in this Session of Parliament,
 
 4&5W.4.C.95.
 
@@ -22158,7 +22158,7 @@ Repeal of XXIII. And be it enacted, That so much of the said recited Act of the 
 
 7&8G.4. c.53. the Reign of His said late Majesty King George the Fourth as enacts "that all Goods and
 
-*■28* Commodities for or in respect whereof any Duty or Duties of Excise is, are, or shall be by
+**28* Commodities for or in respect whereof any Duty or Duties of Excise is, are, or shall be by
 
 Law imposed, and all Materials, Preparations, Utensils, and Vessels for the making thereof, or by which any such Trade or Business shall have been carried on, in the Custody or Possession of the Person or Persons carrying on such Trade or Business, or in the Custody or
 
@@ -23792,7 +23792,7 @@ Persons for the Time being having the immediate Management of the said Duchy, by
 
 Persons under V. And be it enacted, That where any Person shall be equitably entitled to any Manor Disability em- or Land, but the legal Estate therein shall be in some Trustee or Trustees, it shall be veyLmdTfor11" sufficient for such Person to convey the same for the Purposes of this Act without the Trus-the Purposes of tee or Trustees being Party to the Conveyance thereof; and where any Married Woman this Act. shall be seised or possessed of or entitled to any Estate or Interest, manorial or otherwise, in Land proposed to be conveyed for the Purposes of this Act, she and her Husband may convey the same for such Purposes by Deed, without any Acknowledgment thereof; and where it is deemed expedient to purchase any Land for the Purposes aforesaid belonging to or vested in any Infant or Lunatic, such Land may be conveyed by the Guardian or Committee of such Infant or the Committee of such Lunatic respectively, who may receive the Purchase Money for the same, and give valid and sufficient Discharges to the Party paying such Purchase Money, who shall not be required to see to the Application thereof.
 
-Corporations, VI. And be it enacted, That it shall be lawful for any Corporation, Ecclesiastical or Lay, teSf&c cm*5" Aether Sole or Aggregate, and for any Officers, Justices of the Peace, Trustees, or Com-powered to con- missioners holding Land for public, ecclesiastical, parochial, charitable, or other Purposes ▼ey Lands for or Objects, subject to the Provisions next herein-after mentioned, to grant, convey, or iM^AcT* enfranchise, for the Purposes of this Act, such Quantity of Land as aforesaid in any Manner vested in such Corporation, Officers, Justices, Trustees, or Commissioners: Provided always, that no Ecclesiastical Corporation Sole, being below the Dignity of a Bishop, shall be authorized to make such Grant without the Consent in Writing of the Bishop of the Diocese to whose Jurisdiction the said Ecclesiastical Corporation i8 subject: Provided also, that no parochial Property shall be granted for such Purposes without the Consent of a Majority of the Rate-payers and Owners of Property in the Parish to which the same belongs, assembled at a Meeting to be convened according to the Mode pointed out in the Act passed in 5&6W.4.C.69. the Sixth Year of the Reign of His late Majesty, intituled An Act to facilitate the Conveyance of Workhouses and other Property of Parishes and of Incorporations or Unions of Parishes in England and Wales, and without the Consent of the Poor Law Commissioners, to be testified by their Seal being affixed to the Deed of Conveyance, and of the Guardians of the Poor of the Union within which the said Parish may be comprised, or of the Guardians of the Poor of the said Parish where the Administration of the Relief of the Poor therein shall be subject to a Board of Guardians, testified by such Guardians being the Parties to convey the same: Provided also, that where any Officers, Trustees, or Commissioners, other than parochial Trustees, shall make any such Grant, it shall be sufficient if a Majority or Quorum authorized to act of such Officers, Trustees, or Commissioners, assembled at a Meeting duly convened, shall assent to such Grant, and shall execute the Deed of Conveyance, although they shall not constitute a Majority of the actual Body of such Officers, Trustees, or Commissioners: Provided also, that the Justices of the Peace may give their Consent to the making any Grant of Land or Premises belonging to any County, Riding, or Division by Vote at their General Quarter Sessions, and may direct the same to be made in the Manner directed to be pursued on the Sale of the Sites of Gaols by an Act passed in the 7G.4. c. is. Seventh Year of the Reign of His late Majesty George the Fourth, intituled An Act to authorize the Disposal of unnecessary Prisons in England.
+Corporations, VI. And be it enacted, That it shall be lawful for any Corporation, Ecclesiastical or Lay, teSf&c cm*5" Aether Sole or Aggregate, and for any Officers, Justices of the Peace, Trustees, or Com-powered to con- missioners holding Land for public, ecclesiastical, parochial, charitable, or other Purposes *ey Lands for or Objects, subject to the Provisions next herein-after mentioned, to grant, convey, or iM^AcT* enfranchise, for the Purposes of this Act, such Quantity of Land as aforesaid in any Manner vested in such Corporation, Officers, Justices, Trustees, or Commissioners: Provided always, that no Ecclesiastical Corporation Sole, being below the Dignity of a Bishop, shall be authorized to make such Grant without the Consent in Writing of the Bishop of the Diocese to whose Jurisdiction the said Ecclesiastical Corporation i8 subject: Provided also, that no parochial Property shall be granted for such Purposes without the Consent of a Majority of the Rate-payers and Owners of Property in the Parish to which the same belongs, assembled at a Meeting to be convened according to the Mode pointed out in the Act passed in 5&6W.4.C.69. the Sixth Year of the Reign of His late Majesty, intituled An Act to facilitate the Conveyance of Workhouses and other Property of Parishes and of Incorporations or Unions of Parishes in England and Wales, and without the Consent of the Poor Law Commissioners, to be testified by their Seal being affixed to the Deed of Conveyance, and of the Guardians of the Poor of the Union within which the said Parish may be comprised, or of the Guardians of the Poor of the said Parish where the Administration of the Relief of the Poor therein shall be subject to a Board of Guardians, testified by such Guardians being the Parties to convey the same: Provided also, that where any Officers, Trustees, or Commissioners, other than parochial Trustees, shall make any such Grant, it shall be sufficient if a Majority or Quorum authorized to act of such Officers, Trustees, or Commissioners, assembled at a Meeting duly convened, shall assent to such Grant, and shall execute the Deed of Conveyance, although they shall not constitute a Majority of the actual Body of such Officers, Trustees, or Commissioners: Provided also, that the Justices of the Peace may give their Consent to the making any Grant of Land or Premises belonging to any County, Riding, or Division by Vote at their General Quarter Sessions, and may direct the same to be made in the Manner directed to be pursued on the Sale of the Sites of Gaols by an Act passed in the 7G.4. c. is. Seventh Year of the Reign of His late Majesty George the Fourth, intituled An Act to authorize the Disposal of unnecessary Prisons in England.
 
 8 VII. And
 
@@ -25322,7 +25322,7 @@ Do. of Inspectors of Prisons • - 3,100 0 0
 
 For the Expenditure of the Mint - - 15,700 0 0
 
-For the Commission on Employment of Children in Mines Collieries - - ■ and 2,500 0 0
+For the Commission on Employment of Children in Mines Collieries - - * and 2,500 0 0
 
 For Superannuation and Retired Allowances - - 41,000 0 0
 
@@ -25384,7 +25384,7 @@ For Ecclesiastical Establishment of British North Provinces - American 5,795 0 0
 
 For Indian Department in Canada - - 9,447 10 0
 
-For Governors, &c. of West India Colonies - ■ - 9,333 10 0
+For Governors, &c. of West India Colonies - * - 9,333 10 0
 
 For
 

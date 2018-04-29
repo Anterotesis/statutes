@@ -242,7 +242,7 @@ tornies and Solicitors. 104
 
 (Publick General) 1°& 26 GEO. IV.
 
-▼d
+*d
 
 50. Ad Act to alter and amend an Act made in the Fifty ninth
 
@@ -692,7 +692,7 @@ from Spalding High Bridge through Littleworth, and by Frog-nail to James Deeping
 
 xxxv. An Act for enlarging the Term and Powers of several Acts,
 
-gassed in the Thirtieth Year of the Reign of His late Majesty jng Giorge the Second, and in the Eighteenth and Thirty ninth Years of the Reign of His late Majesty King George the Third, so far as the same relate to the Road from Alfold Bars, in the County of Surreyy to Newbridge, in the County of Sussex. 535
+gassed in the Thirtieth Year of the Reign of His late Majesty ing Giorge the Second, and in the Eighteenth and Thirty ninth Years of the Reign of His late Majesty King George the Third, so far as the same relate to the Road from Alfold Bars, in the County of Surreyy to Newbridge, in the County of Sussex. 535
 
 xxxvi. An Act for more effectually repairing the Road from Brokencross, in Macclesfield, in -the County of Chester, to the Turnpike Road at Buxton, in the County of Derby, and certain Branches of Road to communicate with* the said Macclesfield Road; and for making a new Road from The Waters in Macclesfield to Buxton aforesaid. Ibid.
 
@@ -995,8 +995,6 @@ tain Salt Marshes and Waste Lands within the Parishes of Burnham Norton, Burnham
 Manor and Township of Alsager, in the Parish of Barthondey, in the County of Chester. Ibid.
 
 13. An
-
-VjjOOQ LC
 
 19
 
@@ -1778,8 +1776,6 @@ WHEREAS by an Act passed in the Forty sixth Year of 46G. 3. c. 97. 4 W the Reign
 
 4 Comptroller or other Chief Officer of the Customs, at the 4 Port from whence the Exportation is about to take place, that 4 such Com, Grain, Meal, Flour, Bread or Biscuit is really and 4 truly intended to be exported to Great Britain or Ireland, as 1 & 2 Geo. IV. C 4 the
 
-CjOOQ 1C
-
 C. 19, 20.
 
 1° & 2° GEO. IV.
@@ -1794,7 +1790,7 @@ Go6ds, Produce of <*. Ik or L, not subject to Duty, &c. may be exported under li
 
 59 G. 3. c. 13.
 
-4 the case may be; and such Exporter shall thereupon receive 4 a like Cocket, Certificate, "Let Pass or Transire, as is given and 4 conformable to all the like Regulations in force in ease of ‘'Goods sent Coastwise from one Port of Great Britain to *■ another Port therein, or from one Port in Ireland to another 4 Port in Ireland, respectively: And Whereas it is expedient to
+4 the case may be; and such Exporter shall thereupon receive 4 a like Cocket, Certificate, "Let Pass or Transire, as is given and 4 conformable to all the like Regulations in force in ease of ‘'Goods sent Coastwise from one Port of Great Britain to ** another Port therein, or from one Port in Ireland to another 4 Port in Ireland, respectively: And Whereas it is expedient to
 
 * extend the Provisions of the said Act to certain other Articles 4 exported from Great Britain to Ireland, or from Ireland to
 
@@ -3262,11 +3258,11 @@ A Table of the Duties of Customs payable on the Importation into Great Britain f
 
 Balks, viz.
 
-■ ■ "" under 5 Inches square, and under -24 Feet in Length,
+* * "" under 5 Inches square, and under -24 Feet in Length,
 
 - - - imported in a British built Ship, the 120 -
 
-- - - imported in a Ship not British built, the 120 —■ under 5 Inches square, and 24 Feet in Length or upwards,
+- - - imported in a Ship not British built, the 120 —* under 5 Inches square, and 24 Feet in Length or upwards,
 
 - - - imported in a British built Ship, the 120
 
@@ -3578,7 +3574,7 @@ Fir Quarters, viz.
 
 - - - imported in a Ship not British built, the 120
 
-— ■ — under 5 Inches square, and 24 Feet in Length, or
+— * — under 5 Inches square, and 24 Feet in Length, or
 
 upwards,
 
@@ -3644,7 +3640,7 @@ Handspikes, viz.
 
 - - - imported in a Ship not British built, the 120
 
-■ ■—■■■■■ Handspikes of the Growth and Production of the British Colonies or Plantations in America, and imported directly from thence, viz.
+* *—***** Handspikes of the Growth and Production of the British Colonies or Plantations in America, and imported directly from thence, viz.
 
 • - - under 7 Feet m Length, the 120 -
 
@@ -3660,7 +3656,7 @@ Knees of Oak, viz.
 
 120
 
-■ ■ —— 5 Inches square and under 8 Inches square,
+* * —— 5 Inches square and under 8 Inches square,
 
 - - - imported in a British built Ship, the 120
 
@@ -3668,7 +3664,7 @@ Knees of Oak, viz.
 
 120
 
-■ —-------- 8 Inches square or upwards,
+* —-------- 8 Inches square or upwards,
 
 - - - imported in a British built Ship, the Load
 
@@ -3692,7 +3688,7 @@ taining 50 Cubic Feet
 
 Lathwood, viz.
 
-i ■ ■— in Pieces under 5 Feet in Length, the Fathom 6 Feet wide and 6 Feet high,
+i * *— in Pieces under 5 Feet in Length, the Fathom 6 Feet wide and 6 Feet high,
 
 - - - imported in a British built Ship
 
@@ -3728,7 +3724,7 @@ Duty.
 
 L&thwood, continued.
 
-• - ■— in Pieces 5 Feet in Length or upwards, the Fathom
+• - *— in Pieces 5 Feet in Length or upwards, the Fathom
 
 6 Feet wide and 6 Feet high,
 
@@ -3736,7 +3732,7 @@ L&thwood, continued.
 
 - - • imported in a Ship not British built -
 
----—— ■ Lathwood of the Growtn and Production of the British
+---—— * Lathwood of the Growtn and Production of the British
 
 Colonies or Plantations in America, and imported directly from thence, viz.
 
@@ -3750,13 +3746,13 @@ Fathom 6 Feet wide and 6 Feet high
 
 Mahogany, viz.
 
-■ of the Growth of Bermuda, or of any of the Bahama
+* of the Growth of Bermuda, or of any of the Bahama
 
 Islands, and imported directly from thence respectively, and Mahogany imported directly from the Bay of Honduras in British built Ships cleared out from the Port of Belise, the Ton containing 20 Cwt. ....
 
 - - of the -Growth of the Islands of Saint Domingo or Cuba, or of the Island of Jamaica, and imported directly from thence respectively, the Ton containing 20 Cwt. ....
 
-■ — Mahogany imported not directly from Bermuda, or from any of the Bahama Islands, or imported not directly from the Bay of Honduras, or Mahogany of the Growth of and imported not directly from the Islands of Saint Domingo, Cuba or Jamaica respectively; or any Mahogany being of the Growth of any other Country or Place, the Ton containing 20 Cwt.
+* — Mahogany imported not directly from Bermuda, or from any of the Bahama Islands, or imported not directly from the Bay of Honduras, or Mahogany of the Growth of and imported not directly from the Islands of Saint Domingo, Cuba or Jamaica respectively; or any Mahogany being of the Growth of any other Country or Place, the Ton containing 20 Cwt.
 
 Masts, Yards, or Bowsprits, viz. •
 
@@ -3772,7 +3768,7 @@ Masts, Yards, or Bowsprits, viz. •
 
 - - - imported in a Ship not British built, each
 
--■ — — 12 inches in Diameter or upwards,
+-* — — 12 inches in Diameter or upwards,
 
 - - - imported in a British built Ship, the Load contain-
 
@@ -3836,7 +3832,7 @@ taining 50 Cubic Feet - -
 
 - - - imported in a Ship not British built, the Load
 
-containing 50 Cubic Feet -— ■ — Oak Plank of the Growth and Production of the
+containing 50 Cubic Feet -— * — Oak Plank of the Growth and Production of the
 
 British Colonies or Plantations in America,* and imported directly from thence, viz.
 
@@ -3854,7 +3850,7 @@ under 22 Feet in Length, and under 4 Inches in Diameter, exclusive of the Bark,
 
 - - - imported in a Ship not British built, the 120
 
-— ■ ■ 22 Feet in Length or upwards, and under 4 Inches in
+— * * 22 Feet in Length or upwards, and under 4 Inches in
 
 Diameter, exclusive of the Bark,
 
@@ -3870,7 +3866,7 @@ exclusive of the Bark,
 
 - - - imported in a Ship not British built, the 120
 
-— - ■■■ Spars of the Growth and Production of the British Colo-
+— - *** Spars of the Growth and Production of the British Colo-
 
 nies or Plantations in America, and imported directly from thence, viz.
 
@@ -3882,7 +3878,7 @@ r p - 4 Inches in Diameter, and under 6 Inches in Dia* meter, exclusive of the B
 
 Staves, viz.
 
-— ■■ - not exceeding 36 Inches in Length, not above 3 Inches
+— ** - not exceeding 36 Inches in Length, not above 3 Inches
 
 in Thickness, and not exceeding 7 Inches in Breadth,
 
@@ -3954,11 +3950,11 @@ and exceeding 63 Inches in Length, shall be deemed Pipe Boards, hnd be charged w
 
 United States of America, or of the Growth and Production of East or West Florida, and imported directly from thence respectively, not exceeding 1£ Inch in Thickness, shall be charged with One Third Part only of the Dutfes hereinbefore imposed on Staves.
 
-- ■ Staves the Produce of and imported directly from the
+- * Staves the Produce of and imported directly from the
 
 Ionian Islands, shall be charged at the same Rate of Duty as Staves of the Growth and Production of the United States of America when imported directly from thence.
 
-- ■ ■ ■ Staves of the Growth and Production of the British Colo-
+- * * * Staves of the Growth and Production of the British Colo-
 
 nies or Plantations in America, and imported directly from thence, viz.
 
@@ -4028,13 +4024,13 @@ C.37.
 
 75
 
-. .« ■■ Duty.
+. .« ** Duty.
 
 Timber, continued. described, nor otherwise charged with Duty, being of the Growth and Production of the British Colonies or £. s. d.
 
 Plantations in America, and imported directly from thence, being 8 Inches square or upwards, the Load containing 50 Cubic Feet -For the Suspension of the Duty on Timber, being the Produce of and imported directly from the Island of Newfoundland, until the 5th Day of July 1824, See the Act to which this Table is annexed. Ufers, viz. 0 5 0
 
-— ■- under 5 Inches square, hnd under 24 Feet in Length, - - - imported in a British built ship, the 120 - - - - imported in a Ship not British built, the 120 ■ under 5 Inches square, and 24 Feet in Length or upwards, 18 2 7 19 0 8
+— *- under 5 Inches square, hnd under 24 Feet in Length, - - - imported in a British built ship, the 120 - - - - imported in a Ship not British built, the 120 * under 5 Inches square, and 24 Feet in Length or upwards, 18 2 7 19 0 8
 
 - - - imported in a British built Ship, the 120 - - - - imported in a Ship not British built, the 120 5 Inches square or upwards, are subject and liable* to the Duties payable on Fir Timber. — Ufers of the Growth and Production of the British Colonies 27 0 0 28 7 0
 
@@ -4076,7 +4072,7 @@ CAP. XXXVIII.
 
 An Act for establishing Regulations respecting certain Parts of the Proceedings in the Court of Session, and in the Court of Commissioners for Teinds, and respecting the Duties, Qualifications and Emoluments of certain Clerks and other Officers of the said Courts. [28th May 1821.]
 
-WHEREAS an Act was passed in the Forty eighth Year of ‘ VV the Reign of His late Majesty King George the Third,
+WHEREAS an Act was passed in the Forty eighth Year of ‘ the Reign of His late Majesty King George the Third,
 
 ‘ intituled An Act concerning the Administration of Justice in Scot-‘ land, and concerning Appeals to the House of Lords; and an Act 1 was passed in the Fiftieth Year of His said late Majesty's Reign,
 
@@ -5048,7 +5044,7 @@ An Act to amend the several Acts for the Regulation of Attor-* nies and Solicito
 
 WHEREAS by an Act passed in the Second Year of the
 
-55* 4 VV Reign of His late Majesty King George the Second, in-
+55* 4 Reign of His late Majesty King George the Second, in-
 
 4 tituled An Act for the better Regulation of Attornies and SoHeitors, it was among other Things enacted, that from and after 4 the Time in the said Act mentioned, no Person should be permitted to act as an Attorney or Solicitor respectively, in any 4 of the Courts of Law or Equity in England in the said Act 4 mentioned, unless such Person should have been bound by Contract in Writing to serve as a Clerk for and during the Space , 4 of Five Years to an Attorney or Solicitor respectively, duly
 
@@ -5106,7 +5102,7 @@ CAP. XLIX.
 
 An Act for making further Regulations in respect to the Payment by Remittance Bill ot the Wages of Petty Officers, Seamen and Marines, in the Royal Navy; and for ex-* tending the Provisions of an Act made in the Fifty fifth Year of His late Majesty, relating to the Execution of Letters of Attorney and Wills of Petty Officers, Seamen and Marines, in His Majesty's Navy. [8th June 1821.]
 
-WHEREAS by an Act passed in the Thirty first Year of 4 VV the Reign of His late Majesty King George the Second,
+WHEREAS by an Act passed in the Thirty first Year of 4 the Reign of His late Majesty King George the Second,
 
 * intituled An Act for the Encouragement of Seamen employed in 4 the Royal Navy> and for establishing a regular Method for the 4 punctual, frequent and certain Payment of their Wages, and for 4 enabling them more easily and readily to remit the same for the 4 Support of their Wives and Families and for preventing Frauds 4 and Abuses attending such PaymenU; and by another Act passed 4 in the Thirty second Year of the Reign of His late Majesty, in-
 
@@ -5592,7 +5588,7 @@ CAP. LI.
 
 An Act to explain an Act made in the Fourteenth Year of His late Majesty King George the Third, for explaining an Act made in the Twelfth Year of Queen Anne, intituled An Act to reduce the Rate of Interest, without any Prejudice to Parliamentary Securities. [15th June 1821.]
 
-WHEREAS by an Act made in the Fourteenth Year of MG.s. c.79. 4 VV the Reign of His late Majesty King George the Third, 1l.
+WHEREAS by an Act made in the Fourteenth Year of MG.s. c.79. 4 the Reign of His late Majesty King George the Third, 1l.
 
 4 intituled An Act for explaining an Act made in the Twelfth 4 Year of Queen Anne, intituled 44 An Act to reduce the Rate of 4 Interest, without any Prejudice to Parliamentary Securities,"
 
@@ -5846,8 +5842,6 @@ provided such Portico, Colonnade or covered Way does not extend further into the
 
 K 2 * front
 
-CjOOQ 1C
-
 C.S2.
 
 1° & 2° GEO. IV.
@@ -5910,7 +5904,7 @@ A.D. 1821
 
 1* A 2° GEO. IV. C. 52, 53.
 
-ceiver General-of the Revenues of the said Duchy, in the like Manner as the Monies arising from the Sale of Manors and other Property of the said Duchy authorised to be sold by the said Act of the Forty eighth Year of His said late Majesty, or any Act or Acts thereby referred to, are directed to be paid; and all Sales Sales to b« made under this Act by the said Chancellor and Council of the "jfk said Duchy, shall be made in the same Manner and Form, as far as Circumstances will permit, and shall be to all Intents and Pur- 48 G. 3. c.73. poses as valid and effectual as if the same had been made under &c. the said Act of the Forty eighth Year of His said late Majesty, or any Act or Acts thereby referred to; and from and after the Payment of such Purchase Money jn Manner aforesaid and the Completion of every such Sale, the Rights so purchased shall cease and be for ever thereafter abolished and extinguished, and be no longer exercised, and the Lands over which such Rights do extend shall be for ever thereafter freed, exonerated and discharged therefrom, as fully and absolutely, to all Intents and Purposes, as if such Rights had never existed.
+ceiver General-of the Revenues of the said Duchy, in the like Manner as the Monies arising from the Sale of Manors and other Property of the said Duchy authorised to be sold by the said Act of the Forty eighth Year of His said late Majesty, or any Act or Acts thereby referred to, are directed to be paid; and all Sales Sales to b« made under this Act by the said Chancellor and Council of the "jfk said Duchy, shall be made in the same Manner and Form, as far as Circumstances will permit, and shall be to all Intents and Pur- 48 G. 3. c.73. poses as valid and effectual as if the same had been made under &c. the said Act of the Forty eighth Year of His said late Majesty, or any Act or Acts thereby referred to; and from and after the Payment of such Purchase Money in Manner aforesaid and the Completion of every such Sale, the Rights so purchased shall cease and be for ever thereafter abolished and extinguished, and be no longer exercised, and the Lands over which such Rights do extend shall be for ever thereafter freed, exonerated and discharged therefrom, as fully and absolutely, to all Intents and Purposes, as if such Rights had never existed.
 
 XIII. And be it further enacted, That all and every Person and The Purchaser Persons, Bodies Politic and Corporate, their Heirs and Successors of such Rights respectively, to whom any Sale or Disposition of any such Forestal aPP?int a or other Rights shall be made as aforesaid under or by virtue of amc cepcr* this Act, shall in lieu and stead thereof, at all Times thereafter, have and enjoy full Power and Authority to depute or appoint a Game Keeper or Game Keepers to preserve the Game, and to take and kill Game in, over and upon all or any of the Lands within and over which such Forestal or other Rights as shall be so purchased by him or them as aforesaid dia extend, provided such Lands shall not be locally situate within any existing Manor or Manors; and every such Game Keeper, during the Continuance of his Deputation or Appointment, shall have such and the like Powers and Authorities, Exemption from Penalties, Privileges and Protections, in regard to all Acts by him done in or upon any of the Lands within the Limits of his Deputation or Appointment, and by virtue thereof, and shall obtain such or the like Certificate, and be liable and subject to such and the like Game Duty, and shall register and enter his Deputation or Appointment in the like Deputation to Manner, and be subject to such and the like Rules and Regulations *>« registered, as Game Keepers of any Manors or Royalties in England now have or enjoy or are liable or subject to' by any Law, Usage or Act or Acts of Parliament now in force; but nothing herein contained is to or shall extend or be construed to authorise the Appointment of more than One Game Keeper, with Power to take or kill Game within the same Tract or District of Land.
 
@@ -6044,15 +6038,13 @@ Proviso as to an Allowance of $OOL. per Annum paid by Prothonotaries of King's B
 
 Amount of Compensation to be paid to each Officer during his Life.
 
-quired to examine upon Oath all Parties interested in every such Inquiry, and also all such other Persons as shall be produced be- . fore them tjie said Commissioners, or as they shall tljink proper to require, and whom they are hereby respectively empowered to summon, together with all such Accounts, Books and Vouchers, as the said Commissioners shall call for; and the said Commissioners of Inquiry for the time being, or any Three of them, shall thereupon certify, under their Hands and Seals, the Amount of the yearly Income of every such Officer, on the Average of the said Seven Years, as reduced by the Exclusion of such Emoluments as aforesaid, and also by the Exclusion of all such Part, Share or Proportion of the Fees or Profits remaining after such Reduction as shall, during the said Period of Seven Years, have been paid to or received or retained by or on Behalf of the Deputies or Clerks of the said Offices respectively, and also by the Exclusion of all Disbursements and other Deductions whatever, (except in the case hereinafter mentioned and provided for,) so as to state only the net Annual Income of the said Offices respectively, on the Average of the said Seven Years, according to the said Mode of estimating the same; and-the said Certificate shall contain a Statement of the particular Fees, Profits and Emoluments on which such Averages shall have been taken as aforesaid, and also of the Fees, Profits and Emoluments heretofore received, which shall be excluded from such Averages, and the said Certificate shall be filed in the Office of the Auditor General in Dublin Castle, without any Fee being paid for the same, and shall remain there as a Record.
+quired to examine upon Oath all Parties interested in every such Inquiry, and also all such other Persons as shall be produced be- . fore them the said Commissioners, or as they shall tljink proper to require, and whom they are hereby respectively empowered to summon, together with all such Accounts, Books and Vouchers, as the said Commissioners shall call for; and the said Commissioners of Inquiry for the time being, or any Three of them, shall thereupon certify, under their Hands and Seals, the Amount of the yearly Income of every such Officer, on the Average of the said Seven Years, as reduced by the Exclusion of such Emoluments as aforesaid, and also by the Exclusion of all such Part, Share or Proportion of the Fees or Profits remaining after such Reduction as shall, during the said Period of Seven Years, have been paid to or received or retained by or on Behalf of the Deputies or Clerks of the said Offices respectively, and also by the Exclusion of all Disbursements and other Deductions whatever, (except in the case hereinafter mentioned and provided for,) so as to state only the net Annual Income of the said Offices respectively, on the Average of the said Seven Years, according to the said Mode of estimating the same; and-the said Certificate shall contain a Statement of the particular Fees, Profits and Emoluments on which such Averages shall have been taken as aforesaid, and also of the Fees, Profits and Emoluments heretofore received, which shall be excluded from such Averages, and the said Certificate shall be filed in the Office of the Auditor General in Dublin Castle, without any Fee being paid for the same, and shall remain there as a Record.
 
 XIII. Provided always, and be it enacted. That a certain yearly Sum of Two hundred Pounds, which has been for several Years paid out of the Emoluments of the said Office of the said Prothono-tary of the Court of King's Bench to Thomas Church, by the Bounty of the said Lords Henry Seymour Conway and Robert Seymour Con -way, and which will continue to be paid to the said Thomas Church in manner hereinafter mentioned, shall not be deducted out of the Annual Income of such Office received during the said Seven Years, as a Disbursement under the Meaning of this Act; but that the, said yearly Sum of Two hundred Pounds shall be considered as forming Part of the Annual Income of the said Office, payable to the said Henry Seymour Conway and Robert Seymour Conway, and shall be included by the said Commissioners of Inquiry m the Amount of the net average Annual Income of the said Office, to be certified by the said Commissioners in manner aforesaid.
 
 XIV. And be it further enacted, That from and after the filing of the said Certificate of the said Commissioners of Inquiry, there shall be issued and paid and payable to the said Henry Seymour Conway and Robert Seymour Conwayy and to the Survivor of them, in respect of the said Offices of Prothonotary and Filacer and Keeper of the Writs, Processes, Rules, Orders and Records of the Civil Side of the Court of King's Bench; and to the said*Thomas Viscount Northland and Vesey Knoxy and to the Survivor of them, in respect of the said Office of Prothonotary of the said Court of Common Pleas; and to the said Daniel Toler, in respect of the said Office of Filacer and Exigenter of the said Court of jCommon Pleas, and to their Assigns respectively, yearly and every Year during the Term of the respective natural Lives of the said Persons
 
 respectively,
-
-CjOOQ 1C
 
 1° & 2° GEO. IV.
 
@@ -6910,7 +6902,7 @@ M 4 4 in»
 
 A.D.1821
 
-Power given to Guardians to ■ell Poor Houses and
+Power given to Guardians to *ell Poor Houses and
 
 Application of Money to arise by such Sale.
 
@@ -6972,7 +6964,7 @@ C.57.
 
 deemed and taken to be a poor Prisoner within the Meaning of this Act, and shall be subject as such to all Rules and Regulations hereinafter provided in that Behalf; and it shall not be lawful for Not to be tup. any such Prisoner who shall be so supplied at the public Expence plfedin *°y to accept or receive any Food or Liquor, other than such as shall other WtI* be so supplied under this Act; and if any such Prisoner shall accept any Food or Liquor contrary to this Act, such Prisoner shall no longer be supplied at the public Expence, and shall thereupon cease to be deemed and taken to be a poor Prisoner within the Meaning of this Act.
 
-IV. And be it further enacted, That the Money required for Money for pro. the Payment of any Person or Persons who shall supply, or shall ▼iding audi contract to supply any such Food or other Necessaries, Articles, Food Matters or Things respectively, for the Use of such poor Pri-soners, shall be raised and levied in every County, County of a sentment.
+IV. And be it further enacted, That the Money required for Money for pro. the Payment of any Person or Persons who shall supply, or shall *iding audi contract to supply any such Food or other Necessaries, Articles, Food Matters or Things respectively, for the Use of such poor Pri-soners, shall be raised and levied in every County, County of a sentment.
 
 City and County of a Town, throughout Ireland, by Presentment
 
@@ -7371,8 +7363,6 @@ five, by himself, his Friends or his Agents, or by any Person or * Arsons employ
 VII. And be it further enacted, That so much of an Act passed in the First Year of the Reign of His present Majesty, intituled An Act for the better Regulation of Polls, and for making further Provisions touching the Election of Members to serve in Parliament for Ireland, as provides that it shall and may be lawful for the Grand Jury of any County, County of a Town or County of a City, to present at the next Assizes after any Election for a County, City or Borough, such Sum or Sums of Money as shall be necessary to reimburse the Person or Persons acting as Returning Officer or Officers at suchE lections, shall be and the same is hereby repealed.
 
 ronalfVHI- And
-
-VjOOy LL
 
 1° & 2° GEO. IV.
 
@@ -9226,7 +9216,7 @@ S2G.3. c. 55.
 
 5SG.3. 9,35.
 
-When the ■bore Sum is paid into the Exchequer, Auditor to grant Certificates as herein mentioned; on Production at the Bank of such Certificates the Stoek Is to be placed to the Credit of the Commissioners.
+When the *bore Sum is paid into the Exchequer, Auditor to grant Certificates as herein mentioned; on Production at the Bank of such Certificates the Stoek Is to be placed to the Credit of the Commissioners.
 
 ferrable at the Bank of England at the same Time and in the same Manner, and subject to the like Redemption, as the said Three Pounds per Centum Consolidated Annuities; which said respective Annuities shall be made Capital Stock in the Names of the said Commissioners; and the Dividends payable thereon shall be charged and chargeable upon, and payable out of the Consolidated Fund of the United Kingdom of Great Britain and Ireland, or any other Duties and Revenues which shfcll be appropriated for that Purpose by any Act or Acts of this .present Session of Parliament; and such Capital Stock, and the Annuities arising therefrom, shall be deemed Part of the Stock and Annuities applicable by the said Commissioners to the Purposes of the Sinking Fund, and Annual Sums shall be issued as a Sinking Fund for the Redemption thereof, according to the Provisions of an Act passed in the Thirty second Year of the Reign of His late Majesty King George the Third, intituled An Act to render more effectual an Act made in the Twenty sixth Year of His present Majestys Reign, intituled ‘ An Act for ‘ vesting certain Sums in Commissioners at the End of every Quarter * of a Year, to be by them applied to the Reduction of the National i Debt; and to direct the Application of an additional Sum to the Reduction of the said Debt in case of future Loans; and of another Act passed in the Fifty third '('ear of the Reign of His late Majesty, intituled An Act to alter and amend several Acts passed in His present Majesty s Reign, relating to the Redemption of the National Debt, and for making further Provision in respect thereof
 
@@ -10197,8 +10187,6 @@ XXXVIII. And be it further enacted and declared, That in all cases it shall be l
 XXXIX. And be it further enacted, That this Act shall be deemed and taken to be a ‘Public Act, and shall be judicially taken Notice of as such by all Judges, Justices and others, without being specially pleaded.
 
 sched
-
-VjOOy LC
 
 A.D. 1821.
 
@@ -12678,7 +12666,7 @@ ligitized by ViT>OQ 1C
 
 May administer Oath, &c.
 
-Commissioners empowered to issue Warrants for apprehending and committing to Prison Persons neglecting to attend, refusing to answer, pre-▼arkuting &r.
+Commissioners empowered to issue Warrants for apprehending and committing to Prison Persons neglecting to attend, refusing to answer, pre-*arkuting &r.
 
 C .90.
 
@@ -13260,7 +13248,7 @@ C .98.
 
 Be.it therefore enacted by The King's Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Tem-
 
-Eoral, and Commons, in this present Parliament assembled, and y the Authority of the same, That it shall be lawful for the said Commissioners, Commissioners and Governors to continue to pay idl such Out of Green-Pensioners of the said Hospital in like manner as heretofore, out ",ch of the Interest or by Sale of the Principal of any Capital Stock, peSXners out Public Funds or Annuities vested in or belonging to them as such 0f Interest or Commissioners and Governors for the Purposes of the said Hos- by Sale of pital, other than such as shall become vested in the said Com- .Funds vest£* missioners or Governors by reason of any Legacy or Bequest to ,n or for the Benefit of the said Hospital: Provided always, that if ^Income rein the Judgment of the said Commissioners and Governors the duced below making any such Payments may reduce the Annual Income the necessary arising from the Estates, Rents, Revenues and Public and other Expences of Securities, and Sums applicable to the Purposes of the said Hos- TK!asu*Pto ' pital, below what may be sufficient for the necessary Expences Amount thereof, the said Commissioners and Governors shall, before the* of Excbe. shall make such Payments out of any Interest or Sale of such quer Bills to Principal,. require and receive from the Lord High Treasurer, or ■*cu** ^ Commissioners of His Majesty's Treasury for the time being, IuUso Security, either by the Deposit or Issue, to the said Commissioners applied, Ac. and Governors of the said Hospital, of Exchequer Bills, for all such Sums so paid or to be paid, in order that the Adequacy of the Funds of the said Hospital for the necessary Expences and Purposes thereof may be fully secured and satisfied; and the Commissioners and Governors of the said Hospital are hereby indemnified in making any such Payments, and applying the Funds under their Controul m paying such Out Pensioners; and the Lord High Treasurer or Commissioners of His Majesty's Treasury for the time being are hereby authorized and empowered, by Warrant
+Eoral, and Commons, in this present Parliament assembled, and y the Authority of the same, That it shall be lawful for the said Commissioners, Commissioners and Governors to continue to pay idl such Out of Green-Pensioners of the said Hospital in like manner as heretofore, out ",ch of the Interest or by Sale of the Principal of any Capital Stock, peSXners out Public Funds or Annuities vested in or belonging to them as such 0f Interest or Commissioners and Governors for the Purposes of the said Hos- by Sale of pital, other than such as shall become vested in the said Com- .Funds vest£* missioners or Governors by reason of any Legacy or Bequest to ,n or for the Benefit of the said Hospital: Provided always, that if ^Income rein the Judgment of the said Commissioners and Governors the duced below making any such Payments may reduce the Annual Income the necessary arising from the Estates, Rents, Revenues and Public and other Expences of Securities, and Sums applicable to the Purposes of the said Hos- TK!asu*Pto ' pital, below what may be sufficient for the necessary Expences Amount thereof, the said Commissioners and Governors shall, before the* of Excbe. shall make such Payments out of any Interest or Sale of such quer Bills to Principal,. require and receive from the Lord High Treasurer, or **cu** ^ Commissioners of His Majesty's Treasury for the time being, IuUso Security, either by the Deposit or Issue, to the said Commissioners applied, Ac. and Governors of the said Hospital, of Exchequer Bills, for all such Sums so paid or to be paid, in order that the Adequacy of the Funds of the said Hospital for the necessary Expences and Purposes thereof may be fully secured and satisfied; and the Commissioners and Governors of the said Hospital are hereby indemnified in making any such Payments, and applying the Funds under their Controul m paying such Out Pensioners; and the Lord High Treasurer or Commissioners of His Majesty's Treasury for the time being are hereby authorized and empowered, by Warrant
 
 A a * or
 
@@ -13504,7 +13492,7 @@ WHEREAS by an Act passed in the Forty sixth Year of the 46 G.s. c. 87. 4 W Reign
 
 * fore any such Sale shall be made of any perishable Goods Three 4 Days' Notice thereof, and before any such Sale of Goods not 4 perishable then One Month's Notice thereof, and of the Place,
 
-*, Day and Hour of making such Sale respectively, shall be publicly posted up and kept exposed to open View in the Long 4 Room at the Custom House of the Port where such Sale is to be ■4 made, specifying Article and Package, and the respective Marks
+*, Day and Hour of making such Sale respectively, shall be publicly posted up and kept exposed to open View in the Long 4 Room at the Custom House of the Port where such Sale is to be *4 made, specifying Article and Package, and the respective Marks
 
 * thereon: And Whereas under the Provisions of the said recited 4 Act certain Goods have from time to time been sold by the Collectors or other Officers of the Customs as by the said recited 4 Act is directed, and certain Sums of Money (after Payment of 4 Duties, Storage and all other Charges thereon) have remained 4 and now remain in the Hands of the said Collectors, the Proprietors or other Persons lawfully authorized to receive the same
 
@@ -14822,7 +14810,7 @@ An Act to grant, for the Term of Five Years, additional Stamp Duties on certain 
 
 [10th July 1821.]
 
-WHEREAS, under and by virtue of certain Acts passed in ‘ VV the present Session of Parliament, divers Sums of Money c will become aunually payable out of the Consolidated Fund of < the United Kingdom of Great Britain and Ireland, for Salaries,
+WHEREAS, under and by virtue of certain Acts passed in ‘ the present Session of Parliament, divers Sums of Money c will become aunually payable out of the Consolidated Fund of < the United Kingdom of Great Britain and Ireland, for Salaries,
 
 * Allowances or Compensations to the Judges of the superior
 
@@ -16738,7 +16726,7 @@ XV. And be it further enacted, That no Justice appointed as Justices not to
 
 aforesaid shall, during his Continuance in such Appointment, be sitinParlia-capable of being elected or of sitting as a Member of the House of .
 
-Commons; and that no Justice, Receiver, Surveyor or Constable R^e^^Sur-appointed by virtue of this Act, shall, during the Time that he ▼eyororCon-" shall continue in his Office respectively, or within Six Months stable to vote or after he shall have quitted the same, be capable of giving his influence at Vote for the Election of a Member to serve in Parliament for the c.erUm Elec Counties of Middlesex or Surrey, or for the City and Liberty of Uon% Westminster, or the Borough of Southwark, respectively; nor shall,
+Commons; and that no Justice, Receiver, Surveyor or Constable R^e^^Sur-appointed by virtue of this Act, shall, during the Time that he *eyororCon-" shall continue in his Office respectively, or within Six Months stable to vote or after he shall have quitted the same, be capable of giving his influence at Vote for the Election of a Member to serve in Parliament for the c.erUm Elec Counties of Middlesex or Surrey, or for the City and Liberty of Uon% Westminster, or the Borough of Southwark, respectively; nor shall,
 
 • by Word, Message, Writing or in any other Manner, endeavour to persuade any Elector to give, or dissuade any Elector from giving his Vote for the Choice of any Person to be a Member to serve in Parliament for the said Counties, City or Borough; and every such Justice, Receiver, Surveyor or Constable offending therein, shall forfeit the Sum of One hundred Pounds, One Moiety penalty looL thereof to the Informer, and the other Moiety thereof to the Use of the Poor of the Parish or Place where such Offence shall be committed; to be recovered by any Person that shall sue for the same, by Action of Debt, Bill, Plaint or Information, in any of His Majesty's Courts of Record at Westminster, in which no Essoign,
 
@@ -16816,7 +16804,7 @@ XX. And be it further enacted, That every Conviction for the Offences aforesaid 
 
 4 TJE it remembered, That on the Day of Form of Con-
 
-* in the Year of our Lord ▼iction.
+* in the Year of our Lord *iction.
 
 4 A. B. is brought before me [or, having been duly summoned 4 has neglected to.appear before me,] C.Z). Esquire, One of His 4 Majesty's Justices of the Peace in and for the County of 4 [or, City, or Liberty or Place, as the case may be,] and
 
@@ -17358,7 +17346,7 @@ be lawful for the said Receiver General, or the Person or Persons having the Cus
 
 LI. Provided always, and be it further enacted, That it shall be lawful for the said Receiver General, or other Person with whom any Ticket shall have been deposited by any licensed Person for the Purpose of issuing a Chance thereupon as aforesaid, to deliver back such Ticket at any Time before the same shall be drawn to the Person who shall have deposited the same, upon his producing the stamped Chance of any such Ticket, and alsb the Stamp Office Receipt for the same, to be cancelled; and that in the same manner, if Permission shall have been given by Three or more of the Commissioners of His Majesty's Treasury to divide Chances into Shares thereof, it shall be lawful for the said Receiver General, or other Person with whom any Chance of a Ticket shall have been deposited by any licensed Person for the Purpose of issuing Shares thereof as aforesaid, to deliver back such Chance of a Ticket, at any Time before the same shall be drawn, to the Person who shall have deposited the same, upon his producing all the stamped Shares of such Chance of a Ticket, and also the Stamp Office Receipt for the same, that the whole or so much of such Receipt as relates to such Chance of a Ticket may be cancelled; and that it shall be lawful for the said Receiver General, or other Person as above mentioned, in like Manner, after the same Chance of a Ticket shall have been drawn, to deliver the same to the original Proprietor thereof at the End of Fourteen Days, if the Holders of the Shares of such Chance shall not be entitled thereto, upon his delivering up the Stamp Office Receipt for the same, to be cancelled.
 
-■
+*
 
 CAP.
 
@@ -17612,7 +17600,7 @@ XIV. Provided always, and be it further enacted, That from and Vacancy not after
 
 less, in which case His Majesty may from time to time, as often as any such Vacancy shall happen, appoint new Commissioners, so as to keep up their Number always at Six.
 
-XV. And be it further enacted, That in case and whenever If His Majesty His Majesty shall revoke the Commission for appointing Commis- ■hall revoke tha sioners for the Examination of Accounts of Expenditure in the West !■<{*• West Indies, and shall direct that One of the Commissioners shall
+XV. And be it further enacted, That in case and whenever If His Majesty His Majesty shall revoke the Commission for appointing Commis- *hall revoke tha sioners for the Examination of Accounts of Expenditure in the West !*<{*• West Indies, and shall direct that One of the Commissioners shall
 
 be an additional Commissioner for auditing the Public Accounts m^ITSe^* of Great Britain, it shall be lawful for the Lord High Treasurer lationa inAudit or the Commissioners of the Treasury for the time being, or any Office.
 
@@ -18006,7 +17994,7 @@ For Naval Services; that is to
 
 For Wages for" '£.s.d
 
-22,000Men, ■s (2
+22,000Men, *s (2
 
 including 8000 Royal i
 
@@ -18355,8 +18343,6 @@ For the Office of Ordnance ' for Ireland - - -
 For the Office of Ordnance for G. B. on Account of Allowances to Superannuated, Retired and Half Pay Officers, and to Superannuated and disabled Men; also for Pensions to Widows and Children of I deceased Officers lately belonging to the several Ordnance Military Corps For the Office of Ordnance in Ireland on Account of the Pay of Retired Officers
 
 > For the Year 1821.
-
-CjOOQ 1C
 
 A.D. 1821.
 
