@@ -148,7 +148,7 @@ Museum: Various readings have been also admitted from the printed editions; occa
 
 Every thing heretofore printed in any former collection of statutes, is in this volume printed in an uniform type; and all new matters, whether various readings, notes, or entire statutes or instruments, are distinguished by a smaller type. The entire matters whether old or new, of which the dates are ascertained, are placed in chronological order; and all, during the reigns of Hen. III. Edw. I. and Edw. II., the dates of which are uncertain, are classed together, after the manner of former editions, at the end of the reign of Edward II. ,. '
 
-*###'*####
+*#'*#
 
 In the 31st year of Henry VIII. the distinction between public Acts and private Acts is for the first time specifically stated on the inrollment in Chancery. No private Acts passed after that date have been admitted into this collection: It has been thought sufficient to notice them, by the insertion of their-titles only.
 
@@ -192,7 +192,7 @@ See Appendix C., post, p. xxi, in which the respective repositories are particul
 
 xiv JEXTRACT from INTRODUCTION &C.J
 
-complete statute rolls; and they are found in the like form in Lib. XI. in the Exchequer at Westminster,, MS. Cott. Nero C. I, in the British Museum, and in several other manuscript collections. But there is reason to conclude, that the making up of the statute roll entirely ceased with the session 4 Hen.YII, as no such roll of a later date, nor any evidence thereof has been discovered; and it is observable that in the next session, 7 Hen. VII, public Acts were, for the first time, printed from the several Bills passed in Parliament, and not as part of one general statute drawn up in the antient form.
+complete statute rolls; and they are found in the like form in Lib. XI. in the Exchequer at Westminster, MS. Cott. Nero C. I, in the British Museum, and in several other manuscript collections. But there is reason to conclude, that the making up of the statute roll entirely ceased with the session 4 Hen.YII, as no such roll of a later date, nor any evidence thereof has been discovered; and it is observable that in the next session, 7 Hen. VII, public Acts were, for the first time, printed from the several Bills passed in Parliament, and not as part of one general statute drawn up in the antient form.
 
 2. Inrollments of Acts of Parliament.—These are records, containing the Acts of Parliament certified and delivered into Chancery. They are preserved in the chapel of the Rolls in an uninterrupted series from 1 Ric. III. to the present time; except only during the Usurpation. By the officers of Chancery they are commonly termed "Parliament Rolls;" and they are
 
@@ -204,7 +204,7 @@ At present, after all the public-general Acts of the session have received the- 
 
 Parliament jaJ........
 
-* ##*###•*
+* #*#•*
 
 3. Exemplifications; and transcripts by writ—Exemplifications are copies
 
@@ -282,7 +282,7 @@ The various readings are suggested, in the following manner; first, by substitut
 
 The entries on the statute rolls and records of Chancery are very seldom broken into separate paragraphs; though other manuscripts are more frequently so divided. In all cases where there is any division of paragraphs in the record or manuscript, the like division has been made in the transcript. The transcript has been also occasionally divided into separate chapters or paragraphs, in conformity with the printed editions of the statutes, and for the convenience of reference, in places where such division did not occur in the record or manuscript: But this has been done only when a full stop or other mark in the manuscript appeared to justify the complete separation of the sentences. The points or stops are conformable to those in the record; and in printing the text of the antient statutes, the same mode has been adopted as with respect to the charters, of exhibiting the contractions as near as may be to the likeness of the original characters. Where the chapters or clauses are numbered in the record or manuscript, such number has been inserted in the transcript. And tie numbers of the chapters and clauses in Cay's edition, or the other printed editions from which the translation is taken, are inserted at the head of the side note or abridgement affixed to tho translation.
 
-• #***####
+• #***#
 
 b
 
@@ -1186,7 +1186,7 @@ c. 1. Recovery of damages on writ of dower - ..... 2
 
 c. 2. Beauest by dowress of emblements Reaisseisin - . . . _ 2
 
-c. 3. - Rep,, Stat. Law Rev. Act, 1863.
+c. 3. - Rep, Stat. Law Rev. Act, 1863.
 
 c.4. Approvement of common - . 2
 
@@ -1724,7 +1724,7 @@ de Lib. perq. 27 Edw. 1. St at. de falsa Monet a. 28 Edw. 1. Artie. lands & libe
 
 sup. Cart.
 
-c. 1. c.2. Confirmation of charters - - \ Purveyance - - - j Jurisdiction of steward & marshal of Rep.,, Stat. Law Rev. Act, 1863.
+c. 1. c.2. Confirmation of charters - - \ Purveyance - - - j Jurisdiction of steward & marshal of Rep., Stat. Law Rev. Act, 1863.
 
 c. 3. - 103
 
@@ -2096,7 +2096,7 @@ c. 17 (') - Crown grants - . - i • 133
 
 c. 18 (*) - Forfeiture of goods & lands of felons - ..... 133
 
-Modus foe, horn,, Fealty - - Rep. in part, Stat. Law Rev. Act, 134 -
+Modus foe, horn, Fealty - - Rep. in part, Stat. Law Rev. Act, 134 -
 
 &C.(J) 1863.
 
@@ -2190,7 +2190,7 @@ c. 1. Confirmation of charters Rep., Stat. Law Rev. Act, 1863.
 
 c. 2. Justices of assise & gaol delivery . 144
 
-c. 3. cc. 4, 5. Riding or going armed Sheriffs - ::::: 144 145,146
+c. 3. cc. 4, 5. Riding or going armed Sheriffs - : 144 145,146
 
 c. 6. c.7. Confirmation of statutes, &c. - - \ Inquiry of past felonies, &c. - - J Rep., Stat. Law Rev. Act, 1863. 146
 
@@ -2560,7 +2560,7 @@ c. 12. Purveyance - - - ^ Rep., Stat. Law Rev. Act, 1863.
 
 c. 13. Confirmation, &c. of 27 Edw. 3. St. 2. |
 
-c. 14. ' c. 15. The staple - - - -J The staple - Rep,, 3 Geo. 4. c. 41. s. 5.
+c. 14. ' c. 15. The staple - - - -J The staple - Rep, 3 Geo. 4. c. 41. s. 5.
 
 31 Edw. 3. St. 1.
 
@@ -3278,13 +3278,13 @@ c. 16. - Annuities from the Crown - - ]
 
 c. 17. - Labourers -
 
-c. 18. 9 Hen. 4. - - Pardon - - - 1 Confirmation of liberties, cliarter* k j r' 1 Rep,, Htat. \mw Rev. Act, 1863,
+c. 18. 9 Hen. 4. - - Pardon - - - 1 Confirmation of liberties, cliarter* k j r' 1 Rep, Htat. \mw Rev. Act, 1863,
 
 statutes: Aulnage, &c. I I
 
 11 Hen. 4. - - Justices of assise: Customers, kc. - 1 1
 
-13 Hen. 4. - - Confirmation of liberties, charters & B«p, e*c*jH c, 7,, hut, Uw lluv.
+13 Hen. 4. - - Confirmation of liberties, charters & B«p, e*c*jH c, 7, hut, Uw lluv.
 
 statutes: Justices of astise, kc. Act, IKX
 
@@ -3292,9 +3292,9 @@ c. 7- Duties of justices of peace k sheriffs in riots. - * m 282
 
 1 Hen. 5.
 
-c. 1. - Parliamentary elections Rep,, 14 Oeo. 3, c.
+c. 1. - Parliamentary elections Rep, 14 Oeo. 3, c.
 
-C- 2L e. 3. • Wears .... Forrenr - - - J , Htat. Law Rev, Act, 18/;; *,
+C- 2L e. 3. • Wears .... Forrenr - - - J , Htat. Law Rev, Act, 18/; *,
 
 e. 4. - Ba:3 of sheriffs. &c. Rep., 19 Ik 20 W.«. c, 64,
 
@@ -3322,7 +3322,7 @@ c. 1 - Jufiiow 'jf tve pea**: **>;*• >**. >*•«. U»
 
 WUi'JLt 2VJ
 
-e_ 5. c C. - Oinrap** a. «ru.n fnasiciuaes - '**'• f>t»* Iter. A.«jl, i,,
+e_ 5. c C. - Oinrap** a. «ru.n fnasiciuaes - '**'• f>t»* Iter. A.«jl, i,
 
 c r. r- • * vf verity «f r*v^ ... ^ - ** *•*-- . ' -
 
@@ -3336,7 +3336,7 @@ c 1- - ^uiJrfiraCj'M uf of Vat pefect - - .
 
 S fiflL. £ 'ft Ooidrman« »i of 4.'  nr^» . ibr-r.'n* >*vrt 4-' ' /.cr v .;
 
-Hierrdh . . V . j^^rcumr <rnn^/-v fc,'.
+Hierrdh . . V . j^rcumr <rnn^/-v fc,'.
 
 - L\nshmacjin i/ k r-if.i&t*
 
@@ -4472,7 +4472,7 @@ c. 9. - Prices of foreign hats, &c. - Rep., 3 Geo. 4. c. 41. s. 10.
 
 c. 10. - Exportation - - - - Rep., 3 Geo. 4., c. 41. s. 4.
 
-c. 11. - Restitution of goods stolen . Rep,, 7 & 8 Geo. 4. c. 27. s. 1.
+c. 11. - Restitution of goods stolen . Rep, 7 & 8 Geo. 4. c. 27. s. 1.
 
 c. 12. - Manufacture of cables, &c. . Rep., 19 & 20 Vict. c. 64.
 
@@ -7668,7 +7668,7 @@ Moreover, none, of what estate soever he be, shall distrain any to come to his c
 
 If any, of what estate soever he be, will not suffer such distresses as he hath taken, to be delivered by the King's officers, after the law and custom of the realm, or will not suffer summons, attachments, or executions of judgments given in the King's court, to be done according to the law and custom of the realm, [as is aforesaid] he shall be punished in manner aforesaid, as one that will not obey the law, and that according to the quantity of the offence.
 
-And if any,, of what estate soever he be, distrain his tenant for services and customs [being due4] unto him, or for any other thing, for the which the lord of the fee hath cause to distrain, and after it is found that the same services are not due, the lord shall not therefore be punished by fine, as in the cases aforesaid, if he do suffer the distresses to be delivered according to the law and custom of the realm; but shall be amerced as hitherto hath been used, and the tenant shall recover his damages (5) against him.
+And if any, of what estate soever he be, distrain his tenant for services and customs [being due4] unto him, or for any other thing, for the which the lord of the fee hath cause to distrain, and after it is found that the same services are not due, the lord shall not therefore be punished by fine, as in the cases aforesaid, if he do suffer the distresses to be delivered according to the law and custom of the realm; but shall be amerced as hitherto hath been used, and the tenant shall recover his damages (5) against him.
 
 None from henceforth shall cause any distress that he hath taken, to be driven out of the county where it was
 
@@ -7810,7 +7810,7 @@ Scac. X.
 
 but one essoin therein, if they be within the realm; and immediately the beasts, or other distresses taken by this occasion, shall be delivered to the plaintiff, and so shall remain, until the plea (1) betwixt them be determined. And if the lords of the courts which took (*) distresses, come not at the day that they were attached, or do not keep the day given to them by essoin, then the sheriff shall be commanded to cause them to come at another day; at which day, if they come not, then he shall be commanded to distrain them by all [their goods and chattels] that they have in [the shire,8] so that the sheriff shall answer to the Song of the issues [of the said inheritance]; and that he have their bodies [before our justices] at a certain day limited; so that if they come not at that day, the party plaintiff shall go without day, and his beasts, or other distresses [taken by that colour], shall remain delivered, until the same lords have recovered the same suit by award of the King's court: And in the meantime such distresses shall cease; saving to the lords of the court their right to recover those suits in form of law, when they will sue therefore. And when the lords of the courts come in to answer the plaintiffs of such [trespasses,4] and be convict thereupon; then, by award of the [Kings] court, the plaintiffs shall recover against them the damages that they have sustained by occasion of the said distresa
 
-Likewise if the tenants, after this The lord's act, withdraw from their lord such ]^^ya^m8t
+Likewise if the tenants, after this The lord's act, withdraw from their lord such ]^ya^m8t
 
 withholding their doe suits.
 
@@ -7864,7 +7864,7 @@ suis sectas quas faSe debent & quas ante temp9 sup*dce tPnsfretaconis & hacten9 
 
 De turais Vicecoin pvisum est qd ncce no fceant ibi venire Archiepi, Epi, Afibes, Priores, Comites, Barones, n° aliqui viri religiosi seu mulieres, n* eog psencia (*) spali? exigat*; set teneat* tumus sicut tempib3 pdecesso£ Dni Regis tenli consuevit. Et si qui in hundr di9sis heant tenemta, no beant ncce ad h9i turnos venire, n1 in ballis ubi f8int con9santes. Et tene-ant1, trni scdm forma magne carte Regis, & sicut tempib3 Regu Rici & Johis tefii consue9unt.
 
-#*###
+#*#
 
 [Nulli de cetero liceat ex qacumq^ causa districcones facere exta feodum
 
@@ -7952,7 +7952,7 @@ It is provided also, that if the beasts of any man be taken, and wrongfully with
 
 them to be delivered.
 
-***««*
+***«*
 
 It is provided also, that if bailiffs,
 
@@ -8014,7 +8014,7 @@ And if any intrude into the lands an<* ^me
 
 or tenements of such religious persons in the time of vacation, of which lands their [predecessors1] died seised as in the right of their church, the successors shall have a writ to recover their seisin; and damages shall be awarded them, as in assise of novel disseisin is wont to be.
 
-'**##* /
+'**#* /
 
 1 prelates
 
@@ -8332,7 +8332,7 @@ f Nul Ministre le Rey ne main-teingne, par li ne par autre, les plez poles ou bo
 
 T Et qi nul Yisconte ne autre Ministre le Rey ne prenge louer por fere son office mes seient paiez de ceo qil prengent del Rey; e qi le fra rendra le double, e serra puni a la volete le Rey.
 
-##*•
+#*•
 
 T Et q nul Clerk le Rey ne de ses Justices ne receive desoremes pre-sentement de Eglise, dont plai ou contek seit en la court le Rey, saunz le especial conge le Rey; e ceo defent le Rey sour peine de perdre (*) son §vice. IT Et q nul Clerk de Justice ne de Yisconte ne meintenge parties en quereles, ne en bosoignes q sont en la Court le Rey; ne fraude ne face par comune dreiture delaer ou destorbier; Et si nul le fet il serra puni par la peine plus gscheinement dite, ou par plus grevouse si le trespas le requiert.
 
@@ -8384,7 +8384,7 @@ Touching them that take outragious XXXI. toll, contrary to the common custom ^m^
 
 Touching citizens and burgesses, to Murage, whom the King or his father hath granted murage to inclose their towns, which take such murage otherwise than it was granted unto them, and thereof be attainted; it is provided, that they shall lose their grant for ever, and shall be grievously amerced unto the King.
 
-##***•
+#***•
 
 1 to do it
 
@@ -8654,7 +8654,7 @@ de tutq la gent del regne, desoremes
 
 fermement seient gardez.
 
-###•#*
+#•#*
 
 IF Cum avaunt ces houres, damages ne fussent agardez, en assise de novele disseisine, fors taunt soulement vers les disseisisurs: Purveu est, qe si les desseisisours alienent les tene-menz, e ne eient dunt les damages pussent estre levez, qe ceus en qi mains icels [tenenemenz1] devendrunt, seient charge des damages, issi qe chescun respoigne de sun tens. IT Purveu est ensement qe le deseisi recovre damage, en bref de entre sur novele desseisine, vers celui qi est trove tenaunt apres le deseisur. IT Purveu est ensement qe la ou en avaunt ces houres, damages ne furent agardez en pie de mort de auncestre, fors en cas la ou tenement fii recovere vers chief seignour, qe desoremes damages seient agardez en touz cas, ou em recovere par assise de Mort de auncestre, si com est avauntdit en assise de novele disseisine. En mesme la manere recovre lem damages, par bref de cosinage, del ael, e del besael.
 
@@ -9444,7 +9444,7 @@ dum & ?minandu dece?o non conce-datur coram aliquibj Justic, exceptis Justic de 
 
 set ne huj^modi appellati vel indictati diu detineantr in pteona, teant breve de Odio & Atya, sicut in Magna Carta & aliis statutis dcm est. IBep., 9 Greo. 4. c. 31. s. l.J
 
-Assign ent* deceSo duo Justic jurat! coram quib3 & non aliis capiantf assle Nove dissele. Mortis antecessoris & Attincte, & assoc sibi unii vel duos de discreciorib3 militib3 Com in quern ve&int & capiant assias pdcas & attinctas ad plus ter p ann, videlicet semel inf quindenam Sci Jotis Baptiste & gulam Augusti & ifum inf festum Exaltaconis See Crucis & Octat Sci Mictis,, & Scio inter festum Ephie & festum Purifica^nis be Marie: et in quolibet Com ad qmlibet capcom assiaf anteq"m recedant, statuant diem de reditu suo, Ita qd omes de Com scire possint eoj adventu, et de Smino in fminu adjoment assisas, si p
+Assign ent* deceSo duo Justic jurat! coram quib3 & non aliis capiantf assle Nove dissele. Mortis antecessoris & Attincte, & assoc sibi unii vel duos de discreciorib3 militib3 Com in quern ve&int & capiant assias pdcas & attinctas ad plus ter p ann, videlicet semel inf quindenam Sci Jotis Baptiste & gulam Augusti & ifum inf festum Exaltaconis See Crucis & Octat Sci Mictis, & Scio inter festum Ephie & festum Purifica^nis be Marie: et in quolibet Com ad qmlibet capcom assiaf anteq"m recedant, statuant diem de reditu suo, Ita qd omes de Com scire possint eoj adventu, et de Smino in fminu adjoment assisas, si p
 
 1 Interlined on the roll: Beg, A. omits.
 
@@ -9580,7 +9580,7 @@ Cum Yiri religiosi & alie psone ecctiastice implacitent aliquem & im-placitatus 
 
 inquisiconis capte; Et si infra annu non petat, supiori duo incurratur si petat infra dimidiu annu post illu. annu; Et sic beat quilibet dns post pximu dnm spacium dimidii anni ad petendu successive, quousq, pveniatur ad Rege, cui ad ultimii g defcu aliog dnog ten incurratur: et ad calumpni-andu juratores inquisicois admittant* quicuq, capitales dni feodog, & similiter g Rege qui calumpniare volSit; & remaneat terra, postqam judiciu [clarum l-\ fQit, in manum Dm Regis, quousq, ten p.petentem vel aliquem capitalem dnm disronetur, & ofietur
 
-Vic ad respondendum inde ad Sc*cium. ######
+Vic ad respondendum inde ad Sc*cium. #
 
 [Purveu est que si homme ravist femme, espouse, damoisele, ou autre femme desoremes, par' la ou ele ne se est assentue ne avaunt ne apres, eit jugement de vie e de membre; e ensement par la Ou home ravist femme, dame espouse, damoisele, ou autre femme a force, tut seit he ele se assente apres, eit tel jugement come avaunt est dit si il seit ateint a la suite le Rei, e la eit le Rei sa suite.2] [Rep., 9 Geo. 4. c. 31. s; l.J
 
@@ -9650,7 +9650,7 @@ Com tali rapuit & de Com tali ad talem locum in Com tuo abduxit, cont voluntatem
 
 nostris ad profatum terminum, ad reddendum cui predictorum A- vel B. reddi debeat:1] and suit shall be Process against made against the party on whom noflfender* complaint is made, until he come in by distress, if he have whereby he • may be distrained; or else for his contumacy, in case he be not [justifiable,2] he shall be (*) outlawed; and if percase the heir be [married or carried4] into another county, then a writ shall be directed to the sheriff of the same shire in this form: [Ques- Writ, if the tus est nobis A. quod B, nuper talem haeredem infra aetatem & in custodia county, sua existentem tali loco in oomitatu tali rapuit, & de comitatu tali ad talem locum, in Com' tuo abduxit contra voluntatem ipsius A. & contra pacem nostram, &c. Et ideo tibi procipimus, quod prodictum haeredem (ubicunque in balliva tua invenire poteris) capias,
 
-& salvo & secure eum custodias, ita quod eum habeas coram Justitiariis nostrjs, &c. tali die, quern id em A habet versus prodictum B. ad reddendum cui de jure reddi debeat.6] And if Death of the the heir do die afore he can be found, Ihe^^f^ded. or before he can be restored to the plaintiff, the plea shall pass between them nevertheless, until it be tried unto whom he ought to have been restored if he had been living; neither
+& salvo & secure eum custodias, ita quod eum habeas coram Justitiariis nostrjs, &c. tali die, quern id em A habet versus prodictum B. ad reddendum cui de jure reddi debeat.6] And if Death of the the heir do die afore he can be found, Ihe^f^ded. or before he can be restored to the plaintiff, the plea shall pass between them nevertheless, until it be tried unto whom he ought to have been restored if he had been living; neither
 
 1 And diligently enquire where that heir may he within thy bailiwick, and him, wheresoever he shall be found, take, and safely and securely keep, so as to have him before our aforesaid justices at the term aforesaid, to render to which of them the aforesaid A. or B. he ought to be rendered.
 
@@ -9816,7 +9816,7 @@ fQint, qui sigilla sua huj9modi biletto
 
 apponant. Et si Vic brevia sibi lifcata non retaia^it, & sap hoc Justic queri-monia pveniat, mandetur p breve de judicio JuBtic ad assis capiend assign, qd inquirant p eos qui psentes f8int quando bfe Vic lifcatum fait si sci-verint de ilia lifcacone, & inquisicio retomet*. Et si comptum fQit p in-quisicom qd breve fait ei lifcatum, adju-dioentr petenti vel querenti dampna, fcito respectu ad qantitatem & quali-t&tem aceoia & ad piculum quod ei evenire posset p dilonem, quam pacie-batur; Et p istam viam fiat remediu, quando Vic respondet qd breve adeo tarde venit qd pceptum Begin exequi non potuit.
 
-seals to such bill. And if the sheriff Remedy for will not return writs delivered unto ^^eturn 01 him, and complaint thereof be made to the justices, a writ judicial shall go unto the justices assigned to take assises, that they shall inquire by such as were present at the deliverance of the writ to the sheriff, if they knew of the deliverance, and an inquest shall be returned. And if it be found by the inquest, that the writ was delivered to him, damages shall be awarded to the plaintiff or demandant; having respect to the quality and quantity of the action, and to the peril that might have come to him by reason of the delay that he sustained; and by this mean there shall The like for be remedy when the sheriff retumeth fal#c ^etu^ll8, that the writ came too late, whereby he could not execute the King's commandment.
+seals to such bill. And if the sheriff Remedy for will not return writs delivered unto ^eturn 01 him, and complaint thereof be made to the justices, a writ judicial shall go unto the justices assigned to take assises, that they shall inquire by such as were present at the deliverance of the writ to the sheriff, if they knew of the deliverance, and an inquest shall be returned. And if it be found by the inquest, that the writ was delivered to him, damages shall be awarded to the plaintiff or demandant; having respect to the quality and quantity of the action, and to the peril that might have come to him by reason of the delay that he sustained; and by this mean there shall The like for be remedy when the sheriff retumeth fal#c ^etu^ll8, that the writ came too late, whereby he could not execute the King's commandment.
 
 Multodens eciam capiunt placita dilonem p hoc qd Vic respondet qd pcepet Ballivis alicuj9 libertatis qui nichil inde feSunt & ndiant lifctates que nuq^m return bfium fcuerunt, pp? quod ordinavit Dns Bex qd Thesaur de Sc*cio liftet in rotulo omes lifctates in quibuscumq, Com, que fcent retumu brium. Et si Vi5 respondeat qd retumum fecit balfis al?ius lifctatis q*m alicuj9 contente in pdco rotulo, statim puniatur Vic tanqam exhe-redator Dni Begis & Corone sue. Et si forte respond qd retornavit Balfis alicuj9 lifctatis, que veraci? return fcet, mandetur Vic, qd non omittat pp? pdcam lifctatem, quin exequatur pceptum Dni Begis, et qd scire faciat Balfis quibj fedt retrnu qd sint ad diem
 
@@ -10124,7 +10124,7 @@ nove disseie si fiierint deforciati.
 
 ne nul de Consayl le Roy, ne Clerk de
 
-* This clause in French is not on the Tower Roll: It is printed from Reg. A.fo.271; where, as in Rot. Bodl. and other manuscripts, it stands as the last clause of the statute, after the sentence beginning ' Omnia fJdca Statuta:* In all printed copies it is inserted preceding that sentence. Lid. Rub. Scac. Dublin; MS. Cott. Claudius D. //., (the latter marked ' Exr p RoL') and many other manuscripts, as well of an early as of a late date, omit the clause. In Lib. Horn. London,, it is entered as the concluding clause of the statute; but in the margin on one side is written * Yacal9 and on the other Bide u Exap tin. Ola f)dSa statuta [&c. the whole concluding clause as above .•] sic explicit: examinat9 p stat Gildaule London in cera." In MS. Harl. 5022, which gives chapter 34 of this statute in French, this clause is inserted as above before the sentence ' Omnia f)dCa Statutaand at the end of the statute is written ' Et irrotulatr in R° statu tog.' In Lib. Custum. London, and MS. CotL XVI. where chapter 34 is in Latin, this clause is omitted. In MS. Harl. 79, where chapter 34 is in Latin, this clause is inserted in French. In the French copies of this statute in MS. Harl. 5326; MS. Reg. 20 A. VIII. this clause is inserted: In the Latin copy of the statute in the same MS. Reg. this clause is omitted. See the note in page {59] to chapter 34 of this statute: Sec also 2 Inst. 217, 485: Mirror, c. 5. § 5: Fleta I. 2. c. 36.
+* This clause in French is not on the Tower Roll: It is printed from Reg. A.fo.271; where, as in Rot. Bodl. and other manuscripts, it stands as the last clause of the statute, after the sentence beginning ' Omnia fJdca Statuta:* In all printed copies it is inserted preceding that sentence. Lid. Rub. Scac. Dublin; MS. Cott. Claudius D. //., (the latter marked ' Exr p RoL') and many other manuscripts, as well of an early as of a late date, omit the clause. In Lib. Horn. London, it is entered as the concluding clause of the statute; but in the margin on one side is written * Yacal9 and on the other Bide u Exap tin. Ola f)dSa statuta [&c. the whole concluding clause as above .•] sic explicit: examinat9 p stat Gildaule London in cera." In MS. Harl. 5022, which gives chapter 34 of this statute in French, this clause is inserted as above before the sentence ' Omnia f)dCa Statutaand at the end of the statute is written ' Et irrotulatr in R° statu tog.' In Lib. Custum. London, and MS. CotL XVI. where chapter 34 is in Latin, this clause is omitted. In MS. Harl. 79, where chapter 34 is in Latin, this clause is inserted in French. In the French copies of this statute in MS. Harl. 5326; MS. Reg. 20 A. VIII. this clause is inserted: In the Latin copy of the statute in the same MS. Reg. this clause is omitted. See the note in page {59] to chapter 34 of this statute: Sec also 2 Inst. 217, 485: Mirror, c. 5. § 5: Fleta I. 2. c. 36.
 
 13 Edwabd I. Slat. Westm. sec.
 
@@ -10228,7 +10228,7 @@ Respondit Dns Rex ad istos arti-culos qd in decimis, obvenSiib3, obla-
 
 7 obventonibus,
 
-Also if prelates do punish for leaving Churches, and the church-yard unclosed, or for that ^^cb-yards. the church is uncovered, or not conveniently decked, in which cases none other penance can be enjoined but pecuniary.
+Also if prelates do punish for leaving Churches, and the church-yard unclosed, or for that ^cb-yards. the church is uncovered, or not conveniently decked, in which cases none other penance can be enjoined but pecuniary.
 
 Item, if a parson demand of his Tithes and parishioners oblations or tithes due offering8, and accustomed; or if any parson do sue against another pai-son for tithes greater or smaller, so that the fourth part of the value of the benefice be not demanded.
 
@@ -10998,7 +10998,7 @@ A.D. 1297.
 
 Una Mens ura vini sit p totu regnu nrm, & una mensura 8visie, & una mensura bladi, scitfc quarter London; & una latitudo pannog tinctog, russe-tog, & haubergettog sciit due ulne infra listas. De ponderib3 vero sit, sicut de mensuris.
 
-#####* Nullus liber homo capiatur vel imprisoned, aut disseisiatur de lifeo ten suo, vel libertatib^ vl lifcis consuetu-dinib3 suis, aut utlaget? aut exulet aut aliquo modo destruatur, nec sup eum ibimus, nec sup eu mittem9, nisi p legale judiciu piu suog, vel p legem terre. Nulli vendem9, nulli negabim9, aut different9 rectum vel justiciam.
+#* Nullus liber homo capiatur vel imprisoned, aut disseisiatur de lifeo ten suo, vel libertatib^ vl lifcis consuetu-dinib3 suis, aut utlaget? aut exulet aut aliquo modo destruatur, nec sup eum ibimus, nec sup eu mittem9, nisi p legale judiciu piu suog, vel p legem terre. Nulli vendem9, nulli negabim9, aut different9 rectum vel justiciam.
 
 Omes mercatores, nisi publice antea phibiti fliint fceant salvu & securu conductum exire de Angt, & venire in Angt, & morari & ire p Ang! tarn p terram, q»m p aquam, ad emend & vendend, sine omib3 toltis malis, p antiquas & rectas consuetudines, p?q*m in tempe guerre; & si sint de terra cont* nos guerrina, & tales inveniand in Ira nFa in pincipio guerre, attachient7 sine dapno corpog vel rej, donee sdatur a nob vel a capitali Justic nro, quomodo Scatores Ire nfe tractentr, qui tunc inveiunt1 in terra ilia cont8- nos guerrina, & si nfi salvi sint ibi, alii salvi sint in Ira nra. ****** Nullus lib homo det decelo amplius alicui, vel vendat de terra sua, q^m ut do residuo terre sue, sufficient possit fieri, dno feodi, ?viciu ei debitum quod ptinet ad feodii illud.
 
@@ -11180,7 +11180,7 @@ TjTDWARD, by the grace of God,
 
 Confirmation of the charters.
 
-King of England, Lord of Ireland, and Duke of Guyan, to all those that these present letters shall hear or see, greeting. Know ye that we, to the honour of God, and of holy church, and to the profit of our realm, have granted for ns and our heirs, that the Charter of Liberties, and the Charter of the Forest, which were made by common assent of all the realm, in tae time of King Henry our father, shall be kept in every point without breach. And we will that the same t^^t*on charters shall be sent under our seal, as well to our justices of the forest, as to others, and to all sheriffs of shires, and to all our other officers, and to all our cities throughout the realm, together with our writs, in the which it shall be contained, that they cause the foresaid charters to be published, and to declare to the people that we have confirmed them in all points; and [that *] our justices, sheriffs, mayors, and other ministers, which under us (*) have the laws of our land to guide, [shall allow the said charters pleaded before them in judgment in all their points; *] that is to wit, the Great Charter as the common law, and the Charter of the Forest (4) for the wealth of our realm.
+King of England, Lord of Ireland, and Duke of Guyan, to all those that these present letters shall hear or see, greeting. Know ye that we, to the honour of God, and of holy church, and to the profit of our realm, have granted for ns and our heirs, that the Charter of Liberties, and the Charter of the Forest, which were made by common assent of all the realm, in tae time of King Henry our father, shall be kept in every point without breach. And we will that the same t^t*on charters shall be sent under our seal, as well to our justices of the forest, as to others, and to all sheriffs of shires, and to all our other officers, and to all our cities throughout the realm, together with our writs, in the which it shall be contained, that they cause the foresaid charters to be published, and to declare to the people that we have confirmed them in all points; and [that *] our justices, sheriffs, mayors, and other ministers, which under us (*) have the laws of our land to guide, [shall allow the said charters pleaded before them in judgment in all their points; *] that is to wit, the Great Charter as the common law, and the Charter of the Forest (4) for the wealth of our realm.
 
 And we will, that if any judgement II. be given from henceforth contrary to the points of the charters aforesaid charter* voia. by the justices, or by any other our ministers that hold plea before them
 
@@ -11458,7 +11458,7 @@ sions, which in many other ways have been brought upon the people aforesaid in t
 
 ******
 
-Forasmuch as sheriffs and others ILL heretofore have let out by replevin ^^haUbe common felons, and openly defamed also justices of being taken and imprisoned for mur- ? der and [felony,1] and such as be not Westm. l. replevisable, contrary to the form of chap'15'^ our statute of persons replevisable and not replevisable lately made; whereby such transgressors not replevisable [be let out, and to deliver them *] deceitfully, before the coming of the justices errant, or other assigned for their deliverance, [they procure8]'by themselves and by their friends jurors of the country, and some they threat, whereby as well for fear of the sheriff, and other that let them at large by plevin, as for fear of the thieves (4) being so delivered, before the justices assigned for gaol deliveries such felonies and murthers are concealed, and so being concealed, remain still unpunished: We, for the utility of our realm, and for the more assured conservation of our peace, have provided and ordained, that justices assigned to take assises in every county where they do take assises, as they be appointed, incontinent after the assises taken, in the shires, shall remain both together, if they be lay; and if one of them be a clerk, then one of the most discreet knights of the shire being associate to him that is a layman, by our writ shall deliver the gaols of * the shires, as well within liberties as without, of all manner of prisoners,
+Forasmuch as sheriffs and others ILL heretofore have let out by replevin ^haUbe common felons, and openly defamed also justices of being taken and imprisoned for mur- ? der and [felony,1] and such as be not Westm. l. replevisable, contrary to the form of chap'15'^ our statute of persons replevisable and not replevisable lately made; whereby such transgressors not replevisable [be let out, and to deliver them *] deceitfully, before the coming of the justices errant, or other assigned for their deliverance, [they procure8]'by themselves and by their friends jurors of the country, and some they threat, whereby as well for fear of the sheriff, and other that let them at large by plevin, as for fear of the thieves (4) being so delivered, before the justices assigned for gaol deliveries such felonies and murthers are concealed, and so being concealed, remain still unpunished: We, for the utility of our realm, and for the more assured conservation of our peace, have provided and ordained, that justices assigned to take assises in every county where they do take assises, as they be appointed, incontinent after the assises taken, in the shires, shall remain both together, if they be lay; and if one of them be a clerk, then one of the most discreet knights of the shire being associate to him that is a layman, by our writ shall deliver the gaols of * the shires, as well within liberties as without, of all manner of prisoners,
 
 1 other felonies,
 
@@ -11476,7 +11476,7 @@ AD. 1299.
 
 after the form of the gaol deliveries of Such justices those shires before time used. And
 
-sh^^offoid- the same justices shall inquire then, if
+sh^offoid- the same justices shall inquire then, if
 
 Stot^estm l s^ier^3 or any other have let out by replevin prisoners not replevisable, or have offended in any thing contrary to the form of the foresaid Statute lately made at Westminster; and whom they shall find guilty, they shall chasten and punish in all things according to the form of the statute aforesaid.
 
@@ -11588,7 +11588,7 @@ Ex magno Rot. Stat. in Twrr.
 
 Loud, m* 35.
 
-JpUR ceo q les poyntz de la grant Chartre des Franchises & la Chartre de la Forest, les qnieus le Roy Henri, pere le Roi q ore est granta a soen poeple pur le pru de soen Roiaume, ne unt pas este tenuz ne gardez avant ces heures, pur ceo q peyne ne fust avant establie en les trespassours contre les poyntz des chartres avantdites; nostre seigneur le Soi les ad de novel grante, reno-vele, e oonferme; Et a la requeste des plats Contes & Barouns, en soen par-lement a West monster, en quaremme lan de soen regne vynt & utisme, ad Steine fourme & peyne ordene e establi, encontre tuz iceaus q contre les poyntz des avantdites chartres, ou nul poynt de eles, en nul manere ven-dront, en la fourme qe sensuit: *###•#
+JpUR ceo q les poyntz de la grant Chartre des Franchises & la Chartre de la Forest, les qnieus le Roy Henri, pere le Roi q ore est granta a soen poeple pur le pru de soen Roiaume, ne unt pas este tenuz ne gardez avant ces heures, pur ceo q peyne ne fust avant establie en les trespassours contre les poyntz des chartres avantdites; nostre seigneur le Soi les ad de novel grante, reno-vele, e oonferme; Et a la requeste des plats Contes & Barouns, en soen par-lement a West monster, en quaremme lan de soen regne vynt & utisme, ad Steine fourme & peyne ordene e establi, encontre tuz iceaus q contre les poyntz des avantdites chartres, ou nul poynt de eles, en nul manere ven-dront, en la fourme qe sensuit: *#•#
 
 De lestat du Seneschal & des Mar-chals, & des plez q eus deivent tenir & coment, ordene est q desormes ne tiegnent plai de franc tenement, ne de dette, ne de covenant, ne de contract
 
@@ -11598,7 +11598,7 @@ King Henry, father of the King that now is, granted to his people, for the weal 
 
 cles4] against all them that offend contrary to the points of the said charters, or any part of them, [or that in anywise transgress them,] in the form that ensueth:
 
-######
+#
 
 Concerning the authority of [stewards6] and marshals, and of such pleas as they may hold, and in what manner, it is ordained, that from henceforth they shall not hold plea of freehold, neither of debt nor of covenant, nor of any contract made be-
 
@@ -11656,7 +11656,7 @@ go forth under [any of the petty the petty seal.
 
 seals.5]
 
-»**##*
+»**#*
 
 In right of conspirators, false in- x. formers, and evil procurers of dozens, assises, inquests and juries, the King and
 
@@ -12304,7 +12304,7 @@ if any sheriff change the return so delivered to him by indenture, and be thereo
 
 1 who are answerable for such returns,
 
-viscounte chaunge ret*n issint li?e a li p endenife, & de ceo seit atteint a la suite le Seignr de la fraunchise dont il a9a tiel retJn resceu, si le Seign* a9a damage encoru ou sa fraunchise seit enblemie, & ala sute de la partie q a9a damage encorue p cel encheson, seit puni de vers le Hoi com de faus ret1!!, & rende au Seignr & a la ptie damage a double. Aussint est acorde q desore Yiscontes & autres Baillifs q resceivent brefe le Hoi, reenables en sa court, mettent leur ppres nouns ove leur ret^ns, issint q Court puisse savoir a qi pndre des tieux retina si mestier seit; et si nul visconte, ou autre baillif, en ses retens entrelesse son noun, seit grevement afflcie al oeps le Roi.
+viscounte chaunge ret*n issint li?e a li p endenife, & de ceo seit atteint a la suite le Seignr de la fraunchise dont il a9a tiel retJn resceu, si le Seign* a9a damage encoru ou sa fraunchise seit enblemie, & ala sute de la partie q a9a damage encorue p cel encheson, seit puni de vers le Hoi com de faus ret1!, & rende au Seignr & a la ptie damage a double. Aussint est acorde q desore Yiscontes & autres Baillifs q resceivent brefe le Hoi, reenables en sa court, mettent leur ppres nouns ove leur ret^ns, issint q Court puisse savoir a qi pndre des tieux retina si mestier seit; et si nul visconte, ou autre baillif, en ses retens entrelesse son noun, seit grevement afflcie al oeps le Roi.
 
 # • • # # #
 
@@ -12340,7 +12340,7 @@ ment kil nentendent de oyr les plez, * ne lea quereles, de nuly, taunt com il un
 
 | (a) Districcoes de Sc* *cio.
 
-!«« E por ceo ke la comune du Beaume ad eu g*nt damage par
+!« E por ceo ke la comune du Beaume ad eu g*nt damage par
 
 torsenuse p*ses ke unt este fetes par Yiscontes e par autre Baillif le Bey 0) ou par autre acbeson; Porveu est, (*) ke eeus a queus les avers sunt les pusent pesfcre de lur, saunz desturber k»nt il serront enparkez, saun ren doner por la garde. E ke les a9s ne nul autre destresce, ptee pur la dette le Bey ou p* autre acheson, ne seient venduz dedenz les quinze jurs, de la pise.
 
@@ -12444,7 +12444,7 @@ STATUTE concerning BAKERS, &c.
 
 Ex Lib. Horn. London, fo. 121 b. Incip Coposicio ad puniend infringe ntes assam panis & cvisit* Fores-tallarios cocos, &c.
 
-* • • # • # Tolnetum ad Molendinu, scdm coem consuetudinem Regni, & scdm forti-tudinem cursus aque, capiatur vt ad vicesimu granu, vel ad vicesimu quartu granu. Et mensura per qftm Tolnetu capi debeat sit concordans mensure dm Regis, & capiatur tolnetu per rasum, & nich cu cumulo vel Cantallo. Et si Firmarii inveniant Molendinariis necessaria sua, nicfa capiant pter debitu tolnetu; et (*) ali? fecerint gravi? punient1'.
+* • • # • # Tolnetum ad Molendinu, scdm coem consuetudinem Regni, & scdm forti-tudinem cursus aque, capiatur vt ad vicesimo granu, vel ad vicesimo quartu granu. Et mensura per qftm Tolnetu capi debeat sit concordans mensure dm Regis, & capiatur tolnetu per rasum, & nich cu cumulo vel Cantallo. Et si Firmarii inveniant Molendinariis necessaria sua, nicfa capiant pter debitu tolnetu; et (*) ali? fecerint gravi? punient1'.
 
 1 si MS. Cott. •
 
@@ -13532,7 +13532,7 @@ XL Justices of assises and nisi prius may enquire concerning maintainers, &c.
 
 shall be indicted, shall not be delivered bat at the common law. And the justices assigned to deliver the gaols shall have power to deliver the same gaols of those that shall be indicted before the keepers of the peace; and that the said keepers shall send their indictments before the justices, and they shall have power to enquire of sheriffs, gaolers, and other, in whose ward such indicted persons shall be, if they make deliverance, or let to mainprize any so indicted, which be not mainpernable, and to punish the said sheriffs, gaolers, and others, if they do any thing against this act.
 
-##**#*
+#**#*
 
 Item, whereas in times past executors have not had actions for a trespass done to their testators, as of the goods and chattels of the same testators carried away in their life, and so such trespasses have hitherto remained unpunished; it is enacted, that the executors in such cases shall have an action against the trespassers, [and recover their1] damages in like manner as they, whose executors they be, should have had if they were in life.
 
@@ -14126,7 +14126,7 @@ d comission le Roi doier & ?miner ** «
 
 felonies & trespas faites contre la pees en mesmes les Countees, & punisse-ment faire resonablement, solonc la mafle du fait.
 
-#**### Itm q nule exigende isse desormes en cas ou home est enditez de trespas q ne soit encontre la pees, ne des choses q ne sont contenues en la declaracion feit en ce cas, au derrein plement tenuz a Westm.
+#**# Itm q nule exigende isse desormes en cas ou home est enditez de trespas q ne soit encontre la pees, ne des choses q ne sont contenues en la declaracion feit en ce cas, au derrein plement tenuz a Westm.
 
 I.
 
@@ -14314,7 +14314,7 @@ Item no9 avoms comandez & de-fenduz tout outreement, q nul de nfe oustiel ne de 
 
 no9, ne autres q sont de9p nre tresche compaigne la Reine, ou nre fitz le Prince de Gales, ou de9s noz Courtz, ne Prelatz Countz Barons nautres gftntz ne petites de la ?re, de quel estat ou condicion qils soient, ne pignent quereles en main, autres q lour ppres, ne les mainteignent p eux ne p autres en apt ne prive pr doun, pmesse, arniste, doute, favour, ou hayne ne p nulle autre cause, en destorbance de la ley, ou arerissement de droit sr la peyne susdite; einz q chescun home peusse estr franc de son droit suir & defendre en noz Courtz & aillours solonc la ley: et si avoms estreite-ment comandez a nre dit fitz, & a di?s Contz & autres grantz esteantz de?s nous, qils facent garder de lour pte ceste ordinance sanz defaute, et qils ne soeffrent nuls qi sont de9s eux [rien1] faire nattempter count? meisme lordinance p quecuq> voie.
 
-*##*•#
+*#*•#
 
 Item voloms & avoms ordenez q les Justices as assises prendr assignez, eient sufficiante comission denquerre en lour sessions, des Yiscontz, Eche-tours, Baillifs des Fraunchises & lour souz Ministres, et aussint des Mein-tenours, comuns assissours & jurours en pais, cestassa9, des douns, regardz & autres pfitz q les ditz ministres pnent du poeple p1 faire lour offices, & ce q attient a leur offices, & p* faire larrai des paneles, mettantz en ycelles jurours suspectz & de male fame; et de ceo q les maintenours, assisours, & jurours pnent douns & lower des pties, dount ptes & damages trop grevouses avieg-nent au poeple de jour en autF, en
 
@@ -14488,7 +14488,7 @@ i
 
 & issint les eleocions des Ercevesqs, Evesches, & au& Religious faudroient, & les almoignes, hospitalites & au?s oe9es de charite q Sroient faitz as ditz lieux Sroient sustretes, le dit Ael & auls lais patrons en temps de tieles voidanoes pderoient lour psentementz, le dit conseil piroit, & biens sanz nombre Sroient emportes hors du Roialme, en adnullacion del estat de seinte eglise dengle?re, & disheriteson du dit Ael, & des Countes Barons & nobles, & en offens & destruccion des lois & droifres de 'son Roialme, & grant damage de son poeple, & sub-Vsion del estat de tut son Roialme susdit, & contre la bone disposicion & volunte des prifls foundours; del assent des Countes/ Barons, Nobles & tute la dite Coalte, a lour instante requeste, consideres les damages & grevances susdites en le dit ple9 plement feust p^eu ordine & establi q les dites grevances, oppssions & damages, en meisme le Roialme des adonqs mes ne Sroient soeffertz en ascun ma9e. Et ja monstre soit a n?e Seignr le Roi, en cest plement tenuz a Westm a les Oetaves de la Purificacion de nre Dame, lan de son regne Dengle?re vintisme quint, & de France duszisme, p la greveuse pleinte de toute la coe de son Roialme q les grevances & meschiefs susditz sa-bondent de temps en temps, a plus grant damage & destruccion de tut le Roialme, plus q unqs ne firent; cest assa9 qore de novel nfe seint piere le Pape, p gcurement des clercs
 
-of archbishops, bishops, and other religious should fail, and the alms, hospitalities, and other works of charity, which should be done in the said places, should be withdrawn, the said grandfather, and other lay-patrons, in the time of such voidances, should lose their presentments, the said council should perish, and goods without number should be carried out of the realm, in adnullation of the estate of the Holy Church of England, and disherison of the said grandfather, and the earls, barons, and other nobles [of the said realm,] and in offence and destruction of the laws and rights of his realm, and to the great damage of his people, and in subversion of all the estate of his said realm, and against the good disposition and will of the first founders: By the assent of in the the earls, barons, and other nobles, g^^jent and of all the said commonalty, at provision was their instances and requests, the da-mage and grievances afore considered, in the said full Parliament it was [ordained, provided, established, agreed, adjudged, and considered,1] that the said oppressions, grievances, and damages in the same realm from henceforth should not be suffered in any manner. And now it is shewed to our lord the King in this present Parliament holden at Westminster, at the utas of the Purification of our Lady, the five and twentieth year of his reign of England, and of France the twelfth, by the grievous complaints of all the commons of his realm, that the grievances and mischiefs aforesaid do daily abound, to the greater damage and destruction of all [his realm of England,2] more than ever were before, viz. that now of T^ePope late [the Bishop of Rome**] by pro- bSc^of curement of clerks and otherwise, the Church,
+of archbishops, bishops, and other religious should fail, and the alms, hospitalities, and other works of charity, which should be done in the said places, should be withdrawn, the said grandfather, and other lay-patrons, in the time of such voidances, should lose their presentments, the said council should perish, and goods without number should be carried out of the realm, in adnullation of the estate of the Holy Church of England, and disherison of the said grandfather, and the earls, barons, and other nobles [of the said realm,] and in offence and destruction of the laws and rights of his realm, and to the great damage of his people, and in subversion of all the estate of his said realm, and against the good disposition and will of the first founders: By the assent of in the the earls, barons, and other nobles, g^jent and of all the said commonalty, at provision was their instances and requests, the da-mage and grievances afore considered, in the said full Parliament it was [ordained, provided, established, agreed, adjudged, and considered,1] that the said oppressions, grievances, and damages in the same realm from henceforth should not be suffered in any manner. And now it is shewed to our lord the King in this present Parliament holden at Westminster, at the utas of the Purification of our Lady, the five and twentieth year of his reign of England, and of France the twelfth, by the grievous complaints of all the commons of his realm, that the grievances and mischiefs aforesaid do daily abound, to the greater damage and destruction of all [his realm of England,2] more than ever were before, viz. that now of T^ePope late [the Bishop of Rome**] by pro- bSc^of curement of clerks and otherwise, the Church,
 
 and reserveth
 
@@ -14930,7 +14930,7 @@ ou pcept soit compris q le viscount face seisir les chateux & les sauve-ment gar
 
 be comprised, that the sheriff shall cause to be seised his chattels, and safely to keep them till the day of the writ or precept returned; and if the sheriff return, that the body is not found, and the indictee cometh not, the exigend shall be awarded, and the chattels shall be forfeit, as the law of the crown ordaineth; but if he come and yield himself, or be taken by the sheriff, or by other minister, before the return of the second capias, then the goods and chattels shall be saved.
 
-##**#*
+#**#*
 
 $rtrinario €Uto fr'a aptffl QOfcgtnf, aitno r. 3fc. <8. frit btrorimo qtitnto.
 
@@ -15174,7 +15174,7 @@ J^OSTRE Seignour le Roi a son plement tenuz a Weymonster le Lundy pschein aps la
 
 Item, acorde est & establi, q touz les Seignrs de la Marche de Gales soient ppetuelement entendantz & annexes a la corone Dengle^re, come ils & leur auncestls ount este de tout temps avant ces heures, & nounpas a la Principalte de Gales, en qi mains q meisme la Prindpalte soit ou devendra aps ses heures.
 
-Item, q nul home, de quel estate ou condicion qil soit, ne soit oste de %re ne de teli, ne pris, nemprisone, ne deshite, ne mis a la mort, saunz estre mesne en respons p due pees de lei. ««**«#
+Item, q nul home, de quel estate ou condicion qil soit, ne soit oste de %re ne de teli, ne pris, nemprisone, ne deshite, ne mis a la mort, saunz estre mesne en respons p due pees de lei. «**«#
 
 Item, ordene est & establi q touz Coroners des Countees soient esluz en
 
@@ -15350,7 +15350,7 @@ Item, whereas in the Great Charter it is contained that no sheriff nor his baili
 
 Et outre ceo-est acorde, q les es-chapes de lartfns & felons, & les cha-teux des felonfe & des futifs, & aussint eschapes des Clercs convictz hors de prison de lour ordinairs,'desore ajugger devknt qtecunqs justices nre Seign* le Roi, raoient lavez de temps en temps come 'ils escheitentsibien de temps passe cctacie de:temps avenir.
 
-Item, come -en la gant chartre soit contenu, q nuTvisconte ou son Baillif face son tourn p hundred, forsq, deu-foitz en lan, en lieu due & acustume, cest assa9 unefoitz aps le Pasq . & autrefoitz aps le Seint Michel; & ore plusours de la coe se ont grevouse-ment compleint qascuns viscontes font sovent lour toums en Quarresme, q»nt h5me de9oit entendre a devocion & au?s oe9res de charite, pr remed de salme, & ala foitz aps la gule d'Augst qant chescun apoi est occupie entour le sdere & lentrere de ses bledz; p quoi le poeple se sent mold grevez & deseisez: nf e Seignr le Roi, desirant la quiete de Bon poeple, ad ordine & establi, q chescun visconte desore free son tourn annuelment, unefoitz deinz le Mois aps Pasq,, & lautrefoitz deinz le Mois aps le Seint Michel; & sils le tiegnent en autre manle qadonqs ils pdent lour tourn p* le temps.
+Item, come -en la gant chartre soit contenu, q nuTvisconte ou son Baillif face son tourn p hundred, forsq, deu-foitz en lan, en lieu due & acustume, cest assa9 unefoitz aps le Pasq . & autrefoitz aps le Seint Michel; & ore plusours de la coe se ont grevouse-ment compleint qascuns viscontes font sovent lour toums en Quarresme, q»nt h5me de9oit entendre a devocion & au?s oe9res de charite, pr remed de salme, & ala foitz aps la gule d'Augst qant chescun apoi est occupie entour le sdere & lentrere de ses bledz; p quoi le poeple se sent mold grevez & deseisez: nf e Seignr le Roi, desirant la quiete de Bon poeple, ad ordine & establi, q chescun visconte desore free son tourn annuelment, unefoitz deinz le Mois aps Pasq, & lautrefoitz deinz le Mois aps le Seint Michel; & sils le tiegnent en autre manle qadonqs ils pdent lour tourn p* le temps.
 
 201
 
@@ -15406,7 +15406,7 @@ Forfeitures of wars reserved to the King.
 
 of good fame, where they shall be found, sufficient surety and mainprise of their good behaviour towards the King and his people, and the other duly to punish; to the intent that the people be not by such rioters or rebels troubled nor endamaged, nor the peace blemished, nor merchants nor other passing by the highways of the realm disturbed, nor [put in the peril which may happen*] of such offenders: And also to hear and determine at the King's suit all manner of felonies and trespasses done in the same county according to the laws and customs aforesaid; and that writs of oyer and determiner be granted according to the statutes thereof made, and that the justices which shall be thereto assigned be named by the court, and not by the party. And the King will, that all general inquiries before this time granted within any seigniories, for the mischiefs and oppressions which have been done to the people by such inquiries, shall cease utterly and be repealed: And that fines, which are to be made before justices for a trespass done by any person, be reasonable and just, haying regard to the quantity of the trespass, and the causes for which they may be made.
 
-####•#
+#•#
 
 Item, whereas the commons have complained them of escheators, which by colour of their office have seised divers lands and tenements as forfeit to the King for treason surmised in dead persons, which were never attainted of treason in their lives; the King thereof hath good regard; but because he and his progenitors have been seised of the forfeitures of wars of all times, the King will not exclude himself of such right, whereof he found his crown seised, and will continue
 
@@ -15414,7 +15414,7 @@ Item, whereas the commons have complained them of escheators, which by colour of
 
 fame, ou ils Sront trovez, souffisant seurete & meinprise de lo* bon port, de9s le Roi & son poeple, & les auts duement punir; au fin q le poeple ne soit p tieux riotors troble nendamage ne la pees enblemy, ne marchantz nau?s passantz p les hautes chemyns du Roialme destourbez ne abaiez da pil q p*ra avenir de tieux meffesours: & auxint doier & f!miner a la suite le Roi, tote maSe de felonies & ?spas faites en meisme le Countee, selonc les leys & custuraes avantdites; & q briefs doier & fminer soient g*nte8 selonc les estatuz ent faites, mes q les Justices q enserront assignez soient nomez p la Court, & nemie p la ptie. Et le Roi voet q totes gefiales en-querres avant ces heures gantez deinz seignnes queconqes p1 les meschiefe & oppssions q ont este faites au poeple p tieles enquerres, cessent outriement & soient repellez: Et q fins q sont affaire devant Justices, p* fspas fait p ascune psone, soient resonables & justes, eant regard au qntite du Sspas & les causes p* queles eles sont faites.
 
-###*#*
+#*#*
 
 Item, come la coe se eit pleint des Eschetours, queux p colour de lour office ont seisiz plusours ?res & tene-mentz come forfaites au Roi p* treson srmys en psones mortes, q unqs ne furent atteintes en lour vies; le Roi en ad bon regard: Mes porce qil & ses pgenitours ont este seisiez des forfait^es de guerre de tout temps, le Roi ne se voet ouster de tiel droit, dont il trova sa Corone seisie, & cel
 
@@ -16068,7 +16068,7 @@ Warden of the Fleet shall not let at large prisoners in execution.
 
 1 Richard II. AJ). 1377.
 
-counsellors and the King's great officers, upon a pain which shall be ordained by the King himself, by the advice of the lords of his realm; and other less officers and servants of the King, as well in the Exchequer, and all his other courts and places, as of his own meiny, upon pain to lose their offices and services, and to be imprisoned, and then to be ransomed at the King's will, every of them according to their degree, estate, and desert; and all other persons through the realm upon pain of imprisonment,, and to be ransomed as the other aforesaid.
+counsellors and the King's great officers, upon a pain which shall be ordained by the King himself, by the advice of the lords of his realm; and other less officers and servants of the King, as well in the Exchequer, and all his other courts and places, as of his own meiny, upon pain to lose their offices and services, and to be imprisoned, and then to be ransomed at the King's will, every of them according to their degree, estate, and desert; and all other persons through the realm upon pain of imprisonment, and to be ransomed as the other aforesaid.
 
 Item, it is ordained, that none that hath been sheriff of any county by an whole year, shall be within three years next ensuing chosen again, or put in the same office of sheriff; if there be other sufficient in the said county of possessions and goods to answer to the King and his people.
 
@@ -16464,7 +16464,7 @@ is, against them that purchase provisions of abbeys or priories; }a} and to the 
 
 ceux qi purchacent pvisions dabbeies ou Priories; pj et enoutre au fyn q tielx licences ne se facent desore enavant, le Roi voet & comande a toutz ses lieges & autres qils lour abstiegnent de cy enavant de luy prier dascuns tiels licences doner; et si voet auxi le Roi luy mesmes ab-stiegner de doner ascune tiele licence, durantes les guerres horspris au Cardinal de Naples ou a autre especiale psone a qi le Roi soit p especiale cause tenuz.
 
-#####
+#
 
 Item es briefs de pmunire fac est assentuz & accordez q ceux 9s queux tielx briefs sont portez, & qi sont de psent hors de Roialme & sont de bone fame & aient faitz lo* gefialx attomes devant lo* deptir, q le Chaunceller [Denglebre1] pur le temps esteant, p lad vis des Justices purra g*ntier q mesmes les psones purront apparoir & respondre & faire & resceivre ce q la ley demande, p lo* gefialx attonies avantdiz siavant come es autres cas & quereles; et ceux psones qi decy enavant passeront p licence nre fT le Roi & soient auxint de bone fame, q a lor requeste le dit Chaunceller p ladvis des Justices lour purra g*ntier defaire lor gefialx atto^ies en la Chan-cellerie p patent du Roi devant lo* passer, [a respondre8] sibn es ditz briefe de pmunire fac, come en auts quereles en quel cas toutes voies soit expsse mencion [faite8] des briefs & quereles de pmunire fac; et celle patente ensi faite, purront des lors lea dits atto*nes en absence de lo1 Meistres, respondre p eux & au& atto'nes de
 
@@ -16594,7 +16594,7 @@ Of the STATUTE made at CAMBRIDGE; In the Twelfth Yeab.
 
 Tj^OR the common profit and uni-versal wealth of all the realm of England, our lord the King at his Parliament holden at [Canterbury1] the morrow after the Nativity of our Lady, the twelfth year of his reign, by the assent of the lords and commons there assembled, hath made certain statutes and ordinances in the form following.
 
-*##### Item, it is accorded, that the chancellor, treasurer, keeper of the privy seal, steward of the King's house, the Kings chamberlain, clerk of the rolls, the justices of the one bench and of the other, barons of the Exchequer, and all other that shall be called to ordain, name, or make justices of peace, sheriffs, escheators, customers, comptrollers, or any Other officer or minister of the King, shall be firmly sworn, that they shall not ordain, name, or make justice of the peace, sheriff, escheator, customer, comptroller, nor other officer or minister of the King, for any gift or brocage, favour or affection; nor that none which pursueth by him or by other, privily or openly, to be in any manner office, shall be put in the same office, or in any other; but that they make all such officers and ministers of the best and most lawful men, and sufficient to their estimation and knowledge.
+*# Item, it is accorded, that the chancellor, treasurer, keeper of the privy seal, steward of the King's house, the Kings chamberlain, clerk of the rolls, the justices of the one bench and of the other, barons of the Exchequer, and all other that shall be called to ordain, name, or make justices of peace, sheriffs, escheators, customers, comptrollers, or any Other officer or minister of the King, shall be firmly sworn, that they shall not ordain, name, or make justice of the peace, sheriff, escheator, customer, comptroller, nor other officer or minister of the King, for any gift or brocage, favour or affection; nor that none which pursueth by him or by other, privily or openly, to be in any manner office, shall be put in the same office, or in any other; but that they make all such officers and ministers of the best and most lawful men, and sufficient to their estimation and knowledge.
 
 ******
 
@@ -17230,7 +17230,7 @@ Penalty for bringing or •ending of lummona or exoommunica-tion againit any for
 
 XI
 
-tM* je^^ue tAyum* .a 4runoff
+tM* je^ue tAyum* .a 4runoff
 
 254
 
@@ -17374,7 +17374,7 @@ r pointz [or poyntz] old printed copies. i J portes old abridgements.
 
 meer, & en nul autre lieu de mesnies % les Rivers, eit ladmiral conissance, & auxint darest des niefs en les g*ntz fletz p* g*ntz viages du Roi & de Roialuie; Sauvant au Roi toutz maSes forfaitres & pfitz ent gvenantz. Et eit ensement jurisdicciofi sur les dees fletz durantz les dites viages tantsoule-ment. Sauvant toutdis as f*s Citees
 
-& Burghs lour lihtees & franchises. **#### Item come contenuz soit en lestatut
+& Burghs lour lihtees & franchises. **# Item come contenuz soit en lestatut
 
 de Religiouses q null religious nautre qconq, achate ne vende ou souz colour de doun ou fine ou dautre title qconq, dascun resceive ou dascun en ascune inafie p art ou p engyn a luy face approprier ascunes tres ou tentz sur forfaits dycelles p qoi les ditz fres & tentz purront en ascune mafie devenir a raort mayn; et q si ascun religious ou ascun autre veigne encontre le dit estatut p art ou p engyn en ascune mafie, bien lise au Roi & as aufs frs les ditz fres & tentz entrer; sicome en le dit estatut est contenuz plus au plein: et ore de noveft p sotile ymagi-nacion & p art & engyn ascuns gentz de religion psons vikers & aufs psones espiritiels sont entrez en dieses fres & tentz adjoignantz a lour esglise, & dycelles p suffrance & assent de tenantz ont fait cimifs & p bulles del appostoill les ont fait dedier & sacrer & sepulture parochiele font continuelment en ycelles sanz licence du Roi & des chiefs fra; declare est en cest piement
 
@@ -17424,7 +17424,7 @@ vj-
 
 Item p* ce q plusours damages & deseases sont sovent avenuz & aveig-nent de jour en autre as pochiens de di9ses lieux p lappropriacion [des fcn frees de inesmes les lieux, accordez est & assentuz qen chescune licence desore a faire en la Chauncellarie dap-propriacion1] dascune esglise pochielle, soit expssement contenuz & compris q le Diocesan del lieu, en lappropriacion de tielx esglises ordeine solonc la value de tielx esglises une covenable s5me dargent destre paiez & distributz annuelment des fruitz & pfitz de mesmes les esglises p ceux qa9ont les dees eglises en ppre oeps & p lour successours as povres parochiens des dees esglises en eide de lour vivre & sustenance a toutz jours; & q le Viker soit auxint bien & covenablement dowez.
 
-Item, because divers damages and vi. [hindrances1] oftentimes have hap-pened, and daily do happen to the provision shall parishioners of divers places, by the ^^edf^e appropriation of benefices of the same vicar, places; it is agreed and assented, that in every licence from henceforth to be made in the Chancery, of the appropriation of any parish church, it shall be expressly contained and comprised, that the diocesan of the place, upon the appropriation of such churches, shall ordain, according to the value of such churches, a convenient sum of money to be paid and distributed yearly of the fruits and profits of the same churches, by those that shall have the said churches in proper use, and by their successors, to the poor parishioners of the said churches, in aid of their living and sustenance for ever; and also that the vicar be well and sufficiently endowed.
+Item, because divers damages and vi. [hindrances1] oftentimes have hap-pened, and daily do happen to the provision shall parishioners of divers places, by the ^edf^e appropriation of benefices of the same vicar, places; it is agreed and assented, that in every licence from henceforth to be made in the Chancery, of the appropriation of any parish church, it shall be expressly contained and comprised, that the diocesan of the place, upon the appropriation of such churches, shall ordain, according to the value of such churches, a convenient sum of money to be paid and distributed yearly of the fruits and profits of the same churches, by those that shall have the said churches in proper use, and by their successors, to the poor parishioners of the said churches, in aid of their living and sustenance for ever; and also that the vicar be well and sufficiently endowed.
 
 1 Interlined on the roll.
 
@@ -17444,7 +17444,7 @@ Ex Rot. Stat. in Turr. Lond. II. m. 6.
 
 /^iUR lord the King, Richard the ^ Second, after the conquest, at his Parliament holden at Winchester in the utas of St. Hillary, the sixteenth year of his reign, hath ordained and stablished, by the assent of his Parliament, certain things in the form following.
 
-Item, whereas the commons of the Recita^^iat ^
+Item, whereas the commons of the Recita^iat ^
 
 realm in this present Parliament have remedy to
 
@@ -17472,7 +17472,7 @@ sentences of [Bishop of Rome8] and censures of ex-excommnnica- . .. , . , . ,
 
 tion against communication upon certain bishops
 
-wt^nWAops 0f England, because they have made jad^aentong execution of such commandments, to the open disherison of the said crown, and proposed' and destruction of (*) our said lord jraktes oS of King, his law, and all his realm, the realm, or if remedy be not provided: And also toMoAer1^^ ft ft said, and a common clamour is made, that the said [Bishop of Rome5] hath ordained and purposed to translate some prelates of the same realm,
+wt^nWAops 0f England, because they have made jad^aentong execution of such commandments, to the open disherison of the said crown, and proposed' and destruction of (*) our said lord jraktes oS of King, his law, and all his realm, the realm, or if remedy be not provided: And also toMoAer1^ ft ft said, and a common clamour is made, that the said [Bishop of Rome5] hath ordained and purposed to translate some prelates of the same realm,
 
 1 suit 2 may not
 
@@ -17948,7 +17948,7 @@ Item come sifcn en plee roial^ come gsonel aps juggement renduz en les Courtes n
 
 anientiz p atteinte ou p errour si errour y ad come il ad este usez p la loie en temps des pgenitors nfe dit (r le Roy.
 
-#*###*
+#*#*
 
 until the judgment be undone by attaint or by error, if there be error, as hath been used by the [laws*] in the times of the King's progenitors.
 
@@ -18568,11 +18568,9 @@ sem&igne aps le feat de Seint Michel
 
 Tiphain & en la prh2 semaigne aps le
 
-
-
 Clause de Pask, & en la prinl semaigne aps la tnslacion de Seint Thomas le Martir, & pluis sovent si meatier soit. Et q mesmes les Justices teignent
 
-of prohibition, according to their case, which libel to them is denied by the said spiritual judges, to the intent that such persons should not be aided by any such writ; against the law, and to the great damage of such persons so impleaded: Our said lord the Copies of the King, by the advice and assent [of ^a^^irts the lords spiritual and temporal,1] and shall be duly at the request [and instance] of the ae ver said commons, hath ordained and established, that at what time (*) the libel is grantable by the law, that it may be granted and delivered to the party without any difficulty.
+of prohibition, according to their case, which libel to them is denied by the said spiritual judges, to the intent that such persons should not be aided by any such writ; against the law, and to the great damage of such persons so impleaded: Our said lord the Copies of the King, by the advice and assent [of ^a^irts the lords spiritual and temporal,1] and shall be duly at the request [and instance] of the ae ver said commons, hath ordained and established, that at what time (*) the libel is grantable by the law, that it may be granted and delivered to the party without any difficulty.
 
 .... And that the justices of the IV. peace in every shire named of the ^m'e' quorum, [be8] resiant within the same justice* of the shire, except lords named in the drafTthT1" commission of the peace, and also shire; except except justices of the one bench, and ora8* c# of the other, the chief baron of the Exchequer; seijeants at the law, and [the Bang's attorney,4] for the time that the same justices, chief baron, seijeants [at the law,] and [the King's attorney,8] be intending and occupied in the Kang's courts, or otherwise, in shall hold some other place, occupied in the ^[onsT^ King's service, [and6] make their sessions four times by the year; that is to say, in the first week after the feast of Saint Michael, and in the first week after the Epiphany, and in the first week after the clause of Easter, and in the first week after the translation of Saint Thomas the Martyr, and more often, if need be. And that the same justices hold their sessions throughout (J) [the realm] of England in the same weeks every year from henceforth........... .........
 
@@ -18898,7 +18896,7 @@ lo9our diceft argent mette sur yceft son marque ou signe dev*nt oeo q le mette a
 
 forme de les endentures av*ntditz. {So much as relates to the master of the Mint, rep., 33 Vict. c. 10. s 20.J
 
-*##*#•
+*#*#•
 
 4 HENRY YI. A.D. 1425-6.
 
@@ -19506,7 +19504,7 @@ A T the Parliament holden at West-minster the Friday next before the feast of Sa
 
 • # * '* • •
 
-Item, for that before this time many iv. outlawries have been pronounced against divers of the King's liege nominis people, as well before the Statute of b^^utori, Additions, made at Westminster the in cases of first year of King Henry the Fifth ^?teirtator,
+Item, for that before this time many iv. outlawries have been pronounced against divers of the King's liege nominis people, as well before the Statute of b^utori, Additions, made at Westminster the in cases of first year of King Henry the Fifth ^?teirtator,
 
 father to our lord the King that now before or since . e , . , the Statute
 
@@ -19556,7 +19554,7 @@ AD. 1430-1.
 
 same liege people which was outlawed in deed had, made his executors and died, often it happened, that by malice and subtil imaginations the goods and chattels of such testator, which had the same name as he had which was outlawed in deed, were seised and escheated to the hands of our lord the King and of his (x) progenitors, in retardation of the execution of the testament of every such testator, for the doubt which hath been, whether any executors may by the common law have a writ of idemptitate nominis, or not: Wherefore to take away and remove all such ambiguities and doubts in this case hereafter, of the assent and advice aforesaid, and at the special request of the said commons, it is ordained and established by authority of this Parliament, that a writ of idemptitate nominis (2) be granted and [made *] good and maintainable for the executors of every testator, [to4] the same effect that the same action of idemptitate nominis was maintainable before this Parliament for any person himself which was or might have been molested or grieved because or by colour of any such outlawry: And that this ordinance shall have relation and force, by authority aforesaid, for the executors of every testator, as well of every outlawry pronounced against any person at any time before this Parliament, as of all manner of outlawries to be pronounced against any person in time to come.
 
-**####
+**#
 
 1 sa*d 2 may
 
@@ -19682,7 +19680,7 @@ In the Eleventh Year
 
 /^iTJR sovereign lord the King, at ^ his Parliament holden at Westminster the eighth day of July, the eleventh year of his reign, to the reverence of God, and for the weal of the people of his realm, by the assent of the lords spiritual and temporal (T) and at the special request of the commons of his (*) realm in his said Parliament assembled, by authority of the same Parliament, hath (*) ordained and stablished divers statutes, declarations, and ordinances, in the form following.
 
-• •##
+• •#
 
 Item, our lord the King considering the great losses and damages which oftentimes have come, and be likely to come hereafter, as well to himself as to many of his lieges, for that where as well divers indictments and suits for our lord the King, as other suits between party and party, have been taken before divers justices of the peace, assigned by several commissions of our said lord the King in divers counties of England, and divers pleas and processes upon those indictments have often been made, and hanging before the same justices not determined, the which pleas and processes have been often discontinued, by making of new commissions of the peace in those counties, to the great loss of our said lord the King, and of his subjects, (4) in delay of the same pleas and suits, and of the deliverance
 
@@ -19704,7 +19702,7 @@ Indictments or suits before justices of the peace shall not be discontinued by a
 
 A.D. 1433.
 
-of his said subjects: And upon that our lord the King willing to provide remedy, of the assent and authority aforesaid, hath ordained and established, that in all such [pleas,, suits and processes in them*] to be taken and to be made before justices of the peace in any county of England, the said pleas and processes in such suits to be [done1 2] shall not be discontinued by such new commissions of the peace to be made, but those pleas and processes shall stand in their force; and the justices in the same new commissions so assigned, after that they shall have the records of the same pleas and processes before them, shall have power and authority to continue the said pleas and processes, and the same pleas and processes, and all that depend upon them, to hear and finally to determine, as the other justices might and ought to have done of and in the same, if no new commission had been made.
+of his said subjects: And upon that our lord the King willing to provide remedy, of the assent and authority aforesaid, hath ordained and established, that in all such [pleas, suits and processes in them*] to be taken and to be made before justices of the peace in any county of England, the said pleas and processes in such suits to be [done1 2] shall not be discontinued by such new commissions of the peace to be made, but those pleas and processes shall stand in their force; and the justices in the same new commissions so assigned, after that they shall have the records of the same pleas and processes before them, shall have power and authority to continue the said pleas and processes, and the same pleas and processes, and all that depend upon them, to hear and finally to determine, as the other justices might and ought to have done of and in the same, if no new commission had been made.
 
 • •
 
@@ -20484,7 +20482,7 @@ f The French text of these statutes from hence to the end of 22 Edw. IV. was not
 
 ment esleux en lendemayn dez toutz almes de lez queux novelx Viscountz isaint eslieux [en lendemayn dez toutz almez de lez quelx novelx Viscountz issint eslieux1] & appointez diVsez de eux ount refusez, & diVsez de ceux nount mye ewez lour patentz ne pignez lour Dement jesquez long temps apres le fine del dit Michett ?me, pur qnoy plusours liegez & subgietz du Roy sount gaundement endam & de-laiez de lour (2) gcessez & pceptz q Drount retournablez en lez Courtz du Roi as lez jours del reto*ne deinz mesme aps le vj jour de Novembr, cestassavoir as lez jours del retoume appellez Crastino Martini, Octabis Martini, & Quindena Martini, p cause q lez veelez Viscountz nosent ne voillent pndre sur eux de retoumer ascune bfe ou pcept aps lan q son patent port date, pur paour del peyne en le av*ntdit estatuit conteignuz, a grand pde si bien a Roy de ceo q luy accresteroit p reason de lez ditz pcessez, come a son liege people p delaiez qils ount p ycell: Sy est il ordeignez p lauctorite du dit plement, q si ascune Viscount dascun Countee execute ou reto*ne ascune bf pcept ou warant, en ascuns dez Courtz du Roy, deinz le dit ?me appellez Michell Sme, aps le vj jour de Novemfcr & dev*nt ascune bf de discharge deliver a luy de sa occupation de Viscount, ne soit endamage p force da dit estatuit, ne del peyne avntdit soit charge, tout soit il q celluy ad occupie loffice de Viscount p lan, qaunt pur ascuns de lez ditz jours de retoume appellez Crastino Martini, Octabis Martini, ou Quindena Martini.
 
-• ***««
+• ***«
 
 1 An erroneous repetition.
 
@@ -21104,7 +21102,7 @@ therof uppon payne of forfeytoure for e9y suche defaute an hundreth shelyngf.
 
 And that no man be compelled after the fest of All Seyntf nexte comyng to None shall be
 
-occupye nor excise the office of an eschetour by eny oon patent over oon hole ^^^oor
+occupye nor excise the office of an eschetour by eny oon patent over oon hole ^oor
 
 yere. And that he that ys ons eschetour shalnot be made escheyto* ayene above a year,
 
@@ -21596,7 +21594,7 @@ Recovery, &c. of penalties.
 
 next of kynne, where in dede dy9s persons (x) in eqnalite of kynred as is aforesaid, than in e9y such case the ordynary to be at [is 2] eleccion and lifetie to accept any one or mo makyng request, where dy9s do requyre the adminia-tracion; or where but one, or more of them and not all beyng in eqnalite of degree, [to *] make request, than the ordynarye to admytt the wydowe and hym or them onely makyng request or any one of them at his pleasure, takyng nothyng for the same, onles the goodes of the person so deceased amount above the value or some of an hundreth shillynges; and in case the goodes of the pson soo deceased amount above the value of an hundreth shillynges and nat above the value or some of xl. ti, than the said bysshop ordynary or other person or psons so [havyng auctoritie to take pbate of testamentes as is aforsaid their ministers or officers shall take onely two shillynges yj d. sterlyng and not above: And that the executour and exe-cutours named by the testatour or person soo deceased or such other person or persons to whom such admynystracion shalbe comytted where any pson dyeth intestate or by way of [instate 4], callynge or takyng to hym or them such pson or psons two at the least to whome the said persons soo dyeng was indetted or made any legacye, and upon their refusell or absence twoo other honest psons beyng nexte of kynne to the person soo dyeng, and in their defaute or absence two other honest persons, and in their psens and by ther discrecions, shall make or cause to be made a trewe and perfyte inventory of all the goodes catells wares marchaundyses as well movable as nott movable whatsoever, that were of the said person soo deceased, and the same sail cause to be indented, wherof the one part shalbe by the said executour or executours administratour or administratours, upon his or their othe or othes to be taken before the said bysshops or ordynaries their officials or comyssionaries or other persons havyng power to take probate of testamentes, upon the Holy Evan-gelyst, (5) to be good and trewe; and the same one parte [entended6] shall Psent and delyver in to the keppyng of the said bysshop ordynary or ordy-naryes or other person havyng power to take probate of testamentes, and the other parte thereof to remayne with the said executour or executours admy-nystratour or administratours; and that no bysshop ordynary or other what so ever person havyng auctoritie to take probate of testament or testamentes as is above said upon the payne in this estatute herafter conteyned, refuse to take any such inventory or inventories to hym or them psented or tended to be delyvered as is aforsaid.
 
-* ####*#*• And it is enacted that e9y bysshop ordynary archdeken channcellour comyssary offycyal, and other person and persons havyng or the whiche herafter shall have auctoritie to take probate of testamentes, their regystere, scribes, praisers, somoners, apparatours, and all other theyr ministers what soo ever they be, that shall doo or attempt or cause to be done and attempted agaynst this Acte or ordynaunce in any thyng, shall forfeyte and lose for every tyme so offendyng to the gtye greved in that behalf so moch money as any suche person abovesaid shall take contrary© to this psent Acte; and over that, shall lose and forfyte xli. sterlyng, wherof the one moyte shalbe to the Kyng
+* #*#*• And it is enacted that e9y bysshop ordynary archdeken channcellour comyssary offycyal, and other person and persons havyng or the whiche herafter shall have auctoritie to take probate of testamentes, their regystere, scribes, praisers, somoners, apparatours, and all other theyr ministers what soo ever they be, that shall doo or attempt or cause to be done and attempted agaynst this Acte or ordynaunce in any thyng, shall forfeyte and lose for every tyme so offendyng to the gtye greved in that behalf so moch money as any suche person abovesaid shall take contrary© to this psent Acte; and over that, shall lose and forfyte xli. sterlyng, wherof the one moyte shalbe to the Kyng
 
 1 be printed copies. 2 his printed copies. 3 do printed copies.
 
@@ -21690,7 +21688,7 @@ CHAPTER XIX.
 
 An Acte conSninge Avouries.
 
-\\l HERE as well the noble men of thys realme as dyvers other persons, by Tenants of * * fines recovereys grauntes and secrete feoffementes and leases made by* their tenauntes to persons unknowen of the landes and tenementes holden of reason of secret them, have ben put from the knowlege of their tenauntes upon whom© they conveyftnce8: Bhulde by ordre of the lawe make theyr avowryes for their rentes customes and §vyces, to their great losses and hynderaunces; be tt therefore enacted Landlords, &c. estahlysshed and ordeyned by auctorite of this psent Parliament, that where ^^Sltomi, soever any maner landes tenementes or other heredytamentes be holden of and services, any maner person or persons by rentes customes or 8vyces, that yf the lorde of Se^mtmmg whome any suche maner landes tenementes or heredytamentes be so holden, dystrayn upon the same maners lands or tenementes for any suche rentes customes or servyces and replevyne therof be sued, that the lorde of whome the same londes tenementes or heredytamentes (1) so holden may avowe or his baylyffe or servaunt make conysaunce or justify© for takyng of the said dystresses upon the same landes tentes or hereditamentes so holden, as in landes or tenementes within his [see 2] or seygnorye, alegyng in the said avowrye conysaunce and justification the same maners landes and tenementes to be holden of hym, without namyng of any person Steyn to be tenauntes of the same, and without makyng any avowrie justificacion or conysaunce upon any person certeyne; and lykewyse the lorde bayly or servaunt to make avowrye justificadone or conysaunce in lyke maner and forme upon every wrytt sued of seconde delyveraunce.
+\\l HERE as well the noble men of thys realme as dyvers other persons, by Tenants of * * fines recovereys grauntes and secrete feoffementes and leases made by* their tenauntes to persons unknowen of the landes and tenementes holden of reason of secret them, have ben put from the knowlege of their tenauntes upon whom© they conveyftnce8: Bhulde by ordre of the lawe make theyr avowryes for their rentes customes and §vyces, to their great losses and hynderaunces; be tt therefore enacted Landlords, &c. estahlysshed and ordeyned by auctorite of this psent Parliament, that where ^Sltomi, soever any maner landes tenementes or other heredytamentes be holden of and services, any maner person or persons by rentes customes or 8vyces, that yf the lorde of Se^mtmmg whome any suche maner landes tenementes or heredytamentes be so holden, dystrayn upon the same maners lands or tenementes for any suche rentes customes or servyces and replevyne therof be sued, that the lorde of whome the same londes tenementes or heredytamentes (1) so holden may avowe or his baylyffe or servaunt make conysaunce or justify© for takyng of the said dystresses upon the same landes tentes or hereditamentes so holden, as in landes or tenementes within his [see 2] or seygnorye, alegyng in the said avowrye conysaunce and justification the same maners landes and tenementes to be holden of hym, without namyng of any person Steyn to be tenauntes of the same, and without makyng any avowrie justificacion or conysaunce upon any person certeyne; and lykewyse the lorde bayly or servaunt to make avowrye justificadone or conysaunce in lyke maner and forme upon every wrytt sued of seconde delyveraunce.
 
 AlNB Also be it enacted by the said auctorite that every avow&unt and H every other pson or persones that make any such avowrie justyfycacyon or conysaunce as bayly or servaunt to any person or psons in any replegiare or dmnjigct and seconde delyveraunce, for rentes customes servyces or for damage fesaunt or co#t# of other rent or rentes upon any dystresse taken in any landes or tenementes, yf
 
@@ -22200,7 +22198,7 @@ And it is further enacted that if any psonne or psonnes in defraude of this esta
 
 Provtded alway that in suche cities and townes corporate, where by their auncient customes they have good and laufull auctorities to devyse into mortmayne the landes tenement? and hereditamentes within the same cities or townes corporate, that this Acte shall not be in any wise pjudiciall or hurtfull to any suche custome.
 
-##«*#***
+#«*#***
 
 --------------------------------------------
 
@@ -22342,7 +22340,7 @@ A.D. 1531-2.
 
 409
 
-unreasonably© vex© inquyet molest trouble or greve our seid so9aign lord© bis heyres or successours Kynges of England or any of his or their spirituall or lay subjectes or this his realme, by exo5municacon excomengement interdicoon or by any other pcesse censures copulsories wayes or meanes; be yt ENACTED by the auctoritie aforesaid, that the Kynges Highnes his heyres and - . successours Kynges of Englond and all his spuall and lay subjectys of the same, without any scripull of consciens shall and may laufully to the honour of Almyghty God, the encrease and contynuaunce of vertue and good example within this realme, the said censures excomunicacons interdiccons compulsories or any of theym notwithstanding, mynister or cause to be mynistered thorough-out this seid realme and all other the domynions and territories belonging or apperteyning thereunto, all and all maner sacramentys sacramentallys seremonies or other devyne 8vice of Holye Churche or eny other thing or thinges necessarie for the helthe of the soule of mankynde as they heretofore at any tyme or tymes have been vertuously used or accustumed to do within the same; and that no maner suche censures excomunicacons interdiccons or Prelates shall any other proces or compulsories shalbe by any of the prelates or other spuall g^^rdict fathers of this region ne by any of their mynisters or substitutes, be at any tyme or tymes hereafter publisshed executed nor devulged nor Buffered to be publisshed executed or devulgyd in any maner of wise.
+unreasonably© vex© inquyet molest trouble or greve our seid so9aign lord© bis heyres or successours Kynges of England or any of his or their spirituall or lay subjectes or this his realme, by exo5municacon excomengement interdicoon or by any other pcesse censures copulsories wayes or meanes; be yt ENACTED by the auctoritie aforesaid, that the Kynges Highnes his heyres and - . successours Kynges of Englond and all his spuall and lay subjectys of the same, without any scripull of consciens shall and may laufully to the honour of Almyghty God, the encrease and contynuaunce of vertue and good example within this realme, the said censures excomunicacons interdiccons compulsories or any of theym notwithstanding, mynister or cause to be mynistered thorough-out this seid realme and all other the domynions and territories belonging or apperteyning thereunto, all and all maner sacramentys sacramentallys seremonies or other devyne 8vice of Holye Churche or eny other thing or thinges necessarie for the helthe of the soule of mankynde as they heretofore at any tyme or tymes have been vertuously used or accustumed to do within the same; and that no maner suche censures excomunicacons interdiccons or Prelates shall any other proces or compulsories shalbe by any of the prelates or other spuall g^rdict fathers of this region ne by any of their mynisters or substitutes, be at any tyme or tymes hereafter publisshed executed nor devulged nor Buffered to be publisshed executed or devulgyd in any maner of wise.
 
 24 HENRY VIII. A.D. 1532-3.
 
@@ -22534,7 +22532,7 @@ Pbovyded alway that no canons constitucions or ordynance shalbe made in. or put 
 
 clergie, which shalbe oontraryaunt or repugnant to the Kynges prerogatyve enforced con-royall or the customes lawes or statutes of this realme; any thyng conteyned ^ng'^prero-in this Acte to the contrarye herof notwithstondyng. gatiye.
 
-And be it further enacted by auctoryte aforsede that frome the feast of IV. Easter whiche shalbe in the yere of our Lorde God M1 D xxxiiij no maner of R^J^ther-appeales shalbe had provoked or made, out of this realme or out of any of the wise than Kynges domynyons, to the Byshop of Rome nor to the see of Rome, in any causes or matters happenyng to be in contencion and havyng theire coinense* vm. chapter ment and begynnyng in any of the [courties 2J within this realme or within 12' any of the Kynges domynyons of what nature condicion or qualitie soever they be of; but that all maner of appelles of what nature or condicion soo ever they be of, or what cause or matter soo ever they conceme, shalbe made and had by the parties greved or havyng cause of appele after suche maner forme and condicion as is lymyted for appeles to be had and prosecuted within this realme in causes of matrimonye tythes oblacions and obvencions, by a Statute therof made and establisshed sythen the begynnyng of this present Parliament, and accordyng to the forme and effecte of the seid estatute, any usage custome prescripcion or any thyng or thynges to the contrary herof not withstondyng. And for lacke of justice at or in any the courtes of the Appeals from archebisshopes of this realme or in any the Kynges domynyons, it shalbe ^^the*
+And be it further enacted by auctoryte aforsede that frome the feast of IV. Easter whiche shalbe in the yere of our Lorde God M1 D xxxiiij no maner of R^J^ther-appeales shalbe had provoked or made, out of this realme or out of any of the wise than Kynges domynyons, to the Byshop of Rome nor to the see of Rome, in any causes or matters happenyng to be in contencion and havyng theire coinense* vm. chapter ment and begynnyng in any of the [courties 2J within this realme or within 12' any of the Kynges domynyons of what nature condicion or qualitie soever they be of; but that all maner of appelles of what nature or condicion soo ever they be of, or what cause or matter soo ever they conceme, shalbe made and had by the parties greved or havyng cause of appele after suche maner forme and condicion as is lymyted for appeles to be had and prosecuted within this realme in causes of matrimonye tythes oblacions and obvencions, by a Statute therof made and establisshed sythen the begynnyng of this present Parliament, and accordyng to the forme and effecte of the seid estatute, any usage custome prescripcion or any thyng or thynges to the contrary herof not withstondyng. And for lacke of justice at or in any the courtes of the Appeals from archebisshopes of this realme or in any the Kynges domynyons, it shalbe ^the*
 
 lawfull to the parties greved to appele to the Kynges Majestie in the Kynges Chancery, Courte of ChaunSie, and that upon every suche appele a cSmission shalbe by
 
@@ -22856,7 +22854,7 @@ And be it enacted by this present Parliament and by thauctoritie of the ^ VII. s
 
 Be it also enacted by this Parliament and auct-oritie of the same that the ^ ^vm. taxe or some appoynted to be payd for every suche dispensacion licence thetaxeitobe facultie instrument rescripte, or other wrytyng to be graunted by auctoritie for ^ of this Acte, shalbe employed &> ordered as here after ensuyth that is to Bey; ' "
 
-if the taxe extende to foure poundes or above by reason wherof the dispen- If amounting sacion licence facultie rescripte or wrytyng whiche shall passe by the seid t0 four 1?°^^ * archebisshoppes seale muste be confirmed by thappencion of the greate seale, then the seid taxe so extendyng to iiij ii [or6] above shalbe devyded into three partes wherof two shall be pceyved by the seid clerke of the ChaunSie to be appoynted as is afore seid to the use of your Highnes your heires and successours and to the use of the lorde chauncelour or the keper of the greate seale for the tyme being and to the use of the seid clerke, in suche wyse as here after shalbe declared and [that7] the thride parte shalbe taken by the seid clerke of the archebisshope to the use of the same archebishop and hys comissarye and hys seid clerke and regester in suche wyse as here after shalbe ordered and lymytted by this Acte; (that is to sey) the seid two partes shalbe devyded in foure partes of which thre partes shalbe taken to the only use of your Highnes your heires and successours, and the fourthe parte shalbe devyded in thre partes wherof the chaunceler of Englond or lorde keper of the great seale for the tyme being shall have two partes and the (8) clerke
+if the taxe extende to foure poundes or above by reason wherof the dispen- If amounting sacion licence facultie rescripte or wrytyng whiche shall passe by the seid t0 four 1?°^ * archebisshoppes seale muste be confirmed by thappencion of the greate seale, then the seid taxe so extendyng to iiij ii [or6] above shalbe devyded into three partes wherof two shall be pceyved by the seid clerke of the ChaunSie to be appoynted as is afore seid to the use of your Highnes your heires and successours and to the use of the lorde chauncelour or the keper of the greate seale for the tyme being and to the use of the seid clerke, in suche wyse as here after shalbe declared and [that7] the thride parte shalbe taken by the seid clerke of the archebisshope to the use of the same archebishop and hys comissarye and hys seid clerke and regester in suche wyse as here after shalbe ordered and lymytted by this Acte; (that is to sey) the seid two partes shalbe devyded in foure partes of which thre partes shalbe taken to the only use of your Highnes your heires and successours, and the fourthe parte shalbe devyded in thre partes wherof the chaunceler of Englond or lorde keper of the great seale for the tyme being shall have two partes and the (8) clerke
 
 1 note 0. & nu. 28. 3 whiche 0. & nu. 28. 3 was nu. 28. 4 spedde 0.
 
@@ -23304,7 +23302,7 @@ XXIII. Incumbents of benefices under eight marks shall not pay first-fruits till
 
 nacion therof, yet never the les the incumbent chargyd withe suche pencyon nor his suerties collaterall shall not be compellyd to pay any more pencyon than the value of the thirde parte of his dygnitie benefice or promotion spirituall soo resigned shall mounte unto; but shall by auctorite of this Acte be derely acquyted & discharged of soo moche of the saide pencyon as shall amounte above the value of the thirde parte of the dignytie or benefice resygned; any decree or assignement of the ordynarie or any coll&ter&De writinges or suerties heretofore made or hereafter to be hadde or made for the same to the contarye therof not withstandyng.
 
-####•*#*•
+#•*#*•
 
 And for asmoche as yn sondrye & manye cathedrall churches colleges & hospitalles of this realme ther is & tyme oute of mynde hathe bene certayne ordinances ynstituted & made, wherby the deane, provoust, mayBter or other chiefe govemoure of suche churches colleges & hospitalles, bathe a certayne parte or porcyon of the possessions and profittes belonginge to suche churches colleges & hospitalles, all onely lymytted and belonginge to their offices & dignyties; and everie prebendarie, brother, vicar, fellowe, petie canon and other mynysters spirituall yn suche churches colleges & hospitalles hathe another porcyon alonly & distinctly lymytted apperteyninge and belonginge to theyr dignyties & offices yn suche churches hospitalles & colleges; it ys therefore provyded & ordeyned by auctorite aforesaide that suche persone and persones, whiche at any tyme after the saide firste daie of Januarie shalbe nomynated electid presentyd pfected collated or by other means appoynted to be deane provost mayster or other chiefe govemoure of suche cathedrall churches colleges or hospitalles, shalbe rated compound and paye for theyr fyrste fruytes but onely after the rate of the yerely value of the possessions & profittes lymytted & belonginge to their office and dignytie: And that everie other person and persones that after the said fyrste daye of Januarie shalbe nomynatyd elected presented prefectyd collated or by any other me&nes appoynted to have any prebende, brotherahipe, felowshippe or to be any vicar or petie canon or to have any other dignytie or office spirituall yn any suche cathedrall churches, colleges, or hospitalles, shalbe rated compounde & paye for theyr fyrste fruytes after the rate of the yerely value of the possessions & profyttes lymytted & belonginge to their dignyties & offices yn suche churches colleges & hospitalles & none other wise; any thinge yn this Acte to the contrarie hereof yn any wyse notwithstanding.
 
@@ -24412,7 +24410,7 @@ Mispleading Jeofailes, &c.
 
 T^ORASMUCHE as the partie playntifes and demanndauntis in all maner of actions and sutes aswell reall as psonall at the comon lawe of this realme bifore this tyme have been greately delayed and hindred in their sutes and demaundis, by reason of the craftye subtUl and negligent pleading^ of the plainetifes or demaundauntes defendauntis or ten*nt? where any action or demaunde hath been sued had or made, aswell in ministring of their declarations and barres as also in their replications rejoynders rebutters joyning of issues and other pleading^, to the greate hurte delay and hinder-aunoe of the said plainetifes or demaundauntis or to the vexation of the defendauntis or tenantis, in so muche that whan thissues joynid in the same actions betwene the parties to the same hath been tried and founde by the verdicte of xij or moo indifferent psonnes for the said plainetifes or demaundauntis or for the tenantis or defendauntis, and the justices redy to geve judgement for the said parties for whome the said issue was founde, the same parties have ben compellid by the course and ordre of the comon lawe of this realme afore this tyme to replede, and the said verdictes so geven as is aforerehersid to be taken as voide and of none effecte, sometyme bicause thissues have ben misjoyned and a [jeofail1] and sometyme by taking advantage of the parties owne mispleading, or in the pursueing [myscon-tynuying *] or discontynuyng of proces of any of the parties and for divers other causes; the whiche is thought aswell a greate scl&under to the stud comon lawe of this realme and to the ministres of the same as also playne delays and hinderaunce unto the said parties, in that they shulde not have their judgements whan thissue hathe ben founde and tried as is aforesaide to their greate costis and charges; be it therefore enacted by the King our souveraine lorde the lordes spuall and temporall and the comons in this psent Plamet assembled and by thauctoritie of the same, that fromhensfurth if any issue be tried by the othe of xij or moo indifferent men for the partie plainctif or demaundant or for the partie of the tenant or defendaunt, in any maner of action or sute at the comon lawe of this realme in any of the Kinges courtis of recorde, that then the justice and justices by whome judgemet therof ought to be geven shall procede and geve judgement in the same; any mys-pleading lacke of colour in sufficient pleading or jeofaile any myscontynuance or discontinuance or mysconveying of process mysjoyning of thissue lacke of warraunt of attoumay for the partie against whome the same issue shal-happen to be tried, or any other defaulte or necligence of any of the parties ther counsaillours or attoumaies, had or made to the contrary notwithstanding; and the saide judgements therof so to be had and geven shall stande in full strength and force to all intentis and purposes accordinge to the said verdicte, without any reversell or undoing of the same by writte of errour or of false judgement, in like fourme as though no suche defaulte or necligence had ne9 ben had or comitted.
 
-###* *****
+#* *****
 
 1 yeofaile O. 2 mysconveying O.
 
@@ -24536,7 +24534,7 @@ CHAPTER XXXVIII.
 
 ConSning pcontractf and degrees of Consahguinite. JaJ
 
-Y\l HERAS heretofore the usurped power of the bishop of Rome hathe " alwayes entangled and troubled the mere jurisdiction and legal power of this readme of England, and also unquietid muche the subjectis of the same by his usurped power in them, as by making that unlaufull whiche by Goddis wourde is laufull bothe in manages and other thinges as heraftre shall appere at more length; and till nowe of late in our souveraine lordes tyme, whiche is otherwise by laming tawght than his predecessours in tymes past of longe tyme have ben, hath so contynued the same, wherof yet some sparkis be lefte whiche heraftre might kindle a greater fyer and so remayning his power not to seme utterly extincte, therefore it is thought mooste convenient to the Kinges Highnes his lordis spuall and temporall with the comons of his realme assembled in this present Plament that twoo thinges specially for this tyme be with diligence provided for, whereby many inconveniences hath ensued and many moo els mought ensue and followe: As where heretofore divers and many psonnes after longe contynuaunces togither in matrimonye, without any allegation of either of the pties or anny other at their manage whie the same matrimony should not be good juste and laufull, and after the same matrimony solemnised and consumate by camall knowlege, and also some tyme fruite of children ensued of the same manage, have nevertheless by an unjuste lawe of the bishop of Rome, whiche is that uppon pretence of a former contracte made and not consumate bT— *^^-usopulation, for profe wherof twoo witnes by
+Y\l HERAS heretofore the usurped power of the bishop of Rome hathe " alwayes entangled and troubled the mere jurisdiction and legal power of this readme of England, and also unquietid muche the subjectis of the same by his usurped power in them, as by making that unlaufull whiche by Goddis wourde is laufull bothe in manages and other thinges as heraftre shall appere at more length; and till nowe of late in our souveraine lordes tyme, whiche is otherwise by laming tawght than his predecessours in tymes past of longe tyme have ben, hath so contynued the same, wherof yet some sparkis be lefte whiche heraftre might kindle a greater fyer and so remayning his power not to seme utterly extincte, therefore it is thought mooste convenient to the Kinges Highnes his lordis spuall and temporall with the comons of his realme assembled in this present Plament that twoo thinges specially for this tyme be with diligence provided for, whereby many inconveniences hath ensued and many moo els mought ensue and followe: As where heretofore divers and many psonnes after longe contynuaunces togither in matrimonye, without any allegation of either of the pties or anny other at their manage whie the same matrimony should not be good juste and laufull, and after the same matrimony solemnised and consumate by camall knowlege, and also some tyme fruite of children ensued of the same manage, have nevertheless by an unjuste lawe of the bishop of Rome, whiche is that uppon pretence of a former contracte made and not consumate bT— *^-usopulation, for profe wherof twoo witnes by
 
 that lawe were onelv ien divorsed and separate contrarie to Goddis
 
@@ -24676,7 +24674,7 @@ nacyons any thinge to attempte or do© to the hurte or damage of them, (l) yet n
 
 maye appear©:.....
 
-***#**##•
+***#**#•
 
 Be it also enacted by thauctoritie aforesaide, that noe manner of pson of what degree qualy tie or condiam soever he or they be, from the feast of the Nativitye of S* John Baptist now next cbmynge, by himselfe factor deputye servaunte or other pson, shall for his or their gayne lucre or lyvinge, kepe have houlde occupie excise or maynteyne any comon house alley or place of bowlinge coy tinge cloyshe cayles half© bowle tennys dyeing table or cardinge, or any other manner of game ghibite by anye estatute heretofore made, or any unlaufull newe game no we invented or made, or any other unlaufull newe game hereafter to be invented founde had or made, upon payne to forfeyt and paye for everie daye kepinge havinge or mayntayninge, or sufferinge any suche game to be had kepte executed playde or maynteyned, within anye suche house garden alley or other place contone to the fourme and effect© of this estatute fourtie shilling?; and also everie pson usinge and hauntinge any of the saide houses and places and there playenge, to forfeyt for everie tyme so doinge vj s. viij d. And yf any pson hereafter sue for any placarde to have cdmon gamynge in his house contPrie to this estatute, that then it shalbe conteyned in the same placarde what game shalbe used in the same house and what psons shall playe thereat, and everie placarde graunted to the cont*rie to be voyde, and also that the partye obteyninge any suche placarde before he put the same in execucon shalbe bounde withe sufficient suertyes withe him by recognizaunce in the Chauncerie in a Sten some to be appoynted by the discrecon of the lorde chauncelor of Englande that he shall not use the saide placarde contrie to the fourme thereof.
 
@@ -24694,7 +24692,7 @@ yinprison, and them so taken and arrested to keep in prison, unto such tyme as t
 
 • • • # * • •
 
-Be it also enacted by thauctoritie aforesaide, that noe manner of artyficer e XI. or craflf man of any handy crafte or occupation, husbandman apprentice seivantaghall laborer £vante at husbandrye jorneyman or § vaunt e of artyficer marriners not play at fysshermen watermen* or any Ivyngman, shall from the saide feast of the out of arrisT' Natyvitie of Sainte John Baptiste playe at the tables tennys dyce cardes &c-bowles clashe coy tinge logatinge, or any other unlawfull game, out of ^^^dens" Christmas, under (1) peyne of twentye shillingf to be forfeyt for everie tyme, and in Christmas to playe at anye of the saide games in their maisters houses or in their maisters psence: And also that noe manner of pson shall at any tyme playe at any bowle or bowles in open placf out of his garden or orcharde, under the peyne for eyerie tyme so offendinge to forfeyt vj s. viij d: And that justices of all justice of peace mayors baylifff sheriefff and all other hed officers and ^^ommit everie of them, fyndinge or knowinge any manner pson or psons usinge or offenders, excisinge any unlaufull games contone to this psent estatute, shall have full power and auctoritie to cdmytt everie such offendor to warde, there to remayne without bayle or mayneprise untill suche tyme that they so offendinge be bounden by obligation to the Kingf use, in such somes of money as by the discrecons of the saide [maior justice2] baylifff or other head offycers shalbe thought reasonable, that they or any of them shall not from henceforthe use suche unlaufull games.
+Be it also enacted by thauctoritie aforesaide, that noe manner of artyficer e XI. or craflf man of any handy crafte or occupation, husbandman apprentice seivantaghall laborer £vante at husbandrye jorneyman or § vaunt e of artyficer marriners not play at fysshermen watermen* or any Ivyngman, shall from the saide feast of the out of arrisT' Natyvitie of Sainte John Baptiste playe at the tables tennys dyce cardes &c-bowles clashe coy tinge logatinge, or any other unlawfull game, out of ^dens" Christmas, under (1) peyne of twentye shillingf to be forfeyt for everie tyme, and in Christmas to playe at anye of the saide games in their maisters houses or in their maisters psence: And also that noe manner of pson shall at any tyme playe at any bowle or bowles in open placf out of his garden or orcharde, under the peyne for eyerie tyme so offendinge to forfeyt vj s. viij d: And that justices of all justice of peace mayors baylifff sheriefff and all other hed officers and ^ommit everie of them, fyndinge or knowinge any manner pson or psons usinge or offenders, excisinge any unlaufull games contone to this psent estatute, shall have full power and auctoritie to cdmytt everie such offendor to warde, there to remayne without bayle or mayneprise untill suche tyme that they so offendinge be bounden by obligation to the Kingf use, in such somes of money as by the discrecons of the saide [maior justice2] baylifff or other head offycers shalbe thought reasonable, that they or any of them shall not from henceforthe use suche unlaufull games.
 
 Be it further enacted by thauctoritie aforesaide, that all other statute made xn. for the restraynt of unlaufull games or for the mayntenance of artillerie, as touchinge the penaltyes or forfeytures of the same, shalbe from hensforthe repealed: utterlye voyde; and [for *] all informations pleynte actions or suyte that shalbe Limitation of taken or sued uppon anye parte of this estatute shalbe comenced within the Bmt*> one year* yere after the offence comytted and done, or otherwise no advantage or suyte thereof to be taken; and where any suche forfeytures shall happen to be founde within the pcincte of anye fraunchise leete or lawe daye, then the lorde Application of of the same fraunchese leete or lawedaye to have the one moytie thereof, and penaltie8* thother moytie thereof to anye of the Kingf subjectf that will sue for the same in anye of the Kingf courtf by accon information bill or otherwise, in whiche accon or suyte the defendaunte shall not be admitted to wage his lawe nor any pteccon nor essoyne shalbe allowed; and where suche forfeyture shalbe founden out of the precincte of any franchise leete or lawe daye, that the moytie of all suche forfeytures shalbe to the Kinge our soveraigne lorde and thother moytie thereof to any of the Kingf subjectf that will sue for the same by bill playnte accon information or otherwise in anye of the Kingf courtf, in whiche suyte or accon the defendaunte shall not be admytted to wage his lawe nor any pteccon or essoyne shalbe allowed.
 
@@ -24742,7 +24740,7 @@ AD. 1541-2.
 
 499
 
-of the saide lorde great maister or lorde steward© of the householde before the treasorei and comptroller for the tyme beinge of the King? most honorable householde and of his heires and successors, and stewarde of the Marshalsey for the tyme beinge, or twoe of them wherof the stewarde of the Marshalsey for the tyme beinge to be one, by vertue of their offices without any comission or other aucthoritie or power other then by thauctoritie of this psent Acte to be geven unto them or anye of them; whiche stewarde of the Marshalsey shalbe forever from tyme to tyme assigned and appoynted bye writinge under the seale of the saide lorde great maister or lorde stewarde for the tyme beinge; and whether the Kinges Majestie or his heires hathe or at any tyme hereafter shalbe removed from the pallace house or houses where suche offences were or shalbe done or not removed, before they be enquired of tried heard and determyned, yet suche offences shall by thauctoritie of this Acte alwayes from hensforth be enquired of tried heard and determyned before the King? Majesties and his heires officers & ministers of householde before named, or two of them as ys abovesaide, [be1] the inquisicon and verdicte of his Highnes and his heires householde 8vantes in his and their chequer rolle, in manner and fourme as before & hereafter ys expssed in this psent Acte, and at suche pallace house and houses where his Majestie or his heires shalbe at anye tyme hereafter demurrant or abydinge; and that all suche retornes of pees, and all execucons and judgment? conSninge the pmisses shalbe had and done by the officers before & hereafter expssed and in manner and fourme as before and hereafter in this psent Acte ys conteyned: And that All inquests on all inquisicons upon the viewe of psons slayne or hereafter to be slayne within any the King? saide pallaces or houses or other house or houses aforesaide, coart shall be shalbe by auctoritie of this Acte had and taken hereafter for ever by the ^^^oHhe coroner for the tyme beinge of the householde of our soveraigne lorde the household. Kinge or his heires, without any adjoyninge or assisting of an other coroner of any shire within this realme, by the othe of twelve or more of the yeomen officers of the Kinges and his heires most honorable houshold, retomed by the two derkes comptrollers the clerkes of the cheque and the dark? marshall? or one of them for the tyme beinge of the saide housholde, to whom the saide coroner of the same houshoulde shall directe his pcepte; whiche coroner of our saide soveraigne lorde the King? houshoulde shalbe from tyme to tyme named appoynted and assigned by the saide lorde greate maister or lorde stewarde for the tyme beinge; and that the'saide coroner of the saide housholde shall from tyme to tyme for ever without delaye Styfie, under his seale and the seales of suche psons as shalbe swome before him, all suche inquisicons indictment? and offices uppon the viewe of all dead bodyes beinge slayne at any tyme syth the feast of All Sainet? aforesaide or whiche hereafter shalbe slayne within any the Kinges saide pallaces or houses or other house or houses aforesaide, before the saide lorde greate maister or lorde stewarde, and in his absence before the treasorer comptroller and stewarde of the Marshalsey aforesaide or before two of them whereof the saide stewarde of the Marshalsey to be one; and that suche inquisicons and offices soe Styfied shalbe demed judged & taken forever as good and effectuall in the lawe to all intent? construccons and purposes, as any inquisicon taken upon the viewe of the
+of the saide lorde great maister or lorde steward© of the householde before the treasorei and comptroller for the tyme beinge of the King? most honorable householde and of his heires and successors, and stewarde of the Marshalsey for the tyme beinge, or twoe of them wherof the stewarde of the Marshalsey for the tyme beinge to be one, by vertue of their offices without any comission or other aucthoritie or power other then by thauctoritie of this psent Acte to be geven unto them or anye of them; whiche stewarde of the Marshalsey shalbe forever from tyme to tyme assigned and appoynted bye writinge under the seale of the saide lorde great maister or lorde stewarde for the tyme beinge; and whether the Kinges Majestie or his heires hathe or at any tyme hereafter shalbe removed from the pallace house or houses where suche offences were or shalbe done or not removed, before they be enquired of tried heard and determyned, yet suche offences shall by thauctoritie of this Acte alwayes from hensforth be enquired of tried heard and determyned before the King? Majesties and his heires officers & ministers of householde before named, or two of them as ys abovesaide, [be1] the inquisicon and verdicte of his Highnes and his heires householde 8vantes in his and their chequer rolle, in manner and fourme as before & hereafter ys expssed in this psent Acte, and at suche pallace house and houses where his Majestie or his heires shalbe at anye tyme hereafter demurrant or abydinge; and that all suche retornes of pees, and all execucons and judgment? conSninge the pmisses shalbe had and done by the officers before & hereafter expssed and in manner and fourme as before and hereafter in this psent Acte ys conteyned: And that All inquests on all inquisicons upon the viewe of psons slayne or hereafter to be slayne within any the King? saide pallaces or houses or other house or houses aforesaide, coart shall be shalbe by auctoritie of this Acte had and taken hereafter for ever by the ^oHhe coroner for the tyme beinge of the householde of our soveraigne lorde the household. Kinge or his heires, without any adjoyninge or assisting of an other coroner of any shire within this realme, by the othe of twelve or more of the yeomen officers of the Kinges and his heires most honorable houshold, retomed by the two derkes comptrollers the clerkes of the cheque and the dark? marshall? or one of them for the tyme beinge of the saide housholde, to whom the saide coroner of the same houshoulde shall directe his pcepte; whiche coroner of our saide soveraigne lorde the King? houshoulde shalbe from tyme to tyme named appoynted and assigned by the saide lorde greate maister or lorde stewarde for the tyme beinge; and that the'saide coroner of the saide housholde shall from tyme to tyme for ever without delaye Styfie, under his seale and the seales of suche psons as shalbe swome before him, all suche inquisicons indictment? and offices uppon the viewe of all dead bodyes beinge slayne at any tyme syth the feast of All Sainet? aforesaide or whiche hereafter shalbe slayne within any the Kinges saide pallaces or houses or other house or houses aforesaide, before the saide lorde greate maister or lorde stewarde, and in his absence before the treasorer comptroller and stewarde of the Marshalsey aforesaide or before two of them whereof the saide stewarde of the Marshalsey to be one; and that suche inquisicons and offices soe Styfied shalbe demed judged & taken forever as good and effectuall in the lawe to all intent? construccons and purposes, as any inquisicon taken upon the viewe of the
 
 1 by O.
 
@@ -24928,7 +24926,7 @@ An Acte for due Pees to be had in Highe Treason in Cases of Lunacye or
 
 Madnes.
 
-##•
+#•
 
 And be it further enacted by auctoritie of this psent Parliament, that yf any pson or psons shall happen to be attainted and convicted of highe treason, by auctoritie of Parliament or by the due course of the c5mon lawes or statut? of this realme, and afterward? fall to madness or lunacye, that yet nevertheless they shall have and suffer execucon, their madnes or lunacye notwithstandinge: {Rep., Stat. Law Rev. Act, 1863.J And that yf any pson or psons shalbe attaynted of highe treason by the course of the edmon lawes or statute of this realme, that in everie suche case everie suche attaynder by the comon lawe shalbe of as good strenghe value force and effecte as yf it had bene done by auctoritie of Parliament; and that the Kinges Majestie his heires and successours shall have as muche benefitt and advantage by suche ataynder, aswell of uses right? entries condicons as possessions reVsions remaynders and all other thing?, as if it had bene done and declared by auctoritie of Parliament, and shalbe demed and adjudged in actuall and reall possessions of the landes tent? hereditament? uses good? cattell? and all other thing? of the offendor? so attaynted, whiche his Highnes ought laufully to have, and whiche they so beinge attaynted ought or mought laufully lose and forfeyte, if the attaynder had bene done by auctoritie of Parliament, without any office or inquisicon to be founde of the same; anye lawe statute or use of this realme to the cont*rie thereof in any wise notwithstandinge.
 
@@ -25448,7 +25446,7 @@ JLD. 1542-3. 34 & 35 Henby VIIL c. 13,20. 523
 
 intent? construocons and purposes as any other the knight? and burgesses of the saide courte shall male or ought to have taken or enjoye.
 
-* * #####**
+* * #**
 
 CHAPTER XX.
 
@@ -25516,9 +25514,9 @@ A.D. 1543-4.
 
 525
 
-concelementf of treasons, and done ppetrated or comytted or hereafter to be the King's done ppetrate or comitted by anye pson or psons out of this realme of England©, ^^'spUiai shalbe from bensforth inquired of herd and determyned before the Kingf commissioners, justicf of his benche for plees to be holden before himselfe, by good and laufull men of the same shire where the saide benche shall sytt and be kepte, or els before suche comissioners and in suche shire of the realme as shalbe assigned by the Kinges Majesties comission, and by good and laufull men of the same shire; in like manner and forme to all entente and purposes as if suche treasons mysprisions of treasons or concelementf of treasons had bene done ppetrated and comytted within the same shire where they shalbe so inquired of harde & de?myned as is aforesaid.
+concelementf of treasons, and done ppetrated or comytted or hereafter to be the King's done ppetrate or comitted by anye pson or psons out of this realme of England©, ^'spUiai shalbe from bensforth inquired of herd and determyned before the Kingf commissioners, justicf of his benche for plees to be holden before himselfe, by good and laufull men of the same shire where the saide benche shall sytt and be kepte, or els before suche comissioners and in suche shire of the realme as shalbe assigned by the Kinges Majesties comission, and by good and laufull men of the same shire; in like manner and forme to all entente and purposes as if suche treasons mysprisions of treasons or concelementf of treasons had bene done ppetrated and comytted within the same shire where they shalbe so inquired of harde & de?myned as is aforesaid.
 
-Provided alwayes that if any the peers of this realme shall happen to be n. endyted of any suche treasons or other offences aforesaide by auctoritie of ^^bypee^ this Acte, that then after such inditement they shall have their triall by their peers in suche like manner and forme as hath bene heretofore accustomed.
+Provided alwayes that if any the peers of this realme shall happen to be n. endyted of any suche treasons or other offences aforesaide by auctoritie of ^bypee^ this Acte, that then after such inditement they shall have their triall by their peers in suche like manner and forme as hath bene heretofore accustomed.
 
 37 HENRY VIH. A.D. 1545.
 
@@ -26686,7 +26684,7 @@ Provided also that yf any pson or peons doe hereafter offende in anye IV. thinge
 
 all judgement? given and all other acte and act? executed or done by any ofifcndin*, suche peon or peons so offendinge, by anctoritie or colour of the office or deputacon whiche ought to be forfeited or not occupied or not enjoyed by the declared valid, peon so offendinge as ys aforesaide, after the saide offence so by suche pson comytted or done and before suche pson so offendinge for the same offence be removed from the excise admynistracon and occupacon of the saide office or deputacon, shalbe and remayne good & sufficient in lawe to all intent? con-strucc&n and purposes, in suche like manner and fourme as the same sholde and ought to have remayned and bene yf this Acte had never bene hadd or made.
 
-• •##
+• •#
 
 7 EDWARD VI. A.D. 1562-3.
 
@@ -27342,7 +27340,7 @@ And if yt happen that anny peare of this realme shall fortune to bee endicted of
 
 (*) Provided alwais and be it enacted as is aforesaid, that no maner of order acte or determinacon for annye matter of religion or cause ecclesiasticall had or made by thaucthorite of this pnt Pliamt, shalbe accepted demed inter-pretate or adjudged at ady time hereafter to be any erro* heresie scisme or scismaticall opinion; any order decree sentence consticucon or laws, whatsoever the same bee, to the contrary notwithstanding.
 
-#•«##•
+#•«#•
 
 And be yt further enacted by thaucthoritie aforesaid, that no pson or psons shalbe hereafter indicted or arrained for anny thoffences made ordeined revived or adjudged by this Acte, oneles ther be two sufficient witnesses or more to testifie and declare the said offences wherof he shalbe indicted or arraigned; and that the sayd witnesses or so many of them as shalbee lyving and within this realme at the tyme of tharraignement of suche pson so indicted, shalbe brought for the in pson, face to face before the partie so arraigned, and ther shall testifie and declare what they can saye against the partie so arraigned, yf he require the same.
 
@@ -28068,7 +28066,7 @@ Provided also and bee yt further enacted by thaucthoritee aforesaid, that yf any
 
 vn. Provided alwaies, that this Acte or any thing therin conteyned shall not
 
-^ any w*se ex^nde 2] to restraine the power or aucthoritee geven, by Acte lord chancel- of Pliament made in the tyme of King Henry the Seventhe, to the 1. chan-S^^Chamber ceH°ur of Englande and others of the Kinges counsell for the tyme being, under 11H.VIL texamine and punishe riottes heinous pjuries and other offences and misde-preridenf, &c. meaninges; w°h lorde chancello1 and other sithens the making of the saide of Wales, &c. Acte, have most comonly used to heare and determyne suche matters in the courte at Wes tin comonly called the Starre Chamber; nor to restray ne the power or aucthorite of the lorde presydent and coucell of the marches of Wales or of the lorde president and coucell in the northe, nor of any other
+^ any w*se ex^nde 2] to restraine the power or aucthoritee geven, by Acte lord chancel- of Pliament made in the tyme of King Henry the Seventhe, to the 1. chan-S^Chamber ceH°ur of Englande and others of the Kinges counsell for the tyme being, under 11H.VIL texamine and punishe riottes heinous pjuries and other offences and misde-preridenf, &c. meaninges; w°h lorde chancello1 and other sithens the making of the saide of Wales, &c. Acte, have most comonly used to heare and determyne suche matters in the courte at Wes tin comonly called the Starre Chamber; nor to restray ne the power or aucthorite of the lorde presydent and coucell of the marches of Wales or of the lorde president and coucell in the northe, nor of any other
 
 5 Elizabeth, c. 9, 18, 23.
 
@@ -28080,7 +28078,7 @@ CHAPTER XVIII.
 
 An Acte declaring thauctoritee of the L. Keeper of the Great Seale of England and the L. Chancellor to bee one.
 
-TX7HERE some question hathe of late arysen whether like place aucthorite Authority of * * preheminence jurisdiction and power dothe belong, and of right ought to th^^eat^af, belong, to thoffice of the lorde keper of the greate seale of Englande for the declared to be tyme beyng, as of right dothe and ought to belong to the office of the lorde that^ toe?lord chancello1 of Englande for the tyme beyng, or not: Fob declaration wherof chancellor, and in advoyding suche question hereafter, bee it enacted and declared by the Quene our sovereigne ladye the lordes spuall and temporall and [the*] comons in this pnte Pliament assembled and by thaucthoritee of the same, that the cdrnen lawe of this realme ys, and alwayes was and ought to bee taken, that the keper of the greate seale of Englande for the time beyng, hathe alwayes hadd used and executed, and of right ought to have use and execute, and from hensforthe maye have perceyve take use and execute, as of right belonging to thoffice of the keper of the greate seale of Englande for the tyme beyng, the same and like place aucthoritee preemynence jurisdiccon execuam of lawes, and all other customes comodities and advauntages, as the lorde chancellour of Englande for the tyme being lawfully used had and ought to have use [and2] execute, as of right belonging to the office of the lorde chancellour of Englande for the tyme being, to all intentes construccons and purposes, and as yf the same keper of the greate seale for the tyme were lorde chancellor of Englande.
+TX7HERE some question hathe of late arysen whether like place aucthorite Authority of * * preheminence jurisdiction and power dothe belong, and of right ought to th^eat^af, belong, to thoffice of the lorde keper of the greate seale of Englande for the declared to be tyme beyng, as of right dothe and ought to belong to the office of the lorde that^ toe?lord chancello1 of Englande for the tyme beyng, or not: Fob declaration wherof chancellor, and in advoyding suche question hereafter, bee it enacted and declared by the Quene our sovereigne ladye the lordes spuall and temporall and [the*] comons in this pnte Pliament assembled and by thaucthoritee of the same, that the cdrnen lawe of this realme ys, and alwayes was and ought to bee taken, that the keper of the greate seale of Englande for the time beyng, hathe alwayes hadd used and executed, and of right ought to have use and execute, and from hensforthe maye have perceyve take use and execute, as of right belonging to thoffice of the keper of the greate seale of Englande for the tyme beyng, the same and like place aucthoritee preemynence jurisdiccon execuam of lawes, and all other customes comodities and advauntages, as the lorde chancellour of Englande for the tyme being lawfully used had and ought to have use [and2] execute, as of right belonging to the office of the lorde chancellour of Englande for the tyme being, to all intentes construccons and purposes, and as yf the same keper of the greate seale for the tyme were lorde chancellor of Englande.
 
 CHAPTER XXHI.
 
@@ -28156,7 +28154,7 @@ Provided also and bee yt enacted, that any pson at the tyme of any proces Provi^
 
 ° J excommumca-
 
-dothe groceade upon some cause or contempte of some ongmall matter of tiontobe heresie, or refusing to have his or their childe baptysed, or to receave the holy ^g^^vit^5 comunyon as yt comonlye ys nowe used to bee receyved in the Churche of Englande, or to come to dyvyne service nowe c5monlye used in the said Churche of Englande, or errour in matters of religyon or doctryne nowe receyved and alowed in the sayd Churche of Englande, incontinencye usurye symonye perjurye in the ecclesiasticall courte or idolatrye, that then all and every paynes and forfaitures lymitted agaynst suche psons excomunicate by this estatute, by reason of suche writ of excomunicato capiendo wanting sufficient addicon, or of suche significavit wanting all the causes afore mentioned, shalbee utterly voyde in lawe, and by waye of plea to bee alowed to the ptie greved: And yf the addicon shalbee with a nuper of the place, where addition
+dothe groceade upon some cause or contempte of some ongmall matter of tiontobe heresie, or refusing to have his or their childe baptysed, or to receave the holy ^g^vit^5 comunyon as yt comonlye ys nowe used to bee receyved in the Churche of Englande, or to come to dyvyne service nowe c5monlye used in the said Churche of Englande, or errour in matters of religyon or doctryne nowe receyved and alowed in the sayd Churche of Englande, incontinencye usurye symonye perjurye in the ecclesiasticall courte or idolatrye, that then all and every paynes and forfaitures lymitted agaynst suche psons excomunicate by this estatute, by reason of suche writ of excomunicato capiendo wanting sufficient addicon, or of suche significavit wanting all the causes afore mentioned, shalbee utterly voyde in lawe, and by waye of plea to bee alowed to the ptie greved: And yf the addicon shalbee with a nuper of the place, where addition
 
 A is with a nuper,
 
@@ -28324,7 +28322,7 @@ And be yt further enacted by thaucthoritie aforesaid, that all and every aydors 
 
 Provided allwayes and be it further enacted by thaucthoritie aforesaid, that yf any pson or psons to whome any suche absolution reconciliation bull wry ting or instrument as is aforesaid, shall after the said fyrst daye of July be offered moved or perswaded to be used put in ure or executed, shall con-ceale the same offer motion or pswasion, and not dysclose and signyfie the same by wrytyng or otherwyse w^in syxe weekes then next folowinge to some of the Queenes Ma^ pvye counsell or els to the president or vyce president of the Queenes Ma^ counsel established in the northe ptes, or in the marches of Wales, for the tyme being, that then the same pson or psons so consealing and not dysdosing or not signyfyeng the said offer motion or pswasion, shall incurre the losse daunger penaltye and forfayture of mysprysion of highe treason: And that no pson or psons shall at any tyme hereafter be impeached molested or troubled in or for misprision of treason, for any offence or offences made treason by this Acte, other then suche as by this Acte are before declared to be in case of misprision of high treason.
 
-• •###*#•#
+• •#*#•#
 
 Provided allsoo and be it further enacted by the aucthoritie aforesaid, that yf any justice of peace to whome any matter or offence before mentioned shalbe uttered shewed or declared as is aforesaid, doo not w^in the space of foureteene daies next after it shalbe to him shewed or uttered, signifie or declare the same to some one of the Queenes Ma*f privi counsel!, that then the same justyce of peace shall incurr the daunger payne and forfaiture
 
@@ -28348,7 +28346,7 @@ CHAPTER IV.
 
 An Acte to make the Landes Tenemtes Goodes and Cattalles of Tellers Receavers, &c. lyable to the payment of their Debtes.
 
-TT^OR the better securitie of the Queenes Matie her heires and successors, All the lands, agaynst suche as shall have the receipt and charge of the monye and tr^tLreT617 treasure of her Hyghnesse her heir? & successors, bee it declared and enacted receiver, or by the Queenes Matie, w^ thassent of the lordes spyrituall and temporall and ^^Crown,0^ the commons in this present Parliament assembled and by thaucthoritie of the declared liable same, that all landes tenementes pffites comodities and hereditamentes w°h debu^rom any treasorer or receaver in or belonging to any of the Queenes Ma*f courtes the
+TT^OR the better securitie of the Queenes Matie her heires and successors, All the lands, agaynst suche as shall have the receipt and charge of the monye and tr^tLreT617 treasure of her Hyghnesse her heir? & successors, bee it declared and enacted receiver, or by the Queenes Matie, w^ thassent of the lordes spyrituall and temporall and ^Crown,0^ the commons in this present Parliament assembled and by thaucthoritie of the declared liable same, that all landes tenementes pffites comodities and hereditamentes w°h debu^rom any treasorer or receaver in or belonging to any of the Queenes Ma*f courtes the
 
 of the Exchequer Ward? and Lyveries or Duchie of Lancaster, treasorer of the chamber, coferer of the household to the Quenes Matie her heyres or successors, treasorer for the warres, treasorer of any fort towne or castell where any garison is or shalbe kept, treasorer of the admiraltie or navye, treasorer under treasorer or other pson accoumptable to the Quenes Wa*f her heires or successors for any offyee or charge of or w^in the Mint, treasorer or receaver of any sumes of mony in prest or otherwise for the use of the Quenees Ma*? her heires or successors, or for pvisions of victual, or for fortyfications buildynges or workes, or for any other pvisions to be used in any the offices of the Queenes Ma4? ordinaunce and artillerie armori wardrobe tentes and pavilions or revels, customer collector fermor of customes subsidies impostes or other duetis w^in any port of the realme, collector of the tenthes of the clargie, collector of any subsidie or fyfteene, receaver general of the revenues of any countie or counties, answerable in the receipt of the Exchequer, or in the
 
@@ -28664,7 +28662,7 @@ An Acte for the continuation explanation perfiting and enlardging of divers
 
 Estatutes.
 
-##•*#•
+#•*#•
 
 (1) And where in one other Acte made in the said thirteenth yeere, pj entituled An Acte against fraudulent gyftes to the intent todefeate dilapidations of ecclesiasticall livinges, and for leasses to bee graunted by collegiate churches, there ys one braunch to avoid certeyne leasses to bee made by maisters and fellowes of colledges, deanes and chapiters of cathedrall or collegiate churches, maisters or gardians of any hospitall, or by any parson vicar or any other having any spirituall or ecclesiasticall living; bee yt enacted, that the said braunche nor any thing therein conteyned, shall not extend to any graunfc assuraunce or leasse of any houses belonging to any the psons or bodyes politique or corporate aforesaid, nor to any groundes to such houses apper-teyning, which houses be scituate in any cytye boroughe towne corporate or market towne, or the suburbes of any of them; but that all such houses and groundes may bee granted dimised and assured, as by the lawes of this
 
@@ -28814,7 +28812,7 @@ aucthoritie to heare and determyne all offences to be comytted or donne detomne 
 
 Provided alwayes and nevertheles be yt enacted, that yt shall and may VL be lawfull to and for any pson or psons greeved by meanes of any manner of maynten*nce champtie buyeng of tytles or imbracerye, to pursue uppon any statutes against thestatutes provided and sett forth against maynten*nce champtie buyenge champert7, &c* of tytles or imbracerye, as he or they might have donne before the maJringe of this Acte; any thinge in this Acte conteyned to the contrary in any wise notw%tandinge.
 
-Provtded also, that this Acte shall not extende to any sute already© vn. dependinge, nor shall restraine any certaine pson bodye pollitique or cor- ^^tioL, porate to whome or to whose use any forfeyture penaJtie or sute ys or shalbe &c. entitled to speciallie lymytted or graunted by vertue of any statute, and not generally forfeit,,re8>&c-to any pson that will sue, but that everye suche certaynepson bodye pollitique or corporate w^ might sue or infourme as yf this Acte were not made, may in suche case sue infourme and p'sue as he or they might have donne yf this Acte were never had nor made.
+Provtded also, that this Acte shall not extende to any sute already© vn. dependinge, nor shall restraine any certaine pson bodye pollitique or cor- ^tioL, porate to whome or to whose use any forfeyture penaJtie or sute ys or shalbe &c. entitled to speciallie lymytted or graunted by vertue of any statute, and not generally forfeit,re8>&c-to any pson that will sue, but that everye suche certaynepson bodye pollitique or corporate w^ might sue or infourme as yf this Acte were not made, may in suche case sue infourme and p'sue as he or they might have donne yf this Acte were never had nor made.
 
 And provided also, that neyther this Acte nor any thinge therein con- yliL teyned, shall in any wise extend to any suche officer of records as have in office using respecte of their offices heretofore lawfully used to exhibite informaffins, or sue uppon penall lawes, nor to any officers infourminge or prsuinge for matters onely conceminge his or their offices, but that theye and every of them may infourme and prsue in that behalf, as they might have donne before the makinge of this Acte; any thinge in this Acte conteyned to the contrary in any wise notw^tandinga
 
@@ -28898,7 +28896,7 @@ or to be joyned in the Courte of Common Plees, and the chief baron of of England
 
 Thexchequer for the tyme beinge, upon yssues joyned or to be joyned in the ^mmonWas
 
-Courte of Exchequer, or in the absence or defaulte of anye of them two other "^^hequer
+Courte of Exchequer, or in the absence or defaulte of anye of them two other "^hequer
 
 judges or barons of the same severall courtes where y t shall happen eyther of chief justice or
 
@@ -28958,7 +28956,7 @@ and executinge of all other thinge and thingf to thoffice of shrief in suche cas
 
 belonginge or apperteyninge; and that all psons to be impanelled in suche Juries and
 
-juries and the pties to the same yssues and suytes, and the witnesses for the ^^|^0com'
+juries and the pties to the same yssues and suytes, and the witnesses for the ^|^0com'
 
 same, shalbe charged and bounde in suche and the like sorte, and upon the attend j
 
@@ -28996,7 +28994,7 @@ An Acte for Refourmacon of Jeofayles.
 
 Provided alwayes and be yt further enacted by thauctoritye aforesaide, that this Acte or anye thinge therein conteyned shall not extende to anye writte declaracon or suyte of appeals of felonie or murder, nor to anye indite-ment or presentement of felonie murder treason or other matter, nor to anie processe upon anye of them, nor to anye writte bill action or information upon anye populer or penall statute; anye thinge aforesaide to the contrarie notwthstandinge.
 
-*##*##•*#
+*#*#•*#
 
 CHAPTER XV.
 
@@ -29260,7 +29258,7 @@ Pbovided alwaies, that this Acte, or any thinge therein conteyned, shall not ext
 
 CHAPTER V.
 
-An Acte for the Contynuance and pfectinge of di9se Statute ###•##
+An Acte for the Contynuance and pfectinge of di9se Statute #•#
 
 Pbovided alwaies, that whereas dyvers her Majesties lovinge subjects, dwelling© in the remote part? of this realme, are many tymes maliciouslye troubled upon informations and suyte, exhibited in the courtes of King? Bench Comon Plees and Exchequer, upon penall statute, and are drawen upp upon pcesse out of the countries where they dwell, and dryven to attend and put in bayle, to theire great troble and undoings: For reformation whereof, be it inacted, that yf anye pson or psons shalbe sued or informed against© upon anye penall lawe, in anye the severall courts of Kinges Benche C5mon 1
 
@@ -29292,7 +29290,7 @@ A.D. 1686-7.
 
 For avoiding secret outlawries in personal actions, three proclamations shall be made on the exigents, one in the county court, one at quarter sessions, and one at the church-door, &c. one month before the qvinto exactus.
 
-Plees or Exchequer, where suche pson or psons are bayleable by lawe, or where by the leave or favor of the courte suche pson or psons maye appears by attorney, that in all and everie suche case, the pson or psons so to be ym pleaded or sued shall and may, at the daye and tyme conteyned in the firste pcesse served for his apparaunce, appears by attorney of the same courte where the gcesse ys returnable,, to answeare and defend© the same, and not be urged to psonall apparaunce, or to put in bayle for the answeringe of suche suyte; any former lawe custome or usage to the contrarie notwithstanding.
+Plees or Exchequer, where suche pson or psons are bayleable by lawe, or where by the leave or favor of the courte suche pson or psons maye appears by attorney, that in all and everie suche case, the pson or psons so to be ym pleaded or sued shall and may, at the daye and tyme conteyned in the firste pcesse served for his apparaunce, appears by attorney of the same courte where the gcesse ys returnable, to answeare and defend© the same, and not be urged to psonall apparaunce, or to put in bayle for the answeringe of suche suyte; any former lawe custome or usage to the contrarie notwithstanding.
 
 31 ELIZABETH. A.D. 1588-9.
 
@@ -29352,7 +29350,7 @@ or nere to the churche or chappell doore as ys aforesaide, shall have twelve
 
 pence.
 
-• • ###***#
+• • #***#
 
 And be it further enacted, that before any allowaunce of any writt of Hi. error or reversinge of anye outlarie be had, by plee or otherwise, throughe or outlawry, &c. by wante of any gclamacon to be had or made accordinge to the forme of this for want statute, after thende of Easter terme next, the defendaunte and defendaunte in defendant shall the orriginall accon shall put in bayle, not onlye to appeare and answere to bai^ the playntif in the former suyte, in a newe aefim to be comenced by the saide pi for the cause mencioned in the first accon, but also to satisfye the condem-nacon, yf the playntif shall begynne his suyte before thend of two termes next after the allowinge the writt of error or otherwise avoydinge of the saide outlarie.
 
@@ -29422,7 +29420,7 @@ CHAPTER VI,
 
 An Acte against Abuses in Election of Scollers and psentacons to Benefices.
 
-WHEREAS by the intent of the founders of colledges, churches collegiat Election* of " churches cathedrall, scoles hospitalls halles and other like societies within this realme, and by the statute and good orders of the same, the coUege*' &c. elecffins, psentacons and ndiacons of fellowes schollers officers and other psons to have roome or place in the same, are to be had and made of the fittest & moste meete psons beinge capable of the same elecoons psentacons and nolacons, freelye w^out anye rewarde guyfte or thinge given or taken for the same; and for true pformaunce whereof, some ellectors presentors and nomynators in the same have or shoulde take a corpora!! oathe to make their elecoons psentacons andnSIacons accordingly©; yet notwithstandinge it is sene and founds by experience that the saide elecoons presentacons and nolacons be manye tymes wrought and brought to passe with monye guyflt? & reward?, whereby the fyttest psons to be psented elected or nolated wantinge money or friend? are sildome or not at all pferred, contrarie to the good meaning© of the saide founders, and the saide good statut? and ordynaunc? of the saide oolledges churches scholes halles hospitalls & socyeties, and to the great pjudice of learning and the comon wealthe and estate of the realme: Fob
+WHEREAS by the intent of the founders of colledges, churches collegiat Election* of " churches cathedrall, scoles hospitalls halles and other like societies within this realme, and by the statute and good orders of the same, the coUege*' &c. elecffins, psentacons and ndiacons of fellowes schollers officers and other psons to have roome or place in the same, are to be had and made of the fittest & moste meete psons beinge capable of the same elecoons psentacons and nolacons, freelye w^out anye rewarde guyfte or thinge given or taken for the same; and for true pformaunce whereof, some ellectors presentors and nomynators in the same have or shoulde take a corpora! oathe to make their elecoons psentacons andnSIacons accordingly©; yet notwithstandinge it is sene and founds by experience that the saide elecoons presentacons and nolacons be manye tymes wrought and brought to passe with monye guyflt? & reward?, whereby the fyttest psons to be psented elected or nolated wantinge money or friend? are sildome or not at all pferred, contrarie to the good meaning© of the saide founders, and the saide good statut? and ordynaunc? of the saide oolledges churches scholes halles hospitalls & socyeties, and to the great pjudice of learning and the comon wealthe and estate of the realme: Fob
 
 TT 2
 
@@ -29826,7 +29824,7 @@ WHEREAS (2) landes tenement? rentes annuities gfittes hereditamentes, goodes cha
 
 675
 
-for releife or redemption of prisoners or captives, and for aide or ease of any poore inhabitant? conSninge payments of fifteenes, settinge out of souldiers and other taxes; which© landes tenements rents annuities gfitts hereditaments goodes chattells money and stockes of money n©9theles have not byn imployed according© to the charitable intente of the givers and founders thereof by reason of fraudes breaches of trust© and negligence in those that shoulde pay delyver and imploy the same: Fob redress© and remedie whereof, be it enacted Lord chancel by aucthoritie of this psente Parliament, that it shall and may be lawfull to and for the lorde chaunoellor or keeper of the great© seale of Englande for the rionstobUhope, tyme beinge, and for the chauncellor of the dutchie of Lancaster for the tyme ^ being© for landes within the countie palatine of Lancaster, from tyme to tyme cation of to award comissions under the great seale of Englande, or the seale of the ^da; countie palatine as the case shall require, into all or any parte or partes of oomn^^* this realm© respectivelie, according to their se9all jurisdiccons as aforesaide, to SJury make the bishoppe of everie se9all diocesse and his chancellor, in case there shalbe any bishoppe of that diocesse at the tyme of awardinge of the same oomissions, &c * and to other psons of good and sounde behavior, authorisinge them therebie, or any fower or more of them, to inquire, as well by the oathes of twelve lawfull men or more of the countie as by all other good and lawfull waies and menes, of all and singular such giftes limitacons assignements and appoyntments aforesaide, and of the abuses breaches of trustes negligences mysimploimentes, not imployinge concealing© defrauding© misconvertinge or misgovememente, of any landes tenementes rentes annuities profits hereditaments goods chattels money [andl] stockes of money heretofore given limitted appointed or assigned, or whiche hereafter shalbe given limitted appointed or assigned [assigned*], to or for any the charitable and godlie uses before rehearsed: And after the saide comissioners or any fower or more of them, upon calling© the parties intessed in any suche landes tenement? rentes anuities profits hereditaments goodes chattels money and stockes of money, shall make inquirie by the oathes of twelve men or more of the saide countie, whereunto the saide parties interessed shall and maye have and take their lawfull challenge and challenges; and upon suche inquiry hearinge and exalynge thereof set downe suche orders judgments and decrees, as the saide landes tenements rents annuities gfits goods chattels money and stockes of money may be duelie and faithfullie imployed, to and for suche of the charitable uses and intents before rehearsed respectivelie, for whiche they were given limitted assigned or appointed by the donors and founders thereof:
+for releife or redemption of prisoners or captives, and for aide or ease of any poore inhabitant? conSninge payments of fifteenes, settinge out of souldiers and other taxes; which© landes tenements rents annuities gfitts hereditaments goodes chattells money and stockes of money n©9theles have not byn imployed according© to the charitable intente of the givers and founders thereof by reason of fraudes breaches of trust© and negligence in those that shoulde pay delyver and imploy the same: Fob redress© and remedie whereof, be it enacted Lord chancel by aucthoritie of this psente Parliament, that it shall and may be lawfull to and for the lorde chaunoellor or keeper of the great© seale of Englande for the rionstobUhope, tyme beinge, and for the chauncellor of the dutchie of Lancaster for the tyme ^ being© for landes within the countie palatine of Lancaster, from tyme to tyme cation of to award comissions under the great seale of Englande, or the seale of the ^da; countie palatine as the case shall require, into all or any parte or partes of oomn^* this realm© respectivelie, according to their se9all jurisdiccons as aforesaide, to SJury make the bishoppe of everie se9all diocesse and his chancellor, in case there shalbe any bishoppe of that diocesse at the tyme of awardinge of the same oomissions, &c * and to other psons of good and sounde behavior, authorisinge them therebie, or any fower or more of them, to inquire, as well by the oathes of twelve lawfull men or more of the countie as by all other good and lawfull waies and menes, of all and singular such giftes limitacons assignements and appoyntments aforesaide, and of the abuses breaches of trustes negligences mysimploimentes, not imployinge concealing© defrauding© misconvertinge or misgovememente, of any landes tenementes rentes annuities profits hereditaments goods chattels money [andl] stockes of money heretofore given limitted appointed or assigned, or whiche hereafter shalbe given limitted appointed or assigned [assigned*], to or for any the charitable and godlie uses before rehearsed: And after the saide comissioners or any fower or more of them, upon calling© the parties intessed in any suche landes tenement? rentes anuities profits hereditaments goodes chattels money and stockes of money, shall make inquirie by the oathes of twelve men or more of the saide countie, whereunto the saide parties interessed shall and maye have and take their lawfull challenge and challenges; and upon suche inquiry hearinge and exalynge thereof set downe suche orders judgments and decrees, as the saide landes tenements rents annuities gfits goods chattels money and stockes of money may be duelie and faithfullie imployed, to and for suche of the charitable uses and intents before rehearsed respectivelie, for whiche they were given limitted assigned or appointed by the donors and founders thereof:
 
 Whiche orders judgements and decrees, not beinge conWie or repugnante to the orders statutes or decrees of the donora or founders, shall by the authoritie of this psente Parliament© stand firm© and good according© to the tenor and purport© thereof, and shalbe executed accordinglie, untill the same shalbe undon or altered by the lorde chancellor of Englande or lorde keeper of the greate seale of Englande, or the chauncellor of the countie palatine of Lancaster, respectivelie within their severall jurisdiccons, upon complaint© by any partie grieved, to be made to them.
 
@@ -30068,7 +30066,7 @@ or to take pawnes and billes of sale of garment? and apparell, and all thing? th
 
 tyme hereafter shall be sold uttered delivered exchanged pawned or done' awaye within the citie of London or liberties thereof, or within the citie of Westminster in the countie of Middlesex, or within Southwarke in the countie of Surrey, or within two miles of the saide citie of London, to any broker or brokers, or pawne takers, by any way or meanes whatsoever, directlie or indirectlie, shall worke or make any change or alteration of the ppertie or interest, of and from any pson or psons or bodie politicke from whome the same jewels plate apparell houshold stuffe or goods were or shalbe wrongfullie purloined taken robbed or stollen; any lawe usage or custome to the contrarie notwithstandinge.
 
-And for the better maintayninge of true and honest dealinge, and for the eschewinge and avoydinge of falshood fraude and deceipte in suche kinde of brokers and pawnetakers, be it furthermore enacted and established by the like authoritie, that if any person or psons or bodies politicke, from whome any jewellf plate apparell houshold stuffe or any kinde of goods whatsoe9 shall be wrongfullie purloyned taken stollen or robbed, shall require and demaunde of any such broker or pawntaker to declare whether any such goods bee come to his or their possessions, and to declare shewe and manifesto the same, and hoWe and by what meanes he had them or came by the same, and howe when and to whome he hath delivered conveyed or bestowed and imployed the same; and that such broker, upon any such requeste and demaund to be made, shall denye and refuse to disclose tell or manifest the same truelie and justlie,, shall forfeite unto the true owner or owners of such jewels plate apparell houshold stuffe and other goods, from whome the same were wrongfullie purloyned taken stollen or robbed, double the value thereof that shall be denyed and refused to be disclosed tolde and manifested as afof esaide; the same double value to be recovered by the true owner or owners of such goods from whome the same were wrongfullie purloyned taken robbed or stollen, to be recovered by action of debte bill or plainte in any of the Kingf Majesties courtf of recorde at Westminster, or within the citie of London; in which no essoine wager of lawe or protection shalbe allowed.
+And for the better maintayninge of true and honest dealinge, and for the eschewinge and avoydinge of falshood fraude and deceipte in suche kinde of brokers and pawnetakers, be it furthermore enacted and established by the like authoritie, that if any person or psons or bodies politicke, from whome any jewellf plate apparell houshold stuffe or any kinde of goods whatsoe9 shall be wrongfullie purloyned taken stollen or robbed, shall require and demaunde of any such broker or pawntaker to declare whether any such goods bee come to his or their possessions, and to declare shewe and manifesto the same, and hoWe and by what meanes he had them or came by the same, and howe when and to whome he hath delivered conveyed or bestowed and imployed the same; and that such broker, upon any such requeste and demaund to be made, shall denye and refuse to disclose tell or manifest the same truelie and justlie, shall forfeite unto the true owner or owners of such jewels plate apparell houshold stuffe and other goods, from whome the same were wrongfullie purloyned taken stollen or robbed, double the value thereof that shall be denyed and refused to be disclosed tolde and manifested as afof esaide; the same double value to be recovered by the true owner or owners of such goods from whome the same were wrongfullie purloyned taken robbed or stollen, to be recovered by action of debte bill or plainte in any of the Kingf Majesties courtf of recorde at Westminster, or within the citie of London; in which no essoine wager of lawe or protection shalbe allowed.
 
 Pbovided alwaies, that this Acte nor any thinge therein contayned, shall not be pjudiciall or hurtfull to the ancient trade of brokers within the citie of London, using and exercising the ancient trade of brokers, betweene merchant and merchant, or other traders or occupiers within the saide dtie and the liberties of the same, beinge selected as aforesaide.
 
@@ -30410,7 +30408,7 @@ iwr viW
 
 ultftll hit n#iiN jtlMlt'M ill ihti omtntli* wh*r« ortWHHHI
 
-w»»w
+w»w
 
 roltlwl,
 
@@ -30738,7 +30736,7 @@ T»>T
 
 wrin? o*
 
-• eorpasv certiorari. or uv ocher or wri«? jseees* or **^^* *^_
+• eorpasv certiorari. or uv ocher or wri«? jseees* or **^* *^_
 
 -. cuter then wrist? oferror or attains,. to be sue.1 t'v>rth after the . v
 
@@ -30902,11 +30900,11 @@ AJJL1«2T.
 
 SOusueLdl. TW
 
-koMffdUwaaraiiittMw^Ml ^^kvMjMpwiA of him peeraa or tjr the kv rf tike kwJL
+koMffdUwaaraiiittMw^Ml ^kvMjMpwiA of him peeraa or tjr the kv rf tike kwJL
 
-Ato b tk «i^i aad tralilk yww rf tk nigs* of King Edward the AY. Third it w« dwtod ai attted by wtbrifa of Ok »>*»» »f ***** AAA-
+Ato b tk «i^i aad tralilk yww rf tk nigs* of King Edward the AY. Third it w« dwtod ai attted by wtbrifa of Ok »>*» »f ***** AAA-
 
-vkt estate or ctnfian tkl he k, sk«U W put ««t *or taka aor afrimad Mr fckrited «w put to dtotV wttwnl faroBght to uhvcr tor dw f«ee» of hva.
+vkt estate or ctnfian tkl he k, sk«U W put «t *or taka aor afrimad Mr fckrited «w put to dtotV wttwnl faroBght to uhvcr tor dw f«ee» of hva.
 
 Kirnnnuss agunst the taw of the and dtttntoa wd other the good Y. loves and statutes of year realme to that end grided, divers of your subject? hare of kte been imprisoned vithont any cause shoved; And when for their tank Mmanx they were braoght before yonr justice* by your M^jeatiea writtf of £wwJL*ts,«t habeas corpus there to undergo* and receive as the court should order, and *******
 
@@ -30918,7 +30916,7 @@ certified, hut that they were detained by your Mtgeetiea special! cfouaund signi
 
 And whereas of late great companies of aouldiera and marriners have been **4 dispersed into divers counties of the realme, and the inhabitant against their will? have been compelled to reoeive them into their houses, and there to i* awtwoawit-suffer them to sojoume against the lawes and oustomea of this realme and to *******
 
-the great greivanoe and vex&cion of the people. at r«Miv« »««.
+the great greivanoe and vex&cion of the people. at r«Miv« »«.
 
 And whereas alsoe by authoritie of Parliament in the five and twentith VII. yeare of the raigne of filing Edward the Third it is declared and enacted that 14 ** ***' no man should be forejudged of life or limbe against the forma of the Qreat Charter and the lawe of the land, and by the said Great Charter, and other the lawes and statutes of this your realme no man ought to be adjudged to death but by the lawes established in this your realme, either by the ouatomes of the same realme or by Act? of Parliament And whereas no oflTendor of what kinde soever is exempted from the gceedingf to be used and punishment? to be inflicted by the lawes and statutes of this your realms, nevertbalessa of late «ui tb*i otm-[tyme1] divers comissions under your Majesties great seale have issued forth, j^IwdiwSw* by which certain© peons have been assigned and appointed oSmissioners toe gnu u*i with power and authoritie to goeed within the land aocording to the justice of martiall lawe against such souldiers or marriners or other dissolute peons wsrisi fiw. joyning with them as should comitt any murther robbery felony mutiny or other outrage or misdemeanor whatsoever, and by such sQmary course and order as is agreeable to martiall lawe and as is used in armies in tyme of warr to gceed to the try all and condemnation of such offenders, and them to cause to be executed and putt to death aocording to the lawe martiall.
 
@@ -31202,7 +31200,7 @@ repealed annulled revoked annihilated and utterly made void for ever any
 
 thing in the said Act to the contrary in any wise notwithstanding.
 
-a.##*###**
+a.#*#**
 
 [And be it further enacted that from and after the said first day of IV. August H no new court shall be erected ordeined or appointed within this ^be^ctS1 realme of England or dominion of Wales which shall or may have the like with the like power jurisdiction or authoritie as the said High Commission Court now hath power* or pretendeth to have But that all and every such letters patents commissions and grants made or to be made by his Majestie his heires or successors and all powers and authorities granted or pretended or mentioned to be granted thereby and all acts sentences and decrees to be made by vertue or colour thereof shall be utterly void and of none effect1 2]
 
@@ -31476,7 +31474,7 @@ They doe therefore humblie pray your most excellent Majestie, that no man hereaf
 
 All which they most humblie pray of your most excellent Majestie as their rights and liberties according to the lawes and statutes of this realme, and that your Majestie would alsoe vouchsafe to declare that the award? doing? and pceeding? to the pjudice of your people in any of the pmisses shall not be drawen hereafter into consequence or example. And that your Majestie would be alsoe graciouslie pleased for the further comfort and safetie of your people to declare your royall will and pleasure, that in the thing? aforesaid all your officers and ministers shall serve you according to the lawes and statutes of this realme as they tender the honor of your Majestie and the prosperitie of this kingdome.
 
-Qua quidem peticoe lea & plenius inteftca p tfcm dnm regem tali!! est responsum in pleno parliamento videlt. ty°. Soit droit fait come est desire.
+Qua quidem peticoe lea & plenius inteftca p tfcm dnm regem tali! est responsum in pleno parliamento videlt. ty°. Soit droit fait come est desire.
 
 CHAPTER II.
 
@@ -31972,7 +31970,7 @@ whatsoever concerning the want of such apparance and nnlesse the plaintiff Plain
 
 Provided alwaies that this Act nor any clause or thing herein before m. specified or contained shall not extend nor be construed or taken to extend unto any arrests hereafter to be made upon or by vertue of any writ of capias turn and other ut lagatum attachment upon reasons or attachment upon any contempt or of proceM* any attachment of priviledge at the suite of any priviledged person or of any other attachment for contempt whatsoever issuing or to be issuing out of either of the said courts although there be no particular certainty of the cause of action expressed or conteined in the said writs but that neverthelesse no sheriffe nor under sheriff nor any of the officers or ministers aforesaid shall discharge any person or persons taken upon any writ of capias ut lagatum out of custody without a lawfull supersedeas first had and received for the same and that upon the said writs of attachment such lawfull course be taken for security for apparance therein as hath beene heretofore used any thing herein before expressed to the contrary thereof in any wise notwithstanding.
 
-Provided nevertheles that this Act nor any thing therein conteyned shall ix. not extend to any action popular nor unto any other action which is or here- ^^popoJar after shall bee brought upon any penall law or statute (except debt for not indictment, kc. setting out tythes as aforesaid) nor to any indictment presentment inquisicon information or appeal any thing herein before expressed to the contrary thereof . notwithstanding.
+Provided nevertheles that this Act nor any thing therein conteyned shall ix. not extend to any action popular nor unto any other action which is or here- ^popoJar after shall bee brought upon any penall law or statute (except debt for not indictment, kc. setting out tythes as aforesaid) nor to any indictment presentment inquisicon information or appeal any thing herein before expressed to the contrary thereof . notwithstanding.
 
 14 CHARLES H. A.D. 1662.
 
@@ -32114,7 +32112,7 @@ A ND I do declare that I do hold there lies no obligacon on me or any other pers
 
 So as none of the persons aforesaid shall from thence forth be at all obliged to subscribe or read that part of the said declaration or acknowledgement
 
-### ####* •
+# #* •
 
 And bee it further enacted by the authority aforesaid that no person whatsoever shall thenceforth p} be capable to bee admitted to any parsonage vicarage benefice or other ecclesiastical promotion or dignity whatsoever nor shall presume to consecrate & administer the holy sacrament of the Lords Supper before such time as he shall be ordained preist according to the forme
 
@@ -32204,7 +32202,7 @@ A.D. 1662.
 
 the said lecturer openly at the time aforesaid to declare his assent and consent to all things contained in the said booke according to the form aforesaid.1]
 
-And be it further enacted by the authority aforesaid that if any person xvn. who is by this Act disabled to preach any lecture or sermon shall during the ^^Sl^80 time that he shall continue and remaine so disabled preach any sermon or preaching, lecture that then for every such offence the person and persons so offending shall suffer three monthes imprisonment in the comon goal without baile or imprisonment mainprize and that any two justices of the peace of any county of this king- "common dome and places aforesaid and the maior or other cheife magistrate of any city or town corporate within the same upon certificate from the ordinary of the place made to him or them of the offence committed shall and are hereby required to committ the person or persons so offending to the goal of the same county city or town corporate accordingly.
+And be it further enacted by the authority aforesaid that if any person xvn. who is by this Act disabled to preach any lecture or sermon shall during the ^Sl^80 time that he shall continue and remaine so disabled preach any sermon or preaching, lecture that then for every such offence the person and persons so offending shall suffer three monthes imprisonment in the comon goal without baile or imprisonment mainprize and that any two justices of the peace of any county of this king- "common dome and places aforesaid and the maior or other cheife magistrate of any city or town corporate within the same upon certificate from the ordinary of the place made to him or them of the offence committed shall and are hereby required to committ the person or persons so offending to the goal of the same county city or town corporate accordingly.
 
 [Provided alwaies and be it further enacted by the authority aforesaid that att all and every time and times when any sermon or lecture is to be preached the common prayers and service in and by the said booke appointed to be read for that time of the day shall be openly publiquely and solemnly read by some preist or deacon in the church chappell or place of publique worshipp where the said sermon or lecture is to be preached before such sermon or lecture be preached and that the lecturer then to preach shall be present att the reading thereof.
 
@@ -32268,7 +32266,7 @@ And to the end that the true and perfect copies of this Act and the said xxrv. b
 
 Provided alwaies that whereas the six and thirtieth article of the nine and XX VL
 
-thirtie articles agreed upon by the archbishops and bishops of both provinces ^^rfthe and the whole clergy in the convocation holden at London in the yeare of our 36th arijcie.^ Lord one thousand five hundred sixty two for the avoiding of diversities of 89 artclw. opinions and for establishing of consent touching true religion is in these words following viz*.
+thirtie articles agreed upon by the archbishops and bishops of both provinces ^rfthe and the whole clergy in the convocation holden at London in the yeare of our 36th arijcie.^ Lord one thousand five hundred sixty two for the avoiding of diversities of 89 artclw. opinions and for establishing of consent touching true religion is in these words following viz*.
 
 That the booke of consecration of archbishops and bishops and ordaining of preista and deacons lately set forth in the time of King Edward the Sixth and confirmed Rt the same time by authority of Parliament doth contain all things necessary to such consecration and ordaining neither hath it any thing that of it selfe is superstitious and ungodly and therefore whosoever are consecrated or ordered according to the rites of that booke since the second yeare of the aforenamed King Edward unto this time or hereafter shall be
 
@@ -32854,7 +32852,7 @@ And bee it further enacted that in any such action wherein the life or death of 
 
 *ef O.
 
-C««ul quo *l« rmMlftfoi W ywrf si w wwb yTiw tafpttar *nd m> proof of thofr Itot, jndjp In mi notion to dtnot a y* idiot m though ooitttl quo vio w*r* d<*d.
+C«ul quo *l« rmMlftfoi W ywrf si w wwb yTiw tafpttar *nd m> proof of thofr Itot, jndjp In mi notion to dtnot a y* idiot m though ooitttl quo vio w*r* d<*d.
 
 II.
 
@@ -33014,7 +33012,7 @@ Provided alsoe and bee it likewise enacted by the authoritie aforesaid to the en
 
 [Provided alwayes and bee it enacted by the authority aforesaid that in all cases where the ordinary hath used heretofore to grant administration cum testamento annexo, he shall continue soe to doe, and the will of the deceased in such testament expressed shall be performed and observed in such manner as it should have beene if this Act had never beene made.2]
 
-****### • #
+****# • #
 
 A.D. 1670 & 1671.
 
@@ -33608,7 +33606,7 @@ And bee it further enacted by the authoritie aforesaid that where any arch-bisho
 
 And bee it further enacted that such augmentation soe entred shall likewise continue and be for ever hereafter good and available in the law for the benefitt of the vicar or curate for whome it was intended and their successors as well against the arch-bishop bishop or other ecclesiasticall corporation or person who agreed for the same and his and their successors as against every other person enjoying the said rectories or portions of tythes intended to be charged therewith in the same manner and for which they shall have the same remedy as they should or ought to have by vertue of this Act if the same had beene mentioned and reserved in and by the lease. And if any question shall hereafter arise concerning the validity of such grants or any other matter or thing in this Act mentioned and contained such favourable constructions and such further remedy if need be shall be had and made for the benefitt of the vicars and curates as heretofore have beene had and made or may be had for other charitable uses upon the statutes for charitable uses.
 
-#####**# •
+#**# •
 
 89 Charles II. c. 9.
 
@@ -33894,7 +33892,7 @@ ing and shall incurr and sustain© the paines penalties and forfeitures limitted
 
 [Provided alwayes that nothing in this Act shall extend to give benefitt to any person who shall by contract in writeing agree with any merchant or owner of any plantation or other person whatsoever to be transported to any parts beyond seas and receive earnest upon such agreement although that afterwards such person shall renounce suoh contract.2]
 
-Provided alwayes and bee it enacted that if any person or persons lawfully convicted of any felony shall in open court pray to be transported beyond the seas and the court shall thinke fitt to leave him or them in prison for that purpose such person or persons may be transported into any parts beyond the seas this Act or any thing therein contained to the contrary notwithstanding. ##*•*• « • Provided also© that if any person or persons at any time resiant in this realme shall have committed any capital! offence in Scotland or Ireland or any of the islands or forreigne plantations of the King his heires or successors where he or she ought to be tryed for such offence such person or persons may be sent to such place there to receive such tryall in such manner as the same might have beene used .before the makeing of this Act any thing herein contained to the contrary notwithstanding.
+Provided alwayes and bee it enacted that if any person or persons lawfully convicted of any felony shall in open court pray to be transported beyond the seas and the court shall thinke fitt to leave him or them in prison for that purpose such person or persons may be transported into any parts beyond the seas this Act or any thing therein contained to the contrary notwithstanding. #*•*• « • Provided also© that if any person or persons at any time resiant in this realme shall have committed any capital! offence in Scotland or Ireland or any of the islands or forreigne plantations of the King his heires or successors where he or she ought to be tryed for such offence such person or persons may be sent to such place there to receive such tryall in such manner as the same might have beene used .before the makeing of this Act any thing herein contained to the contrary notwithstanding.
 
 Provided alsoe and bee it enacted that noe person or persons shall be sued impleaded molested or troubled for aiiy offence against this Act unlesse the partie offending be sued or impleaded for the' same within two yeares at the most after such time wherein the offence shall be committed [in case the partie grieved shall not be then in prison and if he shall be in prison then within the space of two yeares 2] after the decease of the person imprisoned or his or her delivery out of prison which shall first happen.
 

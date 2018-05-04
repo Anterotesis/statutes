@@ -4456,7 +4456,7 @@ only at general quarter-sessions, to houfholders, for no longer than one year fr
 
 Bail and Mainprize.
 
-Pledges of the King's debtor shall not be diflrained while the principal .is able, and if he fails, shall be fatis-fied out of his rents, Scc. Magn. Chart.9H. 3. c..8. vol. 1.
+Pledges of the King's debtor shall not be distrained while the principal .is able, and if he fails, shall be fatis-fied out of his rents, Scc. Magn. Chart.9H. 3. c..8. vol. 1.
 
 Bail of a clerk offending shall be discharged by render of his body, though he would not answer by rea-fbn of his privilege, Stat. Marlb. 52 H. 3. c. 27. vol. 1.
 
@@ -11846,15 +11846,15 @@ Customing goods whereby the King loseth his custom, forfeits the goods, and also
 
 An jEngli/bmanj sworn subject to a foreign prince, shall pay such customs, &c. as aliens do, 14 Sc 15 H. 8. c. 4. $2.^4.
 
-<<<<<<< HEAD
+< HEAD
 
 Such Englijliman, returning and dwelling again in the realm, shall pay such customs, &c. as other English-men, 14 & 15 f/. 8. r.4. 13. t/^.4.
 
-=======
+=
 
 Such Englijliman, returning and dwelling again in the realm, shall pay such customs, &c. as other English-men, 14 & 15 f/. 8. r.4. 13. t/^.4.
 
->>>>>>> origin/master
+> origin/master
 
 Customer making a falle certificate concerning bell-metal, &c. exported, shall lose his office, and also the value of the goods so concealed, 33 H. 8. e. 7. § 5. vol. 5.
 
@@ -12522,7 +12522,7 @@ Infor-
 
 2 0 0
 
-tj¥ B4ik
+tjY B4ik
 
 * Informations for false ©r-mif-fcntlaes tnuft be brought within three- months after the, offences. I &13 iP-2- r. ti. § tjivoi. ia., ;
 
@@ -13640,7 +13640,7 @@ See Felonies without Clergy.
 
 Disparagement. See Ward.
 
-Difpenfaticn.
+Dispensaticn.
 
 The King and parliament have power to dispense with the temporal laws, 25 H. 8. c, 21. § 1. vol. 4.— Repealed by 1 & 2 Ph. & M. c. 8.—
 
@@ -14790,7 +14790,7 @@ appointed under the King's usual seal of Lancaster, as accustomod, 27 if. 8.
 
 «.24. § c. w/. A.
 
-. The statute that none shall be ju-ftice of assize, &c. in the county where he dwells, &c. net to extend to the just ices, &c. in the county of Lantafier., 33 H. 8. r. 24. § 7. vol. 5.,
+. The statute that none shall be justice of assize, &c. in the county where he dwells, &c. net to extend to the just ices, &c. in the county of Lantafier., 33 H. 8. r. 24. § 7. vol. 5.,
 
 . Debts due to the King in the dutchy, may he (bed for there, 33 H. 8. r,
 
@@ -15534,7 +15534,7 @@ N a All
 
 Jtee
 
-All admiftions, difpenfetions, &c. to the contrary of this act, shall be merely void, 13 El. c. 12. § 7. vol. 6.
+All admiftions, dispensetions, &c. to the contrary of this act, shall be merely void, 13 El. c. 12. § 7. vol. 6.
 
 No lease of cure, not impropriated, shall last longer than the parson is resident without absence above four-fcore days in one year, shall thereupon be void, and the incumbent shall forfeit a year's profit to the poor: and all pensions, &c. charged thereon be void, 13 El. c. 20. € 1. 14 El. c. ir. § 14. vol. 6.—Made perpe-tual, 3 Car. 1. c. 4. § 2. vol. n.
 
@@ -15738,15 +15738,15 @@ All mistakes remedied by any statute of Jeofails when the proceedings were in La
 
 voL 16,
 
-<<<<<<< HEAD
+< HEAD
 
 All process, and a notice written thereupon, to be in English where the cause of aCbon shall not amount to 10 /. in a superior court, or 40 in an inferior court, 5 Geo. 2. r.27. § 1.
 
-=======
+=
 
 All process, and a notice written thereupon, to be in English where the cause of aCbon shall not amount to 10 /. in a superior court, or 40 in an inferior court, 5 Geo. 2. r.27. § 1.
 
->>>>>>> origin/master
+> origin/master
 
 4- vol. 16. 21 Geo. 2. c. 3. vol. 19.
 
@@ -16200,7 +16200,7 @@ Filhermen in the counties of So-merfet, he. may give the special matter in evide
 
 1. c.23. § 4. vtl. 7.
 
-Justices of peace, mayors, con-stables, he. may give the special matter in evidence, on general ifliie, 7 Ja. 1. c. 5. 21 Ja. 1. e. 12. § 5. vol. 7.
+Justices of peace, mayors, constables, he. may give the special matter in evidence, on general ifliie, 7 Ja. 1. c. 5. 21 Ja. 1. e. 12. § 5. vol. 7.
 
 No tradefman's (bop-book shall be evidence of a debt, unless action is brought for the same within a year,
 
@@ -21046,15 +21046,15 @@ It shall be felony to ufeihe craft of multiplication of gold or silver, 5 H. 4. 
 
 Rings, cup-covers, &c. made of copper or latten, shall not be laid on with gold or silver, except ornaments for the church, &c. 5 H. 4. c. 13. vol. 2. 8 H. 5. e. 3. 17 Ed. 4. c. 1. vol. 3.
 
-<<<<<<< HEAD
+< HEAD
 
 There shall be no gilding of silver wares but of the allay of English sterling: and the pound Troy of silver gilt shall be sold for no more than 46 8 d. Sic. 2 H. 5. ft. 2. 4. 3. —
 
-=======
+=
 
 There shall be no gilding of silver wares but of the allay of English sterling: and the pound Troy of silver gilt shall be sold for no more than 46 8 d. Sic. 2 H. 5. ft. 2. 4. 3. —
 
->>>>>>> origin/master
+> origin/master
 
 Repealed by 21 Ja. t. 28. 7.
 
@@ -21608,17 +21608,17 @@ measurement, Copyholds, Recusants^Tenures^ Women
 
 Guernsey, 7*r/£y, Alderney, Sark, l$c.
 
-<<<<<<< HEAD
+< HEAD
 
 Wool, &c. may be exported to jfa/5y and Guernsey, from the port of Southampton only, and for the only use of the inhabitants there, &c. 12 Car. 2. c. 32. § 2.12, 13, 14. 13 Gzr. 2.JI. i. r. 14. iw/.'8. 1 JV.tiM. fejf. 1. r. 32. § 14. vol. 9.
 
-=======
+=
 
 Guernfey>, 7*r/£y, Alderney, Sark, l$c.
 
 Wool, &c. may be exported to jfa/5y and Guernsey, from the port of Southampton only, and for the only use of the inhabitants there, &c. 12 Car. 2. c. 32. § 2.12, 13, 14. 13 Gzr. 2.JI. i. r. 14. iw/.'8. 1 JV.tiM. fejf. 1. r. 32. § 14. vol. 9.
 
->>>>>>> origin/master
+> origin/master
 
 An excise of eight shillings /rr gallon upon brandy and other liquors imported from Guernsey, ferfeyy Sari, or Alderney, oath mud be made that they are the manufacture of those islands, &c. 2 W. Sc M. fejf. 2. r. 9. € 12. voL 9. 12 & 13 Jv. 3. r. 11. §
 
@@ -22310,7 +22310,7 @@ Bis
 
 VfcfTel* on tlifi.r return from .the British white herring /[flier y, on certificate, &o to hav? an al/ovyancc of 30 s. per tan, 2% ?. c. 24. § it. vol. 20.
 
-The c^utifs granted up9ri red and ¥ihite .herring^ &c.. ipa<fepsrpetH$J, and the fuj; plu$, &c. to bg carried so the sinking fund, 96 Geo. 2. 3.
+The c^utifs granted up9ri red and Yihite .herring^ &c.. ipa<fepsrpetH$J, and the fuj; plu$, &c. to bg carried so the sinking fund, 96 Geo. 2. 3.
 
 VfL 21.
 
@@ -24146,15 +24146,15 @@ None of the King's ministers, &c. cattle by 18 Car. 2. c. 2. vol. 8. hall commit
 
 Bills containing fuggeftiotisagainstj Ireland makes collation of a benefice, lie King's officers in Ireland, shall, to an Iri/bman, Sec. their temporaries e transmitted only under the seal of shall be feifed» 4 H. 5. c. 6. vol. 3. lie chancery of England, 31 Ed. 3.. IriJbmen^ shall not be principals of 4. c. 12. vol, 2.; any hall, &c. shall bring a teftimo-
 
-<<<<<<< HEAD
+< HEAD
 
 The justiciar of Ireland shall infill: nial under the seal of the justices of lat a compensation be made to the Ireland, that they are of the King's ling's English subjects for depreda-. obeisance, 1 H\ 6. c. 3. vol. 3# ons made on them, in the late wars. The chancellors in the limverfities,
 
-=======
+=
 
 The justiciar of Ireland shall infill: nial under the seal of the justices of lat a compensation be made to the Ireland, that they are of the King's ling's English subjects for depreda-. obeisance, 1 H\ 6. c. 3. vol. 3# ons made on them, in the late wars. The chancellors in the limverfities,
 
->>>>>>> origin/master
+> origin/master
 
 1 Ed. 3.ft. 4. c. 13. vol. 2. % and mayors, &c. in towns, &c. shall
 
@@ -24546,7 +24546,7 @@ Any juror taking reward of either paarty shall be disabled, itnprisoned, rantome
 
 A juror taking reward to give bis verdict, shall pay ten times as much as he hath taken, tie. 38 Ed. 3. ft. 1. t. 12. voL 2.
 
-Sheriffs (haH array the panels in aflifes four days (fixdays) at lead be* fore the sessions, fee. that the parties may view the same if they demand *»» 42 Ed. 3. e. 1 u vol. 2. 0 H. 6. t. 2.
+Sheriffs (haH array the panels in aflifes four days (fixdays) at lead be* fore the sessions, fee. that the parties may view the same if they demand *» 42 Ed. 3. e. 1 u vol. 2. 0 H. 6. t. 2.
 
 vol. 7.
 
@@ -27580,7 +27580,7 @@ Marriage,
 
 - within the degrees prohibited by God's law, and no man has power to diipenfe therewith, 25 U. 8. c, %&. <$3, 4, 5-u- wi'4*
 
-Former marriages, not prohibited, Ac. solemnized, Ac. by the ^pope's difpenfatkm, confirmed, 28 H. 8. t.
+Former marriages, not prohibited, Ac. solemnized, Ac. by the ^pope's dispensatkm, confirmed, 28 H. 8. t.
 
 16. § 2. vol.4.
 
@@ -28478,15 +28478,15 @@ Sipton, hcc. and the chantry of Cobbam, Molefling any person of any abbey
 
 The same franchises, &c, that the vol. 6. ate owners of religious houses had For other matters, fee Bishops, Ecele-vithin three months before their dif- fiaftteal Persons, &*. Mortmain, olution, &c. shall be revived and be Templars, Tithes. dually in the King and his heirs, kc. 32 H. 8. c. 20. vol. 5. Money.
 
-<<<<<<< HEAD
+< HEAD
 
 Lands, franchises, &c. of certain By consent of the whole realm, an ate monasteries, &c. shall be in the English peny, called a Sterling, round ; overnance of the duchy of Lancaster, without clipping, shall weigh 32 inque ports, &c. 32 H. 8. c. 20. §iof wheat-corns, and 20 d. do make an
 
-=======
+=
 
 Lands, franchises, &c. of certain By consent of the whole realm, an ate monasteries, &c. shall be in the English peny, called a Sterling, round ; overnance of the duchy of Lancaster, without clipping, shall weigh 32 inque ports, &c. 32 H. 8. c. 20. §iof wheat-corns, and 20 d. do make an
 
->>>>>>> origin/master
+> origin/master
 
 2, 13. vol. 5. ounce, and 12 ounces, one pound.
 
@@ -28602,15 +28602,15 @@ A proportion of the price of wool, &c. at the staple at Calais, to be forged in 
 
 No merchant alien shall oblige anv fnbjedt to make him payment in gold, nor refuse payment in silver, 8 H. 6. c. 24. vol 3.
 
-<<<<<<< HEAD
+< HEAD
 
 No Irish money shall be current in England or IVales^ on pain of forfeiture, nor any sufficient English money of gold or silver, be melted, exported, &c. 17 4. c. 1. vol 3.
 
-=======
+=
 
 No Irish money shall be current in England or IVales^ on pain of forfeiture, nor any sufficient English money of gold or silver, be melted, exported, &c. 17 4. c. 1. vol 3.
 
->>>>>>> origin/master
+> origin/master
 
 19 if. 7. c. 5. vol. 4.
 
@@ -29398,7 +29398,7 @@ Quakers, RecufantSchools.
 
 Nonjurtrs. See Oaths.
 
-Non objlante. See Difpenfatitn. "
+Non objlante. See Dispensatitn. "
 
 Non-pkvin.
 
@@ -29414,7 +29414,7 @@ shall be given, *2 Ed. 2. ft.. 1 4.
 
 vol. 1.
 
-If the verdict pass again!! the-plain-tiff, he shall not be nonsuit, 2 H. 4. c. j. vol. 2,
+If the verdict pass again! the-plain-tiff, he shall not be nonsuit, 2 H. 4. c. j. vol. 2,
 
 On nonsuit the defendant shall recover cods, a? H. 8. c. 15. 4.
 
@@ -29950,7 +29950,7 @@ For other matters, fee Gauging, Whales.
 
 , Onflow, {Arthur,
 
-An annuity of three thousand pounds a year charged on the agre-gate fund, for the life of Arthur Os-flow, esq; in confederation of his great and eminent servicesas fpeakerof the house of commons, and to bit son George Onflow during his natural life,
+An annuity of three thousand pounds a year charged on the agre-gate fund, for the life of Arthur Os-flow, esq; in confederation of his great and eminent servicesas speakerof the house of commons, and to bit son George Onflow during his natural life,
 
 . 2 Goo. 3. c. 33, vol. *5.
 
@@ -32182,15 +32182,15 @@ All unlawful subscriptions, transfers, alignments of (locks; pretend* ed (locks,
 
 2. c. 37. vol. 17.
 
-<<<<<<< HEAD
+< HEAD
 
 Matters of vettels in the plantation trade, regittered, he. shall give an account upon oath, &c. and loading or unloading goods, before proof of English owners, &c. such vettel shall be forfeited, 15 Geo. 2. c. 31. voL 18.
 
-=======
+=
 
 Matters of vettels in the plantation trade, regittered, he. shall give an account upon oath, &c. and loading or unloading goods, before proof of English owners, &c. such vettel shall be forfeited, 15 Geo. 2. c. 31. voL 18.
 
->>>>>>> origin/master
+> origin/master
 
 Where certificate of the regitter of fgch vettel shall be lott, he. the matter, &c. may make oath, he. and to give security that no illegal use shall be made of the first regitter, if (bund } may trade for one voyage after, and then to regitter denovo, he. 15 Geei
 
@@ -32668,7 +32668,7 @@ Appeal may be from determination of justices of peace, to next quarter sessions,
 
 Churchwardens afla overseers mu(l receive persons removed by warrant of two justices of peace, on forfeiture of 5 /. &c. 3Sc\JV. Sc M.c.iu § jo. vol. 9.
 
-In every parish a register to be kept of the poor parishioners yearly in Eojltr week, to make a list of their poor, none but those in the lift to receive alms, except by order of a ju-ftice of peace, cases of insection, &c. 3&4 JVM M. e, 11. i 11. vol 9.9Geo. 1. c. 7. § 1, 2. tv/. 15.
+In every parish a register to be kept of the poor parishioners yearly in Eojltr week, to make a list of their poor, none but those in the lift to receive alms, except by order of a justice of peace, cases of insection, &c. 3&4 JVM M. e, 11. i 11. vol 9.9Geo. 1. c. 7. § 1, 2. tv/. 15.
 
 In actions against churchwardens or overseers, for mifpending the poor's money, parishioners not receiving alms, &c. may be evidence, 3 & 4 JV. Sc M. c. 11. | 12. vol 9.
 
@@ -33934,7 +33934,7 @@ very
 
 472 Pttr
 
-very value, appraised by the con-stables, &c.< and payment before the King depart the verge, 4 Ed. 3. c. 3. 5Ed. 3. c. 2. jo Ed. 3. ft. 2. r. 1* !/*/ I. 25 Ed. 3.77.5. r. 1. w/. 2.
+very value, appraised by the constables, &c.< and payment before the King depart the verge, 4 Ed. 3. c. 3. 5Ed. 3. c. 2. jo Ed. 3. ft. 2. r. 1* !/*/ I. 25 Ed. 3.77.5. r. 1. w/. 2.
 
 Tallies shall be made betwixt the purveyors and those whose goods are taken, in the presence of the con-{tables, &c. under the seals of the purveyors, and satisfaction shall be made thereby; purveyor taking other wise shall be arrested, &c. as of felony* S 3- *-2. 10 3.77-2.
 
@@ -33980,7 +33980,7 @@ Pur
 
 All statutes of purveyors confirmed, and to be proclaimed in every county, &c.. i H. 6. c. 2. 20 H. 6. c. 8. vol. 3.
 
-Purveyors taking cattle of 40 s. value or under, without making prefont payment, may be refitted, con-stables, &c. to aid the resistance; fu-ing refifters in the Mar/balsea, &c. forfeit 20 /. &c. 20 H. 6. c. 8. 23 H.
+Purveyors taking cattle of 40 s. value or under, without making prefont payment, may be refitted, constables, &c. to aid the resistance; fu-ing refifters in the Mar/balsea, &c. forfeit 20 /. &c. 20 H. 6. c. 8. 23 H.
 
 6. c. 1. c. 2. vol. 3.
 
@@ -34890,7 +34890,7 @@ For ot$er mat^ers^ fee Guardian, 7>-t. _.pures. A .
 
 1 [ Religidn. 0 '
 
-The aft concerning difpenfetiops, &c. not to be interpreted to vary from the articles of the catholick faith of christendom, 25 H. 8. c. 21. § 19. vol 4.
+The aft concerning dispensetiops, &c. not to be interpreted to vary from the articles of the catholick faith of christendom, 25 H. 8. c. 21. § 19. vol 4.
 
 All visitations, congregating, and assemblies for religion, (haU be with-ing the King's dominions, 25 H. 8. c. 21. § 20. vol 4.
 
@@ -35164,7 +35164,7 @@ In replevin of distress for rent, (he- resident; but to resort to their cx rtffs
 
 For other matters^ fee Avdwryy Di- "fent &bOve (i5rty yays inanycne\Ti
 
-Clerks, during such time as they. Rents, &c. of refidentiarics fl are occupied in the King's service, further chai^eable to the lahd-tsil and about the exchequer, shall not the overplus that is "to* go in Iha be compelled to keep refidenceat their for their maintenance, &c. 1 Gel benefices, Artie. Cier.9Ed. 2. ft. 1. r. ze § 96? Pol 23.
+Clerks, during such time as they. Rents, &c. of refidentiarics fl are occupied in the King's service, further chai^eable to the lahd-tsil and about the exchequer, shall not the overplus that is "to* go in Iha be compelled to keep residenceat their for their maintenance, &c. 1 Gel benefices, Artie. Cier.9Ed. 2. ft. 1. r. ze § 96? Pol 23.
 
 jlrefsy Outlawry.
 
@@ -35596,7 +35596,7 @@ Suing to the court of Rome to infringe the purport of this (latute, shall, forfe
 
 \ &c. 13 R. 2. ft. 2. c. 2. § 2. vol. 2.
 
-, Any one bringing summons, fen-' teoce of excommunication. See. from Rome, again!! any person for executing the (latutes of shall in-
+, Any one bringing summons, fen-' teoce of excommunication. See. from Rome, again! any person for executing the (latutes of shall in-
 
 , cur pain of life and^nember, and for-' feit all his lands, tenements, &c. 13; R- 2. ft. 2. C. 3. Vol. 2.
 
@@ -37132,7 +37132,7 @@ Sendees. See Tenures.
 
 Service and Sacraments.
 
-Any person fpeakrng against the sacrament, &c. or against the receiving thereof in both kinds, shall on conviction, &c. suffer fine and im-prifomnent, &c. 1 Ed.b. c. 1. vol. 5. — Repealed by 1 Mar.feJJ'. 2. c. 2. — Hevivedby 1 El. c. 1. § 14. vol.b. The sacrament ftull be delivered
+Any person speakrng against the sacrament, &c. or against the receiving thereof in both kinds, shall on conviction, &c. suffer fine and im-prifomnent, &c. 1 Ed.b. c. 1. vol. 5. — Repealed by 1 Mar.feJJ'. 2. c. 2. — Hevivedby 1 El. c. 1. § 14. vol.b. The sacrament ftull be delivered
 
 tier 521
 
@@ -37170,15 +37170,15 @@ Any rescuing such offenders, shall forfeit 5 /. and also the parish if he escape
 
 Every person not reporting to church or chapel, shall be liable* to censures of the church, and forfel-. tures, &c. 1 El. c. 2. § 14. 23, 35 El. c. 1. vol. 6.
 
-<<<<<<< HEAD
+< HEAD
 
 The bible and book of common prayer to be tranfiated into the Wtljb tongue: and a bible and common prayer in English shall be in every church in Wales, 5 El. c. 28. vcl. 6.
 
-=======
+=
 
 The bible and book of common prayer to be tranfiated into the Wtljb tongue: and a bible and common prayer in English shall be in every church in Wales, 5 El. c. 28. vcl. 6.
 
->>>>>>> origin/master
+> origin/master
 
 Every ecclefiafticd person shall subscribe to the articles, &c, maintaining do<ftrine against them, &c. cause of deprivation, &c. 13 El. c.12. vol.b.
 
@@ -37702,15 +37702,15 @@ Nq
 
 532 Sbi
 
-<<<<<<< HEAD
+< HEAD
 
 No goods shall be imported from the plantations, &c. but in English ships, 12 Car. 2. c. 18. § i. vol 7.
 
-=======
+=
 
 No goods shall be imported from the plantations, &c. but in English ships, 12 Car. 2. c. 18. § i. vol 7.
 
->>>>>>> origin/master
+> origin/master
 
 No goods of the produce of Africa, Asia, or America, shall be imported but in ships of England, or Ireland, ot of the plantations, the master and three fourths of the mariners being English, on forfeiture of the ship, &c. 12 Car. 2. r. 18. | 3. */<?/. 7.
 
@@ -43346,15 +43346,15 @@ A Weljbman shall not have any house of defence, 4//. 4. c. 31. vol. 2.— Repeal
 
 No Weljbman shall be an officer there, 4 H. 4. c. 32. vol. 2.—Repealed by 21 ^<2. 1 c. 28. tW. 7.
 
-<<<<<<< HEAD
+< HEAD
 
 Cattles and walled towns in Wales shall be kept by Englislimen, 4 /£ 4. c. 33. W. 2. — Repeated by 21 Ja. 1. c. 28. w/. 7.
 
-=======
+=
 
 Cattles and walled towns in Wales shall be kept by Englishmen, 4 /£ 4. c. 33. W. 2. — Repeated by 21 Ja. 1. c. 28. w/. 7.
 
->>>>>>> origin/master
+> origin/master
 
 No Englishman who marries a Welshwoman shall be in any office in Wales, 4//. 4. r. 34. t/2/. 2.—Repealed by 21
 
@@ -43582,15 +43582,15 @@ Judgements in the courts of great femon in tVales* at the signing the same, to s
 
 In personal actions under 10/. in the courts of great sessions, &c. on original writ and service, &c. and the defendant's non-appearance at the third court; the plaintiff, &c. on affidavit of service, may enter appearance for him, 6 Geo 2. c. 14. vol 16.
 
-<<<<<<< HEAD
+< HEAD
 
 The act 4 Geo. 2. c. 26. that proceedings in courts shall be in English* extended to Wales* 6 Geo. 2. c. 14.
 
-=======
+=
 
 The act 4 Geo. 2. c. 26. that proceedings in courts shall be in English* extended to Wales* 6 Geo. 2. c. 14.
 
->>>>>>> origin/master
+> origin/master
 
 } 3. vol. ib.
 
@@ -44372,15 +44372,15 @@ Gauger or his deputy shall be ready in all places where required, shall take no 
 
 No new impositions shall be hid on those who buy wines in Gafcm or Guyen, on forfeiture of 20 /. and treble damages, 23 H. 6. e. 18. v$L 3.
 
-<<<<<<< HEAD
+< HEAD
 
 No Gafcoin or (Juien 'wines shall be imported but in English, drifts or IVelJb ships, &c.-i H. 7. c. 8. 4JL
 
-=======
+=
 
 No Gafcoin or (Juien 'wines shall be imported but in English, drifts or IVelJb ships, &c.-i H. 7. c. 8. 4JL
 
->>>>>>> origin/master
+> origin/master
 
 7. c. 10. 23 H. 8. c. 7. vol. 4.
 
@@ -44836,15 +44836,15 @@ Offenders to forfeit 500/- the wool, &c. ship, &c. 10 & 11IV. 3. c. 10. § 2, te
 
 Commander of any ship negled-ing his duty, or conniving at exportation of wool, to forfeit dll pay and wages due to him, six months imprisonment, and incapable of office in the navy, 10& 11 TV. 3. c. 10. § 18. vol 10.
 
-<<<<<<< HEAD
+< HEAD
 
 No wool, wool-fells, &c. of the English plantations in Amerke* shall be exported under like penalties, 6cc.
 
-=======
+=
 
 No wool, wool-fells, &c. of the English plantations in Amerke* shall be exported under like penalties, 6cc.
 
->>>>>>> origin/master
+> origin/master
 
 10 & 11W. 3. c. 10. § 19. vol 10. The claiife in 10 & 11 IV. 3. c.io.
 

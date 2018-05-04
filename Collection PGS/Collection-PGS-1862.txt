@@ -1130,7 +1130,7 @@ make
 
 make an Order that any such Offender convicted in Ireland shall be kept in Penal Servitude in England; and such Order shall be in all respects as effectual in England as though such Offender had been convicted in Englandy and the Order had been made by any Judge of the Queen's Bench, Common Pleas, or Exchequer in England; and the Person in whose Custody such Offender shall at that Time be, and all other Persons whatsoever whom the said Order may concern, shall be bound to obey and shall be assistant in the Execution thereof, and shall be liable to the same Punishment for Disobedience to or for interrupting the Execution of such Order as if the Order had been made under the Authority of any such Act as aforesaid; and every Person so ordered to be kept in Penal Servitude shall be subject to every Provision made by Law and in force concerning Persons under Sentence of Penal Servitude; and from the Time when such Order of Penal Servitude shall be made every Act in force touching the Escape of Felons, or their afterwards returning or being at large without Leave, shall apply to such Offender, and to all Persons aiding and abetting, contriving or assisting in any Escape or intended Escape or returning without Leave of any such Offender; and the Judge who shall make any Order of Penal Servitude as aforesaid shall direct the Notification of Her Majesty's Pleasure, and his own Order made thereupon, to be filed and kept of Record in the Office of the Clerk of the Crown of the Court of Queen's Bench; and the said Clerk shall have a Fee of Two Shillings and Sixpence only for filing the same, and shall, on Application, deliver a Certificate in Writing (not taking more than Two Shillings and Sixpence for the same) to such Offender or to any Person applying in his or Her Majesty's Behalf, showing the Christian and Surname of such Offender, his Offence, the Place where the Court was held before which he was convicted, and the Conditions on which the Order of Penal Servitude was made; which Certificate shall be sufficient Proof of the Conviction and Sentence of such Offender, and also of the Terms on which such Order for his Penal Servitude was made, in any Court and in any Proceeding wherein it may be necessary to inquire into the same.
 
-19. Whenever any Sentence of Penal Servitude heretofore or hereafter passed upon any A« to Execu-Offender by any Court-martial holden in the East Indies, or in any other Part of Her ^^^of^ena! Majesty's Foreign Dominions, or elsewhere beyond the Seas, is to be carried into execu- Servitude in tion for the Term specified in such Sentence or for any shorter Term, or when Sentence the Colonies, of Death passed by any such Court-martial has been or shall as aforesaid be commuted to Penal Servitude, the same shall be notified by the Officer commanding Her Majesty's islands, or Forces at the Presidency or Station where the Offender may come or be, or in his Absence elsewhere out by the Adjutant General for the Time being, to some Judge of One of the Supreme Courts of Judicature in the East Indies, or the Chief Justice, or some other Judge, as the Case may minions, be, in any Part of Her Majesty's Foreign Dominions, who shall make Order for the Penal Servitude or intermediate Custody of such Offender; and upon any such Order being made it shall be duly notified to the Governor of the Presidency if in the East Indies, or to the Governor of the Colony if in any of Her Majesty's Colonies, or to the Person who shall for the Time being be exercising the Office of Governor of such Presidency or Colony, who, on Receipt of such Notification, shall cause such Offender to be removed or sent to some other Colony or Place, or to undergo his Sentence within the Presidency or Colony where the Offender was so sentenced, or where he may come or be as aforesaid, in obedience to the Directions for the Removal and Treatment of Convicts which shall from Time to Time be transmitted from Her Majesty through One of Her Principal Secretaries of State to such Presidency or Colony; and such Offender shall according to such Directions undergo the Sentence of Penal Servitude which shall have been passed upon him either in the Presidency or Colony in which he has been so sentenced, or in the Colony or Place to which he has been so removed or sent, and whilst such Sentence shall remain in force shall be liable to be imprisoned, and kept to Hard Labour, and otherwise dealt with under such Sentence in the same Manner as if he had been sentenced to be imprisoned, with Hard Labour, during the Term of his Penal Servitude, by the Judgment of a Court of competent Jurisdiction in such Presidency or Colony, or in the Colony or Place to which he has been so removed or sent respectively: In the Ionian Islands and elsewhere out of Her Majesty's Dominions, the Officer commanding shall have Power to make an Order in Writing for the Penal Servitude or intermediate Custody of such Offender; and such Offender shall be
+19. Whenever any Sentence of Penal Servitude heretofore or hereafter passed upon any A« to Execu-Offender by any Court-martial holden in the East Indies, or in any other Part of Her ^of^ena! Majesty's Foreign Dominions, or elsewhere beyond the Seas, is to be carried into execu- Servitude in tion for the Term specified in such Sentence or for any shorter Term, or when Sentence the Colonies, of Death passed by any such Court-martial has been or shall as aforesaid be commuted to Penal Servitude, the same shall be notified by the Officer commanding Her Majesty's islands, or Forces at the Presidency or Station where the Offender may come or be, or in his Absence elsewhere out by the Adjutant General for the Time being, to some Judge of One of the Supreme Courts of Judicature in the East Indies, or the Chief Justice, or some other Judge, as the Case may minions, be, in any Part of Her Majesty's Foreign Dominions, who shall make Order for the Penal Servitude or intermediate Custody of such Offender; and upon any such Order being made it shall be duly notified to the Governor of the Presidency if in the East Indies, or to the Governor of the Colony if in any of Her Majesty's Colonies, or to the Person who shall for the Time being be exercising the Office of Governor of such Presidency or Colony, who, on Receipt of such Notification, shall cause such Offender to be removed or sent to some other Colony or Place, or to undergo his Sentence within the Presidency or Colony where the Offender was so sentenced, or where he may come or be as aforesaid, in obedience to the Directions for the Removal and Treatment of Convicts which shall from Time to Time be transmitted from Her Majesty through One of Her Principal Secretaries of State to such Presidency or Colony; and such Offender shall according to such Directions undergo the Sentence of Penal Servitude which shall have been passed upon him either in the Presidency or Colony in which he has been so sentenced, or in the Colony or Place to which he has been so removed or sent, and whilst such Sentence shall remain in force shall be liable to be imprisoned, and kept to Hard Labour, and otherwise dealt with under such Sentence in the same Manner as if he had been sentenced to be imprisoned, with Hard Labour, during the Term of his Penal Servitude, by the Judgment of a Court of competent Jurisdiction in such Presidency or Colony, or in the Colony or Place to which he has been so removed or sent respectively: In the Ionian Islands and elsewhere out of Her Majesty's Dominions, the Officer commanding shall have Power to make an Order in Writing for the Penal Servitude or intermediate Custody of such Offender; and such Offender shall be
 
 B 2 liable
 
@@ -1393,8 +1393,6 @@ Eayable to such Recruit as shall not have been paid to such Recruit before Notic
 60. ' And whereas by Petition of Right in the Third Year of King Charles the First it ' is enacted and declared, that the People of the Land are not by the Laws to be burdened ' with the sojourning of Soldiers against their Wills; and by a Clause in an Act of the c Parliament of England, made in the Thirty-first Year of the Reign of King Charles the ' Second, for granting a Supply to His Majesty of Two hundred and six thousand four ' hundred and sixty-two Pounds Seventeen Shillings and Threepence, for paying and dis-' banding the Forces, it is declared and enacted, that no Officer, Civil or Military, nor other
 
 ' Person
-
-boogie
 
 23
 
@@ -2390,7 +2388,7 @@ Proviso for Removal of Prisoners.
 
 and in the Case of any Prisoner who shall be removed by any such Order from any such Prison, Gaol, or House of Correction* either within the United Kingdom or elsewhere* to some other Prison or Place, either in the United Kingdom or elsewhere, the Officer or Authorities who gave such Order shall also give an Order in Writing directing the Governor, Provost Marshal, Gaoler, or Keeper of such other Prison or Place to receive such Prisoner into his Custody, and specifying the Offence of which such Prisoner shall have been convicted, and the Sentence of the Court, and the Period of Imprisonment which he is to undergo, and the Day and the Hour on which he is to be released; and such Governor, Provost Marshal, Gaoler, or Keeper shall keep such Offender in a proper Place of Confinement, with or without Hard Labour, and with or without Solitary Confinement, according to the Sentence of the Court, and during the Time specified in the said Order, or until he be duly discharged or delivered over to Military or other Custody before the Expiration of that Time under an Order duly made for that Purpose; and in the Case of a Prisoner undergoing Imprisonment under the Sentence of a Court-martial in any Military Prison in any Part of Her Majesty's Dominions, the Secretary of State for War, or any Person duly authorized by him in that Behalf, shall have the like Powers in regard to the Discharge and Delivery over of such Prisoners to Military or other Custody as may be lawfully exercised by any of the Authorities above mentioned in respect of any Prisoners undergoing Confinement as aforesaid in any public Prison other than a Military Prison, or in any Gaol or House of Correction in any Part of Her Majesty's Dominions; and such Prisoner in any of the Cases herein-before mentioned shall accordingly, on the Production of any such Order as is herein-before mentioned, be discharged or delivered over, as the Case may be: Provided always, that the Time during which any Prisoner under Sentence of Imprisonment by a Court-martial shall be detained in such Military or other Custody under such Order as aforesaid shall be reckoned as Imprisonment under the Sentence for whatever Purpose such Detention shall take place; and such Prisoner may during such Time, either when on board Ship or otherwise, be subjected to such Restraint as is necessary for his Detention and Removal.
 
-44. Every Governor, Provost Marshal, Gaoler, or Keeper of any public Prison, or of Custody of any Gaol or House of Correction in any Part of Her Majesty's Dominions, shall receive ^1^^imdep into his Custody any Military Offender under Sentence of Imprisonment by a General or Sentence in other Court-martial, upon Delivery to him of an Order in Writing in that Behalf from the Common Gaols. Lord High Admiral, or the Commissioners for executing the Office of Lord High Admiral,
+44. Every Governor, Provost Marshal, Gaoler, or Keeper of any public Prison, or of Custody of any Gaol or House of Correction in any Part of Her Majesty's Dominions, shall receive ^1^imdep into his Custody any Military Offender under Sentence of Imprisonment by a General or Sentence in other Court-martial, upon Delivery to him of an Order in Writing in that Behalf from the Common Gaols. Lord High Admiral, or the Commissioners for executing the Office of Lord High Admiral,
 
 or from the Officer commanding the Division or Detachment to which the Offender belongs or did last belong or is attached, which Order shall specify the Period of Imprisonment or Remainder of Imprisonment which the Offender is to undergo, and the Day and Hour of the Day on which he is to be released or be otherwise disposed of; and such Governor,
 
@@ -2500,8 +2498,6 @@ Officers not to 59. No Person who shall be commissioned and in full Pay as an Of
 
 k
 
-boogie
-
 63
 
 25° VICTORIA, c. 6.
@@ -2600,8 +2596,6 @@ or Quarter Sessions of such County, Division, or Place, unless the Court shall f
 
 Billets,
 
-boogie
-
 67
 
 25° VICTORIM, c. 6.
@@ -2627,8 +2621,6 @@ Officer shall not pay the same as aforesaid, then, upon Complaint, and Oath made
 79. In every Case in which the whole Distance for which any Carriage shall be impressed shall be under One Mile the Rate of a full Mile shall be paid; and the Rates to be paid for Carnages impressed shall be, in Great Britain, for every Mile which a Waggon with Four or more Horses, or a Wain with Six Oxen or Four Oxen and Two Horses, shall travel, One Shilling; and for every Mile any Waggon with narrow Wheels, or any Cart with Four Horses, carrying not less than Fifteen Hundredweight, shall travel, Nine-pence; and for every Mile every other Cart or Carriage with less than Four Horses, and not carrying Fifteen Hundredweight, shall travel, Sixpence; and in Ireland, for every Hundredweight loaded on any Wheel Carriage, One Halfpenny per Mile; and in Great Britain such further Rates may be added, not exceeding a total additional Sum per Mile of Fourpence, Threepence, or Twopence, to the respective Rates of One Shilling, Ninepence, and Sixpence, as may seem reasonable to the Justices assembled at General Sessions for
 
 their
-
-boogie
 
 69
 
@@ -2668,7 +2660,7 @@ the said Persons, Horses, Baggage, or Stores along any Canal from Payment of Tol
 
 of his Discharge than the Place of his original Enlistment, which Allowance shall be calculated according to the Distance he has to travel: Provided always, that no Person who shall purchase his own Discharge, or be discharged on account of Misbehaviour, or at his own Desire, before the Expiration of his Period of Service, shall be entitled to any such Allowance.
 
-85. The Churchwardens of every Parish in England and Ireland, and the Constable Notification to or other Officer of every Parish or Place in Scotland, on receiving a Notification from the ^^^bad Secretary of the Admiralty of the Name of any Marine belonging to the said Parish or Conductor Place who has for meritorious Conduct received Her Majesty's special Approbation, or who Marines.
+85. The Churchwardens of every Parish in England and Ireland, and the Constable Notification to or other Officer of every Parish or Place in Scotland, on receiving a Notification from the ^bad Secretary of the Admiralty of the Name of any Marine belonging to the said Parish or Conductor Place who has for meritorious Conduct received Her Majesty's special Approbation, or who Marines.
 
 in consequence of Misconduct has been dismissed Her Majesty's Service with Disgrace, shall affix to and leave such Notification on the Outside of the Door of the Church or Chapel belonging to such Parish or Place on the Sunday next alter the Receipt of such Notification.
 
@@ -2882,7 +2874,7 @@ T do declare. That I am at present [or was, as the Case mag be,] in
 
 Day of for a Term of Years; that I am of the Age of
 
-Years; and that I will serve Her Majesty, Her Heirs and Successors, as a Marine,, for a further Term of Years [fo be filled up with such Number of Years as shall be
+Years; and that I will serve Her Majesty, Her Heirs and Successors, as a Marine, for a further Term of Years [fo be filled up with such Number of Years as shall be
 
 required to complete a total Service of Twenty-one Years], provided my Services should so long be required, and also for such further Term, not exceeding Two Years, as shall be directed by the Commanding Officer on any Foreign Station.
 
@@ -3005,8 +2997,6 @@ vice.
 Medical Officer, or of Private Medical Practitioner.
 
 f Insert "fit" or 41 unfit," as the Case may be; and if unfit, state the Cause of Unfitness.
-
-boogie
 
 81
 
@@ -3480,8 +3470,6 @@ II.—Future
 
 i
 
-boogie
-
 95
 
 25° VICTORIA, c. 19.
@@ -3740,8 +3728,6 @@ N 2
 
 SCHE-
 
-boogie
-
 100 25" VICTORIA, c. 19, 20, 21.
 
 SCHEDULE (C.)
@@ -3874,8 +3860,6 @@ As to Sale of Beer at Fairs, &c.
 
 Occasional Licence may be granted to Victuallers to sell Beer, Spirits, &c., at such Time and Place as the Commissioners of Inland Re-Ten ue shall approve.
 
-boogie
-
 Charging of Excise Duty on Sugar used in brewing deferred until 1st July 1863.
 
 Licences granted under 23 Vict. c. 27. and 23 & 24 Vict. c. 107. may be transferred as other Excise Licences in case of the Removal of the licensed Person.
@@ -3924,7 +3908,7 @@ any Worts or Beer any Article for or as a Substitute for Hops, or as prohibits t
 
 the said Sixteenth Day of September, shall be delivered on or within Six Months after p that Day without Payment of the Duty of Customs now chargeable on the Importation of Hops.
 
-22. The Prohibition of the Importation of Extracts and Essences of Hops and other Prohibition on Concentrations thereof, contained in the Third Section of the Customs Duties Consolidation E^^of IIops Act, 1860, shall, on and after the Sixteenth Day of September One thousand eight hundred repeai
+22. The Prohibition of the Importation of Extracts and Essences of Hops and other Prohibition on Concentrations thereof, contained in the Third Section of the Customs Duties Consolidation E^of IIops Act, 1860, shall, on and after the Sixteenth Day of September One thousand eight hundred repeai
 
 and sixty-two, cease.
 
@@ -4649,8 +4633,6 @@ place. George Armytage, and David Whitehead,
 James Roberts Thomas Whitaker, Robert Walsh, William Halstead,
 
 James Ogden, James Thornton,
-
-boogie
 
 Owner or reputed Owner.
 
@@ -6640,7 +6622,7 @@ and for said County [or the Magistrates of the said Burgh] assembled at the said
 
 Hotel at in the Parish of and County aforesaid [or Burgh afore-
 
-said] for the Sale in the said House, but not elsewhere, of Victuals, and of Spirits, Wine, Porter, Ale, Beer, Cyder, Perry, or other Exciseable Liquors, [or of Victuals, and of Porter, Ale, Beer, Cyder, or Perry,] [or of Victuals, Wine, Porter, Ale, Beer, Cyder, or Perry,] provided the said A.L. shall be licensed and empowered to sell such Liquors under the Authority and Permission of any Excise Licence to him or her in that Behalf granted, on the Terms and Conditions following $ that is to say, that the said AX,, do not fraudulently adulterate the Bread or other Victuals or Liquors sold by him, or sell the same knowing them to have been fraudulently adulterated; and do not use in selling the same any Weight or Measure which is not of the legal Imperial Standard; and do not sell any Groceries or other uncooked Provisions in the said House or Premises, to be consumed elsewhere; and do not knowingly permit any Breach of the Peace, or riotous or disorderly Conduct, within the said House or Premises; and do not knowingly permit or suffer Men or Women of notoriously bad Fame, or Girls or Boys, to assemble and meet therein; and do not supply Exciseable Liquors to Girls or Boys apparently under Fourteen Years of Age, or to Persons
+said] for the Sale in the said House, but not elsewhere, of Victuals, and of Spirits, Wine, Porter, Ale, Beer, Cyder, Perry, or other Exciseable Liquors, [or of Victuals, and of Porter, Ale, Beer, Cyder, or Perry,] [or of Victuals, Wine, Porter, Ale, Beer, Cyder, or Perry,] provided the said A.L. shall be licensed and empowered to sell such Liquors under the Authority and Permission of any Excise Licence to him or her in that Behalf granted, on the Terms and Conditions following $ that is to say, that the said AX, do not fraudulently adulterate the Bread or other Victuals or Liquors sold by him, or sell the same knowing them to have been fraudulently adulterated; and do not use in selling the same any Weight or Measure which is not of the legal Imperial Standard; and do not sell any Groceries or other uncooked Provisions in the said House or Premises, to be consumed elsewhere; and do not knowingly permit any Breach of the Peace, or riotous or disorderly Conduct, within the said House or Premises; and do not knowingly permit or suffer Men or Women of notoriously bad Fame, or Girls or Boys, to assemble and meet therein; and do not supply Exciseable Liquors to Girls or Boys apparently under Fourteen Years of Age, or to Persons
 
 U 2 who
 
@@ -6679,8 +6661,6 @@ continue
 157
 
 25° & 26° VICTORIA, c.35.
-
-
 
 continue in force, upon the Terms and Conditions aforesaid, from the Day
 
@@ -7774,7 +7754,7 @@ and Merchandise laden therein, shall be paid to such Person or Persons as the Co
 
 lawful for One of Her Majesty's Principal Secretaries of State, with respect to Persons on board con-being within the United Kingdom of Great Britain and Ireland and for the Governor, Lieu- ^es'
 
-tenant Governor, or principal Magistrate of any other Part of Her Majesty's Dominions, ^^^proper with respect to Persons being within such other Part of Her Majesty's Dominions, if he Jurisdiction to shall think fit, by Order in Writing under his Hand, to direct that the Captain, Master, **tried*
+tenant Governor, or principal Magistrate of any other Part of Her Majesty's Dominions, ^proper with respect to Persons being within such other Part of Her Majesty's Dominions, if he Jurisdiction to shall think fit, by Order in Writing under his Hand, to direct that the Captain, Master, **tried*
 
 Pilot, or any of the Crew of any Vessel which shall have been so condemned as mentioned
 
@@ -7866,7 +7846,7 @@ shall be exercised only within the Distance of Two hundred Miles from the Coast 
 
 and to the Southward of the Thirty-second Parallel of North Latitude, and within Thirty exercised with Leagues of the Coast of the Island of Cuba. certain limits;
 
-32. It shall not be lawful for Vessels of War of either of the said Two Nations to ^^i^dby
+32. It shall not be lawful for Vessels of War of either of the said Two Nations to ^i^dby
 
 exercise such Right of Search within the Limits of a Settlement or Port or within the one Nation in
 
@@ -8520,7 +8500,7 @@ Taking of Lands.
 
 lands described in Schedule (A.) to this Order annexed.
 
-10. The Lands Clauses Consolidation Act, 1845, except with respect to the purchase and Lands Clauses taking of lands otherwise than by agreement, and The Lands Clauses Consolidation Acts ^^mcorpo- Amendment Act, 1860, shall be incorporated with this Order.
+10. The Lands Clauses Consolidation Act, 1845, except with respect to the purchase and Lands Clauses taking of lands otherwise than by agreement, and The Lands Clauses Consolidation Acts ^mcorpo- Amendment Act, 1860, shall be incorporated with this Order.
 
 Works.
 
@@ -8765,8 +8745,6 @@ That, from and immediately after the passing of an Act of Parliament confirming 
 A pier on iron piles carried out from the South Esplanade, Deal, into the sea to a distance of 920 feet, with a general width of 20 feet, and a width at the head of 40 feet.
 
 6. The
-
-boogie
 
 25° & 26° VICTORIA, c. 51.
 
@@ -9332,8 +9310,6 @@ per ton 0 6
 
 0 8 0 3
 
-boogie
-
 25° & 26* VICTORIA, c. 51
 
 Seeds:
@@ -9834,7 +9810,7 @@ the term " this Order " for the term " this Act," namely, sections 23, 33 (as fa
 
 18. The Commissioners shall not purchase for extraordinary purposes lands exceeding in Land* for
 
-extent in the whole two acres. ^^inAPy
+extent in the whole two acres. ^inAPy
 
 10. The •
 
@@ -10318,7 +10294,7 @@ Chalk Charcoal Cheese Chesnuts
 
 Chimney pots (earthenware)
 
-China >>
+China >
 
 Chirt stones Cocoa Chocolate Cider or perry In bottles Cinnabar Cinnamon Citron preserves Clay, pipe and potters China -Cloth -
 
@@ -12506,7 +12482,7 @@ And whereas the Board of Trade, after making such inquiries as they have thought
 
 Now, therefore, the Board of Trade do by this their Provisional Order, in pursuance of The General Pier and Harbour Act, 1861, and The General Pier and Harbour Act, 1861, Amendment Act, and by virtue and in exercise of the powers thereby respectively in them vested, and of every other power enabling them in this behalf, Order,—
 
-That, from and immediately after the passing of an Act of Parliament confirming this Provisional Order, the following provisions shall take^effect and be in force::—
+That, from and immediately after the passing of an Act of Parliament confirming this Provisional Order, the following provisions shall take^effect and be in force:—
 
 Hastings Pier and Harbour Company.
 
@@ -12529,8 +12505,6 @@ Hastings Pier and Harbour Company.
 9. The Company shall not out of any money so raised pay or deposit any money that may be required to be paid or deposited in relation to any application to Parliament or the Board of Trade.
 
 10. Every
-
-boogie
 
 25° & 26° VICTORIA, c. 51.
 
@@ -12669,8 +12643,6 @@ fish - -- -- -- - each 0 6
 All drave or large boats using the Pier or entering the Harbour with fresh fish - -- -- -- - each 0 4
 
 II.—Bates
-
-boogie
 
 25° & 26" VICTORIA, c. 51.
 
@@ -13558,7 +13530,7 @@ As to the Record of Title.*
 
 16. In the Record of Title so made as aforesaid it shall be competent for the Registrar to specify or define any Exception or Qualification or Condition affecting the whole of the Interests so recorded, or any of them, and also to reserve expressly the Right of any Person or Class of Persons, and to describe any outstanding Right or Possibility of Claim or Interest subject to which such Registration is made $ and if there shall be any disputed Question Boundary between the Applicants and any Proprietor of adjoining Land which shall not hSve been previously determined by any competent Authority, it shall be competent.for the Parties or either of them to object in Writing to the Determination of suen Question by the Registrar, or by a Judge of the Court of Chancery, under this Act; and if any such Objection shall be made, the Registrar shall specify upon the Record of Title the Existence or such disputed Question of Boundary, and ihat the Registration is made subject thereto.
 
-17. If in making up, or afterwards continuing, such Record of Title as aforesaid, any Question shall arise as to the true Construction or legal Validity or Effect of any Deed, Instrument, or Will, or as to tHe^ersons^entitled, or the Extent or Nature of the EstafS, RTght, or Interest, Power_or Authority of any Person or Class of Persons, or the Modem "which anvJEntrv eught to be made in the Record of Title^or any doubtful or uncertain RTght or Interest sFated or dealt with by the Registrar,, it shall te competent for the Registrar, or for any of the Parties interested, to refer the same to a Judge of the Court of Chancery: If on sftch Reference the Judge, having regard to the Parties appearing before him, shall think proper to decide the Question, he shall have Power to do so, or to direct any Proceeding at Law or in Equity to be instituted for that Purpose, or at his Discretion, and without deciding such Question, to direct such particular Form of Entry to be made on the Record of Title as under the Circumstances shall appear to be right.
+17. If in making up, or afterwards continuing, such Record of Title as aforesaid, any Question shall arise as to the true Construction or legal Validity or Effect of any Deed, Instrument, or Will, or as to tHe^ersons^entitled, or the Extent or Nature of the EstafS, RTght, or Interest, Power_or Authority of any Person or Class of Persons, or the Modem "which anvJEntrv eught to be made in the Record of Title^or any doubtful or uncertain RTght or Interest sFated or dealt with by the Registrar, it shall te competent for the Registrar, or for any of the Parties interested, to refer the same to a Judge of the Court of Chancery: If on sftch Reference the Judge, having regard to the Parties appearing before him, shall think proper to decide the Question, he shall have Power to do so, or to direct any Proceeding at Law or in Equity to be instituted for that Purpose, or at his Discretion, and without deciding such Question, to direct such particular Form of Entry to be made on the Record of Title as under the Circumstances shall appear to be right.
 
 18. In any Case described in the preceding Section, the Registrar may, at the Request of the Parties or at his own Discretion, refer in the Record of Title to the Deed, Will, or other Instrument for the Estates and Interests of the Parties, instead of setting out or describing the same: Provided always, that in every Case in which such Deed, Will, or other Instrument shall be so referred to, a Copy thereof (which shall be verified and printed in the Manner herein-after directed with respect to Deeds or Instruments conveying, mortgaging, or charging the Estate or Interest of any Proprietor on the Register,) shall be delivered to the Registrar by the Parties applying for Registration, and shall be preserved in the Registry; and for the Purposes of any subsequent Sale, Mortgage, or Contract for valuable Consideration by any Person appearing thereby to have any Estate or Interest in the Land to which the Record of Title so made up shall relate, such Copy shall be conclusive Evidence of the Contents of the said Deed, without the Production of the Original thereof.
 
@@ -13602,7 +13574,7 @@ Proceedings for Registration without an indefeasible Title.
 
 Person, subject to the following Conditions: without Gua-
 
-1. The Applicant shall prove to the Satisfaction of the Registrar that he, or some Person j^^^Tde*
+1. The Applicant shall prove to the Satisfaction of the Registrar that he, or some Person j^Tde*
 
 under whom he claims, has been in the actual Enjoyment or Receipt of the Rents under certain and Profits of the Land as Owner of the Fee Simple thereof, continuously and Conditions, without Interruption, for a Period of Ten Years immediately preceding the Time of such Application:
 
@@ -13660,7 +13632,7 @@ Application may be made by Persons having such Estates and Interests in the Leas
 
 General Provisions as to Title.
 
-Charges and 27. The following Charges and Liabilities shall not be deemed Incumbrances within the to^^d^ m n0t Mean*nS Act; namely,
+Charges and 27. The following Charges and Liabilities shall not be deemed Incumbrances within the to^d^ m n0t Mean*nS Act; namely,
 
 Incumbrances. I* Land Tax, Succession Duty, Tithe Rentcharges, Rents payable to the Crown:
 
@@ -13728,7 +13700,7 @@ Notice.
 
 39. If any Person wrongfully and without reasonable Cause, Ibdges a Caveat with the compensation
 
-Registrar, he shall be liable to make, to any Person who may have sustained Damage by if Cave»t the lodging of such Caveat, such Compensation as a Judge of the Court of Chancery shall {^^a^|thont deem just. Cau*e.
+Registrar, he shall be liable to make, to any Person who may have sustained Damage by if Cave»t the lodging of such Caveat, such Compensation as a Judge of the Court of Chancery shall {^a^|thont deem just. Cau*e.
 
 40. A
 
@@ -13916,8 +13888,6 @@ I i
 
 Certificate to be Evidence.
 
-boogie
-
 Conveyance of Lands by Endorsement
 
 Deposit of Certificate.
@@ -14000,7 +13970,7 @@ PART IV.
 
 General Provisions to facilitate Registration.
 
-89. If on the Examination of any Title it shall appear that the Land or any Part of it Money Charge is subject to any Money Charge or Incumbrance, the Ownership of which is not ascertained, ^^r^ned' or the Right to which is doubtful or uncertain, or to any doubtful or uncertain Right or refereed to Claim which may be estimated or compensated by Money, and does not involve a Right to Judge at the Land itself otherwise than as a Security for Money, the Case may, at the Request of Chambers-the Applicant for Registration, be referred to a Judge of the Court of Chancery sitting in Chambers for the Purpose of determining whether such Right or Claim and the Costs of any Party entitled by virtue thereof can be justly provided for by Payment of Money into Court, and if so to fix the Sum to be so paid in, and direct the Investment and Application of the Interest thereof; and after such Payment shall have been made the Land and the Title thereto shall be wholly discharged from such Right, Claim, Charge, or Incumbrance as fully as if the same had never existed.
+89. If on the Examination of any Title it shall appear that the Land or any Part of it Money Charge is subject to any Money Charge or Incumbrance, the Ownership of which is not ascertained, ^r^ned' or the Right to which is doubtful or uncertain, or to any doubtful or uncertain Right or refereed to Claim which may be estimated or compensated by Money, and does not involve a Right to Judge at the Land itself otherwise than as a Security for Money, the Case may, at the Request of Chambers-the Applicant for Registration, be referred to a Judge of the Court of Chancery sitting in Chambers for the Purpose of determining whether such Right or Claim and the Costs of any Party entitled by virtue thereof can be justly provided for by Payment of Money into Court, and if so to fix the Sum to be so paid in, and direct the Investment and Application of the Interest thereof; and after such Payment shall have been made the Land and the Title thereto shall be wholly discharged from such Right, Claim, Charge, or Incumbrance as fully as if the same had never existed.
 
 I i 2 90. Where
 
@@ -14516,8 +14486,6 @@ Sheriff may commit dangerous Lunatics
 
 Ou Application of Person at whose Instance a Lunatic is detained Board may authorize his Removal or Liberation on Probation without an Order of the Sheriff.
 
-boogie
-
 Superintendent to give Intimation of Recovery of a Lunatic.
 
 If Parochial Board neglect to provide for Removal of a Pauper Lunatic, Board may take necessary Measures.
@@ -14823,8 +14791,6 @@ of them had before the passing of this Act, or could or might have enjoyed in ca
 The SCHEDULE above referred to.
 
 All that Piece of Land situate on the South Side of Peascod Street in the Borough of Windsor, having a Frontage to the said Street of Thirty-three Feet Three Inches or thereabouts, and extending in Depth on the West Side One hundred and seventy-seven Feet or thereabouts, on the South Side Forty-four Feet Nine Inches or thereabouts, and on the East Side One hundred and ninety-eight Feet Six Inches or thereabouts, and containing about Seven hundred and ninety-two Yards Superficial or thereabouts, together with the Sheds and other Erections and Buildings thereon, all which Premises are commonly known by the Name of the Old Bakehouse.
-
-boogie
 
 25° & 26° VICTORIA, c. 58
 
@@ -15674,15 +15640,13 @@ at any Port in consequence of the Distance which Applicants for Certificates hav
 
 18. It is hereby declared that the 182d Section of the Principal Act does not apply to Contraction of the Case of any Stipulation made by the Seamen belonging to any Ship, which according Sect 182 of
 
-to the Terms of the Agreement is to be employed on Salvage Service, with respect to the s^^tions0** Remuneration to be paid to them for Salvage Services to be rendered by such Ship to any concerning other Ship or Ships. Salvage.
+to the Terms of the Agreement is to be employed on Salvage Service, with respect to the s^tions0** Remuneration to be paid to them for Salvage Services to be rendered by such Ship to any concerning other Ship or Ships. Salvage.
 
 19. The Payment of Seamen's Wages required by the 209th Section of the Principal Payment of Act shall, whenever it is practicable so to do, be made in Money and not by Bill; and in
 
 Cases where Payment is made by Bill drawn by the Master, the Owner of the Ship shall be under Section liable to pay .the Amount for which the same is drawn to the Holder or Indorsee thereof; 209 of Princi-and it shall not bemeoessary in any Proceeding against the Owner upon such Bill to prove ^ Act
 
 that
-
-boogie
 
 Wages and Effects of deceased Seamen.
 
@@ -17436,7 +17400,7 @@ Railways Clauses Consolidation Acts, 1845.
 
 Tramways (Ireland) Act, 1860.
 
-7. With respect to Applications made after the Thirty-first Day of December One Plans, &c. to thousand eight hundred and sixty-two, under The Tramways (Ireland) Act, 1860, Section ^^^rd^of Forty-one of that Act shall be read as if the Board of Trade were therein named instead of ivade under the Admiralty. 23 & 24 Vict
+7. With respect to Applications made after the Thirty-first Day of December One Plans, &c. to thousand eight hundred and sixty-two, under The Tramways (Ireland) Act, 1860, Section ^rd^of Forty-one of that Act shall be read as if the Board of Trade were therein named instead of ivade under the Admiralty. 23 & 24 Vict
 
 Special Acts for Railways, Harbours, 8fc. c*152,8*41 •
 
@@ -17802,11 +17766,9 @@ named in the said Warrant, for any Sum or Sums of Money not exceeding in the who
 
 three
 
-boogie
-
 25° & 26° VICTORIA, c. 71. 347
 
-three hundred sixty-two thousand and ninety-three Pounds, to defray the Charge of i,362,093/. for Victuals to Seamen and Marines, which will come in course of Payment during the Year ending on the Thirty-first Day of March One thousand eight hundred and sixty-three; and x70832/^0/ any Sum or Sums of Money not exceeding One hundred seventy thousand eight hundred Salaries, &c. and thirty-two Pounds, to defray the Salaries of the Officers and the contingent Expenses in Admiralty of the Admiralty Office, which will come in course of Payment during the Year ending on 0ffice» the Thirty-first Day of March One thousand eight hundred and sixty-three; and any Sum 297,602/. for or Sums of Money not exceeding Two hundred ninety-seven thousand six hundred and two Pounds, to defray the Salaries and Expenses of the Coast Guard Service, the Charges for Naval Coast the Royal Naval Coast Volunteers, and Royal Naval Reserve, which will come in course of Volunteers, and Payment during the Year ending on the Thirty-first Day of March One thousand eight Naval Reserve; hundred and sixty-three; and any Sum or Sums of Money not exceeding Sixty-eight 68,045/. for the thousand and forty-five Pounds, to defray the Salaries of the Officers and the contingent *?avy Scientific Expenses of the several scientific Departments of the Navy, which will come in course of ^ cn * Payment during the Year ending on the Thirty-first Day of March One thousand eight hundred and sixty-three; and any Sum or Sums of Money not exceeding One hundred seventy- 176,624/. for six thousand six hundred and twenty-four Pounds, to defray the Salaries of the Officers j^j^^a't and the contingent Expenses of Her Majesty's Naval Establishments at home, which will home} come in course of Payment during the Year ending on the Thirty-first Day of March One thousand eight hundred and sixty-three; and any Sum or Sums of Money not exceeding 33,610/. for Thirty-three thousand six hundred and ten Pounds, to defray the Salaries of the Officers and the contingent Expenses of Her Majesty's Naval Establishments abroad, which will abroad; come in course of Payment during the Year ending on the Thirty-first Day of March One thousand eight hundred and sixty-three; and any Sum or Sums of Money not exceeding 1,147,678/. for One million one hundred forty-seven thousand six hundred and seventy-eight Pounds, to Wages of Ar-defray the Charge of Wages to Artificers, Labourers, and others employed in Her Majesty's home^
+three hundred sixty-two thousand and ninety-three Pounds, to defray the Charge of i,362,093/. for Victuals to Seamen and Marines, which will come in course of Payment during the Year ending on the Thirty-first Day of March One thousand eight hundred and sixty-three; and x70832/^0/ any Sum or Sums of Money not exceeding One hundred seventy thousand eight hundred Salaries, &c. and thirty-two Pounds, to defray the Salaries of the Officers and the contingent Expenses in Admiralty of the Admiralty Office, which will come in course of Payment during the Year ending on 0ffice» the Thirty-first Day of March One thousand eight hundred and sixty-three; and any Sum 297,602/. for or Sums of Money not exceeding Two hundred ninety-seven thousand six hundred and two Pounds, to defray the Salaries and Expenses of the Coast Guard Service, the Charges for Naval Coast the Royal Naval Coast Volunteers, and Royal Naval Reserve, which will come in course of Volunteers, and Payment during the Year ending on the Thirty-first Day of March One thousand eight Naval Reserve; hundred and sixty-three; and any Sum or Sums of Money not exceeding Sixty-eight 68,045/. for the thousand and forty-five Pounds, to defray the Salaries of the Officers and the contingent *?avy Scientific Expenses of the several scientific Departments of the Navy, which will come in course of ^ cn * Payment during the Year ending on the Thirty-first Day of March One thousand eight hundred and sixty-three; and any Sum or Sums of Money not exceeding One hundred seventy- 176,624/. for six thousand six hundred and twenty-four Pounds, to defray the Salaries of the Officers j^j^a't and the contingent Expenses of Her Majesty's Naval Establishments at home, which will home} come in course of Payment during the Year ending on the Thirty-first Day of March One thousand eight hundred and sixty-three; and any Sum or Sums of Money not exceeding 33,610/. for Thirty-three thousand six hundred and ten Pounds, to defray the Salaries of the Officers and the contingent Expenses of Her Majesty's Naval Establishments abroad, which will abroad; come in course of Payment during the Year ending on the Thirty-first Day of March One thousand eight hundred and sixty-three; and any Sum or Sums of Money not exceeding 1,147,678/. for One million one hundred forty-seven thousand six hundred and seventy-eight Pounds, to Wages of Ar-defray the Charge of Wages to Artificers, Labourers, and others employed in Her Majesty's home^
 
 Naval Establishments at home, which will come in course of Payment during the Year
 
@@ -17925,8 +17887,6 @@ defray the Charge of Civil Pensions and Allowances, which will come in course of
 14. Out of all or any the Aids or Supplies aforesaid there shall and may be issued and applied any Sum or Sums of Money not exceeding Six million fifty-seven thousand five hundred and twenty-two Pounds, for defraying the Charge for Wages of Artificers, Labourers, and others employed at home and abroad, and the Charge of the Supplies of Clothing and Necessaries, Provisions, Forage, Fuel and Light, Barrack Furniture, Bedding, &c., and the Charge of Stores for Land and Sea Service, and the Charge of Fortifications, Buildings, and Barracks at home and abroad, herein-after more particularly mentioned; (that is to say,) any Sum or Sums of Money not exceeding Seven hundred sixty-six thousand and ninety-one Pounds, to defray the Charge of the Wages of Artificers, Labourers, &c., which will come in course of Payment during the Year ending on the Thirty-first Day of March One thousand eight hundred and sixty-three inclusive; and any Sum or Sums of Money not exceeding Five hundred ninety-seven thousand two hundred and sixty-four Pounds, to defray the Charge of Clothing and Necessaries, which will come in course of Payment during the Year ending on the Thirty-first Day of March One thousand eight
 
 hundred
-
-boogie
 
 25° & 26° VICTORIA, c. 71.
 
@@ -18232,7 +18192,7 @@ of the High Court of Admiralty, and for the Expenses of the Admiralty Court, Dub
 
 for Sheriffs and Stewards, including Procurators Fiscal not paid by Salaries, and the Expenses of Criminal Prosecutions, &c. in Sheriff Courts in Scotland; and any Sum or 23,475/. for Sums of Money not exceeding Twenty-three thousand four hundred and seventy-five Procurators Pounds, to defray the Charge which will come in course of Payment during the Year land. m ending on the Thirty-first Day of March One thousand eight hundred and sixty-three, for the Salaries of such of the Procurators Fiscal in Scotland as are no longer paid by Fees; and any Sum or Sums of Money not exceeding Fourteen thousand three hundred and 14,330/. for thirty Pounds, to defray the Charge which will come in course of Payment during the Year ending on the Thirty-first Day of March One thousand eight hundred and sixty- *
 
-three, for the Salaries of such of the Sheriff Clerks, Scotland, as are not chargeable on the Consolidated Fund; and any Sum or Sums of Money not exceeding Two thousand three 2,300/. for hundred Pounds, to defray the Charge which will come in course of Payment during the ^*^^of ° Year ending on the Thirty-first Day of March One thousand eight hundred and sixty-three, Tifo?"&c .; for the Salary of the Solicitor of the Crown, and Expenses in Matters of Tithes, and the Expenses of the Agent of the Officers of State in maintaining Bights of the Crown in Civil Actions, &c. in Scotland; and any Sum or Sums of Money not exceeding Fifteen 15,941/. for thousand nine hundred and forty-one Pounds, to defray the Charge which will come in course of Payment during the Year ending on the Thirty-first Day of March One f^nburg]?? thousand eight hundred and sixty-three, for the Salaries and Expenses of the several Offices in Her Majesty's General Register House, Edinburgh; and any Sum or Sums 1,305/. for of Money not exceeding One thousand three hundred and five Pounds, to defray the Charge which will come in course of Payment during the Year ending on the Thirty-first burgh;
+three, for the Salaries of such of the Sheriff Clerks, Scotland, as are not chargeable on the Consolidated Fund; and any Sum or Sums of Money not exceeding Two thousand three 2,300/. for hundred Pounds, to defray the Charge which will come in course of Payment during the ^*^of ° Year ending on the Thirty-first Day of March One thousand eight hundred and sixty-three, Tifo?"&c .; for the Salary of the Solicitor of the Crown, and Expenses in Matters of Tithes, and the Expenses of the Agent of the Officers of State in maintaining Bights of the Crown in Civil Actions, &c. in Scotland; and any Sum or Sums of Money not exceeding Fifteen 15,941/. for thousand nine hundred and forty-one Pounds, to defray the Charge which will come in course of Payment during the Year ending on the Thirty-first Day of March One f^nburg]? thousand eight hundred and sixty-three, for the Salaries and Expenses of the several Offices in Her Majesty's General Register House, Edinburgh; and any Sum or Sums 1,305/. for of Money not exceeding One thousand three hundred and five Pounds, to defray the Charge which will come in course of Payment during the Year ending on the Thirty-first burgh;
 
 Day of March One thousand eight hundred and sixty-three, for the Salaries and Expenses in the Department of the Commissary Clerk, Edinburgh; and any Sum or Sums of Money 1,490/. for not exceeding One thousand four hundred and ninety Pounds, to defray the Charge which Accountant in will come in course of Payment during the Year ending on the Thirty-first Day of March Scotland?7, One thousand eight hundred and sixty-three, for the Salaries and Expenses in the Department of the Accountant in Bankruptcy in Scotland; and any Sum or Sums of Money not 61,134/. for exceeding Sixty-one thousand one hundred and thirty-four Pounds, to defray the Charge Criminal Pro-which will come in course of Payment during the Year ending on the Thirty-first Day &c*'
 
@@ -19028,11 +18988,11 @@ Inspectors of Weights and Measures within such District, and shall possess and e
 
 the Fifth and Sixth Years of King William the Fourth, Chapter Sixty-three, or any other Act now in force, and shall perform such Duties, under the Direction of the Justices at Petty Sessions, without Fee or Reward, and notwithstanding any Manorial Jurisdiction or Claim of Jurisdiction within such District: Provided that if within One Month from the Date of such Selection the Justices shall signify their Disapproval of the Selection of any Head or other Constable, another Selection shall be made by the same Authority, subject to the same Conditions, and the Inspector General of Constabulary shall give Notice, or cause Notice to be given, to the Clerk of the Petty Sessions District, within Three Days of any such Selection having been made in his District, who shall immediately make known the said Selection to the Justices of the District.
 
-6. The Inspector General of Constabulary shall, with the Approval of the Lord Lieu- Inspector tenant, also appoint some Sub-Inspector of Constabulary in every County or Borough in ^^cTne Ireland to have the Charge of such Copy or Copies of the Imperial Standard Weights and officer in each Measures as shall have been provided for such County or Borough under the Provisions of County or Ho-the said first-recited Act, or may be so provided under this Act; and such Sub-Inspector ^ilstod^of'C shall duly stamp or cause to be duly stamped from Time to Time such Sub-Standard imperial Stan-Weights and Measures as may be transmitted to him for such Purpose; and any Inspector dards, who shall of Weights and Measures in any such County or Borough in whose Custody any Copy or Sub"
+6. The Inspector General of Constabulary shall, with the Approval of the Lord Lieu- Inspector tenant, also appoint some Sub-Inspector of Constabulary in every County or Borough in ^cTne Ireland to have the Charge of such Copy or Copies of the Imperial Standard Weights and officer in each Measures as shall have been provided for such County or Borough under the Provisions of County or Ho-the said first-recited Act, or may be so provided under this Act; and such Sub-Inspector ^ilstod^of'C shall duly stamp or cause to be duly stamped from Time to Time such Sub-Standard imperial Stan-Weights and Measures as may be transmitted to him for such Purpose; and any Inspector dards, who shall of Weights and Measures in any such County or Borough in whose Custody any Copy or Sub"
 
 Copies of the Imperial Standard Weights and Measures shall have been deposited, under the Provisions of the said first-recited Act, shall, within One Calendar Month after the Commencement of this Act, transmit the same to the Sub-Inspector appointed to have the Custody of the same, under the Provisions of this Act, subject to a Penalty for Neglect or Refusal not exceeding Ten Pounds.
 
-7. It shall be lawful for the Grand Jury of each County and the Town Council of each Grand Jury Borough and they are hereby required to provide One complete Set of Copies of the Cou^iUo >ro Imperial Standard Weights and Measures for each such County or Borough respectively, vidTone Set of where the same has not been already provided, and to have the same from Time to Time Copies of Unduly compared and re-verified in the Manner required by the Fifteenth Section of the said ^"'ch firstrrecited Act, and also to provide for each such County or Borough respectively as many County or Uo-Copies in Iron or other sufficient Material of the County Copies of the Imperial Standard rough, and also Weights and Measures, and such accurate Beams and Scales, as shall be necessary for such st^^ds^ County or Borough respectively: and such Inspector General may direct that such Copies may be neces-shall be duly stamped by the Sub-Inspector of Constabulary in whose Custody any Copy or »ary.
+7. It shall be lawful for the Grand Jury of each County and the Town Council of each Grand Jury Borough and they are hereby required to provide One complete Set of Copies of the Cou^iUo >ro Imperial Standard Weights and Measures for each such County or Borough respectively, vidTone Set of where the same has not been already provided, and to have the same from Time to Time Copies of Unduly compared and re-verified in the Manner required by the Fifteenth Section of the said ^"'ch firstrrecited Act, and also to provide for each such County or Borough respectively as many County or Uo-Copies in Iron or other sufficient Material of the County Copies of the Imperial Standard rough, and also Weights and Measures, and such accurate Beams and Scales, as shall be necessary for such st^ds^ County or Borough respectively: and such Inspector General may direct that such Copies may be neces-shall be duly stamped by the Sub-Inspector of Constabulary in whose Custody any Copy or »ary.
 
 Copies of the Imperial Standard Weights and Measures shall have been placed, as hereinbefore mentioned, and the said last-mentioned Copies shall be called " The Sub-Standard Weights and Measures;" and such Grand Jury and Town Council shall also provide such good and sufficient Stamps for stamping or sealipg Weights and Measures used or to be used in such County or Borough respectively as they shall consider to be necessary for such Purpose: Provided always, that not less than One Set of " The Sub-Standard Weights and Measures," and One Set of accurate Beams and Scales, shall be provided for each Petty Sessions District in any County, and not less than Two such Sets shall be provided for any Borough.
 
@@ -19646,13 +19606,13 @@ Trumpeters, or Buglers, at the same Time.
 
 3. Every Adjutant, Quartermaster, and Non-commissioned Officer of the Regular Militia, Adjutants, when disembodied, and not called out for Training or Exercise, shall be liable to be employed
 
-within the County to which the Regiment, Battalion, or Company of the said Militia Staff commissioned belongs, under the Officers appointed to pay and superintend the Out-Pensioners of Chelsea Officers of Mi-Hospital, in such Manner as One of Her Majesty's Principal Secretaries of State may Utia,ma^^€ determine: Provided always, that the Senior Officer shall have the Command of the Force Sr°CounSes. so employed.
+within the County to which the Regiment, Battalion, or Company of the said Militia Staff commissioned belongs, under the Officers appointed to pay and superintend the Out-Pensioners of Chelsea Officers of Mi-Hospital, in such Manner as One of Her Majesty's Principal Secretaries of State may Utia,ma^€ determine: Provided always, that the Senior Officer shall have the Command of the Force Sr°CounSes. so employed.
 
 4. The Quartermaster of each Regiment of Militia in which a Quartermaster is appointed Quartermas-and receives daily Pay under the Provisions of the First Section of this Act, and when no ^ve^Char e of Quartermaster is appointed, then the Adjutant of each Regiment of Militia, shall have the the Arms and Charge and Care of the Arms, Accoutrements, Great Coats, Clothing, Necessaries, and Clothing, other Stores thereof, under the Superintendence of the Colonel or Commandant, and the Adjutant to Adjutant shall, out of the Allowance directed by this Act to be issued and paid for defraying
 
 the contingent Expenses of such Regiment, Battalion, or Corps, from Time to Time issue Expenses on an and pay such Sums of Money as may be necessary for the Repair of Arms, and other usual Ordersignedby contingent Expenses, upon an Order in Writing signed by the Colonel or other Commandant, the Colonel* and after Payment of such Sums as aforesaid he shall Three Times in the Year make up Accounts of all such Money, and of the Expenditure thereof, showing the Balance remaining in his Hands, (which said Balance shall form a Stock Purse for the Use of the Regiment, Balance to form Battalion, or Corps,) and shall transmit the same to the Colonel or other Commandant of a Stock Pur8e-such Regiment, Battalion, or Corps, to be by him examined, allowed, and signed; and the said Accounts, so allowed and signed, shall be the proper Vouchers and Acquittal of such Adjutant for the Application and Disposal of such Money: Provided always, that it shall Arms may be and may be lawful for the Secretary of State for War to order and direct that the Arms, Accoutrements, and other Stores, or any Part thereof, belonging to any Regiment, stoi^byOrder Battalion, or Corps of Militia of the United Kingdom shall at any Time, while such of Secretary of Regiment, Battalion, or Corps shall not be embodied or in actual Service, be conveyed to State for War* and deposited and kept in any of Her Majesty's War Office Stores.
 
-5. In the occasional and unavoidable Absence of the Adjutant from the City, Town, or In Absence of Place where the Disembodied Staff is quartered, or during any Vacancy in the Appointment g1^.utant» of Adjutant, the Serjeants and Drummers, Trumpeters, or Buglers, shall be under the te\nder*Se l° Command of the Quartermaster in Cases in which One is appointed, and when no Quarter- Command of master is appointed or is present, then under the Command of the Serjeant Major, or of ^^^and in some Serjeant who shall be appointed by the said Adjutant, with the Approbation of the S^At^c^of Colonel or other Commanding Officer, to act as Serjeant Major during the Absence of such the Serjeant Adjutant and Quartermaster; and the said Quartermaster and Serjeant Major or acting Serjeant Major shall render the same Returns and perform such other Acts as ore by Law required from the Adjutant.
+5. In the occasional and unavoidable Absence of the Adjutant from the City, Town, or In Absence of Place where the Disembodied Staff is quartered, or during any Vacancy in the Appointment g1^.utant» of Adjutant, the Serjeants and Drummers, Trumpeters, or Buglers, shall be under the te\nder*Se l° Command of the Quartermaster in Cases in which One is appointed, and when no Quarter- Command of master is appointed or is present, then under the Command of the Serjeant Major, or of ^and in some Serjeant who shall be appointed by the said Adjutant, with the Approbation of the S^At^c^of Colonel or other Commanding Officer, to act as Serjeant Major during the Absence of such the Serjeant Adjutant and Quartermaster; and the said Quartermaster and Serjeant Major or acting Serjeant Major shall render the same Returns and perform such other Acts as ore by Law required from the Adjutant.
 
 8. The Officers and Volunteer Non-commissioned Officers and Private Men of the Regular Militia shall, for the Period or Periods during which they shall be called out for
 
@@ -20660,7 +20620,7 @@ SCHEDULES referred to in the foregoing Act.
 
 SCHEDULE A.
 
-I A,B,, in consideration of, Sfc. [or otherwise, as the Case may be], do hereby assign to C.D. and his Heirs or Assignees [or otherwise, as the Case may be,] the Bond [or other Deed, describing it,] granted by E.F., dated, Sfc., by which [here specify the Nature of the Deed, and specify also any connecting Title, and any Circumstances requiring to be stated in regard to the Nature and Extent of the Right required.] In witness whereof 8fc,
+I A,B, in consideration of, Sfc. [or otherwise, as the Case may be], do hereby assign to C.D. and his Heirs or Assignees [or otherwise, as the Case may be,] the Bond [or other Deed, describing it,] granted by E.F., dated, Sfc., by which [here specify the Nature of the Deed, and specify also any connecting Title, and any Circumstances requiring to be stated in regard to the Nature and Extent of the Right required.] In witness whereof 8fc,
 
 [Insert Testing Clause in usual Form,]
 
@@ -20780,7 +20740,7 @@ Power to Lord Chancellor, where Lunatic does not oppose Application, and his Pro
 
 Power to sell Land or other Property of Lunatic for his Benefit.
 
-14. The Lord Chancellor may from Time to Time make such General Orders as he Power to make may think fit for regulating the Procedure to be adopted and the Duties to be performed General Orders, by the Masters and Officers in Lunacy for obtaining such Reports as aforesaid, and for effec^tL^b-carrying the Objects of the Two last preceding Sections into effect, and for vesting in such jects of the Masters and Officers such Powers as the Lord Chancellor may consider expedient for the ^^cedinfi> Purposes aforesaid.
+14. The Lord Chancellor may from Time to Time make such General Orders as he Power to make may think fit for regulating the Procedure to be adopted and the Duties to be performed General Orders, by the Masters and Officers in Lunacy for obtaining such Reports as aforesaid, and for effec^tL^b-carrying the Objects of the Two last preceding Sections into effect, and for vesting in such jects of the Masters and Officers such Powers as the Lord Chancellor may consider expedient for the ^cedinfi> Purposes aforesaid.
 
 15. Where any Person has, on the Trial of any Indictment, been acquitted on the Power to apply Ground of Insanity, it shall be lawful for the Lord Chancellor intrusted as aforesaid, on being satisfied by Affidavit or otherwise of the continued Insanity of such Person, and of quitted on the
 
@@ -21158,7 +21118,7 @@ same to be a Trade Mark without further or otherwise describing such Trade Mark,
 
 14. Every Person who shall be convicted or found guilty of any Offence ^hich is by this Act made a Misdemeanor shall be liable, at the Discretion of the Court and as the Court shall award, to suffer such Punishment by Imprisonment for not more than Two Years, with or without Hard Labour, or by Fine, or both by Imprisoment with or without Hard Labour and Fine, and also by Imprisonment until the Fine (if any) shall have been paid and satisfied.
 
-15. In every Case in which any Person shall have committed or done any Offence or Act whereby he shall have forfeited or become liable to pay to Her Majesty any of the Penalties or Sums of Money mentioned in the Provisions of this Act, every such Penalty or Sum of Money shall or may be recovered in England,, Wales, or Ireland in an Action of Debt, which any Person may as Plaintiff for and on behalf of Her Majesty commence and prosecute to J udgment in any Court of Record, and the Amount of every such Penalty or Sum of Money to be recovered in any such Action shall or may be determined by the Jury (if any) sworn to try any Issue in such Action, and if there shall be no such Jury then by the Court or some other Jury, as the Court shall think fit, or instead of any such Action being commenced such Penalty or Sum of Money shall or may in England or Wales be recovered by a summary Proceeding before Two Justices of the Peace having Jurisdiction in the County or Place where the Party offending shall reside or have any Place of Business, or in the County or Place in which the Offence shall have been committed; and shall or may in Ireland be recovered in like Manner by Civil Bill in the Civil Bill Court of the
+15. In every Case in which any Person shall have committed or done any Offence or Act whereby he shall have forfeited or become liable to pay to Her Majesty any of the Penalties or Sums of Money mentioned in the Provisions of this Act, every such Penalty or Sum of Money shall or may be recovered in England, Wales, or Ireland in an Action of Debt, which any Person may as Plaintiff for and on behalf of Her Majesty commence and prosecute to J udgment in any Court of Record, and the Amount of every such Penalty or Sum of Money to be recovered in any such Action shall or may be determined by the Jury (if any) sworn to try any Issue in such Action, and if there shall be no such Jury then by the Court or some other Jury, as the Court shall think fit, or instead of any such Action being commenced such Penalty or Sum of Money shall or may in England or Wales be recovered by a summary Proceeding before Two Justices of the Peace having Jurisdiction in the County or Place where the Party offending shall reside or have any Place of Business, or in the County or Place in which the Offence shall have been committed; and shall or may in Ireland be recovered in like Manner by Civil Bill in the Civil Bill Court of the
 
 County
 
@@ -21206,7 +21166,7 @@ Wriring
 
 25° & 26° VICTORIES, c. 88. 425
 
-Writing or not) to any other Person any Chattel or Article upon which, or upon any Cask, Article with Bottle, Stopper, Vessel, Case, Cover, Wrapper, Band, Reel, Ticket, Label, or other Thing ^>e^rj{)^nitg together with which such Chattel or Article shall be sold or contracted to be sold, any Q^^ty t(j be Description, Statement, or other Indication of or respecting the Number, Quantity, deemed to con-Measure, or Weight of such Chattel or Article, or the Place or Country in which such tract that the Chattel or Article shall have been made, manufactured, or produced, the Sale or Contract to sell shall in every such Case be deemed to have been made with a Warranty or Contract by the Vendor to or with the Vendee that no such Description, Statement, or other Indication was in any material respect false or untrue, unless the contrary shall be expressed in some Writing signed by or on behalf of the Vendor, and delivered to and accepted by the Vendee.
+Writing or not) to any other Person any Chattel or Article upon which, or upon any Cask, Article with Bottle, Stopper, Vessel, Case, Cover, Wrapper, Band, Reel, Ticket, Label, or other Thing ^>e^rj{)^nitg together with which such Chattel or Article shall be sold or contracted to be sold, any Q^ty t(j be Description, Statement, or other Indication of or respecting the Number, Quantity, deemed to con-Measure, or Weight of such Chattel or Article, or the Place or Country in which such tract that the Chattel or Article shall have been made, manufactured, or produced, the Sale or Contract to sell shall in every such Case be deemed to have been made with a Warranty or Contract by the Vendor to or with the Vendee that no such Description, Statement, or other Indication was in any material respect false or untrue, unless the contrary shall be expressed in some Writing signed by or on behalf of the Vendor, and delivered to and accepted by the Vendee.
 
 21. In every Case in any Suit at Law or in Equity against any Person for forging or In Suits at
 
@@ -21556,7 +21516,7 @@ wilfully authorize or permit such Default shall incur the like Penalty.
 
 28. Every Company under this Act, having a Capital divided into Shares, that has Company to
 
-consolidated and divided its Capital into Shares of larger Amount than its existing Shares, Notice of or converted any Portion of its Capital into Stock, shall give Notice to the Registrar of ^^conye£ Joint Stock Companies of such Consolidation, Division, or Conversion, specifying the won of Capital Shares so consolidated, divided, or converted. into Stock.
+consolidated and divided its Capital into Shares of larger Amount than its existing Shares, Notice of or converted any Portion of its Capital into Stock, shall give Notice to the Registrar of ^conye£ Joint Stock Companies of such Consolidation, Division, or Conversion, specifying the won of Capital Shares so consolidated, divided, or converted. into Stock.
 
 29. Where any Company under this Act, and having a Capital divided into Shares, has Effect of Con-converted any Portion of its Capital into Stock, and given Notice of such Conversion to version of the Registrar, all the Provisions of this Act which are applicable to Shares only shall cease mt0 as to so muoh of the Capital as is converted into Stock; and the Register of Members
 
@@ -22006,7 +21966,7 @@ To take out, if necessary, in his official Name, Letters of Administration to an
 
 To do and execute all such other Things as may be necessary for winding up the Affairs of the Company and distributing its Assets.
 
-96. The Court may provide by any Order that the Official Liquidator may exercise any Discretion of of the above Powers without the Sanction or Intervention of the Court, and where an ^^ial Official Liquidator is provisionally appointed may limit and restrict his Powers by the Order appointing him.
+96. The Court may provide by any Order that the Official Liquidator may exercise any Discretion of of the above Powers without the Sanction or Intervention of the Court, and where an ^ial Official Liquidator is provisionally appointed may limit and restrict his Powers by the Order appointing him.
 
 97. The Official liquidator may, with the Sanction of the Court, appoint a Solicitor or Law Agent to assist him in the Performance of his Duties.
 
@@ -22450,8 +22410,6 @@ Resolution in Writing addressed to the Liquidators o? One of them, and left at t
 
 makes
 
-boogie
-
 455
 
 25" & 20° VICTQRL&, c.89.
@@ -22655,8 +22613,6 @@ Application of Act to unregistered Companies.
 (c.) Whenever, in England or Ireland, Execution or other Process issued on a Judgment, Decree, or Order obtained in any Court in favour of any Creditor
 
 in
-
-boogie
 
 463
 
@@ -24470,8 +24426,6 @@ Throughout this Act the Expression the Duke of Norfolk means Henry now Duke of N
 
 other,
 
-boogie
-
 503
 
 25° & 26° VICTORIA, c. 93.
@@ -25086,8 +25040,6 @@ Short Title of Principal Act and this Act
 
 5 & 6 W. 4. c. 42.
 
-boogie
-
 Abolition of Offices of Persons named in Schedules.
 
 Grant of additional Allowance to Persons named in First Schedule.
@@ -25335,8 +25287,6 @@ any such Burgh or populous Place, this Act shall not have been adopted by such B
 9. In the event of any Error having been committed by any Sheriff in defining the Power to rec-Boundaries of any Burgh or populous Place, under the Powers hereby or by the said tify Errorh
 
 7 recited commiltedby
-
-boogie
 
 Sheriffs in
 
@@ -25746,7 +25696,7 @@ Drafts on the said Account for any private Purpose on any Pretence whatever, nor
 
 against him shall not have been paid by his Cautioners or Sureties, then and in every such of Treasurers Case the Sum deficient shall be chargeable against, and form a Burden upon the next Deficiency may annual Assessment. be assessed.
 
-73. It shall be lawful for the Commissioners to appoint the same Person to be both Treasurer and Treasurer and Collector for the Purposes of this Act; but it shall not be lawful for the ^^tor ay Commissioners to appoint any Person who may be appointed their Clerk in the Execution pers^n^t of this Act, or the Partner of such Clerk, or any Clerk or other Person in the Service or Clerk and Employ of such Clerk or of his Partner, to be the Treasurer for the Purposes of this Act, ^a8JJJ'er not or to appoint any Person who may be appointed Treasurer or the Partner of such Treasurer, person.6 Bame or any Clerk or other Person in the Service or Employ of such Treasurer or of his Partner,
+73. It shall be lawful for the Commissioners to appoint the same Person to be both Treasurer and Treasurer and Collector for the Purposes of this Act; but it shall not be lawful for the ^tor ay Commissioners to appoint any Person who may be appointed their Clerk in the Execution pers^n^t of this Act, or the Partner of such Clerk, or any Clerk or other Person in the Service or Clerk and Employ of such Clerk or of his Partner, to be the Treasurer for the Purposes of this Act, ^a8JJJ'er not or to appoint any Person who may be appointed Treasurer or the Partner of such Treasurer, person.6 Bame or any Clerk or other Person in the Service or Employ of such Treasurer or of his Partner,
 
 to be the Clerk to the Commissioners for the Purposes of this Act; and if any Person shall accept both the Offices of Clerk and Treasurer for the Purposes of this Act, or if any Person being the Partner of such Clerk, or the Clerk or other Person in the Service or Employ of such Clerk or of his Partner, shall accept the Office of Treasurer, or shall act as Deputy of the Treasurer, or in any Manner officiate for the Treasurer, or, being the Treasurer or the Partner of such Treasurer, or the Clerk or other Person in the Service or Employ of such Treasurer or of his Partner, shall accept the Office of Clerk in the Execution of this Act, or shall act as Deputy of such Clerk, or in any Manner officiate for such Clerk, or if any Treasurer shall hold any Place of Profit or Trust under the Commissioners other than that of Collector, every Person so offending shall for every such Offence forfeit and pay the Sum of One hundred Pounds to any Person who shall sue for the same, to be recovered, with full Expenses, in the same Manner as any of the Penalties of this Act imposed may be sued for and recovered.
 
@@ -26095,8 +26045,6 @@ Power to detach Constables to other Places.
 Powers and Privileges of Superintendent of Police and Constables.
 
 Constables not to resign without Leave or Notice.
-
-boogie
 
 548 25° & 26" VICTORIA, c. 101.
 
@@ -26582,7 +26530,7 @@ Pabt IV.
 
 Police Purposes. Sect 8.
 
-199. If any House or Building within the Burgh be at any Time not drained by a Qomndmlonm sufficient Drain or Pipe communicating with some Sewer or with the Sea, to the Satisfaction empowered to of the Commissioners, and if there shall be such Means of Drainage within One hundred construct Yards of any Part of such House or Building, the Commissioners shall construct or lay Hwi^^harg-from such House or Building a covered Branch Drain or Pipe of such Materials, of such ingO^ners, Size, at such Level, and with such Fall as they think necessary for the Drainage of such the
+199. If any House or Building within the Burgh be at any Time not drained by a Qomndmlonm sufficient Drain or Pipe communicating with some Sewer or with the Sea, to the Satisfaction empowered to of the Commissioners, and if there shall be such Means of Drainage within One hundred construct Yards of any Part of such House or Building, the Commissioners shall construct or lay Hwi^harg-from such House or Building a covered Branch Drain or Pipe of such Materials, of such ingO^ners, Size, at such Level, and with such Fall as they think necessary for the Drainage of such the
 
 House or Building, its Areas, Waterclosets, and Offices; and the Expense thereof shall be recoverable from the Owner of such House or Building, over and above any Sum that may be charged for the Use of the Sewers as above provided for.
 
@@ -26602,9 +26550,9 @@ Commissioners Notice thereof in Writing, and shall accompany such Notice with a 
 
 House, and in case of such Disapproval may, within the said Fourteen Days, fix the Level withufFonr-at which the same is to be laid, but subject to Appeal to the Sheriff, if such Appeal shall be teen Days, entered within Two Weeks from the Date of the Intimation of such Disapproval; and the Decision of the Sheriff, if such Appeal be taken, or the Deliverance of the Commissioners, if not appealed to the Sheriff, shall be final
 
-204. In default of sending such Notice and Plan, or if such Building be begun or made Commiaaionen at any Level different from that fixed by the Commissioners, within the said Fourteen "8J cauf^i|t Days, or determined on Appeal, as after provided, or in any other respect is contrary to the wj?hwt Notice, Provisions of this Act, the Commissioners may, if necessary, cause such Building to be or contrary to * altered or demolished, as the Case requires, and the Expense incurred by the Commissioners ^^onJ0°£e in respect thereof shall be repaid to them by the Person failing to comply with the Provision ai^redT aforesaid.
+204. In default of sending such Notice and Plan, or if such Building be begun or made Commiaaionen at any Level different from that fixed by the Commissioners, within the said Fourteen "8J cauf^i|t Days, or determined on Appeal, as after provided, or in any other respect is contrary to the wj?hwt Notice, Provisions of this Act, the Commissioners may, if necessary, cause such Building to be or contrary to * altered or demolished, as the Case requires, and the Expense incurred by the Commissioners ^onJ0°£e in respect thereof shall be repaid to them by the Person failing to comply with the Provision ai^redT aforesaid.
 
-205. If the Commissioners fail to signify in Writing their Approval or Disapproval of If Commis-the Level shown on such Plan as aforesaid within Fourteen Days after receiving such Notice jon? **1 to 25 & 26 VICT. 4 6 and 8,p,,fythe,r
+205. If the Commissioners fail to signify in Writing their Approval or Disapproval of If Commis-the Level shown on such Plan as aforesaid within Fourteen Days after receiving such Notice jon? **1 to 25 & 26 VICT. 4 6 and 8,p,fythe,r
 
 562
 
@@ -26972,7 +26920,7 @@ PART V.
 
 Section II.—Nuisances and Obstructions in the Streets.
 
-248. The Magistrates or Commissioners may from Time to Time make Orders for the Power to pre-Route to be observed by all Carts, Carriages, Horses, and Persons, and for preventing ^atg?^^c" Obstruction of the Streets of the Burgh, public or private, in all Times of public Proces- st^^during sions. Rejoicings, or Illuminations, and in any Case when such Streets are thronged or public Proces-liable to be obstructed, and may also give Directions to the Constables for' keeping Order 81ons' &c* and preventing any Obstruction of such Streets in the Neighbourhood of Theatres and other
+248. The Magistrates or Commissioners may from Time to Time make Orders for the Power to pre-Route to be observed by all Carts, Carriages, Horses, and Persons, and for preventing ^atg?^c" Obstruction of the Streets of the Burgh, public or private, in all Times of public Proces- st^during sions. Rejoicings, or Illuminations, and in any Case when such Streets are thronged or public Proces-liable to be obstructed, and may also give Directions to the Constables for' keeping Order 81ons' &c* and preventing any Obstruction of such Streets in the Neighbourhood of Theatres and other
 
 Places of public Resort; and every wilful Breach of any such Order shall be deemed an Offence against this Act, and every Person committing any such Offence shall be liable to a Penalty not exceeding Forty Shillings.
 
@@ -27098,7 +27046,7 @@ such Waggon, Cart, or Carriage shall be found in any Street.
 
 who is not of the full Age of Fourteen Years, and every Person who in any such Street dnve Carts, shall put a Waggon, Cart, or Carriage, and the Animal drawing the same, temporarily founder the Charge or Care of a Person who is not of the full Age of Fourteen Years, shall be liable to a Penalty not exceeding Forty Shillings.
 
-254. Every Person guilty of any riotous or indecent Behaviour in any Street, public or Penalty on private, and also every Person guilty of any violent or indecent Behaviour in any Police ^^k^.Per' Office or any Police Station House within the Burgh, shall be liable to a Penalty not guilty of exceeding Forty Shillings for every such Offence, or, in the Discretion of the Magistrate riotous or inde-before whom he is convicted, may, without a Penalty being inflicted, be imprisoned for a cent Behaviour. Period not exceeding Fourteen Days.
+254. Every Person guilty of any riotous or indecent Behaviour in any Street, public or Penalty on private, and also every Person guilty of any violent or indecent Behaviour in any Police ^k^.Per' Office or any Police Station House within the Burgh, shall be liable to a Penalty not guilty of exceeding Forty Shillings for every such Offence, or, in the Discretion of the Magistrate riotous or inde-before whom he is convicted, may, without a Penalty being inflicted, be imprisoned for a cent Behaviour. Period not exceeding Fourteen Days.
 
 255. It shall be lawful for any Officer appointed by virtue of this Act to stop and detain, Removal of until due Inquiry can be made, any Cart or Carriage, and any Person in charge thereof or Funut^re-connected therewith, found within the Burgh employed in removing Furniture between the
 
@@ -27408,8 +27356,6 @@ shall be ascertained by the Magistrate before whom the Conviction takes place, a
 
 308. The
 
-boogie
-
 Magistrates may make Byelaws for regulating Hackney Carriages.
 
 Regulations as to Omnibuses or Carriages plying within Burgh.
@@ -27528,7 +27474,7 @@ Offence be liable to a Penalty not exceeding Five Pounds, without Prejudice to s
 
 Metals, shall for every such Offence be liable to a Penalty not exceeding Five Pounds, Smelting Pot8' and such Smelting Pot or Implement shall be forfeited.
 
-325. Every Person licensed as a Broker shall have his Name with the Words " Licensed Brokers to Broker " painted over the Door or principal Entrance of his Premises, in large Characters, have their either Black upon a White Ground, or White upon a Black Ground, and shall from Time ^^g8h^nted to Time replace the same when removed, obliterated, or defaced under a Penalty not Doors, exceeding Twenty Shillings.
+325. Every Person licensed as a Broker shall have his Name with the Words " Licensed Brokers to Broker " painted over the Door or principal Entrance of his Premises, in large Characters, have their either Black upon a White Ground, or White upon a Black Ground, and shall from Time ^g8h^nted to Time replace the same when removed, obliterated, or defaced under a Penalty not Doors, exceeding Twenty Shillings.
 
 326. It shall be lawful for any Pawnbroker or other Broker or Dealer, or any other Broker may Person to whom any Goods or Articles which shall be reasonably Buspected to be stolen or detain bus-illegally obtained shall be offered to be pawned, sold, or delivered, and he is hereby required ^rin^Goods to detain the Person offering the same, and for any Officer or Constable thereon to take for Pledge or such Person into Custody for the Purpose of being examined by a Magistrate, who may, on Sale-Examination, immediately discharge such Person, or may, if he shall see any Ground for believing that the Goods or Articles have been stolen or illegally obtained, remand such
 
@@ -28826,7 +28772,7 @@ Sewer, either into a Sewer vested in the Metropolitan Board of Works, or into a 
 
 begun to be made by such Person until the Sanction in Writing of such Vestry or District &°no ** ^ Board shall have been obtained.
 
-48. Before any Vestry or District Board shall sanction the Construction of any such Vestries, &c. Sewer they shall submit the Plan and Section thereof to the Metropolitan Board of Works ^Swen^to" for their Approval, in the same Manner as if such Sewer were proposed to be constructed apply for Ap-by such Vestry or District Board; and no Vestry or District Board shall sanction the Con- proval of struction of any such Sewer without the Approval in Writing of the said Metropolitan ^^°htxlx Board first had and obtained.
+48. Before any Vestry or District Board shall sanction the Construction of any such Vestries, &c. Sewer they shall submit the Plan and Section thereof to the Metropolitan Board of Works ^Swen^to" for their Approval, in the same Manner as if such Sewer were proposed to be constructed apply for Ap-by such Vestry or District Board; and no Vestry or District Board shall sanction the Con- proval of struction of any such Sewer without the Approval in Writing of the said Metropolitan ^°htxlx Board first had and obtained.
 
 49. All Persons intending to make or branch any Drain into a Sewer vested in the Seven Days
 
@@ -29036,7 +28982,7 @@ such a Manner for the Improvement of any Street as the said Board shall direct; 
 
 75. The One hundred and forty-third Section of the first-recited Act, and the One Mode of prohundred and fortieth Section of the Act passed in the Seventh Year of His Majesty King George the Fourth, Chapter One hundred and forty-two, intituled An Act for consolidating Biddings be-the Trusts of the several Turnpike Roads in the Neighbourhood of the Metropolis North of yond Line of the River Thames, are hereby repealed; and in lieu thereof be it enacted, That no Building, Substructure, or Erection shall, without the Consent in Writing of the Metropolitan Board of Works, be erected beyond the general Line of Buildings in any Street, Place, or Row of Houses in which the same is situate in case the Distance of such Line of Buildings from the Highway does not exceed Fifty Feet, or within Fifty Feet of the Highway when the Distance of the Line of Buildings therefrom amounts to or exceeds Fifty Feet, notwithstanding there being Gardens or vacant Spaces between the Line of Buildings and the Highway, such general Line of Buildings to be decided by the Superintending Architect to the Metropolitan Board of Works for the Time being; and in case any Building, Structure, ir Erection be erected, or be begun to be erected or raised, without such Consent, or contrary to the Terms and Conditions on which the same may have been granted, it shall be lawful for the Vestry of the Parish or the Board of Works for the District in which such Building or Erection is situate to cause to be made Complaint thereof before a Justice of the Peace, who shall thereupon issue a Summons requiring the Owner or Occupier of the Premises, or the Builder or Person engaged in any Work contrary to this Enactment, to appear at a Time and Place to be stated in the Summons to answer such Complaint; and if at the Time and Place appointed in such Summons the said Complaint shall be proved to the Satisfaction of the Justice before whom the same shall be heard, such Justice shall make an Order in Writing on such Owner or Occupier, Builder, or Person, directing the Demolition of any such Building or Erection, or so much thereof as may be beyond the said general Line so fixed as aforesaid, within such Time as such Justice shall consider reasonable, and shall also make an Order for the Payment of the Costs incurred up to the Time of Hearing; and in default of the Building or Erection complained of being demolished within the Time limited by the said Order, the said Vestry or Board shall forthwith enter the Premises to which the Order relates and demolish the Building or Erection complained of, and do whatever may be necessary to execute the said Order, and may also remove the Materials to a convenient Place, and subsequently sell the same, as they think fit; and all Expenses incurred by the said Vestry or Board in carrying out the said Order and in Disposal of the said Materials may be recovered by the said Vestry or Board from the Owner or Occupier of the said Premises, or the Builder or Person engaged in the Work, either by Action at Law or in a summary Manner before a Justice of the Peace, at the Option of the said Vestry or Board, in manner provided by the Two hundred and twenty-seventh Section of the firstly-recited Act as to the Recovery of Penalties.
 
-76. The Metropolitan Board may, in giving Consent for any Erection beyond the Conditions as regular Line of the Buildings in any Street, annex any Condition to the Consent given by J^^^Lineof the Board, and in case such Erection shall not be made in accordance with the Consent of street. * ° the Board, or be in any Manner altered or raised without their Consent, the Board may
+76. The Metropolitan Board may, in giving Consent for any Erection beyond the Conditions as regular Line of the Buildings in any Street, annex any Condition to the Consent given by J^Lineof the Board, and in case such Erection shall not be made in accordance with the Consent of street. * ° the Board, or be in any Manner altered or raised without their Consent, the Board may
 
 enter and demolish or alter the Buildings or Structure or any Part thereof, and recover all Expenses, or may impose any Penalty not exceeding Forty Shillings to be summarily recovered for every Day during which any Building or Structure being a Contravention of such Condition shall exist after Notice from the said Board or any Officer of the Board to remedy the Complaint.
 
@@ -29233,8 +29179,6 @@ Limitation.
 Venue.
 
 General Issue
-
-boogie
 
 Tender of Amends.
 
@@ -29506,7 +29450,7 @@ Liberty of Glasshouse Yard - 38 9 11
 
 Strand District.
 
-Saiut Anne Soho - - 958 7 5
+Saint Anne Soho - - 958 7 5
 
 Saint Paul Covent Garden - 458 17 10
 
@@ -30154,8 +30098,6 @@ Appropriation of Charitable Gifts.
 
 0. 33.
 
-boogie
-
 14 & 15 Vict
 
 c. 66.
@@ -30301,8 +30243,6 @@ Assessment, they may collect the same in such Manner and by means of such Collec
 19. ' And whereas the Commissioners have, under Powers conferred upon them by the ' recited Acts or some of them, constructed several Harbours, Piers, and Quays: And whereas ' the Harbours enumerated in Schedule (B.) to this Act have, by various Local Acts or other-€ wise, been transferred to and are now vested in other Bodies or Persons, and the Piers and ' Quays enumerated in Schedule (C.) to this Act, though maintained out of Assessments € made in the Counties in which they are respectively situate, are still the Property of the ' Commissioners, and the Harbours enumerated in Schedule (D.) to this Act have for some c Time been and are now maintained by Rates and managed either by the Commissioners or c by the Proprietors of the Lands in which such Harbours are situate: And whereas it ' is expedient that Provision should be made for the future Maintenance of the Piers, Quays, c and Harbours in the said Schedules (C.) and (D.) to this ActSuch of the Piers and Quays enumerated in the said Schedule (C.) to this Act as are situate in the said County of Argyll shall on the said Thirty-first Day of December One thousand eight hundred and sixty-two be transferred to the Road Trustees within whose Districts such Piers and Quays are respectively situate, and all other Piers and Quays enumerated in the said Schedule (C.) to this Act shall on the said Thirty-first Day of December One thousand eight
 
 hundred
-
-boogie
 
 669
 
@@ -31152,7 +31092,7 @@ of Union aided.
 
 during the then current Quarter, but no such Person shall be entitled to vote in the Election of any Officer for that Union.
 
-No Order of 8. No Order of the Poor Law Board shall be issued under the Authority of this Act issu^^ei^the a^ter First Day of March next, nor be liable to be removed into the Court of Queen's First of March. Bench on Certiorari or otherwise; nor shall any Order of the Guardians or Rate made to carry out the Provisions of this Act be questioned in any Court of Law on Certiorari or otherwise.-
+No Order of 8. No Order of the Poor Law Board shall be issued under the Authority of this Act issu^ei^the a^ter First Day of March next, nor be liable to be removed into the Court of Queen's First of March. Bench on Certiorari or otherwise; nor shall any Order of the Guardians or Rate made to carry out the Provisions of this Act be questioned in any Court of Law on Certiorari or otherwise.-
 
 9. For the Purposes of this Act the annual rateable Value of the Property within the several Parishes and Unions herein-before referred to shall be estimated in the Manner in which the same is required to be taken in computing the Amount of Contributions to the Common Fund by the Law in force for the Time being.
 
