@@ -7574,8 +7574,6 @@ Content.
 
 Ship's Name and Destination. Number of Tons. Number of Boats. If British, Port of Registry. If Foreign, the Country. Number of Crew. Name of Master. With or without Passengers or Troops.
 
-*
-
 Warehoused, Transhipment, Drawback, and Restricted Goods.
 
 Marks and Numbers, if any, of Packages. Number and Description of Packages.
@@ -18611,8 +18609,6 @@ Hall (Charles Henry)—Patent for Steam Pumps. Ch. xxii.
 Milner (Edward)—Patent for Production of White Pigments. Ch. xxiii.
 
 Sillar (William Cameron and Robert George), and Wigner (George William)—Patent for deodorising Sewage. Ch. xxix.
-
-*
 
 Class 16.—Railways and Tramways.
 
