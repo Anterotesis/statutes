@@ -222,9 +222,7 @@ ii. An Act for the Incorporation, Establishment, and Regulation of the " Patent 
 
 iii. An Act for establishing a Public Library, Museum, and Gallery of Arts at Liverpool, and to make Provision for the Reception of a Collection of Specimens illustrative of Natural History presented by the Earl of Derby for the Benefit of the Inhabitants of the Borough of Liverpool and the Neighbourhood thereof, and others resorting thereto.
 
----
-
-iv. An Act for repealing the Wolverhampton Gras Act, 1847, and for re-constituting the Company with additional Powers; and for other Purposes.
+iv. An Act for repealing the Wolverhampton Gas Act, 1847, and for re-constituting the Company with additional Powers; and for other Purposes.
 
 v. An Act to amend an Act for draining certain Fen Lands and Low Grounds in the Parish of Yaxley in the County of Huntingdon, and to remove certain Doubts, and facilitate the Execution of the said Act.
 
@@ -239,7 +237,7 @@ ix. An Act to extend the Powers of the Act relating to the Yeovil Branch of the 
 x. An Act for the Improvement of the Municipal Borough of Macclesfield.
 
 xi. An Act for providing a convenient Place or Fair Green, with proper Approaches thereto, for holding Fairs for the Sale of Cattle and other Animals, Wool, and Flax, in the Province of Munster at or near the City of Limerick, and for regulating such Fairs.
-
+---
 xii. An Act for improving, diverting, and maintaining as Turnpike the Road leading from Skipton to Craco in the Parish of Burnsal, all in the West Riding of the County of York.
 
 xiii. An Act to authorize the Portsea Island Gaslight Company to raise a further Sum of Money.
@@ -7020,7 +7018,7 @@ X. It shall be lawful for Her Majesty, with the Advice of Her Privy Council, fro
 
 XI. For the Purpose of raising the Number of Men required to be raised under this Act, the Lieutenants of the said several Counties, Ridings, and Places shall, in the Year One thousand eight hundred and fifty-two, as soon as conveniently may be after the passing of this Act, and in the Year One thousand eight hundred and fifty-three at such Time as Her Majesty shall, by Order made with the Advice of Her Privy Council, appoint for that Purpose, direct their Deputy Lieutenants, or the Colonels or Commanding Officers of the Regiments, Battalions, or Corps of Militia, of their respective Counties, Ridings, and Places, without Delay, to proceed to raise and enrol Volunteers to serve for the Term of Five Years in the Militia of such Counties, Ridings, or Places, not exceeding the Numbers of Men for the Time being authorized to be therein raised under this Act, and such Deputy Lieutenants, Colonels, or Commanding Officers, and the Commissioned and Non-commissioned Officers of the Militia duly authorized by such Colonels or Commanding Officers, shall forthwith proceed to raise such Volunteers, being resident in the County in which such Men are directed to be raised, or in any County immediately adjoining thereto, and being able-bodied Men between such Ages and of such Height ns shall be from Time to Time fixed by Regulations made by Her Majesty's Secretary-at-War as herein provided, and for such Bounties or other Payments as shall be from Time to Time authorized by such Regulations.
 
-15 & 16 VICT. B b XII. Pro-
+15 & 16 VICT.
 
 Number of Militia to be raised.
 
@@ -7092,7 +7090,7 @@ Nature of Infirmity need not be stated in Returns.
 
 Registrar General may be directed to furnish Information to Lieutenants of Counties for their Guidance in making Apportionments.
 
-Her Majesty may direct into what Hegi-ments, &c. Militia shall be formed9and with what Officers and Staff.
+Her Majesty may direct into what Hegi-ments, &c. Militia shall be formed* and with what Officers and Staff.
 
 43 G. 3. c. 19. and 55 G. 3. c. 65. s. 5. repealed as to England.
 
@@ -7200,11 +7198,7 @@ An Act to extend the Provisions of the Acts for the Commutation of Manorial V Ri
 
 WHEREAS an Act was passed in the Session of Parliament holden in the Fourth € " * and Fifth Years of the Reign of Her present Majesty Queen Victoria, intituled
 
-c An Act for the Commutation of certain Manorial Rights in respect of Lands of Copyhold 4&5 Vict.c.35. ( and Customary Tenure, and in respect of other Lands subject to such Rights, and for facili-
-
-tating the Enfranchisement of such Lands, and for the Improvement of such Tenure: And ' whereas the said Act was amended and explained by an Act passed in the Session of
-
-' Parliament holden in the Sixth and Seventh Years of the Reign of Her present Majesty, 6&7Vict. c.23.
+c An Act for the Commutation of certain Manorial Rights in respect of Lands of Copyhold 4&5 Vict.c.35. ( and Customary Tenure, and in respect of other Lands subject to such Rights, and for facilitating the Enfranchisement of such Lands, and for the Improvement of such Tenure: And ' whereas the said Act was amended and explained by an Act passed in the Session of Parliament holden in the Sixth and Seventh Years of the Reign of Her present Majesty, 6&7Vict. c.23.
 
 and by an Act passed in the Session of Parliament holden in the Seventh and Eighth Years 7&8Vict.c.55. € of the Reign of Her present Majesty: And whereas it is expedient to extend the Provisions
 
@@ -7378,11 +7372,9 @@ XXVIII. Before any Valuer shall enter upon the Valuation under this Act he shall
 
 is to say,)
 
-J A.B. do declare, That I will faithfully, to the best of my Ability, value, hear, and deter-
+J A.B. do declare, That I will faithfully, to the best of my Ability, value, hear, and determine the Matters referred to me under the Copyhold Acts. A.B.
 
-' mine the Matters referred to me under the Copyhold Acts. A.B.
-
-' Made and subscribed in the Presence of And such Declaration shall be annexed to the Schedule of Valuation, when made; and if any Valuer, having made such Declaration, shall wilfully act contrary thereto, he shall be guilty of a Misdemeanor.
+Made and subscribed in the Presence of And such Declaration shall be annexed to the Schedule of Valuation, when made; and if any Valuer, having made such Declaration, shall wilfully act contrary thereto, he shall be guilty of a Misdemeanor.
 
 XXIX. In case the Interest payable in respect of any gross Sum of Money, pursuant to As to Recovery any Award under this Act, or any Part of the same, shall be in arrear for Thirty Days after or interest in the same shall become due, it shall be lawful for the Person for the Time being entitled to mei^anrider*-receive such Interest to levy the same by the same Means and Remedies and in the tions.
 
@@ -9443,8 +9435,6 @@ XXXIX. The Presence of at least Five Members of the said Legislative Council, in
 XL. For the Purpose of constituting the House of Representatives of New Zealand it shall be lawful for the Governor, within the Time herein-after mentioned, and thereafter from Time to Time as Occasion shall require, by Proclamation in Her Majesty's Name, to summon and call together a House of Representatives in and for New Zealand, such House of Representatives to consist of such Number of Members, not more than Forty-two nor less than Twenty-four, as the Governor shall by Proclamation in that Behalf direct and appoint; and every such House of Representatives shall, unless the General Assembly shall be sooner dissolved, continue for the Period of Five Years from the Day of the Return of the Writs for choosing such House, and no longer.
 
 XLI. It shall be lawful for the Governor by Proclamation to constitute within New Zealand convenient Electoral Districts for th$ Election of Members of the said House of Representatives, and to appoint and declare the Number of such Members to be elected for each such District, and to make Provision (so far as may be necessary beyond the Provision which may be made for the like Purposes in relation to Elections for Provincial Councils) for the Registration and Revision of Lists of all Persons qualified to vote at the Elections to be holden within such Districts, and also Provision for the appointing of Returning Officers, and for issuing, executing, and returning the necessary Writs for Elections of Members of the House of Representatives, and for taking the Poll thereat, and otherwise for ensuring the orderly, effective, and impartial Conduct of such Elections; and in determining the Number and Extent of such Electoral Districts, and the Number of Members to be elected for each District, regard shall be had to the Number of Electors within the same, so that the Number of Members to be assigned to any One District may bear to the whole Number of the
-
-Members
 
 267
 
