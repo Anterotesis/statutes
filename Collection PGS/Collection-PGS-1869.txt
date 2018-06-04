@@ -303,7 +303,9 @@ An Act to apply certain sums out of the Consolidated Fund to the service of the 
 Most Gracious Sovereign,
 
 WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards making good the supply which we have cheerfully granted to Your Majesty in this session of Parliament, have resolved to grant unto Your Majesty the sum herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+
 ---
+
 1. There shall and may be issued and applied, for or towards making good the supply granted to Her Majesty for the service of the years ending on the thirty-first day of March one thousand eight hundred and sixty-eight and one thousand eight hundred and sixty-nine, the sum of four million five hundred and six thousand two hundred and seventy-two pounds thirteen shillings and fourpence out of the consolidated fund of the United Kingdom of Great Britain and Ireland, and the Commissioners of Her Majesty's Treasury for the time being are hereby authorized and empowered to issue and apply the same accordingly.
 
 2. There shall and may be issued and applied, for or towards making good the supply granted to Her Majesty for the service of the year ending on the thirty-first day of March one thousand eight hundred and seventy, the sum of three million nine hundred thousand pounds out of the consolidated fund of the United Kingdom of Great Britain and Ireland, and the Commissioners of Her Majesty's Treasury for the time being are hereby authorized and empowered to issue and apply the same accordingly.
@@ -502,7 +504,7 @@ and thereupon such judge shall make an order for the penal servitude of such off
 
 As to execution 19. Whenever any sentence of penal servitude heretofore
 
-pe^servSide or hereafter passed upon any offender by any court-martial m the colonies, holden in any part of Her Majesty's foreign dominions, or India, or else- elsewhere beyond the seas, is to be carried into execution He^esty's for the term specified in such sentence or for any shorter term, dominions. 1 or when sentence of death passed by any such court-martial
+pe^servSide or hereafter passed upon any offender by any court-martial in the colonies, holden in any part of Her Majesty's foreign dominions, or India, or else- elsewhere beyond the seas, is to be carried into execution He^esty's for the term specified in such sentence or for any shorter term, dominions. 1 or when sentence of death passed by any such court-martial
 
 1869. Mutiny. Ch. 4.
 
@@ -812,7 +814,7 @@ quarters to be provided by such victualler in the immediate neighbourhood, and i
 
 upon complaint being made by the person or persons to whose house or stables the said men or horses shall have been so removed to two or more justices within whose jurisdiction such men or horses shall be so billeted, it shall be lawful for such justices to order a proper allowance to be paid by the person relieved to the persons receiving such men and horses, or to be applied in furnishing the requisite accommodation; and commanding officers may exchange any man or horse billeted in any place with another man or horse billeted in the same place for the benefit of the service, provided the number of men and horses do not exceed the number at that time billeted on such houses respectively; and the constables are hereby required to billet such men and horses so exchanged accordingly; and it shall be lawful for any justice, at the request of any officer or non-commissioned officer commanding any soldiers requiring billets, to extend any routes or to enlarge the districts within which billets shall be required, in such manner as shall appear to be most convenient to the troops; provided that to prevent or punish all abuses in billeting soldiers, it shall be lawful for any justice within his jurisdiction, by warrant or order under his hand, to require any constable to give him an account in writing of the number of officers and soldiers who shall be quartered by such constables, together with the names of the persons upon whom such officers and soldiers are billeted, stating the street or place where such persons dwell, and the sign, if any, belonging to the houses: Provided always, that no officer shall be compelled or compellable to pay anything for his lodging where he shall be duly billeted.
 
-64. The officers and soldiers of Her Majesty's Foot Guards Billeting the shall be billeted within the city and liberties of Westminster and places adjacent, lying in the county of Middlesex (except minster, the city of London) and in the county of Surrey, and in the borough of Southwark, in the same manner and under the same regulations as in other parts of England, in all cases for which particular provision is not made by this Act; and the high constables shall, on receipt of the order for billeting soldiers, deliver precepts to the several constables within their respective divisions, in pursuance of which the said constables shall billet such officers and soldiers equally and proportionably on the houses subjected thereto by this Act; and the said constables shall, at every general sessions of the peace to be liolden for the said city and liberties, counties and borough respectively, make and deliver to the justices then in open session assembled, upon oath, which oath the said justices are hereby required to administer, lists, signed by them respectively, of the houses subject by this Act to receive officers and soldiers, together with the names and rank of all officers and soldiers billeted on each respectively, which lists shall remain with the respective clerks of the peace for the inspection of all persons without fee or reward; and such clerk shall forth-[JVo. 4. Price 2d.] D
+64. The officers and soldiers of Her Majesty's Foot Guards Billeting the shall be billeted within the city and liberties of Westminster and places adjacent, lying in the county of Middlesex (except minster, the city of London) and in the county of Surrey, and in the borough of Southwark, in the same manner and under the same regulations as in other parts of England, in all cases for which particular provision is not made by this Act; and the high constables shall, on receipt of the order for billeting soldiers, deliver precepts to the several constables within their respective divisions, in pursuance of which the said constables shall billet such officers and soldiers equally and proportionably on the houses subjected thereto by this Act; and the said constables shall, at every general sessions of the peace to be holden for the said city and liberties, counties and borough respectively, make and deliver to the justices then in open session assembled, upon oath, which oath the said justices are hereby required to administer, lists, signed by them respectively, of the houses subject by this Act to receive officers and soldiers, together with the names and rank of all officers and soldiers billeted on each respectively, which lists shall remain with the respective clerks of the peace for the inspection of all persons without fee or reward; and such clerk shall forth-[JVo. 4. Price 2d.] D
 
 38
 
@@ -1308,7 +1310,7 @@ and a free kit.
 
 Declaration to be made by Recruit on Attestation.
 
-T do solemnly and sincerely declare,
+I do solemnly and sincerely declare,
 
 that to the best of my knowledge and belief the above answers to the foregoing questions made and signed by me are true; and that I am willing to be attested for the term of twelve years, provided Her Majesty should so long require my services, and also for such further term, not exceeding twelve months, as shall be directed by the commanding officer on any foreign, colonial, or Indian station.
 
@@ -1358,7 +1360,7 @@ Or was, as ie case may be. (*) The foregoing portion of this declaration may be 
 
 Declaration to be made by a Soldier, or Person having been a Soldier, on renewing his service.
 
-¥ do declare, that I am at present (*) in
+Y do declare, that I am at present (*) in
 
 -** captain company, in the regiment; (*)
 
@@ -1480,7 +1482,7 @@ Mutiny.
 
 Form of Declaration of Attestation of a Commissary's or Purveyor's Accounts.
 
-T do solemnly and sincerely declare, that I
+I do solemnly and sincerely declare, that I
 
 A have not applied any monies or stores or supplies under pay care or distribution to my own use, or to the private use of any other person by way of loan to such person or otherwise, or in any manner applied them, or knowingly permitted them to be applied, to any other than public purposes, according to the duty of my office.
 
@@ -1532,7 +1534,7 @@ Form of Declaration of Attestation of a Paymaster's
 
 Accounts.
 
-T do solemnly and sincerely declare,
+I do solemnly and sincerely declare,
 
 A that the foregoing pay list of the regiment
 
@@ -1810,7 +1812,7 @@ without solitary confinement,* as shall seem meet to Her Majesty or to the offic
 
 Embezzlement 21. Any officer or marine, or any person employed or in punishable by any way concerned in the care or distribution of any money,
 
-P€iUu- servi- ^ v ^ r ¥ /
+P€iUu- servi- ^ v ^ r Y /
 
 imprison- provisions, forage, arms, clothing, ammunition, or other stores ment, &c. belonging to any of Her Majesty's forces or for Her Majesty's use, who shall embezzle, fraudulently misapply, wilfully damage, steal, or receive the same knowing them to have been stolen, or shall be concerned therein or connive thereat, may be tried for the same by a general court-martial, and sentenced to be kept in penal servitude for any term not less than five years, or to suffer such punishment of fine, imprisonment with or without hard labour, dismissal from Her Majesty's service, reduction to the ranks, if a warrant or noncommissioned officer, as such court shall think fit, according to the nature and degree of the offence; and every such offender shall, in addition to any other punishment, make good at his own expense the loss and damage sustained; and in every such case the court is required to ascertain by evidence the amount of such loss or damage and to declare by their sentence that such amount shall be made good by such offender; and the loss and damage so ascertained as aforesaid shall be a debt to Her Majesty, and may be recovered in any of Her Majesty's courts at Westminster or in Dublin, or the Court of Exchequer in Scotland, or in any court in Her Majesty's colonies where the person sentenced by such court-martial shall be resident after the said judgment shall be confirmed and made known, or the offender, if he shall remain in the service, may be put under stoppages not exceeding one half of his pay and allowances until the amount so ascertained shall be recovered.
 
@@ -2390,7 +2392,7 @@ So help you GOD.
 
 Form of Oath of Judge Advocate.
 
-T do swear, That I will not, upon any
+I do swear, That I will not, upon any
 
 account whatsoever, disclose or discover the vote or opinion of any particular member of the court-martial, unless required to give evidence thereof as a witness by a court of justice or a court-martial in a due course of law; and that I will not, unless it be necessary for the due discharge of my official duties, disclose the sentence of the court until it shall be duly approved. So help me GOD.
 
@@ -2614,7 +2616,7 @@ Signature of military
 
 medical officer, or of private medical practitioner.
 
-$ Insert "fit" or "unfit," m the case may be; and, if unfit, state the cause of unfitness.
+$ Insert "fit" or "unfit," in the case may be; and, if unfit, state the cause of unfitness.
 
 L 2
 
@@ -2652,7 +2654,7 @@ The construction, improvement, maintenance, and management of works for the supp
 
 1869. East India Irrigation and Canal Company. Ch. 7.
 
-The obtaining of all powers, the entering into all contracts! and the doing of all things expedient for or incidental, necessary, or conducive to the attainment of those purposes or any or either of them, either by the company alone, or jointly witli any other company, or in conjunction with the Secretary of State in Council, or the supreme or any of the local or native governments of India, or any other body or person; with a proviso that only such of the purposes aforesaid should be carried into operation as should be agreed on between the company and the Secretary of State in Council, or the supreme or any of the local governments of India:
+The obtaining of all powers, the entering into all contracts! and the doing of all things expedient for or incidental, necessary, or conducive to the attainment of those purposes or any or either of them, either by the company alone, or jointly with any other company, or in conjunction with the Secretary of State in Council, or the supreme or any of the local or native governments of India, or any other body or person; with a proviso that only such of the purposes aforesaid should be carried into operation as should be agreed on between the company and the Secretary of State in Council, or the supreme or any of the local governments of India:
 
 And whereas by agreement with the Secretary of State in Council the company undertook the execution of a scheme of works for irrigation, navigation, and supply of water and other purposes in the districts and deltas of the rivers Maha-nuddy, Byturny, and Brahmany, in the province of Orissa, and their affluents, and a main irrigation and navigable canal to connect those works with Calcutta, with subsidiary channels necessary to irrigate and accommodate with means of water transport the lands of the districts through which the main canal would pass, which scheme of works is known as the Orissa undertaking:
 
@@ -3708,7 +3710,7 @@ Session and Chapter. Title or abbreviated Title. Extent of Repeal.
 
 50 Geo. 3. c. 104. An Act for altering the amount of certain duties of assessed taxes, &c. &c. The whole Act.
 
-51 Geo. 3. c. 72. An Act for granting exemptions in certain cases mom the payment of the duties charged m respect of servants, &c. &c. An Act for granting to His Majesty certain new and additional duties of assessed taxes, &c. The whole Act.
+51 Geo. 3. c. 72. An Act for granting exemptions in certain cases mom the payment of the duties charged in respect of servants, &c. &c. An Act for granting to His Majesty certain new and additional duties of assessed taxes, &c. The whole Act.
 
 52 Geo. 3. c. 93. The whole Act.
 
@@ -4382,7 +4384,7 @@ procedure, practice, pleading, court fees, taxation of costs, and forms on the e
 
 Officer not 44. A person shall not be entitled to any compensation in
 
-entitled to com- respect of any emoluments received by him for duties performed case^f°altera- m pursuance of the provisions of this Act, or in respect of tion of duties the emoluments of any office in or connected with the court, office°l tl0n of 01 *or(* war^en ^he stannaries or vice-warden,
+entitled to com- respect of any emoluments received by him for duties performed case^f°altera- in pursuance of the provisions of this Act, or in respect of tion of duties the emoluments of any office in or connected with the court, office°l tl0n of 01 *or(* war^en ^he stannaries or vice-warden,
 
 ° c * to which such person is appointed after the passing of this
 
@@ -6344,7 +6346,7 @@ X 3
 
 24fi
 
-Power to Commissioners to sell property vested in them hy this Act.
+Power to Commissioners to sell property vested in them by this Act.
 
 Ch. 42. Irish Chwrch. 32 & 33 VicrL
 
@@ -7118,7 +7120,7 @@ other instrument under seal, or is otherwise made or constituted 1870. a special
 
 CHAP. 47.
 
-An Act to provide for the discharge of the duties heretofore performed hy High Constables, and for the abolition of such office, with certain exceptions.
+An Act to provide for the discharge of the duties heretofore performed by High Constables, and for the abolition of such office, with certain exceptions.
 
 [2d August 1869.]
 
@@ -8754,7 +8756,7 @@ other Act, neglect or refuse to comply with such requisition, no allowance to
 
 no repayment shall be made from the metropolitan common be m*deout of i Jr i r . .. . , metropolitan
 
-poor fund to the guardians of such union or parish m respect common fund
+poor fund to the guardians of such union or parish in respect common fund
 
 of any medicine or medical or surgical appliances supplied by for medicines
 
@@ -9763,8 +9765,6 @@ Part I.
 Valuation List for [the parish or place for which the list is made] in the Metropolitan Union of [or not
 
 being in Union] in the County of
-
-
 
 I
 
@@ -11670,7 +11670,7 @@ Mm2
 
 412 Gh. 71.
 
-Bcmkruptcy. 32 & 33 Vict.
+Bankruptcy. 32 & 33 Vict.
 
 Past n.
 
@@ -11714,7 +11714,7 @@ whole or in part composed of the same individuals, or that the sole contractor i
 
 out of his property for the support of the bankrupt and his family, or iu consideration of his services if he is engaged in winding up his estate.
 
-39. Where there have been mutual credits, mutual debts, Set-off; or other mutual dealings between the bankrupt and any other person proving or claiming to prove a debt under his bank-ruptcy, an account shall be taken of what is due from the
+39. Where there have been mutual credits, mutual debts, Set-off; or other mutual dealings between the bankrupt and any other person proving or claiming to prove a debt under his bankruptcy, an account shall be taken of what is due from the
 
 one party to the other in respect of such mutual dealings, and the sum due from the one party shall be set off against any sum due from the other party, and the balance of such account, and no more, shall be claimed or paid on either side respectively; but a person shall not be entitled under this section to claim the benefit of any set-off against the property of a bankrupt in any case where he had at the time of giving credit to the bankrupt notice of an act of bankruptcy committed by such bankrupt and available against him for adjudication.
 
@@ -12518,7 +12518,7 @@ the assets and debts of the debtor, and such resolution and statement shall be o
 
 (6.) The certificate of the registrar in respect of the appointment of any trustee in the case of a liquidation by arrangement shall be of the same effect as a certificate of the court to the like effect in the case of a bankruptcy.
 
-(7.) The trustee under a liquidation shall have the same powers, and perform the same duties, as a trustee under a bankruptcy, and the property of the debtor shall be distributed in the same manner as in a bankruptcy; and with the modification herein-after mentioned all the provisions of this Act shall, so far as the same are applicable, apply to the case of a liquidation by arrangement in the same manner as if the word " bankrupt " included a debtor whose affairs are under liquidation, and the word " bankruptcy " included liquidation by arrangement; and in construing such provisions the appointment of a trustee under a liquidation shall, according to circumstances, be deemed to be equivalent to and a substitute for the presentation of a petition in bank-ruptcy, or the service of such petition or an order of adjudication in bankruptcy.
+(7.) The trustee under a liquidation shall have the same powers, and perform the same duties, as a trustee under a bankruptcy, and the property of the debtor shall be distributed in the same manner as in a bankruptcy; and with the modification herein-after mentioned all the provisions of this Act shall, so far as the same are applicable, apply to the case of a liquidation by arrangement in the same manner as if the word " bankrupt " included a debtor whose affairs are under liquidation, and the word " bankruptcy " included liquidation by arrangement; and in construing such provisions the appointment of a trustee under a liquidation shall, according to circumstances, be deemed to be equivalent to and a substitute for the presentation of a petition in bankruptcy, or the service of such petition or an order of adjudication in bankruptcy.
 
 (8.) The creditors at their first or any general meeting may prescribe the bank into which the trustee is to pay any monies received by him, and the sum which he may retain in his hands.
 
@@ -15004,7 +15004,7 @@ Date of Act. Title of Act
 
 5 W. 4. c. xxxix. 48. An Act for more effectually repairing and improving the road from the town of Hitchin, through Shefford, to the turnpike roadjfrom Saint Albans to Bedford, and also the road from the
 
-6 W. 4. c. ii. • turning out of the said road to Henlow and Gerfora Bridge, and other roads therein mentioned, in the counties of Hertford and Bedford. 49. An Act to amend an Act passed in the fifth year of the reign of His present Majesty, for repairing the road from Farnborough to Riverhill m the parish of Sevenoaks in the county of Kent; and for making a new link of road to communicate therewith.
+6 W. 4. c. ii. • turning out of the said road to Henlow and Gerfora Bridge, and other roads therein mentioned, in the counties of Hertford and Bedford. 49. An Act to amend an Act passed in the fifth year of the reign of His present Majesty, for repairing the road from Farnborough to Riverhill in the parish of Sevenoaks in the county of Kent; and for making a new link of road to communicate therewith.
 
 6 W. 4. c. xlix. 50. An Act for more effectually repairing the roads from Harlow Bush Common to and into the parish of Woodford, and the road from Epping to Writtle, and other roads therein mentioned, all in the county of Essex.
 
@@ -15086,7 +15086,7 @@ Date of Act. Title of Act.
 
 4 G. 4. c. xxv. 73. An Act for more effectually amending, widening, and keeping in repair several roads in and near to the town of Tenbury in the counties of Salop, Worcester, and Hereford, and the roads leading from the Knowle Gate to the turnpike road on the Clee Hill, and from Kyre Mill to the turnpike road leading from Bromyard to Tenbury.
 
-4 G. 4. c. hr. - 74. An Act for more effectually amending the roads from the Little Bridge over the end of the drain near Wisbeach River, lying between Roper's Fields and the Bell Inn in Wisbeach in the Isle of Ely, to the west end of Long Bridge in South Lynn, m the borough of King's Lynn in the county of Norfolk, and for amending, improving, and keeping in repair certain other roads therein mentioned, in the said county of Norfolk.
+4 G. 4. c. hr. - 74. An Act for more effectually amending the roads from the Little Bridge over the end of the drain near Wisbeach River, lying between Roper's Fields and the Bell Inn in Wisbeach in the Isle of Ely, to the west end of Long Bridge in South Lynn, in the borough of King's Lynn in the county of Norfolk, and for amending, improving, and keeping in repair certain other roads therein mentioned, in the said county of Norfolk.
 
 4 G. 4. c. cxi. 75. An Act for more effectually repairing the road from Wansford Bridge in the county of Northampton to Stamford, and from Stamford to Bourn in the county of Lincoln $ so far as the same relates to the Wansford District.
 
@@ -15126,9 +15126,9 @@ Date of Act. Title of Act
 
 2 W. 4. c. xcviii. 89. An Act for repairing and improving the road from the Great Bridge in the borough or Warwick, through Southam and Daventry, to the town of Northampton.
 
-3 W. 4. c. xliii. 90. An Act for more effectually repairing the road from Lewes to Brighthelmstone m the county of Sussex.
+3 W. 4. c. xliii. 90. An Act for more effectually repairing the road from Lewes to Brighthelmstone in the county of Sussex.
 
-5 W. 4. c. xl# 91. An Act for more effectually repairing the road from Saint Benedict's Gate m the county of the city of Norwich to Swaffham in the county of Norfolk, and from Halfpenny Bridge in Honing-ham to the Bounds of Yaxh&m, and also a lane
+5 W. 4. c. xl# 91. An Act for more effectually repairing the road from Saint Benedict's Gate in the county of the city of Norwich to Swaffham in the county of Norfolk, and from Halfpenny Bridge in Honing-ham to the Bounds of Yaxh&m, and also a lane
 
 5 & 6 W. 4. c. lxiii. - called Hangman's Lane, near the gates of the said city. 92. An Act for improving and more effectually repairing the several roads leading into and from the city of Worcester; so far as the same relates to the first, second, third, fourth, fifth, sixth, and seventh districts of roads.
 
@@ -16224,7 +16224,7 @@ Date of Act Title of Act.
 
 - An Act to empower the High Court of Chancery to lay out upon government securities a further sum of money, not exceeding a sum therein limited, out of the common and general cash in the Bank of England belonging to the suitors of the said court, and to apply the interest arising therefrom towards answering the charges of the office of the Accountant General of the said court.
 
-An Act for rebuilding the office of the six clerks of the King's Court of Chancery, and for erecting offices for the Register and Accountant General of the said court for the better preserving the records, decrees, orders, and books of account kept m such offices
+An Act for rebuilding the office of the six clerks of the King's Court of Chancery, and for erecting offices for the Register and Accountant General of the said court for the better preserving the records, decrees, orders, and books of account kept in such offices
 
 in
 
@@ -16244,7 +16244,7 @@ An Act to provide additional salaries to the present clerks in the office of the
 
 3 & 4 Will. 4. c. 94. in part.
 
-An Act for building certain offices for the examiners, cursitors, clerk of the Crown, and clerks of the petty bag of the High Court of Chancery; and for making certain regulations m the Examiners office of the said court; and for making provision for such of the examiners, deputy examiners, and clerks as, from length of service, or from age or infirmity, are or shall be incapacitated from the due execution of their offices; and for making provision for other officers of the said court; and for making other payments in respect of the said offices.
+An Act for building certain offices for the examiners, cursitors, clerk of the Crown, and clerks of the petty bag of the High Court of Chancery; and for making certain regulations in the Examiners office of the said court; and for making provision for such of the examiners, deputy examiners, and clerks as, from length of service, or from age or infirmity, are or shall be incapacitated from the due execution of their offices; and for making provision for other officers of the said court; and for making other payments in respect of the said offices.
 
 An Act to facilitate the administration" of justice.
 
@@ -20196,13 +20196,13 @@ of this Act in relation— enactments to
 
 (1.) To the removal of foreign spirits or wine to or from ^1^n8pj^ts any customs warehouse, and the warehousing and excise ware-treatment of such spirits or wine therein and the hou6es* delivery of the same thereout; and
 
-(2.) To the depositing in a customs warehouse of spirits of wine, and to the drawbacks in respect of spirits of wine, and to the use of spirits of wine or British spirits in a customs warehouse for fortifying wines, or for any other lawful purpose, shall have effect as if they were enacted in this Act, and the term customs warehouse therein included an excise warehouse, and the powers and authorities thereby given to the Commissioners of Customs and to their officers were in terms given to the Commissioners of Inland Bevenue and the officers of excise.
+(2.) To the depositing in a customs warehouse of spirits of wine, and to the drawbacks in respect of spirits of wine, and to the use of spirits of wine or British spirits in a customs warehouse for fortifying wines, or for any other lawful purpose, shall have effect as if they were enacted in this Act, and the term customs warehouse therein included an excise warehouse, and the powers and authorities thereby given to the Commissioners of Customs and to their officers were in terms given to the Commissioners of Inland Revenue and the officers of excise.
 
 10. All enactments in force at the commencement of this Application of part of this Act in relation to the proprietor of any British enactments spirits in any excise warehouse, or any person in his employ, Bri^fsphits. or to the proprietor or tenant of any such warehouse, or to
 
 any person in his employ, shall have effect as if they were enacted in this Act, and the terms British spirits and spirits in such enactments included foreign spirits and wine.
 
-1L The prescribed bond shall be such bond as may be pre- Regulations scribed by regulations for the time being in force made by the Commissioners of Customs and the Commissioners of Inland Sn^Revenue, Bevenue respectively; and all powers which the said Commis- &c*
+1L The prescribed bond shall be such bond as may be pre- Regulations scribed by regulations for the time being in force made by the Commissioners of Customs and the Commissioners of Inland Sn^Revenue, Revenue respectively; and all powers which the said Commis- &c*
 
 goods, consumption from customs
 
