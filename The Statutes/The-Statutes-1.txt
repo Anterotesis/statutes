@@ -53,15 +53,15 @@ That series of Acts, embodying the results of labours begun under the direction 
 I have, therefore, with the concurrence of the Lords Commissioners of the Treasury, determined that an edition of the Statutes shall now be prepared and published, containing, as far as may be, only such Acts as are in force.
 
 I propose to nominate a Committee to make the necessary arrangements, and to superintend the, execution of the work, reporting to me from time to time.
----
-The connexion of your official duties with the forms of legislation, and the attention you have given to subjects relating to the improvement of the condition of the Statute Law, lead me to request you to act on the Committee; and I desire to associate with you the following gentlemen, namely,— Sir Thomas Erskine May, K.C.B., Clerk Assistant of the Souse of Commons; Mr. Rickards, Mr. Speaker'8 Counsel; Mr. Thring, the Parliamentary Counsel to the Some Office; and Mr. Reilly, who was for some time engagednn the work of Statute Law Revision.
+
+The connexion of your official duties with the forms of legislation, and the attention you have given to subjects relating to the improvement of the condition of the Statute Law, lead me to request you to act on the Committee; and I desire to associate with you the following gentlemen, namely, — Sir Thomas Erskine May, K.C.B., Clerk Assistant of the House of Commons; Mr. Rickards, Mr. Speaker's Counsel; Mr. Thring, the Parliamentary Counsel to the Some Office; and Mr. Reilly, who was for some time engaged on the work of Statute Law Revision.
 
 Mr. Arthur John Wood, who has been engaged in that work from its commencement to the present time, will be the Editor, subject to the superintendence of the Committee.
 
 I am, Sir,
 
 Your obedient Servant,
-
+---
 Sir John G. Shaw Lefevre, K.C.R., CAIRNS C.
 
 Clerk of the Parliaments.
@@ -92,7 +92,7 @@ In the earlier part of the volume, chapters of Statutes are in this respect trea
 
 Where there might possibly be a question as to the operation of a repeal, the part considered to he covered by the repeal is printed in small type, and the note of the repeal states the terms of repeal.
 
-A partial repeal, not capable of being dealt with exhaustively by excision or distinctive printing, in manner before described, is entered in connection with the title of a Statute or Act, if applicable to the whole of it; if not, then in connection with the portion affected. .
+A partial repeal, not capable of being dealt with exhaustively by excision or distinctive printing, in manner before described, is entered in connection with the title of a Statute or Act, if applicable to the whole of it; if not, then in connection with the portion affected.
 
 The preamble of an Act is omitted where the first section is repealed - and the preamble does not relate to the unrepealed part.
 
@@ -208,7 +208,7 @@ Parliament jaJ........
 
 sent out of Chancery under the King's seal; either to sheriffs of counties and cities in England, or to the chancellor or chief justice of Ireland, or to other courts or places, for the safe custody and for the proclaiming or confirming of the statute; or in other cases for affording authentic evidence of the statute........
 
-It is not irrelevant to remark, that an exemplification differs from an original grant under the great seal, or an original Act of Parliament, in this; that an exemplification is a copy, and can be made only from the record. ..... .
+It is not irrelevant to remark, that an exemplification differs from an original grant under the great seal, or an original Act of Parliament, in this; that an exemplification is a copy, and can be made only from the record. .....
 
 Transcripts by writ were copies sent into Chancery in answefr to the King's writ or mandate, calling for a copy of the statute from the officer in whose custody it was preserved......
 
@@ -1168,8 +1168,6 @@ FOR THE PERIOD COMPRISED IN THIS VOLUME.
 
 (7) In this order in the Statutes of the Realm.
 
-/
-
 Year, statute and chapter. Subject-matter. Reason for total or partial omission. Page.
 
 20 Hem. 3. Stat.
@@ -1338,7 +1336,7 @@ c. 35. Excess of jurisdiction in franchises - . 24
 
 c. 36. Aids for knighthood, &c. Disseisin with robbery, &c.
 
-c. 37. .
+c. 37.
 
 c. 38. - . Attaints in real actions - 1
 
@@ -1402,7 +1400,7 @@ c. 9. Homicide
 
 c. 10. Essoins ...
 
-cc. 11-14. - Real actions, &c. .
+cc. 11-14. - Real actions, &c.
 
 c. 15. (8) - Breach of assise in London - > Rep., Stat. Law Rev. Act, 1863.
 
@@ -1794,7 +1792,7 @@ occasionet'. J 113
 
 Cleri. 116,116
 
-cc. 1-3. - Prohibition - - - . ,
+cc. 1-3. - Prohibition - - - .
 
 c. 4. Prohibition - - - Rep., Stat. Law Rev. Act, 1863. 116
 
@@ -2098,7 +2096,7 @@ Stat.de Ward',See. (4) Guardian, ward & relief- - . ..... . 135
 
 St at Me resp.Milit, (*) Respiting of knighthood Forfeiture of goods & lands of felons - Rep., Stat. Law Rev. Act, 1863. 136
 
-De Catallis Felonum . . . .
+De Catallis Felonum . . .
 
 Slot. Armorum Tournaments. -
 
@@ -2482,7 +2480,7 @@ c.6. Temporalities of prelates Rep., Stat Law Rev. Act, 1863.
 
 c. 7. . - Right to counterplead King's title to - 191
 
-s a benefice lapsed. .
+s a benefice lapsed.
 
 c.8. Cognizance of avoidance of benefices - ..... 192
 
@@ -2799,8 +2797,6 @@ c. 2. - Pardon - Rep., Stat. Law Rev. Act, 1863.
 5 Ric. 2. St. 1. _ Confirmation of liberties, charters & Rep., except c. 7., (2) Stat. Law Rev. Act, 1863.
 
 statutes: Exportation of gold & silver: Leaving the realm, &c.
-
-'
 
 c .7.?) . Punishment for forcible entry - 227
 
@@ -3334,8 +3330,6 @@ Hierrdh . . V . j^rcumr <rnn^/-v fc,'.
 
 - L\nshmacjin i/ k r-if.i&t*
 
-'
-
 lx
 
 CHRONOLOGICAL TABLE—continued;
@@ -3784,7 +3778,7 @@ CHRONOLOGICAL TABLE—continued.
 
 (2) In this order in the Statutes of the Realm; the chapters follow the numbering of the translation. (* *) The numbers and order of the chapters of this year follow the translation.
 
-(4) First par. of c. 1., Ruff. .
+(4) First par. of c. 1., Ruff.
 
 (*) Second par. of c. 1., Ruff.
 
@@ -4070,7 +4064,7 @@ c. 65. (2) - Peace of estaples - - Reservedfor supplemental volume.
 
 c. 1. Worsteds, Norfolk
 
-c. 2. Continuation of Acts of 11 Hen. 7. .
+c. 2. Continuation of Acts of 11 Hen. 7.
 
 c. 3. Wages of labourers, &c. - > Rep., Stat. Law Rev. Act, 1863.
 
@@ -4090,7 +4084,7 @@ cc. 12, 13. (*) Taxation
 
 c. 1. c. 2. Attendance in war Customs " > Rep., Stat. Law Rev. Act, 1863.
 
-c. 3. Attaints ... .
+c. 3. Attaints ...
 
 c. 4. Cross-bows
 
@@ -4356,7 +4350,7 @@ cc. 19-23.(9) ------ Private.
 
 c. 24. (») - Surveyors of crown lands, &c. Rep., 7 Hen. 8. c. 7. (c. 3., Pr., Ruff.) s. 38.
 
-c. 25. (») - ------ Private. ,
+c. 25. (») - ------ Private.
 
 c. 26. (») - Taxation - - - - - Rep., Stat. Law Rev. Act, 1863.
 
@@ -4638,7 +4632,7 @@ C.' 1. - Graziers & butchers Rep., 33 Hen. 8. c. 11.
 
 c. 2. - Price of rituals . Rep.—
 
-i in part, 3 Geo. 4. c. 41. s. 4. residue, 7 & 8 Vict. c. 24. s. 2. ,
+i in part, 3 Geo. 4. c. 41. s. 4. residue, 7 & 8 Vict. c. 24. s. 2.
 
 c. 3. - Standing mute, &c. " i Rep., 7 Geo. 4. c. 64. s. 32.
 
@@ -4824,8 +4818,6 @@ c. 63. (7) - Ordinances for Calais - Rep., Stat. Law Rev. Act, 1863.
 
 (*) c. 32., private, Ruff. () c. 33., private, Ruff. (7) c. 34., private, Ruff.
 
-\
-
 lxxiii
 
 CHRONOLOGICAL TABLE—continued.
@@ -4892,7 +4884,7 @@ c. 8. - Proclamations by the Crown - ' - Rep., 1 Edw. 6. c. 12. s. 4. (a. 5., Ru
 
 r Rep., 1 & 2 Phil. & Mar. c. 8.
 
-c. 9. - Bishops . - -J s. 4. (ss. 18, 20., Ruff.). Repeal conf., 1 Eliz. c. 1. s. 4. .
+c. 9. - Bishops . - -J s. 4. (ss. 18, 20., Ruff.). Repeal conf., 1 Eliz. c. 1. s. 4.
 
 I (s. 13., Ruff.).
 
@@ -6038,7 +6030,7 @@ CHRONOLOGICAL TABLE—continued.
 
 Year, statute and chapter. 1 Subject-matter. Reason for total or partial omission. i Page.
 
-23 Eliz. .
+23 Eliz.
 
 c. 1. . Religion . Rep., 7 & 8 Vict. c. 102.
 
@@ -6138,7 +6130,7 @@ c. 9. General pardon .
 
 c. 1. . Error - .
 
-c. 2. _ Fines of lafid ... .
+c. 2. _ Fines of lafid ...
 
 c. 3. - Proclamations in outlawry - Rep. in part, Stat. Law Rev. Act, 1863. 656
 
@@ -6642,7 +6634,7 @@ c. 5. - Impressment of seamen -
 
 c. 6. - Michaelmas term - > Rep., Stat. Law Rev. Act, 1863.
 
-C. 7. - Parliament ... .
+C. 7. - Parliament ...
 
 cc. 8, 9. _ Taxation ... . *
 
@@ -6819,8 +6811,6 @@ c. 3. . Taxation - - - - Rep., Stat. Law Rev. Act, 1863.
 c. 4. - - Private. 1
 
 i
-
-\
 
 xci
 
@@ -7132,7 +7122,7 @@ c. 4. - Judgments, &c. - - Rep., Stat. Law Rev. Act, 1863.
 
 c. 5. . Excise - -
 
-c. 6. - Wine licences, &c. .
+c. 6. - Wine licences, &c.
 
 c. 7. - Burning of houses, &c. . Rep., 7 & 8 Geo. 4. c. 27. s. 1.
 
@@ -7145,8 +7135,6 @@ c. 11. - Delivering up of ship to pirates. &c. Rep. in part— 769
 without fighting, &c. 7 & 8 Geo. 4. c. 27. s. 1. 9 Geo. 4. c. 31. s. 1. Stat. Law Rev. Act, 1863.
 
 c. 12. c. 13. * Measures -Exportation :} Rep., Stat. Law Rev. Act, 1863. 0
-
-\
 
 (J) c. 18., private, Ruff.
 
@@ -7413,8 +7401,6 @@ vt dotes suas infra q*rantena MS.
 8 que debentr de dotibj Rot. Claus s Lib. Scac. X: MS. Reg: MSS. Marl. 493 A; 746.
 
 i
-
-/
 
 20 Henry III. Stat. Merton.
 
@@ -9684,7 +9670,7 @@ Litted } A'
 
 to answer the plaintiff; at which day if he come not, and the; proclamation be so returned' once, twice, '[or1] thrice, the judgement shall pass for the plaintiff, saving the right of the defendant, if after he will claim it. In the same manner it shall be done in a writ of trespass, when any complaineth himself to be ejected from such wardships.
 
-Forasmuch as lords of courts, and other that keep courts, and stewards, intending to grieve [their inferiors,2] where they have no lawful mean so to do, procure other to move matters against them, and to put in surety and [other *] pledges, or to purchase writs, and at the suit of such plaintiffs compel them to follow the county, hundred, [wapentake,] and other like courts, until they have made fine with them at their will; it is ordained, that it shall not be so used hereafter. And if any be attached upon such, false complaints, he shall replevy his distress so taken, and shall cause the matter to be brought afore the jus* tices, before whom if the sheriff, [bailiff, or other lord,4] after that the party distrained hath framed his plaint, will advow the distress lawful by reason of such complaints made unto them, and it be replied that such plaints were moved maliciously, against the party by the solicitation, or procurement of the sheriff, or other bailiffs, or lords, the same replication shall be admitted; and if they be convict hereupon, they shall make fine to the King, and nevertheless restore treble damages to the parties grieved. ,
+Forasmuch as lords of courts, and other that keep courts, and stewards, intending to grieve [their inferiors,2] where they have no lawful mean so to do, procure other to move matters against them, and to put in surety and [other *] pledges, or to purchase writs, and at the suit of such plaintiffs compel them to follow the county, hundred, [wapentake,] and other like courts, until they have made fine with them at their will; it is ordained, that it shall not be so used hereafter. And if any be attached upon such, false complaints, he shall replevy his distress so taken, and shall cause the matter to be brought afore the jus* tices, before whom if the sheriff, [bailiff, or other lord,4] after that the party distrained hath framed his plaint, will advow the distress lawful by reason of such complaints made unto them, and it be replied that such plaints were moved maliciously, against the party by the solicitation, or procurement of the sheriff, or other bailiffs, or lords, the same replication shall be admitted; and if they be convict hereupon, they shall make fine to the King, and nevertheless restore treble damages to the parties grieved.
 
 Forasmuch also as bailiffs, to whose office it belongeth to take distresses,
 
@@ -11456,7 +11442,7 @@ Stot^estm l s^ier^3 or any other have let out by replevin prisoners not replevis
 
 IV- Also where we have provided, that
 
-Nisi prim* shall . , . . ,
+Nisi prim* shall . , . .
 
 be granted none shall be impanelled any where
 
@@ -13566,7 +13552,7 @@ In the Fifth Year of the Reign of K. EDWARD the Thibd after the Conquest.
 
 Ex Tnagno Rot. Stat. in Turr. Loud, m. 26.
 
-At the Parliament holden at  the morrow after Saint Michael, in the fiftli year of the reign of King Edward, the third after the conquest, our lord the King, by the assent of the prelates, earls, barons, and other great men of the realm there assembled, to the honour of God and of Holy Church, and at the request of his people, hath granted and established these things underwritten, which he will to be kept and maintained for ever.
+At the Parliament holden at the morrow after Saint Michael, in the fiftli year of the reign of King Edward, the third after the conquest, our lord the King, by the assent of the prelates, earls, barons, and other great men of the realm there assembled, to the honour of God and of Holy Church, and at the request of his people, hath granted and established these things underwritten, which he will to be kept and maintained for ever.
 
 ***** *
 
@@ -13836,7 +13822,7 @@ Lords of hundreds in
 
 fee.
 
-XIV. After four writs of search for the Ring, returned, the King put to answer; on petition for lands in his hands. .
+XIV. After four writs of search for the Ring, returned, the King put to answer; on petition for lands in his hands.
 
 162
 
@@ -14684,7 +14670,7 @@ to be judged treason which extends
 
 to our lord the King, and his royal
 
-majesty: Aoid of such treason the for- ^
+majesty: Aoid of such treason the for-
 
 feiture of the escheats pertaineth to forfeiture of all
 
@@ -15579,8 +15565,6 @@ n
 stator utu 1 tfaftitti; an* mrbt}*
 
 A STATUTE concerning DIET and APPAREL; Of the thirty seventh year.
-
-'
 
 Ex magma BoL Slot, in Turr. |
 
@@ -16904,8 +16888,6 @@ A
 
 V
 
-/
-
 heirs & de touz Cristiens; & Steines possessions tant en fees tres & rentes come en avowesons q [ceo *] extendent a gRnt value p les ditz foundors furent a&signez as plates & autres gentz de seinte Esglise du dit roialme pr celle charge sustenir & nomement des possessions q furent assignez as Ercevesqes Evesqes Abbes Priours [religiouses2] & auYs gentz de Seinte Esglise p les Rois du [dit8] roialme, Countes, Barons, & [autres4] nobles de son roialme; mesmes les Rois, Countes, Barons, & [auYs6] nobles come frs & avowes eusent & avoir deussent la garde des tieux voidances & les psentementz & collacions des benefices esteantz de tielx placies; & les ditz Roys cn temps passe aoleient avoir le greinour ptie de lour conseilles p* la salvacion du Roialme qRnt ils enurent inestier de tieux Prelates & Clercs issint avansez; le Pape de Rome accrochant a luy la #*ie de tielx possessions & benefices mesmes les bnfices dona & g^unta as aliens [q unqes ne demrreront enfl] roialme Dengle?re & as Cardinalx q y demrrer ne [purront7] & as auYs tant aliens come denzeins, autre sicome il eust este patron ou avowe des ditz dignites & benefices come il ne feust de droit M. 9. solonc la ley DengleYre; p les queux ails fuissent suffretz apeyne demreroit ascun benefice en poi de temps en le dit roialme qil ne Sroit es mayns des aliens & denzeins p 9tue des tiex ^visions contre la bone volunte & disposicion des foundors de mesmes les bnfices; & issint les eleccions des [Erceveschees Eveschees,8] & auYs religious faudroient & les almoignes hospitalites & auYs oevres de charite q sroient faitz es ditz lieux Sroient sustretz, le dit Aiel & auSs lays
 
 1 se 2 Religious
@@ -16975,8 +16957,6 @@ such possessions and benefices doth upon aliens not give and grant the same bene
 aliens, which did never dwell in England, and to cardinals, which might not dwell here, and to other as well aliens as denizens, as if he had been patron or advowee of the said dignities and benefices, as he was not of right by the law of England; whereby if they should be suffered, Theincon-there should scarcely be any benefice within a short time in the said realm, but that it should be in the hands of aliens and denizens by virtue of such provisions, against the good will and disposition of the founders of the same benefices; and so the elections of archbishops, bishops, and other religious should fail, and the alms, hospitalities, and other works of charity, which should be done in the said places, should be withdrawn, the said grandfather, and other lay-
 
 'i
-
-\
 
 246
 
@@ -17406,13 +17386,13 @@ AJD. 1392-3.
 
 benefices is in King, grievously complaining, that cour^and that whereas the said our lord the King,
 
-the execution and all his liege people, ought of thereof is by . , , , c i J .• 6 . ,
+the execution and all his liege people, ought of thereof is by . , , , c i J .• 6 .
 
 the bishop. right, and of old time were wont to
 
 sue in the Kangs court, to recover their presentments to churches, prebends, and other benefices of Holy Church, to the which they had right to present, the cognisance of plea of which [presentment1] belongeth only to the King's court of the old right of his crown, used and approved in the time of all his progenitors Kings of England; and when judgement shall be given in the same court upon such a plea and [presentment,1] the archbishops, bishops, and other spiritual persons which have institution of such benefices within their jqrisdic-tion, be bound, and have made execution of such judgements by the King's commandments of all the time aforesaid without interruption, for another, lay-person, [cannot2] make such execution, and also be bound of right to make execution of many other of the King's commandments, of which right the crown of England hath been peaceably seised, as well in the time of our said lord the King that now is, as in the time of all his That the Pope progenitors till this day: But now of praeg^and divers processes be made by the
 
-sentences of [Bishop of Rome8] and censures of ex-excommnnica- . .. , . , . ,
+sentences of [Bishop of Rome8] and censures of ex-excommnnica- . .. , . , .
 
 tion against communication upon certain bishops
 
@@ -17646,7 +17626,7 @@ AJ). 1400-1.
 
 STATUTE of the Second Year.
 
-At the Parliament holden at  in the utas of St. Hillary, the second year of the reign of King Henry the Fourth, the same our lord the King, by the assent of the prelates, dukes, earls, and barons, and at the special instance and request of the commons assembled at this present Parliament, hath caused to be ordained and stablished certain statutes and ordinances in form following.
+At the Parliament holden at in the utas of St. Hillary, the second year of the reign of King Henry the Fourth, the same our lord the King, by the assent of the prelates, dukes, earls, and barons, and at the special instance and request of the commons assembled at this present Parliament, hath caused to be ordained and stablished certain statutes and ordinances in form following.
 
 Item, whereas in the last Parliament of our sovereign lord the King that now is, amongst other things it was ordained and stablished, that all they which from henceforth shall demand of the King, lands, tenements, rents, [or fees,1] annuities, or any other profits, should make express mention in their petitions of the value of the thing so to be demanded, and also of that that they have had of the gift of the King, or of other his progenitors or predecessors before; and in case they did not make such mention in their said petitions, and that duly proved, the King's letters patents should not be available to them, nor of no force nor effect, but wholly revoked, repealed, and adnulled for ever, to the punishment of them which had done such deceit to the King, as they that be not worthy to enjoy the effect and benefit of the letters patents to them granted in this behalf: Our said sovereign lord the King considering, that a great part of the said statute
 
@@ -19428,7 +19408,7 @@ Item pur eeo q avant ces lieures dieses utlagaries ount este gnunciez en di?s de
 
 1 semblables RoL Pari. nu. ix. (36.): Transcr. 2.
 
-At the Parliament holden at  the Friday next before the feast of Saint Hillary, the ninth year of the reign of our lord the King that now is, divers statutes and ordinances were made and [established 1] by the advice and assent of the lords spiritual and temporal, and at the special request of the commons of the realm assembled in the. said Parliament, in the form following.
+At the Parliament holden at the Friday next before the feast of Saint Hillary, the ninth year of the reign of our lord the King that now is, divers statutes and ordinances were made and [established 1] by the advice and assent of the lords spiritual and temporal, and at the special request of the commons of the realm assembled in the. said Parliament, in the form following.
 
 # * '* •
 
@@ -19804,7 +19784,7 @@ tielx Juges & Pes de le roi&hne, sicome autres Pes de le roi&lme Droient ails fu
 
 Here begin the Statutes Made at Westminster in the Twenty-third Year.
 
-At the Parliament holden at  the twenty-fifth day of February, the twenty-third year of the reign of Q) King Henry the sixth after the conquest, the same our lord the King, by the advice and assent of the lords spiritual and temporal, and the commons being in the said Parliament, (*) by the authority of the same Parliament, made to be ordained and stablished divers ordinances and statutes in the manner and form following.
+At the Parliament holden at the twenty-fifth day of February, the twenty-third year of the reign of Q) King Henry the sixth after the conquest, the same our lord the King, by the advice and assent of the lords spiritual and temporal, and the commons being in the said Parliament, (*) by the authority of the same Parliament, made to be ordained and stablished divers ordinances and statutes in the manner and form following.
 
 vn. Item, whereas King Edward the
 
@@ -21202,8 +21182,6 @@ lawe be demed out of prison, and other articles comprised in the said condiffin 
 
 2 What follows is in a separate schedule annexed to the original Act 4 oft
 
-/
-
 *all O. 8 time
 
 37$
@@ -21468,8 +21446,6 @@ establisshed and enacted that from the fyrst day of Aprell in the yere of our Lo
 
 1 of printed copies• 2 in printed copies. 3 Printed copies omit this word.
 
-/
-
 AJ). 1529.
 
 21 Henry VIII. a 5.
@@ -21521,8 +21497,6 @@ next of kynne, where in dede dy9s persons (x) in eqnalite of kynred as is afores
 4 intestate printed copies. 6 The word * declared * seems wanting here.
 
 6 indented printed copies.
-
-/
 
 AJ). 1529. 21 Henry VIIL a 5, 6. 883
 
@@ -21749,10 +21723,6 @@ And be it farther enacted by the auctoritie aforsaide that the justices of peace
 (1) The following clause is in a schedule annexed to this Act.
 
 r
-
-/
-
-/
 
 9
 
@@ -22052,8 +22022,6 @@ hymselff or herselff or by any gcuratour before any ordinarie archedeacon comiss
 
 1 psone O.
 
-/
-
 AD. 1531-2. 23 Henry VIIL c. 9,10. 401
 
 Provided alwayes that it shalbe lefull to eVy archebusshoppe of this realme to call cite and somon any pson or psonnes inhabiting or dwelling in any buaBhopps diocese within his pvince for causes of heresie, if the bisshopp or other ordinarie immediate therunto consent, or if the same bisshoppe or other immediate ordinarie or judge do not his duetie in punysshement of the same.
@@ -22179,8 +22147,6 @@ Tj^ORASMOCHE as it ys well pceyved by long approved expience that grete and ines
 405
 
 been gretely conveyed out of the same, but also it hath happened many tymes by occasion of deth unto suche archebisshopes and bysshopes so newely gmoted, within two or thre yeres after his or their consecracon, that his or their frendes by whome he or they have been holpen to advaunce and make payment of the seid annates or furst fruytes have been therby utterly undoon and impover-isshed; and for because the said annates have risen growen and encreased by an uncharitable custome grounded uppon no juste or good title, and the paymentyB therof opteyned by restraynt of bulles untill the same annates or first fruytes have been payed or sewrtie made for the same, which declareth the seid paymentys to be exacted and taken by constraynte ayenst all equitie and justice: The nobill men therfore of this realme and the wise sage poletique comons of the same assembled in this psent Parliament, considering that the courte of Borne cesseth not to taxe take and exacte the seid great somes of money under the title of annates or first fruytes as ys aforeseid to the great damage of the seid prelates and this realme, which annates or first fruyttes were first suffered to be taken within the same realme for thonelye defence of Cristen people ayenst thinfideles, and nowe they be claymed and demaunded as mere duetie onely for lucre ayenst all right and conscience, insomoche that yt ys evidently knowen that there hath passed out of this realme unto the court of Borne sithen the secunde yere of the reign of the most nobill prynce of famous memory King Henry the vij^1 unto this psent tyme, under the name of annates or first fruytes payed for the expedition of bulles of archebissopriches and bysshopriches, the sdme of eight hundred thowsand duckattys amounting in sflyng money at the lest to eight score thousands poundes, besides other greate and intolerable somes which have yerely ben conveyed to the seid courte of Borne by many other wayes and meanes, to the greate impo9isskement of this realme; AND albe it that our seid so9aign lorde the Kyng and all his naturall subjectys aswell spuall as temporall ben as obedient devoute catholique and humble children of God and Holie Churche as any people be within any realme cristened; YET the seid exaccons of annates or first fruyttes be so intollerable and importable to this realme that it is considered and declared by the hole bodye of this realme nowe repsented by all the astatys of the same assembled in this psent Parliament, that the Kynges Highnes before Almyghty God ys bounde as by the duetye of a good Xpen prynce for the conservation and pservacon of the good astate and comyn welth of this his realme to doo all that in hym ys to obvyate represse and redr esse the said abusions and exaccons of annates or first fruytes; and because that dy9s plates of this realme been nowe in extreme aege and in other debilitees of their bodies, so that of lykelyhod bodely deth in shorte tyme shall or may succede unto theme; by reason wherof great somes of money shall shortelye after their dethes be conveyed unto the courte of Borne for the unreasonable and uncharitable causes abovesaid, to the uniVsall damage pjudice and impoverisshement of this realme, if spedy remedye be not in due tyme jjvided; it is therefore ordeyned establisshed and enacted by auctoritie of this psent Parliament that the unlaufull paymentys of annates or furst fruytes and almaner contributions for the same, for any archebysshopriche or bysshopriche or for any bulles hereafter to be opteyned from the courte of Borne to or for the forsaid purpose and intent, shall from hensforth utterly cesse and no suche hereafter to be payed for any
-
-\
 
 i
 
@@ -22488,7 +22454,7 @@ Yin. c. 20.
 
 against payment of first fruits, &c. to the see of Rome;
 
-And yf any person or persons at any tyme after the seid feast of Easter, provoke or sue any manor of appeles, of what nature or condicion soo ever they be of, to the said Bisshop of Rome or to the see of Rome, or do procure or execute any. maS of gcesse from the see of Rome or by auctorytie therof, to the derogacion or lett of the due execucion of this Acte or oontrarye to the same, that then every suche person or persons soo doing theire aydouis counsaylours and abbettours shall incurre and renne into the daungers paynes and penalties conteyned and lymytted in the Acte of provysion and premunyre, made in the xvj yere of the Kynges moste noble pgenytoure Kynge Richarde the Seconde agayenst suche as sewe to the courte of Rome agayne the Kynges crowne and prerogatyve royalle. .
+And yf any person or persons at any tyme after the seid feast of Easter, provoke or sue any manor of appeles, of what nature or condicion soo ever they be of, to the said Bisshop of Rome or to the see of Rome, or do procure or execute any. maS of gcesse from the see of Rome or by auctorytie therof, to the derogacion or lett of the due execucion of this Acte or oontrarye to the same, that then every suche person or persons soo doing theire aydouis counsaylours and abbettours shall incurre and renne into the daungers paynes and penalties conteyned and lymytted in the Acte of provysion and premunyre, made in the xvj yere of the Kynges moste noble pgenytoure Kynge Richarde the Seconde agayenst suche as sewe to the courte of Rome agayne the Kynges crowne and prerogatyve royalle.
 
 (* ) Provydkd alwais that all maner of provocacions and appeales, here after to be had made or taken frome the jurisdiccion of any abbottes piyours & other heddes and governours of monasteries abbeis prioryes and other houses and places exempt, in suche cases as they were wont or moughte afore the makyng of this Acte, by reason of grauntes or liftties of suche places exempt, to have or make ymmedyatly any appele or gvocacion to the Bysshop of Rome otherwyse called Pope, or to the see of Rome, that in all theis cases e9y pson and persons havyng cause of appele or provocacion shall may take and make theire appeles and provocacions immedyatly to the Kynges Majestie of this realme into the Courte of ChaunSie, in lyke maner and forme as they used afore to do to the see of Rome; whiche appelles and provocacions soo made shalbe dyffynytyvely deSmyned by auctorytie of the Kynges comission in suche maner and forme as in this Acte is above mencioned; soo that noo archebisshop nor bishop of this realme shall entermette or meddell with any such appelles otherwyse or in any other maner [then1 2] they mought have done afore the makyng of this Acte; any thynge in this Acte to the contrarie therof not withstondyng.
 
@@ -24238,7 +24204,7 @@ AJD. 1540.
 
 landis or any matter or witnesses concerning the title or interest of any landis teStis or hereditamet?; and also that no psone nor psonnes of what estate and on un-degree or condition soever he or they be doo herafter unlaufully reteigne, for mainetenance of any sute or plea, any psone or psonnes, or embrace any subornation, freholders or jurours, or subome any witnes by ires rewardis promises or by &c* any other sinistre labour or meanes, for to maineteigne any matter or cause, or to the distourbaunce or hinderaunce of justice, or to the procurement or occasion of any maner of pjury by false verdict, or otherwise in any maner of court? aforesaid, uppon paine of forfaicture for e9y suche offence x. li. Thone Ten pounds, moytie therof to the King our souveraine lorde and thother moytie to him that woll sue for the same by action of dett bill playnte or information in any the Kinges courtis in which action none essoyne protection wager of lawe nor injunction shalbe allowed.
 
-Provided alway and be it enacted by thauctoritie aforsaid, that it shalbe ^
+Provided alway and be it enacted by thauctoritie aforsaid, that it shalbe
 
 laufull to any psonne or psonnes, being in lawfull possession by taking of the ^ pur.
 
@@ -27516,7 +27482,7 @@ and withe no more of the same first fruites; any thing in this Acte conteyned, o
 
 Provided also and be yt enacted, that all grantes immunities and lybertyes given to the universities of Cambridge and Oxforde, or to any colledge or hall in either of the said universities, and to the colledges of Eton and Winchester, and unto every or any of them, by our (*) souveraigne lorde King Henrye Theight, or any other of the Quenes Highnes progenitours or predecessoures, or by Acte of Pliant, for or touching the releas or dischardge of the said first fruites and tenthes, or any parte therof, shalbe allwaies and remaine in their full strengthe and vertue; and that all suche lawfull conveiaunces and assurances in the lawe as were had [and8] made before the making of this Acte to either of the said universitees of Oxforde and Cambridge, or to any colledge or hall within any of them, by what name or names soever they or any of them be incorporated or named, of any of the said psonages or benefices impropriate, or of any pte of the same, or of any patronages for the maintenance of studentes or lerning, shalbe as good and effectual in the lawe to all intentes construcrons and purposes, as thoughe this Acte had never bene made.
 
-And be it further enacted by thaucthoritee aforesaid, that the deane and canons of the free chappell of St George the Martyr within the castell of Windesoure, and all the possessions and hereditamentes of the same free chappell deanrye and canons, by whatsoever name or names they be incorporated or knowen, shalbee exonerated, and shall stande for ever dischardged of the tenthes and first fruites before mentioned; any thing in this Acte or any other Acte or statute before mentioned to the contrary therof in any wise notwithstanding. .
+And be it further enacted by thaucthoritee aforesaid, that the deane and canons of the free chappell of St George the Martyr within the castell of Windesoure, and all the possessions and hereditamentes of the same free chappell deanrye and canons, by whatsoever name or names they be incorporated or knowen, shalbee exonerated, and shall stande for ever dischardged of the tenthes and first fruites before mentioned; any thing in this Acte or any other Acte or statute before mentioned to the contrary therof in any wise notwithstanding.
 
 Provided also and be yt enacted, that all leases made before the twentithe daye of December laste past, for xxj^ yeres, or three lyves at the most, by any pson or psons bodies politike or corporate, beyng lawfully seased of or in any of the said peonages
 
@@ -28402,7 +28368,7 @@ AD. 1571.
 
 633
 
-CHAPTER XII. .
+CHAPTER XII.
 
 An Act to refburme certayne Dysorders touching Ministers of the Churche.
 
@@ -30490,7 +30456,7 @@ CHAPTER XIL An Acte for ease in Pleading, agaynst troublesom and contencious Sui
 
 WHEREAS an Acte intituled An Act for ease in pleading, against
 
-* troublesome and contencious suitf* psecuted against justices of the peace maors constables and certaine other his Majesties officers, for the lawfuli execucion of their office, made in the seaventh yeare of his Majesties most happy raigne of England, was made to contynue but for seaven yeares, and from thence to the end of the next Parliament after the said seaven yeares, which by experience hath since byn found to be a good and gfitable la we | . * . .
+* troublesome and contencious suitf* psecuted against justices of the peace maors constables and certaine other his Majesties officers, for the lawfuli execucion of their office, made in the seaventh yeare of his Majesties most happy raigne of England, was made to contynue but for seaven yeares, and from thence to the end of the next Parliament after the said seaven yeares, which by experience hath since byn found to be a good and gfitable la we | . * .
 
 And be it further enacted by the autboritie aforesaid, that all churchwardens, and all psons called swome men, executing of the office of churchwardens, and all overseers of the poore, and all others which in their ayd or assistance, or by their comaundement shall doe any thing touching or concerning his or their office or offices, shall hereafter be enabled to receive and have such benefitt and helpe by vertue of the said Act, to all intentf constructions and purposes as if they had byn especially named therein.
 
@@ -32736,7 +32702,7 @@ An Act for Redresse of Inconveniencies by want of Proofe of the Deceases of Pers
 
 WHEREAS diverse lords of mannours and others have used to grant estates * * by copy of court roll for one two or more life or lives according to the customs of their severall mannours and have alsoe granted estates by lease for one or more life or lives, or else for yeares determinable upon one or more life or lives and it hath often happened that such person or persons for whose life or lives such estates have beene granted have gone beyond the seas or soe absented themselves for many yeares that the lessors and reversioners
 
-In the Statutes of the Realm the following note occurs on chapter 6. of this year :J This chapter is intituled chapter I. 19 Car. II. and the consequent numbers observed in the seven subsequent Acts as of 19 Car. II. in the common printed editions; . . . .
+In the Statutes of the Realm the following note occurs on chapter 6. of this year :J This chapter is intituled chapter I. 19 Car. II. and the consequent numbers observed in the seven subsequent Acts as of 19 Car. II. in the common printed editions; . . .
 
 A.D. 166a
 
