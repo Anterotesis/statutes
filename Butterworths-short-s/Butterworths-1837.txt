@@ -1412,7 +1412,7 @@ Person shall be liable to serve, within the United Kingdom of Great Britain and 
 
 XLI. And be it enacted, That no Master shall be entitled to Claims of claim an Apprentice who shall enlist as a Soldier in His Majesty's Masters to or the East India Company's Service, unless he shall, within One Apprenticvt. Calendar Month after such Apprentice shall have left his Service, go before some Justice and take the Oath mentioned in the Schedule to this Act annexed, and produce the Certificate of such Justice of his having taken such Oath, which Certificate such Justice is required to give in the Form in the Schedule to this Act annexed; and unless such Apprentice shall have been bound, if in England, for the full Term of Seven Years, not having been above the. Age of Fourteen when so bound, and, if in Ireland or in the British Isles, for the full Term of Five Years at the least, not having been above the Age of Sixteen when so bound, and, if in Scotland, for the full Term at least of Four Years, by a regular Contract or Indenture of Apprenticeship, duly extended, signed, and tested, and binding on both Parties by the Law of Scotland, prior to the Period of Enlistment, and unless such Contract or Indenture in Scotland shall, within Three Months after the Commencement of the Apprenticeship, and before the Period of Enlistment, have been produced to a Justice of the Peace of the County in Scotland wherein the Parties reside, and there shall have been indorsed thereon by such Justice a Certificate or Declaration signed by him, specifying the Date when and the Person by whom such Contract or Indenture shall have been so produced, which Certificate or Declaration such Justice of the Peace is hereby required to indorse and sign; and unless such Apprentice shall, when claimed by such Master, be under Twenty-one Years of Age; provided that any Master of an Apprentice indentured for the Sea Service shall be entitled to claim and recover him in the Form and Manner above directed, notwithstanding such Apprentice may have been bound for a less Term than Seven, Five, or Four Years as afore* said; and any such Master who shall give up the Indentures of Apprenticeship within One Month after the enlisting of such Apprentice shall be entitled to receive to his own Use so much of the Bounty payable to such Recruit, after deducting therefrom Two Guineas to provide him with Necessaries, as shall not have been paid to such Recruit before Notice given of his being an Apprentice.
 
-LX1II. And be it enacted, That if any Constable or other Per- Penalties upon son, who by virtue of this Act shall be employed in billetting any Civil Subjects Officers or Soldiers in any Part of the United Kingdom, shall offending, presume to billet any such Officer or Soldier in any House not within the Meaning of this Act, without the Consent of the Owner or Occupier thereof; or shall neglect or refuse to billet any Officer or Soldier on Duty, when thereunto required, in such Manner as 7 Gul. IV. & 1 Vict. C is
+LXIII. And be it enacted, That if any Constable or other Per- Penalties upon son, who by virtue of this Act shall be employed in billetting any Civil Subjects Officers or Soldiers in any Part of the United Kingdom, shall offending, presume to billet any such Officer or Soldier in any House not within the Meaning of this Act, without the Consent of the Owner or Occupier thereof; or shall neglect or refuse to billet any Officer or Soldier on Duty, when thereunto required, in such Manner as 7 Gul. IV. & 1 Vict. C is
 
 C.7.
 
@@ -4250,11 +4250,7 @@ G
 
 r
 
-
-
 R?
-
-
 
 M
 
@@ -4271,8 +4267,6 @@ The whole.
 8
 
 7 Gvl. IV. & 1 Vict.
-
-
 
 23 G. 5* c. 69*
 
@@ -6354,8 +6348,6 @@ Exchequer Bill Office, 1
 
 €
 
-
-
 9
 
 i,
@@ -7564,7 +7556,7 @@ G.41.
 
 809
 
-contained in the before-recited Act passed in the Twentieth Year of the Reign of His Majesty King George the Second^ for taking Away and abolishing the Heritable Jurisdictions in Scotkma, except in so far as altered by this Act: Provided always, that such Appeal shall be competent only when founded on the Ground of Corruption or Malice and Oppression on the Part of the Sheriff Or on such Deviations in point of Form from the statutory Enactments as the Court shall think took place wilfully, or have prevented substantial Justice from having been done, or on Incompetency, including Defect of Jurisdiction of the Sheriff; provided also, that such Appeals shall be heard and determined in open Court, and that it shall be competent to the Court to correct such Deviation in point of Form, or to remit the Cause to the Sheriff with Instructions or for re-hearing generally, and it shall not be competent to produce or found upon any Document as Evidence on the Merits of the original Cause which was not produced to the Sheriff when the Case is heard, and to which his Signature or Initials have not been then affixed, which he is only to do if required, nor to found upon nor refer to the Testimony of any Witness not examined before the Sheriff, and whose Name is> not written by him when the Case is heard upon the Record 
+contained in the before-recited Act passed in the Twentieth Year of the Reign of His Majesty King George the Second^ for taking Away and abolishing the Heritable Jurisdictions in Scotkma, except in so far as altered by this Act: Provided always, that such Appeal shall be competent only when founded on the Ground of Corruption or Malice and Oppression on the Part of the Sheriff Or on such Deviations in point of Form from the statutory Enactments as the Court shall think took place wilfully, or have prevented substantial Justice from having been done, or on Incompetency, including Defect of Jurisdiction of the Sheriff; provided also, that such Appeals shall be heard and determined in open Court, and that it shall be competent to the Court to correct such Deviation in point of Form, or to remit the Cause to the Sheriff with Instructions or for re-hearing generally, and it shall not be competent to produce or found upon any Document as Evidence on the Merits of the original Cause which was not produced to the Sheriff when the Case is heard, and to which his Signature or Initials have not been then affixed, which he is only to do if required, nor to found upon nor refer to the Testimony of any Witness not examined before the Sheriff, and whose Name is> not written by him when the Case is heard upon the Record
 
 Copy of the Summons, which he is to do when specially required to that Effect: Provided further, that no Sist or Stay of the Process and Decree and no Certificate of Appeal shall be issued by the Sheriff Clerk, except upon Consignation of the whole Sum, if any, decerned for by the Decree and Expences, if any, and Security found for the whole Expences which may be incurred and found due under the Appeal.
 
@@ -11228,7 +11220,7 @@ I (one of the above-named Officers) do solemnly and
 
 sincerely declare, That the above is a true Return; and I make this solemn Declaration conscientiously believing the same to be true, and by virtue of the Provisions of an Act made and passed in the Fifth Year of the Reign of His late Majesty, intituled " An Act," fyc.
 
-Dated this Day of 18 
+Dated this Day of 18
 
 [Declared, fyc,} [Signature."]
 
@@ -12088,7 +12080,7 @@ j£S59,827 0 0 109,195 0 0
 
 For Naval Stores, &c.
 
-For Salaries, &c. of Officers, and contingent Expences of the Admiralty Office For Salaries of Officers, and incidental Expences of the Office for Registry of Merchant Sea-men 
+For Salaries, &c. of Officers, and contingent Expences of the Admiralty Office For Salaries of Officers, and incidental Expences of the Office for Registry of Merchant Sea-men
 
 For ditto of the Scientific Departments of the Navy For Salaries, &c. of Officers, and contingent Expences of Naval Establishments at Home For ditto of Naval Establishments Abroad -For new Works and Improvements in Yards For Medicines and Medical Stores -For Naval Miscellaneous Services For Half Pay of Navy and Marines -
 
@@ -12582,7 +12574,7 @@ For Administration of Justice, &c. in Lower Canada. For Steam Communication with
 
 To make good Grants of former Years.
 
-For Education in Ireland For the Foundling Hospital in Dublin 
+For Education in Ireland For the Foundling Hospital in Dublin
 
 For the House of Industry in Dublin and Hospitals attached For the Hibernian Marine Society -
 
