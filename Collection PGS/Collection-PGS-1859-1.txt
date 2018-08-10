@@ -234,161 +234,159 @@ I. The several Acts and Parts of Acts mentioned in the Schedule to this Act, and
 
 SCHEDULE.
 
-Date of Act. Title. Extent of Repeal.
+## table start
+
+Date of Act.	Title.	Extent of Repeal.
 
 ACTS OF THE PARLIAMENT OF ENGLAND.
 
-3 Jac. 1. c. 1., An Act for a Public Thanks-giving to Almighty God every Year on the Fifth Day of November., The whole Act.
+3 Jac. 1. c. 1.	An Act for a Public Thanks-giving to Almighty God every Year on the Fifth Day of November.	The whole Act.
 
-12 Car. 2. c. 14., An Act for a perpetual Anniversary Thanksgiving on the Nine-and-twentieth Day of May., The whole Act.
+12 Car. 2. c. 14.	An Act for a perpetual Anniversary Thanksgiving on the Nine-and-twentieth Day of May.	The whole Act.
 
 22° VICTORIAE, c. 2, 3. 3
 
-Date of Act. Title. Extent of Repeal.
+Date of Act.	Title.	Extent of Repeal.
 
----
+12 Car. 2. c. 30.	An Act for the Attainder of several Persons guilty of the horrid Murther of His late Sacred Majesty King Charles the First.	So far as it enacts that every Thirtieth Day of January, unless it falls out to be upon the Lord's Day, and then the Day next following, should be set apart to be kept and observed as an Anniversary Day as therein mentioned.
 
-12 Car. 2. c. 30., An Act for the Attainder of So far as it enacts that every Thirtieth
+13 Car. 2. c. 7.	An Act for confirming Public Acts.	So far as it confirms the Enactment hereinbefore mentioned of the 12 Car. 2. c. 30.
 
-several Persons guilty of the horrid Murther of His late Day of January, unless it fails out to be upon the Lord's Day, and then the
-
-Sacred Majesty King Charles the First. Day next following, should be set apart to be kept and observed as an Anniversary Day as therein mentioned.
-
-13 Car. 2. c. 7. An Act for confirming Public Acts. So far as it confirms the Enactment hereinbefore mentioned of the 12 Car. 2. c. 30.
-
-13 Car. 2. c. 11. An Act for confirming of Three Acts therein mentioned* So far as it confirms the Act 12 Car. 2. c. 14.
+13 Car. 2. c. 11.	An Act for confirming of Three Acts therein mentioned.	So far as it confirms the Act 12 Car. 2. c. 14.
 
 ACT OF THE PARLIAMENT OF GREAT BRITAIN.
 
-24 G. 2. o. 23. - An Act for regulating the Commencement of the Year, and for correcting the Calendar now in use. So far as it requires the keeping and observing of the Thirtieth Day of January, the Twenty-ninth Day of May, and the Fifth Day of November, as
-
-therein mentioned.
+24 G. 2. c. 23.	An Act for regulating the Commencement of the Year, and for correcting the Calendar now in use.	So far as it requires the keeping and observing of the Thirtieth Day of January, the Twenty-ninth Day of May, and the Fifth Day of November, as therein mentioned.
 
 ACTS OF THE PARLIAMENT OF IRELAND.
 
-14 & 15 Car.2. Sess. 4. An Act for a perpetual Anni- The whole Act.
+14 & 15 Car.2. Sess. 4. c. 1.	An Act for a perpetual Anniversary Thanksgiving on the Nine-and-twentieth Day of May in this Kingdom.	The whole Act.
 
-c. 1. versary Thanksgiving on the Nine-and-twentieth Day of May in this Kingdom.
+14 & 15 Car.2. Sess. 4. c. 23.	An Act for keeping and celebrating the Twenty-third of October as an Anniversary Thanksgiving in this Kingdom.	The whole Act.
 
-14 & 15 Car.2. Sess. 4. c. 23. ' An Act for keeping and celebrating the Twenty-third of October as an Anniversary Thanksgiving in this Kingdom. The whole Act.
+## table end
 
 CAP. III.
 
-An Act to authorize the Inclosure of certain Lands in pursuance of a Report of the Inclosure Commissioners for England and Wales. [25th March 1859.]
+An Act to authorize the Inclosure of certain Lands in pursuance of a Report of the Inclosure Commissioners for England and Wales.
 
-WHEREAS the Inclosure Commissioners for England and Wales have, in pursuance ' of " The Acts for the Inclosure, Exchange, and Improvement of Land/' issued their
+[25th March 1859.]
 
-' Provisional Orders for and concerning the proposed Inclosures mentioned in the Schedule ' to this Act, and have in their Fourteenth Annual General Report certified their Opinion f that such Inclosures would be expedient; but the same cannot be proceeded with without ' the previous Authority of Parliament:' Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS the Inclosure Commissioners for England and Wales have, in pursuance of "The Acts for the Inclosure, Exchange, and Improvement of Land" issued their Provisional Orders for and concerning the proposed Inclosures mentioned in the Schedule to this Act, and have in their Fourteenth Annual General Report certified their Opinion that such Inclosures would be expedient; but the same cannot be proceeded with without the previous Authority of Parliament: Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+
+[Inclosures in Schedule may be proceeded with.]
 
 I. That the said several proposed Inclosures mentioned in the Schedule to this Act be proceeded with.
 
-II. In citing this Act in other Acts of Parliament and in legal Instruments it shall be sufficient to use either the Expression " The Annual Inclosure Act, 1859," or "The Acts " for the Inclosure, Exchange, and Improvement of Land,"
+[Short Title.]
 
-Inclosures in Schedule may be proceeded with.
+II. In citing this Act in other Acts of Parliament and in legal Instruments it shall be sufficient to use either the Expression "The Annual Inclosure Act, 1859," or "The Acts for the Inclosure, Exchange, and Improvement of Land."
 
-Short Title.
-
-4
-
-Numbers, 122,655 Men.
-
-22° VICTORIAE, c.3,4.
+4 22° VICTORIAE, c.3, 4.
 
 SCHEDULE to which this Act refers.
 
-Inclosure. County. Date of Provisional Order.
+## table start
 
-Snape ----- Suffolk - . 13 th May 1858.
+Inclosure.	County.	Date of Provisional Order.
 
-Botley Common - Southampton - 3d June 1858.
+Snape	Suffolk	13th May 1858.
 
-Cathedine - Brecon - - - - 3d June 1858.
+Botley Common	Southampton	3d June 1858.
 
-Skelwith Common - Lancaster - 17th July 1858.
+Cathedine	Brecon	3d June 1858.
 
-Ashreigney - Devon - - 25th June 1858.
+Skelwith Common	Lancaster	17th July 1858.
 
-Lydney - - - Gloucester - 3d July 1858.
+Ashreigney	Devon	25th June 1858.
 
-Osmotherley - Lancaster - - 8th July 1858.
+Lydney	Gloucester	3d July 1858.
 
-Mexbrough - - - York - 22d July 1858.
+Osmotherley	Lancaster	8th July 1858.
 
-Fulbrook, Ship ton-under-Wych-1 wood, and Taynton - - j Oxford - - 5th August 1858.
+Mexbrough	York	22d July 1858.
 
-Asthall, Whichwood, and Fulbrook - Oxford - - - - 5th August 1858.
+Fulbrook, Shipton-under-Wychwood, and Taynton	Oxford	5th August 1858.
 
-Moseley Common - Hereford - 20th August 1858.
+Asthall, Whichwood, and Fulbrook	Oxford	5th August 1858.
 
-Kirkby Ireleth - - - Lancaster - 21st October 1858.
+Moseley Common	Hereford	20th August 1858.
 
-Ramsden - - Oxford - - 28th October 1858.
+Kirkby Ireleth	Lancaster	21st October 1858.
 
-Doeking - - - - - Norfolk - 11th November 1858.
+Ramsden	Oxford	28th October 1858.
 
-Drayton - - Oxfprd - - 9th December 1858.
+Docking	Norfolk	11th November 1858.
 
-Elton Meadow and Stroud Field Gloucester - 13th January 1859.
+Drayton	Oxford	9th December 1858.
 
-Dibden - Southampton - 13th January 1859.
+Elton Meadow and Stroud Field	Gloucester	13th January 1859.
 
-Clunbury Hill - - Salop - 28th October 1858.
+Dibden	Southampton	13th January 1859.
 
-Clavering - Essex - 1 - 5th January 1859.
+Clunbury Hill	Salop	28th October 1858.
 
-Pembridge - - Hereford - 23d December 1858.
+Clavering	Essex	5th January 1859.
 
-Chithurst ----- Sussex - - 15th January 1859.
+Pembridge	Hereford	23d December 1858.
 
-Oathall Manor - - Sussex - - 19th January 1859.
+Chithurst	Sussex	15th January 1859.
 
-Rhandirisa - - Carmarthen - 19th January 1859.
+Oathall Manor	Sussex	19th January 1859.
+
+Rhandirisa	Carmarthen	19th January 1859.
+
+## table end
 
 CAP. IV.
 
-An Act for punishing Mutiny and Desertion, and for the better Payment of the Army and their Quarters. [25th March 1859.]
+An Act for punishing Mutiny and Desertion, and for the better Payment of the Army and their Quarters.
 
-WHEREAS the raising or keeping a Standing Army within the United Kingdom of Great Britain and Inland in Time of Peace, unless it be with the Consent of Parliament, is against Law: And whereas it is adjudged necessary by Her Majesty and this present Parliament that a Body of Forces should bo continued for the Safety of the United Kingdom, the Defence of the Possessions of Her Majesty's Crown, and the Preservation of the Balance of Power in Europe, and that the whole Number of such Forces should consist of One hundred and twenty-two thousand six hundred and fifty-five Men, exclusive of Fifteen thousand and five Officers and Men, being the Dep6ts of Regiments in India stationed in Great Britain, and exclusive of the Officers and Men belonging to the Regiments and other Corps employed in Her Majesty's East Indian Possessions, but including the Officers and Men of the Troops and Companies recruiting for those Regiments and Corps: And whereas no Man can be forejudged of Life or Limb, or subjected in Time of Peace to any Kind of Punishment within this Realm, by Martial Law, or in any other Manner than by Judgment of his Peers, and according to the known and established Laws of this Realm; yet nevertheless it being requisite, for the retaining all the before-mentioned Forces in their Duty, that an exact Discipline be observed, and that Soldiers who shall mutiny or stir up Sedition, or shall desert Her Majesty's Service, or be guilty of Crimes and Offences to the Prejudice of good Order and Military Discipline, be brought to a more exemplary and speedy Punighjnent than the usual Forms of .the Law will allow Be it
+[25th March 1859.]
 
-5
+WHEREAS the raising or keeping a Standing Army within the United Kingdom of Great Britain and Inland in Time of Peace, unless it be with the Consent of Parliament, is against Law: And whereas it is adjudged necessary by Her Majesty and this present Parliament that a Body of Forces should bo continued for the Safety of the United Kingdom, the Defence of the Possessions of Her Majesty's Crown, and the Preservation of the Balance of Power in Europe,
 
-22° VICTORIA, c.4.
+[Numbers, 122,655 Men.]
+
+and that the whole Number of such Forces should consist of One hundred and twenty-two thousand six hundred and fifty-five Men, exclusive of Fifteen thousand and five Officers and Men, being the Depots of Regiments in India stationed in Great Britain, and exclusive of the Officers and Men belonging to the Regiments and other Corps employed in Her Majesty's East Indian Possessions, but including the Officers and Men of the Troops and Companies recruiting for those Regiments and Corps: And whereas no Man can be forejudged of Life or Limb, or subjected in Time of Peace to any Kind of Punishment within this Realm, by Martial Law, or in any other Manner than by Judgment of his Peers, and according to the known and established Laws of this Realm; yet nevertheless it being requisite, for the retaining all the before-mentioned Forces in their Duty, that an exact Discipline be observed, and that Soldiers who shall mutiny or stir up Sedition, or shall desert Her Majesty's Service, or be guilty of Crimes and Offences to the Prejudice of good Order and Military Discipline, be brought to a more exemplary and speedy Punishment than the usual Forms of the Law will allow: Be it
+
+22° VICTORIA, c.4. 5
 
 therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
-I. It shall be lawful for Her Majesty to make Articles of War for the better Government Articles of War of Her Majesty's Army, which Articles shall be judicially taken notice of by all Judges and 5a*e^tcfbe in all Courts whatsoever; and Copies of the same, printed by the Queen's Printer, shall, as ju&tiaUy token soon as may be after the same shall have been made and established by Her Majesty, notice of, and be transmitted by Her Majesty's Secretary-at-War to the Judges of Her Majesty's Superior
+[Articles of War made by Her Majesty to be judicially taken notice of, and Copies printed by the Queen's Printer to be transmitted to Judges, &c.]
 
-Courts at Westminster, Dublin, and Edinburgh respectively, and also to the Governors of Printer to be Her Majesty's Dominions abroad; provided that no Person within the United Kingdom of transmitted to Great Britain and Ireland, or within the British Isles, shall by such Articles of War be Judges*&c* subject to be kept in Penal Servitude, or to suffer any Punishment extending to Life or Limb, except for Crimes which are by this Act expressly made liable to Penal Servitude or to such Punishment as aforesaid, or shall be subject, with reference to any Crimes made punishable by this Act, to be punished in any Manner which shall not accord with the Provisions of this Act.
+I. It shall be lawful for Her Majesty to make Articles of War for the better Government of Her Majesty's Army, which Articles shall be judicially taken notice of by all Judges and in all Courts whatsoever; and Copies of the same, printed by the Queen's Printer, shall, as soon as may be after the same shall have been made and established by Her Majesty, be transmitted by Her Majesty's Secretary-at-War to the Judges of Her Majesty's Superior Courts at Westminster, Dublin, and Edinburgh respectively, and also to the Governors of Her Majesty's Dominions abroad; provided that no Person within the United Kingdom of Great Britain and Ireland, or within the British Isles, shall by such Articles of War be subject to be kept in Penal Servitude, or to suffer any Punishment extending to Life or Limb, except for Crimes which are by this Act expressly made liable to Penal Servitude or to such Punishment as aforesaid, or shall be subject, with reference to any Crimes made punishable by this Act, to be punished in any Manner which shall not accord with the Provisions of this Act.
 
-II. All the Provisions of this Act shall apply to all Persons who are or shall be commis- Persons subject sioned or in Pay as an Officer, or who are or shall be listed or in Pay as a Non-commissioned to this Act Officer or Soldier, other than Officers and Soldiers belonging to Her Majesty's Indian Forces,
+[Persons subject to this Act.]
 
-and to all Persons employed on the Recruiting Service receiving Pay in respect of such Service, and also to the Officers and Soldiers belonging to Her Majesty's Indian Forces while such Officers or Soldiers shall be in any Part of the United Kingdom, and to the Officers and Persons who are or shall be serving and hired to be employed in the Royal Artillery and Field Train, and to Master Gunners, and Gunners, and Conductors of Stores, and to all Officers and Persons who are or shall be serving in the Regiment of Royal Engineers, or the Corps of Royal Sappers and Miners, or in the Corps of Royal Military Surveyors and Draftsmen, or in the Field Train or Medical Staff Corps, or Hospital Corps, or Military Train, or serving as Army Schoolmasters, Probationary Armourers, and Armourer Serjeants, and to all Officers and Persons who are or shall be serving on the Commissariat Staff and in the Commissariat Corps, and to Persons in the War Department, who are or shall be serving with any Part of Her Majesty's Army at home or abroad, under the Command of any Officer having Commission from Her Majesty or from His late Majesty King William the Fourth, and to all Storekeepers and all Civil Officers who are or shall be employed by or act under the War Department at any of Her Majesty's Establishments in the Islands of Jersey, Guernsey, Alderney, Sark, and Man, and the Islands thereto belonging, or at Foreign Stations; provided that nothing in this Act contained shall extend to affect any Security which has been or shall be given by any Storekeeper, Barrack Master, or other Officer, or their Sureties, for the due Performance of their respective Offices, but that all such Securities shall be and remain in full Force and Effect.
+II. All the Provisions of this Act shall apply to all Persons who are or shall be commissioned or in Pay as an Officer, or who are or shall be listed or in Pay as a Non-commissioned Officer or Soldier, other than Officers and Soldiers belonging to Her Majesty's Indian Forces, and to all Persons employed on the Recruiting Service receiving Pay in respect of such Service, and also to the Officers and Soldiers belonging to Her Majesty's Indian Forces while such Officers or Soldiers shall be in any Part of the United Kingdom, and to the Officers and Persons who are or shall be serving and hired to be employed in the Royal Artillery and Field Train, and to Master Gunners, and Gunners, and Conductors of Stores, and to all Officers and Persons who are or shall be serving in the Regiment of Royal Engineers, or the Corps of Royal Sappers and Miners, or in the Corps of Royal Military Surveyors and Draftsmen, or in the Field Train or Medical Staff Corps, or Hospital Corps, or Military Train, or serving as Army Schoolmasters, Probationary Armourers, and Armourer Serjeants, and to all Officers and Persons who are or shall be serving on the Commissariat Staff and in the Commissariat Corps, and to Persons in the War Department, who are or shall be serving with any Part of Her Majesty's Army at home or abroad, under the Command of any Officer having Commission from Her Majesty or from His late Majesty King William the Fourth, and to all Storekeepers and all Civil Officers who are or shall be employed by or act under the War Department at any of Her Majesty's Establishments in the Islands of Jersey, Guernsey, Alderney, Sark, and Man, and the Islands thereto belonging, or at Foreign Stations; provided that nothing in this Act contained shall extend to affect any Security which has been or shall be given by any Storekeeper, Barrack Master, or other Officer, or their Sureties, for the due Performance of their respective Offices, but that all such Securities shall be and remain in full Force and Effect.
 
-III. This Act shall extend to the Islands of Jersey, Guernsey, Alderney, Sark, and Man, Provisions of and the Islands thereto belonging, as to the Provisions herein contained for enlisting of tend^tTJeree*" Recruits, whether Minors or of full Age, and swearing and attesting such Recruits, and GuernLy7&a for mustering and paying, and as to the Provisions for the Trial and Punishment of Officers
+[Provisions of this Act to extend to Jersey, Guernsey, &c.]
 
-and Soldiers who shall be charged with Mutiny and Desertion, or any other of the Offences which are by this Act declared to be punishable by the Sentence of a Court-martial, and also as to the Provisions which relate to the Punishment of Persons who shall fraudulently confess themselves to be Deserters, or who shall conceal Deserters, or shall knowingly buy, exchange, or otherwise receive any Arms, Medals for good Conduct or for distinguished or other Service, Clothes, Military Furniture, or Regimental Necessaries from any Soldier or Deserter, or who shall cause the Colour of any such Clothes to be changed, or who shall aid in the Escape of a Prisoner from a Military Prison, or who shall introduce forbidden Articles into such Prison, or shall carry out any such Articles, or who shall assault any Officer of such Prison, and also as to the Provisions for exempting Soldiers from being taken out of Her Majesty's Service for not supporting or for leaving chargeable to any Parish any Wife or Child or Children, or on account of any Breach of Contract to serve
+III. This Act shall extend to the Islands of Jersey, Guernsey, Alderney, Sark, and Man, and the Islands thereto belonging, as to the Provisions herein contained for enlisting of Recruits, whether Minors or of full Age, and swearing and attesting such Recruits, and for mustering and paying, and as to the Provisions for the Trial and Punishment of Officers and Soldiers who shall be charged with Mutiny and Desertion, or any other of the Offences which are by this Act declared to be punishable by the Sentence of a Court-martial, and also as to the Provisions which relate to the Punishment of Persons who shall fraudulently confess themselves to be Deserters, or who shall conceal Deserters, or shall knowingly buy, exchange, or otherwise receive any Arms, Medals for good Conduct or for distinguished or other Service, Clothes, Military Furniture, or Regimental Necessaries from any Soldier or Deserter, or who shall cause the Colour of any such Clothes to be changed, or who shall aid in the Escape of a Prisoner from a Military Prison, or who shall introduce forbidden Articles into such Prison, or shall carry out any such Articles, or who shall assault any Officer of such Prison, and also as to the Provisions for exempting Soldiers from being taken out of Her Majesty's Service for not supporting or for leaving chargeable to any Parish any Wife or Child or Children, or on account of any Breach of Contract to serve
 
-Colonial and Foreign Troops in Her Majesty's Pay to be subject to Provisions of this Act.
-
-Provision as to the Militia and Yeomanry Corps.
-
-Power to constitute Courts-martial.
-
-As to General Courts-martial convened in St. Helena, &c.
-
-District or Garrison Courts-martial.
-
-22° VICTORIA, c. 4.
+6 22° VICTORIA, c. 4.
 
 or work for any Employer, or on account of any Debts under Thirty Pounds in the said Islands.
 
+[Colonial and Foreign Troops in Her Majesty's Pay to be subject to Provisions of this Act.]
+
 IV. All Officers and Soldiers of any Troops mustered and in Pay, which shall be raised and serving in any of Her Majesty's Dominions abroad, or in Places in possession of or occupied by Her Majesty's Subjects under the Command of any Officer having any Commission immediately from Her Majesty (other than Officers and Soldiers belonging to Her Majesty's Indian Army when out of the United Kingdom), shall be subject to the Provisions of this Act and of Her Majesty's Articles of War, in like Manner as Her Majesty's other Forces are; and if such Officers and Soldiers, having been made Prisoners, be sent into Great Britain or Ireland, although not allowed to serve therein, all the Provisions of this Act in regard to billeting Soldiers shall apply to such Officers and Soldiers.
+
+[Provision as to the Militia and Yeomanry Corps.]
 
 V. Nothing in this Act contained shall be construed to extend to any Militia Forces or Yeomanry or Volunteer Corps in Great Britain or Ireland3 excepting only where by any Act for regulating any of the said Forces or Corps the Provisions contained in any Act for punishing Mutiny and Desertion are or shall be specifically made applicable to such Forces or Corps.
 
-VI. For the Purpose of bringing Offenders against this Act and against the Articles of War to Justice, Her Majesty may from Time to Time, in like Manner as has been heretofore used, grant Commissions under the Royal Sign Manual for the holding of Courts-martial within the United Kingdom of Great Britain and Ireland, and may grant Commissions or Warrants under the said Royal Sign Manual to the Chief Governor or Governors of Ireland, the Commander of the Forces, or the Person or Persons commanding in chief, or commanding for the Time being, any Body of Troops belonging to Her Majesty's Army, as well withiii the United Kingdom of Great Britain and Ireland and the British Isles, as in any of Her Majesty's Garrisons and Dominions or elsewhere beyond Seas, for convening Courts-martial, and for authorizing any Officer under their respective Commands to convene Courts-martial, as Occasion may require, for the Trial of Offences committed by any of the Forces under the Command of any such last-mentioned Officer, whether the same shall have been committed before or after such Officer shall have taken upon him such Command; provided that the Officer so authorized be not below the Degree of a Field Officer, except in detached Situations beyond Seas where a Field Officer is not in Command, in which Case a Captain may be authorized to convene District or Garrison Courts-martial; and any Person subject to this Act who shall, in any Part of Her Majesty's Dominions or elsewhere, commit any of the Offences for which he may be liable to be tried by Court-martial by virtue of this Act or of the Articles of War, may be tried and punished for the same in any Part of Her Majesty's Dominions or in any other Place whereto he may have come or where he may be after the Commission of the Offence, as if the Offence had been committed where such Trial shall take place.
+[Power to constitute Courts-martial.]
+
+VI. For the Purpose of bringing Offenders against this Act and against the Articles of War to Justice, Her Majesty may from Time to Time, in like Manner as has been heretofore used, grant Commissions under the Royal Sign Manual for the holding of Courts-martial within the United Kingdom of Great Britain and Ireland, and may grant Commissions or Warrants under the said Royal Sign Manual to the Chief Governor or Governors of Ireland, the Commander of the Forces, or the Person or Persons commanding in chief, or commanding for the Time being, any Body of Troops belonging to Her Majesty's Army, as well withiii* the United Kingdom of Great Britain and Ireland and the British Isles, as in any of Her Majesty's Garrisons and Dominions or elsewhere beyond Seas, for convening Courts-martial, and for authorizing any Officer under their respective Commands to convene Courts-martial, as Occasion may require, for the Trial of Offences committed by any of the Forces under the Command of any such last-mentioned Officer, whether the same shall have been committed before or after such Officer shall have taken upon him such Command; provided that the Officer so authorized be not below the Degree of a Field Officer, except in detached Situations beyond Seas where a Field Officer is not in Command, in which Case a Captain may be authorized to convene District or Garrison Courts-martial; and any Person subject to this Act who shall, in any Part of Her Majesty's Dominions or elsewhere, commit any of the Offences for which he may be liable to be tried by Court-martial by virtue of this Act or of the Articles of War, may be tried and punished for the same in any Part of Her Majesty's Dominions or in any other Place whereto he may have come or where he may be after the Commission of the Offence, as if the Offence had been committed where such Trial shall take place.
+
+[As to General Courts-martial convened in St. Helena, &c.]
 
 VII. A General Court-martial convened in British Columbia and Vancouver's Island, Saint Helena, the Settlements on the Western Coast of Africa, Honduras, New Zealand., the Australian Colonies, Hong Kong, or the Settlements on the Coast of China, and Prince of Wales Islandy Singapore, and Malacca, shall consist of not less than Five Commissioned Officers; if convened in Jamaica, the Windward and Leeicard Islands, British Guiana, Newfoundland, Bermuda, the Bahamas, the Cape of Good Hope or other Settlements in Southern Africa, or in any Place out of the Queen's Dominions, excepting the Ionian Islands and the. Places herein-before mentioned, it shall consist of not less than Seven, and if convened in any other Part of the Queen's Dominions, or in the Ionian Islands, it shall consist of not less than Thirteen Commissioned Officers; and every such General Court-martial shall have Power to sentence any Officer or Soldier to suffer Death, Penal Servitude, or any other Punishment which shall accord with the Provisions of this Act.
+
+[District or Garrison Courts-martial.]
 
 VIII. A District or Garrison Court-martial shall consist of not less than Seven Commissioned Officers, except in Bermuda, the Bahamas, the Cape of Good Hope or other Settlements in Southern Africa, Saint Helena, Jamaica, Honduras, Newfoundland, New Zealand, the Australian Colonies, the Windward and Leeward Islands, British Guiana,
 
@@ -396,7 +394,13 @@ VIII. A District or Garrison Court-martial shall consist of not less than Seven 
 
 Hong Kong, and the Settlements on the Coast of China, where it may consist of not less than Five Commissioned Officers, and in British Columbia and Vancouver's Island, and in the Settlements on the Western Coast of Africa, where it may consist of not less than Three Commissioned Officers; and every such District or Garrison Court-martial shall have the same Power as a General Court-martial to sentence any Soldier to such Punishments as shall accord with the Provisions of this Act: Provided always, that no such District Qr Garrison Court-martial shall have Power to try a Commissioned Officer, or to pass any Sentence of Death or Penal Servitude.
 
-IX. A Regimental or Detachment Court-martial shall consist of not less than Five Regimental or Officers, unless it is found to be impracticable to assemble that Number, in which Case Detachment Three shall be sufficient, and shall have Power to sentence any Soldier to Corporal Punish- oarts*martml ment, or to Imprisonment, and to Forfeiture of Pay, in such Manner as shall accord with the Provisions of this Act.
+[Regimental or Detachment Courts-martial.]
+
+IX. A Regimental or Detachment Court-martial shall consist of not less than Five Officers, unless it is found to be impracticable to assemble that Number, in which Case Three shall be sufficient, and shall have Power to sentence any Soldier to Corporal Punishment, or to Imprisonment, and to Forfeiture of Pay, in such Manner as shall accord with the Provisions of this Act.
+
+---
+
+[
 
 X. In Cases of Mutiny and gross Insubordination or other Offences committed on the Courts-martial Line of March, or on board any Transport Ship, Convict Ship, Merchant Vessel, or Troop Ship, not in Commission, the Offender may be tried by a Regimental or Detachment Troopships, Court-martial, and the Sentence may be confirmed and carried into execution on the &c.
 
@@ -618,7 +622,7 @@ XLL In the Case of a Prisoner undergoing Imprisonment under the Sentence of a Co
 
 XLII. The Gaoler or Keeper of any public Prison, Gaol, House of Correction, Lock-up House, or other Place of Confinement in any Part of Her Majesty's Dominions, shall diet and supply every Soldier imprisoned therein under the Sentence of a Court-martial or as a Deserter with Fuel and other Necessaries according to the Regulations of such Place of Confinement, and shall receive on account of every Soldier, during the Period of his Imprisonment, Sixpence per Diem, which the Secretary-at-War shall cause to be issued out of the Subsistence of such Soldier, upon Application in Writing signed by any Justice within whose Jurisdiction such Place of Confinement shall be locally situated, together with a Copy of the Order of Commitment, and which Sum of Sixpence per Diem shall be carried to the Credit of the Fund from which the Expense of such Place of Confinement is defrayed.
 
-XLIIL Every Gaoler or Keeper of any public Prison, Gaol, House of Correction, or other Place of Confinement, to whom any Notice shall have been given, or who shall have 22 Vict. C Reason
+XLIII. Every Gaoler or Keeper of any public Prison, Gaol, House of Correction, or other Place of Confinement, to whom any Notice shall have been given, or who shall have 22 Vict. C Reason
 
 As to the Custody of Prisoners under Military Sentence in Common Gaols.
 
@@ -1584,7 +1588,7 @@ III. This Act shall extend to the Islands of Jersey, Guernsey, Alderney, Sark, a
 
 IV. Nothing in this Act contained shall be construed to extend to exempt any Officer or The ordinary Marine from being proceeded against by the ordinary Course of Law when accused of Course of Law Felony or Misdemeanor, or of any Misdemeanor other than the Misdemeanor of refusing to comply with an Order of Justices for the Payment of Money; and any Commanding Officer who shall neglect or refuse, when due Application shall be made to him for that Purpose, to deliver over to the Civil Magistrate any Officer or Marine, or who shall wilfully obstruct, neglect, or refuse to assist any Peace Officer in apprehending any such Offender, shall, upon Conviction thereof in any of Her Majesty's Courts at Westminster, Dublin, or Edinburgh, be deemed to be thereupon cashiered, and shall be utterly disabled to hold any Civil or Military Office or Employment in Her Majesty's Service; and a Certificate of such Conviction shall be transmitted to the Secretary of the Admiralty.
 
-Y. No Person subject to this Act having been acquitted or convicted of any Crime or No person Offence by the Civil Magistrate or by the Verdict of a Jury, shall be liable to be again tried by Civil tried for the same Crime or Offence by a Court-martial, or to be punished for the same Power to be otherwise than by cashiering in the Case of a Commissioned Officer, or in the Case of a Com^martal Warrant Officer by Reduction to an inferior Class, or to the Rank of a Private Marine by for same Of-Order of the Lord High Admiral, or the Commissioners for executing the Office of Lord fence except by High Admiral, or in the Case of a Non-commissioned Officer, by Reduction to the Ranks, c enng»&c-by Order of the Commandant of the Division to which such Non-commissioned Officer may belong; and whenever any Officer or Marine shall have been tried before a Court of ordinary Criminal Jurisdiction, the Clerk of the Court or other Officer having the Custody of the Records of such Court, or the Deputy of such Clerk, shall, if required by the Officer commanding the Division to which such Officer or Marine belongs, transmit to him a Certificate containing the Substance and Effect only, omitting the formal Part, of the Indictment,
+V. No Person subject to this Act having been acquitted or convicted of any Crime or No person Offence by the Civil Magistrate or by the Verdict of a Jury, shall be liable to be again tried by Civil tried for the same Crime or Offence by a Court-martial, or to be punished for the same Power to be otherwise than by cashiering in the Case of a Commissioned Officer, or in the Case of a Com^martal Warrant Officer by Reduction to an inferior Class, or to the Rank of a Private Marine by for same Of-Order of the Lord High Admiral, or the Commissioners for executing the Office of Lord fence except by High Admiral, or in the Case of a Non-commissioned Officer, by Reduction to the Ranks, c enng»&c-by Order of the Commandant of the Division to which such Non-commissioned Officer may belong; and whenever any Officer or Marine shall have been tried before a Court of ordinary Criminal Jurisdiction, the Clerk of the Court or other Officer having the Custody of the Records of such Court, or the Deputy of such Clerk, shall, if required by the Officer commanding the Division to which such Officer or Marine belongs, transmit to him a Certificate containing the Substance and Effect only, omitting the formal Part, of the Indictment,
 
 Conviction, and Entry of Judgment thereon or Acquittal of such Officer or Marine, and shall be allowed for such Certificate a Fee of Three Shillings.
 
@@ -1721,8 +1725,6 @@ more of the Commissioners for executing the said Office of Lord High Admiral for
 and thereupon such Justice or Baron shall make an Order for the Penal Servitude of such Offender upon the Terms and for the Time which shall be specified in such Notification, and shall do all such other Acts consequent upon such Notification as any such Justice or Baron is authorized to make or do by any Statute or Statutes in force at the Time of making any such Orders in relation to Penal Servitude of Offenders; and such Order, and other Acts to be so made and done as aforesaid, shall be obeyed and executed by such Person in whose Custody such Offender shall at that Time be, and by all other Persons whom it may concern, and shall be as effectual, and have all the same Consequences, as any Order made under the Authority of any Statute with respect to any Offender in such Statute mentioned; and every Sheriff, Gaoler, Keeper, Governor, or Superintendent whom it may concern, and all Constables and other Persons, shall be bound to obey the aforesaid Order and Orders, be assistant in the Execution thereof, and be liable to the same Punishment for Disobedience to or for interrupting the Execution of such Order, as they would be if the same had been made under the Authority of any such Act of Parliament; and every Person so ordered to be kept in Penal Servitude shall be subject respectively to all and every the Penalties and Provisions made by Law and in force concerning Persons under Sentence of Penal Servitude, or receiving Her Majesty's Pardon on Condition of Penal Servitude; and from the Time when such Order of Penal Servitude shall be made every Law and Statute in force touching the Escape of Felons, or their afterwards returning or being at large without Leave, shall apply to such Offender, and to all Persons aiding, abetting, contriving, or assisting in any Escape or intended Escape, or the returning without Leave of any such Offender; and the Judge who shall make any Order of Penal Servitude as aforesaid shall direct the Notification of Her Majesty's Pleasure, and his own Order made thereupon, to be filed and kept of Record in the Office of the Clerk of the Crown of the Court of Queen's Bench; and the said Clerk shall have a Fee of Two Shillings and Sixpence only for filing the same, and shall, on Application, deliver a Certificate in Writing (not taking more than Two Shillings and Sixpence for the same) to such Offender, or to any Person applying in his or Her Majesty's Behalf, showing the Christian and Surname of such Offender, his Offence, the Place where the Court was held before which he was convicted, the Sentence, and the Conditions on which the Order of Penal Servitude was made; which Certificate shall be sufficient Proof of the Conviction and of the Sentence of such Offender, and also of the Terms in which such Order for his Penal Servitude was made, in any Court and in any Proceeding wherein it may be necessary to inquire into the same.
 
 XXVI. Whenever any Sentence of Penal Servitude heretofore or hereafter passed upon any Offender by any Court-martial holden in the East Indies, or in any Part of Her Majesty's Foreign Dominions, or elsewhere beyond the Seas, is to be carried into execution for the Term specified in such Sentence, or for any shorter Term, or when Sentence of Death passed by any such Court-martial has been or shall as aforesaid be commuted to Penal Servitude, the same shall be notified by the Officer commanding Her Majesty's Forces at the Presidency or Station where the Offender may come or be to some Judge of One of the Supreme Courts of Judicature in the East Indies, or the Chief Justice or some other Judge, as the Case may be, in any Part of Her Majesty's Foreign Dominions, who shall make Order for the Penal Servitude or intermediate Custody of such Offender; and upon any such Order being made it shall be duly notified to the Governor of .the Presidency if in the East Indies, or to the Governor of the Colony if in any of Her Majesty's Colonies, or to the Person who shall for the Time being be exercising the Office of Governor of such Presidency or Colony, who on Receipt of such Notification shall cause such Offender to be removed or sent to some other Colony or Place, or to undergo his Sentence within the Presidency or Colony where the Offender was so sentenced or where he may come or be as aforesaid in obedience to the Directions for the Removal and Treatment of Convicts which shall from Time to Time be transmitted from Her Majesty through One of Her Principal Secretaries of State to such Presidency or Colony; and such Offender shall, according to such Directions, undergo the Sentence of Penal Servitude which shall have been passed upon him either in the Presidency or Colony in which he has been so sentenced, or in the Colony or Place to which he has been so removed or sent, and whilst such Sentence shall remain in force shall be liable to be imprisoned and kept to Hard Labour, and otherwise dealt with under such Sentence, in the
-
-same
 
 59
 
@@ -2044,11 +2046,7 @@ LXIX. It shall also be lawful for the Lord High Admiral, and also for the said C
 
 LXX. ' And whereas there is and may be Occasion for the marching and also for the c quartering of the Royal Marine Forces when on shore:' Be it enacted. That during the Continuance of this Act, upon the Order or Orders in Writing in that Behalf under the Hand of the Lord High Admiral, or the Hands of Two or more of the Commissioners for executing the Office of Lord High Admiral, for the Time being, or upon the Order qr Orders in Writing in that Behalf under the Hand of any Colonel Commandant or Commanding Officer of any Division of Royal Marines, it shall be lawful for all Constables and other Persons specified in this Act in Great Britain and Ireland, and they are hereby required, to billet the Officers and Marines, whether marching or otherwise, and all Staff and Field Officers Horses, and all B&t and Baggage Horses belonging to the Royal Marine Forces, when on actual Service, not exceeding for each Officer the Number for which Forage is or shall be allowed by Her Majesty's Regulations, in Victualling Houses and other Houses specified in this Act, taking care in Ireland not to billet less than Two Men in any One House; and they shall be received by the Occupiers of the Houses in which they are so billeted, and be furnished by such Victualler with proper Accommodation in such Houses, and with a separate Bed for each Marine, or if any Victualler shall not have sufficient Accommodation in the House upon which a Marine is billeted, then in some good and sufficient Quarters to be provided by such Victualler in the immediate Neighbourhood, and in Great Britain with Diet and Small Beer, and in Great Britain and Ireland with Stables, Oats, Hay. and Straw for such Horses as aforesaid, paying and allowing for the same the several Rates herein-after provided; and at no Time when Marines are on their March shall any of them be billeted above One Mile from the Place mentioned in the Route, Care being always taken that the Billets be made out for the less distant Houses in which suitable Accommodation can be found before making out Billets for the more distant; and in all Places where Marines shall be billeted in pursuance of this Act, the Officers and their Horses shall be billeted in One and the same House, except in case of Necessity; and the Constables are hereby required to billet all Marines on their March in the Manner required by this Act upon the Occupiers of all Houses within One Mile of the Place mentioned in the Route, and whether they be in the same or a different County in like Manner in every respect as if such Houses were all locally situated within such Place: Provided always, that nothing herein contained shall be construed to extend to authorize any Constable to billet Marines out of the County to which such Constable belongs when the Constable of the adjoining County shall be present and shall undertake to billet the due Proportion of Men in such adjoining County; and no more Billets shall at any Time be ordered than there are effective Marines and Horses present to be billeted; all which Billets, when made out by such Constables, shall be delivered into the Hands of the Commanding Officer present, or to the Non-commissioned Officer on the Spot; and if any Person shall find himself aggrieved by having an undue Proportion of Marines billeted in his House, and shall prefer his Complaint, if against a Constable or other Person not being a Justice, to One or more Justices, and if against a Justice, then to Two or more Justices, within whose Jurisdiction such Marines are billeted, such Justices respectively shall have Power to order such of the Marines to be removed and to be billeted upon other Persons as they shall see Cause; and when any Horses belonging to the Officers of Her Majesty's Royal Marine Forces shall be billeted upon the Occupiers of Houses who shall have no Stables, then, upon a written Requisition of the Officer commanding such Marines, the Constable is hereby required to billet the Horses upon some other Person or Persons having Stables and who are by this Act liable to have Officers and Marines billeted upon them, and any Two or more Justices of the Peace may order a proper Allowance to be paid by the Persons relieved to the Persons receiving such Horses, or to be applied in the furnishing the requisite Accommodation; and the Commanding Officer may exchange any Man or Horse billeted in any Place with
 
-another
-
-75
-
-22° VICTORIAE, c.5.
+22° VICTORIAE, c.5. 75
 
 another Man or Horse billeted in the same Place, for the Convenience or Benefit of the Service, provided the Number of Men and Horses do not exceed the Number at that Time billeted on such Houses respectively; and the Constables are hereby required to billet such Men and Horses so exchanged accordingly; and it shall be lawful for any Justice, at the Request of any Officer or Non-commissioned Officer commanding any Marines requiring Billets, to extend any Route, or to enlarge the District within which Billets shall be required in such Manner as shall appear to be most convenient to Her Majesty's Service: Provided also, that to prevent or punish all Abuses in billeting Marines, it shall be lawful for any Justice, within his Jurisdiction, by Warrant or Order under his Hand, to require any Constable to give him an Account in Writing of the Number of Officers and Marines who shall be quartered by such Constables, together with the Names of the Persons upon whom such Officers and Marines are billeted, stating the Street or Place where such Persons dwell, and the Signs, if any, belonging to the Houses: Provided always, that no Officer shall be compelled or compellable to pay anything for his Lodging where he shall be duly billeted: Provided also, that no Justice being an Officer of Royal Marines shall directly or indirectly be concerned in billeting or appointing Quarters under this Act.
 
@@ -2578,11 +2576,11 @@ I. There shall and may be issued and applied, for or towards making good the Sup
 
 II. It shall be lawful for the said Commissioners of Her Majesty's Treasury from Time The Treasury to Time, by Warrant under their Hands, to cause or direct any Number of Exchequer Bills "qoooooJ. of to be made out at the Receipt of Her Majesty's Exchequer at Westminster for any Sum or Exchequer Sums of Money not exceeding in the whole the Sum of Eleven Millions; and such Ex-'Bills to be chequer Bills shall be made out in the same or like Manner, Form, and Order, and accord- ]^erUpr^ ing to the same or like Rules and Directions, as are directed and prescribed in an Act passed scribed by in the Forty-eighth Year of the Reign of His Majesty King George the Third, Chapter 48 G. 3. c. 1, One, and in anotner Act passed in the Session of Parliament holden in the Fourth and * ts^ud 4 Fifth Years of the Reign of His late Majesty King William the Fourth, Chapter Fifteen, 5 & evict, and in another Act passed in the Session of Parliament holden in the Fifth and Sixth Years c- 66. of the Reign of Her present Majesty, Chapter Sixty-six.
 
-IIL All and every the Clauses, Provisoes, Powers, Privileges, Advantages,-Penalties> Forfeitures, and Disabilities contained in the said recited Acts shall be applied and extended to the Exchequer Bills to be made out in pursuance of this Act, as fully and effectually, to all Intents and Purposes, as if particularly repeated and re-enacted in this Act.
+III. All and every the Clauses, Provisoes, Powers, Privileges, Advantages,-Penalties> Forfeitures, and Disabilities contained in the said recited Acts shall be applied and extended to the Exchequer Bills to be made out in pursuance of this Act, as fully and effectually, to all Intents and Purposes, as if particularly repeated and re-enacted in this Act.
 
 IV. The Exchequer Bills to be made out in pursuance of this Act shall and may bear an Interest not exceeding the Rate of Threepence Halfpenny per Centum per Diem upon or in, respect of the whole of the Moneys respectively contained therein.
 
-Y. It shall and may'be lawful for the Governor and Company of the Bank of England, and they are hereby empowered, to take, accept, and receive the Exchequer Bills authorized to be made out in pursuance of this Act, and to advance or lend to Her Majesty, at the Receipt of the Exchequer at Westminster, upon the Credit of the Sum granted by this Act, out of the Consolidated Fund of the United Kingdom of Great Britain and Ireland, any Sum or Sums of Money not exceeding in the whole the Sum 01 Eleven Millions, anything in an Act passed in the Fifth and Sixth Years of the Reign of King William and Queen Mary, Chapter Twenty, or in any other Act or Acts, to the contrary notwithstanding.
+V. It shall and may'be lawful for the Governor and Company of the Bank of England, and they are hereby empowered, to take, accept, and receive the Exchequer Bills authorized to be made out in pursuance of this Act, and to advance or lend to Her Majesty, at the Receipt of the Exchequer at Westminster, upon the Credit of the Sum granted by this Act, out of the Consolidated Fund of the United Kingdom of Great Britain and Ireland, any Sum or Sums of Money not exceeding in the whole the Sum 01 Eleven Millions, anything in an Act passed in the Fifth and Sixth Years of the Reign of King William and Queen Mary, Chapter Twenty, or in any other Act or Acts, to the contrary notwithstanding.
 
 VI. It shall be lawful for the said Commissioners of Her Majesty's Treasury, and they are hereby authorized and empowered, to cause such Bills as shall be prepared by virtue of this Act to be delivered from Time to Time to the Governor and Company of the Bank of England, in such Proportions as the Public Service may require, as Security for any Advance or Advances which may be made to Her Majesty by the said Governor and Company of the Bank of England under the Authority of this Act
 
@@ -2620,7 +2618,7 @@ An Act to rejteal the Thirty-secttid^ Section of the Act1 " for the more tksy " 
 
 V»lYT:*i 8eebi« of Pa^liamQiit boklcn in tfai Nintlar and Tenth Year* of flei^M*f«ty*, '.Ghripier Ninetyvftrev that* -a«tiL(ParHament sVnild otherwise dii^cfet, theiffi^h BatUiTof *' Westminstershould'bare.'die of all'Process issuing out of ray of tfoe Courts
 
-' holden kinder that Act tbe Jurisdiction of which should indude the City and Liberty of f Wettmijuterovony Parfcthetfeof^and shouid te deenjed tht High Baittfftof subh Gogrtf, ' and the High BxdKff of Soutkumhk ohoidd hirvo the £«cution of all-ProoeoB issuing oat of ' any of the said Courts the Jurisdiction of which should include the Borough of Sottthviiapk ' or any Part thereof, an<l .should be deemed, the High Bailiff of such last-meiUioped ' Courts^ and no , other High Bailiff sh6uld be appointed for such Courts: And wnere^ ' under the Provisions of tjje sriid Aqt a Court vw established, ai\d called the Westminster f County Court of Middlesex, and the High Bailiff, of Westminster Jjad the Execution, of all ' Process which issued jthefceout, and was deemed tjhe Hi^hBailiff thereof, and another ' Court was established, and Called the SoutJiwarkCounty Court of Surrey^ and the Hig^i ' Bailiff of Southwark had the Execution of all Process which issued thereout, and was ' deemed the. Hi A Baityf ^hereof; Atid yrhereas the ^er^g.-for^bpse 1#ie}*aid
+' holden kinder that Act the Jurisdiction of which should indude the City and Liberty of f Wettmijuterovony Parfcthetfeof^and shouid te deenjed tht High Baittfftof subh Gogrtf, ' and the High BxdKff of Soutkumhk ohoidd hirvo the £«cution of all-ProoeoB issuing oat of ' any of the said Courts the Jurisdiction of which should include the Borough of Sottthviiapk ' or any Part thereof, an<l .should be deemed, the High Bailiff of such last-meiUioped ' Courts^ and no , other High Bailiff sh6uld be appointed for such Courts: And wnere^ ' under the Provisions of tjje sriid Aqt a Court vw established, ai\d called the Westminster f County Court of Middlesex, and the High Bailiff, of Westminster Jjad the Execution, of all ' Process which issued jthefceout, and was deemed tjhe Hi^hBailiff thereof, and another ' Court was established, and Called the SoutJiwarkCounty Court of Surrey^ and the Hig^i ' Bailiff of Southwark had the Execution of all Process which issued thereout, and was ' deemed the. Hi A Baityf ^hereof; Atid yrhereas the ^er^g.-for^bpse 1#ie}*aid
 
 ' (lhir{y-sepond^S^tfon was. exacted are dei^, and, it ia expedient .tb^Pw^iota ' made ^y.ParHam^t for ^the, Pf.rfprmapoe, of. the JDuties of the, jOffice tff. .High '.these. Courts'by Person who will be,able ta ajevpte theii? whole Tinie thsrfito}' Bpj # enacted by tjj^ Queen's most Excellent Majesty, by and with the Advice and jCopse^t of the Lords SpirituaJ and Temporal, mid Commons, hi this present Parliamjept assembled^ apd by the Authority of the same, ^ foliojvfs , y , . , - , ,: A,
 
@@ -2776,7 +2774,7 @@ V. All or any Number of the Debentures issued under the Authority of this Act, a
 
 VI. The whole Amount of Principal Moneys to be secured by Bonds or Debentures, or by Bonds and Debentures, to be issued under this Act, shall not exceed Seven Millions, and no Money shall be raised or secured under the Authority of this Act after the said Thirtieth Day of April One thousand eight hundred and sixty, or, if Parliament be then sitting, after the End of the then Session of Parliament, save for or upon the Repayment of Principal Moneys previously secured under this Act, as herein-after provided.
 
-VIL Upon or for the Repayment of the Principal Money secured under the Authority P°wer £ iwfoe of this Act, or any Part of such Money, the said Secretary of State in Council may at any pa^ent of Time borrow or raise by Bonds or Debentures as aforesaid all or any Part of the Amount Principal of Principal Money repaid or to be repaid, and so from Time to Time, as all or any Part of Moneys, any Principal Money for the Time being secured under this Act may require to be repaid; but the Amount to be secured by new Securities shall not in any Case exceed the Principal Money required to be repaid.
+VII. Upon or for the Repayment of the Principal Money secured under the Authority P°wer £ iwfoe of this Act, or any Part of such Money, the said Secretary of State in Council may at any pa^ent of Time borrow or raise by Bonds or Debentures as aforesaid all or any Part of the Amount Principal of Principal Money repaid or to be repaid, and so from Time to Time, as all or any Part of Moneys, any Principal Money for the Time being secured under this Act may require to be repaid; but the Amount to be secured by new Securities shall not in any Case exceed the Principal Money required to be repaid.
 
 vm. ah
 
@@ -3004,7 +3002,7 @@ III. It shall be lawful for the respective Chairman of Quarter Sessions of the s
 
 IV. Every Seneschal, Steward, or Registrar or Marshal of any Manor Court hereby abolished, in which Proceedings have been had according to the Course of the Court within One Year before the First Day of January One thousand eight hundred and fifty-nine, and who shall show that he is legally entitled to such Office, shall be entitled to make a Claim for Compensation to the Commissioners of Her Majesty's Treasury within Six Calendar Months after the passing of this Act; and it shall be lawful for the said Commissioners, in such Manner as they shall think fit, to inquire what was the Nature of the Office, and what was the Tenure thereof, and what were the lawful Fees actually received in respect of which such Compensation should be .allowed, and the Commissioners shall in each Case award such gross or yearly Sum, and for such Time, as they shall think just, to be awarded, upon the Consideration of the special Circumstances of each Case, and all such Compensation shall be paid out of such Moneys as may be provided by Parliament for the Purpose.
 
-Y. * And whereas it is enacted by the Fourteenth and Fifteenth Victoria, Chapter Ninety-two, that it shall be lawftd for any Justice or Justices at Petty Sessions to hear ' and determine certain Disputes concerning any Sums due for Waged, or for Hire of any c Horse, or for Tuition, and to make such Order as they shall see fit for Payment, provided ' the Sum shall not exceed Ten Pounds: And whereas by Seventeenth Section of the said ' Act Justices are authorized to make Awards as to Disputes at Sales in Fairs and Markets ( where the Value does not exceed Five Pounds: And whereas it might be useful and
+V. And whereas it is enacted by the Fourteenth and Fifteenth Victoria, Chapter Ninety-two, that it shall be lawftd for any Justice or Justices at Petty Sessions to hear ' and determine certain Disputes concerning any Sums due for Waged, or for Hire of any c Horse, or for Tuition, and to make such Order as they shall see fit for Payment, provided ' the Sum shall not exceed Ten Pounds: And whereas by Seventeenth Section of the said ' Act Justices are authorized to make Awards as to Disputes at Sales in Fairs and Markets ( where the Value does not exceed Five Pounds: And whereas it might be useful and
 
 beneficial to extend the said Powers, and to authorize any Justice or Justices at Petty c Sessions in like Manner to hear and determine Disputes concerning any Sums of Money ' which shall he due for Small Debts between Party and PartyBe it therefore enacted. That it shall be lawful for the Justice or Justices at Petty Sessions to hear and determine Causes for the Recovery of Debts between Party and Party under the Value of Two Pounds, where the Right to recover such Debts shall have accrued within Twelve Calendar Months before the Day of the Date of the Process herein-after mentioned, and having heard what each Party shall have had to say, and the Evidence adduced by each, shall either make an Order for the Payment of the Sum claimed, or shall dismiss the Complaint, either upon the Merits or without Prejudice, and with or without Costs, not exceeding Five Shillings, in the Form ill Schedule A., and shall direct Execution by the Seizure and Sale of the Defendant's or Plaintiff^ Goods: Provided always, that it shall be lawful for either Party to appeal from such Order or Decision of such Justice or Justices to the Chairman of the Quarter Sessions in the Civil Court at the next General Quarter Sessions held in the same Division and District of the County, the said Sessions being held next immediately after such Decision at Petty Sessions by such Justice or Justices when the Order shall be made by the Justice or Justices in any Petty Sessions Districts, or to the Recorder at his next Sessions when the Order shall be made by the Divisional Justices in the Police District of Dublin Metropolis, or to the Recorder of any Corporate or Borough Town; provided always, that no such Right of Appeal shall exist unless Three clear Days shall elapse between the Time when such Order shall be made and such Appeal can be heard; and if, Three Days do not elapse the Appeal shall be made to and heard at the next succeeding Sessions for the Division and District, which Appeal the said Justice or Justices are hereby required to receive, and stop all Proceedings on such Order at Petty Sessions, the Party appealing, if a Defendant, first lodging with the Clerk at Petty Sessions the Amount ordered to be paid by the said Justice or Justices, or entering into a Recognizance of Appeal in manner prescribed by the Summary Jurisdiction (Ireland) Act, 1851, Section
 
@@ -3166,10 +3164,6 @@ WHEREAS divers Persons who, on account of their Offices, Places, Employments, or
 
 ni and by an Act of the first, Ye^r of* King George the Firsts Statute Two,
 
-__ zl_____1____:___J*________'a-A. _£ xt.. __
-
-, M1
-
 ^ Act oP tSc^htietii ^ear offing Charles %\\c Second, Statute Two; or according to an * Act of the Eighth Yegf of, King Geprge t&q first, Chapter {Six; or according to an Act ' of the Ninth ^u\of Kiyg Gfeorge the Second, Chapter Twenty-six; or according to an Act of thu Eifctyeepth Year of King George the Second, Chapter Twenty; or according to an Act of the Sixth Year of King George the Third, Chapter Fifty-three; or according
 
 Jtear^of King CJiaries the, Second., Statute Tw9> Chapter One; or according to an Act of p-fifth|.Y^ Charles the Second, Chapter Two \ or according to an
@@ -3194,9 +3188,7 @@ c Places of Profit, or Corporate Offices, have, through Ignorance of the Law, Ab
 
 otherwise to qualify themselves as aforesaid, within such Time and in such Manner ns in ^1hhdvb^,Hhd'1safd - Acts respectively is required, whereby they have incurred* or mety be in
 
-danger of incurring, divers Penalties and DisabilitiesFor quieting the Minds of Her Majesty's Subjects, and for preventing any Inconvenience that might otherwise happen by ifcCatis1 Of Such Omissions, be it enacted by the Queen's most Excellent Majesty, by and ^\lH'tlmvAdvice'ahd Consent Of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the samo, os follows:
-
-ff i j x -;»?; 7 \ t **> rI .{. ;; ) o >
+danger of incurring, divers Penalties and DisabilitiesFor quieting the Minds of Her Majesty's Subjects, and for preventing any Inconvenience that might otherwise happen by ifcCatis1 Of Such Omissions, be it enacted by the Queen's most Excellent Majesty, by and ^\lH'tlmv Advice and Consent Of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the samo, os follows:
 
 I. All and every Person or Persons who, at or before the passing of this Act, hath or shall have omitted to take and subscribe the Oaths and Declarations, or otherwise to qualify him, her, or themselves, within such Time and in such Manner as in and by the said Acts or any of them is required, and who, after accepting any such Office, Place, or Employment, or undertaking any Profession or Thing, on account of which such Qualification ought to have been had; and is required, before the' passing of this Act, hath or have taken and subscribed the said Oaths or made the Declarations required by Law, or who, on or beffori* the Twenty-fifth Day of March Oha thousand eight hundred and sixty, or if Parliament bel tbefa ritt4ng before the/Bud of the then Session of ParHatnent, shall take and subscribe the Oaths, Declarations, and Assurance respectively, in such Oases wherein v\ 22 VICT. O by
 
@@ -3212,9 +3204,11 @@ and subscribe c been, by Sickness or other unavoidable Causes, prevented from ta
 
 2 Anne, c. 6. All Persons who have incurred any Penalty or Incapacity in the said recited Act mentioned, by neglecting to qualify themselves according to the said Act, shall be and are hereby indemnified, freed, and discharged from all Incapacities, Disabilities, Penalties, and Forfeitures incurred by reason of such Omission or Neglect as aforesaid; and no Act done by any of them, not yet avoided, shall be questioned or avoided by reason of such Omission or Neglect, but all such Acts shall be and are hereby declared to be as good and effectual as if such Persons respectively had taken and subscribed the said Oaths, and made and repeated and subscribed the said Declaration, at such Time and Place and Manner as in the said Act is mentioned, anything in the said Act to the contrary notwithstanding: Provided always, that such Person or Persons do and shall take and subscribe the said Oaths, and make, repeat, and subscribe the said Declaration, in such Manner and Form and in such Place or Places respectively as are directed and appointed by the said last-recited Act, on or before the Twenty-fifth Day of March One thousand eight hundred and sixty, or if Parliament be then sitting before the End of the then Session of Parliament.
 
-Not to indem- III. Provided always, That this Act, or anything herein contained, shall not extend or nif^n«ewhom con8^rue to exten(l to indemnify any Person against whom final Judgment shall have fi^Tjudgment been given in any Action of Debt, Bill, Plaint, or Information in any of Her Majesty's has been given. Courts of ltecord, for any Penalty incurred by having ncgleGted to qualify himself within the Time limited by Law.
+Not to indem-
 
-Not to exempt IV. Provided also, That nothing contained in this Act shall extend or be construed to without fcti^g extend to exempt any Justice of the Peace within Great Britain from the Penalties to which QuaHfid&tion! he ls subject for acting as such without being possessed of the Qualification required by the Laws now in force. .....
+III. Provided always, That this Act, or anything herein contained, shall not extend or nif^n«ewhom con8^rue to exten(l to indemnify any Person against whom final Judgment shall have fi^Tjudgment been given in any Action of Debt, Bill, Plaint, or Information in any of Her Majesty's has been given. Courts of ltecord, for any Penalty incurred by having ncgleGted to qualify himself within the Time limited by Law.
+
+Not to exempt IV. Provided also, That nothing contained in this Act shall extend or be construed to without fcti^g extend to exempt any Justice of the Peace within Great Britain from the Penalties to which QuaHfid&tion! he ls subject for acting as such without being possessed of the Qualification required by the Laws now in force.
 
 Admissions to V. ' And whereas the Appointment of divers Clerks of the Peace, Town Clerks, and other mybeitemped * Pu^c Officers, and the admission of divers Members and Officers of Cities, Corporations, 7 * and
 
@@ -3246,13 +3240,11 @@ Style of Commissioners. Power to take Fees.
 
 Power to Judges to appoint Commissioners for the Isle of Man and the Chan-nel Islands.
 
-CAP. XVI. . .* .: 'i '
+CAP. XVI.
 
 An Act to enable the Judges to appoint Cpininissionerg within Ten iVIiles of London and io tke dale of Man and the Channel Hands to administer Oaths in Common Law, and to authorize the taking in the Country of Bail inErcon, and Recognizances and Bail on the Revenue Side of the Exchequer;
 
 fl^th 1859.]
-
-i ./**!'. ' * ' * n . .; s.i i ,i *: * .ii ' .* T
 
 WHEREAS Goounissions to administer Oaths in Proceedings in r the .Superior. Courtis i ** of Common Law are granted by the Judges, under the Authority of an Act
 
@@ -3270,9 +3262,7 @@ I. It shall be lawful for the Lord Chief Justice and other the Justices of the C
 
 II. The Persons so appointed or empowered shall be styled " London pommissioners to administer Oaths in Common Law," and they shall be entitled to charge and take a Fee of One Shilling and Sixpence for every Oath administered by them, subject to any Order of the said Courts respectively varying or annulling the same.
 
-IIL It shall also be lawful for the said Lord Chief Justices and Lord Chief Baron and the other Judges and Barons of the said Courts respectively from Time to Time to appoint and empower, in manner aforesaid, any Person or Persons duly admitted as Attorneys in any of the Superior Courts at Westminster, and other fit and proper Persons in the Isle of Man or in the Channel Islands, or any of them, to administer Oaths and take Declarations or Affirmations in the said Courts of Common Law, and such Persons shall be styled " Commissioners to administer Oaths in CommonXaw for {He JSZe of Man," or " for the Channel Islands," (as the Case may be,) and they shall be entitled to charge and take the same Fees as the said London Commissioners.
-
-IV. All
+III. It shall also be lawful for the said Lord Chief Justices and Lord Chief Baron and the other Judges and Barons of the said Courts respectively from Time to Time to appoint and empower, in manner aforesaid, any Person or Persons duly admitted as Attorneys in any of the Superior Courts at Westminster, and other fit and proper Persons in the Isle of Man or in the Channel Islands, or any of them, to administer Oaths and take Declarations or Affirmations in the said Courts of Common Law, and such Persons shall be styled " Commissioners to administer Oaths in CommonXaw for {He JSZe of Man," or " for the Channel Islands," (as the Case may be,) and they shall be entitled to charge and take the same Fees as the said London Commissioners.
 
 22«V*C'FdlUJfi;
 
@@ -3394,8 +3384,6 @@ Commissioners incorporated for the Purposes of this Act
 
 Commissioners of Works to carry this Act into execution.
 
-V^
-
 Land purchased to be vested in Commissioners for the Public Service.
 
 Plan to be deposited in the Office of Works, &c., and be open for Inspection.
@@ -3414,11 +3402,11 @@ Power to Commissioners, their Surveyors, &c., to enter upon Land for surveying o
 
 :22° vmrnmmjc.M.
 
-Parish of Ht Margaret, Westminster, in the County of Middlesex, mentioned ib ihe Schedule to this Act, and to pull down and remove the Buildings thereon when so purchased, sindto appropriate the Sites of the said Buildings and nil the Land mentibned intheSohedule to this Act, whether now used as Streets, Ways, Yards, Pleisure Gvoujnds, vacant Ground, or otherwise, as a Site for the Erection thereon of Offices and Buildings for the (Public Service and the necessary Accesses and Approaches to such Offices and Buildings,-to carry the Purposes of this Act into execution in manner herein mentioned. , , w
+Parish of Ht Margaret, Westminster, in the County of Middlesex, mentioned ib ihe Schedule to this Act, and to pull down and remove the Buildings thereon when so purchased, sindto appropriate the Sites of the said Buildings and nil the Land mentibned intheSohedule to this Act, whether now used as Streets, Ways, Yards, Pleisure Gvoujnds, vacant Ground, or otherwise, as a Site for the Erection thereon of Offices and Buildings for the (Public Service and the necessary Accesses and Approaches to such Offices and Buildings,-to carry the Purposes of this Act into execution in manner herein mentioned.
 
 III. All Land purchased by the Commissioners under the Authority of this* Act shall
 
-be vested in them for the Public Service, find sbalL be subject to the Provisions df itti Act passed in the Session of Parliament holden in the Fifteenth Year of the Jtleign of Her present Majesty, Chapter Twenty-eight, and in all respects as if the same bad be^n acquired under the Provisions of that Act. / m \
+be vested in them for the Public Service, find sbalL be subject to the Provisions df itti Act passed in the Session of Parliament holden in the Fifteenth Year of the Jtleign of Her present Majesty, Chapter Twenty-eight, and in all respects as if the same bad be^n acquired under the Provisions of that Act.
 
 IV. The said Map or Plap describing the Land, or any Part thereof* to be neqhired 'by
 
@@ -3456,7 +3444,7 @@ r; direct
 
 ' XlTLIf the Commissioners shall not within the Space of Three Years from the passing Limitation of of this Act purchase or take the Land, or Parts thereof, which they are hereby empowered Time for com-lit purchase, thenrthe compulsory Power* hereby granted to theta for such Purpose shall chwery Pur"
 
-eeasai ) '»!? 1 '.*; .* 1 * ' ' * \ / " }'' 1 ' 1 1
+eeasai )
 
 XIV. It shall be lawful for all Bodies politic, corporate, or collegiate, ecclesiastical or Bodies Politic, lay, aggregate or sole, and for all Trustees and Feoffees in trust for charitable and other Trustees, and Purposes, and all Executes and Administrators, not only for and on behalf of themselves, eLpowenrito their Successors, Heirs, Executors, and Administrators respectively, but also for and on sell and convey, behalf of their respective Cestuique Trusts, whether Infants, Femes Covert, Idiots, Lunatics,
 
@@ -3554,8 +3542,6 @@ Verd.cta to be recorded.
 
 XXVI. In all Cases in which any Person shall claim any Satisfaction or Compensation Persons hold-? for or in respect of any unexpired Term or Interest which he shall claim to be possessed of ^J1Ddtr or entitled unto in any Land intended to be taken or used under the Authority of this Act, duceThe°same. uiider or by virtue of any Demise or Lease, or Agreement for Demise or Lease or Grant thereof, the Cohuwissioners are hereby authorised to require such Person to produce or show the Demise or Lease, or Agreement for Demise or Lease or Grant, in respect of which such Claim to Satisfaction or Compensation shall be made, or the best Evidence thereof in his Potter; and if such Demise or Lease, or Agreement for Demise or Lease or Grant, or such
 
-best
-
 U8 22* VICTOR*,! 19'.
 
 best Evidence thereof as aforesaid, shall not be produced or shown within Twenty jonc Daj*^ after Demand made by the Commissioners, dr any Person by them authorized, the Person-claiming such Satisfaction or Compensation shall be considered and treated as holding only: from Year to Year.
@@ -3612,7 +3598,7 @@ Court of Chancery may order Expenses of Purchases to be.paidrby » the Comniis-s
 
 such ^Ibejurid to^Qu^ian or, Jo XJpe afljJ Benafitiof
 
-such Person so entilled. * ,r s > *» * ,: . »
+such Person so entilled.
 
 XXXIII. In case the Body or Person to whom any Sum of Money shall b^agreed fo bq paid, or shall be awarded by any Jury, for Ihq Purchase of any Land^or puy Rapts,
 
@@ -3620,23 +3606,19 @@ XXXIII. In case the Body or Person to whom any Sum of Money shall b^agreed fo bq
 
 XXXIV. Provided always, where any Question shall arise touching the Title of any Body or Person to any Money to be paid into the Bank of England as aforesaid, in pursuance of this Act, for the Purchase of any Land, or Part thereof, or <tf any Estate, Right, Title, Charge, Or Interest into or tipOn any Land to be purchased or taken in pursuance of thi* Act, or to any Bank Annuities to be purchased with any such Money, or to the Dividends of any such Bank Annnities, the Body or Person who shall have been in possession of such Land, Parts, Shares, Estates, Interests, or Charges at the Time of suefy PtorOhase, and every Body or Person claiming under such Body or Person, or Under the Possession of such Body or Person, shall be taken to have been lawfully entitled to such Land, Parts, Shares, Estates, Interests, or Charges, according to such Possession, until the contrary shall be shown to the Satisfaction of the said Court; and the Dividends of the Bank Annuities to be purchased with such Money, and also the Capital of such Bank Annuities, shall be paid accordingly, unless it shall be1 made to appear to the bald Court that such Possession was a wrongful Possession, and that some other Person was lawfully entitled to such Land, or Part thereof, or to some Estate or Interest therein or Charge thereof.
 
-XXXV. , Provided also, That where by reason of apy Disability or Incapacity of the Body or Person entitled to any Lawk or Part thereof, or Share, Estate, or Interest therein or Charge thereon, to be purchased or taken under the Authority of this Act, the Purchase Money for the same shall be required to be paid into the Bank of England as iaSorefsaid; to be Applied in the Purchase 6f other Land to be settled to the Hke Uses iti pursuance of Act,fit shall be lawful for the said Court to order the Exp^tses of the Purchases to be mode in pursuance of this Act, or so much of such Expenses ns the said CoinJt shall deem reasonable, to be paid by the Commissioners, who shall pay such Surli or Sums of Money out of the; Monies appropriated and applicable to the Purposes of this Act, as the said Cohrt shill direct: Provided always, that the Costs of One Application only forR^-investhient in' Lai)d shall be allowed, unless it shall appear to the saidCourt that it ia( for the Benefit of tha.Paii'ties interested in the said Monies that the same should be invested in the Purchase
+XXXV. Provided also, That where by reason of apy Disability or Incapacity of the Body or Person entitled to any Lawk or Part thereof, or Share, Estate, or Interest therein or Charge thereon, to be purchased or taken under the Authority of this Act, the Purchase Money for the same shall be required to be paid into the Bank of England as iaSorefsaid; to be Applied in the Purchase 6f other Land to be settled to the Hke Uses iti pursuance of Act,fit shall be lawful for the said Court to order the Exp^tses of the Purchases to be mode in pursuance of this Act, or so much of such Expenses ns the said CoinJt shall deem reasonable, to be paid by the Commissioners, who shall pay such Surli or Sums of Money out of the; Monies appropriated and applicable to the Purposes of this Act, as the said Cohrt shill direct: Provided always, that the Costs of One Application only forR^-investhient in' Lai)d shall be allowed, unless it shall appear to the saidCourt that it ia( for the Benefit of tha.Paii'ties interested in the said Monies that the same should be invested in the Purchase
 
-' - ** v ' .: - ' ' . - - . of'
+of'
 
 22< VI<yrG*RIi£Jiaifc
 
-o^LJaiMs'iii Sumsaod at differettlTimes, fe whfeh Gtte it shril be lawful for the
+o^LJaiMs'iii Sumsaod at differettl Times, fe whfeh Gtte it shril be lawful for the
 
 Court, if it think fit, to order the Costs'of any such Investment to be paid by the
 
-; ,:r ,v ^ -
+XXXVI. WhereUhe 'Mbtiey aWai^died <6 be paid for Any Land which shall be taken for th^Rtirposfea of this Act shall bi paid iiitd the Biifk of England in manner herein-bcfore dii^tedy itf1 (fonse^ttCncfe of, 4 gOod Title not having been made' to such Land to the SAi^foetlbn* Of Comtmssriobers, of aity1 Person authorized by them, by reason of the same L^nd^ihg1 subject, together \tith other Land not required for the Purposes of this Act, to a1 Kent able to Witte: Body or Person unable Or utiwllling to release therefrom the Land }then and in every or any such Case the Land for the Value of which the>^Money to 'be paid into the Bank, together with the Money (if any) to he retained f6^ Coit^ andfChargesl trader the Authority of this Act, shall be assessed to be paid, shall be fO^bvbr ^charged frotti such Rent hnd all Claims and Demattds in respect thereof; and the Mbftey^1be' paid* Jrito the Btinfc of Eitgfand shall bfe laid out and invested under'the Bfteetfoh Of the Court ofOHaiteery, tb^be signified by an Order made upon a Petition to be pfcrferffctj ih a'StirimUty Why by the Body or Personwho would have been entitled to the liehts;krid'Prbfit6 of the Land for the Value 6f Htbich sUch Money respectively shall have bbeu'prtiy aforesaid, iri the Purchase Of Other Land which shall be conveyed and settled, sfiWeot, toother W&h such other Land, to such Rent, to the like Uses, Trusts, Intents, and Ffifyo sdS; rfrtd 5n <he same Manner, as the Land so to bfc taken as aforesaid stood settled or Or: 'Wch of them as at the Time of makihg such Conveyance and Settlement shkll^ gating undetermined Or capable of taking effect; and in the meantime and until sfiihr'Purcbhse shall bo made the 'said' Money shall, by Order of the said Court upon thereto, be invested by the Accountant General of the said Court, in his Natofo;'id the Pnriftase of Thr^ Pounds per Centum Consolidated or Three Pounds p&fi G^hitri Reduced Bank Annuities, and in the meantime and until the Bank Annnities shall be (irdered'by the eaid Court to be sold for the Purposed aforesaid, the Dividends and annual Produce of the said Bank Annuities shall from Time to Time be paid by Order o^($iq,$awl Court to the Body or Person who would for the Time being have been entitled Rents and ProfitSv of, the said Land hereby directed to be purchased, in case such iafse- and Settlement were madeand the Land so; to be purchased and settled shall be 5&tQ tjhe Rent to, which the same shall be declared as aforesaid in the Conveyance and S^tt^efloi^nt th,ere9f tq be snlyect, in the same Manner to all Intents and Purposes as tpe Rand tnken or to be ts&en fqr the Purposes of this Act as aforesaid were subject thereto; an$. Rody or Rei^son to whom such Rent sliall be payable shall have such and the same Rpwqrs and RqnstUqp for enforcing, the Payment thereof or of any Part thereof, out of or the;,Ran4. to -.be.qoipprieed in such Conveyance and Settlement, and declared to D£{ ^sqiyect tlxerct05 as be, would have been entitled to if such Rent had originally been re^i^ed:9ut, of or cWged upon the same instead of the Land to be taken for the Purposes of .^ja^qt, fnd in the sfuno Marnier to ajl Intents ap/d Purposes as such Rent was reserved c^tj OiTor charged upon such laat-raentioued Land, together with the other Land subject tJ^fefdrrftpd in, -tbp meantime and until such Purchase shall be made it shall be lawful for the saicl Cpur^ it shad tbipk proper, upon Application thereto, to order any Part of the Dividends and annual Produce of the Bank Annuities in which the said last-mentioned Money shill be Invested to be paid frohi Tlttie to Time to the Body or Person for the Time being entitled to the mi$ Rent, in discharge thereof or Part thereof, as the Case may be.
 
-^X^XVI/'WhereUhe 'Mbtiey aWai^died <6 be paid for Any Land which shall be taken for th^Rtirposfea of this Act shall bi paid iiitd the Biifk of England in manner herein-bcfore dii^tedy itf1 (fonse^ttCncfe of, 4 gOod Title not having been made' to such Land to the SAi^foetlbn* Of Comtmssriobers, of aity1 Person authorized by them, by reason of the same L^nd^ihg1 subject, together \tith other Land not required for the Purposes of this Act, to a1 Kent able to Witte: Body or Person unable Or utiwllling to release therefrom the Land }then and in every or any such Case the Land for the Value of which the>^Money to 'be paid into the Bank, together with the Money (if any) to he retained f6^ Coit^ andfChargesl trader the Authority of this Act, shall be assessed to be paid, shall be fO^bvbr ^charged frotti such Rent hnd all Claims and Demattds in respect thereof; and the Mbftey^1be' paid* Jrito the Btinfc of Eitgfand shall bfe laid out and invested under'the Bfteetfoh Of the Court ofOHaiteery, tb^be signified by an Order made upon a Petition to be pfcrferffctj ih a'StirimUty Why by the Body or Personwho would have been entitled to the liehts;krid'Prbfit6 of the Land for the Value 6f Htbich sUch Money respectively shall have bbeu'prtiy aforesaid, iri the Purchase Of Other Land which shall be conveyed and settled, sfiWeot, toother W&h such other Land, to such Rent, to the like Uses, Trusts, Intents, and Ffifyo sdS; rfrtd 5n <he same Manner, as the Land so to bfc taken as aforesaid stood settled or Or: 'Wch of them as at the Time of makihg such Conveyance and Settlement shkll^ gating undetermined Or capable of taking effect; and in the meantime and until sfiihr'Purcbhse shall bo made the 'said' Money shall, by Order of the said Court upon thereto, be invested by the Accountant General of the said Court, in his Natofo;'id the Pnriftase of Thr^ Pounds per Centum Consolidated or Three Pounds p&fi G^hitri Reduced Bank Annuities, and in the meantime and until the Bank Annnities shall be (irdered'by the eaid Court to be sold for the Purposed aforesaid, the Dividends and annual Produce of the said Bank Annuities shall from Time to Time be paid by Order o^($iq,$awl Court to the Body or Person who would for the Time being have been entitled Rents and ProfitSv of, the said Land hereby directed to be purchased, in case such iafse- and Settlement were madeand the Land so; to be purchased and settled shall be 5&tQ tjhe Rent to, which the same shall be declared as aforesaid in the Conveyance and S^tt^efloi^nt th,ere9f tq be snlyect, in the same Manner to all Intents and Purposes as tpe Rand tnken or to be ts&en fqr the Purposes of this Act as aforesaid were subject thereto; an$. Rody or Rei^son to whom such Rent sliall be payable shall have such and the same Rpwqrs and RqnstUqp for enforcing, the Payment thereof or of any Part thereof, out of or the;,Ran4. to -.be.qoipprieed in such Conveyance and Settlement, and declared to D£{ ^sqiyect tlxerct05 as be, would have been entitled to if such Rent had originally been re^i^ed:9ut, of or cWged upon the same instead of the Land to be taken for the Purposes of .^ja^qt, fnd in the sfuno Marnier to ajl Intents ap/d Purposes as such Rent was reserved c^tj OiTor charged upon such laat-raentioued Land, together with the other Land subject tJ^fefdrrftpd in, -tbp meantime and until such Purchase shall be made it shall be lawful for the saicl Cpur^ it shad tbipk proper, upon Application thereto, to order any Part of the Dividends and annual Produce of the Bank Annuities in which the said last-mentioned Money shill be Invested to be paid frohi Tlttie to Time to the Body or Person for the Time being entitled to the mi$ Rent, in discharge thereof or Part thereof, as the Case may be.
-
-Orftlyxu'1 -si; >)»? - * ' " ' * *
-
-ojXXXVIL Whem any: Lknd purchased or wanted or intended to be purchased by the Cofriraistioners shall be subject, solely or jointly with other Land not intended or wanted to beMpurchaoed^ to or with any Rent Service, Rentoharge, or Chief Rent, or other Rent, Payment, or Incumbrance* it shall be lawful for the Commissioners to agree for the Release of*he Lahfl so purchased or wanted, or intended to be purchased, from such Rent, Payment, or InOumbranbe, and also( where necessary or convenient) for an Apportionment of such Itent; Payment, Or Incnra^brance for such gross Sum as shall be agreed upon between the Gommbaidneifs and the Party whbj under the Provisions of this* Act, shall agree to sell or apportion the same, and which Agreement may be entered into by any Person and Corporation by this Act authorized and empowered to sell or convey Land; and the Monies 22 Vict. Q to
+XXXVII. Whem any: Lknd purchased or wanted or intended to be purchased by the Cofriraistioners shall be subject, solely or jointly with other Land not intended or wanted to beMpurchaoed^ to or with any Rent Service, Rentoharge, or Chief Rent, or other Rent, Payment, or Incumbrance* it shall be lawful for the Commissioners to agree for the Release of*he Lahfl so purchased or wanted, or intended to be purchased, from such Rent, Payment, or InOumbranbe, and also( where necessary or convenient) for an Apportionment of such Itent; Payment, Or Incnra^brance for such gross Sum as shall be agreed upon between the Gommbaidneifs and the Party whbj under the Provisions of this* Act, shall agree to sell or apportion the same, and which Agreement may be entered into by any Person and Corporation by this Act authorized and empowered to sell or convey Land; and the Monies 22 Vict. Q to
 
 121
 
@@ -3762,8 +3744,6 @@ in such Action the Plaintiff shall be nonsuited, and Bhall pay full Costs, to be
 
 the same Manner as any Defendant may recover Costs in any other Case by Law, or in
 
-case
-
 Limitation of Actions.
 
 For protecting the Hights of the Metropolitan Board of Works.
@@ -3780,7 +3760,7 @@ Deeds to be enrolled in the Court of Exchequer.
 
 case no Tender shall have been made, it shall be lawful for the Defendant in any such Action, by Leave of the Court wherein any such Action shall depend, at atiy Time bCfofo Issue joined, to pay into Court such Sum of Money as he shall think fit, whereupon such Proceedings, Order, and Judgment shall be had, mode, and given in and by such Court air in other Actions where the Defendant is allowed to pay Money into Court,
 
-LTIL Provided always. That no Action or Suit shall be brought or prosecuted against any Person or Body for anything done iu pursuarvce of this Act after Three Calendar Months next after the Fact committed, or in case there shall f be a Cpntiftuation of Damages then after Three Months next after the doing or committing such Damage shall have ceased, and not afterwards, and every such Action or Suit shall be laid and brought in the Liberty or County where the Matter in dispute shall arise, and not elsewhere and the Defendant, in every such Action or Suit shall and may at his Election plead specially or plead the General Issue, and give this Act and the special Matter fn Evidence at any Trial to be had thereupon, and that the same was done in pursuance and by the Authority of this Act, and if it shall appear to have been so done, or if any such Action or Suit shall have been brought before Twenty-one Days Notice shall have been given, or after- a sufficient Satisfaction made or tendered as aforesaid, or shall be brought in any other County or Place than as aforesaid, then and in every such Case the Jury or Juries shall find for the Defendant.
+LIII. Provided always. That no Action or Suit shall be brought or prosecuted against any Person or Body for anything done iu pursuarvce of this Act after Three Calendar Months next after the Fact committed, or in case there shall f be a Cpntiftuation of Damages then after Three Months next after the doing or committing such Damage shall have ceased, and not afterwards, and every such Action or Suit shall be laid and brought in the Liberty or County where the Matter in dispute shall arise, and not elsewhere and the Defendant, in every such Action or Suit shall and may at his Election plead specially or plead the General Issue, and give this Act and the special Matter fn Evidence at any Trial to be had thereupon, and that the same was done in pursuance and by the Authority of this Act, and if it shall appear to have been so done, or if any such Action or Suit shall have been brought before Twenty-one Days Notice shall have been given, or after- a sufficient Satisfaction made or tendered as aforesaid, or shall be brought in any other County or Place than as aforesaid, then and in every such Case the Jury or Juries shall find for the Defendant.
 
 LIV. Provided always, That nothing in this Act contained shall prejudice, diminish, alter, or take away any of the Rights, Powers, or Authorities vested in the Metropolitan Board of Works in relation to Sewers.
 
@@ -3790,7 +3770,7 @@ LVI. All Monies payable to the Commissioners under the Provisions of this Act fr
 
 LVII. All Contracts made by the First Commissioner of Her Majesty's Works and Public Buildings in the Execution of any of the Powers by this Act given to the Commissioners hereby incorporated as aforesaid shall be valid, and shall be binding on the Commissioners as if the same had been under their Corporate Seal. / j
 
-LVIIL Every Conveyance, Assignment, or other Deed or Instrument whereby any, of the Land by this Act authorized to be purchased shall be conveyed or assigned to the Commissioners
+LVIII. Every Conveyance, Assignment, or other Deed or Instrument whereby any, of the Land by this Act authorized to be purchased shall be conveyed or assigned to the Commissioners
 
 22° VICTORIAE, c. 19. 129
 
@@ -3892,9 +3872,7 @@ Dwelling House, Shop, and Yard.
 
 Upper Crown Street.
 
-- " - v -
-
-> Daniel Pudduck. i
+Daniel Pudduck. i
 
 Major General Edward Pery ' Buckley.
 
@@ -4554,19 +4532,19 @@ Snnvor Siime of Money mt exceeding Jfa the ^boTe/tho JSumof Teneight hundred thi
 
 YI. It shall be lawful for the said Commissioners of Her Majesty's Treasury, and they are hereby authorized and empowered, to cause such Bills as shall be prepared by virtue of this Act to be delivered from Time to(Thne to fthe Governor and Company of the Bank of England, in such Proportions as the rcfblic SeiVice ' may require, as Security for any Advance> or Advarioes which may be made to Her Majesty by the said Governor and Company of the Bank of England, under the Authority of this Act.
 
-YIL It shall be lawful for the said Commissioners of Her Majesty's Treasury to issue and apply from Time to Time all such Sums of Money as shall be raised by Exchequer Bills to be made out in pursuance of this Act to such Services as shidl then have bceri voted by the ^(M^oi^'b^ the Uiitted KiiigGtem of Great Britain and Ireland in this: present Session of
+VII. It shall be lawful for the said Commissioners of Her Majesty's Treasury to issue and apply from Time to Time all such Sums of Money as shall be raised by Exchequer Bills to be made out in pursuance of this Act to such Services as shidl then have bceri voted by the ^(M^oi^'b^ the Uiitted KiiigGtem of Great Britain and Ireland in this: present Session of
 
 . of'^tns of Mqnev to be contained in all such Exchequer Bills
 
 ^o^l^ej,Jfladc|fortj^ by, virtue.of t^ts Act, tegetn^r with the Interest that may become due
 
-A------ -1--" ytue|Samc hei$)y madoehargeable and charged upon the growing
+ytue|Samc hei$)y madoehargeable and charged upon the growing
 
 Jpp^oKilated ^M^d of, the United Kingdom of Great Britain and Ireland at not later tlian the next succeeding Quarter to that in which the said Exchequer Bills have been issued; and it shall be lawful for the said Commissioners of Her Majesty's Xltne^being; and they are heeebynuthlcnriaed, from Time to Time, by War-Hands; todireefe thev ConipirolleriGenerakt)f die Receipt of the Exchequer hfc-'W^stttoifesrter; \A s*u^t Manner as they ehall <hink necessary, to grant a Credit on the thejBank dfEagtond uhto :»i*ehRetain ur Persons aa shall be named MM nayfSuhi'<6* Sume of Money ncA exceeding in the whole a Sum 44 dftfchand1 pay bff the Principal »Sum or ISuhei 6f Mofoeyi contained in such thfctf otttBtatuliWgi and which may halve been made out and issued by virtue of this Act, together with all such Interest as may be due thereupon.
 
 theMoines in Id the Exchequer of the United Kingdom of Great Britain
 
-W4dllrcl$ttdf b}J in Ait1 passed in* this Session of Parlihment, intituled u An Act to apply thc^ccm of One minion fw^ hundred tWenty-ttf d thousand three hundred and eighty-PodndeEihht Shilllngsaiid Niwepenee out of the Consolidated Fund, to the Service m Of * th4* Year f eliding^ thi Yhirty-fhtft Day of March One thousand eight hundred and fifty-^ tom4# andr also the SWm Of ^Eleven MiUmm: granted by one other Act passed in this Session of Parliament, Intituled " An Act to apply the Sum of Eleven Millions out of the " Consolidated Fund to the Service of the Year One thousand eight hundred and fifty-^f4irt4^ alto the Sum df Thirteen nrilimn two hundred ind seventy-seven thousand fitter hundrediPWnda, granted by one otherf Act passed in this Session of Parliament, inti-tttted1*? Anf Act for miritig the Subi of Thirteen million two hundred and seventy-seven u thousand four hundred Pounds by Exchequer Bills for the Service of the Year One * jhp^apd ^igbt Jp^dred aptf fifty-nineand also the Sum of Ten million eight hundred WHttW tj^y s$na sevy, hundred, and eight Pounds by this Act granted/amounting in the the Sum ofrTwenty-fhree million thirty-six thousand and ninety-one Pounds Eight Shillings tpidr}^e^ncCsJnr(Mhney, and to the Sum of Thirteen million two hundred and seventy-seven thousand mur hundred Pounds, In Exchequer Bills, shall be further are hereby appropriated, and shall be issued awl applied for or towards and Puiprekrnereafter e^rereel
+W4dllrcl$ttdf b}J in Ait1 passed in* this Session of Parlihment, intituled u An Act to apply the^ccm of One minion fw^ hundred tWenty-ttf d thousand three hundred and eighty-PodndeEihht Shilllngsaiid Niwepenee out of the Consolidated Fund, to the Service m Of * th4* Year f eliding^ thi Yhirty-fhtft Day of March One thousand eight hundred and fifty-^ tom4# andr also the SWm Of ^Eleven MiUmm: granted by one other Act passed in this Session of Parliament, Intituled " An Act to apply the Sum of Eleven Millions out of the " Consolidated Fund to the Service of the Year One thousand eight hundred and fifty-^f4irt4^ alto the Sum df Thirteen nrilimn two hundred ind seventy-seven thousand fitter hundrediPWnda, granted by one otherf Act passed in this Session of Parliament, inti-tttted1*? Anf Act for miritig the Subi of Thirteen million two hundred and seventy-seven u thousand four hundred Pounds by Exchequer Bills for the Service of the Year One * jhp^apd ^igbt Jp^dred aptf fifty-nineand also the Sum of Ten million eight hundred WHttW tj^y s$na sevy, hundred, and eight Pounds by this Act granted/amounting in the the Sum ofrTwenty-fhree million thirty-six thousand and ninety-one Pounds Eight Shillings tpidr}^e^ncCsJnr(Mhney, and to the Sum of Thirteen million two hundred and seventy-seven thousand mur hundred Pounds, In Exchequer Bills, shall be further are hereby appropriated, and shall be issued awl applied for or towards and Puiprekrnereafter e^rereel
 
 X. c And whereas in order to provide for the Exigerifeies of the Navy Services it has been *1 necessary to incur an Expenditure for Xavy Services beyond the Grants for the Years 22 Vict. S ended
 
@@ -5202,7 +5180,7 @@ and subscribing a Decoration to. such Purport and Effect as shall hei xgqiiired'
 
 Age of Sixteen Years at the Time when the Regiment, Troop, or Company in which he served was reduced; that no Person shqtylii^e. of receive any Part of the same who did not do actual Service in some Regiment, Battalion, Troop, or Company in Her Majesty's Service* ^cepi in^ we <36ttiiirission was received under Circumstances which
 
-according to the Regulations of the Army, require the Officer to serve; ^bat n6»i Pqr^pq shall,have or receive any Part of the same who has resigned his Commission, and hasi haji no Commission since; that no Part of the same shall be allowed to any Pe&ott by"j v^ue of any Warranter Appointment, except to such Person as would have bee#.Qthe$WiflekI eu^i^ed thereto as a reduced Officer; that no Person shall have receive any Pact of 'tbe^
+according to the Regulations of the Army, require the Officer to serve; ^bat n6»i Pqr^pq shall,have or receive any Part of the same who has resigned his Commission, and hasi haji no Commission since; that no Part of the same shall be allowed to any Pe&ott by"j v^ue of any Warranter Appointment, except to such Person as would have bee#.Qthe$WiflekI eu^i^ed thereto as a reduced Officer; that no Person shall have receive any Pact of 'the^
 
 A for any Time during which^he shall hold any other Military Place or J&npJoymeiritoft funder Her Majesty or in Her .Majesty's Colonies or Possessions beyompthe Seas*'! jit on the Staff or in Garrison, and that in such excepted Cases, ox erf lib I
 
@@ -5256,13 +5234,13 @@ Declaration shall, without making and subscribing any other Declaration, be suff
 
 : XXlI. And as to the Sum of Ninety thousand Pounds by this Act appropriated for Widows, &c. defraying the Charge of Pensions to be paid to the Widows of Officers of Her Majesty's Land Forces, and for defraying the Charge of Allowances on the Compassionate List as required De-nfotesaid, it is hereby enacted and declared, That no Widow of an Officer of the Land Forces, claration. and no Person claiming an Allowance on the Compassionate List, or of Allowances as of Her Maje^tjr 8 Royal Bounty, shall have or receive any Part of the same without making ahd subscribing a Declaration to such Puiport and Effect as shall be required in that Behalf by Her Majesty's Warrant directing the Issue of such Pensions and Allowances so to be Received.
 
-XXIIL Any1 such Declaration shall and may be made and subscribed before any One or Declarations more idf Her Majesty's Justices of the Peace, Notary Public, or other Officer now by. Law authorized to administer or receive such Declaration, or before any of the Persons appointed 5 & $ W. 4. to examine Vouchers in the Office of the Paymaster General, in the Manner, and under the c. 62. Pains, Penal tics, and Forfeitures, specified in an Act passed in the Fifth and Sixth Years of His late Majesty for the Abolition of unnecessary Oaths.
+XXIII. Any such Declaration shall and may be made and subscribed before any One or Declarations more idf Her Majesty's Justices of the Peace, Notary Public, or other Officer now by. Law authorized to administer or receive such Declaration, or before any of the Persons appointed 5 & $ W. 4. to examine Vouchers in the Office of the Paymaster General, in the Manner, and under the c. 62. Pains, Penal tics, and Forfeitures, specified in an Act passed in the Fifth and Sixth Years of His late Majesty for the Abolition of unnecessary Oaths.
 
 CAP. XXIV.
 
-An Act to render valid certain Marriages in the Church of Saint James Baldersby iu the County of York. [19th April 1859.J
+An Act to render valid certain Marriages in the Church of Saint James Baldersby iu* the County of York. [19th April 1859.J
 
-4 TIT HE RE AS the Church called Saint James Baldersby in the Parish of Topcliffe in c * * the County and Diocese of York was erected in or before the Year One thousand c eight hundred and fifty-seven, and was duly consecrated in that Year for the Performance *! of Divine Service therein: And whereas divers Marriages have been solemnized in the 1 said Church under the Opinion that according to the Terms of the Sentence of Consecra-6 tion of the said Church, or otherwise, Marriages might be lawfully solemnized therein, and Entries of the said Marriages so solemnized have been from Time to Time made in £ the Register Books kept at the said Church, in compliance with the Provisions concerning A Registry of Marriages: And whereas it is expedient, under the Circumstances aforesaid, to confirm the Marriages so solemnizedBe it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS the Church called Saint James Baldersby in the Parish of Topcliffe in the County and Diocese of York was erected in or before the Year One thousand c eight hundred and fifty-seven, and was duly consecrated in that Year for the Performance *! of Divine Service therein: And whereas divers Marriages have been solemnized in the 1 said Church under the Opinion that according to the Terms of the Sentence of Consecra-6 tion of the said Church, or otherwise, Marriages might be lawfully solemnized therein, and Entries of the said Marriages so solemnized have been from Time to Time made in £ the Register Books kept at the said Church, in compliance with the Provisions concerning A Registry of Marriages: And whereas it is expedient, under the Circumstances aforesaid, to confirm the Marriages so solemnizedBe it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 I. All Marriages heretofore solemnized in the said Church, and the Publication of Banns in such Church previous to any such Marriage, shall be and be deemed to have been as good, valid, and effectual in the Law to all Intents and Purposes whatsoever as if such Marriages had been solemnized and such Publication of Banns had taken place in the Parish Church of Topcliffe.
 
@@ -5514,7 +5492,7 @@ ___ tee.
 
 **-T(J ,
 
--b-VII,- It {shall bft-.tfcwfolnfor'^ C6ra«tjs»u)Btsr8 of iihe Tr>ea$t»ry td gvaittt to toyBcnjol* retiSe^ipP>teeaofvedififein^thc Publio Stsimeiio xtoilseqneBDe>ofl the Ajidlition of * hiaCMSoe^ drier, the Pu»pd*A of facilit&tif^; i Itnjirorvememfe in iW'OtgtaimtibQ; of-. th» DepaJrtrpJeBt itt>. wkteh ,; he beV^g*, igreater 'fifficienoy and;r£*indray ixmi be ;effectedt euch^pedwl
+-b-VII,- It {shall bft-.tfcwfolnfor'^ C6ra«tjs»u)Btsr8 of iihe Tr>ea$t»ry td gvaittt to toyBcnjol* retiSe^ipP>teeaofvedififein^the Publio Stsimeiio xtoilseqneBDe>ofl the Ajidlition of * hiaCMSoe^ drier, the Pu»pd*A of facilit&tif^; i Itnjirorvememfe in iW'OtgtaimtibQ; of-. th» DepaJrtrpJeBt itt>. wkteh ,; he beV^g*, igreater 'fifficienoy and;r£*indray ixmi be ;effectedt euch^pedwl
 
 fthnt^lvAJlH'VaneA' by mtyi-ttf. Compensation asr otiia full! <i«on»iidjjniti«)rv offldte Oircuidstancea q£Giito^yjBtietnActfthfc BddCogDCfnfdbntfesrB ten be a, reMonlU«ie»dji}stCwapen^atio*fee the OftoT/t' if 'the iCsBfeewdtioo iabalh eseedd thd lAipottnttfiw.hlcheuchi hiorsowi
 
@@ -5528,7 +5506,7 @@ J .'.*** ' \;ir. I * !/. 1 -II Jill
 
 auction of a Cerhneate; (sifjned py the liea^ Pmcer pfMtpe Pepartii\ent, or by Tavo J^lea^ Officers, if there be more tliah Oneythat he hais^ Berveil with Diligence and Fidelity to the S^ta^tiqnorsuohllfead, Officer, on Qfeqeretf; svffl iinAV^;y;,t:asp in) which s>w \m AH)0wanw,is,grafe#d,ftftep;th« tRelMwJl,Qf ailcb,(t)ertjlioate}i thP J^liawfe grwptiqg,^ sb^l jMiieqlMUAhft\0vpmdAiOQ,wbiqb:fH;A4ii>^H)«f fegninMr . M I !* iA
 
-any retfeon; any 'superannuawon, Ajornpensation, vsratn«ty, or otner Allowance' 'or,gr«tt<ai ikrilotoilt thin thc A^iodrit 'whiclv might be Attarded to hini'-under the feregttiiig PVovfekmp,1 when special Services rendered by such Person, and requiring special Reward, shall i*pf>edr
+any retfeon; any 'superannuawon, Ajornpensation, vsratn«ty, or otner Allowance' 'or,gr«tt<ai ikrilotoilt thin the A^iodrit 'whiclv might be Attarded to hini'-under the feregttiiig PVovfekmp,1 when special Services rendered by such Person, and requiring special Reward, shall i*pf>edr
 
 any such Allowance of less Amount than otherwise would have been awarded to Inin where hip ^qfeuM.ft(9i;s^m94t, ,in s»iA&tf fe^ theiPrqblio^eryipe jappeftCT tff Jthein fe justiify^ch
 
@@ -5866,7 +5844,7 @@ mentibned Act; and haye lamc^ ahdj di^cluifgbd Itwrtierts. df/.tha petncipll of 
 
 home*.. / *-i if. / «:; );*;-.! vrrjto k> .'ECI v.'i« :! :-'.n
 
-And whereas it may be desirable and jtatpodiant; rfiii^dhe ^ftid Lbeal Bodrd lto.i«b#aeUd»*e; the.twp debts.now remaining due to the said Provident Life Office and Globe Insurance Compktiy; at/d in case' either if the said Com jiilhYes shall advtthOT the SPm of money nereoy authorized to be raised under the powers of the " Local Government Act, 1858," to consolidate such new loan with thc^flnhfliating dobto owing to—the said Provident Life Office and Globe Insurance Company, or either of them.
+And whereas it may be desirable and jtatpodiant; rfiii^dhe ^ftid Lbeal Bodrd lto.i«b#aeUd»*e; the.twp debts.now remaining due to the said Provident Life Office and Globe Insurance Compktiy; at/d in case' either if the said Com jiilhYes shall advtthOT the SPm of money nereoy authorized to be raised under the powers of the " Local Government Act, 1858," to consolidate such new loan with the^flnhfliating dobto owing to—the said Provident Life Office and Globe Insurance Company, or either of them.
 
 And
 
@@ -6136,7 +6114,7 @@ Provided nevertheless, that Notice of every such Petition, and of the Time when 
 
 II. The senior Judge, or, in case of his Absence from the Kingdom, the next Judge in the Commission of Assize for the Summer Circuit next after any such Order in Council shall have been made, shall appoint a Barrister for the Purpose of determining the Boundaries of such Wards, and apportioning the Number of Councillors of the Borough among such Wards as hereini-after mentioned.
 
-(3IL The Provisions of Sections Thirty-nine, Forty, and Forty-two, and so much of Section Forty-three as remains unrepealed, of the Act of the Fifth and Sixth Years of the Reign of King William the Fourth, Chapter Seventy-six, shall extend to any such Division of a Borough into Wards, or to any such Alteration of the Number and Boundaries of the Wards into which any Borough is or may be from Time to Time divided, and the same Sections, and also the Provisions of the Tenth Section of the Act of the Seventh Year of the Reign of His late Majesty King William the Fourth and First of Her Majesty Queen Victoria, Chapter Seventy-eight, and of the Tenth Section of the Act of the Sixteenth and Seventeenth Years of the Reign of Her Majesty Queen Victoria, Chapter Seventy-nine, shall apply to every Election after such Division or Alteration; and the Barrister so to be appointed as aforesaid shall have all the Powers* Rights, and Privileges mentioned in Sections Thirty-nine, Forty, and Forty-two of the said Act of the Fifth and Sixth Years of the Reign of His kte Majesty King William the Fourth, Chapter Seventy-six; and the Costs and Expenses thereby occasioned shall be paid and discharged, and such Barrister shall be remunerated at the Rate of Five Guineas for every Day he shall be so employed, over and above his travelling and other Expenses, out of the Borough Fund.
+III. The Provisions of Sections Thirty-nine, Forty, and Forty-two, and so much of Section Forty-three as remains unrepealed, of the Act of the Fifth and Sixth Years of the Reign of King William the Fourth, Chapter Seventy-six, shall extend to any such Division of a Borough into Wards, or to any such Alteration of the Number and Boundaries of the Wards into which any Borough is or may be from Time to Time divided, and the same Sections, and also the Provisions of the Tenth Section of the Act of the Seventh Year of the Reign of His late Majesty King William the Fourth and First of Her Majesty Queen Victoria, Chapter Seventy-eight, and of the Tenth Section of the Act of the Sixteenth and Seventeenth Years of the Reign of Her Majesty Queen Victoria, Chapter Seventy-nine, shall apply to every Election after such Division or Alteration; and the Barrister so to be appointed as aforesaid shall have all the Powers* Rights, and Privileges mentioned in Sections Thirty-nine, Forty, and Forty-two of the said Act of the Fifth and Sixth Years of the Reign of His kte Majesty King William the Fourth, Chapter Seventy-six; and the Costs and Expenses thereby occasioned shall be paid and discharged, and such Barrister shall be remunerated at the Rate of Five Guineas for every Day he shall be so employed, over and above his travelling and other Expenses, out of the Borough Fund.
 
 IV. After the Declaration of the First November Election of Councillors after such Division or Alteration, all the Councillors for the Borough so divided, or for the Wards so altered, as the Case may be, shall go out of Office, and their whole Powers and Duties shall cease; provided nevertheless, that any of the Persons so going out of Office shall be eligible to be re-elected; and in the First Year after such Election of Councillors for the Borough so divided, or for the Wards so altered, as the Case may be, those who shall go out of Office shall be the Councillors who were elected by the smallest Number of Votes at such Election, and in the next Year those who shall go out of Office shall be the Councillors who were elected by the next smallest Number of Votes at such Election, the Majority of the whole Council always determining, where the Votes for any such Persons shall have been equal, or when there was no Poll, who shall be the Persons so to go out of Office.
 
