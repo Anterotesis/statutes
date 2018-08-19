@@ -242,19 +242,23 @@ vii. An Act to confirm certain Provisional Orders made by the Education Departme
 
 viii. An Act to confirm a Provisional Order made by the Education Department under "The Elementary Education Act, 1870," to enable the School Board for Brighton to put in force "The Lands Clauses Consolidation Act, 1845," and the Acts amending the same,
 
----
-
 ix. An Act for confirming a Provisional Order made under the "Public Health (Scotland) Act, 1867," relating to the parish of Beith in the county of Ayr.
 
-1875. Local Acts. ix
+x. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Districts of Astley Abbotts, the Borough of Barnstaple, the District of Bicester Market End, the Special Drainage District of Childs Hill, the Districts of Chiswick and Lepton, the Boroughs of Saint Alban and Sheffield, and the District of Slaithwaite.
 
-X. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Districts of Astley Abbotts, the Borough of Barnstaple, the District of Bicester Market End, the Special Drainage District of Childs Hill, the Districts of Chiswick and Lepton, the Boroughs of Saint Alban and Sheffield, and the District of Slaithwaite.
+xi. An Act for confirming certain Provisional Orders made by the Board of Trade under The General Pier and Harbour Act, 1861, relating to Bournemouth, Camlough, Clacton-on-Sea, Folkestone, Hythe (Southampton), and Withernsea.
 
-Xi. An Act for confirming certain Provisional Orders made by the Board of Trade under The General Pier and Harbour Act, 1861, relating to Bournemouth, Camlough, Clacton-on-Sea, Folkestone, Hythe (Southampton), and Withernsea.
+xii. An Act for confirming a Provisional Order made under the "Public Health (Scotland) Act, 1867" relating to the Barony of Fraserburgh in the county of Aberdeen.
 
-xii. An Act for confirming a Provisional Order made under the "Public Health (Scotland) Act, 1867" relating to the Barony of Fraserburgh in the county of Aberdeen, xxxiv. An Act for making provision for facilitating the Manoeuvres of Troops to be assembled during the present Summer. %
+xxxiv. An Act for making provision for facilitating the Manoeuvres of Troops to be assembled during the present Summer
 
-lxxiii. An Act for confirming a Provisional Order made under "The Public Health (Scotland) Act, 1867," relating to the Parish of Cambuslang, in the county of Lanark, lxxiv. An Act to extend the provisions of the Act of the third and fourth years of Her Majesty, Chapter One hundred and thirteen, relating to Minor Canonries, so as to authorise certain arrangements with reference to the Minor Canonries in the Cathedral Church of Saint Paul in London. lXXV. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Districts of Blay-don, Cleator Moor, Fairfield, Goole, and Keighley, and to the Borough of Lancaster. lXXVi An Act to confirm certain Provisional Orders of the Local Government Board relating to the Districts of Barmouth and Chiswick, the Borough of Harwich, the Districts of Hey wood (two), Keighley/Nor thwich, and Saint Neots, and the Borough of Tiverton, crvi An Act for confirming a Provisional Order made by the Board of Trade under the General Pier and Harbour Act, 1861, relating to Carlingford Lough.
+lxxiii. An Act for confirming a Provisional Order made under "The Public Health (Scotland) Act, 1867," relating to the Parish of Cambuslang, in the county of Lanark.
+
+lxxiv. An Act to extend the provisions of the Act of the third and fourth years of Her Majesty, Chapter One hundred and thirteen, relating to Minor Canonries, so as to authorise certain arrangements with reference to the Minor Canonries in the Cathedral Church of Saint Paul in London.
+
+lxxv. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Districts of Blaydon, Cleator Moor, Fairfield, Goole, and Keighley, and to the Borough of Lancaster.
+---
+lXXVi An Act to confirm certain Provisional Orders of the Local Government Board relating to the Districts of Barmouth and Chiswick, the Borough of Harwich, the Districts of Hey wood (two), Keighley/Nor thwich, and Saint Neots, and the Borough of Tiverton, crvi An Act for confirming a Provisional Order made by the Board of Trade under the General Pier and Harbour Act, 1861, relating to Carlingford Lough.
 
 CXViL An Act for confirming certain Provisional Orders made by the Board of Trade under the General Pier and Harbour Act, 1861, relating to Brixham, Carrickfergus, Macduff, and Rosehearty.
 
@@ -1208,8 +1212,6 @@ Her Majesty's Indian forces, or shall open or keep any house, place of rendezvou
 
 8L Any person who shall in any part of Her Majesty's Penalty for in-dominions, or by any means whatsoever, directly or indirectly, ^ desert?1**6" procure any soldier to desert, or attempt to procure or persuade any soldier to desert, and any person who, knowing that any soldier is about to desert, shall aid or assist him in deserting, or, knowing any soldier to be a deserter, shall conceal such deserter, or aid or assist such deserter in concealing himself, or aid or assist in his rescue, shall be deemed guilty of a misdemeanor, and shall, on conviction thereof before any two justices acting for the county, district, city, burgh, or
 
-E 2
-
 52
 
 Ch. 7.
@@ -1276,7 +1278,7 @@ Her Majesty, or to the person or persons administering the government of any suc
 
 Ch. 7.
 
-Muti/ny.
+Mutiny.
 
 38 Vict.
 
@@ -1397,8 +1399,6 @@ of the camp, garrison, cantonment, or military post, then any public money or an
 10L Any officer or soldier, or other person subject to this As to trial Act, who shall be serving in the territories of any foreign "V1
 
 state in India or in any country in India under the protection Tt^? servm& of Her Majesty, or at any place in Her Majesty's dominions in India (other than Prince of Wales Island, Singapore, or Malacca), at a distance of upwards of one hundred and twenty miles from the presidencies of Fort William, Fort Saint George, and Bombay respectively, and who shall be accused of having committed any offence which, if committed in England would be punishable by the criminal law there, may, if the same be also punishable under the Indian penal code for the time being, be tried by a general court-martial to be appointed by
-
-F 2
 
 64
 
@@ -2882,7 +2882,7 @@ An Act to repeal section eight of the Building Societies Act, 1874, and make oth
 
 [22d April 1875.]
 
-WH KKEAS by the Building Societies Act, 1874, the Act of the session of the sixth and seventh years of the reign of His late Majesty King William the Fourth, chapter thirty-two,intituled "An Act for the regulation of benefit building societies," was repealed, subject as in the recited Act mentioned, and by section eight of the said Building Societies Act, 1874, it was enacted as follows r " Every society, the rules of which have been certified under in the said repealed Act, shall be deemed to be a society under * this Act, and may obtain a certificate of incorporation under u this Act, and thereupon its rules shall, so far as the same " are not contrary to any express provisions of this Act, con-" tinue in force until altered or rescinded as herein-after " mentioned
+WHEREAS by the Building Societies Act, 1874, the Act of the session of the sixth and seventh years of the reign of His late Majesty King William the Fourth, chapter thirty-two,intituled "An Act for the regulation of benefit building societies," was repealed, subject as in the recited Act mentioned, and by section eight of the said Building Societies Act, 1874, it was enacted as follows r " Every society, the rules of which have been certified under in the said repealed Act, shall be deemed to be a society under * this Act, and may obtain a certificate of incorporation under u this Act, and thereupon its rules shall, so far as the same " are not contrary to any express provisions of this Act, continue in force until altered or rescinded as herein-after " mentioned
 
 And whereas the words in the said section, whereby existing societies not having a certificate of incorporation are deemed to be societies under the Building Societies Act, 1874, were inserted through inadvertence:
 
@@ -3008,7 +3008,7 @@ M 2
 
 Short title.
 
-Repeal of certain parts of Peace Preser vatian( Ireland) Act, 1870.
+Repeal of certain parts of Peace Preservation (Ireland) Act, 1870.
 
 Ch. 13,14. Bank Holidays Act (1871) Extension, &c. 38 Vict.
 
@@ -6010,9 +6010,7 @@ A double tape in the warp.
 
 Blue or red cotton threads in each wick or wicks of red cotton.
 
-The name of Her Majesty, her predecessors, her heirs or successors, or of any public department, or any branch thereof, or the broad arrow, or a crown, or Her Majesty's arms, whether such broad arrow, crown, or arms be alone or be in combination with any such name as aforesaid, or with any letters denoting any such
-
-name.
+The name of Her Majesty, her predecessors, her heirs or successors, or of any public department, or any branch thereof, or the broad arrow, or a crown, or Her Majesty's arms, whether such broad arrow, crown, or arms be alone or be in combination with any such name as aforesaid, or with any letters denoting any such name.
 
 SECOND SCHEDULE.
 
@@ -17528,7 +17526,7 @@ c. 87. in part. An Act for promoting the voluntary Establishment "I in Boroughs 
 
 c. 88. in part. An Act to remove Doubts as to the Legality of\ . w.. certain Assignments of Ecclesiastical Patronage -Jm*) * ** Section Two.
 
-c. 89. An Act to continue certain Acts for regulating Turnpike Roads in Ireland until the Thirty-first Day of July One thousand eignt hundred and forty-seven, and to the End of the then Session of Parliament.
+c. 89. An Act to continue certain Acts for regulating Turnpike Roads in Ireland until the Thirty-first Day of July One thousand eight hundred and forty-seven, and to the End of the then Session of Parliament.
 
 c. 90. in part. An Act to prevent the Use of Stills by unlicensed! . ^ .. niima1w Persons - - - - - - J,n part; namely,- Section Four from "and if " to "respect,".
 
@@ -18808,7 +18806,7 @@ c. 87. in part. An Act for the Relief of the Suitors of the High \. . Court of C
 
 c. 4. An Act to amend an Act for guaranteeing Interest on such Loans, not exceeding Five hundred thousand Pounds, as may be raised by the British Colonies on the Continent of South America, in the West Indies, and the Mauritius, for certain Purposes. Repealed as to all Her Majesty's Dominions.
 
-c. 6. An Act to apply the Sum of Two Millions to the Service of the Year One thousand eignt hundred and fifty-three.
+c. 6. An Act to apply the Sum of Two Millions to the Service of the Year One thousand eight hundred and fifty-three.
 
 c. 9. An Act for punishing Mutiny and Desertion, and for the better Payment of of the Army and their Quarters.
 
@@ -24512,7 +24510,7 @@ examine the affidavit or document produced, and if the same be regular and conta
 
 6. Any judgment of nonsuit, unless the Court or a Judge otherwise directs, shall have the same effect as a judgment upon the merits for the defendant; but in any case of mistake, surprise, or accident, any judgment of nonsuit may be set aside on such terms, as to payment of costs and otherwise, as to the Court or a Judge shall seem just.
 
-ORDER XL1I.
+ORDER XLII.
 
 Execution.
 
