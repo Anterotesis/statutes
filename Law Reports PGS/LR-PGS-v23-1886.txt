@@ -173,44 +173,38 @@ OF
 SCHEDULES (A.) and (B.) to which this Act refers.
 
 SCHEDULE (A.)
----
-£ s. d.
 
-Grant out of the Consolidated Fund - - - 20,089,689 0 q
+Grant out of the Consolidated Fund - £20,089,689 0s 0d
 
-SCHEDULE (B.)—Appropriation of Grants.
+SCHEDULE (B.) — Appropriation of Grants.
 
 1886-87.
 
-Part 1. Navy -  - - -
-
-99 2. Army - - - £
-
-99 3. Civil Services, Class I. To complete - 26,931
-
-99 4. Ditto, Class II. To complete - 1,038,358
-
-99 5. Ditto, Class in. To complete - 837,244
-
-99 6. Ditto, Class IY. To complete - 2,063,782
-
-99 7. Ditto, Class Y. To complete - 211,464
-
-n 8. Ditto, Class YI. To complete - 627,000
-
-99 9. Ditto, Class YII. To complete - 30.919
-
-Total Civil Services -,, 10. Revenue departments, &c.
-
-£ 8. d.
-
-To complete 3,936,400 0 0 To complete 5,493,900 0 0
-
-To complete 4,835,698 0 0 To complete 5,823,691 0 0
-
-20,089,689 0 0
-
 £ s. d.
+
+Part 1. Navy - To complete 3,936,400 0 0 
+
+Part 2. Army - To complete 5,493,900 0 0
+
+£
+
+Part 3. Civil Services, Class I. To complete - 26,931
+
+Part 4. Ditto, Class II. To complete - 1,038,358
+
+Part 5. Ditto, Class III. To complete - 837,244
+
+Part 6. Ditto, Class IV. To complete - 2,063,782
+
+Part 7. Ditto, Class V. To complete - 211,464
+
+Part 8. Ditto, Class VI. To complete - 627,000
+
+Part 9. Ditto, Class VII. To complete - 30.919
+
+Total Civil Services - To complete 4,835,698 0 0 
+
+Part 10. Revenue departments, &c. - To complete 5,823,691 0 0
 
 20,089,689 0 0
 
@@ -218,81 +212,53 @@ SCHEDULE (A.)
 
 Grant out of the Consolidated Fund.
 
-For the service of the year ending 31st March 1887:—
+For the service of the year ending 31st March 1887:— £ s. d.
 
-Under this Act - - -
+Under this Act - - - 20,089,689 0 0
 
-SCHEDULE (B.)—Part 1.
+SCHEDULE (B.)— Part 1.
 
-NAYY.
+NAVY.
 
 Schedule of Sums granted to defray the charges of the Navy Services herein particularly mentioned, which will come in course of payment during the year ending on the 31st day of March 1887; viz.:—
 
-{
-
-No.
-
-7. For the expense of the victualling yards at home and abroad
-
-8. For the expense of the medical establishments at home and
-
-abroad - -
-
-9. For the expense of the Marine Divisions ... 10. Sect. 1. For naval stores for building, repairing, and
-
-outfitting the fleet and coast guard ... Sect. 2. For steam machinery, and Bhips built by contract, &c. --------
-
-12. For medicines, medical stores, &c.
-
-13. For martial law, &c. .....
-
-14. For the expense of various miscellaneous services
-
-Total Navy Services - £
-
 Sums not exceeding
 
-To complete -
+No.	£
 
-To complete -To complete -
+7. For the expense of the victualling yards at home and abroad	To complete - 69.700
 
-£
+8. For the expense of the medical establishments at home and abroad	To complete - 66,000
 
-69.700
+9. For the expense of the Marine Divisions	To complete - 20.700
 
-66,000
+10. Sect. 1. For naval stores for building, repairing, and outfitting the fleet and coast guard	To complete - 1,205,000
 
-20.700
+Sect. 2. For steam machinery, and ships built by contract, &c.	To complete - 2,370,300
 
-To complete - 1,205,000
+12. For medicines, medical stores, &c.	To complete - 61,600
 
-To complete - 2,370,300 To complete - 61,600
+13. For martial law, &c.	To complete - 8,400
 
-To complete - 8,400
+14. For the expense of various miscellaneous services	To complete - 134,700
 
-To complete - 134,700
+Total Navy Services	3,936,400
 
-3,936,400
-
-4
-
-Ch. 1.
-
-Appropriation Act, 1886, Session 2.
-
-50 VICT.
+4 Ch. 1. Appropriation Act, 1886, Session 2. 50 VICT.
 
 SCHEDULE (B.)—Part 2.
 
-ABMY.
+ARMY.
 
 Schedule of Sums granted to defray the charges for the Army Services herein particularly mentioned, which will come in course of payment during the year ending on the 31st day of March 1887; viz.:—
 
-No.
+Sums not exceeding
 
-2.
+No.	£
+---
+2. For divine service
 
-3.
+3. For administration of military law
 
 4.
 
@@ -316,7 +282,9 @@ No.
 
 15.
 
-16. 17.
+16.
+
+17.
 
 18.
 
@@ -332,11 +300,7 @@ No.
 
 24.
 
-25.
-
-For divine service ------
-
-For administration of military law -
+25. For retired allowances, &c. to officers of the militia, yeomanry, and volunteer forces
 
 For medical establishments and services ... For the pay and allowances of the militia ... For the yeomanry cavalry pay and allowances For the volunteer corps pay and allowances ... For the pay and allowances of a number of army reserve first class, and of the army reserve second class -For commissariat, transport and ordnance store establish* ments, wages, &c. -For clothing establishments, services, and supplies -For the supply, manufacture, and repair of warlike and other stores, for Land and Sea service, including establishments of manufacturing departments ... For superintending establishment of, and expenditure for, engineer works, buildings, and repairs at home and abroad For establishments for military education ... For miscellaneous effective services -
 
@@ -349,8 +313,6 @@ For pensions and gratuities to officers for wounds -For Chelsea and Kilmainham h
 For out-pensions for the maintenance of lunatics for whom pensions are not drawn, and for gratuities awarded in lieu of pensions, exclusive of charges on India
 
 For superannuation, compensation, and compassionate allowances, and gratuities ..... 
-
-For retired allowances, &c. to officers of the militia, yeomanry, and volunteer forces ....
 
 Sums not exceeding
 
@@ -608,17 +570,11 @@ No.
 
 Ireland -------
 
-40. For salaries and expenses of the Public Record Office and of
+40. For salaries and expenses of the Public Record Office and of the Keeper of the State Papers in Ireland - 
 
-the Keeper of the State Papers in Ireland -
+41. For salaries and expenses of the department of the Registrar General of Births, <fcc., and for expenses of the collection of agricultural and other statistics in Ireland
 
-41. For salaries and expenses of the department of the Registrar
-
-General of Births, <fcc., and for expenses of the collection of agricultural and other statistics in Ireland
-
-42. For salaries and expenses of the general valuation and
-
-boundary survey of Ireland -
+42. For salaries and expenses of the general valuation and boundary survey of Ireland -
 
 Sums not exceeding
 
@@ -650,39 +606,23 @@ No.
 
 18a. For the expenses of the Scotch Crofters' Commission
 
-21. For the expense of criminal prosecutions and other law
+21. For the expense of criminal prosecutions and other law charges in Ireland, including certain allowances under the Act 15 & 16 Vict. c. 83.
 
-charges in Ireland, including certain allowances under the Act 15 & 16 Vict. c. 83.
+22. For such of the salaries and expenses of the Supreme Court of Judicature in Ireland as are not charged on the Consolidated Fund ------
 
-22. For such of the salaries and expenses of the Supreme Court
+25. For salaries and expenses of the Office for the Registration of Deeds in Ireland ------
 
-of Judicature in Ireland as are not charged on the Consolidated Fund ------
+26. For salaries and expenses in the Office for the Registration of Judgments in Ireland -
 
-25. For salaries and expenses of the Office for the Registration
+27. For the salaries and expenses of the office of the Irish Land Commission -------
 
-of Deeds in Ireland ------
+28. For the salaries, allowances, and expenses of various county court officers, and of magistrates and revising barristers in Ireland (including a supplementary sum of 8,7631.)
 
-26. For salaries and expenses in the Office for the Registration of
-
-Judgments in Ireland -
-
-27. For the salaries and expenses of the office of the Irish Land
-
-Commission -------
-
-28. For the salaries, allowances, and expenses of various county
-
-court officers, and of magistrates and revising barristers in Ireland (including a supplementary sum of 8,7631.)
-
-29. For salaries and expenses of the Commissioners of Police, of
-
-the police courts and of the metropolitan police establishment of Dublin ------
+29. For salaries and expenses of the Commissioners of Police, of the police courts and of the metropolitan police establishment of Dublin ------
 
 30. For the expenses of the Constabulary Force in Ireland
 
-31. For the expense of the General Prisons Board in Ireland,
-
-and of the prisons under their control; and of the registration of habitual criminals - -
+31. For the expense of the General Prisons Board in Ireland, and of the prisons under their control; and of the registration of habitual criminals - -
 
 £
 
@@ -756,7 +696,35 @@ L7.
 
 Sums not exceeding
 
-For public education in England and Wales, including the expenses of the Education Office in London For salaries and expenses of the Department of Science and Art, and of the establishments connected therewith For salaries and expenses of the British Museum, including the amount required for the Natural History Museum -For salaries and expenses of the National Gallery -For salaries and expenses of the National Portrait Gallery (including a supplementary sum of 630Z.) -For grants in aid of the expenditure of certain learned societies in Great Britain and Ireland -For salaries and expenses of the University of London In aid of the expenses of University Colleges, Wales For preparing an account of the scientific results of the expedition of Her Majesty's ship “ Challenger” in 1873, 1874, 1875, and 1876, to investigate the physical and biological conditions of the great ocean basins, and of arranging the collections made during the expedition For public education in Scotland .... For grants to Scottish Universities -For the annuity to the Board of Trustees of manufactures in Scotland, in discharge of equivalents under the Treaty of Union, to be applied in maintenance of the National Gallery, School of Art and Museum of Antiquities, Scotland, and for the exhibition of the Torrie Collection of Works of Art, and for other purposes .... For public education under the Commissioners of National Education in Ireland ..... For the salaries and expenses of the National School Teachers' Superannuation Office, Dublin For the salary and expenses of the Office of the Commissioners of Education in Ireland appointed for the regulation of endowed schools -For salaries and expenses of the National Gallery of Ireland, and for the purchase of pictures ... In aid of the expenses of the Queen's Colleges in Ireland -In aid of the expenses of the Royal Irish Academy -In aid of the expenses of fitting up the Laboratory and Examination Halls of the Royal University of Ireland -
+For public education in England and Wales, including the expenses of the Education Office in London For salaries and expenses of the Department of Science and Art, and of the establishments connected therewith For salaries and expenses of the British Museum, including the amount required for the Natural History Museum -
+
+For salaries and expenses of the National Gallery -
+
+For salaries and expenses of the National Portrait Gallery (including a supplementary sum of 630Z.) -
+
+For grants in aid of the expenditure of certain learned societies in Great Britain and Ireland -
+
+For salaries and expenses of the University of London In aid of the expenses of University Colleges, Wales 
+
+For preparing an account of the scientific results of the expedition of Her Majesty's ship “ Challenger” in 1873, 1874, 1875, and 1876, to investigate the physical and biological conditions of the great ocean basins, and of arranging the collections made during the expedition 
+
+For public education in Scotland .... 
+
+For grants to Scottish Universities -For the annuity to the Board of Trustees of manufactures in Scotland, in discharge of equivalents under the Treaty of Union, to be applied in maintenance of the National Gallery, School of Art and Museum of Antiquities, Scotland, and for the exhibition of the Torrie Collection of Works of Art, and for other purposes .... 
+
+For public education under the Commissioners of National Education in Ireland ..... 
+
+For the salaries and expenses of the National School Teachers' Superannuation Office, Dublin 
+
+For the salary and expenses of the Office of the Commissioners of Education in Ireland appointed for the regulation of endowed schools -
+
+For salaries and expenses of the National Gallery of Ireland, and for the purchase of pictures ... 
+
+In aid of the expenses of the Queen's Colleges in Ireland -
+
+In aid of the expenses of the Royal Irish Academy -
+
+In aid of the expenses of fitting up the Laboratory and Examination Halls of the Royal University of Ireland -
 
 To complete - £ 1,322,989
 
@@ -818,21 +786,15 @@ Ch. 1
 
 No.
 
-3. For the expenses of various services (other than Consular)
+3. For the expenses of various services (other than Consular) in connection with the suppression of the slave trade, and the expenses of the Liberated African Department -
 
-in connection with the suppression of the slave trade, and the expenses of the Liberated African Department -
-
-4. For salaries and expenses of the three representatives of
-
-Her Majesty's Government on the Council of Administration of the Suez Canal Company -
+4. For salaries and expenses of the three representatives of Her Majesty's Government on the Council of Administration of the Suez Canal Company -
 
 5. In aid of colonial local revenue, and for the salaries and
 
 allowances of governors, &c., and for other charges connected with the colonies, including expenses incurred under the Pacific Islanders Protection Act, 1875
 
-6. For certain chargfes connected with the Orange River Ter-
-
-ritory, the Transvaal, Zululand, Bechuanaland, the island of St. Helena, and the High Commissioner for South Africa -------
+6. For certain chargfes connected with the Orange River Territory, the Transvaal, Zululand, Bechuanaland, the island of St. Helena, and the High Commissioner for South Africa -------
 
 7. For the subsidy to Telegraph Companies and for the salary
 
@@ -844,7 +806,7 @@ Sums not exceeding
 
 £
 
-To complete • 4,160
+To complete - 4,160
 
 To complete - 2,005
 
@@ -918,9 +880,7 @@ No.
 
 2. For salaries and expenses of the Inland Revenue Department
 
-3. For salaries and expenses of the Post Office services, the
-
-expenses of Post Office savings banks, and Government annuities and insurances, and the collection of the Post Office revenue ------
+3. For salaries and expenses of the Post Office services, the expenses of Post Office savings banks, and Government annuities and insurances, and the collection of the Post Office revenue ------
 
 4. For the Post Office packet service -
 
@@ -942,7 +902,9 @@ Total Revenue Departments
 
 CHAPTER 2.
 
-An Act to repeal the enactments authorising the issue out of the Consolidated Fund of money for Secret Service within the United Kingdom. [25th September 1886.]
+An Act to repeal the enactments authorising the issue out of the Consolidated Fund of money for Secret Service within the United Kingdom.
+
+[25th September 1886.]
 
 WHEREAS the Act first named in the schedule to this Act prohibits the issue from the Civil List revenues for the purposes of Secret Service within the kingdom of any sum exceeding ten thousand pounds in any one year:
 
@@ -950,27 +912,29 @@ And whereas the Act secondly mentioned in the schedule to this Act authorises th
 
 And whereas it is expedient to repeal the provision for the issue of the said sum:
 
-1886.
+1886. Secret Service Money (Repeal) Act, 1886. Ch. 2, 3. 11
 
-11
+Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-Secret Service Money (Repeal) Act, 1886. Ch. 2, 3.
+[Short title.]
 
-Be it therefore enacted by the Queen's most Excellent Majesty, by * and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+1. This Act may he cited as the Secret Service Money (Repeal) Act, 1886.
 
-1. This Act may he cited as the Secret Service Money (Repeal) Short title. Act, 1886.
+[Repeal of parts of 22 Geo. 3. c. 82. and 1 & 2 Vict.c. 2.]
 
-2. The Acts set forth in the schedule to this Act are hereby Repeal of parts repealed to the extent in the third column of that schedule mentioned, of 22 Geo. 3. without prejudice to anything heretofore done in pursuance thereof. i'&22 Vict.
-
-c. 2.
+2. The Acts set forth in the schedule to this Act are hereby repealed to the extent in the third column of that schedule mentioned, without prejudice to anything heretofore done in pursuance thereof.
 
 SCHEDULE. Acts Repealed.
 
-Session and Chapter. Title. Extent of Repeal.
+## Table begins
 
-22 Geo. 3. c. 82. - An Act, the title of which "begins with the word!« “An Act for enabling bis Majesty” and ends with the words “ the revenues of the Civil List.” In Section twenty-four the words “ which in “ the whole shall “ exceed the sum ** of ten thousand “ pounds in any one “ year.”
+Session and Chapter.	Title.	Extent of Repeal.
 
-1 &2 Vict. c. 2. - An Act for the support of Her Majesty's Household and of the honour and dignity of the Crown of the United Kingdom of Great Britain and Ireland. Section fifteen.
+22 Geo. 3. c. 82	An Act, the title of which begins with the words “An Act for enabling his Majesty” and ends with the words “the revenues of the Civil List.”	In Section twenty-four the words “which in the whole shall exceed the sum of ten thousand pounds in any one year.”
+
+1 & 2 Vict. c. 2.	An Act for the support of Her Majesty's Household and of the honour and dignity of the Crown of the United Kingdom of Great Britain and Ireland.	Section fifteen.
+
+## Table ends
 
 CHAPTER 3.
 
@@ -982,21 +946,21 @@ WHERE AS the delegates of the States, parties to the convention of the fourteent
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. This Act shall be construed as one with the Submarine Tele- Short title and graph Act, 1885, and that Act and this Act may be cited together ^n*t™cti^).n-as the Submarine Telegraph Acts, 1885 and 1886, and this Act may c> 49> lct‘ be cited separately as the Submarine Telegraph Act, 1886.
+[Short title and construction. 48 & 49 Vict. c. 49.]
 
-2. It shall be lawful for Her Majesty in Council at any time Confirmation after the passing of this Act to order that the declaration mentioned °f declaration, in the schedule to this Act, as set forth in that schedule, shall be
+1. This Act shall be construed as one with the Submarine Telegraph Act, 1885, and that Act and this Act may be cited together as the Submarine Telegraph Acts, 1885 and 1886, and this Act may be cited separately as the Submarine Telegraph Act, 1886.
 
-[THE LAW REPORTS.]
+[Confirmation of declaration.]
 
-12 Ch. 3,4. Submarine 1886. 50 Vict.
+2. It shall be lawful for Her Majesty in Council at any time after the passing of this Act to order that the declaration mentioned in the schedule to this Act, as set forth in that schedule, shall be
+
+12 Ch. 3, 4. Submarine Telegraph Act, 1886. 50 Vict.
 
 of the same force, and the same shall accordingly be of the same force, as the articles of the convention set forth in the schedule to the Submarine Telegraph Act, 1885.
 
-. 3. Section four of the Submarine Telegraph Act, 1885, is hereby
+[Repeal of 48 & 49 Vict. c. 49. s. 4.]
 
-48 ot 4D V lCt. -i i
-
-C. 49.8.4. repealed.
+3. Section four of the Submarine Telegraph Act, 1885, is hereby repealed.]
 
 SCHEDULE.
 
@@ -1012,11 +976,9 @@ An Act for facilitating the proceedings of the Commissioners appointed to hold a
 
 [25th September 1886.]
 
-WHEREAS a Commission has been issued by the Lords Justices of Ireland, dated the twenty-fifth day of August one thousand eight hundred and eighty-six, whereby Major-General Sir Edward Gascoigne Bulwer, Frederick le Poer Trench, Esquire, Richard Adams, Esquire, and Wallis MacHardy, Esquire, have been authorised ~and directed to hold a Court of Inquiry, and to inquire into the origin and circumstances of certain riots and disturbances that in the months of June, July, and August in this year have taken place in the town of Belfast, and the cause of their continua nce, the existing local arrangements for the preservation of the peace of the town of Belfast, the magisterial jurisdiction exercised within it, and the amount and constitution and efficiency of the police force usually available there, and the proceedings and action taken by the magistrates, stipendiary and local, and other authorities, and the police force on the occasion of the said riots and disturbances, and whether these authorities and the existing police force are adequate to the future maintenance of order and tranquility within the town, and whether any and what steps ought to be taken in the local magisterial and police jurisdiction arrangements and establishment with a view to the better preservation of the public peace and the prevention or prompt suppression of riot and disorder; and whereas the Lord Lieutenant of Ireland intends by warrant under his hand to nominate Sir John Charles Day, one of the judges of the Queen's
+WHEREAS a Commission has been issued by the Lords Justices of Ireland, dated the twenty-fifth day of August one thousand eight hundred and eighty-six, whereby Major-General Sir Edward Gascoigne Bulwer, Frederick le Poer Trench, Esquire, Richard Adams, Esquire, and Wallis MacHardy, Esquire, have been authorised and directed to hold a Court of Inquiry, and to inquire into the origin and circumstances of certain riots and disturbances that in the months of June, July, and August in this year have taken place in the town of Belfast, and the cause of their continuance, the existing local arrangements for the preservation of the peace of the town of Belfast, the magisterial jurisdiction exercised within it, and the amount and constitution and efficiency of the police force usually available there, and the proceedings and action taken by the magistrates, stipendiary and local, and other authorities, and the police force on the occasion of the said riots and disturbances, and whether these authorities and the existing police force are adequate to the future maintenance of order and tranquility within the town, and whether any and what steps ought to be taken in the local magisterial and police jurisdiction arrangements and establishment with a view to the better preservation of the public peace and the prevention or prompt suppression of riot and disorder; and whereas the Lord Lieutenant of Ireland intends by warrant under his hand to nominate Sir John Charles Day, one of the judges of the Queen's
 
-1886.
-
-Belfast Commission Act, 1886. Ch. 4, 5. 13
+1886. Belfast Commission Act, 1886. Ch. 4, 5. 13
 
 Bench Division of the High Court, as an additional member of the said Commission; and whereas the powers for the effectual conducting of such inquiry cannot be conferred without the authority of Parliament:
 
@@ -1026,7 +988,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 1. This Act may be cited as the Belfast Commission Act, 1886.
 
-2. The said Commission shall have all such powers, rights, and Commission to privileges as are vested in Her Majesty's High Court of Justice in herein named. Ireland, or in any judge thereof, on the occasion of any action or suit, in respect of the following matters:
+[Commission to have powers herein named.]
+
+2. The said Commission shall have all such powers, rights, and privileges as are vested in Her Majesty's High Court of Justice in Ireland, or in any judge thereof, on the occasion of any action or suit, in respect of the following matters:
 
 (1.) The enforcing the attendance of witnesses and examining them on oath, affirmation, or otherwise;
 
@@ -1036,9 +1000,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 Any warrant of committal to prison issued for the purpose of enforcing the powers conferred by this section shall be under the hand or hands of one or more of the Commissioners, and shall specify the prison to which the offender is to be committed, and shall not authorise the imprisonment of any offender for a period exceeding three calendar months.
 
-k 3. Every person who upon examination upon oath or affirmation Penalty for in the said inquiry wilfully gives false evidence shall be liable to false 8weann&-the penalties of perjury.
+[Penalty for false swearing.]
 
-4. Nothing herein contained shall be deemed to abridge, lessen, Powers of the or affect the powers of the said Commissioners under and by virtue of the said Commission of the Lords Justices. affected.
+3. Every person who upon examination upon oath or affirmation in the said inquiry wilfully gives false evidence shall be liable to the penalties of perjury.
+
+[Powers of the Commission not to be affected.]
+
+4. Nothing herein contained shall be deemed to abridge, lessen, or affect the powers of the said Commissioners under and by virtue of the said Commission of the Lords Justices.
 
 CHAPTER 5.
 
@@ -1052,79 +1020,87 @@ And whereas it is expedient to provide for the continuance as in this Act mentio
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. This Act may be cited as the Expiring Laws Continuance Act, Short title. 1886.
+[Short title.]
 
-B 2
+1. This Act may be cited as the Expiring Laws Continuance Act, 1886.
 
-14
+14 Ch. 5.Expiring Laws Continuance Act, 1886. 50 Vict.
 
-Ch. 5.
-
-50 Vict.
-
-Continuance of Acts in schedule.
-
-Expiring Laws Continuance Act, 1886.
+[Continuance of Acts in schedule.]
 
 2. The Acts mentioned in column one of the schedule to this Act, in so far as they are temporary in their duration, shall, to the extent in column two of the said schedule mentioned, be continued until the thirty-first day of December one thousand eight hundred and eighty-seven, and any unrepealed enactments amending or affecting the enactments continued by this Act shall, in so far as they are temporary in their duration, be continued in like manner.
 
 SCHEDULE.
 
-i. Original Acts. 2. How far continued. 3. [Amending Acts.
+## Table begins
 
-(1) 5 & 6 Will. 4. c. 27. Linen, Hempen, Cotton, and other Manufactures (Ireland). (2) 3 & 4 Vict. c. 89. Poor Eates, Stock in Trade Exemption. The whole Act so far as it is not repealed. 3 & 4 Vict. o. 91. 5 & 6 Vict. c. 68. 7 & 8 Vict. c. 47. 30 & 31 Vict. c. 60.
+1. Original Acts.	2. How far continued.	3. Amending Acts.
+
+(1) 5 & 6 Will. 4. c. 27. Linen, Hempen, Cotton, and other Manufactures (Ireland).
+
+(2) 3 & 4 Vict. c. 89. Poor Eates, Stock in Trade Exemption. The whole Act so far as it is not repealed. 3 & 4 Vict. c. 91. 5 & 6 Vict. c. 68. 7 & 8 Vict. c. 47. 30 & 31 Vict. c. 60.
 
 The whole Act. —
 
 (3) 4 & 5 Vict. c. 30. Survey of Great Britain. The whole Act so far as it is not repealed. 33 Vict. c. 13. 47 & 48 Vict. c. 43.
 
-(4) 4 & 5 Vict. c. 35. Land Commissioners. (5) . . 4 & 5 Vict. c. 59. Application of Highway Eates to Turnpike Eoads. (6) 10 & 11 Vict. c. 98. Ecclesiastical Jurisdiction. So much as relates to the appointment of and the period for holding office by Land Commissioners and other officers. The whole Act. 14 & 15 Vict. c. 53. 25 & 26 Vict. c. 73. 45 & 46 Vict. c. 38. s. 48.
+(4) 4 & 5 Vict. c. 35. Land Commissioners.
+
+(5) . . 4 & 5 Vict. c. 59. Application of Highway Eates to Turnpike Roads.
+
+(6) 10 & 11 Vict. c. 98. Ecclesiastical Jurisdiction. So much as relates to the appointment of and the period for holding office by Land Commissioners and other officers. The whole Act. 14 & 15 Vict. c. 53. 25 & 26 Vict. c. 73. 45 & 46 Vict. c. 38. s. 48.
 
 As to provisions continued by 21 & 22 Vict. c. 50. —
 
 (7) 11 & 12 Vict. c. 32. County Cess (Ireland). The whole Act - 20 & 21 Vict. c. 7.
 
-(8) 14 & 15 Vict. c. 104. Episcopal and Capitular Estates Management. (9) 17 & 18 Vict. c. 102. Corrupt Practices Prevention. (10) 23 & 24 Vict. c. 19. Dwellings for Labouring Classes (Ireland). The whole Act so far as it is not repealed. 17 & 18 Vict. c. 116. 21 & 22 Vict. c. 94. 22 & 23 Vict. c. 46. 23 & 24 Vict. c. 124. 31 & 32 Vict. c. 114. s. 10.
+(8) 14 & 15 Vict. c. 104. Episcopal and Capitular Estates Management.
 
-So much as is continued by the Corrupt and Illegal Practices I Prevention Act, 1883. 26 & 27 Vict. c. 29. s.6. 31 & 32 Vict. c. 125. 46 & 47 Vict. o. 51.
+(9) 17 & 18 Vict. c. 102. Corrupt Practices Prevention.
 
-The whole Act.
+(10) 23 & 24 Vict. c. 19. Dwellings for Labouring Classes (Ireland). The whole Act so far as it is not repealed. 17 & 18 Vict. c. 116. 21 & 22 Vict. c. 94. 22 & 23 Vict. c. 46. 23 & 24 Vict. c. 124. 31 & 32 Vict. c. 114. s. 10.
 
-(11) 24 & 25 Vict. c. 109. Salmon Fishery (England). As to appointment of inspectors, s. 31. 49 & 50 Vict. c. 39. s. a
-
-1886. Expiring La/ws Continuance , 1886. Ch. 5. 15
-
-1. Original Acts. 2. How far continued. 3. Amending Acts.
-
-(12) 26 & 27 Vict. o. 105. Promissory Notes. The whole Act - 45 & 46 Vict. c. 61.
-
-(13) 27 & 28 Yiot. c. 20. Promissory Notes and Bills of Exchange (Ireland). The whole Act. —
-
-(14) 28 & 29 Vict. c. 46. Militia Ballots Suspension. The whole Act. —
-
-(15) 28 & 29 Vict. c. 83. Locomotives on Roads. (16) 29 & 30 Vict. c. 52. Prosecution Expenses. The whole Act so far as it is not repealed. 41 & 42 Vict. c. 58. 41 & 42 Vict. c. 77. (Part II.)
+So much as is continued by the Corrupt and Illegal Practices I Prevention Act, 1883. 26 & 27 Vict. c. 29. s.6. 31 & 32 Vict. c. 125. 46 & 47 Vict. c. 51.
 
 The whole Act.
-
-(17) 31 & 32 Vict. c. 125. Parliamentary Elections. So much as is continued by the Corrupt & Illegal Practices Prevention Act, 1883. 42 & 43 Vict. c. 75. 46 & 47 Vict. c. 51.
-
-(18) 32 & 33 Vict. c. 21. Election Commissioners Expenses. The whole Act - 34 & 35 Vict. c. 61.
-
-(19) 32 & 33 Vict. c. 56. Endowed Schools (Schemes). (20) 34 & 35 Vict. c. 87. Sunday Observance Prosecutions. As to the powers of making schemes, and as to the payment of the salaries of additional Charity Commissioners and additional secretary. 36 & 37 Vict. c. 87. 37 & 38 Vict. c. 87.
-
-The whole Act. —
-
-(21) 35 & 36 Vict. c. 33. Parliamentary and Municipal Elections (Ballot). The whole Act so far as it is not repealed. 45 & 46 Vict. c. 50. (Municipal Elections.)
-
-(22) 36 & 37 Vict. c. 48. Regulation of Railways. The whole Act - - - 37 & 38 Vict. c. 40. (Part H.)
-
-(23) 38 & 39 Vict. c. 48. Police Expenses. The whole Act. —
-
-(24) 38 & 39 Vict. c. 84. Returning Officers Expenses. (25) 39 & 40 Vict. c. 21. Juries (Ireland). The whole Act - - -The whole Act. 46 & 47 Vict. c. 51. s. 32 48 & 49 Vict. c. 62. 49 & 50 Vict. c. 57.
----
-16 Ch. 5. Expiring Laws Continuance Act, 1886. 50 Vict.
 
 ## Table begins
+---
+(11) 24 & 25 Vict. c. 109. Salmon Fishery (England).	As to appointment of inspectors, s. 31.	49 & 50 Vict. c. 39. s. 3.
+
+1886. Expiring Laws Continuance Act, 1886. Ch. 5. 15
+
+1. Original Acts.	2. How far continued.	3. Amending Acts.
+
+(12) 26 & 27 Vict. c. 105. Promissory Notes.	The whole Act	45 & 46 Vict. c. 61.
+
+(13) 27 & 28 Vict. c. 20. Promissory Notes and Bills of Exchange (Ireland).	The whole Act.
+
+(14) 28 & 29 Vict. c. 46. Militia Ballots Suspension.	The whole Act.
+
+(15) 28 & 29 Vict. c. 83. Locomotives on Roads.	The whole Act so far as it is not repealed.	41 & 42 Vict. c. 58. 41 & 42 Vict. c. 77. (Part II.)
+
+(16) 29 & 30 Vict. c. 52. Prosecution Expenses.	The whole Act.
+
+(17) 31 & 32 Vict. c. 125. Parliamentary Elections.	So much as is continued by the Corrupt & Illegal Practices Prevention Act, 1883.	42 & 43 Vict. c. 75. 46 & 47 Vict. c. 51.
+
+(18) 32 & 33 Vict. c. 21. Election Commissioners Expenses.	The whole Act	34 & 35 Vict. c. 61.
+
+(19) 32 & 33 Vict. c. 56. Endowed Schools (Schemes).	As to the powers of making schemes, and as to the payment of the salaries of additional Charity Commissioners and additional secretary.	36 & 37 Vict. c. 87. 37 & 38 Vict. c. 87.
+
+(20) 34 & 35 Vict. c. 87. Sunday Observance Prosecutions.	The whole Act.
+
+(21) 35 & 36 Vict. c. 33. Parliamentary and Municipal Elections (Ballot).	The whole Act so far as it is not repealed.	45 & 46 Vict. c. 50. (Municipal Elections.)
+
+(22) 36 & 37 Vict. c. 48. Regulation of Railways.	The whole Act	37 & 38 Vict. c. 40. (Part II.)
+
+(23) 38 & 39 Vict. c. 48. Police Expenses.	The whole Act.
+
+(24) 38 & 39 Vict. c. 84. Returning Officers Expenses.	The whole Act.	46 & 47 Vict. c. 51. s. 32 48 & 49 Vict. c. 62. 49 & 50 Vict. c. 57.
+
+(25) 39 & 40 Vict. c. 21. Juries (Ireland).	The whole Act.
+
+16 Ch. 5. Expiring Laws Continuance Act, 1886. 50 Vict.
 
 1. Original Acts.	2. How far continued.	3. Amending Acts.
 
