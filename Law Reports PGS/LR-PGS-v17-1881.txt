@@ -64,13 +64,13 @@ The Titles of the Public General Acts passed in the Second Session of the Twenty
 
 6. An Act to provide for an Annual Return of Rates, Taxes, Tolls, and Dues levied for local purposes in Scotland. 7
 
-7. An Act to authorise the Secretary of State for India in Council to sell a piece of land in Charles Street, Westminster, to the Commissioners of Her Majesty’s Works and Public Buildings for the Public Service. 8
+7. An Act to authorise the Secretary of State for India in Council to sell a piece of land in Charles Street, Westminster, to the Commissioners of Her Majesty's Works and Public Buildings for the Public Service. 8
 
 8. An Act to apply certain Sums out of the Consolidated Fund to the service of the years ending on the thirty-first day of March one thousand eight hundred and eighty, one thousand eight hundred and eighty-one, and one thousand eight hundred and eighty-two. 10
 
 9. An Act to provide during twelve months for the Discipline and Regulation of the Army. 11
 
-10. An Act for the transfer of Property held for the Use and Service of the Inland Revenue to the Commissioners of Her Majesty’s Works and Public Buildings; and for other purposes. 15
+10. An Act for the transfer of Property held for the Use and Service of the Inland Revenue to the Commissioners of Her Majesty's Works and Public Buildings; and for other purposes. 15
 
 11. An Act to further amend the law relating to Sea Fisheries by providing for the protection of Clam and other Bait Beds. 16
 
@@ -136,7 +136,7 @@ The Titles of the Public General Acts passed in the Second Session of the Twenty
 
 42. An Act to suspend for a limited period, on account of Corrupt Practices, the holding of an Election of a Member or Members to serve in Parliament for certain cities and boroughs. 151
 
-43. An Act to extend the Superannuation Act Amendment Act, 1873, to certain persons admitted into subordinate situations in the departments of the Post-master-General, and the Commissioners of Her Majesty’s Works and Public Buildings. 153
+43. An Act to extend the Superannuation Act Amendment Act, 1873, to certain persons admitted into subordinate situations in the departments of the Post-master-General, and the Commissioners of Her Majesty's Works and Public Buildings. 153
 
 44. An Act for making better provision respecting the Remuneration of Solicitors in Conveyancing and other non-contentious Business. 154
 
@@ -164,7 +164,7 @@ The Titles of the Public General Acts passed in the Second Session of the Twenty
 
 56. An Act to apply a. sum out of the Consolidated Fund to the Service of the year ending on the thirty-first day of March one thousand eight hundred and eighty-two, and to appropriate the Supplies granted in this Session of Parliament. 219
 
-57. An Act to amend the Law respecting the Regulation of Her Majesty’s Forces, and to amend the Army Discipline and Regulation Act, 1879. 234
+57. An Act to amend the Law respecting the Regulation of Her Majesty's Forces, and to amend the Army Discipline and Regulation Act, 1879. 234
 
 58. An Act to consolidate the Army Discipline and Regulation Act, 1879, and the subsequent Acts amending the same. 260
 
@@ -2572,43 +2572,43 @@ THIRD SCHEDULE.
 
 Act which, to the extent specified, is to be subject to modifications from the 1st of November 1881, and which, to the same extent, is to be repealed on and after the 1st of November 1882, unless Parliament in the meantime otherwise provides.
 
-1  1.  Date of Act. !  2.  Titlo of Act. 8.  Extent to which Act is modified and continued. 4.  Date from which Modifications are to commence. s.  Modifications.
+1 1. Date of Act. ! 2. Titlo of Act. 8. Extent to which Act is modified and continued. 4. Date from which Modifications are to commence. s. Modifications.
 
 26 & 27 10. An Act to repeal an Act passed So far as the same 1 Novem- The tolls at
 
 Vict. c. in the eleventh year of the reign relates to the ber 1881. Clifton, Cub-
 
-xcviii. of His late Majesty King George the Fourth, intituled “An Act “ for repairing, altering, and “ improving the roads from “ Ashbourne to Sudbury, and “ from Sudbury to Yoxall “ Bridge, and from Hatton Moor “ to Tutbury, and from Uttoxeter ** to or near the village of Dray-“ cott-in-the-Clay, and from “ Hadley Plain on the late forest “ or chase of Need wood to “ Callingwood Plain on the “ same late forest or chase,” and to make other provisions in lieu thereof. Ashbourne, Sudbury, and Yoxall Bridge, or “ the “ Sudbury dis-“ trict” of the roads.  ley, and Yoxall Bridge gates to be reduced by one-half.
+xcviii. of His late Majesty King George the Fourth, intituled “An Act “ for repairing, altering, and “ improving the roads from “ Ashbourne to Sudbury, and “ from Sudbury to Yoxall “ Bridge, and from Hatton Moor “ to Tutbury, and from Uttoxeter ** to or near the village of Dray-“ cott-in-the-Clay, and from “ Hadley Plain on the late forest “ or chase of Need wood to “ Callingwood Plain on the “ same late forest or chase,” and to make other provisions in lieu thereof. Ashbourne, Sudbury, and Yoxall Bridge, or “ the “ Sudbury dis-“ trict” of the roads. ley, and Yoxall Bridge gates to be reduced by one-half.
 
 FOURTH SCHEDULE.
 
 Acts which are to continue in force until the 1st of November 1882, and no longer, unless Parliament in the meantime otherwise provides.
 
-County. | Name of Trust.     No. of Act.
+County. | Name of Trust. No. of Act.
 
-Derby Chesterfield to Worksop -     2
+Derby Chesterfield to Worksop - 2
 
-Gl os sop and Marple Bridge  - -  1
+Gl os sop and Marple Bridge - - 1
 
-Devon Kings bridge and Dartmouth   - . i 11
+Devon Kings bridge and Dartmouth - . i 11
 
-Dorset Blandford and Wimborne  1   1 8
+Dorset Blandford and Wimborne 1 1 8
 
-Poole -     12
+Poole - 12
 
-Durham - Egleston Roads  . . * | 6
+Durham - Egleston Roads . . * | 6
 
-Kent Tonbridge and Ightham -  - • 1 10
+Kent Tonbridge and Ightham - - • 1 10
 
-Lancaster Rochdale and Edenfield -     9
+Lancaster Rochdale and Edenfield - 9
 
-Lincoln Lincoln Heath and Market Deeping  -Bourn district   4
+Lincoln Lincoln Heath and Market Deeping -Bourn district 4
 
-Sussex Beeding and Old Shoreham  • .  5
+Sussex Beeding and Old Shoreham • . 5
 
-Horsham and Steyning  . .  5
+Horsham and Steyning . . 5
 
-York Doncaster and Tadeaster -  -   7
+York Doncaster and Tadeaster - - 7
 
 Flint Lower King's Ferry - - • - 3
 
@@ -4178,7 +4178,7 @@ No. (number of voter as on the register).
 
 Versons nominated. Proposed by Seconded by
 
-A.B.  C.D. Name of Do. Name of Seconder. Do.
+A.B. C.D. Name of Do. Name of Seconder. Do.
 
 Sir,
 
@@ -5566,7 +5566,7 @@ property and to relieve trustees -/,n part;
 
 Sections four to nine.
 
-The Common Law Procedure Act, 1 ._______.  .
+The Common Law Procedure Act, 1 ._______.
 
 I860 - - - ' | in part; namely,—
 
@@ -6704,7 +6704,7 @@ Southwark Park Act, 1864, 27 Vict. c. iv.
 
 Gardens in Towns Protection Act, 1863, 26 Vict. c. 13. Leicester Square Act, 1874, 37 Vict. c. x.
 
-1  by
+1 by
 
 1881. Metropolitan Boa/rd of Works {Money) Act, 1881. Ch. 48, 49. 175
 
@@ -8158,21 +8158,21 @@ Part 1. Deficiencies, 1879-80 „ 2. Supplementary, 1880-81
 
 8. Army -
 
-9. Army (Indian Home Charges)  "   £
+9. Army (Indian Home Charges) " £
 
-10. Civil Services, Class I.    1,526,673
+10. Civil Services, Class I. 1,526,673
 
-11. Ditto, Class II.    2,433,171
+11. Ditto, Class II. 2,433,171
 
-12. Ditto, Class IH. -    5,949,146
+12. Ditto, Class IH. - 5,949,146
 
-13. Ditto, Class IV. -    4,461,456
+13. Ditto, Class IV. - 4,461,456
 
-14. Ditto, Class V.    636,257
+14. Ditto, Class V. 636,257
 
-15. Ditto, Class VI.    1,172,156
+15. Ditto, Class VI. 1,172,156
 
-16. Ditto, Class VII. -    45.510
+16. Ditto, Class VII. - 45.510
 
 £ 8. d.
 
@@ -8490,7 +8490,7 @@ SCHEDULE (B.)—Part 3.
 
 Afghan War (Grant in Aid).
 
-For paying an instalment of a grant in aid of the expenditure incurred by the Government of India upon the War in Afghanistan, in the years 1878-80, which became due and payable during the year ended on the 31st day of March 1881   - 500,000
+For paying an instalment of a grant in aid of the expenditure incurred by the Government of India upon the War in Afghanistan, in the years 1878-80, which became due and payable during the year ended on the 31st day of March 1881 - 500,000
 
 SCHEDULE (B.)—Part 4.
 
@@ -13100,7 +13100,7 @@ service bevond the seas.
 
 146. A person who is commissioned and in full pay as an Officers not to officer in Her Majesty's regular forces shall not be capable of being he sheriffs or nominated or elected to be sheriff of any county, borough, or other mayors'
 
-■  by
+■ by
 
 326
 
@@ -14226,7 +14226,7 @@ Carriages and Animals. Rate per Mile.
 
 In Great Britain.
 
-A waggon with four or more horses, or a wain with six oxen, or four oxen, and two horses.  A waggon with narrow wheels, or a cart with four horses, carrying not less than fifteen hundredweight.  Any other cart or carriage, with less than four horses, and not carrying fifteen hundredweight. One shilling.  Ninepence.  Sixpence.
+A waggon with four or more horses, or a wain with six oxen, or four oxen, and two horses. A waggon with narrow wheels, or a cart with four horses, carrying not less than fifteen hundredweight. Any other cart or carriage, with less than four horses, and not carrying fifteen hundredweight. One shilling. Ninepence. Sixpence.
 
 In Ireland.
 
@@ -14620,63 +14620,63 @@ Sections four, eight, and nine.
 
 1881. Statute Law Revision and Gimt Procedure Act, 1881. Ch. 59. 363
 
-1 Will. 4. o. 21. in part. An Act to improve the proceedings in Prohibition and on Writs of Mandamus; in part; namely,—  Section six.
+1 Will. 4. o. 21. in part. An Act to improve the proceedings in Prohibition and on Writs of Mandamus; in part; namely,— Section six.
 
-2 & 3 Will. 4. o. 33. -in part. An Act to effectuate the service of process issuing from the Courts of Chancery and Exchequer in England and Ireland respectively; in part; namely,—  Section one, and the words “ of England and,” “ England or,” Mid “respectively” in Section three.
+2 & 3 Will. 4. o. 33. -in part. An Act to effectuate the service of process issuing from the Courts of Chancery and Exchequer in England and Ireland respectively; in part; namely,— Section one, and the words “ of England and,” “ England or,” Mid “respectively” in Section three.
 
-3 & 4 Will. 4. c. 42. -in part. An Act for the farther amendment of the Law and the better advancement of Justice; in part; namely,—  Sections twenty-three, twenty-four, and twenty-five, except as far as those sections may be in force as regards any court other than the Supreme Court of Judicature in England.
+3 & 4 Will. 4. c. 42. -in part. An Act for the farther amendment of the Law and the better advancement of Justice; in part; namely,— Sections twenty-three, twenty-four, and twenty-five, except as far as those sections may be in force as regards any court other than the Supreme Court of Judicature in England.
 
-5 Vict. c. 5. -in part. An Act to make further provisions for the administration of Justice; in part; namely,—  In section five the words “ in the form sot out in tho first sehc-
+5 Vict. c. 5. -in part. An Act to make further provisions for the administration of Justice; in part; namely,— In section five the words “ in the form sot out in tho first sehc-
 
-5 & 6 Vict. c. 54. -in part. “ dale to this Act,” section six, and the first schedule.  An Act the title whereof begins with the words,—An Act to amend,— and ends with the words,—time to be limited; in part; namely,—  Section eighteen.
+5 & 6 Vict. c. 54. -in part. “ dale to this Act,” section six, and the first schedule. An Act the title whereof begins with the words,—An Act to amend,— and ends with the words,—time to be limited; in part; namely,— Section eighteen.
 
-6 & 7 Vict. c. 67. -in part. An Act to enable parties to sue out and prosecute Writs of Error in certain cases upon the proceedings on Writs of Mandamus; in part; namely,—  Section one, from “ and it shall be lawful,” to end of section, and section two.
+6 & 7 Vict. c. 67. -in part. An Act to enable parties to sue out and prosecute Writs of Error in certain cases upon the proceedings on Writs of Mandamus; in part; namely,— Section one, from “ and it shall be lawful,” to end of section, and section two.
 
-12 & 13 Vict. c. 96. -in part. Tho Admiralty Offences Colonial Act, 1849; in part; namely,—  Section five, from “and tho word ‘governor' ” to end of section.
+12 & 13 Vict. c. 96. -in part. Tho Admiralty Offences Colonial Act, 1849; in part; namely,— Section five, from “and tho word ‘governor' ” to end of section.
 
-13 & 14 Vict. c. 35. -in part. An Act to diminish the dolay and expense of proceedings in tho High Court of Chancery in England:  Except sections nineteen to twenty-five.
+13 & 14 Vict. c. 35. -in part. An Act to diminish the dolay and expense of proceedings in tho High Court of Chancery in England: Except sections nineteen to twenty-five.
 
-15 & 16 Vict. c. 80. -in part. An Act to abolish the office of Master in Ordinary of the High Court of Chancery, and to make provision for tho more speedy and efficient despatch of business in tho said Court; in part; namely,—  In section fifteen tho words “and enrblled,” soctiontwenty-one from “but subject,” and sections fifty-threo and fifty-six.
+15 & 16 Vict. c. 80. -in part. An Act to abolish the office of Master in Ordinary of the High Court of Chancery, and to make provision for tho more speedy and efficient despatch of business in tho said Court; in part; namely,— In section fifteen tho words “and enrblled,” soctiontwenty-one from “but subject,” and sections fifty-threo and fifty-six.
 
-15 & 16 Vict. c. 86. -in part. An Act to amend the practice and course of proceeding in the High Court of Chancery; in part; namely,—  Sections one to ten, twelve to twenty-one, twenty-six to thirty, thirty-six, thirty-seven, forty-nine, fifty-one, fifty-two, and . fifty-three, fifty-eight to sixty-two, and schedule.
+15 & 16 Vict. c. 86. -in part. An Act to amend the practice and course of proceeding in the High Court of Chancery; in part; namely,— Sections one to ten, twelve to twenty-one, twenty-six to thirty, thirty-six, thirty-seven, forty-nine, fifty-one, fifty-two, and . fifty-three, fifty-eight to sixty-two, and schedule.
 
-15 & 16 Vict. c. 87. -in part. An Act for tho relief of the suitors of tho High Court of Chanceiy; in part; namely,—  Section five.
+15 & 16 Vict. c. 87. -in part. An Act for tho relief of the suitors of tho High Court of Chanceiy; in part; namely,— Section five.
 
-17 & 18 Vict. c. 78. -in part. An Act to appoint persons to administer oaths, and to substitute stamps in lieu of fees, and for other purposes, iu tiio High Court of Admiralty of England; in part; namely,—  Section five.
+17 & 18 Vict. c. 78. -in part. An Act to appoint persons to administer oaths, and to substitute stamps in lieu of fees, and for other purposes, iu tiio High Court of Admiralty of England; in part; namely,— Section five.
 
-17 & 18 Vict. c. 82. -in part. An Act further to improve the administration of justice in the Court of Chancery of the County Palatine of Lancaster; in part; namely,—  Sections two to five.
+17 & 18 Vict. c. 82. -in part. An Act further to improve the administration of justice in the Court of Chancery of the County Palatine of Lancaster; in part; namely,— Sections two to five.
 
 18 & 19 Vict. e. 45. - An Act for further assimilating the practice in the County Palatine of Lancaster to that of other counties with respect to the trial of issues from the Superior Courts at Westminster.
 
 304 Ch.59. Statute Law Revision and Civil Procedure A c£,1881. 44 & 45 Vict.
 
-18 & 19 Vict. c. 90. -in part. An Act the title whereof begins with the words, “ An Act for the pay-“ ment of costs,” and ends with the , “ Court of Exchequer j” in part; namely,—  In section three the words “ for the Barons of Her Majesty's “ Court of Exchequer in England, or any three of them, “ and also."
+18 & 19 Vict. c. 90. -in part. An Act the title whereof begins with the words, “ An Act for the pay-“ ment of costs,” and ends with the , “ Court of Exchequer j” in part; namely,— In section three the words “ for the Barons of Her Majesty's “ Court of Exchequer in England, or any three of them, “ and also."
 
-19 &20 Vict. c. 86. -19 & 20 Vict. c. 113. -in part. An Act to abolish the office of Curator Baron of the Exchequer.  An Act to provide for taking evidence in Her Majesty's Dominions in relation to civil and commercial matters pending before foreign tribunals;  in part; namely,—  Section six, from “ Provided ” to the end of the section.
+19 &20 Vict. c. 86. -19 & 20 Vict. c. 113. -in part. An Act to abolish the office of Curator Baron of the Exchequer. An Act to provide for taking evidence in Her Majesty's Dominions in relation to civil and commercial matters pending before foreign tribunals; in part; namely,— Section six, from “ Provided ” to the end of the section.
 
-20 & 21 Vict. c. 77. -in part. An Act to amend the law relating to probates and letters of administration in England; in part; namely,—  Sections five, six, nine, twelve, twenty-five, forty, forty-one, and forty-five.
+20 & 21 Vict. c. 77. -in part. An Act to amend the law relating to probates and letters of administration in England; in part; namely,— Sections five, six, nine, twelve, twenty-five, forty, forty-one, and forty-five.
 
-21 &22 Vict. c. 27. -in part. An Act to amend the course of procedure in the High Court of Chancery, the Court of Chancery in Ireland, and the Court of Chancery of the County Palatine of Lancaster; in part; namely,—  Sections three, four, six, and seven.
+21 &22 Vict. c. 27. -in part. An Act to amend the course of procedure in the High Court of Chancery, the Court of Chancery in Ireland, and the Court of Chancery of the County Palatine of Lancaster; in part; namely,— Sections three, four, six, and seven.
 
-21 &22 Vict. c. 95. -in part. An Act to amend the Act of the twentieth and twenty-first Victoria, chapter seventy-seven; in part; namely,—  Sections one and two, section six from “ and from and after,' * to end of section, section thirty-six, and Schedule.
+21 &22 Vict. c. 95. -in part. An Act to amend the Act of the twentieth and twenty-first Victoria, chapter seventy-seven; in part; namely,— Sections one and two, section six from “ and from and after,' * to end of section, section thirty-six, and Schedule.
 
 22 & 23 Vict. c. 6. - An Act to enable Serjeants, Barristers-at-Law, Attorneys, and Solicitors to practise m the High Court of Admiralty.
 
-22 &23 Vict. c. 21. -in part. An Act to regulate the office of Queen's Remembrancer, and to amend the'practice and procedure on the Revenue side of the Court of Exchequer; in part; namely,—  Sections nine, ten, eleven, eighteen, nineteen, twenty, twenty-two, twenty-six, and twenty-seven.
+22 &23 Vict. c. 21. -in part. An Act to regulate the office of Queen's Remembrancer, and to amend the'practice and procedure on the Revenue side of the Court of Exchequer; in part; namely,— Sections nine, ten, eleven, eighteen, nineteen, twenty, twenty-two, twenty-six, and twenty-seven.
 
-22 & 23 Vict. c. 59. * in part. Railway Companies Arbitration Act, 1859; in part; namely,—  In section twenty-six the words, “ and where requisite frame ** for the purpose.”
+22 & 23 Vict. c. 59. * in part. Railway Companies Arbitration Act, 1859; in part; namely,— In section twenty-six the words, “ and where requisite frame ** for the purpose.”
 
-23 & 24 Vict. c. 34. -in part. The Petitions of Right Act, 1860; in part; namely,—  Section fifteen.
+23 & 24 Vict. c. 34. -in part. The Petitions of Right Act, 1860; in part; namely,— Section fifteen.
 
 23 & 24 Vict. c. 54. - A.n Act to amend an Act for abolishing certain offices on the Crown side of the Court of Queen's Bench, and for regulating the Crown Office.
 
-23 & 24 Vict. o. 127. -in part. An Act to amend the laws relating to Attorneys, Solicitors, Proctors, and Certificated Conveyancers; in part; namely,—  Section twenty-five.
+23 & 24 Vict. o. 127. -in part. An Act to amend the laws relating to Attorneys, Solicitors, Proctors, and Certificated Conveyancers; in part; namely,— Section twenty-five.
 
-24 & 25 Vict. c. 10. -in part. The Admiralty Court Act, 1861; in part; namely,—  Sections fourteen, fifteen, seventeen, nineteen, twenty, twenty-two, and thirty-two.
+24 & 25 Vict. c. 10. -in part. The Admiralty Court Act, 1861; in part; namely,— Sections fourteen, fifteen, seventeen, nineteen, twenty, twenty-two, and thirty-two.
 
-25 & 26 Vict. c. 42. -in part. The Chancery Regulation Act, 1862 ;  Except as far as it may be in force with respect to the Court of Chancery of the County Palatine of Lancaster.
+25 & 26 Vict. c. 42. -in part. The Chancery Regulation Act, 1862 ; Except as far as it may be in force with respect to the Court of Chancery of the County Palatine of Lancaster.
 
-25 & 26 Vict. c. 67. -in part. The Declaration of Title Act, 1862 ; in part; namely,—  Sections forty and forty-one, section forty-two, from “ and eveiy such ” to end of section, and the words “ all general rules “ and orders made as aforesaid including” in section forty-three.
+25 & 26 Vict. c. 67. -in part. The Declaration of Title Act, 1862 ; in part; namely,— Sections forty and forty-one, section forty-two, from “ and eveiy such ” to end of section, and the words “ all general rules “ and orders made as aforesaid including” in section forty-three.
 
 1881. Statute Law Revision and Civil Procedure Ac£,1881. Ch. 59, 60,
 
@@ -14936,7 +14936,7 @@ Return made pursuant to the Newspaper Libel and Registration
 
 Act, 1881.
 
-Title of Newspaper. I  Names of Persons who cease to be Proprietors. Names of Persons who become Proprietors. Occupation of new Proprietors. Places of business (if any) of new Proprietors. Places of Residence of new Proprietors.
+Title of Newspaper. I Names of Persons who cease to be Proprietors. Names of Persons who become Proprietors. Occupation of new Proprietors. Places of business (if any) of new Proprietors. Places of Residence of new Proprietors.
 
 CHAPTER 61.
 
@@ -15458,7 +15458,7 @@ Petroleum (Hawkers) Act, 1881. Ch. 67,68.
 
 6. For the purposes of this Act— „ . ..
 
-mi • >.  • t) • | j • . Definitions.
+mi • >. • t) • | j • . Definitions.
 
 lhe expression “ carnage includes any carnage, waggon, cart,
 
@@ -16110,25 +16110,25 @@ the thirty-first day of December one thousand eight hundred and eighty-two, and 
 
 SCHEDULE.
 
-1.  Original Acts. 2.  How far continued.
+1. Original Acts. 2. How far continued.
 
-(1)  5 A 6 Will. 4. c. 27. Linen, Hempen, Cotton, and other Manufactures (Ireland). The whole Act so far as it is not repealed.
+(1) 5 A 6 Will. 4. c. 27. Linen, Hempen, Cotton, and other Manufactures (Ireland). The whole Act so far as it is not repealed.
 
-(2)  3 & 4 Vict. c. 89. Poor Rates, Stock in Trade Exemption. The whole Act.
+(2) 3 & 4 Vict. c. 89. Poor Rates, Stock in Trade Exemption. The whole Act.
 
-(3)  4 & 5 Vict. c. 85. Copyhold, In-closure, and Tithe Commissioners.  (*)  4 & 5 Vict. c. 59. Application of Highway Bates to Turnpike Roads.  (5)  10 & 11 Vict. o. 32. Landed Property Improvement (Ireland). So much as relates to the appointment of and the period for holding office by Commissioners and Other officers.  The whole Act.  As to powers of Commissioners.
+(3) 4 & 5 Vict. c. 85. Copyhold, In-closure, and Tithe Commissioners. (*) 4 & 5 Vict. c. 59. Application of Highway Bates to Turnpike Roads. (5) 10 & 11 Vict. o. 32. Landed Property Improvement (Ireland). So much as relates to the appointment of and the period for holding office by Commissioners and Other officers. The whole Act. As to powers of Commissioners.
 
-(6)  10 A 11 Vict. c. 98. Ecclesiastical Jurisdiction. As to provisions continued by 21 A 22 Vict. c. 50.
+(6) 10 A 11 Vict. c. 98. Ecclesiastical Jurisdiction. As to provisions continued by 21 A 22 Vict. c. 50.
 
-(7)  11 & 12 Vict. c. 32. County Cess (Ireland).  (8)  14 A 15 Vict. c. 104. Episcopal and Capitular Estates Management. The whole Act -
+(7) 11 & 12 Vict. c. 32. County Cess (Ireland). (8) 14 A 15 Vict. c. 104. Episcopal and Capitular Estates Management. The whole Act -
 
 The whole Act so far as it is not repealod.
 
-(9)  17 & 18 Vict. c. 102. Corrupt Practices Prevention. The whole Act so far as it is not repealed.
+(9) 17 & 18 Vict. c. 102. Corrupt Practices Prevention. The whole Act so far as it is not repealed.
 
-(10)  23 A 24 Vict. c. 19. Dwellings for Labouring Classes (Ireland). The whole Act.
+(10) 23 A 24 Vict. c. 19. Dwellings for Labouring Classes (Ireland). The whole Act.
 
-(11)  24 A 25 Vict. c. 109. Salmon Fishery (England) Act. As to appointment of inspectors, s. 31.
+(11) 24 A 25 Vict. c. 109. Salmon Fishery (England) Act. As to appointment of inspectors, s. 31.
 
 8.
 
@@ -18318,7 +18318,7 @@ marines, Ac.
 
 part.
 
-50 Geo. 3. o. 87.*  51 Geo. 3. c. 75* J- East India Company's Forces Repealed - 57
+50 Geo. 3. o. 87.* 51 Geo. 3. c. 75* J- East India Company's Forces Repealed - 57
 
 „ c. 103.* -52 Geo. 3. c. 151. j- Half-pay and other allowances Repealed - 57
 
@@ -18326,9 +18326,9 @@ part.
 
 58 Geo. 3. c. 78.* Regimental debts, Ac. -Half-pay, &c. -Acknowledgments by married Repealed - 57
 
-2 & 3 Will. 4. c. 106. -  Repealed - 57
+2 & 3 Will. 4. c. 106. - Repealed - 57
 
-3 A 4 Will. 4. c. 74. -  Amended - 68
+3 A 4 Will. 4. c. 74. - Amended - 68
 
 women.
 
@@ -18374,7 +18374,7 @@ Marine forces.
 
 16 & 17 Vict. c. 51. - Legacy and Succession Duty -Burial Grounds (Scotland) Amended - 12
 
-18 & 19 Vict. c. 68. -  Amended - 27
+18 & 19 Vict. c. 68. - Amended - 27
 
 19 & 20 Vict. c. 16. - Central Criminal* Court Amended - 64
 
@@ -18386,13 +18386,13 @@ Marine forces.
 
 Marine forces.
 
-20 & 21 Vict. c. 60. -, c. 85. - Court of Bankruptcy (Ireland) -Divorce Act, 1857 Amended • Amended - 23  68
+20 & 21 Vict. c. 60. -, c. 85. - Court of Bankruptcy (Ireland) -Divorce Act, 1857 Amended • Amended - 23 68
 
 21 & 22 Vict. c. 106. - Government of India Act, 1858 Amended - 63
 
 22 Vict. c. 26. -Superannuation—Customs Amended - 30
 
-22 & 23 Vict. c. 35. ss. 4-9. -  23 A 24 Vict. c. 126. s. 2. - Law of Property, Ac. -Common Law Procedure Act, Repealed -Repealed - 41  41
+22 & 23 Vict. c. 35. ss. 4-9. - 23 A 24 Vict. c. 126. s. 2. - Law of Property, Ac. -Common Law Procedure Act, Repealed -Repealed - 41 41
 
 1860.
 
@@ -18400,11 +18400,11 @@ Marine forces.
 
 „ c. 129. - Excise—Spirits exported Spirits, Channel Islands Amended . 12
 
-„ c. 129. ss. 2, 3. -  Repealed - 12
+„ c. 129. ss. 2, 3. - Repealed - 12
 
 „ c. 145. in part - Trustees, Ac. Act, 1860 Repealed - 41
 
-t> o. 152. -  24 & 25 Vict. c. 102. - j- Tramways (Ireland) - Amended - 17
+t> o. 152. - 24 & 25 Vict. c. 102. - j- Tramways (Ireland) - Amended - 17
 
 25 &26 Yiot. c. 65. - Jurisdiction in Homicides Amended • 64
 
@@ -18416,7 +18416,7 @@ t> o. 152. -  24 & 25 Vict. c. 102. - j- Tramways (Ireland) - Amended - 17
 
 27 & 28 Vict. c. 53. - Summary Procedure -Excise—Spirits exported Amended - 24 and 33
 
-28 & 29 Vict. c. 98. -  Amended - 12
+28 & 29 Vict. c. 98. - Amended - 12
 
 30 &31 Vict. o. 23. in part • Customs and Inland Revenue - Repealed - 12
 
@@ -18452,7 +18452,7 @@ i) c. 91. • Supreme Court of Judicature - Amended • 68
 
 „ c. 102. - Metropolitan Board of Works Amended - 48
 
-„ c. 103. in part - (Loans).  Warehousing of Wines and Repealed - 12
+„ c. 103. in part - (Loans). Warehousing of Wines and Repealed - 12
 
 Spirits.
 
@@ -18472,11 +18472,11 @@ Table B—Act* of former Seesions repealed and amended—continued.
 
 445
 
-Act repealed or amended.  Subject-matter. How affected. Chapter of 44 & 45 Vict.
+Act repealed or amended. Subject-matter. How affected. Chapter of 44 & 45 Vict.
 
-88 A34 Vict. c. 97. -  Stamp Duties ... Regulation of the Forces Act, Amended - 12
+88 A34 Vict. c. 97. - Stamp Duties ... Regulation of the Forces Act, Amended - 12
 
-34 &35 Vict. c. 86. as. 9,15.   Repealed - 57
+34 &35 Vict. c. 86. as. 9,15. Repealed - 57
 
 1871.
 
@@ -18484,7 +18484,7 @@ c. 96. - Pedlars Certificates Amended - 45
 
 c. 105. - Petroleum (Hawkers) - Amended - 67
 
-35 &36 Vict. c. 114. -  o. 42. in part - Tramways (Ireland)  Landlord and Tenant (Ireland) Amended • Repealed • 17  49
+35 &36 Vict. c. 114. - o. 42. in part - Tramways (Ireland) Landlord and Tenant (Ireland) Amended • Repealed • 17 49
 
 c. 55. - Basses Lights Act, 1872 Amended - 38
 
@@ -18496,15 +18496,15 @@ c. 76. - Coal Mines ... Amended • 26
 
 36 &37 Vict. c. 66. - Supreme Court of Judicature -Alkali Works - - - Amended - 68
 
-37 & 38 Vict. o. 43. -   Repealed - 37
+37 & 38 Vict. o. 43. - Repealed - 37
 
 t* c. 78. in part - Vendor and Purchaser Act, 1874 Repealed - 41
 
-38 & 39 Vict. c. 41. -  Duties on Inventories (Scotland) Amended • 12
+38 & 39 Vict. c. 41. - Duties on Inventories (Scotland) Amended • 12
 
 ft c. 65. - Metropolitan Board of Works Amended • 48
 
-99 c. 69. in part - (Money).  Militia Voluntary Enlistment Repealed - 57
+99 c. 69. in part - (Money). Militia Voluntary Enlistment Repealed - 57
 
 Act, 1875.
 
@@ -18520,9 +18520,9 @@ ft c. 89. - Public Works Loans Amended - 38
 
 |9 c. 59. - Appellate Jurisdiction -Sheriff Court (Scotland) Amended - 68
 
-»9 c. 70. -  Amended • 22
+»9 c. 70. - Amended • 22
 
-40 &41 Vict. c. 9. -  Supreme Court of Judicature - Amended - 68
+40 &41 Vict. c. 9. - Supreme Court of Judicature - Amended - 68
 
 99 c. 21. - Prison Act, 1877 Amended • 64
 
@@ -18530,9 +18530,9 @@ ft c. 89. - Public Works Loans Amended - 38
 
 (Scotland).
 
-ft  99 c. 35. -c. 62. - Metropolitan Open Spaces Solicitors Act, 1877 -Amended -Amended • 34  68
+ft 99 c. 35. -c. 62. - Metropolitan Open Spaces Solicitors Act, 1877 -Amended -Amended • 34 68
 
-41 A42 Vict. o. 10. in part -  Mutiny Act, 1878 Repealed - 57
+41 A42 Vict. o. 10. in part - Mutiny Act, 1878 Repealed - 57
 
 99 c. 11. - Marine Mutiny Act, 1878 Repealed - 57
 
@@ -18540,7 +18540,7 @@ ft  99 c. 35. -c. 62. - Metropolitan Open Spaces Solicitors Act, 1877 -Amended -
 
 99 c. 77. - Highways and Locomotives Spring Assizes Act, 1879 Amended - 72
 
-42 &43 Vict. c. 1. -   Amended - 64
+42 &43 Vict. c. 1. - Amended - 64
 
 99 c. 32. in part - Army Discipline, Ac. - Repealed - 57 and 58
 
@@ -18560,9 +18560,9 @@ ft c. 43. - East Indian Railway Amended • 53
 
 43 Vict. c. 1. . Seeds Supply (Ireland) - Amended - 28
 
-„ o. 14.  Probate and Legacy Duties Relief of Distress (Ireland) Amended - 12
+„ o. 14. Probate and Legacy Duties Relief of Distress (Ireland) Amended - 12
 
-43 A 44 Viet, a 14. -   Amended - 28
+43 A 44 Viet, a 14. - Amended - 28
 
 99 c. 19. 8. 53. - Tares Management Amended - 12
 
@@ -18580,7 +18580,7 @@ censes.
 
 99 c. 41. - Burials - Amended - 2
 
-44 A 45 Vict. c. 9. in part -„ c. 57. in part -  j-Army .... Repealed - 58
+44 A 45 Vict. c. 9. in part -„ c. 57. in part - j-Army .... Repealed - 58
 
 446
 
@@ -18594,15 +18594,15 @@ Repeals effected by the Statute Law Revision and Civil Procedure Act,
 
 Act repealed by 44 & 45 Vict. c. 59.* Subject-matter of Act repealed.
 
-20 Hen. 3. c. 1. -  52 Hen. 3. c. 3. ■ • „ c. 5. -„ c. 9. -„ c. 10. -„ c. 21. -„ c. 23. in pt. -  3 Edw. 1. e. 19. -  13 Edw. 1. c. 2. -„ c. 30. -c. 31. -  21 Edw. 1.  27 Edw. 1.  28 Edw. 1. c. 16. -  9 Edw. 2. stat. 2. in pt. -  12 Edw. 2.  Statutes of uncertain date The Provisions of Merton. Chapter one.  The Statute of Marlborough. Chapter three.  „ „ Chapter five.  „ , Chapter nine.  „ „ Chapter ten.  , „ Chapter twenty-one.  „ „ Chapter twenty-three.  The Statutes of Westminster j the First.  „ „ the Second. Chapter two.  , , the Second. Chapter thirty.  „ , the Second. Chapter thirty-one. Statute of the Justices of Assise.  The Statute of Fines levied.  Articles upon the Charters. Chapter sixteen.  The Statute of Sheriffs.  The Statute of Vork.  The Statutes of the Exchequer, from “And the treasurer and barons ” to “ the King's own debt.”
+20 Hen. 3. c. 1. - 52 Hen. 3. c. 3. ■ • „ c. 5. -„ c. 9. -„ c. 10. -„ c. 21. -„ c. 23. in pt. - 3 Edw. 1. e. 19. - 13 Edw. 1. c. 2. -„ c. 30. -c. 31. - 21 Edw. 1. 27 Edw. 1. 28 Edw. 1. c. 16. - 9 Edw. 2. stat. 2. in pt. - 12 Edw. 2. Statutes of uncertain date The Provisions of Merton. Chapter one. The Statute of Marlborough. Chapter three. „ „ Chapter five. „ , Chapter nine. „ „ Chapter ten. , „ Chapter twenty-one. „ „ Chapter twenty-three. The Statutes of Westminster j the First. „ „ the Second. Chapter two. , , the Second. Chapter thirty. „ , the Second. Chapter thirty-one. Statute of the Justices of Assise. The Statute of Fines levied. Articles upon the Charters. Chapter sixteen. The Statute of Sheriffs. The Statute of Vork. The Statutes of the Exchequer, from “And the treasurer and barons ” to “ the King's own debt.”
 
-1 Edw. 3. stat. 1.  2 Edw. 3. c. 2.  4 Edw. 3. in pt. -14 Edw. 3. stat. 1. c. 16. -18 Edw. 3. stat. 3. c. 5. -20 Edw. 3.  8 Bic. 2. -  11 Bic. 2.  12 Bic. 2. c. 10. in. pt. -  13 Bic. 2. stat. 1. in pt. -7 Hen. 4. c. 3.  34 & 35 Hen. 8. c. 26. in pt. Statute the First.  Statute made at Northampton. Chapter two.  Statute made at Westminster.  Statute the First. Chapter sixteen.  Statute the Third. Chapter five.  Ordinance for the Justices.  Statute made at Westminster in the Eighth year.  Statute ulade at Westminster in the Eleventh Tear.  Statute made at Cambridge in the Twelfth Tear. Chapter ten. Statute of the Thirteenth Tear.  Statute of the Seventh Tear. Chapter three.  For certain Ordinances in the King's Dominions and Principality of Wales.
+1 Edw. 3. stat. 1. 2 Edw. 3. c. 2. 4 Edw. 3. in pt. -14 Edw. 3. stat. 1. c. 16. -18 Edw. 3. stat. 3. c. 5. -20 Edw. 3. 8 Bic. 2. - 11 Bic. 2. 12 Bic. 2. c. 10. in. pt. - 13 Bic. 2. stat. 1. in pt. -7 Hen. 4. c. 3. 34 & 35 Hen. 8. c. 26. in pt. Statute the First. Statute made at Northampton. Chapter two. Statute made at Westminster. Statute the First. Chapter sixteen. Statute the Third. Chapter five. Ordinance for the Justices. Statute made at Westminster in the Eighth year. Statute ulade at Westminster in the Eleventh Tear. Statute made at Cambridge in the Twelfth Tear. Chapter ten. Statute of the Thirteenth Tear. Statute of the Seventh Tear. Chapter three. For certain Ordinances in the King's Dominions and Principality of Wales.
 
-23 Eliz. c. 3.  17 Chas. 2. c. 7. - For Beformation of Errors in Fines and Becoveries.  For more speedy mid effectuall proceeding upon Distresses and Avowryes for Bents.
+23 Eliz. c. 3. 17 Chas. 2. c. 7. - For Beformation of Errors in Fines and Becoveries. For more speedy mid effectuall proceeding upon Distresses and Avowryes for Bents.
 
-29 Ohas. 2. c. 3. in. pt. -12 A 13 Will. 3. c. 2. s. 3.  in pt.  9 Anne c. 25. s. 7.  5 Geo. 2. c. 27. -  11 Geo. 2. c. 19. s. 23. .-  12 Geo. 2. c. 27. -  43 Geo. 3. c. 161. s. 10. in pt. 52 Geo. 3. c. 101. s. 1. in pt.  1 Will. 4. c. 7. ss. 4, 8, 9.  „ c. 21. s. 6.  2 A 3 Will. 4. o. 33. in pt.  3 & 4 Will. 4. c. 42. in pt. For Prevention of Frauds and Perjuryes.  For the further Limitation of the Crown, Ac.  Proceedings on Writs of Mandamus, Ac.  Frivolous and Vexatious Arrests.  Securing the Payment of Bents, Ac.  Justices of Assize.  House Tax.  Charitable Trusts.  Judgments in Common Law Courts, Ac.  Proceedings in Prohibitionvuud Mandamus.  Service of Process froth Courts of Chancery and Exchequer. Further Amendment of the Law and better Advancement of Justice.
+29 Ohas. 2. c. 3. in. pt. -12 A 13 Will. 3. c. 2. s. 3. in pt. 9 Anne c. 25. s. 7. 5 Geo. 2. c. 27. - 11 Geo. 2. c. 19. s. 23. .- 12 Geo. 2. c. 27. - 43 Geo. 3. c. 161. s. 10. in pt. 52 Geo. 3. c. 101. s. 1. in pt. 1 Will. 4. c. 7. ss. 4, 8, 9. „ c. 21. s. 6. 2 A 3 Will. 4. o. 33. in pt. 3 & 4 Will. 4. c. 42. in pt. For Prevention of Frauds and Perjuryes. For the further Limitation of the Crown, Ac. Proceedings on Writs of Mandamus, Ac. Frivolous and Vexatious Arrests. Securing the Payment of Bents, Ac. Justices of Assize. House Tax. Charitable Trusts. Judgments in Common Law Courts, Ac. Proceedings in Prohibitionvuud Mandamus. Service of Process froth Courts of Chancery and Exchequer. Further Amendment of the Law and better Advancement of Justice.
 
-5 Vict. c. 5. in pt.  5 & 6 Vict. c. 54. s. 18. -  6 & 7 Vict. c. 67. in pt. -12 A 13 Vict. c. 96. s. 5.  in pt. Administration of Justice.  Actions of Beplevin for Bentcharge.  Writs of Error upon Proceedings on Mandamus. Admiralty Offences Colonial Act, 1849.  * See Note prefixed to Schedule to the Act.
+5 Vict. c. 5. in pt. 5 & 6 Vict. c. 54. s. 18. - 6 & 7 Vict. c. 67. in pt. -12 A 13 Vict. c. 96. s. 5. in pt. Administration of Justice. Actions of Beplevin for Bentcharge. Writs of Error upon Proceedings on Mandamus. Admiralty Offences Colonial Act, 1849. * See Note prefixed to Schedule to the Act.
 
 1881.
 

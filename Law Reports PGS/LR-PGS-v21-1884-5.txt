@@ -122,7 +122,7 @@ The Titles of the Public General Acts passed in the Sixth Session of the Twenty-
 
 35. An Act to amend the Public Health Act, 1875, in relation to Ships and Port Sanitary Authorities. 234
 
-36. An Act to provide for the regulation of land held by one of Her Majesty’s Principal Secretaries of State or a Volunteer Corps for an Artillery or Rifle Range, or a School of Gunnery, or like purposes. 235
+36. An Act to provide for the regulation of land held by one of Her Majesty's Principal Secretaries of State or a Volunteer Corps for an Artillery or Rifle Range, or a School of Gunnery, or like purposes. 235
 
 37. An Act to continue certain Turnpike Acts, and to repeal certain other Turnpike Acts; and for other purposes connected therewith. 237
 
@@ -140,7 +140,7 @@ The Titles of the Public General Acts passed in the Sixth Session of the Twenty-
 
 44. An Act to raise the sum of Four million pounds by Exchequer Bills or Treasury Bills, for the service of the year ending on the thirty-first day of March one thousand eight hundred and eighty-six. 271
 
-45. An Act to enable Her Majesty’s Postmaster General to acquire lands in London, Birmingham, Bristol, and Newcastle-upon-Tyne for the public service. 271
+45. An Act to enable Her Majesty's Postmaster General to acquire lands in London, Birmingham, Bristol, and Newcastle-upon-Tyne for the public service. 271
 
 46. An Act to prevent Medical Relief disqualifying a person from voting. 277
 
@@ -198,7 +198,7 @@ The Titles of the Public General Acts passed in the Sixth Session of the Twenty-
 
 73. An Act to provide greater facilities for the Sale of Land to occupying Tenants in Ireland. 380
 
-74. An Act to amend the Law relating to taking Evidence by Commission in India and the Colonies, and elsewhere in Her Majesty’s Dominions. 391
+74. An Act to amend the Law relating to taking Evidence by Commission in India and the Colonies, and elsewhere in Her Majesty's Dominions. 391
 
 75. An Act to amend the Prevention of Crimes Act, 1871. 392
 
@@ -718,7 +718,7 @@ Form of
 
 Property in respect of which the Person making the Return is rated [or liable to be rated, or occupier]. Situation or Description of every Dwelling-house, as defined by the Representation of the People Acts, forming part of the Property in First Column. Surname and other Name of every Man who was on the fifteenth [or in English Counties or in Scotch Counties or Boroughs last, or in Irish Counties or Boroughs twentieth] day of July last, and has been up to the date of the Return an Inhabitant Occupier of any Dwelling-house in the Second Column.
 
-1 ■  1
+1 ■ 1
 
 I declare that the above is a true and complete return.
 
@@ -996,9 +996,9 @@ SCHEDULE.
 
 Accommodation to be provided. Maximum Price.
 
-Lodging and attendance for soldier where hot meal furnished.  Hot meal as specified in Part I. of the Second Schedule to the Army Act, 1881.  Where no hot meal furnished, lodging and attendance, and candles, vinegar, salt, and the use of fire, and the necessary utensils for dressing and eating his meat.  Ten pounds of oats, twelve pounds of hay, and eight pounds of straw per day for each horse.  Lodging and attendance for officer Twopence halfpenny per night.  One shilling and one penny halfpenny each.  Fourpence per day.
+Lodging and attendance for soldier where hot meal furnished. Hot meal as specified in Part I. of the Second Schedule to the Army Act, 1881. Where no hot meal furnished, lodging and attendance, and candles, vinegar, salt, and the use of fire, and the necessary utensils for dressing and eating his meat. Ten pounds of oats, twelve pounds of hay, and eight pounds of straw per day for each horse. Lodging and attendance for officer Twopence halfpenny per night. One shilling and one penny halfpenny each. Fourpence per day.
 
-One shilling and ninepcnce per day.  Two shillings per night.
+One shilling and ninepcnce per day. Two shillings per night.
 
 Note.—An officer shall pay for his food.
 
@@ -1578,7 +1578,7 @@ Session and Chapter. Title. Part repealed.
 
 6 Vict. c. 18. • •> The Parliamentary Registration Act, 1843. Section forty. Schedule A.
 
-28 &29 Vict. c. 36. The ConntyVoters Registration Act, 1865. Section four.  | Section five.  1 Section twelve* : Schedule A.
+28 &29 Vict. c. 36. The ConntyVoters Registration Act, 1865. Section four. | Section five. 1 Section twelve* : Schedule A.
 
 30 A 31 Vict. c. 102. The Representation of the People Act, 1867. So much of section thirty as relates to persons entitled to vote for a county in respect of the occupation of premises other than lodgings.
 
@@ -2088,7 +2088,7 @@ of the] county of , in respect of the ownership of property
 
 situate in whole or in part within the parish [or township] of
 
-Margin for entering Overseers Objections. Name of each Voter at full Length, the Surname being first. Place of Abode. Nature  of  Qualification. Description of Qualifying Property.
+Margin for entering Overseers Objections. Name of each Voter at full Length, the Surname being first. Place of Abode. Nature of Qualification. Description of Qualifying Property.
 
 (Signed) A.B. 1 Overseers of the said parish C.D. / [or township].
 
@@ -2122,9 +2122,9 @@ To the overseers of the parish [or township] of .
 
 Name of the Voter objected to as described in the Register or List of Ownership Claimants. Place of Abode as described. Nature of Qualification as described. Description of Qualifying Property as given in the Register or List of Ownership Claimants.
 
-1  i 1  !  i
+1 i 1 ! i
 
-Dated the day of in the year  (Signed) A.B.  [Place of Abode."}
+Dated the day of in the year (Signed) A.B. [Place of Abode."}
 
 Form No. 5.
 
@@ -2408,7 +2408,7 @@ their names inserted in the list of parliamentary voters for the said [division 
 
 Names of Claimants in full. Surname being first. Description of Rooms occupied,and whether Furnished or not. Street, Lane, or other Place, and Number, if any, of House in which Lodgings are situate. Name and Address of Landlord or other Person to whom Rent is paid. Margin for Objections by Overseers.
 
-(Signed) A.B.  C.D. "I Overseers of the parish [or J township] of
+(Signed) A.B. C.D. "I Overseers of the parish [or J township] of
 
 Form (E.)
 
@@ -2418,17 +2418,17 @@ List of the persons entitled to be registered as parliamentary voters for the [ 
 
 of the inhabitant occupation of a dwelling-house, or of the occupation of any land or tenement of a dear yearly value of ten pounds, or of any right reserved by section ten of the Representation of the People Act, 1884, when such dwelling-house, land, or tenement is situate wholly or partly within this parish [or township].
 
-1.  Names of Voters in full. Surname being first. 2.  Place of Abode. 3.  • Nature of Qualification. 4.  Description of Qualifying Property.
+1. Names of Voters in full. Surname being first. 2. Place of Abode. 3. • Nature of Qualification. 4. Description of Qualifying Property.
 
-Brown, Thomas  Dwelling-house - ^ Elm Villa, Green Lane
+Brown, Thomas Dwelling-house - ^ Elm Villa, Green Lane
 
-Hodge, John v. £  ir* Dwelling-house - Cottage in Lewes Road [or Green Lane, or on Church Farm, or as case may fa].
+Hodge, John v. £ ir* Dwelling-house - Cottage in Lewes Road [or Green Lane, or on Church Farm, or as case may fa].
 
 Jackson, William - 3''*. 5 Land and tenement Horton Farm.
 
-Masters, Abel iii  e Land and tenement (joint). 2, Queen Street.
+Masters, Abel iii e Land and tenement (joint). 2, Queen Street.
 
-• South, William  Dwelling • house (successive). Oak Villa, Green Lane, 5, Queen Street.
+• South, William Dwelling • house (successive). Oak Villa, Green Lane, 5, Queen Street.
 
 AT.A-This list (No. 1.) does not contain the names of any parliamentary voters except those entitled in respect of a household or 101. occupation qualification, or of SOI.rental
 
@@ -2570,7 +2570,7 @@ of in respect of the occupation of property in this parish [or
 
 township] other than lodgings.
 
-Name of Claimant in full. Surname being first. Place of Nature of Description  of  Qualifying Property.
+Name of Claimant in full. Surname being first. Place of Nature of Description of Qualifying Property.
 
 ; Abode. Qualification.
 
@@ -2672,7 +2672,7 @@ High Street - I Tenement - Hill Form,Green Lane.
 
 the] county of , as follows:—
 
-Correct Name. | °f  I _  Correct nature of Qualification. Correct Description of Qualifying Property.
+Correct Name. | °f I _ Correct nature of Qualification. Correct Description of Qualifying Property.
 
 Giles* Joseph - 15, High Street Land and tenement Church Farm, Green Lane.
 
@@ -3410,7 +3410,7 @@ Form of Return.
 
 Property in respect of which the Person making the Return is Situation or Description of every Dwelling-house, as defined by the Representation of the People Acts, forming part of the Property in First Column. Surname and other Name of every Man who was on the fifteenth day of July last, and has l»een up to the date of the Return, an
 
-rated [or liable to be rated, or occupier].  Inhabitant Occupier of any Dwelling-house in the Second Column.
+rated [or liable to be rated, or occupier]. Inhabitant Occupier of any Dwelling-house in the Second Column.
 
 I declare that the above is a true and complete return.
 
@@ -3598,21 +3598,21 @@ JM.n.—1018 mt
 
 If the pariah is not in a municipal borough, omit the part between asterisks.
 
-1.  Names of Voters in full. Surname being first. 2.  Place of Abode. 3.  Nature of Qualification. 4.  Description of Qualifying Property.
+1. Names of Voters in full. Surname being first. 2. Place of Abode. 3. Nature of Qualification. 4. Description of Qualifying Property.
 
-1  Abrahams,Samuel Brown, Thomas -  Masters, Abel Smith, William - 12, High Street - ' Wood Villa, Gainsborough. 1, Brick Street -10, High Street House (joint) • Shop -  Dwelling-house  Dwelling-house  (successive). 12, High Street. 4, Brick Street.  1, Brick Street.  2, Brick Street. 10, High Street.
+1 Abrahams,Samuel Brown, Thomas - Masters, Abel Smith, William - 12, High Street - ' Wood Villa, Gainsborough. 1, Brick Street -10, High Street House (joint) • Shop - Dwelling-house Dwelling-house (successive). 12, High Street. 4, Brick Street. 1, Brick Street. 2, Brick Street. 10, High Street.
 
 Division Two. Persons entitled to be Registered as Parliamentary Voters in respect of the occupation aforesaid, but not to be enrolled as Burgesses.
 
 Name* of Voters in full. Surname being first. Place of Abode. Nature of Qualification. Description of Qualifying Property.
 
-Adams, John Stubbs, Thomas - 24, Duke Street 20, High Street - Land  Dwelling-house  (service). Garden • adj oining No. 7, Brick Street.  20, High Street.
+Adams, John Stubbs, Thomas - 24, Duke Street 20, High Street - Land Dwelling-house (service). Garden • adj oining No. 7, Brick Street. 20, High Street.
 
 Division Three. Persons entitled to be enrolled as Burgesses, but not to be Registered as Parliamentary Voters in respect of the occupation aforesaid.
 
 Names of Voters in fall. Surname being first. Place of Abode Nature of Qualification. Description of Qualifying Property.
 
-Gardener, Mary -Thompson, Henry 10, Brick Street 14, John Street - Warehouse  Shop 6, High Street. 3, Bnck Street.
+Gardener, Mary -Thompson, Henry 10, Brick Street 14, John Street - Warehouse Shop 6, High Street. 3, Bnck Street.
 
 (Signed) A.B. 1 Overseers of the parish [or C.D. j township] of
 
@@ -3646,9 +3646,9 @@ claim, in respect of residence in the same lodgings, to have their names inserte
 
 county.
 
-Names of Claimants in full, Surname being first. Description of Rooms occupied, and whether Furnished or not. Street, Lane, or other Place, and Number, if any, of House in which Lodgings are situate. Name and Address of Landlord or other Person to whom Rent is paid. Margin for  Objections by Overseers.
+Names of Claimants in full, Surname being first. Description of Rooms occupied, and whether Furnished or not. Street, Lane, or other Place, and Number, if any, of House in which Lodgings are situate. Name and Address of Landlord or other Person to whom Rent is paid. Margin for Objections by Overseers.
 
-1  j  1  1
+1 j 1 1
 
 (Signed) A.B.Overseers of the parish [or C.D. j township] of
 
@@ -3700,7 +3700,7 @@ borough of ] in respect of the qualification named below
 
 Dated the day of 18
 
-N-',,E.?,£laim,n^ Place of Abode, m full, Surname i  being first. | Nature of Qualification. Description of Qualifying Property.
+N-',,E.?,£laim,n^ Place of Abode, m full, Surname i being first. | Nature of Qualification. Description of Qualifying Property.
 
 1
 
@@ -3794,7 +3794,7 @@ named below [and 1 claim to have my name omitted from the corrupt and Schedule 3
 
 Dated the day of 18 .
 
-•  Name of Claimant in full. Surname being first. Place of Abode. Nature of Qualification. Description of Qualifying Property.
+• Name of Claimant in full. Surname being first. Place of Abode. Nature of Qualification. Description of Qualifying Property.
 
 (Signed)
 
@@ -3904,7 +3904,7 @@ parliamentary voters for the parliamentary borough of , [and
 
 burgesses for the municipal borough of ].
 
-Name of Claimant in full, Surname being first. Place of Nature of Description  of  Qualifying Property.
+Name of Claimant in full, Surname being first. Place of Nature of Description of Qualifying Property.
 
 Abode. Qualification.
 
@@ -4120,7 +4120,7 @@ Brown, John High Street Shop --- 2, Shire Lane.
 
 [and the burgess roll about to be made up of burgesses for the municipal borough of {as the case may 5e)], as follows:—
 
-Correct Name. Correct place of ' Correct nature of I  Correct Description of
+Correct Name. Correct place of ' Correct nature of I Correct Description of
 
 Abode. Qualification. , Qualifying Property.
 
@@ -4414,9 +4414,9 @@ Valuation Roll for the Burgh [or County] of________for the
 
 Year 188 -188 . Parish.
 
-No. Description and Situation oi Subjbct.   PRO-  PRIE-  TOR. TEN-  ANT. OCCU-  PIER. INHABITANT OCCUPIER not rated (48 Viet, c. S.ss.8 A 8). FEU DUTY or  GROUND  ANNUAL.   YEARLY RENT OR VALUE.
+No. Description and Situation oi Subjbct. PRO- PRIE- TOR. TEN- ANT. OCCU- PIER. INHABITANT OCCUPIER not rated (48 Viet, c. S.ss.8 A 8). FEU DUTY or GROUND ANNUAL. YEARLY RENT OR VALUE.
 
-Descrip-  tion. I Situa-| tion.
+Descrip- tion. I Situa-| tion.
 
 No.
 
@@ -4880,7 +4880,7 @@ of , in respect of property situate wholly or in part within
 
 the Polling District of
 
-Margin for entering Clerk of Peace's Objection as to other than Bated Occupiers. Margin or Column for 1 entering the Clerk of the Union's Objections as to Bated Occupiers. | Number prefixed to each Name on the Register. Surname  and  Christian Name of each Person on the Register. Place  of  Abode Nature  of  Qualifi-  cation. Amount of Qualification or Bating. Townland or other denomination, street, lane, or other like place in this Pol lime District, and number of house (if any), where the property is situate, or the name of the property, and the name of tli© tenant (if any), or if the qualification consists of a rentcharge, the name of the owners of the property out of which such rentcharge issues, or one of them, and the situation of the property.
+Margin for entering Clerk of Peace's Objection as to other than Bated Occupiers. Margin or Column for 1 entering the Clerk of the Union's Objections as to Bated Occupiers. | Number prefixed to each Name on the Register. Surname and Christian Name of each Person on the Register. Place of Abode Nature of Qualifi- cation. Amount of Qualification or Bating. Townland or other denomination, street, lane, or other like place in this Pol lime District, and number of house (if any), where the property is situate, or the name of the property, and the name of tli© tenant (if any), or if the qualification consists of a rentcharge, the name of the owners of the property out of which such rentcharge issues, or one of them, and the situation of the property.
 
 Directions as to Arrangement, Entitling, and Endorsement of Lists of Voters of each Polling District by Clerks of the Peace.
 
@@ -4900,7 +4900,7 @@ of until the first day of January one thousand eight hundred
 
 and
 
-Margin for entering Clerk of Peace's Objection as to other than Bated Occupiers and Householders. Margin or Column for entering the Clerk of the Union's Objections as to Rated Occupiers and Householders. Number Prefixed to each Name on the Register. Surname and Christian Name of each Person on the Register. Place  of  Abode. Nature  of  Qualifi-  cation. Amount  of  Qualifi-  cation  or  Rating. Townland or other denomination, street, lane, or other like place in this Polling District, and number of house (if any), where the property is situate, or name of the property, and the name of the tenant (if any), or if the qualification consists of a rentcharge, the name of the owners of the property out of which such rentcharge issues, or one of them, and the situation of the property.
+Margin for entering Clerk of Peace's Objection as to other than Bated Occupiers and Householders. Margin or Column for entering the Clerk of the Union's Objections as to Rated Occupiers and Householders. Number Prefixed to each Name on the Register. Surname and Christian Name of each Person on the Register. Place of Abode. Nature of Qualifi- cation. Amount of Qualifi- cation or Rating. Townland or other denomination, street, lane, or other like place in this Polling District, and number of house (if any), where the property is situate, or name of the property, and the name of the tenant (if any), or if the qualification consists of a rentcharge, the name of the owners of the property out of which such rentcharge issues, or one of them, and the situation of the property.
 
 The endorsement shall be as follows:— Division of the county of polling district of
 
@@ -5014,7 +5014,7 @@ Division of the county of polling district of
 
 The following persons have been objected to, as not being entitled to have their names retained in the list for this polling district of voters for the county of
 
-Surname and Christian Name of each Person objected to. Place  of  Abode. Nature of the supposed Qualification (if registered under 2 AS Will. 4.C.88. so state). Townland or denomination, street, lane, or other like place in this Polling District, and number of house (if any), where the property is situate, or name of the property, or name of the tenant, or if the qualification consist of a rente barge, then the names of the owners of the property out of which such rent is issuing, or some of them, and the situation of the property.
+Surname and Christian Name of each Person objected to. Place of Abode. Nature of the supposed Qualification (if registered under 2 AS Will. 4.C.88. so state). Townland or denomination, street, lane, or other like place in this Polling District, and number of house (if any), where the property is situate, or name of the property, or name of the tenant, or if the qualification consist of a rente barge, then the names of the owners of the property out of which such rent is issuing, or some of them, and the situation of the property.
 
 Dated this day of in the year
 
@@ -5030,7 +5030,7 @@ of persons entitled to vote at any election of a member of Parliament for the co
 
 of December 18
 
-Margin for entering Clerk of the Peace's Objectious as to others than Rated Occupiers. Margin or  Column for entering Clerk of the Union's Objections as to Rated Occupiers or Inhabitant Householders. Number prefixed to each Name on the Register. Surname and Christian Name of each Person on the Register. Place  of  Abode. Nature  of  Qualifi-  cation. Amount  of  Qualifi-  cation  or  Rating. Townland or denomination, street, lane, or other like place in this Polling District, and number of house (if any), where the property is situate, or name of the property, and the name of the tenant (if any), or if the qualification consist of a rent charge, then the name of the owners of the property out of which such rentcharge is issuing, or some of them, and the situation of the property.
+Margin for entering Clerk of the Peace's Objectious as to others than Rated Occupiers. Margin or Column for entering Clerk of the Union's Objections as to Rated Occupiers or Inhabitant Householders. Number prefixed to each Name on the Register. Surname and Christian Name of each Person on the Register. Place of Abode. Nature of Qualifi- cation. Amount of Qualifi- cation or Rating. Townland or denomination, street, lane, or other like place in this Polling District, and number of house (if any), where the property is situate, or name of the property, and the name of the tenant (if any), or if the qualification consist of a rent charge, then the name of the owners of the property out of which such rentcharge is issuing, or some of them, and the situation of the property.
 
 Dated this day of ,18 ,
 
@@ -5056,7 +5056,7 @@ poor law union of , and all which occupiers have on or before
 
 the first day of July in this year, paid all poor rates, if any, which have become payable by them respectively out of such respective lands, tenements, or hereditaments, previously to the first day of January last.*
 
-Column for entering the Clerk of the Union's Objections. Bated Occupier's Surname and Christian Name. Place  or  Abode. Bated Value of Premises. Townland or denomination, name and description of premises rated, street, lane, or other like place iu this Polling District, and number of house t if any), where the property is situate, or name of the property.
+Column for entering the Clerk of the Union's Objections. Bated Occupier's Surname and Christian Name. Place or Abode. Bated Value of Premises. Townland or denomination, name and description of premises rated, street, lane, or other like place iu this Polling District, and number of house t if any), where the property is situate, or name of the property.
 
 I certify that this is a correct list. Dated this day of July 18
 
@@ -5270,7 +5270,7 @@ being part of the poor law union of (or, in the case of joint
 
 occupiers, rated at a net annual value of such an amount as, when divided by the number of such occupiers, would give to each a net annual value of ten pounds or upwards), and also of persons entitled to vote as inhabitant householders, by virtue of the household qualification created by the Representation of the People Act, 1884, in all cases in which all poor rates, if any, which have become payable out of such respective premises previously to the [first day of January] last, have been paid on or before the first day of July.
 
-Margin for entering Town Clerk's Objections. Surname  and  Christian  Name. Place  of  Abode. Nature of Qualification, whether Rated Oooupier or Inhabitant Householder. Name or Description of Premises rated. Street, Lane, or other like Place in this Borough, and Number of the House (if any), where the Property is situate. Rated Value' of  Premises.
+Margin for entering Town Clerk's Objections. Surname and Christian Name. Place of Abode. Nature of Qualification, whether Rated Oooupier or Inhabitant Householder. Name or Description of Premises rated. Street, Lane, or other like Place in this Borough, and Number of the House (if any), where the Property is situate. Rated Value' of Premises.
 
 I certify that this is a correct list. Dated this day of July 18 .
 
@@ -5292,7 +5292,7 @@ Form No. 18.
 
 The List, for the year 18 , of all Persons (not being on the freeman's roll) entitled to vote in the election of a member [or members] for the borough of , in respect of any right whatsoever (other than and except the occupation as rated occupiers of premises of the rated net annual value of ten pounds or upwards, or the household franchise, or as lodgers).
 
-Margin for entering Town Clerk's Objections. Surname and Christian Name of each Voter. Place  of  Abode. Nature of Qualification. Street, Lane, or other Place in this Borough where the Property Is situate, and Number of the House (if any). [When the right of Voting depends on Property.]
+Margin for entering Town Clerk's Objections. Surname and Christian Name of each Voter. Place of Abode. Nature of Qualification. Street, Lane, or other Place in this Borough where the Property Is situate, and Number of the House (if any). [When the right of Voting depends on Property.]
 
 Dated this day of in the year
 
@@ -5370,7 +5370,7 @@ Column for entering Town Clerk's Objections. Surname and Christian Name of each 
 
 1
 
-Dated this day of  in the year (Signed) A.B, Town Clerk of the borough of
+Dated this day of in the year (Signed) A.B, Town Clerk of the borough of
 
 1885. 1 Parliamentary Begtitratum {Ireland).4c£, 1885. ,Ch.,17. 115
 
@@ -5460,7 +5460,7 @@ The following persons have been objected to as not being entitled to have their 
 
 virtue of any rights whatsoever (other than and except occupation as rated occupiers of premises of the rated net annual value of ten pounds or upwards, or than the household qualification or the lodger qualification).
 
-Surname and Christian Name of each Person objected to. Place of Abode. Nature of the supposed Qualification. Street, Lane, or other Place in the Borough where the Property is situate, and Number of the House (if any). •  [When the right depends on Property.]
+Surname and Christian Name of each Person objected to. Place of Abode. Nature of the supposed Qualification. Street, Lane, or other Place in the Borough where the Property is situate, and Number of the House (if any). • [When the right depends on Property.]
 
 Dated this day of in the year
 
@@ -5476,7 +5476,7 @@ Clerk.
 
 Hie following persons have been objected to as not being entitled to have their names retained on the list of persons on the freeman's roll for the borough of entitled to vote in the election of a member for the said borough.
 
-Surname and Christian Name of each Person Qbjected to,  1 If registered under 2 & 3 Will. 4. c. 88. so state. Place of Abode.
+Surname and Christian Name of each Person Qbjected to, 1 If registered under 2 & 3 Will. 4. c. 88. so state. Place of Abode.
 
 Dated this day of in the year •
 
@@ -5658,7 +5658,7 @@ Ch. 17. Parliamentary Registration ( ) Act, 1885. 48.Vicr.
 
 Form of .
 
-1.  Property in respect of which the Person making the Return is rated [or liable to be rated, or occupier]. 2.  Situation or Description of every Dwelling-house, as defined by the Representation of the People Acts, forming part of the Property in hirst Column. 3.  Surname and other Name of every Man who was on the twentieth day of July last, and has been up to the date of the Return, an Inhabitant Occnpier of any Dwelling-house in the Second Column.
+1. Property in respect of which the Person making the Return is rated [or liable to be rated, or occupier]. 2. Situation or Description of every Dwelling-house, as defined by the Representation of the People Acts, forming part of the Property in hirst Column. 3. Surname and other Name of every Man who was on the twentieth day of July last, and has been up to the date of the Return, an Inhabitant Occnpier of any Dwelling-house in the Second Column.
 
 I declare that the above is a true and complete return.
 
@@ -5718,9 +5718,9 @@ Voters therein.
 
 Session and Chapter. Title. Enactments applied.
 
-35 A 36 Vict. c. 33. - The Ballot Act, 1872  1 Section 18, sub-sections 1 to 7, both included; sub-sections 11, 12, and 13; sub-section 17, sub-section 19.
+35 A 36 Vict. c. 33. - The Ballot Act, 1872 1 Section 18, sub-sections 1 to 7, both included; sub-sections 11, 12, and 13; sub-section 17, sub-section 19.
 
-36 & 37 Vict. c. 2. - 1  The Polling Districts (Ireland) Sections 1 and 2, except sub-
+36 & 37 Vict. c. 2. - 1 The Polling Districts (Ireland) Sections 1 and 2, except sub-
 
 Act, 1873. sections 1 and 2 of section 2.
 
@@ -6410,9 +6410,9 @@ Part I.
 
 Boroughs to cease as such.
 
-Borough. County. Borough.  County.
+Borough. County. Borough. County.
 
-ENGLAND.  England—cont.
+ENGLAND. England—cont.
 
 Abingdon Berks and Oxford. Marlborough - . 1 Wilts.
 
@@ -6428,7 +6428,7 @@ Barnstaple Devon. Northallerton . York, North Riding.
 
 Beaumaris (district) Anglesey. Petersfield - - Southampton.
 
-Berwick-upon-Tweed  Poole - Dorset.
+Berwick-upon-Tweed Poole - Dorset.
 
 Bewdley Worcester. Radnor (district) - Radnor and Hereford.
 
@@ -6444,7 +6444,7 @@ Buckingham - Buckingham. Shaftesbury . Dorset and Wilts.
 
 Caine Wilts. Stamford - Lincoln and North-
 
-Cardigan (district) - Cardigan .Pembroke,   ampton.
+Cardigan (district) - Cardigan .Pembroke, ampton.
 
 and Carmarthen. Stroud - . Gloucester.
 
@@ -6468,7 +6468,7 @@ Dorchester Dorset. Wenlock . Salop.
 
 Droitwich - Worcester. Westbury - Wilts.
 
-East Retford • Nottingham and Weymouth and Mel-  Dorset.
+East Retford • Nottingham and Weymouth and Mel- Dorset.
 
 York. combe Regis.
 
@@ -6484,13 +6484,13 @@ Berks. SCOTLAND.
 
 Guildford - Surrey.
 
-Harwich Essex. Haddington (District  Haddington, Rox-
+Harwich Essex. Haddington (District Haddington, Rox-
 
-Haverfordwest (dis- Pembroke. of Burghs').  burgh,and Berwick.
+Haverfordwest (dis- Pembroke. of Burghs'). burgh,and Berwick.
 
-trict).  Wigtown (District  Wigtown and Kirk-
+trict). Wigtown (District Wigtown and Kirk-
 
-Helston - Cornwall. of Burghs).  cudbright.
+Helston - Cornwall. of Burghs). cudbright.
 
 Hertford Hertford.
 
@@ -6502,19 +6502,19 @@ Kendal - Westmoreland. Armagh - . Armagh.
 
 Knaresborough York, West Riding. Athlone - Westmeath and Ros-
 
-Launceston Cornwall.   common.
+Launceston Cornwall. common.
 
 Leominster Hereford. Bandon - . Cork.
 
 Lewes Sussex. Carlow . Carlow and Queen's.
 
-Lichfield  Carrickfergus - -
+Lichfield Carrickfergus - -
 
 Liskeard Cornwall. Clonmel - Tipperary and Waterford.
 
 Ludlow - Salop and Hereford.
 
-Lymington -Maldon - : Southampton. ! Essex. Coleraine Downpatrick - I Londonderry.  Down.
+Lymington -Maldon - : Southampton. ! Essex. Coleraine Downpatrick - I Londonderry. Down.
 
 Malmesbury Wilts. Drogheda - -
 
@@ -6530,11 +6530,11 @@ Ch. 23.
 
 143
 
-Borough. County.  Borough. County.
+Borough. County. Borough. County.
 
-Ireland—   Ireland— cont.
+Ireland— Ireland— cont.
 
-Dungarvan  Enniw  Enniskillen  Kinsale  Lisburn ... Mallow Waterford.  Clare.  Fermanagh.  Cork.  Antrim and Down. Cork.  New Ross  Portarlington  Tralee  Wexford ... Youghal Wexford and Kilkenny. # Queen's and King's. Kerry.  Wexford.  Cork.
+Dungarvan Enniw Enniskillen Kinsale Lisburn ... Mallow Waterford. Clare. Fermanagh. Cork. Antrim and Down. Cork. New Ross Portarlington Tralee Wexford ... Youghal Wexford and Kilkenny. # Queen's and King's. Kerry. Wexford. Cork.
 
 Part II. Section 2.
 
@@ -6550,9 +6550,9 @@ Lichfield ------- Stafford.
 
 Carrickfergus .... Antrim.
 
-Drogheda - -   Louth.
+Drogheda - - Louth.
 
-t  PART III. Section 8.
+t PART III. Section 8.
 
 Boroughs Disfranchised for Corruption.
 
@@ -6622,7 +6622,7 @@ Sections. THIRD SCHEDULE.
 
 Boroughs to have Additional Members.
 
-I  Name of Borough. Total Number of Members. Name of Borough. Total Number of Members.
+I Name of Borough. Total Number of Members. Name of Borough. Total Number of Members.
 
 ENGLAND.
 
@@ -6630,13 +6630,13 @@ Birmingham - - - Seven. SCOTLAND.
 
 Bradford - - - Three. Aberdeen -
 
-Bristol - - - Four.  Two.
+Bristol - - - Four. Two.
 
-Kingston-upon-Hull -Leeds Three.  Five. Edinburgh ... Glasgow • - Four.  Seven.
+Kingston-upon-Hull -Leeds Three. Five. Edinburgh ... Glasgow • - Four. Seven.
 
-Liverpool -Manchester ... Nine.  Six.
+Liverpool -Manchester ... Nine. Six.
 
-Nottingham -  Salford ... Three.  Three.
+Nottingham - Salford ... Three. Three.
 
 Sheffield ... Five.
 
@@ -11850,7 +11850,7 @@ Year and Chapter. | Title. . Extent of Repeal.
 
 33 & 34 Vict. c. 25. An Act to disfranchise certain voters of the city of Norwich. The whole Act.
 
-33 A 34 Vict. c. 38. i  An Act to disfranchise the boroughs of Sligo and Cashel. Sections two, three, and four.
+33 A 34 Vict. c. 38. i An Act to disfranchise the boroughs of Sligo and Cashel. Sections two, three, and four.
 
 33 & 34 Vict. c. 54. An Act to disfranchise certain voters of the city of Dublin. The whole Act.
 
@@ -12714,9 +12714,9 @@ Extent of Act. Short title.
 
 SCHEDULES.
 
-County.  Name of Trust. No. of Schedule. No. of Act.
+County. Name of Trust. No. of Schedule. No. of Act.
 
-Chester  Thornset - 1 7
+Chester Thornset - 1 7
 
 Cornwall . Penzance and Saint Just 1 5
 
@@ -12724,7 +12724,7 @@ Derby - Ashborne to Belper Bridge 1 4
 
 Cromford and Belper ... Combmartin and Ilfracombe 1 11
 
-Devon •  4 6
+Devon • 4 6
 
 Durham - Derwent and Shotley Bridge 1 12
 
@@ -12744,19 +12744,19 @@ Leicester . Moira and Greeley ... 2 2
 
 Northumberland - North Shields and Newcastle-on-Tyne - 1 9
 
-Salop  York  Wem and Bronygarth, First District -Leeds and Birstal ... 4  4 2,3  4
+Salop York Wem and Bronygarth, First District -Leeds and Birstal ... 4 4 2,3 4
 
-Denbigh  Mytholmroyd and Blackstone Edge Llanrwst and Abergele ... 1  1 10  1
+Denbigh Mytholmroyd and Blackstone Edge Llanrwst and Abergele ... 1 1 10 1
 
 Merioneth - • Portmadoc and Beaverpool Bridge Cilgwrgan Bettws and Tregynon 1 8
 
-Montgomery *  2 1
+Montgomery * 2 1
 
 FIRST SCHEDULE.
 
 Acts which are to continue in force until the dates specified in each instance, and no longer.
 
-1.  Date of Act. 2.  Title of Act. 3.  Date to which Act is continued.
+1. Date of Act. 2. Title of Act. 3. Date to which Act is continued.
 
 22 & 23 Vict. c. lxxviii. 1. An Act for making a road from Llanrvst to Abergele, and a branch road thereout, in the counties of Denbigh and Caernarvon. 1 November 1885.
 
@@ -12834,7 +12834,7 @@ SECOND SCHEDULE.
 
 Acts which are to be repealed on the dates specified.
 
-1. i 2.  i 3.
+1. i 2. i 3.
 
 Date of Act. Title of Act Date of Repeal.
 
@@ -12850,7 +12850,7 @@ THIRD SCHEDULE.
 
 Act which is to continue in force until the date specified and no longer, unless Parliament in the meantime otherwise provides.
 
-1.  Date of Act. 2.  Title of Act. 3.  Date to which Act is continued.
+1. Date of Act. 2. Title of Act. 3. Date to which Act is continued.
 
 21 & 22 Vict. c. lxxxvi. 1. An Act to repeal the Act relating to the Dean Forest Turnpike Roads, and to make other provisions in lieu thereof, and to authorise the construction of a new road, and for other purposes. 1 November 1891.
 
@@ -12858,7 +12858,7 @@ FOURTH SCHEDULE.
 
 Acts which are to continue in force, subject to modifications, until the Dates specified in each instance, and no longer.
 
-*•  Date of Act. 1  i *•  Title of Act. 3.  Extent to which the Act is continued. 4.  Dates from which Modifications are to commence or be continued. 6.  Modifications. 1 6‘  I Date to which Act is continued.
+*• Date of Act. 1 i *• Title of Act. 3. Extent to which the Act is continued. 4. Dates from which Modifications are to commence or be continued. 6. Modifications. 1 6‘ I Date to which Act is continued.
 
 13 & 14 Viet, c. hevi. 1. An Act for continuing the term of an Act passed in the fourth year of the reign of His late Majesty King George the Fourth, intituled An Act for building a bridge over the River Severn at or near to the Mytbe Hill, within the parish and near to the town of Tewkesbury, in the county of Gloucester, to the opposite side of the said river, in die parish of Bushley, in the county of Worcester, and for making convenient So far as the Act relates to the bridge over the River Severn at or near theMythe Hill. The date of the passing of the Annual Turnpike Acts Continuance Act, 1885. No interest payable. No return toll to be taken for horses drawing. 1 November 1896.
 
@@ -12870,7 +12870,7 @@ Ch. 37. Annual Turnpike Ada Continuance , 1885. 48 & 49 Vict.
 
 1. 2. 3. 4. 5. 6.
 
-Date of Act. Title of Act. Extent to which the Act is continued. Dates from which Modifications are to commence or be continued. Modifications.  i  I Date to which Act | is con-| tiuued.
+Date of Act. Title of Act. Extent to which the Act is continued. Dates from which Modifications are to commence or be continued. Modifications. i I Date to which Act | is con-| tiuued.
 
 roads and avenues to communi-
 
@@ -13570,7 +13570,7 @@ On Vessels arriving prom or departing to any Foreign or Colonial Port.
 
 Vessels arriving for the purpose of shelter to pay only the rates per diem or per ton as per column No. 2.
 
-1.  For first week. 2.  For any time after first week.
+1. For first week. 2. For any time after first week.
 
 3d. per diem - 3d. per diem.
 
@@ -13578,7 +13578,7 @@ Is. „ . - 6d. „
 
 2s. „ - . Is.
 
-3s. „ - -  3d. per ton register for a period of 14 days.  5d. per ton register for a period of 14 days. Is. 6d. „  id. per ton for eveiy subsequent week or part of a week.  Ditto.
+3s. „ - - 3d. per ton register for a period of 14 days. 5d. per ton register for a period of 14 days. Is. 6d. „ id. per ton for eveiy subsequent week or part of a week. Ditto.
 
 1885.
 
@@ -13676,9 +13676,9 @@ Session and Chapter. Short Title. Extent of Repeal.
 
 28 A 29 Vict. c. 89. The Greenwich Hospital Act, 1865. Sections nine, twenty-one, forty-eight, fifty, fifty-one, fifty-seven.
 
-33 A 34 Vict. c. 100. The Greenwich Hospital Act, 1870.  The Greenwich Hospital Act, 1872. The whole Act.
+33 A 34 Vict. c. 100. The Greenwich Hospital Act, 1870. The Greenwich Hospital Act, 1872. The whole Act.
 
-35 A 36 Vict. o. 67. -  In section five the words “ The “ total number of boys and “ girls being educated and “ maintained under this sec-“ tion at any one time shall not “ exceed fifty ” ; and sections six and seven.
+35 A 36 Vict. o. 67. - In section five the words “ The “ total number of boys and “ girls being educated and “ maintained under this sec-“ tion at any one time shall not “ exceed fifty ” ; and sections six and seven.
 
 46 A 47 Viet c. 32.- The Greenwich Hospital Act, 1883. Section five.
 
@@ -14756,11 +14756,11 @@ Section of I Act. [ Purpose. Amount
 
 Supplemental cp to 31st December 1885. £
 
-4 (i.) Bridges under Act of 1877 (amount already sanctioned, 20,000?.)  \  20,000 0 0
+4 (i.) Bridges under Act of 1877 (amount already sanctioned, 20,000?.) \ 20,000 0 0
 
-4 (ii.) Streets under Act of 1877 (amount already sanctioned, 410,000/.)  11,000 0 0
+4 (ii.) Streets under Act of 1877 (amount already sanctioned, 410,000/.) 11,000 0 0
 
-4 (iii.) Streets under Act of 1883 (amount already sanctioned, 200,000/.)  257,000 0 0
+4 (iii.) Streets under Act of 1883 (amount already sanctioned, 200,000/.) 257,000 0 0
 
 5 Loans to Guardians (amount already sanctioned, 200,000?.) - 200,000 0 0
 
@@ -15684,73 +15684,73 @@ extent in column two of the said schedule mentioned, be continued until the thir
 
 SCHEDULE.
 
-1.  Original Acts. 2.  How far continued. 3.  Amending Acts.
+1. Original Acts. 2. How far continued. 3. Amending Acts.
 
-a)  5 & 6 Will. 4. c. 27. Linen, Hempen, Cotton, and other Manufactures (Ireland).  (2)  3 A4 Vict. c. 89. Poor Rates, Stock in Trade Exemption. The whole Act so far as it is not repealed. 3 A 4 Vict. c. 91.  5 A 6 Vict. c. 68.  7 A 8 Vict. c. 47. 30 A 31 Vict. c. 60.
+a) 5 & 6 Will. 4. c. 27. Linen, Hempen, Cotton, and other Manufactures (Ireland). (2) 3 A4 Vict. c. 89. Poor Rates, Stock in Trade Exemption. The whole Act so far as it is not repealed. 3 A 4 Vict. c. 91. 5 A 6 Vict. c. 68. 7 A 8 Vict. c. 47. 30 A 31 Vict. c. 60.
 
 The whole Act. —
 
-(3)  4 A 5 Vict. c. 30. Survey of Great Britain. The whole Act so far as it is not repealed. 33 Vict. c. 13.
+(3) 4 A 5 Vict. c. 30. Survey of Great Britain. The whole Act so far as it is not repealed. 33 Vict. c. 13.
 
-(4)  4 A 5 Vict. c. 35. Copyhold, Inclosure, and Tithe Commissioners (now Land Commissioners).  (5)  4 A 5 Vict. c. 59. Application of Highway Rates to Turnpike Roads. So much as relates to the appointment of and the period for holding office by Land Commissioners and other officers.  The whole Act. 14 A 15 Vict. c. 53. 25 A 26 Vict. c. 73. 45 A 46 Vict. c. 38. s. 48.
+(4) 4 A 5 Vict. c. 35. Copyhold, Inclosure, and Tithe Commissioners (now Land Commissioners). (5) 4 A 5 Vict. c. 59. Application of Highway Rates to Turnpike Roads. So much as relates to the appointment of and the period for holding office by Land Commissioners and other officers. The whole Act. 14 A 15 Vict. c. 53. 25 A 26 Vict. c. 73. 45 A 46 Vict. c. 38. s. 48.
 
-(6)  10 & 11 Vict. c. 98. Ecclesiastical Jurisdiction. As to provisions continued by 21 A 22 Vict. c. 50. —
+(6) 10 & 11 Vict. c. 98. Ecclesiastical Jurisdiction. As to provisions continued by 21 A 22 Vict. c. 50. —
 
-(7)  11 A 12 Vict. c. 32. County Cess (Ireland). The whole Act - 20 A 21 Vict. c. 7.
+(7) 11 A 12 Vict. c. 32. County Cess (Ireland). The whole Act - 20 A 21 Vict. c. 7.
 
-(8)  14 A 15 Vict. c. 104. Episcopal and Capitular Estates Management.  ' (9)  17 A 18 Vict. c. 102. Corrupt Practices Prevention. The whole Act so far as it is not repealed. 17 A 18 Vict. c. 116.  21 A 22 Vict. c. 94.  22 A 23 Vict. c. 46.  23 A 24 Vict. c. 124. 31 A 32 Vict. c. 114.  s. 10.
+(8) 14 A 15 Vict. c. 104. Episcopal and Capitular Estates Management. ' (9) 17 A 18 Vict. c. 102. Corrupt Practices Prevention. The whole Act so far as it is not repealed. 17 A 18 Vict. c. 116. 21 A 22 Vict. c. 94. 22 A 23 Vict. c. 46. 23 A 24 Vict. c. 124. 31 A 32 Vict. c. 114. s. 10.
 
 So much as is continued by the Corrupt and Illegal Practices Prevention Act, 1883. 26 A 27 Vict. c.29. s.6. 31 A 32 Vict. c. 125. 46 A 47 Vict. c. 51.
 
-(10)  23 A 24 Vict. c. 19. Dwellings for Labouring Classes (Ireland). The whole Act. —
+(10) 23 A 24 Vict. c. 19. Dwellings for Labouring Classes (Ireland). The whole Act. —
 
-(11)  24 A 25 Vict. c. 109. Salmon Fishery (England). As to appointment of inspectors,  8. 31. I —
+(11) 24 A 25 Vict. c. 109. Salmon Fishery (England). As to appointment of inspectors, 8. 31. I —
 
 1885. Expiring Laws Continuance Act,1885. Ch. 59. 323
 
-1.  Original Acfc. 2.  How far continued. 3.  Amending Acts.
+1. Original Acfc. 2. How far continued. 3. Amending Acts.
 
-(12)  26 & 27 Vict. c. 105. Promissoi-y Notes. The whole Act - 45 & 46 Vict. c. 61.
+(12) 26 & 27 Vict. c. 105. Promissoi-y Notes. The whole Act - 45 & 46 Vict. c. 61.
 
-(13)  27 & 28 Vict. c. 20. Promissory Notes and Bills of Exchange (Ireland). The whole Act. —
+(13) 27 & 28 Vict. c. 20. Promissory Notes and Bills of Exchange (Ireland). The whole Act. —
 
-(14)  28 & 29 Vict. c. 46. Militia Ballots Suspension. The whole Act. —
+(14) 28 & 29 Vict. c. 46. Militia Ballots Suspension. The whole Act. —
 
-(15)  28 & 29 Vict. c. 83. Locomotives on Roads.  (16)  29 «fe 30 Vict. c. 52. Prosecution Expenses. The whole Act so far as it is not repealed. 41 A 42 Vict. c. 58.  41 & 42 Vict. c. 77. (Part n.)
+(15) 28 & 29 Vict. c. 83. Locomotives on Roads. (16) 29 «fe 30 Vict. c. 52. Prosecution Expenses. The whole Act so far as it is not repealed. 41 A 42 Vict. c. 58. 41 & 42 Vict. c. 77. (Part n.)
 
 The whole Act '
 
-(17)  31 A 32 Vict. c. 125. Parliamentary Elections. So much as is continued by the Corrupt and Illegal Practices Prevention Act, 1883. 42 & 43 Vict. c. 75. 46 A 47 Vict. c. 5L
+(17) 31 A 32 Vict. c. 125. Parliamentary Elections. So much as is continued by the Corrupt and Illegal Practices Prevention Act, 1883. 42 & 43 Vict. c. 75. 46 A 47 Vict. c. 5L
 
-(18)  32 A 33 Vict. c. 21. Election Commissioners Expenses. The whole Act - 34 & 35 Vict. c. 61.
+(18) 32 A 33 Vict. c. 21. Election Commissioners Expenses. The whole Act - 34 & 35 Vict. c. 61.
 
-(19)  32 A 33 Vict. c. 56. Endowed Schools (Schemes).  (20)  34 A 35 Vict. c. 87. Sunday Observance Prosecutions. As to the powers of making schemes, and as to the pay* ment of the salaries of additional Charity Commissioners and additional secretary.  The whole Act. 36 A 37 Vict. c. 87.  37 A38 Vict. c. 87.
+(19) 32 A 33 Vict. c. 56. Endowed Schools (Schemes). (20) 34 A 35 Vict. c. 87. Sunday Observance Prosecutions. As to the powers of making schemes, and as to the pay* ment of the salaries of additional Charity Commissioners and additional secretary. The whole Act. 36 A 37 Vict. c. 87. 37 A38 Vict. c. 87.
 
-(21)  35 A 36 Vict. c. 33. Parliamentary and Municipal Elections (Ballot). •  The whole Act so far as it is not repealed. 45 A 46 Vict. c. 50. (Municipal Elections.)
+(21) 35 A 36 Vict. c. 33. Parliamentary and Municipal Elections (Ballot). • The whole Act so far as it is not repealed. 45 A 46 Vict. c. 50. (Municipal Elections.)
 
-(22)  36 A 37 Vict. c. 48. Regulation of Railways. The whole Act - 37 A 38 Yict c. 40. (Part II.)
+(22) 36 A 37 Vict. c. 48. Regulation of Railways. The whole Act - 37 A 38 Yict c. 40. (Part II.)
 
-(23)  38 A 39 Vict. c. 48. Police Expenses. The whole Act. —
+(23) 38 A 39 Vict. c. 48. Police Expenses. The whole Act. —
 
-(24)  38 A 39 Vict. c. 84. Returning Officers Expenses. The whole Act 46 A47 Vict. c. 51. s. 32.
+(24) 38 A 39 Vict. c. 84. Returning Officers Expenses. The whole Act 46 A47 Vict. c. 51. s. 32.
 
-(25)  39 A 40 Vict. c. 21. Juries (Ireland). The whole Act. —
+(25) 39 A 40 Vict. c. 21. Juries (Ireland). The whole Act. —
 
 324
 
 Ch. 59, 60. Expiring Laws Continuance ,1885. 48 & 49 Vict.
 
-1.  Original Acts. 2.  How far continued. 3.  Amending Acts.
+1. Original Acts. 2. How far continued. 3. Amending Acts.
 
-(26)  41 & 42 Vict. c. 41. Returning Officers Expenses (Scotland). The whole Act. —
+(26) 41 & 42 Vict. c. 41. Returning Officers Expenses (Scotland). The whole Act. —
 
-(27)  41 & 42 Vict. c. 72. Sale of Liquors on Sunday (Ireland). The whole Act. —
+(27) 41 & 42 Vict. c. 72. Sale of Liquors on Sunday (Ireland). The whole Act. —
 
-(28)  43 Vict. c. 18. Parliamentary Elections. The whole Act so far as it is not repealed. —
+(28) 43 Vict. c. 18. Parliamentary Elections. The whole Act so far as it is not repealed. —
 
-(29)  46 & 47 Vict. c. 35. Diseases Prevention, Metropolis. The whole Act ♦ 47 St 48 Vict. c. 60.
+(29) 46 & 47 Vict. c. 35. Diseases Prevention, Metropolis. The whole Act ♦ 47 St 48 Vict. c. 60.
 
-(30)  46 & 47 Vict. c. 51. Corrupt and Illegal Practices Prevention. The whole Act. —
+(30) 46 & 47 Vict. c. 51. Corrupt and Illegal Practices Prevention. The whole Act. —
 
 CHAPTER 60.
 
@@ -16146,11 +16146,11 @@ Part II.
 
 Powers and Duties of the Privy Council.
 
-Subject.   Act.
+Subject. Act.
 
-Board of Manufactures   10 & 11 Vict. c. 91.
+Board of Manufactures 10 & 11 Vict. c. 91.
 
-Publio Health   30 A31 Vict. c. 101. Part iii. And any Acts amending the said Acts, and conferring powers on the said Privy Council in relation thereto.
+Publio Health 30 A31 Vict. c. 101. Part iii. And any Acts amending the said Acts, and conferring powers on the said Privy Council in relation thereto.
 
 332
 
@@ -16168,15 +16168,15 @@ Powers and Duties of the Treasury.
 
 Subject. Act.
 
-Assessor of Railways and Canals -  Board of Manufactures -  General Register House in Edinburgh, except the power to fix salaries and emoluments. 17 & 18 Vict. c. 91. s. 29. r 13 Geo. I. c. 26.  13 Geo. I. c. 30. i 48 Geo. III. c. 110.  110 & 11 Vict. c. 91.  42 &43 Vict. c. 44. sec. 8.  And any Acts amending the said Acts, and conferring powers on the said Commissioners of Her Majesty's Treasury in relation thereto.
+Assessor of Railways and Canals - Board of Manufactures - General Register House in Edinburgh, except the power to fix salaries and emoluments. 17 & 18 Vict. c. 91. s. 29. r 13 Geo. I. c. 26. 13 Geo. I. c. 30. i 48 Geo. III. c. 110. 110 & 11 Vict. c. 91. 42 &43 Vict. c. 44. sec. 8. And any Acts amending the said Acts, and conferring powers on the said Commissioners of Her Majesty's Treasury in relation thereto.
 
 Part IV.
 
-Powers and Duties of the Local Government Board for  England.
+Powers and Duties of the Local Government Board for England.
 
 Subject. Act.
 
-Loans by Public Works Loan Commissioners Alkali   1 f 38 &39 Vict. c. 89.  « 41 Vict. c. 18.  144 &45 Vict. c. 38.  44 & 45 Vict. c. 37.  And any Acts amending the said Acts, and conferring powers on the said Local Government Board in relation thereto.
+Loans by Public Works Loan Commissioners Alkali 1 f 38 &39 Vict. c. 89. « 41 Vict. c. 18. 144 &45 Vict. c. 38. 44 & 45 Vict. c. 37. And any Acts amending the said Acts, and conferring powers on the said Local Government Board in relation thereto.
 
 CHAPTER 62.
 
@@ -16382,11 +16382,11 @@ Fart 1. Civil Services Deficiencies, 1883-84 -
 
 8,045 5 7 505,339 0 0 706,200 0 0 50,000 0 0 2,234,500 0 0 675,000 0 0
 
-„ 7. 1  ! 1885-86.
+„ 7. 1 ! 1885-86.
 
 „ 8. Army *
 
-, 9. Civil Services,  , Class I. £  1,864,196
+, 9. Civil Services, , Class I. £ 1,864,196
 
 „ 10. Ditto, Class II. ... 2,464,099
 
@@ -16396,11 +16396,11 @@ ft 12. Ditto, Class IV. - 5,244,280
 
 , 13. Ditto, Class Y. 568,913
 
-„ 14. Ditto, Class YI  1,216,000
+„ 14. Ditto, Class YI 1,216,000
 
 „ 15. Ditto, Class YII. .... 94,460
 
-Total Civil Services ...  .
+Total Civil Services ...
 
 , 16. Revenue departments, Ac. .... , 17. Afghan War (Grant in Aid)- ... , 18. Naval and Military Operations (Vote of Credit) -„ 19. H.R.H. the Princess Beatrice (Marriage Portion)
 
@@ -16456,17 +16456,17 @@ Schedule of Sums granted to make good deficiencies on the several grants herein 
 
 CIVIL SERVICES.
 
-Class I.  Diplomatic and Consular Buildings - . • • . £ s.  107 17 d■ 6
+Class I. Diplomatic and Consular Buildings - . • • . £ s. 107 17 d■ 6
 
 Class II.
 
-Privy Council .....     81 10 5
+Privy Council ..... 81 10 5
 
 Registrar General's Office (Scotland) . - - - - 3 4 3
 
 Class III.
 
-Constabulary, Ireland ....     7,780 8 5
+Constabulary, Ireland .... 7,780 8 5
 
 Class VI.
 
@@ -17106,45 +17106,45 @@ Sums not exceeding
 
 No. £
 
-4. For salaries and expenses of the office of Her Majesty's Secretary of  State for the Home Department and subordinate offices -  5. For salaries and expenses of the department of Her Majesty's Secretary j 96,323
+4. For salaries and expenses of the office of Her Majesty's Secretary of State for the Home Department and subordinate offices - 5. For salaries and expenses of the department of Her Majesty's Secretary j 96,323
 
-of State for Foreign Affairs ------  6. For salaries and expenses of the department of Her Majesty's Secretary of State for the Colonies, including certain expenses connected with Emi- 71,373
+of State for Foreign Affairs ------ 6. For salaries and expenses of the department of Her Majesty's Secretary of State for the Colonies, including certain expenses connected with Emi- 71,373
 
-g ration -  7. For salaries and expenses of the department of Her Majesty's Most 40,063
+g ration - 7. For salaries and expenses of the department of Her Majesty's Most 40,063
 
-Hononrable Privy Council and subordinate departments 8. For salaries and expenses of the office of the Committee of Privy Council 46,883  1
+Hononrable Privy Council and subordinate departments 8. For salaries and expenses of the office of the Committee of Privy Council 46,883 1
 
 for Trade, and subordinate departments -9. For meeting the deficiency of income from fees, &c. for tho require- 106,178
 
 ments of the Board of Trade, under the Bankruptcy Act, 1883 -10. For salaries and expenses of the Charity Commission for England and 1,164
 
-Wales ---------  11. For salaries and expenses of the Civil Service Commission  12. For salaries and expenses of the department of the Comptroller and COCO  toco  ¥§
+Wales --------- 11. For salaries and expenses of the Civil Service Commission 12. For salaries and expenses of the department of the Comptroller and COCO toco ¥§
 
-Auditor General, including the Chancery Audit Branch  13. For salaries and expenses of the Registry of Friendly Societies  14. For the salaries and expenses of the office of the Land Commissioners for  England, and for' defraying the repayable expenses to be incurred in 59,189  8,122
+Auditor General, including the Chancery Audit Branch 13. For salaries and expenses of the Registry of Friendly Societies 14. For the salaries and expenses of the office of the Land Commissioners for England, and for' defraying the repayable expenses to be incurred in 59,189 8,122
 
 matters of Inclosure and Drainage -----15. For salaries and expenses of the Local Government Board, including 23,021
 
 various grants in aid of local taxation - - - - -16. For salaries and expenses of the office of the Commissioners in Lunacy in 441,254
 
-England ---------  17. For salaries and expenses of tho Mint, including the expenses of the 15,225
+England --------- 17. For salaries and expenses of tho Mint, including the expenses of the 15,225
 
-coinage - -- -- -- --  18. For salaries and expenses of the National Debt Office -  19. For charges connected with the Patents, Designs, and Trade Marks Act -  20. For salaries and expenses of the department of Her Majesty's Paymaster 69,333  14,709  45,997
+coinage - -- -- -- -- 18. For salaries and expenses of the National Debt Office - 19. For charges connected with the Patents, Designs, and Trade Marks Act - 20. For salaries and expenses of the department of Her Majesty's Paymaster 69,333 14,709 45,997
 
 General in London and Dublin 21. For salaries and expenses of the establishments under the Public Works 26,274
 
-Loan Commissioners - -  22. For salaries and expenses of the Public Record Office in England -  23. For salaries and expenses of the department of the Registrar General of 9,747  22,288
+Loan Commissioners - - 22. For salaries and expenses of the Public Record Office in England - 23. For salaries and expenses of the department of the Registrar General of 9,747 22,288
 
-Births, &c. in England .......  24. For stationery, printing, and paper, binding, and printed books, for the several departments of Government in England, Scotland, and Ireland, and some dependencies, and for the two Houses of Parliament; for the salaries and expenses of the Establishment of the Stationery Office, and the cost of Stationery Office publications, and of the Gazette Offices; and for sundry miscellaneous services, including a grant in aid of the 48,887
+Births, &c. in England ....... 24. For stationery, printing, and paper, binding, and printed books, for the several departments of Government in England, Scotland, and Ireland, and some dependencies, and for the two Houses of Parliament; for the salaries and expenses of the Establishment of the Stationery Office, and the cost of Stationery Office publications, and of the Gazette Offices; and for sundry miscellaneous services, including a grant in aid of the 48,887
 
 publication of Parliamentary Debates -25. For salaries and expenses of the office of Woods, Forests, and Land 562,097
 
 Revenues, and of the office of Land Revenue Records and Inrolments -26. For salaries and expenses of the office of the Commissioners of Her 23,852
 
-Majesty's Works and Public Buildings -  27. In aid of the Mercantile Marine Fund -  28. For Her Majesty's foreign and other secret services ...  29. For salaries and expenses of the department of the Queen's and Lord  Treasurer's Remembrancer in Exchequer, Scotland, of certain officers 48,529  40.000  50.000
+Majesty's Works and Public Buildings - 27. In aid of the Mercantile Marine Fund - 28. For Her Majesty's foreign and other secret services ... 29. For salaries and expenses of the department of the Queen's and Lord Treasurer's Remembrancer in Exchequer, Scotland, of certain officers 48,529 40.000 50.000
 
 in Scotland, and other charges formerly on the hereditary revenue 30. For salaries and expenses of the Fishery Board in Scotland, and for grants 6,300
 
-in aid of piers or quays -------  31. For salaries and expenses of the Board of Lunacy in Scotland - *■ 23,095  5,969
+in aid of piers or quays ------- 31. For salaries and expenses of the Board of Lunacy in Scotland - *■ 23,095 5,969
 
 32. For salaries and expenses of the department of the Registrar General of Births, &c. in Scotland ------- 5,893
 
@@ -18424,7 +18424,7 @@ Fishery Board may require statistics of sea fisheries.
 
 Ch. 70. Sea Fisheries (Scotland) Amendment Act, 1885.48 & 49Vicr.
 
-been given by the Fishery Board by advertisement in one or more newspapers circulating in the county or counties adjoiniug the part of the sea to which such byelaw applies.
+been given by the Fishery Board by advertisement in one or more newspapers circulating in the county or counties adjoining the part of the sea to which such byelaw applies.
 
 The Secretary for Scotland shall allow any person to make a representation for his interest against the confirmation of any byelaw, on a notice of objection being given by such person to the Fishery Board within the said period of one month, and may, if he see fit, allow parties to be heard thereon.
 
@@ -18914,9 +18914,9 @@ T1875]. bourers Dwellings Improvement Act, 1875. population of urban sanitary di
 
 38 & 39 Vict. c. 49 - The Artizans and La- Section two.
 
-[1875]. bourers Dwellings Improvement (Scotland) Act.  The Artizans Dwellings
+[1875]. bourers Dwellings Improvement (Scotland) Act. The Artizans Dwellings
 
-45 A 46 Vict. c. 5*1 -  Section eleven.
+45 A 46 Vict. c. 5*1 - Section eleven.
 
 [1882]. Act, 1882.
 
@@ -19260,9 +19260,9 @@ REDEMPTION TABLE.
 
 A Table shewing the amount that will redeem an annual instalment of Four pounds due after the expiration of the under-mentioned number of complete years from the payment of the redemption money.
 
-Interval of Years. |  1 Amount of Redemption money. Interval of Years. Amount of Redemption money.
+Interval of Years. | 1 Amount of Redemption money. Interval of Years. Amount of Redemption money.
 
-£e. d.  £e. d.
+£e. d. £e. d.
 
 48 0 19 5 24 1 19 5
 
@@ -22440,9 +22440,9 @@ Act repealed or amended. Subject-matter. How affected. Chapter of 48 & 49 Vict.
 
 „ c. 65. ss. 9 and 11 in part. Representation of the People (Scotland). Repealed - 3
 
-5 & 6 Will. 4. c. 50. - Highway Act, 1835  Tithe Rentcharge Redemption - Amended - 13
+5 & 6 Will. 4. c. 50. - Highway Act, 1835 Tithe Rentcharge Redemption - Amended - 13
 
-6 & 7 Will. 4. c. 71. -  Amended - 32
+6 & 7 Will. 4. c. 71. - Amended - 32
 
 1 Viot. c. 69. - Tithe Rentcharge Redemption - Amended - 32
 
@@ -22454,7 +22454,7 @@ Act repealed or amended. Subject-matter. How affected. Chapter of 48 & 49 Vict.
 
 3 A 4 Vict. c. 15. Tithe Rentcharge Redemption -Ecclesiastical Commissioners - Amended - 32
 
-„ c. 113. -  Amended - 31 and 55
+„ c. 113. - Amended - 31 and 55
 
 5 & 6 Vict. c. 35. Property Tax - Amended - 51
 
@@ -22462,17 +22462,17 @@ Act repealed or amended. Subject-matter. How affected. Chapter of 48 & 49 Vict.
 
 , c. 80. - * Assessed Taxes - Amended - 51
 
-6 Vict. c. 18. s. 40 and Sched.  A. Parliamentary Registration Act, 1843. Repealed - 15
+6 Vict. c. 18. s. 40 and Sched. A. Parliamentary Registration Act, 1843. Repealed - 15
 
 6 & 7 Vict. c. 18. Registration of Voters -Tithe Rentcharge Redemption - Amended - 23
 
-9 & 10 Vict. c. 73. •  Amended - 32
+9 & 10 Vict. c. 73. • Amended - 32
 
 10 & 11 Vict. c. 104. - Tithe Rentcharge Redemption -Parliamentary voters (Ireland) -Benefices in Plurality Amended - 32
 
-13 & 14 Vict. c. 69. -  Amended - 3,17, 23
+13 & 14 Vict. c. 69. - Amended - 3,17, 23
 
-„ c. 98. -  Amended - 54
+„ c. 98. - Amended - 54
 
 14 & 15 Vict. c. 34., Ac. Labouring Classes Lodging Houses Acts, 1851 to 1867. Amended - 72
 
@@ -22574,9 +22574,9 @@ to 1882.
 
 32 A 33 Vict. c. 73. - Telegraphs ... Amended - 58
 
-33 A 34 Vict. c. 21. ss. 2 to 5 - Bridgwater and Beverley Disfranchisement.  Norwich Voters Disfranchise- Repealed - 23
+33 A 34 Vict. c. 21. ss. 2 to 5 - Bridgwater and Beverley Disfranchisement. Norwich Voters Disfranchise- Repealed - 23
 
-„ c. 25. -  Repealed - 23
+„ c. 25. - Repealed - 23
 
 ment.
 
@@ -22622,7 +22622,7 @@ Act repealed or amended. Subject-matter. How affected. Chapter of 48 A 49 Vict.
 
 38 & 39 Vict. c. 28. - Metropolitan Police Staff Superannuation Act, 1875. Amended - 68
 
-„ c. 36., &c. Artizans and Labourers Dwellings Improvement Acts, 1875 to 1882- Amended -  1 72
+„ c. 36., &c. Artizans and Labourers Dwellings Improvement Acts, 1875 to 1882- Amended - 1 72
 
 »» c. 49. - Artizans, Ac. Dwellings (Scotland). Amended - 72
 
@@ -22666,7 +22666,7 @@ n c. 53. - East Indian Railway (Redemption of Annuities) Act, 1881. Amended - 25
 
 „ c. 32. - Greenwich Hospital Tramways and Public Companies , (Ireland) Act, 1883. Amended - 42
 
-„ c. 43. Part II. -  Amended • 5
+„ c. 43. Part II. - Amended • 5
 
 ,1 c. 57. Patents, &c. Act, 1883 - Amended - 63
 

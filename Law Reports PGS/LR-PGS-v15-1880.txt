@@ -72,13 +72,13 @@ The Titles of the Public General Acts passed in the Seventh Session of the Twent
 
 11. An Act to make Powers of Attorney and Requests for Transmission of Dividend Warrants by Post relating to India Five per centum Stock applicable to India Four per centum Stock. 25
 
-12. An Act to abolish the Landlord’s Right of Hypothec for Rent in Scotland. 26
+12. An Act to abolish the Landlord's Right of Hypothec for Rent in Scotland. 26
 
 13. An Act to apply certain sums out of the Consolidated Fund to the service of the years ending on the thirty-first day of March one thousand eight hundred and seventy-nine, one thousand eight hundred and eighty, and one thousand eight hundred and eighty-one, and to appropriate the Supplies granted in this Session of Parliament. 27
 
 14. An Act to grant certain Duties of Customs and Inland Revenue, to alter other Duties, and to amend the Laws relating to Inland Revenue. 41
 
-15. An Act to authorise the Commissioners of Her Majesty’s Treasury to borrow a sum on the security of Terminable Annuities, and to increase the permanent Annual Charge of the National Debt. 46
+15. An Act to authorise the Commissioners of Her Majesty's Treasury to borrow a sum on the security of Terminable Annuities, and to increase the permanent Annual Charge of the National Debt. 46
 
 16. An Act to raise the sum of Sixty thousand pounds by Exchequer Bonds, Exchequer Bills, or Treasury Bills, for the service of the year ending on the thirty-first day of March one thousand eight hundred and eighty. 47
 
@@ -894,9 +894,9 @@ Redeemable Debentures of East Indian Railway Company.
 
 Principal Moneys secured. When payable. Rate of Interest per Annum.
 
-£  1,000,000 1 January 1881 -12 July 1882 - 41 per cent.
+£ 1,000,000 1 January 1881 -12 July 1882 - 41 per cent.
 
-1,279,850  4 per cent.
+1,279,850 4 per cent.
 
 230,150 1 December 1882 4 per cent.
 
@@ -1098,7 +1098,7 @@ On account - 2,623,229 - -15,541,300 - -1,100,000 - -
 
 £
 
-„ 10. Civil Services,  , Class I. On account 346,900
+„ 10. Civil Services, , Class I. On account 346,900
 
 „ 11. Ditto, Class II. On account 535,450
 
@@ -1164,7 +1164,7 @@ Schedule of Sums granted to make good deficiencies on the several grants herein 
 
 CIVIL SERVICES,
 
-Class I.   £ 8. d.
+Class I. £ 8. d.
 
 Furniture of Public Offices - - - 64 19 7
 
@@ -1178,11 +1178,11 @@ Land Registry - - 23 11 7
 
 Class IV.
 
-National Gallery - -  Deep Sea Exploring Expedition (Report)  Queen's University, Ireland - . ; 469 5 409 1  173 19 6  8  7
+National Gallery - - Deep Sea Exploring Expedition (Report) Queen's University, Ireland - . ; 469 5 409 1 173 19 6 8 7
 
 Class VI.
 
-Superannuation and Retired Allowances -Relief of Distressed British Seamen Abroad . . 1,410 13  2,873 1 6  o
+Superannuation and Retired Allowances -Relief of Distressed British Seamen Abroad . . 1,410 13 2,873 1 6 o
 
 Total - - 5,550 9 10
 
@@ -1468,7 +1468,7 @@ abroad -------
 
 {10. Sect. I. For naval stores for the building, repairing, and outfitting the fleet and coast guard .... . 10. Sect. 11. For steam machinery, and ships built by contract, &c.
 
-On account - £  680,384
+On account - £ 680,384
 
 On account - 253,381
 
@@ -2442,13 +2442,13 @@ On account - 970,000
 
 On account - 110,000
 
-On account -On account -On account - 50,000  4,400  600
+On account -On account -On account - 50,000 4,400 600
 
-On account -On account - 8,000  2,800
+On account -On account - 8,000 2,800
 
 On account - 1,200
 
-On account -On account • On account - 2,000  220,000  4,700
+On account -On account • On account - 2,000 220,000 4,700
 
 On account - 600
 
@@ -2458,7 +2458,7 @@ On account - 500
 
 On account - 200
 
-On account -On account -On account -On account - 600  1,400  3,500  500
+On account -On account -On account -On account - 600 1,400 3,500 500
 
 1,696,000
 
@@ -2530,7 +2530,7 @@ On account - 1,800
 
 On account - 3,000
 
-On account -On account - 6,500  17,500
+On account -On account - 6,500 17,500
 
 Total Civil Services, Class V.
 
@@ -2582,9 +2582,9 @@ Sums not exceeding £
 
 On account - 200,000
 
-On account -On account - 7,100  8,100
+On account -On account - 7,100 8,100
 
-On account -On account - 60,500  4,300
+On account -On account - 60,500 4,300
 
 On account - 1,000
 
@@ -2608,7 +2608,7 @@ Schedule of Sums granted to defray the charges of the several Civil Services her
 
 Sums not exceeding
 
-No.  1. For salaries and incidental expenses of temporary commissions  and committees, including special inquiries ...  2. For certain miscellaneous expenses .... £  On account - 14,000 On account - 1,700
+No. 1. For salaries and incidental expenses of temporary commissions and committees, including special inquiries ... 2. For certain miscellaneous expenses .... £ On account - 14,000 On account - 1,700
 
 Total Civil Services, Class VII. - £ 15,/00
 
@@ -2620,7 +2620,7 @@ Schedule of Sums granted to defray the charges of the several Revenue Department
 
 Sums not exceeding
 
-No.  1. For salaries and expenses of the Customs Department -  2. For salaries and expenses of the Inland Revenue Department  3. For salaries and expenses of the Post Office services, the expenses  of Post Office savings banks, and Government annuities and insurances, and the collection of the Post Office revenue  4. For the Post Office packet service ....  5. For salaries and expenses of the Post Office telegraph service £  On account • 110,000 On account • 200,000  On account - 410,000 On account - 200,000 On account - 350,000
+No. 1. For salaries and expenses of the Customs Department - 2. For salaries and expenses of the Inland Revenue Department 3. For salaries and expenses of the Post Office services, the expenses of Post Office savings banks, and Government annuities and insurances, and the collection of the Post Office revenue 4. For the Post Office packet service .... 5. For salaries and expenses of the Post Office telegraph service £ On account • 110,000 On account • 200,000 On account - 410,000 On account - 200,000 On account - 350,000
 
 Total Revenue Departments - £ 1,270,000
 
@@ -2788,31 +2788,31 @@ Duty.
 
 Relief from legacy duty when whole personal estate is less than 100/.
 
-£  £    £
+£ £ £
 
-Above the value of 100 and under 200 •   2
+Above the value of 100 and under 200 • 2
 
-Of the value of - 200 99 300 .   4
+Of the value of - 200 99 300 . 4
 
-99 300 99 400 -   6
+99 300 99 400 - 6
 
-99 400 99 500 -   9
+99 400 99 500 - 9
 
-99 500 99 600 -   11
+99 500 99 600 - 11
 
-99 600 99 800 -   15
+99 600 99 800 - 15
 
-99 800 99 1,000 -   22
+99 800 99 1,000 - 22
 
-99 1,000 99 1,500 -   30
+99 1,000 99 1,500 - 30
 
-99 1,500 99 2,000 -   40
+99 1,500 99 2,000 - 40
 
-99 2,000 99 3,000 -   62
+99 2,000 99 3,000 - 62
 
-99 3,000 99 4,000 -   88
+99 3,000 99 4,000 - 88
 
-99 • 4,000 99 5,000 -   113
+99 • 4,000 99 5,000 - 113
 
 46
 
@@ -2822,67 +2822,67 @@ Ch. 14,15. Customs and Inland Revenue Act, 1880.
 
 -Duty;,
 
-Of the value of 5,000 and under  6,000  • 140
+Of the value of 5,000 and under 6,000 • 140
 
-»> 6,000 99 7,000  • 165
+»> 6,000 99 7,000 • 165
 
-99 7,000 99 8,000  - 190
+99 7,000 99 8,000 - 190
 
-99 8,000 99 9,000  - 215
+99 8,000 99 9,000 - 215
 
-99 9,000 99 10,000  - 240
+99 9,000 99 10,000 - 240
 
-99 10,000 99 12,000  - 275
+99 10,000 99 12,000 - 275
 
-99 12,000 99 14,000  - 325
+99 12,000 99 14,000 - 325
 
-99 14,000 99 16,000  - 375
+99 14,000 99 16,000 - 375
 
-99 16,000  18,000 99 18,000  - 425
+99 16,000 18,000 99 18,000 - 425
 
-99  99 20,000  - 475
+99 99 20,000 - 475
 
-*9 .20,000 99 25,000  - 565
+*9 .20,000 99 25,000 - 565
 
-99 25,000 99 30,000  - 690
+99 25,000 99 30,000 - 690
 
-99 30,000 99 35,000  - 815
+99 30,000 99 35,000 - 815
 
-99 35,000 99 40,000  - 940
+99 35,000 99 40,000 - 940
 
-99 40,000 99 45.000  50.000  - 1,065
+99 40,000 99 45.000 50.000 - 1,065
 
-99 45,000 99   - 1,190
+99 45,000 99 - 1,190
 
-99 50,000 99 60,000  - 1,375
+99 50,000 99 60,000 - 1,375
 
-99 60,000 99 70,000  - 1,625
+99 60,000 99 70,000 - 1,625
 
-99 70,000 99 80,000  - 1,875
+99 70,000 99 80,000 - 1,875
 
-99 80,000 99 90,000  - 2,125
+99 80,000 99 90,000 - 2,125
 
-99 90,000 99 100,000  - 2,375
+99 90,000 99 100,000 - 2,375
 
-99 100,000 99 120,000  - 2,750
+99 100,000 99 120,000 - 2,750
 
-99 120,000  140,000 99 140,000  - 3,250
+99 120,000 140,000 99 140,000 - 3,250
 
-99  99 160,000  - 3,750
+99 99 160,000 - 3,750
 
-99 160,000 99 180,000  - 4,250
+99 160,000 99 180,000 - 4,250
 
-99 180,000  200,000 99 200,000  - 4,750
+99 180,000 200,000 99 200,000 - 4,750
 
-99  99 250,000  - 5,625
+99 99 250,000 - 5,625
 
-99 250,000 99 300,000  - 6,875
+99 250,000 99 300,000 - 6,875
 
-99 300,000 99 350,000  - 8,125
+99 300,000 99 350,000 - 8,125
 
 99 350,000 99 400,000 - - 9,375
 
-99  99 400,000 „ 500,000 500;000 and upwards.   - * - 11,250
+99 99 400,000 „ 500,000 500;000 and upwards. - * - 11,250
 
 then in addition to the said duty of 11,250/., for every full sum of 100,000/. in excess of 500,000/., and also for any fractional part of 100,000/. so in excess ------
 
@@ -3056,7 +3056,7 @@ Acts referred to.
 
 Session and Chapter. Tide.
 
-17 & 18 Vict. c. 102. 21 & 22 Vict. c. 87.  26 & 27 Vict. c. 29.  31 8c 32 Vict. c. 125.  32 & 33 Vict. c. 21. 34 & 35 Vict. c. 61. 42 & 43 Vict. c. 75. The Corrupt Practices Prevention Act, 1854.  An Act to continue and amend the Corrupt Practices Prevention Act, 1854.  An Act to amend and continue the Law relating to Corrupt Practices at Elections of Members of Parliament.  The Parliamentary Elections Act, 1868.  The Corrupt Practices Commission Expenses Act, 1869. The Election Commissioners Expenses Act, 1871.  The Parliamentary Elections and Corrupt Practices Act, 1879.
+17 & 18 Vict. c. 102. 21 & 22 Vict. c. 87. 26 & 27 Vict. c. 29. 31 8c 32 Vict. c. 125. 32 & 33 Vict. c. 21. 34 & 35 Vict. c. 61. 42 & 43 Vict. c. 75. The Corrupt Practices Prevention Act, 1854. An Act to continue and amend the Corrupt Practices Prevention Act, 1854. An Act to amend and continue the Law relating to Corrupt Practices at Elections of Members of Parliament. The Parliamentary Elections Act, 1868. The Corrupt Practices Commission Expenses Act, 1869. The Election Commissioners Expenses Act, 1871. The Parliamentary Elections and Corrupt Practices Act, 1879.
 
 Short title.
 
@@ -3330,9 +3330,9 @@ Acts of former Sessions (in Chronological Order) Repealed and Amended
 
 by Acts of 43 Vict.
 
-Act repealed or amended. Subjectr matter.  How [ affected. Chapter of 43 Vict.
+Act repealed or amended. Subjectr matter. How [ affected. Chapter of 43 Vict.
 
-53 Geo. 3. c. 155. s. 89. in pt. - East India Company  i  Repealed 3
+53 Geo. 3. c. 155. s. 89. in pt. - East India Company i Repealed 3
 
 55 Geo. 3. c. 56. Probate, &c. Duties - - Amended 14
 
@@ -3340,11 +3340,11 @@ c. 184. Probate, &c. Duties - . Amended 14
 
 4 Geo. 4. c. 71. s. 3. in pt. Retiring Pay, &c. (India) East India Company - - Repealed 3
 
-3 & 4 Will. 4. c. 85. s. 76. in pt.  - Repealed 3
+3 & 4 Will. 4. c. 85. s. 76. in pt. - Repealed 3
 
-20 & 21 Vict. c. 77. - Probate, &c. Duties -  Amended 14
+20 & 21 Vict. c. 77. - Probate, &c. Duties - Amended 14
 
-25 & 26 Vict. c. 89. Companies -  Amended 19
+25 & 26 Vict. c. 89. Companies - Amended 19
 
 26 & 27 Vict. c. 33. - Beer Dealers Licences - | Amended 6
 
@@ -3360,11 +3360,11 @@ c. 131. - Companies • - Amended 19
 
 c. 49. - Artizans, &c. Dwellings (Scotland) - Amended 2
 
-39 & 40 Vict. c. 45. - Income Tax—Industrial and Provident Societies.  Amended 14
+39 & 40 Vict. c. 45. - Income Tax—Industrial and Provident Societies. Amended 14
 
 40 & 41 Vict. c. 26. - Companies - • -Roads and Bridges (Scotland) - Amended 19
 
-41 & 42 Vict. c. 51. -  - Amended 7
+41 & 42 Vict. c. 51. - - Amended 7
 
 42 & 43 Vict. c. 64. - Artizans, See. Dwellings - Amended 8
 
@@ -4190,9 +4190,9 @@ SECOND SCHEDULE. Enactments Repealed.
 
 29 & 30 Vict. c. 23. The Isle of Man Customs, Harbours, and Public Purposes Act, 1866. Section six, from “and it shall be lawful for the said harbour commissioners ” inclusive to the end of the section.
 
-35 & 36 Vict. c. 23. The Isle of Man Harbours  Act, 1872 Section twenty, so far aa it refers to the fifth section of the Isle of Man Customs. Harbours, and Public Purpoeea Act, 1866.
+35 & 36 Vict. c. 23. The Isle of Man Harbours Act, 1872 Section twenty, so far aa it refers to the fifth section of the Isle of Man Customs. Harbours, and Public Purpoeea Act, 1866.
 
-37 & 38 Vict. c. 8. The Isle of Man Harbours  Act, 1874 Section seven.
+37 & 38 Vict. c. 8. The Isle of Man Harbours Act, 1874 Section seven.
 
 CHAPTER 9.
 
@@ -4262,7 +4262,7 @@ And whereas the powers of the Commissioners were by the said Act to continue unt
 
 The Letters Patent
 
-------------  - nppetu.
+------------ - nppetu.
 
 ordinary judge of Her 38 & 39 Vict.
 
@@ -4366,33 +4366,33 @@ SCHEDULES.
 
 SCHEDULES 1 to 4.
 
-County. Name of Trust.     No. of Schedule. No. of Act
+County. Name of Trust. No. of Schedule. No. of Act
 
-Chester Stockport and Warrington and Wasliway United -     4 13, 16
+Chester Stockport and Warrington and Wasliway United - 4 13, 16
 
-Cornwall Hayle Bridge Causeway • -  - 4 15
+Cornwall Hayle Bridge Causeway • - - 4 15
 
-Launceston . .  . 1 2
+Launceston . . . 1 2
 
-Derby - Derby and Burton-upon-Trent - -  - 4 12
+Derby - Derby and Burton-upon-Trent - - - 4 12
 
-Devon - Barnstaple • -  - 2 7
+Devon - Barnstaple • - - 2 7
 
-Great Tomngton - -  - 2 G
+Great Tomngton - - - 2 G
 
-Gloucester - Huntley Roads - - -  - o 8
+Gloucester - Huntley Roads - - - - o 8
 
-Hants - Andover and East Ilsley - -  - I 1
+Hants - Andover and East Ilsley - - - I 1
 
 Southampton, South District - - - - 3 9
 
 Herts - Reading and Hatfield - - - - 3 11
 
-Lancaster Blackburn and Walton Cop - _  - 4 14
+Lancaster Blackburn and Walton Cop - _ - 4 14
 
 Rochdale and Burnley - _ - - - 2 4
 
-Northumber-  land. Elsdon and Reed water - - - "  2 3
+Northumber- land. Elsdon and Reed water - - - " 2 3
 
 Surrey - Horsham and Dorking - - - - - 2 5
 
@@ -4412,7 +4412,7 @@ Date of Act. Title of Act.
 
 27 &28 Vict. c. xliii. -Limited to expire at end of session after 29 tSeptember 1885. 1. An Act to repeal an Act for repairing the road from the present turnpike road in the parish of Hursley, in the county of Southampton, to Andover, and from thence to Newbury, and from Newbury to Chilton Pond, in the county of Berks, and for granting more effectual powers in lieu thereof; which shall be repealed on and after the 29th of September 1880.
 
-30 Vict. c. xxxiv.  Limited to expire at end of session after 1st January 1882. 2. An Act to repeal an Act passed in the fifth year of the reign of His late Majesty King William the Fourth, intituled “ An Act for more “ effectually repairing the Launceston turnpike roads, and making cer-“ tain additional roads,” and to make other provisions in lieu thereof, and for other purposes; which shall be repealed on and after the 1st of September 1880.
+30 Vict. c. xxxiv. Limited to expire at end of session after 1st January 1882. 2. An Act to repeal an Act passed in the fifth year of the reign of His late Majesty King William the Fourth, intituled “ An Act for more “ effectually repairing the Launceston turnpike roads, and making cer-“ tain additional roads,” and to make other provisions in lieu thereof, and for other purposes; which shall be repealed on and after the 1st of September 1880.
 
 SECOND SCHEDULE. Section 2.
 
@@ -4432,7 +4432,7 @@ Date of Act. Title of Act.
 
 28 & 29 Vict. d. clxiii. 7. An Act to repeal an Act passed in the fourth year of the reign of Her present Majesty Queen Victoria, intituled “ An Act for repairing ** several roads leading from the town of Barnstaple, in the county “ of Devon, and for making several new lines of road connected “ therewith,” and to grant more effectual powers in lieu thereof; to convert into turnpike road portions of existing roads; and for other
 
-29 & 30 Vict. c. c. purposes.  8. An Act to continue the Huntley, Mitcheldean, and Elton Turnpike Roads Trust, in the counties of Gloucester and Hereford; and for other purposes.
+29 & 30 Vict. c. c. purposes. 8. An Act to continue the Huntley, Mitcheldean, and Elton Turnpike Roads Trust, in the counties of Gloucester and Hereford; and for other purposes.
 
 B 2
 
@@ -4458,7 +4458,7 @@ Section 4. FOURTH SCHEDULE
 
 Acts which are to continue in force until the dates specified in each instance, and no longer, subject to modifications.
 
-l.  Date of Act. 2.  Title of Act. 8.  Extent to which Act is modified and continued. 4.  Dates from which Modifications are to commence. 6.  Modifications. 6.  Dates up to which Continuation is enacted.
+l. Date of Act. 2. Title of Act. 8. Extent to which Act is modified and continued. 4. Dates from which Modifications are to commence. 6. Modifications. 6. Dates up to which Continuation is enacted.
 
 58 G. 3. 12. An Act for more effec- The entire 1 November Amount expended 1st of No-
 
@@ -4470,7 +4470,7 @@ c. xcv. tually repairing and otherwise improving the road from Crossford Bridge,
 
 11 G. 4. 14. An Act for more effec- The entire 1 November | Not less than 300/. 25thofMarch
 
-C* XXXV. tually repairing the road from Blackburn to Walton Cop, within Walton-in-le-Dale, in the county of Lancaster. Act. 1880. | to be expended in 1 repair of roads between the 1st of November 1880 and the 25th of March 1881.  No interest payable. 1881, and no longer.
+C* XXXV. tually repairing the road from Blackburn to Walton Cop, within Walton-in-le-Dale, in the county of Lancaster. Act. 1880. | to be expended in 1 repair of roads between the 1st of November 1880 and the 25th of March 1881. No interest payable. 1881, and no longer.
 
 v^.
 
@@ -4478,7 +4478,7 @@ v^.
 
 21
 
-1.  Bate of Aot. 2.  Title of Act. 8.  Extent to which Act is modified and continued. 4.  Dates from which Modifications are to commence. S.  Modifications. 6.  Dates lip to which Continuation is enacted.
+1. Bate of Aot. 2. Title of Act. 8. Extent to which Act is modified and continued. 4. Dates from which Modifications are to commence. S. Modifications. 6. Dates lip to which Continuation is enacted.
 
 7W.4.c.ii. 15. An Act for maintaining the causeway and turnpike road from Grigg's Quay, in the parish of Uny Lelant, over Hayle river and sands, and through Hayle Fonndery, in the county of Cornwall, and for extending the said turnpike road from the western end of the said causeway towards Penzance. The entire Act. 1 November 1880. No larger rates of toll to be taken than those now levied. No interest payable. 1st of No-vembe r 1885, and no longer.
 
@@ -4490,13 +4490,13 @@ FIFTH SCHEDULE. Section 5.
 
 Acts which are to continue in force until the 1st of November 1881, and no longer, unless Parliament in the meantime otherwise provides.
 
-County. Name of Trust.     No. of Act.
+County. Name of Trust. No. of Act.
 
-Chester Congleton and Buxton    . 3
+Chester Congleton and Buxton . 3
 
 Derby Haddon and Bentley - - • - 2
 
-Lancaster - Haslingden and Todmorden • • "  1
+Lancaster - Haslingden and Todmorden • • " 1
 
 Date of Act.
 
@@ -4522,17 +4522,17 @@ Section e. SIXTH SCHEDULE.
 
 Acts which are to be repealed on and after the 1st of November 1881, unless Parliament in the meantime otherwise provides, dne regard being had in each case to local requirements, and to the special circumstances of the Trust
 
-County. Name of Trust.  No. of Act.
+County. Name of Trust. No. of Act.
 
-Chester Manchester and Wilmslow - - - - - 1  2
+Chester Manchester and Wilmslow - - - - - 1 2
 
-Cornwall - Saltash -------  4
+Cornwall - Saltash ------- 4
 
-Cumberland Carlisle and Eamont Bridge, Southern Division  1
+Cumberland Carlisle and Eamont Bridge, Southern Division 1
 
-Derby Ashbourne, Sudbury, and Yoxall Bridge -  o
+Derby Ashbourne, Sudbury, and Yoxall Bridge - o
 
-Date of Act.  Title of Act.
+Date of Act. Title of Act.
 
 22 & 23 Vict. c. xxv. Limited to expire at end of session after 1 August 1882.
 
@@ -5244,9 +5244,9 @@ Section 44. FOURTH SCHEDULE.
 
 A description or citation of a portion of an Act is inclusive of the words, section, or other part first or last mentioned, or otherwise referred to as forming the beginning or as forming the end of the portion comprised in the description or citation.
 
-Session and Chapter. 1  Title or abbreviated Title. Extent of Repeal.
+Session and Chapter. 1 Title or abbreviated Title. Extent of Repeal.
 
-26 Vict. c. 11. - An Act for the Registration of Births and Deaths in Ireland. (20th April 1863.) Preliminary to Act, from the words “ general search ” to “ stating objects of search.”  Section twenty-six, from the words “ in case of the death ” to end of section.  Sections thirty-one, thirty-two, thirty-three, thirty-four, thirty-five, thirty-six, thirty-seven, thirty-eight, forty-four, forty-six, fifty-one, and fifty-five.
+26 Vict. c. 11. - An Act for the Registration of Births and Deaths in Ireland. (20th April 1863.) Preliminary to Act, from the words “ general search ” to “ stating objects of search.” Section twenty-six, from the words “ in case of the death ” to end of section. Sections thirty-one, thirty-two, thirty-three, thirty-four, thirty-five, thirty-six, thirty-seven, thirty-eight, forty-four, forty-six, fifty-one, and fifty-five.
 
 CHAPTER 14.
 
@@ -7934,7 +7934,7 @@ in the county of mentioned duties
 
 Income Tax. Inhabited House Duties.
 
-N.B. *   £ s. d. £ s. d.
+N.B. * £ s. d. £ s. d.
 
 Total - £
 
@@ -8412,9 +8412,9 @@ If the assessment on lands, tenements, and hereditaments exceeds the quota, the 
 
 And the collector must account for any such excess in like manner as for the quota, in order that the excess may be applied as provided by the Taxes Management Act, 1880.
 
-Assessed and exonerated -  Assessed and not exonerated - - - - £ s. d. £ s. d.
+Assessed and exonerated - Assessed and not exonerated - - - - £ s. d. £ s. d.
 
-Total by the assessment  -Gross quota or charge on lands, tenements, and heredita-' ments, by duplicate of charge under 38 Geo. 3. c. 5.  Deduct the amount by which such gross quota has been' reduced by the application of surplus land tax - \  \
+Total by the assessment -Gross quota or charge on lands, tenements, and heredita-' ments, by duplicate of charge under 38 Geo. 3. c. 5. Deduct the amount by which such gross quota has been' reduced by the application of surplus land tax - \ \
 
 Net quota -
 
@@ -8610,23 +8610,23 @@ Ch. 19.
 
 117
 
-6 Geo. 4. c. 7. • An Act for the further repeal of certain duties of assessed taxes, and for granting relief in the cases therein mentioned ; in part; namely,—  Section eleven.
+6 Geo. 4. c. 7. • An Act for the further repeal of certain duties of assessed taxes, and for granting relief in the cases therein mentioned ; in part; namely,— Section eleven.
 
 6 Geo. 4. c. 32. - An Act to provide for the application of moneys arising in certain cases of assessments for land tax in Great Britain.
 
 1 & 2 Will. 4. c. 18. - An Act for transferring the duties of receivers general of the land and assessed taxes to persons executing the offices of inspectors of taxes, and for making other provisions for the receipt and remittance of the said taxes.
 
-4 & 5 Will. 4. c. 60. - An Act to amend the laws relating to the land and assessed taxes, and to consolidate the boards of stamps and taxes; in part; namely,—  Sections one, six, seven, eleven, twelve, thirteen, fourteen, and fifteen.
+4 & 5 Will. 4. c. 60. - An Act to amend the laws relating to the land and assessed taxes, and to consolidate the boards of stamps and taxes; in part; namely,— Sections one, six, seven, eleven, twelve, thirteen, fourteen, and fifteen.
 
 5 & 6 WU1.4. c. 20. - An Act to consolidate certain offices in the collection of the revenues of
 
-5 & 6 Will. 4. c. 64. - stamps and taxes, and to amend the laws relating thereto ; in part; namely,—  Sections six, seven, ten to twenty-one inclusive..  An Act to alter certain duties of stamps and assessed taxes, and to regulate the collection thereof; in part; namely,—  Sections ten to thirteen inclusive.
+5 & 6 Will. 4. c. 64. - stamps and taxes, and to amend the laws relating thereto ; in part; namely,— Sections six, seven, ten to twenty-one inclusive.. An Act to alter certain duties of stamps and assessed taxes, and to regulate the collection thereof; in part; namely,— Sections ten to thirteen inclusive.
 
-6 & 7 Will. 4. c. 65. - An Act for granting relief from the duties of assessed taxes, and on stage carriages in certain cases, and to regulate the charging of the duty-payable for taking or killing game in Great Britain; and to provide for the collection of certain local taxes in Scotland; in part; namely,—  Sections ten to twelve inclusive.
+6 & 7 Will. 4. c. 65. - An Act for granting relief from the duties of assessed taxes, and on stage carriages in certain cases, and to regulate the charging of the duty-payable for taking or killing game in Great Britain; and to provide for the collection of certain local taxes in Scotland; in part; namely,— Sections ten to twelve inclusive.
 
-1 Vict. c. 61. - An Act to extend an exemption granted by an Act of the last session of Parliament from the duties of assessed taxes, in respect of certain carriages with less than four wheels; and to amend the laws relating to the said duties; in part; namely,—  Section three.
+1 Vict. c. 61. - An Act to extend an exemption granted by an Act of the last session of Parliament from the duties of assessed taxes, in respect of certain carriages with less than four wheels; and to amend the laws relating to the said duties; in part; namely,— Section three.
 
-6 & 6 Vict. c. 37. - An Act to continue until the fifth day of April one thousand eight hundred and forty-four compositions for assessed taxes, and to amend the laws relating to the land and assessed taxes; in part; namely,—  Section seven.
+6 & 6 Vict. c. 37. - An Act to continue until the fifth day of April one thousand eight hundred and forty-four compositions for assessed taxes, and to amend the laws relating to the land and assessed taxes; in part; namely,— Section seven.
 
 6 & 7 Vict. c. 24. - An Act to continue until the fifth day of April one thousand eight hundred and forty-five compositions for assessed taxes, and to amend the laws relating to the land and assessed taxes, and also the laws relating to the duties on profits arising from property, professions, trades, and offices.
 
@@ -8634,11 +8634,11 @@ Ch. 19.
 
 9 & 10 Vict. c. 56. - An Act to provide forms of proceedings under the Acts relating to the duties of assessed taxes, ana the duties on profits arising from property, professions, trades, and offices in England.
 
-17 Vict. c. 1. - An Act to explain and amend an Act of the last session relating to the duties of assessed taxes, and to authorise justices of the peace in Ireland to administer oaths required in matters relating to income tax; in part; namely,—  Section five.
+17 Vict. c. 1. - An Act to explain and amend an Act of the last session relating to the duties of assessed taxes, and to authorise justices of the peace in Ireland to administer oaths required in matters relating to income tax; in part; namely,— Section five.
 
 17 & 18 Vict. c. 85. - An Act for better securing the collecting and accounting for the land tax, assessed taxes, and income tax by the collectors thereof.
 
-19 & 20 Vict. c. 80. - An Act to grant relief in assessing the income tax on lands in Scotland in respect of certain public burdens charged thereon; to alter and regulate the allowances to clerks to the Commissioners of Income Tax ; and to amend the laws relating to the land, assessed, and income taxes, and the redemption and purchase of the land tax; in part; namely,—  Sections two and four.
+19 & 20 Vict. c. 80. - An Act to grant relief in assessing the income tax on lands in Scotland in respect of certain public burdens charged thereon; to alter and regulate the allowances to clerks to the Commissioners of Income Tax ; and to amend the laws relating to the land, assessed, and income taxes, and the redemption and purchase of the land tax; in part; namely,— Sections two and four.
 
 118
 
@@ -9350,7 +9350,7 @@ Is 10?. and under 15/. - - -
 
 50/. 99 100/. - - - - 25 0 0
 
-100/. 99 200/. - -  - 30 0 0
+100/. 99 200/. - - - 30 0 0
 
 200/. 99 300/. - - - - 35 0 0
 
@@ -9362,7 +9362,7 @@ Is 10?. and under 15/. - - -
 
 600/. 99 700/. - - * - 55 0 0
 
-700/. or above  . - - - • 60 0 0
+700/. or above . - - - • 60 0 0
 
 I 2
 
@@ -9528,7 +9528,7 @@ FIRST SCHEDULE.
 
 Containing a Table to be used in determining the original specidc Gravity of Worts of Beer.
 
-Degrees  of  Spirit  Indication. Degrees of original Specific Gravity. Degrees  of  Spirit  Indication. Degrees of original Specific Gravity. Degrees  of  Spirit  Indication. Degrees of original Specific Gravity. Degrees  of  Spirit  Indication. Degrees of original Specific Gravity.
+Degrees of Spirit Indication. Degrees of original Specific Gravity. Degrees of Spirit Indication. Degrees of original Specific Gravity. Degrees of Spirit Indication. Degrees of original Specific Gravity. Degrees of Spirit Indication. Degrees of original Specific Gravity.
 
 •1 *3 4*1 15*5 8*1 34*3 12*1 54*9
 
@@ -10042,9 +10042,9 @@ Session and Chapter. Short Title. Extent of Repeal.
 
 Education Act,
 
-1676. the requisition of the parish, but not otherwise,” as from the passing of this Act.  Section twenty-two, as from the passing
+1676. the requisition of the parish, but not otherwise,” as from the passing of this Act. Section twenty-two, as from the passing
 
-of this Act.  Sections fifty-one and fifty-two, as from the passing of this Act.  First Schedule, as from the first of January one thousand eight hundred and eighty-one, from During the four years next after ” down to “ higher standard required for that year,” both inclusive (being paragraph (3)), and from “ Provided that in each of the four years next after” down to the end of the table, both inclusive (being paragraph 6).
+of this Act. Sections fifty-one and fifty-two, as from the passing of this Act. First Schedule, as from the first of January one thousand eight hundred and eighty-one, from During the four years next after ” down to “ higher standard required for that year,” both inclusive (being paragraph (3)), and from “ Provided that in each of the four years next after” down to the end of the table, both inclusive (being paragraph 6).
 
 CHAPTER 24.
 
@@ -10362,7 +10362,7 @@ If a distiller contravenes this section he shall incur a fine of fifty pounds.
 
 25. (1.) The period of brewing or making wort or wash (in this Brewing and Act called the brewing period), and the period of distilling spirits (in pjiodsf this Act called the distilling period), must, in every distillery, be alternate and distinct.
 
-(2.) The brewiug period extends from the commencement of any process of wetting, brewing, or mashing any materials until all the wort or wash in the distillery has been collected in the fermenting backs and wash chargers, and the declaration required by this Act of such collection has been given.
+(2.) The brewing period extends from the commencement of any process of wetting, brewing, or mashing any materials until all the wort or wash in the distillery has been collected in the fermenting backs and wash chargers, and the declaration required by this Act of such collection has been given.
 
 (3.) The distilling period extends from the commencement of the distillation of any wash until all the wash, low wines, and feints in the distillery, or in the possession of the distiller, (except the feints produced by the last re-distillation,) have been distilled into spirits and conveyed into the spirits receiver, and each furnace door, or the steam pipe of each still, has been secured by the officer in charge of the distillery.
 
@@ -12004,7 +12004,7 @@ Table to be used in determining the original Specific Gravity of Wort or
 
 Wash.
 
-Degrees  of  Spirit  Indication. Degrees of original Specific Gravity. Degrees  of  Spirit  Indication. Degrees of original Specific Gravity.
+Degrees of Spirit Indication. Degrees of original Specific Gravity. Degrees of Spirit Indication. Degrees of original Specific Gravity.
 
 1 *3 4*1 15*5
 
@@ -12086,7 +12086,7 @@ Degrees  of  Spirit  Indication. Degrees of original Specific Gravity. Degrees  
 
 4*0 15*1 8*0 33*7
 
-Degrees  of  Spirit  Indication. Degrees of original Specific Gravity. Degrees  of  Spirit  Indication. Degrees of onginal Specific Gravity.
+Degrees of Spirit Indication. Degrees of original Specific Gravity. Degrees of Spirit Indication. Degrees of onginal Specific Gravity.
 
 8*1 34*3 12*1 54*9
 
@@ -12186,7 +12186,7 @@ Hydrometer.
 
 . 2. To ascertain the quantity of spirits in cask their net weight must be divided by the number which in column B indicates their weight per gallon, and the product will be the quantity of the spirits in gallons and decimal parts of a gallon.
 
-Column A. Indication on Sykes's Hydrometer. Column B.  Weight per Gallon. Column A. Indication on Sykes's Hydrometer. Column B.  Weight per Gallon. Column A. Indication on Sykes's Hydrometer. Column B.  Weight per Gallon. Column A. Indication on Sykes's Hydrometer. ColumnB-Weight per Gallon.
+Column A. Indication on Sykes's Hydrometer. Column B. Weight per Gallon. Column A. Indication on Sykes's Hydrometer. Column B. Weight per Gallon. Column A. Indication on Sykes's Hydrometer. Column B. Weight per Gallon. Column A. Indication on Sykes's Hydrometer. ColumnB-Weight per Gallon.
 
 0 8*154 8 8*289 16 8*426 24 8-565
 
@@ -12276,7 +12276,7 @@ Ch.24.
 
 191
 
-Column A. Indication on Sykes's Hydrometer. Column B.  Weight per Gallon. Column A. Indication on Sykes's Hydrometer. Column B.  Weight per Gallon. Column A. Indication on Sykes's Hydrometer. Column B.  Weight per Gallon. Column A. Indication on Sykes's Hydrometer. Column B.  Weight per Gallon.
+Column A. Indication on Sykes's Hydrometer. Column B. Weight per Gallon. Column A. Indication on Sykes's Hydrometer. Column B. Weight per Gallon. Column A. Indication on Sykes's Hydrometer. Column B. Weight per Gallon. Column A. Indication on Sykes's Hydrometer. Column B. Weight per Gallon.
 
 32 8*706 43 8*903 54 9*106 65 9*313
 
@@ -12396,7 +12396,7 @@ S'pirits Ac 1880.
 
 43 & 44 Vicr.
 
-Column A. Indication on Sykes's Hydrometer. Column B.  Weight per Gallon. Column A. Indication on Sykes's Hydrometer. Column B.  Weight per Gallon. Column A. Indication on Sykes's Hydrometer. Column B.  Weight per Gallon. Column A Indication on Sykes's Hydrometer. Column B.  Weight per Gallon.
+Column A. Indication on Sykes's Hydrometer. Column B. Weight per Gallon. Column A. Indication on Sykes's Hydrometer. Column B. Weight per Gallon. Column A. Indication on Sykes's Hydrometer. Column B. Weight per Gallon. Column A Indication on Sykes's Hydrometer. Column B. Weight per Gallon.
 
 76 9*525 | 82 9*643 88 9 761 94 9*880
 
@@ -12458,7 +12458,7 @@ Column A. Indication on Sykes's Hydrometer. Column B.  Weight per Gallon. Column
 
 8 9-639 ; s 9-757 8 9-876 8 10 003
 
-l  » i i  I   100 10*007
+l » i i I 100 10*007
 
 THIRD SCHEDULE.
 
@@ -12562,7 +12562,7 @@ Session and Chapter. Title of Act. Extent of Repeal.
 
 10 Will. 3. c. 4. An Act to prohibit the excessive distilling of 1 spirits ana low wines from corn, and against the exporting of beer and ale, and to prevent frauds on distillers. Sections five and eight.
 
-30 Geo. 3. c. 38. 4 Geo. 4. c. 94. An Act for repealing the duties upon licences for retailing wine and sweets and upon licences for retailing distilled spirituous liquors, and for granting other auties in lieu thereof.  An Act to grant certain duties of Excise upon spirits distilled from com or grain in Scotland and Ireland, and upon licences for stills for making such spirits; and to provide for the better collecting and securing such duties, and for the warehousing of such spirits without payment of duty. Section fifteen.
+30 Geo. 3. c. 38. 4 Geo. 4. c. 94. An Act for repealing the duties upon licences for retailing wine and sweets and upon licences for retailing distilled spirituous liquors, and for granting other auties in lieu thereof. An Act to grant certain duties of Excise upon spirits distilled from com or grain in Scotland and Ireland, and upon licences for stills for making such spirits; and to provide for the better collecting and securing such duties, and for the warehousing of such spirits without payment of duty. Section fifteen.
 
 6 Geo. 4. c. 80. - An Act to repeal the duties payable in respect of spirits distilled in England, and of licences for distilling, rectifying, or compounding such spirits, and for the sale of spirits, and to impose other duties in lieu thereof; and to provide other regulations for the collection of the said duties, and for the sale of spirits, and for the warehousing of such spirits without payment of duty, for exportation. Section one hundred and forty-five.
 
@@ -12586,7 +12586,7 @@ free in the arts and manufactures of the United Kingdom. section three.
 
 29 & 30 Vict. c. 64. - An Act to amend the laws relating to the Inland Revenue. Sections seven, eight, and nine.
 
-30 & 31 Vict. c. 27. -  1 An Act to allow warehoused British spirits to be bottled for home consumption. The whole Act.
+30 & 31 Vict. c. 27. - 1 An Act to allow warehoused British spirits to be bottled for home consumption. The whole Act.
 
 1880.
 
@@ -12768,7 +12768,7 @@ Power to Board to expend money for purposes of street improvements under 40 & 41
 
 42 A 43 Vict. c. 69.
 
-42 A 43 Viet, c. cxcriii.
+42 A 43 Viet, c. exeriii.
 
 42 A 43 Vict. 0.69.
 
@@ -12964,55 +12964,55 @@ FIRST SCHEDULE.
 
 New Money Powers conferred in this Act.
 
-Section of Act. Purpose.    Amount.
+Section of Act. Purpose. Amount.
 
-Supplemental up to 31st Dec. 1880.    £ s. d.
+Supplemental up to 31st Dec. 1880. £ s. d.
 
-4 Fire Brigade - -  - 10,000 0 0
+4 Fire Brigade - - - 10,000 0 0
 
-5 Parks, commons, and open spaces -  - 30,000 0 0
+5 Parks, commons, and open spaces - - 30,000 0 0
 
 IsT Jan. to 31st Dec. 1881.
 
-Minor improvements - .  - 100,000 0 0
+Minor improvements - . - 100,000 0 0
 
-Street Improvements Act of 1872 •  - 42,028 3 5
+Street Improvements Act of 1872 • - 42,028 3 5
 
-Parks, commons, and open spaces -  - 25,000 0 0
+Parks, commons, and open spaces - - 25,000 0 0
 
 £ J Thames Embankments, Queen Victoria Street, North umber-
 
-6 < land Avenue, and Sun Street •  - 10,000 0 0
+6 < land Avenue, and Sun Street • - 10,000 0 0
 
-Obelisk on Victoria Embankment .  - 7,000 0 0
+Obelisk on Victoria Embankment . - 7,000 0 0
 
-Toll Bridges - - - --j .£62,551 6 £50,000 Os. 0   112,551 2 6
+Toll Bridges - - - --j .£62,551 6 £50,000 Os. 0 112,551 2 6
 
-7 Fire Brigade - -   30,000 0 0
+7 Fire Brigade - - 30,000 0 0
 
-8 { Street Improvements Act of 1877 •   1,500,000 0 0
+8 { Street Improvements Act of 1877 • 1,500,000 0 0
 
-Thames River (Prevention of Floods) -   100,000 0 0
+Thames River (Prevention of Floods) - 100,000 0 0
 
-9 Artizans Dwellings ... •   500,000 0 O
+9 Artizans Dwellings ... • 500,000 0 O
 
-10 Drainage extension works - -  300,000 0 0
+10 Drainage extension works - - 300,000 0 0
 
-11 Loans to vestries and district boards - -   200,000 0 0
+11 Loans to vestries and district boards - - 200,000 0 0
 
-12 Loans to guardians -   150,000 0 0
+12 Loans to guardians - 150,000 0 0
 
-13 Loans to managers of Metropolitan Asylum District   50,000 0 0
+13 Loans to managers of Metropolitan Asylum District 50,000 0 0
 
-14 Loans to School Board for London -   500,000 0 0
+14 Loans to School Board for London - 500,000 0 0
 
-15 Loans to public bodies - -   100,000 0 0
+15 Loans to public bodies - - 100,000 0 0
 
-Amounts included above which are re-    3,766,579 5 11
+Amounts included above which are re- 3,766,579 5 11
 
 grants of borrowing power previously granted : £ s. d.
 
-Minor improvements - 56,565 17  3
+Minor improvements - 56,565 17 3
 
 Street Improvements Act, 18/2 - 42,028 3 5
 
@@ -13034,13 +13034,13 @@ Loans to guardians - -Loans to School Board for London - 103,500 0 0
 
 500,000 0 0
 
-Loans to public bodies - 27,000 0 0 2,913,107  1
+Loans to public bodies - 27,000 0 0 2,913,107 1
 
 3
 
-New borrowing power for Board 485,372 2 10  } 853,472
+New borrowing power for Board 485,372 2 10 } 853,472
 
-For loans to other bodies 368,100 0 0  2 10
+For loans to other bodies 368,100 0 0 2 10
 
 (^.
 
@@ -13900,7 +13900,7 @@ Ch. 35, 36. Wild Birds Protection Act, 1880. 43 & 44 Vicr.
 
 parts thereof, as to all or any wild birds, from the operation of this Act; and every such order shall be published and may be proved in the manner provided in tiie preceding section.
 
-American quail. SCHEDULE.  Kittiwake. Sealark.
+American quail. SCHEDULE. Kittiwake. Sealark.
 
 Auk. Lapwing. Seamew.
 
@@ -13928,7 +13928,7 @@ Dotterel. Ox birth Stint.
 
 D unbird. Oyster catcher. Peewit. Stone curlew.
 
-Dunlin.  Stonehatch.
+Dunlin. Stonehatch.
 
 Eider duck. Petrel. Summer snipe.
 
@@ -14126,7 +14126,7 @@ Each of the Acts set forth in the Schedule to this Act is in 26 & 27 victi this 
 
 SCHEDULE. ACTS REFERRKD TO. • •
 
-j  Session and Chapter. 1 Title. Short Title.
+j Session and Chapter. 1 Title. Short Title.
 
 26 & 27 Vict. c. 25. - An Act to make further provision for the investment of the moneys received by the Commissioners for the Reduction of the National Debt from the trustees of savings banks established under the enactments of the Act Ninth George the Fourth, chapter ninety-two. The Savings Rank Investment Act, 1863.
 
@@ -15162,11 +15162,11 @@ General of Births, &c., and for expenses of the collection of agricultural and e
 
 survey of Ireland -
 
-To oomplete -To complete - £  30,618  17,200
+To oomplete -To complete - £ 30,618 17,200
 
 To complete - 4,856
 
-To complete -To complete - 9,734  4,391
+To complete -To complete - 9,734 4,391
 
 To oomplete - 4,694
 
@@ -15304,7 +15304,7 @@ To complete - 76,796
 
 To complete - 69,715
 
-To complete -To complete -To complete -To complete -To complete - 8,445  10,166  27,434  342,281  4,028  18,690
+To complete -To complete -To complete -To complete -To complete - 8,445 10,166 27,434 342,281 4,028 18,690
 
 To complete - 11,201
 
@@ -15604,7 +15604,7 @@ To complete - 5,307
 
 To complete - 8,407
 
-To complete - 20,000  17,500
+To complete - 20,000 17,500
 
 414,485
 
@@ -15662,13 +15662,13 @@ Sums not exceeding
 
 To complete - 246,175
 
-To complete -To complete - 21,050  24,300
+To complete -To complete - 21,050 24,300
 
 - 410,000
 
-To complete -To complete - 74,479  25,832  12,758
+To complete -To complete - 74,479 25,832 12,758
 
-To oomplete - 122,306  2,964
+To oomplete - 122,306 2,964
 
 To complete - 3,119
 
@@ -15682,7 +15682,7 @@ Schedule of Soms granted to defray the charges of the several Civil Services her
 
 Sams not exceeding
 
-No. ...  1. For salaries and incidental expenses of temporary commissions  and committees, including special inquiries -  2. For certain miscellaneous expenses ... -  £  To complete - 27,411 To complete - 4,829
+No. ... 1. For salaries and incidental expenses of temporary commissions and committees, including special inquiries - 2. For certain miscellaneous expenses ... - £ To complete - 27,411 To complete - 4,829
 
 Total Civil Services, Class VII. £ 32,240
 
@@ -16428,7 +16428,7 @@ Continuance of Acts in schedule.
 
 SCHEDULE.
 
-1.  Original Acts. 2.  How far continued. 3.  Amending Acts.
+1. Original Acts. 2. How far continued. 3. Amending Acts.
 
 (1) 1 1
 
@@ -16436,27 +16436,27 @@ SCHEDULE.
 
 Cotton, and other Manufactures repealed. cept ss. 18 and 23).
 
-(Ireland).  I 5 & 6 Vict. c. 68. 7 & 8 Vict. c. 47.
+(Ireland). I 5 & 6 Vict. c. 68. 7 & 8 Vict. c. 47.
 
-(2) I  30 & 31 Vict. c. 60.
+(2) I 30 & 31 Vict. c. 60.
 
-3 & 4 Vict. c. 89. Poor Rates, Stock ! The whole Act. 1  .
+3 & 4 Vict. c. 89. Poor Rates, Stock ! The whole Act. 1 .
 
-in Trade Exemption.  (3)  1
+in Trade Exemption. (3) 1
 
 4 & 5 Vict. c. 35. Copyhold, Inclo- So much as relates to the appoint- 14 & 15 Vict. c. 53.
 
-sure, and Tithe Commissioners.  (4)  4 8c 5 Vict. c. 59. Application of Highway Rates to Turnpike Roads. i ment of and the period for holding office by Commissioners and other officers. 25 & 26 Vict. c. 73.
+sure, and Tithe Commissioners. (4) 4 8c 5 Vict. c. 59. Application of Highway Rates to Turnpike Roads. i ment of and the period for holding office by Commissioners and other officers. 25 & 26 Vict. c. 73.
 
 The whole Act.
 
 1
 
-(3)  10 & 11 Vict. c. 32. Landed Pro- As to powers of Commissioners - 12 & 13 Vict. c. 59.
+(3) 10 & 11 Vict. c. 32. Landed Pro- As to powers of Commissioners - 12 & 13 Vict. c. 59.
 
-perty Improvement (Ireland).  13 & 14 Vict. c. 31. 25 & 26 Vict. c. 29.
+perty Improvement (Ireland). 13 & 14 Vict. c. 31. 25 & 26 Vict. c. 29.
 
-(6)  29 8c30 Vict. c. 40.
+(6) 29 8c30 Vict. c. 40.
 
 10 & 11 Vict. c. 98. Ecclesiastical As to provisions continued by 21 & 22 Vict. c. 50. —
 
@@ -18140,35 +18140,35 @@ Acts of former Sessions (in Chronological Order) Repealed and Amended
 
 by Acts of 43 & 44 Vict.
 
-Act repealed or amended.  Subject-matter.  How  affected. Chapter of 43 A 44 Vict.
+Act repealed or amended. Subject-matter. How affected. Chapter of 43 A 44 Vict.
 
-10 Will. 3. c. 4. ss. 5, 8.  Distillation of Spirits, See. . Repealed 24
+10 Will. 3. c. 4. ss. 5, 8. Distillation of Spirits, See. . Repealed 24
 
 1 Geo. 1. stat. 2. c. 2. -33 Geo. 2. c. /. 1 [• Malt Duties - - Repealed 20
 
-30 Geo. 3. c. 38. s. 15.  Licences for retailing Spirits - - Repealed 24
+30 Geo. 3. c. 38. s. 15. Licences for retailing Spirits - - Repealed 24
 
-43 Geo. 3. c. 99.  „ c. 150.  „ c. 161. in part 45 Geo. 3. c. 71.  „ c. 95.  48 Geo. 3. c. 55. s. 7. -  ►Taxes Management—Inland Revenue  Repealed 19
+43 Geo. 3. c. 99. „ c. 150. „ c. 161. in part 45 Geo. 3. c. 71. „ c. 95. 48 Geo. 3. c. 55. s. 7. - ►Taxes Management—Inland Revenue Repealed 19
 
-c. 141. in part 50 Geo. 3. c. 105.  52 Geo. 3. c. 95.  55 Geo. 3. c. 161.  56 Geo. 3. c. 58. ss. 2, 3. in part  Sugar used in brewing  Repealed 20
+c. 141. in part 50 Geo. 3. c. 105. 52 Geo. 3. c. 95. 55 Geo. 3. c. 161. 56 Geo. 3. c. 58. ss. 2, 3. in part Sugar used in brewing Repealed 20
 
-1 & 2 Geo. 4. c. 22. -  Beer Duties -  Repealed 20
+1 & 2 Geo. 4. c. 22. - Beer Duties - Repealed 20
 
-c. 113. -  Taxes Management -  Repealed 19
+c. 113. - Taxes Management - Repealed 19
 
-3 Geo. 4. c. 30.  Malt Duties -  Repealed 20
+3 Geo. 4. c. 30. Malt Duties - Repealed 20
 
-c. 88.  Land and Assessed Taxes  Repealed 19
+c. 88. Land and Assessed Taxes Repealed 19
 
-4 Geo. 4. c. 94.  Spirit Duties -  Repealed 24
+4 Geo. 4. c. 94. Spirit Duties - Repealed 24
 
-6 Geo. 4. c. 7- s. 11. -  Assessed Taxes  Repealed 19
+6 Geo. 4. c. 7- s. 11. - Assessed Taxes Repealed 19
 
 304 Effect of Legislation. 43 & 44 Vicr.
 
 Table Aets of (former Sessions repealed and ftta ended—
 
-Act repealed or amended. Subject-matter. How-  affected. | Chapter of |43&44Vitt
+Act repealed or amended. Subject-matter. How- affected. | Chapter of |43&44Vitt
 
 6 Geo. 4. c. 32. Land TaJc - Repealed 19
 
@@ -18176,9 +18176,9 @@ c. 58. Duties and drawbacks on Beer and Repealed 20
 
 Malt, &c.
 
-„ * c. SO. s. 145.  „ c. 81. ss. 2, 20. in part Spirit Duties - - -  ] Repealed 24
+„ * c. SO. s. 145. „ c. 81. ss. 2, 20. in part Spirit Duties - - - ] Repealed 24
 
-7 & 8 Geo. 4. c. 52. -11 Geo. 4. & 1 Will.. 4. c. 17. -» 9/ 31.  „ „ c. 51. in part.  1 & 2 Will. 4. c. 18. - I Malt Duties -  J Repealed 20
+7 & 8 Geo. 4. c. 52. -11 Geo. 4. & 1 Will.. 4. c. 17. -» 9/ 31. „ „ c. 51. in part. 1 & 2 Will. 4. c. 18. - I Malt Duties - J Repealed 20
 
 Duties on Cyder, Beer, and Ale, - Repealed 20
 
@@ -18204,7 +18204,7 @@ c. 55. in part - Malt Duties - - Repealed 20
 
 a c. 37. s. 7.
 
-6 & 7 Vict. c. 24.  7 & 8 Vict. c. 46. > Assessed Taxes, &c. - Repealed 19
+6 & 7 Vict. c. 24. 7 & 8 Vict. c. 46. > Assessed Taxes, &c. - Repealed 19
 
 9 & 10 Vict. c. 3. Fishery Piers - Amended 14
 
@@ -18224,11 +18224,11 @@ c. 102. - Seamen's Fund Winding-up - Amended 22
 
 c. 27. - • Duties of Excise - Repealed 20
 
-c. 30. - Duties of Excise on Sugar made in the United Kingdom.  Land and Assessed Taxes, &c. Repealed 20
+c. 30. - Duties of Excise on Sugar made in the United Kingdom. Land and Assessed Taxes, &c. Repealed 20
 
-i, c. 85. -  Repealed 19
+i, c. 85. - Repealed 19
 
-c. 104. - Merchant Shipping ... Amended 16, 18, and 22.  24
+c. 104. - Merchant Shipping ... Amended 16, 18, and 22. 24
 
 18 & 19 Vict. c. 38. (except Use of Spirit of Wine in Arts and Repealed
 
@@ -18236,7 +18236,7 @@ s.3.) Manufactures.
 
 c. 94. - Spirit Duties -Malt Duty, &c. - Repealed 20 and
 
-19 & 20 Vict. c. 34. -  Repealed 20
+19 & 20 Vict. c. 34. - Repealed 20
 
 c. 80. ss. 2,4. -20 & 21 Vict. c. 28. s. 2. j- Income Tax, &c. - Repealed 19
 
@@ -18256,7 +18256,7 @@ relating to Spirits.
 
 part.
 
-c. 91. in part - Inland Revenue - Repealed 19, 20, and 24.  19 and 20
+c. 91. in part - Inland Revenue - Repealed 19, 20, and 24. 19 and 20
 
 25 & 26 Vict. c. 22. in part - Inland Revenue - Repealed
 
@@ -18266,123 +18266,123 @@ c. 103. - Union Assessment - - - Amended 7
 
 26 & 27 Vict. c. 3. - Malt Duty - Repealed 20
 
-c. 11. in part - Registration of Births and Deaths (Ireland). Repealed 13  1
+c. 11. in part - Registration of Births and Deaths (Ireland). Repealed 13 1
 
 1880. Effect of Legislation. 305
 
 Table B.—Acts of former Sessions repealed and amended—-continued.
 
-Act repealed or amended.  Sobject-matter.  How  affected. Chapter of 43&44Vict.
+Act repealed or amended. Sobject-matter. How affected. Chapter of 43&44Vict.
 
-26 & 27 Vict. c. 25. -  Savings Banks  Amended 36
+26 & 27 Vict. c. 25. - Savings Banks Amended 36
 
-c. 33. s. 23.  Inland Revenue - Repealed 19
+c. 33. s. 23. Inland Revenue - Repealed 19
 
-c. 86. s. 4.  Isle of Man Harbours - Repealed 8
+c. 86. s. 4. Isle of Man Harbours - Repealed 8
 
-„ o. 87. -  Savings Banks - , - . Amended 36
+„ o. 87. - Savings Banks - , - . Amended 36
 
-c. 88. -  Drainage and Improvement of Lands  Amended 27
+c. 88. - Drainage and Improvement of Lands Amended 27
 
 (Ireland).
 
-27 & 28 Vict. c. 9. -  Malt Duty - - - . - Repealed 20
+27 & 28 Vict. c. 9. - Malt Duty - - - . - Repealed 20
 
-c. 12. in part  Warehousing of British Spirits . Repealed 24
+c. 12. in part Warehousing of British Spirits . Repealed 24
 
-c. 39. -  Union Assessment . Amended 7
+c. 39. - Union Assessment . Amended 7
 
-c. 56. in part  Inland Revenue . Repealed 19 and 20
+c. 56. in part Inland Revenue . Repealed 19 and 20
 
-c. 121. -  Railways Construction Facilities - Amended 31 .
+c. 121. - Railways Construction Facilities - Amended 31 .
 
-28 & 29 Vict. o. 30. s. 5.  Inland Revenue - _ Repealed 19
+28 & 29 Vict. o. 30. s. 5. Inland Revenue - _ Repealed 19
 
-„ o. 48. -  Courts of Justice Building - - Amended 29
+„ o. 48. - Courts of Justice Building - - Amended 29
 
-c. 66. _ -  Malt Duty - - - - Repealed 20
+c. 66. _ - Malt Duty - - - - Repealed 20
 
-c. 96. in part „ c. 98. in part  j- Spirit Duties - Repealed 24
+c. 96. in part „ c. 98. in part j- Spirit Duties - Repealed 24
 
 29 & 30 Vict. c. 23. s. 6. in Isle of Man Customs, &c. - Repealed 8
 
-par i/.  „ c. 64. in part  Inland Revenue - Repealed 19, 20, and 24.  15
+par i/. „ c. 64. in part Inland Revenue - Repealed 19, 20, and 24. 15
 
-c. 118. -  Industrial Schools  Amended
+c. 118. - Industrial Schools Amended
 
-30 & 31 Vict. o. 27. -  Spirit Duties - . Repealed 24
+30 & 31 Vict. o. 27. - Spirit Duties - . Repealed 24
 
-c. 90. -  Inland Revenue - Repealed 19 and 20
+c. 90. - Inland Revenue - Repealed 19 and 20
 
-31 & 32 Vict. c. 25. -  Industrial Schools (Ireland) - . Amended 15
+31 & 32 Vict. c. 25. - Industrial Schools (Ireland) - . Amended 15
 
-c. 48. -  Representation of the People (Scot-  Amended 6
+c. 48. - Representation of the People (Scot- Amended 6
 
 land).
 
-c. 124. ss. 3-5.  Inland Revenue . Repealed 24
+c. 124. ss. 3-5. Inland Revenue . Repealed 24
 
-32 & 33 Vict. c. 14. in part  Inland Revenue . Repealed 19
+32 & 33 Vict. c. 14. in part Inland Revenue . Repealed 19
 
-c. 17.  Sea Birds Preservation - Repealed 35
+c. 17. Sea Birds Preservation - Repealed 35
 
-c. 103. in part  Spirit Duties - - • Repealed 24
+c. 103. in part Spirit Duties - - • Repealed 24
 
-33 & 34 Vict. c. 4.  Income Tax - . Repealed 19
+33 & 34 Vict. c. 4. Income Tax - . Repealed 19
 
-c. 24. -  Metropolitan Board of Works—Stamp  Amended 20
+c. 24. - Metropolitan Board of Works—Stamp Amended 20
 
-c. 32. in part  Duty.  Inland Revenue  Repealed 9 and 20
+c. 32. in part Duty. Inland Revenue Repealed 9 and 20
 
-c. 75. -  Elementary Education  Amended 23
+c. 75. - Elementary Education Amended 23
 
-c. 112. -34 & 35 Vict. c. 100. -  j-Glebe Loans (Ireland)  Amended 2
+c. 112. -34 & 35 Vict. c. 100. - j-Glebe Loans (Ireland) Amended 2
 
-c. 103. in part  Inland Revenue  Repealed 19 and 24
+c. 103. in part Inland Revenue Repealed 19 and 24
 
-35 & 36 Vict. c. 23. s. 20. in Isle of Man Harbours  Repealed 8
+35 & 36 Vict. c. 23. s. 20. in Isle of Man Harbours Repealed 8
 
-part.    Amended 32
+part. Amended 32
 
-c. 65.  Bastardy -
+c. 65. Bastardy -
 
-c. 78. -  Wild Birds Protection -  Repealed 35
+c. 78. - Wild Birds Protection - Repealed 35
 
-36 & 37 Vict. c. 8. ss. 1, 2.  Income Tax, &c.  Repealed 19
+36 & 37 Vict. c. 8. ss. 1, 2. Income Tax, &c. Repealed 19
 
-c. 9.  Bastardy -Inland Revenue  Amended 32
+c. 9. Bastardy -Inland Revenue Amended 32
 
-c. 18. ss. 6-9.    Repealed 19
+c. 18. ss. 6-9. Repealed 19
 
-37 & 38 Vict. c. 8. s. 7-  Isle of Man Harbours  Repealed 8
+37 & 38 Vict. c. 8. s. 7- Isle of Man Harbours Repealed 8
 
-c. 16. in part  Inland Revenue  Repealed 19,20, & 24
+c. 16. in part Inland Revenue Repealed 19,20, & 24
 
-c. 26. -  Canadian Stock—Stamp Duty  Amended 20
+c. 26. - Canadian Stock—Stamp Duty Amended 20
 
-c. 88. s. 17*  Births and Deaths Registration  Amended 41
+c. 88. s. 17* Births and Deaths Registration Amended 41
 
-38 & 39 Vict. c. 23. ss. 7, 10  Inland Revenue  Repealed 20 and 24
+38 & 39 Vict. c. 23. ss. 7, 10 Inland Revenue Repealed 20 and 24
 
-c. 30. -  Glebe Loans (Ireland)  Amended 2
+c. 30. - Glebe Loans (Ireland) Amended 2
 
-c. 65. -  Metropolitan Board of Works (Loans)  Amended 25
+c. 65. - Metropolitan Board of Works (Loans) Amended 25
 
-c. / 7* "  Supreme Court of Judicature  Amended 10
+c. / 7* " Supreme Court of Judicature Amended 10
 
-f 39 & 40 Vict. c. 16. s. 3.  Spirit Duties  Wild Fowl Preservation  Repealed 24
+f 39 & 40 Vict. c. 16. s. 3. Spirit Duties Wild Fowl Preservation Repealed 24
 
-c. 29. -    Repealed 35
+c. 29. - Repealed 35
 
-c. 35. in part  Spirit Duties -  Repealed 24
+c. 35. in part Spirit Duties - Repealed 24
 
-c. 36. s. 42.  Customs—Malt Duty  Amended 20
+c. 36. s. 42. Customs—Malt Duty Amended 20
 
-c. 59. -  Appellate Jurisdiction -Elementary Education Merchant Shipping - Amended 10
+c. 59. - Appellate Jurisdiction -Elementary Education Merchant Shipping - Amended 10
 
-c. 79.    Amended 23
+c. 79. Amended 23
 
-c. 80. -    Amended 22 and 43
+c. 80. - Amended 22 and 43
 
 [the law reports.] U
 
@@ -18390,33 +18390,33 @@ c. 80. -    Amended 22 and 43
 
 Table B.—Acts of former Sessions repealed and amended—continued.
 
-Act repealed or amended.  Subject-matter. How  affected. Chapter of 43 & 44 Vict.
+Act repealed or amended. Subject-matter. How affected. Chapter of 43 & 44 Vict.
 
-40 & 41 Vict. c. 13. -  Savings Banks ... Amended 36
+40 & 41 Vict. c. 13. - Savings Banks ... Amended 36
 
 c. 13. s. 11. ' Spirit Duties - - Repealed 24
 
-c. 16. -  Removal of Wrecks Amended ' 22
+c. 16. - Removal of Wrecks Amended ' 22
 
-c* ^8*  Universities of Oxford and Cambridge Amended 11
+c* ^8* Universities of Oxford and Cambridge Amended 11
 
-c. 69. -  Colonial Stock—Stamp Duty - Amended 20
+c. 69. - Colonial Stock—Stamp Duty - Amended 20
 
-41 & 42 Vict. c. 6. -  Glebe Loans (Ireland) - Amended 2
+41 & 42 Vict. c. 6. - Glebe Loans (Ireland) - Amended 2
 
-c. 15. in i  Inland Revenue - Repealed 19 and 24
+c. 15. in i Inland Revenue - Repealed 19 and 24
 
 42 & 43 Vict. c. 21. as. . 19-25.' Inland Revenue ... Repealed 19
 
-c. 69. -  Metropolitan Board of Works (Money) Amended 25
+c. 69. - Metropolitan Board of Works (Money) Amended 25
 
-c. 7/ •  Public Works Loans - Amended 44
+c. 7/ • Public Works Loans - Amended 44
 
-43 Vict. c. 1. -  Seeds Supply (Ireland) Amended 14
+43 Vict. c. 1. - Seeds Supply (Ireland) Amended 14
 
-c. 4. -  Relief of Distress (Ireland) Amended 14
+c. 4. - Relief of Distress (Ireland) Amended 14
 
-c. 13. in part •  Appropriation . - - Repealed 40
+c. 13. in part • Appropriation . - - Repealed 40
 
 43 & 44 Vict. c. 14. * * Relief of Distress (Ireland) • Amended 44
 
