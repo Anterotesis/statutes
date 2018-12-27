@@ -646,7 +646,7 @@ so/^HbTnot ky any writ, summons, warrant, order, judgment, execution, or maintai
 
 child, any sum to be paid in pursuance of an order on that behalf, or for the breach of any contract, covenant, agreement, or other engagement whatever by parol or in writing, or for having left or deserted bis employer or master, or his contract, work, or labour, or misconducting himself respecting the same, except in the case of an apprentice, or of an indentured labourer, as herein-after described; and all summonses, warrants, commitments, indictments, convictions, judgments, and sentences on account of any of the matters for which it is herein declared that a soldier or other person as aforesaid is not liable to be taken out of Her Majesty's service shall be utterly illegal, and null and void, to all intents and purposes; and any judge of any such court may examine into any complaint made by a soldier or by his superior officer, and by warrant under his hand discharge such soldier, without fee, he being shown to have been arrested contrary to the intent of this Act, and shall award reasonable costs to such complainant, who shall have for the recovery thereof the like remedy as would have been applicable to the recovery of any costs which might have been awarded against the complainant in any judgment or execution as aforesaid, or a writ of habeas corpus ad subjiciendum shall be awarded or issued, and the discharge of any such soldier out of custody shall be ordered thereupon; provided that any plaintiff, upon notice of the cause of action first given in writing to any soldier, or left at his last quarters, may proceed in any action or suit to judgment, and have execution other than against the body or military necessaries or equipments of such soldier; provided also, that nothing herein contained relating to the leaving or deserting a master or employer, or to the breach of any contract, agreement, or engagement, shall apply to persons who shall be really and bon& fide apprentices, duly bound, under the age of twenty-one years, or to indentured labourers, as herein-after prescribed.
 
-41. No person who shall be commissioned and in full pay Officers not to as an officer shall be capable of being nominated or elected to **
+41. No person who shall be commissioned and in full pay Officers not to as an officer shall be capable of being nominated or elected to *
 
 be sheriff of any county, borough, or other place, or to be ^layo^8, mayor," portreeve, alderman, or to hold any office in any municipal corporation in any city, borough, or place in Great Britain or Ireland.
 
@@ -1350,7 +1350,7 @@ Declaration to be made by a Soldier, or Person having been a Soldier, on renewin
 
 Y do declare, that I am at present (*) in
 
--** captain company, in the regiment; (*)
+-* captain company, in the regiment; (*)
 
 that I enlisted on the day of
 
@@ -1426,7 +1426,7 @@ Form of Oath to be taken by a Master whose indentured Labourer in any of Her Maj
 
 T of do make oath, that
 
-** was bound to me to serve as an indentured labourer by indenture dated the day of for the term
+* was bound to me to serve as an indentured labourer by indenture dated the day of for the term
 
 of years, and that the said did on or about
 
@@ -1638,7 +1638,7 @@ I certify, that I have inspected the prisoner, and consider him J for military s
 
 medical officer, or o/§ private medical practitioner.
 
-Insert ** fit" or " unfit," as the case may
+Insert * fit" or " unfit," as the case may
 
 be: and, if unfit, state the cause of unfitness.
 
@@ -2370,7 +2370,7 @@ SCHEDULE referred to by this Act.
 
 Form of Oaths to be taken by Members of Courts-martial.
 
-OU shall well and truly try and determine according to the "** evidence in the matter now before you.
+OU shall well and truly try and determine according to the "* evidence in the matter now before you.
 
 So help you GOD.
 
@@ -2400,7 +2400,7 @@ Date
 
 A.B.
 
-rT'AKE notice, that you enlisted with -** o'clock* on the
+rT'AKE notice, that you enlisted with -* o'clock* on the
 
 at
 
@@ -3000,7 +3000,7 @@ consequences under The Old Metal Dealers Act, 1861, be 24 & 25 Vict, equivalent 
 
 1L Notwithstanding anything in any Act relating to Penalties, Ac. municipal corporations or to the metropolitan police force, or to be applied in any other Act, any pecuniary penalty or other money AdiSraity6" ° recovered under this Act shall be paid and applied under such regulations as the Admiralty, with the concurrence of the Treasury, may from time to time make.
 
-12. Nothing in this Act shall prevent any person from being Not to prevent indicted under this Act or otherwise for any indictable offence Pei?°n<! **"8
+12. Nothing in this Act shall prevent any person from being Not to prevent indicted under this Act or otherwise for any indictable offence Pei?°n<! *"8
 
 indicted under
 
@@ -3534,7 +3534,7 @@ Containing the Duties of Customs granted by this
 
 Act.
 
-The duties of customs now charged on tea shall continue to Continuation of be levied and charged,— iut? on **
+The duties of customs now charged on tea shall continue to Continuation of be levied and charged,— iut? on *
 
 On and after the first day of August one thousand eight hundred and sixty-nine until the first day of August one thousand eight hundred and seventy, on the importation thereof into Great Britain and Ireland, that is to say.
 
@@ -4030,7 +4030,7 @@ As to trial of 0. All offences mentioned in this Act, which shall be com-^i^witt
 
 7. Where any offence under this Act is committed in or Where offences
 
-upon any waters forming the boundary between any two boand^d °n counties, districts of quarter sessions or petty sessions, such waters, prose-offence may be prosecuted before any justice or justices of the ?uti.°£8 may ** peace or sheriff in either of such counties or districts. county?**
+upon any waters forming the boundary between any two boand^d °n counties, districts of quarter sessions or petty sessions, such waters, prose-offence may be prosecuted before any justice or justices of the ?uti.°£8 may * peace or sheriff in either of such counties or districts. county?*
 
 8. The operation of this Act shall not extend to the island Extent of Act of Saint Kilda.
 
@@ -4098,7 +4098,7 @@ The term " the court " means the court of the vice-warden: The term " the regist
 
 The term " purser " means the purser for the time being of a company, and if there is no purser, then the secretary for the time being, or if there is no secretary, then the principal agent for the time being of a company:
 
-The term " cost book** includes all books and papers relating to the business of a mine, which are for the time being kept by a purser, or which, according to the custom of the stannaries, or the directions of the company, ought to be kept by him.
+The term " cost book* includes all books and papers relating to the business of a mine, which are for the time being kept by a purser, or which, according to the custom of the stannaries, or the directions of the company, ought to be kept by him.
 
 3. This Act extends only to mines within the stannaries, and subject to the jurisdiction of the court, or within the cognizance of the vice-warden; and nothing in this Act shall extend to companies registered under any of the Joint Stock Companies Acts, except where such companies are expressly mentioned or necessarily implied.
 
@@ -4392,7 +4392,7 @@ CHAP. 20.
 
 An Act to remove doubts as to the validity of certain Statutes made by the Convocation of the University of Oxford. [24th June 1869.]
 
-WHEREAS by an Act passed in the seventeenth and c-81- ** eighteenth years of the .reign of Her Majesty Queen
+WHEREAS by an Act passed in the seventeenth and c-81- * eighteenth years of the .reign of Her Majesty Queen
 
 Victoria, chapter eighty-one, it was, amongst other things, enacted, that every Statute framed by the Hebdomadal Council of the said University should be promulgated in Congregation, and should also be proposed there for acceptance or rejection, and should, if accepted by Congregation, be afterwards submitted to Convocation for final adoption or rejection as a Statute of the University:
 
@@ -5220,7 +5220,7 @@ And whereas it is apprehended that such title deeds might, under the operation o
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. That no title deed for Inam lands issued by the Inam Title deeds for commissioner in the Presidency of Fort Saint George up to *** the date of the passing of this Act shall be deemed invalid on the ground that such deed is not expressed therein to have been executed by order of the Governor in Council, or that it is expressed to have been executed on behalf of the Governor in Council of Fort Saint George instead of on behalf of the Secretary of State for India in Council; and all such title deeds shall be read and have the same effect as if they were expressed to have been executed by order of the Governor in Council and on behalf of the Secretary of State for India in Council.
+1. That no title deed for Inam lands issued by the Inam Title deeds for commissioner in the Presidency of Fort Saint George up to * the date of the passing of this Act shall be deemed invalid on the ground that such deed is not expressed therein to have been executed by order of the Governor in Council, or that it is expressed to have been executed on behalf of the Governor in Council of Fort Saint George instead of on behalf of the Secretary of State for India in Council; and all such title deeds shall be read and have the same effect as if they were expressed to have been executed by order of the Governor in Council and on behalf of the Secretary of State for India in Council.
 
 CHAP. 30.
 
@@ -6292,7 +6292,7 @@ with respect to ^ the Commissioners by virtue of this Act which may consist priv
 
 Moveable 30. All plate, furniture, and other moveable chattels belong-
 
-in^orafor**" any church or chapel, or used in connexion with the
+in^orafor*" any church or chapel, or used in connexion with the
 
 church!*6 or celebration of Divine worship therein, shall vest in the representative Church body when incorporated; and, subject to the life enjoyment of same by the existing incumbents, all moveable chattels held and enjoyed by the incumbent for the time being of any see, cathedral preferment, and benefice in his corporate right, together with or as incident to the occupation of any ecclesiastical residence, shall also vest in the same body when incorporated; and where any property is vested in any ecclesiastical or cathedral corporation in Ireland in trust for the poor or any other charitable purpose, the dissolution of such corporation shall not affect the continuance of the trust, but such property shall immediately upon such dissolution vest in the representative body of the said Church, or, in default of and until the same shall be constituted, in the Commissioners for the execution of this Act, but subject always to the trusts affecting the same, and under the same supervision, local or otherwise, as theretofore, or as near thereto as the circumstances of the case will admit; and in all cases where ecclesiastical persons are at present in right of their dignities or offices entitled to be members of any lay corporations constituted for the management of any private endowment, or are trustees for the management of property belonging to institutions of private foundation for purposes not ecclesiastical, then the persons (if any) who shall hereafter at any time discharge duties similar or analogous to those now discharged by such ecclesiastical persons shall be entitled to succeed in their room, and be members of such lay corporations, and to act as such trustees.
 
@@ -6442,7 +6442,7 @@ The capital sum to be paid by the Commissioners in respect of each of the annual
 
 Remission of 41. Any sums of money remaining due from the trustees of Ms? of the said College of Maynooth to the Commissioners of
 
-** Public Works in Ireland in respect of advances made by
+* Public Works in Ireland in respect of advances made by
 
 the said Commissioners on the security of the sums payable to the said trustees under the sixth section of the said Act of the eighth and ninth years of the reign of Her present Majesty, chapter twenty-five, shall be and the same are hereby released.
 
@@ -6680,7 +6680,7 @@ u Lord Lieutenant
 
 " Cathedral preferment
 
-" Cathedral corporation:**
+" Cathedral corporation:*
 
 " Curate " Property:"
 
@@ -7100,7 +7100,7 @@ WHEREAS it is expedient to abolish the distinction as to priority of payment bet
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-L In the administration of the estate of every person who All specialty; shall die on or after the first day of January one thousand J^tdebts of** eight hundred and seventy no debt or liability of such person deceased per-shall be entitled to any priority or preference by reason merely sons to stand that the same is secured by or arises under a bond, deed, or j^ee
+L In the administration of the estate of every person who All specialty; shall die on or after the first day of January one thousand J^tdebts of* eight hundred and seventy no debt or liability of such person deceased per-shall be entitled to any priority or preference by reason merely sons to stand that the same is secured by or arises under a bond, deed, or j^ee
 
 other instrument under seal, or is otherwise made or constituted 1870. a specialty debt; but all the creditors of such person, as well specialty as simple contract, shall be treated as standing in equal degree, and be paid accordingly out of the assets of such deceased person, whether such assets are legal or equitable, any statute or other law to the contrary notwithstanding: Provided always, that this Act shall not prejudice or affect any Ken, charge, or other security which any creditor may hold or be entitled to for the payment of his debt.
 
@@ -7290,7 +7290,7 @@ An Act to provide for Superannuation Allowances to Medical Officers of poor law 
 
 [2d August 1869.]
 
-WHEREAS it is expedient that provision should be made ** to enable superannuation allowances to be granted to medical officers of poor law unions in Ireland, and of dispensary districts of such unions, who become disabled, either by infirmity or age, to discharge the duties of their offices: Be it [No. 24. Price 2d.] A a
+WHEREAS it is expedient that provision should be made * to enable superannuation allowances to be granted to medical officers of poor law unions in Ireland, and of dispensary districts of such unions, who become disabled, either by infirmity or age, to discharge the duties of their offices: Be it [No. 24. Price 2d.] A a
 
 27»
 
@@ -7446,7 +7446,7 @@ CHAP. 54.
 
 An Act to amend the Act of the first and second years of Victoria, chapter fifty-six, intituled " An " Act for the more effectual Relief of the destitute " Poor in Ireland." [2d August 1869.]
 
-WHEREAS by an Act passed in the session of Parliament ** holden in the first and second years of the reign of Her present Majesty, intituled " An Act for the more effectual u Relief of the destitute Poor in Ireland," it is amongst other things enacted, that no guardian, paid officer, warden, or other person in whose hands the collection of the rates for the relief of the destitute poor, or the providing for, ordering, management, control, or direction of the destitute poor, of any union shall or may be placed shall, either in his own name or in the name of any other person, provide, furnish, or supply, for his own profit, any materials, goods, or provisions for the use of any workhouse in any union for which he or they shall be appointed or act as such during the time for which he or they shall retain such appointment, nor shall be concerned, directly or indirectly, in furnishing or supplying the same, or in any contract relating thereto, under pain of forfeiting the sum of one hundred pounds, with fall costs of suit, to any person who shall sue for the same by action of debt or on the case in any of Her Majesty's Courts of Record at Dublin:
+WHEREAS by an Act passed in the session of Parliament * holden in the first and second years of the reign of Her present Majesty, intituled " An Act for the more effectual u Relief of the destitute Poor in Ireland," it is amongst other things enacted, that no guardian, paid officer, warden, or other person in whose hands the collection of the rates for the relief of the destitute poor, or the providing for, ordering, management, control, or direction of the destitute poor, of any union shall or may be placed shall, either in his own name or in the name of any other person, provide, furnish, or supply, for his own profit, any materials, goods, or provisions for the use of any workhouse in any union for which he or they shall be appointed or act as such during the time for which he or they shall retain such appointment, nor shall be concerned, directly or indirectly, in furnishing or supplying the same, or in any contract relating thereto, under pain of forfeiting the sum of one hundred pounds, with fall costs of suit, to any person who shall sue for the same by action of debt or on the case in any of Her Majesty's Courts of Record at Dublin:
 
 And whereas it is expedient to amend the said provisions: Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows: 1. From and after the 'passing of this Act no action shall be commenced, or if then commenced shall be prosecuted, by any person, except the Commissioners for administering the laws for the relief of the poor in Ireland, for the recovery of any forfeiture or penalty incurred or to be incurred by any guardian of any union, or by any person while acting as such, under the provisions of section ninety-three of the said
 
@@ -7894,7 +7894,7 @@ It shall be lawful for Her Majesty by Order in Council to direct that the scheme
 
 The Committee may, if they think fit, approve the scheme with such amendments, and shall publish and circulate the same in the same manner and subject to the same right of petition to Her Majesty in Council as is before directed in the case of the approval of a scheme, and so on from time to time as often as occasion may require.
 
-4L After the time has expired for a petition to Her Schemes, &c. Majesty in Council against any scheme, or after Her Majesty ** laid be-in Council has directed a scheme to be laid before Parliament, ** the scheme shall be forthwith laid before both Houses of Parliament, if Parliament be sitting, or if not, then within three weeks after the beginning of the next ensuing session of Parliament, and after such scheme has lain for forty days before Parliament, then unless within such forty days an address has been presented by one or other of the said Houses praying Her Majesty to withhold Her consent from such scheme or any part thereof, it shall be lawful for Her Majesty by Oder in Council to declare Her approbation of such scheme or any pari thereof to which such address does not relate.
+4L After the time has expired for a petition to Her Schemes, &c. Majesty in Council against any scheme, or after Her Majesty * laid be-in Council has directed a scheme to be laid before Parliament, * the scheme shall be forthwith laid before both Houses of Parliament, if Parliament be sitting, or if not, then within three weeks after the beginning of the next ensuing session of Parliament, and after such scheme has lain for forty days before Parliament, then unless within such forty days an address has been presented by one or other of the said Houses praying Her Majesty to withhold Her consent from such scheme or any part thereof, it shall be lawful for Her Majesty by Oder in Council to declare Her approbation of such scheme or any pari thereof to which such address does not relate.
 
 42. Where a scheme relates to an endowment which during Exception as the three years preceding the commencement of this Act has to schemesi for
 
@@ -8308,11 +8308,11 @@ Civil Offices (Pensions). Ch. 60,
 
 7. Section six of the Act of the session of the fourth and Sect. 6 of fifth years of the reign of King William the Fourth, chapter * W.4.
 
-twenty-four, shall apply to pensions under this Act in the ^ pensions**y same manner as if they had been granted under the provisions under this Act. of the said Act.
+twenty-four, shall apply to pensions under this Act in the ^ pensions*y same manner as if they had been granted under the provisions under this Act. of the said Act.
 
 8. Every pension, not being chargeable on the revenues Pensions under of India, granted under this Act shall be issued and payable this Act payout of and charged and chargeable upon the Consolidated ou^of^he Con-Fund of the United Kingdom of Great Britain and Ireland solidated Fund, next in order of payment to and after paying or reserving sufficient to pay all such sums of money as have been directed to be paid by any former Act or Acts, but with preference to all other payments hereafter to be charged thereon as aforesaid, and the same shall from time to time be paid and payable quarterly.
 
-9. The Acts specified in the schedule to this Act are hereby Repeal of pro-repealed to the extent in the schedule mentioned: duteto this**"
+9. The Acts specified in the schedule to this Act are hereby Repeal of pro-repealed to the extent in the schedule mentioned: duteto this*"
 
 Provided that— Act.
 
@@ -8468,7 +8468,7 @@ Saving for sequestration against property.
 
 Saving for Bankruptcy Act, 1869.
 
-Definition of ** prescribed."
+Definition of * prescribed."
 
 Part II.
 
@@ -8810,7 +8810,7 @@ deemed to be chargeable in the first instance to the common fund of the union or
 
 22. When the boundaries between any two parishes are irregular or inconvenient, it shall be lawful for the vestries of such parishes to enter into an agreement to readjust such boundaries, and such agreement shall be submitted to the Poor Law Board for their approval, and such board shall, if they think fit, by an order under seal, confirm such agreement, and shall make such regulations for the adjustment of the rights and liabilities of the parishes affected by the said order as the nature of the case shall in their judgment require.
 
-23. The teim " common fund of the district ** shall mean the fund raised by contributions from the unions and parishes forming the district assessed on and contributed by them in conformity with the provisions of The Metropolitan Poor Act, 1867, and words in this Act shall be construed in like manner as in The Metropolitan Poor Act, 1867, and The Poor Law Amendment Act, 1834, and subsequent Acts amending and extending the same, and the provisions contained in the said
+23. The teim " common fund of the district * shall mean the fund raised by contributions from the unions and parishes forming the district assessed on and contributed by them in conformity with the provisions of The Metropolitan Poor Act, 1867, and words in this Act shall be construed in like manner as in The Metropolitan Poor Act, 1867, and The Poor Law Amendment Act, 1834, and subsequent Acts amending and extending the same, and the provisions contained in the said
 
 327
 
@@ -10718,7 +10718,7 @@ Acquisition of 86. A local authority may purchase or take on lease or at wthtmtv
 
 Conveyances, 87. Land purchased or taken on lease or at a rent under Ac. of land. this Act by a local authority, not being a body corporate, shall be assured or demised to the local authority and their successors, in trust for the purposes of this Act, and shall be accepted, taken, and held by them as a body corporate.
 
-Purchase under 88. The regulations contained in section seventy-five of order8*011** The Local Government Act, 1858, shall be observed with respect to the purchase of land by a local authority for the purposes of this Act, and shall apply and have effect as if the local authority were a local board acting under the Local Government Act, and the purposes of this Act were purposes of that Act, save that the advertisements and notices requisite under that section may be published and served in any two consecutive months instead of only in the months therein specified, and that the local rate be substituted for the rates therein mentioned; and the powers conferred by this section may be exercised by a local authority with respect to land either within or without their district.
+Purchase under 88. The regulations contained in section seventy-five of order8*011* The Local Government Act, 1858, shall be observed with respect to the purchase of land by a local authority for the purposes of this Act, and shall apply and have effect as if the local authority were a local board acting under the Local Government Act, and the purposes of this Act were purposes of that Act, save that the advertisements and notices requisite under that section may be published and served in any two consecutive months instead of only in the months therein specified, and that the local rate be substituted for the rates therein mentioned; and the powers conferred by this section may be exercised by a local authority with respect to land either within or without their district.
 
 Part VIII.—Expenses of Local Authorities.
 
@@ -10978,7 +10978,7 @@ applied, instead of section seventy-five of The Local Government Act, 1858, and 
 
 Mode of levy- 120. The local authority in a county shall from time to 8*ve to the commissioners of supply of the sums
 
-mentf **" necessary to be provided under the provisions of this Act by
+mentf *" necessary to be provided under the provisions of this Act by
 
 means of the local rate; and the amount so intimated shall be
 
@@ -12396,7 +12396,7 @@ Where by this Act any act or proceeding is directed to be done or taken on a cer
 
 offices, at such times and in such manner and form as may be prescribed by the rules of Court, and from such returns the comptroller shall, in manner prescribed by the rules of Court, frame books (which shall be, under the regulations of the rules of Court, open for public information and searches), and also a general annual report to the Lord Chancellor, judicial and financial, respecting all matters within this Act, which report shall be laid before both Houses of Parliament.
 
-116. Where any dividends remain unclaimed for five years Forfeiture of then and in every such case the same shall be deemed vested ^denda after in the Crown, and shall be disposed of as the Commissioners claim!**18 n°n" of Her Majesty's Treasury direct; provided, that at any time
+116. Where any dividends remain unclaimed for five years Forfeiture of then and in every such case the same shall be deemed vested ^denda after in the Crown, and shall be disposed of as the Commissioners claim!*18 n°n" of Her Majesty's Treasury direct; provided, that at any time
 
 after such vesting the Lord Chancellor or any Court authorized by him may, by reason of the disability or absence beyond seas of the person entitled to the sum so vested, or for any other reason appearing to him sufficient, direct that the said sum shall be repaid out of money provided by Parliament
 
@@ -13636,7 +13636,7 @@ CHAP. 82.
 
 An Act to amend the Metropolitan Building Act, 1855. [9th August 1869.]
 
-WHEREAS by the Metropolitan Building Act, 1855, ** various powers for the regulation and supervision of buildings in the metropolis are given to the Metropolitan Board of Works:
+WHEREAS by the Metropolitan Building Act, 1855, * various powers for the regulation and supervision of buildings in the metropolis are given to the Metropolitan Board of Works:
 
 And whereas by Part Two of the same Act certain powers over dangerous structures are given to the commissioners of police of the metropolis, and it is expedient to transfer those powers to the Metropolitan Board of Works:
 
@@ -13666,11 +13666,11 @@ Part repealed.
 
 An Act to amend the laws relating to the construction of buildings in the metropolis and its neighbourhood.
 
-The following words in sect. 70: 44 but when such structure 44 is situate elsewhere, it shall 44 mean 4 the commissioners of 44 police of the metropolis,* or 44 such one of them as may be 44 authorized by one of Her " Majesty's Principal Secre-44 taries of State to act in the 44 matter of this Act."
+The following words in sect. 70: 44 but when such structure 44 is situate elsewhere, it shall 44 mean 4 the commissioners of 44 police of the metropolis,* or 44 such one of them as may be 44 authorized by one of Her " Majesty's Principal Secre taries of State to act in the 44 matter of this Act."
 
-The following words in sect. 75: 44 and in the cases of payments 44 in respect of any structure 44 situate elsewhere within the 44 limits of this Act be made 44 by or to the receiver of me-44 tropolitan police."
+The following words in sect. 75: 44 and in the cases of payments 44 in respect of any structure 44 situate elsewhere within the 44 limits of this Act be made 44 by or to the receiver of me tropolitan police."
 
-The following words in sect. 81: 44 subject to the approval of 44 one of Her Majesty's Prin-44 cipal Secretaries of State and the following words in the same section: 44 and all ex-44 pen see incurred by them not 44 hereby otherwise provided 44 for snail, in the case of ex-44 penses incurred by the said 44 commissioners of police, be 44 deemed to be expenses in-44 curred by them in respect of the police force of which 44 they are commissioners, and 44 be payable accordingly."
+The following words in sect. 81: 44 subject to the approval of 44 one of Her Majesty's Prin cipal Secretaries of State and the following words in the same section: 44 and all ex pen see incurred by them not 44 hereby otherwise provided 44 for snail, in the case of ex penses incurred by the said 44 commissioners of police, be 44 deemed to be expenses in curred by them in respect of the police force of which 44 they are commissioners, and 44 be payable accordingly."
 
 CHAP. 83.
 
@@ -13798,7 +13798,7 @@ courts under the Acts for the relief of insolvent debtors, the following provisi
 
 (5.) The term insolvency in this section includes any proceeding taken to obtain protection under the Act of the session of the fifth and sixth years of Her Majesty's reign, chapter one hundred and sixteen.
 
-16. The powers and authorities originally conferred by this Authorities to part of this Act on the Court of Bankruptcy in London and ** cumulative, the county courts shall be deemed to be in addition to and
+16. The powers and authorities originally conferred by this Authorities to part of this Act on the Court of Bankruptcy in London and * cumulative, the county courts shall be deemed to be in addition to and
 
 not in abridgment of or substitution for the powers and authorities vested in them under the Acts for the relief of insolvent debtors.
 
@@ -14426,7 +14426,7 @@ CHAP. 87.
 
 An Act to provide for the prevention of Gaming in public places in Scotland. [9th August 1869.]
 
-WHEREAS it is expedient that provision should be made ** for punishing idle and disorderly persons guilty of gaming, or of having in their possession instruments of gaming, in public places in Scotland:
+WHEREAS it is expedient that provision should be made * for punishing idle and disorderly persons guilty of gaming, or of having in their possession instruments of gaming, in public places in Scotland:
 
 Be it enacted by the Queens most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -16762,7 +16762,7 @@ without making and subscribing a declaration to such purport and effect as shall
 
 1869. Consolidated Fund {Appropriation). Ch. 93. 541
 
-shall, on or before the twenty-eighth day of July one thousand eight hundred and twenty-eight, have held any civil place or employment of profit under Her Majesty, or in the colonies or possessions of Her Majesty beyond the seas, or under any other government, shall have or receive any part of the same for any time during which he shall hold any such civil place or employment of profit under Her Majesty, or in the colonies or possessions of Her Majesty beyond the seas, or under any other government, except in cases in which the same shall not exceed three times the amount of the highest rate of half pay attached to the rank in virtue of which he claims to receive half pay or as herein-after mentioned, nor in any such excepted cases unless Her Majesty's special approbation be signified as aforesaid, and the officer claiming the half pay in pursuance of such approbation shall signify in his declaration the civil place or employment of profit which he may hold or have held as aforesaid; but if the net annual emoluments of such civil place or employment shall exceed three times the amount of half pay as aforesaid, and shall fall short of four times that amount, then it shall be lawful for the Paymaster General, with Her Majesty's approbation signified by the Secretary of State for War as aforesaid, to issue, on or before the twenty-fourth day of December one thousand eight hundred and sixty-nine, so much of the half pay claimed by any such officer as shall, together with the net annual emoluments of the civil place or employment, be equal to four times the amount of such half pay, and the officer claiming the half pay in pursuance of such approbation shall specify in his declaration the civil place or employment of profit which he may have held as aforesaid, and the actual amount of the emoluments thereof, in such manner and form, and calculated up to such period or periods, as shall be required by the Secretary of State for War; but no person who, after the twenty-eighth day of July one thousand eight hundred and twenty-eight, has been appointed to any civil place or employment of profit (except in Her Majesty's household) under Her Majesty, or in the colonies or possessions of Her Majesty beyond the seas, or under any other government, shall have or receive any part of the same for any time during which he shall hold any such civil place or employment of profit (except as aforesaid) under Her Majesty beyond the seas, or under any other government, other than that of a barrack master under the Secretary of State for War, who shall, under the restrictions before mentioned, be entitled to receive his half pay: Provided always, that nothing in this Not to prevent Act contained shall prevent any person from receiving his half the receiving of pay who shall be serving as an adjutant in the volunteer force, anyActrStSg or who shall be entitled to the same under any Act or Acts to the general relating to the general or local militia, or to the yeomanry, or V**1 but that every such adjutant shall receive the same on making
+shall, on or before the twenty-eighth day of July one thousand eight hundred and twenty-eight, have held any civil place or employment of profit under Her Majesty, or in the colonies or possessions of Her Majesty beyond the seas, or under any other government, shall have or receive any part of the same for any time during which he shall hold any such civil place or employment of profit under Her Majesty, or in the colonies or possessions of Her Majesty beyond the seas, or under any other government, except in cases in which the same shall not exceed three times the amount of the highest rate of half pay attached to the rank in virtue of which he claims to receive half pay or as herein-after mentioned, nor in any such excepted cases unless Her Majesty's special approbation be signified as aforesaid, and the officer claiming the half pay in pursuance of such approbation shall signify in his declaration the civil place or employment of profit which he may hold or have held as aforesaid; but if the net annual emoluments of such civil place or employment shall exceed three times the amount of half pay as aforesaid, and shall fall short of four times that amount, then it shall be lawful for the Paymaster General, with Her Majesty's approbation signified by the Secretary of State for War as aforesaid, to issue, on or before the twenty-fourth day of December one thousand eight hundred and sixty-nine, so much of the half pay claimed by any such officer as shall, together with the net annual emoluments of the civil place or employment, be equal to four times the amount of such half pay, and the officer claiming the half pay in pursuance of such approbation shall specify in his declaration the civil place or employment of profit which he may have held as aforesaid, and the actual amount of the emoluments thereof, in such manner and form, and calculated up to such period or periods, as shall be required by the Secretary of State for War; but no person who, after the twenty-eighth day of July one thousand eight hundred and twenty-eight, has been appointed to any civil place or employment of profit (except in Her Majesty's household) under Her Majesty, or in the colonies or possessions of Her Majesty beyond the seas, or under any other government, shall have or receive any part of the same for any time during which he shall hold any such civil place or employment of profit (except as aforesaid) under Her Majesty beyond the seas, or under any other government, other than that of a barrack master under the Secretary of State for War, who shall, under the restrictions before mentioned, be entitled to receive his half pay: Provided always, that nothing in this Not to prevent Act contained shall prevent any person from receiving his half the receiving of pay who shall be serving as an adjutant in the volunteer force, anyActrStSg or who shall be entitled to the same under any Act or Acts to the general relating to the general or local militia, or to the yeomanry, or V*1 but that every such adjutant shall receive the same on making
 
 and subscribing such declaration as shall be specified in the [Ao. 46. Price 2d] Z z
 
@@ -18844,7 +18844,7 @@ Contagious Diseases.
 
 C H. 96.
 
-**573
+*573
 
 (P)
 
@@ -20448,7 +20448,7 @@ An Act for repealing part of an Act of the first year of the reign of their Maje
 
 [11th August 1869.]
 
-WHEREAS by an Act passed in the first year of the reign c. 26. ** of their Majesties King William and Queen Mary,
+WHEREAS by an Act passed in the first year of the reign c. 26. * of their Majesties King William and Queen Mary,
 
 chapter twenty-six, it was (amongst other things) enacted, that if any person presented or nominated to any benefice with cure as in the same Act is mentioned should be absent from the same above the space of sixty days in any one year, in such case the said benefice should become void: i & 2 Vict. And whereas by an Act passed in the first and second c* 106' years of the reign of Her present Majesty, chapter one hun-
 

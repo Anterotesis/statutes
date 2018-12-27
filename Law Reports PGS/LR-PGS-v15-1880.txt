@@ -1052,19 +1052,19 @@ Grants out of the Consolidated Fund ----- 30,177.129 13 1 SCHEDULE (B.)—Approp
 
 Part 1. Deficiencies, 1878-79 - - - - -
 
-„ 2. Supplementary, 1879-80 - - - -
+, 2. Supplementary, 1879-80 - - - -
 
-„ 3. Exchequer Bonds, 1879-80 -
+, 3. Exchequer Bonds, 1879-80 -
 
-„ 4. Charges defrayed by the War Office on account of
+, 4. Charges defrayed by the War Office on account of
 
 India, 1879-80 .............................
 
-„ 5. Abyssinian Expedition (of 1867-08), 1879-80 -„ 6. (a.) War in South Africa, Vote of Credit, 1879-80 , „ (b.) War in South Africa, Vote of Credit, 1879-80
+, 5. Abyssinian Expedition (of 1867-08), 1879-80 -, 6. (a.) War in South Africa, Vote of Credit, 1879-80 , , (b.) War in South Africa, Vote of Credit, 1879-80
 
 (Griqualand West) -
 
-„ „ (c.) War in South Africa, Vote of Credit, 1879-80
+, , (c.) War in South Africa, Vote of Credit, 1879-80
 
 (Sikukuni Expedition, &c.) -
 
@@ -1098,25 +1098,25 @@ On account - 2,623,229 - -15,541,300 - -1,100,000 - -
 
 £
 
-„ 10. Civil Services, , Class I. On account 346,900
+, 10. Civil Services, , Class I. On account 346,900
 
-„ 11. Ditto, Class II. On account 535,450
+, 11. Ditto, Class II. On account 535,450
 
-„ 12. Ditto, Class III. On account 1,356,900
+, 12. Ditto, Class III. On account 1,356,900
 
-„ 13. Ditto, Class IV. On account 1,696,000
+, 13. Ditto, Class IV. On account 1,696,000
 
-„ 14. Ditto, Class V. On account 159,350
+, 14. Ditto, Class V. On account 159,350
 
-„ 15. Ditto, Class VI. On account 282,100
+, 15. Ditto, Class VI. On account 282,100
 
-„ 16. Ditto, Class VII. On account 15,700
+, 16. Ditto, Class VII. On account 15,700
 
 Total Civil Services - - -
 
-„ 17. Revenue departments, &c.
+, 17. Revenue departments, &c.
 
-„ 18. Advances for Greenwich Hospital and School •
+, 18. Advances for Greenwich Hospital and School •
 
 - On account - 4,392,400 - -
 
@@ -2014,7 +2014,7 @@ For salaries and expenses of the Board of Supervision for Relief of the Poor, an
 
 For salaries of the officers and attendants of the household of the Lord Lieutenant of Ireland and other expenses For salaries and expenses of the offices of the Chief Secretary to the Lord Lieutenant of Ireland, in Dublin and London, and subordinate departments .....
 
-For salaries and expenses of the office of the Commissioners of Charitable Donations and Bequests for Ireland For salaries and expenses of the Local Government Board, in Ireland, including various grants in aid of local taxation For salaries and expenses of the office of Public Works in Ireland For salaries and expenses of the Public Record Office, and of the Keeper of the State Papers in Ireland -For salaries and expenses of the department of the Registrar General of Births, &c., and for expenses of the collection of agricultural and emigration statistics in Ireland For salaries and expenses of the general valuation and boundary survey of Ireland -
+For salaries and expenses of the office of the Commissioners of Charitable Donations and Bequests for Ireland For salaries and expenses of the Local Government Board, in Ireland, including various grants in aid of local taxation For salaries and expenses of the office of Public Works in Ireland For salaries and expenses of the Public Record Office, and of the Keeper of the State Papers in Ireland - For salaries and expenses of the department of the Registrar General of Births, &c., and for expenses of the collection of agricultural and emigration statistics in Ireland For salaries and expenses of the general valuation and boundary survey of Ireland -
 
 Total Civil Skrvicbs, Class II.
 
@@ -2636,7 +2636,7 @@ An Act to grant certain Duties of Customs and Inland Revenue, to alter other Dut
 
 Most Gracious Sovereign,
 
-WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards raising the necessary supplies to defray Your Majesty's public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties lierein-after mentioned,
+WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards raising the necessary supplies to defray Your Majesty's public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties herein-after mentioned,
 
 42 Ch. 14. Customs and Inland Revenue , 1880. 43 Vict.
 
@@ -2882,7 +2882,7 @@ Of the value of 5,000 and under 6,000 • 140
 
 99 350,000 99 400,000 - - 9,375
 
-99 99 400,000 „ 500,000 500;000 and upwards. - * - 11,250
+99 99 400,000 , 500,000 500;000 and upwards. - * - 11,250
 
 then in addition to the said duty of 11,250/., for every full sum of 100,000/. in excess of 500,000/., and also for any fractional part of 100,000/. so in excess ------
 
@@ -3112,7 +3112,7 @@ sonable cause to believe that a Company, whether registered before Registrar to 
 
 D 2
 
-Cff. 19. Companies Act, 1880. 43. Yicr.
+Cff. 19. Companies Act, 1880. 43. Vict.
 
 does not within one month after sending the second letter receive any answer thereto, the Registrar may publish in the Gazette and send to the Company a notice that at the expiration of three months from the date of that notice the name of the Company mentioned therein will, unless cause is shown to the contrary, be struck off the register and the Company will be dissolved.
 
@@ -3170,7 +3170,7 @@ Applies (as to Nuisances) 30 & 31 Vict. c. 101., Public Health (Scotland) Act, 1
 
 “T* 1: 76. in 86.}**C—'* Charter.
 
-„ s. 3. in part of 4 Geo. 4. c. 71., Retiring Pay, Pensions, &c. (India).
+, s. 3. in part of 4 Geo. 4. c. 71., Retiring Pay, Pensions, &c. (India).
 
 4. Relief of Distress (Ireland) [I.]
 
@@ -3178,13 +3178,13 @@ Empowers Guardians of the Poor to borrow money for purposes of the Act.
 
 Applies 1 & 2 Vict. c. 56. (Poor Law), and Acts amending same.
 
-„ 10 & 11 Vict. c. 32. (Land Improvement), and Acts amending same.
+, 10 & 11 Vict. c. 32. (Land Improvement), and Acts amending same.
 
-„ 41 & 42 Vict. c. 52. and 42 & 43 Vict. c. 57., Public Health (Ireland) Acts, 1878
+, 41 & 42 Vict. c. 52. and 42 & 43 Vict. c. 57., Public Health (Ireland) Acts, 1878
 
 and 1879.
 
-„ 33 & 34 Vict. c. 46., Landlord and Tenant (Ireland) Act, 1870.
+, 33 & 34 Vict. c. 46., Landlord and Tenant (Ireland) Act, 1870.
 
 Extends Borrowing Powers of Commissioners under 32 & 33 Vict. c. 42., Irish Church Act, 1869.
 
@@ -3194,7 +3194,7 @@ Extends Borrowing Powers of Commissioners under 32 & 33 Vict. c. 42., Irish Chur
 
 Repeals s. 8. of 32 & 33 Vict. c. 27., Wine and Beerhouse Act, 1869.
 
-„ s. 31. of 37 & 38 Vict. c. 49., Licensing Act, 1874,
+, s. 31. of 37 & 38 Vict. c. 49., Licensing Act, 1874,
 
 Amends 26 & 27 Vict. c. 33., Inland Revenue Duties.
 
@@ -3226,13 +3226,13 @@ Ch.
 
 Recites 42 & 43 Vict. c. ccvi.. East Indian Railway Company Purchase Act, 18/9; and empowers Secretary of State in Council of India to raise 2,950,000/. for purposes of Act. Applies 5 & 6 Will. 4. c. 64., as to Composition for Stamp Duties.
 
-„ 22 & 23 Vict. c. 35., as to East India Stock.
+, 22 & 23 Vict. c. 35., as to East India Stock.
 
-„ 26 & 27 Vict. c. 73., as to India Stock.
+, 26 & 27 Vict. c. 73., as to India Stock.
 
-„ 33 & 34 Vict. c. 93., Married Women's Property Act, 1870.
+, 33 & 34 Vict. c. 93., Married Women's Property Act, 1870.
 
-„ 34 & 35 Vict. c. 29., East India Stock (Dividends) Act, 1871 •
+, 34 & 35 Vict. c. 29., East India Stock (Dividends) Act, 1871 •
 
 11. India Stock (Powers of Attorney) [U.K.]
 
@@ -3278,7 +3278,7 @@ Amends 38 & 39 Vict. c. 45., Sinking Fund Act, 1875.
 
 Applies 29 & 30 Vict. c. 25., Exchequer Bills and Bonds Act, 1866.
 
-„ 40 & 41 Vict. c. 2., Treasury Bills Act, 1877*
+, 40 & 41 Vict. c. 2., Treasury Bills Act, 1877*
 
 17. Town Councils and Local Boards [E. & I.]
 
@@ -3286,7 +3286,7 @@ Abolishes Property Qualification.
 
 Applies 5 & 6 Will. 4. c. 76., Municipal Corporations Act, 1835.
 
-„ 9 Geo. 4. c. 82., Lighting, &c. of Cities and Towns (Ireland).
+, 9 Geo. 4. c. 82., Lighting, &c. of Cities and Towns (Ireland).
 
 18. Parliamentary Elections and Corrupt Practices [U.K.]
 
@@ -3310,11 +3310,11 @@ Continues the following Acts ; viz.—
 
 19. Companies [U.K.]
 
-Amends and applies 25 & 26 Vict. c. 89., 1 „ „ 30 & 31 Vict. c. 131., I
+Amends and applies 25 & 26 Vict. c. 89., 1 , , 30 & 31 Vict. c. 131., I
 
-„ „ 40 & 41 Vict. c. 26., f
+, , 40 & 41 Vict. c. 26., f
 
-„ „ 42 & 43 Vict. c. 76, J
+, , 42 & 43 Vict. c. 76, J
 
 Companies Acts, 1862, 1867, 1877, and 1879.
 
@@ -3896,7 +3896,7 @@ Be it therefore enacted by the Queen's most Excellent Majesty, by and with the a
 
 2. This Act shall commence to have effect on the first day of January one thousand eight hundred and eighty-one, which day is here in-after referred to as the commencement of this Act.
 
-3. In this Act the following words and expressions shall have the meanings heroin-after assigned to them, unless there be something in the subject or context repugnant to such construction; that is to say,
+3. In this Act the following words and expressions shall have the meanings herein-after assigned to them, unless there be something in the subject or context repugnant to such construction; that is to say,
 
 The expression “Judicial Factor ” shall mean factor loco tutoris and curator bonis:
 
@@ -4000,7 +4000,7 @@ TTTHEREAS questions have arisen upon the occupation of houses ▼ » in counties
 
 Short title.
 
-Letting as furnished house for certain periods not to dis-qualify.
+Letting as furnished house for certain periods not to disqualify.
 
 25 & 26 Vict, c. 103. s. 45.
 
@@ -4092,7 +4092,7 @@ Power to adopt 40 & 41 Vict, c. 59.
 
 Investment by trustees in securities of Government of iBle of Man.
 
-Ch. 8. hie oj Man Loans , 1880. 43 & 44 Yicr.
+Ch. 8. hie oj Man Loans , 1880. 43 & 44 Vict.
 
 The Government of the Isle of Man may from time to time appoint agents for the purposes of issuing, managing, and paying the principal and interest of any loan borrowed in pursuance of this Act, and otherwise for the purposes of this Act, or for any of the above-mentioned purposes, and may pay those agents such remuneration as the Treasury allow.
 
@@ -4890,7 +4890,7 @@ Any order made in pursuance of this section shall be published in the Dublin Gaz
 
 Every form when altered in pursuance of this section shall have the same effect as if it had been contained in a schedule to the principal Act or this Act, as the case may be, and every regulation made in pursuance of this section shall, while in force, have the same effect as if it were enacted in this Act.
 
-35. All fines and forfeitures imposed by the principal Act and all Recovery of penalties imposed by this Act may, unless otherwise directed, be Penalt,eg* recovered in a summary manner as laid down in section Bixty-five
+35. All fines and forfeitures imposed by the principal Act and all Recovery of penalties imposed by this Act may, unless otherwise directed, be Penalt,eg* recovered in a summary manner as laid down in section Sixty-five
 
 of the principal Act; that is to say, with respect to the police district of Dublin metropolis, subject and according to the provisions of any Act regulating the powers and duties of justices of the peace for such district, or of the police of such district; and with respect to other parts of Ireland, before a justice or justices of the peace sitting in petty sessions, subject and according to the provisions of the Petty Sessions (Ireland) Act, 1851, and any Act amending 14 & 15 Vict, the same. c‘ 93‘
 
@@ -7514,7 +7514,7 @@ G 2
 
 100
 
-Ch. 19. Taxes Management 1880. 43 & 44 Yicr.
+Ch. 19. Taxes Management 1880. 43 & 44 Vict.
 
 which they particularly relate, and shall be levied in like manner as the duties.
 
@@ -9054,7 +9054,7 @@ Ch. 20. Inland Revenue Act, 1880. 43 & 44 Vict.
 
 of a brewer, the Commissioners shall, on proof of such loss to their satisfaction, remit or repay the duty charged or paid.
 
-„ Ae to Brewers for Sale.
+, Ae to Brewers for Sale.
 
 19. Any person who brews beer for the use of any other person Certain
 
@@ -13064,21 +13064,21 @@ Open Spaces (Metropolis) Act, 1877, 40 & 41 Vict. c. 35.
 
 Metropolitan Commons Act, 1866, 29 & 30 Vict. c. 122.
 
-„ „ „ Amendment Act, 1869, 32 & 33 Vict. c. 1 07.
+, , , Amendment Act, 1869, 32 & 33 Vict. c. 1 07.
 
-„ „ „ 1878,41 & 42 Vict. c. 71.
+, , , 1878,41 & 42 Vict. c. 71.
 
-„ „ Supplemental Act, 1871 (Blackheath), 34 & 35 Vict. c. lvii.
+, , Supplemental Act, 1871 (Blackheath), 34 & 35 Vict. c. lvii.
 
-„ , „ „ , (Shepherd's Bush), 34 & 35 Vict.
+, , , , , (Shepherd's Bush), 34 & 35 Vict.
 
 c. lxiii.
 
-„ „ „ „ 1872 (Hackney Commons), 35 & 36 Vict.
+, , , , 1872 (Hackney Commons), 35 & 36 Vict.
 
 c. xliii.
 
-„ „ „ „ 1873 (Tooting Beck Common), 36 & 37
+, , , , 1873 (Tooting Beck Common), 36 & 37
 
 Vict c. lxxxvi.
 
@@ -13098,25 +13098,25 @@ Embankment Acts.
 
 The Thames Embankment (North) Act, 1862, 25 & 26 Vict c. 93., 26 & 27 Vict. c. 45. Thames Embankment (South) Act 1863, 26 & 27 Vict. c. 75.
 
-„ „ Amendment Act 1864, 27 & 28 Vict. c. cxxxy., 27 & 28 Vict,
+, , Amendment Act 1864, 27 & 28 Vict. c. cxxxy., 27 & 28 Vict,
 
 c. 61.
 
-„ „ (North and South) Act, 1868, 31 & 32 Vict. c. cxi., 31 & 32
+, , (North and South) Act, 1868, 31 & 32 Vict. c. cxi., 31 & 32
 
 Vict c. 43.
 
-„ „ (Chelsea) Act, 1868, 31 & 32 Vict. c. cxxxv., 32 & 33 Vict,
+, , (Chelsea) Act, 1868, 31 & 32 Vict. c. cxxxv., 32 & 33 Vict,
 
 c. 134.
 
-„ „ (North) Act 1870, 33 & 34 Vict c. xcii.
+, , (North) Act 1870, 33 & 34 Vict c. xcii.
 
-„ „ „ „ 1872, 35 & 36 Vict. c. lxvi.
+, , , , 1872, 35 & 36 Vict. c. lxvi.
 
-„ „ (Land) Act 1873, 36 & 37 Vict. c. 40.
+, , (Land) Act 1873, 36 & 37 Vict. c. 40.
 
-, „ (South) Act, 1873, 36 Vict c. vii.
+, , (South) Act, 1873, 36 Vict c. vii.
 
 Charing Cross and Victoria Embankment Approach Act 1873, 36 A 37 Vict. c. c. Metropolitan Board of Works Various Powers Act, 1876 (Chelsea Embankment), 39 & 40 Vict c. lxxix.
 
@@ -14378,7 +14378,7 @@ shillings.
 
 6. The enumerators shall visit every house in their respective Schedules to be divisions, and shall collect all the schedules so left within their collected from
 
-,. . . * , , , „ . ... • house to house,
+,. . . * , , , , . ... • house to house,
 
 division from house to house, so far as may be possible, on Monday and corrected,
 
@@ -14786,7 +14786,7 @@ No.
 
 3.
 
-For the maintenance and repair of the royal palaces -For the maintenance and repair of Marlborough House For the royal parks and pleasure gardens
+For the maintenance and repair of the royal palaces - For the maintenance and repair of Marlborough House For the royal parks and pleasure gardens
 
 Sams not exceeding
 
@@ -15008,11 +15008,11 @@ For imprest expenses under the Inclosure and Drainage Acts For salaries and expe
 
 For salaries and expenses of the office of the Commissioners in Lunacy in England ------
 
-For salaries and expenses of the Mint, including the expenses of the coinage -For salaries and expenses of the National Debt Office For charges connected with the Patent Law Amendment Act, the Registration of Trade Marks Act, and the Registration of Designs Act -------
+For salaries and expenses of the Mint, including the expenses of the coinage - For salaries and expenses of the National Debt Office For charges connected with the Patent Law Amendment Act, the Registration of Trade Marks Act, and the Registration of Designs Act -------
 
-For salaries and expenses of the department of Her Majesty's Paymaster General in London and Dublin -For salaries and expenses of the establishments under the Public Works Loan Commissioners and the West India Islands Relief Commissioners -
+For salaries and expenses of the department of Her Majesty's Paymaster General in London and Dublin - For salaries and expenses of the establishments under the Public Works Loan Commissioners and the West India Islands Relief Commissioners -
 
-For salaries and expenses of the Public Record Office in England For salaries and expenses of the department of the Registrar General of Births, &c. in England -For stationery, printing, and paper, binding, and printed books for the several departments of Government in England, Scotland, and Ireland, and some dependencies, and for the two Houses of Parliament; for the salaries and expenses of the Establishment of the Stationery Office and the cost of Stationery Office publications, and of the Gazette Offices; and for sundry miscellaneous services, including a grant in aid of the publication of Parliamentary Debates ------
+For salaries and expenses of the Public Record Office in England For salaries and expenses of the department of the Registrar General of Births, &c. in England - For stationery, printing, and paper, binding, and printed books for the several departments of Government in England, Scotland, and Ireland, and some dependencies, and for the two Houses of Parliament; for the salaries and expenses of the Establishment of the Stationery Office and the cost of Stationery Office publications, and of the Gazette Offices; and for sundry miscellaneous services, including a grant in aid of the publication of Parliamentary Debates ------
 
 For salaries and expenses of the office of Woods, Forests, and Land Revenues, and of the office of Land Revenue Records and Inrolments *
 
@@ -15272,11 +15272,11 @@ No.
 
 26.
 
-For such of the salaries and expenses of the Chancery Division of the High Court of Justice, of the Court of Appeal, and of the Supreme Court of Judicature, exclusive of the Central Office, as are not charged on the Consolidated Fund -For the salaries and expenses of the Central Office of the Supreme Court of Judicature, the salaries and expenses of the Judges' Clerks and other Officers, of the District Registrars of the High Court, the remuneration of the Judges' Marshals, and certain circuit and other expenses -For salaries and expenses of the Registries of Probate and Divorce and Matrimonial Causes, &c., in the Probate, Divorce, and Admiralty Division of the High Court of Justice For salaries and expenses of the offices of the Admiralty Registrar and Marshal of the Probate, Divorce, and Admiralty Division of the High Court of Justice - -
+For such of the salaries and expenses of the Chancery Division of the High Court of Justice, of the Court of Appeal, and of the Supreme Court of Judicature, exclusive of the Central Office, as are not charged on the Consolidated Fund - For the salaries and expenses of the Central Office of the Supreme Court of Judicature, the salaries and expenses of the Judges' Clerks and other Officers, of the District Registrars of the High Court, the remuneration of the Judges' Marshals, and certain circuit and other expenses - For salaries and expenses of the Registries of Probate and Divorce and Matrimonial Causes, &c., in the Probate, Divorce, and Admiralty Division of the High Court of Justice For salaries and expenses of the offices of the Admiralty Registrar and Marshal of the Probate, Divorce, and Admiralty Division of the High Court of Justice - -
 
-For salaries and expenses of the office of the Wreck Commissioner For salaries and expenses of the London Bankruptcy Court For salaries and expenses connected with the County Courts For salaries and expenses of the Office of Land Registry -For the expense of revising barristers in England For salaries and expenses of the police courts of London and Sheerness -------
+For salaries and expenses of the office of the Wreck Commissioner For salaries and expenses of the London Bankruptcy Court For salaries and expenses connected with the County Courts For salaries and expenses of the Office of Land Registry - For the expense of revising barristers in England For salaries and expenses of the police courts of London and Sheerness -------
 
-For contribution toward the expenses of the metropolitan police, and of the horse patrol, and Thames police, and for the salaries of the Commissioner, Assistant Commissioners, and Receiver -For certain expenses connected with the police in counties and boroughs in England andWales, and with the police in Scotland For the superintendence of convict establishments and for the maintenance of convicts in . convict establishments in England and the Colonies -
+For contribution toward the expenses of the metropolitan police, and of the horse patrol, and Thames police, and for the salaries of the Commissioner, Assistant Commissioners, and Receiver - For certain expenses connected with the police in counties and boroughs in England andWales, and with the police in Scotland For the superintendence of convict establishments and for the maintenance of convicts in . convict establishments in England and the Colonies -
 
 For the salaries and expenses of the Commissioners and other officers appointed under the 6th and 7th sections of the Prison Act, 1877, and the expenses of the several prisons in England and Wales to which that Act applies (including a supplementary sum of 19,927 I.)- -
 
@@ -15288,7 +15288,7 @@ For salaries and expenses of the Courts of Law and Justice in Scotland and other
 
 For salaries and expenses of the offices in Her Majesty's General Register House, Edinburgh • ....
 
-For the expenses of the Prison Commissioners for Scotland, and of the prisons under their control, including the maintenance of criminal lunatics and the preparation of judicial statistics (including a supplementary sum of 26,584/.) -For the expense of criminal prosecutions and other law charges in Ireland, including certain allowances under the Act 15 & 16 Vict. c. 83.
+For the expenses of the Prison Commissioners for Scotland, and of the prisons under their control, including the maintenance of criminal lunatics and the preparation of judicial statistics (including a supplementary sum of 26,584/.) - For the expense of criminal prosecutions and other law charges in Ireland, including certain allowances under the Act 15 & 16 Vict. c. 83.
 
 For salaries and expenses of the Chancery Division (excluding the Land Judges' offices) of the High Court of Justice ana of the Court of Appeal in Ireland .... For salaries and expenses of the Queen's Bench, Common Pleas, and Exchequer Divisions of Her Majesty's High Court of Justice in Ireland, including provision for certain officers of the Supreme Court of Judicature in Ireland, and for the trial of election petitions - .....
 
@@ -17014,29 +17014,29 @@ ARRANGED IN CLASSES.
 
 Class 1.—Bridges and Ferries.
 
-„ 2.—Canals, Rivers, Navigations, Tun-
+, 2.—Canals, Rivers, Navigations, Tun-
 
 nels, AND SUBWAYS.
 
-„ 8.—Charitable Foundations and In-
+, 8.—Charitable Foundations and In-
 
 stitutions.
 
-„ 4.—Drainages and Drainage Embankments.
+, 4.—Drainages and Drainage Embankments.
 
-„ 5.—Ecclesiastical Affairs, including
+, 5.—Ecclesiastical Affairs, including
 
 Tithes.
 
-„ 6.—Estates.
+, 6.—Estates.
 
-„ 7.—Fisheries.
+, 7.—Fisheries.
 
-„ 8.—Gaslight Companies and Water
+, 8.—Gaslight Companies and Water
 
 Companies.
 
-„ 9.—Harbours, Docks, Ports, Piers,
+, 9.—Harbours, Docks, Ports, Piers,
 
 Quats, &c.
 
@@ -17044,21 +17044,21 @@ Class 10.—Improvements in Towns, Municipal
 
 AND COUNTT AND LOCAL GOVERNMENT Matters, &c.
 
-„ 11.—Inclosures of Commons.
+, 11.—Inclosures of Commons.
 
-„ 12.—Parish Affairs.
+, 12.—Parish Affairs.
 
-„ 13.—Personal Affairs.
+, 13.—Personal Affairs.
 
-„ 14.—Railways.
+, 14.—Railways.
 
-„ 15.—Trading and other Companies.
+, 15.—Trading and other Companies.
 
-„ 16.—Tramways.
+, 16.—Tramways.
 
-„ 17.—Turnpike and other Roads.
+, 17.—Turnpike and other Roads.
 
-„ 18___Provisional Orders Confirma-
+, 18___Provisional Orders Confirma-
 
 tion.
 
@@ -17768,9 +17768,9 @@ Ch.
 
 Repeals s. 4. of 26 & 27 Vict. c. 86., Isle of Man Harbours Act, 1863.
 
-„ part of s. 6. of 29 & 30 Vict. c. 23., Isle of Man Customs, &c. Act, 1866.
+, part of s. 6. of 29 & 30 Vict. c. 23., Isle of Man Customs, &c. Act, 1866.
 
-„ part of s. 20. of 35 and 36 Vict. c. 23., Isl# of Man Harbours Act, 18/2.
+, part of s. 20. of 35 and 36 Vict. c. 23., Isl# of Man Harbours Act, 18/2.
 
 , s. 7- of 37 & 38 Vict. c. 8., Isle of Man Harbours Act, 1874.
 
@@ -17788,7 +17788,7 @@ Removes Doubts as to meaning or Expressions relating to Time occurring in Acts o
 
 Amends 14 & 15 Vict. c. 82., Great Seal Act, 1851.
 
-„ .38 & 39 Vict. c. 77., Supreme Court of Judicature Act, 1875.
+, .38 & 39 Vict. c. 77., Supreme Court of Judicature Act, 1875.
 
 , 39 & 40 Vict. c. 59., Appellate Jurisdiction Act, 1876.
 
@@ -17806,19 +17806,19 @@ Repeals (in part) 26 & 27 Vict. c. 11., Registration of Births and Deaths (Irela
 
 Applies 41 & 42 Vict. c. 52. and 42 & 43 Vict. c. 57., Public Health (Ireland) Acts, 1873 and 1879.
 
-„ 14 & 15 Vict. c. 93., Petty Sessions (Ireland) Act, 1851.
+, 14 & 15 Vict. c. 93., Petty Sessions (Ireland) Act, 1851.
 
 14. Relief of Distress (Ireland) Act Amendment [I.]
 
 Amends 43 Vict. c. 4., Relief of Distress (Ireland) Act, 1880.
 
-„ 43 Vict. c. 1., Seeds Supply (Ireland) Act, 1880.
+, 43 Vict. c. 1., Seeds Supply (Ireland) Act, 1880.
 
 Amends and applies 9 & 10 Vict. c. 3., Fishery Piers Act, 1846.
 
 Applies 16 Sc 17 Vict. c. 136., Grand Jury Presentments (Ireland) Act, 1853.
 
-„ 42 Sc 43 Vict. c. 77., Public Works Loans Act, 1879.
+, 42 Sc 43 Vict. c. 77., Public Works Loans Act, 1879.
 
 Defines “ Improvements ” under 33 & 34 Vict. c. 46., Landlord and Tenant (Ireland) Act,
 
@@ -17828,7 +17828,7 @@ Defines “ Improvements ” under 33 & 34 Vict. c. 46., Landlord and Tenant (Ir
 
 Amends 29 & 30 Vict. c. 118., Industrial Schools Act, 1866.
 
-„ 31 Sc 32 Vict. c. 25., Industrial Schools (Ireland) Act, 1868.
+, 31 Sc 32 Vict. c. 25., Industrial Schools (Ireland) Act, 1868.
 
 16. Merchant Seamen (Payment of Wages and Rating) [U.K.]
 
@@ -17838,7 +17838,7 @@ Construes Act with Merchant Shipping Acts, 1854 to I876.
 
 Applies (as to Savings Banks) 24 & 25 Vict. c. 14., 26 & 27 Vict. c. 87-, 17 & .18 Vict, c. 104. s. 180., and 19 & 20 Vict. c. 41.
 
-„ 38 & 39 Vict. c. 90., Employers and Workmen Act, 1875.
+, 38 & 39 Vict. c. 90., Employers and Workmen Act, 1875.
 
 17. Revenue Offices (Scotland) Holidays [S.]
 
@@ -17856,9 +17856,9 @@ Repeals Enactments described in the Third Schedule, with certain exceptions and-
 
 Substitutes a reference to this Act in former Acts as described in the Fourth Schedule. Applies 5 & 6 Vict. c. 35. and 16 & 17 Vict. c. 34., Income Tax Acts, 1842 and 1863.
 
-„ 32 & 33 Vict. c. 67., Valuation (Metropolis) Act, 1869.
+, 32 & 33 Vict. c. 67., Valuation (Metropolis) Act, 1869.
 
-„ 33 Geo. 3. c. 55., as to levies and distraints.
+, 33 Geo. 3. c. 55., as to levies and distraints.
 
 1880
 
@@ -17904,11 +17904,11 @@ Amends 17 & 18 Vict. c. 104., 1
 
 , 25 & 26 Vict', c. 63., > Merchant Shipping Acts, 1854,1862, and 1876. '
 
-„ 39 Sc40 Vict. c. 80., J
+, 39 Sc40 Vict. c. 80., J
 
-„ 14 & 15 Vict. c. 102., Seamen's Fund Winding-up Act, 1851. :
+, 14 & 15 Vict. c. 102., Seamen's Fund Winding-up Act, 1851. :
 
-„ 40 & 41 Vict. c. 16., Removal of Wrecks Act, 187/.
+, 40 & 41 Vict. c. 16., Removal of Wrecks Act, 187/.
 
 23. Elementary Education [E.]
 
@@ -17930,7 +17930,7 @@ Amends 38 & 39 Vict. c. 65., Metropolitan Board of Works (Loans) Act, 1875.
 
 Applies Metropolitan Board of Worts (Loans) Acts, 1869 to 1871.
 
-„ Metropolitan Board of Works (Money) Acts, 1875 to 1879.
+, Metropolitan Board of Works (Money) Acts, 1875 to 1879.
 
 Empowers Board to expend Moneys for purposes described in the Schedules.
 
@@ -17978,11 +17978,11 @@ Ch.
 
 Amends 3 & 4 Vict. c. 96., Post Office Duties Act, 1840.
 
-„ 11 & 12 Vict. c. 88., Post Office Money Order Act, 1848.
+, 11 & 12 Vict. c. 88., Post Office Money Order Act, 1848.
 
 Applies 24 & 25 Vict. c. 96., Larceny Act, 1861.
 
-. „ 24 & 25 Vict. c. 98., Forgery Act, 1861.
+. , 24 & 25 Vict. c. 98., Forgery Act, 1861.
 
 34. Debtors (Scotland) [S.]
 
@@ -17996,23 +17996,23 @@ Applies 19 &20 Vict. c. 79., Bankruptcy (Scotland) Act, 1856.
 
 Repeals 32 & 33 Vict. c. 17., Sea Birds Preservation Act, 1869.
 
-„ 35 & 36 Vict. c. 78., Wild Birds Protection Act, 1872.
+, 35 & 36 Vict. c. 78., Wild Birds Protection Act, 1872.
 
-„ 39 8c 40 Vict. c. 29., Wild Fowl Preservation Act, 1876.
+, 39 8c 40 Vict. c. 29., Wild Fowl Preservation Act, 1876.
 
 Applies 11 & 12 Vict. c. 43. and 42 & 43 Vict. c. 49., Summary Jurisdiction Acts, 1848 and 1879.
 
-„ 27 & 28 Vict. c. 53., Summary Procedure (Scotland) Act, 1864.
+, 27 & 28 Vict. c. 53., Summary Procedure (Scotland) Act, 1864.
 
-„ 14 & 15 Vict. c. 93., Petty Sessions (Ireland) Act, 1851.
+, 14 & 15 Vict. c. 93., Petty Sessions (Ireland) Act, 1851.
 
 36. Savings Banks [U.K.]
 
 Amends 26 & 27 Vict. c. 25., Savings Bank Investment Act, 1863.
 
-„ 26 & 27 Vict. c. 87., Trustee Savings Bank Act, 1863.
+, 26 & 27 Vict. c. 87., Trustee Savings Bank Act, 1863.
 
-„ 40 & 41 Vict. c. 13., Customs, Inland Revenue, and Savings Bank Act, 1877.
+, 40 & 41 Vict. c. 13., Customs, Inland Revenue, and Savings Bank Act, 1877.
 
 Applies 32 & 33 Vict. c. 59., Savings Bank Investment Act, 1369.
 
@@ -18030,7 +18030,7 @@ Applies 27 & 28 Vict. c. 53., Summary Procedure (Scotland) Act, 1864.
 
 Applies 34 & 35 Vict. c. 22., Lunacy Regulation (Ireland) Act, 1871.
 
-„ 40 & 41 Vict. c. 56., County Officers and Courts (Ireland) Act, 1877.
+, 40 & 41 Vict. c. 56., County Officers and Courts (Ireland) Act, 1877.
 
 40. Appropriation [U.K.]
 
@@ -18048,7 +18048,7 @@ Amends existing Law in respect of liability for personal injuries to Workmen.
 
 Applies County Courts Acts, &e. as to Trial of Action.
 
-„ 38 & 39 Vict. c. 90., Employers and Workmen Act, 1875.
+, 38 & 39 Vict. c. 90., Employers and Workmen Act, 1875.
 
 43. Merchant Shipping (Carriage of Grain) [U.K.]
 
@@ -18056,13 +18056,13 @@ Repeals section 22. of 39 & 40 Vict. c. 80., Merchant Shipping Act, 1876.
 
 Applies 17 8c IS Vict. c. 104 (Merchant Shipping Act, 1854), and Acts amending the same.
 
-I: i $ £ I?vi£ cc:s^ng a*., un and lm „ ss. 50. and 51. of 39 & 40 Vict. c. 36., Customs Consolidation Act, 1876.
+I: i $ £ I?vi£ cc:s^ng a*., un and lm , ss. 50. and 51. of 39 & 40 Vict. c. 36., Customs Consolidation Act, 1876.
 
 44. Irish Loans [I.]
 
 Amends 43 & 44 Vict. c. 14., Relief of Distress (Ireland) Amendment Act, 1880.
 
-„ 42 & 43 Vict. c. 77., Public Works Loans Act, 1879.
+, 42 & 43 Vict. c. 77., Public Works Loans Act, 1879.
 
 45. Criminal Law Amendment [E. & I.]
 
@@ -18146,7 +18146,7 @@ Act repealed or amended. Subject-matter. How affected. Chapter of 43 A 44 Vict.
 
 30 Geo. 3. c. 38. s. 15. Licences for retailing Spirits - - Repealed 24
 
-43 Geo. 3. c. 99. „ c. 150. „ c. 161. in part 45 Geo. 3. c. 71. „ c. 95. 48 Geo. 3. c. 55. s. 7. - ►Taxes Management—Inland Revenue Repealed 19
+43 Geo. 3. c. 99. , c. 150. , c. 161. in part 45 Geo. 3. c. 71. , c. 95. 48 Geo. 3. c. 55. s. 7. - ►Taxes Management—Inland Revenue Repealed 19
 
 c. 141. in part 50 Geo. 3. c. 105. 52 Geo. 3. c. 95. 55 Geo. 3. c. 161. 56 Geo. 3. c. 58. ss. 2, 3. in part Sugar used in brewing Repealed 20
 
@@ -18174,9 +18174,9 @@ c. 58. Duties and drawbacks on Beer and Repealed 20
 
 Malt, &c.
 
-„ * c. SO. s. 145. „ c. 81. ss. 2, 20. in part Spirit Duties - - - ] Repealed 24
+, * c. SO. s. 145. , c. 81. ss. 2, 20. in part Spirit Duties - - - ] Repealed 24
 
-7 & 8 Geo. 4. c. 52. -11 Geo. 4. & 1 Will.. 4. c. 17. -» 9/ 31. „ „ c. 51. in part. 1 & 2 Will. 4. c. 18. - I Malt Duties - J Repealed 20
+7 & 8 Geo. 4. c. 52. -11 Geo. 4. & 1 Will.. 4. c. 17. -» 9/ 31. , , c. 51. in part. 1 & 2 Will. 4. c. 18. - I Malt Duties - J Repealed 20
 
 Duties on Cyder, Beer, and Ale, - Repealed 20
 
@@ -18186,7 +18186,7 @@ c. 55. in part - Malt Duties - - Repealed 20
 
 4 & 5 Will. 4. c. 60. in part - *1
 
-5 & 6 Will. 4. c. 20. in part -„ c. 64. ss. 10-13. 1 Taxes Management— Inland Revenue Repealed 19
+5 & 6 Will. 4. c. 20. in part -, c. 64. ss. 10-13. 1 Taxes Management— Inland Revenue Repealed 19
 
 6 & 7 Will. 4. c. 65. ss. 10-12. J
 
@@ -18278,7 +18278,7 @@ c. 33. s. 23. Inland Revenue - Repealed 19
 
 c. 86. s. 4. Isle of Man Harbours - Repealed 8
 
-„ o. 87. - Savings Banks - , - . Amended 36
+, o. 87. - Savings Banks - , - . Amended 36
 
 c. 88. - Drainage and Improvement of Lands Amended 27
 
@@ -18296,15 +18296,15 @@ c. 121. - Railways Construction Facilities - Amended 31 .
 
 28 & 29 Vict. o. 30. s. 5. Inland Revenue - _ Repealed 19
 
-„ o. 48. - Courts of Justice Building - - Amended 29
+, o. 48. - Courts of Justice Building - - Amended 29
 
 c. 66. _ - Malt Duty - - - - Repealed 20
 
-c. 96. in part „ c. 98. in part j- Spirit Duties - Repealed 24
+c. 96. in part , c. 98. in part j- Spirit Duties - Repealed 24
 
 29 & 30 Vict. c. 23. s. 6. in Isle of Man Customs, &c. - Repealed 8
 
-par i/. „ c. 64. in part Inland Revenue - Repealed 19, 20, and 24. 15
+par i/. , c. 64. in part Inland Revenue - Repealed 19, 20, and 24. 15
 
 c. 118. - Industrial Schools Amended
 
@@ -18416,5 +18416,5 @@ c. 4. - Relief of Distress (Ireland) Amended 14
 
 c. 13. in part • Appropriation . - - Repealed 40
 
-43 & 44 Vict. c. 14. * * Relief of Distress (Ireland) • Amended 44
+43 & 44 Vict. c. 14. Relief of Distress (Ireland) • Amended 44
 

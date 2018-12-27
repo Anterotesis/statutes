@@ -3558,7 +3558,7 @@ of Magistrate.
 
 ----,---------Signature of Informant.
 
-\ Insert " is " or ** I is not," as the Case may be.
+\ Insert " is " or * I is not," as the Case may be.
 
 I certify, that I have inspected the , Prisoner, and consider him J for Military Service.
 
@@ -3680,7 +3680,7 @@ d.
 
 0 15 1 0 12 8
 
-V. The Duties imposed by this Act shall be under the Manage- Doties to be raent of the Commissioners of Her Majesty's Customs, and shall be under M**.
+V. The Duties imposed by this Act shall be under the Manage- Doties to be raent of the Commissioners of Her Majesty's Customs, and shall be under M*.
 
 nagement of
 
@@ -4190,7 +4190,7 @@ Consolidated Fund (Appropriation).
 
 7 £-
 
-For Expanses of the West India Relief Commission** .., 600
+For Expanses of the West India Relief Commission* .., 600
 
 For the Contingent Expenses of the Commissioners in Lunacy - - - - - 700
 
