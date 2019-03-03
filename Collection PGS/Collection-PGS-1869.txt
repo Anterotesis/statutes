@@ -1136,7 +1136,7 @@ Notice to be given to a Recruit at the time of his Enlistment.
 
 Date 186
 
-#
+
 
 AKE notice, that you enlisted with at
 
@@ -1174,7 +1174,7 @@ Name of the recruit. f A.M. or P.M., as the case may be.
 
 Questions this day put to the Recruit before Enlistment, as required by the Mutiny Act.
 
-What is your name ? - ________________________
+What is your name ? - __________
 
 In what parish, and in or*" near what town, and in what county were you bom ?
 
@@ -1236,7 +1236,7 @@ In the parish of____
 
 in or near the town
 
-of_________in the
+of__________in the
 
 county of________
 
@@ -1286,13 +1286,13 @@ Signature of recruit_
 
 Witness
 
-At_______________
+At__________
 
 on the___day of____
 
 at_____o'clock___M.
 
-L By_______________ —
+L By__________ —
 
 and a free kit.
 
@@ -1302,9 +1302,9 @@ I do solemnly and sincerely declare,
 
 that to the best of my knowledge and belief the above answers to the foregoing questions made and signed by me are true; and that I am willing to be attested for the term of twelve years, provided Her Majesty should so long require my services, and also for such further term, not exceeding twelve months, as shall be directed by the commanding officer on any foreign, colonial, or Indian station.
 
-Signature of reci'uit_________________
+Signature of reci'uit__________
 
-Signature of witness__________________
+Signature of witness__________
 
 Oath to be taken by a Recruit on Attestation.
 
@@ -1324,9 +1324,9 @@ So help me GOD.
 
 Witness my hand,
 
-Signature of recrwit_______________________
+Signature of recrwit__________
 
-Witness present___________________________
+Witness present__________
 
 The above questions were asked of the" said and answered by him
 
@@ -1336,13 +1336,13 @@ above declaration and oath before me at this day of
 
 one thousand eight hundred and at o'clock, m.^
 
-Signature of the justice_________
+Signature of the justice__________
 
 Note^The recruit should, if he requires it, receive a certified copy of the declaration.
 
 It is desirable that at least half an hour beyond the twenty-four hours prescribed by the Mutiny Act should have expired before attestation, and that a recruit should invariably be attested at least half an hour before the expiration of ninety-six hours from the time of enlistment.
 
-&
+
 
 Or was, as ie case may be. (*) The foregoing portion of this declaration may be altered, by substituting the word " corps " for " regiment," to suit each particular case.
 
@@ -1360,15 +1360,15 @@ years; and that I will serve Her Majesty, her heirs and successors, in regiment 
 
 term as shall complete a total service of twenty-one years, provided my services should so long be required, and also for such further term, not exceeding twelve months, as shall be directed by the commanding officer on any foreign, colonial, or Indian station.
 
-Declared before me______________________________
+Declared before me__________
 
-Date_____________________________________
+Date__________
 
-Place, at________________________________
+Place, at__________
 
-________________________Signature of soldier.
+__________Signature of soldier.
 
-________________________Signature of witness.
+__________Signature of witness.
 
 Form of Oath to be taken by a Master whose Apprentice has absconded.
 
@@ -1498,7 +1498,7 @@ Storekeeper at_____
 
 18 ,}
 
-_____________9
+__________9
 
 Magistrate for
 
@@ -1516,7 +1516,7 @@ Barrack Master at Declared before me at
 
 this day of 18
 
-Magistrate for____________________.
+Magistrate for__________.
 
 Form of Declaration of Attestation of a Paymaster's
 
@@ -1570,11 +1570,11 @@ Form of Declaration of Attestation of the Accounts of a Military Accountant.
 
 T HEREBY solemnly and sincerely declare, that this account, comprised in folios, is just and true, according to the best of my knowledge, information, and belief; and I make this declaration, conscientiously believing the same to be true.
 
-____________Military Accountant.
+__________Military Accountant.
 
-\_____________________Justice of
+\__________Justice of
 
-J the Peace for________________.
+J the Peace for__________.
 
 Declared before me, at this day of
 
@@ -1618,7 +1618,7 @@ Particulars in the evidence on which the prisoner is committed, and showing whet
 
 It is important for the public service, and for the interest of the deserter,
 
-that this part of die return should be accurately filled up, and the details should be inserted by the magistrate in his own handwriting, or, under his direction, by his clerk. _______________________________
+that this part of die return should be accurately filled up, and the details should be inserted by the magistrate in his own handwriting, or, under his direction, by his clerk. __________
 
 I do hereby certify, that the prisoner has been duly examined before me as to the circumstance herein stated, and has declared in my presence that he f a deserter from the above-mentioned corps.
 
@@ -2412,7 +2412,7 @@ for the purpose of being taken before a justice, either to be attested or to rel
 
 You are hereby also warned that you will be liable to the same punishment if you make any wilfully false representations at the time of attestation.
 
-Signature of the non-commiss ioned _____________________
+Signature of the non-commiss ioned __________
 
 officer serving the notice. J
 
@@ -2446,9 +2446,9 @@ Note (a), (6), (c). — These blanks need not be filled up if the recruit is una
 
 read to me] the notice then given to me and understood its meaning; that I enlisted for a bounty of and a free kit [as the case may be], and have no objection to make to the manner of my enlistment; that I am willing to be* attested to serve in the Royal Marines for the term of [the blank after the words "term of" to be filled up with twelve years, if the person enlisted is of the age of eighteen years or upwards; but if under that age then the difference between his age and eighteen is to he added to such twelve years], provided Her Majesty should so long require my services, and also for such further term, not exceeding two years, as shall be directed by the commanding officer on any foreign station.
 
-___________________Signature of recruit
+__________Signature of recruit
 
-_______________Signature of witness.
+__________Signature of witness.
 
 Oath to be taken by a Recruit on Attestation.
 
@@ -2466,11 +2466,11 @@ Majesty, her heirs and successors, and of the generals and
 
 officers set over me. * So help me GOD.
 
-#
 
-Witness my hand,__________________Signature of the recruit
 
-________________Witness present.
+Witness my hand,__________Signature of the recruit
+
+__________Witness present.
 
 Declared and sworn before me at
 
@@ -2478,7 +2478,7 @@ this day of one thousand
 
 eight hundred and at o'clock
 
-________________________Signature of the justice.
+__________Signature of the justice.
 
 Declaration to be made by a Marine renewing his
 
@@ -2500,7 +2500,7 @@ years as shall be required to complete a total service of twenty-one years], pro
 
 and also for such further term, not exceeding two years, as shall be directed by the commanding officer on any foreign station.
 
-__________________ Signature of marine.
+__________ Signature of marine.
 
 Signature of witness*
 
@@ -4196,7 +4196,7 @@ relinquishment,
 
 Ch. 19. Stannaries. 32 & 33 Vict.
 
-*
+
 
 on him requiring him to pay such call, with or without interest and any expenses that may have accrued by reason of such nonpayment, and stating to the effect that in the event of nonpayment in accordance with the notice the share in respect of which such call was made will be liable to be forfeited.
 
@@ -8918,15 +8918,15 @@ and* seventy, and no longer.
 
 SCHEDULE.
 
-Colonel ------
+Colonel -----
 
 Lieutenant-Colonel -
 
-Major ------
+Major -----
 
 Captain (including non-effective allowance) lieutenant -
 
-Ensign ------
+Ensign -----
 
 Adjutant, if acting also as paymaster in corps consisting of four companies and upwards -, if acting also as paymaster in corps consisting of less than four companies -
 
@@ -8986,7 +8986,7 @@ Serjeant (not on the permanent staff) -
 
 Corporal -
 
-Private ------
+Private -----
 
 Command allowance to the officer actually in command during training and exercise, if the pay of colonel is not drawn - - -
 
@@ -9872,9 +9872,9 @@ We, the undersigned, do hereby declare that one of us, or some person on our beh
 
 shillings and pence.
 
----------------------------------------------1 Churchwardens.
+-----1 Churchwardens.
 
---------------------------------------------j- Overseers.
+-----j- Overseers.
 
 FIFTH SCHEDULE.
 
@@ -11642,7 +11642,7 @@ the bankrupt subsequently to the date of his so having notice.
 
 Save as aforesaid, all debts and liabilities, present or
 
-future, certain or contingent, to which the bankrupt is subject ------
+future, certain or contingent, to which the bankrupt is subject -----
 
 at the date of the order of adjudication, or to which he may become subject during the continuance of the bankruptcy by reason of any obligation incurred previously to the date of the order of adjudication, shall be deemed to be debts provable in bankruptcy, and may be proved in the prescribed manner before the trustee in the bankruptcy.
 
@@ -11826,7 +11826,7 @@ Status of undischarged Banhmpt. Status of
 
 54. Where a person who has been made bankrupt has not ^Ba^foupt!*
 
-obtained his discharge, then, from and after the close of his ---------
+obtained his discharge, then, from and after the close of his -----
 
 bankruptcy, the following consequences shall ensue: Status of
 
@@ -11884,7 +11884,7 @@ shall, subject to the provisions herein-after contained
 
 for removing the proceedings, mean the county court o/Cowtl
 
-of the district in which such person resides or carries -----------
+of the district in which such person resides or carries -----
 
 on business, herein-after referred to as the local Bankruptcy Court.
 
@@ -12386,7 +12386,7 @@ Miscellaneous.
 
 for public fast, humiliation, or thanksgiving, or a day on which Part IV. in pursuance of a notification by the Lord Chancellor under Su , , this Act, the Court does not sit, in which case any act or pro- ^rwMans.
 
-ceeding shall be considered as done or taken in due time if it -------
+ceeding shall be considered as done or taken in due time if it -----
 
 is done or taken on the next day afterwards, not being one of the days in this section specified.
 
@@ -12628,7 +12628,7 @@ All books, papers, documents, and money in the custody or control of any such co
 
 131. The Commissioners of Her Majesty's Treasury may, on Pabt Vlll.
 
-the petition of any person whose office or employment is T-------
+the petition of any person whose office or employment is T-----
 
 abolished by or under this Act, on the commencement of this
 
@@ -12990,7 +12990,7 @@ The SCHEDULE to which the foregoing Act refers.
 
 Names of Telegraph Companies with whom arrangements have been made pursuant to the Telegraph Acts. Amounts payable to Telegraph Companies under the Telegraph Acts.
 
-The Electric and International Telegraph Company - The British and Irish Magnetic Telegraph Company, Limited ------ Reuter's Telegram Company, Limited The United Kingdom Electric Telegraph Company, Limited ------ The Universal Private Telegraph Company The London and Provincial Telegraph Company, Limited ------ £ s. d. 2,938,826 9 0 1,243,536 0 0 726,000 0 0 562,264 9 11 184,421 10 0 60,000 0 0
+The Electric and International Telegraph Company - The British and Irish Magnetic Telegraph Company, Limited ----- Reuter's Telegram Company, Limited The United Kingdom Electric Telegraph Company, Limited ----- The Universal Private Telegraph Company The London and Provincial Telegraph Company, Limited ----- £ s. d. 2,938,826 9 0 1,243,536 0 0 726,000 0 0 562,264 9 11 184,421 10 0 60,000 0 0
 
 5,715,048 8 11
 
@@ -13324,7 +13324,7 @@ but not now required - 52,501
 
 £ 7,460,000 5,489,926 5,950,000 1,510,000
 
-£
+
 
 Provided for by 23 & 24 Vict. c. 109. - 2,000,000
 
@@ -14654,7 +14654,7 @@ Penwortham and Wrightington 4 79
 
 Leicester - Burton Bridge and Market Bosworth 4 85
 
-Lincoln Foston Bridge and Witbam Common 4 84
+Lincoln Foston Bridge and Witham Common 4 84
 
 Leadenham and Southwell, Eastern 2 29
 
@@ -15602,7 +15602,7 @@ Fund <E.)
 
 Fund (F.)
 
-£10,000. Bank £3 per cent annuities. £4,486 5s. cash. u Appeal deposit account 99 Belongs to Court Is liable to make good debt to suitors as mentioned in Fart L The stock represents the accumulated amount of deposits invested by registrars previously to the passing of 15 & 16 Vict c. 87. Cash arises from dividends on above stock. 15 & 16 Viet-c. 87. s. 41.
+£10,000. Bank £3 per cent annuities. £4,486 5s. cash. u Appeal deposit account 99 Belongs to Court Is liable to make good debt to suitors as mentioned in Fart L The stock represents the accumulated amount of deposits invested by registrars previously to the passing of 15 & 16 Vict c. 87. Cash arises from dividends on above stock. 15 & 16 Vict-c. 87. s. 41.
 
 £4,559 13s. 9 Bank £3 per cent, annuities.
 
@@ -16730,7 +16730,7 @@ services for the said year, temporarily defrayed to the Navy surplus, extent of 
 
 eight pounds sixteen shillings for army services un- 348 07sTi6s provided for in the grants for army services for the od.
 
-said year, temporarily defrayed to the extent of two ---------------
+said year, temporarily defrayed to the extent of two -----
 
 hundred and fifty-seven thousand seven hundred and Army surplus, twenty-eight pounds eight shillings and elevenpence 29ow&t£1ia out of surpluses to the said last-mentioned amount, which have arisen upon certain votes for army services for the same year, and by the application of the sum of ninety thousand three hundred and fifty pounds seven shillings and one penny, being the sum which has been realized in excess of the estimated appropriations in aid, the said two sums making together the sum of three hundred and forty-eight thousand and seventy-eight pounds and sixteen shillings:
 
@@ -16738,7 +16738,7 @@ It is enacted that the application of the said surpluses to cover so much of the
 
 27. The respective departments charged with the detailed Expenditure application of the sums granted by this Act for navy and army services shall confine the expenditure of their respective respectively to departments within the particular amounts appropriated to be confined to each of the separate services comprised in the sum of nine million nine hundred and ninety-six thousand six hundred which granted, and forty-one pounds granted by this Act for naval services, Navy, and in the sum of fourteen million two hundred and tliirty 9,996,641 thousand and four hundred pounds granted by this Act for
 
-army services: Provided always, that if a necessity shall arise ___________
+army services: Provided always, that if a necessity shall arise __________
 
 for incurring expenditure not provided for in the sums appropriated to naval and military services by this Act, and which jncert^Saes it may be detrimental to the public service to postpone until of exigency, provision can be made for it by Parliament in the usual course, authorize ex-the respective departments shall forthwith make application ^ovidedefor"; in writing to the Commissioners of Her Majesty's Treasury provided that for their authority to defray temporarily such expenditure out th^0er^e of any surpluses which may have been or which may be gerrices* effected by the saving of expenditure upon votes within the and for the same department, and in such applications the departments ^y services
 
@@ -16822,7 +16822,7 @@ Per Section 4 of this Act (being surplus ways and means
 
 granted for the service of preceding years) - - 798,132 17 9
 
-Total Grants of Wats and f £ s. cLl----------------
+Total Grants of Wats and f £ s. cLl-----
 
 Means to meet the follow- 1868 & 1869 4,506,272 13 4 > 48,051,089 13 4
 
@@ -16854,7 +16854,7 @@ Army services - - (Sec. 12, Schedule E.)
 
 Exchequer bonds - - (Sec. 13) -
 
-£
+
 
 Civil services, Class I. (Sec. 14, Schedule F.) - 1,210,754
 
@@ -17068,7 +17068,7 @@ No.
 
 {!
 
-For wages to 63,300 seamen and marines - For victuals and clothing for seamen and marines - For salaries of the officers and contingent expenses of the Admiralty Office ------
+For wages to 63,300 seamen and marines - For victuals and clothing for seamen and marines - For salaries of the officers and contingent expenses of the Admiralty Office -----
 
 For salaries and expenses of the coast guard service, the royal naval coast volunteers, and royal naval reserve For salaries of the officers and contingent expenses of the several scientific departments of the navy - For salaries of the officers and contingent expenses of Her Majesty's dockyards and naval yards at home and abroad - For salaries of the officers and contingent expenses of Her Majesty's victualling yards and transport establishments at home and abroad -
 
@@ -17088,7 +17088,7 @@ Total Navy Services - - -£
 
 Sums not exceeding
 
-£
+
 
 2,762,353 1,172,268
 
@@ -17210,7 +17210,7 @@ For the out-pensioners of Chelsea hospital, &c.
 
 For the non-effective services of the militia, yeomanry cavalry, and volunteer corps - For superannuation allowances, &c.
 
-£
+
 
 5,313,800
 
@@ -17270,7 +17270,7 @@ viding the necessary supply of water for the same; for rents of houses for the t
 
 4. For the supply and repair of furniture in the public depart-
 
-ments ------
+ments -----
 
 5. For purchase of lands for new palace at Westminster, and
 
@@ -17280,7 +17280,7 @@ further embankment of the Thames -
 
 7. For the purchase of land and houses near Downing Street
 
-site for public offices ------
+site for public offices -----
 
 8. For erecting offices in Downing Street for the Secretaries of
 
@@ -17292,7 +17292,7 @@ necessary fittings -
 
 10. For the repair and restoration of the chapter house at West-
 
-minster -------
+minster -----
 
 11. For expenses connected with the Probate Court and registries -
 
@@ -17320,7 +17320,7 @@ Inland Revenue - .
 
 19. For constructing certain harbours of refuge, for works and
 
-expenses at the new packet harbour and harbour of refuge at Holyhead, for Portpatrick Harbour, and for works at Spurn Point, &c. -------
+expenses at the new packet harbour and harbour of refuge at Holyhead, for Portpatrick Harbour, and for works at Spurn Point, &c. -----
 
 20. For works and expenses at Portland Harbour
 
@@ -17338,7 +17338,7 @@ the poor and for other purposes in respect of certain descriptions of government
 
 Sums not exceeding
 
-£
+
 
 54,418
 
@@ -17386,7 +17386,7 @@ No.
 
 25. For erecting, repairing, and maintaining the several public
 
-buildings in the department of the Commissioners of Public Works in Ireland ------
+buildings in the department of the Commissioners of Public Works in Ireland -----
 
 26. For the restoration of the works of the Ulster Canal -
 
@@ -17402,7 +17402,7 @@ Total Civil Services, Class I. - -£
 
 Sums not exceeding
 
-£
+
 
 145,455
 
@@ -17432,7 +17432,7 @@ No.
 
 3. For salaries and expenses of the department of Her Majesty's
 
-Treasury ------
+Treasury -----
 
 4. For salaries and expenses of the office of Her Majesty's Secretary
 
@@ -17482,9 +17482,9 @@ Lunacy in England - - - - -
 
 17. For the establishment of the Mint, including expenses of the
 
-coinage -------
+coinage -----
 
-£
+
 
 46,438
 
@@ -17526,7 +17526,7 @@ Amendment Act
 
 20. For salaries and expenses in the department of Her Majesty's
 
-Paymaster General in London and Dublin and subordinate offices -------
+Paymaster General in London and Dublin and subordinate offices -----
 
 21. For expenses connected with the administration of the laws
 
@@ -17598,7 +17598,7 @@ of the keeper of the State Paper Office in Ireland
 
 41. For salaries and expenses of the office of Public Works in
 
-Ireland ------
+Ireland -----
 
 Sums not exceeding
 
@@ -17606,7 +17606,7 @@ Total Civil Services, Class II.
 
 - £
 
-£
+
 
 16,110
 
@@ -17718,7 +17718,7 @@ For salaries and incidental expenses connected with criminal proceedings in Scot
 
 Sums not exceeding
 
-£
+
 
 41,835
 
@@ -17778,7 +17778,7 @@ Ireland as are not charged on the Consolidated Fund
 
 21. For such salaries and expenses of the Superior Courts of
 
-Common Law in Ireland as are not charged on the Consolidated Fund -------
+Common Law in Ireland as are not charged on the Consolidated Fund -----
 
 22. For salaries and the incidental expenses of the Court of
 
@@ -17786,7 +17786,7 @@ Bankruptcy and Insolvency in Ireland -
 
 23. For salaries and expenses of the Landed Estates Court in
 
-Ireland -------
+Ireland -----
 
 24. For salaries and expenses of the Court of Probate and of the
 
@@ -17830,7 +17830,7 @@ Dublin - -
 
 35. For the convict establishments in the colonies -
 
-£
+
 
 54,764
 
@@ -17912,7 +17912,7 @@ the purchase of pictures -
 
 8. For the salaries and incidental expenses of the Endowed
 
-Schools Commission ------
+Schools Commission -----
 
 9. For grants to Scottish universities -
 
@@ -17942,7 +17942,7 @@ expenses of the General Assembly's College at Belfast
 
 Sums not exceeding
 
-£
+
 
 840,711
 
@@ -17994,7 +17994,7 @@ No.
 
 1. For the expenses of Her Majesty's embassies and missions
 
-abroad -------
+abroad -----
 
 2. For the consular establishments abroad, and for other expenses
 
@@ -18028,7 +18028,7 @@ India to French colonies -
 
 Sums not exceeding
 
-£
+
 
 233,367
 
@@ -18132,7 +18132,7 @@ Total Civil Services, Class VH. - - £
 
 Sums not exceeding
 
-£
+
 
 46,000
 
@@ -18170,7 +18170,7 @@ Total Revenue Departments - - £
 
 Sums not exceeding
 
-£
+
 
 1,008,343
 
@@ -20978,7 +20978,7 @@ Exemption of certain carriages from operations of Act.
 
 Grant of hackney carriage licences.
 
-Ch. 114,115. Railways Abandonment 32 & 33 Yict-
+Ch. 114,115. Railways Abandonment 32 & 33 Vict-
 
 10. Section twenty-nine of The Abandonment of Railways Act, 1850, from "and they shall accordingly" to the end of that section, and sections thirty, thirty-one, thirty-two, and thirty-three of The Abandonment of Railways Act, 1850, and so much of section thirty-one of The Railway Companies (Scotland) Act, 1867, and of The Railway Companies Act, 1867, respectively, as amends the said sections, are hereby repealed, without prejudice to anything already done thereunder; and all proceedings commenced in pursuance of those sections shall be continued under the provisions of this Act.
 

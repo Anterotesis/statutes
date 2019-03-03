@@ -634,8 +634,6 @@ Or in committing any petty Offence of a felonious or fraudulent Nature, to the I
 
 Or for any other disgraceful Conduct, being of a cruel, indecent, or unnatural Kind:
 
-	
-
 And such Offender may be further put under Stoppages, not exceeding Two Thirds of his daily Pay, until the Amount be made good of any Loss or Damage arising out of his Misconduct; and if any Soldier shall be convicted of any such disgraceful Conduct, and shall be sentenced to Forfeiture of his Claim to Pension, the Court may further recommend him to be discharged with Ignominy from Her Majesty's Service; and any such Court shall deprive a Soldier, if convicted of a Charge of habitual Drunkenness, of his Liquor when issued in Kind, or of his Allowance in lieu of Beer or Liquor, or of such Proportion thereof, or of such Portion of his additional or regular Pay, for such Period, not exceeding Two Years, as may accord with Her Majesty's Articles of War, subject to Restoration on subsequent good Conduct; and in addition to any such Punishment the Court may, if it shall think fit, sentence such Offender to Imprisonment or to Corporal Punishment; provided that in all the foregoing Cases the Sentences of a District or Garrison Court-martial shall be confirmed by the General Officer, Governor, or Senior Officer in command of the District, Garrison, Island, or Colony; and the President of every Court-martial, other than a General Court-martial, not being under the Rank of Captain, shall be appointed by the Officer convening such Court-martial; provided that such Court-martial shall not have Power to pass any Sentence of Death or Transportation.
 
 [Regimental Courts-martial.]
@@ -1062,7 +1060,7 @@ So help me GOD.
 
 Form of Oath of Judge Advocate.
 
-I _________ do swear, That I will not, upon any Account whatsoever, disclose or discover the Vote or Opinion of any particular Member of the Court-martial, unless required to give Evidence thereof as a Witness by a Court of Justice or a Court-martial in a due Course of Law.
+I __________ do swear, That I will not, upon any Account whatsoever, disclose or discover the Vote or Opinion of any particular Member of the Court-martial, unless required to give Evidence thereof as a Witness by a Court of Justice or a Court-martial in a due Course of Law.
 
 So help me GOD.
 
@@ -1750,7 +1748,7 @@ give to me; and that the Third, Fourth, and Fifth Articles of the Second Section
 
 and that I have given him a Duplicate of this Certificate signed with my Name.
 
-__________________________Signature of the Justice.
+__________Signature of the Justice.
 
 Form of Oath to be taken by a Master whose Apprentice has absconded.
 
@@ -1800,17 +1798,17 @@ Feet. Inches. Hair. Eyes.
 
 I do hereby certify, that the Prisoner has been duly examined before me as to the Circumstances herein stated, and has declared in my Presence that he # a Deserter from the before-mentioned Corps.
 
--------------Signature and Address of
+-----Signature and Address of
 
 Magistrate.
 
--------------Signature of Prisoner.
+-----Signature of Prisoner.
 
--------------Signature of Informer.
+-----Signature of Informer.
 
 I certify that I have inspected the Prisoner, and consider him fit for active Service.
 
---------------Signature of Surgeon.
+-----Signature of Surgeon.
 
 If a Military Medical Officer be at or near the Place, he will inspect the Deserter, and report as to his Fitness far Military Service.
 
@@ -4096,7 +4094,7 @@ poisoning of Malice prepensed only excepted,) the Lord or Lords of the Parliamen
 
 CAP. XXIII.
 
-An Act to suspend until the Thirty-first Day of August One thousand eight hundred and forty-two the making of Lists and the Ballots and Enrolments for the Militia of the United Kingdom. .
+An Act to suspend until the Thirty-first Day of August One thousand eight hundred and forty-two the making of Lists and the Ballots and Enrolments for the Militia of the United Kingdom.
 
 [21st June 1841.]
 
@@ -4287,8 +4285,6 @@ stand, remain, and be a good and valid Second Mortgage and Security, and should 
 4 signed a Memorandum in Writing, bearing Date the Tenth Day of July One thousand 10th July 1826 eight hundred and and twenty-six, and thereby (after stating that the Lords Commissioners 4 of His Majesty's Treasury had advanced him the Two several Sums of Ten thousand 4 Pounds) did engage, upon Request, to execute a Security for those Two Sums on 4 his House and Premises in the Stable Yard, payable at the End of Six Months 4 from the Date thereof, with Interest at Five per Centum; and he did further agree,
 
 +that in case their Lordships should pay off the existing Mortgage of Thirty thousand Pounds, and advance him the further Sums necessary to the Completion of his said House, and on Security thereof, that he would enter into an Engagement, in case he should be disposed to part with the same before the Money to be secured thereon should be paid off, but not otherwise, to give them the Option of purchasing, at a Valuation of Two indifferent Persons, One to be chosen by each Party; and also that in case he should not pay off the Money so to be secured in his Lifetime, then that his Representatives should offer his said House and Premises to the said Lords Commissioners for Sale upon the same Terms: And whereas the said Lords Commissioners advanced to the said Duke of York divers other Sums of Money, and for which Advances the said Duke of York signed Receipts, thereby acknowledging that he had received the same Sums respectively from the Lords Commissioners of His Majesty's Treasury on account of the Sum they had agreed to advance him for the Completion of his House in the Stable Yard, and for which he thereby acknowledged he was to give them Security thereon:
-
-	
 
 And whereas the said Duke of York duly made and published his last will, 26th DeWill and Testament in Writing, bearing Date on or about the Twenty-sixth Day of Decern- cember 1826.
 
@@ -7072,11 +7068,11 @@ For Foreign and other Secret Services - - -
 
 For Printing and Stationery -
 
-For Law Charges ----
+For Law Charges -----
 
 For the Convict Hulk Establishment -
 
-For Convicts abroad ----
+For Convicts abroad -----
 
 For the Support of captured Negroes -
 
@@ -7232,7 +7228,7 @@ For Settlement at Port Essington -
 
 For Civil Establishment at the Falkland Islands
 
-For Public Walks ----
+For Public Walks -----
 
 For Schools of Design in Provincial Towns - - -
 
@@ -7278,7 +7274,7 @@ For publishing and printing Proclamations and Statutes
 
 For Non-conforming and other Ministers -
 
-For Law Charges ----
+For Law Charges -----
 
 For the Public Offices and Metropolitan Police of Dublin For the' Board of Public Works -
 

@@ -464,7 +464,7 @@ An Act to apply the Sum of Ten Millions out of the Consolidated Fund to the Serv
 
 4 VifE, Your Majesty's most dutiful and loyal Subjects, the ' * Commons of the United Kingdom of Great Britain 6. and Ireland, in Parliament assembled, towards making good 4 the Supply which we have cheerfully granted to Your Majesty ' in this Session of Parliament, have resolved to grant unto 4 Your. Majesty the Sum herein-after mentioned; and do there- fore most humbly beseech Your Majesty that it may be 4 enacted and be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and-Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
-I. There shall and may be issued and applied, for or towards There shall be making good the Supply granted to Her Majesty for the applied for the Service of the Year One thousand eight hundred and fifty- y^sss*16 eight, the Sum of Ten Millions out of the Consolidated Fund the Sum of of the United Kingdom of Great Britain and Ireland, and io,ooo,ooo£ the Commissioners of Her Majesty's Treasury of the United Kingdom of Great Britain and Ireland, or the Lord High Treasurer of the United Kingdom of Great Britain and Ireland,
+I. There shall and may be issued and applied, for or towards There shall be making good the Supply granted to Her Majesty for the applied for the Service of the Year One thousand eight hundred and fifty- y^sss*16 eight, the Sum of Ten Millions out of the Consolidated Fund the Sum of of the United Kingdom of Great Britain and Ireland, and io,oooo,oooo£ the Commissioners of Her Majesty's Treasury of the United Kingdom of Great Britain and Ireland, or the Lord High Treasurer of the United Kingdom of Great Britain and Ireland,
 
 for the Time being, are or is hereby authorized and empowered to issue and apply the same accordingly.
 
@@ -534,7 +534,7 @@ fore most humbly beseech Tour Majesty that it may be
 
 enacted and be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
-I. There shall and may be issued and applied, for or towards making good the Supply granted to Her Majesty for the Deficiency in the Grants for the Service of the Year ending the Thirty-first Day of March One thousand eight hundred and fifty-eight, the Sum of Five hundred thousand Pounds out of the Consolidated Fund of the United Kingdom of Great Biitain and Ireland* and the Commissioners of Her Majesty's Treasury of the United Kingdom of Great Britain and Ireland, or the Lord High Treasurer of the United Kingdom of Great Britain and Ireland, for the Time being, are or is hereby authorized and empowered to issue and apply the same accordingly.
+I. There shall and may be issued and applied, for or towards making good the Supply granted to Her Majesty for the Deficiency in the Grants for the Service of the Year ending the Thirty-first Day of March One thousand eight hundred and fifty-eight, the Sum of Five hundred thousand Pounds out of the Consolidated Fund of the United Kingdom of Great Britain and Ireland* and the Commissioners of Her Majesty's Treasury of the United Kingdom of Great Britain and Ireland, or the Lord High Treasurer of the United Kingdom of Great Britain and Ireland, for the Time being, are or is hereby authorized and empowered to issue and apply the same accordingly.
 
 II. It shall be lawful for the said Commissioners of Her Majesty's Treasury from Time to Time, by Warrant under their Hands, to cause or direct any Number of Exchequer Bills
 
@@ -1496,7 +1496,7 @@ Account whatsoever, disclose or discover the Vote or Opinion of any particular M
 
 Notice to be given to a Recruit, or left at his Place of Abode, or at the Place at which he stated that it was his Intention to sleep, agreeably to the Provisions of the Marine Mutiny Act, within Forty-eight but not sooner than Twenty-four Hours after his Enlistment, the Hours of Sunday, Christmas Day, or Good Friday not being counted.
 
-[Date]_______________________________185
+[Date]__________185
 
 you enlisted with at
 
@@ -1522,9 +1522,9 @@ release yourself from your Engagement by repaying the Enlisting Shilling and any
 
 Signature of the Officer or Non-commis- ) stoned Officer commanding the Party j
 
-Name of the Recruit____ __ _______________ ________
+Name of the Recruit____ __ __________ ________
 
-Residing at__________________________________________
+Residing at__________
 
 Questions to be separately put by the Justice to a Reckuit.
 
@@ -1588,19 +1588,19 @@ T do declare, That the above Questions
 
 have been separately put to me, that the Answers thereto have been read over to me, and that they are the same that I gave, and are true.
 
-Declared before me,______________
+Declared before me,__________
 
-_________________________Signature of Marine.
+__________Signature of Marine.
 
-t __________________ Signature of Justice.
+t __________ Signature of Justice.
 
 Oath to be taken by a Recruit on Attestation.
 
 T do make Oath, That I will be faithful and bear true AUe giance to Her Majesty, Her Heirs and Successors; and that I will, as in Duty bound, honestly and faithfully defend Her Majesty, Her Heirs and Successors, in Person, Crown, and Dignity, against all Enemies; and will observe and obey all Otders of Her Majesty, Her Heirs and Successors, and of the Generals and Officers set over me. So help me GOD.
 
-'Witness my Hand, ___________ Signature of the Recruit
+'Witness my Hand, __________ Signature of the Recruit
 
-_____________Witness present
+__________Witness present
 
 Sworn before me at this"
 
@@ -1608,7 +1608,7 @@ Day of
 
 One thousand eight hundred and at o'Clock.
 
-______________________Signature of the Justice.
+__________Signature of the Justice.
 
 Certificate to be given by the Justice.
 
@@ -1644,7 +1644,7 @@ on being attested this Day; that le was not attested until Twenty-four Hours had
 
 this Blank is to be supplied by the Words " the Place where ' le swears that he enlisted is in the Vicinity of my Residence," or by the Words " the Place where he swears that he enlisted is within the Division, District, or Place for which I act," or by the Words " I am acting within the Division, District, or Place where the Head Quarters of the Recruiting Party is stationed," as the Case may be]; that I am not an Officer in the Marines, and that I have given him a Duplicate of this Certificate, signed with my Name.
 
-_____________________________ Signature of the Justice.
+__________ Signature of the Justice.
 
 Declaration to be made by a Marine renewing his Service.
 
@@ -1664,9 +1664,9 @@ as shall be required to complete a total Service of Twenty-one Years], provided 
 
 Declared before me,
 
-_________________________Signature of Marine.
+__________Signature of Marine.
 
-_________________________Signature of Witness.
+__________Signature of Witness.
 
 Form of Oath to be taken by a Master whose Apprentice has absconded.
 
@@ -1758,19 +1758,19 @@ It is important for the Public Service, and for the Interest of the Deserter, th
 
 I do hereby certify, that the Prisoner has been duly examined before me as to the Circumstance herein stated, and has declared in my Presence that he f a Deserter from the above-mentioned Corps.
 
--------------fS&matort and Address
+-----fS&matort and Address
 
 of Magistrate.
 
------------- Signature of Prisoner.
+----- Signature of Prisoner.
 
------- — -----Signature of Informant.
+----- — -----Signature of Informant.
 
 t Insert "is" or "is not," as the Case maybe.
 
 I certify, that I have inspected the Prisoner, and consider him £ for Military Service.
 
----------------- Signature of Military Medical Officer, or of Private Medical Practitioner.
+----- Signature of Military Medical Officer, or of Private Medical Practitioner.
 
 t Insert "fit" or "unfit," as the Case may be, and if unfit, state the Cause of Unfitness,
 
@@ -2842,7 +2842,7 @@ whatsoever, disclose or discover the Vote or Opinion of any particular Member of
 
 Notice to be given to a Recruit, or left at his Place of Abode, or at the Place at which he stated that it was his Intention to sleep, agreeably to the Provisions of the Mutiny Act, within Forty-eight, but no sooner than Twenty-four, Hours after his Enlistment, the Hours of Sunday, Christmas Day, or Good Friday not being counted.
 
-JDate______________________________185 .
+JDate__________185 .
 
 you enlisted with at o'Clock* on the Day
 
@@ -2866,9 +2866,9 @@ Magistrate, either to be attested or to release yourself from your Engagement by
 
 Signature of the Officer or Non-Commissioned Officer commanding the Party.
 
-Name of the Recruit___________
+Name of the Recruit__________
 
-Residing at___________________
+Residing at__________
 
 Questions to be put separately by the Justice to a Recruit on enlisting.
 
@@ -2962,9 +2962,9 @@ been separately put to me; that the Answers thereto have been read over to me; a
 
 Declared before me.
 
-_______________________Signature of Soldier.
+__________Signature of Soldier.
 
-_________________________Signature of Justice.
+__________Signature of Justice.
 
 Oath to be taken by a Recruit on Attestation.
 
@@ -2976,9 +2976,9 @@ So help me GOD.
 
 Witness my Hand,
 
---------------------------Signature of Recruit.
+-----Signature of Recruit.
 
-__:_______________________Witness present
+__:__________Witness present
 
 Sworn before me at this
 
@@ -2986,7 +2986,7 @@ Day of One thousand eight
 
 hundred and at o'Clock.
 
-.___________________Signature of Justice.
+.__________Signature of Justice.
 
 # The£Blank to be filled up With the Words Infantry, Cavalry, or Artillery, as the Case may be.
 
@@ -3012,7 +3012,7 @@ to them are those which he gave to me; and that the Fortieth and Forty-sixth Art
 
 this Day; that he was not attested until Twenty-four Hours had elapsed after he received Enlisting Money; that the Place where he swears that he enlisted is in the Vicinity of my Residence; or within the Division or District or Place for which I act; that I am not an Officer of the Army; and that I have given him a Duplicate of this Certificate, signed with my Name.
 
-— - — -----------------------Signature of Justice.
+— - — -----Signature of Justice.
 
 Declaration to be made by a Soldier renewing his Service. T Number do declare, That I
 
@@ -3030,11 +3030,11 @@ Her Majesty, Her Heirs and Successors, [or in the Forces of the East India Compa
 
 Years in the Infantry, and Twelve in the Cavalry or Artillery or other Ordnance Corps, and, in the Case of a Soldier about to embark for Foreign Service, with such Number of Years as shall be required to complete a total Service of Twenty-one Years in the Infantry or Twenty-four in the Cavalry or Artillery or other Ordnance Corps,] provided my Services should so long be required, and also for such further Term, not exceeding Two Years, as shall be directed by the Commanding Officer on any Foreign Station.
 
-Declared before me________________________________*
+Declared before me__________*
 
--------------------------Signature of Soldier.
+-----Signature of Soldier.
 
-_________________________Signature of Witness.
+__________Signature of Witness.
 
 I 4
 
@@ -3190,19 +3190,19 @@ It is important for the Public Service, and for the Interest of the Deserter, th
 
 I do hereby certify, that the Prisoner has been duly examined before me as to the Circumstance herein stated, and has declared in my Presence that he f a Deserter from the above-mentioned Corps.
 
------- — * Signature and Address
+----- — * Signature and Address
 
 of Magistrate.
 
-------------Signature of Prisoner.
+-----Signature of Prisoner.
 
-------- - - Signature of Informant.
+----- - - Signature of Informant.
 
 + Insert "is" or "is not," as the Case may be.
 
 I certify, that I have inspected the Prisoner, and consider him £ for Military Service.
 
------------------ Signature of Mv
+----- Signature of Mv
 
 litary Medical Officer, or of A Private Medical Practitioner.
 
@@ -3648,11 +3648,11 @@ I. That, towards raising the Supply granted to Her Majesty, the following Duties
 
 Spirits,
 
--------not being sweetened or mixed with any s. tL
+-----not being sweetened or mixed with any s. tL
 
 Article so that the Decree of Strength thereof cannot be ascertained by Sykes*s Hydrometer; for every Gallon of the Strength of Proof by such Hydrometer, and so in proportion for any greater or less Strength than the Strength of Proof, and for any greater or less Quantity than a Gallon of and from a British Possession in America, or the Island of Mauritius, and Kum of and from any British Possession within the Limits of the East India Company's Charter, in regard to which the Conditions of the Act 4 Vict. c. 8. have or shall have been fulfilled - - - - the Gallon 8 2
 
-----------Kum Shrub, Cordials, and Liqueurs of and
+-----Kum Shrub, Cordials, and Liqueurs of and
 
 from a British Possession in America, or the Island of Mauritius, or a British Possession within the Limits of the East India Company's Charter, qualified as aforesaid - the Gallon 8 2
 
@@ -3934,7 +3934,7 @@ being confirmed by Parliament, and on receiving from them
 
 the said Sum of Sixteen thousand five hundred Pounds, together with such Interest thereon as aforesaid., on or before 4 the Second Day of August One thousand eight hundred and 4 fifty-eight, they the said Commissioners of Her Majesty's
 
-Works and Public Buildings, or their Successors, would convey c or cause to be conveyed to the said Commissioners of Chelsea 4 Hospital, their Successors and Assigns, or as the said Commissioned should direct, the said Piece or Parcel of Land f and Premises therein-before described, with the Appurtenances; subject nevertheless to a Condition in the said Con- veyance to be contained for making the same void* if the said
+Works and Public Buildings, or their Successors, would convey c or cause to be conveyed to the said Commissioners of Chelsea 4 Hospital, their Successors and Assigns, or as the said Commissioned should direct, the said Piece or Parcel of Land f and Premises therein-before described, with the Appurtenances; subject nevertheless to a Condition in the said Conveyance to be contained for making the same void* if the said
 
 Commissioners of Chelsea Hospital, their Successors or As-c signs, should at any Time or Times thereafter erect, build, or c set up, or cause or permit or suffer to be erected, built, or ' set up, in or upon the said Piece or Parcel of Land or any c Part or Parts thereof, any Messuage or other Buildings c whatsoever, without the Licence, Consent, and Approbation s in Writing of the said Commissioners of Her Majesty's Works and Public Buildings, their Successors or Assigns, 4 being previously had and obtained to the Erection of such 4 Buildings, and without submitting the Plans and Elevations
 
@@ -4784,7 +4784,7 @@ A sum of 798I 10*. 6d. 31, per cent, consolidated bank annuities, standing in th
 
 Henry Bright, John Help, James Stevens, Mary Bannister,
 
-Abraham Wigginton, Benjamin Hill, Richard Aldridge, and ----Henderson.
+Abraham Wigginton, Benjamin Hill, Richard Aldridge, and -----Henderson.
 
 N 2
 
@@ -10378,7 +10378,7 @@ ALLOWANCES to CLERKS of SUBDIVISION MEETINGS.
 
 14. For Trouble in calling a Subdivision Meeting by Ad-
 
-vertisement, no separate Charge being made for writing Letters or framing Advertisement -Or for calling a Meeting by Circular Letters to the Deputy Lieutenants, the Adjutant, or other Commanding Officer, (no Charge being made for the Draft,) for each Letter -------
+vertisement, no separate Charge being made for writing Letters or framing Advertisement -Or for calling a Meeting by Circular Letters to the Deputy Lieutenants, the Adjutant, or other Commanding Officer, (no Charge being made for the Draft,) for each Letter -----
 
 15. For attending Subdivision Meetings, for each of the
 
@@ -10390,7 +10390,7 @@ For balloting,
 
 For enrolling,
 
-And for the Meeting held to apportion the Deficiencies among the Parishes, et cetera, when necessary to be done; and also for calling out the Quota or Apportionment of the Subdivision to be trained and exercised, which Allowance shall be in full for engrossing Minutes and making up Lists -------
+And for the Meeting held to apportion the Deficiencies among the Parishes, et cetera, when necessary to be done; and also for calling out the Quota or Apportionment of the Subdivision to be trained and exercised, which Allowance shall be in full for engrossing Minutes and making up Lists -----
 
 0 5 0 0 1 0
 
@@ -10538,7 +10538,7 @@ Lines - - - - - - 01
 
 30. For filling up and delivering Notices to balloted Men,
 
-per Day ---------05
+per Day -----05
 
 31. For Stationery, per Annum - - - 0 5
 
@@ -10600,7 +10600,7 @@ Cap. 82. Militia Pay.
 
 33. For making out Lists, for each Folio consisting of Sixty
 
-Lines - -------
+Lines - -----
 
 34. For attending each Meeting of Lieutenancy, per Day -
 
@@ -10656,7 +10656,7 @@ Above 2,000, and not exceeding 3,000 -
 
 Above 3,000, and not exceeding 4,000 -
 
-Above 4,000 ------
+Above 4,000 -----
 
 For convening and attending any General Meeting summoned by the distinct Order of the Secretary of State, or (in Ireland) of the Lord Lieutenant - The actual Expense incurred in printing or advertising and for Postage may be charged.
 
@@ -11480,7 +11480,7 @@ John O'Connell, Esq., P. J. Kearney, and Miss Ellen Ryan. Same Same
 
 Same
 
-*
+
 
 Miles Kehoe Miles Kehoe, Mathew Anderson, and Robert Campbell Lee.
 
@@ -13704,7 +13704,7 @@ XXXVIII. In citing the Act of the Twentieth and Twenty-first Victoria, Chapter S
 
 SCHEDULE.
 
-£
+
 
 Senior Registrar * - 1,600
 
@@ -15414,7 +15414,7 @@ SCHEDULE (A.)
 
 Scale of Salaries of Petty Sessions Clerks.
 
-£
+
 
 Class 1, shall be - 300 per Annum.
 
@@ -16932,7 +16932,7 @@ XVIII. Out of all or any the Aids or Supplies aforesaid there shall and may be i
 
 1858. Consolidated Fund {Appropriation). Cap. 107. 597
 
-and any Sum or Sums of Money not exceeding Four thousand 4,707/. for seven hundred and seven Pounds, to defray the Expense of Embassy Maintenance and Repairs to Embassy Houses, &c. abroad to 1 ouse8' c* * the Thirty-first Day of March One thousand eight hundred and fifty-nine; and any Sum or Sums of Money not exceeding i7o,ooo/. for One hundred and seventy thousand Pounds, towards defraying of
+and any Sum or Sums of Money not exceeding Four thousand 4,707/. for seven hundred and seven Pounds, to defray the Expense of Embassy Maintenance and Repairs to Embassy Houses, &c. abroad to 1 ouse8' c* * the Thirty-first Day of March One thousand eight hundred and fifty-nine; and any Sum or Sums of Money not exceeding i7o,oooo/. for One hundred and seventy thousand Pounds, towards defraying of
 
 the Expense of constructing certain Harbours of Refuge to the Thirty-first Day of March One thousand eight hundred and fifty-nine; and any Sum or Sums of Money not exceeding 21,000/. for Twenty-one thousand Pounds, on account of the Works at the HaJbow^ new Packet Harbour and Harbour of Refuge at Holyhead to the Thirty-first Day of March One thousand eight hundred and fifty-nine; and any Sum or Sums of Money not exceeding 1,049/. for One thousand and forty-nine Pounds to defray the Expense of the Pay of the Establishment and the necessary Works at Port * ur' Patrick Harbour to the Thirty-first Day of March One thousand eight hundred and fifty-nine; and any Sum or Sums of 60,651/. for Money not exceeding Sixty thousand six hundred and fifty-one Buildings in Pounds, to defray the Expense of erecting, repairing, and pub|j£ works maintaining the several Public Buildings in the Department of in Ireland; the Commissioners of Public Works in Ireland to the Thirty-first Day of March One thousand eight hundred and fifty-nine; and any Sum or Sums of Money not exceeding Eighteen thou- 18,506/. for sand five hundred and six Pounds, to defray the Expense of ^in^toWtt the Works and Establishment of Kingstown Harbour to the 1 * ur; Thirty-first Day of March One thousand eight hundred and fifty-nine.
 
@@ -17464,7 +17464,7 @@ Consolidated Fund (Appropriation). Cap. 107.
 
 Courts of Law and Offices in Extension of the Four Courts,
 
-Dublin; and any Sura or Sums of Money not exceeding Five 5,oco/.for thousand Pounds, towards the Erection and Completion, in the National Gal-Year ending the Thirty-first Day of March One thousand eight and Abp. ' hundred and fifty-nine, of a National Gallery for Paintings, Marsh's Li-Sculpture, and the Fine Arts, and for the Keception of Arch- brary» bishop Marsh's Public Library in Dublin; and any Sum or i,ooo/.for new Sums of Money not exceeding One thousand Pounds, towards Museum, &cr providing Fittings for the New Museum and Library of the Royal Dublin Society in the Year ending the Thirty-first Day of March One thousand eight hundred and fifty-nine; and any io.ooo/. for Sum or Sums of Money not exceeding Ten thousand Pounds, Industrial towards defraying the Expense of the Erection of the Indus- Llinburgh; trial Museum at Edinburgh, in the Year ending the Thirty-first Day of March One thousand eight hundred and fifty-nine; and 2,033/. for An-any Sum or Sums of Money not exceeding Two thousand and tiquarian Mu-thirty-threc Pounds, towards defraying, in the Year ending the ^.gh; m' Thirty-first Day of March One thousand eight hundred and fifty-nine, the Cost of Cases and Fittings required for the Rooms in the Royal Institution, Edinburgh, appropriated as an Antiquarian Museum; and any Sum or Sums of [Money not 7,soo/.for exceeding Seven thousand five hundred Pounds, towards the General Re-Erection, in the Year ending the Thirty-first Day of March Edinburgh^' One thousand eight hundred and fifty-nine, of a new Building, to contain additional Accommodation for Public Offices in connexion with Her Majesty's General Register House, Edinburgh; and any Sum or Sums of Money not exceeding Two hundred 200/. for Iron Pounds, towards- defraying, in the Year ending the Thirty-first Presses for . Day of March One thousand eight hundred and fifly-ninc, the Dep^itory;° Expense of additional Iron Presses for the General Repository for Public Records; and any Sum or Sums of Money not ex- G.oooiforcom-ceeding Six thousand Pounds, to defray, in the Year ending the Thirty-first Day of March One thousand eight hundred and column; fifty-nine, the Expense of completing the Stylobate, &e. of the Nelson Column in Trafalgar Square; and any Sum or Sums 8,836/. for of Money not exceeding Eight thousand eight hundred and Examination thirty-six Pounds, to defray, in the Year ending the Thirty- EnUnage of first Day of March One thousand eight hundred and fifty-nine, London * Expenses in Payments to Engineers, and other Charges incurred in the Examination of a Plan and Estimate for the Main Drainage of London; and any Sum or Sums of Money not in,429/. for exceeding One hundred eleven thousand four hundred and Westminster twenty-nine Pounds, towards defraying the Expense of erecting n ge ' a new Bridge at Westminster, in the Year ending the Thirty-first Day of March One thousand eight hundred and fifty-nine; and any Sum or Sums of Money not exceeding One thousand i;500£for five hundred Pounds, towards completing, in the Year ending ^prosldb to^ the Thirty-first Day of March One thousand eight hundred and castle,&c. fifty-nine, the Embankment Wall in Thames Street, for re- Windsor * moving the dilapidated Hundred Steps, and forming a new
+Dublin; and any Sura or Sums of Money not exceeding Five 5,oco/.for thousand Pounds, towards the Erection and Completion, in the National Gal-Year ending the Thirty-first Day of March One thousand eight and Abp. ' hundred and fifty-nine, of a National Gallery for Paintings, Marsh's Li-Sculpture, and the Fine Arts, and for the Keception of Arch- brary» bishop Marsh's Public Library in Dublin; and any Sum or i,oooo/.for new Sums of Money not exceeding One thousand Pounds, towards Museum, &cr providing Fittings for the New Museum and Library of the Royal Dublin Society in the Year ending the Thirty-first Day of March One thousand eight hundred and fifty-nine; and any io.oooo/. for Sum or Sums of Money not exceeding Ten thousand Pounds, Industrial towards defraying the Expense of the Erection of the Indus- Llinburgh; trial Museum at Edinburgh, in the Year ending the Thirty-first Day of March One thousand eight hundred and fifty-nine; and 2,033/. for An-any Sum or Sums of Money not exceeding Two thousand and tiquarian Mu-thirty-threc Pounds, towards defraying, in the Year ending the ^.gh; m' Thirty-first Day of March One thousand eight hundred and fifty-nine, the Cost of Cases and Fittings required for the Rooms in the Royal Institution, Edinburgh, appropriated as an Antiquarian Museum; and any Sum or Sums of [Money not 7,soo/.for exceeding Seven thousand five hundred Pounds, towards the General Re-Erection, in the Year ending the Thirty-first Day of March Edinburgh^' One thousand eight hundred and fifty-nine, of a new Building, to contain additional Accommodation for Public Offices in connexion with Her Majesty's General Register House, Edinburgh; and any Sum or Sums of Money not exceeding Two hundred 200/. for Iron Pounds, towards- defraying, in the Year ending the Thirty-first Presses for . Day of March One thousand eight hundred and fifly-ninc, the Dep^itory;° Expense of additional Iron Presses for the General Repository for Public Records; and any Sum or Sums of Money not ex- G.ooooiforcom-ceeding Six thousand Pounds, to defray, in the Year ending the Thirty-first Day of March One thousand eight hundred and column; fifty-nine, the Expense of completing the Stylobate, &e. of the Nelson Column in Trafalgar Square; and any Sum or Sums 8,836/. for of Money not exceeding Eight thousand eight hundred and Examination thirty-six Pounds, to defray, in the Year ending the Thirty- EnUnage of first Day of March One thousand eight hundred and fifty-nine, London * Expenses in Payments to Engineers, and other Charges incurred in the Examination of a Plan and Estimate for the Main Drainage of London; and any Sum or Sums of Money not in,429/. for exceeding One hundred eleven thousand four hundred and Westminster twenty-nine Pounds, towards defraying the Expense of erecting n ge ' a new Bridge at Westminster, in the Year ending the Thirty-first Day of March One thousand eight hundred and fifty-nine; and any Sum or Sums of Money not exceeding One thousand i;500£for five hundred Pounds, towards completing, in the Year ending ^prosldb to^ the Thirty-first Day of March One thousand eight hundred and castle,&c. fifty-nine, the Embankment Wall in Thames Street, for re- Windsor * moving the dilapidated Hundred Steps, and forming a new
 
 Qq 3
 
