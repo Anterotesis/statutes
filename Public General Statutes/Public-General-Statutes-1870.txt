@@ -2772,7 +2772,7 @@ m c. /9. Stamp Duties - Repealed 99
 
 10 & 11 Vict. c. 9. - - - National Debt, Sec. Repealed 69
 
-99 c. 70. ** " Printworks Repealed 62
+99 c. 70. * " Printworks Repealed 62
 
 , c. 83. Naturalization of Aliens - Repealed 14
 
@@ -3370,7 +3370,7 @@ of guardians respectively as they shall deem requisite to salaries and for enabl
 
 as the case may be, except where the several parts of a district shall have been or shall be formed into one union, in the manner provided for by the second section of the Metropolitan Poor Amendment Act, 1869, and all the costs incurred by or adjudged against such managers or guardians in any such action, suit, or other proceeding, and not otherwise recovered, shall be chargeable to the same fund as if the action, suit, or proceeding had been determined before the dissolution or addition.
 
-4. Upon notice from the managers or guardians, as the case ^00f,Lavr may be, that all the current debts and liabilities of the district °tice or union have been liquidated and discharged, or when the managers. Poor Law Board shall otherwise deem it expedient, the said board shall proceed to make such adjustment of the rights a JQ6 ** and liabilities of the several unions or parishes contained in
+4. Upon notice from the managers or guardians, as the case ^00f,Lavr may be, that all the current debts and liabilities of the district °tice or union have been liquidated and discharged, or when the managers. Poor Law Board shall otherwise deem it expedient, the said board shall proceed to make such adjustment of the rights a JQ6 * and liabilities of the several unions or parishes contained in
 
 such district or union respectively as is provided for by the thirty-second section of the Poor Law Amendment Act, 1834, and the first section of the Metropolitan Poor Amendment Act, 1869.
 
@@ -4060,7 +4060,7 @@ Ireland^ not or consfable should be obliged to find quarters for or give
 
 now necessary, billets to more or other soldiers than those only whose true Christian and surnames should be delivered to him in writing under the hand of the officer desiring quarters or billets for such soldiers at the time such quarters or billets should be desired, and that all such names should be written together and delivered in one piece of paper, signed as aforesaid, and that the Christian and surnames of every soldier to be quartered or billeted, together with the name of the person on whom he or they should be billeted or quartered, should be given in writing by the constable or civil officer billeting or quartering such soldier, and be contained in the billet given by such civil officer: And whereas it has been found inconvenient and difficult to comply with all the requirements of the said enactment: It shall not be necessary, so long as this Act shall continue in force, for any officer, upon the occasion of his requiring quarters or billets for any soldiers in Ireland, to deliver to the constable or other person whose duty it shall be to find or give the same any list of the names of the soldiers to be so quartered or billeted; and it shall not be necessary for the constable or other such person as aforesaid to set forth in any billet the name of any soldier to be billeted or quartered, but only the number of the soldiers, or the number of the soldiers and horses respectively, as the case may require, to be billeted or quartered on the person named in the billet, and to whom the same shall be addressed.
 
-How and where 63. It shall be lawful for all constables of parishes and billete^L^ ** places, and other persons specified in this Act, in Great Britain and Ireland, and they are hereby required, to billet the officers and soldiers in Her Majesty's service, and out-pensioners when assembled as a local force by competent authority, and persons receiving pay in Her Majesty's army, and the horses belonging to Her Majesty's cavalry, and also all staff and field officers horses, and all b&t and baggage horses belonging to any of Her Majesty's other forces, when on actual service, not exceeding for each officer the number for which forage is or shall be allowed by Her Majesty's regulations, in victualling houses and other houses specified in this Act (taking care in Ireland not to billet less than two men in one house, except only in case of billeting cavalry as specially provided); and they shall be received by the occupiers of the houses in which they are so billeted, and be furnished by such victuallers with proper accommodation in such houses, or if any victualler shall not have sufficient accommodation in the house upon which a soldier is billeted, then in some good and sufficient quarters to be provided by such victualler in the immediate neighbourhood, and in Great Britain shall also be furnished with diet and small beer, and in Great Britain and Ireland with stables, oats, hay, and straw for such horses as aforesaid, paying and allowing for the same the several rates herein-after
+How and where 63. It shall be lawful for all constables of parishes and billete^L^ * places, and other persons specified in this Act, in Great Britain and Ireland, and they are hereby required, to billet the officers and soldiers in Her Majesty's service, and out-pensioners when assembled as a local force by competent authority, and persons receiving pay in Her Majesty's army, and the horses belonging to Her Majesty's cavalry, and also all staff and field officers horses, and all b&t and baggage horses belonging to any of Her Majesty's other forces, when on actual service, not exceeding for each officer the number for which forage is or shall be allowed by Her Majesty's regulations, in victualling houses and other houses specified in this Act (taking care in Ireland not to billet less than two men in one house, except only in case of billeting cavalry as specially provided); and they shall be received by the occupiers of the houses in which they are so billeted, and be furnished by such victuallers with proper accommodation in such houses, or if any victualler shall not have sufficient accommodation in the house upon which a soldier is billeted, then in some good and sufficient quarters to be provided by such victualler in the immediate neighbourhood, and in Great Britain shall also be furnished with diet and small beer, and in Great Britain and Ireland with stables, oats, hay, and straw for such horses as aforesaid, paying and allowing for the same the several rates herein-after
 
 v
 
@@ -4442,7 +4442,7 @@ of being taken before a justice, either to be attested or to release yourself fr
 
 You are hereby also warned that you will be liable to the same punishment if you make any wilfully false representation at the time of attestation, or false answers to the questions now asked of you.
 
-Signature of the ncm-commiAsiomd'')__________________
+Signature of the ncm-commiAsiomd'')__________
 
 officer serving the notice. J
 
@@ -4450,7 +4450,7 @@ Name of the recruit. f A.M. or P.M., as the case may be.
 
 Questions this day put to the Recruit before Enlistment, as required by the Mutiny Act.
 
-1. What is your name ? - __________________________
+1. What is your name ? - __________
 
 2. In what parish, and in or^
 
@@ -4488,7 +4488,7 @@ Attestation Paper
 
 Questions to be put to the recruit before attestation.
 
-1. What is your name ? - - _______________
+1. What is your name ? - - __________
 
 2. In what parish, and in or near fin the parish of
 
@@ -4516,7 +4516,7 @@ or corps in Her Majesty's Army ?
 
 8. Have you ever served in the army,!
 
-marines, militia, navy, or in Her >------------------
+marines, militia, navy, or in Her >-----
 
 Majesty's Indian Forces ?* - J
 
@@ -4546,13 +4546,13 @@ you understand its meaning ? - J
 
 enlist?- - - - J
 
-At_______________
+At__________
 
 on the_day of___
 
 at___o'clock m.
 
-y______________
+y__________
 
 and a free kit.
 
@@ -4574,15 +4574,15 @@ I do solemnly and sincerely declare,
 
 that to the best of my knowledge and belief the above answers to the foregoing questions made and signed by me are true; and that I am willing to be attested for the term of twelve years, provided Her Majesty should so long require my services, and also for such further term, not exceeding twelve months, as shall be directed by the commanding officer on any foreign, colonial, or Indian station.
 
-Signature of recruit__________________
+Signature of recruit__________
 
-Signature of witness__________________
+Signature of witness__________
 
 Oath to be taken by a Recruit on Attestation.
 
 T do make oath, that I will be faithful and
 
-** bear true allegiance to Her Majesty, her heirs and successors, and that I will, as in duty bound, honestly and faithfully defend Her Majesty, her heirs and successors, in person, crown, and dignity, against all enemies, and will
+* bear true allegiance to Her Majesty, her heirs and successors, and that I will, as in duty bound, honestly and faithfully defend Her Majesty, her heirs and successors, in person, crown, and dignity, against all enemies, and will
 
 observe and obey all orders of Her Majesty, her heirs and successors, and of the generals and officers set over me.
 
@@ -4590,9 +4590,9 @@ So help me GOD.
 
 Witness my hand,
 
-Signature of recruit______________________
+Signature of recruit__________
 
-Witness present___________________________
+Witness present__________
 
 The above questions were asked of the^ said and answered by him
 
@@ -4602,7 +4602,7 @@ above declaration and oath before me [ at this day of
 
 one thousand eight hundred and at o'clock, m.^
 
-Signature of the justice____________________
+Signature of the justice__________
 
 Note. — The recruit should, if he requires it, receive a certified copy of the declaration.
 
@@ -4622,7 +4622,7 @@ years; and that I will serve Her Majesty, her heirs and successors, in regiment 
 
 term as shall complete a total service of twenty-one years, provided my services should so long be required, and also for such further term, not exceeding twelve months, as shall be directed by the commanding officer on any foreign, colonial, or Indian station.
 
-Declared before me_______________________________
+Declared before me__________
 
 Date
 
@@ -4768,7 +4768,7 @@ Declared before me at this day of
 
 t
 
-Magistrate for____________________.
+Magistrate for__________.
 
 Form of Declaration of Attestation of a Paymaster's
 
@@ -4822,11 +4822,11 @@ Form of Declaration of Attestation of the Accounts of a Military Accountant.
 
 T HEREBY solemnly and sincerely declare, that this account, ^ comprised in folios, is just and true, according to the best of my knowledge, information, and belief; and I make this declaration, conscientiously believing the same to be true.
 
-___________Military Accountant.
+__________Military Accountant.
 
-_____________________Justice of
+__________Justice of
 
-the Peace for_________________.
+the Peace for__________.
 
 G
 
@@ -4868,13 +4868,13 @@ Probable date of desertion, and from what place -
 
 Particulars in the evidence on which the prisoner is committed, and showing whether he surrendered or was apprehended, and in what ^ manner, and upon what grounds -
 
-It is important for the public service, and for the interest of the deserter, that this part of the return should be accurately filled up, and the details should be inserted by the magistrate in his own handwriting, or, under his direction, by his clerk, _______________________________
+It is important for the public service, and for the interest of the deserter, that this part of the return should be accurately filled up, and the details should be inserted by the magistrate in his own handwriting, or, under his direction, by his clerk, __________
 
 I do hereby certify, that the prisoner has been duly examined before me as to the circumstance herein stated, and has declared in my presence that he f a deserter from the above-mentioned corps.
 
-*- ** Signature and address of magistrate.
+*- * Signature and address of magistrate.
 
-- ** Signature of prisoner. — "* Signature of informant
+- * Signature of prisoner. — "* Signature of informant
 
 t Insert M is" or " is not," as the case may be.
 
@@ -4882,7 +4882,7 @@ I certify, that I have inspected the
 
 prisoner, and consider him % for military service.
 
----------------Signature of military
+-----Signature of military
 
 medical officer, or o/§ private medical practitioner.
 
@@ -5378,7 +5378,7 @@ to be put to recruits, and shall, immediately after giving him enlisting money, 
 
 57. Every person who shall receive enlisting money in Recruits when
 
-manner aforesaid shall upon such receipt be deemed to be **
+manner aforesaid shall upon such receipt be deemed to be *
 
 enlisted as a marine in Her Majesty's service, and while he e
 
@@ -5718,7 +5718,7 @@ Signature of recruit.
 
 Oath to be taken by a Recruit on Attestation.
 
-T DO make oath, That I will be faithful and bear true allegiance **" to Her Majesty, her heirs and successors; and that I will, as in duty bound, honestly and faithfully defend Her Majesty, her heirs and successors, in person, crown, and dignity, against all enemies, and will observe and obey all orders of Her Majesty, her heirs and successors, and of the generals and officers set over me. So help me GOD.
+T DO make oath, That I will be faithful and bear true allegiance *" to Her Majesty, her heirs and successors; and that I will, as in duty bound, honestly and faithfully defend Her Majesty, her heirs and successors, in person, crown, and dignity, against all enemies, and will observe and obey all orders of Her Majesty, her heirs and successors, and of the generals and officers set over me. So help me GOD.
 
 Witness my hand.
 
@@ -5730,7 +5730,7 @@ this day of one I
 
 thousand eight hundred and at o'clock.
 
-____________________Signature of the justice.
+__________Signature of the justice.
 
 128
 
@@ -5750,9 +5750,9 @@ years; and that I will serve Her Majesty, her heirs and successors, as a marine,
 
 be filled up with such number of years as shall be required to complete a total service of twenty-one years,'] provided my services should so long he required, and also for such further term, not exceeding two years, as shall be directed by the commanding officer on any foreign station.
 
-_____________________ Signature of marine.
+__________ Signature of marine.
 
-______________________Signature of witness.
+__________Signature of witness.
 
 Declared before me this day
 
@@ -5842,11 +5842,11 @@ It is important for the public service, and for the interest of the deserter, th
 
 I do hereby certify, that the prisoner baa been duly examined before me as to the circumstance herein stated, and has declared in my presence that he f a deserter from the above-mentioned corps.
 
-----------Signature and address of
+-----Signature and address of
 
 magistrate.
 
-— -----------Signature of prisoner.
+— -----Signature of prisoner.
 
 ' Signature of informant.
 
@@ -5854,7 +5854,7 @@ t Insert " is " or " is not/* as the cue may be.
 
 I certify, that I have inspected the prisoner, and consider him % for military service.
 
------- * Signature of military
+----- * Signature of military
 
 medical officer, or of private medical practitioner.
 
@@ -6046,7 +6046,7 @@ to the like effect, and such constable or sub-constable shall deposit such print
 
 Arrest of Persons out at Night under suspicious Circumstcmces.
 
-28. It shall be lawful for any justice of the peace to arrest Power to arrest and bring before him, or cause to be arrested or brought pe.1*80*8Jjis-before him, or for any constable, peace officer, or other person pralaEmrf 7 to arrest and bring before any justice of the peace any person found out at who, within any district specially proclaimed and under m8bt ?** suspicious circumstances, shall be in the fields, streets, high- cSrcumstonces. ways, or elsewhere out of his dwelling or place of abode at any time from one hour after sunset until sunrise, and any such justice may order such person to be brought or appear before the justices of the peace assembled at the next petty sessions for the district in which such person was arrested, and may in the meantime commit such person to gaol or admit him to bail as to such justice shall seem fit, and the justices at such petty sessions assembled shall examine the person so brought or appearing before them, who shall in such case be a competent witness, and shall examine such other witnesses and receive such evidence as may be brought ' before them touching the charge, and if upon such hearing
+28. It shall be lawful for any justice of the peace to arrest Power to arrest and bring before him, or cause to be arrested or brought pe.1*80*8Jjis-before him, or for any constable, peace officer, or other person pralaEmrf 7 to arrest and bring before any justice of the peace any person found out at who, within any district specially proclaimed and under m8bt ?* suspicious circumstances, shall be in the fields, streets, high- cSrcumstonces. ways, or elsewhere out of his dwelling or place of abode at any time from one hour after sunset until sunrise, and any such justice may order such person to be brought or appear before the justices of the peace assembled at the next petty sessions for the district in which such person was arrested, and may in the meantime commit such person to gaol or admit him to bail as to such justice shall seem fit, and the justices at such petty sessions assembled shall examine the person so brought or appearing before them, who shall in such case be a competent witness, and shall examine such other witnesses and receive such evidence as may be brought ' before them touching the charge, and if upon such hearing
 
 M 3
 
@@ -6554,7 +6554,7 @@ SCHEDULE (C.)
 
 Defence i/n an Action under Section 33 of this Act.
 
-A.B., Plaintiff. \ ------------------;. J
+A.B., Plaintiff. \ -----;. J
 
 Court of
 
@@ -7452,7 +7452,7 @@ An Act for naturalizing such foreign Protestants and others therein mentioned, a
 
 An Act to extend the provisions of an Act made in the thirteenth year of His present Majesty's reign, intituled "An Act for " naturalizing foreign Protestants and " others therein mentioned, as are settled " or shall settle in any of His Majesty's " colonies in America, to other foreign " Protestants who conscientiously scruple " the taking of an oath."
 
-An Act to explain two Acts of Parliament, one of the thirteenth year of the reign of His late Majesty, "for naturalizing such u foreign Protestants and others as are " settled or shall settle in any of His " Majesty's colonies in America," and the other of the second year of the reign of His present Majesty, "for naturalizing " such foreign Protestants as have served ** or shall serve as officers or soldiers in " His Majesty's Royal American regiment, " or as engineers in America."
+An Act to explain two Acts of Parliament, one of the thirteenth year of the reign of His late Majesty, "for naturalizing such u foreign Protestants and others as are " settled or shall settle in any of His " Majesty's colonies in America," and the other of the second year of the reign of His present Majesty, "for naturalizing " such foreign Protestants as have served * or shall serve as officers or soldiers in " His Majesty's Royal American regiment, " or as engineers in America."
 
 An Act to prevent certain inconveniences that may happen by hills of naturalization.
 
@@ -7642,7 +7642,7 @@ management and control of the Elgin County Road Trustees acting under "The Elgin
 
 and determine as regards the Elgin County Road Trustees, or any person or persons acting on their behalf, except in regard to any claims due and payable by the trustees prior to the said fifteenth day of May one thousand eight hundred and seventy; and such contracts shall thereafter be binding on and may be enforced by and against the Commissioners of Supply of the county of Inverness, acting under " The Highland Roads and Bridges Act, 1862," as fully and effectually as the same would have been binding on or might have been enforced by and against the Elgin County Road Trustees; and in like manner, from and after the said fifteenth day of May one thousand eight hundred and seventy, all contracts for the maintenance and repair of the roads and bridges throughout the district described in the schedule B. annexed to this Act shall cease and determine as regards the Commissioners of Supply of the county of Inverness, or the District Road Trustees of that county, or any person or persons acting on their behalf, except in regard to any claims due and payable by those Commissioners, or the District Trustees, prior to the said fifteenth day of May one thousand eight hundred and seventy, and such contracts shall thereafter be binding on and may be enforced by and against the Elgin County Road Trustees as fully and effectually as the same would have been binding on or might have been enforced by and against the said Commissioners or District Road Trustees.
 
-7. Nothing herein contained shall affect the light of the Reserving present ministers of the parishes of Cromdale, Abemethy, and rfe**8 of . Duthil, so long as they shall continue ministers of those ^pectto parishes respectively, to be paid their stipends, according to stipends, the fiars prices of the county by which they are entitled to
+7. Nothing herein contained shall affect the light of the Reserving present ministers of the parishes of Cromdale, Abemethy, and rfe*8 of . Duthil, so long as they shall continue ministers of those ^pectto parishes respectively, to be paid their stipends, according to stipends, the fiars prices of the county by which they are entitled to
 
 be paid at the date of the passing of this Act.
 
@@ -7700,7 +7700,7 @@ SCHEDULE A.
 
 Description of District transferred to County of Inverness.
 
-The whole parish of DuthiL Those parts of the united parish of Cromdale and Inverallan on the north side of the River Spey lying to the west and south of the following line, viz.: — From the mouth of the River Dulnan, where it enters the River Spey, up the River Dulnan to the point where the Burn called the Muckrach or Findlarigg Burn enters it; and thence up the Muckrach or Findlarigg Burn to a point thereon where a stone marked " County Boundary ** has been placed five hundred and seventy-two yards or thereby, measuring in a straight line from the well called Fuaranahanish Well, lying on the south side of the hill called Beinmore; and from the last-mentioned point on the said Muckrach or Findlarigg Burn in a straight line to the said well, which is a point on the present boundary between the counties of Inverness and Elgin or Moray. The whole parish of Abernethy as well those parts of the same situated in the county of Elgin or Moray as those parts situated in the county of Inverness.
+The whole parish of DuthiL Those parts of the united parish of Cromdale and Inverallan on the north side of the River Spey lying to the west and south of the following line, viz.: — From the mouth of the River Dulnan, where it enters the River Spey, up the River Dulnan to the point where the Burn called the Muckrach or Findlarigg Burn enters it; and thence up the Muckrach or Findlarigg Burn to a point thereon where a stone marked " County Boundary * has been placed five hundred and seventy-two yards or thereby, measuring in a straight line from the well called Fuaranahanish Well, lying on the south side of the hill called Beinmore; and from the last-mentioned point on the said Muckrach or Findlarigg Burn in a straight line to the said well, which is a point on the present boundary between the counties of Inverness and Elgin or Moray. The whole parish of Abernethy as well those parts of the same situated in the county of Elgin or Moray as those parts situated in the county of Inverness.
 
 SCHEDULE B.
 
@@ -7724,7 +7724,7 @@ transferring to one of Her Majesty's Principal^ Secretaries c* H7. ct of State t
 
 " officers of the Ordnance/' all the duties hitherto performed by the said principal officers were vested in one of Her Majesty's Principal Secretaries of State:
 
-And whereas by the Act of the session of the twenty-sixth 26 & 2* Vict. and twenty-seventh years of the reign of Her present c* 12' Majesty, chapter twelve, intituled ** An Act to abolish the " office of Secretary at War, and to transfer the duties of that
+And whereas by the Act of the session of the twenty-sixth 26 & 2* Vict. and twenty-seventh years of the reign of Her present c* 12' Majesty, chapter twelve, intituled * An Act to abolish the " office of Secretary at War, and to transfer the duties of that
 
 office to one of Her Majesty's Principal Secretaries of State," the office of Secretary at War was abolished, and the various duties, powers, and authorities of the Secretary at War were vested in one of Her Majesty's Principal Secretaries of State:
 
@@ -8174,7 +8174,7 @@ An Act to abolish Forfeitures for Treason and Felony, and to otherwise amend the
 
 [4th July 1870.]
 
-WHEREAS it is expedient to abolish the forfeiture of lands ** and goods for treason and felony, and to otherwise amend the law relating thereto:
+WHEREAS it is expedient to abolish the forfeiture of lands * and goods for treason and felony, and to otherwise amend the law relating thereto:
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows; (that is to
 
@@ -8352,7 +8352,7 @@ any licence shall vest in any administrator appointed under lawfully* at this Ac
 
 this Act shall, as to such convict, be suspended.
 
-31. From and after the passing of this Act such portions Judgment in of the Acts of the thirtieth year of George the Third, chapter °**eB of hi£h forty-eight, and the fifty-fourth year of George the Third, ea80n' chapter one hundred and forty-six, as enacts that the judgment required by law to be awarded against persons adjudged
+31. From and after the passing of this Act such portions Judgment in of the Acts of the thirtieth year of George the Third, chapter °*eB of hi£h forty-eight, and the fifty-fourth year of George the Third, ea80n' chapter one hundred and forty-six, as enacts that the judgment required by law to be awarded against persons adjudged
 
 guilty of high treason shall include the drawing of the person on a hurdle to the place of execution, and, after execution, the severing of the head from the body, and the dividing of the body into four quarters, shall be and are hereby repealed.
 
@@ -8610,7 +8610,7 @@ the agreement in respect of any services, fees, charges, or disbursements in rel
 
 aside, without suit or action, on motion or petition of any person, or the representative of any person, a party to such agreement, or being or alleged to be liable to pay, or being or claiming to be entitled to be paid, the costs, fees, charges, dr disbursements in respect of which the agreement is made by the court in which the business, or any part thereof, was done, or a judge thereof, or if the business was not done in any court, then where the amount payable under the agreement exceeds fifty pounds, by any superior court of law or equity or a judge thereof, and where such amount does not exceed fifty pounds, by the judge of a county court which would have jurisdiction in an action upon the agreement.
 
-9. Upon any such motion or petition as aforesaid, if it Improper shall appear to the court or judge that such agreement is in ^ee^e^lt8 all respects fair and reasonable between the parties, the same ^de. * ** may be enforced by such court or judge by rule or order in
+9. Upon any such motion or petition as aforesaid, if it Improper shall appear to the court or judge that such agreement is in ^ee^e^lt8 all respects fair and reasonable between the parties, the same ^de. * * may be enforced by such court or judge by rule or order in
 
 such manner and subject to such conditions, if any, as to the costs of such motion or petition as such court or judge may think fit; but if the terms of such agreement shall not be deemed by the court or judge to be fair and reasonable, the same may be declared void, and the court or judge shall thereupon have power to order such agreement to be given up to be cancelled, and may direct the costs, fees, charges, and disbursements incurred or chargeable in respect of the matters included therein to be taxed in the same manner and according to the same rules as if such agreement had not been made; and the court or judge may also make such order as to the costs of and relating to such motion or petition, and the proceedings thereon, as to the said court or judge may seem fit.
 
@@ -9148,19 +9148,19 @@ standard sample No. 3, approved by the Lords of the Treasury
 
 for every cwt.
 
--------Not in any way inferior to the export
+-----Not in any way inferior to the export
 
 standard sample No. 4, approved by the Lords of the Treasury
 
 for every cwt.
 
--------Not in any way inferior to the export
+-----Not in any way inferior to the export
 
 standard sample No. 5, approved by the Lords of the Treasury
 
 for every cwt.
 
--------Inferior to the above last-mentioned
+-----Inferior to the above last-mentioned
 
 standard sample - for every cwt.
 
@@ -9268,7 +9268,7 @@ L This Act may be cited for all purposes as " The Salmon Acts Amendment Act, 187
 
 3. From and after the commencement of this Act the said third section of " The Salmon Acts Amendment Act, 1863," shall be read and construed as if the words " second day of February " were omitted therefrom and the words " thirtieth day of April " were inserted instead of the said omitted words.
 
-4. The sixty-fifth section of " The Salmon Fishery Act, 1865**shall be read and construed as if the words "secondday of February '* were omitted therefrom and the words " thirtieth day of April '' were inserted instead of the said omitted words.
+4. The sixty-fifth section of " The Salmon Fishery Act, 1865*shall be read and construed as if the words "secondday of February '* were omitted therefrom and the words " thirtieth day of April '' were inserted instead of the said omitted words.
 
 CHAP. 34.
 
@@ -9470,7 +9470,7 @@ respect to more than four animals, a penalty not exceeding 1 five pounds for eac
 
 Where any such offence is committed in relation to offal, dung, hay, straw, litter, or other thing, a further penalty not exceeding ten pounds may be imposed in respect of every half ton in weight of such offal or other thing after the first half ton.
 
-9. Every penalty recoverable under the provisions of this Recovexy and Act shall be recovered and applied in the same manner as application of penalties are recovered and applied under section five of the ** ie8' "Cattle Disease (Ireland) Act, 1866."
+9. Every penalty recoverable under the provisions of this Recovexy and Act shall be recovered and applied in the same manner as application of penalties are recovered and applied under section five of the * ie8' "Cattle Disease (Ireland) Act, 1866."
 
 10. For the purpose of proceedings under this Act, or any Proceedings, order made hereunder, or under the " Cattle Disease (Ireland)
 
@@ -10808,7 +10808,7 @@ CHAP. 50.
 
 An Act to amend " The Shipping Dues Exemption Act, 1867." [9th August 1870.]
 
-WHEREAS by u The Shipping Dues Exemption Act, c*15, ** 1867," provision is made for the abolition of certain
+WHEREAS by u The Shipping Dues Exemption Act, c*15, * 1867," provision is made for the abolition of certain
 
 exemptions from local dues on shipping and on goods carried in ships, and for payment of compensation for such abolition: And whereas the said Act contains the following provision; that is to say,
 
@@ -11502,7 +11502,7 @@ then existing Supreme Court of Her Majesty's Possession of Singapore, by an Orde
 
 by an Act of the twentieth and twenty-first years of Her 7 '
 
-Majesty's reign, chapter seventy-five, intituled "An Act to 20 & 21 Vict. ** confirm an Order in Council concerning the exercise ofc'75'
+Majesty's reign, chapter seventy-five, intituled "An Act to 20 & 21 Vict. * confirm an Order in Council concerning the exercise ofc'75'
 
 " jurisdiction in matters arising within the kingdom of Siam
 
@@ -11816,7 +11816,7 @@ admission as a broker, and the jurisdiction, supervision, and brokers to°V cont
 
 court shall not have power to make or enforce any rules, orders, regulations, restrictions, limitations, or penalties affecting, except as herein-after mentioned, the admission of such brokers, or the manner in which the business of such brokers shall be carried on.
 
-3. No bond or declaration of trust executed by any broker No bond to be in pursuance of any rules, orders, or regulations heretofore in ag Elates to " force shall after the passing of this Act be put in suit or jurisdiction of enforced, and all sums of stock transferred by way of security 9°** over
+3. No bond or declaration of trust executed by any broker No bond to be in pursuance of any rules, orders, or regulations heretofore in ag Elates to " force shall after the passing of this Act be put in suit or jurisdiction of enforced, and all sums of stock transferred by way of security 9°* over
 
 [No. 27. Price 2d.] Dd brokera-
 
@@ -12048,7 +12048,7 @@ Note 2. — Items in this and in the accounts in the Third and Fifth Schedules s
 
 SECOND SCHEDULE.
 
-Balance Sheet of the__________on the______________18___.
+Balance Sheet of the__________on the__________18___.
 
 Liabilities. £ 8. d. Assets.
 
@@ -12204,9 +12204,9 @@ questions.)
 
 (Form referred to under heading No. 6. in the Fifth Schedule.)
 
-Consolidated Revenue Account of the_____________________for_________years
+Consolidated Revenue Account of the__________for__________years
 
-commencing_____________________and ending___________________.
+commencing__________and ending__________.
 
 £ a. d. \ £ #. d.
 
@@ -12376,7 +12376,7 @@ Repeal of Acts.
 
 person, or woman may be employed in such process for a period not exceeding thirty minutes beyond the said hour.
 
-3. In bleaching and dyeing works time lost by the breakage of See 7 A 8 Vict. machinery or by reason of frost or snow may be recovered in the 1*3 *1"vStf4, same manner and subject to the same conditions as time lost by **& stoppages from want of water or from too much water may be cfmVa recovered under the Factory Acts.
+3. In bleaching and dyeing works time lost by the breakage of See 7 A 8 Vict. machinery or by reason of frost or snow may be recovered in the 1*3 *1"vStf4, same manner and subject to the same conditions as time lost by *& stoppages from want of water or from too much water may be cfmVa recovered under the Factory Acts.
 
 4. So much of the Factory Acts as provides that all the young See 23 a u Vict persons employed in a factory shall have the time for meals at the same period of the day shall not apply to male young persons employed in that part of any print works or bleaching and dyeing works
 
@@ -12524,7 +12524,7 @@ CHAP. 65.
 
 An Act to amend the Law relating to Advertisements respecting Stolen Goods. [9th August 1870.]
 
-WHEREAS under section one hundred afcd two of the Act ** of the session of the twenty-fourth and twenty-fifth years of the reign of Her present Majesty, chapter ninety-six, intituled " An Act to consolidate and amend the Statute 24 & 25 Vict. " Law of England and Ireland relating to Larceny and other a 96,8*102,
+WHEREAS under section one hundred afcd two of the Act * of the session of the twenty-fourth and twenty-fifth years of the reign of Her present Majesty, chapter ninety-six, intituled " An Act to consolidate and amend the Statute 24 & 25 Vict. " Law of England and Ireland relating to Larceny and other a 96,8*102,
 
 " similar offences/' any person who prints or publishes advertisements for the return of stolen goods without questions being asked, or the like advertisements therein mentioned, forfeits the sum of fifty pounds to any person who wil sue for the same by action of debt:
 
@@ -12690,7 +12690,7 @@ And whereas by the Militia Reserve Act, 1867, section eight, it is provided that
 
 of actual invasion or imminent danger thereof, it shall be nent national lawful for Her Majesty to order that the men enlisted under the said Act or such of them as Her Majesty may judge c# I10# 10# necessary shall miter upon army service: so&3i Vict.
 
-And whereas it is expedient to; assimilate the conditions c*m**8* under which men of the reserve force established under the said Acts of one thousand eight hundred and sixty-seven may be "called to enter upon army service to those under which men enlisted under this Act may be directed to continue in or re-enter upon army service: Be it enacted as follows:
+And whereas it is expedient to; assimilate the conditions c*m*8* under which men of the reserve force established under the said Acts of one thousand eight hundred and sixty-seven may be "called to enter upon army service to those under which men enlisted under this Act may be directed to continue in or re-enter upon army service: Be it enacted as follows:
 
 1. Section ten of the Reserve Force Act, 1867, shall be
 
@@ -12834,7 +12834,7 @@ c. 10. An Act the title of which begins with the words, — An Act for making fo
 
 33 & 34 VICT.
 
-c. 11. in part. An Act the title of which begins with the words, — An Act* for laying a duty upon ^ufht pkte,-a«d 1 . . namel the words, — senna imported in the year one thousand * ** seven hundred and sixteen - Sections four to forty, and forty-two to end of Act.
+c. 11. in part. An Act the title of which begins with the words, — An Act* for laying a duty upon ^ufht pkte,-a«d 1 . . namel the words, — senna imported in the year one thousand * * seven hundred and sixteen - Sections four to forty, and forty-two to end of Act.
 
 7 Geo. l.Stat.l. c. 5. An Act to enable the South-Sea Company to ingraft part of their capital stock and fund into the stock and fund of the Bank of England, and another part thereof into the stock and fund of the East-lndia Company; and for giving further time for payments to be made by the said South-Swa Company, to the use of the publick.
 
@@ -15414,7 +15414,7 @@ Wooler and Adderstone ----- 27
 
 Nottingham Bawtry and Scrooby - 1
 
-Bingham ------- 10
+Bingham ----- 10
 
 Foston Bridge and Little Drayton - 9
 
@@ -15424,11 +15424,11 @@ Oxford Burford, Chipping Norton, Banbury, and Aynho 48
 
 Drayton Lane to Edgehill - 17
 
-Gosford Road ------ 14
+Gosford Road ----- 14
 
 Rutland Nottingham and Kettering, Southern Division 21
 
-Somerset Radstock ------- 43
+Somerset Radstock ----- 43
 
 Stafford Ashby-de-la-Zouch to Tutbury - 26
 
@@ -16488,8 +16488,6 @@ o
 
 2
 
-&
-
 g
 
 3
@@ -16497,8 +16495,6 @@ g
 CO
 
 CO
-
-&
 
 CO
 
@@ -17078,8 +17074,6 @@ o
 
 o
 
-&
-
 o
 
 No. of Claim. Names of Claimants. Townlands. Substance of Rights and Compensation (where any) claimed. Term, Estate, or Interest, and Number of Acres (Irish) in respect of which Claim made. No. of Sheep
@@ -17550,8 +17544,6 @@ Allowed, in respect of 171a., pasturage of sheep for tenants (claims Nos. 342 an
 
 O
 
-£
-
 I
 
 o
@@ -17699,8 +17691,6 @@ P
 I
 
 I
-
-£
 
 *>
 
@@ -18070,8 +18060,6 @@ CO
 
 CO
 
-&
-
 CO
 
 No. of Claim. Names of Claimants. Townlands. Substance of Rights and Compensation (where any) claimed. Term, Estate, or Interest, and Number of Acres (Irish) in respect of which Claim made. — No. of Sheep allowed.
@@ -18336,8 +18324,6 @@ o
 
 o
 
-&
-
 No. of Names of Claimants. Townlands. Substance of Rights and Compensation (where any) claimed. Term, Estate, or Interest, and Number of Acres (Irish) in respect of which Claim made. No. of Sheep
 
 Claim. al- lowed.
@@ -18385,8 +18371,6 @@ oS
 CO
 
 CO
-
-&
 
 CO
 
@@ -18454,7 +18438,7 @@ pensation for land taken in by Camp.
 
 Substance of Bights and Term, Estate, or Interest, and No. of Sheep &]*
 
-Claim. Names of Claimants. Townlands. Compensation \ where Number of Acres (Irish) - **
+Claim. Names of Claimants. Townlands. Compensation \ where Number of Acres (Irish) - *
 
 any) claimed. in respect of which Claim made. lowed.
 
@@ -18668,7 +18652,7 @@ feel aggrieved by such decision, such persons may, within one month after the pu
 
 At any time after the expiration of such month, if no public inquiry is directed, or after the receipt of the report made after such inquiry, as the case may be, the Education Department may, if they think that the amount of public school accommodation for the district is insufficient, publish a final notice stating the same particulars as were contained in the former notice, with such modifications (if any) as they think fit to make, and directing that the public school accommodation therein mentioned as required be supplied.
 
------- lit
+----- lit
 
 1870: Elementary Education. Cff. 75« 447
 
@@ -20230,7 +20214,7 @@ For the purposes of such incorporation a Provisional Order under this Act shall 
 
 1870. Tramways. Ch.78. 495
 
-revoke, amend, extend, or vary such Provisional Order by a amend, extend, further Provisional Order. °T 7**?.
+revoke, amend, extend, or vary such Provisional Order by a amend, extend, further Provisional Order. °T 7*?.
 
 Every application for such further Provisional Order shall YW1° r er# be made in like manner and subject to the like conditions as the application for the former Provisional Order.
 
@@ -20286,7 +20270,7 @@ Such local authority, may, for the purposes of such Provisional Order, borrow an
 
 (2.) The money may be borrowed for such time, not exceeding thirty years, as such local authority, with the sanction of the Board of Trade, shall determine; and, subject as aforesaid to the repayment within thirty years, such local authority may either pay off the moneys so borrowed by equal annual instalments, or they may in every year set apart as a sinking fund, and accumulate in the way of compound interest by investing the same in the purchase of exchequer bills or other government securities, such sum as will be sufficient to pay off the moneys so borrowed, or a part thereof, at such times as the local authority may determine.
 
-The provisions of " The**Commissioners Clauses Act, 1847," with respect to the mortgages to be executed by the Commissioners, shall apply to any mortgage executed under the foregoing provisions of this section, and for the purposes of such application the said provisions shall be incorporated with this Act.
+The provisions of " The*Commissioners Clauses Act, 1847," with respect to the mortgages to be executed by the Commissioners, shall apply to any mortgage executed under the foregoing provisions of this section, and for the purposes of such application the said provisions shall be incorporated with this Act.
 
 For the purposes of such incorporation the terms "the special Act," and " the Commissioners," shall be construed to mean respectively a Provisional Order under this Act, and the local authority.
 
@@ -21422,7 +21406,7 @@ CHAP. 82.
 
 An Act to authorise the Commissioners of Her Majesty's Treasury to guarantee the payment of a loan to be raised by the Government of Canada for the construction of fortifications in that country.
 
-WHEREAS by an Act of the Parliament of Canada of the ** year 1868, chapter forty-one, the Governor in Council was authorised to raise by way of loan upon the guarantee of the Commissioners of Her Majesty's Treasury (in this Act referred to as "the Treasury"), for the purpose of the construction of the fortifications therein mentioned, sums not exceeding one million one hundred thousand pounds, and the sums so raised, with the interest thereon, and such sums as might be necessary to repay the said loan, either by way of a sinking fund, not exceeding one per cent., or in such other way and subject to such conditions as the Governor in Council, with the assent of the Treasury, might determine, were charged on the Consolidated Revenue Fund of Canada next after the appropriation for the construction of the Intercolonial Railway: And whereas it is expedient to authorise the Treasury to give such guarantee:
+WHEREAS by an Act of the Parliament of Canada of the * year 1868, chapter forty-one, the Governor in Council was authorised to raise by way of loan upon the guarantee of the Commissioners of Her Majesty's Treasury (in this Act referred to as "the Treasury"), for the purpose of the construction of the fortifications therein mentioned, sums not exceeding one million one hundred thousand pounds, and the sums so raised, with the interest thereon, and such sums as might be necessary to repay the said loan, either by way of a sinking fund, not exceeding one per cent., or in such other way and subject to such conditions as the Governor in Council, with the assent of the Treasury, might determine, were charged on the Consolidated Revenue Fund of Canada next after the appropriation for the construction of the Intercolonial Railway: And whereas it is expedient to authorise the Treasury to give such guarantee:
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -23002,8 +22986,6 @@ Part XI. Ditto, Class VII.
 
 Total Civil Services
 
-£
-
 1,457,463
 
 1,707,742
@@ -23042,7 +23024,7 @@ Under above Act, s. 2. - 9,000,000 0 0
 
 Under Act 33 Vict. cap. 31. - 9,000,000 0 0 Under this Act - 24,281,493 0 0
 
--------------- 42,281,493 0 0
+----- 42,281,493 0 0
 
 Total - - ^42,845,684 7 2
 
@@ -23168,8 +23150,6 @@ o
 
 M
 
-£
-
 H
 
 M
@@ -23258,8 +23238,6 @@ Class VII.
 
 11
 
-£
-
 5.000 5,300 3,560
 
 5.000 7,400 2,550
@@ -23290,10 +23268,6 @@ Total Civil Services Inland Revenue department -Post Office packet service - - -
 
 Total
 
-£
-
-£
-
 174,687
 
 22,000
@@ -23322,8 +23296,6 @@ No.
 
 Sams not exceeding
 
-£
-
 - 2,692,731 * 968,857
 
 159,368
@@ -23338,7 +23310,7 @@ naval coast volunteers, and royal naval reserve
 
 5. For the expense of the several scientific departments of
 
-the navy ------
+the navy -----
 
 6. For the expense of the dockyards and naval yards at
 
@@ -23381,8 +23353,6 @@ Total Navy Services
 - £
 
 Sums not exceeding
-
-£
 
 196,955
 
@@ -23460,8 +23430,6 @@ For the army reserve forces, including enrolled pensioners For the control estab
 
 For provisions, forage, fuel and lignt, movement of troops, &c. - - - - -
 
-£
-
 4,771,900
 
 43,400
@@ -23488,7 +23456,7 @@ No.
 
 12. For the supply, manufacture, and repair of warlike and
 
-other stores, for land and sea service, including establishments of manufacturing departments Id. For the superintending establishment of, and the expenditure for, works, buildings, and repairs at ^ome and abroad -------
+other stores, for land and sea service, including establishments of manufacturing departments Id. For the superintending establishment of, and the expenditure for, works, buildings, and repairs at ^ome and abroad -----
 
 14. For military education - - - -
 
@@ -23510,7 +23478,7 @@ and the purchase of full and half pay commissions
 
 22. For Chelsea and Kilmainham hospitals, and the in-
 
-pensioners thereof ------
+pensioners thereof -----
 
 23. For the out-pensioners of Chelsea hospital, &c.
 
@@ -23576,8 +23544,6 @@ of State for the Home and Colonial Departments, Poor Law Board, &c.
 
 3D 3
 
-£
-
 32,674
 
 119,450
@@ -23604,11 +23570,11 @@ No.
 
 10. For the repair and restoration of the chapter house at
 
-Westminster ------
+Westminster -----
 
 11. For one half of the expense of erecting, improving, and
 
-maintaining court houses or offices for the sheriff courts in Scotland ------
+maintaining court houses or offices for the sheriff courts in Scotland -----
 
 12. Towards the purchase of a site for the enlargement of the
 
@@ -23618,7 +23584,7 @@ National Gallery - - - - -
 
 14. For a grant in aid of buildings for the University of
 
-Glasgow ------
+Glasgow -----
 
 15. For the extension of the Industrial Museum, Edinburgh -
 
@@ -23681,8 +23647,6 @@ at Constantinople, China, Japan, and Teheran -
 Total Civil Services, Class I. £
 
 Sums not exceeding
-
-£
 
 36,063
 
@@ -23748,7 +23712,7 @@ Schedule of Sums granted to defray the charges of the several Civil Services her
 
 No. Sums not exceeding £
 
-1. For salaries and expenses in the offices of the House of Lords ------- 45,023
+1. For salaries and expenses in the offices of the House of Lords ----- 45,023
 
 2. For salaries and expenses in the offices of the House of Commons - 49,806
 
@@ -23826,7 +23790,7 @@ and Lord Treasurer's Remembrancer in the Exchequer, Scotland, of certain offices
 
 30. For salaries and expenses of the Board of Fisheries in
 
-Scotland -------
+Scotland -----
 
 31. For salaries and expenses in the department of the Regis-
 
@@ -23858,7 +23822,7 @@ Registrar General of Births, &c., and for expenses of collecting agricultural an
 
 39. For the administration of the laws relating to the poor in
 
-Ireland ------
+Ireland -----
 
 40. For salaries and expenses of the Public Record Office,
 
@@ -23871,8 +23835,6 @@ Ireland -----
 Total Civil Services, Class II. - - £
 
 Sums not exceeding-
-
-£
 
 4,563
 
@@ -23992,8 +23954,6 @@ Srisons, of juvenile offenders in reformatories and in-ustrial schools, and of c
 
 19. For salaries and expenses of the offices in Her Majesty's General Register House, Edinburgh -
 
-£
-
 44,615
 
 200,633
@@ -24080,7 +24040,7 @@ No.
 
 Sums not exceeding
 
-For management of prisons in Sootland, for maintenance of prisoners in prisons at Perth and Ayr, and for the department for the collection of judicial statistics For the expense of criminal prosecutions and other law charges in Ireland - For such salaries and expenses of the Court of Chancery in Ireland as are not charged on the Consolidated Fund For such salaries and expenses of the Superior Courts of Common Law in Ireland as are not charged on the Consolidated Fund ------
+For management of prisons in Sootland, for maintenance of prisoners in prisons at Perth and Ayr, and for the department for the collection of judicial statistics For the expense of criminal prosecutions and other law charges in Ireland - For such salaries and expenses of the Court of Chancery in Ireland as are not charged on the Consolidated Fund For such salaries and expenses of the Superior Courts of Common Law in Ireland as are not charged on the Consolidated Fund -----
 
 For salaries and the incidental expenses of the Court ctf Bankruptcy and Insolvency in Ireland For salaries and expenses of the Landed Estates Court in Ireland - - -
 
@@ -24095,8 +24055,6 @@ For salaries and expenses of the Four Courts Marshal sea, Dublin - - -
 For certain miscellaneous legal expenses in Ireland
 
 Total Civil Services, Class III. - £
-
-£
 
 25,075
 
@@ -24172,7 +24130,7 @@ Schools Commission -
 
 10. For the annuity to the Board of Manufactures in Scotland,
 
-in discharge of equivalents under the Treaty of Union, and for the exhibition of the Torrie Collection, and for other purposes ------
+in discharge of equivalents under the Treaty of Union, and for the exhibition of the Torrie Collection, and for other purposes -----
 
 11. For public education under the Commissioners of National
 
@@ -24193,8 +24151,6 @@ Ireland, and for the purchase of pictures
 16. For the Queen's Colleges in Ireland -
 
 Total Civil Services, Class IV. - £
-
-£
 
 1,800
 
@@ -24238,7 +24194,7 @@ No.
 
 1. For the expenses of Her Majesty's embassies and missions
 
-abroad -------
+abroad -----
 
 2. For the consular establishments abroad, and for other
 
@@ -24271,8 +24227,6 @@ from India to French colonies -
 9. On account of the Treasury chest -
 
 Total Civil Services, Class V. - £
-
-£
 
 220,919
 
@@ -24332,8 +24286,6 @@ Great Britain ...
 
 in Ireland - ...
 
-£
-
 399,134
 
 46,550
@@ -24347,8 +24299,6 @@ in Ireland - ...
 6,324
 
 Total Civil Services, Class VI.
-
-£
 
 513,767
 
@@ -24377,8 +24327,6 @@ Malta and Alexandria, and of the Balmoral telegraph -
 5. For certain miscellaneous expenses -
 
 Total Civil Services, Class VII. - £
-
-£
 
 34,590
 
@@ -24420,8 +24368,6 @@ service -
 
 Total Revenue Departments - £
 
-£
-
 989,837
 
 1,692,751
@@ -24440,7 +24386,7 @@ SCHEDULE (B.) — Part 13.
 
 Vote of Credit — War in Europe.
 
-Towards defraying the expenses beyond the ordinary grants of Parliament which may fee incurred in maintaining the Naval * and Military services of this kingdom, including the cost of a further number of land forces of 20,000 men during the War in Europe ------- 2,000,000
+Towards defraying the expenses beyond the ordinary grants of Parliament which may fee incurred in maintaining the Naval * and Military services of this kingdom, including the cost of a further number of land forces of 20,000 men during the War in Europe ----- 2,000,000
 
 SCHEDULE (B.) — Part 14.
 
@@ -24492,7 +24438,7 @@ An Act for granting certain Stamp Duties in lieu of Duties of the same kind now 
 
 Most Gracious Sovereign,
 
-YI^E, Your Majesty's most dutiful and loyal subjects, the ** Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards raising the necessary supplies to defray Your Majesty's public expenses* and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted: And be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+YI^E, Your Majesty's most dutiful and loyal subjects, the * Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards raising the necessary supplies to defray Your Majesty's public expenses* and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted: And be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. This Act may be cited as "The Stamp Act, 1870," and shall come into operation on the first day of January one thousand eight hundred and seventy-one, which date is herein-after referred to as the commencement of this Act.
 
@@ -24664,7 +24610,7 @@ Person dissatisfied may appeal
 
 (a.) An instrument upon which the duty has been assessed by the Commissioners shall not, if it is unstamped or insufficiently stamped, be stamped otherwise than in accordance with the assessment of the Commissioners:
 
-(6.) Nothing in this section contained extends to any in** strument chargeable with duty, and made as a security for money or stock without limit:
+(6.) Nothing in this section contained extends to any in* strument chargeable with duty, and made as a security for money or stock without limit:
 
 (c.) Nothing in this section contained shall be deemed to authorise the stamping after the execution thereof of'any instrument prohibited by law from being so stamped.
 
@@ -24760,7 +24706,7 @@ Special Regulations.
 
 As to Admissions generally.
 
-20. The duty payable under this Act upon an admission Duty, bow to is to be denoted on the instrument of admission delivered to ** denoted* the person admitted, if there be any such instrument, or if not, on the register, entry, or memorandum of the admission in the rolls, books, or records of the court, inn, college, borough, burgh, company, corporation, guild, or society in which the admission is made, and in cases in which no instrument of admission is delivered, and no register, entry, or memorandum is made, on the rescript or warrant for admission.
+20. The duty payable under this Act upon an admission Duty, bow to is to be denoted on the instrument of admission delivered to * denoted* the person admitted, if there be any such instrument, or if not, on the register, entry, or memorandum of the admission in the rolls, books, or records of the court, inn, college, borough, burgh, company, corporation, guild, or society in which the admission is made, and in cases in which no instrument of admission is delivered, and no register, entry, or memorandum is made, on the rescript or warrant for admission.
 
 30. If any person whose office it is to prepare or deliver Penalty on out any instrument of admission chargeable with any duty, °^for or to register, enter, or make any memorandum of any admission in respect of which no instrument of admission is duly stamped
 
@@ -24980,7 +24926,7 @@ of money on demand, liable only to the duty of one penny, is e uty ' presented f
 
 (3.) But the foregoing proviso is not to relieve any person not to relieve from any penalty he may have incurred in relation to such bill. from penalty'
 
-55. When a bill of exchange is drawn in a set according to One bill only the custom of merchants, and one of the set is duly stamped, ^J^be* ** the other or others of the set shall, unless issued or in some stamped, manner negotiated apart from such duly stamped bill, be exempt from duty; and upon proof of the loss or destruction
+55. When a bill of exchange is drawn in a set according to One bill only the custom of merchants, and one of the set is duly stamped, ^J^be* * the other or others of the set shall, unless issued or in some stamped, manner negotiated apart from such duly stamped bill, be exempt from duty; and upon proof of the loss or destruction
 
 of a duly stamped bill forming one of a set, any other bill of the set which has not been issued or in any manner negotiated apart from such lost or destroyed bill may, although unstamped, be admitted in evidence to prove the contents of such lost or destroyed bill.
 
@@ -25368,7 +25314,7 @@ As to Grants of Honours and Dignities.
 
 As to Leases, Sc.
 
-96. (1.) An agreement for a lease or tack, or with respect Agreements to the letting of any lands, tenements, or heritable subjects f?r not more for any term not exceeding thirty-five years, is to be charged yeJ^to^e" ** with the same duty as if it were an actual lease or tack made charged as for the term and consideration mentioned in the agreement. leases.
+96. (1.) An agreement for a lease or tack, or with respect Agreements to the letting of any lands, tenements, or heritable subjects f?r not more for any term not exceeding thirty-five years, is to be charged yeJ^to^e" * with the same duty as if it were an actual lease or tack made charged as for the term and consideration mentioned in the agreement. leases.
 
 (2.) A lease or tack made subsequently to, and in conformity with, such an agreement duly stamped, is to be charged with the duty of sixpence only.
 
@@ -25498,7 +25444,7 @@ secured or to be ultimately recoverable is in any way limited, with the same dut
 
 (3.) Provided that no money to be advanced for the in- Proviso, surance of any property comprised in any such security against damage by fire, or for keeping up any policy of life insurance comprised in such security, or for effecting in lieu thereof any new policy, or for the renewal of any grant or lease of any property comprised in such security upon the dropping of any life whereon such property is held, shall be reckoned as forming part of the amount in respect whereof the security is chargeable with ad valorem duty.
 
-108. A security for the payment of any rentcharge, annuity, Security for or periodical payments, by way of repayment, or in satisfaction pe^fodilSVay or discharge of any loan, advance, or payment intended to be so ments, how to repaid, satisfied, or discharged, is to be charged with the same ** charffe<*-duty as a similar security for the payment of the sum of money
+108. A security for the payment of any rentcharge, annuity, Security for or periodical payments, by way of repayment, or in satisfaction pe^fodilSVay or discharge of any loan, advance, or payment intended to be so ments, how to repaid, satisfied, or discharged, is to be charged with the same * charffe<*-duty as a similar security for the payment of the sum of money
 
 so lent, advanced, or paid.
 
@@ -25572,7 +25518,7 @@ except as herein-after mentioned, this Act does not apply to policies of sea ins
 
 tion for any contract of insurance, and does not, within one month after receiving, or taking credit for, such premium or consideration, make out and execute a duly stamped policy of such insurance;
 
-(2.) Makes, executes, or delivers out, or pays or allows in or making, &c. account, or agrees to pay or allow in account, any JJjy nt money upon or in respect of, any policy which is not 2olJ ** ' duly stamped; shall forfeit the sum of twenty pounds.
+(2.) Makes, executes, or delivers out, or pays or allows in or making, &c. account, or agrees to pay or allow in account, any JJjy nt money upon or in respect of, any policy which is not 2olJ * ' duly stamped; shall forfeit the sum of twenty pounds.
 
 119. (1.) The duties imposed by this Act upon policies of Duty may be
 
@@ -26252,7 +26198,7 @@ Bond given as aforesaid upon, or with relation to, the receiving or obtaining, o
 
 And see section 58.
 
-BOND on obtaining letters of administration in England or Ireland, or a confirmation of testament in Scotland ------
+BOND on obtaining letters of administration in England or Ireland, or a confirmation of testament in Scotland -----
 
 Exemptions.
 
@@ -26566,7 +26512,7 @@ DEED containing an obligation to infeft or seize in an annuity to be uplifted ou
 
 See Bond, Covenant, &c.
 
-DEED of any kind whatsoever, not described in this schedule ------
+DEED of any kind whatsoever, not described in this schedule -----
 
 DEFEAZANCE. Deed or other instrument of defeazance of any conveyance, disposition, assignation, or tack, apparently absolute, but intended only as a security for money or stock.
 
@@ -26582,7 +26528,7 @@ DEPUTATION by the Commissioners of Inland Revenue.
 
 See Commission.
 
-DEPUTATION or APPOINTMENT of a game-keeper ------
+DEPUTATION or APPOINTMENT of a game-keeper -----
 
 DISPENSATION. See Faculty.
 
@@ -27178,7 +27124,7 @@ Exemptions.
 
 SCRIP CERTIFICATE or SCRIP. See Letter of Allotment.
 
-SEISIN. Instrument of seisin given upon any charter, precept of clare constat, or precept from chancery, or upon any wadset, heritable bond, disposition, apprizing, adjudication or otherwise of any lands or heritable subjects in Scotland not of burgage tenure ------
+SEISIN. Instrument of seisin given upon any charter, precept of clare constat, or precept from chancery, or upon any wadset, heritable bond, disposition, apprizing, adjudication or otherwise of any lands or heritable subjects in Scotland not of burgage tenure -----
 
 And any NOTARIAL INSTRUMENT to be expeded and recorded in any register of sasines
 
@@ -27232,7 +27178,7 @@ And see section 128.
 
 VALUATION. See Appraisement.
 
-VOTING PAPER. Any instrument for the purpose of voting by any person entitled to vote at any meeting ------
+VOTING PAPER. Any instrument for the purpose of voting by any person entitled to vote at any meeting -----
 
 And see section 102.
 
@@ -28506,7 +28452,7 @@ CHAP. 106.
 
 An Act to amend the Sanitary Act, 1866, so far as relates to the City of Dublin. [10th August 1870.]
 
-WHEREAS under the provisions of the Sanitary Act, ** 1866, the right honourable the lord mayor, aldermen,
+WHEREAS under the provisions of the Sanitary Act, * 1866, the right honourable the lord mayor, aldermen,
 
 and burgesses of the city of Dublin, acting by the town council of the said city, are the sewer authority within the said city for the purposes of the said Act and of the Sewage Utilization Act, 1865, and are also the nuisance authority for executing the Nuisance Removal Acts, as the same are made applicable to Ireland by the said Sanitary Act, 1865:
 
@@ -28582,7 +28528,7 @@ apartment in any dwelling-house, with or for whom any such sign and deliver sche
 
 divisions, and shall collect all the schedules so left within to
 
-their division from house to house, so far as may be possible, house, and on Monday the third day of April in the year one thousand corrected if eight hundred and seventy-one, and shall complete such of foand 10 ** the schedules as upon delivery thereof to them shall appear
+their division from house to house, so far as may be possible, house, and on Monday the third day of April in the year one thousand corrected if eight hundred and seventy-one, and shall complete such of foand 10 * the schedules as upon delivery thereof to them shall appear
 
 to be defective, and correct such as they shall find to be erroneous, and shall copy the schedules, when completed and corrected, into books to be provided them for that purpose, and shall add thereunto an account, according to the best information which they shall be able to obtain, of all the other persons living within their division who shall not be included in the schedules so collected by them.
 

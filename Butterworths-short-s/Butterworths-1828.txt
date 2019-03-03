@@ -3170,8 +3170,6 @@ VI. ' And Whereas many Tradesmen, Shopkeepers, and other ' Persons have, through
 
 G 4 cutions,
 
-&
-
 without any Charge for Paper.
 
 Commissioners authorized to grant the Allowance on stamping Special Forms of Receipts.
@@ -6772,7 +6770,7 @@ true and correct Account of all die Monies remaining in his or their Hands, and 
 
 VI. And be it further enacted, That upon the reasonable Request and Notice of the Court of Directors of the said United Company, and the Governments of the Settlements of the said Company Abroad respectively, all and every Person and Persons whomsoever, who are required by this Act to pay over any Prise Accounts Money to the said United Company, shall make out and deliver, on Onto, or cause to be made out and delivered, to the Secretaries of the said Court of Directors and of the said Governments respectively requiring the same, full, true, and particular Accounts in Writing of all the Receipts, Payments, Dealings, and Transactions of such Person and Persons; and if they shall be Executors, Administrators, Agents, or Representatives, then full, true, and particular Accounts in Writing of their several Testators, Intestates, and Principals, f any way relating to any Booty, Prize Money, or other Matter in respect of which such Money so to be paid over shall have arisen, with the Dates of all and every such Receipts, Payments, Dealings, and Transactions, and true and correct Lasts and Descriptions of all Grants, Deeds, Writings, Books of Account, Letters, and Papers whatsoever in the Custody or Power, or which ever shall have been in the Custody or Power of the Persons respectively required to make out and deliver the same, or of their respective Testators, Intestates, or Principals, any way relating to any such Booty, Prize Money, or other Matter; which Accounts and Lists shall be verified by Affidavit on Oath to the best of the Knowledge, Information, and Belief of the Person or Persons required to make out and deliver the same, such Oath to be taken before any Magistrate or other Person authorized by any Court of Law or Equity to administer Oaths, and which Oath such Magistrate or other Person is hereby required to administer accordingly; and all the Grants, Deeds, Writings, Books of Account, Letters, and Papers, relating to the Matters aforesaid, and in the Custody or rower of the Person or Persons required to pay over any such Money as aforesaid, shall be produced and shown at all reasonable Times, at the Place or Places where such Grants, Deeds, Writings, Books of Account, Letters, and Papers shall be usually kept and deposited, or in some other reasonable and convenient Manner, to such Person and Persons as the said Court of Directors, or the said Governments respectively, shall direct or authorize to inspect the same; and such Person and Persons shall have full Liberty to inspect and take, and cause to be taken, such Copies, Extracts, and Abstracts thereof as he or they, or the said Court of Directors,
 
-____________ or the said Governments respectively, shall see fit: Provided
+__________ or the said Governments respectively, shall see fit: Provided
 
 Accounts which always, that this Act, or any thing herein contained, or the Pro-have been duction, Inspection, or Examination of the Accounts, Books, and legally closed. Papers
 
@@ -10392,7 +10390,7 @@ A.D. 1828.
 
 Wheat : — continued.
 
--------Whenever such Price shall be 64s. and under 65s. the
+-----Whenever such Price shall be 64s. and under 65s. the
 
 Quarter, the Duty shall be for every Quarter -
 
@@ -10438,7 +10436,7 @@ of each integral Shilling, by which such Price shall be under Sixty-one Shilling
 
 Barley: —
 
------------------------------------------------------------ Whenever the Average Price of Barley, made up and published in manner required by Law, shall be Thirty-tnree Shillings and under Thirty-four Shillings the Quarter, the Duty shall be for every Quarter -
+----- Whenever the Average Price of Barley, made up and published in manner required by Law, shall be Thirty-tnree Shillings and under Thirty-four Shillings the Quarter, the Duty shall be for every Quarter -
 
 - - - - And in respect of every integral Shilling by which
 
@@ -10550,7 +10548,7 @@ Shillings, the Duty shall be for every Quarter
 
 Oats: —
 
--------For every Quarter -
+-----For every Quarter -
 
 .... Until the Price of British Oats, made up and published in manner required by Law, shall be Twenty-five Shillings per Quarter.
 
@@ -10562,7 +10560,7 @@ Shillings, the Duty shall be for every Quarter Rye, Pease, and Beans: —
 
 .... Until the Price of British Rye, or of Pease, or of Beans, made up and published in manner required by Law, shall be Forty-one Shillings.
 
--------Whenever such Price shall be at or above Forty-one
+-----Whenever such Price shall be at or above Forty-one
 
 Shillings, the Duty shall be for every Quarter Wheat Meal and Flour: —
 
@@ -15532,9 +15530,9 @@ Possession ... the lb.
 
 Latten, viz.
 
----- Black ----- the cwt.
+----- Black ----- the cwt.
 
--------Shaven - - ... the cwt.
+-----Shaven - - ... the cwt.
 
 Leaf Metal (except Leaf Gold) - the Packet, containing
 
@@ -15550,7 +15548,7 @@ session, - for every 100?. of the Value
 
 Oil, etz.
 
--------of Carraway - - - - the lb.
+-----of Carraway - - - - the lb.
 
 — of Olives, imported in a Ship belonging to any of the
 
@@ -15660,7 +15658,7 @@ British Possession - - the lb.
 
 * — Kangaroo Skins, raw and undressed, imported from any British Possession, for every 100/. of the Value
 
------- Martin Skins, undressed, imported from any British Possession - - the Skin
+----- Martin Skins, undressed, imported from any British Possession - - the Skin
 
 Spirits, or Strong Waters, the Produce of any British Possession within the Limits of the East India Company's Charter, not sweetened or mixed with any Article so that the Degree of Strength cannot be exactly ascertained by Sike's Hydrometer;
 
@@ -15669,8 +15667,6 @@ Spirits, or Strong Waters, the Produce of any British Possession within the Limi
 Strength of Proof by Sike's Hydrometer, and so in proportion for any greater Strength than the Strength of Proof ....
 
 Tallow, imported from any British Possession in Asia, Africa, or America - - the cwt.
-
-£
 
 0
 
@@ -15710,7 +15706,7 @@ Turmeric, imported from any British Possession the cwt. Wax, Bees, viz.
 
 Wool, viz.
 
-Cotton Wool, or Waste of Cotton, imported from any _________ British Possession, -_____________- the cwt.
+Cotton Wool, or Waste of Cotton, imported from any __________ British Possession, -__________- the cwt.
 
 15
 
@@ -15728,15 +15724,13 @@ TABLE OF NEW DUTIES OUTWARDS, 1828.
 
 Wool, viz.
 
-------of Sheep or Lambs, and of Hares and of Conies, the cwt.
+-----of Sheep or Lambs, and of Hares and of Conies, the cwt.
 
 Woollen Manufactures, viz.
 
 — Woolfcls, Mortlings, Shortlings, Yarn, Worsted, Wool-flocks, Cruels, Coverlids, Waddings, or other Manufactures or pretended Manufactures, slightly wrought up or put together, so as the same may be reduced to and made use of as Wool again, Mattrasses or Beds stuffed with combed Wool, or Wool fit for comb-
 
-_________ing or carding______-______-_______-_____the cwt.
-
-£
+__________ing or carding______-______-_______-_____the cwt.
 
 o
 
@@ -15830,7 +15824,7 @@ Time of the First Entry thereof, or notwithstanding that such Goods may be prohi
 
 Bounties* XVI. 4 And Whereas one other of the said first-mentioned Acts
 
----- * was passed to grant certain Bounties and Allowances of Cus-
+----- * was passed to grant certain Bounties and Allowances of Cus-
 
 4 toms; and it is expedient to amend the said Act: And Whereas
 
@@ -15856,7 +15850,7 @@ C. 76.
 
 fore enacted, That there shall be provided by and at the Expence pmnaies.
 
-of the Committee of Sugar Refiners in London, and in like Man- ---------
+of the Committee of Sugar Refiners in London, and in like Man- -----
 
 ner by and at the Expence of the Committee of Merchants in Dub- Committee of lin, as many Loaves of Double Refined Sugar prepared in Manner SuKar hereinafter directed as the Commissioners of Customs shall think J"'
 
@@ -18096,7 +18090,7 @@ XXI. Provided always, and be it enacted, That such Officer shall be and he is he
 
 Q q 2 XXII. And
 
-Drafts exceeding 5fOOOl. to be signed by 4 Trustees, and attested by separate Witnesses.
+Drafts exceeding 5fOOOOl. to be signed by 4 Trustees, and attested by separate Witnesses.
 
 Draft for 10,000/. not to be paid until after 14 Days.
 
