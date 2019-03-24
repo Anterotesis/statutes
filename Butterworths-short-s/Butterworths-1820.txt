@@ -784,7 +784,7 @@ the Defender or Defenders shall have Treble Costs or Expences, which he or they 
 
 [Limitation of Prosecutions.]
 
-VII. Provided always, and be it further enacted, That no Person Limitation of shall be prosecuted by virtue of this Act for any thing done or Prosecutions. ' committed contrary to the Provisions hereinbefore contained, unless such Prosecution shall be commenced within Six Calendar Months after the Offence committed.
+VII. Provided always, and be it further enacted, That no Person Limitation of shall be prosecuted by virtue of this Act for any thing done or committed contrary to the Provisions hereinbefore contained, unless such Prosecution shall be commenced within Six Calendar Months after the Offence committed.
 
 [Act may be repealed, &c. this Session.]
 
@@ -812,13 +812,13 @@ and in case Admission into such House or Place shall be refused or not obtained 
 
 II. Provided always, and be it further enacted, That it shall be lawful for any Person from whom any such Arms or Weapons shall be so taken as last aforesaid, in case the Justice of the Peace upon whose Warrant the same shall have been taken shall, upon Application made for that purpose, refuse to restore the same, to apply to the next General or Quarter Sessions of the Peace of the County, or Riding or Division,
 
-[[Notice.]
+[Notice.]
 
-upon giving Ten Days' previous Notice of such Application to such Justice, for the Restitution of such Arms or Weapons, or any Part thereof; and the Justices assembled at such General or Quarter Sessions of the Peace shall make such Order for the Restitution or safe Custody of such Arms or Weapons, or any Part thereof, as upon such Application shall appear to them to be proper.
+upon giving Ten Days previous Notice of such Application to such Justice, for the Restitution of such Arms or Weapons, or any Part thereof; and the Justices assembled at such General or Quarter Sessions of the Peace shall make such Order for the Restitution or safe Custody of such Arms or Weapons, or any Part thereof, as upon such Application shall appear to them to be proper.
 
 [Persons found carrying Arms under suspicious Circumstances may be detained, and required to give Bail.]
 
-III. And be it further enacted, That it shall be lawful for any Justice of the Peace, or for any Constable, Peace Officer, or other Person acting under the Warrant of any Justice of the Peace, or for any Person acting with or in aid of any Justice of the Peace, or of any Constable or other Peace Officer having such Warrant as aforesaid, to arrest and detain any Person found carrying Arms in such manner and at such times as, in the Judgment of such Justice of the Peace, to afford just Grounds of Suspicion that the same are carried for purposes dangerous to the Public Peace; and it shall be lawful for the Justice of the Peace who shall arrest any such Person, of before whom any Person arrested upon any such Warrant shall be brought, to commit such Person for Trial fbr a Misdemeanor, unless such Person can and shall give sufficient
+III. And be it further enacted, That it shall be lawful for any Justice of the Peace, or for any Constable, Peace Officer, or other Person acting under the Warrant of any Justice of the Peace, or for any Person acting with or in aid of any Justice of the Peace, or of any Constable or other Peace Officer having such Warrant as aforesaid, to arrest and detain any Person found carrying Arms in such manner and at such times as, in the Judgment of such Justice of the Peace, to afford just Grounds of Suspicion that the same are carried for purposes dangerous to the Public Peace; and it shall be lawful for the Justice of the Peace who shall arrest any such Person, of before whom any Person arrested upon any such Warrant shall be brought, to commit such Person for Trial for a Misdemeanor, unless such Person can and shall give sufficient
 
 A.D. 1819. 60° GEO. III. & 1° GEO. IV. C. 2. 5
 
@@ -828,7 +828,7 @@ Bail for his Appearance at the next Assizes, or next General or Quarter Sessions
 
 and in Scotland every such Person shall be arrested and dealt with according to the Law and Practice of that Part of the United Kingdom in the Case of a Bailable Offence.
 
-[Justices of specific and adjoining Counties to have concurrant jurisdiction.]
+[Justices of specific and adjoining Counties to have concurrent jurisdiction.]
 
 IV. And be it further enacted, That all the Justices of the Peace acting in and for the several Counties specified in this Act, or in any Proclamation to be issued under this Act, or any Counties next adjoining thereto, shall have concurrent Jurisdiction as Justices of the Peace, in all Cases as to the carrying into Execution the Provisions of this Act, and as to all matters and things relating to the Preservation of the Public Peace, as fully and effectually as if each of such Justices was in the Commission of the Peace of each of such Counties, and had duly qualified by Law to act therein.
 
@@ -1114,7 +1114,7 @@ A.D. 1819. 60° GEO. III. & 1° GEO. IV. C. 6. 17
 
 [Members of the Corporation, or Inhabitant of the city or Parish, &c. for which the Meeting shall be held;]
 
-Grievance, or upon any Matter or Thing relating to any Trade, Manufacture, Business or Profession, or upon any Matter in Church or State, or of considering, proposing or agreeing to any Petition, Complaint, Remonstrance, Declaration, Resolution or 
+Grievance, or upon any Matter or Thing relating to any Trade, Manufacture, Business or Profession, or upon any Matter in Church or State, or of considering, proposing or agreeing to any Petition, Complaint, Remonstrance, Declaration, Resolution or
 
 Address, upon the Subject thereof, unless such Person, when the Meeting shall be holden for any County, Riding, Division or Stewartry, shall be a Freeholder, Copyholder, Heritor or Householder of, or an Inhabitant usually residing in the County or Riding, or Division of the County or Stewartry, within and for which the Meeting shall be holden, or a Freeman or Member of the Corporation, if the Meeting be of any Corporate Body, or a Householder of, or an Inhabitant usually residing, or a Freeholder or Copyholder having an Estate in Lands of the annual Value of Fifty Pounds, of which he shall have been in Possession Twelve Months, in the City, Borough or Town Corporate, Parish or Township (as the Case may be), within and for which any such Meeting shall be holden:
 
@@ -1182,7 +1182,7 @@ XI. And be it further enacted, That it shall be lawful for any One or more Justi
 
 and be liable to be transported for any Term not exceeding Seven Years.
 
-[Form of Proclamation.] 
+[Form of Proclamation.]
 
 XII. And be it further enacted, That the Order and Form of the Proclamation to be made as aforesaid, shall be as hereafter followeth; (that is to say), the Justice or Justices of the Peace, or other Person authorised by this Act to make such Proclamation, shall, among the said Persons assembled, or as near to them as he can safely come, with a loud Voice, command or cause to be commanded Silence to be, while Proclamation is making; and after
 
@@ -1250,7 +1250,7 @@ XVIII. And be it further declared and enacted, That it shall not be lawful for a
 
 [Punishment.]
 
-and that every Person who shall offend in the Premises, shall, 
+and that every Person who shall offend in the Premises, shall,
 
 22 C. 6. 60° GEO. III. & 1° GEO. IV. A.D. 1819.
 
@@ -1283,76 +1283,66 @@ of this Act, be deemed a separate Parish or Township; and all the Clauses, Provi
 [Proviso as to Population.]
 
 Provided always, that no such Division shall contain a Population, which in the Judgment of the said Justices shall consist of less than Ten thousand Persons.
----
-[Extraparochial
 
-XXII. And be it further enacted, That every Extraparochial Place shall be deemed and taken to be a Parish or Township, for Places to be all the Purposes of this Act; and all the Clauses, Provisions, deemed Pa-Regulations, Matters and Things in this Act contained, relating "shes for to any Assemblies or Meetings in Parishes or Townships, shall A^>0#e#0 "
+[Extraparochial Places to be deemed Parishes for the Purposes of this Act.]
 
-apply and be enforced as to all Extraparochial Places, as fully and effectually as if the same were severally and separately repeated and re-enacted in relation thereto.
+XXII. And be it further enacted, That every Extraparochial Place shall be deemed and taken to be a Parish or Township, for all the Purposes of this Act; and all the Clauses, Provisions, Regulations, Matters and Things in this Act contained, relating to any Assemblies or Meetings in Parishes or Townships, shall apply and be enforced as to all Extraparochial Places, as fully and effectually as if the same were severally and separately repeated and re-enacted in relation thereto.
 
-XXIII. And Whereas by an Act passed in the Fifty seventh Recital of
+[Recital of 57 G. 3. c. 19. §23. Proviso for Meetings in certain Parishes in Westminster, within One Mile of Westminster Hall Gate.]
 
-Year of the Reign of His present Majesty, intituled An Act for 57 G. 3. c. 19.
+XXIII. And Whereas by an Act passed in the Fifty seventh Year of the Reign of His present Majesty, intituled An Act for the more effectually preventing Seditious Meetings and Assemblies,
 
-the more effectually preventing Seditious Meetings and Assemblies, $ 23* Proviso
+certain Regulations are enacted in relation to Meetings in the City or Liberties of Westminster, or County of Middlesex, which might prevent any Meeting under the Provisions of this Act in the Parishes of Saint John and Saint Margaret Westminster; Be it therefore enacted, That it shall be lawful to hold any Meetings in such Parishes respectively, which may be held under the Provisions of this Act, within the Distance of One Mile from the Gate of Westminster Hall, provided that the same shall not be held in Old or New Palace Yard at any time during the Sitting of Parliament; any thing in the said recited Act to the contrary notwithstanding.
 
-certain Regulations are enacted in relation to Meetings in the for Meeting* m ' City or Liberties of Westminster, or County of Middlesex, which ^ Westminster!
+[Act not to legalise Notices, Meetings, &c. now contrary to Law.]
 
-might prevent any Meeting under the Provisions of this Act in within One
+XXIV. Provided always, and be it enacted and declared, That nothing herein contained shall be deemed or construed to render lawful any Notice, or any Assembly or Meeting, or any Act or Thing which may be done at any Assembly or Meeting in pursuance of any such Notice, or the Attendance of any Person or Persons, which Notice, Assembly, Meeting, Act or Attendance, would have been contrary to Law if this Act had not been made.
 
-the Parishes of Saint John and Saint Margaret Westminster;* Mile of West-Be it therefore enacted, That it shall be lawful to hold any Meet- minster Hall ings in such Parishes respectively, which may be held under the Gate* Provisions of this Act, within the Distance of One Mile from the Gate of Westminster Hall, provided that the same shall not be held in Old or Nero Palace Yard at any time during the Sitting of Parliament; any thing in the said recited Act to the contrary notwithstanding.
+[Proviso for Prosecutions otherwise than under this Act.]
 
-XXIV. Provided always, and be it enacted and declared, That Act not to le-oothing herein contained shall be deemed or construed to render galisc Notices, lawful any Notice, or any Assembly or Meeting, or any Act or Meetings, &c. Thing which may be done at any Assembly or Meeting in pursu- ^°£antrary ance of any such Notice, or the Attendance of any Person or Persons, which Notice, Assembly, Meeting, Act or Attendance, would
+XXV. And be it further enacted, That nothing in this Act contained shall extend to prevent any Prosecution by Indictment or otherwise, for any thing which may be an Offence within the Intent and Meaning of this Act, and which might have been so prosecuted if this Act had not been made, unless the Offender shall have been prosecuted for such Offence under this Act, and convicted or acquitted of such Offence.
 
-have been contrary to Law if this Act had not been made.
+[Places for Lectures or Debates, unless previously licensed, deemed to be disorderly Places; and Persons punishable for paying or receiving Money.]
 
-XXV. And be it further enacted, That nothing in this Act con- Proviso for Pro-
+XXVI. And Whereas it is expedient that Houses and Places used for the Purpose of publicly delivering Lectures, or of holding Debates, should be regulated; Be it therefore enacted, That every House, Room, Field or other Place, at or in which
 
-tained shall extend to prevent any Prosecution by Indictment or cutions other-otherwise, for any thing which may be an Offence within the Intent under
+any Person shall publicly read, or at or in which any Lecture or Discourse shall be publicly delivered, or any public Debate shall be had, on any Subject whatever, for the Purpose of raising or collecting Money, or any other valuable Thing, from the Persons admitted, or to which any Person shall be admitted by Payment of
 
-and Meaning of this Act, and which might have been so prosecuted if this Act had not been made, unless the Offender shall
+24 C.6. 60° GEO. III. & 1° GEO. IV. A.D. 1819.
 
-have been prosecuted for such Offence under this Act, and convicted or acquitted of such Offence.
+Money, or by any Ticket or Token of any kind delivered in consideration of Money, or any other valuable Thing, or in consequence of paying or giving, or having paid or given, or having agreed to pay or give, in any manner, any Money or other valuable Thing, or where any Money or other valuable Thing shall be received from any Person admitted, either under Pretence of paying for any Refreshment or other Thing, or under any other Pretence, or for any other Cause, or by means of any Device or Contrivance whatever, shall be deemed a disorderly House or Place, unless the same shall have been previously licensed in manner herein-after mentioned;
 
-XXVI. And Whereas it is expedient that Houses and Places piaccfl for L«c-
+[Opening such Places;]
 
-used for the Purpose of publicly delivering Lectures, or of tures or De- holding Debates, should be regulatedBe it therefore enacted, unless That every House, Room, Field or other Place, at or in which
+and the Person by whom such House, Room, Field or Place shall be opened or used, for any of the Purposes aforesaid,
 
-sny Person shall publicly read, or at or in which any Lecture or juonkriy Discourse shall be publicly delivered, or any public Debate shall places; and be had, on any Subject whatever, for the Purpose of raising or col- Persons punish-lecting Money, or any other valuable Thing, from the Persons ad- for paying nutted, or to which any Person shall be admitted by Payment of JL receiving
+[Penalty 100l. on each Offence.]
 
-C Money, Mon,y\
+shall forfeit the Sum of One hundred Pounds for every Day or Time that such House, Room, Field or Place shall be opened or used as aforesaid, to such Person as will sue for the same, and be otherwise punished as the Law directs in Cases of disorderly Houses; and every Person managing or conducting the Proceedings, or acting as Moderator, President or Chairman, at such House, Room, Field or Place, so opened or used as aforesaid, or therein debating, publicly reading or delivering any Discourse or Lecture;
 
-C.6.
+[Collecting or giving Money for Admission;]
 
-60° GEO. III. & 1° GEO. IV. A.D. 1819.
+and also every Person who shall pay, give, collect or receive, or agree to pay, give or receive, any Money or Thing for or in respect of the Admission of any Person into any such House, Room, Field or Place, or shall deliver out, distribute or receive any such Ticket or Tickets, or Token or Tokens as aforesaid, knowing such House, Room, Field or Place to be opened or used for any such Purpose as aforesaid,
 
-i4
+[Penalty 20l.]
 
-Opening such Places $
+shall for every such Offence forfeit the Sum of Twenty Pounds.
 
-Penalty 1001. on each Offence.
-
-Collecting or giving Mouey for Admission;
-
-Penalty SOL
-
-Persons acting as Masters of such Places liable to Prosecution.
-
-Magistrates may demand Admission to unlicensed Places:
-
-Refusing Admission, Penalty, 20l.
-
-Money, or by any Ticket or Token of any kind delivered in consideration of Money, or any other valuable Thing, or in consequence of paying or giving, or having paid or given, or having agreed to pay or give, in any manner, any Money or other valuable Tiling, or where any Money or other valuable Thing shall be received from any Person admitted, either under Pretence of paying for any Refreshment or other Tiling, or under any other Pretence, or for any other Cause, or by means of any Device or Contrivance whatever, shall be deemed a disorderly House or Place, unless the same shall have been previously licensed in man-r.er herein-after mentioned; and the Person by whom such House, Room, Field or Place shall be opened or used, for any of the Pur-po es aforesaid, shall forfeit the Sum of One hundred Pounds for every Day or Time that such House, Room, Field or Place shall be opened or used as aforesaid, to such Person as will sue for the same, and be otherwise punished as the Law directs in Cases of disorderly Houses; and every Person managing or conducting the Proceedings, or acting as Moderator, President or Chairman, at such House, Room, Field or Place, so opened or used as aforesaid, or therein debating, publicly reading or delivering any Discourse or Lecture; and also every Person who shall pay, give, collect or receive, or agree to pay, give or receive, any Money or Thing for or in respect of the Admission of any Person into any such House, Room, Field or Place, or shall deliver out, distribute or receive any such Ticket or Tickets, or Token or Tokens as aforesaid, knowing such House, Room, Field or Place to be opened or used for any such Purpose as aforesaid, shall for every suen Offence forfeit the Sum of Twenty Pounds.
+[Persons acting as Masters of such Places liable to Prosecution.]
 
 XXVII. And be it further enacted, That every Person who shall at any time hereafter appear, act or behave him or herself as Master or Mistress, or as the Person having the Command, Government, or Management of any such House, Room, Field or Place as aforesaid, shall be deemed and taken to be a Person by whom the same is opened or used as aforesaid, and shall be liable to be sued or prosecuted, and punished as such, notwithstanding he or she be not in fact the real Owner or Occupier thereof.
 
-XXVIII. And be it further enacted, That it shall be lawful for any Justice or Justices of the Peace of any County, Stewartry, City, Borough, Town or Place, who shall by Information upon Oath have Reason to suspect that any House, Room, Field or Place, or any Parts or Part thereof, are or is opened or used for the Purpose of publicly reading or delivering Lectures or Discourses, or for public Debate, contrary to the Provisions of this Act, to go to such House, Room, Field or Place, and demand to be admitted therein; and in case such Justice or Justices shall be refused Admittance to such House, Room, Field or Place, or any Part thereof, the same shall be deemed a disorderly House or Place within the Intent and Meaning of this Act, and all and every the Provisions hereinbefore contained respecting any House, Room, Field or Place hereinbefore declared to be a disorderly House or Place, shall be applied to such House, Room, Field or Place, where such Admittance shall have been refused as aforesaid; and every Person refusing such Admittance shall forfeit the Sum of Twenty Pounds.
+[Magistrates may demand Admission to unlicensed Places:]
 
-C.6.
+XXVIII. And be it further enacted, That it shall be lawful for any Justice or Justices of the Peace of any County, Stewartry, City, Borough, Town or Place, who shall by Information upon Oath have Reason to suspect that any House, Room, Field or Place, or any Parts or Part thereof, are or is opened or used for the Purpose of publicly reading or delivering Lectures or Discourses, or for public Debate, contrary to the Provisions of this Act, to go to such House, Room, Field or Place, and demand to be admitted therein; and in case such Justice or Justices shall be refused Admittance to such House, Room, Field or Place, or any Part thereof, the same shall be deemed a disorderly House or Place within the Intent and Meaning of this Act, and all and every the Provisions hereinbefore contained respecting any House, Room, Field or Place hereinbefore declared to be a disorderly House or Place, shall be applied to such House, Room, Field or Place, where such Admittance shall have been refused as aforesaid;
 
-A.D. 1819. 60° GEO. III. & 1° GEO. IV.
+[Refusing Admission, Penalty, 20l.]
 
-25
+and every Person refusing such Admittance shall forfeit the Sum of Twenty Pounds.
+
+A.D. 1819. 60° GEO. III. & 1° GEO. IV. C. 6. 25
+
+---
 
 XXIX. Provided nevertheless, and be it further enacted, That Two Justices it shall be lawful for Two or more Justices of the Peace for the 1,c£n8e County, Riding, Division, Stewartry, City, Borough, Town or tu^s Lec* Place, where any House, Room or other Buildings shall be in- ' tended to be opened for any of the Purposes aforesaid, by Writing under their Hands and Seals, at the Quarter or General
 
@@ -1394,7 +1384,7 @@ fessors of Gresham College; or to the Professors in the College established for 
 
 XXXII. Provided also, and be it enacted, That it shall be lawful for any Two Justices of the Peace, acting for any County, Stewartry, Riding, Division, City, Town or Place, upon Evidence on Oath that any House, Room or Place, so licensed and opened as aforesaid, is commonly used for the Purpose of public reading or delivering Lectures or Discourses of a seditious, irreligious or immoral Tendency, to adjudge and declare the Licence for opening the same to have been forfeited; and such Licence shall thereupon cease and determine, and shall thenceforth be utterly void and of no effect.
 
-XXXIH. And be it further enacted, That all or any of the pecuniary Fines, Penalties or Forfeitures, exceeding the Sum of Twenty Pounds, incurred under this Act in that Part of Great Britain called England, or in Ireland, may be recovered by Action of Debt in any of His Majesty's Courts of Record at Westminster and Dublin respectively, 'and in Scotland in the Court of Session there; and it shall be sufficient to declare in that Part of Great Britain called England, and in Ireland, or conclude in Scotland, that the Defendant or Defender is indebted to the Plaintiff or Pursuer in the Sum of
+XXXIII. And be it further enacted, That all or any of the pecuniary Fines, Penalties or Forfeitures, exceeding the Sum of Twenty Pounds, incurred under this Act in that Part of Great Britain called England, or in Ireland, may be recovered by Action of Debt in any of His Majesty's Courts of Record at Westminster and Dublin respectively, 'and in Scotland in the Court of Session there; and it shall be sufficient to declare in that Part of Great Britain called England, and in Ireland, or conclude in Scotland, that the Defendant or Defender is indebted to the Plaintiff or Pursuer in the Sum of
 
 (being the Sum demanded by the said Action), being forfeited by an Act made in the Sixtieth Year of the Reign of His present Majesty, intituled An Act [here insert the Title of this Act]; and the Plaintiff or Pursuer, if he shall recover in such Action, shall have his full Costs or Expences; and any pecuniary Penalty imposed by this Act, not exceeding the Sum of Twenty Pounds, and for the Recovery whereof no Provision is hereinbefore contained, shall and may be recovered before any Justice or Justices of the Peace for the County, Stewartry, Riding, Division, City, Town or Place, in which the same shall be incurred, or the Person having incurred the same shall happen to be, in a summary Way; and in case such last mentioned Penalty shall not be forthwith paid, such Justice or Justices shall, by Warrant under his or their Hand and Seal or Hands and Seals, and directed to any Constable or other Peace Officer, cause the same to be levied by Distress and Sale of the Offender's Goods and Chattels, together with all Costs and Charges attending such Distress and Sale; and in case no sufficient Distress can be had or made, such Justice or Justices shall commit the Offender to the Common Gaol or House of Correction for such County, Stewartiy, Riding, Division, City, Borough, Town or Place, there to remain without
 
@@ -1426,7 +1416,7 @@ in the Year of the Reign of
 
 4 as a Penalty for his said Offence.'
 
-XXXVL And be it further enacted, That any Action and Suit Limitation of which shall be brought or commenced against any Justice or Jus- Actions in Eng. tices of the Peace, Constable, Peace Officer, or other Person or land Ipe-Persons, in that Part of Great Britain called England, or in Jre- ^n°rA"e' land, for any thing done or acted in pursuance of this Act, shall 8 be commenced within Six Calendar Months next after the Fact committed, and not afterwards; and the Venue in every such Action or Suit shall be laid in the proper County where the Fact was committed, and not elsewhere; and the Defendant or De- General Issue, fendants in every such Action or Suit may plead the General Issue, and give this Act and the special Matter in Evidence at any Trial to be had thereupon; and if such Action or Suit shall be brought or commenced after the Time limited for bringing the same, or the Venue shall be laid in any other Place than as aforesaid, then the Jury shall find a Verdict for the Defendant or Defendants; and in such Case, or if the Jury shall find a Verdict for the Defendant or Defendants upon the Merits, or if the Plaintiff or Plaintiffs shall become nonsuit, or discontinue his, her or their Actions after Appearance, or if upon Demurrer Judgment shall be given against the Plaintiff or Plaintiffs, the Defendant or Defendants snail have Double Costs, which he or they Double Costa.
+XXXVI. And be it further enacted, That any Action and Suit Limitation of which shall be brought or commenced against any Justice or Jus- Actions in Eng. tices of the Peace, Constable, Peace Officer, or other Person or land Ipe-Persons, in that Part of Great Britain called England, or in Jre- ^n°rA"e' land, for any thing done or acted in pursuance of this Act, shall 8 be commenced within Six Calendar Months next after the Fact committed, and not afterwards; and the Venue in every such Action or Suit shall be laid in the proper County where the Fact was committed, and not elsewhere; and the Defendant or De- General Issue, fendants in every such Action or Suit may plead the General Issue, and give this Act and the special Matter in Evidence at any Trial to be had thereupon; and if such Action or Suit shall be brought or commenced after the Time limited for bringing the same, or the Venue shall be laid in any other Place than as aforesaid, then the Jury shall find a Verdict for the Defendant or Defendants; and in such Case, or if the Jury shall find a Verdict for the Defendant or Defendants upon the Merits, or if the Plaintiff or Plaintiffs shall become nonsuit, or discontinue his, her or their Actions after Appearance, or if upon Demurrer Judgment shall be given against the Plaintiff or Plaintiffs, the Defendant or Defendants snail have Double Costs, which he or they Double Costa.
 
 shall
 
@@ -1508,17 +1498,13 @@ CAP. VIII.
 
 An Act for the more effectual Prevention and Punishment of blasphemous and seditious Libels.
 
-[SOth December 1819.]
+[20th December 1819.]
 
-WHEREAS it is expedient to make more effectual Provision for the Punishment of blasphemous and seditious 4 Libels;' Be it enacted by The King's Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the passing of this Act, in every Case in which any Verdict or Judgment by Default shall be had against any Person for composing, printing or publishing any blasphemous Libel, or any seditious Libel, tending to bring into Hatred or Contempt the Person of His Majesty, His Heirs or Successors, or The Regent, or the Government and Constitution of the United Kingdom as by Law established, or either House of Parliament, or to excite His Majesty's Subjects to attempt the Alteration of any Matter in Church or State as by Law established, otherwise than by lawful Means, it shall be lawful for the Judge or the Court before whom or in which such Verdict shall have been given, or the Court in which such Judgment by Default shall be had, to make an Order for the Seizure and carrying away and detaining in safe Custody, in such manner as shall be directed in such Order, all Copies of the Libel which shall be in the Possession of the Person against whom such Verdict or Judgment shall have been had, or in the Possession of any other Person named in the Order for his Use; Evidence upon Oath having been previously given to the Satisfaction of such Court or Judge, that a Copy or Copies of the said Libel is or are in the Possession of such other Person for the Use of the Person against whom such Verdict or Judgment shall have been had as aforesaid; and in every such Case it shall be lawful for any Justice of the Peace, or for any Constable or other Peace Officer acting under any such Order, or for any Person or Persons acting with or in aid of any such Justice of the Peace, Constable or other Peace Officer, to search for any Copies of such Libel in any House, Building or other Place whatsoever belonging to the Person against whom any such Verdict or Judgment shall have been had, or to any other Person so named, in whose Possession any Copies of any such Libel, belonging to the Person against whom any such Verdict or Judgment shall have been had, shall be; and in case Admission shall be refused or not obtained within a reasonable time after it shall have been first demanded, to enter by Force by Day into any such House, Building or Place whatsoever, and to carry away all Copies of the Libel there found, and to detain the same in safe Custody until the same shall be restored under the Provisions of this Act, or disposed of according to any further Order made in relation thereto.
+WHEREAS it is expedient to make more effectual Provision for the Punishment of blasphemous and seditious Libels; Be it enacted by The King's Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the passing of this Act, in every Case in which any Verdict or Judgment by Default shall be had against any Person for composing, printing or publishing any blasphemous Libel, or any seditious Libel, tending to bring into Hatred or Contempt the Person of His Majesty, His Heirs or Successors, or The Regent, or the Government and Constitution of the United Kingdom as by Law established, or either House of Parliament, or to excite His Majesty's Subjects to attempt the Alteration of any Matter in Church or State as by Law established, otherwise than by lawful Means, it shall be lawful for the Judge or the Court before whom or in which such Verdict shall have been given, or the Court in which such Judgment by Default shall be had, to make an Order for the Seizure and carrying away and detaining in safe Custody, in such manner as shall be directed in such Order, all Copies of the Libel which shall be in the Possession of the Person against whom such Verdict or Judgment shall have been had, or in the Possession of any other Person named in the Order for his Use; Evidence upon Oath having been previously given to the Satisfaction of such Court or Judge, that a Copy or Copies of the said Libel is or are in the Possession of such other Person for the Use of the Person against whom such Verdict or Judgment shall have been had as aforesaid; and in every such Case it shall be lawful for any Justice of the Peace, or for any Constable or other Peace Officer acting under any such Order, or for any Person or Persons acting with or in aid of any such Justice of the Peace, Constable or other Peace Officer, to search for any Copies of such Libel in any House, Building or other Place whatsoever belonging to the Person against whom any such Verdict or Judgment shall have been had, or to any other Person so named, in whose Possession any Copies of any such Libel, belonging to the Person against whom any such Verdict or Judgment shall have been had, shall be; and in case Admission shall be refused or not obtained within a reasonable time after it shall have been first demanded, to enter by Force by Day into any such House, Building or Place whatsoever, and to carry away all Copies of the Libel there found, and to detain the same in safe Custody until the same shall be restored under the Provisions of this Act, or disposed of according to any further Order made in relation thereto.
 
 II. And be it further enacted, That if in any such Case as aforesaid Judgment shall be arrested, or if, after Judgment shall have been entered, the same shall be reversed upon any Writ of Error, all Copies so seized shall be forthwith returned to the
 
-Person
-
-A.D. 1819. 60* GEO. IIL & 1° GEO. IV. C. 8.
-
-31
+A.D. 1819. 60° GEO. III. & 1° GEO. IV. C. 8. 31
 
 Person or Persons from whom the same shall have been so taken of as Court as aforesaid, free of all Charge and Expence, and without the direct-Payment of any Fees whatever; and in every Case in which final Judgment shall be entered upon the Verdict so found against the Person or Persons charged with having composed, printed or published such Libel, then all Copies so seized shall be disposed of as the Court in which such Judgment shall be given shall order and direct.
 
@@ -1624,8 +1610,6 @@ IV. And be it further enacted, That all Pamphlets and Papers containing any Publ
 
 V. And be it further enacted, That upon every Pamphlet or Paper containing any Public Nfcws, Intelligence or Occurrences, or any Remarks or Observations thereon, or upon any Matter in Church or State, printed in any Part of the United Kingdom for Sale, and published periodically, or in Parts or Numbers, at Intervals not exceeding Twenty six Days between the Publication of any Two such Pamphlets or Papers, Parts or Numbers, and upon every Part or Number thereof, shall be printed the full Price at which every such Pamphlet, Paper, Part or Number shall be published for Sale, and also the Day on which the same is first published; and if any Person shall publish any such Pamphlet, Paper, Part or Number, without the said Price and Day being printed thereon, or if any Person shall at any Time within Two Months after the Day of Publication printed thereon as aforesaid, sell or expose to Sale any such Pamphlet, Paper, Part or Number, or any Portion or Part of such Pamphlet, Paper, Part or Number, upomwhich the Price so printed as aforesaid shall be Sixpence, or above that Sum, for a less Price than the Sum of Sixpence, every such Person shall for every such Offence forfeit and pay the Sum of Twenty Pounds.
 
-D 2 VI- Pro-
-
 Such Acts (Exception) to be in force.
 
 What Quantity of Paper to be deemed a Sheet.
@@ -1664,11 +1648,11 @@ VI. Provided always, and be it further enacted, That nothing in this Act contain
 
 VII. And be it further enacted, That all Pamphlets and Papers which are by this Act declared to be subject to the Stamp Duties upon Newspapers, shall be freed and discharged from all the Stamp Duties and Regulations contained in any Act of Parliament relating to Pamphlets.
 
-VUL And be it further enacted, That no Person, from and after Thirty Days after the passing of this Act, shall print or publish for Sale any Newspaper, or any Pamphlet or other Paper containing any Public News, Intelligence or Occurrences, or any Remarks or Observations thereon, or upon any Matter in Church or State, which shall not exceed Two Sheets, or which shall be published for Sale at a less Price than Sixpence, until he or she shall have entered into a Recognisance before a Baron of the Exchequer, in England, Scotland or Ireland respectively, as the Case may be, if such Newspaper or Pamphlet, or other Paper aforesaid, shall be printed in London or Westminster, or in Ed in* burgh or Dubliny or shall have executed in the Prepence of, and delivered to some Justice of the Peace for the County, City or Race where such Newspaper,'Pamphletor other Paper shall be printed, if printed elsewhere, a Bond to His Majesty, His Heirs and Successors, together with Two or Three sufficient Sureties, to the Satisfaction of the Baron of the Exchequer taking such Recognisance, or of the Justice of the Peace taking such Bond, every Person printing or publishing any such Newspaper or Pamphlet or Paper aforesaid, in the Sum of Three hundred Pounds, if such Newspaper, Pamphlet or Paper shall be printed in London or withiiv Twenty Miles thereof, and in the Sum of Two hundred Pounds, if such Newspaper, Pamphlet or Paper shall be printed elsewhere in the United Kingdom, and his or her Sureties in a like Sum in the whole, conditioned that such Printer or Publisher shall pay to His Majesty, His Heirs and Successors, every such Fine or Penalty as may at any Time be imposed upon or adjudged against him or her, by reason of any Conviction for printing or publishing any blasphemous or seditious Libel, at any Time after the entering into such Recognisance or executing such Bond; and that every Person who shtul print or first publish any such Newspaper, Pamphlet or other Paper, without having entered into such Recognisance, or executed and delivered such Bond with such Sureties as aforesaid, shall, for every such Offence, forfeit the Sum of Twenty Pounds.
+VIII. And be it further enacted, That no Person, from and after Thirty Days after the passing of this Act, shall print or publish for Sale any Newspaper, or any Pamphlet or other Paper containing any Public News, Intelligence or Occurrences, or any Remarks or Observations thereon, or upon any Matter in Church or State, which shall not exceed Two Sheets, or which shall be published for Sale at a less Price than Sixpence, until he or she shall have entered into a Recognisance before a Baron of the Exchequer, in England, Scotland or Ireland respectively, as the Case may be, if such Newspaper or Pamphlet, or other Paper aforesaid, shall be printed in London or Westminster, or in Ed in* burgh or Dubliny or shall have executed in the Prepence of, and delivered to some Justice of the Peace for the County, City or Race where such Newspaper,'Pamphletor other Paper shall be printed, if printed elsewhere, a Bond to His Majesty, His Heirs and Successors, together with Two or Three sufficient Sureties, to the Satisfaction of the Baron of the Exchequer taking such Recognisance, or of the Justice of the Peace taking such Bond, every Person printing or publishing any such Newspaper or Pamphlet or Paper aforesaid, in the Sum of Three hundred Pounds, if such Newspaper, Pamphlet or Paper shall be printed in London or withiiv Twenty Miles thereof, and in the Sum of Two hundred Pounds, if such Newspaper, Pamphlet or Paper shall be printed elsewhere in the United Kingdom, and his or her Sureties in a like Sum in the whole, conditioned that such Printer or Publisher shall pay to His Majesty, His Heirs and Successors, every such Fine or Penalty as may at any Time be imposed upon or adjudged against him or her, by reason of any Conviction for printing or publishing any blasphemous or seditious Libel, at any Time after the entering into such Recognisance or executing such Bond; and that every Person who shtul print or first publish any such Newspaper, Pamphlet or other Paper, without having entered into such Recognisance, or executed and delivered such Bond with such Sureties as aforesaid, shall, for every such Offence, forfeit the Sum of Twenty Pounds.
 
 IX. Provided always, and be it further enacted, That in every r case in which any Surety or Sureties in any such Recognisance or Bond shall have been required to pay and shall have paid the whole or any Part of the Sum for which he, she or they shall have become Surety; or in case any such Surety or Sureties shall become Bankrupt, or be discharged under any Insolvent Act;
 
-A.D. 181* 60* GEO. IIL & 1° GEO. IV. C.9<
+A.D. 1819 60° GEO. III. & 1° GEO. IV. C.9<
 
 37
 
@@ -2374,7 +2358,7 @@ whom he shall poll. So help me GOD.'
 
 Which Oath every Returning Officer is hereby authorised and required to administer.
 
-A.D. 1320. 60° GEO. III. & lcGEO. IV. C. 11. 63
+A.D. 1820. 60° GEO. III. & lc GEO. IV. C. 11. 63
 
 XLII. And be it further enacted, That any Deputy Sheriff, Deputy Sheriffs Poll Clerk, Clerk of the Peace, Deputy Clerk of the Peace, As- and Officer* sistant Deputy Clerk of the Peace, Interpreter, Constable, Bailiff g,ectin£ or Peace Officer, who shall absent himself from the Duty of his t^Poll. ^ Office at any Election of a Member or Members to serve in Par- Punishment, liament for any County, City, Borough or other Place, during any Part of the Time that the Poll shall be kept open on each Day, shall forfeit all Compensation for his Attendance during such Election; and that the Returning Officer or Officers is and are hereby authorised and required, in case of the Absence, Neglect,
 
@@ -3150,7 +3134,7 @@ C.9,10.
 
 1° GEO. IV;
 
-AJD. 1820.
+A.D. 1820.
 
 entitled to the said Privileges and Advantages unless the same shall be navigated according to Law, and the Master, or other Person having or taking the Charge or Command of such Ship or Vessel, shall, at the Time of his Arrival and reporting of his Ship or Vessel at any Port in Great Britain from the said Settlement*, produce and deliver to the Collector, or other proper Officer of the Customs at such Port, a Certificate under the Hand and Seal of the Superintendent of the said Settlements, certifying that satisfactory Proof has been made before him that such Ship or Vessel was actually built in the said Settlements, and wholly owned by British Subjects.
 
@@ -3326,7 +3310,7 @@ made in G.°B, Temporal, and Commons, in this present Parliament assembled, into
 
 1 no
 
-AJD. 1820. 1° GEO. IV. C. 14,15.
+A.D. 1820. 1° GEO. IV. C. 14,15.
 
 95
 
@@ -3398,7 +3382,7 @@ WHEREAS an Act was made in the Fifty eighth Year of the Reign of His late Majest
 
 A.D. 1820.
 
-l°GEO; IV.
+1° GEO. IV.
 
 97
 
@@ -3444,7 +3428,7 @@ The Judge Advocate to be sworn.
 
 C. 19.
 
-l«GEO. IV. A.D. 1820.
+1° GEO. IV. A.D. 1820.
 
 Th« Oath.
 
@@ -3456,13 +3440,11 @@ Witnesses attending Courts Martial to be privileged from Arrest.
 
 Witnesses not attending liable to be attached.
 
-'I do swear, That I will not upon any account,
-
-' at any Time whatsoever, disclose or discover the Vote or 1 Opinion of any particular Member of the Court Martial, unless ' required to give Evidence thereof as a Witness, by a Court of * Justice or a Court Martial, in a due Course of Law.
+'I do swear, That I will not upon any account, at any Time whatsoever, disclose or discover the Vote or Opinion of any particular Member of the Court Martial, unless required to give Evidence thereof as a Witness, by a Court of Justice or a Court Martial, in a due Course of Law.
 
 ' So help me GOD/
 
-And no Sentence of Death shall be given against any Offender in such Case by any General Court Martial, unless Nine Officers present shall concur therein, (except such General Court Martial shall be holden in any Place beyond the Seas out of His Majesty's Dominions, or out of any of the Settlements belonging to the United Company of Merchants of England trading to the East Indies, or in His Majesty's Colony of the Bermuda Isles, or in Africa, or in New South Wales as aforesaid); and in all Cases wnere a Court Martial shall consist of more Officers than Thirteen, and also in any Place beyond the Seas out of His Majesty's Dominions, or out of any of the Settlements belonging to the United Company of Merchants of England trading to the East Indies, or in the said Colony of the Bermuda Isles, or in Africa and in Areu> South Wales as aforesaid, when the same shall consist of a lesser Number of Officers, then such Judgment shall pass by the Concurrence of Two Thirds at the least of the Officers present; and , no Proceeding or Trial shall be had upon any Offence but between the Hours of Eight of the Clock in the Morning and Four in the Afternoon, except in Cases which require an immediate Example: Provided also, that all Witnesses duly summoned by the Judge Advocate, or the Person officiating as such, shall, during their necessary Attendance in such Courts, and in goin^ to and returning from the same, be privileged from Arrest in like Manner as Witnesses attending any of His Majesty's Courts of Law are privileged; and that if any such Witness shall be unduly arrested, he shall be discharged from such Arrest by the Court out of which the Writ or Process issued by which such .Witness was arrested; or if the Court out of which the Writ or Process issued be not sitting, then by any Judge of the Court of King's Bench in London or in Dublin, or Court of Sessions in Scotland, or Courts of Law in the East or West Indies, or elsewhere, according as the Case shall require, upon its being made appear to such Court or Judge, by Affidavit m a summary Way, that such Witness was arrested in going to or returning from or attending upon such Court Martial; and that all Witnesses so duly summoned as aforesaid, who shall not attend on such Courts, shall be liable to be attached in the Court of King's Bench in London or Dublin or Court of Session or Sheriffs Depute or Stewards Depute, or their respective Substitutes, within their several Shires and Stewartries, in Scotland, or Courts of Law in the East or West Indies, or in any of His Majesty's Colonies, Garrisons or Dominions in Europe or elsewhere respectively, upon Complaint made to the said Courts of King's Hench or Court of Session in Scotland, or Courts of Law in the JEast or West Indies, or elsewhere respectively, in like manner as if such Witness had neglected to attend on a Trial in any Criminal Proceeding in that Court.
+And no Sentence of Death shall be given against any Offender in such Case by any General Court Martial, unless Nine Officers present shall concur therein, (except such General Court Martial shall be holden in any Place beyond the Seas out of His Majesty's Dominions, or out of any of the Settlements belonging to the United Company of Merchants of England trading to the East Indies, or in His Majesty's Colony of the Bermuda Isles, or in Africa, or in New South Wales as aforesaid); and in all Cases wnere a Court Martial shall consist of more Officers than Thirteen, and also in any Place beyond the Seas out of His Majesty's Dominions, or out of any of the Settlements belonging to the United Company of Merchants of England trading to the East Indies, or in the said Colony of the Bermuda Isles, or in Africa and in Areu> South Wales as aforesaid, when the same shall consist of a lesser Number of Officers, then such Judgment shall pass by the Concurrence of Two Thirds at the least of the Officers present; and , no Proceeding or Trial shall be had upon any Offence but between the Hours of Eight of the Clock in the Morning and Four in the Afternoon, except in Cases which require an immediate Example: Provided also, that all Witnesses duly summoned by the Judge Advocate, or the Person officiating as such, shall, during their necessary Attendance in such Courts, and in goin^ to and returning from the same, be privileged from Arrest in like Manner as Witnesses attending any of His Majesty's Courts of Law are privileged; and that if any such Witness shall be unduly arrested, he shall be discharged from such Arrest by the Court out of which the Writ or Process issued by which such .Witness was arrested; or if the Court out of which the Writ or Process issued be not sitting, then by any Judge of the Court of King's Bench in London or in Dublin, or Court of Sessions in Scotland, or Courts of Law in the East or West Indies, or elsewhere, according as the Case shall require, upon its being made appear to such Court or Judge, by Affidavit in a summary Way, that such Witness was arrested in going to or returning from or attending upon such Court Martial; and that all Witnesses so duly summoned as aforesaid, who shall not attend on such Courts, shall be liable to be attached in the Court of King's Bench in London or Dublin or Court of Session or Sheriffs Depute or Stewards Depute, or their respective Substitutes, within their several Shires and Stewartries, in Scotland, or Courts of Law in the East or West Indies, or in any of His Majesty's Colonies, Garrisons or Dominions in Europe or elsewhere respectively, upon Complaint made to the said Courts of King's Hench or Court of Session in Scotland, or Courts of Law in the JEast or West Indies, or elsewhere respectively, in like manner as if such Witness had neglected to attend on a Trial in any Criminal Proceeding in that Court.
 
 1° GEO. IV. C.19.
 
@@ -3498,7 +3480,7 @@ A.D. 1820. 1° GEO. IV. C.19.
 
 101
 
-the said Pay or Subsistence be distributed to either of them re-^ spectively: And if any Officer or Officers as aforesaid shall not Penalty on satisfy, content and pay the same, upon Complaint and Oath made Officers not thereof by any Two Witnesses, at the next Quarter Sessions for "Ustyug Ac-the County or City where such Quarters were (which Oath the Jus- ^n^'^harired tices of the Peace at such Sessions are hereby authorised and re- against theni quired to administer), the Secretary at War in England, and the by the Agent Chief Secretary, or in his Absence the Under Secretary for the Civil Department, or the First Clerk in the Military Department in Ireland, is hereby required and authorised (upon Certificate of the Justices before whom such Oath was made, of the Sum due upon such Accounts, and the Persons to whom the same is owing) to give Orders to the Agent of the Troop or Company to pay and satisfy the said Sums, and to charge the same against such Officer or Officers.
+the said Pay or Subsistence be distributed to either of them respectively: And if any Officer or Officers as aforesaid shall not Penalty on satisfy, content and pay the same, upon Complaint and Oath made Officers not thereof by any Two Witnesses, at the next Quarter Sessions for "Ustyug Ac-the County or City where such Quarters were (which Oath the Jus- ^n^'^harired tices of the Peace at such Sessions are hereby authorised and re- against theni quired to administer), the Secretary at War in England, and the by the Agent Chief Secretary, or in his Absence the Under Secretary for the Civil Department, or the First Clerk in the Military Department in Ireland, is hereby required and authorised (upon Certificate of the Justices before whom such Oath was made, of the Sum due upon such Accounts, and the Persons to whom the same is owing) to give Orders to the Agent of the Troop or Company to pay and satisfy the said Sums, and to charge the same against such Officer or Officers.
 
 LXXI. And be it further enacted, That for the better and more For the proregular Provision of Carriages for His Majesty's Forces in their v.ldin8 Cl*7 Marches, or for their Arms, Clothes or Accoutrements, in England, march-
 
@@ -3532,8 +3514,6 @@ C. 19.
 
 brought or shewn to One or more of them by any of the Officers aforesaid, issue his or their Warrant to the Constables or Petty Constables of such next County, Riding, Liberty, Division or Precinct, as shall be most convenient for the purposes aforesaid, according to their respective Jurisdictions, to make up such Deficiency: And the aforesaid Officer or Officers, who by virtue of the aforesaid Warrant from the Justices of the Peace, are to demand the Carriage or Carriages therein mentioned of the Constable or Petty Constable to whom the Warrant directed, is and are hereby required at the same Time to pay down in Hand to the said Constable or Petty Constable, for the Use of the Person who shall provide such Carriages and Men, the Sums hereinafter mentioned respectively, for which respective Sums so received the said Constable or Petty Constable is hereby required to give a Receipt in Siting (which Receipt need not be stamped) to the Person or Persons paying the same: And such Constable or Petty Constable shall order and appoint such Person or Persons having Carriages within their respective Liberties, as they shall think proper, to provide and furnish such Carriages and Horses and Oxen and Men, according to the Warrant aforesaid, who are hereby required to provide and furnish the same accordingly; and no Person owning or driving or causing to be driven any such Waggon, Wain, Cart or other Carriage, shall be subject to any Penalty or Forfeiture, nor shall any such Waggon, Wain, Cart or other Carriage be stopped or detained by reason of any Weight in any such Waggon, Wain, Cart or other Carriage, or of being drawn by any Number of Horses or Oxen; but it shall be lawful for any Owner of any such Waggon, Wain, Cart or other Carriage, to put any additional Number of Horses or Oxen to those prescribed or paid for under this Act; any thing in any Act or Acts of Parliament relating to Highways or Turnpike Roads, or any particular Highway or Road, to the contrary notwithstanding: Penalty 51. on And if any Military Officer or Officers, for the Use of whose Regi-Officers forcing ment, Detachment, Troop or Company the Carriage was provided. Waggons to shall force and constrain any Waggon, Wain, Cart or Carriage to navel more than travel beyond the Distance specified in the Magistrate's Warrant, Magistrate s or not discharge the same in due time for their Return Home on the same Day, if it be practicable, or shall suffer any Soldier or Servant (except such as are sick), or any Woman, to ride in the Waggon, Wain, Cart or Carriage aforesaid; or shall force any Constable or Petty Constable, by threatening or menacing Words, to provide Saddle Horses for themselves or Servants, or shall force Horsesfrom the Owners, by themselves, Servants or Soldiers, every such Officer for every such Offence shall forfeit the Sum of Five Pounds, Proof thereof being made upon Oath before Two of His Majesty's Justices of the Peace of the same County or Riding, who are to certify the same to the Secretary at War in England, or if in Ireland to the Chief Secretary, or in his Absence the Under Secretary for the Civil Department or the First Clerk in the Military department, who is hereby authorised and required to give Orders for the Payment of the aforesaid Sum of Five Pounds, according to the Order and Appointment under the Hands and Seals of the aforesaid Justices of the Peace of the same
 
-County
-
 Warrant pacific* &c.
 
 103
@@ -3542,7 +3522,7 @@ C. 19.
 
 County or Riding) and for deducting the same out of such Officer's Pay.
 
-4 LXXV. And Whereas it may sometimes become necessary, in 4 Cases of Emergency, to provide proper and speedy Means for the Carriage and Conveyance, not only of the Arms, Clothes,
+LXXV. And Whereas it may sometimes become necessary, in Cases of Emergency, to provide proper and speedy Means for the Carriage and Conveyance, not only of the Arms, Clothes,
 
 Accoutrements, Tents, Baggage and other Equipage of and belonging to His Majesty's Forces in their Marches, but also of thd
 
@@ -3602,7 +3582,7 @@ Magistrates to transmit to the Secretary at War Duplicates of Certificates of th
 
 Soldiers entitled to Discharge to be sent Home free of Expense, and have Conduct and Marching Money Home*
 
-108 C.20. 1 GEO. IV: AJD. 1820.
+108 C.20. 1 GEO. IV: A.D. 1820.
 
 Persons committed for Criminal Offences not to receive Pay till they return to the Regiment, &c.
 
@@ -3614,7 +3594,7 @@ An Act for the regulating of His Majesty's Royal Marine Forces while on Shore.
 
 [23d June 1820.]
 
-[This Act is the same, and all the Schedules are also the samey as 59 G. 3. c. 10. except as to Dates and Sums and the Sections that are here inserted.]
+[This Act is the same, and all the Schedules are also the same, as 59 G. 3. c. 10. except as to Dates and Sums and the Sections that are here inserted.]
 
 XXVI. And be it further enacted, That no-Officer, Noncommissioned Officer or Private Marine, who shall be arrested and committed to Prison upon a Charge of any Criminal Offence, shall receive any Part of his Pay from the Day of such Commitment till the Day of his Return to the Company to which he shall belong, or which he shall be ordered to join: Provided that if he shall be acquitted of the Offence for which he was committed, he shall, upon his Return to his Company, be entitled to receive all Arrears of Pay which were growing due during the Time of his Confinement; but if he shall be convicted, he shall forfeit all Right to any Pay from the Day of his Commitment during the Time of his Confinement, as well under the original Commitment as under any Commitment consequent upon such Conviction, and until the Day of his Return to the Company to which he shall belong, or which he shall be ordered to join: Provided always, that it shall be lawful for the Lords Commissioners of the Admiralty to order the Issue and Payment to any such Officer, Noncommissioned Officer or Private Marine, during any such Commitment or Imprisonment, or either of them, or any Part thereof, of the Pay of any such Officer, Noncommissioned Officer or Private Marine, or of any Proportion of such Pay, or of any Arrears thereof, either during such Commitment or Imprisonment, or after the Discharge of such Officer, Noncommissioned Officer or Private Marine after Conviction or otherwise, as shall appear to the Lords Commissioners of the Admiralty to be proper; and the Order of the said Lords Commissioners for the Payment of such Pay or Arrears shall be a sufficient Discharge for such Payment.
 
@@ -3626,9 +3606,7 @@ XLII. And be it further enacted, That the Sums to be paid into the Hands of such
 
 or District assembled at any General Sessions of the Peace for such County or District, the said Justices having Regard to the Price of Hav and Oats at the Time of fixing such additional Rates: Provided always, that in Cases where the Day's March shall exceed Fifteen Miles, such further Compensation shall be made and paid in like manner to the Owners of the said Carriages for the Excess beyond the said Fifteen Miles, as shall be deemed reasonable by the Magistrates who granted the Warrant for impressing them, not exceeding the usual Rate and Hire of such Carriages: Provided always, that every Order of the Justices assembled at any General Sessions of the Peace, fixing a further Sum to be paid for the Hire of Carriages as aforesaid, m addition to the customary Rates of One Shilling and Nine Pence and Sixpence per Mile respectively, shall specify the Period for which the same shall be in force, and which shall not in any Case exceed Ten Days beyond the General Sessions of the Peace for such County or District next ensuing the Date of such Order; and a Copy of every such Order, signed by the Chairman or presiding Magistrate and one other Justice of the Peace or Magistrate at the Quarter Sessions at which the same shall be made, shall within Three Days after the making thereof be transmitted to the Secretary of the Admiralty; and no such Order shall be valid or effectual unless a Copy thereof be so signed and transmitted as aforesaid: Provided also, that in every Case of any increased Rate being allowed for the Hire of any Carriage, the Justice of the Peace granting or signing such Warrant shall insert in his own Hand the Amount of such increased Rate for each Description of Carriage, as so authorised by the Justices at the Quarter Sessions as aforesaid; and such Warrant shall be given to the Officer or Noncommissioned Officer commanding the Regiment, Corps, Company, Detachment or Party requiring such Carriages, as his Voucher for the Payment of such increased Rate; and no increased Rate shall be demanded, but such as shall be so inserted by the Justice in the Warrant.
 
-LII. And Whereas several Marines, who being duly entered,
-
-may afterwards desert, and be found wandering, or otherwise
+LII. And Whereas several Marines, who being duly entered, may afterwards desert, and be found wandering, or otherwise
 
 absenting themselves illegally from His Majesty's Serviceit is hereby further enacted, That it shall and may be lawful to and Tor the Constable, Headborough or Tithingman of the Town or Place where any Person who may reasonably be suspected to be such a Deserter shall be found, or if no such Constable, Head-borough or Tithingman can be immediately met with, then for any Marine Officer or Marine, to apprehend or cause such suspected Person to be apprehended, and to bring or cause him to be brought before any Justice of the Peace living in or near such Town or Place, who is hereby empowered and required to examine such suspected Person; and if, by his Confession, or the Testimony of One or more Witness or Witnesses upon Oath, or by Knowledge of such Justice of the Peace, it shall appear or be found that such suspected Person is a Marine duly entered, and ought to be with the Company to which he belongs, whether such Company shall be employed on board any of His Majesty's Ships or Vessels, or quartered on Shore, or employed on board any Transport Ship, or Merchant Ship or Vessel, or any Ship or Vessel of His Majesty
 
@@ -3776,7 +3754,7 @@ An Act to provide for the Charge of the Addition to the Public Funded Debt of Gn
 
 WHEREAS by an Act passed in the Fifty third Year of the 4 Reign of His late Majesty King George the Third, inti-
 
-tuled An Act to alter and amend several Acts passed in Hispresent Majesty s Reign, relating to the Redemption of the National 4 Debt, and for making further Provisions in respect thereof it was
+tuled An Act to alter and amend several Acts passed in His present Majesty s Reign, relating to the Redemption of the National 4 Debt, and for making further Provisions in respect thereof it was
 
 enacted and declared, that for the Puiposes of the said Act an 4 Amount of Public Debt, equal to the whole Capital of the Public 4 Debt, in perpetual Redeemable Annuities, existing on the Fifth 4 Day of January One thousand seven hundred and eighty six,
 
@@ -4076,9 +4054,9 @@ same, as to the said Court shall seem fitting and expedient; and to direct any C
 
 VII. And be it further enacted, That it shall not be lawful for any Custos Rotulorum, or other Person or Persons to whom of right it doth or shall belong to nominate, elect or appoint any Clerk of the Peace, to sell the said Place of Clerk of the Peace, or to take any Bond or other Assurance to receive or have any Reward, Money, Fee or Profit, directly or indirectly, to him or any other Person, for such nominating, electing or appointing; but that every such Custos Rotulorum or other Person or Persons that shall so sell the Clerkship of the Peace, and every Clerk of the Peace who shall so buy his Place, are hereby disabled to hold their Places of Custos Rotulorum or Clerkship of the Peace, and shall also each of them respectively forfeit Double the Sum or Value, or other Thing that snail be so given or taken; to be recovered by him or them, to their own Use, that shall sue for the same; to be prosecuted by any Action of Debt, Suit, Bill, Plaint or Information in any of His Majesty's Courts at Dublin, wherein no Essoign, Protection or Wager of Law shall lie.
 
-VTIL And be it further enacted, That every Clerk of the Peace hereafter to be appointed, before he enter upon the Execution of his said Office, shall in open Sessions make and sign the Oath following; videlicet:
+VIII. And be it further enacted, That every Clerk of the Peace hereafter to be appointed, before he enter upon the Execution of his said Office, shall in open Sessions make and sign the Oath following; videlicet:
 
-' J A. B. do swear, That I have not, nor will pay any Sum or 1 Sums of Money or other Reward whatsoever, nor given any 4 Bond or other Assurance to pay any Money, Fee or Profit, 4 directly or indirectly, to any Person or Persons whomsoever, for 4 such Nomination or Appointment, except so far as I am warranted to do by the Provisions of the Act of the Forty ninth of 4 George the Third, to prevent the Sale and Brokerage of Offices,
+I A. B. do swear, That I have not, nor will pay any Sum or 1 Sums of Money or other Reward whatsoever, nor given any 4 Bond or other Assurance to pay any Money, Fee or Profit, 4 directly or indirectly, to any Person or Persons whomsoever, for 4 such Nomination or Appointment, except so far as I am warranted to do by the Provisions of the Act of the Forty ninth of 4 George the Third, to prevent the Sale and Brokerage of Offices,
 
 and m conformity to the Provisions of the said Act; and that I
 
@@ -4124,7 +4102,7 @@ No Money to be presented, unless Cerdfi-
 
 within Three Months after the same shall have been so subscribed; and that any Clerk of the Peace who shall neglect or omit so to register such Oaths, or shall act in any manner in contravention thereof, shall incur the . Penalty of One hundred Pounds, to be sued for and recovered by Action of Debt, Bill, Plaint or Information, in any of His Majesty's Courts of Record at the Four Courts Dublin, and not elsewhere; in which no Essoign, Protection or Wager of Law, nor more than One Imparlance, shall be allowed; One Moiety to be for the Use of His Majesty, His Heirs and Successors, and the other Moiety to the Use of the Person or Persons who shall sue for the same.
 
-XI. Provided always, and be it enacted, That nothing in this Act contained shall extend or be construed to extend to in any ways affect the Right of any Persons who may claim under or by virtue of any Appointment to the Office of any Clerk of the Peace of any County, County of a City, or County of a Town, in Ire* land, which shall have been made at any time before the passing of this Act.
+XI. Provided always, and be it enacted, That nothing in this Act contained shall extend or be construed to extend to in any ways affect the Right of any Persons who may claim under or by virtue of any Appointment to the Office of any Clerk of the Peace of any County, County of a City, or County of a Town, in Ireland, which shall have been made at any time before the passing of this Act.
 
 CAP. XXVIII.
 
@@ -4132,11 +4110,7 @@ An Act to repeal an Act made in the Fiftieth Year of the Reign of His late Majes
 
 [30th June 1820.]
 
-WHEREAS an Act was passed in the Fiftieth Year of the
-
-W Reign of His late Majesty King George the Third, in-
-
-tituled An Act to regulate the Fees payable to Coroners in Ireland, ' upon holding Inquisitions: And Whereas it is expedient that the ' said Act should he repealed, and that other Regulations should
+WHEREAS an Act was passed in the Fiftieth Year of the Reign of His late Majesty King George the Third, intituled An Act to regulate the Fees payable to Coroners in Ireland, upon holding Inquisitions: And Whereas it is expedient that the said Act should he repealed, and that other Regulations should
 
 be made for the Payment of Coroners in such Cases ;\Be it therefore enacted by The King's Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in [this present Parliament assembled, and by the Authority of the same, That from and after the passing of this Act the said recited Act shall be and the same is hereby repealed.
 
@@ -4232,9 +4206,7 @@ effectual, or to be established as a Rule, until the same shall have been approv
 
 CAP. XXX.
 
-t
-
-An Act for relieving Ewart Rut son and Company of Liverpool, and others, from the Bonds granted for the Duties on certain Spirits accidentally destroyed.
+An Act for relieving Ewart Rutson and Company of Liverpool, and others, from the Bonds granted for the Duties on certain Spirits accidentally destroyed.
 
 [30th June 1820.]
 
@@ -4256,11 +4228,7 @@ An Act to permit the Importation of Coffee from any Foreign Colony or Plantation
 
 WHEREAS by an Act passed in the Fifty seventh Year 57 0.3. c. 74.
 
-W of the Reign of His late Majesty King George the Third,
-
-4 intituled An Act to extend several Acts for allowing the Im-
-
-portation and Exportation of certain Goocls and Merchandise to 4 Porto Maria in the Island of Jamaica, and to the Port of 4 Bridgetown in the Island of Barbadoes, it is enacted, that from and after the passing of that Act, such Goods and Commodities
+of the Reign of His late Majesty King George the Third, intituled An Act to extend several Acts for allowing the Importation and Exportation of certain Goocls and Merchandise to Porto Maria in the Island of Jamaica, and to the Port of Bridgetown in the Island of Barbadoes, it is enacted, that from and after the passing of that Act, such Goods and Commodities
 
 as, by an Act passed in the Forty fifth Year of the Reign 45 G. 3. c. 57.
 
@@ -4268,7 +4236,7 @@ of His said late Majesty, intituled An Act to consolidate and ' extend the sever
 
 and exported from the Ports therein mentioned; and also Rice,
 
-4 Grain of all sorts, and Flour, may be also imported into and 4 exported from the Port of Bridgetown, in the Island of Barbokoes, in the West Indies, from and to any Colonies and Plantations in America, belonging to and under the Dominion of 4 any Foreign European Sovereign or State, in the like Ships and Vessels, under such Rules, Regulations, Restrictions, and 4 subject to such Penalties and Forfeitures for Breach thereof, as 4 are contained, described, and provided in the said Acts, and in
+Grain of all sorts, and Flour, may be also imported into and 4 exported from the Port of Bridgetown, in the Island of Barbokoes, in the West Indies, from and to any Colonies and Plantations in America, belonging to and under the Dominion of 4 any Foreign European Sovereign or State, in the like Ships and Vessels, under such Rules, Regulations, Restrictions, and subject to such Penalties and Forfeitures for Breach thereof, as are contained, described, and provided in the said Acts, and in
 
 4 another Act passed in the Fiftieth Year of the Reign of His 50 5* &,I,'
 
@@ -4284,7 +4252,7 @@ Foreign Plantation Coffee may be imported into Bridgetown in Barbadoes, accordin
 
 26 G. 3. c. 41. and so much of 29 G. 3. c. 53 as relates to the Fisheries, and continued by 32 G. 3. c. 22. 42 G.3. c. 22. 44 G. 3. c. 23. 46 G. 3. c. 29. 48 G. 3. c. 20. 50 G. 3. c. 11. 55 G. 3. c. 39. and' 60 G. 5. Sc
 
-4 said late Majesty, intituled An Act for amending and continuing 4 so amended, until the Twenty fifth Day of March One thousand 4 eight hundred and twelve, an Act of the Forty fifth Year of His present Majesty, for consolidating and extending the several Laws * in force for allowing the Importation and Exportation of certain 4 Goods and Merchandise into and from certain Ports in the West 4 Indies, which by a subsequent Act was continued until the 4 Twenty fifth Day of March One thousand eight hundred and 4 fourteen, and by one other Act was revived and made perpetual: And Whereas it is expedient to permit the Importation of Coffee, the Produce of any Colony or Plantation in 4 America belonging to and under the Dominion of any Foreign 4 European Sovereign or State, iuto the said Port of Bridgetown 4 in the Island of Barbadoes;9 Be it therefore enacted by The 4 King's Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That Coffee, the Produce of any Colony or Plantation in America belonging to and under the Dominion of any Foreign European Sovereign or State, may be imported into the Port of Bridgetown, in the Island of Barbadoes, in the West Indies, from any Colony or Plantation in America belonging to and under the Dominion of any Foreign European Sovereign or State, in the like Ships and Vessels, under suen Rules, Regulations, Restrictions and Conditions, and subject to such Penalties and Forfeitures for Breach thereof, as are contained, described and provided in the aforesaid Acts.
+said late Majesty, intituled An Act for amending and continuing so amended, until the Twenty fifth Day of March One thousand eight hundred and twelve, an Act of the Forty fifth Year of His present Majesty, for consolidating and extending the several Laws in force for allowing the Importation and Exportation of certain Goods and Merchandise into and from certain Ports in the West Indies, which by a subsequent Act was continued until the Twenty fifth Day of March One thousand eight hundred and fourteen, and by one other Act was revived and made perpetual: And Whereas it is expedient to permit the Importation of Coffee, the Produce of any Colony or Plantation in America belonging to and under the Dominion of any Foreign European Sovereign or State, iuto the said Port of Bridgetown in the Island of Barbadoes;9 Be it therefore enacted by The King's Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That Coffee, the Produce of any Colony or Plantation in America belonging to and under the Dominion of any Foreign European Sovereign or State, may be imported into the Port of Bridgetown, in the Island of Barbadoes, in the West Indies, from any Colony or Plantation in America belonging to and under the Dominion of any Foreign European Sovereign or State, in the like Ships and Vessels, under suen Rules, Regulations, Restrictions and Conditions, and subject to such Penalties and Forfeitures for Breach thereof, as are contained, described and provided in the aforesaid Acts.
 
 CAP. XXXIII.
 
@@ -4292,7 +4260,7 @@ An Act to amend and continue, until the Thirty first Day of December One thousan
 
 [8th July 1820.]
 
-WHEREAS the Laws hereinafter mentioned have by ExVV perience been found useful and beneficial,' and it is 4 expedient that the same should be further continued:* Be it therefore enacted by The King's Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That an Act made in the Twenty sixth Year of the Reign of His late Majesty King George the Third, intituled An Act for the further Support and Encouragement of the Fisheries carried on in the Greenland Seas and Davis's Streights, which was to be in force for Five Years from the Twenty fifth Day of December One thousand seven hundred and eighty six; and also so much of an Act made in the Twenty ninth Year of the Reign of His said late Majesty, intituled An Act for further encouraging and regulating the Newfoundland, Greenland and Southern Whale Fisheries, as relates to the Fisheries carried on in the Greenland Seas and Davis's Streights; which by
+WHEREAS the Laws hereinafter mentioned have by Experience been found useful and beneficial,' and it is 4 expedient that the same should be further continued:* Be it therefore enacted by The King's Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That an Act made in the Twenty sixth Year of the Reign of His late Majesty King George the Third, intituled An Act for the further Support and Encouragement of the Fisheries carried on in the Greenland Seas and Davis's Streights, which was to be in force for Five Years from the Twenty fifth Day of December One thousand seven hundred and eighty six; and also so much of an Act made in the Twenty ninth Year of the Reign of His said late Majesty, intituled An Act for further encouraging and regulating the Newfoundland, Greenland and Southern Whale Fisheries, as relates to the Fisheries carried on in the Greenland Seas and Davis's Streights; which by
 
 1° GEO. IV. C.S3.
 
@@ -4302,9 +4270,7 @@ an Act made in the Thirty second Year of the Reign of Ilis said late Majesty wer
 
 II. And be it further enacted, That an Act made in the Forty sixth Year of the Reign of His said late Majesty, intituled An Act for allowing, until the Signature of Preliminary Articles of Peace, Vessels employed in the Greenland Whale Fishery to complete their full Number of Men at certain Ports, which by an Act made in the Fifty fifth Year of the Reign of His said late Majesty and an Act made in the First Year of the Reign of His present Majesty, was revived and continued until the Twenty fifth Day of June One thousand eight hundred and twenty, shall be further continued until the Thirty first Day of December One thousand eight hundred and twenty three.
 
-4 III. And Whereas by the Act passed in the Twenty sixth 4 Year of the Reign of His late Majesty it is enacted, that every 4 British Ship, before she proceeds in her Voyage to the Greenland Seas or Davis's Streights, should be visited by the proper 4 Officer or Officers of the Customs belonging to such Port, who 4 should examine into such Ship or Vessel, and take an account 4 of the Tonnage thereof by Admeasurement, and should certify 4 such his or their Visitation to the Commissioners of His Majesty's 4 Customs; and if it should appear, by the Certificate of such 4 Officer or Officers, that such Vessel hath on board such a 4 Number of Men, Provisions, Boats, Fishing Lines, and Instruments used in such Fishery as mentioned in the said Act, then and in all such Cases it should be lawful for any Three or 4 more of the Commissioners of the Customs in England and 4 Scotland respectively, for the time being, on receiving such Certificates, to give and grant full Licence and Authority to such * Vessel to proceed in the said Voyage: And Whereas Inconvenience has been found, particularly in Tide Harbours, from the 4 Delay that must necessarily take place between the Visitation of the Officer on board of the Ship for the Mustering of the Crew, .4 Examination of Provisions, Boats, Fishing Lines, and Instruments 4 used in such Fishery, the Report of such Officer or Officers to 4 the Commissioners of the Customs, and the Return of the Licence from such Commissioners;* Be it therefore enacted, That it shall and may be lawful to and for Three or more of the Commissioners of the Customs in England and Scotland respectively, and they are hereby required, to authorise the Collector or Comptroller, or Chief Officer of the Customs of the Port where any Ship for carrying on the Fishery in the Greenland Seas or Davis's Streights is fitting out, to give arid grant a full and suffi-
-
-K 3 cient
+III. And Whereas by the Act passed in the Twenty sixth Year of the Reign of His late Majesty it is enacted, that every British Ship, before she proceeds in her Voyage to the Greenland Seas or Davis's Streights, should be visited by the proper Officer or Officers of the Customs belonging to such Port, who should examine into such Ship or Vessel, and take an account of the Tonnage thereof by Admeasurement, and should certify such his or their Visitation to the Commissioners of His Majesty's Customs; and if it should appear, by the Certificate of such Officer or Officers, that such Vessel hath on board such a Number of Men, Provisions, Boats, Fishing Lines, and Instruments used in such Fishery as mentioned in the said Act, then and in all such Cases it should be lawful for any Three or more of the Commissioners of the Customs in England and Scotland respectively, for the time being, on receiving such Certificates, to give and grant full Licence and Authority to such Vessel to proceed in the said Voyage: And Whereas Inconvenience has been found, particularly in Tide Harbours, from the Delay that must necessarily take place between the Visitation of the Officer on board of the Ship for the Mustering of the Crew, Examination of Provisions, Boats, Fishing Lines, and Instruments used in such Fishery, the Report of such Officer or Officers to the Commissioners of the Customs, and the Return of the Licence from such Commissioners; Be it therefore enacted, That it shall and may be lawful to and for Three or more of the Commissioners of the Customs in England and Scotland respectively, and they are hereby required, to authorise the Collector or Comptroller, or Chief Officer of the Customs of the Port where any Ship for carrying on the Fishery in the Greenland Seas or Davis's Streights is fitting out, to give and grant a full and sufficient
 
 1 G.4 c. 12. further continued till Dec. 31, 1823.
 
@@ -4324,23 +4290,15 @@ A. D. 1820.
 
 134
 
-cient Licence for such Ship to proceed on her Voyage as soon as the proper Officer or Officers shall have visited such Ship, and reported to such Collector, Comptroller or Chief Officer, that the Number of Men, Provisions, Boats, Fishing Lines and Instruments, and all other Requisites required by the said Act of the Twenty sixth Year of His late Majesty aforesaid, are on board such Vessel, and have been duly complied with, in such and the like Manner and as effectually as the Commissioners respectively could have done on receiving such Reports; any thing contained in any Act or Acts to the contrary notwithstanding.
+Licence for such Ship to proceed on her Voyage as soon as the proper Officer or Officers shall have visited such Ship, and reported to such Collector, Comptroller or Chief Officer, that the Number of Men, Provisions, Boats, Fishing Lines and Instruments, and all other Requisites required by the said Act of the Twenty sixth Year of His late Majesty aforesaid, are on board such Vessel, and have been duly complied with, in such and the like Manner and as effectually as the Commissioners respectively could have done on receiving such Reports; any thing contained in any Act or Acts to the contrary notwithstanding.
 
 CAP. XXXIV.
 
-An Act for further continuing, until the First Day of January One thousand eight hundred and twenty six, so much of an Act passed in the Fifty sixth Year of His late Majesty as permits Subjects of His Majesty the King of the Netherlands to import and export certain Articles into ^ and from the Colonies of Demerara, Beibice and Essequibo,
-
-in Ships not of the Built of the Dominions of His said Majesty.
+An Act for further continuing, until the First Day of January One thousand eight hundred and twenty six, so much of an Act passed in the Fifty sixth Year of His late Majesty as permits Subjects of His Majesty the King of the Netherlands to import and export certain Articles into ^ and from the Colonies of Demerara, Beibice and Essequibo, in Ships not of the Built of the Dominions of His said Majesty.
 
 [8th July 1820.]
 
-WHEREAS an Act passed in the Fifty sixth Year of His late Majesty King George the Third, intituled An Act to
-
-regulate the Trade of the Colonies of Demerara, Berbice, and 4 Essequibo; to allow the Importation into and Exportation from 4 such Colonies of certain Articles by Dutch Proprietors of the 4 European Dominions of His Majesty the King of the Nether-
-
-lands; and to repeal an Act of the Fifty fourth Year of His present Majesty, for permitting a Trade between the United
-
-Provinces and certain Colonies in His Majesty's Possession; in
+WHEREAS an Act passed in the Fifty sixth Year of His late Majesty King George the Third, intituled An Act to regulate the Trade of the Colonies of Demerara, Berbice, and Essequibo; to allow the Importation into and Exportation from such Colonies of certain Articles by Dutch Proprietors of the European Dominions of His Majesty the King of the Netherlands; and to repeal an Act of the Fifty fourth Year of His present Majesty, for permitting a Trade between the United Provinces and certain Colonies in His Majesty's Possession; in
 
 5 5. 4 which it is among other Things enacted, that it shall and may
 
@@ -4350,9 +4308,7 @@ Berbice and Essequibo, certain Articles therein described, in any 4 Ships being 
 
 Recited Act same, That the Provisions contained in the said recited Act be continued. and the same are hereby continued for and during the Term of Five Years from the First Day of January One thousand eight hundred and twenty one, subject to the Rules and Restrictions When Vessels therein contained; provided that the Master or other Person ?^a°nNMther* having the Charge or Command of any Vessel not being of the Proof given Built of the Dominions of His Majesty the King of the Nether-that they have lands9 in which any such Importation or Exportation shall be been before made, shall, previous to the Entry of the same, produce to the
 
-proper
-
-ln GEO. IV. C.34,35.
+ln GEO. IV. C.34, 35.
 
 135
 
@@ -4364,19 +4320,17 @@ An Act for the better securing Monies and Effects paid into the Court of Exchequ
 
 [8th July 1820.]
 
-WHEREAS His Majesty's Court of Exchequer at WestVV minster did, on the Seventeenth Day of July One thousand
+WHEREAS His Majesty's Court of Exchequer at Westminster did, on the Seventeenth Day of July One thousand
 
 seven hundred and forty seven, make an Order touching the 4 Money belonging to the Suitors of that Court, whereby after 4 reciting that His Majesty's Remembrancer of the said Court 9 and his Deputy had informed the said Court, that there were
 
 standing in the Name of the said Deputy, in the Books of the 4 Governor and Company of the Bank of England, and in the 4 Books of the South Sea Company, divers Sums in certain Stocks
 
-and Annuities of the said Companies'respectively, which had 4 been purchased with the Money of the Suitors of the said Court, 4 or were belonging to them, and that no Declaration of Trust had 4 been or could be made in relation thereto, in the Books of the
+and Annuities of the said Companies respectively, which had 4 been purchased with the Money of the Suitors of the said Court, 4 or were belonging to them, and that no Declaration of Trust had 4 been or could be made in relation thereto, in the Books of the
 
 said several Companies, without an Order of the said Court for 4 that Purpose; it was ordered, that the said Deputy Remerabrancer should cause the said Sum to be transferred in the 4 Books of the said Companies into his Name, as Deputy Re-
 
-raembrancer of the said Court, in Trust to attend the Orders of the said Court in the several Causes to which the same respec-
-
-lively belonged; and that for the future all other Sums of Stock 4 or Annuities, or any other transferable Securities for the Benefit
+raembrancer of the said Court, in Trust to attend the Orders of the said Court in the several Causes to which the same respectively belonged; and that for the future all other Sums of Stock 4 or Annuities, or any other transferable Securities for the Benefit
 
 of or belonging to the Suitors of the said Court, should be in
 
@@ -4402,7 +4356,7 @@ Style of such Officer, who is also to he One of the Masters.
 
 Accounts to be kept as Accounts are kept in the Court of Chancery, Ac.
 
-< Companies, according to the said Order, and large Sums of 1 Money or Securities for Money belonging to the said Suitors, are 1 now in the Hands, Custody or Power of the said Abel Moysey;
+Companies, according to the said Order, and large Sums of 1 Money or Securities for Money belonging to the said Suitors, are 1 now in the Hands, Custody or Power of the said Abel Moysey;
 
 1 and it is expedient that a fit and proper Person should he 4 appointed to be Accountant General of the said Court, in whose 4 Name all Effects, Stocks, Funds, Annuities and Securities belonging to the said Suitors, might become and be from time to 4 time securely vested for the Use of the said Suitors, and who
 
@@ -4413,8 +4367,6 @@ who should have no Power to dispose of or otherwise inter-
 meddle with such Funds, further or otherwise than as hereinafter 4 directed:* Be it therefore enacted by The King's Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the passing of this Act, no Sum or Sums of Money, Stocks, Funds or Securities whatsoever, belonging to the Suitors of the said Court, shall be paid or transferred to or become vested in the Deputy Remembrancer of the said Court, or the King's Remembrancer or his Deputy for the time being, otherwise than as hereinafter is directed; anv thing in the said recited Order, or any Law, Usage or Custom of the said Court to the contrary in anywise notwithstanding.
 
 II. And, to the end that the Accounts between the Suitors of the said Court of Exchequer and the Governor and Company of the Bank of England, and every other Body Politic or Corporate or Company whom it may concern, may be more regularly and plainly kept, and the State of such Accounts be at all times seen and known, be it enacted, That as soon as may be after the passing of this Act, there shall be appointed by the Lord Chief Baron of the said Court of Exchequer, by Writing under his Hand and Seal, to be duly enrolled among the Records of the said Court, One Person who shall act and do all Matters and Things relating to the delivering, securing and investing of the Money and Effects of the Suitors of the said Court, and the Payment, selling, and transferring of the same, and the keeping the Accounts w ith the Bank of England, or any other Body Politic or Corporate, or Company, and other Matters relating thereto; which said Officer 4o to be appointed shall be called " The Accountant General of the Court of Exchequer," and such Person shall also be one of the Masters of the said Court, and shall hold such Offices during his good Behaviour in the said Offices; and Accounts shall be raised and kept causew'ise in the Books of the Bank of England, and of every other Body Politic or Corporate or Company whom it may concern, to be respectively intituled The Account of A. B, the Accountant General of the Court of Exchequer,M for and on behalf of the Suitors of the said Court, in like Manner as such Accounts are kept between the Accountant General of the Court of Chancery and the Bank of England', or any other Body Politic or Corporate or Company; and all such Rules, Methods, and Directions as by this Act are prescribed to the Suitors of the said Court of Exchequer, or to the said Accountant General of the 6&id Court, or to the Governor and Company of the Bank of England, or any other Body Politic or
-
-7 Corporate
 
 A.D. 1820.
 
@@ -4526,8 +4478,6 @@ X. And be it further enacted, That One of the Cashiers of the Bank of England sh
 
 XI. And be it further enacted, That whenever any Money belonging to the Suitors of the said Court, or any other Person or Persons, received by the Bank of England, pursuant to the Directions of this Act, shall by any Decree or Order of the said Court of Exchequer, or of the Lord Chief Baron of the said Court, or of the Baron to be nominated and appointed as aforesaid, be directed to be paid out to any Party or Parties, in any Cause or Matter, or to any other Person or Persons, the Clerk in Court, Solicitor or Agent for such Party, or other Person, shall attend the said Accountant General with an Office Copy of such Decree or Order, and of any Report to which siich Decree or Order may refer, as specifying the Money to be so paid; and the said Accountant General shall forthwith make a Certificate thereof, to be filed by the Clerk in Court, or Solicitor for the Party, with the Clerk of the Reports hereinafter directed to be appointed; and the said Accountant General shall, by Note under his Hand, draw on the Bank for so much Money as shall be so directed to be paid, upon Check Paper, fairly written and signed by the said Accountant General, which Note shall be compared with such Certificate, and the Decree or Order, and also the Report, if any, under which such Certificate shall have been made, and when so compared, such Note shall be countersigned by the Clerk of the Reports, and entered by him in a Book to be kept for that Purpose, and hall be a sufficient Authority to the Bank of England to pay such
 
-Money
-
 1° GEO. IV. C. 35.
 
 143
@@ -4638,9 +4588,7 @@ Be it enacted, That it shall and may be lawful for the Lord Chief Appointment
 
 Baron of the said Court of Exchequer for the time being, and he Duty of
 
-is hereby authorised and required, by Writing under his Hand and
-
-Seal, to be enrolled among the Records of the said Court, to certiftnitw.
+is hereby authorised and required, by Writing under his Hand and Seal, to be enrolled among the Records of the said Court, to certiftnitw.
 
 +appoint one fit and proper Person to be Keeper of such Reports and Certificates, who shall be called "The Clerk of the Reports," and who shall at all times examine and countersign all Certificates, Checks, and Drafts by this Act required to be signed by the Accountant General; and shall receive all such Certificates, and also all Reports and Certificates made by either of the said Masters, and shall duly file the same Certificates and Reports, and shall receive the Fees due to the Clerk in Court on filing and
 
@@ -6211,7 +6159,9 @@ Act to extend only to England and Ireland.
 $ E
 
 private, or shall extend to any Case of wilful or malicious Mischief or Trespass to private Property, in which the Damage claimed shall exceed the Sum of Five Pounds, or to any Case wherein it shall appear to the Satisfaction of the Justice or Justices before whom the Complaint is made, that the Party trespassing acted under g fair and reasonable Supposition that he had a Right to do the Act to the Property in respect whereof the Trespass was committed or alleged to have been committed, or to do or commit the Act complained of; or shall have committed such Trespass in hunting, or being a qualified Person, and having duly obtained his Certificate authorising him to kill Game, shall have committed the Injury complained of in the Pursuit of any kind of Game.
+
 ---
+
 VII. Provided always, and be it enacted, That in case any Person or Persons shall be convicted of any Offence against this Act, before any Justice of the Peace, on the Complaint or Information of any Person or Persons, or public or private Property having been so injured, damaged or spoiled, and shall have paid the Penalty, Costs and Charges under such Conviction, or shall have suffered the Imprisonment awarded for Nonpayment thereof, then and in every such Case such Conviction snail and may be pleaded in bar of any Action, Suit or Information that shall be commenced, instituted or prosecuted for such and the same Offence in any Court whatsoever.
 
 VIII. And be it further enacted, That this Act shall be in force in England and Ireland, and not in any other Part of the United Kingdom.
@@ -6223,7 +6173,9 @@ An Act to repeal an Act passed in the Fifty seventh Year of the Reign of His lat
 [15th July 1820.]
 
 WHEREAS by an Act passed in the Fifty seventh Year of the Reign of His late Majesty King George the Third, intituled An Act to abolish the Punishment of public Whipping on Female Offenders, it is enacted, that from and after the passing of that Act, Judgment shall not be given and awarded against any Female or Females convicted of any Offence, that such Female Offender or Offenders do suffer the Punishment of being publicly whipped; and that in all Cases where the Punishment of public Whipping on Female Offenders has hitherto formed the Whole or Part of the Judgment to be pronounced, it shall and may be lawful for the Court before whom any such Offender shall be tried, to pass such Sentence of Confinement to hard Labour in the Common Gaol or House of Correction, in lieu of the Sentence of being publicly whipped, as to the said Court shall seem most proper; provided that nothing herein contained shall extend, or be construed to extend, in any manner to change, alter or affect any Punishment whatsoever, which may then be by Law inflicted in respect of any Offence, except only
+
 ---
+
 J«" GEO. IV. C..57,58.
 
 205
@@ -6376,33 +6328,15 @@ Paper, Sheathing Paper, Pasteboard and Scaleboard respectively, ^ * as soon as s
 
 C. 58.
 
-1° GEO. IV.
-
-AJD. 1820.
+1° GEO. IV. A.D. 1820.
 
 (which such Officer and Officers are hereby respectively authorised and empowered to do,) be found to weigh under or over the Weight so marieed, written or printed on such Ream or Parcel by such Maker or Makers as aforesaid, in the Proportion of Five per Centum, if the Weight of the Ream or Parcel exceed Twenty Pounds, or Ten per Centum if such Weight be Twenty Pounds or of less Weight, the same shall be forfeited, and shall and may be seized by any Officer or Officers of Excise; and the Maker or Makers of such Paper, Millboard, Button Board, Button Paper, Glazed Paper, Sheathing Paper, Pasteboard or Scaleboard, shall Penaltj. for every such Offence forfeit and lose the Sum of One hundred
 
 Pounds, in respect of every such Ream or Parcel respectively.
 
-4 VI. And Whereas it is by the said recited Act enacted, that 4 all and every Maker and Makers of Paper, Millboard, Button 4 Board, Button Paper, Glazed Paper, Sheathing Paper or Pasteboard, shall, as soon as any Paper, Millboard, Button Board, 4 Button Paper, Glazed Paper, Sheathing Paper or Pasteboard 4 has been made and tied up as is by Law in that Behalf directed, and before it is produced to the proper Officer of Excise to be 4 weighed and stamped to denote the Charge of Duty, firmly and 4 permanently fix or cause to be fixed with warm Paste made of 4 Glue, Flour and Water only, a Label made of a certain Kind of 4 Paper, called Tissue Paper,.of at least Four Inches square, and 4 of a different Colour from the Cover or Wrapper of the Ream,
++VI. And Whereas it is by the said recited Act enacted, that all and every Maker and Makers of Paper, Millboard, Button Board, Button Paper, Glazed Paper, Sheathing Paper or Pasteboard, shall, as soon as any Paper, Millboard, Button Board, Button Paper, Glazed Paper, Sheathing Paper or Pasteboard has been made and tied up as is by Law in that Behalf directed, and before it is produced to the proper Officer of Excise to be weighed and stamped to denote the Charge of Duty, firmly and permanently fix or cause to be fixed with warm Paste made of Glue, Flour and Water only, a Label made of a certain Kind of Paper, called Tissue Paper,.of at least Four Inches square, and of a different Colour from the Cover or Wrapper of the Ream, to and upon one of the Sides of the Cover or Wrapper of each and every Ream of Paper, and over the Knot formed by tying together the Two Ends of the String thereof, and shall firmly and permanently fix or cause to be fixed as aforesaid, on each and every Parcel of Millboard, Button Board, Button Paper, Glazed Paper, Sheathing Paper and Pasteboard, a Label made of the said Paper called Tissue Paper aforesaid, of at least Nine Inches square, over the Knot formed by tying together the Two Ends of the String thereof, and to and upon another larger Piece of Paper of a different Colour placed on the Top or Bottom of such Parcel, and beneath such Knot, and between the String and outer Sheet of such Parcel of Millboard, Button Board, Button Paper, Glazed Paper, Sheathing Paper or Pasteboard respectively, and shall write or print, or cause to be written or printed on each and every such Labels respectively, in distinct and legible Characters, immediately after the same has been so affixed as aforesaid, and has become perfectly dry, the progressive Number of the Ream or Parcel, and in Words at Length, the Class or Denomination, and Sort or Kind of the Paper, Millboard, Button Board, Button Paper, Glazed Paper, Sheathing Paper or Pasteboard, and if the Paper has been so divided as aforesaid, the Number of Pieces into which the original Sheet shall have been divided as aforesaid, and the Weight of such Ream or Parcel as aforesaid; and shall also write, print or mark thereon the Number or Letter by which the Mill at which such Paper, Millboard, Button Board, Button Paper, Glazed Paper, Sheathing Paper or Pasteboard has been manufactured, shall be distinguished by the Book or Paper delivered to such Maker or Makers, and then in use as hereinbefore mentioned; and on which Label when perfectly dry, but not before, shall
 
-4 to and upon one of the Sides of the Cover or Wrapper of each and every Ream of Paper, and over the Knot formed by tying 4 together the Two Ends of the String thereof, and shall firmly and permanently fix or cause to be fixed as aforesaid, on each and every Parcel of Millboard, Button Board, Button Paper,
-
-4 Glazed Paper, Sheathing Paper and Pasteboard, a Label made 4 of the said Paper called Tissue Paper aforesaid, of at least Nine 4 Inches square, over the Knot formed by tying together the Two 4 Ends of the String thereof, and to and upon another larger Piece 4 of Paper of a different Colour placed on the Top or Bottom of 4 such Parcel, and beneath such Knot, and between the String and outer Sheet of such Parcel of Millboard, Button Board,
-
-4 Button Paper, Glazed Paper, Sheathing Paper or Pasteboard 4 respectively, and shall write or print, or cause to be written or 4 printed on each and every such Labels respectively, in distinct and legible Characters, immediately after the same has been so 4 affixed as aforesaid, and has become perfectly dry, the progressive Number of the Ream or Parcel, and in Words at Length,
-
-4 the Class or Denomination, and Sort or Kind of the Paper, Millboard, Button Board, Button Paper, Glazed Paper, Shettthing 4 Paper or Pasteboard, and if the Paper has been so divided as 4 aforesaid, the Number of Pieces into which the original Sheet 4 shall have been divided as aforesaid, and the Weight of such 4 Ream or Parcel as aforesaid; and shall also write, print or 4 mark thereon the Number or Letter by which the Mill at which 4 such Paper, Millboard, Button Board, Button Paper, Glazed 4 Paper, Sheathing Paper or Pasteboard has been manufactured,
-
-4 shall be distinguished by the Book or Paper delivered to such 4 Maker or Makers, and then in use as hereinbefore mentioned;
-
-and on which Label when perfectly dry, but not before, shall
-
-4 also
-
-A. D. 1820. 1° GEO. IV. C. 58.
-
-211
+A. D. 1820. 1° GEO. IV. C. 58. 211
 
 also be Impressed by the Officer after he has weighed such Paper,
 
@@ -6413,8 +6347,6 @@ Glazed Paper, Sheathing Paper, Pasteboard or Scaleboard, in any Wrapper or Wrapp
 Glue, or Paste or Glue, on One of such Wrappers, One of such shall be on the Labels as aforesaid, and shall press the same so that such Label Top, with the shall be firmly and permanently fixed, united and dried thereon End thereof and thereto; and that every such Maker as aforesaid shall tie up fi* receiving the every Ream of Paper and Parcel of Millboard, Button Board, the1Deprture Button Paper, Glazed Paper, Sheathing Paper, Pasteboard and Stamponthe Scaleboard respectively, in a Wrapper or in Wrappers, on or to Side.
 
 One of which Wrappers such Label shall be firmly and permanently fixed, united and dried as aforesaid; and which Label, when such Ream and Parcel respectively is so tied up as aforesaid, shall be on the Top of every such Ream and Parcel, with the End ( thereof, for receiving the Impression of the Departure Stamp hereinafter mentioned, on the Side of such Wrapper, or such Label
-
-P 2 shall
 
 212
 
@@ -6436,7 +6368,7 @@ shall be affixed on such other Part of such Wrapper as the Commissioners of Exci
 
 A.D. 1820.
 
-1° GE0. IV.
+1° GEO. IV.
 
 C.58.
 
@@ -6474,7 +6406,7 @@ Offence
 
 215
 
-A.D. 1820. 1° GE0. IV. C.5d.
+A.D. 1820. 1° GEO. IV. C.5d.
 
 Offence lose the Sum of Two hundred Pounds in respect of every such Ream and Parcel respectively.
 
@@ -6490,9 +6422,7 @@ Pasteboard and Scaleboard respectively, separate and apart from *°
 
 each other, and from all other Paper, Millboard, Button Board, who shall take Button Paper, Glazed Paper, Sheathing Paper, Pasteboard and an Account Scaleboard; and shall, on the next succeeding Visit or Survey of thereof; his or her surveying Officer of Excise, give such Officer Notice in Writing thereof, specifying in such Notice the progressive Number and Weight of each such Ream or Parcel, the Number of the Mill or Manufactory where made, the Date of Charge, the Date of the Departure Stamp (if any), and the Person from whom and Place from whence and Day when received by such Maker; and shall, upon such Visit or Survey, produce to such Officer all such Paper,
 
-Millboard, Button Board, Button Paper, Glazed Paper, Sheathing
-
-Paper, Pasteboard and Scaleboard respectively, and assist such
+Millboard, Button Board, Button Paper, Glazed Paper, Sheathing Paper, Pasteboard and Scaleboard respectively, and assist such
 
 Officer in taking a true and particular Account thereof; and every *nd on being
 
@@ -6502,15 +6432,7 @@ or deliver from his or her Mill or Manufactory any such Paper,
 
 Millboard, Button Board, Button Paper, Glazed Paper, Sheathing affixed*
 
-Paper, Pasteboard or Scaleboard, write or print on the Label of the
-
-Wrapper or Cover thereof, the distinguishing Number of his or her
-
-Mill or Manufactory, and put and fix as hereinbefore directed such
-
-Impressions of the Departure Stamp as are hereinbefore directed
-
-in respect of Paper made at such Mill and sent out as aforesaid;
+Paper, Pasteboard or Scaleboard, write or print on the Label of the Wrapper or Cover thereof, the distinguishing Number of his or her Mill or Manufactory, and put and fix as hereinbefore directed such Impressions of the Departure Stamp as are hereinbefore directed in respect of Paper made at such Mill and sent out as aforesaid;
 
 and if any such Maker as aforesaid shall neglect to give such The wid Di-
 
@@ -6526,7 +6448,7 @@ P 4 Paper,
 
 C.58.
 
-1° GE0. IV.
+1° GEO. IV.
 
 A.D. 1820.
 
@@ -6546,11 +6468,7 @@ Paper, Pasteboard or Scaleboard as aforesaid to such Officer, or to assist such 
 
 X. And be it further enacted, That this Act, and the several Provisions and Directions thereof, shall be in force and applied, and shall be observed and executed to and in respect of all the uncharged Stock of Paper, Millboard, Button Board, Button Paper, Glazed Paper, Sheathing Paper, Pasteboard and Scaleboard respectively, which shall be in the Possession of any such Maker as aforesaid on the said Fifth Day of January One thousand eight hundred and twenty one; and that every such Maker as aforesaid shall, on the Wrapper or Cover of every Ream or Parcel thereof respectively, put, place and affix as aforesaid such Label as aforesaid, with such Names, Numbers, Matters and Things thereupon written or printed as hereinbefore directed; and that the proper Officer and Officers of Excise, on the said Fifth Day of January One thousand eight hundred and twenty one, or as soon after as conveniently may be, shall examine and take a true and particular Account of all such uncharged Stock of Paper, Millboard, Button Board, Button Paper, Glazed Paper, Sheathing Paper, Pasteboard or Scaleboard, in the Possession of every such Maker as aforesaid; and that every such Maker as aforesaid shall, upon every Ream of Paper, and Parcel of Millboard, Button Board, Button Paper, Glazed Paper, Sheathing Paper, Pasteboard or Scaleboard, charged with Duty before the said Fifth Day of January One thousand eight hundred and twenty one, but which shall not be sent out from the Mill or Stock of such Maker as aforesaid before that Day, put and fix as aforesaid such Impressions of the Departure Stamp as aforesaid on the Label and Wrappers or Covers of every such Ream and Parcel respectively, as are hereinbefore directed; and if any such Maker as aforesaid shall refuse or neglect to put, place and affix as aforesaid such Label as aforesaid on every such Ream and Parcel respectively of uncharged Paper, Millboard, Button Board, Button Paper, Glazed Paper, Sheathing Paper, Pasteboard or Scaleboard, as shall be in the Possession of such Maker on the said Fifth Day of January One thousand eight hundred and twenty one, or shall not, upon the Request of such Officer as aforesaid, produce the same to be examined and taken Account of by him, or shall not, by himself or herself, or by a sufficient Number of his, her or their Servants or Workmen, give such Aid or Assistance to such Officer as he may require for taking such Account, or shall in any respect obstruct,
 
-hinder
-
-1° GEO. IV. C. 58.
-
-217
+1° GEO. IV. C. 58. 217
 
 hinder or deceive him therein, or shall refuse or neglect on every Ream of Paper, or Parcel of Millboard, Button Board, Button Paper, Glazed Paper, Sheathing Paper, Pasteboard or Scaleboard, which shall have been charged with Duty before the said Fifth Day of January One thousand eight hundred and twenty one, and shall not be sent out from the Mill or Stock of such Maker before that Day, put and fix as aforesaid such Impressions of the Departure Stamp as aforesaid, every such Maker shall, for every such Offence, forfeit and lose the Sum of Two hundred Pounds for Paper forfeited, every such Ream and Parcel respectively in respect whereof the and Penalty. Provisions and Directions of this Act shall not be complied with as aforesaid, and every such Ream and Parcel respectively shall be forfeited, and shall and may be seized by any Officer or Officers of Excise.
 
@@ -6564,11 +6482,9 @@ Glazed Paper, Sheathing Paper, Pasteboard or Scaleboard, and other Person and Pe
 
 Stamps and Impressions respectively, without separating, detaching or taking such Label from off such Cover or Wrapper; nor Makers not to shall any Maker or Makers of Paper, Millboard, Button Board, «eivesuch Button Paper, Glazed Paper, Sheathing Paper, Pasteboard or Scale- ^PP61* board, receive, or cause, procure, permit or suffer to be received, restored, returned, re-delivered or sent to him, her or them, or to be kept or deposited at any Mill, Workhouse, Storehouse, Room or other Place to him, her or them belonging, or at any other Place, to or for his, her or their Use, any Wrapper, Cover or Label which has been before used as a Wrapper, Cover or Label to any Quantity of Paper, Millboard, Button Board, Button Paper, Glazed Paper, Sheathing Paper, Pasteboard or Scaleboard, or in or with which any Paper, Millboard, Button Board, Button Paper, Glazed
 
-Paper,
+1° GEO. IV.
 
-1° GE0. IV.
-
-AD. 1820.
+A.D. 1820.
 
 Penalty.
 
@@ -6608,7 +6524,7 @@ or any'Pasteboard, Millboard, Scaleboard or Glazed Paper,
 
 A.D. 1820.
 
-1° GE0. IV.
+1° GEO. IV.
 
 C.58.
 
@@ -8284,7 +8200,7 @@ Commissioners under 57 G. 3. c. 24. § 4. with Consent of Treasury, may agree wi
 
 C.71.
 
-1° GE0. IV.
+1° GEO. IV.
 
 A.D. 1820.
 
@@ -8640,9 +8556,7 @@ distinguishing the said respective Duties ;v Be it further enacted That in all s
 
 VIII. And be it further enacted, That where by Absence, Sickness or other reasonable Cause, Persons who have given Notice to compound under the said recited Act passed in the Fifty ninth Tear aforesaid, may have been prevented from signing their respective Contracts of Composition, but have paid or discharged one or more Instalment or Instalments due thereon, it shall be lawful for him, her or them to sign such Contract or Contracts himself or herself, or by any Agent or Agents to be appointed for that Purpose by him or her, in Writing under his or her Hand, duly attested and certified to the Commissioners acting for the District in which such Composition shall be made; and the Appointment or Authority for such Agent to wgn the said Contract shall be free of any Stamp Duty, and the same being delivered to the Commissioners of the said last-mentioned District or their Clerk, shall be a sufficient Authority for the Agent so appointed to sign such Certificate of Contract; and all Contracts on which any Instalment shall.be paid, although not signed by the Party or his or her Agent, shall be binding on him or her, as if the same had been duly signed under the Provisions of the said Act; and in all cases where Certificates of Composition prepared on Notices by the Parties compounding under the said recited Act or this Act
 
-shall
-
-A.D. 1320.
+A.D. 1820.
 
 l^ GEO. IV. C. 73.
 
@@ -8690,13 +8604,7 @@ Third Case. — Every Person who hath entered or shall enter into Composition fo
 
 First Rule. — The Amount of Composition payable in pursuance of the Provisions in the first of the said Cases shall be ascertained and settled by Two of the Commissioners acting for the Assessed Taxes in the same District in which the Composition shall have been made, and certified by them under their Hands
 
-by
-
-A.D. 1820.
-
-1° GEO. IV. C. 73.
-
-293
+A.D. 1820. 1° GEO. IV. C. 73. 293
 
 by Endorsement on the Certificate or Contract of such Composition, on the Production thereof, and of the Certificate of effective Service, as provided by the said Acts relating to the Assessed Taxefe, and which Certificate the said Commissioners for their respective Districts are hereby required and authorised to endorse and sign accordingly; and the Sum so charged and added to the 'Amount of the said Composition in and by such Certificate, and to the Abstract thereof, snail and may be levied and recovered by the same Instalments and in like manner as the Amount of Composition inserted in the Body of the said Contract, and in addition thereto.
 
@@ -8828,7 +8736,7 @@ VII. And be it further enacted, That from and after the said Tenth Day of Novemb
 
 making
 
-Gallon* per: Cent, from Wash at 65; . Like Charge on all Excess of 8pirits beyond these Propor- dons.
+Gallon* per: Cent, from Wash at 65; . Like Charge on all Excess of Spirits beyond these Propor- dons.
 
 Gravity of Wort to be made by Distillers respectively.
 
@@ -9024,7 +8932,7 @@ sive of the Head, One hundred and twenty Gallons English cf 120 Gallons Wine Mea
 
 and bona fide used for the rectifying of British Spirits for Sale by such Person or Persons; and any Person who shall carry on the Business of a Rectifier or Compounder of Spirits contrary to the Directions of this Act, shall be subject and liable to and shall incur all the Penalties and Forfeitures by this Act inflicted on Penalties. Persons using or working any unlicensed Still.
 
-XXVL And be it further enacted, That if any Rectifier or Rectifiers, Ac. Compounder of Spirits in Scotland, shall have in his, her or their having in tbeir Custody or Possession, any Wort, Wash, Tilts or other fermented Custody Wort, Liquor capable of being distilled into Low Wines or Spirits, or ^ewlme into"* shall distil or extract any Low Wines or Spirits from Wort, Wash, low wines or Tilts, Com, Molasses, Sugar, Cyder, Refused Wines, or other Spirits, or re-fermented Liquor, or shall be in Possession of any such Materials ceiving Spirits prepared or fit for the Purpose of being distilled into Low Wines ^,tho"t a leSal or Spirits, or shall have in his Custody or Possession any Spirits erm,t» whatsoever without having received a legal Permit with the same; every such Rectifier or Compounder of Spirits shall (over and besides all other Penalties and Forfeitures) forfeit and lose for every such Offence the Sum of Five hundred Pounds, or the Sum Penalty 5001. or of Twenty Shillings for each and every Gallon of such Wort, 20#. per Gallon. Wash or other fermented Liquor fit for the Purpose of being distilled into Low Wines or Spirits, or of such Low Wines or Spirits so distilled as aforesaid, or of such Spirits received without being accompanied with a true and legal Permit, as the Case may be, at the Election of the Advocate General of Scotland, or of any other Person who shall sue or prosecute for such Penalty; and Second Of-the Licence of every Rectifier or Compounder of Spirits, who shall fence, Forfeit-be a Second Time convicted of any of the Offences aforesaid, ure of Licence, shall, upon such Second Conviction, be deemed void to all Intents and Purposes; and such Rectifier or Compounder shall not
+XXVI. And be it further enacted, That if any Rectifier or Rectifiers, Ac. Compounder of Spirits in Scotland, shall have in his, her or their having in tbeir Custody or Possession, any Wort, Wash, Tilts or other fermented Custody Wort, Liquor capable of being distilled into Low Wines or Spirits, or ^ewlme into"* shall distil or extract any Low Wines or Spirits from Wort, Wash, low wines or Tilts, Com, Molasses, Sugar, Cyder, Refused Wines, or other Spirits, or re-fermented Liquor, or shall be in Possession of any such Materials ceiving Spirits prepared or fit for the Purpose of being distilled into Low Wines ^,tho"t a leSal or Spirits, or shall have in his Custody or Possession any Spirits erm,t» whatsoever without having received a legal Permit with the same; every such Rectifier or Compounder of Spirits shall (over and besides all other Penalties and Forfeitures) forfeit and lose for every such Offence the Sum of Five hundred Pounds, or the Sum Penalty 5001. or of Twenty Shillings for each and every Gallon of such Wort, 20#. per Gallon. Wash or other fermented Liquor fit for the Purpose of being distilled into Low Wines or Spirits, or of such Low Wines or Spirits so distilled as aforesaid, or of such Spirits received without being accompanied with a true and legal Permit, as the Case may be, at the Election of the Advocate General of Scotland, or of any other Person who shall sue or prosecute for such Penalty; and Second Of-the Licence of every Rectifier or Compounder of Spirits, who shall fence, Forfeit-be a Second Time convicted of any of the Offences aforesaid, ure of Licence, shall, upon such Second Conviction, be deemed void to all Intents and Purposes; and such Rectifier or Compounder shall not
 
 C. 74.
 
@@ -9052,8 +8960,6 @@ XXVIII. And be it further enacted, That before any Distiller, Rectifier, or Comp
 
 XXIX. And for the more effectually preventing the receiving or buying, by any Person whomsoever, of British made Spirits, from Persons privately distilling the same without Licence, be it further enacted, That if any Distiller, Rectifier or Compounder of Spirits, or any other Person whosoever, in any Part of Scotland, shall receive or buy, or shall procure or employ any Person to receive or buy, any British made Spirits from any Person or Persons whomsoever, except from some Distiller, Rectifier or Compounder of Spirits, whose Name shall be painted over the outward Door of his Stillhouse, Storehouse, Warehouse, Shop, Cellar, Vault or other Place, in manner required and directed by this Act; or from some licensed Dealer in or Retailer of British made Spirits, or at some public Sgle of British made Spirits, condemned and sold under the Direction of the Commissioners of Excise or Customs; every such Person so offending shall for every such Offence forfeit and lose the Sum of Five hundred Pounds.
 
-XXX. And
-
 A .D. 1820. 1° GEO. IV. C. 74.
 
 307
@@ -9068,7 +8974,7 @@ XXXI. And be it further enacted, That if any Person or Persons not Persons not b
 
 forfeit and lose the Sum of Two hundred Pounds, and shall also be subject to the several Penalties and Forfeitures to which Penalty soot Persons distilling, rectifying or compounding Spirituous Liquors, &Ca without being licensed and making Entry, are by this Act subjected unto.
 
-XXXn. And be it further enacted, That the several and Wort, Ac. to be respective Duties granted by this Act on Wort, Wash and Spi-rits, shall be charged by the Officers of Excise according to the and
+XXXn. And be it further enacted, That the several and Wort, Ac. to be respective Duties granted by this Act on Wort, Wash and Spirits, shall be charged by the Officers of Excise according to the and
 
 Gauge or Gauges taken by them in the different and respective Casks, Ac. to entered Backs, Casks or other Vessels, and that the Contents of be to gauged, all Backs, Casks or other Vessels for containing, keeping or holding of Wort, Wash or other Liquor for Distillation, and of Low Wines, Feints and Spirits of any Kind or Sort whatsoever, shall be taken and calculated according to English Wine Measure.
 
@@ -9076,7 +8982,7 @@ XXXIII. And, to remove all Doubts respecting the Denomi- Denominations nation of
 
 Wort or Wash shall be deemed and taken to be Low Wines Low Wines.
 
-within the Meaning of this Act; and that all pure Spirits of the Second Extraction, or which shall have been once distilled from Low Wines, shall be deemed and taken to be raw British Spirits 
+within the Meaning of this Act; and that all pure Spirits of the Second Extraction, or which shall have been once distilled from Low Wines, shall be deemed and taken to be raw British Spirits
 
 British Spirits.
 
@@ -9090,11 +8996,7 @@ British Brandy.
 
 this Act; and that all pure Spirits of the Thirck Extraction, or
 
-which shall have been twice distilled from Low Wines, and shall
-
-not have had any Flavour communicated thereto, and all Liquors'
-
-whatsoever which shall be mixed or mingled with any such
+which shall have been twice distilled from Low Wines, and shall not have had any Flavour communicated thereto, and all Liquors whatsoever which shall be mixed or mingled with any such
 
 Spirits, shall be deemed and taken to be rectified British Spirit* Ractified Bri.
 
@@ -9124,15 +9026,13 @@ XXXIV. And be it further enacted, That if any Distiller or Distillers licensed u
 
 XXXV. And be it further enacted, That during such Time as the Distilliation of Spirits from Com or Grain shall not be prohibited by Law in Scotland, no Low Wines or Spirits shall be made, extracted or distilled in Scotland from Sugar or Molasses, or any Mixture with the same, or either of them, or from any Honey, or from any Refused Wine, Cyder, Perry or any other Ingredients whatever, other than and except Cora malted or unmalted; and that if any Distiller licensed under this Act shall make use of any Refused Wine, Cyder or Perry, Molasses, Sugar, Sugar Wash, Honey, or any Composition or Extract of Sugar, in brewing, making or preparing Wash for Distillation, or in making or extracting Low Wines or Spirits, or if any such Distiller shall referment and redistil Wash commonly called Spent Wash, after the same has been through the Still, or shall distil any kind of fermented Liquor whatsoever, other than and except the Wash prepared or made from Com or Grain within the Distillery of such Distiller; dr if any Quantity of Refused Wine, Cyder or Perry, Molasses, Sugar or Honey, or any Sugar Wash or Composition or Extract of Sugar, or any kind of fermented Liquor not prepared or made from Com or Grain in the Distillery of such Distiller, shall be conveyed or received into or be found in the Distillery of such Distiller, the same, together with the Casks or other Packages in which the same shall be contained, and the
 
-Carts
-
-1° GEO. iv;
+1° GEO. IV.
 
 C. 74.
 
 309
 
-Cart* and other Carriages, and Horses or Cattle used for conveying the same, shall be respectively forfeited, and shall and may be seized by any Officer or Officers of Excise, and every such Distiller or Distillers shall, for each and every such Offence, Penalty, Por-forfeit and lose the Sum of Two hundred Pounds; and every feilure Servant of such Distiller, and every Person^ who shall be aiding 200* and assisting in the using any such Refused Wine, Cyder or Assisting Perry, or other fermented Liquor, or any Molasses, Sugar or therein,
+Carts and other Carriages, and Horses or Cattle used for conveying the same, shall be respectively forfeited, and shall and may be seized by any Officer or Officers of Excise, and every such Distiller or Distillers shall, for each and every such Offence, Penalty, Por-forfeit and lose the Sum of Two hundred Pounds; and every feilure Servant of such Distiller, and every Person^ who shall be aiding 200* and assisting in the using any such Refused Wine, Cyder or Assisting Perry, or other fermented Liquor, or any Molasses, Sugar or therein,
 
 Honey, or any Sugar Wash or Composition or Extract of Sugar, 20L
 
@@ -9142,7 +9042,7 @@ XXXVI. And be it further enacted, That the Officer of Ex- Officers to maka oise 
 
 of such Distiller, and also of all the Spirits made and distilled in such Distillery and taken account of by such Officer during such Week, and of the several Duties chargeable and charged on such Wash and Spirits respectively in each and every such Week,
 
-which Return or Voucher shall be a Charge upon the DistiHer;
+which Return or Voucher shall be a Charge upon the Distiller;
 
 and the Officer of Excise shall, within Three Days after the- End Officers to
 
@@ -9160,7 +9060,7 @@ XXXVII. And be it further enacted, That such Return or Distiller to Voucher of s
 
 the Wash so distilled or decreased, and the Spirits so made and distilled, on some Market Day within Fourteen Days after the last Day of the Week for which such Return shall be made and such Duty charged, or shall for every Default forfeit a Sum equal to Double the Duty so returned and charged.
 
-XXXVIII. And be it farther enacted, That every DistiHer Distiller, &c. to licensed under this Act shall, under the proper Hand of such Entry Distiller, or under the Hand of the Brewer or Chief Workman of
+XXXVIII. And be it farther enacted, That every Distiller Distiller, &c. to licensed under this Act shall, under the proper Hand of such Entry Distiller, or under the Hand of the Brewer or Chief Workman of
 
 such Distiller, or of 6ome Person for whom such Distiller shall be true Quantity of responsible, make a true and particular Entry or Return in Writ- Wash distilled ing, declaring to the Truth thereof before the proper Supervisor and Spirits of the District, of the* Quantity of the Wort or Wash which shall in *1* have been decreased from the Wash Backs or distilled in the Dis- Wec'k* tillery of such Distiller into^Low Wines or Spirits, in every Week ending on the Saturday during the Continuance of the Licence of such Distiller, and of the Quantity of Spirits, calculated at thfe Strength of Seven per Centum above Proof, which shall have been made or distilled in the Distillery of such Distiller within . . X 3 such
 
@@ -9524,9 +9424,9 @@ A.D. 1820. 1° GEO. IV. C. 74. 327
 
 or place any Charge Cock or Discharge Cock to any Still or Stills, or to any other entered Backs, Vessels or Utensils, of any other Construction or Make than that hereinbefore mentioned; or shall in any respect offend in any of the Matters or Things aforesaid; then and in every such Case every such Distiller, Rectifier or , Compounder shall for each Offence respectively forfeit and lose Penalty 100I. the Sum of One hundred Pounds*
 
-[Distiller*, Ac. 
+[Distiller*, Ac.
 
-LXX11I. And be it further enacted, That whenever any Distiller, Rectifier or Compounder of Spirits, licensed under this Act, to 1PJ Notice shall be desirous to have the Furnace Door of any Still or Stills ^Fur in the Distillery of such Distiller, Rectifier or Compounder un- nacTDoow of" locked, and to have a Fire lighted under such Still or Stills, such Stills opened, Distiller, Rectifier or Compounder shall give, or cause to be given, and of lighting to the proper Officer of Excise* under whose Survey such Distiller, * *re un" Rectifier or Compounder shall then be, a Notice in Writing at dtfr lhc *ame* least Twelve Hours before the particular Time and Hour of the Day or Night when such Distiller, Rectifier or Compounder is desirous to have such Fire lighted; and in case any such Distiller,
+LXXIII. And be it further enacted, That whenever any Distiller, Rectifier or Compounder of Spirits, licensed under this Act, to 1PJ Notice shall be desirous to have the Furnace Door of any Still or Stills ^Fur in the Distillery of such Distiller, Rectifier or Compounder un- nacTDoow of" locked, and to have a Fire lighted under such Still or Stills, such Stills opened, Distiller, Rectifier or Compounder shall give, or cause to be given, and of lighting to the proper Officer of Excise* under whose Survey such Distiller, * *re un" Rectifier or Compounder shall then be, a Notice in Writing at dtfr lhc *ame* least Twelve Hours before the particular Time and Hour of the Day or Night when such Distiller, Rectifier or Compounder is desirous to have such Fire lighted; and in case any such Distiller,
 
 Rectifier or Compounder shall not have a Fire lignted under such Still or Stills at the Time and Hour mentioned in such Notice, or within Two Hours next after the Expiration of such Time and Hour, then every such Notice shall be and is hereby declared null and void; and every such Distiller, Rectifier or Compounder shall be obliged to give another like Notice in Writing before the Officer shall be bound to open the Furnace Door of any such Still or Stills as aforesaid.
 
@@ -9838,7 +9738,7 @@ CIV. And, to the Intent that the Officers of Excise may the more conveniently ex
 
 CV. And be it further enacted, That all and every the Stills, Vessels and Utensils, and also all Materials for Distillation, and all Spirits in the Custody or Possession of any Distiller licensed under this Act, or in the Custody or Possession of any Person or Persons to the Use of or in Trust for such Distiller, and all and every the Stills, Vessels and Utensils used by such Distiller, into whose Hands soever such Stills, Vessels or Utensils shall pass or come, and by what Conveyance or Title soever the same may be claimed, shall be subject and liable to, and the same are hereby made subject and liable to, and chargeable with all Duties of Excise in Arrear and owing by such Distiller, for or in respect of any Wort, Wash or Spirits respectively made, prepared or distilled in the Distillery of such Distiller, and shall also be subject to all Fines, Penalties and Forfeitures incurred by such Distiller for any Offence against the Provisions of this Act; and it shall and may
 
-AD. 1820. 1° GEO. IV. C. 74. 343
+A.D. 1820. 1° GEO. IV. C. 74. 343
 
 be lawful in all such Cases to levy such Duties, Fines and Penalties, and to use such Proceedings as it may be lawful to do in case the Debtors or Offenders had been truly and really the Owners and Proprietors of the Stills, Vessels and Utensils.
 
@@ -11132,7 +11032,7 @@ C.84*85.
 
 War that Proof thereto to receive the same; provided it shall be certified by the has been given Secretary at War to such Distributing Agent aforesaid, or to the thmt 5*treasurer of Chelsea Hospital, that such Person has given satis-before the put- factory Proof that he did actually advance the Sum demanded, tag of the re- and that such Advance was made before the passing of the said cited Act. recited Act, if in any Part of the United Kingdom, or in Guernsey, Jersey or Isle of 'Man, or within Six Months after the passing of the said Act if in any other Country or Place; any thing in the said recited Act to the contrary notwithstanding.
 
-Payments may 
+Payments may
 
 II. And be it further enacted, That it shall be lawful for the bemadetoneit Commissioners of the Royal Hospital at Chelsea to authorise their e*wdi,n&C20,|Ot Treasurer or Deputy Treasurer to pay to any Person or Persons though Pro- ' wh° shall prove him, her or themselves, to the Satisfaction of such baief &c. not Commissioners, or of the said Treasurer or Deputy Treasurer, taken out. to be the next of Kin, or legal Representative, or otherwise legally entitled to any Share of Prize Money due to any deceased Commissioned or Warrant Officer of His IVfajesty's Land Forces, any such Share not exceeding Twenty Pounds, although such Person shall not have regularly taken out Letters of Administration, or have procured the Probate of any Will of such deceased Officer.
 
@@ -11226,7 +11126,7 @@ Greenwich Hospital, j
 
 THESE
 
-1° GE0. IV.
+1° GEO. IV.
 
 C.83,86.
 
@@ -11622,7 +11522,7 @@ t T» * i ir* _ ri_*n_! i _j
 
 C. 90, 91.
 
-said late Majesty extended, as hereinafter mentioned;* Be it therefore enacted by The King's Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the passing of Persons found this Act, when any Person or Persons shall be tried fbr any Ca- guilty of pital Crime or Offence committed upon the Sea, out of the Body clergyable of any County of this Realm, and within the Jurisdiction of the Admiralty, by virtue of any Commission directed under the said ^ir^BeiJfit of Act of the Twenty eighth Year of the Reign of King Henry the clergy as if Eighth, and shall be found guilty of any Crime or Offence which, committed on if committed in or upon the Land, would be clergyable, such Per- Land, son or Persons shall be entitled to receive the Benefit of Clergy in respect of such Crime or Offence, in like Manner, and shall be subject to the same Punishment for such clergyable Crime or Offence, as if he, she or they had committed such clergyable Crime or Offence in or upon the Land.
+said late Majesty extended, as hereinafter mentioned;* Be it therefore enacted by The King's Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the passing of Persons found this Act, when any Person or Persons shall be tried for any Ca- guilty of pital Crime or Offence committed upon the Sea, out of the Body clergyable of any County of this Realm, and within the Jurisdiction of the Admiralty, by virtue of any Commission directed under the said ^ir^BeiJfit of Act of the Twenty eighth Year of the Reign of King Henry the clergy as if Eighth, and shall be found guilty of any Crime or Offence which, committed on if committed in or upon the Land, would be clergyable, such Per- Land, son or Persons shall be entitled to receive the Benefit of Clergy in respect of such Crime or Offence, in like Manner, and shall be subject to the same Punishment for such clergyable Crime or Offence, as if he, she or they had committed such clergyable Crime or Offence in or upon the Land.
 
 II. And be it further enacted, That all and every the Crimes Offences under and Offences mentioned in the said Act of the Forty third Year of 43 G. 3. c. 58. the Reign of His said late Majesty, which, after the passing of this to Pro-Act, shall be committed upon the High Seas, out of the Body of ^J£ns of any County of this Realm, shall be and they are hereby declared to be Offences of the same Nature respectively, and to be liable to the same Punishments respectively as if they had been committed upon the Land in England or Ireland, and shall be enquired of, heard, tried and determined and adjudged, in the same Mannar as Treasons, Felonies, Murthers and Confederacies are directed to be by the said Act of the Twenty eighth Year of the Reign of King Henry the Eighth.
 
@@ -12190,7 +12090,7 @@ Remarks in Explanation of the Matters stated in Answer to the sereral Questions.
 
 2d Question.
 
-3d Question. — Annual Average Number of unentered Baptisms Burials-----Marriages. —
+3d Question. — Annual Average Number of unentered Baptisms Burials ----- Marriages. —
 
 (Here assign Reason of Non-entry.)
 
@@ -12976,7 +12876,7 @@ In case of Invasion, &c. Ilia Majesty may order Militia to be embodied.
 
 C. 100.
 
-1° GE0. IV.
+1° GEO. IV.
 
 A.D. 1820.
 
@@ -13278,15 +13178,9 @@ An Act for making general the Provisions of an Act made in the Forty sixth Year 
 
 [24th July 1820.]
 
-WHEREAS by an Act made in the Fifty-sixth Year of the Reign of His late Majesty King George the Third, intituled An Act for removing Difficulties in the Conviction of 4 Offenders stealing Property from Mines, it is among other things ' enacted, that it shall and may be lawful, and shall be deemed 4 sufficient to all Intents and Purposes whatsoever, for the Conviction of aBy Offender or Offenders charged in any Indictment
-
-with Grand or Petty Larceny, for or on account of stealing any 4 Minerals, Or any Timber, Iron or other Materials used in or for
-
-the working of Mines, being the personal Property of any 4 Company or Adventurers carrying on the same, to allege and 4 aver that the Minerals, Timber, Iron or other Materials so stolen,
+WHEREAS by an Act made in the Fifty-sixth Year of the Reign of His late Majesty King George the Third, intituled An Act for removing Difficulties in the Conviction of Offenders stealing Property from Mines, it is among other things enacted, that it shall and may be lawful, and shall be deemed sufficient to all Intents and Purposes whatsoever, for the Conviction of aBy Offender or Offenders charged in any Indictment with Grand or Petty Larceny, for or on account of stealing any Minerals, Or any Timber, Iron or other Materials used in or for the working of Mines, being the personal Property of any Company or Adventurers carrying on the same, to allege and aver that the Minerals, Timber, Iron or other Materials so stolen,
 
 4 are the Property of some one or more of the Partners or Adventurers in such Mining Concern, and others his or their 4 Partners or Adventurers, without naming such other Partners or 4 Adventurers: And Whereas the said Enactment has been found to facilitate the Conviction of Offenders, and to promote the due 4 Administration of Justice, without depriving Persons accused of 4 any fair Means of Defence:* Be it therefore enacted by The King's Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the passing of this Act, the Provisions of the
-
-said
 
 1° GEO. IV.
 
@@ -13326,8 +13220,6 @@ Fifty Shillings per Ton by this Act granted, no more than Twenty Bounty, and Shi
 
 of the British Herring Fishery, that the Fish was actually taken or bought by the said Vessel on the Voyage for which such Vessel claims such Bounty, and that such Fish was landed well cured, in sound merchantable Order, in some Port in Great Britain; in which Case, out of the remaining Thirty Shillings of such Bounty, the Owner or Master shall receive, for every Hundred Weight of well cured dried Cod Fish, Ling or Hake, Four Shillings only of such Bounty; and for every Barrel of Cod Fish, Ling or Hake, cured with Pickle, Two Shillings and Sixpence only of such Bounty as aforesaid: Provided irfways. that no greater Bounty shall be paid on any Vessel or Vessels than for Sixty Tons, let
 
-G g 4 her
-
 C. 103.
 
 1° GEO. IV.
@@ -13336,7 +13228,7 @@ A .1X1820.
 
 Limitation of Bounty and Tonnage.
 
-Bounty to Per* sons employed in curing Fish on the Coast,
+Bounty to Persons employed in curing Fish on the Coast,
 
 4s. for every Cwt. of Cod.
 
@@ -13457,7 +13349,9 @@ First recited Act continued for Two Years.
 51 G. 3. c.cxcir.
 
 Sum, or any Part thereof as aforesaid, or for the Refusal or Neglect to do any Act necessary to be done by such Officer or Officers respectively.
+
 ---
+
 CAP. CV.
 
 An Act to continue, for Two Years, an Act of the Fifty sixth Year of His late Majesty, for establishing Regulations respecting Aliens arriving in or resident in this Kingdom, in certain Cases.
@@ -13467,7 +13361,9 @@ An Act to continue, for Two Years, an Act of the Fifty sixth Year of His late Ma
 WHEREAS an Act was passed in the Fifty sixth Year of the Reign of His late Majesty King George the Third, intituled An Act for establishing Regulations respecting Aliens arriving in and resident in this Kingdom in certain Cases, for Two Years from the passing of this Act, and until the End of the Session of Parliament in which the said Two Years shall expire, if Parliament shall be then sitting: And Whereas the said Act has, by another Act passed in the Fifty eighth Year of the Reign of His said late Majesty, been further continued for the Term of Two Years, and until the End of the Session of Parliament in which that Term shall expire, if Parliament shall be then sitting: And Whereas the said Act hath been found beneficial, and it is expedient to continue the same for a further Time; Be it therefore enacted by The King's Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That the said first recited Act shall be and the same is hereby further continued in force from the Expiration thereof for the Term of Two Years.
 
 CAP. CVI.
+
 ---
+
 An Act to enable Chaplains in the Navy, presented to either of the Livings of Si monbum, Warlc, Bellingham, Thorney-Jrurn, Fallstone, or Grcystead, in the County of Northumberland, to receive their Half Pay; and for other Purposes relating to the said Livings.
 
 [24th July 1820.]
@@ -13728,7 +13624,7 @@ remaining in the Bank | and Ireland for belonging to the Public J 1820.
 
 A.D. 1820.
 
-1° GE0. IV.
+1° GEO. IV.
 
 C.111.
 
@@ -14008,13 +13904,13 @@ and Wounded Officers, to Retired General Officers and to Officers for good For t
 
 For Ditto, and not provided for by Parliament in the Year 1819.
 
-For Allowances, Compen-'' sations and Emoluments in the nature of Superannuated or Retired Allowances to Persons late belonging to the Office of I « v Ordnance in G. B. in re- ^ For the Year 182°* spect of their having held any Public Offices or Employments of a Civil Nature, and also for Widows* Pensions
+For Allowances, Compensations and Emoluments in the nature of Superannuated or Retired Allowances to Persons late belonging to the Office of I « v Ordnance in G. B. in re- ^ For the Year 182°* spect of their having held any Public Offices or Employments of a Civil Nature, and also for Widows* Pensions
 
 For Ditto, and not provided for by Parliament in the Year 1819.
 
 For Office of Ordnance in Ireland, for Pay of Retired Officers of the late Royal Irish Artillery and Engineers, and Pensions to Widows of deceased Officers of the same, in the Year 1820.
 
-For Allowances, Compen-" sations'and Emoluments in the nature of Superannuated or Retired Allowances to Persons late belonging to the Office of I For ^ y 182a Ordnance in Ireland, in respect of their having held any Public Office or Employments of a Civil Nature, and also for Widows' Pensions
+For Allowances, Compensations'and Emoluments in the nature of Superannuated or Retired Allowances to Persons late belonging to the Office of I For ^ y 182a Ordnance in Ireland, in respect of their having held any Public Office or Employments of a Civil Nature, and also for Widows' Pensions
 
 For discharging Exchequer Bills charged upon the Supplies of the Years 1818, 1819 and 1820, remaining unprovided for.
 
@@ -14080,7 +13976,7 @@ For the Year ending 1st February 1820.
 
 building C ^ To be paid without ary at< y f Fee or other De-
 
-- - (l820.J duCti0D*
+- - (1820.J duCti0D*
 
 For the Ditto
 
@@ -14608,8 +14504,6 @@ Which Oath any one of the said Commissioners, or any Person named in any Appoint
 
 V. And be it further enacted, That it shall and may be lawful for the Lord High Treasurer, or the Commissioners of His Majesty's Treasury, or any Three of them, for the time being, from time to time to nominate and appoint a Secretary to the said Commissioners; and it shall be lawful for the Commissioners for the Execution of this Act, and they are hereby authorised and empowered to nominate and appoint One or more Clerk or Clerks, and also from time to time to employ such Engineers, Surveyors and other Officers, and such Labourers, Workmen and Artificers, as the said Commissioners for the Execution of this Act, or any
 
-17 Three
-
 A. D. 18 20.
 
 1° GEO. IV. C.112.
@@ -14702,8 +14596,6 @@ XIII. Provided always, and be it enacted, That just Compensation shall be made t
 
 XIV. And be it further enacted, That if the Commissioners for the Execution of this Act cannot agree with the Owners or Occupiers of any Lands or Hereditaments required for the Purposes of this Act, or the Damage to be done to the same in the Execution thereof, as to the Value of such Lands, Houses or Hereditaments, or the Amount of such Damage; or vn case such Owners or Occupiers shall refuse to treat with the Commissioners for the Execution of this Act for the same, Application shall be made by the said Commissioners or their Secretary, to the Sheriff of the said County, to summon a Jury, in order to value the Grounds or Hereditaments so required, or to ascertain the Amount of such Damages; and the §aid Sheriff is hereby empowered and required upon such Application to order Notice to be given to the Owner or Owners, and Occupier or Occupiers of such Ground or Premises, and afterwards to issue a Summons in the usual Manner
 
-for
-
 A.D. 1820.
 
 1° GEO. IV.
@@ -14724,8 +14616,6 @@ XVI. And be it further enacted, That if any Money shall be How Purchase* agreed 
 
 Court of Session, with all convenient Speed, paid into the Bank of Scotland, Royal Bank of Scotland, or Bank of the British Linen
 
-Company,
-
 490
 
 C.112.
@@ -14737,8 +14627,6 @@ Where Purchase Money does not exceed 2001. but is more than 20l.
 Company, by the said Commissioners, to the Intent that such Money shall be applied under the Direction and with the Approbation of the said Court, sitting in either of the Divisions thereof^ to be signified by an Order made upon a Petition to be preferred in a summary Way by the Person or Persons who would have been entitled to the Kents and Profits of the said Lands, Tenements or Hereditaments, in the Purchase or Redemption of the Land Tax, or the Discharge of any Debt or Debts, or such other Incumbrance, or Part thereof, as the said Court shall authorise to be paid, affecting the same Lands, Tenements or Hereditaments, or affecting other Lands, Tenements or Hereditaments standing settled therewith to the same or the like Uses, Intents or Purposes; or where such Money shall not be so applied, then the same shall be laid out and invested, under the like Direction and Approbation, in the Purchase of other Lands, Tenements, or Hereditaments, which shall be conveyed and settled to, for, and upon such and the like Uses, Trusts, Intents and Purposes, and in the same Manner as the Lands, Tenements or Hereditaments, which shall be so purchased, taken or used as aforesaid, stood settled or limited, or such of them as at the Time of making such Conveyance and Settlement shall be existing, undetermined, and capable of taking effect; and in the meantime, and until such Purchase shall be made, the Interest or Annual Produce of such Money shall from time to time be paid, by Order of the said Court, to the Person or Persons who would for the time being have been entitled to the Rents and Profits of the Lands, Tenements and Hereditaments so hereby directed to be purchased, in case such Purchase or Settlement were made.
 
 XVII. Provided always, and be it further enacted, That if any* Money so agreed or awarded to be paid for any Lands, Tenements or Hereditaments so purchased, taken or used for the Purposes aforesaid, and belonging to any Incorporation, or to any Person or Persons under Disability or Incapacity as aforesaid, shall not exceed the Sum of Two hundred Pounds Sterling, and shall exceed the Sum of Twenty Pounds Sterling, then and in all such Cases the same shall, at the Option of the Person or Persons for the time being entitled to the Rents and Profits of the Lands, Tenements or Hereditaments so purchased, taken or used, or of his, her or their Tutors or Curators in case of Infancy or Lunacy, to be signified in Writing under their respective Hands, under the Direction and Authority of the Court of Session, sitting m either of its Divisions as aforesaid, be paid into the Bank of Scotland, the Royal Bank of Scotland, or British Linen Company, and be placed to the Account of the Person or Persons so entitled to the Rents and Profits of the said Lands, Tenements and Hereditaments, as aforesaid, in order to be applied in manner hereinbefore directed; or otherwise the same shall be paid at the like Option to Two Commissioners, to be nominated by the Person or Persons making such Option, and approved of by Three or more of the Commissioners for the Execution of this Act, (such Nomination and Approbation to be signified in Writing under the Hands of the nominating and approving Parties), in order that such principal Money, and the Interest arising therefrom, may be applied in any manner hereinbefore directed, so far as the Case be applicable.
-
-XVIII. Pro-
 
 A.D. 1820. 1° GEO. IV.
 
@@ -14781,8 +14669,6 @@ XXI. Provided always, and be it further enacted, That where by reason of any Dis
 XXII. And be it further enacted, That it shall and may be lawful to and for the Commissioners for the Execution of this Act, by and with the Advice and Consent after mentioned, to contract for the granting, leasing, selling or disposing of, and to grant, lease, sell and dispose of any Part of any Lands, Tenements and Hereditaments, which shall or may from time to time be purchased under this Act, and which shall or may not be necessary for the Purposes thereof: Provided always, that every Contract, and every Lease or Sale of any such Lanas, Tenements and Hereditaments, or any Part of them, shall receive the separate Approbation and Consent of the Lord High Treasurer, or the Commissioners of His Majesty's Treasury for the time being, or any Three of them, and shall be made after Public Notice given of such intended Contract, Lease or Sale, in such Manner, and under such Regulations, as the Lord High Treasurer or the Commissioners of His Majesty's Treasury shall from time to time order and direct; and all Monies arising from the Sale thereof, and all the Monies arising from the Produce of the Rent of such Lands, Tenements and Hereditaments, shall be and the same are hereby vested in the Commissioners for executing this Act, and shall be applied by them for and towards the Purposes of this Act.
 
 XXIII. And be it further enacted, That it shall and may be lawful for the Commissioners for the Purposes of this Act, by any Writing under the Hands of them or any Four of them, from time to time to authorise and empower their Secretary for the time being to do any special Act, Matter or Thing, which such Commissioners are by this Act authorised to do; and every Act, Matter or Thing done by such Secretary in the Execution of such Power and Authority, shall be as good and valid to all Intents and Purposes, as if the same were done by such Commissioners.
-
-XXIV. And
 
 A.D. 1820. 1° GEO. IV. C.112.
 
@@ -14844,7 +14730,7 @@ Part thereof as described iit this Act, then and in every such Case such Person 
 
 XXVIII. And be it further enacted, That if any Person shall wilfully obstruct, molest or hinder any Surveyor, Engineer, Workmen or Labourers employed by the Commissioners for the Execution of this Act, or their Secretary for the Purposes of this Act, in the Performance of his, her or their Duty or Employment in the Execution of this Act, every Person so offending shall forfeit and pay for every such Offence any Sum not exceeding Ten Pounds.
 
-aXIX. And be it further enacted, That if any Person shall wilfully, and to the Prejudice of the said Harbour, break, throw down, destroy, or in anywise damage or injure any Pier, Dock, Quay, Reservoir, Erection, Machine,Building, Road, Way or other Work whatsoever to be erected or made by virtue of this Act, or any Part thereof, or of any Works erected in pursuance of this Act, every such Person so offending shall be adjudged guilty of Felony, and being lawfully convicted thereof, shall be subject to the like Pains and Penalties as in Cases of Felony, and the Court by 'or before whom such Person shall be tried and convicted shall have Power and Authority to cause such Person to be punished as a Felon may be punished by the Law of Scotland, or in Mitigation of such Punishment such Court may award such lesser Punishment as to such Court shall seem proper.
+XXIX. And be it further enacted, That if any Person shall wilfully, and to the Prejudice of the said Harbour, break, throw down, destroy, or in anywise damage or injure any Pier, Dock, Quay, Reservoir, Erection, Machine,Building, Road, Way or other Work whatsoever to be erected or made by virtue of this Act, or any Part thereof, or of any Works erected in pursuance of this Act, every such Person so offending shall be adjudged guilty of Felony, and being lawfully convicted thereof, shall be subject to the like Pains and Penalties as in Cases of Felony, and the Court by 'or before whom such Person shall be tried and convicted shall have Power and Authority to cause such Person to be punished as a Felon may be punished by the Law of Scotland, or in Mitigation of such Punishment such Court may award such lesser Punishment as to such Court shall seem proper.
 
 XXX. And be it further enacted, That if any Person or Persons shall wilfully and maliciously damage or destroy any Wherry, Boat or Vessel lying within the Harbour of Port Patrick, or upon any of the Piers, Quays, Roads or Ways leading to or belonging to the said Harbour, or either or any of them, or any Rope, Cable, Anchor, Oar, Spear, or any Tackling, Necessary or Material belonging to any such Wherry, Boat or other Vessel, or any of the Furniture, Cargo or Property belonging to or on board sudh Boats or Vessels, or any Goods or Property of any Person or Persons whatsoever, which may be lying at or upon or along such Piers, Quays, Roads or Ways, or any of them, or any of the Tools, Implements, Materials or other Goods, Chattels or Property used Or intended to be used in the said Harbour, or the Works connected therewith or belonging thereto, or to the Commissioners for the Execution of this Act, or to any other Person, for the Use of the said Works, that then and in such Case the Person or Persons so offending shall, upon Conviction, forfeit and pay any Sum not exceeding Ten Pounds.
 
@@ -15322,7 +15208,7 @@ the
 
 C.113.
 
-1° GE0. IV.
+1° GEO. IV.
 
 A.D. 1820.
 
@@ -16481,7 +16367,9 @@ LOCAL
 C.u — iii.
 
 l# GEO. IV. A.D. 1820.
+
 ---
+
 LOCAL AND PERSONAL ACTS,
 
 DECLARED PUBLIC,
@@ -16499,7 +16387,9 @@ N.B. — The Continuance of such of the following Acts as are Temporary will be 
 The following are all Public Acts; to each of which is annexed a Clause in the Form following:
 
 "And be it further enacted, That this Act shall be deemed and taken to be a Public Act, and shall be judicially taken Notice of as such by all Judges, Justices and others, without being specially pleaded."
+
 ---
+
 14 G. 2. c. 28.
 
 26 Q. 2. e. 77.
@@ -16936,7 +16826,7 @@ no term mentioned; and 8 G.3. c. 63. and 39 G. 3. c. lxxi. in part repealed.
 
 Cap. xlix.
 
-An Act to alter and amend several Acts fbr erecting sc Bridge 51 G. 3. c. 166. over the River Thamesy from the City of London to the opposite in part repealed. Bank in the County of Surrey.
+An Act to alter and amend several Acts for erecting sc Bridge 51 G. 3. c. 166. over the River Thames, from the City of London to the opposite in part repealed. Bank in the County of Surrey.
 
 [8th July 1820.]
 
@@ -17144,7 +17034,7 @@ An Act for repairing the Road leading Rrom Longkorxley Bar, near the Town of Mor
 
 Cap. lxxii.
 
-An Act fbr continuing the Term, and enlarging the Powers of an Act of His late Majesty, for making a Road from Suindon to
+An Act for continuing the Term, and enlarging the Powers of an Act of His late Majesty, for making a Road from Suindon to
 
 Knighton,
 
@@ -17558,7 +17448,7 @@ An Act for inclosing Lands in the Parishes of Famham, in the County of Essex} an
 
 [8th July 1820.]
 
-AJD. 1820. 1° GEO. IV.
+A.D. 1820. 1° GEO. IV.
 
 Pr.C. 28 — 33.
 
