@@ -428,25 +428,27 @@ Schedule of Sums granted to defray the charges of the several Civil Services her
 
 No. Sums not exceeding
 
+£
+
+7. For the expense of revising barristers in England (supplementary sum) - 1,680
+
+18a. For the expenses of the Scotch Crofters' Commission - 3,930
+
+21. For the expense of criminal prosecutions and other law charges in Ireland, including certain allowances under the Act 15 & 16 Vict. c. 83. - To complete - 29,041
+
+22. For such of the salaries and expenses of the Supreme Court of Judicature in Ireland as are not charged on the Consolidated Fund - To complete - 38,861
+
 ---
 
-7. For the expense of revising barristers in England (supplementary sum) -----
-
-18a. For the expenses of the Scotch Crofters' Commission
-
-21. For the expense of criminal prosecutions and other law charges in Ireland, including certain allowances under the Act 15 & 16 Vict. c. 83.
-
-22. For such of the salaries and expenses of the Supreme Court of Judicature in Ireland as are not charged on the Consolidated Fund -----
-
-25. For salaries and expenses of the Office for the Registration of Deeds in Ireland -----
+25. For salaries and expenses of the Office for the Registration of Deeds in Ireland  - To complete -
 
 26. For salaries and expenses in the Office for the Registration of Judgments in Ireland -
 
-27. For the salaries and expenses of the office of the Irish Land Commission -----
+27. For the salaries and expenses of the office of the Irish Land Commission -
 
 28. For the salaries, allowances, and expenses of various county court officers, and of magistrates and revising barristers in Ireland (including a supplementary sum of 8,7631.)
 
-29. For salaries and expenses of the Commissioners of Police, of the police courts and of the metropolitan police establishment of Dublin -----
+29. For salaries and expenses of the Commissioners of Police, of the police courts and of the metropolitan police establishment of Dublin -
 
 30. For the expenses of the Constabulary Force in Ireland
 
@@ -470,9 +472,7 @@ To complete -To complete - 60,632 542,153
 
 To complete - 70,886
 
-Total Civil Services, Class III.
-
-837,244
+Total Civil Services, Class III. - £ 837,244
 
 8 Ch. 1. Appropriation Act, 1886, Session 2. 50 Vict.
 
@@ -534,11 +534,11 @@ For salaries and expenses of the University of London In aid of the expenses of 
 
 For preparing an account of the scientific results of the expedition of Her Majesty's ship “ Challenger” in 1873, 1874, 1875, and 1876, to investigate the physical and biological conditions of the great ocean basins, and of arranging the collections made during the expedition
 
-For public education in Scotland ....
+For public education in Scotland -
 
-For grants to Scottish Universities - For the annuity to the Board of Trustees of manufactures in Scotland, in discharge of equivalents under the Treaty of Union, to be applied in maintenance of the National Gallery, School of Art and Museum of Antiquities, Scotland, and for the exhibition of the Torrie Collection of Works of Art, and for other purposes ....
+For grants to Scottish Universities - For the annuity to the Board of Trustees of manufactures in Scotland, in discharge of equivalents under the Treaty of Union, to be applied in maintenance of the National Gallery, School of Art and Museum of Antiquities, Scotland, and for the exhibition of the Torrie Collection of Works of Art, and for other purposes -
 
-For public education under the Commissioners of National Education in Ireland .....
+For public education under the Commissioners of National Education in Ireland -
 
 For the salaries and expenses of the National School Teachers' Superannuation Office, Dublin
 
@@ -654,19 +654,19 @@ No. £
 
 To complete - 4,200
 
-3. In aid of the local cost of maintenance of pauper lunatics in England and Wales - - - - To complete - 485,000
+3. In aid of the local cost of maintenance of pauper lunatics in England and Wales - To complete - 485,000
 
-4. In aid of the local cost of maintenance of pauper lunatics in Scotland ----- To complete - 2,000
+4. In aid of the local cost of maintenance of pauper lunatics in Scotland - To complete - 2,000
 
-5. In aid of the local cost of maintenance of pauper lunatics in Ireland ----- To complete - 800
+5. In aid of the local cost of maintenance of pauper lunatics in Ireland - To complete - 800
 
 6. For the support of certain hospitals and infirmaries in Ireland - To complete - 7,658
 
-7. For making good the deficiency arising from payments for interest to Savings Banks and Friendly Societies 8. For miscellaneous, charitable, and other allowances in Great Britain ----- To complete - 1,000
+7. For making good the deficiency arising from payments for interest to Savings Banks and Friendly Societies 8. For miscellaneous, charitable, and other allowances in Great Britain - To complete - 1,000
 
 To complete - 1,111
 
-9. For certain miscellaneous, charitable, and other allowances in Ireland ----- To complete - 1,303
+9. For certain miscellaneous, charitable, and other allowances in Ireland - To complete - 1,303
 
 Total Civil Services, Class VI. - £ 627,000
 
@@ -678,7 +678,7 @@ CIVIL SERVICES. — Class VII.
 
 Schedule of Sums granted to defray the charges of the several Civil Services herein particularly mentioned, which will come in course of payment during the year ending on the 31st day of March 1887; viz.: —
 
-Sams not exceeding
+Sums not exceeding
 
 No. 1. For salaries and incidental expenses of temporary commis- sions and committees, including special inquiries 2. For certain miscellaneous expenses - 3. For repayment to the Civil Contingencies Fund of certain miscellaneous advances - To complete To complete £ - 13,331 2,802 - 14,786
 
@@ -698,7 +698,7 @@ No.
 
 2. For salaries and expenses of the Inland Revenue Department
 
-3. For salaries and expenses of the Post Office services, the expenses of Post Office savings banks, and Government annuities and insurances, and the collection of the Post Office revenue -----
+3. For salaries and expenses of the Post Office services, the expenses of Post Office savings banks, and Government annuities and insurances, and the collection of the Post Office revenue -
 
 4. For the Post Office packet service -
 
@@ -1320,7 +1320,7 @@ Orders relating to the Local Government District of Dukinfield, the City of Manc
 
 See also (a).
 
-(e) Redistribution of Seats Act, 1885 {County Divisions):
+(e) Redistribution of Seats Act, 1885 (County Divisions):
 
 Order of the Local Government Board under the Redistribution of Seats Act, 1885, relating to the Parish of Misson. Ch. iv.
 
