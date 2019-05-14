@@ -74,7 +74,7 @@ XX. An Act to authorize the Inclosure of certain Lands in pursuance of a Special
 
 XXI. An Act to suspend the making of Lists and the Ballots for the Militia of the United Kingdom. 109
 
-XXII. An Act to apply the Public Health Act, 1848, to the Parish of Aldershot,and to constitute a Local Board of Health therein. 113
+XXII. An Act to apply the Public Health Act, 1848, to the Parish of Aldershot, and to constitute a Local Board of Health therein. 113
 
 XXIII. An Act to authorize the Commissioners of Public Works in Ireland to sell Mill Sites and Water Power, notwithstanding Final Award, in any Drainage or Navigation District. 117
 
@@ -820,7 +820,7 @@ Most Gracious Sovereign,
 
 WE, Your Majesty's most dutiful and loyal Subjects, the Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards making good the Supply which we have cheerfully granted to Your Majesty in this Session of Parliament, have resolved to grant unto Your Majesty the Sum herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
-I. There shall and may be issued and applied, for or towards There shall making good the Supply granted to Her Majesty for the Service f^Ser-of the Year One thousand eight hundred and fifty-seven, the Sum of vice of the Eight Millions out of the Consolidated Fund of the United Kingdom of Great Britain and Ireland,and the Commissioners of Her Majesty's 8,000,000/. Treasury of the United Kingdom of Great Britain and , or
+I. There shall and may be issued and applied, for or towards There shall making good the Supply granted to Her Majesty for the Service f^Ser-of the Year One thousand eight hundred and fifty-seven, the Sum of vice of the Eight Millions out of the Consolidated Fund of the United Kingdom of Great Britain and Ireland, and the Commissioners of Her Majesty's 8,000,000/. Treasury of the United Kingdom of Great Britain and , or
 
 the Lord High Treasurer of the United Kingdom of Great Britain Fund.
 
@@ -1341,8 +1341,6 @@ An Act to cany into effect a Convention between Her Majesty and the King of Denm
 [13th July 1857.]
 
 WHEREAS a Treaty was concluded on the Fourteenth Day of March One thousand eight hundred and fifty-seven, between Her Majesty and other High Contracting Parties of the one Part, and the King of Denmark of the other Part, (and has been duly ratified,) containing Arrangements for the Abolition of Tolls levied on Vessels and their Cargoes passing the Sound and the Belts, and for the Reduction of the Duties on Goods passing in Transit by the various Lines of Communication which connect the North Sea and the Elbe with the Baltic, and for the Payment by the other Contracting Parties to the King of De, in compensation for the Sacrifices which the Treaty imposed on him, of the total Sum of Thirty-five million Rigs Dollars, of which the Proportion falling to the Charge of Great Britain was Ten million one hundred and twenty-six thousand eight hundred and fifty-five Rigs Dollars: And whereas a Convention was also concluded on the said Fourteenth Day of March One thousand eight hundred and fifty-seven between Her Majesty and the King of Denmark (and has been duly ratified), by which Her Majesty engaged to recommend to Her Parliament to enable Her to M pay
-
-V^.
 
 Power to Treasury to direct Payment of 1,125,206/., in accordance with above-recited Convention.
 
@@ -2644,7 +2642,7 @@ LONDON:
 
 Printed by George Edward Eyre and William Spottiswoode, Printers to the Queen's most Excellent Majesty. 1857.
 
-ANNO VICES1MO & VICESIMO PRIMO
+ANNO VICESIMO & VICESIMO PRIMO
 
 VICTOR! REGINAE.
 
@@ -2700,7 +2698,7 @@ VI. The Procedure by the first-recited Act prescribed in reference to a Second D
 
 VII. An Abbreviate of the Deliverance of Discharge of the Bank-
 
-rupt, whether following on a Composition or not, shall be issued by the Clerk of the Bills or the Sheriff Clerk in the Form of the Schedule (A.) hereunto annexed, and the Abbreviate shall be recorded in the Register of Inhibitions, and the Register of Abbreviates of Adju-cations at Edinburgh,and the Keepers of such Registers shall, if
+rupt, whether following on a Composition or not, shall be issued by the Clerk of the Bills or the Sheriff Clerk in the Form of the Schedule (A.) hereunto annexed, and the Abbreviate shall be recorded in the Register of Inhibitions, and the Register of Abbreviates of Adju-cations at Edinburgh, and the Keepers of such Registers shall, if
 
 required, grant Certificates of such Registration in the Form annexed to the said Abbreviate.
 
@@ -3506,7 +3504,7 @@ Be it known, That by Lease dated A.B. [Designation]
 
 let to C.D. [Designation] that Piece of Ground [or as the Case may be, shortly describing the Property leased,] in the Parish of and County of , which Lease is recorded
 
-[Register, and Date of recording], and to which E.F. [Designation] has made up Title by Service as [specify Relationship], and Heir of the said C.D., dated the [insert Date of Sei'vice], before the [specify the Court before which the Heir has been served], and duly retoured to Chancery [or, as the Case may be, as General Disponee of the said C.D.,or as Heir (or General Disponee) of L.M. in an Assignation
+[Register, and Date of recording], and to which E.F. [Designation] has made up Title by Service as [specify Relationship], and Heir of the said C.D., dated the [insert Date of Sei'vice], before the [specify the Court before which the Heir has been served], and duly retoured to Chancery [or, as the Case may be, as General Disponee of the said C.D., or as Heir (or General Disponee) of L.M. in an Assignation
 
 by the said C.D. of Date , or as Trustee confirmed
 
@@ -3672,13 +3670,13 @@ Rates to be levied at Piers, Jetties, or Landing Places.
 
 Each Passenger -
 
-Sheep, Lambs, Goats, or Swine, per Score, 6 rf.,or if under 10, each -Each Bull, Cow, Bullock, or Heifer Ditto, under Two Years old -
+Sheep, Lambs, Goats, or Swine, per Score, 6 rf., or if under 10, each -Each Bull, Cow, Bullock, or Heifer Ditto, under Two Years old -
 
-Each Calf................
+Each Calf .....
 
 Each Horse -
 
-Each Horse under 13 Hands, and each Mule or Ass Each Cart, empty ....
+Each Horse under 13 Hands, and each Mule or Ass Each Cart, empty .....
 
 Each Cart, loaded - - -
 
@@ -3686,13 +3684,13 @@ Each Gig or Two-wheeled Carriage Each Four-wheeled Coach or Carriage Each Parcel
 
 Birch or Alder Staves, per 1,000 Coals, per Ton - - -
 
-Grain, Meal, or Flour, per Bag or Barrel Guano, Bones, and other Manures, per Ton Lime, per Boll ....
+Grain, Meal, or Flour, per Bag or Barrel Guano, Bones, and other Manures, per Ton Lime, per Boll .....
 
-Potatoes, per Cwt..............
+Potatoes, per Cwt .....
 
 Salt, per Ton - - - -
 
-Slates, Bricks, and Tiles, per 100, One Halfpenny, o per 1,000 ....
+Slates, Bricks, and Tiles, per 100, One Halfpenny, o per 1,000 .....
 
 Spars, Rails, Pit Props, &c., per 500 running Feet Stones and Iron, per Ton -Sugar, Herrings, Tar, or Butter, per Barrel Timber, Planks, or Deals, per Load of 50Feet Wool, per Bag -Goods not otherwise enumerated, per Bag, Barrel, or Box
 
@@ -3858,7 +3856,7 @@ LONDON:
 
 Printed by George Edward Eyre and William Spottiswoodb, Printers to the Queen's most Excellent Majesty. 1857.
 
-ANNO VICES1MO & VICESIMO PRIMO
+ANNO VICESIMO & VICESIMO PRIMO
 
 VICTORIAE REGINAE.
 
@@ -4508,7 +4506,7 @@ CAP. XXXIII.
 
 An Act to regulate certain Proceedings in relation to the Election of Representative Peers for Ireland. [10th August 1857.]
 
-WHEREAS by an Act passed by the Parliament of Ireland in the Fortieth Year of His Majesty King George the Third, intituled An Act to regulate the Mode by which 40 G- 3. (I.) the Lords Spiritual and Temporal,and the Commons, to serve in the United Kingdom on the Part of Ireland, shall be summoned and returned to the said Parliament, certain Provisions were made for regulating the Proceedings in relation to the Elections of Representative Peers for Ireland, and it is expedient to amend the same:
+WHEREAS by an Act passed by the Parliament of Ireland in the Fortieth Year of His Majesty King George the Third, intituled An Act to regulate the Mode by which 40 G- 3. (I.) the Lords Spiritual and Temporal, and the Commons, to serve in the United Kingdom on the Part of Ireland, shall be summoned and returned to the said Parliament, certain Provisions were made for regulating the Proceedings in relation to the Elections of Representative Peers for Ireland, and it is expedient to amend the same:
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
@@ -4520,11 +4518,11 @@ Representative Peers (Ireland).
 
 entitled to receive the same according to the Provisions of the said Act, and also to every Peer in respect to whose Right to vote at the Election of Representative Peers the House of Lords shall have directed a Certificate to be sent to the Clerk of the Crown in Ireland, stating that the Chancellor or Keeper of the Great Seal of the United Kingdom had reported to the House that the Right of such Peer to vote had been established to his Satisfaction, and that the House had ordered such Report to be sent to the said Clerk of the Crown in Ireland; and all the Provisions of the said Act applicable to Temporal Peers receiving Writs under the same, and to the Writs issued to such Peers, shall be held to apply to Temporal Peers receiving Writs, and to the Writs issued under this Act.
 
-Aa to Re- II, Any Peer of Ireland who shall have taken and subscribed in tomato such ^ House of Lords the Oaths which are or shall be by Law required to be taken and subscribed by the Lords of the United Kingdom before they can sit and vote in the Parliament thereof may make Return to a Writ issued under this or the said Act, in the same Manner as a Representative Peer on the Part of Ireland who has taken and subscribed the said Oaths in the House of Lords is permitted to do under the said Act, and any Peer of Ireland receiving such Writ may take and subscribe the said Oaths in Her Majesty's High Court of Chancery in England as well as in ,or in Her
+Aa to Re- II, Any Peer of Ireland who shall have taken and subscribed in tomato such ^ House of Lords the Oaths which are or shall be by Law required to be taken and subscribed by the Lords of the United Kingdom before they can sit and vote in the Parliament thereof may make Return to a Writ issued under this or the said Act, in the same Manner as a Representative Peer on the Part of Ireland who has taken and subscribed the said Oaths in the House of Lords is permitted to do under the said Act, and any Peer of Ireland receiving such Writ may take and subscribe the said Oaths in Her Majesty's High Court of Chancery in England as well as in , or in Her
 
 Majesty's Courts of Queen's Bench, Common Pleas, or Exchequer in England or Ireland, or in any Division of the Court of Session in Scotland, or before any Lord Ordinary of the said Court, or before the Lieutenant of any County in Great Britain or , or any
 
-Member of Her Majesty's Privy Council in Great Britain or Ireland, or any Judge of a County Court in ,or any Sheriff in
+Member of Her Majesty's Privy Council in Great Britain or Ireland, or any Judge of a County Court in , or any Sheriff in
 
 Scotland, or any British Ambassador or Minister accredited to any Foreign Court, or the Secretary of any British Embassy or Mission, or the Governor, Lieutenant Governor, or Officer administering the Government of any of Her Majesty's Plantations, Colonies, or Possessions abroad, or any of Her Majesty's Judges residing therein, and the Registrar or other proper Officer of every such Court; and every Person above mentioned before whom the said Oaths shall be taken and subscribed shall certify the same, and sign such Certificate, which shall be transmitted by such Peer with the Return in the Manner prescribed in the said Act.
 
@@ -4872,7 +4870,7 @@ Illicit Distillation (Ireland).
 
 bulary Force in reference to their present Duties in the respective Counties.
 
-Y. All Officers of the said Constabulary Force, appointed or to be appointed under any Act relating to the said Force, or under this .Act, shall have, use, and exercise all the Powers and Authorities, and have and possess all the Privileges, granted to Officers of Excise in relation to any Offence committed or to be committed, or suspected to be committed, under or contrary to the Act passed in the First and Second Years of the Reign of His late Majesty King William the Fourth, Chapter Fifty-five, intituled An Act to consolidate and amend the * Laws for suppressing the illicit making of Malt and Distillation of Spirits in Ireland, or in relation to any Offence mentioned in the One hundred and thirty-eighth Section of the iAct passed in the Sixth Year of the Reign of King George the Fourth, Chapter Eighty, which said last-mentioned Section is hereby extended to Ireland,and shall have, use, and exercise all the Powers and Authorities, and have and possess all the Privileges, which ape or may be exercised, had, or possessed by any Officer of Customs under the " Customs Consolidation Act, 1853," or any other Act nowin force or hereafter to be passed, in relation to the Customs, so far as relates to any Seizure, Detention, or Prosecution which may be made or had under any such Act or Acts, and shall be deemed and considered to be Officers of Customs for such Purposes; but such Officers of the Constabulary Force shall have, use, and exercise the Powers and Authorities conferred by this Act so long only as they shall be and continue Officers of such Constabulary Force.
+Y. All Officers of the said Constabulary Force, appointed or to be appointed under any Act relating to the said Force, or under this .Act, shall have, use, and exercise all the Powers and Authorities, and have and possess all the Privileges, granted to Officers of Excise in relation to any Offence committed or to be committed, or suspected to be committed, under or contrary to the Act passed in the First and Second Years of the Reign of His late Majesty King William the Fourth, Chapter Fifty-five, intituled An Act to consolidate and amend the * Laws for suppressing the illicit making of Malt and Distillation of Spirits in Ireland, or in relation to any Offence mentioned in the One hundred and thirty-eighth Section of the iAct passed in the Sixth Year of the Reign of King George the Fourth, Chapter Eighty, which said last-mentioned Section is hereby extended to Ireland, and shall have, use, and exercise all the Powers and Authorities, and have and possess all the Privileges, which ape or may be exercised, had, or possessed by any Officer of Customs under the " Customs Consolidation Act, 1853," or any other Act nowin force or hereafter to be passed, in relation to the Customs, so far as relates to any Seizure, Detention, or Prosecution which may be made or had under any such Act or Acts, and shall be deemed and considered to be Officers of Customs for such Purposes; but such Officers of the Constabulary Force shall have, use, and exercise the Powers and Authorities conferred by this Act so long only as they shall be and continue Officers of such Constabulary Force.
 
 Officers of Constabulary to bar# the same Power as Officers of Excise and Customs in relation to certain Offences.
 
@@ -4990,7 +4988,7 @@ by Justices of the Peace: Be it enacted by the Queen's most Excellent Majesty, b
 
 I. In the Interpretation and for the Purposes of this Act, the interpreta-following Words shall have the Meaning herein-after assigned to tl0ll°frerms. them; that is to say,
 
-" Superior Courts of Law " shall for England mean the Supreme Courts of Law at Westminster,and for Ireland the Supreme Courts at Law at Dublin:
+" Superior Courts of Law " shall for England mean the Supreme Courts of Law at Westminster, and for Ireland the Supreme Courts at Law at Dublin:
 
 " Court of Queen's Bench " shall mean for England the Court of Queen's Bench at Westminster, and for Ireland the Court of Queen's Bench at Dublin.
 
@@ -6204,7 +6202,7 @@ CAP. XLVIII.
 
 An Act to make better Provision for the Care and Education of vagrant, destitute, and disorderly Children, and for the Extension of Industrial Schools. [17th August 1857 ]
 
-WHEREAS Industrial Schools for the better training of %/%/ Vagrant Children have been and may be established in * " various Parts of England,and it is expedient that more extensive Use should be made of such Institutions, and that the Responsibility of Parents to provide for the proper Care of their Children should be enforced: Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS Industrial Schools for the better training of %/%/ Vagrant Children have been and may be established in * " various Parts of England, and it is expedient that more extensive Use should be made of such Institutions, and that the Responsibility of Parents to provide for the proper Care of their Children should be enforced: Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 I. This Act may be cited as the " Industrial Schools Act, 1857." Short Title.
 
@@ -6972,7 +6970,7 @@ WHEREAS by an Act of the Session of the Tenth and Eleventh Years of Her present 
 
 New Zealand Company's Claims.
 
-at Nelson,or any Liabilities of the Company which during the Suspension of the Instructions therein referred to should have been contracted by them, with the Consent of the Special Commissioner provided for by the now-reciting Act, and all Claims of the Company to any further Grant of Land should cease; and also (by Section Twenty ) that, upon the Reversion as aforesaid to Her Majesty of the Lands belonging to the Company, all Claim on behalf of Her Majesty, or of the Commissioners of Her Majesty's Treasury, in respect of either the Loan of One hundred thousand Pounds therein referred to, or the Loan authorized by the now-reciting Act, or of so much as should then remain due and unpaid, should be remitted to the Company, and there should be charged and paid to the Company, out of the Proceeds of all future Sales of the Demesne Lands of the Crown in New ,after deducting the Outlays
+at Nelson, or any Liabilities of the Company which during the Suspension of the Instructions therein referred to should have been contracted by them, with the Consent of the Special Commissioner provided for by the now-reciting Act, and all Claims of the Company to any further Grant of Land should cease; and also (by Section Twenty ) that, upon the Reversion as aforesaid to Her Majesty of the Lands belonging to the Company, all Claim on behalf of Her Majesty, or of the Commissioners of Her Majesty's Treasury, in respect of either the Loan of One hundred thousand Pounds therein referred to, or the Loan authorized by the now-reciting Act, or of so much as should then remain due and unpaid, should be remitted to the Company, and there should be charged and paid to the Company, out of the Proceeds of all future Sales of the Demesne Lands of the Crown in New ,after deducting the Outlays
 
 for Surveys and the Proportion of such Proceeds which was appropriated to the Purpose of Emigration, the Sum of Two hundred and sixty-eight thousand three hundred and seventy Pounds Fifteen Shillings, being after the Rate of Five Shillings for each Acre of the One million seventy-three thousand four hundred and eighty-three Acres to the Proportion of which the Company were then entitled, including therein Twenty-four thousand four hundred and ninety-one Acres and Half an Acre purchased by the Company within their own Settlements, and then held as their private Estate, with Interest after the yearly Rate of Three Pounds Ten Shillings in the Hundred Pounds upon that Sum, or so much thereof as should from Time to Time remain due and unpaid, to be computed from the Day of the Delivery of such Notice; and also (by Section Twenty-one) that the Receipt by Two of the Directors of the Company, authorized to give such Receipt by any Resolution under the Seal of the Company, should be a sufficient Acknowledgment of the Payment or Advance of any Moneys authorized by the now-reciting Act to be paid or advanced to the Company, and that neither the Special Commissioner nor the Commissioners of Her Majesty's Treasury should be bound to see to the due Application of the Moneys, otherwise than is in the now-reciting Act provided: And whereas the Notice provided for by Section Nineteen of the recited Act was duly delivered by the Directors of the Company on the Fourth Day of July One thousand eight hundred and fifty, and thereupon, under the Provisions of that Act, all the Lands, Tenements, and Hereditaments of the Company in the Colony reverted to and became vested in Her Majesty, as Part of the Demesne Lands of the Crown in New ,subject, never-
 
@@ -7456,7 +7454,7 @@ CAP. LVIII.
 
 An Act to amend the Act, Seventeenth and Eighteenth of Victoria, for the Valuation of Lands in Scotland. [25th August 1857.]
 
-WHEREAS an Act was passed in the Seventeenth and Eighteenth Years of Her Majesty's Reign, Chapter Ninety-one, for the Valuation of Lands and Heritages in Scotland,and it is expedient to amend the said Act as herein-after
+WHEREAS an Act was passed in the Seventeenth and Eighteenth Years of Her Majesty's Reign, Chapter Ninety-one, for the Valuation of Lands and Heritages in Scotland, and it is expedient to amend the said Act as herein-after
 
 mentioned: Be it enacted by the Queens most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
@@ -7586,7 +7584,7 @@ Bankruptcy and Insolvency (Ireland).
 
 II. From and after the Commencement of this Act, the several
 
-Acts and Parts of Acts set forth in the Schedule (A.) to this Act annexed, to the Extent to which such Acts or Parts of Acts are by such Schedule expressed to be repealed, and every other Act or Acts, and such Parts of every other Act or Acts, as shall be inconsistent with this Act, shall be repealed, except so far as the said Acts or Parts of Acts, or any of them, whether mentioned or included in the said Schedule or not, repeal any former Act or Part of an Act, and except also so far as may be necessary for the Purpose of supporting and continuing any Proceedings taken or to be taken after the Commencement of this Act upon any Trading, Act of Bankruptcy, Petitioning Creditor's Debt, Commission, or other Proceeding in Bankruptcy before the Commencement of this Act, and except also so far as may be necessary for the supporting or continuing of any Proceedings taken before the Commencement of this Act in the Court for the Relief of Insolvent Debtors in ,or to be taken
+Acts and Parts of Acts set forth in the Schedule (A.) to this Act annexed, to the Extent to which such Acts or Parts of Acts are by such Schedule expressed to be repealed, and every other Act or Acts, and such Parts of every other Act or Acts, as shall be inconsistent with this Act, shall be repealed, except so far as the said Acts or Parts of Acts, or any of them, whether mentioned or included in the said Schedule or not, repeal any former Act or Part of an Act, and except also so far as may be necessary for the Purpose of supporting and continuing any Proceedings taken or to be taken after the Commencement of this Act upon any Trading, Act of Bankruptcy, Petitioning Creditor's Debt, Commission, or other Proceeding in Bankruptcy before the Commencement of this Act, and except also so far as may be necessary for the supporting or continuing of any Proceedings taken before the Commencement of this Act in the Court for the Relief of Insolvent Debtors in , or to be taken
 
 after the Commencement of this Act on any Petition filed or Order made before the Commencement of this Act, and except as to the Recovery and Application of any Penalty for any Offence which shall have been committed before the Commencement of this Act: Provided always, that such Repeal shall not be construed to lessen or affect any Right to which any Person may, at the Time of such Repeal, be entitled to under the said Acts or Parts of Acts, or to lessen any Liability then existing thereunder.
 
@@ -8130,8 +8128,6 @@ Authority of Mes- LXXV. Such Warrant so endorsed shall be sufficient Authority a
 
 LXXVI. The
 
-V^.
-
 20° & 21° VICTORIA, Cap. 60.
 
 Bankruptcy and Insolvency (Ireland).
@@ -8494,7 +8490,7 @@ Petitioning Creditor to show Cause why the Person arrested should not be dischar
 
 Securities for Monies, Goods, and Chattels should not be delivered up to him, and it shall be lawful for such Court to make absolute or discharge such Order.
 
-CXXV. If in any Case it shall be proved to the Satisfaction of If Bankrupt be the Court that any Bankrupt is keeping out of the Way, and cannot ^ay "or be aboot° be personally served with a Summons, and that due Pains have been to quit Ireland, taken to effect such personal Service, or that there is probable Cause for believing that he is about to quit Ireland,or to remove or conceal his Arrest, any of his Goods or Chattels, unless he be forthwith apprehended, it shall be lawful for such Court by Warrant to authorize and direct any Person or Persons it shall think fit to arrest such Bankrupt, and bring him before the Court to be examined, in like Manner as if he appeared upon a Summons.
+CXXV. If in any Case it shall be proved to the Satisfaction of If Bankrupt be the Court that any Bankrupt is keeping out of the Way, and cannot ^ay "or be aboot° be personally served with a Summons, and that due Pains have been to quit Ireland, taken to effect such personal Service, or that there is probable Cause for believing that he is about to quit Ireland, or to remove or conceal his Arrest, any of his Goods or Chattels, unless he be forthwith apprehended, it shall be lawful for such Court by Warrant to authorize and direct any Person or Persons it shall think fit to arrest such Bankrupt, and bring him before the Court to be examined, in like Manner as if he appeared upon a Summons.
 
 CXXVI. The Court, before Adjudication, may summon before it Court may, before any Person whom such Court shall believe capable of giving any ^monWitnesses Information concerning the Trading of or any Act of Bankruptcy to prove Trading committed by the Person against whom any Petition of Bankruptcy ^t(^ct of Bank* has been filed, and may require any Person so summoned to produce any Books, Papers, Deeds, and Writings and other Documents in his Custody, Possession, or Power, which may appear to the Court to be necessary to establish such Trading or Act of Bankruptcy; and it shall be lawful for the Court to examine any such Person upon Oath, by Word of Mouth or Interrogatories in Writing, concerning such Trading and Act of Bankruptcy.
 
@@ -10314,7 +10310,7 @@ CCCLXI. Every Petition of Bankruptcy, Petition of Insolvency, Schedule, Adjudica
 
 Deputy,
 
-20" & 21° VICTORIAE, €ap.«fc
+20" & 21° VICTORIAE, Cap.«fc
 
 Bankruptcy and Insolvency (Ireland).
 
@@ -10502,7 +10498,7 @@ to defeat the Object of this Act, every such Person shall be deemed
 
 to be guilty of a Misdemeanor.
 
-Bankrupt or Insol- CCCLXXX. If any Bankrupt or Insolvent shall within Three Months'precld'ing Months next preceding the filing of the Petition of Bankruptcy or his Bankruptcy or Insolvency, under the false Colour and Pretence of carrying on ing°Goods onta "' Business and dealing in the ordinary Course of Trade, obtain on Credit under false Credit from any other Person any Goods or Chattels with Intent to inthTord^ary ng defraud,or *f any such Bankrupt or Insolvent shall, within such Time Course of Trade; and with such Intent, dispose of any of his Goods or Chattels otherwise than by bond fide Sales in the ordinary Way of his Trade, every such Bankrupt or Insolvent shall be deemed guilty of a Misdemeanor.
+Bankrupt or Insol- CCCLXXX. If any Bankrupt or Insolvent shall within Three Months'precld'ing Months next preceding the filing of the Petition of Bankruptcy or his Bankruptcy or Insolvency, under the false Colour and Pretence of carrying on ing°Goods onta "' Business and dealing in the ordinary Course of Trade, obtain on Credit under false Credit from any other Person any Goods or Chattels with Intent to inthTord^ary ng defraud, or *f any such Bankrupt or Insolvent shall, within such Time Course of Trade; and with such Intent, dispose of any of his Goods or Chattels otherwise than by bond fide Sales in the ordinary Way of his Trade, every such Bankrupt or Insolvent shall be deemed guilty of a Misdemeanor.
 
 Bankrupt or In- CCCLXXXI. If any Bankrupt or Insolvent shall within Three Three Months Months next preceding the filing of the Petition of Bankruptcy preceding his or Insolvency wilfully and knowingly commit any Fraud on his solvency Commit Creditors, or do any Act, or make any false Representation knowing it ting any Fraud on to be false, with Intent to defraud his Creditors, every such Bankrupt guU^ofMi^*0' or lns°lvent shall be guilty of a Misdemeanor, meanors.
 
@@ -10552,7 +10548,7 @@ ing Direction to ^ °- . r J
 
 pay or invest his own Benefit, or knowingly permit any Co-assignee so to retain
 
-Money, and retain- or empj0y any Sum to the Amount of more than One hundred ingit,or permitting 17 rL
+Money, and retain- or empj0y any Sum to the Amount of more than One hundred ingit, or permitting 17 rL
 
 Co-assignee to rounds, Part of the Estate of any Bankrupt or Insolvent, or shall i^tobT bar'°d neS^ec^ to 'nvest any Money in the Purchase of Exchequer Bills or with 20 per Cent. in the Public Funds, when directed by the Court, every such Assignee shall be liable to be charged in his Account with such Sum as shall be equal to Interest at the Rate of Twenty pgr Centum per Annum on all such Money for the Time during which he shall have so
 
@@ -10570,7 +10566,7 @@ such Assignee in his Account accordingly.
 
 CCCXCI. If any Person shall disobey any Order of the Court, Persons disobeying duly made, for enforcing any of the Purposes and Provisions of this to bo^committeTto Act, or of any other Act hereafter to be in force relating to the Prison until they Subject Matters of this Act, the Court may, by Warrant in the Form ^om^or the Lord contained in Schedule (Y.) to this Act annexed, or to the like Effect, Chancellor shall commit the Person so offending to the Common Gaol of any County, otherwi8e order. City, or Place where he shall be found, or where he shall usually reside, there to remain without Bail or Mainprise until such Court or the Lord Chancellor shall make Order to the contrary.
 
-CCCXCII. If any Petitioning Creditor shall after the Bankruptcy Petitioning Credi-receive any Money, Satisfaction,or Security for his Debt or any Part wRh°Trader<after thereof, whereby such Petitioning Creditor may receive more in the Bankruptcy. Pound in respect of his Debts than the other Creditors, such Petitioning Creditor shall forfeit his whole Debt, and shall also repay or deliver up such Money, Satisfaction, or Security, or the full Value thereof, to the Assignee or Assignees of such Bankrupt, for the Benefit of the Creditors of the Bankrupt.
+CCCXCII. If any Petitioning Creditor shall after the Bankruptcy Petitioning Credi-receive any Money, Satisfaction, or Security for his Debt or any Part wRh°Trader<after thereof, whereby such Petitioning Creditor may receive more in the Bankruptcy. Pound in respect of his Debts than the other Creditors, such Petitioning Creditor shall forfeit his whole Debt, and shall also repay or deliver up such Money, Satisfaction, or Security, or the full Value thereof, to the Assignee or Assignees of such Bankrupt, for the Benefit of the Creditors of the Bankrupt.
 
 CCCXCIII. Any Person who shall wilfully conceal any Real or Concealing Bank-Personal Estate of any Bankrupt or Insolvent, and who shall not E^*c8tgrInsolvent 8 within Forty-two Days after the filing of the Petition of Bankruptcy or Insolvency discover such Estate to the Court or to the Assignees, shall forfeit the Sum of One hundred Pounds and double the Value of the Estate so concealed.
 
@@ -11870,7 +11866,7 @@ Most Gracious Sovereign,
 
 WE, Your Majesty's most dutiful and loyal Subjects, the Commons of the United Kingdom of Great Britain and Ireland,in Parliament assembled, towards raising the Supply granted to Your Majesty, have freely and voluntarily resolved to give and grant unto Your Majesty the several Duties of Customs and Excise herein respectively mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and b}r the Authority of the same, as follows:
 
-I. In lieu of the Duties of Customs now chargeable on the several Grant of Articles mentioned in the Schedule marked (A.) hereunto annexed Custom^and imported into Great Britain and Ireland,and in lieu of the Duties of Excise in Excise now chargeable on Sugar made in the United Kingdom and j
+I. In lieu of the Duties of Customs now chargeable on the several Grant of Articles mentioned in the Schedule marked (A.) hereunto annexed Custom^and imported into Great Britain and Ireland, and in lieu of the Duties of Excise in Excise now chargeable on Sugar made in the United Kingdom and j
 
 described in the Schedule marked (B.) hereunto annexed, there shall annexed, be charged, collected, and paid, for the Use of Her Majesty, Her Heirs and Successors, until the Thirty-first Day of March One thousand eight hundred and sixty inclusive, upon the several Articles,
 
@@ -12734,7 +12730,7 @@ X. Provided always, That any Person, being on Naval or Persons on Military Half 
 
 Navy, empowered to receive Pay, &c. during Training.
 
-Adjutants, &c., Non-commissioned Officers,or Privates, not to lose their Right to Chelsea or Kilmainham Pensions, &c.
+Adjutants, &c., Non-commissioned Officers, or Privates, not to lose their Right to Chelsea or Kilmainham Pensions, &c.
 
 Allowance to be made for Medicines.
 
@@ -12930,7 +12926,7 @@ Militia Pay.
 
 And the said Accounts shall be transmitted to the Secretary of State for War, who is hereby empowered to issue the Allowances according to the Rates specified in the respective Tables to this Act , annexed, or such Sums as he shall think reasonable and proper.
 
-XXII. And whereas it is expedient that the Deputy Lieutenants Deputy acting in any Subdivision of any County, Stewartry, City, or Place lieutenants in Great Britain,and the Special Deputy Wardens acting in any the Atten-Subdivision in the Stannaries of the Counties of Cornwall and , ^ance of "7 should be assisted by the Advice of a Surgeon in deciding upon the aiding near Appeals of Pe.rsons claiming to be exempt from compulsory Service in
+XXII. And whereas it is expedient that the Deputy Lieutenants Deputy acting in any Subdivision of any County, Stewartry, City, or Place lieutenants in Great Britain, and the Special Deputy Wardens acting in any the Atten-Subdivision in the Stannaries of the Counties of Cornwall and , ^ance of "7 should be assisted by the Advice of a Surgeon in deciding upon the aiding near Appeals of Pe.rsons claiming to be exempt from compulsory Service in
 
 the Militia' by reason of bodily Infirmity, and upon the Fitness for Ser- Appeals, vice"6f .the Persons presenting themselves for Enrolment: It shall be lawful for any Two Deputy Lieutenants and they are hereby empowered and required to summon, by Two Days previous Notice in Writing, any competent Surgeon residing at or nearest to the Place where any Meeting for Appeals or Enrolment shall be held to attend at such Meeting; and every such Surgeon shall, before he begins any such Examination, make the following Declaration, which Declaration any Deputy Lieutenant is hereby authorized to administer; (videlicet,)
 
@@ -13570,7 +13566,7 @@ XV. All General and other Courts-martial shall have Power and Authority and are 
 
 Questions
 
-20° & 21° VICTORIAE,!Cap.66.
+20° & 21° VICTORIAE,Cap.66.
 
 Mutiny ( East India).
 
@@ -13611,8 +13607,6 @@ Mutiny ( E India).
 Advice or Intelligence to any Rebel or Enemy of Her Majesty or of the East India Company, either by Letters, Messages, Signs, or Tokens, in any Manner or Way whatsoever, or shall relieve with Money, Victuals, or Ammunition, or knowingly harbour or protect, any such .Rebel or Enemy, or shall treat or enter into any Terms with any such Rebel or Enemy, without the Licence of the said Company, or of the Governor General in Council, or of the Governor in Council at One of the Presidencies, or of the General or Chief Commander, or shall cast away his Arms or Ammunition or otherwise misbehave himself before the Enemy, or shall shamefully abandon or deliver up any Garrison, Fortress, Post, or Guard committed to his Charge or which he shall have been commanded to defend, or shall compel the Governor or Commanding Officer of any Garrison, Fortress, Post, or Guard to deliver up to the Enemy or to abandon the same, or shall speak Words or use any other Means to induce such Governor or Commanding Officer or others to misbehave before the Enemy, or shamefully to abandon or deliver up any Garrison, Fortress, Post, or Guard committed to their respective Charge, or which he or they shall be commanded to defend, or shall desert the said Company's Service, or shall leave his Commanding Officer, or his Post or Colours, to go in search of Plunder, or shall leave his Post before being regularly relieved, or shall sleep on his Post, or shall treacherously make known the Watchword, or shall intentionally occasion false Alarm in Action, Camp, Garrison, or Quarters, or shall do Violence to any Person bringing Provisions or other Necessaries to the Quarters of the Forces, or shall force a Safeguard or enter into any House or Store or Cellar, or other Place, for Plunder, or shall strike, or shall draw or offer to draw or lift up any Weapon, or use or offer any Violence, against his Superior Officer, being in the Execution of his Office, or shall disobey any lawful Command of his Superior Officer, or who, being confined in a Military Prison, shall offer any Violence against a Visitor or other his Superior Military Officer being in the Execution of his Office, all and every Person and Persons so offending in any of the Matters before mentioned, whether such Offence shall be committed within the Dominions of Her Majesty or the Territories which are or may be under the Government of the said Company, or in Foreign Parts, and whether upon Land or upon the Sea, shall suffer Death, or such other Punishment as by a Court-martial shall be awarded: Provided also, that any Non-commissioned Officer or Soldier enlisted or in Pay in any Regiment, Corps, Troop, or Company, who shall, without having first obtained a regular Discharge therefrom, enlist himself in any other Regimeut, Corps, Troop, or Company, may be deemed to have deserted the said Company's Service, and shall be liable to be punished accordingly.
 
 XX. No
-
-V^.
 
 Judgment of Death.
 
@@ -14370,7 +14364,7 @@ Power to Lord Lieutenant to appoint Two
 
 20° & 21° VICTORIA, Cap.68.
 
-__ * -....- __________-__ — _ - -
+__ * - ..... - __________-__ — _ - -
 
 Revising Barristers [Dublin).
 
@@ -15396,8 +15390,6 @@ LONDON:
 
 Printed by Geobgb Edwabd Eyre and William Spottiswoode, Printers to the Queen's most Excellent Majesty. 1857.
 
-V^.
-
 ANNO VICESIMO & VICESIMO PRIMO
 
 VICTORIA REGESLE.
@@ -15542,7 +15534,7 @@ Secretary to keep Books, Minutes, and Accounts, and Accounts to be annually furn
 
 Power to Board to appoint a Clerk.
 
-Du»i«*« of Commissioners.
+Du»i« of Commissioners.
 
 charged from each Asylum, or removed or transferred from any one House to another, classifying those discharged into Three Divisions of " Cured," " Relieved," and " Unaffected by Treatment," during the preceding Year.
 
@@ -15991,8 +15983,6 @@ LXV. No Person lending Money to any District Board, and Persons taking an Assign
 LXVI. In every Case where Monies shall have been borrowed P<?W€T under the Powers of this Act, it shall be lawful for the District Board to'pay off67 by which such Monies shall have been borrowed (with the Consent of Sums the Parties to whom the same shall be owing) to pay off the Monies borrowed, so borrowed, and to raise and borrow the Monies necessary for that Purpose, and also to repay the said last-mentioned Monies, and the Interest thereof, under the Powers of this Act, as if such Monies were borrowed under the Powers herein contained, but so nevertheless that all Monies borrowed shall be discharged within Thirty Years from the Time of first borrowing the same.
 
 LX VII. Every District Board shall annually, and whenever required District by the Board, transmit to them a full and detailed Report and famish*0 Statement of all Sums falling to be paid by the District Board, Annual whether for Principal or Interest, to the Holders of Assignations in Statements. Security granted by the District Board under this Act; and the Board shall, in each Year, in their Ascertainment of the Amount 7 Y necessary
-
-V^.
 
 638 20° &2l° VICTORIA, Cap.71.
 
@@ -16818,7 +16808,7 @@ An Act to render more effectual the Police in Counties and Burghs in Scotland.
 
 WHEREAS an Act was passed in the Eleventh Year of King
 
-George the First (Chapter Twenty-six), "for more effec- HG.l-c.26. " tual disarming the Highlands in that Part of Great " Britain called Scotland,and for the better securing the Peace and " Quiet of that Part of the Kingdom," whereby the Freeholders of every Shire, County, or District in Scotland were authorized to assess the several Shires or Stewartries for raising a sufficient Fund to defray the Charges of apprehending, subsisting, and prosecuting Criminals; and another Act was passed in the Session of Parliament holden in the Second and Third Years of King William the Fourth (Chapter 2 & 3 W. 4. Sixty-five), " to amend the Representation of the People in Scotland" c* 65, whereby the Collection and Application of the said Fund commonly called " Rogue Money " was transferred from the Freeholders to the Commissioners of Supply; and another Act was passed in the Session of Parliament holden in the Second and Third Years of Her Majesty 2 & 3 Vict. (Chapter Sixty-five), " to amend the Mode of assessing the Rogue c*
+George the First (Chapter Twenty-six), "for more effec- HG.l-c.26. " tual disarming the Highlands in that Part of Great " Britain called Scotland, and for the better securing the Peace and " Quiet of that Part of the Kingdom," whereby the Freeholders of every Shire, County, or District in Scotland were authorized to assess the several Shires or Stewartries for raising a sufficient Fund to defray the Charges of apprehending, subsisting, and prosecuting Criminals; and another Act was passed in the Session of Parliament holden in the Second and Third Years of King William the Fourth (Chapter 2 & 3 W. 4. Sixty-five), " to amend the Representation of the People in Scotland" c* 65, whereby the Collection and Application of the said Fund commonly called " Rogue Money " was transferred from the Freeholders to the Commissioners of Supply; and another Act was passed in the Session of Parliament holden in the Second and Third Years of Her Majesty 2 & 3 Vict. (Chapter Sixty-five), " to amend the Mode of assessing the Rogue c*
 
 " Money in Scotland, and to extend the Purposes of such Assessment," whereby the Commissioners of Supply of any County were authorized to levy with and as Part of the Rogue Money an addi-8 F tional
 
@@ -17121,8 +17111,6 @@ XXXVIII. For the Purpose of reimbursing the Collector or other Person by whom an
 XXXIX. If Payment shall not be made within the said Forty Days, according to the Exigency of the Warrant, or if it shall seem more convenient to the Commissioners of Supply of the first-mentioned County, it shall be lawful for them to levy the full Amount of the Police Assessment upon any such detached Part of another County in respect of which such Amount is demandable; and for the Purpose of levying and collecting such Assessments the Commissioners of Supply of such first-mentioned County shall have within every such
 
 detached
-
-V^.
 
 679
 
@@ -17535,8 +17523,6 @@ WHEREAS by an Act passed in the Session holden in the Sixth and Seventh Years of
 6 & 7 Vict. c. 94.
 
 Order in Council, dated 28th July 1856.
-
-V^.
 
 Order in Council confirmed.
 
@@ -18060,7 +18046,7 @@ LXX. Pending any Suit touching the Validity of the Will of any deceased Person, 
 
 LXXI. It shall be lawful for the Court of Probate to appoint any Administrator appointed as aforesaid or any other Person to be Receiver of the Real Estate of any deceased Person pending any Suit in the Court touching the Validity of any Will of such deceased Person by which his Real Estate may be affected, and such Receiver shall have such Power to receive all Rents and Profits of such Real Estate, 8 Y and
 
-Principal Registry,and to be printed*
+Principal Registry, and to be printed*
 
 Registrar to transmit
 
@@ -18080,7 +18066,7 @@ Remunera- LX XII. The Court of Probate may direct that Administrators and
 
 ministortors Receivers appointed pending Suits involving Matters and Causes pendente Testamentary shall receive out of the Personal and Heal Estate covers!*6 of the Deceased such reasonable Remuneration as the Court think fit.
 
-Power sfl to LXXIII. Where a Person has died or shall die wholly intestate as meirt of Ad- to his Personal Estate, or leaving a Will affecting Personal Estate, but ministrator. without having appointed an Executor thereof willing and competent to take Probate, or where the Executor shall at the Time of the Death of such Person be resident out of the United Kingdom of Great Britain and Ireland,and it shall appear to the Court to be necessary or convenient in any such Case, by reason of the Insolvency of the Estate of the Deceased, or other special Circumstances, to appoint some Person to be the Administrator of the Personal Estate of the Deceased, or of any Part of such Personal Estate, other than the Person who if this Act had not been passed would by Law have been entitled to a Grant of Administration of such Personal Estate, it shall not be obligatory upon the Court to grant Administration of the Personal Estate of such deceased Person to the Person who if this Act had not passed would by Law have been entitled to a Grant thereof, but it shall be lawful for the Court, in its Discretion, , to appoint such Person as the Court shall think fit to be Such Administrator upon his giving such Security (if any) as the Court shall direct, and every such Administration may be limited as the Court shall think fit.
+Power sfl to LXXIII. Where a Person has died or shall die wholly intestate as meirt of Ad- to his Personal Estate, or leaving a Will affecting Personal Estate, but ministrator. without having appointed an Executor thereof willing and competent to take Probate, or where the Executor shall at the Time of the Death of such Person be resident out of the United Kingdom of Great Britain and Ireland, and it shall appear to the Court to be necessary or convenient in any such Case, by reason of the Insolvency of the Estate of the Deceased, or other special Circumstances, to appoint some Person to be the Administrator of the Personal Estate of the Deceased, or of any Part of such Personal Estate, other than the Person who if this Act had not been passed would by Law have been entitled to a Grant of Administration of such Personal Estate, it shall not be obligatory upon the Court to grant Administration of the Personal Estate of such deceased Person to the Person who if this Act had not passed would by Law have been entitled to a Grant thereof, but it shall be lawful for the Court, in its Discretion, , to appoint such Person as the Court shall think fit to be Such Administrator upon his giving such Security (if any) as the Court shall direct, and every such Administration may be limited as the Court shall think fit.
 
 38 G. 3. c. 87. LXXIV. The Provisions of an Act passed in the Thirty-eighth Year
 
@@ -18113,8 +18099,6 @@ LXXX. So much of an Act passed in the Twenty-first Year of Sureties to King Henr
 Chapter Ten, and of an Act passed in the First Year of King James the Second, Chapter Seventeen, as requires any Surety, Bond, or other Security to be taken from a Person to whom Administration shall be committed, shall be repealed.
 
 LXXXI. Every
-
-l^
 
 Persons to whom Grant of Administrations shall be committed shall give Bond,
 
@@ -18230,7 +18214,7 @@ XCVIII. The Fees to be collected by means of Stamps under the Provisions ot Prov
 
 XCIX. No Document which under this Act, and any Table of Fees No Docu-for the Time being in force under this Act, ought to have a Stamp in respect of such Fee impressed thereon or affixed thereto, shall be used unless 9 A received tomPed-
 
-738 20"* 21" VICTORIA; €ap.77.
+738 20"* 21" VICTORIA; Cap.77.
 
 Probates and Letter of Administration.
 
@@ -18550,7 +18534,7 @@ The Three Registrars in London, each - - 1,500
 
 The Record Keepers, each ... 600
 
-The Sealer .... 300
+The Sealer ..... 300
 
 LONDON:
 
@@ -18746,7 +18730,7 @@ Probates and Letters of Administration (Ireland).
 
 " Matters and Causes Testamentary " shall comprehend all Matters and Causes relating to the Grant and Revocation of Probate of Wills or of Administration:
 
-" Common Form Business " shall mean the Business of obtaining Probate and Administration where there is no Contention as to the Right thereto, including the passing of Probates atid Administrations through the Court of Probate in .contentious Cases when the Contest is terminated, and all Business of a non-con-tentious Nature to be taken in the Court in Matters of Testacy and Intestacy, not being Proceedings in any Suit, and also the Business of lodging Caveats against the Grant of Probate or Administration:
+" Common Form Business " shall mean the Business of obtaining Probate and Administration where there is no Contention as to the Right thereto, including the passing of Probates and Administrations through the Court of Probate in .contentious Cases when the Contest is terminated, and all Business of a non-con-tentious Nature to be taken in the Court in Matters of Testacy and Intestacy, not being Proceedings in any Suit, and also the Business of lodging Caveats against the Grant of Probate or Administration:
 
 " The Court " shall mean Her Majesty's Court of Probate hereby established, and shall also include the Judge of the said Court:
 
@@ -18966,7 +18950,7 @@ Order to produce any Instrument
 
 Probates and Letters of Administration (Ireland).
 
-throughout all Ireland,and in relation to the Personal Estate in all Parts of Ireland of deceased Persons, as the Prerogative Court and its Grants and Orders respectively now have in relation to those Matters and Causes Testamentary and those Effects of deceased Persons which are within the Jurisdiction of the said Prerogative Court; and all Duties which, by Statute or otherwise, are imposed on or should be performed by Ordinaries generally, or on or by the said Prerogative Court, in respect of Probates, Administrations, or Matters or Causes Testamentary within their respective Jurisdictions, shall be performed by the Court of Probate: Provided that no Suits for Legacies, or Suits for the Distribution of Residues, shall be entertained by the Court, or by any Court or Person whose Jurisdiction as to Matters and Causes Testamentary is hereby abolished.
+throughout all Ireland, and in relation to the Personal Estate in all Parts of Ireland of deceased Persons, as the Prerogative Court and its Grants and Orders respectively now have in relation to those Matters and Causes Testamentary and those Effects of deceased Persons which are within the Jurisdiction of the said Prerogative Court; and all Duties which, by Statute or otherwise, are imposed on or should be performed by Ordinaries generally, or on or by the said Prerogative Court, in respect of Probates, Administrations, or Matters or Causes Testamentary within their respective Jurisdictions, shall be performed by the Court of Probate: Provided that no Suits for Legacies, or Suits for the Distribution of Residues, shall be entertained by the Court, or by any Court or Person whose Jurisdiction as to Matters and Causes Testamentary is hereby abolished.
 
 XXIX. The Court may require the Attendance of any Party in Person, or of any Person whom it may think fit to examine or cause to be examined in any Suit or other Proceeding in respect of Matters or Causes Testamentary, or may examine or cause to be examined upon Oath or Affirmation, as the Case may require, Parties and Witnesses by Word of Mouth, and may, either before or after or with or without such Examination, cause them or any of them to be examined on Interrogatories, or receive their or any of their Affidavits or solemn Affirmations, as the Case may be; and the Court may by Writ require such Attendance, and order to be produced before itself or otherwise any Deeds, Evidences, or Writings, in the same Form, or nearly as may be, as that in which a Writ of Subpoena ad testificandum, or of Subpoena duces tecum, is now issued by any of the Superior Courts of Law; and every Person disobeying any such Writ shall be considered as in Contempt of the Court, and also be liable to forfeit a Sum not exceeding One hundred Pounds.
 
@@ -18984,7 +18968,7 @@ not be pending in the Court with respect to any Probate or Adminis- purporting t
 
 XXXII. The Registrars and District Registrars shall respectively Registrars,
 
-have full Power to administer Oaths; and all Persons who at the p°^.^ve Commencement of this Act shall be acting as Surrogates of any administer Ecclesiastical Court, and any other Persons whom the Judge shall, 0atl18* under the Seal of the Court, from Time to Time appoint, shall respec- Power to tively have full Power to administer Oaths and perform such other als°'
+have full Power to administer Oaths; and all Persons who at the p°^.^ve Commencement of this Act shall be acting as Surrogates of any administer Ecclesiastical Court, and any other Persons whom the Judge shall, Oaths* under the Seal of the Court, from Time to Time appoint, shall respec- Power to tively have full Power to administer Oaths and perform such other als°'
 
 Duties in reference to Matters and Causes Testamentary as may be sj0ners to assigned to them from Time to Time by the Rules and Orders under administer this Act; and the Persons so appointed shall be styled " Commis- a c' sioners of Her Majesty's Court of ProbateProvided, that any Party required to be examined, or any Person called as a Witness or required or desiring to make an Affidavit or Deposition under or for
 
@@ -19065,8 +19049,6 @@ XLII. When the Court shall order a Question of Fact to be tried before itself by
 XLIII. When any such Question shall be so ordered to be tried by a Jury before the Court itself, such Question shall be reduced into
 
 Writing
-
-V^.
 
 20" & 21" VICTORIA Cap.79.
 
@@ -19223,8 +19205,6 @@ or
 Where the Wins
 
 proved in solemnForm, or its Validity otherwise decided on, the Decree of the Court to be binding on the Persons interested in the Beal Estate.
-
-V^
 
 Probate or Office Copy to be Evidence of the Will in Suits concerning Beal Estate, save where the Validity of the Will is put in issue.
 
@@ -19452,8 +19432,6 @@ b° Officers Act, fix a Table of Fees to be taken by the Officers of the Court o
 
 Registrars
 
-V^.
-
 20° & 21° VICTORIA, Gap.79.
 
 Probates and Letters of Administration (Ireland).
@@ -19626,9 +19604,9 @@ Salary.
 
 The Registrars in Dublin, each * - - - £ 1,000
 
-The Record Keeper.................450
+The Record Keeper ..... 450
 
-The Clerk of the Seal................300
+The Clerk of the Seal ..... 300
 
 LONDON:
 
@@ -19706,7 +19684,7 @@ herein
 
 Burial Acts Amendment.
 
-herein contained, shall extend to the District of such Board, and to such Board, or to the District of such Commissioners, and to such Commissioners, and to any Burial Ground and Places for the Reception of the Bodies of the Dead previously to Interment which may be provided by such Board or by such Commissioners, in like Manner as to any Parish or Parishes and the Burial Board thereof, and any Burial Ground and any such Places as aforesaid provided by such last-mentioned Board, save that no Approval, Sanction, or Authorization of any Vestry shall be requisite: Provided always, that Notice of such Petition, and of the Time when it shall please Her Majesty to order the same to be taken into consideration by the Privy Council, shall be published in the London Gazette,and in One of the Newspapers usually circulating in the District of such Local Board or of such Commissioners, One Month at least before such Petition is so considered: Provided also, that this Enactment shall not apply to any such District as aforesaid exclusively consisting of the whole or Part of One Corporate Borough within the Meaning of the Public Health Act, 1848.
+herein contained, shall extend to the District of such Board, and to such Board, or to the District of such Commissioners, and to such Commissioners, and to any Burial Ground and Places for the Reception of the Bodies of the Dead previously to Interment which may be provided by such Board or by such Commissioners, in like Manner as to any Parish or Parishes and the Burial Board thereof, and any Burial Ground and any such Places as aforesaid provided by such last-mentioned Board, save that no Approval, Sanction, or Authorization of any Vestry shall be requisite: Provided always, that Notice of such Petition, and of the Time when it shall please Her Majesty to order the same to be taken into consideration by the Privy Council, shall be published in the London Gazette, and in One of the Newspapers usually circulating in the District of such Local Board or of such Commissioners, One Month at least before such Petition is so considered: Provided also, that this Enactment shall not apply to any such District as aforesaid exclusively consisting of the whole or Part of One Corporate Borough within the Meaning of the Public Health Act, 1848.
 
 V. The Vestry, or Meeting in the Nature of a Vestry, of any Parish, Burial Board new Parish, Township, or other District not separately maintaining its ^rt'*
 
@@ -19736,7 +19714,7 @@ Debt
 
 Burial Acts Amendment.
 
-Debt is due, the said Burial Ground shall be vested in and be under the Care and Management of such Burial Board, and thereupon the same shall be vested in and be under the Care and Management of such Board, and shall be subject to. the Provisions of the hereinbefore recited Acts and this Act applicable to a consecrated Burial Ground or the consecrated Part of any Burial Ground provided by any Burial Board; and any Money borrowed as aforesaid, and remaining owing, and the Interest due and to become due thereon, and all Costs and Expenses occasioned by the Nonpayment thereof, or incurred in providing such Burial Ground, and then remaining unpaid, shall be charged on and paid out of such Rates or Fund as under the said last-mentioned Acts and this Act would be chargeable with the Expense of providing a Burial Ground by such Board, and such Declaration as aforesaid shall be registered in the Registry of the Diocese; and such Board may, with the Approval of the Vestry, enlarge such Burial Ground, by the Addition of Ground to be used for Burials otherwise than according to the Rites of the Church of England,and to be used subject to the Provisions of the Acts herein recited and of this Act in respect to the unconsecrated Portions of Burial Grounds.
+Debt is due, the said Burial Ground shall be vested in and be under the Care and Management of such Burial Board, and thereupon the same shall be vested in and be under the Care and Management of such Board, and shall be subject to. the Provisions of the hereinbefore recited Acts and this Act applicable to a consecrated Burial Ground or the consecrated Part of any Burial Ground provided by any Burial Board; and any Money borrowed as aforesaid, and remaining owing, and the Interest due and to become due thereon, and all Costs and Expenses occasioned by the Nonpayment thereof, or incurred in providing such Burial Ground, and then remaining unpaid, shall be charged on and paid out of such Rates or Fund as under the said last-mentioned Acts and this Act would be chargeable with the Expense of providing a Burial Ground by such Board, and such Declaration as aforesaid shall be registered in the Registry of the Diocese; and such Board may, with the Approval of the Vestry, enlarge such Burial Ground, by the Addition of Ground to be used for Burials otherwise than according to the Rites of the Church of England, and to be used subject to the Provisions of the Acts herein recited and of this Act in respect to the unconsecrated Portions of Burial Grounds.
 
 VIII. It shall and may be lawful for the Vestry of any Parish in Vestry of which any Burial Ground closed by Order in Council may be situate, ^hkhBurial and which does not belong to such Parish, by Resolution of the Ground is Vestry at a Meeting called for that Purpose, to purchase such Burial Ground, and from the Time of such Purchase such Burial Ground such Burial shall belong to such Parish, and be subject to all the Conditions notek>ng-affecting the Burial Grounds of the Parish in which the same is ingtoParish. situate.
 
@@ -20010,7 +19988,7 @@ An Act for confirming a Scheme of the Charity Commissioners for the College of G
 
 WHEREAS the Charity Commissioners for and
 
-%/mr Wales, in their Report to Her Majesty of their Proceed-" " ings during the Year One thousand eight hundred and fifty-five, have reported that they have provisionally approved and certified (among other Schemes for the Application and Management of Charities) a Scheme for the College of God's Gift in Ditlwich in the County of Surrey,and such Scheme is set out in the Appendix to the said Report: And whereas it is expedient that the said Scheme, as the same, with certain Modifications thereof, is set out in the Schedule to this Act, shall take effect: Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+%/mr Wales, in their Report to Her Majesty of their Proceed-" " ings during the Year One thousand eight hundred and fifty-five, have reported that they have provisionally approved and certified (among other Schemes for the Application and Management of Charities) a Scheme for the College of God's Gift in Ditlwich in the County of Surrey, and such Scheme is set out in the Appendix to the said Report: And whereas it is expedient that the said Scheme, as the same, with certain Modifications thereof, is set out in the Schedule to this Act, shall take effect: Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 I. The Scheme set out in the Schedule to this Act shall be established and take effect.
 
@@ -20185,8 +20163,6 @@ Present servants and attendants may be pensioned.
 Present pensions and exhibitions to be continued.
 
 Clerk a Receiver.
-
-l^
 
 Dade* of clerk.
 
@@ -20521,8 +20497,6 @@ Dulwich College.
 72. The foundation scholars at the lower school shall be elected from time to time from amongst boys duly qualified as aforesaid, upon an examination and inquiry to be instituted by the governors, or by a committee of not less than three of their number, to be appointed for that purpose; and every such election shall be held either at Dulwich or at the respective parishes from which the scholars are to be elected, and shall take place at such times and be subject to such rules and regulations as may be prescribed by the said governors; and previously to every such election sufficient notice shall be given by the governors in such of the said parishes as may be interested therein, and in any manner and form which the governors may consider best calculated to ensure publicity, specifying the number of vacancies to be filled up, and the qualifications required from candidates, and the time and place at which the election will take place; and in making every such election the merits, qualifications, and claims of the candidates in regard to their respective proficiency, abilities, and general character, and the circumstances and character of their respective parents, shall be taken into due consideration by the governors.
 
 73. The
-
-l^
 
 Dulwich College.
 
