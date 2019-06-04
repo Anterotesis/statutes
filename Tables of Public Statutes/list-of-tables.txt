@@ -47,7 +47,10 @@
 1767-8-Geo-3-session-2.txt
 1767-8-Geo-3.txt
 1775-15-George-3.txt
-1790-30-Geo-3.txt
+1790-30-George-3.txt
+1797-38-George-3.txt
+1798-39-George-3.txt
+1799-39-40-George-3.txt
 1800-41-George-3-GB.txt
 1801-41-George-3-UK.txt
 1802-42-George-3.txt
@@ -181,4 +184,3 @@
 1919-9-10-George-5.txt
 1920-10-11-George-5.txt
 1921-11-12-George-5.txt
-list-of-tables.txt
