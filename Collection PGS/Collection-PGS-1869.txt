@@ -292,12 +292,10 @@ Most Gracious Sovereign,
 
 WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards making good the supply which we have cheerfully granted to Your Majesty in this session of Parliament, have resolved to grant unto Your Majesty the sum herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
----
-
 1. There shall and may be issued and applied, for or towards making good the supply granted to Her Majesty for the service of the years ending on the thirty-first day of March one thousand eight hundred and sixty-eight and one thousand eight hundred and sixty-nine, the sum of four million five hundred and six thousand two hundred and seventy-two pounds thirteen shillings and fourpence out of the consolidated fund of the United Kingdom of Great Britain and Ireland, and the Commissioners of Her Majesty's Treasury for the time being are hereby authorized and empowered to issue and apply the same accordingly.
 
 2. There shall and may be issued and applied, for or towards making good the supply granted to Her Majesty for the service of the year ending on the thirty-first day of March one thousand eight hundred and seventy, the sum of three million nine hundred thousand pounds out of the consolidated fund of the United Kingdom of Great Britain and Ireland, and the Commissioners of Her Majesty's Treasury for the time being are hereby authorized and empowered to issue and apply the same accordingly.
-
+---
 [JVo. 1. Price 2d] A
 
 There shall be applied for the service of the years ending 31st March 1868 and 1869 the sum of 4,506,2721.13*. 4d, out of the consolidated fund.
@@ -324,7 +322,7 @@ CHAP. 2.
 
 An Act for repealing the Act of the session of the eighth and ninth years of the reign of Her present Majesty, chapter one hundred and twenty-two.
 
-WHEREAS by an Act passed in the session of the eighth and ninth years of the reign of Her present Majesty, chapter one hundred and twenty-two, and intituled " An Act u to amend an Act, intituled ' An Act to carry into execution a convention between His Majesty and the Emperor u 6 of Brazil for the regulation and final abolition of the " 1 African Slave Trade,' " provision is made for carrying into execution in manner therein mentioned a certain convention between His late Majesty King George the Fourth and the Emperor of Brazil for the regulation and final abolition of the African slave trade: And whereas the circumstances which led to the passing of the said Act no longer exist by reason of the cessation of the importation of slaves into Brazil from Africa:
+WHEREAS by an Act passed in the session of the eighth and ninth years of the reign of Her present Majesty, chapter one hundred and twenty-two, and intituled " An Act to amend an Act, intituled ' An Act to carry into execution a convention between His Majesty and the Emperor u 6 of Brazil for the regulation and final abolition of the " 1 African Slave Trade,' " provision is made for carrying into execution in manner therein mentioned a certain convention between His late Majesty King George the Fourth and the Emperor of Brazil for the regulation and final abolition of the African slave trade: And whereas the circumstances which led to the passing of the said Act no longer exist by reason of the cessation of the importation of slaves into Brazil from Africa:
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -334,7 +332,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 twenty-two, is hereby repealed; provided that such repeal shall not affect any operation already effected by, or declaration of validity or of indemnity contained in, the said Act, or any right, title, obligation, or liability already acquired or accrued, or act done, under or by virtue of the said Act,
 
-2. This Act may be cited for all purposes as " The Brazilian start title. Slave Trade Repeal Act, 1869.,
+[Short title.]
+
+2. This Act may be cited for all purposes as " The Brazilian Slave Trade Repeal Act, 1869.,
 
 CHAP. 3.
 
@@ -382,15 +382,13 @@ An Act for punishing Mutiny and Desertion, and for the better payment of the Arm
 
 [19th April 1869.]
 
-WHEREAS the raising or keeping a standing army within " the United Kingdom of Great Britain and Ireland in time of peace, unless it be with the consent of Parliament, is against law: And whereas it is adjudged necessary by Her Majesty and this present Parliament that a body of forces should be continued for the safety of the United Kingdom, and the defence of the possessions of Her Majesty's Crown, and that the whole number of such forces should consist of one hundred and twenty-seven thousand three hundred and sixty-six men, including nine thousand five hundred and ninety-five, all ranks, to be employed with the dep6ts in the United Kingdom of Great Britain and Ireland of regiments serving in Her Majesty's Indian possessions, but exclusive of the numbers actually serving within Her Majesty's Indian possessions: And whereas no man can be forejudged of life or limb, or subjected in time of peace to any kind of punishment within this realm by martial law, or in any other manner than by judgment of his peers, and according to the known and established laws of this realm; yet nevertheless it being requisite, for the retaining all the before-mentioned forces in their duty, that an exact discipline be observed, and that soldiers who shall mutiny or stir up sedition, or shall desert Her Majesty's service, or be guilty of crimes and offences to the prejudice of good order and military discipline, be brought to a more exemplary and speedy punishment than the usual forms of the law will allow:
+WHEREAS the raising or keeping a standing army within the United Kingdom of Great Britain and Ireland in time of peace, unless it be with the consent of Parliament, is against law: And whereas it is adjudged necessary by Her Majesty and this present Parliament that a body of forces should be continued for the safety of the United Kingdom, and the defence of the possessions of Her Majesty's Crown, and that the whole number of such forces should consist of one hundred and twenty-seven thousand three hundred and sixty-six men, including nine thousand five hundred and ninety-five, all ranks, to be employed with the dep6ts in the United Kingdom of Great Britain and Ireland of regiments serving in Her Majesty's Indian possessions, but exclusive of the numbers actually serving within Her Majesty's Indian possessions: And whereas no man can be forejudged of life or limb, or subjected in time of peace to any kind of punishment within this realm by martial law, or in any other manner than by judgment of his peers, and according to the known and established laws of this realm; yet nevertheless it being requisite, for the retaining all the before-mentioned forces in their duty, that an exact discipline be observed, and that soldiers who shall mutiny or stir up sedition, or shall desert Her Majesty's service, or be guilty of crimes and offences to the prejudice of good order and military discipline, be brought to a more exemplary and speedy punishment than the usual forms of the law will allow:
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows: ]* It shall be lawful for Her Majesty to make Articles of War for the better government of Her Majesty's army, which articles shall be judicially taken notice of by all judges and in all courts whatsoever; and copies of the same, printed by
 
-Mutiny.
+Mutiny. Ch.4.
 
-Ch.4.
-
-the Queen's printer, shall, as soon as may be after the same copies printed shall have been made and established by Her Majesty, be printertobT* transmitted by Her Majesty's Secretary of State for the War transmitted to Department to the judges of Her Majesty's superior courts at &c-Westminster, Dublin, and Edinburgh respectively, and also to the governors of Her Majesty's dominions abroad: Provided that no person within the United Kingdom of Great Britain and Ireland, or within the British Isles, shall by such Articles of War be subject to suffer any punishment extending to life or limb, or to be kept in penal servitude, except for crimes which are by this Act expressly made liable to such punishments as aforesaid, or shall be subject, with reference to any crimes made punishable by this Act, to be punished in any manner which shall not accord with the provisions of this Act: Provided also, that nothing in this Act contained shall in any manner prejudice or affect any Articles of War or other matters made, enacted, or in force, or which may hereafter be made, enacted, or in force, under the authority of the Government of India, respecting officers or soldiers or followers in Her Majesty's Indian army, being natives of India; and on the trial of all offences committed by any such native officer or soldier or follower, reference shall be had to the Articles of War framed by the Government of India for such native officers, soldiers, or followers, and to the established usages of the service.
+the Queen's printer, shall, as soon as may be after the same copies printed shall have been made and established by Her Majesty, be printer tobT* transmitted by Her Majesty's Secretary of State for the War transmitted to Department to the judges of Her Majesty's superior courts at &c-Westminster, Dublin, and Edinburgh respectively, and also to the governors of Her Majesty's dominions abroad: Provided that no person within the United Kingdom of Great Britain and Ireland, or within the British Isles, shall by such Articles of War be subject to suffer any punishment extending to life or limb, or to be kept in penal servitude, except for crimes which are by this Act expressly made liable to such punishments as aforesaid, or shall be subject, with reference to any crimes made punishable by this Act, to be punished in any manner which shall not accord with the provisions of this Act: Provided also, that nothing in this Act contained shall in any manner prejudice or affect any Articles of War or other matters made, enacted, or in force, or which may hereafter be made, enacted, or in force, under the authority of the Government of India, respecting officers or soldiers or followers in Her Majesty's Indian army, being natives of India; and on the trial of all offences committed by any such native officer or soldier or follower, reference shall be had to the Articles of War framed by the Government of India for such native officers, soldiers, or followers, and to the established usages of the service.
 
 2. All the provisions of this Act shall apply to all persons Persons subject who are or shall be commissioned or in pay as an officer, or $* Act who are or shall be listed or in pay as a non-commissioned officer or soldier, and to all warrant officers, and to all persons employed on the recruiting service receiving pay, and all pensioners receiving allowances in respect of such service, and to persons who are or shall be hired to be employed in the royal artillery, royal engineers, and to master gunners, and to conductors of stores, and to the corps of royal military surveyors and draftsmen, and to all officers and persons who are or shall be serving on the commissariat staff, or soldiers in the commissariat staff corps, and to officers and soldiers serving in the corps to be hereafter organized and called the army service corps, or in the military store department, or in the military store staff corps, and to persons in the War Department, who are or shall be serving with any part of Her Majesty's army at home or abroad, under the command of any commissioned officer, and (subject to and in accordance with the provisions of an Act passed in the sixth and seventh years of the reign of Her present Majesty, chapter ninety-five,) to any out-pensioners of the Royal Hospital, Chelsea, who may be called out on duty in aid of the civil power, or for muster or inspection, or who having volunteered their services for that purpose shall be kept on duty in any fort, town, or garrison, and to all military store officers and other civil officers who are or shall be employed by or act under the Secretary of State for
 
@@ -410,7 +408,7 @@ War at any of Her Majesty's establishments in the islands of Jersey, Guernsey, A
 
 4. All officers and soldiers of any troops mustered and in pay which shall be raised and serving in any of Her Majesty's dominions abroad, or in places in possession of or occupied by Her Majesty's subjects under the command of any officer
 
-1869. Mutiny. Cn. 4. 7
+1869. Mutiny. Ch. 4. 7
 
 having any commission immediately from Her Majesty, shall provisions of be subject to the provisions of this Act and of Her Majesty's AcU Articles of War, in like manner as Her Majesty's other forces are; and if such officers and soldiers, having been made prisoners, be sent into Great Britain or Ireland, although not allowed to serve therein, all the provisions of this Act in regard to billeting soldiers shall apply to such officers and soldiers.
 
@@ -426,7 +424,7 @@ grant commissions under the royal sign manual for the holding of courts-martial 
 
 be tried and punished for the same in any part of Her Majesty's dominions or in any other place whereto he may have come or where he may be after the commission of the
 
-Powers of general courts* martial
+Powers of general courts-martial
 
 Powers of district or garrison courts-martial.
 
@@ -454,7 +452,7 @@ offence, as if the offence had been committed where such trial shall take place.
 
 court-martial shall have the same powers in regard to sentence upon offenders as are granted by this Act to general courts-martial: Provided always, that no sentence of any such court-martial shall be executed until the general commanding the army of which such detachment or portion forms part shall have approved and confirmed the same.
 
-13. All general and other courts-martial shall admin ster As to swearing an oath to every witness or other person who shall be ex- and summoning amined before such court in any matter relating to any pro- Wltnesse8' ceeding before the same; and every person, as well civil as military, who may be required to give or produce evidence
+13. All general and other courts-martial shall administer As to swearing an oath to every witness or other person who shall be ex- and summoning amined before such court in any matter relating to any pro- Wltnesse8' ceeding before the same; and every person, as well civil as military, who may be required to give or produce evidence
 
 before a court-martial, shall, in the case of general courts-martial, be summoned by the judge advocate general, or his deputy, or the person officiating as judge advocate, and in the case of all other courts-martial by the president of the court; and all persons so summoned and attending as witnesses before any court-martial shall, during their necessary attendance in or on such courts, and in going to and returning from the same, be privileged from arrest, and shall, if unduly arrested, be discharged by the court out of which the writ or process issued .by which such witness was arrested, or if such court be not sitting, then by any judge of the superior courts of Westminster or Dublin, or of the Court of Session in Scotland, or of the courts of law in the East or West Indies, or elsewhere, according as the case shall require, upon its being made to appear to such court or judge, by any affidavit in a summary way, that such witness was arrested in going to or attending upon or returning from such court-martial; and all witnesses so duly summoned as aforesaid who shall not attend on such courts, or attending shall refuse to be sworn, or being sworn shall refuse to give evidence, or not produce the documents under their power or control required to be produced by them, or to answer all such questions as the court may legally demand of them, shall be liable to be attached in the Court of Queen's Bench in London or Dublin, or in the Court of Session or Sheriff or Stewart Courts in Scotland, or in courts of law in the East or West Indies, or in any of Her Majesty's colonies, garrisons, or dominions in Europe or elsewhere respectively, upon complaint made, in like manner as if such witness, after having been duly summoned or subpoenaed, had neglected to attend upon a trial in any proceeding in the court in which such complaint shall be made: Provided always, that nothing in this Act contained shall be construed to render an oath necessary in any case where by law a solemn affirmation may be made instead thereof: It shall be lawful for the president of any Oath to be court-martial to administer an oath to a shorthand writer ^redt0 to take down, according to the best of his power, the evidence writer, to be given before the court.
 
@@ -478,9 +476,7 @@ same or any other court-martial for the same offence; and no finding, opinion, o
 
 general court-martial it shall be lawful for Her Majesty, or if penal servi-in any place out of the United Kingdom or British Isles, for tade. or other the commanding officer haying authority to confirm the sen- p tence, instead of causing such sentence to be carried into execution, to order the offender to be kept in penal servitude for any term not less than five years, or to suffer such term of imprisonment, with or without hard labour, and with or without solitary confinement, as shall seem meet to Her Majesty, or to the officer commanding as aforesaid.
 
-17. Any officer or soldier of Her Majesty's army, or any Embezzlement, person employed in the War Department, or in any way con-
-
-cemed in the care or distribution of any money, provisions, ge^tiide, forage, arms, clothing, ammunition, or other stores belonging or by fine, im-to Her Majesty's army or for Her Majesty's use, who shall Pris€nment»&c-embezzle, fraudulently misapply, wilfully damage, steal, or receive the same, knowing them to have been stolen, or shall be concerned therein or connive thereat, may be tried for the same by a general court-martial, and sentenced to be kept in penal servitude for any term not less than five years, or to suffer such punishment of fine, imprisonment with or without hard labour, dismissal from Her Majesty's service, reduction to the ranks if a warrant or non-commissioned officer, as such court shall think fit, according to the nature and degree of the offence; and every such offender shall, in addition to any other punishment, make good at his own expense the loss and damage sustained, and in every such case the court is required to ascertain by evidence the amount of such loss or damage, and to declare by their sentence that such amount shall be made good by such offender; and the loss and damage so ascertained as aforesaid shall be a debt to Her Majesty, and may be recovered in any of Her Majesty's courts at Westminster or in Dublin, or the Court of Exchequer in Scotland, or in any court in Her Majesty's colonies, or in India, where the person sentenced by such court-martial shall be resident, after the said judgment shall be confirmed and made known, or the offender, if he shall remain in the service, may be put under stoppages not exceeding one half of his pay and allowances until the amount so ascertained shall be recovered.
+17. Any officer or soldier of Her Majesty's army, or any Embezzlement, person employed in the War Department, or in any way concemed in the care or distribution of any money, provisions, ge^tiide, forage, arms, clothing, ammunition, or other stores belonging or by fine, im-to Her Majesty's army or for Her Majesty's use, who shall Prisonment»&c-embezzle, fraudulently misapply, wilfully damage, steal, or receive the same, knowing them to have been stolen, or shall be concerned therein or connive thereat, may be tried for the same by a general court-martial, and sentenced to be kept in penal servitude for any term not less than five years, or to suffer such punishment of fine, imprisonment with or without hard labour, dismissal from Her Majesty's service, reduction to the ranks if a warrant or non-commissioned officer, as such court shall think fit, according to the nature and degree of the offence; and every such offender shall, in addition to any other punishment, make good at his own expense the loss and damage sustained, and in every such case the court is required to ascertain by evidence the amount of such loss or damage, and to declare by their sentence that such amount shall be made good by such offender; and the loss and damage so ascertained as aforesaid shall be a debt to Her Majesty, and may be recovered in any of Her Majesty's courts at Westminster or in Dublin, or the Court of Exchequer in Scotland, or in any court in Her Majesty's colonies, or in India, where the person sentenced by such court-martial shall be resident, after the said judgment shall be confirmed and made known, or the offender, if he shall remain in the service, may be put under stoppages not exceeding one half of his pay and allowances until the amount so ascertained shall be recovered.
 
 18. Whenever Her Majesty shall intend that any sentence 4s to execu- of penal servitude heretofore or hereafter passed upon any rfpenai offender by any court-martial shall be carried into execution servitude in for the term specified in such sentence or for any shorter United term, or shall be graciously pleased to commute as aforesaid Kingdom*
 
@@ -516,11 +512,7 @@ Courts-martial may not sentence to corporal punishment in time of peace.
 
 Power to inflict corporal
 
-1869.
-
-Mutiny.
-
-Ch. 4*.
+1869. Mutiny. Ch. 4.
 
 ment, to award imprisonment, with or without hard labour, and with or without solitary confinement, such confinement not exceeding the periods prescribed by the Articles of War.
 
@@ -533,8 +525,6 @@ ment, to award imprisonment, with or without hard labour, and with or without so
 27. A general, garrison, or district court-martial may sentence any soldier to imprisonment, with or without hard labour, and with or without solitary confinement, but such solitary confinement shall not exceed the periods prescribed by the Articles of War; and any regimental or detachment court-martial may sentence any soldier to imprisonment, with or without hard labour, for any period not exceeding forty-two days, and with or -without solitary confinement not exceeding the periods prescribed by the Articles of War.
 
 28. Whenever sentence shall be passed by a court-martial on an offender already under sentence either of imprisonment or of penal servitude, the court may award a sentence of imprisonment or penal servitude for the offence for which he is under trial, to commence at the expiration of the imprisonment or penal servitude to which he shall have been so previously sentenced, although the aggregate of the terms of
-
-B 2
 
 15
 
@@ -554,13 +544,11 @@ Ch. 4. Mutiny. 32 Vict.
 
 imprisonment or penal servitude respectively may exceed the term for which any of those punishments could be otherwise awarded. Whenever Her Majesty, or any general or other officer authorized to confirm the sentences of courts-martial, shall commute a sentence of penal servitude or corporal punishment to imprisonment, and the offender whose sentence shall be so commuted shall, at the time of such commutation, be under sentence of imprisonment or penal servitude, it shall be lawful for Her Majesty, or the general or other officer who shall so commute such sentence, to direct that such commuted sentence of imprisonment shall commence at the expiration of the imprisonment or penal servitude to which such prisoner shall have been so previously sentenced, although the aggregate of the term of imprisonment or penal servitude respectively may exceed the term for which any of those punishments could be otherwise awarded, a* 29. It shall be lawful for the Secretary of State for the War Department, and in India for the Governor General in Council, to set apart any buildings now erected or which may hereafter be erected, or any part or parts thereof, as military prisons, and to declare that any building or any two or more buildings shall be, and thenceforth such building or buildings shall be deemed and taken to be, a military prison; and every military prison which, under the provisions of any former Act of Parliament, has been or which shall be so as aforesaid set apart and declared, shall be deemed to be a public prison within the meaning of this Act; and all and every the powers and authorities with respect to county gaols or houses of correction which now are or which may hereafter be vested in any of Her Majesty's Principal Secretaries of State shall, with respect to all such military prisons, belong to and may be exercised by the Secretary of State for the War Department, and in India by the Governor General in Council; and it shall be lawful for the said Secretary of State, and in India for the Governor General in Council, from time to time to make, alter, and repeal rules and regulations for the government and superintendence of any such military prison, and of the governor, provost marshal, officers, and servants thereof, and of the offenders confined therein, which said rules and regulations so made as aforesaid shall remain and continue to be in force until the same are altered or repealed by Her Majesty's said Secretary of State for War, or in India by the Governor General in Council; and it shall be lawful for the said Secretary of State, and in India for the Governor General in Council, from time to time to appoint an inspector general and inspectors of military prisons, and a governor, or provost marshal, and all other necessary officers and servants for any such military prison, and, as occasion may arise, to remove the governor or provost marshal, officer or servant of any such military prison; and the general or other officer commanding any district or station within which may be any such military
 
-1869. Mutvny. Ch. 4. 17
+1869. Mutiny. Ch. 4. 17
 
 prison, or such general or other officer, and such other person or persons as the said Secretary of State, and in India the Governor General in Council, may from time to time appoint, shall be a visitor or visitors of such prison; and the said Secretary of State, and in India the Governor General in Council, may authorize any general officer commanding on a foreign station to appoint periodically visitors to any military prison within his command; and the said Secretary of State, and in India the Governor General in Council, shall transmit to the visitor or visitors of every military prison established by his authority a copy of the rules and regulations which are to be observed and enforced, and the same shall accordingly be observed and enforced, within such prison; and every inspector, visitor, and governor of any such military prison shall, subject to such rules and regulations as may from time to time be made by the said Secretary of State, or in India by the Governor General in Council, have and exercise in respect of such prison, and of the governor, officers, and servants thereof, and of the prisoners confined therein, all the powers and authorities, as well in respect of administering oaths as otherwise, which any inspector, visiting justice, or governor of a county gaol or house of correction may respectively exercise as such.
 
 30. Every governor, provost marshal, gaoler, or keeper of As to the cus-any public prison or of any gaol or house of correction in any offi*ders under part of Her Majesty's dominions shall receive into his custody sentence of any military offender under sentence of imprisonment by a conit-mwtial court-martial, upon delivery to him of an order in writing in ^geg< 0 er that behalf from the general commanding in chief, or the adjutant general, or the officer who confirmed the proceedings of the court, or the officer commanding the regiment or corps to which the offender belongs or is attached, which order shall specify the offence of which he shall have been convicted, and the sentence of the court, and the period of imprisonment which he is to undergo, and the day and hour of the day on which he is to be released; and such governor, provost marshal, gaoler, or keeper shall keep such offender in a proper place of confinement, with or without hard labour, and with or without solitary confinement, according to the sentence of the court and during the time specified in the Said order, or until he be discharged or delivered over to other custody before the expiration of that time under an order duly made for that purpose; and whenever troops are called out in aid of the civil power, or are stationed in billets, or are on the line of march, every governor, provost marshal, gaoler, or keeper of any public prison, gaol, house of correction, lock-up house, or other place of confinement, shall receive into his custody any soldier for a period not exceeding seven days, upon delivery to him of an order in writing on that behalf from the officer commanding such troops.
-
-B 3
 
 18
 
@@ -570,11 +558,11 @@ Ch. 4. Mutiny^ 32 Vict,
 
 31. In the case of a prisoner undergoing imprisonment under the sentence of a court-martial in any public prison other than the military prisons set apart by the authority of this Act, or in any gaol or house of correction in any part of the United Kingdom, it shall be lawful for the general commanding in chief, or the adjutant general, or the officer who confirmed the proceedings of the court, or the officer commanding the district or garrison in which such prisoner may be, to give, as often as occasion may arise, an order in writing directing that the prisoner be discharged, or be delivered over to military custody, whether for the purpose of being removed to some other prison or place in the United Kingdom, there to undergo the remainder or any part of his sentence, or for the purpose of being brought before a court-martial either as a witness or for trial; and in the case of a prisoner undergoing imprisonment or penal servitude under the sentence of a court-martial in any public prison other than such military prison as aforesaid, or in any gaol or house of correction in any part of Her Majesty's dominions other than the United Kingdom, it shall be lawful for the general commanding in chief or the adjutant general of Her Majesty's forces in the case of any such prisoner, and for the Commander-in-Chief in India in the case of any prisoner so confined in any part of Her Majesty's Indian dominions, and for the general commanding in chief in any presidency in India in the case of a prisoner so therein confined, and for the officer commanding in chief or the officer who confirmed the proceedings of the court at any foreign station in the case of a prisoner so there confined, to give as often as occasion may arise an order in writing directing that the prisoner be discharged or be delivered over to military custody, whether for the purpose of being removed to some other prison or place in any part of Her Majesty's dominions, there to undergo the remainder or any part of his sentence, or for the purpose of being brought before a court-martial either as a witness or for trial; and in the case of any prisoner who shall be removed by any such order from any such prison, gaol, or house of correction either within the United Kingdom or elsewhere to some other prison or place either in the United Kingdom or elsewhere, the officer who gave such order shall also give an order in writing directing the governor, provost marshal, gaoler, or keeper of such other prison or place to receive such prisoner into his custody, and specifying the offence of which such prisoner shall have been convicted and the sentence of the court, and the period of imprisonment which he is to undergo, and the day and the hour on which he is to be released; and such governor, provost marshal, gaoler, or keeper shall keep such offender in a proper place of confinement, with or without hard labour, and with or without solitary confinement, according to the sentence of the court, and during the time specified in the said order, or unti}
 
-J869. Mutiny. Ch. 4 19
+1869. Mutiny. Ch. 4 19
 
 lie be duly discharged or delivered over to other custody before the expiration of that time under an order duly made for that purpose; and in the case of a prisoner undergoing imprisonment or penal servitude under the sentence of a court-martial in any military prison in any part of Her Majesty's dominions, the Secretary of State for the War Department, or the general officer commanding the district or station in which the prison may be situated, shall have the like powers in regard to the discharge and delivery over of such prisoners to military custody as may be lawfully exercised by any of the military authorities above mentioned in respect of any prisoners undergoing confinement as aforesaid in any public prison other than a military prison, or in any gaol or house of correction in any part of Her Majesty's dominions; and such prisoner in any of the cases herein-before mentioned shall accordingly, on the production of any such order as is herein-before mentioned, be discharged or delivered over, as the case may be: Provided always, that the time during which any prisoner under sentence of imprisonment by a court-martial shall be detained in such military custody under such order as aforesaid shall be reckoned as imprisonment under the sentence for whatever purpose such detention shall take place; and such prisoner may during such time, either when on board ship or otherwise, be subjected to such restraint as is necessary for his detention and removal.
 
-32. The gaoler or keeper of any public prison, gaol, house Provision for of correction, lock-up house, or other place of confinement in subsistence* any part of Her Majesty's dominions shall diet and supply every soldier imprisoned therein under the sentence of a court-martial or as a deserter with fuel and other necessaries according to the regulations of such place of confinement, and shall receive on account of every soldier, out of the subsistence of such soldier during the period of his imprisonment, in Great Britain and Ireland, one shilling per diem, and in other parts of Her Majesty's dominions sixpence per diem s Provided also, that in all cases where such soldier is sentenced to be discharged from the army on the completion of his term of im-. prisonment, the Secretary of State for the War Department may cause to be issued out of army votes, upon application in writing, signed by any justice within whose jurisdiction such place of confinement shall be locally situated together with a copy of the order of commitment, a further sum not exceeding sixpence per diem, and which said sum of one shilling or of sixpence, and the further sum, if any, as the case may be, shall be carried to the credit of the fund from which the expense of such place of confinement is defrayed. In India the expenses incurred under the provisions of this section shall be paid in the same manner as the other expenses of such prison, or as may be provided by the laws or regulations to be made in that behalf
+32. The gaoler or keeper of any public prison, gaol, house Provision for of correction, lock-up house, or other place of confinement in subsistence* any part of Her Majesty's dominions shall diet and supply every soldier imprisoned therein under the sentence of a court-martial or as a deserter with fuel and other necessaries according to the regulations of such place of confinement, and shall receive on account of every soldier, out of the subsistence of such soldier during the period of his imprisonment, in Great Britain and Ireland, one shilling per diem, and in other parts of Her Majesty's dominions sixpence per diem s Provided also, that in all cases where such soldier is sentenced to be discharged from the army on the completion of his term of imprisonment, the Secretary of State for the War Department may cause to be issued out of army votes, upon application in writing, signed by any justice within whose jurisdiction such place of confinement shall be locally situated together with a copy of the order of commitment, a further sum not exceeding sixpence per diem, and which said sum of one shilling or of sixpence, and the further sum, if any, as the case may be, shall be carried to the credit of the fund from which the expense of such place of confinement is defrayed. In India the expenses incurred under the provisions of this section shall be paid in the same manner as the other expenses of such prison, or as may be provided by the laws or regulations to be made in that behalf
 
 20
 
@@ -590,7 +578,7 @@ Ch. 4. Mutiny. 32 VICT.
 
 1869. Mutiny. Ch. 4, 21
 
-stationed within a convenient and easily accessible distance from the place^of commitment, or if not so stationed then to the nearest most convenient public prison (other than a military prison set apart under the authority of this Act) or police station legally provided as a lock-up house for temporary confinement of persons taken into custody, whether such prison or police station be in the county or borough in which such suspected person was apprehended or in which he was committed or not; or if the deserter has been apprehended by a party of soldiers of his own regiment or corps in charge of a commissioned officer, such justice may deliver him up to such party, unless the officer shall deem it necessary to have the deserter committed to prison for safe custody; and such justice shall transmit an account of the proceedings, in the form prescribed in the schedule annexed to this Act, to the Secretary of State for the War Department, specifying therein whether such deserter was delivered to his regiment or corps, or to the party of his regiment or corps, in order to his being taken to the head quarters or dep6t of his regiment or corps, or whether such deserter was committed to prison, to the end that the person so committed may be removed by an order from the office of the said Secretary of State, and proceeded against according to law; and such justice shall also send to the said Secretary of State a report stating the names of the persons by whom or by or through whose means the deserter was apprehended and secured; and the said Secretary of State shall transmit to such justice an order for the payment to such persons of such sum not exceeding forty shillings as the said Secretary of State shall be satisfied they are entitled to according to the true intent and meaning of this Act; and for such information, commitment, and report as aforesaid the clerk of the said justice shall be entitled to a fee of two shillings and no more; and every gaoler and other person into whose custody any person charged with desertion is committed shall immediately upon the receipt of the person so charged into his custody pay such fee of two shillings, and also upon the production of a receipt from the medical practitioner who, in the absence of a military medical officer, may have been required to examine such suspected person, a fee of two shillings and sixpence, and shall notify the fact to the Secretary of State for the War Department, and transmit also to the said Secretary of State a copy of the commitment, to the end that such Secretary of State may order repayment of such fees; and in Her Ma-when any such person shall be apprehended and committed as jesty's foreign a deserter in any part of Her Majesty's foreign dominions the domimons* justice shall forthwith cause him to be conveyed to some public prison, if the regiment or corps to which he is suspected to belong shall not be in such part, or, if the regiment or corps be in such part, the justice may deliver him into custody at the nearest military post if within reasonable distance, although the regiment to which such person is suspected to belong may
+stationed within a convenient and easily accessible distance from the place^of commitment, or if not so stationed then to the nearest most convenient public prison (other than a military prison set apart under the authority of this Act) or police station legally provided as a lock-up house for temporary confinement of persons taken into custody, whether such prison or police station be in the county or borough in which such suspected person was apprehended or in which he was committed or not; or if the deserter has been apprehended by a party of soldiers of his own regiment or corps in charge of a commissioned officer, such justice may deliver him up to such party, unless the officer shall deem it necessary to have the deserter committed to prison for safe custody; and such justice shall transmit an account of the proceedings, in the form prescribed in the schedule annexed to this Act, to the Secretary of State for the War Department, specifying therein whether such deserter was delivered to his regiment or corps, or to the party of his regiment or corps, in order to his being taken to the head quarters or dep6t of his regiment or corps, or whether such deserter was committed to prison, to the end that the person so committed may be removed by an order from the office of the said Secretary of State, and proceeded against according to law; and such justice shall also send to the said Secretary of State a report stating the names of the persons by whom or by or through whose means the deserter was apprehended and secured; and the said Secretary of State shall transmit to such justice an order for the payment to such persons of such sum not exceeding forty shillings as the said Secretary of State shall be satisfied they are entitled to according to the true intent and meaning of this Act; and for such information, commitment, and report as aforesaid the clerk of the said justice shall be entitled to a fee of two shillings and no more; and every gaoler and other person into whose custody any person charged with desertion is committed shall immediately upon the receipt of the person so charged into his custody pay such fee of two shillings, and also upon the production of a receipt from the medical practitioner who, in the absence of a military medical officer, may have been required to examine such suspected person, a fee of two shillings and sixpence, and shall notify the fact to the Secretary of State for the War Department, and transmit also to the said Secretary of State a copy of the commitment, to the end that such Secretary of State may order repayment of such fees; and in Her Ma- when any such person shall be apprehended and committed as jesty's foreign a deserter in any part of Her Majesty's foreign dominions the dominions* justice shall forthwith cause him to be conveyed to some public prison, if the regiment or corps to which he is suspected to belong shall not be in such part, or, if the regiment or corps be in such part, the justice may deliver him into custody at the nearest military post if within reasonable distance, although the regiment to which such person is suspected to belong may
 
 22 Cel 4.
 
@@ -612,7 +600,7 @@ not be stationed at such military post; and such justice shall in every case tra
 
 37. Any person who shall confess himself to be a deserter from Her Majesty's forces, or from the embodied militia, shall be liable to be taken before any two justices of the peace acting for the county, district, city, burgh, or place where any such person shall at any time happen to be when he shall be
 
-J869. Mutiny. Ch. 4. 23
+1869. Mutiny. Ch. 4. 23
 
 brought before them, and on proof that any such confession as aforesaid was false shall by the said justices be adjudged to be punished, if in England, as a rogue and vagabond, and if elsewhere by commitment to some prison or house of correction, there to be kept to hard labour for any time not exceeding three calendar months; and if, when such person shall be brought before the said justices, it shall be proved to their satisfaction that such confession has been made, but evidence of the truth or falsehood of such confession shall not at that time be forthcoming, such justices within the United Kingdom are hereby required to remand such person in the manner herein-before mentioned, and to transmit a statement of the case and descriptive return to the Secretary of State for the War Department, with a request to be informed whether such person appears to belong or to have belonged to the regiment or corps from which he shall have so confessed himself to have deserted; and a letter from the War Office in reply thereto, referring to such statement, and purporting to be signed by or on behalf of the Secretary of State for the War Department, shall be admissible in evidence against such person, and shall be deemed to be legal evidence of the facts stated therein, and on the receipt thereof the said justices shall forthwith proceed to adjudicate upon the case. In India the authority herein given to two justices may be exercised by one European justice or magistrate.
 
@@ -628,7 +616,7 @@ by the verdict of a jury, shall be liable to be again convicted dvil magis-for t
 
 24 Ch.4. Mutiny. 32 Vict.
 
-by a court- case of a commissioned officer, or in the case of a warrant samerffoce)6 °cer by reduction to an inferior class or to the rank of a private soldier by order of the Coramander-in-Chief, or in the case of a non-commissioned officer by reduction to the ranks by order of the Commander-in-Chief or of the colonel, or in the militia by order of the appointed commandant of the regiment or corps; and whenever any officer or soldier shall have been tried by any court of ordinary criminal jurisdiction, the clerk of such court or other officer having the custody of the records of such court, or the deputy of such clerk, shall, if required by the officer commanding the regiment or corps to which such officer or soldier shall belong, transmit to him a certificate setting forth the offence of which the prisoner was convicted, together with the judgment of the court thereon, if such officer or soldier shall have been convicted, or of the acquittal of such officer or soldier, and shall be allowed for such certificate a fee of three shillings.
+by a court- case of a commissioned officer, or in the case of a warrant samerffoce)6 °cer by reduction to an inferior class or to the rank of a private soldier by order of the Commander-in-Chief, or in the case of a non-commissioned officer by reduction to the ranks by order of the Commander-in-Chief or of the colonel, or in the militia by order of the appointed commandant of the regiment or corps; and whenever any officer or soldier shall have been tried by any court of ordinary criminal jurisdiction, the clerk of such court or other officer having the custody of the records of such court, or the deputy of such clerk, shall, if required by the officer commanding the regiment or corps to which such officer or soldier shall belong, transmit to him a certificate setting forth the offence of which the prisoner was convicted, together with the judgment of the court thereon, if such officer or soldier shall have been convicted, or of the acquittal of such officer or soldier, and shall be allowed for such certificate a fee of three shillings.
 
 Soldiers liable 40. Any person attested for Her Majesty's army, or serving on the permanent staff of the disembodied militia or volunteers service only for other than as a commissioned officer, shall be liable to be taken felony, misde- out of Her Majesty's service only by process or execution on ?e^°amount- account of any charge of felony or of misdemeanor, or of any ing to 30L and crime or offence other than the misdemeanor of absenting him-upwards. self from his service, or neglecting to fulfil his contract, or .
 
@@ -642,7 +630,7 @@ service for authority whatever, or to be taken out of Her Majesty's service
 
 so/^HbTnot ky any writ, summons, warrant, order, judgment, execution, or maintaining any process whatsoever issued by or by the authority of any their families, court of law, or any magistrate, justice or justices of the peace, of contract or any other authority whatsoever, for any original debt not amounting to thirty pounds, or for not supporting or maintaining, or for not having supported or maintained, or for leaving or having left chargeable to any parish, township, or place, or to the common fund of any union, any relation or child which such soldier or person might, if not in Her Majesty's service, be compellable by law to relieve or maintain, or for neglecting to pay to the mother of any bastard child, or to any person who may have [been appointed to have the custody of such
 
-1869. Mutwiy. Ch. 4. 25
+1869. Mutiny. Ch. 4. 25
 
 child, any sum to be paid in pursuance of an order on that behalf, or for the breach of any contract, covenant, agreement, or other engagement whatever by parol or in writing, or for having left or deserted bis employer or master, or his contract, work, or labour, or misconducting himself respecting the same, except in the case of an apprentice, or of an indentured labourer, as herein-after described; and all summonses, warrants, commitments, indictments, convictions, judgments, and sentences on account of any of the matters for which it is herein declared that a soldier or other person as aforesaid is not liable to be taken out of Her Majesty's service shall be utterly illegal, and null and void, to all intents and purposes; and any judge of any such court may examine into any complaint made by a soldier or by his superior officer, and by warrant under his hand discharge such soldier, without fee, he being shown to have been arrested contrary to the intent of this Act, and shall award reasonable costs to such complainant, who shall have for the recovery thereof the like remedy as would have been applicable to the recovery of any costs which might have been awarded against the complainant in any judgment or execution as aforesaid, or a writ of habeas corpus ad subjiciendum shall be awarded or issued, and the discharge of any such soldier out of custody shall be ordered thereupon; provided that any plaintiff, upon notice of the cause of action first given in writing to any soldier, or left at his last quarters, may proceed in any action or suit to judgment, and have execution other than against the body or military necessaries or equipments of such soldier; provided also, that nothing herein contained relating to the leaving or deserting a master or employer, or to the breach of any contract, agreement, or engagement, shall apply to persons who shall be really and bon& fide apprentices, duly bound, under the age of twenty-one years, or to indentured labourers, as herein-after prescribed.
 
@@ -690,8 +678,6 @@ to be tried by court-martial; but if any recruit previously to ceived pay, not h
 
 justices in the manner herein-before mentioned, and by them sentenced accordingly, or to be tried by a district or garrison
 
-C 2
-
 Recruits
 
 absconding.
@@ -710,7 +696,9 @@ court-martial for the same, and punished in such manner as such court shall dire
 
 pay until he has repaid the amount of any bounty received by him and the expenses attending his enlistment, and also the value of any arms, &c. issued to him while on the volunteer permanent staff, and not duly delivered up by him; or may cause him to be held to his service in Her Majesty's army, with a direction, if, it seems fit, that his time of service therein shall not be reckoned for pension until the time when his engagement on the volunteer permanent staff would have expired; and may further cause him to be put under stoppages of one penny a day of his pay until he has repaid the expense attending his engagement or attestation on the volunteer permanent staff, and also the value of any arms, clothing, or appointments issued to him while on the volunteer permanent staff, and not duly delivered up by him.
 
-51. Every person subject to this Act who shall wilfully Punishment of act contrary to any of its provisions in any matter relating
+[Punishment of
+
+51. Every person subject to this Act who shall wilfully act contrary to any of its provisions in any matter relating
 
 to the enlisting or attesting of recruits for Her Majesty's army
 
@@ -718,17 +706,13 @@ shall be liable to be tried for such offence before a general, to enlistment.
 
 district, or garrison court-martial, and to be sentenced to such
 
-punishments other than death or penal servitude as such courts
-
-may award.
+punishments other than death or penal servitude as such courts may award.
 
 52. It shall be lawful for any justice of the peace or person Enlistment and exercising the office of a magistrate within any of Her Majesty's dominions abroad, and in any colony for any other another corps person duly authorized in that behalf by the governor or abroad, officer administering the government of such colony, and in
 
 Her Majesty's dominions in India for any person duly authorized in that behalf by the governor general or lieutenant governor or other officer administering the government of any presidency, division, or province, and within the territories of any foreign state in India for the person performing the duties of the office of British resident therein, and for any other person duly authorized in that behalf by the governor general, to enlist and attest or to re-engage within the local limits of their several authorities any soldiers or persons desirous of enlisting or re-engaging in Her Majesty's army; and it shall be lawful, notwithstanding anything contained in the statute twenty-third and twenty-fourth Victoria, chapter one hundred, for any person so authorized in Her Majesty's dominions in India, or within the territories of any foreign state in India, to enlist and attest within the local limits of his authority any persons desirous of enlisting in Her Majesty's Indian forces. Any such magistrate or person as aforesaid shall have the same powers in that behalf as are by this or any other Act of Parliament given to justices in the United Kingdom for all such purposes of enlistment and attestation; but no such magistrate or other person authorized to enlist and attest as above mentioned shall be a general officer or hold any regimental commission; and all such appointments, past and future, and everything done or to be done under them, shall be valid and of full effect, notwithstanding the
 
-C 3
-
-3fr Ch. 4. Mutvny. 32 Vict.
+3fr Ch. 4. Mutiny. 32 Vict.
 
 expiration of this Act or of any other Act of Parliament and any person so attested shall be deemed to be an attested soldier.
 
@@ -738,13 +722,15 @@ Soldiers may 54. It shall be lawful for the commander-in-chief, and on any forei
 
 Re-engagement 55, Any person who now has or may hereafter have com-Plefce(l least two thirds of the first term of his enlistment may at any time thereafter, with the approbation of his commanding officer, or other competent military authority, be reengaged for such a period as shall complete a total period of twenty-one years in Her Majesty's service; and any person who has been a soldier, and who has received his discharge, may also be so re-engaged upon making a declaration, in the form given in the schedule annexed to this Act, before any one of Her Majesty's justices of the peace in Great Britain or Ireland or if not in Great Britain or Ireland before any person
 
-1869. Kutmy. Ch. 4. SI
+1869. Mutiny. Ch. 4. SI
 
 duly appointed to enlist and attest out of Great Britain and Ireland any soldiers or persons desirous of enlisting or reengaging in Her Majesty's service: Provided always, that in Boon service to reckoning service under the original enlistment or re-engage- be reckoned-ment of a soldier the boon service granted by the general order of the Governor General of India, dated twelfth of October one thousand eight hundred and fifty-nine, shall be reckoned as actual service, and allowed towards pension and discharge:
 
 Provided also, that every soldier now serving who belonged to the garrison which defended Lucknow, or to the garrison which defended the Alumbagh, before the advance of any portion of the forces under the late Lord Clyde in one thousand eight hundred and fifty-seven, shall be allowed to reckon one year's service towards the performance of his limited engagement, and also towards pension on discharger Provided also, that every soldier who volunteered into Her Majesty's army from any embodied regiment of militia between the thirty-first of December one thousand eight hundred and fifty-five and the twenty-first of March one thousand eight hundred and sixty-one inclusive, or from the disembodied militia during the last week of the training of his regiment in the year one thousand eight hundred and fifty-eight, and who had rendered previous to volunteering six months embodied or disembodied militia service, shall be allowed to reckon towards good-conduct pay and pension, and towards the completion of his limited engagement of service in Her Majesty's army, half the embodied service which he had rendered in the militia after attaining the age of eighteen.
 
-56. All negroes or persons of colour who, although not bora Enlistment of in any of Her Majesty's colonies, territories, or possessions, ne£roes-shall have voluntarily enlisted into Her Majesty's service, shall,
+[Enlistment of
+
+56. All negroes or persons of colour who, although not born in any of Her Majesty's colonies, territories, or possessions, negroes-shall have voluntarily enlisted into Her Majesty's service, shall,
 
 while serving, be deemed to be soldiers legally enlisted into Her Majesty's service, and be entitled to all the privileges of natural-born subjects; and all negroes who have been seized and condemned as prize under the Slave Trade Acts, and appointed to serve in Her Majesty's army, shall be deemed to be and shall be entitled to all the advantages of negroes or persons of colour voluntarily enlisted to serve as soldiers in any of Her Majesty's colonial forces.
 
@@ -754,17 +740,13 @@ Britain or Ireland, or as an indentured labourer in any of liable to°serve Her 
 
 Claims of masters to apprentices.
 
-Punishment of
-
-apprentices
-
-enlisting.
+Punishment of apprentices enlisting.
 
 serve as a soldier in Her Majesty's army according to the terms of the enlistment, and if on the expiration of his apprenticeship, or of his indenture as a labourer, he shall not deliver himself up to some officer authorized to receive recruits, such person may be taken as a deserter from Her Majesty's army; and no master shall be entitled to claim an apprentice or an indentured labourer as aforesaid who shall enlist as a soldier in Her Majesty's army, or shall be serving in the embodied militia, unless he shall, within one calendar month after such apprentice or indentured labourer shall have left his service, go before some justice, and take the oath mentioned in the schedule to this Act annexed, and shall produce the certificate of such justice of his having taken such oath, which certificate such justice is required to give in the form in the schedule to this Act annexed, and unless such apprentice shall have been bound, if in England, for the full term of five years, not having been above the age of fourteen when so bound, and, if in Ireland or in the British Isles, for the full term of five years at the least, not having been above the age of sixteen when so bound, and, if in Scotland, for the full term at least of four years, by a regular contract or indenture of apprenticeship, duly extended, signed, and tested, and binding on both parties by the law of Scotland, prior to the period of enlistment, and unless such contract or indenture in Scotland shall, within three months after the commencement of the apprenticeship, and before the period of enlistment, have been produced to a justice of the peace of the county in Scotland wherein the parties reside, and there shall have been endorsed thereon by such justice a certificate or declaration signed by him specifying the date when and the person by whom such contract or indenture was so produced, which certificate or declaration such justice of the peace is hereby required to endorse and sign, and unless such apprentice shall, when claimed by such master, be under twenty-one years of age: Provided always, that any master of an apprentice indentured for the sea service, or of any indentured labourer in Her Majesty's colonies or possessions abroad, shall be entitled to claim and recover him in the form and manner above directed, notwithstanding such apprentice or indentured labourer may have been bound for a less term than five or four years as aforesaid: Provided also, that any master who shall give up the indentures of his apprentice or of his labourer as aforesaid within one month after the enlisting of such apprentice or indentured labourer shall be entitled to receive to his own use so much of the bounty payable to such recruit as shall not have been paid to such recruit before notice given of his being an apprentice or an indentured labourer.
 
-58. No apprentice or indentured labourer claimed by his master as aforesaid shall be taken from any corps or recruiting party, except under a warrant of a justice residing near, and within whose jurisdiction such apprentice orindentured labourer
+58. No apprentice or indentured labourer claimed by his master as aforesaid shall be taken from any corps or recruiting party, except under a warrant of a justice residing near, and within whose jurisdiction such apprentice or indentured labourer
 
-1869. Mutiny. Cff. 4. 33
+1869. Mutiny. Ch. 4. 33
 
 shall then happen to be, before whom he shall be carried; and such justice shall inquire into the matter upon oath, which oath he is hereby empowered to administer, and shall require the production and proof of the indenture, and that notice of the said warrant has been given to the commanding officer, and a copy thereof left with some officer or non-commissioned officer of the party, and that such person so enlisted declared that he was no apprentice or indentured labourer; and such justice, if required by such officer or non-commissioned officer, shall commit the offender to the common gaol of the county, division, or place for which such justice is acting, and shall keep the indenture to be produced when required, and shall bind over such person as he may think proper to give evidence against the offender, who shall be tried at the next or at the sessions immediately succeeding the next general or quarter sessions of such county, division, or place, unless the court shall for just cause put off the trial; and the production of the indenture, with the certificate of the justice that the same was proved, shall be sufficient evidence of the said indenture; and every such offender in Scotland may be tried by the judge ordinary in the county or stewartry in such and the like manner as any person may be tried in Scotland for any offence not inferring a capital punishment: Provided always, that any justice not required as aforesaid to commit such apprentice or indentured labourer may deliver him to his master.
 
@@ -784,13 +766,15 @@ Mutiny. 32 Vict.
 
 twenty-six and twenty-seven Victoria, chapter sixty-five, section eight (Volunteer Act), or by Her Majesty's order signified by the Secretary of State for the War Department; and every paymaster or other officer who having received any officer's or soldier's pay shall unlawfully detain the same for the spaoe of one month, or refuse to pay the same when it shall become due, according to the several rates and agreeably to the several regulations established by Her Majesty's orders, shall, upon proof thereof before a court-martial, be discharged from his employment, and shall forfeit one hundred pounds, and the informer, if a soldier, shall, if he demand it, be discharged from any further service.
 
-Suspending 6L And whereas by petition of right in the third year of of^on^ King Charles the First it is enacted and declared, that the herein recited, people of the land are not by the laws to be burdened with the sojourning of soldiers against their wills; and by a clause in an Act of the Parliament of England made in the thirty-first year of the reign of King Charles the Second, for granting a supply to His Majesty of two hundred and six thousand four hundred and sixty-two pounds seventeen shillings and threepence, for paying and disbanding the forces, it is declared and enacted that no officer, civil or military, nor other person whosoever, should thenceforth presume to place, quarter, or billet any soldier upon any subject or inhabitant of this realm, of any degree, quality, or profession whatsoever, without his consent, and that it shall be lawful for any subject or inhabitant to refuse to quarter any soldier, notwithstanding any warrant or billeting whatsoever: And whereas by an Act passed in the Parliament of Ireland in the sixth year of the reign of Queen Anne, chapter fourteen, section eight, intituled 6 Anne, c. 14, « An Act to prevent the disorders that may happen by the s. 8. (L) a marching of soldiers, and providing carriages for the baggage " of soldiers on their march," it was enacted, that no officer, soldier, or trooper in the army, nor the servant of any officer, nor any attendant on the train of artillery, nor any yeoman of the guard or battle-axes, nor any officer commanding the said yeomen, nor any servant of any such officer, should at any time thereafter have, receive, or be allowed any quarters in any part of Ireland, save only during such time or times as he or they should be on their march as in the same Act is before mentioned, or during such time as he or they should be and remain in some seaport town or other place in the neighbourhood of a seaport town in order to be transported, or during such time as there should be any commotion in any part of Ireland, by reason of which emergency the army, or any considerable part thereof, should be commanded to march from one part of Ireland to another: But forasmuch as there is and may be occasion for the marching and quartering of regiments, corps, troops, and companies in several parts of the United Kingdom of Great Britain and Ireland, the said
+Suspending
+
+61. And whereas by petition of right in the third year of of^on^ King Charles the First it is enacted and declared, that the herein recited, people of the land are not by the laws to be burdened with the sojourning of soldiers against their wills; and by a clause in an Act of the Parliament of England made in the thirty-first year of the reign of King Charles the Second, for granting a supply to His Majesty of two hundred and six thousand four hundred and sixty-two pounds seventeen shillings and threepence, for paying and disbanding the forces, it is declared and enacted that no officer, civil or military, nor other person whosoever, should thenceforth presume to place, quarter, or billet any soldier upon any subject or inhabitant of this realm, of any degree, quality, or profession whatsoever, without his consent, and that it shall be lawful for any subject or inhabitant to refuse to quarter any soldier, notwithstanding any warrant or billeting whatsoever: And whereas by an Act passed in the Parliament of Ireland in the sixth year of the reign of Queen Anne, chapter fourteen, section eight, intituled 6 Anne, c. 14, « An Act to prevent the disorders that may happen by the s. 8. (L) a marching of soldiers, and providing carriages for the baggage " of soldiers on their march," it was enacted, that no officer, soldier, or trooper in the army, nor the servant of any officer, nor any attendant on the train of artillery, nor any yeoman of the guard or battle-axes, nor any officer commanding the said yeomen, nor any servant of any such officer, should at any time thereafter have, receive, or be allowed any quarters in any part of Ireland, save only during such time or times as he or they should be on their march as in the same Act is before mentioned, or during such time as he or they should be and remain in some seaport town or other place in the neighbourhood of a seaport town in order to be transported, or during such time as there should be any commotion in any part of Ireland, by reason of which emergency the army, or any considerable part thereof, should be commanded to march from one part of Ireland to another: But forasmuch as there is and may be occasion for the marching and quartering of regiments, corps, troops, and companies in several parts of the United Kingdom of Great Britain and Ireland, the said
 
 1869. Mutiny. Ch. 4. 33
 
 several provisions of the said recited Acts shall be suspended and cease to be of any force or effect during the continuance of this Act.
 
-62L And whereas by the eleventh section of the said Act of Certain re-the sixth year of the reign of Queen Anne, chapter fourteen, it is provided and enacted, that no civil magistrate or constable (i^to should be obliged to find quarters for or give billets to more billeting in Ire-or other soldiers than those only whose true Christian and land'not now surnames should be delivered to him in writing under the nece88ary* hand of the officer desiring quarters or billets for such soldiers at the time such quarters or billets should be desired, and that all such names should be written together and delivered in one piece of paper, signed as aforesaid, and that the Christian and surnames of every soldier to be quartered or billeted, together with the name of the person on whom he or they should be billeted or quartered, should be given in writing by the constable or civil officer billeting or quartering such soldier, and be contained in the billet given by such civil officer: And whereas it has been found inconvenient and difficult to comply with all the requirements of the said enactment: It shall not be necessary, so long as this Act shall continue in force, for any officer, upon the occasion of his requiring quarters or billets for any soldiers in Ireland, to deliver to the constable or other person whose duty it shall be to find or give the same any list of the names of the soldiers to be so quartered or billeted; and it shall not be necessary for the constable or other such person as aforesaid to set forth in any billet the name of any soldier to be billeted or quartered, but only the number of the soldiers, or the number of the soldiers and horses respectively, as the case may require, to be billeted or quartered on the person named in the billet, and to whom the same shall be addressed.
+62. And whereas by the eleventh section of the said Act of Certain re-the sixth year of the reign of Queen Anne, chapter fourteen, it is provided and enacted, that no civil magistrate or constable (i^to should be obliged to find quarters for or give billets to more billeting in Ire-or other soldiers than those only whose true Christian and land'not now surnames should be delivered to him in writing under the necessary* hand of the officer desiring quarters or billets for such soldiers at the time such quarters or billets should be desired, and that all such names should be written together and delivered in one piece of paper, signed as aforesaid, and that the Christian and surnames of every soldier to be quartered or billeted, together with the name of the person on whom he or they should be billeted or quartered, should be given in writing by the constable or civil officer billeting or quartering such soldier, and be contained in the billet given by such civil officer: And whereas it has been found inconvenient and difficult to comply with all the requirements of the said enactment: It shall not be necessary, so long as this Act shall continue in force, for any officer, upon the occasion of his requiring quarters or billets for any soldiers in Ireland, to deliver to the constable or other person whose duty it shall be to find or give the same any list of the names of the soldiers to be so quartered or billeted; and it shall not be necessary for the constable or other such person as aforesaid to set forth in any billet the name of any soldier to be billeted or quartered, but only the number of the soldiers, or the number of the soldiers and horses respectively, as the case may require, to be billeted or quartered on the person named in the billet, and to whom the same shall be addressed.
 
 63. It shall be lawful for all constables of parishes and How and where places, and other persons specified in this Act, in Great Britain troops may be and Ireland, and they are hereby required, to billet the officers bl ete * and soldiers in Her Majesty's service, and out-pensioners when assembled as a local force by competent authority, and persons receiving pay in Her Majesty's army, and the horses belonging to Her Majesty's cavalry, and also all staff and field officers horses, and all bat and baggage horses belonging to any of Her Majesty's other forces, when on actual service, not exceeding for each officer the number for which forage is or shall be allowed by Her Majesty's regulations, in victualling houses and other houses specified in this Act (taking care in Ireland not to billet less than two men in one house, except only in case of billeting cavalry as specially provided); and they shall be received by the occupiers of the houses in which they are so billeted, and be furnished by such victuallers with proper accommodation in such houses, or if any victualler shall not have sufficient accommodation in the house upon which a soldier is billeted, then in some good and sufficient
 
@@ -802,7 +786,7 @@ quarters to be provided by such victualler in the immediate neighbourhood, and i
 
 upon complaint being made by the person or persons to whose house or stables the said men or horses shall have been so removed to two or more justices within whose jurisdiction such men or horses shall be so billeted, it shall be lawful for such justices to order a proper allowance to be paid by the person relieved to the persons receiving such men and horses, or to be applied in furnishing the requisite accommodation; and commanding officers may exchange any man or horse billeted in any place with another man or horse billeted in the same place for the benefit of the service, provided the number of men and horses do not exceed the number at that time billeted on such houses respectively; and the constables are hereby required to billet such men and horses so exchanged accordingly; and it shall be lawful for any justice, at the request of any officer or non-commissioned officer commanding any soldiers requiring billets, to extend any routes or to enlarge the districts within which billets shall be required, in such manner as shall appear to be most convenient to the troops; provided that to prevent or punish all abuses in billeting soldiers, it shall be lawful for any justice within his jurisdiction, by warrant or order under his hand, to require any constable to give him an account in writing of the number of officers and soldiers who shall be quartered by such constables, together with the names of the persons upon whom such officers and soldiers are billeted, stating the street or place where such persons dwell, and the sign, if any, belonging to the houses: Provided always, that no officer shall be compelled or compellable to pay anything for his lodging where he shall be duly billeted.
 
-64. The officers and soldiers of Her Majesty's Foot Guards Billeting the shall be billeted within the city and liberties of Westminster and places adjacent, lying in the county of Middlesex (except minster, the city of London) and in the county of Surrey, and in the borough of Southwark, in the same manner and under the same regulations as in other parts of England, in all cases for which particular provision is not made by this Act; and the high constables shall, on receipt of the order for billeting soldiers, deliver precepts to the several constables within their respective divisions, in pursuance of which the said constables shall billet such officers and soldiers equally and proportionably on the houses subjected thereto by this Act; and the said constables shall, at every general sessions of the peace to be holden for the said city and liberties, counties and borough respectively, make and deliver to the justices then in open session assembled, upon oath, which oath the said justices are hereby required to administer, lists, signed by them respectively, of the houses subject by this Act to receive officers and soldiers, together with the names and rank of all officers and soldiers billeted on each respectively, which lists shall remain with the respective clerks of the peace for the inspection of all persons without fee or reward; and such clerk shall forth-[JVo. 4. Price 2d.] D
+64. The officers and soldiers of Her Majesty's Foot Guards Billeting the shall be billeted within the city and liberties of Westminster and places adjacent, lying in the county of Middlesex (except minster, the city of London) and in the county of Surrey, and in the borough of Southwark, in the same manner and under the same regulations as in other parts of England, in all cases for which particular provision is not made by this Act; and the high constables shall, on receipt of the order for billeting soldiers, deliver precepts to the several constables within their respective divisions, in pursuance of which the said constables shall billet such officers and soldiers equally and proportionably on the houses subjected thereto by this Act; and the said constables shall, at every general sessions of the peace to be holden for the said city and liberties, counties and borough respectively, make and deliver to the justices then in open session assembled, upon oath, which oath the said justices are hereby required to administer, lists, signed by them respectively, of the houses subject by this Act to receive officers and soldiers, together with the names and rank of all officers and soldiers billeted on each respectively, which lists shall remain with the respective clerks of the peace for the inspection of all persons without fee or reward; and such clerk shall forth- D
 
 38
 
@@ -816,7 +800,7 @@ Military officers not to act as justices in billeting.
 
 Allowance to innkeepers.
 
-with from time to time deliver to any persons who shall require the same true copies of any such lists upon being paid twopence per sheet for the same, each sheet to contain at the least one hundred and fifty words*
+with from time to time deliver to any persons who shall require the same true copies of any such lists upon being paid twopence per sheet for the same, each sheet to contain at the least one hundred and fifty words.
 
 65. No justice having or executing any military office or commission in any part of the United Kingdom shall, directly or indirectly, be concerned in the billeting or appointing quarters for any soldier in the regiment* corps, troop, or company under the immediate command of such justice, and all warrants, acts, and things made, done, and appointed by such justice for or concerning the same shall be void.
 
@@ -848,21 +832,19 @@ distiller kept for distilling brandy and strong waters, nor in the house of any 
 
 68. For the regular provision of carriages for Her Majesty's forces, and their baggage, in their marches in Great Britain and Ireland, all justices of the peace within their several jurisdictions, being duly required thereunto by an order from Her Majesty, or the general of her forces, or other person duly authorized in that behalf, shall, on production to them of such order, or a copy thereof, certified by the commanding officer, by some officer or non-commissioned officer of the regiment or corps so ordered to march, issue a warrant to any constable having authority to act in any place from, through, near, or to which the troop shall be ordered to march, (for each of which warrants the fee of one shilling only shall be paid,) requiring him to provide the carriages, horses, and oxen, and drivers therein mentioned, and allowing sufficient time to do the same, specifying the places from and to which the said carriages shall travel, and the distance between the places, for which distance only so specified payment shall be demanded, and which distance shall not, except in cases of pressing emergency, exceed a day's march prescribed in the order of route, and shall in no cases exceed twenty-five miles; and the constables receiving such warrants shall order such persons as they shall think proper, having carriages, to furnish the requisite supply, who are hereby required to furnish the same accordingly; and when sufficient carriages cannot be procured within the proper jurisdiction, any justice of the next adjoining jurisdiction shall, by a like course of proceeding, supply the deficiency; and in order that the burden of providing carriages may fall equally, and to prevent inconvenience arising from there being no justice near the place where troops may be quartered on the march, any justice residing nearest to such place may cause a list to be made out once in every year of all persons liable to furnish such carriages, and of the number and description of their said carriages, (which list shall at all seasonable hours be open to the inspection of the said persons,) and may by warrant under his hand authorize the constable within his jurisdiction to give orders to provide carriages, without any special warrant for that purpose, which orders shall be valid in all respects; and all orders for such carriages shall be made from such lists in regular rotation, as far as the same can be done.
 
-60. In every case in which the whole distance for which any carriage shall be impressed shall be under one mile the rate of a full mile shall be paid; and the rates to be paid
+69. In every case in which the whole distance for which any carriage shall be impressed shall be under one mile the rate of a full mile shall be paid; and the rates to be paid
 
-1869. Mutwiy. Ch. 4. 41
+1869. Mutiny. Ch. 4. 41
 
 for carriages impressed shall be, in Great Britain, for every mile which a waggon with four or more horses, or a wain with six oxen or four oxen and two horses, shall travel, one shilling; and for every mile any waggon with narrow wheels, or any cart with four horses, carrying not less than fifteen hundredweight, shall travel, ninepence; and for every mile any other cart or carriage with less than four horses, and not carrying fifteen hundredweight, shall travel, sixpence; and in Ireland, for every hundredweight loaded on any wheel carriage, one halfpenny per mile; and in Great Britain such further rates may be added, not exceeding a total addition per mile of fourpence, threepence, or twopence, to the respective rates of one shilling, ninepence, or sixpence, as may seem reasonable to the justices assembled at general sessions for their respective districts, or to the recorder at the sessions of the peace of any municipal city, borough, or town; and the order of such justices or recorder shall specify the average price of hay and oats at the nearest market town at the time of fixing such additional rates, the period for which the order shall be enforced not exceeding ten days beyond the next general sessions; and no such order shall be valid unless a copy thereof, signed by the presiding magistrate and one other justice, or by the recorder, shall be transmitted to the Secretary of State for the War Department within three days after the making thereof; and also in Great Britain when the day's march shall exceed fifteen miles the justice granting his warrant may fix a further reasonable compensation, not exceeding the usual rate of hire fixed by this Act; and when any additional rates or compensation shall be granted the justice shall insert in his own hand in the warrant the amount thereof, and the date of the order of sessions, if fixed by sessions, and the warrant shall be given to the officer commanding as his voucher $ and the officer or non-commissioned officer demanding carriages by virtue of the warrant of a justice shall, in Great Britain, pay the proper sums into the hands of the constables providing carriages, who shall give receipts for the same on unstamped paper; and in Ireland the officers or noncommissioned officers as aforesaid shall pay the proper sums to the owners or drivers of the carriages, and one third part of such payment shall be made before the carriage be loaded, and all the said payments in Ireland shall be made, if required, in the presence of a justice or constable; and no carriage shall be liable to carry more than thirty hundredweight in Great Britain, and in Ireland no car shall be liable to carry more than six hundredweight, and no dray more than twelve hundredweight; but the owner of such carriages in Ireland consenting to carry a greater weight shall be paid at the same rate for every hundredweight of the said excess; and the owners of such carriages in Ireland shall not be compelled to proceed, though with any less weight, under the sum of threepence a mile for each car and sixpence a mile for each dray;
-
-D 3
-
-i
 
 4S Ch.4. Mutiny. 32 Vice
 
 and the loading of such carriages in Ireland shall be first weighed, if required, at the expense of the owner of the carriage, if the same can be done in a reasonable time, without hindrance to Her Majesty's service; provided that a cart with one or more horses for which the furnisher shall receive ninepence a mile shall be required to carry fifteen hundredweight at the least; and no penalties or forfeitures in any Act relating to highways or turnpike roads in the United Kingdom shall apply to the number of horses and oxen, or weight of loading of the aforesaid carriages, which shall not on that account be stopped or detained; and whenever it shall be necessary to impress carriages for the march of soldiers from Dublin, at least twenty-four hours notice of such march, and in case of emergency as long notice as the case will admit, shall be given to the Lord Mayor of Dublin, who shall summon a proportional number of cars and drays, at his discretion, out of the licensed cars and drays and other cars and drays within the county of the said city, and they shall by turns be employed on this duty at the prices and under the regulations herein-before mentioned; and no country cars, drays, or other carriages coming to markets in Ireland shall be detained or employed against the will of the owners in carrying the baggage of the army on any pretence whatsoever.
 
-As to supply 70. It shall be lawful for Her Majesty, or for the Lord Lieutenant or chief governor of Ireland, by her or their order, gency, &c. " distinctly stating that a case of emergency doth exist, signified by the Secretary of State for the War Department, or, if in Ireland, by the Chief Secretary or Under Secretary, or the first clerk in the Military Department, to authorize any general or field officer commanding Her Majesty's forces in airy district or place, or the chief acting agent for the supply of stores and provisions, by writing under his hand reciting such order of Her Majesty or Lord Lieutenant or chief governor aforesaid^ to require all justices within their several jurisdictions in Great Britain and Ireland to issue their warrants for the provision, not only of waggons, wains, carts, and cars kept by or belonging to any person and for any use whatsoever, but also of saddle horses, coaches, post-chaises, chaises, and other four-wheeled carriages kept for hire, and of all horses* kept to draw carriages licensed to carry passengers, and also of boats, barges, and other vessels used for the transport of any commodities whatsoever upon any canal or navigable river, as shall be mentioned in the said warrants, therein specifying the place and distance to which such carriages or vessels shall go; and on the production of such requisition* or a copy thereof certified by the commanding officer, to such justice, by any officer of the corps ordered to be conveyed, or by any officer of the War Department, such justice shall take-all the same proceedings in regard to such additional supply so required on such emergency as he is by this Act required to take for the ordinary provision of carriages; and all pro-
+As to supply
+
+70. It shall be lawful for Her Majesty, or for the Lord Lieutenant or chief governor of Ireland, by her or their order, gency, &c. " distinctly stating that a case of emergency doth exist, signified by the Secretary of State for the War Department, or, if in Ireland, by the Chief Secretary or Under Secretary, or the first clerk in the Military Department, to authorize any general or field officer commanding Her Majesty's forces in airy district or place, or the chief acting agent for the supply of stores and provisions, by writing under his hand reciting such order of Her Majesty or Lord Lieutenant or chief governor aforesaid^ to require all justices within their several jurisdictions in Great Britain and Ireland to issue their warrants for the provision, not only of waggons, wains, carts, and cars kept by or belonging to any person and for any use whatsoever, but also of saddle horses, coaches, post-chaises, chaises, and other four-wheeled carriages kept for hire, and of all horses* kept to draw carriages licensed to carry passengers, and also of boats, barges, and other vessels used for the transport of any commodities whatsoever upon any canal or navigable river, as shall be mentioned in the said warrants, therein specifying the place and distance to which such carriages or vessels shall go; and on the production of such requisition* or a copy thereof certified by the commanding officer, to such justice, by any officer of the corps ordered to be conveyed, or by any officer of the War Department, such justice shall take-all the same proceedings in regard to such additional supply so required on such emergency as he is by this Act required to take for the ordinary provision of carriages; and all pro-
 
 1869. Mubmy. Cm A 43
 
@@ -880,9 +862,7 @@ cases of emergency, for the marching of any of Her Majesty's forces in Ireland, 
 
 or disembarking from or upon any pier, wharf, quay, or landing place, or in passing along or over any turnpike or other roads or bridges, otherwise demandable by virtue of any Act already
 
-Ch.4.
-
-Mutiny.
+Ch.4. Mutiny.
 
 32 Tier.
 
@@ -902,41 +882,21 @@ passed or hereafter to be passed, or by virtue of any Act or ordinance, order or
 
 75. Every soldier entitled to his discharge shall, if then serving abroad, be sent, if he shall so require, to Great Britain or Ireland free of expense, and shall be entitled to receive marching money from the place of his being landed (or, if discharged at home, shall receive marching money from the place of his discharge,) to the parish or place in which he shall have been originally enlisted, or at which he shall at the time of his discharge decide to take up his residence, such place not being at a greater distance from the place of his discharge than the place of his original enlistment.
 
-76. Nothng in this Act contained shall be construed to extend to exempt any officer or soldier from being proceeded against by the ordinary course of law, when accused of felony, or of misdemeanor, or of any crime or offence other than the misdemeanors and offences herein-before mentioned; and if any commanding officer shall neglect or refuse, on application being made to him for that purpose, to deliver over to the civil magistrate any officer or soldier under his command, or shall wilfully obstruct, neglect, or refuse to assist the officers of justice in apprehending any officer or soldier under his command, so accused as aforesaid, such commanding officer shall, upon conviction thereof in any of Her Majesty's superior courts at Westminster, Dublin, or Edinburgh, or in any court of record in India, be deemed to be thereupon cashiered, and shall be thenceforth utterly disabled to have or hold any civil or military office or employment in the United Kingdom of Great Britain and Ireland or in Her Majesty's service; and a certificate of such conviction, containing the substance and effect of the indictment only, omitting the formal part, with the copy of the entry of the judgment of the court thereon, shall be transmitted to the judge advocate general in London.
+76. Nothing in this Act contained shall be construed to extend to exempt any officer or soldier from being proceeded against by the ordinary course of law, when accused of felony, or of misdemeanor, or of any crime or offence other than the misdemeanors and offences herein-before mentioned; and if any commanding officer shall neglect or refuse, on application being made to him for that purpose, to deliver over to the civil magistrate any officer or soldier under his command, or shall wilfully obstruct, neglect, or refuse to assist the officers of justice in apprehending any officer or soldier under his command, so accused as aforesaid, such commanding officer shall, upon conviction thereof in any of Her Majesty's superior courts at Westminster, Dublin, or Edinburgh, or in any court of record in India, be deemed to be thereupon cashiered, and shall be thenceforth utterly disabled to have or hold any civil or military office or employment in the United Kingdom of Great Britain and Ireland or in Her Majesty's service; and a certificate of such conviction, containing the substance and effect of the indictment only, omitting the formal part, with the copy of the entry of the judgment of the court thereon, shall be transmitted to the judge advocate general in London.
 
 77. For enforcing a prompt observance of the rules and orders for the due appropriation of the public funds applicable to array services, and in order that a true and regular account
 
-1869. Mutiny. Cfl. 4. 45
+1869. Mutiny. Ch. 4. 45
 
-may be kept and rendered by the agents for the several corps, the said agents are hereby required to observe such orders as shall from time to time be given by Her Majesty under her sign manual, or by the Secretary of State for the War Department, or by Her Majesty's Lord Lieutenant or Chief Governor of Ireland, or by the Lord Treasurer or the Commissioners of Her Majesty's Treasury; and if any person, being or having been an agent, shall refhse or neglect to comply with such orders in relation to his duty as agent, or shall unlawfully withhold or detain the pay of any officer or soldier for a longer period than the space of one month after the receipt thereof, he shall for the first offence forfeit the sum of one hundred pounds, and, if still an agent, for the second offence be discharged from his employment as an army agent, and be utterly disabled to have or hold such employment thereafter, or, if he have ceased to be an army agent, shall for the second and every succeeding offence forfeit the sum of two hundred pounds.
+may be kept and rendered by the agents for the several corps, the said agents are hereby required to observe such orders as shall from time to time be given by Her Majesty under her sign manual, or by the Secretary of State for the War Department, or by Her Majesty's Lord Lieutenant or Chief Governor of Ireland, or by the Lord Treasurer or the Commissioners of Her Majesty's Treasury; and if any person, being or having been an agent, shall refuse or neglect to comply with such orders in relation to his duty as agent, or shall unlawfully withhold or detain the pay of any officer or soldier for a longer period than the space of one month after the receipt thereof, he shall for the first offence forfeit the sum of one hundred pounds, and, if still an agent, for the second offence be discharged from his employment as an army agent, and be utterly disabled to have or hold such employment thereafter, or, if he have ceased to be an army agent, shall for the second and every succeeding offence forfeit the sum of two hundred pounds.
 
 78. Every person, not being an authorized army agent, who Penalty on
 
-shall negotiate or act as agent for or in relation to the pur- traffic^8m , R , . . . tt »r . i » commissions,
+shall negotiate or act as agent for or in relation to the pur- traffic^8m , R , . . . tt »r . i commissions,
 
 chase, sale, or exchange of any commission m Her Majesty s
 
-army, shall forfeit for every such offence the sum of one
-
-hundred pounds; and every person, whether authorized as an
-
-army agent or not, who shall receive any money or reward in
-
-respect of any such purchase, sale, or exchange, or who shall
-
-negotiate or receive for any purpose whatsoever any money or
-
-consideration where no price is allowed by Her Majesty's
-
-regulations, or any money or consideration exceeding the
-
-amount so allowed, shall forfeit one hundred pounds, and
-
-treble the value of the consideration where the commission is
-
-not allowed to be sold, or treble the excess of such consideration
-
-beyond the regular price.
+army, shall forfeit for every such offence the sum of one hundred pounds; and every person, whether authorized as an army agent or not, who shall receive any money or reward in respect of any such purchase, sale, or exchange, or who shall negotiate or receive for any purpose whatsoever any money or consideration where no price is allowed by Her Majesty's regulations, or any money or consideration exceeding the amount so allowed, shall forfeit one hundred pounds, and treble the value of the consideration where the commission is not allowed to be sold, or treble the excess of such consideration beyond the regular price.
 
 79. Every person, not having any military commission, who Penalty for shall give or procure to be given any untrue certificate, whereby Pouring false to excuse any soldier for his absence from any muster or m
 
@@ -954,19 +914,19 @@ Penalty for forcible entry in pursuit of deserters without warrant
 
 Penalties on aiding escape or attempt to escape of prisoners, and on breach of prison regulations
 
-Ch. 4. M'uAvriy. 32 VICT.
+Ch. 4. Mutiny. 32 VICT.
 
 recruits or substitutes for the line, embodied militia, or Her Majesty's Indian forces, or shall open or keep any house, plane of rendezvous, or office, or receive any person therein under such bill or advertisement, as connected with the recruiting service, or shall directly or indirectly interfere therewith, without permission in writing from the adjutant general, or from the Secretary of State in Council of India, (as the case may be,) shall forfeit for every such offence a sum not exceeding twenty pounds.
 
-8L Any person who shall in any part of Her Majesty's dominions, or by any means whatsoever, directly or indirectly, procure any soldier to desert, or attempt to procure or persuade any soldier to desert, and any person who, knowing that any soldier is about to desert, shall aid or assist him in deserting, or knowing any soldier to be a deserter, shall conceal such deserter, or aid or assist such deserter in concealing himself Or aid or assist in his rescue, shall be deemed guilty of a misdemeanor, and shall, on conviction thereof before any two justices acting for the county, district, city, burgh, or place where any such offender shall at any time happen to be, bo liable to be committed to the common gaol or house of correction, there to be imprisoned, with or without hard labour, for such term not exceeding six calendar months as the convicting justices shall think fit.
+81. Any person who shall in any part of Her Majesty's dominions, or by any means whatsoever, directly or indirectly, procure any soldier to desert, or attempt to procure or persuade any soldier to desert, and any person who, knowing that any soldier is about to desert, shall aid or assist him in deserting, or knowing any soldier to be a deserter, shall conceal such deserter, or aid or assist such deserter in concealing himself Or aid or assist in his rescue, shall be deemed guilty of a misdemeanor, and shall, on conviction thereof before any two justices acting for the county, district, city, burgh, or place where any such offender shall at any time happen to be, bo liable to be committed to the common gaol or house of correction, there to be imprisoned, with or without hard labour, for such term not exceeding six calendar months as the convicting justices shall think fit.
 
 82. Any officer or soldier who shall, in pursuit of any deserter, forcibly enter into or break open any dwelling house or outhouse, or shall give any order under which any dwelling house or outhouse shall be forcibly entered into or broken open, without a warrant from one or more justices of the peace, shall, on conviction thereof before two justices of the peace, forfeit a sum not exceeding twenty pounds.
 
 83. If any person shall convey or cause to be conveyed into any military prison appointed to be a public prison under this Act any arms, tools, or instruments, or any mask or other disguise, in order to facilitate the escape of any prisoner, or shall by any means whatever aid and assist any prisoner to escape or in attempting to escape from such prison, whether an escape be actually made or not, such person shall be deemed guilty of felony, and upon being convicted thereof shall be kept to penal servitude for any term not less than five years and not exceeding seven years, or be imprisoned, with or without hard labour, for any term not exceeding two years; and if any person shall bring or attempt to bring into such prison, in contravention of the existing rules thereof, any spirituous or fermented liquor, he shall for every such offence be liable to a penalty not exceeding twenty pounds and not less than ten pounds, or to be imprisoned, with or without hard labour, for any time not exceeding three calendar months; and if any person shall bring into such prison, to or for any prisoner, without the knowledge of the governor, any money, clothing, provisions, tobacco, letters, papers, or any other articles not allowed by the rules
 
-1869. Mutmyi Ch. 4. 47
+1869. Mutiny. Ch. 4. 47
 
-of tli© prison to be in the possession of a prisoner, or shall throw into the said prison any such articles, or shall by desire of any prisoner, without the sanction of the governor carry out of the prison any of the articles aforesaid, he shall for every such offence be liable to a penalty not exceeding five pounds, or to be imprisoned, either with or without hard labour, for any time not exceeding one calendar month; and if any person shall assault or violently resist any officer of such prison in the execution of his duty, or shall aid or excite any person so to assault or resist any such officer, he shall for every such offence be liable to a penalty not exceeding five pounds, or to be imprisoned, with or without hard labour, for any time not exceeding one calendar month, or if the offender be a soldier already under sentence of imprisonment, he shall be liable for every such offence, upon conviction thereof by a board of not less than three of the visitors of the prison, to be imprisoned, either with or without hard labour, for any time not exceeding six calendar months, in addition to his original sentence, or to be subjected to corporal punishment not exceeding fifty lashes, or upon conviction thereof by a single visitor to be imprisoned, with or without hard labour, for any time not exceeding seventy-two hours, in addition to his original sentence, or to be subjected to corporal punishment not exceeding twenty-five lashes; or if such soldier shall, within forty-eight hours of the expiration of his original or of any additional sentence, be guilty of any offence against the rules of the prison, he may for every such offence, on conviction thereof by a board or by a single visitor, be ordered to be kept in prison for a period not exceeding seventy-two hours either in a dark cell or in a light cell, and with or without hard labour, on a bread and water diet, or otherwise; and all the provisions of any Act or Acts of Parliament for the Certain proregulation or better ordering of gaols, houses of correction, or prisons in Great Britain shall be deemed to apply to all gaols toapply military prisons so far as any such provision relates to such to military offences; and it shall be lawful for the governor, provost pnsons* marshal, officer, or servant of any military prison to use and exercise all the powers and authorities given by any such Act to the gaoler, keeper, or turnkey of any prison, or to his or their assistants, to apprehend or to cause offenders to be apprehended, in order to their being taken before a justice or justices of the peace; and all the powers and authorities given by any such Act to any justice or justices of the peace to convict offenders in any of the above cases, together with the forms of convictions contained in any such Act, shall be applicable to the like offences when committed in respect of military prisons; and all the provisions contained in any such Act relating to suits and actions prosecuted against any person for anything done in pursuance of such Act shall be deemed to apply to all suits and actions prosecuted against any person acting in pursuance of such Act in respect of military prisons.
+of the prison to be in the possession of a prisoner, or shall throw into the said prison any such articles, or shall by desire of any prisoner, without the sanction of the governor carry out of the prison any of the articles aforesaid, he shall for every such offence be liable to a penalty not exceeding five pounds, or to be imprisoned, either with or without hard labour, for any time not exceeding one calendar month; and if any person shall assault or violently resist any officer of such prison in the execution of his duty, or shall aid or excite any person so to assault or resist any such officer, he shall for every such offence be liable to a penalty not exceeding five pounds, or to be imprisoned, with or without hard labour, for any time not exceeding one calendar month, or if the offender be a soldier already under sentence of imprisonment, he shall be liable for every such offence, upon conviction thereof by a board of not less than three of the visitors of the prison, to be imprisoned, either with or without hard labour, for any time not exceeding six calendar months, in addition to his original sentence, or to be subjected to corporal punishment not exceeding fifty lashes, or upon conviction thereof by a single visitor to be imprisoned, with or without hard labour, for any time not exceeding seventy-two hours, in addition to his original sentence, or to be subjected to corporal punishment not exceeding twenty-five lashes; or if such soldier shall, within forty-eight hours of the expiration of his original or of any additional sentence, be guilty of any offence against the rules of the prison, he may for every such offence, on conviction thereof by a board or by a single visitor, be ordered to be kept in prison for a period not exceeding seventy-two hours either in a dark cell or in a light cell, and with or without hard labour, on a bread and water diet, or otherwise; and all the provisions of any Act or Acts of Parliament for the Certain proregulation or better ordering of gaols, houses of correction, or prisons in Great Britain shall be deemed to apply to all gaols toapply military prisons so far as any such provision relates to such to military offences; and it shall be lawful for the governor, provost pnsons* marshal, officer, or servant of any military prison to use and exercise all the powers and authorities given by any such Act to the gaoler, keeper, or turnkey of any prison, or to his or their assistants, to apprehend or to cause offenders to be apprehended, in order to their being taken before a justice or justices of the peace; and all the powers and authorities given by any such Act to any justice or justices of the peace to convict offenders in any of the above cases, together with the forms of convictions contained in any such Act, shall be applicable to the like offences when committed in respect of military prisons; and all the provisions contained in any such Act relating to suits and actions prosecuted against any person for anything done in pursuance of such Act shall be deemed to apply to all suits and actions prosecuted against any person acting in pursuance of such Act in respect of military prisons.
 
 Mutiny. 32 Vict.
 
@@ -982,13 +942,9 @@ Penalty on purchasing soldiers necessaries, stores, &c.
 
 or any other justice of the peace, to be dealt with according to law: Provided always, that it shall be lawful for the legislature of any of Her Majesty's foreign dominions, on the recommendation of the officer or officers for the time being administering the government thereof, but not otherwise, to make provision by law for reducing such pecuniary penalty, if not exceeding twenty pounds, to such amount as may to such legislature appear to be better adapted to the ability and pecuniary means of Her Majesty's subjects and others inhabiting the same, which reduced penalty shall be sued for and recovered in such and the same manner as the full penalty hereby imposed: Provided also, that it shall be competent to Her Majesty, or to the person or persons administering the government of any such foreign dominions as aforesaid, to exercise, in respect of the laws so to be passed as aforesaid, all such powers and authorities as are by law vested in Her Majesty or in any such officer or officers as aforesaid in respect of any other law made or enacted by any such legislature.
 
-86. If any constable or other person who by virtue of this Penalties on Act shall be employed in billeting any officers or soldiers ih ^1^ects any part of the United Kingdom shall presume to billet any againstthe such officer or soldier in* any house not within the meaning lair* relating of this Act, without the consent of the owner or occupier to ll ets* thereof; or shall neglect or refuse to billet any officer or soldier on duty, when thereunto required, in such manner as is by this Act directed, provided sufficient notice be given before the arrival of such troops; or shall receive, demand, or agree for any money or reward whatsoever, in order to excuse any person from receiving such officer or soldier; or shall quarter any of the wives, children, men or maid servants of any officers or soldiers, in any such houses, against the consent of the occupiers; or shall neglect or reftise to execute such warrants of the justices as shall be directed to him for providing carriages, horses, or vessels, or shall demand more than the legal rates for the same; or if any person ordered by any constable in manner herein-before directed to provide carriages, horses, or vessels shall refuse or neglect to provide the same according to the orders of such constable, or shall do any act or thing by which the execution of any warrants for providing carriages, horses, or vessels shall be hindered; or if any constable shall neglect to deliver in to the justices at quarter sessions lists of officers and soldiers of the foot guards quartered according to the provisions of this Act, or shall wilfully cause to be delivered defective lists of the same; or if any person liable by this Act to have any officer or soldier quartered upon him shall refuse to receive and to afford proper accommodation or diet in the house in which such officer or soldier is quartered, and to furnish the several things directed to be furnished to officers and soldiers, or shall neglect or refuse to furnish good and sufficient stables, together with good and sufficient oats, hay, and straw, in Great Britain and Ireland for each horse, in [i\To. 5. Price 2d.] E
+86. If any constable or other person who by virtue of this Penalties on Act shall be employed in billeting any officers or soldiers ih ^1^ects any part of the United Kingdom shall presume to billet any against the such officer or soldier in* any house not within the meaning lair* relating of this Act, without the consent of the owner or occupier to ll ets* thereof; or shall neglect or refuse to billet any officer or soldier on duty, when thereunto required, in such manner as is by this Act directed, provided sufficient notice be given before the arrival of such troops; or shall receive, demand, or agree for any money or reward whatsoever, in order to excuse any person from receiving such officer or soldier; or shall quarter any of the wives, children, men or maid servants of any officers or soldiers, in any such houses, against the consent of the occupiers; or shall neglect or reftise to execute such warrants of the justices as shall be directed to him for providing carriages, horses, or vessels, or shall demand more than the legal rates for the same; or if any person ordered by any constable in manner herein-before directed to provide carriages, horses, or vessels shall refuse or neglect to provide the same according to the orders of such constable, or shall do any act or thing by which the execution of any warrants for providing carriages, horses, or vessels shall be hindered; or if any constable shall neglect to deliver in to the justices at quarter sessions lists of officers and soldiers of the foot guards quartered according to the provisions of this Act, or shall wilfully cause to be delivered defective lists of the same; or if any person liable by this Act to have any officer or soldier quartered upon him shall refuse to receive and to afford proper accommodation or diet in the house in which such officer or soldier is quartered, and to furnish the several things directed to be furnished to officers and soldiers, or shall neglect or refuse to furnish good and sufficient stables, together with good and sufficient oats, hay, and straw, in Great Britain and Ireland for each horse, in
 
-Ch. 4.
-
-Mutiny.
-
-32 Vict.
+Ch. 4. Mutiny. 32 Vict.
 
 On toll collectors demanding toll from officers, soldiers, or for carriages;
 
@@ -996,7 +952,7 @@ and on persons personating soldiers, &c.
 
 Penalties on the military offending against the lairs relating to billets.
 
-such quantities and at such rates as herein-before provided; or if any innkeeper or victualler not having good and sufficient stables shall refuse to pay over to the person or persons who may provide stabling such allowance by way of compensation as shall be directed by any justice of the peace, or shall pay any sum or sums of money to any soldier on the march in lieu of furnishing in kind the diet and small beer to which such soldier is entitled; or if any toll collector shall demand and receive toll from any of Her Majesty's officers or soldiers, on duty or on their march, for themselves or for their horses, or from any recruits marching by route, or from any prisoners under military escort, or from any enrolled pensioners in uniform when called out for training or in aid of the civil power, or for any carriages or horses belonging to Her Majesty, or employed in her service under the provisions of this Act, or in any of Her Majesty's colonies, when conveying persons or baggage or returning therefrom, every such constable, victualler, toll keeper, or other person respectively shall forfeit for every such offence, neglect, or refusal any sum not exceeding five pbunds nor less than forty shillings; and if any person shall personate or represent himself to be a soldier or a recruit, with the view of fraudulently obtaining a billet, or money in lieu thereof, he shall for every such offence forfeit any sum not exceeding five pounds nor less than twenty shillings.
+such quantities and at such rates as herein-before provided; or if any innkeeper or victualler not having good and sufficient stables shall refuse to pay over to the person or persons who may provide stabling such allowance by way of compensation as shall be directed by any justice of the peace, or shall pay any sum or sums of money to any soldier on the march in lieu of furnishing in kind the diet and small beer to which such soldier is entitled; or if any toll collector shall demand and receive toll from any of Her Majesty's officers or soldiers, on duty or on their march, for themselves or for their horses, or from any recruits marching by route, or from any prisoners under military escort, or from any enrolled pensioners in uniform when called out for training or in aid of the civil power, or for any carriages or horses belonging to Her Majesty, or employed in her service under the provisions of this Act, or in any of Her Majesty's colonies, when conveying persons or baggage or returning therefrom, every such constable, victualler, toll keeper, or other person respectively shall forfeit for every such offence, neglect, or refusal any sum not exceeding five pounds nor less than forty shillings; and if any person shall personate or represent himself to be a soldier or a recruit, with the view of fraudulently obtaining a billet, or money in lieu thereof, he shall for every such offence forfeit any sum not exceeding five pounds nor less than twenty shillings.
 
 87. If any military officer shall take upon himself to quarter soldiers otherwise than is limited and allowed by this Act, or shall use or offer any menace or compulsion to or upon any mayor, constable, or other civil officer, tending to deter and discourage any of them from performing any part of their duty under this Act, or tending to induce any of them to do anything contrary to their said duty, such officer shall for every such offence (being thereof convicted before any two or more justices of the county by the oath of two credible witnesses) be deemed and taken to be thereupon cashiered, and shall be utterly disabled to hold any military employment in Her Majesty's service; provided that a certificate of such conviction shall be transmitted by one of the said justices to the Judge Advocate in London, who is hereby required to certify the same to the Commander-in-Chief and Secretary of State for the War Department, and that the said conviction be affirmed at some quarter sessions of the peace of the said county held next after the expiration of three months after such certificate of the justice shall have been transmitted as aforesaid; and if any military officer shall take, or knowingly suffer to be taken, from any person, any money or reward for excusing the quartering of officers or soldiers, or shall billet any of the wives, children, men or maid servants of any officer or soldier, in any house, against the consent of the occupier, he shall, upon being convicted thereof before a general court-martial, be cashiered; and if any officer shall constrain any carriage to travel beyond the distance specified in the justice's
 
@@ -1016,8 +972,6 @@ and it shall be lawful for every such person to plead thereunto the general issu
 
 above any forfeiture of value or treble value, shall and may be determined, and such penalties and forfeitures and forfeiture of value or treble value recovered, in every part of the United Kingdom, by and before one or more justice or justices of the peace, under the provisions of an Act passed in the eleventh and twelfth years of the reign of Her Majesty Queen Victoria, intituled " An Act to facilitate the performance 12 Vict
 
-E 2
-
 Mutiny. 32 Vict.
 
 14 & 15 Vict. c. 93.
@@ -1030,7 +984,7 @@ c. 76.
 
 of the duties of Justices of the Peace out of Sessions, within " England and Wales, with respect to summary convictions " and orders:" Provided always, that in all cases in which there shall not be sufficient goods whereon any penalty or forfeiture can be levied, the offender may be committed and imprisoned for any time not exceeding six calendar months; which said recited Act shall be used and applied, in Scotland and in Ireland, for the recovery of all such penalties and forfeitures, as folly to all intents as if the said recited Act had extended to Scotland and Ireland, anything in the said recited Act, or in an Act passed in the fourteenth and fifteenth years of the reign of Her Majesty Queen Victoria, intituled " An Act to consolidate and amend the Acts regulating the " proceedings at Petty Sessions, and the duties of Justices of " the Peace out of Quarter Sessions, in Ireland," to the contrary notwithstanding; and all such offences committed in the British Isles or in any of Her Majesty's dominions beyond the seas may be determined, and the penalties and forfeitures and forfeiture of value or treble value recovered, before any justices of the peace or persons exercising like authority according to the laws of the part of Her Majesty's dominions in which the offence shall be committed; and all penalties and forfeitures by this Act imposed exceeding twenty pounds shall be recovered by action in some of the courts of record at Westminster, or in Dublin, or in India* or in the Court of Session in Scotland, and in no other court in the United Kingdom, and may be recovered in the British Isles, or in any other parts of Her Majesty's dominions, in any of the royal or superior courts of such isles or other parts of Her Majesty's dominions.
 
-9L One moiety of every penalty, not including any treble value of any articles, adjudged or recovered under the provisions of this Act, shall go to the person who shall inform or sue for the same, and the remainder of the penalty, together with the treble value of any articles, or, where the offence shall be proved by the person who shall inform, the whole of the penalty, shall be paid, in the United Kingdom, to the
+91. One moiety of every penalty, not including any treble value of any articles, adjudged or recovered under the provisions of this Act, shall go to the person who shall inform or sue for the same, and the remainder of the penalty, together with the treble value of any articles, or, where the offence shall be proved by the person who shall inform, the whole of the penalty, shall be paid, in the United Kingdom, to the
 
 Eneral agent for the recruiting service in London, and in dia to the military secretary of the government of the presidency to which the court by whom the penalty shall be adjudicated shall be subject, and elsewhere in Her Majesty's dominions to the local military accountant, to be at the disposal of the Secretary of State for the War Department, anything in an Act passed in the fifth and sixth years of the reign of His late Majesty King William the Fourth, intituled " An Act to provide for the regulation of Municipal Corpora- tions in England and Wales," or in any other Act or Acts, to the contrary notwithstanding. Every justice or court adjudging any penalty under this Act shall report the same immediately, if in the United Kingdom, to the said Secretary of State, if in India to the said military secretary, and if else-
 
@@ -1052,7 +1006,7 @@ reward paid for such declaration or attestation.
 
 95. All commissaries, regimental paymasters, and all other Commissaries, accountants for military services, storekeepers, and barrack 10 attest4
 
-, i . , f ii . their accounts,
+their accounts,
 
 masters, upon making up their accounts, and all commissaries and storekeepers upon returning from any foreign service, shall severally, make the respective declarations described in the schedule to this Act annexed; which declarations, if made in any part of the United Kingdom, shall be made before some justice, or other person authorized to administer oaths and declarations, and if made on foreign service shall be made
 
@@ -1714,7 +1668,7 @@ detm)hmentnd not ^ess than five commissioned officers, unless it be found
 
 courts-martial, impracticable to assemble that number, in which case three shall be sufficient, and shall have power to sentence any marine to corporal punishment or to imprisonment, and forfeiture of pay, in such manner as shall accord with the provisions of this Act.
 
-1869. Marine Mutvny. Ch. 5. 73
+1869. Marine Mutiny. Ch. 5. 73
 
 1L In cases of mutiny and insubordination accompanied Courts-martial with personal violence or of other offences committed on the 011 of.
 
@@ -2346,9 +2300,9 @@ Definition of terms.
 
 shall apply to all persons who are or shall be commissioned or in pay as an officer of Royal Marines, or who are or shall be listed or in pay as a non-commissioned officer or marine; and all clauses and provisions relating to marines shall be construed to include non-commissioned officers and drummers, unless when otherwise provided; and all clauses and provisions relating to justices shall be construed to extend to all magistrates authorized to act as such in their respective jurisdictions; and all the powers given to and regulations made for the conduct of constables, and all penalties and forfeitures for any neglect thereof, shall extend to all tithingmen, head boroughs, and such like officers, and to all inspectors or other officers of police, and to high constables and other chief officers and magistrates of cities, towns, villages, and places, in England and Ireland, and to all justices of the peace, magistrates of burghs, commissioners of police, and other chief officers and magistrates of cities, towns, villages, parishes, and places in Scotland, who shall act in the execution of this Act; and all powers and provisions for billeting marines in victualling houses shall extend and apply to all inns, hotels, livery stables, alehouses, and to the houses of sellers of wine by retail, whether British or foreign, to be drunk in their own houses or places thereunto belonging, to all houses of persons licensed to sell beer, ale, porter, cider, or perry by retail, to be consumed or drunk in their dwelling houses or premises, and to all houses of persons selling brandy, spirits, strong waters, cider, or metheglin by retail in Great Britain and Ireland; and in Ireland, when there shall not be found sufficient room in such houses, then marines may be billeted in such manner as has Marines not to been heretofore customary: Provided always, that no officer be billeted in or marine shall be billeted in Great Britain in any private private onses, houses, or in any canteen held or occupied under the authority of the Admiralty, War, or Marine Department, or upon persons who keep taverns only, being vintners of the city of London admitted to their freedom of that company in right of patrimony or apprenticeship, notwithstanding such persons who keep such taverns only have taken out victualling licences; nor in the house of any distiller kept for distilling brandy and strong waters; nor in the house of any shopkeeper whose principal dealings shall be more in other goods and merchandise than in brandy and strong waters, so as such distillers and shopkeepers do not permit tippling in such houses; nor in the house or residence in any part of the United Kingdom of any foreign consul duly accredited as such.
 
-Duration of 97. This Act shall be in force within Great Britain from Act* the twenty-fifth day of April one thousand eight hundred and
+Duration of
 
-sixty-nine until the twenty-fifth day of April one thousand eight hundred and seventy inclusive; and within Ireland, and in Jersey, Guernsey, Alderney, Sark, and the Isle of Man, and the islands thereto belonging, from the first day of May one thousand eight hundred and sixty-nine until the first day of
+97. This Act shall be in force within Great Britain from Act* the twenty-fifth day of April one thousand eight hundred and sixty-nine until the twenty-fifth day of April one thousand eight hundred and seventy inclusive; and within Ireland, and in Jersey, Guernsey, Alderney, Sark, and the Isle of Man, and the islands thereto belonging, from the first day of May one thousand eight hundred and sixty-nine until the first day of
 
 1869.
 
@@ -2362,11 +2316,11 @@ SCHEDULE referred to by this Act.
 
 Form of Oaths to be taken by Members of Courts-martial.
 
-OU shall well and truly try and determine according to the "* evidence in the matter now before you.
+YOU shall well and truly try and determine according to the evidence in the matter now before you.
 
 So help you GOD.
 
-VOU shall duly administer justice, according to the rules A and articles for the better government of Her Majesty's Royal Marine forces, and according to an Act now in force for the regulation of the said forces while on shore, without partiality, favour, or affection, and if any doubt shall arise which is not explained by the said articles or Act, according to your conscience, the best of your understanding, and the custom of war in the*like cases: And you shall not divulge the sentence of the court until it shall be duly approved; neither shall you, upon any account, at any time whatsoever, disclose or discover the vote or. opinion of any particular member of the court-martial, unless required to give evidence thereof as a witness by a court of justice or a court-martial in a due course of law.
+YOU shall duly administer justice, according to the rules A and articles for the better government of Her Majesty's Royal Marine forces, and according to an Act now in force for the regulation of the said forces while on shore, without partiality, favour, or affection, and if any doubt shall arise which is not explained by the said articles or Act, according to your conscience, the best of your understanding, and the custom of war in the*like cases: And you shall not divulge the sentence of the court until it shall be duly approved; neither shall you, upon any account, at any time whatsoever, disclose or discover the vote or. opinion of any particular member of the court-martial, unless required to give evidence thereof as a witness by a court of justice or a court-martial in a due course of law.
 
 So help you GOD.
 
@@ -2610,9 +2564,11 @@ Short title.
 
 CHAP. 6.
 
-An Act to repeal so much of The Regulation of Railways Act, 1868, as relates to the approval by meetings of incorporated railway companies of bills and certificates for conferring further powers on those companies. [19th April 1869.]
+An Act to repeal so much of The Regulation of Railways Act, 1868, as relates to the approval by meetings of incorporated railway companies of bills and certificates for conferring further powers on those companies.
 
-DE it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+[19th April 1869.]
+
+BE it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. Section thirty-five of The Regulation of Railways Act, 1868, (which relates to meetings of incorporated railway companies and the approval by such meetings of bills and certificates for conferring additional powers on those companies,) is hereby repealed so far as relates to any Bill introduced into either House of Parliament or application for a certificate made after the first of February one thousand eight hundred and sixty-nine.
 
@@ -2620,7 +2576,9 @@ DE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 CHAP. 7.
 
-An Act for the confirmation and execution of arrangements made between the Secretary of State in Council of India and the East India Irrigation and Canal Company; and for other purposes connected therewith. [19th April 1869.]
+An Act for the confirmation and execution of arrangements made between the Secretary of State in Council of India and the East India Irrigation and Canal Company; and for other purposes connected therewith.
+
+[19th April 1869.]
 
 WHEREAS the East India Irrigation and Canal Company (in this Act and the schedule thereto called the company) were by the East India Irrigation and Canal Act, 1861, incorporated for the purposes therein mentioned, including the following; namely, —
 
@@ -2656,7 +2614,7 @@ Who to be deemed shareholders.
 
 Receipts of executors, See.
 
-Ch. 7. East India Irrigation and Comal Company. 32 Vict
+Ch. 7. East India Irrigation and Canal Company. 32 Vict
 
 the company had power to enter into the said agreements, and it is expedient that provision be made by authority of Parliament for the execution thereof:
 
@@ -2674,7 +2632,7 @@ May it therefore please Your Majesty that it may be enacted; and be it enacted b
 
 6. The receipt of an executor or administrator of a deceased holder of any share or stock in the OriBsa capital, and the
 
-1869. East India Irrigation cmd Comal Company. Ch. 7.
+1869. East India Irrigation and Canal Company. Ch. 7.
 
 receipt of any person competent under the Acts relating to the company to give a discharge to the company for any money payable in respect of any such share or stock, shall be an effectual discharge to the company and to the directors thereof for any money payable under this Act in respect of any such share or stock and in any such receipt expressed to be received, and shall exonerate the company and the directors thereof from any obligation affecting the share or stock in respect of which such money is paid, or in anywise relating to that money.
 
@@ -2700,17 +2658,19 @@ There shall be applied for the service of the year ending 31st March 1870 the su
 
 Bank of England may advance 17,100,000/. on the credit of this Act.
 
-Ch. 7,8. East India In'igation and Canal Company. 32 Vict.
+Ch. 7,8. East India Irrigation and Canal Company. 32 Vict.
 
 3. Articles of agreement dated the 21st day of December 1868, indorsed on the first-mentioned articles of agreement, and made between the same parties as those articles, being under the hands and seals of William Urquhart Arbuthnot and Sir Robert Montgomery, K.C.B., G.C.S.I., two members of the Council of India, on behalf of the Secretary of State in Council, and under the seal of the company.
 
 CHAP. 8.
 
-An Act to apply the sum of seventeen million one hundred thousand pounds out of the Consolidated Fund to the service of the year ending the thirty-first day of March one thousand eight hundred and seventy. [13th May 1869.]
+An Act to apply the sum of seventeen million one hundred thousand pounds out of the Consolidated Fund to the service of the year ending the thirty-first day of March one thousand eight hundred and seventy.
+
+[13th May 1869.]
 
 Most Gracious Sovereign,
 
-Tl/'E, Your Majesty's most dutiful and loyal subjects, the * " Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards making good the supply which we have cheerfully granted to Your Majesty in this session of Parliament, have resolved to grant unto Your Majesty the sum herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards making good the supply which we have cheerfully granted to Your Majesty in this session of Parliament, have resolved to grant unto Your Majesty the sum herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. There shall and may be issued and applied, for or towards making good the supply granted to Her Majesty for the service of the year ending on the thirty-first day of March one thousand eight hundred and seventy, the sum of seventeen million one hundred thousand pounds out of the Consolidated Fund of the United Kingdom of Great Britain and Ireland, and the Commissioners of Her Majesty's Treasury for the time being are hereby authorized and empowered to issue and apply the same accordingly.
 
@@ -2726,7 +2686,9 @@ the United Kingdom of Great Britain and Ireland in this present session of Parli
 
 CHAP. 9.
 
-An Act to amend "The Salmon Fishery (Ireland) Act, 1863," and the Acts continuing the temporary provisions of the same. [13th May 1869.]
+An Act to amend "The Salmon Fishery (Ireland) Act, 1863," and the Acts continuing the temporary provisions of the same.
+
+[13th May 1869.]
 
 WHEREAS by " The Salmon Fishery (Ireland) Act, 1863," it was, amongst other, enacted, that the offices of the Special Commissioners for Irish Fisheries, appointed under the provisions of the said Act, and all powers, rights, and privileges pertaining thereto, should continue in force for two years only, and from thenceforth until the end of the next session of Parliament, and that on the determination of the office of the said special commissioners all powers and duties transferred to, vested in, or imposed on them by the said Act should be transferred to and vested in two permanent inspectors of fisheries, to be appointed by and to be subject to the control of the Lord Lieutenant of Ireland:
 
@@ -3052,11 +3014,13 @@ rank with respect to the officers of militia as an officer of Her Majesty's regu
 
 CHAP. 14.
 
-An Act to grant certain Duties of Customs and Inland Revenue, and to repeal and alter other Duties of Customs and Inland Revenue. [24th June 1869.]
+An Act to grant certain Duties of Customs and Inland Revenue, and to repeal and alter other Duties of Customs and Inland Revenue.
+
+[24th June 1869.]
 
 Most Gracious Sovereign,
 
-WE, Your Majesty's most dutiful and loyal subjects, the * " Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards raising the necessary supplies to defray Your Majesty's public expenses and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards raising the necessary supplies to defray Your Majesty's public expenses and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 Part I.
 
@@ -3154,9 +3118,7 @@ Vermicelli.
 
 1869.
 
-Customs and Inland Revenue Duties.
-
-Ch. 14.
+Customs and Inland Revenue Duties. Ch. 14.
 
 141
 
@@ -3166,7 +3128,7 @@ As to Income Tax, Land Tax, and Inhabited House Duty.
 
 5. There shall be charged, collected, and paid, for the use of Grant of duties Her Majesty, her heirs and successors, the duties of income tax of in^°^ei^ax specified in schedule (B.) to this Act; and all the provisions schedule (B.) contained in any Act relating to the duties of income tax, and in force on the fifth day of April one thousand eight hundred and sixty-nine, and not repealed by this Act, shall have as full force and effect with respect to the said duties of income tax granted by this Act, so far as the same shall be consistent with the provisions of this Act, as if the same had been herein expressly enacted with reference to the said duties so granted; and for the purposes of this Act the year one thousand eight hundred and sixty-two, mentioned in the forty-third section of the Act passed in the twenty-fifth year of Her Majesty's reign, chapter twenty-two, shall be read as and deemed to mean the year one thousand eight hundred and sixty-nine.
 
-0. The sum charged as the annual value or amount of any The sums as-property, profits, or gains in the several and respective assess- sessed to the ments of income tax made in pursuance of the Act passed in ^Lhedule the thirtieth year of Her Majesty's reign, chapter twenty- (A.) and (B.) three, under schedules (A.) and (B.) respectively of the Act ofi6&i7 Vict. passed in the sixteenth and seventeenth years of Her Majesty's reign, chapter thirty-four, for the year ended on the fifth day be taken as the of April one thousand eight hundred and sixty-nine, shall annual value (except in cases for which other provision is made by the Acts ^ndw^sAcV relating to income tax) be taken as the annual value or amount of such property, profits, or gains respectively for the year commencing on the sixth day of April one thousand eight hundred and sixty-nine; and the duties of income tax granted by this Act and chargeable, under the said schedules respectively, shall be computed, assessed, and charged according to such annual value or amount; and the commissioners executing the income tax Acts shall, for each place within their several and respective districts, cause duplicates of the assessments of the said duties, so computed, assessed, and charged under the said schedules (A) and (B.) for the said last-mentioned year, to be made out and delivered, together with the warrants for collecting the same; and in England the said commissioners shall appoint such persons, being inhabitants of the place to which the duplicate shall relate, as they the said commissioners shall think fit to be collectors of the duties thereby charged, in like manner as if such persons had been presented to them by assessors under the Acts now in force: provided always, that the said assessment shall be subject to be increased in like manner as the assessments made for the year ended on the fifth day of April one thousand eight hundred and sixty-nine, and subject also to be abated or discharged at the end of the year commencing on the sixth day of April one thousand eight hundred and sixty-nine, for any cause allowed by the
+6. The sum charged as the annual value or amount of any The sums as-property, profits, or gains in the several and respective assess- sessed to the ments of income tax made in pursuance of the Act passed in ^Lhedule the thirtieth year of Her Majesty's reign, chapter twenty- (A.) and (B.) three, under schedules (A.) and (B.) respectively of the Act of 16&17 Vict. passed in the sixteenth and seventeenth years of Her Majesty's reign, chapter thirty-four, for the year ended on the fifth day be taken as the of April one thousand eight hundred and sixty-nine, shall annual value (except in cases for which other provision is made by the Acts ^ndw^sAcV relating to income tax) be taken as the annual value or amount of such property, profits, or gains respectively for the year commencing on the sixth day of April one thousand eight hundred and sixty-nine; and the duties of income tax granted by this Act and chargeable, under the said schedules respectively, shall be computed, assessed, and charged according to such annual value or amount; and the commissioners executing the income tax Acts shall, for each place within their several and respective districts, cause duplicates of the assessments of the said duties, so computed, assessed, and charged under the said schedules (A) and (B.) for the said last-mentioned year, to be made out and delivered, together with the warrants for collecting the same; and in England the said commissioners shall appoint such persons, being inhabitants of the place to which the duplicate shall relate, as they the said commissioners shall think fit to be collectors of the duties thereby charged, in like manner as if such persons had been presented to them by assessors under the Acts now in force: provided always, that the said assessment shall be subject to be increased in like manner as the assessments made for the year ended on the fifth day of April one thousand eight hundred and sixty-nine, and subject also to be abated or discharged at the end of the year commencing on the sixth day of April one thousand eight hundred and sixty-nine, for any cause allowed by the
 
 Assessors not
 
@@ -3202,15 +3164,9 @@ ment occupied as a house for the purposes of trade only, or as trade premises
 
 a warehouse for the sole purpose of lodging goods, wares, or under care of
 
-merchandize therein, or as a shop or counting-house, or being 8ervant only*
+merchandize therein, or as a shop or counting-house, or being servant only*
 
-used as a shop or counting-house, shall be exempt from
-
-inhabited house duties, although a servant or other person
-
-may dwell in such tenement or part of a tenement for the
-
-protection thereof
+used as a shop or counting-house, shall be exempt from inhabited house duties, although a servant or other person may dwell in such tenement or part of a tenement for the protection thereof
 
 Part III.
 
@@ -3302,7 +3258,7 @@ Ch. 14. Customs and Inland Revenue Duties. 32 & 33 Vict.
 
 be granted by such officer as the said Commissioners shall direct, and shall be dated on the day of granting the same, and shall expire on the thirty-first day of December then next following.
 
-19. The provisions and regulations contained in this section shall be observed, viz .:
+19. The provisions and regulations contained in this section shall be observed, viz.:
 
 (1.) It shall not be necessary for any member of the Royal Family to make any declaration or to take out any licence under this Act, nor shall it be necessary for the sheriff of any county, or mayor or other officer in any corporation or royal burgh serving an annual office therein, to take out a licence for any servants, carriages, or horses employed or kept by him for the purposes of his office during his year of service, nor for any person who shall by right of office wear or use any of the arms or insignia of any member of the Royal Family, or of any corporation or royal burgh, to take out a licence in respect of the use of such arms or insignia:
 
@@ -4424,7 +4380,7 @@ And whereas it ia expedient to make farther provision with respect to the paymen
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-PreKmwnaryi
+Preliminary
 
 1. This Act may be cited for all purposes as The Corrupt Practices Commission Expenses Act, 1869.
 
@@ -4448,7 +4404,7 @@ required to the Commissioners of the Treasury out of the public stock of the cou
 
 ,1869.
 
-Election Oorrmiesioners {Expanses). Ch. 21.
+Election Commissioners (Expenses). Vict. Ch. 21.
 
 within the county or division of the county, as the case may be, in respect of which such Commissioners of Inquiry have been appointed.
 
@@ -4486,7 +4442,7 @@ Payment of expenses in Ireland.
 
 185
 
-Election Comrwisdioners (Expemes). Ch. 21,22.
+Election Commissioners (Expenses). Ch. 21,22.
 
 requisition, and such amount shall be raised and levied within six months after the date of such requisition in like manner to all intents and purposes as if the same had been presented under the provisions of section seventy of the Act of the session of the thirteenth and fourteenth years of the reign of Her present Majesty, chapter sixty-nine, and shall be paid by the said treasurer as aforesaid to the said Commissioners of the Treasury.
 
@@ -4500,7 +4456,7 @@ An Act for raising the sum of two million three hundred thousand pounds by Exche
 
 Most Gracious Sovereign,
 
-YX^E, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards raising the necessary supplies which we have cheerfully granted to Your Majesty in this session of Parliament, have resolved to give and grant unto Your Majesty the sum herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the Queen s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards raising the necessary supplies which we have cheerfully granted to Your Majesty in this session of Parliament, have resolved to give and grant unto Your Majesty the sum herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the Queen s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 L Towards making good the supply granted to Her Majesty for the service of the year ending on the thirty-first day of March one thousand eight hundred and seventy, it shall be lawful for the Commissioners of Her Majesty's Treasury at any time or times, but not later than the thirty-first day of March one thousand eight hundred and seventy, to cause any number of Exchequer bonds to be made out at the Bank of England for any sum or sums of money not exceeding in the whole the sum of two million three hundred thousand pounds, and such bonds shall bear such interest as shall be determined by the said Commissioners, not exceeding four pounds per centum per annum, and shall be paid off at par at the expiration of any period or periods not exceeding five years from the date of such bonds.
 
@@ -4542,9 +4498,11 @@ thereof; and the principal monies secured by such bonds shall be repaid out of s
 
 CHAP. 23.
 
-An Act to extend the Power of Recorders to appoint Deputies in certain cases. [12th July 1869.]
+An Act to extend the Power of Recorders to appoint Deputies in certain cases.
 
-\\7HERE AS by an Act passed in the sixth and seventh years of the reign of Her present Majesty, intituled " An Act to amend the Act for the regulation of Municipal " Corporations in England and Wales," the recorders of boroughs having separate courts of quarter sessions are authorized and empowered, in case of sickness or unavoidable absence, to appoint deputies for the time being, and it is expedient to extend to recorders in the exercise of their civil jurisdiction as
+[12th July 1869.]
+
+WHEREAS by an Act passed in the sixth and seventh years of the reign of Her present Majesty, intituled " An Act to amend the Act for the regulation of Municipal " Corporations in England and Wales," the recorders of boroughs having separate courts of quarter sessions are authorized and empowered, in case of sickness or unavoidable absence, to appoint deputies for the time being, and it is expedient to extend to recorders in the exercise of their civil jurisdiction as
 
 187
 
@@ -4564,9 +4522,9 @@ An Act to repeal certain enactments relating to Newspapers, Pamphlets, and other
 
 [12th July 1869.]
 
-DE it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+BE it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-L The Acts and parts of Acts described in the first .schedule to this Act are hereby repealed, but the provisions of the said Acts which are set out in the second schedule to this Act shall continue in force in the same manner as if they were enacted in the body of this Act; and this Act shall not affect the validity or invalidity of anything already done or suffered, or any right or title already acquired or accrued, or any remedy or proceeding in respect thereof, and all such remedies and proceedings may be had and continued in the same manner as if this Act had not passed.
+1. The Acts and parts of Acts described in the first .schedule to this Act are hereby repealed, but the provisions of the said Acts which are set out in the second schedule to this Act shall continue in force in the same manner as if they were enacted in the body of this Act; and this Act shall not affect the validity or invalidity of anything already done or suffered, or any right or title already acquired or accrued, or any remedy or proceeding in respect thereof, and all such remedies and proceedings may be had and continued in the same manner as if this Act had not passed.
 
 2. This Act may be cited as The Newspapers, Printers, and Beading Booms Repeal Act, 1869.
 
@@ -4616,7 +4574,7 @@ tions fifteen to thirty-three, both inclusive, and so much of sections thirty-fo
 
 An Act to explain and amend an Act passed in the thirty-ninth year of His Majesty's reign, intituled " An Act for the more effectual suppression of societies " established for seditious and treasonable purposes, " and for better preventing treasonable and sedi- tious practices," so far as respects certain penalties on printers and publishers.
 
-An Act to regulate the collec-'' tion of stamp duties and matters in respect of which licences may be granted by the commissioner of stamps in Ireland - - -
+An Act to regulate the collection of stamp duties and matters in respect of which licences may be granted by the commissioner of stamps in Ireland - - -
 
 An Act to subject certain publications to the duties of stamps upon newspapers, and to make other regulations for restraining the abuses arising from the publication of blasphemous and seditious libels.
 
@@ -4640,7 +4598,7 @@ In part, namely, —
 
 The following words in section twenty " and also licence " to any person to " keep any print- ing presses and " types for printing " in Ireland."
 
-1869. Neivspapers, Printers, and Reading Rooms. Ch. 24.
+1869. Newspapers, Printers, and Reading Rooms. Ch. 24.
 
 1S9
 
@@ -4820,7 +4778,7 @@ reign of King William the Fourth, chapter sixty-four, intituled " An Act to perm
 
 (3.) An Act of the session of the third and fourth years of 3 & 4 Vict. the reign of Her present Majesty, chapter sixty-one, c* 61# intituled "An Act to amend the Acts relating to " the general sale of beer and cider by retail in " England
 
-(4.) An Act of the session of the twenty-fourth and 24 & 25 Vict. twenty-fifth years of the reign of Her presentc*21% Majesty, chapter twenty-one, entitled "An Act for " granting to Her Majesty certain duties of excise " and stamps
+(4.) An Act of the session of the twenty-fourth and 24 & 25 Vict. twenty-fifth years of the reign of Her present c*21% Majesty, chapter twenty-one, entitled "An Act for " granting to Her Majesty certain duties of excise " and stamps
 
 provision is made for the grant of licences by the excise for the sale by retail of beer and cider upon the terms and conditions therein specified:
 
@@ -6130,7 +6088,7 @@ has been made under this section in respect of the salary of a curate and the sa
 
 The Commissioners may make to any curate who is not entitled to compensation as a permanent curate, and who is serving as a curate on any day between the said first day of January one thousand eight hundred and sixty-nine and the said first day of January one thousand eight hundred and seventy-one, both inclusive, such gratuity for the loss of his curacy as they may think just, so that the amount thereof do not exceed twenty-five pounds for every year during which
 
-J869.
+1869.
 
 Irish Church.
 
@@ -6672,7 +6630,7 @@ u Lord Lieutenant
 
 Jurisdiction.'*
 
-Cfl. 42, 4S. Irish Church. 32 & 33 Vict.
+Ch. 42, 4S. Irish Church. 32 & 33 Vict.
 
 hereby asagned to them respectively, unless there be something in the subject or context repugnant thereto; (that is to say,)
 
@@ -8148,7 +8106,7 @@ WHEREAS under the Acts mentioned in the first schedule to this Act annuities of 
 
 And whereas the payment of such annuities is now made at half-yearly periods, and it is expedient that they should be cancelled, and terminable annuities payable at various periods during the year should be substituted for them;
 
-1869. Savings Banks and Post Office Savings Banks. Cfl. 59. 39?
+1869. Savings Banks and Post Office Savings Banks. Ch. 59. 39?
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -8282,7 +8240,7 @@ The time of service in political offices may for the purposes of this Act be con
 
 6. Where a person receiving a pension under this Act was at the time of his application for such pension, or is afterwards, entitled to any emolument (including in the term any salary, compensation, superannuation allowance or pension,) which is payable out of any monies raised by taxation or out of other public revenue in any part of Her Majesty's dominions, or is received by way of fees or otherwise in respect of his holding any public office or employment in any part of Her Majesty's dominions, the payment of the pension under this Act shall, so long as he receives such emolument, if the amount thereof is greater than or equal to the pension under this Act, be suspended, and if less be diminished by the amount of such emolument; and if any person is at the time of his application for or while receiving a pension under this Act entitled to any such emolument, he shall forthwith deliver to the Commissioners of Her Majesty's Treasury a declaration under his hand stating the nature and amount thereof.
 
-J869.
+1869.
 
 311
 
@@ -9020,7 +8978,7 @@ Preliminary.
 
 1. The Union Assessment Committee Act, 1862, is in this Act referred to as " the principal Actand the principal Act, and the Union Assessment Committee Act, 1864, (amending the same,) shall for the purposes of this Act, and so far as is consistent with the tenor thereof, be incorporated with this Act; and the expression " this Act " in the principal Act, and
 
-Valuation of Property {Metropolis). Ch. 67.
+Valuation of Property (Metropolis). Ch. 67.
 
 381
 
@@ -9104,7 +9062,7 @@ All the provisions of this Act and the Acts incorporated herewith shall —
 
 333
 
-Valuation of Property {Metropolis). Ch. 67.
+Valuation of Property (Metropolis). Ch. 67.
 
 guardians for the relief of the poor, were the guardians mentioned in the principal Act and the common fund; and —
 
@@ -9202,7 +9160,7 @@ Appointment of members of general assessment sessions.
 
 Officers of general assessment sessions.
 
-Ch. 67. Valuation of Property {Metropolis), 32 & 33 VICT.
+Ch. 67. Valuation of Property (Metropolis), 32 & 33 VICT.
 
 way alter the totals of the gross or rateable value of such list as settled by the assessment committee, but may form a reason for an appeal against such totals to the assessment sessions and superior court as herein-after mentioned.
 
@@ -9296,7 +9254,7 @@ Proceedings on Appeals.
 
 33* Notice in writing of every appeal, whether to special sessions or the assessment sessions, specifying the correction which the appellant desires to have made in the valuation
 
-1869. Vcdwcvtion of Property {Metropolis). Ch. 67. 889
+1869. Vcdwcvtion of Property (Metropolis). Ch. 67. 889
 
 list, must be served, within the time in this Act mentioned, on the following persons; namely,
 
@@ -9456,7 +9414,7 @@ thousand eight hundred and seventy-one) shall be conducted as follows:
 
 (3.) The same regulations shall be observed and the same proceedings shall be had in the case of a supplemental list and a new valuation list as are directed by this Act and the Acts incorporated herewith in the case
 
-1869. Valuation of Property {Metropolis). Ch. 67* 34£
+1869. Valuation of Property (Metropolis). Ch. 67* 34£
 
 of the valuation list made in the first year after the passing of this Act:
 
@@ -9502,7 +9460,7 @@ the Borne way as notices by an assessment committee are served:
 
 (10.) A provisional list during the time that it is in force shall be deemed to form part of the valuation list for the time being in force, and shall (so far as is neces-
 
-1869. Valuatiwi of Property {Metropolis). Ch. 67^ 3^7
+1869. Valuatiwi of Property (Metropolis). Ch. 67^ 3^7
 
 sary) be substituted for so much of that valuation list as relates to the same hereditament, and every rate and tax in respect of which the valuation list is conclusive, which are respectively made or charged after the provisional list comes into force, and the proportion of the current rate charged as before provided in this section, shall be levied accordingly; but if when the next revision of the valuation list takes place the list as approved and altered on appeal contains a smaller value for the hereditament comprised in a provisional list than the value stated in such provisional list, the amount of rate or tax which has been overpaid in consequence of the larger value having been stated shall be repaid or allowed:
 
@@ -9536,7 +9494,7 @@ Occupier to make returns.
 
 Surveyor of taxes to supply notices and forms for returns to overseers, who are to serve them.
 
-Cfl. 67. Valuation of Property (Metropolis). 32 & 33 VICT.
+Ch. 67. Valuation of Property (Metropolis). 32 & 33 VICT.
 
 Rules for formation of Valuation List.
 
@@ -9668,7 +9626,7 @@ two justices.
 
 Omissions from the rate.
 
-1869. Valuation of Property {Metropolis). Ch. 67. 353
+1869. Valuation of Property (Metropolis). Ch. 67. 353
 
 person whose name is so inserted or corrected in any such rate may appeal against the same at the general quarter sessions of the peace which is holden next after such insertion or correction, in like manner as he might have appealed against the rate.
 
@@ -9926,7 +9884,7 @@ Sections sixty-four, sixty-five, sixty-six, sixty-seven, sixty-eight, seventy-ei
 
 c. 122.
 
-Vernation of Property {Metropolis). Ch. 67,68*
+Vernation of Property (Metropolis). Ch. 67,68*
 
 The Union Assessment Committee Act, 1862/ "
 
@@ -10118,7 +10076,7 @@ Repeal of Acts in schedule.
 
 Definition, &c. of Privy Council.
 
-Ch. 70. Contagious Diseases {Animals). 32 & 33 VICT.
+Ch. 70. Contagious Diseases (Animals). 32 & 33 VICT.
 
 2. This Act shall not extend to Ireland.
 
@@ -10152,7 +10110,7 @@ All or any powers by this Act conferred on the Privy Council may be exercised by
 
 Powers by this Act conferred on the Privy Council may, as regards the making of orders affecting only specified ports, towns, or places, or parts thereof, and as regards the issuing and revocation of licences under any Order of Council, be exercised by the Lord President of the Council or one of Her Majesty's Principal Secretaries of State.
 
-1869. Contagious Diseases {Animals). Cff. 70.
+1869. Contagious Diseases (Animals). Ch. 70.
 
 6. In this Act —
 
@@ -10166,7 +10124,7 @@ The term " cattle plague " means the rinderpest, or disease commonly called the 
 
 The term " contagious or infectious disease " includes cattle plague, pleuro-pneumonia, foot-and-mouth disease, sheep-
 
-?ox, sheep-scab, and glanders, and any disease which the rivy Council from time to time by order declare to be a contagious or infectious disease for the purposes of this Act:
+?ox, sheep-scab, and glanders, and any disease which the privy Council from time to time by order declare to be a contagious or infectious disease for the purposes of this Act:
 
 The term " railway company" includes a company or person working a railway under lease or otherwise:
 
@@ -10188,9 +10146,7 @@ For the purposes of this Act, the liberty of St. Albans, the liberty of the Isle
 
 Every place that is not a borough, a county, or part of the metropolis as respectively defined in this Act, or is not separately mentioned in the second schedule to this Act, shall be deemed to form part of a county as defined in this Act to the county rate whereof it is assessed, or if it is not so assessed, then of the county within which it is situate.
 
-8. The schedules to this Act shall be construed and have Effect of sche-effect as part of this Act. dules*
-
-Hh 3
+8. The schedules to this Act shall be construed and have Effect of sche- effect as part of this Act. dules*
 
 366
 
@@ -10234,7 +10190,7 @@ Inspectors and Officers.
 
 any appointment so made, but so that every local authority shall at all times keep appointed at least one inspector.
 
-13. The Privy Council, if satisfied on inquiry that an in- Removal of spector appointed by a local authority is incompetent, or has in8Pectors. been guilty of misconduct or neglect in the discharge of his
+13. The Privy Council, if satisfied on inquiry that an in- Removal of spector appointed by a local authority is incompetent, or has inspectors. been guilty of misconduct or neglect in the discharge of his
 
 duty, may, if they think fit, direct his removal, and thereupon he shall cease to be an inspector for the purposes of this Act.
 
@@ -10258,15 +10214,13 @@ brought from any specified country or place, and to the movement and disposal th
 
 brought from any specified country or place, add to or vary the regulations contained in the fourth schedule to this Act.
 
-19. Where the regulations contained in the fourth schedule Provision re-to this Act, or any of them (with or without addition or specting ani-
-
-. .. x . J v . n , mals within
+19. Where the regulations contained in the fourth schedule Provision re-to this Act, or any of them (with or without addition or specting animals within
 
 variation,) are in operation in respect of a port or a denned port> &c> part thereof, then all animals for the time being within that port or defined part shall, subject to any order of the Privy Council to the contrary, be deemed foreign animals, and the same regulations shall apply thereto accordingly.
 
 36a
 
-Power to im-» pose quarantine.
+Power to impose quarantine.
 
 Punishment for wrongful landing, &c.
 
@@ -10296,7 +10250,7 @@ This section shall extend to horses and other animals not within the definition 
 
 25. A local authority may charge for the use of any wharf, lair, shed, market, house, or place provided by them under
 
-.1869. Contagious Diseases {Animals). Ch. 70.
+.1869. Contagious Diseases (Animals). Ch. 70.
 
 this part of this Act such sums as they from time to time by byelaw appoint.
 
@@ -10348,7 +10302,7 @@ Part IV. — Discovert and Prevention of Disease.
 
 31. An inspector of a local authority, on receiving information of the supposed existence of cattle plague, pleuropneumonia, or sheep-pox, or having reasonable ground to suspect that any of those diseases exists in any place within his district, shall proceed to that place with all practicable speed, and execute and discharge the powers and duties by or under this Act conferred and imposed on him as inspector.
 
-1869. Contagious Diseases {Animals). Ch. 70, 371
+1869. Contagious Diseases (Animals). Ch. 70, 371
 
 32. An inspector or other officer of a local authority autho- Power of entry rized to act in the execution of this Act may at any time for inspector, enter any field, stable, cow-shed, or other premises within his &c* district, where he has reasonable grounds for supposing that
 
@@ -10356,7 +10310,7 @@ any animal affected with cattle plague, pleuro-pneumonia, or sheep-pox' is to be
 
 If any person refuses admission to such inspector or officer acting under this section, he shall be deemed guilty of an offence against this Act.
 
-33. The certificate of an inspector of a local authority to Evidence of the effect that an animal within his district is affected with dl8eaae* cattle plague, pleuro-pneumonia, or sheep-pox, shall for the purposes of this Act be conclusive evidence in all courts of justice and elsewhere of the matter certified.
+33. The certificate of an inspector of a local authority to Evidence of the effect that an animal within his district is affected with disease* cattle plague, pleuro-pneumonia, or sheep-pox, shall for the purposes of this Act be conclusive evidence in all courts of justice and elsewhere of the matter certified.
 
 Infected Places: Cattle Plague and Sheep-pox.
 
@@ -10390,7 +10344,7 @@ Rules in schedule.
 
 Offences as to infected places.
 
-Ch. 70. Contagious Diseases {Animals). 32 & 33 Vict.
+Ch. 70. Contagious Diseases (Animals). 32 & 33 Vict.
 
 37. The area of an infected place may in all cases of a declaration by a local authority include, with the field, stable, cowshed, or other premises in which cattle plague or sheep-pox has been found to exist, all lands and buildings lying contiguous thereto, being in the same occupation, and within the district of the local authority, and also (except in the metropolis) an area comprised within one mile from the boundaries of those lands in every direction, but no more.
 
@@ -10414,9 +10368,7 @@ Any want of or defect or irregularity in publication shall not invalidate any or
 
 45. If any animal, hide, skin, hair, wool, hom, hoof, offal, carcase, meat, dung, hay, straw, litter, or other thing is moved in contravention of the rules of this Act with respect to infected places, every person moving the same, or causing the same to be moved, shall be deemed guilty of an offence against this Act.
 
-Contagious Diseases {Animals).
-
-Ch. 70.
+Contagious Diseases (Animals). Ch. 70.
 
 373
 
@@ -10476,7 +10428,7 @@ Miscellaneous.
 
 56. The forms given in the eighth schedule to this Act, with such variations as circumstances require, may be used by an inspector for the purposes of this part of this Act, and a declaration of disease under this part of this Act shall not be deemed a certificate of the inspector for any purpose of this Act.
 
-1869. Contagious Diseases {Animals). Ch. 70. , 375
+1869. Contagious Diseases (Animals). Ch. 70. , 375
 
 57. If any person exposes in a market or fair or other Exposure for public place where horses or animals are commonly exposed for ale^8P°^tc sale, or exposes for sale in any sale-yard, whether public or of diseased private, or places in a lair or other place adjacent to or con- animals, nected with a market or fair, or where horses or animals are commonly placed before exposure for sale, or sends or causes
 
@@ -10502,7 +10454,7 @@ place in or on which such cattle are kept a notice forbidding persons to enter i
 
 Ii 2
 
-376 Ch. 70. Contagious Diseases (Animals'). 32 & 33 Yicx
+376 Ch. 70. Contagious Diseases (Animals). 32 & 33 Yicx
 
 permission, then, if any person not having a right of entry or way into, on, or over that building or place, enters into, on, or over the same or any part thereof, in contravention of the notice, he shall for every such offence be liable to a penalty not exceeding five pounds.
 
@@ -10524,7 +10476,7 @@ A local authority shall direct the disinfecting of the clothes of and the use of
 
 Steamboat and 62. Every steamboat, railway, and other company, and ©very person carrying animals for hire to or in Great Britain, infect car- shall thoroughly cleanse and disinfect, in such manner as the
 
-1869, Cantagious Diseases (Animals). Ch. 70. 377
+1869, Contagious Diseases (Animals). Ch. 70. 377
 
 Privy Council from time to time by order direct, all steamers, riages, boats, vessels, boats, pens, carriages, trucks, horse-boxes, and vehicles &c-used by such company or person for the carrying of animals.
 
@@ -10584,7 +10536,7 @@ Part Y. — Slaughter in Cattle Plague: Compensation.
 
 71. A local authority may, if they think fit, withhold compensation in respect of any animal slaughtered, where the owner or the person having the charge thereof has in their judgment been guilty, in relation to such animal, of any act in contravention of this Act, or of any order, regulation, of licence of the Privy Council or of a local authority, or has, in relation to such animal, failed to comply with the provisions of this Act, or of any such order, regulation, or licence in respect of the giving of notice of disease or in any other
 
-1869. Contagious Diseases (.Animals\ Ch. 70.
+1869. Contagious Diseases (Animals). Ch. 70.
 
 respect, and may, if they think fit, withhold compensation in respect of a foreign animal slaughtered on account of it being affected with cattle plague, or with disease suspected to be cattle plague, if it appears to them that the animal was so affected at the time of the landing thereof
 
@@ -10638,7 +10590,7 @@ Provisions for towns, &c.
 
 Regulation, &c. of landing of hay, &c.
 
-Ch. 70. Gontagious Diseases (Anwiafa). 32 & 33 Vict.
+Ch. 70. Contagious Diseases (Animals). 32 & 33 Vict.
 
 the purpose of in any manner preventing the introduction or spreading of contagious or infectious disease among animals in Great Britain (whether any such orders are of the same kind as the kinds enumerated in this section or not), and may in any such order direct or authorize the slaughtering of animals that are affected with any contagious or infectious disease, or that have been in contact with animals so affected; and may in any such order direct or authorize the local authority to pay compensation for any animals so slaughtered; and may in any such order impose penalties for offences against the same, not exceeding the sum of twenty pounds for any such offence, and so that in every such order provision be made that a penalty less than the maximum may be ordered to be paid; and this section shall extend to horses and all ruminating animals not within the definition of animals in this Act.
 
@@ -10652,7 +10604,7 @@ Every such order sh$11 have the like force and effect as if it had been enacted 
 
 If any person lands or attempts to land any hay, straw, fodder, or other article in contravention of any such order, the same shall be forfeited in like manner as goods the importation whereof is prohibited by the Acts relating to the Customs are liable to be forfeited, and the person so offending shall be liable to such penalties as are imposed on persons importing or attempting to import goods the importation whereof is prohibited by the Acts relating to the Customs, without prejudice to any proceeding against him under this
 
-18G9. Contagious Diseases (Anmuils). Ch. 70. 381
+1869. Contagious Diseases (Animals). Ch. 70. 381
 
 Act or any such order, but so that no person be punished twice for the same offence.
 
@@ -10736,7 +10688,7 @@ liecouping of charges on boroughs out of county rates.
 
 Mortgage of rates m certain cases.
 
-Ch. 70. Contagious Diseases {Animals). 32 & 33 Vict.
+Ch. 70. Contagious Diseases (Animals). 32 & 33 Vict.
 
 purposes for which the local rate when levied under any Act other than an Act repealed by this Act is applicable.
 
@@ -10786,7 +10738,7 @@ they think fit, authorize the postponement, for a period not exceeding two years
 
 mortgage of the local rate, and it shall not be incum-[I\To. 33. Price 2d.] K k
 
-386 Ch. 70. Cpntagious Diseases (Animals). 32 & 33 Vict.
+386 Ch. 70. Contagious Diseases (Animals). 32 & 33 Vict.
 
 Provision for existing loans.
 
@@ -10814,7 +10766,7 @@ agreement with the local authority borrowing, commute into an equivalent annuity
 
 (2.) That expenditure shall be defrayed out of the county rate for the county of Chester, or out of any money
 
-Contagious Diseases {Animals). Ch. 70.
+Contagious Diseases (Animals). Ch. 70.
 
 applicable under any Act of Parliament or otherwise for the public charges or uses of that county, or partly out of one and partly out of the other; such county rate to be assessed, levied, and collected in the manner prescribed by law for the assessment, levying, and collection of county rates, independently of this Act or of any Act repealed by this Act;
 
@@ -10912,7 +10864,7 @@ Plea in action. Ill, In any such action the defendant may plead generally that t
 
 391
 
-1869, Contagions Diseases {Animods\ Gff. 70.
+1869, Contagious Diseases (Animals). Gff. 70.
 
 112* On the trial of any such action the plaintiff shall not Evidence in be permitted to go into evidence of any cause of action not action-stated in his notice.
 
@@ -12650,7 +12602,7 @@ The Brompton County Court of Middlesex. The Clerkenwell County Court of Middlese
 
 The Marylebone County Court of Middlesex.
 
-18G9. Bankruptcy. Ch. 71,72. 445
+1869. Bankruptcy. Ch. 71,72. 445
 
 The Shoreditch County Court of Middlesex.
 
@@ -15182,7 +15134,7 @@ Court of Chancery.
 
 509
 
-1869/ Courts of Justice SalaHes and Funds. Cff. 91.
+1869/ Courts of Justice SalaHes and Funds. Ch. 91.
 
 ferred, be liable to make good to the suitors of the Court of to suitors of Chancery the debts which at the commencement of this Act may be due to them in cash from the Court of Chancery in manner stated in the first part of the first schedule to this Act, and the Treasury shall in manner provided by this Act cause the sums required for the payment of such debts to be issued out of the Consolidated Fund.
 
@@ -15324,7 +15276,7 @@ Documents not properly stamped to be invalid.
 
 Receipts from stamps to be paid to Consolidated Fund.
 
-Cfl. 91. Courts of Justice Salaries and Funds. 82 & 33 Vict.
+Ch. 91. Courts of Justice Salaries and Funds. 82 & 33 Vict.
 
 17. After the commencement of this Act, the Judge of the Court of Admiralty may from time to time by order, with the concurrence of the Treasury, increase, reduce, or abolish all or any of the existing fees, and appoint new fees to be taken in relation to proceedings in the Court of Admiralty.
 
@@ -19148,7 +19100,7 @@ our Lord one thousand eight hundred and
 
 584
 
-Cfl. 99. Habitual Criminals. 32 & 33 Vict.
+Ch. 99. Habitual Criminals. 32 & 33 Vict.
 
 To a constable in the said county
 
@@ -19398,7 +19350,7 @@ The term "improvement fund" means the Thames embankment and metropolis improveme
 
 591
 
-Metropolitan Board of Works {Loans). Ch. 102.
+Metropolitan Board of Works (Loans). Ch. 102.
 
 Each of the several series of Acts specified in the different parts of the first schedule to this Act is in this Act referred to by the collective name given to such series in such separate part.
 
@@ -19456,7 +19408,7 @@ No notice of any trust, express, implied, or constructive, shall be entered in t
 
 12. The board, persons, or body corporate who keep the said books for transfers may, for such period not exceeding fourteen days as they may from time to time fix previous to each payment of dividend, close the books, and shall give seven days notice of the day on which such books will be closed by advertisement in some daily morning newspaper circulating generally in the metropolis.
 
-1869. Metropolitan Board of Works {Loans). Ch. 102. 593
+1869. Metropolitan Board of Works (Loans). Ch. 102. 593
 
 13. The books so kept under the provisions of this Act shall Books to be be evidence of all matters therein entered under the provisions evidence* of this Act, and of the title of persons or bodies corporate entered therein as owners of any consolidated stock who are mentioned therein as such owners.
 
@@ -19502,7 +19454,7 @@ consolidated
 
 rate.
 
-Ch. 102. Metropolitan Board of Works {Loans). 32 & 33 Vict.
+Ch. 102. Metropolitan Board of Works (Loans). 32 & 33 Vict.
 
 17. The board may enter into such arrangement with any bank for carrying into effect the provisions of this Act with reference to the creation and transfer of consolidated stock, and the management thereof, and the keeping of the said books, and for the proper remuneration of the bank with reference thereto, as*may be approved by the Treasury.
 
@@ -19540,7 +19492,7 @@ Exempted
 
 places.
 
-Ch. 102. Metropolitan Board of Works {Loans). 32 & 33 Vict.
+Ch. 102. Metropolitan Board of Works (Loans). 32 & 33 Vict.
 
 sent of the holders thereof; and while such securities remain undischarged the board shall from time to time ascertain the amount which would have been raised by the levying of the main drainage rate, and the amount which would have been so raised shall be charged on the consolidated rate, and be deemed to be from time to time payable thereout before any portion of that rate is applied to any other purpose.
 
@@ -19686,7 +19638,7 @@ Approval of Treasury.
 
 Purchasers of land to be freed from charges.
 
-Ch. 102. Metropolitan Board of Works {Loans). 32 & 33 Vict.
+Ch. 102. Metropolitan Board of Works (Loans). 32 & 33 Vict.
 
 The Lord Chancellor of Great Britain, with the advice and assistance of the Lords Justices of the Court of Appeal in Chancery, the Master of the Rolls, and the Vice-Chancellors, or any two of those judges, may from time to time make general orders for the regulation of the practice of the Court of Chancery under this section.
 
@@ -19700,7 +19652,7 @@ The Lord Chancellor of Great Britain, with the advice and assistance of the Lord
 
 m
 
-Metropolitan Board of Worlcs {Loans). Ch. 102.
+Metropolitan Board of Worlcs (Loans). Ch. 102.
 
 otherwise in manner directed by this Act, or be in any way responsible for the non-application thereot
 
@@ -19740,7 +19692,7 @@ Provided, that where the repayment of the sums borrowed is made by the security 
 
 48. Where at the passing of this Act the board have entered into any contract for any loan, with or without the guarantee of the Treasury thereon, and the whole of such loan has not been paid or the securities therefor have not been granted, for
 
-1869. Metropolitan Board of Works {Loans). Ch. 102. 60S
+1869. Metropolitan Board of Works (Loans). Ch. 102. 60S
 
 the purposes of this Act, such loan shall be deemed to be actually owing at the date of this Act and to have been advanced, charged, and secured according to the terms of such contract, and the guarantee of the Treasury, (if given,) to have been given, and the securities for such loan to have been granted and issued before the passing of this Act.
 
@@ -19854,7 +19806,7 @@ C.D. (l.s.)
 
 607
 
-Metropolitan Board of Works {Loans). Ch. 102. THIRD SCHEDULE.
+Metropolitan Board of Works (Loans). Ch. 102. THIRD SCHEDULE.
 
 Enactments Repealed.
 
@@ -20864,7 +20816,7 @@ Petition for winding up of railway company may be presented under
 
 25 & 26 Vict. c. 89. and 30 & 31 Vict. c. 131.
 
-18G9. Railways Abandonment Ch. 114.
+1869. Railways Abandonment Ch. 114.
 
 and other proceedings in the winding-up, and apply to the court to act under this section.
 
@@ -21174,7 +21126,7 @@ WHEREAS it is expedient to amend the provisions of the "Pharmacy Act, 1868, in r
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-L Nothing contained in the first fifteen sections of the recited Act shall affect any person who has been registered as a legally qualified medical practitioner before the passing of this Act; and the said clauses shall not apply to any person who may hereafter be registered as a legally qualified practitioner, and who, in order to obtain his diploma for such registration, shall have passed an examination in pharmacy; nor shall the said clauses prevent any person who is a member of the Royal College of Veterinary Surgeons of Great Britain, or holds a certificate in veterinary surgery from the Highland and Agricultural Society of Scotland, from dispensing medicines for animals under his care.
+1. Nothing contained in the first fifteen sections of the recited Act shall affect any person who has been registered as a legally qualified medical practitioner before the passing of this Act; and the said clauses shall not apply to any person who may hereafter be registered as a legally qualified practitioner, and who, in order to obtain his diploma for such registration, shall have passed an examination in pharmacy; nor shall the said clauses prevent any person who is a member of the Royal College of Veterinary Surgeons of Great Britain, or holds a certificate in veterinary surgery from the Highland and Agricultural Society of Scotland, from dispensing medicines for animals under his care.
 
 2. The time within which certificates may be produced to the registrar under section four of the said Act, by persons employed as assistants before the passing of the said Act, shall be extended to the thirty-first day of December one thousand eight hundred and sixty-nine, and the certificates given under the same section according to Schedule (A.) of this Act shall be sufficient.
 
