@@ -398,7 +398,7 @@ highway to the south side thereof, thence along the south side of the said highw
 
 Public Health Supplemental Act (1857).
 
-## Table start
+# Table start
 
 Nos. on Plan. Names of Fields referred to. Owners. Occupiers.
 
@@ -488,7 +488,7 @@ Nos. on Plan. Names of Fields referred to. Owners. Occupiers.
 
 473 House Leasow Do. Do.
 
-## Table end
+# Table end
 
 20° VICTORIAE, Cap,3. 21
 
@@ -786,7 +786,7 @@ III. In citing this Act in other Acts of Parliament and in legal Instruments it 
 
 SCHEDULE to which this Act refers.
 
-## Table begins
+# Table begins
 
 Inclosore. County. Date of Provisional Order.
 
@@ -840,7 +840,7 @@ Ashwell Hertford 22d January 1857.
 
 Petersfield Southampton 22d January 1857.
 
-## Table ends
+# Table ends
 
 ANNO VICESIMO
 

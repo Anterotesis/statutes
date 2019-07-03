@@ -234,7 +234,7 @@ I. The several Acts and Parts of Acts mentioned in the Schedule to this Act, and
 
 SCHEDULE.
 
-## table start
+# table start
 
 Date of Act. Title. Extent of Repeal.
 
@@ -264,7 +264,7 @@ ACTS OF THE PARLIAMENT OF IRELAND.
 
 14 & 15 Car.2. Sess. 4. c. 23. An Act for keeping and celebrating the Twenty-third of October as an Anniversary Thanksgiving in this Kingdom. The whole Act.
 
-## table end
+# table end
 
 CAP. III.
 
@@ -286,7 +286,7 @@ II. In citing this Act in other Acts of Parliament and in legal Instruments it s
 
 SCHEDULE to which this Act refers.
 
-## table start
+# table start
 
 Inclosure. County. Date of Provisional Order.
 
@@ -336,7 +336,7 @@ Oathall Manor Sussex 19th January 1859.
 
 Rhandirisa Carmarthen 19th January 1859.
 
-## table end
+# table end
 
 CAP. IV.
 
@@ -3952,7 +3952,7 @@ Yard. > Mackrell.
 
 Yard.
 
-22 17 Dwelling House and *< <
+22 17 Dwelling House and *<.
 
 Yard.
 
@@ -3962,7 +3962,7 @@ Yard.
 
 and Yard. Win Thos. Mack-
 
-25 20 Part of Public House > roll. <
+25 20 Part of Public House > roll..
 
 and Yard called " The Anchor and I Joseph Carter
 
@@ -4316,7 +4316,7 @@ JV. Provided also, That every Person examined under any such Commission, Order, 
 
 . Y* Her Majesty's. Superior Courts of Common Law at Westminster and in Dublin respec- Certain Courts tively, the Court of Session in Scotland, and any Supreme Court in any of Her Majesty's and Judges to Colonies or Possessions abroad, and any Judge of any such Court, and every Judge in any J^eMhis^ct such Colony or Possession who, by any Order of Her Majesty in Council, may be appointed for this Purpose,'shall respectively be Courts and Jtidges having Authority under this Act; * ;1 '
 
-YI. It shall be lawful for the Lord Chancellor of Great Britain, with the Assistance of Power to Two of the Judges of the Courts of Common Law at Westminster, so far as relates to Judges to England, and for the Lord Chancellor of Ireland, with the Assistance of Two of the Judges a^for^giving of the Courts of Common LamJUubhn^eo fag as -relates to Ireland, and for Two of the effect to Pro-Judges of the Court of Session, so far as relates to Scotland, and for the Chief or only Judge visions of this of the Supreme Court in any of Her Majesty's Colonies or Possessions abroad, so far as Act* relates to such Colony or Possession, to frame fucji Rules and Orders as shall be necessary or proper for giving etfect to the Provisions of this Act, and regulating the Procedure under the sauie, . " >' ' - . r ' * */V <
+YI. It shall be lawful for the Lord Chancellor of Great Britain, with the Assistance of Power to Two of the Judges of the Courts of Common Law at Westminster, so far as relates to Judges to England, and for the Lord Chancellor of Ireland, with the Assistance of Two of the Judges a^for^giving of the Courts of Common LamJUubhn^eo fag as -relates to Ireland, and for Two of the effect to Pro-Judges of the Court of Session, so far as relates to Scotland, and for the Chief or only Judge visions of this of the Supreme Court in any of Her Majesty's Colonies or Possessions abroad, so far as Act* relates to such Colony or Possession, to frame fucji Rules and Orders as shall be necessary or proper for giving etfect to the Provisions of this Act, and regulating the Procedure under the sauie, . " >' ' - . r ' * */V.
 
 1 ' *i i * 1 I 11 '
 
@@ -4494,7 +4494,7 @@ niftej th^Sum of J Ton. million eigtrt hundred. IbirtetohthoMflatatps^ypt hlmdpe
 
 - ITPlt- shall - bet dstwfuKfbr'thef said Co«Mnjisalonfeta df Htrf M^jeatylft^Creaso^y tfubm ^|me tif :Tiifle, 'W^rraht-under their,Hindi, to cause Or ditoeotl atoy Jrfymber of EsqheqaerlBitts
 
-to be made olit at'thfe Rodeiptof Hbr Majeaty'svExbhOquet at Wefttroinsteri fop a»y^8uin or ShtnS'of hfOriey ttbi iwoeiding:«n»thfe^Whole, the: Sfiwiieff [Ten 0)111108 eight I hundred thirteen thousand 86vbn! hundred hnd eight Potnldsr,! tnd such EftcheqUer BAUa^hftU bo madei out in thb srtme oflike^faWner; Food, hadiOrdorjaild/aoeordiag ito -tho- aa(*e,oB; Uke.Rulea and Eiirectibns, as are clircoted land prescribed in, an Act passed in the Forty-eighth Year of the Reign'of Hi« Majesty King: Goorge the Third, Chapter Goo, and in Another. Act passed in the Se^on of PirliameiitiiioMeh, ini the Fourth and Fifth Yewi-pf tho Reign of Hi*:late Mwjedty King William the Fourth, Chapter Fifteen, ,awl ip another Act! passed, in the Seeskitt'Of'PurHMnent holdeo in nthd Fifth and iSitthTflura of tht Be^U of "
+to be made olit at'thfe Rodeiptof Hbr Majeaty'svExbhOquet at Wefttroinsteri fop a»y^8uin or ShtnS'of hfOriey ttbi iwoeiding:«n»thfe^Whole, the: Sfiwiieff [Ten 0)111108 eight I hundred thirteen thousand 86vbn! hundred hnd eight Potnldsr,! tnd such EftcheqUer BAUa^hftU bo madei out in thb srtme oflike^faWner; Food, hadiOrdorjaild/aoeordiag ito -tho- aa(*e,oB; Uke.Rulea and Eiirectibns, as are clircoted land prescribed in, an Act passed in the Forty-eighth Year of the Reign'of Hi« Majesty King: Goorge the Third, Chapter Goo, and in Another. Act passed in the Se^on of PirliameiitiiioMeh, ini the Fourth and Fifth Yewi-of tho Reign of Hi*:late Mwjedty King William the Fourth, Chapter Fifteen, ,awl ip another Act! passed, in the Seeskitt'Of'PurHMnent holdeo in nthd Fifth and iSitthTflura of tht Be^U of "
 
 ii'i'.ll
 
@@ -4642,7 +4642,7 @@ i
 
 797,122/. for Barracks;
 
-6,358,009/. for other Army Services* tit .: <
+6,358,009/. for other Army Services* tit .:.
 
 3.724,474/1 for Forces in ILK. and Stations abroad (except Fast Indies);
 
@@ -4678,7 +4678,7 @@ Dayof M*t«b ;Que thousand (fight [ImndixA and jjxty;r«nd-any not 35,000/. for
 
 exceeding Thirty-five,thousondBoundi*,.on, ^ocounft.towariMdefraying;thaChargurof the ^°^General Pay of general Officers, which, widcomeiu con me of Paymentduring' the Yearanding oa ce"! the.Thirty-first Dayof-March One thousand eight hundred and sixty; and any Sum. of 240,000/. for Stuns of. JVfoupy, not, exceeding . T'va; hundred: and'forty; thousand Pounds* on account, * *. towards defraying the. Charge of the! Pay of. Reduced)and. Retired ^ftiGers, which will coma officers; in oouEse! of Payment during the Year, ending oa the Thirty-first Day pt-Maroh One * thousand eight Jnandjtad and,sixty .;, and any.Sum; W {Sams of Money nob exceeding Ninety 90,000/. for thousand Pounds* on account, towards defraying the Charge of Pensions to "yVidows of Pensions to Qffic&ra, and of Allowances ,; on the.Compassionate Ifi*t, which will pome in course of ^paSionate Payment during the Year, ending on the; Thirty-first Pay of March One thousand eight List, 4c .; hundred , tmd sixty j and any Sum or Sum* of Money not exceeding Twenty thousand 20,000/! for Pounds, on account, towards defraying :the Charge of -Pensions and Allowances to wounded Pensions, 4c. Officers, (which will coma in course of Payment during the Year ending on the Thirty-first office"^*1 Day of March One thousand eight hundred and sixtyand any Sum or Sums of Money not 13,000/. for exceeding Thirteen thousand Pounds, on account, towards defraying the Charge of Chelsea ^Pensioner* and Kilmainham Hospitals, and. the In-Pensioners thereof, which will come in course of "4
 
-Payment during the,Year ending.on the.Thirty-first Day of March One thousand eight Hospitals; hundred and sixty}, and any .Sum «r Sums of Money not exceeding Five lnmdred and fifty 550,000/for thousand Pounds,on account, toward^ defraying the Charge of Out-Pensioners of Chelsea Oat-Pensioners Hospital, tfce, which, will come in eouilse, of Payment during the Year onding pn the Thirty- Ho^teT&c-t first. Day of March One, thousand eight hundred and 4xty; ;»pd iuiy rium or Sams of 60,000/. for Money not, exceeding Sixty thousand Pound8, lOU account* .toward*, defraying, the Charge of Su'persmws-Superonnuation and Betired Allowances, which will; coma in coarse of: Payment during the Yenrending on the Thirty-first Day.ofMacchfOnethousand eightbnodrediftud sixty.
+Payment during the,Year ending.on the.Thirty-first Day of March One thousand eight Hospitals; hundred and sixty}, and any .Sum «r Sums of Money not exceeding Five lnmdred and fifty 550,000/for thousand Pounds,on account, toward^ defraying the Charge of Out-Pensioners of Chelsea Oat-Pensioners Hospital, tfce, which, will come in eouilse, of Payment during the Year onding pn the Thirty- Ho^teT&c-t first. Day of March One, thousand eight hundred and 4xty; ;»pd iuiy rium or Sams of 60,000/. for Money not, exceeding Sixty thousand Pound8, lOU account* .toward*, defraying, the Charge of Su'persmws-Superonnuation and Retired Allowances, which will; coma in coarse of: Payment during the Yenrending on the Thirty-first Day.ofMacchfOnethousand eightbnodrediftud sixty.
 
 Out of aP or any the Aids, or Supplies aforesaid there: ph all and may be issued and There shall anp)ied any, Sqm.orSttrnsof Money not exceeding, Jwo Millions, tff, pay.on and discharge ^nfaHcqucc Bonds issued under dm, Provisions of the Act Seventeenth , Victoria, (Chapter payoffEx-Twentjy-,three, and dated, the Eighth Day of .May 0qe, .thousand .: pight hundred and chequer Bonds 4||^-four* which wiU he, due and, payable,of tUg, Eighth Day.,of May. OpeAhoufftnd eight of}954'-hjW^ed!and fiftyrnine* h-,i -IV ,...0 .'.i'; ;
 
@@ -4858,7 +4858,7 @@ Class III. Law and Justice.
 
 England.
 
-For Police, Counties and Boroyghs, Great Britain _
+For Police, Counties and Boroyghs, Great Britain
 
 For Registrar of High Court of Admiralty - - - -
 
@@ -5494,7 +5494,7 @@ J .'.* ' \;ir. I * !/. 1 -II Jill
 
 auction of a Cerhneate; (sifjned py the liea^ Pmcer pfMtpe Pepartii\ent, or by Tavo J^lea^ Officers, if there be more tliah Oneythat he hais^ Berveil with Diligence and Fidelity to the S^ta^tiqnorsuohllfead, Officer, on Qfeqeretf; svffl iinAV^;y;,t:asp in) which s>w \m AH)0wanw,is,grafe#d,ftftep;th« tRelMwJl,Qf ailcb,(t)ertjlioate}i thP J^liawfe grwptiqg, sb^l jMiieqlMUAhft\0vpmdAiOQ,whiqb:fH;A4ii>^H)«f fegninMr . M I !* iA
 
-any retfeon; any 'superannuawon, Ajornpensation, vsratn«ty, or other Allowance' 'or,gr«tt<ai ikrilotoilt thin the A^iodrit 'whiclv might be Attarded to hini'-under the feregttiiig PVovfekmp,1 when special Services rendered by such Person, and requiring special Reward, shall i*pf>edr
+any retfeon; any 'superannuawon, Ajornpensation, vsratn«ty, or other Allowance' 'or,gr«tt<ai ikrilotoilt thin the A^iodrit 'whiclv might be Attarded to hini'-under the feregttiiig PVovfekmp,1 when special Services rendered by such Person, and requiring special Reward, shall i*of>edr
 
 any such Allowance of less Amount than otherwise would have been awarded to Inin where hip ^qfeuM.ft(9i;s^m94t, ,in s»iA&tf fe^ theiPrqblio^eryipe jappeftCT tff Jthein fe justiify^ch
 
@@ -5748,7 +5748,7 @@ and 'Cafpiraii&ns1 whop in teh4ftceup«tovu&y8t*&'Ifi0trttmehGwhich> tawtialttd 
 
 Authority trf thu said Act ^ith tfae ft^' th^iPrinoJ^'OOTJrt of Ptobate the Cotat) «f f^-obate i^ ikefr/in^andi «1A Jt^lfenoe upon {any
 
-Instrument purporting to be a Probate or Letters of Administration granted by tnO Obiirt of'Probate 5n'knbfanrf^or'iC6u«^f:p«Ubat.'i»<lft*t>r*»i( ^ndba^Agmtdoiuodor^t^ therbdn by' tfan 'ConmiMnry'Olerkl ffl^EdAthtrykt in th^ 'Fowu in ihe-isaitt
+Instrument purporting to be a Probate or Letters of Administration granted by tnO Obiirt of'Probate 5n'knbfanrf^or'iC6u«^f:p«Ubat.'i»<lft*t>r*»i( ^ndba^Agmtdoiuodor^t^ therbdn by' tfan 'ConmiMnry'Olerkl ffl^EdAthtrykt in th^ 'Fowu in the-isaitt
 
 Cdnftrmatinn ahd PMliate A<rt;pto«oijbedy<sbftU b«n*e intedd toi>^dmiitea y} he mhdei'br shHU' mtthd or pewtilt Jt^ be made, any Pa^mfent Jor apoadayeuobi CoWfirtnatkHt,
 
@@ -5820,7 +5820,7 @@ pkrvmoniit ' Authorizing the borrowing 8,500£ by the Worthing Local Board of
 
 bin. Health, and theitebbrrowiAg. efae. Muckxof ihriri present Debt tf deieetiHomhi
 
-in Hibyl1httsaid'Bofipdli^Lpciriii(to'eHtau7tfr!debil85$v[iBeej.!l&«i< -dt V- «
+in Hibyl1httsaid'Bofipdli^Lpciriii(to'eHtau7tfr!debil85$v[iBeej.!l&«i< -dt V-
 
 Whereas the Local Board of Healtti'lkWl ToA th^ tMsti^dt oV^ortiiihg ld 'thfcdobtinty ofiSus«}^ tOjwhichi thei Publifi Health Act*iH84fl,(wh» dutyappliod hji.Brwvmbfciil/Onler beanog! dttte 1 the &svetitwAtb, :diyi ofi January 11832, 'and cpufirmed .lgrrThei, Firsts Public HcnUb>S»ppleme«tal Aeti d832}:h#ffej «nlerf the^pow-w^jof, Abo Public Health ;Aqt,'1648, executedoWorkft of Sei^Craget and Water rSilpply, ian)4 tbooes#; of such works has exceeded ooe yeajrjs, a#sea#tble .yaksC/of the prenwiecs-iaeseawdJ^ inithifti the.said DistrieLtc 'rriti the feaeft, WlJi0Ml 8d» drt»-CTv fj *>;, ».,'i»toJ[ v, I 1 ;<-? t li.' -f T.
 
