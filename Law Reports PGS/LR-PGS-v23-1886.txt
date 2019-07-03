@@ -428,8 +428,6 @@ Schedule of Sums granted to defray the charges of the several Civil Services her
 
 No. Sums not exceeding
 
-£
-
 7. For the expense of revising barristers in England (supplementary sum) - 1,680
 
 18a. For the expenses of the Scotch Crofters' Commission - 3,930
@@ -742,7 +740,7 @@ Be it therefore enacted by the Queen's most Excellent Majesty, by and with the a
 
 SCHEDULE. Acts Repealed.
 
-## Table begins
+# Table begins
 
 Session and Chapter. Title. Extent of Repeal.
 
@@ -750,7 +748,7 @@ Session and Chapter. Title. Extent of Repeal.
 
 1 & 2 Vict. c. 2. An Act for the support of Her Majesty's Household and of the honour and dignity of the Crown of the United Kingdom of Great Britain and Ireland. Section fifteen.
 
-## Table ends
+# Table ends
 
 CHAPTER 3.
 
@@ -848,7 +846,7 @@ Be it therefore enacted by the Queen's most Excellent Majesty, by and with the a
 
 SCHEDULE.
 
-## Table begins
+# Table begins
 
 1. Original Acts. 2. How far continued. 3. Amending Acts.
 
@@ -880,7 +878,7 @@ So much as is continued by the Corrupt and Illegal Practices I Prevention Act, 1
 
 The whole Act.
 
-## Table begins
+# Table begins
 
 ---
 
@@ -934,7 +932,7 @@ The whole Act.
 
 (31) 47 & 48 Vict. c. 70. Municipal Elections (Corrupt and Illegal Practices). The whole Act.
 
-## Table ends
+# Table ends
 
 APPENDIX AND INDEX.
 
@@ -1456,7 +1454,7 @@ Ch.
 
 Acts of former Sessions (in Chronological Order) Repealed and Amended by Acts of 50 Vict.
 
-## Table begins
+# Table begins
 
 Act repealed or amended. Subject-matter. How affected. Chapter of 50 Vict.
 
@@ -1466,7 +1464,7 @@ Act repealed or amended. Subject-matter. How affected. Chapter of 50 Vict.
 
 48 & 49 Vict. c. 49. Submarine Telegraph Act, 1885 Amended 3
 
-## Table ends
+# Table ends
 
 [Index removed.]
 
