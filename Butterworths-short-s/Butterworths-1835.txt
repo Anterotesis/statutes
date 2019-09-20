@@ -292,7 +292,7 @@ xxxix. An Act for more effectually repairing and improving the Road from the Tow
 
 ---
 
-xl. An Act for more effectually repairing the Road from Saint Benedict'8 Gate in the County of the City of Norwich to Swaff-ham in the County of Norfolk, and from Halfpenny Bridge in Honingham to the Bounds of Yaxham, and also a Lane called Hangmans Lane, near the Gates of the said City. Ibid.
+xl. An Act for more effectually repairing the Road from Saint Benedict's Gate in the County of the City of Norwich to Swaff-ham in the County of Norfolk, and from Halfpenny Bridge in Honingham to the Bounds of Yaxham, and also a Lane called Hangmans Lane, near the Gates of the said City. Ibid.
 
 xli. An Act for more effectually repairing the Road from Dvffield, through Helper, to Heage in the County of Derby, and for making a new Line of Road communicating therewith. Ibid.
 
@@ -300,7 +300,9 @@ xlii. An Act to empower the Dublin Oil Gas Light Company to produce Gas from Coa
 
 xliii. An Act to enable the Inhabitants of Grosvenor Square in the County of Middlesex more effectually to pave, cleanse, light, water, and embellish the said Square. Ibid.
 
-xliv. An Act for enlarging the Powers of an Act passed in the Ninth Year of the Reign of King George the Fourth, to consolidate and amend several Acts for the further Improvement of the Port of London, by making Docks and other Works at Blackwall for the Accommodation of East India Shipping. Ibid. xlv. An Act for lighting, watching, and improving the Parish of Tormoham in the County of Devon. Ibid.
+xliv. An Act for enlarging the Powers of an Act passed in the Ninth Year of the Reign of King George the Fourth, to consolidate and amend several Acts for the further Improvement of the Port of London, by making Docks and other Works at Blackwall for the Accommodation of East India Shipping. Ibid.
+
+xlv. An Act for lighting, watching, and improving the Parish of Tormoham in the County of Devon. Ibid.
 
 xlvi. An Act for improving and regulating the Town of Aberystwyth in the County of Cardigan, and for supplying the Inhabitants thereof with Water. Ibid.
 
@@ -326,9 +328,7 @@ lvii. An Act to enable the Leeds and Selby Railway Company to improve the Line o
 
 Iviii. An Act for making a Railway from Preston to Wyre, and for improving the Harbour of Wyre, in the County Palatine of Lancaster. Ibid.
 
-lix. An Act for consolidating the Shares in the Wilts and Berks Canal Navigation, and for extending the Powers of the Act of Incorporation of the Company of Proprietors of the said Canal.
-
-Ibid.
+lix. An Act for consolidating the Shares in the Wilts and Berks Canal Navigation, and for extending the Powers of the Act of Incorporation of the Company of Proprietors of the said Canal. Ibid.
 
 lx. An Act for providing in or near the Burgh of Cupar more extensive Accommodation for holding the Courts and Meetings of the Sheriff, Justices of the Peace, and Commissioners of Supply of the County of Fife, and for the Custody of the Records of the said County. Ibid.
 
@@ -340,13 +340,13 @@ The TITLES of the STATUTES,
 
 lxiii. An Act for improving and more effectually repairing the several Roads leading into and from the City of Worcester. Page 529
 
-lxiv. An Act for repairing the Roads from Sevenoaks Common to Woodsgate, Tunbridge Wells, and Kipping's Cross, and from Tunbridge Wells to Woodsgate, in the County of Kent. Ibid'.
+lxiv. An Act for repairing the Roads from Sevenoaks Common to Woodsgate, Tunbridge Wells, and Kipping's Cross, and from Tunbridge Wells to Woodsgate, in the County of Kent. Ibid.
 
-Ixv. An Act for more effectually repairing the Launceston Turnpike Roads, and making certain additional Roads. 530
+lxv. An Act for more effectually repairing the Launceston Turnpike Roads, and making certain additional Roads. 530
 
 lxvi. An Act for more effectually repairing and improving the Road from the Junction of the Odstock Road with the DoionUm Road near Hamham Hill, through Blandford and Dorchester, to Askerswdl Hilly in the Counties of Wilts and Dorset. Ibid.
 
-Ixvii. An Act for more effectually repairing and improving the Road from Newry to Charlemont, through the County of Armagh. Ibid.
+lxvii. An Act for more effectually repairing and improving the Road from Newry to Charlemont, through the County of Armagh. Ibid.
 
 lxviii. An Act for further regulating the Statute Labour and repairing the Highways and Bridges in the County of Edinburgh. 531
 
@@ -398,7 +398,7 @@ xc. An Act to explain and amend the Powers of an Act of His late Majesty King Ge
 
 xci. An Act for better lighting with Gas the Borough of Sheffield in the West Riding of the County of York. Ibid.
 
-xrii. An Act for making and maintaining a Railway from New-tyle to the Muir of Lassie, and from thence to the Muir of Glammiss, in the County of Forfar. 535
+xcii. An Act for making and maintaining a Railway from New-tyle to the Muir of Lassie, and from thence to the Muir of Glammiss, in the County of Forfar. 535
 
 xciiL An Act to amend an Act relating to the Bodmin and Wadebridge Railway. Ibid.
 
@@ -446,7 +446,7 @@ cxii. An Act to alter, amend, and enlarge the Powers of an Act of the Second and
 
 PRIVATE ACTS,
 
-PRINTED BY THE KING*S PRINTER,
+PRINTED BY THE KING'S PRINTER,
 
 AND WHEREOF THE PRINTED COPIES MAY BE GIVEN IN EVIDENCE.
 
@@ -462,7 +462,7 @@ certain Freehold and Copyhold Estates situate at Sharow in the Parish of Ripon i
 
 The TITLES of the STATUTES,
 
-Deed of Entail executed by the deceased Sir Duncan Campbell of LochneU, which were sold in virtue of the Powers con* tained in an Act of Parliament passed in the Forty-ninth Year of the Reign of His late Majesty King George the Third, towards Payment of certain Sums laid out by General Duncan Campbell of LochneU in the Improvement of the said entailed Estate. Page 540
+Deed of Entail executed by the deceased Sir Duncan Campbell of LochneU, which were sold in virtue of the Powers contained in an Act of Parliament passed in the Forty-ninth Year of the Reign of His late Majesty King George the Third, towards Payment of certain Sums laid out by General Duncan Campbell of LochneU in the Improvement of the said entailed Estate. Page 540
 
 5. An Act to enable the granting of Leases, and for other Purposes relating to the Estates of William Harris Esquire, deceased. Ibid.
 
@@ -572,7 +572,7 @@ STATUTES AT LARGE.
 
 Anno Regni GULIELMI IV. Britanniarum Regis, Quinto.
 
-1 At the Parliament begun and bolden at Westminster, the 4 /A Nineteenth Day of February, Anno Domini 1835, in x -A- the Fifth Year of the Reign of our Sovereign Lord x WILLIAM the Fourth, by the Grace of God, of the United 1 Kingdom of Great Britain and Ireland, King, Defender of the Faith: being the First Session of the Twelfth Parliament of the United Kingdom of Great Britain and Ireland.'
+At the Parliament begun and bolden at Westminster, the 4 /A Nineteenth Day of February, Anno Domini 1835, in x -A- the Fifth Year of the Reign of our Sovereign Lord x WILLIAM the Fourth, by the Grace of God, of the United 1 Kingdom of Great Britain and Ireland, King, Defender of the Faith: being the First Session of the Twelfth Parliament of the United Kingdom of Great Britain and Ireland.'
 
 CAP. I.
 
