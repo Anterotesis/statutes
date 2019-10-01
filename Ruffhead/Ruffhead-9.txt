@@ -1366,7 +1366,7 @@ An Act for granting Annuities to satisfy certain Navy, Victualling and Transport
 
 Most Gracious Sovereign,
 
-[ preamble, ]
+[Preamble.]
 
 WE your majesty's most dutiful and loyal Subjects, the Commons of Great Britain, in Parliament assembled, have taken into our serious Consideration, that notwithstanding the great Supplies which have been granted for carrying on the War, several Debts and Deficiencies remain unprovided for, particularly upon account of Bills payable in course of the Navy and Victualling Offices, and for Transports, made out on or before the thirty first Day of December one thousand seven hundred and sixty two, to the Amount of three millions seventy nve thousand ' three hundred and ftxteen Pounds and threepence; and upon account of Debentures payable out ' of the Office of Ordnance, which were dated on or before the said thirty first Day of December ' one thousand seven hundred and sixty two, amounting to five hundred ninety five thousand four ' hundred and twenty-three Pounds two Shillings and five Pence: And your majesty's faithful Commons being fully sensible how highly it concerns the Honour of your majesty's Government,
 
@@ -4708,13 +4708,13 @@ For the Town of Lydd, the Sum of seven hundred sixty nine Pounds nineteen Shilli
 
 For the Town and Port of Hi the, and West Hithe, within the Liberty of the Paid Town and Port, the Sum of two hundred thirty-six Pounds and fourteen Shillings.'
 
-For the rest of the whole County of .Kent, the Sum, of seventy five thousand.ono hundred twenty-four Pounds four Shillings and fourpence.
+For the rest of the whole County of Kent, the Sum, of seventy five thousand.ono hundred twenty-four Pounds four Shillings and fourpence.
 
-For, the County of Lancajicr, 'the Sum, of twenty thousand nine, hundred eighty nine Pounds fourteen Shillings and sixpence Halfpenny.
+For the County of Lancaster, the Sum, of twenty thousand nine, hundred eighty nine Pounds fourteen Shillings and sixpence Halfpenny.
 
 For the borough of Leicester, the Sum of six hundred thirty-nine Pounds and twelve Shillings.
 
-For the rest of the County of Leicester, the Sum of thirty-four thousand and forty live Pounds ten Shillings and, one Penny Halfpenny .1, , . -. t -. /.
+For the rest of the County of Leicester, the Sum of thirty-four thousand and forty live Pounds ten Shillings and, one Penny Halfpenny .1,
 
 For the County of Lincoln, with the City and County of the City of Lincoln, the Sum of seventy one thousand nine hundred leven Pounds and eight Pence.;
 
@@ -4750,7 +4750,7 @@ For the rest of the County of Norfolk, the Sum of seventy thousand nine hundred 
 
 For the Town of Northampton, the Sum of eight hundred thirty Pounds seven Shillings and ten
 
-For the rest of the County of Northampton, the Sum of forty six thousand eight hundred thirty-nine' Pounds three Shillings arid seven Pence; , }*'» T
+For the rest of the County of Northampton, the Sum of forty six thousand eight hundred thirty-nine' Pounds three Shillings arid seven Pence; 
 
 For the Town and County of the Town of neivca/he Upon Tyne, the Sum of two thousand five hundred -- eighty/poundf sixteen Shillings, and fourpence.
 
@@ -4762,9 +4762,9 @@ For the Town and County of the Town of Nottingham, the Sum of one thousand six h
 
 For the County of Nottingham, the Sum of twsnty five thousand six hundred sixty two Pounds and two pence.
 
-For the Uhiverfity of Oxon, the Sum of oiie hundred eleven Pounds seventeen Shillings and twopence.
+For the University of Oxon, the Sum of oiie hundred eleven Pounds seventeen Shillings and twopence.
 
-the City of Oxon, the Sum of three thousand four hundred forty-four Pounds six Shillings and threepence.
+For the City of Oxon, the Sum of three thousand four hundred forty-four Pounds six Shillings and threepence.
 
 For the rest of the County of Oxon, the Sima of thirty-five thousand one hundred ninety five Pounds sixteen Shillings: and fourpence, - and teb twelfth Parts of a Penny.
 
@@ -4792,7 +4792,7 @@ For the Town and County of the Town of Southampton, the Sum of seven hundred nin
 
 For the Isle of Wight, the Sum of six thousand two hundred seventy three Pounds and sixteen Shillings.
 
-fortthe rest of the County of Southampton, the Sum of forty seven thousand eight hundred seventy two Pounds five Shillings and five six Parts of a Penny.
+For the rest of the County of Southampton, the Sum of forty seven thousand eight hundred seventy two Pounds five Shillings and five six Parts of a Penny.
 
 For the City and County of the City of Litchfield, the Sum of four hundred twenty Pounds nineteen Shillings and fourpence.
 
@@ -4848,7 +4848,7 @@ For the rest of the County of Brecon, the Sum of two thousand eight hundred seve
 
 For the County of Cardigan, the Sum of one thousand three hundred seventy two Pounds sixteen Shillings and twopence.
 
-Tor the County Borough of Carmarthen, the Sum of two hundred twenty-nine Pounds eighteen Shillings and eight Pence.
+For the County Borough of Carmarthen, the Sum of two hundred twenty-nine Pounds eighteen Shillings and eight Pence.
 
 For the County ol Carmarthen, the Sum of four thousand one hundred forty Pounds three Shillings and eleven Pence Halfpenny.
 
@@ -4856,9 +4856,7 @@ For the County of Carnarvon, the Sum of two thousand three hundred thirty seven 
 
 For the County of Denbigh, the Sum of six thousand eight hundred Pounds.
 
-F or the County of Flint, the Sum of two thousand three hundred fourteen Pounds and seventeen Shillings,
-
-Vox.. IX M For
+For the County of Flint, the Sum of two thousand three hundred fourteen Pounds and seventeen Shillings.
 
 C 2. Anno quarto Georgii III A.D. 1763.
 
@@ -4866,7 +4864,7 @@ For the County of Glamorgan, the Sum of seven thousand nine hundred and six Poun
 
 For the County of Merioneth, the Sum of two thousand four hundred thirty-two Pounds, fifteen Shillings and ten Pence.
 
-for the County of Montgomery, the Sum of five thousand eight hundred fifty-two Pounds eighteen shik lings and fourpence.
+For the County of Montgomery, the Sum of five thousand eight hundred fifty-two Pounds eighteen shik lings and fourpence.
 
 For the County of Pembroke, the Sum of two thousand nine hundred ninety seven Pounds seventeen Shillings and eight Pence Halfpenny.
 
@@ -4874,7 +4872,9 @@ For the County of Radnor, the Sum of two thousand six hundred ninety-two Pounds 
 
 For the Town and County of the Town of Haverfordivejl, the Sum of one hundred seventy four Pounds seventeen Shillings and fourpence.
 
-Peifonal Estates HI And be it further enaated by the Authority aforesaid, That towards raising the said several and re (except dcfperjte speaive Sums of Money, hereby charged on the respeaive Counties, Cities, Eoroughs, Towns, and other Debts, Stock on Places, in that Part of Great Britain called England, tbales, and Berwick, as aforesaid, all and every per L .m.d., houfl]oidson and Persons, Bodies Politic and Corporate, Guilds and Fraternities, within the same respeaively, s°h1s'amve(m 'iav'n§ any Estate in ready Money, or in any Debts whatsoever, owing to them within Great Britain, or to pay545.'; Jii the without, or having any Estate in Goods, Wares, Merchandizes, or other Chatties, or Personal Estate
+Peifonal Estates
+
+III And be it further enaated by the Authority aforesaid, That towards raising the said several and re (except dcfperjte speaive Sums of Money, hereby charged on the respeaive Counties, Cities, Eoroughs, Towns, and other Debts, Stock on Places, in that Part of Great Britain called England, tbales, and Berwick, as aforesaid, all and every per L .m.d., houfl]oidson and Persons, Bodies Politic and Corporate, Guilds and Fraternities, within the same respeaively, s°h1s'amve(m 'iav'n§ any Estate in ready Money, or in any Debts whatsoever, owing to them within Great Britain, or to pay545.'; Jii the without, or having any Estate in Goods, Wares, Merchandizes, or other Chatties, or Personal Estate
 
 Pound, whatsoever, within Great Britain, or without, belonging to or in Trust for them (except and out of the Pro
 
@@ -4884,11 +4884,9 @@ Employments ofand coileaed, in manner herein after mentioned; and that all and e
 
 Navy) to p.y4s. c°ndaries, Substitutes, and other inferior Ministers whatsoever (such military Officers who are or shall be per pound.'in Muster by the muster master General of his majesty's Army, or in Pay in his majesty's Army or Navy, in respea of such Offices only, excepted) hall, towards raising the said respeaive Sums before in this Act charged upon the respective Counties, Cities, Boroughs, Towns, and other Places of England, Wales, and Berwick, as aforesaid, yield and pay unto his Majesty the Sum of four Shillings for every twenty Shillings, which, he, she, or they do receive in one Year, by virtue of any Salaries, Gratuities, bounty money, Rewards, Sees, Profits, Perquisites, or Advantages whatsoever, to him, her, or them accruing, for or by reason or occasion of such their several Offices or Employments, without any Allowance, deauaion, or peni5on3andan Abatement whatsoever; that all and every Person and Persons, Guilds, Fraternities, Bodies Politic
 
-'or other yearly Payment, either out of the re any Branch of his majesty's Revenue in England, by any Person or Persons whatsoever in England, Wales, or Berwick (not being or issuing out of any Lands, Tenements, or Hereditaments, or charged upon the same, touching which other Directions are given by this Act; and not being Annuities or yearly Payments, which, by any Act or Acts of Parliament made, or to be made, are or shall be especially exempted from the Payment of Taxes or Aids) hall, towards raising the said, respective Sums before by this A A charged upon the respeaive Counties, Cities, Boroughs, Towns, and other Places of England, Wales, or Berwick, as aforesaid, yield and pay unto his Majesty the Sum of four Shillings for every twenty Shillings by the Year, for every such Annuity, Pension, Stipend, or yearly Payment respeaively, and after that Rate for one whole Year: The said several Rates and Sums of Money hereby granted, to be assessed, imposed, and colleaed in such manner as herein after is mentioned.
+'or other yearly Payment, either out of the re any Branch of his majesty's Revenue in England, by any Person or Persons whatsoever in England, Wales, or Berwick (not being or issuing out of any Lands, Tenements, or Hereditaments, or charged upon the same, touching which other Directions are given by this Act; and not being Annuities or yearly Payments, which, by any Act or Acts of Parliament made, or to be made, are or shall be especially exempted from the Payment of Taxes or Aids) hall, towards raising the said, respective Sums before by this Act charged upon the respeaive Counties, Cities, Boroughs, Towns, and other Places of England, Wales, or Berwick, as aforesaid, yield and pay unto his Majesty the Sum of four Shillings for every twenty Shillings by the Year, for every such Annuity, Pension, Stipend, or yearly Payment respeaively, and after that Rate for one whole Year: The said several Rates and Sums of Money hereby granted, to be assessed, imposed, and colleaed in such manner as herein after is mentioned.
 
-IV ' And to the end the full and entire Sum by this Act charged upon the several Counties, Cities,
-
-' Boroughs, Towns, and Places respeaively, of England, jbales, and Berwick as aforesaid, may be fully ' and completely raised and paid to his majesty's Use Be it further enacted by the Authority aforesaid, That all, and every Manors, Messuages, Lands, and Tenements; and also all Quarries, Mines of Coal, Tin and Lead, Copper, Mundick, Iron, and other Mines; iron mills, Furnaces, and other Ironworks; salt springs, and saltworks; all Allom Mines and Works; all Parks, Chases, Warrens, Woods, Underwoods, Coppices, and all Fishings, Tithes, Tolls, Annuities, and all other yearly Profits; and all Htreditaments, of what Nature or Kind soever they be, situate, lying, and being, happening or arising, within the several and respeaive Counties, Cities, Boroughs, Towns, or Places aforefa.d respeaively, or within any Parts of the same, as well within ancient Demesne, and other Liberties and privileged Places, as without, within that Part of Great Britain called England, Wales, or Berwick, as aforesaid; all and every Person and Persons, Bodies Politic and Corporate, Guilds, Mysteries, Fraternities, and Brotherhoods, whether Corporate or not Corporate, having or holding any such Manors, Meflii >0 eba^cd as.es' Eands, Tenements, or Hereditaments, or other the Premises, in respect thereof hall be charged with Equality with as much Equality and Indifference as is possible, by a pound rate, for or towards the said several ani imiiffersnce^nd respeaive Sums by this Act fetor imposed, or intended to be set and imposed, for and upon all and every Inch Counties, Cities, Boroughs, Towns, or other Places hereby charged therewith as aforesaid, so
+IV And to the end the full and entire Sum by this Act charged upon the several Counties, Cities, Boroughs, Towns, and Places respeaively, of England, jbales, and Berwick as aforesaid, may be fully and completely raised and paid to his majesty's Use Be it further enacted by the Authority aforesaid, That all, and every Manors, Messuages, Lands, and Tenements; and also all Quarries, Mines of Coal, Tin and Lead, Copper, Mundick, Iron, and other Mines; iron mills, Furnaces, and other Ironworks; salt springs, and saltworks; all Allom Mines and Works; all Parks, Chases, Warrens, Woods, Underwoods, Coppices, and all Fishings, Tithes, Tolls, Annuities, and all other yearly Profits; and all Htreditaments, of what Nature or Kind soever they be, situate, lying, and being, happening or arising, within the several and respeaive Counties, Cities, Boroughs, Towns, or Places aforefa.d respeaively, or within any Parts of the same, as well within ancient Demesne, and other Liberties and privileged Places, as without, within that Part of Great Britain called England, Wales, or Berwick, as aforesaid; all and every Person and Persons, Bodies Politic and Corporate, Guilds, Mysteries, Fraternities, and Brotherhoods, whether Corporate or not Corporate, having or holding any such Manors, Meflii >0 eba^cd as.es' Eands, Tenements, or Hereditaments, or other the Premises, in respect thereof hall be charged with Equality with as much Equality and Indifference as is possible, by a pound rate, for or towards the said several ani imiiffersnce^nd respeaive Sums by this Act fetor imposed, or intended to be set and imposed, for and upon all and every Inch Counties, Cities, Boroughs, Towns, or other Places hereby charged therewith as aforesaid, so
 
 that
 
@@ -16544,27 +16542,25 @@ LIX provided'always, and be it hereby Declared, That if it shall happen that fey
 
 LX Provided also, I liac it shall not, be interpreted any undue Preference to incur any Penalty in point of. payment, if. the Auditor Direct, and the Clerk of, the pells Record and the Teller, pay lubfequentiorders .of Persons that, come and demand their Money, and bring their Orders in their, cqurfe, so as there, may be.so. much Money refejrved as will fa, ti$fie.precedent Orders, which shall npt.be otherwise disposed, but kept 'for them, . (Interest upon Loan being to cease from die time the Money is
 
-so reierved and kept, in baqk for them: ft L ', .;
+so reierved and kept, in baqk for them: ft L
 
-Older transfer. lxl.xnd be it further, enacted by the Authority aforesaid, That every Person pr persons.to whom rabie. any Money shall be due by virtue of this A A, after; Order Entered in the Book or Register aforesaid for
+[Order transferrable.]
+
+LXI. And be it further, enacted by the Authority aforesaid, That every Person pr persons.to whom rabie. any Money shall be due by virtue of this Act, after; Order Entered in the Book or Register aforesaid for
 
 payment thereof, his Executors, Adrruniftraiors. or Assigns, oy Endorsement of his Order may Assign
 
 and Transfer his Right, Title, Interest and Benefit of such Order, or any part thereof, to any other;
 
 which being notified, in the office of the Auditor of Receipt aforesaid.. an Entry or Memorial thereof also made in, the Book of Register. aforesaid for Orders; (which the Officers shall upon request, without, . see or Charge, accordingly make), shall Entitle such Atfignee, his Executors, Administrators, or Assigns, to the Benefit thereof, and Payment thereon: and such Assignee may in like manner, Assign again, anu so toties quoties', and afterwards .it shall not be in the power of such Person or Persons who have or hath made such Assignments, to make void, release or discharge the same.
+---
+[Provision for Salaries.]
 
-tyovmon for
-
-LXII Provided always, and be it enacted, T hat it shall and may be lawful to and for his Majesty, Salaries.'his Heirs and successors, out of the .Duties arifirig. by this .AA, to cause such firm and sums of Money to, be. expended, and paid from time .to, time for Salaries and other incident charges, as shall be necef ffiry in and for the receiving, colleaing, levying or managing of the same Duties, during the said' tain therein by. this aargrantqd; , anything herein contained to the, contrary notwithstanding.
+LXII Provided always, and be it enacted, That it shall and may be lawful to and for his Majesty, his Heirs and successors, out of the Duties arising by this Act, to cause such sum and sums of Money to be expended, and paid from time to time for Salaries and other incident charges, as shall be necessary in and for the receiving, collecting, levying or managing of the same Duties, during the said term therein by this Act granted; anything herein contained to the contrary notwithstanding.
 
 [Quakers, Papists and Jews cohabiting, to pay, but not to make their Marriages good in Law.]
 
-LXIII. Provided always and be it further enacted by the authority aforesaid, That all persons commonly called Quakers, or reputed such, and all Papists or reputed Papists, whether they are Popish pay, but not to Recusants convia, or not, and all Jews, or any other persons who, mall cohabit and live together as marriage^rood Wise, shall and are hereby; made liable to pay the several and respeaive Duties and sums of
-
-money payable upon Marriages, according to their respeaive Degrees, Titles, Orders and Qualifications, as they, ought to have paid by virtue of this Act, if. they had been Married according to the Law of xwwj.which duties.and, sums. of Money shall.be colieaed, .levyed and paid in such manner, and subjea to such rules and direaions, and under such Penalties and forfeitures, as are in this Act specified and contained, for and concerning payment of the several and respeaive duties payable upon. Marriages, anything herein contained to the contrary notwithstanding; and upon every pretended Marriage which shall be made by any.such person, within the said term of Five years, according to the Method and Forms used amongst them, the Man so entering into such pretended state of Matrimony, shall within Five days after, give Notice thereof: to the Collectors, or one of them, of the Parish or Place where he Lives; and in default of giving such Notice, lie shall forfeit the sum of Five pounds, one Moiety thereof to the Kings Majesty; the other Moiety to the Informer.
-
----
+LXIII. Provided always and be it further enacted by the authority aforesaid, That all persons commonly called Quakers, or reputed such, and all Papists or reputed Papists, whether they are Popish Recusants Convict, or not, and all Jews, or any other persons who shall cohabit and live together as Man and Wife, shall and are hereby made liable to pay the several and respective Duties and sums of money payable upon Marriages, according to their respective Degrees, Titles, Orders and Qualifications, as they ought to have paid by virtue of this Act, if they had been Married according to the Law of England; which duties and sums of Money shall be collected, levyed and paid in such manner, and subject to such rules and directions, and under such Penalties and forfeitures, as are in this Act specified and contained, for and concerning payment of the several and respective duties payable upon Marriages, anything herein contained to the contrary notwithstanding; and upon every pretended Marriage which shall be made by any such person, within the said term of Five years, according to the Method and Forms used amongst them, the Man so entering into such pretended state of Matrimony, shall within Five days after, give Notice thereof to the Collectors, or one of them, of the Parish or Place where he Lives; and in default of giving such Notice, he shall forfeit the sum of Five pounds, one Moiety thereof to the Kings Majesty; the other Moiety to the Informer.
 
 LXIV Provided always, That nothing herein contained shall be construed to make good or effectual in Law any such Marriage or pretended Marriage, but that they shall be of the same Force and virtue, and no other, as they would have been if this Act had never been made.
 
