@@ -212,7 +212,7 @@ A.D. 1895.] Public Acts of a Local Gha/racter.
 
 IX
 
-lx. An Act to- confirm a Provisional Order made by. the Education Department under the Elementary Education Act 1870 to enable the School- Board for Pwllheli to put in force the Lands Clauses Acts. (Education 3 Department Provisional 'Order Conformation (PwUhdi).)
+lx. An Act to confirm a Provisional Order made by. the Education Department under the Elementary Education Act 1870 to enable the School- Board for Pwllheli to put in force the Lands Clauses Acts. (Education 3 Department Provisional 'Order Conformation (PwUhdi).)
 
 Iri. An Act to confirm a Provisional Order made by the Education Department under the Elementary Education Act 1870 to enable the School Board for Weston-super-Mare to put in force the Lands Clauses Acts. (Education Department Provisional Order Conformation ( Weston-super-Mare).)
 
@@ -224,7 +224,11 @@ Ixiii. An Act to confirm two Provisional Orders made by the ' Local Government B
 
 lxv. An! Act to confirm a Provisional Order made by one of Her Majesty's'Principal Secretariekof State under the Metropolitan Police Act 1886 relating to lands in the Parishes of St, Pancras and Wimbledon.' ; (Metropolitan Police Pro-; visional Order Conformation.)
 
-Ixvi. An Act £6"c'6nfirrn certain Provisional Orders made by the ' Board of Trade under* the- Eleetric Lighting Acts 1882 to l89(lJrelh€fi%''fb Motnerwell and Stifling." (ElfctVic Lighting Orders Conformation (No. 1).) lxvii. An Act , to confirm certain Provisional Orders made by the Board of Trade under the Electric Lighting Acts 1882 |g and jlo&8 relating to Alderley Edge Leigh Llandudno Luton Eadcliffe and Swindon New Town. (Electric Lighting Orders Confirmation (No..2):)-lxviii. An Act to confirm certain Provisional Orders made by the Board of Trade under the Electric Lighting Acts 1882 and .1888.relating, to Carlisle Pontypool Walthamstow Winchester and Worthing. (Electric Lighting Orders Confirmation . j (Ah. .3).)
+Ixvi. An Act to confirm certain Provisional Orders made by the ' Board of Trade under* the- Eleetric Lighting Acts 1882 to l89(lJrelh€fi%''fb Motnerwell and Stifling." (ElfctVic Lighting Orders Conformation (No. 1).)
+
+lxvii. An Act to confirm certain Provisional Orders made by the Board of Trade under the Electric Lighting Acts 1882 |g and jlo&8 relating to Alderley Edge Leigh Llandudno Luton Eadcliffe and Swindon New Town. (Electric Lighting Orders Confirmation (No..2):)-
+
+lxviii. An Act to confirm certain Provisional Orders made by the Board of Trade under the Electric Lighting Acts 1882 and .1888.relating, to Carlisle Pontypool Walthamstow Winchester and Worthing. (Electric Lighting Orders Confirmation . j (Ah. .3).)
 
 iviv. An Act* to confirm certain Provisional .Orders made by .the ,Board of Trade under the General Pier and Harbour Act . ‘1861 relating' to Minebead Morepambe and Woody Bay. :^(Piievt and Rarbowr Crders Confirmation (No.- I t) lxxv. An Act to, confirm a Provisional Order of the Board of , . Agriculture relating, to the Regulation of Bexhxll Down in the
 
@@ -244,7 +248,9 @@ Ixrr. An Act to confirm a Provisional Order made by the .Local Government Board 
 
 1-gwi. An Act made by the.Local
 
-Government Board for Ireland under the Public Health. (Ireland) Act 1878 relating to the Rural Sanitary District Of Rathdrum. (Local Government Board (Ireland) Provisional Order Confirmation (No. 7).) lYvvii. An Act to confirm a Provisional Order made by the Local Government Board for Ireland under the Public Health (Ireland) Act 1878 relating to the Urban Sanitary District of Kells. (Local Government Board (Ireland) Provisional Order Confirmation (No. ty.) v
+Government Board for Ireland under the Public Health. (Ireland) Act 1878 relating to the Rural Sanitary District Of Rathdrum. (Local Government Board (Ireland) Provisional Order Confirmation (No. 7).)
+
+lYvvii. An Act to confirm a Provisional Order made by the Local Government Board for Ireland under the Public Health (Ireland) Act 1878 relating to the Urban Sanitary District of Kells. (Local Government Board (Ireland) Provisional Order Confirmation (No. ty.) v
 
 lYYYiii- An Act to, confirm'.a Provisional Order made by the Local Government Board for Ireland under the Public Health * (Ireland) Act 1878. relating t6: 'the Urban Sanitary District of Londonderry. (Local Government Board (Ireland) Provisional Order Confirmation (No. Wj|P* lxxxiv. An Act to confirm a Provisional Order made by the Local Government Board for Ireland under the Public Health (Ireland) Act 1878 relating to- the Urban Sanitary District of .' Dublin.- (Local Government Board (Ireland) Provisional Order Confirmation (No. 1Q)>) lxxxv. An Act to confirm certain Provisional Orders of the Local Government Board relating to Cardiff ClitherOe Luton and Portsmouth. (Local Government Board's Provisional \h Orders Confirmation (No'.-&)j — '
 
@@ -268,7 +274,7 @@ XC. An Act to confirm certain Provisional Orders of the Local Government Board r
 
 XCi. An A8t to confirm certmnPro visional Orders of the Local Government Board relating to the counties of Berks Carnarvon Derby Dorset the Parts of Lindsey Merioneth Nottingham Somerset Southampton Wilts and the West Riding of Yorkshire. (Local Government Board's Provisional Orders Confirmation (No. 12).)
 
-xcii. An Act to eonfinEh .certain Provisional Orders of the Local Government Board relating to Sunderland Taunton and Weymouth and MelcOinbe Regis. (Local Governmem Board's Provisional Orders Confirmation (No. 13).)
+xcii. An Act to confirm .certain Provisional Orders of the Local Government Board relating to Sunderland Taunton and Weymouth and MelcOinbe Regis. (Local Governmem Board's Provisional Orders Confirmation (No. 13).)
 
 xciii. An Act to confirm certain Provisional Orders of the Local , Government Board under the Housing of the Working Classes Act 1890 relating to Birmingham Limehouse District (London) and Southampton. (Local Government Board's Provisional Orders Confirmation (Housing of Working Glasses).)
 
@@ -1612,13 +1618,11 @@ then those members may be called out, either as a corps, or as part of a corps, 
 
 CHAPTER 24.
 
-An Act to amend the Law of Distress Amendment Act,
-
-1888. [6th July 1895.]
+An Act to amend the Law of Distress Amendment Act, 1888. [6th July 1895.]
 
 BE it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, ahct by the authority of the same, as follows:
 
-.. 1. A certificate granted to a bailiff by the judge of a county power to court under the Law of Distress Amendment Act, 1888, may at cancel bailiffs any time be cancelled or declared void by a judge of that county S1 court, and so much of section seven of that Act as refers to the c. 21. Cancellation of certificates is hereby repealed.
+1. A certificate granted to a bailiff by the judge of a county power to court under the Law of Distress Amendment Act, 1888, may at cancel bailiffs any time be cancelled or declared void by a judge of that county S1 court, and so much of section seven of that Act as refers to the c. 21. Cancellation of certificates is hereby repealed.
 
 2. If any person not holding a certificate for the time being Penalty-in force under the Law of Distress Amendment Act, 1888, levies ardistress contrary to the provisions of that Act, he shall without certificate, prejudice ;to civil liability be liable on summary conviction to a fine not exceeding ten pounds.
 
