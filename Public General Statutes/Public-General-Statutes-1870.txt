@@ -410,7 +410,7 @@ xli. An Act for making a Railway from the Hawthomden station of the Peebles Rail
 
 xlii. An Act to amend two Acts for Repressing Juvenile Delinquency in the City of Glasgow.
 
-Xliii. An Act to enable the Local Board for the District of Aberdare to erect Waterworks and supply Water; to purchase the Undertaking of the Aberdare Waterworks Company; and for other purposes.
+xliii. An Act to enable the Local Board for the District of Aberdare to erect Waterworks and supply Water; to purchase the Undertaking of the Aberdare Waterworks Company; and for other purposes.
 
 xliv. An Act for conferring various additional powers upon the Caledonian Railway Company; and for other purposes.
 
@@ -694,9 +694,7 @@ EVIDENCE.
 
 3. An Act for enabling the trustees of the will of the late Right Honorable James Mann Earl Cornwallis, deceased, to improve and develop his estate at Hastings; and for other purposes.
 
----
-
-4. An Act to amend "An Act to authorise the borrowing of money on the security of the entailed estate of Downie Park, in the county of Forfar, or the sale of a portion of the estate, for the purpose of paying the debts and legacies " affecting the same and to make further provision for the sale of the estate.
+4. An Act to amend "An Act to authorise the borrowing of money on the security of the entailed estate of Downie Park, in the county of Forfar, or the sale of a portion of the estate, for the purpose of paying the debts and legacies affecting the same;" and to make further provision for the sale of the estate.
 
 TABLES
 
@@ -718,13 +716,13 @@ Ch.
 
 Applies 21 & 22 Vict. c. 78., Administration of Oaths.
 
-, 28 & 29 Vict. c. 27., Award of Costs.
+Applies 28 & 29 Vict. c. 27., Award of Costs.
 
 2. Dissolved Boards of Management and Guardians:
 
 Applies 4 & 5 Will. 4, c. 76. and 30 & 31 Vict. c. 106., Poor Relief.
 
-, 32 & 33 Vict. c. 63., Metropolitan Poor.
+Applies 32 & 33 Vict. c. 63., Metropolitan Poor.
 
 3. East India (Laws and Regulations):
 
@@ -734,7 +732,7 @@ Repeals section 49 of 3 & 4 Will. 4. c. 85., Government of India.
 
 Applies existing Acts relating to Income Tax.
 
-, 32 & 33 Vict. c. 67., Valuation (Metropolis).
+Applies 32 & 33 Vict. c. 67., Valuation (Metropolis).
 
 5. Consolidated Fund.
 
@@ -742,7 +740,7 @@ Applies existing Acts relating to Income Tax.
 
 7. Mutiny:
 
-Applies 26 k 27 Vict. c. 57., Regimental Debts.
+Applies 26 & 27 Vict. c. 57., Regimental Debts.
 
 Repeals sections 9, 10, of 30 & 31 Vict. c. 34., Army Enlistment.
 
@@ -753,7 +751,7 @@ Repeals sections 9, 10, of 30 & 31 Vict. c. 34., Army Enlistment.
 Amends, and repeals in part, 19 & 20 Vict. c. 36., Peace Preservation (Ireland).
 
 Repeals section 14 of 11 & 12 Vict. c. 2., Crime and Outrage (Ireland).
-
+---
 Applies 45 & 2^WUL 4i c".^".^"8- ^*arl') Tumultuous Risings (Ireland).
 
 , 60 Geo. 3. & 1 Will. 4. c. 1., Illegal Military Training.
@@ -3286,7 +3284,9 @@ U
 
 CHAP. 1.
 
-An Act to empower Committees on Bills confirming Provisional Orders to award Costs and examine Witnesses on Oath. [25th March 1870.]
+An Act to empower Committees on Bills confirming Provisional Orders to award Costs and examine Witnesses on Oath.
+
+[25th March 1870.]
 
 WHEREAS it is expedient to empower Committees of both Houses of Parliament to award costs in certain cases, and also to empower Committees of the House of Commons to administer oaths to witnesses in certain cases not already provided for:
 
@@ -10946,13 +10946,9 @@ Crimes committed at sea.
 
 16. Where the crime in respect of which the surrender of a Jurisdiction as fugitive criminal is sought was committed on board any vessel on the high seas which comes into any port of the United Kingdom, the following provisions shall have effect:
 
-1. This Act shall be construed as if any stipendiary magis-
+1. This Act shall be construed as if any stipendiary magistrate in England or Ireland, and any sheriff or sheriff substitute in Scotland, were substituted for the police magistrate throughout this Act, except the part relating to the execution of the warrant of the police magistrate:
 
-trate in England or Ireland, and any sheriff or sheriff substitute in Scotland, were substituted for the police magistrate throughout this Act, except the part relating to the execution of the warrant of the police magistrate:
-
-2. The criminal may be committed to any prison to which
-
-the person committing him has power to commit persons accused of the like crime:
+2. The criminal may be committed to any prison to which the person committing him has power to commit persons accused of the like crime:
 
 3. If the fugitive criminal is apprehended on a warrant
 
@@ -23402,9 +23398,7 @@ on a portion of the courtyard of Burlington House, for the occupation of various
 
 at the Post Office and Inland Revenue
 
-18. For maintenance of British Museum buildings, rent of
-
-premises, and supply of furniture - - -
+18. For maintenance of British Museum buildings, rent of premises, and supply of furniture - - -
 
 19. For new buildings for county courts, maintenance of
 
@@ -23412,9 +23406,7 @@ courts, supply of furniture, fuel, &c. - - -
 
 20. For new buildings for the Department of Science and Art
 
-21. For the survey of the United Kingdom, revision of the
-
-survey of Ireland, maps for Landed Estates Court, Ireland, publication or maps, and for engraving the geological survey -
+21. For the survey of the United Kingdom, revision of the survey of Ireland, maps for Landed Estates Court, Ireland, publication or maps, and for engraving the geological survey -
 
 22. For the enlargement of Marlborough House
 
@@ -23422,9 +23414,7 @@ survey of Ireland, maps for Landed Estates Court, Ireland, publication or maps, 
 
 24. For works and expenses at Portland Harbour
 
-25. For a contribution towards the establishment and main-
-
-tenance of a fire brigade in the metropolis
+25. For a contribution towards the establishment and maintenance of a fire brigade in the metropolis
 
 26. For contributions in aid of local assessments for the relief
 
@@ -23568,75 +23558,43 @@ Part 6. Civil Services. Class II.
 
 No.,
 
-23. For salaries and expenses of the establishments under the
+23. For salaries and expenses of the establishments under the Public Works Loan Commissioners, and the West India Islands Relief Commissioners - -
 
-Public Works Loan Commissioners, and the West India Islands Relief Commissioners - -
+24. For salaries and expenses in the offices of the Registrars of Friendly Societies in England, Scotland, and Ireland -
 
-24. For salaries and expenses in the offices of the Registrars of
+25. For stationery, printing, binding, and printed books for the several public departments, and for stationery, printing, binding, and paper, for the two Houses of Parliament, including the salaries and expenses of the Stationery Office -
 
-Friendly Societies in England, Scotland, and Ireland -
+26. For salaries and expenses of the office of Woods, Forests, and Land Revenues, and of the office of Land Revenue Records and Inrolments -
 
-25. For stationery, printing, binding, and printed books for
-
-the several public departments, and for stationery, printing, binding, and paper, for the two Houses of Parliament, including the salaries and expenses of the Stationery Office -
-
-26. For salaries and expenses of the office of Woods, Forests,
-
-and Land Revenues, and of the office of Land Revenue Records and Inrolments -
-
-27. For salaries and expenses of the office of the Commis-
-
-sioners of Her Majesty's Works and Public Buildings
+27. For salaries and expenses of the office of the Commissioners of Her Majesty's Works and Public Buildings
 
 28. For Her Majesty's Foreign and other secret services
 
-29. For salaries and expenses of the department of the Queen's
+29. For salaries and expenses of the department of the Queen's and Lord Treasurer's Remembrancer in the Exchequer, Scotland, of certain offices in Scotland, and other charges formerly paid from the hereditary revenue
 
-and Lord Treasurer's Remembrancer in the Exchequer, Scotland, of certain offices in Scotland, and other charges formerly paid from the hereditary revenue
+30. For salaries and expenses of the Board of Fisheries in Scotland ----
 
-30. For salaries and expenses of the Board of Fisheries in
-
-Scotland ----
-
-31. For salaries and expenses in the department of the Regis-
-
-trar General of Births, &c., Scotland - -
+31. For salaries and expenses in the department of the Registrar General of Births, &c., Scotland - -
 
 32. For salaries and expenses of the Lunacy Board in Scotland
 
-33. For salaries and expenses connected with the adminis-
+33. For salaries and expenses connected with the administration of the Poor Law in Scotland -
 
-tration of the Poor Law in Scotland -
+34. For salaries of the officers and attendants of the household of the Lord Lieutenant of Ireland and other expenses - - -
 
-34. For salaries of the officers and attendants of the house-
-
-hold of the Lord Lieutenant of Ireland and other expenses - - -
-
-35. For salaries and expenses of the offices of the Chief
-
-Secretary to the I*>rd lieutenant of Ireland in Dublin and London, and subordinate departments
+35. For salaries and expenses of the offices of the Chief Secretary to the Lord lieutenant of Ireland in Dublin and London, and subordinate departments
 
 36. For charges connected with the boundary survey, Ireland
 
-37. For salaries and expenses of the office of the Commis-
+37. For salaries and expenses of the office of the Commissioners of Charitable Donations and Bequests for Ireland
 
-sioners of Charitable Donations and Bequests for Ireland
+38. For salaries and expenses of the department of the Registrar General of Births, &c., and for expenses of collecting agricultural and emigration statistics in Ireland -
 
-38. For salaries and expenses of the department of the
+39. For the administration of the laws relating to the poor in Ireland ----
 
-Registrar General of Births, &c., and for expenses of collecting agricultural and emigration statistics in Ireland -
+40. For salaries and expenses of the Public Record Office, and of the keeper of the State Papers in Ireland -
 
-39. For the administration of the laws relating to the poor in
-
-Ireland ----
-
-40. For salaries and expenses of the Public Record Office,
-
-and of the keeper of the State Papers in Ireland -
-
-41. For salaries and expenses of the office of Public Works in
-
-Ireland ----
+41. For salaries and expenses of the office of Public Works in Ireland ----
 
 Total Civil Services, Class II. - - £
 
@@ -23922,15 +23880,11 @@ No.
 
 5. For the formation of the National Portrait Gallery
 
-6. For grants in aid of the expenditure of certain learned
-
-societies in Great Britain - - -
+6. For grants in aid of the expenditure of certain learned societies in Great Britain - - -
 
 7. For the University of London -
 
-8. For the salaries and incidental expenses of the Endowed
-
-Schools Commission -
+8. For the salaries and incidental expenses of the Endowed Schools Commission -
 
 9. For grants to Scottish universities -
 
@@ -23942,13 +23896,9 @@ in discharge of equivalents under the Treaty of Union, and for the exhibition of
 
 Education in Ireland -
 
-12. For the expenses of the Office of the Commissioners of
+12. For the expenses of the Office of the Commissioners of Education in Ireland - -
 
-Education in Ireland - -
-
-13. For salaries and expenses of the National Gallery of
-
-Ireland, and for the purchase of pictures
+13. For salaries and expenses of the National Gallery of Ireland, and for the purchase of pictures
 
 14. For the Royal Irish Academy -
 
@@ -24120,13 +24070,9 @@ No.
 
 1. For salaries and expenses of temporary commissions
 
-2. For payments on account of the difference of dues pay-
+2. For payments on account of the difference of dues payable by British and foreign vessels under treaties of reciprocity - - -
 
-able by British and foreign vessels under treaties of reciprocity - - -
-
-3. For the expense of the telegraphic cable laid between
-
-Malta and Alexandria, and of the Balmoral telegraph -
+3. For the expense of the telegraphic cable laid between Malta and Alexandria, and of the Balmoral telegraph -
 
 4. For encouraging the cultivation of flax in Ireland -
 
@@ -26572,9 +26518,7 @@ Stamp Duties.
 
 651
 
-And SCRIP CERTIFICATE, SCRIP, or other docu-
-
-ment:
+And SCRIP CERTIFICATE, SCRIP, or other document:
 
 (1.) Entitling any person to become the proprietor* of any share of any company or proposed company -
 
@@ -26814,9 +26758,7 @@ For every full sum of 1,000/., and also for any fractional part of 1,000/* of th
 
 And see sections 117, 118, and 119.
 
-POWER OF ATTORNEY. See Letter of Attor-
-
-ney.
+POWER OF ATTORNEY. See Letter of Attorney.
 
 Stamp Duties.
 
@@ -27288,9 +27230,7 @@ that there is reasonable cause to suspect that any person the detection appointe
 
 (3.) Any person who — Penalty for
 
-(a.) Refuses to permit any such seareh or seizure to be rf818^?g» ob-
-
-' ' j rJ structing, or
+(a.) Refuses to permit any such search or seizure to be rf818^?g» obstructing, or
 
 made as aforesaid; refusing to
 
@@ -27994,9 +27934,7 @@ And whereas it is expedient to continue such Acts, to the extent specified in co
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-Short title. L This Act may be cited as the Expiring Laws Con-
-
-tinuance Act, 1870.
+Short title. L This Act may be cited as the Expiring Laws Continuance Act, 1870.
 
 Continuance of 2. The Acts mentioned in column one of the schedule to
 
@@ -28418,9 +28356,7 @@ An Act for taking the Census in Scotland.
 
 [10th August 1870.]
 
-WHEREAS it is expedient to take the census of Scotland * " in the year one thousand eight hundred and seventy-
-
-one:
+WHEREAS it is expedient to take the census of Scotland in the year one thousand eight hundred and seventy-one:
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
