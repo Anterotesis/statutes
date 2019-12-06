@@ -296,7 +296,7 @@ And whereas it is also judged necessary for the safety of the United Kingdom, an
 
 And whereas the said marine forces may frequently be quartered or be on shore, or sent to do duty or be on board transport ships or vessels, merchant ships or vessels, or other ships or vessels, or they may be under other circumstances in which they will not be subject to the laws relating to the government of Her Majesty's forces by sea:
 
-And whereas no man can be forejudged of life or limb, or subjected in time of peace to any kind of punishment within this realm by martial law, or in any other manner than by the judgment of his peers and according to the known and established laws of this realm ; yet nevertheless it being requisite, for the retaining all the before-mentioned forces, and other persons subject to military law, in their duty, that an exact discipline be observed, and that persons belonging to the said forces who mutiny or stir up sedition, or desert Her Majesty's service, or are guilty of crimes and offences to the prejudice of good order and military discipline, be brought to a more exemplary and speedy punishment than the usual forms of the law will allow:
+And whereas no man can be forejudged of life or limb, or subjected in time of peace to any kind of punishment within this realm by martial law, or in any other manner than by the judgment of his peers and according to the known and established laws of this realm; yet nevertheless it being requisite, for the retaining all the before-mentioned forces, and other persons subject to military law, in their duty, that an exact discipline be observed, and that persons belonging to the said forces who mutiny or stir up sedition, or desert Her Majesty's service, or are guilty of crimes and offences to the prejudice of good order and military discipline, be brought to a more exemplary and speedy punishment than the usual forms of the law will allow:
 
 And whereas the Army Act, 1881, will expire in the year one 44 & 45 Vict, thousand eight hundred and eighty-nine on the following days: c- 58*
 
@@ -490,7 +490,7 @@ Supplemental.
 
 8. The Bank may close their books for the transfer of Consolidated Three Per Cent. Stock or Reduced Three Per Cent. Stock or both at any time on or at any time after the first day of June one thousand eight hundred and eighty-nine, and every person who on the day of such closing is inscribed as holder of such stock shall for the purposes of this Act be deemed to be the holder of that stock on the sixth day of July one thousand eight hundred and eighty-nine, unless he has previously exchanged his stock in pursuance of this Act.
 
-9. The provisions of the National Debt (Conversion) Act, 1888, set forth in the schedule to this Act shall apply in the case of any exchange of stock effected in pursuance of this Act, subject to the following modifications ; namely, —
+9. The provisions of the National Debt (Conversion) Act, 1888, set forth in the schedule to this Act shall apply in the case of any exchange of stock effected in pursuance of this Act, subject to the following modifications; namely, —
 
 (a.) References in those provisions to new stock shall be construed as including, where the case so requires, Local Loans Stock, as well as Two and Three-quarters Per Cent. Consolidated Stock ;
 
@@ -556,9 +556,9 @@ Ch. 4.
 
 33 & 34 Vict. c. 71.
 
-(a.) for the manner in which any assent or consent authorised by this Act is to be signified; and (b.) as to the evidence which the Bank may require of the right to signify assent or consent within or after any time limited in that behalf, or of title, unsoundness of mind, infancy, or any other matter ; and (c.) in the case of any stock holder who is of unsound mind or an .infant, or otherwise under disability, for any assent or consent authorised by this Act being signified by the committee, guardian, or other person on behalf of that stock holder; and
+(a.) for the manner in which any assent or consent authorised by this Act is to be signified; and (b.) as to the evidence which the Bank may require of the right to signify assent or consent within or after any time limited in that behalf, or of title, unsoundness of mind, infancy, or any other matter; and (c.) in the case of any stock holder who is of unsound mind or an .infant, or otherwise under disability, for any assent or consent authorised by this Act being signified by the committee, guardian, or other person on behalf of that stock holder; and
 
-(d.) where one or more holders of stock on a joint account is or are of unsound mind, an infant or infants, or under disability, or out of the United Kingdom, for dispensing with the assent or consent of that holder or those holders; and (e.) for modifying the provisions of this Act in their application to stock in respect of which stock certificates have been issued in pursuance of the National Debt Act, 1870 ; and (/.) for any matter which may under this Act be prescribed.
+(d.) where one or more holders of stock on a joint account is or are of unsound mind, an infant or infants, or under disability, or out of the United Kingdom, for dispensing with the assent or consent of that holder or those holders; and (e.) for modifying the provisions of this Act in their application to stock in respect of which stock certificates have been issued in pursuance of the National Debt Act, 1870; and (/.) for any matter which may under this Act be prescribed.
 
 16. — (1.) A warrant from the Treasury shall be a sufficient Provisions as authority to the Bank for anything done by the Bank in pursuance to Bank-
 
@@ -638,7 +638,7 @@ Cfl. 4.
 
 (2.) la the case of stock standing in the name of Her Majesty's Paymaster General on behalf of the Supreme Court of Judicature in England, or of the Accountant to the Court of Session in Scotland, or of the Accountant General of the Snprerae Court of Judicature in Ireland, any such sale or investment may be authorised by the High Court, or the Court of Session, as the cose may be.
 
-(3.) Where, in execution of any trust, or in performance of any duty, and whether in pursuance of the order of any court, or otherwise, any stock has been appropriated to provide an annuity, and is under this Act converted into or exchanged for new stock, the trust or duty shall, so far as relates to the payment of the annuity, be deemed to be executed or performed by the payment of the dividends on the new stock ; but nothing in this section shall affect any power of any court or other authority to make any order as to the application of capital in such cases.
+(3.) Where, in execution of any trust, or in performance of any duty, and whether in pursuance of the order of any court, or otherwise, any stock has been appropriated to provide an annuity, and is under this Act converted into or exchanged for new stock, the trust or duty shall, so far as relates to the payment of the annuity, be deemed to be executed or performed by the payment of the dividends on the new stock; but nothing in this section shall affect any power of any court or other authority to make any order as to the application of capital in such cases.
 
 (2.) Where under any mortgage or agreement for a loan any person is bound to pay half-yearly sums equal to the dividends on any specified amount of stock, and that amount of stock is under this Act converted into or exchanged for new stock, the obligation shall be satisfied by the payment of quarterly sums equal to the dividends on the same amount of new stock.
 
@@ -842,7 +842,7 @@ An Act to grant certain Duties of Customs and Inland Revenue, to alter other Dut
 
 Most Gracious Sovereign,
 
-WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland in Parliament assembled, towards raising the necessary supplies to defray Your Majesty's public expenses and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties herein-after mentioned ; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland in Parliament assembled, towards raising the necessary supplies to defray Your Majesty's public expenses and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
 1. This Act may be cited as the Customs and Inland Revenue Short title. Act, 1889.
 
@@ -938,7 +938,7 @@ An Act to grant certain Duties of Customs and Inland Revenue, to alter other Dut
 
 Most Gracious Sovereign,
 
-WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland in Parliament assembled, towards raising the necessary supplies to defray Your Majesty's public expenses and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties herein-after mentioned ; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland in Parliament assembled, towards raising the necessary supplies to defray Your Majesty's public expenses and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
 1. This Act may be cited as the Customs and Inland Revenue Short title. Act, 1889.
 
@@ -1136,7 +1136,7 @@ Canton is and Inland Revenue Act, 1889. 52 VICT.
 
 on his belialf, other than the purchaser or mortgagee, and in case of a mortgage upon the equity of redemption.
 
-(3.) This section is not to lessen or affect any liability of any successor or accountable person, other than the purchaser or mortgagee, to payment of duty, whether out of money received on any sale or mortgage, or otherwise ; but a purchaser or mortgagee shall not, for the purpose of obtaining the exemption conferred by this section, be bound to see that the duty is discharged out of the money or other consideration paid or given as the consideration for the sale or mortgage.
+(3.) This section is not to lessen or affect any liability of any successor or accountable person, other than the purchaser or mortgagee, to payment of duty, whether out of money received on any sale or mortgage, or otherwise; but a purchaser or mortgagee shall not, for the purpose of obtaining the exemption conferred by this section, be bound to see that the duty is discharged out of the money or other consideration paid or given as the consideration for the sale or mortgage.
 
 Power to 13. — (1.) Any person may cause an attested copy (which shall be
 
@@ -1200,7 +1200,7 @@ PART in.
 
 Income Tax.
 
-19. There shall be charged, collected, and paid for the year which commenced on the sixth day of April one thousand eight hundred and eighty-nine, in respect of all property, profits, and gains mentioned or described as chargeable in the Act of the sixteenth and seventeenth years of Her Majesty's reign, chapter thirty four, the following duties of income tax ; (that is to say,)
+19. There shall be charged, collected, and paid for the year which commenced on the sixth day of April one thousand eight hundred and eighty-nine, in respect of all property, profits, and gains mentioned or described as chargeable in the Act of the sixteenth and seventeenth years of Her Majesty's reign, chapter thirty four, the following duties of income tax; (that is to say,)
 
 For every twenty shillings of the annual value or amount of property, protits, and gains chargeable under Schedules (A), (C.), (D.), or (E.) of the said Act, the duty of sixpence.
 
@@ -1242,7 +1242,7 @@ We do therefore most humbly beseech Your Majesty that it may be enacted; and be 
 
 (2.) Such vessels with their armament shall, so far as is practicable, be completed for sea before the first day of April one thousand eight hundred and ninety-four.
 
-(3.) The Admiralty may expend, in pursuance of this Act for the above purposes, the sum of twenty-one million five hundred thousand pounds as follows ; that is to say —
+(3.) The Admiralty may expend, in pursuance of this Act for the above purposes, the sum of twenty-one million five hundred thousand pounds as follows; that is to say —
 
 (a.) for the purpose of building and completing by contract the vessels specified in Part One of the Schedule to this Act (in this Act referred to as the contract vessels), and of the armament of those vessels, the sum of ten million pounds; and
 
@@ -1318,7 +1318,7 @@ B«striction8 on application of money issued.
 
 4. — (1.) The Admiralty 6hall submit to the Treasury (a.) before any money is applied in pursuance of this Act an estimate, under the head of each vessel, of the total expenditure on the vessel and its armament; and (6.) before any money is so applied in any financial year, an estimate under such sub-heads (whether common to all or any of the vessels or not) as may be required by the Treasury, of the expenditure for which it is proposed to apply money during that year.
 
-(2.) There shall be no excess of expenditure on any vessel, including its armament, or under any sub-head above the amount stated for that vessel or sub-head in the estimate, unless the Admiralty represent in writing to the Treasury, and satisfy them — (a.) that the excess is compensated by a saving on some other vessel or sub-head, as the case may be ; and (6.) that the excess will not cause the total expenditure to exceed the total sum allowed by this Act; and (c.) that the transfer of the expenditure from one vessel or subhead to the other will not affect the requirement of this Act, that the vessels shall be of such class and approximately be of such tonnage and speed, and have such guns as are specified in the schedule.
+(2.) There shall be no excess of expenditure on any vessel, including its armament, or under any sub-head above the amount stated for that vessel or sub-head in the estimate, unless the Admiralty represent in writing to the Treasury, and satisfy them — (a.) that the excess is compensated by a saving on some other vessel or sub-head, as the case may be; and (6.) that the excess will not cause the total expenditure to exceed the total sum allowed by this Act; and (c.) that the transfer of the expenditure from one vessel or subhead to the other will not affect the requirement of this Act, that the vessels shall be of such class and approximately be of such tonnage and speed, and have such guns as are specified in the schedule.
 
 and the Treasury when so satisfied may, if they think fit, authorise the saving to be applied towards the payment of the excess.
 
@@ -1328,7 +1328,7 @@ in which any money is expended under this Act, cause to be made expenditure UP a
 
 (a.) the amount of money expended for the purposes of this Act, distinguishing each purpose on which such money was expended, and the expenditure on each of the vessels and its armament; and
 
-(b.) the amount of money provided to meet such expenditure, and the mode in which, and the amount and nature of the securities (if any) by which, it was provided ; and (c.) the balance (if any) of the money authorised by this Act to be provided for such expenditure.
+(b.) the amount of money provided to meet such expenditure, and the mode in which, and the amount and nature of the securities (if any) by which, it was provided; and (c.) the balance (if any) of the money authorised by this Act to be provided for such expenditure.
 
 (2.) The accounts of expenditure under this Act, so far as such expenditure is not included in the appropriation accounts of money
 
@@ -1466,7 +1466,7 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 1. Section thirteen of the Public Libraries Act, 1855, shall be repealed, and in place thereof the following provisions shall have effect.
 
-The expenses of calling and holding the meeting of the ratepayers, whether the Public Libraries Acts shall be adopted or not. and the expenses of carrying those Acts into execution in any parish, to such amount as shall be from time to time sanctioned by the vestry, shall be paid out of a rate to be raised with and as part of the poor rate ; provided that every person assessed to such rate in respect of lands used as arable, meadow, or pasture ground only, or as woodlands or market gardens, or nursery grounds, shall be entitled to an allowance of two-thirds of the sum assessed upon him in respect of such lands for such expenses ; the vestry to be called for the purpose of sanctioning the amount shall be convened in the manner usual in the parish ; and the amount for the time being proposed to be raised for such expenses shall be expressed in the notice convening the vestry, and shall be paid according to the order of the vestry, to such person as shall be appointed by the Commissioners to receive the same: Provided also, that in the notices requiring the payment of the rate there shall be stated the proportion which the amount to be thereby raised for the purposes of the said Acts shall bear to tho total amount of the rate.
+The expenses of calling and holding the meeting of the ratepayers, whether the Public Libraries Acts shall be adopted or not. and the expenses of carrying those Acts into execution in any parish, to such amount as shall be from time to time sanctioned by the vestry, shall be paid out of a rate to be raised with and as part of the poor rate; provided that every person assessed to such rate in respect of lands used as arable, meadow, or pasture ground only, or as woodlands or market gardens, or nursery grounds, shall be entitled to an allowance of two-thirds of the sum assessed upon him in respect of such lands for such expenses; the vestry to be called for the purpose of sanctioning the amount shall be convened in the manner usual in the parish; and the amount for the time being proposed to be raised for such expenses shall be expressed in the notice convening the vestry, and shall be paid according to the order of the vestry, to such person as shall be appointed by the Commissioners to receive the same: Provided also, that in the notices requiring the payment of the rate there shall be stated the proportion which the amount to be thereby raised for the purposes of the said Acts shall bear to tho total amount of the rate.
 
 2. Nothing in this Act shall be deemed to invalidate any rate made prior to the passing thereof, and any expenses to which section thirteen of the Public Libraries Act, 1855, applied may be paid out of any such rate as if this Act had not passed.
 
@@ -1534,7 +1534,7 @@ Trial of offences.
 
 5. Every commissioner before whom any oath or affidavit is taken or made under this Act shall state truly in the jurat or attestation at what place and on what date the oath or affidavit is taken or made.
 
-6. — (1.) Every British ambassador, envoy, minister, charg^ d'affaires, and secretary of embassy or legation exercising his functions in any foreign country, and every British consul-general, consul, vice-consul, acting consul, pro-consul, and consular agent exercising his functions in auy foreign place may, in that country or place, administer any oath and take any affidavit, and also do any notarial act which any notary public can do within the United Kingdom ; and every oath, affidavit, and notarial act administered, sworn, or done by or before any such person shall be as effectual as if duly administered, sworn, or done by or before any lawful authority in any part of the United Kingdom.
+6. — (1.) Every British ambassador, envoy, minister, charg^ d'affaires, and secretary of embassy or legation exercising his functions in any foreign country, and every British consul-general, consul, vice-consul, acting consul, pro-consul, and consular agent exercising his functions in auy foreign place may, in that country or place, administer any oath and take any affidavit, and also do any notarial act which any notary public can do within the United Kingdom; and every oath, affidavit, and notarial act administered, sworn, or done by or before any such person shall be as effectual as if duly administered, sworn, or done by or before any lawful authority in any part of the United Kingdom.
 
 (2.) Any document purporting to have affixed, impressed, or subscribed thereon or thereto the seal and signature of any person authorised by this section to administer an oath in testimony of any oath, affidavit, or act being administered, taken, or done by or before him, shall be admitted in evidence without proof of the seal or signature being the seal or signature of that person, or of the official character of that person.
 
@@ -1572,9 +1572,9 @@ Provided that this repeal shall not affect —
 
 (a.) anything done or suffered under any enactment repealed by this Act; nor
 
-(6.) any appointment made under or authority given by or in pursuance of any enactment so repealed ; nor
+(6.) any appointment made under or authority given by or in pursuance of any enactment so repealed; nor
 
-(c.) any punishment incurred or to be incurred in respect of any offence committed before the commencement of this Act against any enactment so repealed ; nor (d.)any legal proceeding for enforcing any such punishment; and any such legal proceeding may be instituted or continued and any such punishment may be imposed as if this Act had not been passed.
+(c.) any punishment incurred or to be incurred in respect of any offence committed before the commencement of this Act against any enactment so repealed; nor (d.)any legal proceeding for enforcing any such punishment; and any such legal proceeding may be instituted or continued and any such punishment may be imposed as if this Act had not been passed.
 
 13. A commissioner authorised before the commencement of this Act xo administer oaths in the Supreme Court shall be deemed to be a commissioner for oaths within the meaning of this Act.
 
@@ -1860,7 +1860,7 @@ where the persons are so bound over, the person charged shall be tried at the sa
 
 (2.) If such direction is given by the High Court, the Court shall cause to be given to the persons so bound over as aforesaid notice in writing to attend at the court of oyer and terminer or general gaol delivery at the time and place mentioned in the notice, and the recognizance binding over such persons shall have effect as if the court, time, and place mentioned in the notice were substituted for those mentioned in the recognizance.
 
-2. Every justice of the peace by whom a person is committed to gaol to await his trial for any offence triable at quarter sessions shall, by endorsement on the commitment or other notice in writing, inform the governor of such gaol whether the persons bound over to prosecute and give evidence at such trial are bound over to attend at a court of quarter sessions or at a court of oyer and terminer or general gaol delivery ; and a court making under this Act an order for the trial of a prisoner at a court of oyer and terminer or general gaol delivery shall cause notice in writing of the order to be given to the governor of the gaol in which the prisoner is confined.
+2. Every justice of the peace by whom a person is committed to gaol to await his trial for any offence triable at quarter sessions shall, by endorsement on the commitment or other notice in writing, inform the governor of such gaol whether the persons bound over to prosecute and give evidence at such trial are bound over to attend at a court of quarter sessions or at a court of oyer and terminer or general gaol delivery; and a court making under this Act an order for the trial of a prisoner at a court of oyer and terminer or general gaol delivery shall cause notice in writing of the order to be given to the governor of the gaol in which the prisoner is confined.
 
 3. — (1.) Where a prisoner has been committed to gaol on a charge for an indictable offence, and persons have been bound over to prosecute and give evidence at a court of quarter sessions for any county or place, and the prisoner is not tried at that court, then the next court of oyer and terminer or general gaol delivery having jurisdiction in such county or place shall, on his application (unless there are such special reasons to the contrary as are hereinafter mentioned), either cause him to be tried at that court, or discharge him from his imprisonment, and if there are such special reasons may admit him to bail.
 
@@ -2142,7 +2142,7 @@ And whereas the said imposition of sixpence was continued from time to time by s
 
 And whereas by an Act passed in the tenth year of the reign of His Majesty King George the Fourth, chapter one hundred and thirty-six, after reciting that the capital debt due to the orphans of the City of London had been annihilated, and that the capital debt due to the other creditors and charged upon the fund created by the said Act of King William and Queen Mary was reduced to the sum therein mentioned, and that it was probable that if no further charge was made in the said fund the whole of the debt would be paid off by the fifth day of April one thousand eight hundred and thirty-two, it was enacted that the Corporation might improve the approaches to London Bridge; and that for the purpose of providing a fund for the purposes of the now reciting Act, the duty of sixpence a chaldron or ton imposed by the said Act of King William and Queen Mary should be continued until the fifth day of July one thousand eight hundred and fifty-eight; and that as soon as the said debt due on the said orphan fund had been paid off, the duty of fourpence metage imposed by the said last-mentioned Act should be appropriated to the fund created by the Act now in recital:
 
-And whereas by an Act of Parliament passed in the first and second years of the reign of His Majesty King William the Fourth, chapter seventy-six, intituled “ An Act for regulating the vend and “ delivery of coals in the cities of London and Westminster, and in " certain parts of the counties of Middlesex, Surrey, Kent, Sussex, “ Hertford, Bucks, and Berks/' (herein-after referred to as the Coal Duties Act, 1831,) after reciting (section sixty) the charters of third James the First and twelfth James the First and the Act of Parliament fifth and sixth William and Mary herein-before recited, and reciting that the duty of sixpence had been continued from time to time and would expire on the fifth day of July one thousand eight hundred and fifty-eight, and that the duty of fourpence and the duty of sixpence were both charged with money raised for defraying the expenses of public works, and reciting that it was expedient for the purposes of the now reciting Act that the Corporation should not at the then present time exercise any right or privilege of weighing or measuring coals, culm, or cinders, to which under or by virtue of any Acts of Parliament or charter, or by prescription or otherwise, they might be entitled during the term therein-after mentioned, and that one rate or duty should be paid to the Corporation in lieu of all rates and duties payable to them with respect to all coals, culm, and cinders ; it was enacted that, during the term of seven years from the thirty-first day of December one thousand eight hundred and thirty-one, the Lord Mayor of the said City of London, and the said mayor, commonalty, and citizens should not exercise any right of measuring or weighing coals, or any other rights with respect to coals to which he or they was, were, or might be entitled by prescription, or by the said charters and Act of Parliament, or otherwise, and that the rate or duty of twelve
+And whereas by an Act of Parliament passed in the first and second years of the reign of His Majesty King William the Fourth, chapter seventy-six, intituled “ An Act for regulating the vend and “ delivery of coals in the cities of London and Westminster, and in " certain parts of the counties of Middlesex, Surrey, Kent, Sussex, “ Hertford, Bucks, and Berks/' (herein-after referred to as the Coal Duties Act, 1831,) after reciting (section sixty) the charters of third James the First and twelfth James the First and the Act of Parliament fifth and sixth William and Mary herein-before recited, and reciting that the duty of sixpence had been continued from time to time and would expire on the fifth day of July one thousand eight hundred and fifty-eight, and that the duty of fourpence and the duty of sixpence were both charged with money raised for defraying the expenses of public works, and reciting that it was expedient for the purposes of the now reciting Act that the Corporation should not at the then present time exercise any right or privilege of weighing or measuring coals, culm, or cinders, to which under or by virtue of any Acts of Parliament or charter, or by prescription or otherwise, they might be entitled during the term therein-after mentioned, and that one rate or duty should be paid to the Corporation in lieu of all rates and duties payable to them with respect to all coals, culm, and cinders; it was enacted that, during the term of seven years from the thirty-first day of December one thousand eight hundred and thirty-one, the Lord Mayor of the said City of London, and the said mayor, commonalty, and citizens should not exercise any right of measuring or weighing coals, or any other rights with respect to coals to which he or they was, were, or might be entitled by prescription, or by the said charters and Act of Parliament, or otherwise, and that the rate or duty of twelve
 
 1889.
 
@@ -2152,7 +2152,7 @@ Ch. 17.
 
 51
 
-pence for every ton of coals, culm, and cinders imported or brought into the Port of London should be collected ; and it was provided that fourpence per ton, part thereof, should be applied in the same manner as the sum in the charters mentioned to be payable for metage would be applicable, and that the sum of eightpence for every ton residue thereof should be applied in the same manner as the duties of fourpence per chaldron and sixpence per chaldron or ton, made payable by the said Act of Parliament of King William and Queen Mary, would be applicable:
+pence for every ton of coals, culm, and cinders imported or brought into the Port of London should be collected; and it was provided that fourpence per ton, part thereof, should be applied in the same manner as the sum in the charters mentioned to be payable for metage would be applicable, and that the sum of eightpence for every ton residue thereof should be applied in the same manner as the duties of fourpence per chaldron and sixpence per chaldron or ton, made payable by the said Act of Parliament of King William and Queen Mary, would be applicable:
 
 And whereas by the said Coal Duties Act, 1831 (section sixty-one), it was provided that at the end of the term of seven years the Lord Mayor of the said City of London, and the said uiayor, commonalty, and citizens should be entitled to resume all rights of weighing and measuring coals, and all other rights and privileges in respect thereof to which he or they was, were, or might be entitled, and to demand and take the metage, impositions, duties, rates, or sums, and all other privileges and advantages to which he or they was, were, or might be entitled at the time of the passing of the said Act as fully as if the said Act had not been passed, and that the interruption in the exercise of any right or in the receipt of any fees or duties to which he or they might be entitled by prescription or otherwise during such time as the payments . directed by the said Act to be made in lieu thereof should be received should not be deemed in law a waiver or discontinuance of any such right, fees, or duties, but that the same should be in full force and might be enforced and recovered and might be claimed in the same manuer as if they had been exercised and received during the time in which the exercise and receipt thereof respectively should have been suspended, interrupted, or varied by virtue of the said Act, and that the said Lord Mayor and the said mayor, commonalty, and citizens might continue to prescribe for any such rights, fees, and duties as if he or they had continued in the exercise of such right, and in receipt of such fees and duties, notwithstanding the non-user thereof, in pursuance of the said Act or of any other Act of Parliament for the weighing of coals and payment of the sums provided for the same in lieu of the said metage fees and duties :
 
@@ -2174,7 +2174,7 @@ same manner as if the term of fourteen years had been inserted in the Coal Dutie
 
 And whereas by an Act of Parliament passed in the eighth and ninth years of the reign of Her present Majesty, chapter one hundred and one, intituled “ An Act to continue until fifth day " of July one thousand eight hundred and sixty-two the Acts for “ regulating the vend and delivery of coals in London and “ Westminster, and in certain parts of the adjacent counties, and to “ alter and amend the said Acts," after reciting the Coal Duties Act, 1831, and the Coal Duties Act, 1838, and reciting that the extended term of seven years would expire on the thirty-first day of December one thousand eight hundred and forty-five, it was enacted that the Coal Duties Act, 1831, and the Coal Duties Act, 1838, should be continued until the fifth day of July one thousand eight hundred and sixty-two, and that all the provisions, regulations, clauses, matters, and things in the Coal Duties Act, 1831, contained to take effect at the end of the term of seven years therein mentioned, or at any other time, should take effect in the same manner as if the fifth day of July one thousand eight hundred and sixty-two had been inserted in the Coal Duties Act, 1831, instead of the term of seven years :
 
-And whereas by. an Act of Parliament passed in the twenty-fourth and twenty-fifth years of the reign of Her present Majesty, chapter forty-two, intituled “ An Act to continue the duties levied “ on coal and wine by the Corporation of London,” after reciting that by the Acts of Parliament herein-before recited, and which are therein collectively referred to as the “ Coal Duties Acts,” the two several duties of one penny and twelve pence were authorised to be levied, and reciting that it was apprehended that the duty of eightpence, part of the duty of twelve pence, would expire in the year one thousand eight hundred and sixty-one, and that the duty of one penny would expire in July one thousand eight hundred and sixty-two unless continued by Parliament, and that it was expedient that the duties of twelve pence and one penny should continue for ten years ; it was provided that all duties authorised by the “ Coal Duties Acts” should be levied in the same manner as they were then leviable until fifth day of July one thousand eight hundred and seventy-two; and it was also provided that the Coal Duties Acts should be continued until fifth day of July one thousand eight hundred and seventy-two, and that all the provisions contained in the Coal Duties Act, 1831, to take effect at the end of seven years mentioned in that Act should take effect as if the fifth day of July one thousand eight hundred and seventy-two had been inserted in the Act instead of the term of seven years:
+And whereas by. an Act of Parliament passed in the twenty-fourth and twenty-fifth years of the reign of Her present Majesty, chapter forty-two, intituled “ An Act to continue the duties levied “ on coal and wine by the Corporation of London,” after reciting that by the Acts of Parliament herein-before recited, and which are therein collectively referred to as the “ Coal Duties Acts,” the two several duties of one penny and twelve pence were authorised to be levied, and reciting that it was apprehended that the duty of eightpence, part of the duty of twelve pence, would expire in the year one thousand eight hundred and sixty-one, and that the duty of one penny would expire in July one thousand eight hundred and sixty-two unless continued by Parliament, and that it was expedient that the duties of twelve pence and one penny should continue for ten years; it was provided that all duties authorised by the “ Coal Duties Acts” should be levied in the same manner as they were then leviable until fifth day of July one thousand eight hundred and seventy-two; and it was also provided that the Coal Duties Acts should be continued until fifth day of July one thousand eight hundred and seventy-two, and that all the provisions contained in the Coal Duties Act, 1831, to take effect at the end of seven years mentioned in that Act should take effect as if the fifth day of July one thousand eight hundred and seventy-two had been inserted in the Act instead of the term of seven years:
 
 And whereas by an Act of Parliament passed in the twenty-sixth and twenty-seventh years of the reign of Her present Majesty, chapter forty-six, intituled “An Act for farther continuing and “ appropriating the London Coal and Wine Duties,” after reciting various intended metropolitan improvements, and reciting that it was apprehended that the proceeds of the coal and wine duties, as continued by the herein-before recited Act of 1861 would be
 
@@ -2330,7 +2330,7 @@ L This Act may be cited as the Agricultural Holdings (Scotland) Act, 1889, and s
 
 “ Where there is a reference under this Act, unless the parties otherwise agree, as herein-after provided, a single referee shall be appointed as follows: —
 
-(1.) A single referee shall, if the parties concur, be appointed by them jointly ; and in any other case by the sheriff as herein-after provided:
+(1.) A single referee shall, if the parties concur, be appointed by them jointly; and in any other case by the sheriff as herein-after provided:
 
 (2.) If before an award is pronounced the referee dies or becomes incapable of acting, or for seven days after notice from the parties of his appointment he fails to accept the reference or to act, the proceedings shall begin afresh as if no referee had been appointed:
 
@@ -2338,7 +2338,7 @@ L This Act may be cited as the Agricultural Holdings (Scotland) Act, 1889, and s
 
 (4.) Every appointment and notice under this section shall be in writing.”
 
-3. If a single referee shall find it impossible or inconvenient to have his award ready for delivery within twenty-eight days after his appointment, as required by section fifteen of the principal Act, the sheriff may, on the application of the referee or of either party, grant an extension of time, so that the referee shall pronounce his award and have the same ready for delivery within a time not exceeding in the whole forty-nine days after his appointment as aforesaid ; and, failing his doing so, his powers as referee shall cease and determine, and thereupon the proceedings shall begin afresh as if no referee had been appointed.
+3. If a single referee shall find it impossible or inconvenient to have his award ready for delivery within twenty-eight days after his appointment, as required by section fifteen of the principal Act, the sheriff may, on the application of the referee or of either party, grant an extension of time, so that the referee shall pronounce his award and have the same ready for delivery within a time not exceeding in the whole forty-nine days after his appointment as aforesaid; and, failing his doing so, his powers as referee shall cease and determine, and thereupon the proceedings shall begin afresh as if no referee had been appointed.
 
 4. (1.) If the parties concur, each may appoint a referee, and the referees so appointed may appoint an oversman.
 
@@ -2480,7 +2480,7 @@ material or mode of construction appears likely to facilitate the commission of 
 
 (2.) The appointment may be made either on the application of the local authority or without such application, but with the concurrence of the Treasury.
 
-(3.) The officer so appointed shall visit the office of the local inspector of weights and measures, and shall, among other things, inquire into the procedure observed in the verification and inspection of weights, measures, and weighing instruments within that jurisdiction ; and, on the completion of the local inquiry, shall report to the Board of Trade and to the local authority on the condition and equipment of the office visited, and on the mode in which the law relating to weights and measures is being carried out within the jurisdiction of that authority.
+(3.) The officer so appointed shall visit the office of the local inspector of weights and measures, and shall, among other things, inquire into the procedure observed in the verification and inspection of weights, measures, and weighing instruments within that jurisdiction; and, on the completion of the local inquiry, shall report to the Board of Trade and to the local authority on the condition and equipment of the office visited, and on the mode in which the law relating to weights and measures is being carried out within the jurisdiction of that authority.
 
 (4.) Where the appointment is made on the application of a local authority, the costs incurred in relation to the inquiry', including the remuneration of any officer engaged in the inquiry, not exceeding three guineas a day, shall be paid by the local authority applying for or assenting to the inquiry, and the Board of Trade may certify the amount of the costs incurred, and any sum so certified and directed by the Board to be paid by any local authority shall be a debt to the Crown from that authority.
 
@@ -2732,9 +2732,9 @@ Ch. 21.
 
 67
 
-( b) any right or liability acquired or incurred under any enact' ment so repealed ; or
+( b) any right or liability acquired or incurred under any enact' ment so repealed; or
 
-(c) any penalty, forfeiture, or punishment incurred in respect of any onence committed against any enactment so repealed ; or (d) any power, legal proceeding, or remedy in respect of any such right, liability, penalty, forfeiture, or punishment as aforesaid; and any such power, legal proceeding, and remedy may be exercised and carried on as if this Act had not passed.
+(c) any penalty, forfeiture, or punishment incurred in respect of any onence committed against any enactment so repealed; or (d) any power, legal proceeding, or remedy in respect of any such right, liability, penalty, forfeiture, or punishment as aforesaid; and any such power, legal proceeding, and remedy may be exercised and carried on as if this Act had not passed.
 
 37. This Act shall come into operation on the first day of January one thousand eight hundred and ninety, which date is in this Act referred to as the commencement of this Act:
 
@@ -2746,7 +2746,7 @@ Provided as follows:
 
 38. Nothing in this Act, or the principal Act, shall be held to affect any right or privilege conferred upon the lord mayor, aldermen, and burgesses of Dublin by charter or statute.
 
-39. This Act may be cited as the Weights and Measures Act, 1889 ; and the principal Act and this Act may be cited together as the Weights and Measures Acts, 1878 and 1889.
+39. This Act may be cited as the Weights and Measures Act, 1889; and the principal Act and this Act may be cited together as the Weights and Measures Acts, 1878 and 1889.
 
 FIRST SCHEDULE.
 
@@ -3044,7 +3044,7 @@ Ch. 23. Herring Fishery (Scotland) Act, 1889. 52 & 53 Vict.
 
 CHAPTER 23.
 
-An Act to amend the Herring Fishery (Scotland) Acts ; and for other purposes relating thereto.
+An Act to amend the Herring Fishery (Scotland) Acts; and for other purposes relating thereto.
 
 [26th July 1889.]
 
@@ -3062,7 +3062,7 @@ Useofcranor 4. Any person buying, selling, delivering, or receiving fresh quarte
 
 cran measure, being a measure of such capacity that four times its content, when filled with herrings, shall be equal to one cran; and such measure shall be made of wood, or of such other material as the Fishery Board for Scotland shall direct, and shall be made and branded or otherwise marked in accordance with any regulations for the time being in force of the Fishery Board for Scotland, which regulations that Board are hereby authorised to make, and from time to time to alter and revoke as they see fit.
 
-These measures made, branded, or otherwise marked in all respects in conformity with the regulations for the time being in force of the said Board, shall be the only legal measures for use in buying, selling, delivering, or receiving fresh herrings in the Scotch herring fishery ; and any person using any box, basket, or other measure not so made, branded, or otherwise marked shall be liable, on conviction under the Summary Jurisdiction (Scotland) Acts, to a fine not exceeding five pounds for the first offence, and not exceeding twenty pounds for the second or any subsequent offence; and also to the forfeiture of the measure or measures, which may be seized and destroyed or otherwise disposed of by any superintendent of the herring fishery or other officer employed in the execution of the Herring Fishery (Scotland) Acts: Provided always, that nothing in this Act contained shall prevent the sale of herrings by weight or number or in bulk.
+These measures made, branded, or otherwise marked in all respects in conformity with the regulations for the time being in force of the said Board, shall be the only legal measures for use in buying, selling, delivering, or receiving fresh herrings in the Scotch herring fishery; and any person using any box, basket, or other measure not so made, branded, or otherwise marked shall be liable, on conviction under the Summary Jurisdiction (Scotland) Acts, to a fine not exceeding five pounds for the first offence, and not exceeding twenty pounds for the second or any subsequent offence; and also to the forfeiture of the measure or measures, which may be seized and destroyed or otherwise disposed of by any superintendent of the herring fishery or other officer employed in the execution of the Herring Fishery (Scotland) Acts: Provided always, that nothing in this Act contained shall prevent the sale of herrings by weight or number or in bulk.
 
 Daylight 5. It shall not be lawful to set or shoot any herring net on any
 
@@ -3080,7 +3080,7 @@ It shall not bo lawful to use the method of fishing known as beam trawling or ot
 
 (2.) The Fishery Board may from time to time make, alter, and revoke byelaws for the purposes of this section, but a byelaw shall not be of any validity until it is confirmed by the Secretary for Scotland.
 
-(3.) Any person who uses any method of fishing in contravention of this enactment or of any byelaw of the Fishery Board, shall be liable, on conviction under the Summary Jurisdiction (Scotland) Acts, to a fine not exceeding five pounds for the first offence,' and not exceeding twenty pounds for the second or any subsequent offence ; and every net set, or attempted to be set, in contravention of this section shall be forfeited, and may be seized and destroyed or otherwise disposed of by any superintendent of the herring fishery or other officers employed in the execution of the Herring Fishery (Scotland) Acts.
+(3.) Any person who uses any method of fishing in contravention of this enactment or of any byelaw of the Fishery Board, shall be liable, on conviction under the Summary Jurisdiction (Scotland) Acts, to a fine not exceeding five pounds for the first offence,' and not exceeding twenty pounds for the second or any subsequent offence; and every net set, or attempted to be set, in contravention of this section shall be forfeited, and may be seized and destroyed or otherwise disposed of by any superintendent of the herring fishery or other officers employed in the execution of the Herring Fishery (Scotland) Acts.
 
 7. — (1.) The Fishery Board may, by byelaw or byelaws, direct that the methods of fishing known as beam trawling and otter trawling shall not be used within a line drawn from Duncansby Head, in Caithness, to Rattray Point, in Aberdeenshire, in any area or areas to be defined in such byelaw, and may from time to time make, alter, and revoke byelaws for the purposes of this section, but no such byelaw shall be of any validity until it has been confirmed by the Secretary for Scotland.
 
@@ -3210,7 +3210,7 @@ Session and Chapter. Title of Aut.
 
 15 Geo. 2. c. 27. An Act for the more effectual preventing any Cloth or Woollen Goods remaining upon the Rack or Tenters, or any Woollen Yam or wooll left out to dry, from being stolen or taken away in the Night-time.
 
-25 Geo. 2. c. 8. -Irish. An Act for the better adjusting and more easy recovery of the Wages of certain Servants, and for the better regulation of such Servants and of certain Apprentices; and for the punishment of all such Owners of Coal and their Agents as shall knowingly employ and set at Work Persons retained in the service of other Coal-owners ; and also that Mutual Debts between Party and Party be set one against the other, in part; namely, seotions two and seven.
+25 Geo. 2. c. 8. -Irish. An Act for the better adjusting and more easy recovery of the Wages of certain Servants, and for the better regulation of such Servants and of certain Apprentices; and for the punishment of all such Owners of Coal and their Agents as shall knowingly employ and set at Work Persons retained in the service of other Coal-owners; and also that Mutual Debts between Party and Party be set one against the other, in part; namely, seotions two and seven.
 
 27 Geo. 2. o. 7. - An Act for the more effectual preventing of Frauds and Abuses committed by persons employed in the Manufacture of Clocks and Watches.
 
@@ -3232,7 +3232,7 @@ Session and Chapter. Title of Act.
 
 5 Geo. 3. c. 51. - An Act for repealing several Laws relating to the Manufacture of Woollen Cloth in the County of York, and also so much of several other Laws as prescribes particular Standards of Width and Length of such Woollen Cloths; and for substituting other Regulations of the Cloth Trade within the West Riding of (he said county, for preventing Frauds in certifying the Contents of the Cloth, and for preserving the Credit of the said Manufacture at the Foreign Market.
 
-6 Geo. 3. c. 23. - An Act to amend an Act made in the last Session of Parliament, intituled “An Act for repealing several * Laws relating to the Manufacture of Woollen Cloth “ in the County of York, and also so much of several “ other laws as prescribes particular Standards of Width and Length of such Woollen Cloths ; and for substituting other Regulations of the Cloth Trade * within the West Riding of the said County, for pre venting Frands in certifying the Contents of the Cloth, and for preserving the Credit of the said Manufacture at the Foreign Market.”
+6 Geo. 3. c. 23. - An Act to amend an Act made in the last Session of Parliament, intituled “An Act for repealing several * Laws relating to the Manufacture of Woollen Cloth “ in the County of York, and also so much of several “ other laws as prescribes particular Standards of Width and Length of such Woollen Cloths; and for substituting other Regulations of the Cloth Trade * within the West Riding of the said County, for pre venting Frands in certifying the Contents of the Cloth, and for preserving the Credit of the said Manufacture at the Foreign Market.”
 
 14 Geo. 3. c. 25. An Act for the more effectual preventing Frauds and Embezzlements by Persons employed in the Woollen Manufactory.
 
@@ -3326,7 +3326,7 @@ Sitting of a party's representatives, assignee, or trustee.
 
 Incorporation of
 
-39 & 40 Vict. c. 70. ss. 7,9, II, 12,13,24, 46 ; 1 & 2 Vict. c. 114. s. 12.
+39 & 40 Vict. c. 70. ss. 7,9, II, 12,13,24, 46; 1 & 2 Vict. c. 114. s. 12.
 
 Small Debt Amendment (Scotland) 52 53 Vict.
 
@@ -3356,9 +3356,9 @@ ance ” wherever they occur in the said sections of the Act first above mention
 
 of a tenant's effects under a decree for rent obtained in the small eiect
 
-debt court shall report to the court that the premises for the pay- punished ment of the rent of which the sale took place, or warrant for sale premises and was granted, are displenished, the landlord may obtain from the to relet' sheriff warrant to eject the tenant and relet the premises ; but such
+debt court shall report to the court that the premises for the pay- punished ment of the rent of which the sale took place, or warrant for sale premises and was granted, are displenished, the landlord may obtain from the to relet' sheriff warrant to eject the tenant and relet the premises; but such
 
-warrant shall not be granted unless notice of the diet appointed by the sheriff for hearing the application be given to the tenant forty-eight hours beforehand, which notice may be given by registered letter addressed to the tenant's last known address ; and the sheriff may at 6uch or any adjourned diet pronounce such order as to ejection, reletting, security, expenses, or otherwise as he shall think just; and if warrant to relet be granted the rent accruing thereafter shall not be exigible from the tenant except for such period as he shall continue to occupy the premises.
+warrant shall not be granted unless notice of the diet appointed by the sheriff for hearing the application be given to the tenant forty-eight hours beforehand, which notice may be given by registered letter addressed to the tenant's last known address; and the sheriff may at 6uch or any adjourned diet pronounce such order as to ejection, reletting, security, expenses, or otherwise as he shall think just; and if warrant to relet be granted the rent accruing thereafter shall not be exigible from the tenant except for such period as he shall continue to occupy the premises.
 
 7. All warrants to sequestrate and inventory for rent, and all Power to open warrants to sell, eject, or relet, and all decrees granted or pronounced in any small debt cause under this or the before recited 1AJ^rantsnand Acts, shall be held to include authority to open, if need be, shut decrees, and lock-fast places for the purpose of carrying such warrants and
 
@@ -3432,7 +3432,7 @@ which the said defender refuses or delays to deliver; and, therefore, the said d
 
 day of at of the clock, to answer at the com-
 
-plainer's instance in the said matter, with certification, in case of failure, of being held as confessed ; requiring you also to deliver to the defender a copy of any list of subjects pursued for, and that ye cite witnesses and havers for both parties to compear at the said place and date, to give evidence in the said matter.
+plainer's instance in the said matter, with certification, in case of failure, of being held as confessed; requiring you also to deliver to the defender a copy of any list of subjects pursued for, and that ye cite witnesses and havers for both parties to compear at the said place and date, to give evidence in the said matter.
 
 Given under the hand of the clerk of court at the
 
@@ -3456,7 +3456,7 @@ hundred and the sheriff of the shire of decerns
 
 and ordains the within designed , defender, to deliver to
 
-the pursuer [the subjects within referred to, or state to what extent the order for delivery ie granted] ; and finds the said defender liable to the
+the pursuer [the subjects within referred to, or state to what extent the order for delivery ie granted]; and finds the said defender liable to the
 
 pursuer in [the sum of, any sum decerned for in lieu of others of the subjects that cannot be delivered,with] of expenses; and grants warrant for all lawful execution hereon.
 
@@ -3482,7 +3482,7 @@ the day of one thousand eight
 
 liable to the said in the sum
 
-, with of expenses ; and further finds the
+, with of expenses; and further finds the
 
 liable to , writer, the
 
@@ -3636,7 +3636,7 @@ instruction, practical or scientific, is given in any matter connected with agri
 
 (a) for prescribing and regulating the muzzling of dogs, and the keeping of dogs under control;
 
-(b) for prescribing and regulating the seizure, detention, and disposal (including slaughter) of stray dogs, and of dogs not muzzled, and of dogs not being kept under control, and the recovery from the owners of dogs of the expenses incurred in respect of their detention ; and the Contagious Diseases (Animals) Acts, 1878 to 1886, shall apply as if the said purposes were among the purposes mentioned in section thirty-two of the Contagious Diseases (Animals) Act, 1878.
+(b) for prescribing and regulating the seizure, detention, and disposal (including slaughter) of stray dogs, and of dogs not muzzled, and of dogs not being kept under control, and the recovery from the owners of dogs of the expenses incurred in respect of their detention; and the Contagious Diseases (Animals) Acts, 1878 to 1886, shall apply as if the said purposes were among the purposes mentioned in section thirty-two of the Contagious Diseases (Animals) Act, 1878.
 
 4. It shall be lawful for Her Majesty the Queen in Council from time to time by order to transfer to the Board of Agriculture such powers and duties of any Government department as are conferred by or in pursuance of any statute, and appear to Her Majesty to relate to agriculture or forestry, and to be of an administrative character;
 
@@ -3922,7 +3922,7 @@ Session and Chapter. Other Duties. Title or Short Title.
 
 15 A 16 Vict. c. 62. . An Act to alter and amend certain Acts relating to the Woods, Forests, and Land Revenues of the Crown.
 
-J889.
+1889.
 
 Boa/rd of Agriculture , 1889.
 
@@ -4042,7 +4042,7 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 2. This Act shall not extend to Scotland.
 
-3. It shall be lawful for a trustee, unless expressly forbidden by the instrument (if any) creating the trust, to invest any trust funds in his hands in manner following, that is to say ; —
+3. It shall be lawful for a trustee, unless expressly forbidden by the instrument (if any) creating the trust, to invest any trust funds in his hands in manner following, that is to say; —
 
 (a.) In any of the Parliamentary Stocks or Public Funds or Government Securities of the United Kingdom :
 
@@ -4300,7 +4300,7 @@ annuity.
 
 Short title.
 
-Now therefore, we. Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, taking into consideration Your Majesty's gracious messages, and being desirous to prevent the necessity for repeated applications to Parliament on behalf of Your Majesty's family, and to establish the principle that the provision for children should hereafter be made out of grants adequate for that purpose which have been assigned to their parents, have cheerfully granted to Your Majesty the sum hereinafter mentioned ; and we do most humbly beseech Your Majesty that it may be enacted, and bo it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+Now therefore, we. Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, taking into consideration Your Majesty's gracious messages, and being desirous to prevent the necessity for repeated applications to Parliament on behalf of Your Majesty's family, and to establish the principle that the provision for children should hereafter be made out of grants adequate for that purpose which have been assigned to their parents, have cheerfully granted to Your Majesty the sum hereinafter mentioned; and we do most humbly beseech Your Majesty that it may be enacted, and bo it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. — (1.) It shall be lawful for Her Majesty the Queen by letters patent under the Great Seal of the United Kingdom to grant to the Prince of Wales' trustees herein-after mentioned, the annual sum of thirty-six thousand pounds which shall determine on the expiration of six months after the death of Her Majesty, whom God long preserve.
 
@@ -4432,7 +4432,7 @@ Penalties for misconduct.
 
 so far as not altered by this Act, apply to the accountant to be appointed in terms of this Act and his successors in office.
 
-6. In addition to the factors specified in the recited Act of 1819, the accountant shall superintend the conduct of all other factors and persons already appointed or to be appointed by the Court of Session or any of the lords ordinary in the said court, or by any of the sheriffs or sheriff substitutes in the several sheriff courts in Scotland, to hold, administer, or protect any property or funds belonging to persons or estates in Scotland; and all such factors and others, subject to such rules as may from time to time be made by Acts of sederunt as herein-after provided, shall be and hereby are made subject to the provisions affecting judicial factors of the said recited Act of 1849, and of any Acts amending the same, or in term9 of the Judicial Factors (Scotland) Act, 1880, and of any Acts of sederunt made in terms of said Acts, and the accountant shall see that they duly observe all rules and regulations affecting them for the time : Provided that nothing in this section contained shall be held to apply to executors dative or to trustees appointed by the Court under the Trusts (Scotland) Acts, the Entail (Scotland) Act, 1882, or in virtue of any other power ; but nothing in this section contained shall prevent trustees appointed by the court from availing themselves of the powers contained in section eighteen of this Act.
+6. In addition to the factors specified in the recited Act of 1819, the accountant shall superintend the conduct of all other factors and persons already appointed or to be appointed by the Court of Session or any of the lords ordinary in the said court, or by any of the sheriffs or sheriff substitutes in the several sheriff courts in Scotland, to hold, administer, or protect any property or funds belonging to persons or estates in Scotland; and all such factors and others, subject to such rules as may from time to time be made by Acts of sederunt as herein-after provided, shall be and hereby are made subject to the provisions affecting judicial factors of the said recited Act of 1849, and of any Acts amending the same, or in term9 of the Judicial Factors (Scotland) Act, 1880, and of any Acts of sederunt made in terms of said Acts, and the accountant shall see that they duly observe all rules and regulations affecting them for the time : Provided that nothing in this section contained shall be held to apply to executors dative or to trustees appointed by the Court under the Trusts (Scotland) Acts, the Entail (Scotland) Act, 1882, or in virtue of any other power; but nothing in this section contained shall prevent trustees appointed by the court from availing themselves of the powers contained in section eighteen of this Act.
 
 7. Any person who in virtue of his office is subject to the provisions of this Act, aud who fails to comply therewith, or who misconducts himself or fails in the discharge of his duties, shall be liable to the penalties imposed by section six of the Pupils Protection Act, 1849, or to any one or more of them as the court in its discretion shall decide.
 
@@ -4442,7 +4442,7 @@ be*Ueti to ^Dcn^ on suc^ one or more depute or assistant clerks of session,
 
 accountant by or of the clerks in the office of the Bill Chamber or other qualified clerks of court, person or persons as shall be selected by the principal clerks of &c* session with the approval of the Lord Advocate, to prepare under
 
-the supervision of the said principal clerks a return setting forth the following particulars applicable to all factors and other persons referred to in section six hereof appointed after the first day of January one thousand eight hundred and seventy, and to all factors and other persons under any factory constituted prior to said last-mentioned date in which proceedings have been taken in court since that date not embraced under the provisions of the Pupils Protection Act, 1849, the Judicial Factors (Scotland) Act, 1880, and the Bankruptcy Acts, and where the factories or other offices held by them still subsist, viz.: — (1) the date of the factor's appointment; (2) his name and designation; (3) the name of the estate on which he is factor; (4) the date of his lodging of the inventory, if lodged; (5) the date of the last petition for the audit of his accounts ; (6) the latest date of the accounts so submitted to audit; (7) the date of the interlocutor approving of the accounts; and the said return, with the whole of the factors' inventories, accounts, and reports thereon, so far as lodged in process, shall be transmitted to the accountant on or before the thirtieth day of
+the supervision of the said principal clerks a return setting forth the following particulars applicable to all factors and other persons referred to in section six hereof appointed after the first day of January one thousand eight hundred and seventy, and to all factors and other persons under any factory constituted prior to said last-mentioned date in which proceedings have been taken in court since that date not embraced under the provisions of the Pupils Protection Act, 1849, the Judicial Factors (Scotland) Act, 1880, and the Bankruptcy Acts, and where the factories or other offices held by them still subsist, viz.: — (1) the date of the factor's appointment; (2) his name and designation; (3) the name of the estate on which he is factor; (4) the date of his lodging of the inventory, if lodged; (5) the date of the last petition for the audit of his accounts; (6) the latest date of the accounts so submitted to audit; (7) the date of the interlocutor approving of the accounts; and the said return, with the whole of the factors' inventories, accounts, and reports thereon, so far as lodged in process, shall be transmitted to the accountant on or before the thirtieth day of
 
 AjOOQ le
 
@@ -4974,7 +4974,7 @@ bis jurisdiction, not a pauper and not wandering at large, is deemed to be a lun
 
 (4.) A justice making an order under this section may suspend the execution of the order for such period not exceeding fourteen days as he majr think fit, and in the meantime may give such directions or make such arrangements for the proper care and control of the lunatic as he may consider proper.
 
-(5.) If either of the medical practitioners who examines an alleged lunatic under this section certifies in writing that the lunatic is not in a fit state to be removed, the removal shall be suspended until the same or some other medical practitioner certifies in writing that the lunatic is fit to be removed ; and every medical practitioner who has certified that the lunatic is not in a fit state to be removed shall, as soon as in his judgment the lunatic is in a fit state to be removed, be bound to certify accordingly.
+(5.) If either of the medical practitioners who examines an alleged lunatic under this section certifies in writing that the lunatic is not in a fit state to be removed, the removal shall be suspended until the same or some other medical practitioner certifies in writing that the lunatic is fit to be removed; and every medical practitioner who has certified that the lunatic is not in a fit state to be removed shall, as soon as in his judgment the lunatic is in a fit state to be removed, be bound to certify accordingly.
 
 (6.) This section shall not restrain or prevent any relative or friend from retaining or taking care of a lunatic as to whom an order might be or has been made under this section, if the relative or friend satisfies the justice before whom the information as to the lunatic has been sworn, that he will be properly taken care of.
 
@@ -5178,7 +5178,7 @@ condition of the patient, in such form as the Commissioners may from time to tim
 
 (2.) The medical proprietor or attendant of every house licensed by justices shall also at the same time send a copy of such report to the clerk of the visitors of licensed houses in the county or borough where the house is situate to be by him laid before the visitors.
 
-(3.) The Commissioners, after receiving the report upon any patient in a licensed house within their immediate jurisdiction, shall make arrangements for a visit being paid as soon as conveniently may be to the patient by one or more of the Commissioners ; and the Commissioner or Commissioners so visiting shall report to the Commissioners whether the detention of the patient is or is not proper.
+(3.) The Commissioners, after receiving the report upon any patient in a licensed house within their immediate jurisdiction, shall make arrangements for a visit being paid as soon as conveniently may be to the patient by one or more of the Commissioners; and the Commissioner or Commissioners so visiting shall report to the Commissioners whether the detention of the patient is or is not proper.
 
 (4.) The visitors, after receiving the report, shall, in every case of a private patient in a licensed house in the county or borough for which the visitors are appointed, make arrangements for a visit being paid by the medical visitor (either alone or with one or more of the other visitors) to the patient therein named for such purpose as aforesaid, as soon as conveniently may be; and if on such visit there shall appear to be any doubt as to the propriety of the detention of the patient, such visitor or visitors shall forthwith report the same in writing to the Commissioners, who shall thereupon make all such further inquiries as may be necessary to satisfy themselves whether the patient is properly detained as a lunatic, or whether he ought to be discharged, or whether the case ought to be reported to the Lord Chancellor with a view to an inquisition.
 
@@ -5482,7 +5482,7 @@ estate only managing his affairs, but that he is capable of managing himself,
 
 aod not of and is not dangerous to himself or to others, it may be specially so
 
-person. found and certified ; and every such special finding and certificate
+person. found and certified; and every such special finding and certificate
 
 shall be brought before the Judge in Lunacy, who shall thereupon make all such orders, and direct all such acts to be done, as may be necessary or proper relative to the commitment, management, and application of the estate and effects of the person so found to be of unsound mind (including all proper provisions for his maintenance), but it shall not be necessary, unless in the discretion of the Judge it shall appear proper so to do, to make any order as to the custody or commitment of the person.
 
@@ -5844,7 +5844,7 @@ Ch.
 
 or sheriff substitute having jurisdiction in the place where the lunatic was eo detained for a warrant authorising such person to retake the lunatic and bring him back to such place.
 
-(2.) Such warrant, when granted, shall in England and Ireland as well as in Scotland be sufficient primtl facie evidence that the person stated therein to have escaped was so detained as a lunatic under lawful authority as aforesaid, and of the fact of his escape, and shall be sufficient authority for any justice of the peace in England or Ireland to countersign the same ; and any such warrant so countersigned may be executed in England or Ireland, as the case may be, by retaking such lunatic and bringing him from thence, to the intent that he may be restored to the custody from which he escaped.
+(2.) Such warrant, when granted, shall in England and Ireland as well as in Scotland be sufficient primtl facie evidence that the person stated therein to have escaped was so detained as a lunatic under lawful authority as aforesaid, and of the fact of his escape, and shall be sufficient authority for any justice of the peace in England or Ireland to countersign the same; and any such warrant so countersigned may be executed in England or Ireland, as the case may be, by retaking such lunatic and bringing him from thence, to the intent that he may be restored to the custody from which he escaped.
 
 (3.) For the purposes of this section a writing purporting to be signed by one of the Commissioners in Lunacy for Scotland shall be deemed to have been signed by him until the contrary is proved.
 
@@ -5884,9 +5884,9 @@ Defaults and misdemeanors.
 
 16 & 17 Vict. c. 97.
 
-as a single patient, he shall be guilty of a misdemeanor, and being thereof convicted shall be liable to be imprisoned with or without hard labour for any term not exceeding two years ; and no conseni or alleged consent of such female thereto shall be any defence to an indictment or prosecution for such offence.
+as a single patient, he shall be guilty of a misdemeanor, and being thereof convicted shall be liable to be imprisoned with or without hard labour for any term not exceeding two years; and no conseni or alleged consent of such female thereto shall be any defence to an indictment or prosecution for such offence.
 
-83. It shall not be lawful to employ any male person in any asylum, registered hospital, or licensed house in the personal custody or restraint of any female patient ; and any person employing a male person contrary to this section shall be liable to a penalty not exceeding twenty pounds: Provided that this section shall not extend to prohibit or impose any penalty on the employment of male persons on such occasions of urgency as may, in the judgment of the superintendent or proprietor, render such employment necessary ; and the superintendent or proprietor shall in each case report such employment of a male person to the visiting commissioners or visitors at their next visit.
+83. It shall not be lawful to employ any male person in any asylum, registered hospital, or licensed house in the personal custody or restraint of any female patient; and any person employing a male person contrary to this section shall be liable to a penalty not exceeding twenty pounds: Provided that this section shall not extend to prohibit or impose any penalty on the employment of male persons on such occasions of urgency as may, in the judgment of the superintendent or proprietor, render such employment necessary; and the superintendent or proprietor shall in each case report such employment of a male person to the visiting commissioners or visitors at their next visit.
 
 84. The power given by section fifty-six of the Lunacy Act, 1845, to a Secretary of State, to direct the Attorney-General to prosecute on the part of the Crown in certain cases, shall, from and after the commencement of this Act, be extended to all misdemeanors committed by any persons under this or any other Act relating to lunacy.
 
@@ -5908,7 +5908,7 @@ Ch. 41.
 
 86. — (1.) Where any person is proceeded against under the Evidence upon Lunacy Acts, or under this Act, on a charge of omitting to send prosecution, any copy, list, notice, statement, report or other document required
 
-to be transmitted or sent by such person, the burden of proof that the same was transmitted or sent within the time required shall lie upon such person ; but if he proves by the testimony of one witness upon oath that the copy, list, notice, statement, report or document in respect of which the proceeding is taken was properly addressed and put into the post in due time, or (in case of documents required to be sent to the Commissioners or a clerk of the peace or a clerk to guardians) left at the office of the Commissioners or of the clerk of the peace or clerk to guardians, such proof shall be a bar to all further proceeding in respect of such eharge.
+to be transmitted or sent by such person, the burden of proof that the same was transmitted or sent within the time required shall lie upon such person; but if he proves by the testimony of one witness upon oath that the copy, list, notice, statement, report or document in respect of which the proceeding is taken was properly addressed and put into the post in due time, or (in case of documents required to be sent to the Commissioners or a clerk of the peace or a clerk to guardians) left at the office of the Commissioners or of the clerk of the peace or clerk to guardians, such proof shall be a bar to all further proceeding in respect of such eharge.
 
 (2.) In proceedings under the Lunacy Acts or under this Act, where a question arises whether a house is or is not a licensed house or registered as a hospital, it shall be presumed not to be so licensed or registered unless the licence or certificate of registration is produced, or sufficient evidence is given that a licence or certificate is in force.
 
@@ -6450,9 +6450,9 @@ A justice of the peace for
 
 Dated the day of one thousand eight hundred and
 
-To the superintendent of the asylum for the county [or borough] of [or the lunatic hospital of ; or E.F. proprietor
+To the superintendent of the asylum for the county [or borough] of [or the lunatic hospital of; or E.F. proprietor
 
-of the licensed house of ; describing the asylum, hospital, or
+of the licensed house of; describing the asylum, hospital, or
 
 house].
 
@@ -6872,7 +6872,7 @@ Consideration 9. — (1.) Where the consideration for the redemption or purchase
 
 ^rclmse'of any ^ant^ tax under the several Acts in force in that behalf landTax.180 ° 11 sum of stock, the stock shall be Two and jThree-quarters per
 
-Cent. Consolidated Stock ; and where the consideration is a sum of money, that sum shall be the amount calculated and ascertained by reference to the price of such stock.
+Cent. Consolidated Stock; and where the consideration is a sum of money, that sum shall be the amount calculated and ascertained by reference to the price of such stock.
 
 (2.) The tables annexed to any of the said Acts shall be construed as if for references therein to Three per cent. Bank Annuities were substituted references to Two and Three-quarters per Cent. Consolidated Stock, and any forms contained in, or prescribed by any of the said Acts may be altered so as to give effect to this section.
 
@@ -7182,7 +7182,7 @@ An Act for repealing the duties on starch, stone bottles, sweets or made wines, 
 
 An Act to allow spirit of wine to he used duty free in the arts and manufactures of the United Kingdom.
 
-An Act to grant duties of Excise on chicory and. on licences to dealers in sweets or made wines ; also to reduce the Excise duty on hops and the period of credit allowed for payment of the duty on malt and hops respectively; to repeal the exemption from licence duty of persons dealing in foreign wine and spirits in bond; and to amend the laws relating to the Excise.
+An Act to grant duties of Excise on chicory and. on licences to dealers in sweets or made wines; also to reduce the Excise duty on hops and the period of credit allowed for payment of the duty on malt and hops respectively; to repeal the exemption from licence duty of persons dealing in foreign wine and spirits in bond; and to amend the laws relating to the Excise.
 
 An Act to amend the laws relating to the Inland Revenue.
 
@@ -7328,8 +7328,6 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 2. If it be proved that a person convicted on indictment as aforesaid was interested in any sum of money accruable or payable in the event of the death of the child, and had knowledge that such sum of money was accruing or becoming payable, the court may, in its discretion, increase the amount of the said fine so that the fine shall not exceed two hundred pounds. Such interest as aforesaid in any sum of money accruable or payable in the event of
 
-_
-
 1889.
 
 Prevention of Cmelty to, and Protection of. Children , 1889.
@@ -7342,7 +7340,7 @@ the death of the child shall be charged in the indictment and put to the jury in
 
 3. Any person who — Restrictions on
 
-(a) causes or procures any child, being a boy under the age of employment of fourteen years, or being a girl under the age of sixteen years, lldren” to be in any street for the purpose of begging or receiving alms, or of inducing the giving of alms, whether under the pretence of singing, playing, performing, offering anything for sale, or otherwise ; or (h) causes or procures any child, being a boy under the age of fourteen years, or being a girl under the age of sixteen years, to be in any street, or in any premises licensed for the sale of any intoxicating liquor, other than premises licensed according to law for public entertainments, for the purpose of singing, playing, or performing for profit, or offering anything for sale, between ten p.m. and five a.m.; or (c) causes or procures any child under the age of ten years to be at any time in any street, or in any premises licensed for the sale of any intoxicating liquor, or in premises licensed according to law for public entertainments, or in any circus or other place of public amusement to which the public are admitted by payment for the purpose of singing, playing, or performing for profit, or offering anything for sale, shall, on conviction thereof by a court of summary jurisdiction in manner provided by the Summary Jurisdiction Acts, be liable, at the discretion of the court, to a fine not exceeding twenty-five pounds or alternatively, or in default of payment of the said fine, or in addition thereto, to imprisonment, with or without hard labour, for any term not exceeding three months.
+(a) causes or procures any child, being a boy under the age of employment of fourteen years, or being a girl under the age of sixteen years, lldren” to be in any street for the purpose of begging or receiving alms, or of inducing the giving of alms, whether under the pretence of singing, playing, performing, offering anything for sale, or otherwise; or (h) causes or procures any child, being a boy under the age of fourteen years, or being a girl under the age of sixteen years, to be in any street, or in any premises licensed for the sale of any intoxicating liquor, other than premises licensed according to law for public entertainments, for the purpose of singing, playing, or performing for profit, or offering anything for sale, between ten p.m. and five a.m.; or (c) causes or procures any child under the age of ten years to be at any time in any street, or in any premises licensed for the sale of any intoxicating liquor, or in premises licensed according to law for public entertainments, or in any circus or other place of public amusement to which the public are admitted by payment for the purpose of singing, playing, or performing for profit, or offering anything for sale, shall, on conviction thereof by a court of summary jurisdiction in manner provided by the Summary Jurisdiction Acts, be liable, at the discretion of the court, to a fine not exceeding twenty-five pounds or alternatively, or in default of payment of the said fine, or in addition thereto, to imprisonment, with or without hard labour, for any term not exceeding three months.
 
 Provided that any local authority may, if they think it necessary or desirable so to do, from time to time by byelaw extend or restrict the hours mentioned in sub-section (6) of this section, either on every day or on any specified day or days of the week, and either as to the whole of their district or as to any specified area therein.
 
@@ -7362,7 +7360,7 @@ Taking of offender into custody, and protection of child.
 
 Disposal of child by order of court.
 
-said court or school board upon sufficient cause being shown ; and such licence shall be sufficient protection to all persons acting under or in accordance with the same.
+said court or school board upon sufficient cause being shown; and such licence shall be sufficient protection to all persons acting under or in accordance with the same.
 
 A Secretary of State may assign to any inspector appointed, or to be appointed under section sixty-seven of the Factory and Workshop Act, 1878, specially and in addition to any other usual duties, the duty of seeing whether the restrictions and conditions of any licence under this section are duly complied with, and any such inspector shall have the same power to enter, inspect, and examine any place of public entertainment at which the employment of a child is for the time being licensed under this section as an inspector has to enter, inspect, and examine a factory or workshop under section sixty-eight of the same Act.
 
@@ -7370,19 +7368,19 @@ Nothing in this section shall affect the provisions of the Elementary Education 
 
 So much of sub-section (c) of this section as makes it an offence to cause or procure a child to be in premises licensed according to law for public entertainment, or in any circus or other place of public amusement, for the purpose of singing, playing, or performing for profit, shall not come into operation until the first day of November one thousand eight hundred and eighty-nine.
 
-4. — (1.) Any constable may take into custody without warrant any person who within view of such constable commits an offence under this Act, where the name and residence of such person are unknown to such constable and cannot be ascertained by such constable ; and any constable may take to a place of safety any child in respect of whom an offence under section one or subsection (a) of section three of this Act has been committed, and the child may there be detained until it can be brought before a court of summaly jurisdiction, and such court may cause the child to be dealt with as circumstances may admit and require until the charge made against any person in respect of the said offence has been determined by the committal for trial, or conviction, or discharge of such person.
+4. — (1.) Any constable may take into custody without warrant any person who within view of such constable commits an offence under this Act, where the name and residence of such person are unknown to such constable and cannot be ascertained by such constable; and any constable may take to a place of safety any child in respect of whom an offence under section one or subsection (a) of section three of this Act has been committed, and the child may there be detained until it can be brought before a court of summaly jurisdiction, and such court may cause the child to be dealt with as circumstances may admit and require until the charge made against any person in respect of the said offence has been determined by the committal for trial, or conviction, or discharge of such person.
 
 (2.) Where a constable arrests any person without warrant in pursuance of this section the inspector or constable in charge of the station to which such person is conveyed shall, unless in his belief the release of such person on bail would tend to defeat the ends of justice, or to cause injury or danger to the child against whom the offence is alleged to have been committed, release the person arrested on his entering into such a recognisance, with or without sureties, as may in his judgment be required to secure the attendance of such person upon the hearing of the charge.
 
 5. — (1.) Where a person having the custody or control of a child, being a boy under the age of fourteen or a girl under the age of sixteen years, has been
 
-(a) convicted of committing in respect of such child an offence under section one of this Act, or any offence involving bodily injury to the child and punishable with penal servitude ; or
+(a) convicted of committing in respect of such child an offence under section one of this Act, or any offence involving bodily injury to the child and punishable with penal servitude; or
 
 1889. Prevention of Cruelty to, and Protection Ch. 44.
 
 of, Children Act, 1889.
 
-(b) committed for trial for any such offence ; or
+(b) committed for trial for any such offence; or
 
 (c) bound over to keep the peace towards such child,
 
@@ -7390,7 +7388,7 @@ any person may bring such child before a petty sessional court and the court, if
 
 (2.) Any person to whom a child is so committed shall, whilst the order is in force, have the like control over the child as if he were its parent, and shall be responsible for its maintenance, and the child shall continue under the control of such person, notwithstanding that it is claimed by its parent; and any court having power so to commit a child shall have power to make the like orders on the parent of the child to contribute to its maintenance during such period as aforesaid as if the child were detained under the Industrial Schools Acts, and such orders may be made on the complaint or application of the person to whom the child is for the time being committed, and the sums contributed by the parent shall be paid to such person as the court may name, and b3 applied for the maintenance of the child. In determining on the person to whom the child shall be so committed, the court shall endeavour to ascertain the religious persuasion to which the child belongs, and shall, if possible, select a person of the same religious persuasion, and such religious persuasion shall be specified in the order; and in any case where the child has been placed pursuant to any such order with a person not of the same religious persuasion as that to which the child belongs, the court shall, on the application of any person in that behalf, and on its appearing that a fit person of the same religious persuasion is willing to undertake the charge, make an order to secure his being placed with a person of the same religious persuasion.
 
-Provided that if the order to commit the child to the charge of some relation or other person be made in respect of any person having been committed for trial for an offence, as specified in subsection (1) (6) of this section, the court shall not be empowered to order the parent of the child to contribute to its maintenance prior to the trial of such person ; and if he be acquitted of such charge, or if such charge be dismissed for want of prosecution, then any order that may have been made under this section shall forthwith be void, except with regard to anything which may have been lawfully done under it.
+Provided that if the order to commit the child to the charge of some relation or other person be made in respect of any person having been committed for trial for an offence, as specified in subsection (1) (6) of this section, the court shall not be empowered to order the parent of the child to contribute to its maintenance prior to the trial of such person; and if he be acquitted of such charge, or if such charge be dismissed for want of prosecution, then any order that may have been made under this section shall forthwith be void, except with regard to anything which may have been lawfully done under it.
 
 (3.) One of Her Majesty's Principal Secretaries of State in England, and in Scotland the Secretary for Scotland, and in Ireland
 
@@ -7432,7 +7430,7 @@ And the evidence of such child, though not given on oath or affirmation, but oth
 
 Provided that —
 
-(a.) A person shall not be liable to be convicted of the offence unless the testimony admitted by virtue of this section and given on behalf of the prosecution, is corroborated by some other material evidence in support thereof implicating the accused ; and
+(a.) A person shall not be liable to be convicted of the offence unless the testimony admitted by virtue of this section and given on behalf of the prosecution, is corroborated by some other material evidence in support thereof implicating the accused; and
 
 (6.) Any child whose evidence is received as aforesaid, and who shall wilfully give false evidence, shall be liable to be indicted and tried for such offence, and on conviction thereof may be adjudged such punishment as is provided for by section eleven of the Summary Jurisdiction Act, 1879, in the case of juvenile 41 & ai Vict. offenders. c* 49‘
 
@@ -7506,7 +7504,7 @@ The expression “ Summary Jurisdiction Acts ” means —
 
 The expression “ court of summary jurisdiction ” —
 
-(a.) as regards England, has the same meaning as in the Summary Jurisdiction Act, 1879 ; and (6.) as regards Scotland, means the sheriff*, or sheriff substitute; and
+(a.) as regards England, has the same meaning as in the Summary Jurisdiction Act, 1879; and (6.) as regards Scotland, means the sheriff*, or sheriff substitute; and
 
 (c.) as regards Ireland, means any justice or justices of the peace, police magistrate, or officer, by whatever name called, to whom jurisdiction is given by the Summary Jurisdiction Acts or any Acts therein referred to.
 
@@ -7578,7 +7576,7 @@ Ch. 44, 45. Prevention of Ci'uelty to, and Protection 52 & 53 Vict. of, Children
 
 Provided that such repeal shall not affect —
 
-(a.) Anything duly done or suffered under the enactment hereby repealed; or (b.) Any penalty, forfeiture, or punishment incurred under any offence committed against the enactment hereby repealed ; or
+(a.) Anything duly done or suffered under the enactment hereby repealed; or (b.) Any penalty, forfeiture, or punishment incurred under any offence committed against the enactment hereby repealed; or
 
 (c.) Any legal proceeding in respect of any such penalty, forfeiture, or punishment; and any such legal proceeding may be instituted and carried on, and the penalty, forfeiture, or punishment enforced, in like manner as if this Act had not passed.
 
@@ -8164,7 +8162,7 @@ Provided that the Court or a judge may set aside any appointment made in pursuan
 
 7. The arbitrators or umpire acting under a submission shall, unless the submission expresses a contrary intention, have power —
 
-( a.) to administer oath3 to or take the affirmations of the parties and witnesses appearing ; and
+( a.) to administer oath3 to or take the affirmations of the parties and witnesses appearing; and
 
 (6.) to state an award as to the whole or part thereof in the form of a special case for the opinion of the Court; and
 
@@ -8452,7 +8450,7 @@ But a person shall not be disqualified, or be deemed to have any share or intere
 
 (c.) Any lease, sale, or purchase of land, or any agreement for the same; or
 
-(d.) Any agreement for the loan of money, or any security for the payment of money only ; or (e.) Any newspaper in which any advertisement relating to the affairs of the council or committee is inserted; or (/) Any company which contracts with the council or committee for lighting or supplying with water, or insuring against fire, any property of the council or committee ; or (g.) Any railway company, or any company incorporated by Act of Parliament or Royal Charter, or under the Companies Act, 1862.
+(d.) Any agreement for the loan of money, or any security for the payment of money only; or (e.) Any newspaper in which any advertisement relating to the affairs of the council or committee is inserted; or (/) Any company which contracts with the council or committee for lighting or supplying with water, or insuring against fire, any property of the council or committee; or (g.) Any railway company, or any company incorporated by Act of Parliament or Royal Charter, or under the Companies Act, 1862.
 
 Convener of the Cou/nty.
 
@@ -8586,7 +8584,7 @@ previously taken effect shall be repealed, and the said Act shall, subject to th
 
 (a.)All the pi ovisions of the said Act in regard to the constitution, qualification, and election or appointment of county road trustees shall be repealed, and the Act shall be read and have effect as if the county council and councillors were substituted for the county road trustees. (b.) The county council shall, at their first meeting in the month of May next after the passing of this Act, and thereafter annually at their meeting in the month of December, appoint from among their own number a committee, to be called the county road board, consisting of not more than thirty councillors. The county road board so appointed shall come in place, and shall have all the powers and duties of a county road board under the said Act, except in so far as inconsistent with the provisions of this Act, and shall appoint their own chairman, (c.) For the purpose of the management and maintenance of highways, the county shall, except as herein-after provided, be divided into districts in manner provided in this Act, and such districts shall be deemed to be districts for the purposes of the Roads and Bridges (Scotland) Act, 1878; and there shall be a district committee for each district, constituted as provided in this Act, which shall come in place and have all the powers and duties of a district road committee under the Roads and Bridges (Scotland) Act, 1878, except in so far as inconsistent with the provisions of this Act: Provided that the district clerk appointed under this Act shall be deemed to be and shall discharge the duties of a district road clerk.
 
-Sections sixteen, seventeen, and ninety-one of the Roads * and Bridges (Scotland) Act, 1878, shall be repealed from and after the appointed day, and section eighteen shall be repealed in so far as it relates to the qualification of members of the district committee therein mentioned and to the nomination of the chairman of such committee, and so much of sections twenty-four and fifty-eight as provides that proprietors only shall vote in regard to the construction of new roads and bridges, and be liable for the cost thereof, shall be repealed in regard to roads and bridges to be made, built, or rebuilt after the appointed day ; and the cost of such construction shall be provided for in the same manner as the cost of maintenance of existing roads and bridges.
+Sections sixteen, seventeen, and ninety-one of the Roads * and Bridges (Scotland) Act, 1878, shall be repealed from and after the appointed day, and section eighteen shall be repealed in so far as it relates to the qualification of members of the district committee therein mentioned and to the nomination of the chairman of such committee, and so much of sections twenty-four and fifty-eight as provides that proprietors only shall vote in regard to the construction of new roads and bridges, and be liable for the cost thereof, shall be repealed in regard to roads and bridges to be made, built, or rebuilt after the appointed day; and the cost of such construction shall be provided for in the same manner as the cost of maintenance of existing roads and bridges.
 
 1889.
 
@@ -8632,7 +8630,7 @@ Standing Joint Committee for County.
 
 (2.) The sheriff of the county (or in his absence one of his substitutes to be by him nominated for that purpose) shall be ex officio a member of the said standing joint committee, and the committee shall elect one of their own number to be chairman thereof.
 
-(3.) If any appointed member of such committee shall die, resign, or become disqualified, the vacancy may be filled up by the county council or commissioners of supply, as the case may be, by whom the member vacating office was appointed ; any member of such committee may resign office by a writing under his hand addressed to the county clerk.
+(3.) If any appointed member of such committee shall die, resign, or become disqualified, the vacancy may be filled up by the county council or commissioners of supply, as the case may be, by whom the member vacating office was appointed; any member of such committee may resign office by a writing under his hand addressed to the county clerk.
 
 (4.) On the requisition of the chairman or of any two members of the standing joint committee, the county clerk (who shall without any further appointment or remuneration act as clerk of the committee) shall convene a meeting thereof, on not less than six days notice, by letter addressed to each member of the committee.
 
@@ -8748,7 +8746,7 @@ Transfer of 25. — (1.) On and after the appointed day all such property as and
 
 Provided that —
 
-(a.) The existing records of or in the custody of the court of quarter sessions shall, subject to any order of that court, remain in the same custody in which they would have been if this Act had not passed ; and
+(a.) The existing records of or in the custody of the court of quarter sessions shall, subject to any order of that court, remain in the same custody in which they would have been if this Act had not passed; and
 
 (6.) The justices of any county may retain pictures or other property on the ground that the same have been presented to them or otherwise belong to them, and are not held for public purposes of the county, and any difference arising between the county council and the justices with respect to any such retention shall be referred to and determined by the Boundary Commissioners.
 
@@ -8972,7 +8970,7 @@ PART YI.
 
 Application of Act to Special Counties and Burghs.
 
-37. With respect to the application of this Act to the county Application of of Lanark, there shall be enacted the provisions following ; that is Act to county to say, of Lanark.
+37. With respect to the application of this Act to the county Application of of Lanark, there shall be enacted the provisions following; that is Act to county to say, of Lanark.
 
 (1.) On and after the appointed day the ninety-second section of
 
@@ -9026,7 +9024,7 @@ Application of Act to Orkney and .Zetland.
 
 (7.) The burgh of Coatbridge, in the county of Lanark, as constituted and described in the Coatbridge Act, 1885, shall for all the purposes of this Act be deemed to be a royal burgh.
 
-38. With respect to the application of this Act to the county of Orkney and lordship of Zetland, there shall be enacted the following provision ; that is to say,
+38. With respect to the application of this Act to the county of Orkney and lordship of Zetland, there shall be enacted the following provision; that is to say,
 
 For the purposes of this Act Orkney and Zetland shall be separate counties.
 
@@ -9034,7 +9032,7 @@ Application of 39. With regard to the counties of Ross and Cromarty, there Act t
 
 (2.) The whole pr ^visions of this Act, and of every other Act which, but for the provisions of this section, would have had effect in regard to the county of Ross and the county of Cromarty shall, with the necessary variations, be read and have efleet in regard to the county of Ross and Cromarty, and a county council shall le elected for that county, which shall have, discharge, and be subject to the whole rights, powers, duties, and liabilities which, but for the provisions of this section, would have belonged to and rested on the county councils of the separate counties herein-before mentioned.
 
-(3.) It shall be lawful for Her Majesty the Queen, by letters patent, to revoke the grant of a court of quarter sessions and the grant of a commission of the peace for the separate counties of Ross and Cromarty, and to grant a court of quarter sessions and to grant a commission of the peace for the county of Ross and Cromarty, and to make such provision as to Her Majesty seems proper for the protection of interests existing at the date of the revocation ; and all enactments, laws, and usages with respect to justices and quarter sessions in any county in Scotland shall apply to the justices and quarter sessions of the county of Ross and Cromarty.
+(3.) It shall be lawful for Her Majesty the Queen, by letters patent, to revoke the grant of a court of quarter sessions and the grant of a commission of the peace for the separate counties of Ross and Cromarty, and to grant a court of quarter sessions and to grant a commission of the peace for the county of Ross and Cromarty, and to make such provision as to Her Majesty seems proper for the protection of interests existing at the date of the revocation; and all enactments, laws, and usages with respect to justices and quarter sessions in any county in Scotland shall apply to the justices and quarter sessions of the county of Ross and Cromarty.
 
 (4.) The present lieutenant of the county of Ross shall become lieutenant of the county of Ross and Cromarty, and after his death or resignation it shall be lawful for Her Majesty from time to time to appoint a lieutenant of the county of Rots and Cromarty; and the Acts relating to the general and local militia of the rest of Scotland shall apply to the said county as to any other county.
 
@@ -9068,7 +9066,7 @@ provisions were made for including within the county of Aberdeen, Banff, and ' f
 
 Banff, viz., the parishes of Gamric nnd Inverkeithney and parts of
 
-the parishes of Alvah and Rothiema}', and also for including in the county of Banff certain portions of the county of Elgin, viz., parts of the parishes of Beilie, Boharm, Keith, and Inveravon ; and whereas the Aberdeenshire Roads Act, 1865, makes provision for proprietors redeeming the assessment for the extinction of certain road debts, the provisions following shall have effect; (that is to say,)
+the parishes of Alvah and Rothiema}', and also for including in the county of Banff certain portions of the county of Elgin, viz., parts of the parishes of Beilie, Boharm, Keith, and Inveravon; and whereas the Aberdeenshire Roads Act, 1865, makes provision for proprietors redeeming the assessment for the extinction of certain road debts, the provisions following shall have effect; (that is to say,)
 
 (a.) Notwithstanding anything in this Act contained, the counties of Aberdeen and Banff respectively shall, for all the provisions of this Act in regard to the administration of the laws relating to highways and to the administration of the laws relating to public health, be deemed to include those portions of the counties of Banff and Elgin respectively herein-before mentioned.
 
@@ -9270,7 +9268,7 @@ of the powers of the Boundary Commissioners by order provide for all or any of t
 
 (c.) For altering the boundaries of any burgh or of any parish situate or partly situate in the county;
 
-(d.) For uniting several parishes or parts of parishes into one parish, or annexing one or more of such parish or parishes or parts of parishes to a larger parish; and any parish so formed by a union of parishes or parts of parishes, or enlarged by annexation, shall for all purposes be deemed to be one parish ; (e.) For dividing any parish in the county which by reason of its inconvenient extent, or by reason of its forming part of, or having within its boundaries, or lying partly within or partly without a burgh, or a police burgh, it seems expedient to divide, and for uniting all or any of such sub-divisions of the parish with other parishes ;
+(d.) For uniting several parishes or parts of parishes into one parish, or annexing one or more of such parish or parishes or parts of parishes to a larger parish; and any parish so formed by a union of parishes or parts of parishes, or enlarged by annexation, shall for all purposes be deemed to be one parish; (e.) For dividing any parish in the county which by reason of its inconvenient extent, or by reason of its forming part of, or having within its boundaries, or lying partly within or partly without a burgh, or a police burgh, it seems expedient to divide, and for uniting all or any of such sub-divisions of the parish with other parishes ;
 
 (f.) For the proper adjustment and distribution of the powers, property, liabilities, debts, officers, and servants of any local authority, consequential on any consolidation, alteration of boundaries or other act done in pursuance of this section; and (g.) Generally for doing any matter or thing whatever, whether similar or not to those above mentioned, which may be required or be expedient for the proper carrying into effect the purposes of this Act and the settlement of local differences :
 
@@ -9348,7 +9346,7 @@ visions of the Rivers Pollution Prevention Act, 1876 (subject to the restriction
 
 A provisional order made under this section shall be of no effect until it is confirmed by Parliament.
 
-56. The council of a county shall have the same powers of opposing Bills in Parliament, and of prosecuting or defending any legal proceedings necessary for the promotion or protection of the interests of the county, as are conferred by the Act of the thirty-fifth and thirty-sixth years of Her present Majesty, chapter ninety-one ; and, subject as herein-after provided, the provisions of that Act shall extend to a county council as if such council were included in the expression “ governing body,” and the county were the district in the said Act mentioned.
+56. The council of a county shall have the same powers of opposing Bills in Parliament, and of prosecuting or defending any legal proceedings necessary for the promotion or protection of the interests of the county, as are conferred by the Act of the thirty-fifth and thirty-sixth years of Her present Majesty, chapter ninety-one; and, subject as herein-after provided, the provisions of that Act shall extend to a county council as if such council were included in the expression “ governing body,” and the county were the district in the said Act mentioned.
 
 Provided that —
 
@@ -9376,7 +9374,7 @@ prevention and suppression of nuisances not already punishable in a summary mann
 
 (3.) Such a byelaw shall not come into force until the expiration of forty days after a copy thereof has been fixed on the doors of the county buildings, and of all the parish churches and public schools within the county, and has been advertised in one or more newspapers circulating in the county.
 
-(4.) Such a byelaw shall not come into force until the expiration of forty days after a copy thereof signed by the county clerk has been sent to the Secretary for Scotland ; and if within those forty days the Secretary for Scotland disallows the byelaw or part thereof, the byelaw or part disallowed shall not come into force; but it shall be lawful for the Secretary for Scotland, at any time within those forty days, to enlarge the time within which the byelaw shall not come into force, and in that case the byelaw shall not come into force until after the expiration of that enlarged time.
+(4.) Such a byelaw shall not come into force until the expiration of forty days after a copy thereof signed by the county clerk has been sent to the Secretary for Scotland; and if within those forty days the Secretary for Scotland disallows the byelaw or part thereof, the byelaw or part disallowed shall not come into force; but it shall be lawful for the Secretary for Scotland, at any time within those forty days, to enlarge the time within which the byelaw shall not come into force, and in that case the byelaw shall not come into force until after the expiration of that enlarged time.
 
 (5.) A byelaw made under this section shall not be of any force or effect within any burgh or police burgh unless it has been made with the consent of the town council of such burgh, or the commissioners of police of such police burgh.
 
@@ -9430,7 +9428,7 @@ Ch. 50.
 
 police and of the Contagious Diseases (Animals) Acts, or for the latter purpose only, as the case may be :
 
-(4.) For the purpose of every such contribution the rateable property of the burgh, as appearing on the valuation roll of the burgh, shall be included in the rateable property of the county, and the item of the consolidated rates applicable to the expenditure in the immediately preceding sub-section mentioned shall be ascertained and fixed accordingly as if such burgh were one of the parishes in the county ; but the amount of the contribution apportioned to the burgh shall not be assessed by the county council on the several lands and heritages in such burgh, but shall be paid by the town council out of the police assessment, or, if there is no police assessment, out of any other assessment imposed and levied therein or out of the common good of such burgh:
+(4.) For the purpose of every such contribution the rateable property of the burgh, as appearing on the valuation roll of the burgh, shall be included in the rateable property of the county, and the item of the consolidated rates applicable to the expenditure in the immediately preceding sub-section mentioned shall be ascertained and fixed accordingly as if such burgh were one of the parishes in the county; but the amount of the contribution apportioned to the burgh shall not be assessed by the county council on the several lands and heritages in such burgh, but shall be paid by the town council out of the police assessment, or, if there is no police assessment, out of any other assessment imposed and levied therein or out of the common good of such burgh:
 
 (5.) The lands and heritages within any such police burgh shall be assessed by the county council in respect of the expenditure on the administration of the police and of the Contagious Diseases (Animals) Acts in the same manner as other lands and heritages within the county.
 
@@ -9438,7 +9436,7 @@ police and of the Contagious Diseases (Animals) Acts, or for the latter purpose 
 
 Provisions as to Rating.
 
-62. The following provisions shall be made with respect to the levy of the consolidated rates ; that is to say,
+62. The following provisions shall be made with respect to the levy of the consolidated rates; that is to say,
 
 (1.) All rates imposed by the county council shall be deemed and taken to be for the year (in this Act referred to as the local financial year) from the fifteenth day of May preceding the date of imposing the same, and shall be made payable on or before a day to be fixed by the council not being earlier than the first day of November then ensuing.
 
@@ -9532,7 +9530,7 @@ Accounts and Audit
 
 68. — (1.) The accounts of the receipts and expenditure of a county council (including those of the district committees) shall be made up and balanced to the fifteenth day of May in every year in such form and shall be completed and signed by such person or officer and before such date as the Secretary for Scotland shall from time to time prescribe.
 
-(2.) The accounts of a county council (including as aforesaid) shall be audited in manner herein-after provided ; and from and after the appointed day all provisions in regard to the audit of accounts of any administrative body whose powers and duties are by this Act transferred to the county council are hereby repealed.
+(2.) The accounts of a county council (including as aforesaid) shall be audited in manner herein-after provided; and from and after the appointed day all provisions in regard to the audit of accounts of any administrative body whose powers and duties are by this Act transferred to the county council are hereby repealed.
 
 69. The Secretary for Scotland shall from time to time appoint one or more fit persons (in this Act referred to as county auditors) to audit the accounts of each county council (including those of the district committees), and may remove any county auditor.
 
@@ -9632,9 +9630,9 @@ supply at the passing of this Act held in the months of April or May; and the ge
 
 In the absence from any meeting of the convener and viceconvener of the county, such councillor as the councillors present shall choose shall be chairman of the meeting.
 
-The chairman of a meeting shall have a casting vote as well as a deliberative vote ; and when on the selection of the chairman of the meeting an equal number of votes is given for two or more persons, the meeting shall determine by lot which of these persons shall b9 the chairman of the meeting.
+The chairman of a meeting shall have a casting vote as well as a deliberative vote; and when on the selection of the chairman of the meeting an equal number of votes is given for two or more persons, the meeting shall determine by lot which of these persons shall b9 the chairman of the meeting.
 
-(6.) Where under any Act excepting the Police Act, 1857, relating to any business, powers, duties, or liabilities wholly or partly transferred by or in pursuance of this Act to the county council, provision is made for the appointment of any board, committee, or commissioners consisting wholly or partly of commissioners of supply, the county council shall annually appoint county councillors in lieu of the said commissioners of supply as the case may be ; and the boards, committees, or commissioners constituted under the said Acts, as amended by this Act, shall have and discharge the powers and duties and be subject to the debts and liabilities conferred or imposed or resting upon them under the said Acts amended as aforesaid.
+(6.) Where under any Act excepting the Police Act, 1857, relating to any business, powers, duties, or liabilities wholly or partly transferred by or in pursuance of this Act to the county council, provision is made for the appointment of any board, committee, or commissioners consisting wholly or partly of commissioners of supply, the county council shall annually appoint county councillors in lieu of the said commissioners of supply as the case may be; and the boards, committees, or commissioners constituted under the said Acts, as amended by this Act, shall have and discharge the powers and duties and be subject to the debts and liabilities conferred or imposed or resting upon them under the said Acts amended as aforesaid.
 
 (7.) The county council may, subject to the provisions of this Act, make, vary, and revoke such regulations as they think fit with respect to the summoning, notice, time, place, management, and adjournment of their meetings, and generally with respect to the transaction and management of their business.
 
@@ -9660,7 +9658,7 @@ or for the periodical payment of salaries and wages, be made in pursuance of an 
 
 (2.) Any such order may be stayed by note of suspension in the Bill Chamber, and may be wholly or partly disallowed or confirmed with or without expenses.
 
-(3.) Every county council shall annually appoint a finance committee for regulating and controlling the finance of their county ; and an order for the payment of a sum out of the county fund, whether ou account of capital or income, shall not, save in the cases mentioned in the first sub-section of this section, be made by a county council except in pursuance of a resolution of the council passed on the recommendation of the finance committee, and any expenses, debt, or liability exceeding fifty pounds shall not, save as aforesaid, be incurred except upon a resolution of the council passed on on estimate submitted by the finance committee.
+(3.) Every county council shall annually appoint a finance committee for regulating and controlling the finance of their county; and an order for the payment of a sum out of the county fund, whether ou account of capital or income, shall not, save in the cases mentioned in the first sub-section of this section, be made by a county council except in pursuance of a resolution of the council passed on the recommendation of the finance committee, and any expenses, debt, or liability exceeding fifty pounds shall not, save as aforesaid, be incurred except upon a resolution of the council passed on on estimate submitted by the finance committee.
 
 (4.) The notice of the meeting of the county council at which any resolution for the payment of a sum exceeding fifty pounds out of the county fund, or any resolution for incurring any expenses, debt, or liability exceeding fifty pounds, will be proposed, shall state the amount of the said sum, expenses, debt, or liability, and the purpose for which they are to be paid or incurred.
 
@@ -9976,7 +9974,7 @@ Definitions.
 
 104. Wherever in this Act reference is made to the population of burghs or police burghs, such reference shall be deemed to be made to the population according to the Census of 1881, unless it shall be established to the satisfaction of the Secretary for Scotland within ten days after the passing of this Act that in the case of any burgh or police burgh it has a larger population as at the passing of this Act, and in any such case such reference shall be taken to be to the larger population so established.
 
-105. In this Act, if not inconsistent with the context, the following terms have the meanings herein-after respectively assigned to them ; that is to say —
+105. In this Act, if not inconsistent with the context, the following terms have the meanings herein-after respectively assigned to them; that is to say —
 
 The expression “ county ” means a county exclusive of any burgh wholly or partly situate therein, and does not include a county of a city.
 
@@ -10342,9 +10340,9 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 1. — (1.) (a.) Where a person for the purpose of wrongfully Disclosure of obtaining information — information,
 
-(i.) enters or is in any part of a place belonging to Her Majesty the Queen, being a fortress, arsenal, factory, dockyard, camp, ship, office, or other like place, in which part he is not entitled to be ; or (ii.) when lawfully or unlawfully in any such place as afore said, either obtains any document, sketch, plan, model, or knowledge of any thing which he is not entitled to obtain, or takes without lawful authority any sketch or plan; or
+(i.) enters or is in any part of a place belonging to Her Majesty the Queen, being a fortress, arsenal, factory, dockyard, camp, ship, office, or other like place, in which part he is not entitled to be; or (ii.) when lawfully or unlawfully in any such place as afore said, either obtains any document, sketch, plan, model, or knowledge of any thing which he is not entitled to obtain, or takes without lawful authority any sketch or plan; or
 
-(iii.) when outside -any fortress, arsenal, factory, dockyard, or camp belonging to Her Majesty the Queen, takes or attempts to take without authority given by or on behalf of Her Majesty, any sketch or plan of that fortress, arsenal, factory, dockyard, or camp ; or (6.) where a person knowingly haviog possession of, or control over, any such document, sketch, plan, model, or knowledge as has been obtained or taken by means of any act which constitutes an offence against this Act at any time wilfully and without lawful authority communicates or attempts to communicate the same to any person to whom the same ought not, in the interest of the State, to be communicated at that time; or
+(iii.) when outside -any fortress, arsenal, factory, dockyard, or camp belonging to Her Majesty the Queen, takes or attempts to take without authority given by or on behalf of Her Majesty, any sketch or plan of that fortress, arsenal, factory, dockyard, or camp; or (6.) where a person knowingly haviog possession of, or control over, any such document, sketch, plan, model, or knowledge as has been obtained or taken by means of any act which constitutes an offence against this Act at any time wilfully and without lawful authority communicates or attempts to communicate the same to any person to whom the same ought not, in the interest of the State, to be communicated at that time; or
 
 (c.) where a person after having been entrusted in confidence by some officer under Her Majesty the Queen with any document, sketch, plan, model, or information relating to any such place as aforesaid, or to the naval or military affairs of Her Majesty, wilfully and in breach of such confidence communicates the same when, in the interest of the State, it ought not to be communicated; he shall be guilty of a misdemeanor, and on conviction be liable to imprisonment, with or without hard labour, for a term not exceeding one year, or to a fine, or to both imprisonment and a fine.
 
@@ -10408,7 +10406,7 @@ Act.
 
 7. — (1.) A prosecution for an offence against this Act shall not Restriction on be instituted except by or with the consent of the Attorney- prosecution. General.
 
-(2.) In this section the expression “ Attorney-General ” means the Attorney or Solicitor General for England; and as respects Scotland, means the Lord Advocate ; and as respects Ireland, means the Attorney or Solicitor General for Ireland ; and if the prosecution is instituted in any court out of the United Kingdom, means the person who in that court is Attorney-General, or exercises the like functions as the Attorney-General in England.
+(2.) In this section the expression “ Attorney-General ” means the Attorney or Solicitor General for England; and as respects Scotland, means the Lord Advocate; and as respects Ireland, means the Attorney or Solicitor General for Ireland; and if the prosecution is instituted in any court out of the United Kingdom, means the person who in that court is Attorney-General, or exercises the like functions as the Attorney-General in England.
 
 8. In this Act, unless the context otherwise requires — Interpretations.
 
@@ -10792,7 +10790,7 @@ Powers of the University Court.
 
 (2.) To review any decision of the Senatus Academicus on a matter within its competency which may be appealed against by a member of the Senatus, or other member of the University having an interest in the decision, within such time as may be fixed by the Commissioners, and to take into consideration all representations and reports made to it by the Senatus Academicus and by the general council:
 
-(3.) To review, on representation made by any of its members, or by any member of the Senatus Academicus, within such time as may be fixed by the Commissioners, any decision which the Senatus Academicus may come to in the exercise of its powers under section seven, sub-section one: Provided always, that the University Court shall not review any decision of the Senatus Academicus in a matter of discipline, except upon appeal taken either by a member of the Senatus or by a member of the University directly affected by such decision: (4.) To appoint profes-ors whose chairs are, or may come to be, in the patronage of the University; to appoint examiners and lecturers ; and to grant recognition to the teaching of any college or individual teacher for the purposes of graduation, under any regulations on the subject laid down by the Commissioners, which regulations after the expiration of their
+(3.) To review, on representation made by any of its members, or by any member of the Senatus Academicus, within such time as may be fixed by the Commissioners, any decision which the Senatus Academicus may come to in the exercise of its powers under section seven, sub-section one: Provided always, that the University Court shall not review any decision of the Senatus Academicus in a matter of discipline, except upon appeal taken either by a member of the Senatus or by a member of the University directly affected by such decision: (4.) To appoint profes-ors whose chairs are, or may come to be, in the patronage of the University; to appoint examiners and lecturers; and to grant recognition to the teaching of any college or individual teacher for the purposes of graduation, under any regulations on the subject laid down by the Commissioners, which regulations after the expiration of their
 
 President of meetings of Courts.
 
@@ -10908,7 +10906,7 @@ Power8 of Commissioners.
 
 14. The Commissioners shall have power to call before them the principals, professors, University lecturers, assistants, recognised teachers, students, and examiners, or any other person employed in teaching or examining, or bearing office in or otherwise connected
 
-J889.
+1889.
 
 Universities (Scotland) Act, 1889.
 
@@ -10980,7 +10978,7 @@ Ch. 55.
 
 (7.) To regulate the salaries of principals, professors, lecturers, and assistants of professors and other University officers, to provide for the appointment of assistants, and to determine by whom the right of appointing assistants shall be exercised :
 
-(8.) To found new professorships, lectureships, or teaching fellowships where such a course seems desirable and where there are sufficient means for their endowment or support, either from the funds administered by the Commissioners or otherwise, and to determine iu what authority the patronage of such professorships, lectureships, or teaching fellowships shall be vested, and to make provision, if they think it expedient, for increasing the teaching power of any University whether by extra-mural teaching or otherwise ; and to make regulations under which University Courts may grant recognition to the teaching of any college or individual teacher for the purposes of graduation:
+(8.) To found new professorships, lectureships, or teaching fellowships where such a course seems desirable and where there are sufficient means for their endowment or support, either from the funds administered by the Commissioners or otherwise, and to determine iu what authority the patronage of such professorships, lectureships, or teaching fellowships shall be vested, and to make provision, if they think it expedient, for increasing the teaching power of any University whether by extra-mural teaching or otherwise; and to make regulations under which University Courts may grant recognition to the teaching of any college or individual teacher for the purposes of graduation:
 
 (9.) To lay down the conditions and the scale on which pensions may be granted to principals and professors appointed by the Crown after the sixth day of April one thousand eight hundred and eighty-two, and to all principals and professors to be appointed after the passing of this Act:
 
@@ -11084,7 +11082,7 @@ Ch, 55.
 
 after the commencement of the next ensuing session of Parliament, and shall thereafter be submitted for the approval of Her Majesty in Council, and if neither House of Parliament within twelve weeks, exclusive of any perio J of prorogation, after an ordinance or part of an ordinance has been laid before it, presents an address praying the Queen to withhold her assent from such ordinance or any part thereof, it shall be lawful for the Queen in Council by order to approve the same or any part thereof to which such address does not relate.
 
-(2.) It shall be lawful for the University Court, Senatus Acade-micus, or General Council of any University, or any governing body, and for the trustees or patron of any foundation, mortification, bursary, or endowment, or for any other person directly affected by any such ordinance, within one month after the last publication thereof in the Gazette to petition Her Majesty in Council to withhold Her approbation of the whole or any part thereof, and it shall be lawful for Her Majesty in Council to refer such petition to the Universities Committee, and to direct that they shall hear the petitioner or petitioners by themselves or by counsel, and report specially to Her Majesty in Council on the matter of the said petition ; and it shall be lawful for Her Majesty, by Order in Council, either to declare Her approbation of any such ordinance, in whole or in part, or to signify Her disapproval thereof, in whole or in part, and in case of such disapproval the Commissioners may proceed to frame other ordinances in respect of the matters to which such disapproval relates, subject to the like provisions and conditions as are herein-before enacted; and no such ordinance shall be effectual until it shall have been so published, laid before Parliament, and approved by Her Majesty in Council.
+(2.) It shall be lawful for the University Court, Senatus Acade-micus, or General Council of any University, or any governing body, and for the trustees or patron of any foundation, mortification, bursary, or endowment, or for any other person directly affected by any such ordinance, within one month after the last publication thereof in the Gazette to petition Her Majesty in Council to withhold Her approbation of the whole or any part thereof, and it shall be lawful for Her Majesty in Council to refer such petition to the Universities Committee, and to direct that they shall hear the petitioner or petitioners by themselves or by counsel, and report specially to Her Majesty in Council on the matter of the said petition; and it shall be lawful for Her Majesty, by Order in Council, either to declare Her approbation of any such ordinance, in whole or in part, or to signify Her disapproval thereof, in whole or in part, and in case of such disapproval the Commissioners may proceed to frame other ordinances in respect of the matters to which such disapproval relates, subject to the like provisions and conditions as are herein-before enacted; and no such ordinance shall be effectual until it shall have been so published, laid before Parliament, and approved by Her Majesty in Council.
 
 (3.) The costs of any petition under this section may be regulated by the Universities Committee.
 
@@ -11148,7 +11146,7 @@ The said sum shall be payable in equal quarterly instalments on the first day of
 
 to be applied and expended: Provided that —
 
-(1.) No one of the said Universities shall receive a smaller sum No University than the average amount of public moneys exclusive of to receive less building and other special grants which such University has lt ert0* received during the five years preceding the commencement of this Act; and the University of Glasgow shall, in addition to the average amount so received by it, receive an annual sum of five hundred pounds for the maintenance of the Uoiversity buildings; and the University of Aberdeen shall in addition to the average amount so received by it receive an annual sum of three hundred and twenty pounds for the purchase of books for the library of the University ; and
+(1.) No one of the said Universities shall receive a smaller sum No University than the average amount of public moneys exclusive of to receive less building and other special grants which such University has lt ert0* received during the five years preceding the commencement of this Act; and the University of Glasgow shall, in addition to the average amount so received by it, receive an annual sum of five hundred pounds for the maintenance of the Uoiversity buildings; and the University of Aberdeen shall in addition to the average amount so received by it receive an annual sum of three hundred and twenty pounds for the purchase of books for the library of the University; and
 
 (2.) No portion of the said annual sum shall be appropriated to Theological any chair in the faculty of Theology beyond the sum, if any, ®kajre not which has been, within the twelve months preceding the com- 0utfto?grant. mencement of this Act, granted for the endowment of such chair out of public moneys, but this restriction shall not apply to the chair or chairs of Hebrew or Oriental languages which may now or hereafter be attached to the faculty of theology.
 
@@ -11624,7 +11622,7 @@ Preferential Payments in 52 & 53 Vict.
 
 (Ireland) Act, 1889.
 
-(6.) All wages or salary of any clerk or servant of the bankrupt or the company in respect of services rendered to the bankrupt or the company during four months before the date of the order of adjudication, or the commencement of the winding up, as the case may be, not exceeding fifty pounds ; and
+(6.) All wages or salary of any clerk or servant of the bankrupt or the company in respect of services rendered to the bankrupt or the company during four months before the date of the order of adjudication, or the commencement of the winding up, as the case may be, not exceeding fifty pounds; and
 
 (c.) All wages of any labourer or workman of the bankrupt or the company not exceeding twenty-five pounds, whether payable for time or for piece work, in respect of services rendered to the bankrupt or the company during two months before the date of the order of adjudication or the commencement of the - winding up, as the case may be: Provided that where any labourer in husbandry has entered into a contract for the payment of a portion of his wages in a lump sum at the end of the year of hiring, he shall have priority in respect of the whole of such sum, or such part thereof as the Court may decide to be due under the contract, proportionate to the time of service up to the date of the order of adjudication or the commencement of the winding up, as the case may be.
 
@@ -11662,7 +11660,7 @@ session of the twenty-eighth and twenty-ninth years of the reign 28 & 29 vicL of
 
 7. — (1.) The Judges of the Court of Bankruptcy in Ireland as General orders regards the said Court may, at any time after the passing of this m bankruPtc3'-Act, and from time to time, make such general orders as they may
 
-think fit in respect of the proof and payment, in bankruptcy and arrangement matters, of the debts to which priority is given by this Act, and generally for the effectual execution of this Act and of, the objects thereof so far as relates to such matters, and may from time to time alter or revoke such orders ; but all such orders shall be made with the approval and subject to the conditions mentioned in section one hundred and twenty-four of the Bankruptcy 35 & 36 Vict. (Ireland) Amendment Act, 1872.
+think fit in respect of the proof and payment, in bankruptcy and arrangement matters, of the debts to which priority is given by this Act, and generally for the effectual execution of this Act and of, the objects thereof so far as relates to such matters, and may from time to time alter or revoke such orders; but all such orders shall be made with the approval and subject to the conditions mentioned in section one hundred and twenty-four of the Bankruptcy 35 & 36 Vict. (Ireland) Amendment Act, 1872.
 
 (2.) The Lord Lieutenant of Ireland, as regards the local courts of bankruptcy, by Order in Council may, at any time after the passing of this Act and from time to time, make orders in respect of the matters and for the purposes aforesaid, and may from time to time alter or revoke such orders; but all such orders shall be made subject to the conditions mentioned in section eighteen of the Local Bankruptcy (Ireland) Act, 1888.
 
@@ -11800,7 +11798,7 @@ Provided always, that the money to be raised and the consolidated stock to be cr
 
 (tZ.) For the purposes of the Metropolitan Bridges Act, 1881, and 44 & 45 Vict. the Metropolitan Board of Works (Bridges) Act, 1884, seven- J*7cxcj^ yJct teen thousand pounds, provided that the money expended by Ct Ccxxviii! the Council under the authority of this sub-section shall not, together with all money previously expended by the Board and the Council for the said purposes, exceed seven hundred and ninety-one thousand pounds;
 
-(e.) For the purposes of the Thames Tunnel (Blackwall) Acts, 50&5i Vict. 1887 and 1888, three hundred and thirteen thousand pounds ; Vict
+(e.) For the purposes of the Thames Tunnel (Blackwall) Acts, 50&5i Vict. 1887 and 1888, three hundred and thirteen thousand pounds; Vict
 
 (f.) For the purposes of the Thames River (Prevention of Floods) c. lvii. * Act, 1879, one thousand pounds, and such further sum as the 42 & 48 Vict Treasury may approve; c' cxcvm*
 
@@ -11926,7 +11924,7 @@ Money borrowed from and lent by the Council under this section may, notwithstand
 
 Provided that the time after the borrowing within which such money shall be repaid to the Council shall not exceed, in the case of a loan for the purchase of freehold land, sixty years, and for any other purpose thirty years.
 
-13. The Council may from time to time, during the year ending the thirty-first day of December one thousand eight hundred and ninety, lend to the Vestry of Saint Pancras, and the Vestry of Saint Pancras may borrow from the Council for the purposes authorised by the Saint Pancras Loans Amendment Act, 1887, such money as the Council think fit, and as the Vestry of Saint Pancras are authorised and desire to borrow ; provided that the money lent by the Council and borrowed by the Vestry of Saint Pancras under this section shall not, together with all money previously lent by the Council and borrowed by the Vestry of Saint Pancras for the said purposes, exceed one hundred and ten thousand pounds.
+13. The Council may from time to time, during the year ending the thirty-first day of December one thousand eight hundred and ninety, lend to the Vestry of Saint Pancras, and the Vestry of Saint Pancras may borrow from the Council for the purposes authorised by the Saint Pancras Loans Amendment Act, 1887, such money as the Council think fit, and as the Vestry of Saint Pancras are authorised and desire to borrow; provided that the money lent by the Council and borrowed by the Vestry of Saint Pancras under this section shall not, together with all money previously lent by the Council and borrowed by the Vestry of Saint Pancras for the said purposes, exceed one hundred and ten thousand pounds.
 
 Money may be borrowed from and lent by the Council under this section in addition to any money borrowed from or lent by the Council under section nine, and may be made repayable either in one sum or by instalments as the Council and the Vestry of Saint Pancras shall agree, and in either case shall be repaid to the Council with interest within such time after the lending, not exceeding fifty years, as the Council and the Vestry of Saint Pancras, with the approval of the Treasury, shall agree.
 
@@ -13304,7 +13302,7 @@ w future Acts. men^ of this Act repeals and re-enacts, with or without modificat
 
 (c.) affect any right, privilege, obligation, or liability acquired, accrued, or incurred under any enactment so repealed; or (cl.) affect any penalty, forfeiture, or punishment incurred in respect of any offence committed against any enactment so repealed; or
 
-(e.) affect any investigation,' legal proceeding, or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture, or punishment as aforesaid ; and any such investigation, legal proceeding, or remedy may be instituted, continued, or enforced, and any such penalty, forfeiture, or punishment maybe imposed, as if the repealing Act had not been passed.
+(e.) affect any investigation,' legal proceeding, or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture, or punishment as aforesaid; and any such investigation, legal proceeding, or remedy may be instituted, continued, or enforced, and any such penalty, forfeiture, or punishment maybe imposed, as if the repealing Act had not been passed.
 
 Supplemental.
 
@@ -13426,7 +13424,7 @@ CHAPTER 66.
 
 An Act to facilitate the Construction of Light Railways in Ireland. [30th August 1889.]
 
-EE it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
 1. This Act may be cited for all purposes as the Light Railways Short title. (Ireland) Act, 1889.
 
@@ -13748,7 +13746,7 @@ Ch. 68. Merchant Shipping (Pilotage) ,1889. 52 & 53 VICT.
 
 2. — (1.) The Board of Trade may from time to time, by provisional order —
 
-(a) make provision or further provision for the direct representation of pilots and, if it seems Expedient, also of shipowners, on the pilotage authority of any district, or if there is a pilotage committee of that authority, or any body of commissioners or sub-commissioners appointed by that authority, then on that committee or body ; and
+(a) make provision or further provision for the direct representation of pilots and, if it seems Expedient, also of shipowners, on the pilotage authority of any district, or if there is a pilotage committee of that authority, or any body of commissioners or sub-commissioners appointed by that authority, then on that committee or body; and
 
 (b) extend the limits of any pilotage district by including therein any area in the United Kingdom in which there is no pilotage authority, so, however, that in the area so included there shall be no compulsory pilotage and no restriction on the power of duly qualified persons to obtain licences as pilots.
 
@@ -13906,7 +13904,7 @@ Be it therefore enacted by the Queen's most Excellent Majesty, by and with the a
 
 (a) be liable to be imprisoned for any period not exceeding two years, with or without hard labour, or to pay a fine not exceeding five hundred pounds, or to both such imprisonment and such fine; and (b) in addition be liable to be ordered to pay to such body, and in such manner as the court directs, the amount or value of any gift, loan, fee, or reward received by him or any part thereof; and
 
-(c) be liable to be adjudged incapable of being elected or appointed to any public office for seven years from the date of his conviction, and to forfeit any such office held by him at the time of his conviction ; and (d) in the event of a second conviction for a like offence he shall, in addition to the foregoing penalties, be liable to be adjudged to be for ever incapable of holding any public office, and t > be incapable for seven years of being registered as an
+(c) be liable to be adjudged incapable of being elected or appointed to any public office for seven years from the date of his conviction, and to forfeit any such office held by him at the time of his conviction; and (d) in the event of a second conviction for a like offence he shall, in addition to the foregoing penalties, be liable to be adjudged to be for ever incapable of holding any public office, and t > be incapable for seven years of being registered as an
 
 1889.
 
@@ -14748,7 +14746,7 @@ For salaries and expenses of the department of Her Majesty's Paymaster General i
 
 For salaries and expenses of the department of the Registrar General of Births, Ac. in England
 
-For stationery, printing, and paper, binding, and printed books, for the public departments and for the two Houses of Parliament; for the salaries and expenses of the Establishment of the Stationery Office, and the cost of Stationery Office publications, and of the Gazette Offices ; and for sundry miscellaneous services, including the publication of Parliamentary Debates % - .
+For stationery, printing, and paper, binding, and printed books, for the public departments and for the two Houses of Parliament; for the salaries and expenses of the Establishment of the Stationery Office, and the cost of Stationery Office publications, and of the Gazette Offices; and for sundry miscellaneous services, including the publication of Parliamentary Debates % - .
 
 For salaries and expenses of the office of Woods, Forests, and Land Revenues, and of the office of Land Revenue Records and Inrolments - For salaries and expenses of the office of the Commissioners of Her Majesty's Works and Publio Buildings In aid of the Mercantile Marine Fund - For Her Majesty's foreign and other secret services - For the salaries and expenses of the office of Her Majesty's Secretary for Scotland and subordinate offices - For salaries and expenses of the department of the Queen's and Lord Treasurer's Remembrancer in Exchequer, Scotland, of certain officers in Scotland, and other charges formerly on the hereditary revenue - For salaries and expenses of the Fishery Board in Scotland, and for grants in aid of piers or quays For salaries and expenses of the Board of Lunacy in Scotland For salaries and expenses of the department of the Registrar General of Births, Ac. in Scotland - For salaries and expenses of the Board of Supervision for Relief of the Poor, and for expenses under the Public Health and Vaccination Acts, including certain grants in aid of local taxation in Scotland .....
 
@@ -15836,13 +15834,13 @@ Act, 1855, and that board shall appoint and pay a medical officer of health, and
 
 10. In this Act —
 
-The expression “ local authority ” means each of the following authorities ; that is to say, —
+The expression “ local authority ” means each of the following authorities; that is to say, —
 
 (a) the Commissioners of Sewers in the City of London;
 
 (b) the vestry under the Metropolis Management Act, 1855, of a parish in Schedule A, and the district board of a district in Schedule B to the Metropolis Management Act, 1855, as amended by the Metropolis Management Amendment Act, 1885, and the Metropolis Management (Battersea and Westminster) Act, 1887;
 
-(c) an urban or rural sanitary authority in England within the meaning of the Public Health Acts ; and
+(c) an urban or rural sanitary authority in England within the meaning of the Public Health Acts; and
 
 (d) the port sanitary authority of any port sanitary district in England.
 
@@ -16292,11 +16290,11 @@ XX2X.An Act to extend the time for tho purchase of land for and completion of th
 
 XXXI,An Act for amending the Memorandum of Association of the Tuscan Gas Company (Limited). (Tuscan Gas.)
 
-XXXii. An Act for authorising the Undertakers of the Navigation of the Rivers of Aire and Calder, in the West Riding of the County of York, to construct certain Works and acquire ' Lands in the County of York, in connexion with their undertaking ; for abandoning certain Railways and stopping up a portion of St. John Street, in Goole; for confirming certain agreements; for amending and enlarging the Acts relating to the Undertakers and for conferring further powers upon them; and for other purposes. (Aire and Calder TTrili. An Act for amalgamating the Llanelly Railway and Dock Company with the Great Western Railway Company. -(Great Western Railway and Llanelly Railway and Dock Companies Amalgamation.)
+XXXii. An Act for authorising the Undertakers of the Navigation of the Rivers of Aire and Calder, in the West Riding of the County of York, to construct certain Works and acquire ' Lands in the County of York, in connexion with their undertaking; for abandoning certain Railways and stopping up a portion of St. John Street, in Goole; for confirming certain agreements; for amending and enlarging the Acts relating to the Undertakers and for conferring further powers upon them; and for other purposes. (Aire and Calder TTrili. An Act for amalgamating the Llanelly Railway and Dock Company with the Great Western Railway Company. -(Great Western Railway and Llanelly Railway and Dock Companies Amalgamation.)
 
 XXXiv. An Act to extend the borough of Grimsby; and for other purposes. (Grimsby Extension and Improvement.)
 
-XXXV An Act to amend, vary, and extend the powers of the Northern Assurance Company. (Northern Assurance.) XXXVi.An Act for the granting of further powers to the Newcastle and Gateshead Water Company ; and for other purposes. (Newcastle and Gateshead Waterworks.)
+XXXV An Act to amend, vary, and extend the powers of the Northern Assurance Company. (Northern Assurance.) XXXVi.An Act for the granting of further powers to the Newcastle and Gateshead Water Company; and for other purposes. (Newcastle and Gateshead Waterworks.)
 
 XXXViL An Act to vest the Cork Corn Market and the control and management thereof in the Corporation of the city of Cork to provide for the use of the market buildings as municipal offices and for other purposes. (Cork Com Market.) TTTviii. An Act for amalgamating the Cornwall Railway Company with the Great Western Railway Company. (Great Western and Cornwall Railujay Companies XXXIX. An Act to confer Additional Powers upon the Midland Railway Company for the construction of works and the acquisition of lands for raising further capital for vesting in that Company and the Great Northern Railway Company certain powers and a portion of the Undertaking of the Eastern and Midlands Railway Company and for outer purposes. (Midland Railway.)
 
@@ -16384,9 +16382,9 @@ lxxiV. An Act for conferring further powers on the Lancashire and Yorkshire Rail
 
 ( Lancashire and Yorkshire Rai
 
-lxxv. An Act to amend the Liverpool Corporation Loans Act, 1880 ; to confer further powers on the Corporation of Liverpool with respect to Markets and Public Libraries within the city; to make further Police and Building Regulations; and for other purposes relating to the Local Government of the city of Liverpool. (Liverpool Corporation.)
+lxxv. An Act to amend the Liverpool Corporation Loans Act, 1880; to confer further powers on the Corporation of Liverpool with respect to Markets and Public Libraries within the city; to make further Police and Building Regulations; and for other purposes relating to the Local Government of the city of Liverpool. (Liverpool Corporation.)
 
-Ittvi. An Act to extend the time for completing the main line of the Stratford-upon-Avon Towcestor and Midland Junction Railway; to abandon certain branch railways ; and for other purposes. (Stratford-upon-Avon, Towcester, and Midland Junction Railway.)
+Ittvi. An Act to extend the time for completing the main line of the Stratford-upon-Avon Towcestor and Midland Junction Railway; to abandon certain branch railways; and for other purposes. (Stratford-upon-Avon, Towcester, and Midland Junction Railway.)
 
 Royal Assent, 26th July 1889.
 
@@ -16516,7 +16514,7 @@ CXXViii. An Act for incorporating and confening powers on the Woodhall Spa Gas a
 
 (Oas and Water).)
 
-cxxix. An Act to authorise the Right Honourable the Lord Mayor, Aldermen and Burgesses of Dublin to consolidate their Loans and create Corporation Stock ; and for other purposes. (Dublin Corporation Loans.)
+cxxix. An Act to authorise the Right Honourable the Lord Mayor, Aldermen and Burgesses of Dublin to consolidate their Loans and create Corporation Stock; and for other purposes. (Dublin Corporation Loans.)
 
 CXXX. An Act for dissolving the Rastrick Waterworks Company Limited for re-incorporating the Proprietors therein with others and for conferring Powers on the Company so to be incorporated and for other purposes. (Rastrick Waterworks.)
 
@@ -16532,7 +16530,7 @@ Local Acts.
 
 ftTrriii. An Act to authorise the transfer of certain portions of the Undertaking of the Wirral Railway Company to the Manchester Sheffield and Lincolnshire and the Wrexham Mold and Connah's Quay Railway Companies and for other purposes. (Wirral Railway Transfer.) cxxxiv. An Act to incorporate the West Highland Railway Company and to empower them to construct Railways in the counties of Dumbarton Perth Argyll and Inverness and for other purposes. ( West Highland Railway)
 
-OZZZ7. An Act to authorise Agreements between the Bany Dock and Railways Company Alexandra (Newport aDd South Wales) Docks and Railway Company Brecon and Merthyr Tydfil Junction Neath and Brecon Pontypridd Caerphilly and Newport Swansea and Mumbles Cambrian Wrexham and Ellesmere Wrexham Mold and Connah's Quay Manchester Sheffield and Lincolnshire Cheshire Lines Committee Wirral Seacombe Hoylake and Deeside Mersey Liverpool Southport and Preston J unction Southport and Cheshire Lines Extension West Lancashire and Blackpool Railway Companies or some of them for the purpose of Through Traffic . authorise the appointment of a Joint Committee ; and for other purposes. (Welsh Railways Through Traffic)
+OZZZ7. An Act to authorise Agreements between the Bany Dock and Railways Company Alexandra (Newport aDd South Wales) Docks and Railway Company Brecon and Merthyr Tydfil Junction Neath and Brecon Pontypridd Caerphilly and Newport Swansea and Mumbles Cambrian Wrexham and Ellesmere Wrexham Mold and Connah's Quay Manchester Sheffield and Lincolnshire Cheshire Lines Committee Wirral Seacombe Hoylake and Deeside Mersey Liverpool Southport and Preston J unction Southport and Cheshire Lines Extension West Lancashire and Blackpool Railway Companies or some of them for the purpose of Through Traffic . authorise the appointment of a Joint Committee; and for other purposes. (Welsh Railways Through Traffic)
 
 OZZXVL An Act to authorise the Mayor Aldermen and Burgesses of the Borough of Taunton to consolidate their Loans and create Debenture Stock; and for other purposes. (Taunton Corporation)
 
@@ -16610,7 +16608,7 @@ clxv. An Act for altering the gauge of the Chesham Boxmoor and Hemel Hempsted St
 
 Boxmoor, and Hemel Hempsted
 
-clxvi. An Act for making a tunnel under the River Clyde at Glasgow ; and for other purposes. (Glasgow Harbour Tunnel.)
+clxvi. An Act for making a tunnel under the River Clyde at Glasgow; and for other purposes. (Glasgow Harbour Tunnel.)
 
 ClxviL An Act for vesting Great Torrington Common Castle Hill Common and other lands in the borough of Great Torrington in the county of Devon in a body of Conservators and to settle questions between the commoners of Great Torrington and the owners of the Rolle Estate; and for other purposes. (Great Torrington Commons.)
 
@@ -16682,7 +16680,7 @@ CXC. An Act to provide for an improved Water Communication between Sheffield Rot
 
 CXCi. An Act to incorporate the South Staffordshire Tramways Company; and for other purposes. (South Staffoi'dshire Tramways.)
 
-OXCii. An Act to authorise the Sutton Harbour Improvement Company to construct a Quay and Roadway and to establish and regulate a Fish-Market in connexion with their existing undertaking at the Harbour of Sutton Pool in the port of Plymouth and county of Devon; to facilitate the acquisition of lands from the Duchy of Cornwall; to revise and modernise the rates tolls and charges authorised to be taken by the Company ; to confer upon them additional money powers ; aud for other purposes. (Sutton Harbour.) cxciii. An Act for amalgamating with the Undertaking of the Taff Vale Railway Company the Undertakings of other companies leased to or worked by them; and for consolidating and re-arranging the Capital of the said Company; and fo.' other purposes. (Taff Vale Railway (Amalgamations and Capital).)
+OXCii. An Act to authorise the Sutton Harbour Improvement Company to construct a Quay and Roadway and to establish and regulate a Fish-Market in connexion with their existing undertaking at the Harbour of Sutton Pool in the port of Plymouth and county of Devon; to facilitate the acquisition of lands from the Duchy of Cornwall; to revise and modernise the rates tolls and charges authorised to be taken by the Company; to confer upon them additional money powers; aud for other purposes. (Sutton Harbour.) cxciii. An Act for amalgamating with the Undertaking of the Taff Vale Railway Company the Undertakings of other companies leased to or worked by them; and for consolidating and re-arranging the Capital of the said Company; and fo.' other purposes. (Taff Vale Railway (Amalgamations and Capital).)
 
 CXCiv. An Act for making a Railway from the Oyster mouth Railway or Tramroad to the Mumbles Head, with a Pier in connexion therewith, and for other purposes. (Mumbles Railway and Pier.)
 
@@ -17028,7 +17026,7 @@ c. 104 Merchant Shipping Ss. 21, 22 rep. in part 48, s. 1.
 
 Part V. applied to 68, ss. 1, 6, 7,
 
-foreign ships ; ss. 833, 837, 348, extended; ss. 843,363, repealed in part. 10, 11, 14. 78, s. 3.
+foreign ships; ss. 833, 837, 348, extended; ss. 843,363, repealed in part. 10, 11, 14. 78, s. 3.
 
 S. 105 amended -
 
@@ -17168,7 +17166,7 @@ c. 97 Stamp Duties - - S. 117 explained; Sch. “ Bill of Exchange ” am. 42, s
 
 c. 58 Bankruptcy (Ireland) S. 112 amended - 60, s. 5.
 
-c. 62 Education (Scotland) S. 53 amended ; s. 69 from “ and if unable ” rep. 50, ss. 87, 88.
+c. 62 Education (Scotland) S. 53 amended; s. 69 from “ and if unable ” rep. 50, ss. 87, 88.
 
 36 & 37 Vict c. 66 Supreme Court of Judicature - Ss. 56 in part, 57-59 rep. 49, 8. 26.
 
@@ -17236,7 +17234,7 @@ c. 34 Spirits - - Ss. 82 (2), 95 (8), am. - 42, s. 25.
 
 c. 12 Customs and Inland Revenue - Ss. 3,38 am. and extended S. 11 explained - 7, ss. 8,11. 42, s. 3.
 
-c. 58 Army Ss. 91,135, 146 amended ; s. 174 A. added. 3, ss. 4-7.
+c. 58 Army Ss. 91,135, 146 amended; s. 174 A. added. 3, ss. 4-7.
 
 45 k 46 Vict. c. 38 Settled Land - S. 48 subss. (l)-(5) rep. as to E. Amended 80, s. 13. 36.
 

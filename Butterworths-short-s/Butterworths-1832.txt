@@ -870,8 +870,6 @@ Records and Inrolments, and such Memorandum shall purport to be signed by the Ke
 
 same
 
-»
-
 2« GULIELMI IV. A.D. 1832.
 
 Deeds may be inrolled after the proper Period, upon good Cause being shown.
@@ -7454,7 +7452,7 @@ Bank of Ireland to open a new Account
 
 in this present Parliament assembled, and by the Authority of the same, That it shall and may be lawful to and for the respective Grand Juries of the Counties of Cork and Kerry, on Application being made to them in Writing by the Commissioners of His Majesty's Woods, Forests, Land Revenues, Works, and Buildings, at any Assizes to present any Sum or Sums of Money to be raised for the Purposes of this Act, and to direct in such Presentments that such Sum or Sums of Money shall be raised and levied, either by One entire Assessment or by half-yearly Instalments of not less than Sixteen Pounds Thirteen Shillings and Four-pence on every Hundred Pounds so presented, and to set forth in such Presentments what Part thereof shall be raised upon any Barony or Baronies, or Half Barony or Half Baronies, or Parish or Parishes, in the said Counties, or on the said Counties at large respectively; and that the respective Treasurers of the said Counties shall and they are hereby authorized and required, from Time to Time, without further Authority or Presentment in that Behalf, to insert in their Warrants at each ensuing Assizes such Instalment or Instalments of the whole Sums so presented, until the same shall be fully raised and levied; and that the Sums inserted in such Warrants shall be raised and levied from and off the Baronies, Half Baronies, or Parishes named in such Presentments and Warrants respectively, or on the Counties at large respectively, in like Manner, from Time to Time, and with like Remedy in case of Nonpayment, as all other Money directed by any Warrant of such Treasurers respectively is by Law to be or may be levied.
 
-II. And be it enacted, That the respective Treasurers of the said Counties of Cork and Kerry shall pay or cause to be paid all such Sum or Suras of Money to be collected by or under the Authority of every such Presentment aforesaid, when and as the same shall be received, into the Bank of Ireland, to the Credit of the Account herein-after directed to be opened.
+II. And be it enacted, That the respective Treasurers of the said Counties of Cork and Kerry shall pay or cause to be paid all such Sum or Sums of Money to be collected by or under the Authority of every such Presentment aforesaid, when and as the same shall be received, into the Bank of Ireland, to the Credit of the Account herein-after directed to be opened.
 
 III. And be it enacted, That in respect of any Sum of Money paid into the said Bank of Ireland by the Treasurers of the Counties of Cork and Kerry respectively, in pursuance of this Act, a Certificate of the Payment and Receipt of such Sum or Sums, signed by any One of the Cashiers of the said Bank, (which Certificate is hereby required to be given without Fee or Reward,) shall be an effectual Discharge for the Money therein expressed to be received to the Treasurer of the County on whose Behalf or in whose Name the same shall have been so paid.
 
@@ -8438,7 +8436,7 @@ Cross Street, being coloured Yellow in the same Map or Plan, and the other of th
 
 4 comprehends and describes Great George Street, Little Bridge Street, the Portion of the Street leading from Great George Street to Saint Margarets Churchyard, in the same Map or Plan *' respectively coloured Pink; all which said Streets and Places respectively comprehended and described in the said Map 4 numbered IX., and marked with the Colour Pink, are, as to .4 the paving, lighting, cleansing, watering, and regulating thereof,
 
-4 and the Carriageways of Cockspur Street and Charing Cross Street coloured Yellow in the said Map numbered VIII. are, as to the paving, repairing, watering, cleansing, and regulating thereof, intended to be by this Act placed under the Charge and Management of the said Commissioners acting in the Execution of the said Acts of the Fifth, Sixth, and Ninth Years of the Reign of His late Majesty, the Intent and Meaning of this Act being, that the Footways of Cockspur Street and Charing Cross Street\ on both Sides of such Streets, including the whole Footway from Buckingham Court to Pall MaU, shall remain under the Charge and Management of the Committee under whose Charge and Management the same now are;' be it therefore enacted, That the said Plans numbered VIII. and IX. respectively, after the same shall have been severally authenticated by the Signature of the Right Honourable the Speaker of the House of Commons, shall be deposited with and remain in the Custody of the Commissioners of His Majesty's Woods,
+4 and the Carriageways of Cockspur Street and Charing Cross Street coloured Yellow in the said Map numbered VIII. are, as to the paving, repairing, watering, cleansing, and regulating thereof, intended to be by this Act placed under the Charge and Management of the said Commissioners acting in the Execution of the said Acts of the Fifth, Sixth, and Ninth Years of the Reign of His late Majesty, the Intent and Meaning of this Act being, that the Footways of Cockspur Street and Charing Cross Street\ on both Sides of such Streets, including the whole Footway from Buckingham Court to Pall Mall, shall remain under the Charge and Management of the Committee under whose Charge and Management the same now are;' be it therefore enacted, That the said Plans numbered VIII. and IX. respectively, after the same shall have been severally authenticated by the Signature of the Right Honourable the Speaker of the House of Commons, shall be deposited with and remain in the Custody of the Commissioners of His Majesty's Woods,
 
 Forests, Land Revenues, Works, and Buildings; and One Copy
 
@@ -10658,7 +10656,7 @@ Durham The Parish of Bedling-") ton or Bedlington- V shire - - -J Northum- *) be
 
 Durham -1 The Parish of Craike f or Craikeshire - | North Rid-"| ingofYork- > shire - -J North Riding of Yorkshire.
 
-Gloucester-shire - / Minety Parish Wiltshire - j Wiltshire, Northern Division.
+Gloucestershire - / Minety Parish Wiltshire - j Wiltshire, Northern Division.
 
 Gloucestershire - / Widford Parish - Oxfordshire Oxfordshire.
 
@@ -11102,7 +11100,7 @@ Eastern Division
 
 Western Division
 
-ivision <
+ivision
 
 Eastern Division -<
 
@@ -11110,9 +11108,9 @@ Western Division
 
 Northern Division.
 
-Southern Division <
+Southern Division
 
-Northern Division <
+Northern Division
 
 Southern Divisions
 
@@ -11246,7 +11244,7 @@ Gloucestershire
 
 Hampshire
 
-Western Division <
+Western Division
 
 Northern Division^
 
@@ -11436,7 +11434,7 @@ Lancashire
 
 Northern Division*.
 
-Southern Division <
+Southern Division
 
 Lancaster.
 
@@ -11582,7 +11580,7 @@ Shropshire
 
 Northern Division^
 
-Southern Division <
+Southern Division
 
 Oxford.
 
@@ -11804,9 +11802,9 @@ ivision
 
 Western Division
 
-North Riding - <
+North Riding -
 
-East Riding - <
+East Riding -
 
 West Riding - *<
 
@@ -16518,7 +16516,7 @@ Cloves, imported from any British Possession in
 
 Asia, Africa, or America - - the lb. 0 2 0
 
-Cobalt ----- the Cwt. 0 1 0
+Cobalt ---- the Cwt. 0 1 0
 
 Cocoa Nuts - - the lb. 0 0 6
 
@@ -16552,9 +16550,9 @@ other Act - the Cwt. 0 10 0
 
 Euphorbium - - the Cwt. 0 6 0
 
-Galls ----- - the Cwt- 0 2 0
+Galls ---- - the Cwt- 0 2 0
 
-Gamboge ----- the Cwt. 0 4 0
+Gamboge ---- the Cwt. 0 4 0
 
 Gentian - - - - - the Cwt. 0 4 0
 
@@ -16604,7 +16602,7 @@ Leaves of Roses ... the lb. 0 0 2
 
 Live Creatures, illustrative of Natural History - Free.
 
-Maccaroni ----- the lb. Mahogany, viz1. imported from any British Possession 0 0 2
+Maccaroni ---- the lb. Mahogany, viz1. imported from any British Possession 0 0 2
 
 the Ton imported from the Bay of Honduras, in a British Ship cleared out from 4 0 0
 
@@ -16614,7 +16612,7 @@ Manganese Ore - - the Ton 0 10 0
 
 Manna - - the lb. 0 0 3
 
-Mastic ----- the Cwt. 0 6 0
+Mastic ---- the Cwt. 0 6 0
 
 Medlers - - the Bushel Moss, viz1. 0 1 0
 
@@ -21374,7 +21372,7 @@ and a proper Person to be confined.
 
 (Signed)
 
-Name - -----
+Name - ----
 
 Physician, Surgeon, or Apothecary __________
 
@@ -21392,7 +21390,7 @@ is of unsound Mind, and a proper Person to be confined.
 
 (Signed)
 
-Name - -----
+Name - ----
 
 Physician, Surgeon, or Apothecary __________
 
@@ -26628,7 +26626,7 @@ Commissioners empowered to transfer Jurisdictions from one Hundred or Division t
 
 II. And be it further enacted, That all the Powers, Authorities, Provisions, Matters, and Things contained in the said recited Act passed in the Seventh and Eighth Years of the Reign of His late Majesty King George the Fourth and in any other Act in force, in relation to any Acts, Matters, and Things to be done by Commissioners of Land Tax, shall extend to this Act and to the Commissioners named therein, and shall be construed therewith, as fully and effectually to all Intents and Purposes whatsoever as if the same had been severally and separately repeated and reenacted in this Act, and made Part hereof.
 
-III. ' And whereas Doubts have arisen whether the Commis- sioners acting in the Execution of the Acts relating to the c Land Tax for any County, Shire, or Riding are authorized by the said Acts to alter the Jurisdiction of any Parish, Tything, ' Township, Hamlet, or Place, for the Purposes of the said Act, ' by transferring any One or more thereof from one Division to * another of the same County, as Occasion shall require, with a 6 view to the more convenient Execution of the said Acts; and ' it is expedient to remove such Doubts:' Be it enacted and declared, That it shall and may be lawful for the Commissioners, at a General Meeting or Meetings for any County, Riding, or Shire, required and authorized by the said Acts to be held for the Purposes therein mentioned on or before the Thirtieth Day of April in any Year, if and as they shall see fit (subject as herein provided), to transfer the Jurisdiction of any Parish, Township, Hamlet, Tything, or Place from the Hundred or Division of which the same now forms a Part, together with the Quotas payable by them respectively at the Time of such Transfer, to any adjoining or other Division of the same County; and provided every such Alteration respectively shall be certified in Writing, under the Hands of the Majority of the Commissioners present at such General Meeting, to His Majesty's Commissioners for the Affairs of Taxes, and provided the same shall be approved of by the Lords Commissioners of His Majesty's Treasury for the Time being, to be certified to the Commissioners of the respective Divisions, together with the Quotas to be assessed and levied on the Parishes, Townships, Tythings, Hamlets, or Places transferred, under the Hands of the said Commissioners for the Affairs of Taxes, or any Two of them, but not otherwise, then and in that Case such Alteration shall be of binding Force and Effect; and the Commissioners whose respective Districts or Divisions shall be altered, varied, or extended by such Certificate shall have full Jurisdiction and Controul in, over, and throughout the several transferred Parishes, Townships, Tythings, Hamlets, or Places as aforesaid, and shall and may execute all the Powers and Provisions of the Acts relating to the Land Tax, and of the Acts relating to the Duties of Assessed Taxes, in assessing, charging, raising, and
+III. ' And whereas Doubts have arisen whether the Commissioners acting in the Execution of the Acts relating to the c Land Tax for any County, Shire, or Riding are authorized by the said Acts to alter the Jurisdiction of any Parish, Tything, ' Township, Hamlet, or Place, for the Purposes of the said Act, ' by transferring any One or more thereof from one Division to * another of the same County, as Occasion shall require, with a 6 view to the more convenient Execution of the said Acts; and ' it is expedient to remove such Doubts:' Be it enacted and declared, That it shall and may be lawful for the Commissioners, at a General Meeting or Meetings for any County, Riding, or Shire, required and authorized by the said Acts to be held for the Purposes therein mentioned on or before the Thirtieth Day of April in any Year, if and as they shall see fit (subject as herein provided), to transfer the Jurisdiction of any Parish, Township, Hamlet, Tything, or Place from the Hundred or Division of which the same now forms a Part, together with the Quotas payable by them respectively at the Time of such Transfer, to any adjoining or other Division of the same County; and provided every such Alteration respectively shall be certified in Writing, under the Hands of the Majority of the Commissioners present at such General Meeting, to His Majesty's Commissioners for the Affairs of Taxes, and provided the same shall be approved of by the Lords Commissioners of His Majesty's Treasury for the Time being, to be certified to the Commissioners of the respective Divisions, together with the Quotas to be assessed and levied on the Parishes, Townships, Tythings, Hamlets, or Places transferred, under the Hands of the said Commissioners for the Affairs of Taxes, or any Two of them, but not otherwise, then and in that Case such Alteration shall be of binding Force and Effect; and the Commissioners whose respective Districts or Divisions shall be altered, varied, or extended by such Certificate shall have full Jurisdiction and Controul in, over, and throughout the several transferred Parishes, Townships, Tythings, Hamlets, or Places as aforesaid, and shall and may execute all the Powers and Provisions of the Acts relating to the Land Tax, and of the Acts relating to the Duties of Assessed Taxes, in assessing, charging, raising, and
 
 5 enforcing
 
