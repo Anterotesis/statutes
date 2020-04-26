@@ -360,7 +360,7 @@ Finance (No. 2) Act, 1915, to have been caused by any order, regulation, or dire
 
 (2) Coal levy shall be assessed and collected by the Commissioners of Inland Revenue, in like manner as excess profits-duty is assessed and collected, and the provisions (including the provisions as to appeals and deposits) of the Finance Act, shall apply accordingly, and the provisions of that Act as to appeals shall apply to amounts of profits and standards, notwithstanding that there may be no liability to excess profits duty or coal levy.
 
-(3) Where under an assessment made before the passing of this Act any sums have been or are paid as excess profits duty* and the sums so paid are, owing to the operation of this Act, in excess of the liability to such duty without taking into account any adjustment levy or adjustment award which may become payable under this Act, the excess shall, pending the final ascertainment of the liability to excess profits duty, be treated as a. payment on account of coal levy payable in respect of the accounting period to which the assessment relates, and any sum deposited for the purpose of satisfying excess profits duty or coal mines excess payments shall, if and in so far as such sum has not been applied in payment of excess profits duty or coal mines excess payments, be regarded as deposited for the purpose •of satisfying coal levy except to the extent to which such balance of the sum so deposited exceeds the liability to coal levy.
+(3) Where under an assessment made before the passing of this Act any sums have been or are paid as excess profits duty* and the sums so paid are, owing to the operation of this Act, in excess of the liability to such duty without taking into account any adjustment levy or adjustment award which may become payable under this Act, the excess shall, pending the final ascertainment of the liability to excess profits duty, be treated as a. payment on account of coal levy payable in respect of the accounting period to which the assessment relates, and any sum deposited for the purpose of satisfying excess profits duty or coal mines excess payments shall, if and in so far as such sum has not been applied in payment of excess profits duty or coal mines excess payments, be regarded as deposited for the purpose of satisfying coal levy except to the extent to which such balance of the sum so deposited exceeds the liability to coal levy.
 
 [Definition of profits and standards.]
 
@@ -544,7 +544,7 @@ and profits of the coal-mining industry as a whole, and for the various district
 
 (2) Any person who may obtain any information which by virtue of this section is to be treated as confidential shall be required to make a declaration of secrecy in such form as may be prescribed by the Board of Trade, and, subject as aforesaid, any person who has made such a declaration shall, for the purposes of section eighty-nine of the Income Tax Act, 1918, and the declarations made thereunder, be treated in relation to the disclosure of information under the last preceding paragraph of this Act as if he was a person sworn to the due execution of the said Act.
 
-5. Where an undertaking is subject to the Coal Mines Control Agreement (Confirmation) Act, 1918, during part only of an accounting period, the profits standard or the special standard, as the case may require, and the guaranteed standard, and any other sums brought into account in calculating the sums retainable under clause 3 or payable under clause 4 of the said agreement, shall, for the purposes of applying that agreement to such part of such accounting period, be proportionately reduced, and the profits for that period shall be apportioned between the parts of the period before and after the date of the termination of the said agreement in proportion to the number of months or fractions of months in those parts, respectively.
+5. Where an undertaking is subject to the Coal Mines Control Agreement (Confirmation) Act, 1918, during part only of an accounting period, the profits standard or the special standard, as the case may require, and the guaranteed standard, and any other sums brought into account in calculating the sums retainable under clause 3 or payable under clause of the said agreement, shall, for the purposes of applying that agreement to such part of such accounting period, be proportionately reduced, and the profits for that period shall be apportioned between the parts of the period before and after the date of the termination of the said agreement in proportion to the number of months or fractions of months in those parts, respectively.
 
 CHAPTER 5.
 
@@ -686,7 +686,7 @@ Nature and Extent of Limitation.
 
 Limited to trustees engaged on war service as defined by the Act.
 
-{ Limited to applies-i tions made during the continuance of the present war or a period of six months thereafter.
+( Limited to applies-i tions made during the continuance of the present war or a period of six months thereafter.
 
 S. 1 limited to the continuance of the I present war.
 
@@ -744,11 +744,7 @@ To extend to cases where non-fulfilment of a contract is due to compliance on th
 
 To extend to contracts and agreements entered into during the period of twelve months after the termination of the present war as if in that section after the words “ during the present war ” there were inserted the words
 
-1920.
-
-War Emergency Laws {Continuance)
-
-Act, 1920.
+1920. War Emergency Laws (Continuance) Act, 1920.
 
 Ch. 5.
 
@@ -1066,8 +1062,6 @@ If a justice of the peace, including in Scotland the , sheriff, is satisfied on 
 
 Where the alleged offence is an offence under Regulation 18a and it appears to a superintendent of police or any person upon whom
 
-ooQle
-
 1920.
 
 War Emergency Laws (i )
@@ -1082,11 +1076,9 @@ Number of Regulation. Subject Matter. Limitations, Qualifications, and Modificat
 
 51—cont. ' the powers of a superintendent of police are for the purposes of this regulation conferred by a Secretary
 
-of State, or in Scotland by the Secretary for Scotland, that the case is one of great emergency, and that in the interest of the State imme-
+of State, or in Scotland by the Secretary for Scotland, that the case is one of great emergency, and that in the interest of the State immediate action is necessary, he may, by a written order under his hand, give to any constable the like authority as may be given by the warrant of a justice under this regulation.
 
-1 diate action is necessary, he may, by a written order under his hand, give to any constable the like authority as may be given by the warrant of a justice under this regulation.
-
-55 Powers of arrest As if, as res pec ts Great
+55 Powers of arrest As if, as respects Great
 
 , Britain, for that regulation.
 
@@ -1152,7 +1144,7 @@ Provided that, if an Address is presented to His Majesty by either House of Parl
 
 1920.
 
-Army and Air Force {Annual) , 1920. Ch. 7.
+Army and Air Force (Annual) , 1920. Ch. 7.
 
 29
 
@@ -1162,7 +1154,7 @@ An Act to provide, during Twelve Months, for the Discipline and Regulation of th
 
 [27th April 1920.]
 
-T)TT HEREAS the raising or keeping of a standing army within ’ * the United Kingdom of Great Britain and Ireland in time of peace, unless it be with'the consent of Parliament, is against law:
+WHEREAS the raising or keeping of a standing army within the United Kingdom of Great Britain and Ireland in time of peace, unless it be with the consent of Parliament, is against law:
 
 And whereas it is adjudged necessary by His Majesty and this present Parliament that a body of land forces should be continued for the safety of the United Kingdom and the defence of the possessions of His Majesty’s Crown, and that the whole number of such forces should consist of five hundred and twenty-five thousand, including those to be employed at the depots in the United Kingdom of Great Britain and Ireland for the training of recruits for service at home and abroad, but exclusive of th6 numbers actually serving within His Majesty’s Indian possessions:
 
@@ -1176,7 +1168,7 @@ And whereas no man can be forejudged of life or limb, or subjected in time of pe
 
 30
 
-Ch. 7. Army and Air Force {Annual) , 1920. 10 Geo. 5.
+Ch. 7. Army and Air Force (Annual) , 1920. 10 Geo. 5.
 
 persons belonging to the said forces who mutiny or stir up sedition, or desert His Majesty’s service, or are guilty of crimes and offences to the prejudice of good order and military or air-force discipline, be brought to a more exemplary and speedy punishment than the usual forms of the law will allow :
 
@@ -1310,7 +1302,7 @@ In paragraph (a) of subsection two, the words “ be reprimanded or severely rep
 
 1920.
 
-Army and Air Force {Annual) ,1920. Ch. 7.
+Army and Air Force (Annual) ,1920. Ch. 7.
 
 33
 
@@ -1356,7 +1348,7 @@ to the mitigation, remission, commutation, or suspension of sentences conferred 
 
 44 (9) In this section—
 
-The expression 4 superior military authority * means the Army Council and any general officer or colonel commandant whom the Army Council may appoint for the purpose, or the officer in chief command of any force employed on active service beyond the seas, and any general officer or colonel commandant whom he may appoint for that purpose;
+The expression superior military authority * means the Army Council and any general officer or colonel commandant whom the Army Council may appoint for the purpose, or the officer in chief command of any force employed on active service beyond the seas, and any general officer or colonel commandant whom he may appoint for that purpose;
 
 The expression ‘ competent military authority ’ means a superior military authority, or any general or other officer not below the rank of field officer duly authorised by a superior military authority.”
 
@@ -1366,15 +1358,15 @@ The expression ‘ competent military authority ’ means a superior military au
 
 44 (6) The rules as to the investigation of a charge may provide for a written summary of the evidence being taken on oath, and may empower a commanding officer or any officer, before whom he directs such summary to be taken, to administer oaths for that purpose ”.
 
-17. In section eighty-one of the Army Act (which relates to the power of a recruit to purchase his discharge), 44 twenty pounds ” shall be substituted for 44 ten pounds ”.
+17. In section eighty-one of the Army Act (which relates to the power of a recruit to purchase his discharge), 44 twenty pounds ” shall be substituted for ten pounds ”.
 
-18. In subsection (1) of section one hundred and four of the Army Act (which relates to the premises liable to billets) the words 44 inns or hotels (whether licensed or otherwise) ” shall be substituted for the words 44 inns, hotels ”.
+18. In subsection (1) of section one hundred and four of the Army Act (which relates to the premises liable to billets) the words inns or hotels (whether licensed or otherwise) ” shall be substituted for the words inns, hotels ”.
 
 19. Section one hundred and twenty-four of the Army Act (which relates to the right of a person tried by a court-martial to a copy of the proceedings) shall be amended as follows :—
 
-(1) After the words 44 finding and sentence of the court”
+(1) After the words finding and sentence of the court”
 
-there shall be inserted the words 44 or after his acquittal ”.
+there shall be inserted the words or after his acquittal ”.
 
 (2) The following proviso shall be added at the end of the
 
@@ -1384,7 +1376,7 @@ section:—
 
 1920.
 
-Army and Air Force {Annual) Act, 1920. Ch. 7.
+Army and Air Force (Annual) Act, 1920. Ch. 7.
 
 35
 
@@ -1400,7 +1392,7 @@ seven or three years, his next-of kin shall, within a period of twelve months af
 
 “ For the purposes of this paragraph, the expression ‘ barrack damage ’ means damage to or loss or destruction of any premises in which soldiers are quartered or billeted or any appurtenances, fixtures, furniture or effects therein or appertaining thereto, and the expression ‘ unit * includes any part of a unit: ” 22
 
-22. — (1) Subsection (2) of section one hundred and forty-five Amendment of the Army Act (which relates to the liability of a soldier to of *•146* maintain his wife and children) shall be amended as follows :—
+22. — (1) Subsection (2) of section one hundred and forty-five Amendment of the Army Act (which relates to the liability of a soldier to of *146* maintain his wife and children) shall be amended as follows :—
 
 The words from “ where the soldier is a Warrant Officer (Class I.) ” to the end of the subsection inclusive shall be omitted, and the following words shall be inserted instead thereof :—
 
@@ -1496,7 +1488,7 @@ Schedule to the Army and Air Force Acts, j Dinner as so specified - - * - -I Two
 
 38
 
-Ch. 7. Army and Air Force {Annual) Act, 1920. 10 Geo. 5.
+Ch. 7. Army and Air Force (Annual) Act, 1920. 10 Geo. 5.
 
 Section 4.
 
@@ -1506,7 +1498,7 @@ Accommodation to be provided.
 
 Maximum Price.
 
-Supper as so specified...........
+Supper as so specified ...........
 
 Where no meals furnished, lodging and attendance, and candles, vinegar, salt, and the use of fire, and the necessary utensils for dressing and eating his meat.
 
@@ -1660,7 +1652,7 @@ word occurs the second time. rank of squadron leader ”
 
 40
 
-Ch. 7. Army and Air Force {Annual) Act, 1920. 10 Geo. 6,
+Ch. 7. Army and Air Force (Annual) Act, 1920. 10 Geo. 6,
 
 Section of Act. Former Designation. Present Designation to be substituted.
 
@@ -1718,7 +1710,7 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 Provided that, where an owner has paid to an assessing authority any assessment in excess of the assessment for the preceding year which, owing to any change in the occupancy of a small dwelling-house, he is unable to recover as an addition to rent under this Act, the assessing authority, if satisfied that all reasonable steps have been taken to recover the same, shall repay to him the amount so paid and irrecoverable, upon a claim therefor being lodged by the owner with the assessing authority on or before a date to be fixed by the assessing authority giving particulars of any change of occupancy and the amount claimed as irrecoverable.
 
-(2) So much of the provisions of proviso (vi) to subsection (1) of section one of the Increase of Rent and Mortgage 6 & 6 Geo. 5. Interest (War Restrictions) Act, 1915 (as amended by sub- •97, section (3) of section five of the Increase of Rent and Mortgage 9 Geo. 5. c. 7. Interest (Restrictions) Act, 1919), as provides that no increase
+(2) So much of the provisions of proviso (vi) to subsection (1) of section one of the Increase of Rent and Mortgage 6 & 6 Geo. 5. Interest (War Restrictions) Act, 1915 (as amended by sub- 97, section (3) of section five of the Increase of Rent and Mortgage 9 Geo. 5. c. 7. Interest (Restrictions) Act, 1919), as provides that no increase
 
 D
 
@@ -1730,9 +1722,7 @@ Statement as to amount of occupier’s assessments.
 
 TenaJtiea.
 
-Interpreta-
-
-tion.
+Interpretation.
 
 1 & 2 Geo. 5. c. 53.
 
@@ -1782,8 +1772,6 @@ Provided that, if in any case, where the amount of money to be raised does not e
 
 D 2
 
-L^ooQle
-
 44 Ch. 9. Public Utility Companies ( 10 & 11 Geo. 5.
 
 Issues) Act, 1920.
@@ -1800,7 +1788,7 @@ Provided that—
 
 (iii) no consent given by a department in pursuance of
 
-this Act shall have effect until a report of the circumstances of the case has been presented to Parliament by the department and has lain upon the table of each House of Parliament for a period of not less than twenty* one days during • which the House has sat, and, if either House
+this Act shall have effect until a report of the circumstances of the case has been presented to Parliament by the department and has lain upon the table of each House of Parliament for a period of not less than twenty* one days during which the House has sat, and, if either House
 
 during that period presents an Address to His Majesty praying that consent may be withheld, no such consent shall be given; and
 
@@ -1880,7 +1868,9 @@ I
 
 CHAPTER 10.
 
-An Act to amend the Acts relating to National Health Insurance. [20th May 1920.]
+An Act to amend the Acts relating to National Health Insurance.
+
+[20th May 1920.]
 
 BE it enacted by the King’s most Excellent Majesty, by and 1^ with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
@@ -1934,7 +1924,7 @@ Sanatorium 4. — (1) Sanatorium benefit shall, except as regards Ireland,
 
 benefit dis- cease to be included among the benefits conferred by Part I. of
 
-continued , . - ° J
+continued , J
 
 except in the Act of 1911.
 
@@ -2154,9 +2144,9 @@ Part I.
 
 In Great Britain.
 
-In the case of men........................lOd. a week.
+In the case of men ........... lOd. a week.
 
-In the case of women.......................9d. a week.
+In the case of women ........... 9d. a week.
 
 Contributions by Employers and Employed Contributors. In Ordinary Cases.
 
@@ -2174,7 +2164,7 @@ In the case of employed contributors of either sex, of the age of eighteen or up
 
 (1) Where the rate of remuneration does not exceed 3s. a working day—
 
-To be paid by the employer -{j"
+To be paid by the employer -(j"
 
 (2) Where the rate of remuneration exceeds 3 exceed 4*. a working day—
 
@@ -2220,13 +2210,13 @@ In the case of employed contributors of either sex, of the age of eighteen or up
 
 (1) Where the rate of remuneration does not exceed 3*. a working day—
 
-To be paid by the employer ■ {& “6“en I £
+To be paid by the employer ■ (& “6“en I £
 
 (2) Where the rate of remuneration exceeds 3s. but does not exceed 4s. a working day—
 
 To be paid by the employer - - - 5d. a week.
 
-To be paid by the contributor-{“e“en [ [ £ *
+To be paid by the contributor-(“e“en [ [ £ *
 
 SECOND SCHEDULE.
 
@@ -2288,11 +2278,11 @@ Section 22(1)
 
 “ Three-sevenths ” shall be substituted for “ two-fifths.”
 
-After the word 44 benefit ” there shall be inserted the words 44 or conferring upon “ such persons the right to sanatorium " benefit,” and 44 one penny a week ” shall be substituted for 44 one halfpenny a week.”
+After the word benefit ” there shall be inserted the words or conferring upon “ such persons the right to sanatorium " benefit,” and one penny a week ” shall be substituted for one halfpenny a week.”
 
-44 Seven shillings and sixpence ” shall be substituted for 44 five shillings.”
+44 Seven shillings and sixpence ” shall be substituted for five shillings.”
 
-44 Ninepence,” 44 fivepence,” and 44 fourpence ” shall respectively be substituted for 44 sixpence,” 44 fourpence,” and 44 threepence.” The following paragraphs shall be substituted for paragraphs (o), (6), and (c):—
+44 Ninepence,” 44 fivepence,” and fourpence ” shall respectively be substituted for sixpence,” 44 fourpence,” and threepence.” The following paragraphs shall be substituted for paragraphs (o), (6), and (c):—
 
 44 (a) A rate not exceeding three - shillings a working day ” ;
 
@@ -2300,13 +2290,13 @@ After the word 44 benefit ” there shall be inserted the words 44 or conferring
 
 “ Fivepence halfpenny ” shall be substituted for “ fourpence.”
 
-The words 44 with the proper proportion of 44 the accumulations of interest on the 44 amount from time to time standing 44 to the credit of the fund ” shall be repealed.
+The words with the proper proportion of the accumulations of interest on the amount from time to time standing to the credit of the fund ” shall be repealed.
 
-44 Twopence ” shall be substituted for 44 one penny halfpenny.”
+44 Twopence ” shall be substituted for one penny halfpenny.”
 
-The words 44 until the thirtieth day of June or 44 the thirty-first day of December, which ever first occurs, next after the expira tion of a period of six months from the 44 date on which he ceases to be an 44 insured person ” shall be substituted for the words 44 until the termination of 44 the year in which he ceases to be an 44 insured person.”
+The words until the thirtieth day of June or the thirty-first day of December, which ever first occurs, next after the expira tion of a period of six months from the date on which he ceases to be an insured person ” shall be substituted for the words until the termination of the year in which he ceases to be an insured person.”
 
-For the words 44 sickness benefit at the rate 44 of five shillings a week for ” there shall be substituted the words 44 sickness benefit 44 or disablement benefit at the rate of 44 seven shillings and sixpence a week for 44 an aggregate of,” and the words 44 until 44 the thirtieth day of June or the thirty first day of December, whichever first 44 occurs, next after the expiration of a
+For the words sickness benefit at the rate of five shillings a week for ” there shall be substituted the words sickness benefit or disablement benefit at the rate of seven shillings and sixpence a week for an aggregate of,” and the words until 44 the thirtieth day of June or the thirty first day of December, whichever first occurs, next after the expiration of a
 
 F
 
@@ -2394,8 +2384,6 @@ The National Insurance (Part I. Amendment) Act,. 1917.
 
 E 2
 
-i^OOQLe
-
 GO
 
 Ch. 10, 11. National Health Insurance Act, 1920. 10 & 11 Geo. 5.
@@ -2424,9 +2412,9 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (2) This Act applies to houses or parts of houses in Scotland let as separate dwellings where such letting does not include any land other than the site of the dwelling-house and a garden or other premises within the curtilage of the dwelling-house, or any obligation to provide board, attendance, or use of furniture, and where for the year ending Whitsunday nineteen hundred and fifteen either the rent or the yearly value according to the
 
-1920. Ejection {Suspensory Provisions) Ch. 11, 12. 61
+1920. Ejection (Suspensory Provisions) Ch. 11, 12. 61
 
-{Scotland) Act, 1920.
+(Scotland) Act, 1920.
 
 valuation roll, exceeded sixty pounds but did not exceed ninety pounds.
 
@@ -2662,7 +2650,7 @@ The Savings Banks Act, 1880.
 
 Section twenty-seven from “ to the amount ” to the end of the section, so far as unrepealed.
 
-In section thirty-two the words • from “ with the approval ” to “ in that respect,” the words “ without restriction as to amount”, and the words from “ and also ” to the end of the section, and in section thirty-nine the words from “ the trustees ” to “ nor to prevent ” and the words from “ not exceeding ” to the end of the section.
+In section thirty-two the words from “ with the approval ” to “ in that respect,” the words “ without restriction as to amount”, and the words from “ and also ” to the end of the section, and in section thirty-nine the words from “ the trustees ” to “ nor to prevent ” and the words from “ not exceeding ” to the end of the section.
 
 Subsection (6) of section three.
 
@@ -2688,7 +2676,7 @@ c. 69. 1893. four from “ but shall not ” to the end of the section.
 
 57 & 58 Vict. The Building Societies In section sixteen the words
 
-c. 47. Act, 1894. • “ provided that the whole “ amount, exclusive of Govem-“ ment stock, credited by the “ bank to the society does not “ exceed three hundred pounds “ at any one time,” and the words “ provided that the “ whole amount of Government “ stock credited by the bank “ to the society does not exceed “ five hundred pounds stock at “ any one time.”
+c. 47. Act, 1894. “ provided that the whole “ amount, exclusive of Govem-“ ment stock, credited by the “ bank to the society does not “ exceed three hundred pounds “ at any one time,” and the words “ provided that the “ whole amount of Government “ stock credited by the bank “ to the society does not exceed “ five hundred pounds stock at “ any one time.”
 
 CHAPTER 13.
 
@@ -2702,7 +2690,7 @@ BE it enacted by the King’s most Excellent Majesty, by and -■-* with the adv
 
 68
 
-Ch. 13. Profiteering {Amendment) , 1920. 10 & 11 Geo. 5.
+Ch. 13. Profiteering (Amendment) , 1920. 10 & 11 Geo. 5.
 
 Amendments of section 1 of principal Act.
 
@@ -2750,7 +2738,7 @@ and examine and copy the same, and may make such inquiries relating to such busi
 
 (2) If any person having the custody or control of any book or document which such officer or qualified accountant is authorised to inspect under this section unreasonably refuses or wilfully neglects to produce it for inspection, or if any person who is able t-o give any information which is required under this section unreasonably refuses or wilfully neglects, when required, to give that information, or knowingly furnishes any information which is false in any material particular, he shall be liable on conviction by a court of summary jurisdiction to a fine not exceeding fifty pounds or to imprisonment for a term not exceeding three months, or to both such imprisonment and fine.
 
-(3) Subject as hereinafter expressly provided, any information obtained under this section shall be treated as confidential and shall not be communicated to any person except the Board of Trade and the committee by which the investigation is being conducted, and, if any person discloses or publishes any information so obtained in contravention of this provision, he shall, on conviction by a court of summary jurisdiction, be liable to a fine not exceeding fifty pounds or to imprisonment for a term not exceeding three months, or to both such imprisonment and fine. 6 * * *
+(3) Subject as hereinafter expressly provided, any information obtained under this section shall be treated as confidential and shall not be communicated to any person except the Board of Trade and the committee by which the investigation is being conducted, and, if any person discloses or publishes any information so obtained in contravention of this provision, he shall, on conviction by a court of summary jurisdiction, be liable to a fine not exceeding fifty pounds or to imprisonment for a term not exceeding three months, or to both such imprisonment and fine.
 
 6. Where under the principal Act an investigation has Publication been held, the findings and decisions of the Board of Trade or of rePort8-
 
@@ -2759,8 +2747,6 @@ the committee or tribunal which held the investigation, and
 their report or any part thereof, shall, if the Board of Trade think fit in the public interest, be published, notwithstanding anything in the principal Act or this Act:
 
 Provided that in no case shall a report of a committee dealing with the business in the United Kingdom carried on by any person, firm, or company mentioned in the report be published, unless such person, firm, or company, or a represen-
-
-ooQle
 
 70
 
@@ -2838,7 +2824,7 @@ For subsection (7) the following subsection shall be substituted :—
 
 For the words “ to which this Act applies ” there shall be substituted the words “ to which section one of this Act 44 is for the time being applied by order of the Board “ of Trade.”
 
-At the beginning there shall be inserted the words 44 Not withstanding any provision in any other Act to the 44 contrary.”
+At the beginning there shall be inserted the words Not withstanding any provision in any other Act to the contrary.”
 
 Section. 4.
 
@@ -2896,7 +2882,7 @@ Provided that, for the purpose of this provision, the council of any city, borou
 
 F
 
-74 . Ch, 14. Tramways {Temporary Increase of 10 & 11 Geo. 5.
+74 . Ch, 14. Tramways (Temporary Increase of 10 & 11 Geo. 5.
 
 Charges) , 1920.
 
@@ -2961,8 +2947,6 @@ BE it enaoted by the King’s most Excellent Majesty, by and with the advice and
 1. — (1) For the purpose of managing the Imperial War Establiah-Museum (in this Act referred to as “ the Museum ”), and for the other purposes of this Act, there shall be established a Board of onBoarelof Trustees (in this Act referred to as “ the Board ”), which shall be Trustees of a body corporate by the name of “ The Trustees of the Imperial War Museum,” with perpetual succession and a common seal, seam, and power to acquire and hold land without licence in mortmain.
 
 F 2
-
-L^ooQle
 
 76
 
@@ -3224,7 +3208,7 @@ Further Restrictions and Obligations on Landlords and Mortgagees.
 
 1920. ' Increase of Rent and Mortgage Ch. 17.
 
-Interest {Restrictions) , 1920.
+Interest (Restrictions) , 1920.
 
 ejectment of a tenant therefrom, shall be made or given unless—
 
@@ -3260,7 +3244,7 @@ residence by a former tenant thereof who gave up occupation in consequence of hi
 
 Increase of Rent and Mortgage 10 11 Geo. 5.
 
-Interest {Restrictions) Act, 1920.
+Interest (Restrictions) Act, 1920.
 
 8 & 9 Geo. 5. c.7.
 
@@ -3290,13 +3274,11 @@ thirtieth day of September nineteen hundred and seventeen, or, in the case of a 
 
 (3) Where any order or judgment has been made or given before the passing of this Act, but not executed, and, in the opinion of the court, the order or judgment would not have been
 
-^.ooQle
-
 1920.
 
 Increase of Bent and Mortgage
 
-Interest {Restrictions) Act, 1920.
+Interest (Restrictions) Act, 1920.
 
 Ch. 17.
 
@@ -3626,13 +3608,13 @@ Interest (Restrictions) , 1920.
 
 Ch. 17.
 
-•6
+6
 
 means entered in the valuation roll; “ land” means lands and heritages; “ rates ” means assessments as defined in the House Letting and Rating (Scotland) i * 2 Geo. f. Act, 1911; “ Lord Chancellor ” and “ High Court ” c' mean the Court of Session; “ rules ” means act of sederunt; “ county court ” means the sheriff court;
 
 “ sanitary authority ” means the local authority under the Public Health (Scotland) Act, 1897; “ mesne eo & 61 Vict profits ” means profits; the Board of Agriculturec- M. for Scotland shall be substituted for the Minister of Agriculture and Fisheries; the twenty-eighth day of May shall be substituted for the twenty-fourth day of June; the reference to the county agricultural committee shall be construed as a reference to the body of persons constituted with respect to any area by die Board of Agriculture for Scotland under subsection (2) of section eleven of the Corn Production 7 & 8 Geo. 8. Act, 1917 ; references to levying distress shall be °*46-construed as references to doing diligence; the reference to the President of the Surveyors’ Institution shall be construed as a reference to the Chairman of the Scottish Committee of the Surveyors’
 
-Institution; a reference to section five of the Housing, Town Planning, &c. (Scotland) Act, 1919, 9 & 10 Goo. 6. shall be substituted for a reference to section seven of *•tf0-the Housing, Town Planning, &c. Act, 1919 ; and a reference to section one of the House Letting and Rating (Scotland) Act, 1911, shall be substituted for a reference to section three of the Poor Rate 32 & 33 Vict. Assessment and Collection Act, 1869 : c-41-
+Institution; a reference to section five of the Housing, Town Planning, &c. (Scotland) Act, 1919, 9 & 10 Goo. 6. shall be substituted for a reference to section seven of *tf0-the Housing, Town Planning, &c. Act, 1919 ; and a reference to section one of the House Letting and Rating (Scotland) Act, 1911, shall be substituted for a reference to section three of the Poor Rate 32 & 33 Vict. Assessment and Collection Act, 1869 : c-41-
 
 (6) Nothing in paragraph (b) of subsection (1) of the section of this Act relating to permitted increases in rent shall permit any increase in rent in respect of any increase after the year ending Whitsunday nineteen hundred and twenty in the amount of the rates payable by the landlord other than rates for which * he is responsible under the House Letting and Rating (Scotland) Act, 1911:
 
@@ -3838,7 +3820,7 @@ Duty. Section of Act.
 
 Increased duty on tea - 1
 
-Additional duties on dried fruit • . . . 8
+Additional duties on dried fruit . . . 8
 
 Additional duty on motor spirit - - - - - 10 (1>
 
@@ -3866,9 +3848,9 @@ worts thereof are, or were before fermentation, of a specific gravity—
 
 Not exceeding one thousand two hundred
 
-and fifteen degrees.......................... 20 20
+and fifteen degrees ........... 20 20
 
-Exceeding one thousand two hundred and fifteen degrees.................................23 110
+Exceeding one thousand two hundred and fifteen degrees ........... 23 110
 
 (2) In lieu of the duty of customs payable on every description of beer other than that specified in the preceding subsection imported into Great Britain or Ireland there shall, as from the twentieth day of April nineteen hundred and twenty, be charged, levied, and paid the following duty (that is to say) :—
 
@@ -3878,7 +3860,7 @@ thereof were before fermentation of a specific gravity of one thousand and fifty
 
 (3) In lieu of the customs drawback now payable there shall be allowed and paid on the exportation, shipment for use as stores, or removal to the Isle of Man, of beer imported into Great Britain or Ireland, on which it is shown that the increased customs duty charged by this Act has been paid, a drawback calculated according to the original gravity thereof (that is to say) :—
 
-For every thirty-six gallons of an original gravity £ s. d. of one thousand and fifty-five degrees the drawback of................................................503
+For every thirty-six gallons of an original gravity £ s. d. of one thousand and fifty-five degrees the drawback of ........... 503
 
 (4) In the case of beer which is of a gravity different from the gravity aforesaid, the duty or the drawback, as the case may be, shall be varied proportionately.
 
@@ -3900,9 +3882,9 @@ Ch. 18.
 
 10 A 11 Geo. 5.
 
-Increased * *
+Increased
 
-duties gq wjne. •.
+duties gq wjne. .
 
 53 A 54 Vict. c. 8.
 
@@ -3926,19 +3908,19 @@ Wine— £ 8. d.
 
 Not exceeding 30 degrees of proof spirit, the
 
-gallon......................................026
+gallon ........... 026
 
 Exceeding 30 but not exceeding 42 degrees of
 
-proof spirit, the gallon....................060
+proof spirit, the gallon ........... 060
 
 And for every degree, or fraction of a degree, beyond the highest above charged, an additional duty, the gallon - - - - - 006
 
 Sparkling wine in bottle, an additional duty,
 
-the gallon...........................................050
+the gallon ........... 050
 
-Still wine in bottle, an additional duty, the gallon.........................................0 20
+Still wine in bottle, an additional duty, the gallon ........... 0 20
 
 and in the case of sparkling wine in addition to the above duties a duty equal to thirty-three and one-third per cent, of the value of the wine.
 
@@ -4048,7 +4030,7 @@ in the administrative county of London with respect to which the valuation list 
 
 (2) The rates of super-tax for the year 1920-21 shall, for the purposes of section four of the Income Tax Act, 1918, as amended by this Act, be as follows :—
 
-In respect of the first two thousand pounds of the income.............................Nil.
+In respect of the first two thousand pounds of the income ........... Nil.
 
 In respect of the excess over two thousand pounds—
 
@@ -4072,7 +4054,7 @@ For every pound of the next ten thousand pounds of the excess
 
 For every pound of the remainder of
 
-the excess.....................
+the excess ...........
 
 H
 
@@ -4306,8 +4288,6 @@ not ” there shall be inserted the words “ the amount of “ the tax calculat
 
 one hundred pounds in all ” there shall be substituted the words “ in any case exceed the amount of the tax
 
-{jOoq Le
-
 112
 
 Ch. 18.
@@ -4520,13 +4500,13 @@ Stamp duty on statements as to capital of companies, &c.
 
 59 & 00 Vict. c. 28.
 
-7Edw.7. c.24.
+7 Edw.7. c.24.
 
 hundred pounds and any fraction of one hundred pounds over any multiple of one hundred pounds.
 
 (3) Any agreement entered into before the passing of this Act between the Commissioners of Inland Revenue and any persons under any Act, other than the principal Act, for the payment to the Commissioners of any sums by way of composition for any stamp duty of a class in respect of which a composition may be made under section one hundred and fifteen of the principal Act shall cease to have effect as from the first day of September nineteen hundred and twenty, without prejudice to the power of the Commissioners and those persons to make any fresh agreement.
 
-38. The stamp duties chargeable on any marketable securities transferable by delivery under paragraphs (1) (a) and (c), 3, and 4 of the heading “ Marketable Security ” in the First Schedule to the principal Act, and the stamp duty chargeable on marketable securities transferable by delivery, share warrants, stock certificates, and other instruments to bearer under subsection (1) of section four and section five of the Finance Act, 1899, on stock certificates to bearer under section eight of the Colonial Stock Act, 1877, and on certain marketable securities under section thirteen of the Finance Act, 1911, shall respectively be double the duties which would have been chargeable on these instruments immediately before the passing of this Act.
+38. The stamp duties chargeable on any marketable securities transferable by delivery under paragraphs (1) (a) and (c), 3, and of the heading “ Marketable Security ” in the First Schedule to the principal Act, and the stamp duty chargeable on marketable securities transferable by delivery, share warrants, stock certificates, and other instruments to bearer under subsection (1) of section four and section five of the Finance Act, 1899, on stock certificates to bearer under section eight of the Colonial Stock Act, 1877, and on certain marketable securities under section thirteen of the Finance Act, 1911, shall respectively be double the duties which would have been chargeable on these instruments immediately before the passing of this Act.
 
 39. — (1) On and after the twentieth day of April, nineteen hundred and twenty, one pound shall be substituted for five shillings—
 
@@ -4678,7 +4658,7 @@ flour mills which provide for determining the amount of any payment to be made o
 
 In this paragraph—
 
-The expression “ trade or business ” means any trade or business carried on either by an individual or by persons in partnership or by a private company within the meaning of the Companies (Consolidation) Act, 1908; 8Edw. 7 c. 6®.
+The expression “ trade or business ” means any trade or business carried on either by an individual or by persons in partnership or by a private company within the meaning of the Companies (Consolidation) Act, 1908; 8 Edw. 7 c. 6®.
 
 The expression “ proprietor ” means, as the case may be, the individual carrying on the business, any partner in the partnership, or any director of the company owning not less than twenty per cent, of the share capital or stock of the company;
 
@@ -4894,8 +4874,6 @@ Returns for purpose of Part V. and penalty for fictitious transactions.
 
 (2) Where the profits of any company are chargeable to corporation profits tax under this Part of this Act, it shall be the duty of every person who may be required to make a return under this section to give notice that the profits are so chargeable to the Commissioners of Inland Revenue within six months of the end of the period for which the accounts of the company are made up, unless he has been previously required by the Commissioners to make a return under this section, and it shall be the duty of the liquidator of every company which is being wound up at the time of the commencement of this Act or is wound up after the commencement of this Act, and is chargeable to corporation profits tax, to give notice of the fact to the Commissioners of Inland Revenue.
 
-L^ooQLe
-
 1920.
 
 Finance Act, 1920.
@@ -4922,7 +4900,7 @@ Any liquidator, receiver or such other person as aforesaid who distributes the a
 
 (5) The amount of corporation profits tax payable shall be recoverable as a debt due to His Majesty from the company on which it is assessed, or in the case of a foreign company from the person in whose name the company is chargeable, and where the amount of tax payable is less than fifty pounds
 
-{jOoq Le
+(jOoq Le
 
 132
 
@@ -5078,7 +5056,7 @@ For every gallon computed at proof of— £ a. d. £ 8. d. £ 8. d. £ 8. d.
 
 Brandy or rum - 3 12 10 3 13 10 3 15 4 3 16 4
 
-Imitation rum or geneva • Unsweetened spirits other than those already enu- 3 12 11 3 13 11 3 15 5 3 16 5
+Imitation rum or geneva Unsweetened spirits other than those already enu- 3 12 11 3 13 11 3 15 5 3 16 5
 
 merated For every gallon of perfumed 3 12 11 3 12 11 3 15 5 3 15 5
 
@@ -5148,19 +5126,19 @@ Bicycles—
 
 Not exceeding 200 lbs. in weight unladen - - £1 10s.
 
-Exceeding 200 lbs. in weight unladen • - £3
+Exceeding 200 lbs. in weight unladen - £3
 
 Bicycles, if used for drawing a trailer or side-car, an additional sum of £1.
 
-Tricycles...............................................£4
+Tricycles ........... £4
 
-2. Vehicles (including cycles with an attachment for propelling the same by mechanical power) not exceeding 5 cwt. in weight unladen adapted and used for invalids................................................6s.
+2. Vehicles (including cycles with an attachment for propelling the same by mechanical power) not exceeding 5 cwt. in weight unladen adapted and used for invalids ........... 6s.
 
 3. Vehicles being hackney carriages as defined in section four of the Customs and Inland Revenue Act, 1888 :—
 
 In the Metropolitan Police area and such other districts as the Minister of Transport may fix.
 
-Tramcars................................... 16s.
+Tramcars ........... 16s.
 
 Other vehicles:
 
@@ -5184,7 +5162,7 @@ In this paragraph the number of persons mentioned does not include the driver of
 
 4. Vehicles of the following descriptions used solely in the course of trade, or in agriculture (that is to say):—
 
-Locomotive ploughing engines, tractors, agricultural tractors, and other agricultural engines, not being engines or tractors used for hauling on roads any objects except their own necessary gear, threshing appliances, fanning implements, or supplies of fuel or water required for the purposes of the vehicle or for agricultural purposes......................................5s.
+Locomotive ploughing engines, tractors, agricultural tractors, and other agricultural engines, not being engines or tractors used for hauling on roads any objects except their own necessary gear, threshing appliances, fanning implements, or supplies of fuel or water required for the purposes of the vehicle or for agricultural purposes ........... 5s.
 
 In all other districts.
 
@@ -5216,7 +5194,7 @@ Not exceeding 8 tons in weight unladen - - - £26
 
 Exceeding 8 tons but not exceeding 12 tons in weight
 
-unladen............................................£28
+unladen ........... £28
 
 Exceeding 12 tons in weight unladen ... £30
 
@@ -5226,7 +5204,7 @@ Not exceeding 6 tons in weight unladen ... £6
 
 Exceeding 5 tons in weight unladen .... £10
 
-Tractors of any other description...........................£21
+Tractors of any other description ........... £21
 
 6. Vehicles (including tricycles weighing more than 8 cwt. unladen) constructed or adapted for use and used solely for the conveyance of
 
@@ -5240,7 +5218,7 @@ Not exceeding 12 cwt. in weight unladen - £10
 
 Exceeding 12 cwt. but not exceeding 1 ton in weight
 
-unladen.................................................£16
+unladen ........... £16
 
 Exceeding 1 ton but not exceeding 2 tons in weight
 
@@ -5248,21 +5226,21 @@ unladen - £21
 
 Exceeding 2 tons but not exceeding 3 tons in weight
 
-unladen.................................................£25
+unladen ........... £25
 
-Exceeding 3 tons but not exceeding 4 tons in weight
+Exceeding 3 tons but not exceeding tons in weight
 
-unladen.................................................£28
+unladen ........... £28
 
-Exceeding 4 tons in weight unladen .... £30
+Exceeding tons in weight unladen .... £30
 
-With an additional duty, in any case if used for drawing a trailer, of..............................................£2
+With an additional duty, in any case if used for drawing a trailer, of ........... £2
 
 6. Any vehicles other than those charged with duty under the foregoing provisions of this schedule :—
 
 Not exceeding 6 horse power or electrically propelled - £6
 
-Exceeding 6 horse power...........................£1 for each
+Exceeding 6 horse power ........... £1 for each
 
 unit or part of a unit of horse power.
 
@@ -5288,7 +5266,7 @@ Enactments to be amended.
 
 Nature of Amendment.
 
-Section 4 Section 5
+Section Section 5
 
 Section 16
 
@@ -5342,8 +5320,6 @@ deduction shall be substituted for the reference to claims under the preceding p
 
 substituted for * exemption, abatement.”
 
-i^ooQLe
-
 1920. Finance Actt 1920. Ch. 18.
 
 Enactments to be amended. Nature of Amendment.
@@ -5358,7 +5334,7 @@ Section 105 - In paragraph (b) of subsection (1) the words “ one hundred and f
 
 Section 236 - The words “ allowance or deduction ” shall be substituted for the words “ exemption.* abatement.”
 
-First Schedule In paragraph (5) of Rule 8 of No. V. in Schedule A. the words 44 the Income Tax Acts which relate to claims for any allowance or deduction ” shall be substituted for the words 44 this Act which relates to claims for exemption, abatement, or relief.”
+First Schedule In paragraph (5) of Rule 8 of No. V. in Schedule A. the words the Income Tax Acts which relate to claims for any allowance or deduction ” shall be substituted for the words this Act which relates to claims for exemption, abatement, or relief.”
 
 Fifth Schedule In paragraph XVII. a reference to any allowance or deduction shall be substituted for the reference to any exemption, abatement, or relief, dependent on total income.
 
@@ -5399,20 +5375,6 @@ Extent of Repeal.
 The Finance Act, 1899.
 
 The Finance (1909 -10) Act, 1910.
-
-i
-
-l
-
-I
-
-l
-
-I
-
-i
-
-i
 
 Section two.
 
@@ -5464,7 +5426,7 @@ Application.
 
 44 & 45 Vict. c. 62.
 
-County Councils Association 10 & 11 Geo. 5. Expenses {Amendment) A, 1920.
+County Councils Association 10 & 11 Geo. 5. Expenses (Amendment) A, 1920.
 
 CHAPTER 19.
 
@@ -5628,7 +5590,7 @@ Partial relief of ecclesiastical tithe rentcharge from rates.
 
 Ch. 21, 22. Harbours, Docks, and Piers 10 & 11 Geo. 5.
 
-{Temporary Increase of Charges) Act, 1920.
+(Temporary Increase of Charges) Act, 1920.
 
 Minister may be made; and the Minister shall consider any representations which may be duly made.
 
@@ -5686,7 +5648,7 @@ OF CORRESPONDING RATE.
 
 152 Ch. 22, 23. Ecclesiastical Tithe 10 & 11 Geo. 5.
 
-{Rates) , 1920.
+(Rates) , 1920.
 
 like period, the amount in the pound of the standard rate shall, for the purposes of this Act, be treated as the amount in the pound at which the corresponding rate was made.
 
@@ -5766,7 +5728,7 @@ Ch. 23.
 
 and qualifications, and any such order may contain such other supplemental and consequential provisions as the Minister thinks necessary for the purpose of securing the due administration of the War Pensions Acts in that area.
 
-(4) Where the local committee for a county is dissolved under this section, any local committee established for any borough or urban district in the county in pursuance of the provisions of section three of the Naval and Military War 7 & 8Geo. 5. Pensions, &c. (Administrative Expenses) Act, 1917, shall exercise °- 14*
+(4) Where the local committee for a county is dissolved under this section, any local committee established for any borough or urban district in the county in pursuance of the provisions of section three of the Naval and Military War 7 & 8 Geo. 5. Pensions, &c. (Administrative Expenses) Act, 1917, shall exercise °- 14*
 
 the functions of a local committee set forth in paragraph (/) of section four of the Act of 1915 without being so directed by the Minister in pursuance of section eleven of the Act of 1918.
 
@@ -5789,8 +5751,6 @@ section two may be exercised -not only for the purpose of securing the proper ex
 by the Minister under paragraph (g) of subsection (1) of section two, vacated his office as a member of a committee, that person shall not be re-appointed a
 
 L 2
-
-i^ooQLe
 
 156
 
@@ -5882,11 +5842,9 @@ tion.
 
 (2) The words in section nine of the War Pensions (Adminis- 9 A lo Geo. 6. trative Provisions) Act, 1919, from “ the expression ” to “ 1918 °* and ” are hereby repealed.
 
-UjOOQle
-
 158
 
-Ch. 24, 25, Bank Notes {Ireland) Act, 1920. 10 & 11 Geo. 5.
+Ch. 24, 25, Bank Notes (Ireland) Act, 1920. 10 & 11 Geo. 5.
 
 CHAPTER 24.
 
@@ -6036,7 +5994,7 @@ or in the event of any party failing to appear, to make such order as between th
 
 Ch.~20.
 
-Sheriffs {Ireland) Act, 1920. 10 & 11 Geo. 5.
+Sheriffs (Ireland) Act, 1920. 10 & 11 Geo. 5.
 
 the parties or any of them and the under-sheriff, as he thinks just;
 
@@ -6064,7 +6022,7 @@ If the claimant does not make such deposit as aforesaid, it shall be lawful for 
 
 (6) An order made by a county court judge on an interpleader civil bill (other than an order for the sale of goods and chattels) shall be subject to the like appeal as an order made on an ordinary civil bill, and the enactments relative to such appeals shall apply accordingly, and subject thereto the order shall be final and conclusive as between the parties and as between them or either of them and the under-sheriff.
 
-1920. Sheriffs {Ireland) ,1920. Ch. 26. 168
+1920. Sheriffs (Ireland) ,1920. Ch. 26. 168
 
 (7) At any time after the service of an interpleader civil bill the clerk of the crown and peace may, on consent of the parties and under-sheriff, exercise any power or jurisdiction which, under this section, would be exerciseable by the county court judge on the return of the civil bill.
 
@@ -6102,7 +6060,7 @@ The expression “ powers ” includes rights, jurisdiction, capacities, privile
 
 Ch. 26, 27.
 
-Sheriffs {Ireland) Act, 1920. 10 & 11 Geo. 5.
+Sheriffs (Ireland) Act, 1920. 10 & 11 Geo. 5.
 
 Short title, extent, and commencement.
 
@@ -6250,7 +6208,7 @@ Article 10.
 
 The Commissioners shall not, except with the unanimous consent of the three Commissioners, sell or supply any phosphates to, or for shipment to, any country or place other than the United Kingdom, Australia or New Zealand.
 
-• Article 11.
+Article 11.
 
 Phosphates shall be supplied to the United Kingdom, Australia and New Zealand at the same f.o.b. price, to be fixed by the Commissioners on a basis which will cover working expenses, cost of management, contribution to administrative expenses, interest on capital, a sinking fund for the redemption of capital, and for other purposes unanimously agreed on by the Commissioners and other charges.
 
@@ -6268,11 +6226,11 @@ Article 14.
 
 Until the readjustment hereinafter mentioned, each of the three Governments shall be entitled to an allotment of the following proportions of the phosphates produced or estimated to be produced in each year, namely :—
 
-United Kingdom..........................42 per cent.
+United Kingdom ........... 42 per cent.
 
-Australia...............................42 per cent.
+Australia ........... 42 per cent.
 
-New Zealand.............................16 per cent.
+New Zealand ........... 16 per cent.
 
 Provided that such allotment shall be for home consumption for agricultural purposes in the country of allotment, and not for export.
 
@@ -6284,7 +6242,7 @@ If in any year any of the three Governments does not require any portion of its 
 
 Ch. 27, 28.
 
-Power to sub stitute new basis of charges.
+Power to substitute new basis of charges.
 
 Nauru Island Agreement
 
@@ -6312,7 +6270,7 @@ Signed by the Right Honourable William Morris Hughes for and on behalf of the Go
 
 (Signed)
 
-R. R. Garran.^
+R. R. Garran.
 
 Signed by the Right Honourable" William Ferguson Massey for and on behalf of the Government of the Dominion of New Zealand in the presence of—
 
@@ -6328,11 +6286,13 @@ W. F. MASSEY.
 
 CHAPTER 28.
 
-An Act to amend the Law with respect to the supply of Gas. [4th August 1920.]
+An Act to amend the Law with respect to the supply of Gas.
 
-BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+[4th August 1920.]
 
-Price and Quality of Oas.
+BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+
+Price and Quality of Gas.
 
 1. — (1) The Board of Trade may, on the application of any gas undertakers, by order, provide for the repeal of any enactments or other provisions requiring the undertakers to supply gas of any particular illuminating or calorific value, and for
 
@@ -6358,15 +6318,13 @@ the undertakers are to give notice of the calorific value of the gas which they 
 
 in the declared calorific value, to take at their own expense such steps as may be necessary to alter, adjust, or replace the burners in consumers’ appliances in such manner as to secure that the gas can be burned with safety and efficiency, except in the case of any consumer who objects to such alteration, adjustment, or replacement by the undertakers; and (c) may prescribe, subject to such conditions as the Board may think necessary, the additional charge M
 
-L^
-
 Ch. 28.
 
 Oas Regulation Act, 1920.
 
 10 & 11 Geo. 5.
 
-per therm which the undertakers may • make in respect of gas supplied by means of prepayment meters; and P
+per therm which the undertakers may make in respect of gas supplied by means of prepayment meters; and P
 
 (d) may make such supplemental and consequential pro-
 
@@ -6442,7 +6400,7 @@ Provided that—
 
 5. — (1) The gas referees shall prescribe—
 
-(a) the places and times at which and the apparatus and • method by which tests, whether continuous or
+(a) the places and times at which and the apparatus and method by which tests, whether continuous or
 
 intermittent, shall be made to ascertain whether any undertakers with respect to whom an order has been made under this Act are supplying gas in accordance with their obligations; and
 
@@ -6466,7 +6424,7 @@ Ch. 28.
 
 (3) Any undertakers with respect to whom an order has been made under this Act shall provide and maintain to the satisfaction of the referees the prescribed testing places and apparatus, and shall give any gas examiner access to any testing place for the proper execution of his duty.
 
-(4) A representative of’the undertakers may be present on any occasion on which the gas examiner inspects, or alters, adjusts or replaces the testing apparatus or tests the gas, but shall not interfere with the inspection, alteration, adjustment or replacement, or test.
+(4) A representative of the undertakers may be present on any occasion on which the gas examiner inspects, or alters, adjusts or replaces the testing apparatus or tests the gas, but shall not interfere with the inspection, alteration, adjustment or replacement, or test.
 
 For the purposes of this subsection, the gas examiner shall, in cases where the testing place is situated elsewhere than on the works of the undertakers, give to the undertakers reasonable notice of the time at which he will attend at the testing place.
 
@@ -6488,13 +6446,11 @@ appeal to the chief gas examiner, who, after hearing the parties and any other b
 
 shall be such as the Board of Trade with the consent of the gaarefereea. Treasury may fix.
 
-{jOoq Le
-
 174
 
 Ch. 28.
 
-Oa8 Regulation , 1920.
+Gas Regulation , 1920.
 
 10 & 11 Geo. 5.
 
@@ -6536,11 +6492,11 @@ an opportunity of being heard, consent thereto; and
 
 prescription, until after the expiration of the period within which the undertakers may under this Act appeal against the prescription; or (c) if the undertakers have appealed as aforesaid, unless or until either such appeal is withdrawn or the chief gas examiner has given a decision thereon.
 
-9. — (1) If on any day for a period of two hours or upwards Forfeiture the calorific value of gas supplied by any undertakers, ascer-tained in accordance with the provisions of this Act, is more Ac. '
+9. — (1) If on any day for a period of two hours or upwards Forfeiture the calorific value of gas supplied by any undertakers, ascertained in accordance with the provisions of this Act, is more Ac. '
 
 than five per cent, below the declared calorific value, the undertakers shall be liable on summary conviction to a forfeiture not exceeding five pounds for every complete one per cent, by which the calorific value is deficient in excess of such five per cent. :
 
-Provided that, where there is no continuous record of the calorific value of the gas supplied by any undertakers, if on any occasion of testing the calorific value at any tcsting-place is found to be more than five per cent, below the declared calorific vajue a second testing shall be made on the same day after an interval of not less than one hour and the mean of the two testings shall be deemed, for the purposes of this subsection, to be the calorific value of the gas supplied by the undertakers at that testing-place for a period of two hours ascertained as aforesaid.
+Provided that, where there is no continuous record of the calorific value of the gas supplied by any undertakers, if on any occasion of testing the calorific value at any testing-place is found to be more than five per cent, below the declared calorific value a second testing shall be made on the same day after an interval of not less than one hour and the mean of the two testings shall be deemed, for the purposes of this subsection, to be the calorific value of the gas supplied by the undertakers at that testing-place for a period of two hours ascertained as aforesaid.
 
 (2) If on any occasion the gas does not conform to the provisions of this Act or any order made thereunder as to purity or pressure, the undertakers shall be liable on summary conviction to a forfeiture not exceeding ten pounds.
 
@@ -6642,7 +6598,7 @@ Fees for examination of meters.
 
 22 & 23 Vict, o. 66.
 
-Application of as. 5 & 6 of 4Edw. 7. c. 28.
+Application of as. 5 & 6 of Edw. 7. c. 28.
 
 Meters to be stamped.
 
@@ -6660,7 +6616,7 @@ Provided that the fees fixed by the said section shall, notwithstanding such rep
 
 Provided that, for the purposes of the said section six as applied by this section, the expression “ inspector ” shall mean an inspector of gas meters under the Sale of Gas Act, 1859.
 
-13. All meters by means of which gas is supplied by any undertakers to any consumer shall be stamped in accordance with regulations made by the Board of Trade under their powers in that behalf, and if any undertakers supply gas by means of any meter which is not so stamped, they shall be liable on summary conviction to a fine not exceeding ten pounds. 14 * *
+13. All meters by means of which gas is supplied by any undertakers to any consumer shall be stamped in accordance with regulations made by the Board of Trade under their powers in that behalf, and if any undertakers supply gas by means of any meter which is not so stamped, they shall be liable on summary conviction to a fine not exceeding ten pounds. 14
 
 14. — (1) The Board of Trade shall provide for the holding of examinations for the purpose of ascertaining whether applicants for the post of inspector of meters under section four of the Sale of Gas Act, 1859, nominated by the appointing authority, possess sufficient practical knowledge for the proper performance of the duties of that post, and for the grant of certificates to persons who satisfactorily pass such examination.
 
@@ -6669,8 +6625,6 @@ Provided that, for the purposes of the said section six as applied by this secti
 (3) If any person, not being an inspector duly appointed under the Sale of Gas Act, 1859, acts as such inspector, he shall be liable to a fine not exceeding ten pounds, or, in the case of a second or subsequent offence, twenty pounds.
 
 (4) There shall be charged in respect of the examinations under this section such fees as the Board of Trade, with the concurrence of the Treasury, from time to time fix, and all such fees shall be dealt with in such manner as the Treasury from time to time direct.
-
-L^
 
 1920.
 
@@ -6816,7 +6770,7 @@ respect of credits at any time exceed the sum of twenty-six million pounds; or
 
 1920.
 
-Overseas Trade {Credits and
+Overseas Trade (Credits and
 
 Insurance) Act, 1920.
 
@@ -7025,8 +6979,6 @@ days each, separated by a period of not more than two days, during which the ins
 8. — (1) An insured contributor who has lost employment by reason of a stoppage of work which was due to a trade dispute at the factory, workshop, or other premises at which he was employed shall be disqualified for receiving unemployment benefit so long as the stoppage of work continues, except in a case where he has, during the stoppage of work, become bona fide employed elsewhere in the occupation which he usually follows or has become regularly engaged in some other occupation.
 
 Where separate branches of work which are commonly carried on as separate businesses in separate premises are in any case carried on in separate departments on the same premises, each of those departments shall, for the purposes of this provision, be deemed to be a separate factory or workshop or separate premises, as the case may be.
-
-L^
 
 1920.
 
@@ -7508,7 +7460,7 @@ section four of the Preferential Payments in Bankruptcy (Ireland) 52 & 53 Vict. 
 
 27. In determining whether outdoor relief shall or shall Outdoor not be granted to a person in receipt of or entitled to receive re ,e' unemployment benefit or benefit under a special or supplementary scheme, the authority having power to grant the relief shall not
 
-take into account any such benefit except in so far as it exceeds ten shillings a week. 28 * * * * * *
+take into account any such benefit except in so far as it exceeds ten shillings a week. 28
 
 28. — (1) The regulations made under this Act shall provide Provisions as
 
@@ -7942,9 +7894,9 @@ Ordinary Rates.
 
 From the employed person for each week—
 
-In the case of men..........................4
+In the case of men ........... 4
 
-In the case of women........................3d.
+In the case of women ........... 3d.
 
 From the employer for each week—
 
@@ -7956,9 +7908,9 @@ Rates in case of Persons under Eighteen.
 
 From the employed person for each week—
 
-In the case of boys.........................2d.
+In the case of boys ........... 2d.
 
-In the case of girls..........................l|d.
+In the case of girls ........... l|d.
 
 From the employer for each week—
 
@@ -8016,7 +7968,7 @@ Provided that where one weekly contribution has been paid in respect of an emplo
 
 220 Ch. 30. Unemployment Insurance ,1920. 10 & 11 Geo. 5.
 
-•Section 34.
+Section 34.
 
 (6) Regulations made under this Act may provide that in any cases or any classes of cases where employed persons work under the general control and management of some person other than their immediate employer, such as the owner, agent, or manager of a mine or quarry, or the occupier of a factory or workshop, such person shall, for the purposes of the provisions of this Act relating to the payment of contributions and of this schedule, be treated as the employer, and may provide for allowing him to deduct the amount of any contributions (other than employer’s contributions) which he may become liable to pay from any sums payable by him to the immediate employer, and for enabling the immediate employer to recover from the employed persons the like sums and in the like manner as if he were liable to pay the contributions.
 
@@ -8352,7 +8304,7 @@ Part 9. Civil Services, Class I. 12,343,387 0 0 433,790 0 0
 
 99 1(5. Ditto, Unclassified 301,022,247 0 0 23,305,OCO 0 0
 
-Total Civil Services • £ 507,041,780 0 0 37,040,071 0 0
+Total Civil Services £ 507,041,780 0 0 37,040,071 0 0
 
 1920.
 
@@ -8380,7 +8332,7 @@ Grants out of the Consolidated Fund.
 
 For the service of the year ended on the 31st day of March 1919:— £ 8. d.
 
-Under this Act........................... 57,707 6 7
+Under this Act ........... 57,707 6 7
 
 For the service of the year ended on the 31st day of March 1920 ‘
 
@@ -8390,9 +8342,9 @@ For the service of the year ending on the 31st day of March 1921 ‘
 
 Under Act 10 Geo. 5. c. 1 - - - - 353,984,850 0 0
 
-Under this Act............................. 445,870,339 0 0
+Under this Act ........... 445,870,339 0 0
 
-Total.......................... 828,640,022 6 7
+Total ........... 828,640,022 6 7
 
 SCHEDULE (B.)—Part 1.
 
@@ -8442,9 +8394,7 @@ Part 3.
 
 Navy ----
 
-(Supple*
-
-mentary). Navy (SUPPLEMENTARY), 1919-1920.
+(Supplementary). Navy (SUPPLEMENTARY), 1919-1920.
 
 1919-1920.
 
@@ -8524,15 +8474,15 @@ Class I.
 
 For expenditure in respect of royal palaces,
 
-including a grant in aid..................
+including a grant in aid ...........
 
 For expenditure in respect of Osborne
 
 For expenditure in respect of the royal parks,
 
-and pleasure gardens......................
+and pleasure gardens ...........
 
-For expenditure in respect of the Houses of Parliament buildings ..... For expenditure in respect of diplomatic and consular buildings, and for the maintenance of certain cemeteries abroad .... For expenditure in respect of Customs and Excise, Inland Revenue, Post Office and Telegraph buildingB in Great Britain, and certain Post Offices abroad.........................
+For expenditure in respect of the Houses of Parliament buildings ..... For expenditure in respect of diplomatic and consular buildings, and for the maintenance of certain cemeteries abroad .... For expenditure in respect of Customs and Excise, Inland Revenue, Post Office and Telegraph buildingB in Great Britain, and certain Post Offices abroad ...........
 
 Sums not exceeding
 
@@ -8572,7 +8522,7 @@ Supply Appropria-Grants, tions in Aid.
 
 CIVIL SERVICES—coni. Class I.—cont.
 
-For expenditure in respect of Ministry of Labour, Employment Exchange, and Insurance buildings, Great Britain...........................
+For expenditure in respect of Ministry of Labour, Employment Exchange, and Insurance buildings, Great Britain ...........
 
 For expenditure in respect of sundry public buildings in Great Britain, not provided for on other votes ......
 
@@ -8602,9 +8552,9 @@ Class II.
 
 For the salaries and expenses of the offices of the
 
-House of Lords.............................
+House of Lords ...........
 
-For the salaries and other expenses in the department of His Majesty’s Treasury and subordinate departments, including expenses in respect of advances under the Light Railways Act, 1896 .........................
+For the salaries and other expenses in the department of His Majesty’s Treasury and subordinate departments, including expenses in respect of advances under the Light Railways Act, 1896 ...........
 
 For the salaries and expenses of the department of His Majesty’s Secretary of State for Foreign Affairs, including the Foreign Claims Office, Foreign Trade Department, War Trade Statistical Department and News Department For the salaries and expenses of the department of His Majesty’s Secretary of State for the Colonies, including a grant in aid and othe * expenses connected with Oversea Settlement - For the salaries and expenses of the office ot the Committee of Privy Council for Trade, and subordinate departments, including certain Special Services arising out of the War
 
@@ -8636,17 +8586,17 @@ For meeting the deficiency of income from fees, Ac., for the requirements of the
 
 For the salaries and expenses of the Registry of
 
-Friendly Societies...........................
+Friendly Societies ...........
 
 For the salaries and expenses of the Department of the Registrar-General of Births, Ac.
 
 For the salaries and expenses of the office of the Commissioners of His Majesty’s Works and
 
-Public Buildings.............................
+Public Buildings ...........
 
 For the salaries and expenses of the Fishery Board for Scotland, including grants in aid of piers or quays, and certain special expenditure in connection with the purchase and storage of
 
-pickled herrings.............................
+pickled herrings ...........
 
 For the salaries and expenses of the offices of the Chief Secretary to the Lord Lieutenant of Ireland, in Dublin and London (including grants for the higher education of ex-officers, <fcc.), of the Inspectors of Lunatic Asylums and of the Irish Public Health Council, and expenses under the Inebriates Acts - For the salaries and expenses of the department of agriculture and other industries, and technical instruction for Ireland, and of the services administered by that department, including sundry grants in aid and the expenses of the Agricultural Wages Board for Ireland and certain special services in connection with food production ----
 
@@ -8748,7 +8698,7 @@ Supply Appropria-
 
 Grants. tions in Aid.
 
-CIVIL SERVICES—cent. Class IV.—cont. For sundry Grants in Aid of Scientific Investi- £ £•
+CIVIL SERVICES—cent. Class IV.—cont. For sundry Grants in Aid of Scientific Investi- £ £
 
 gation, &c. and other grants .... For Public Education in Scotland, and for Science 10 —
 
@@ -8962,11 +8912,11 @@ Ch. 32,
 
 ---- Soksd. (B.)
 
-Sums not ezoeeding
+Sums not exceeding
 
 Heads. Gross. Receipts. Nek
 
-Head IIL—Cost of Educational, <kc..Establishments, and Working Expenses of Hospitals, Depots, &o. Head IV.—War Office, Staff of Commands at Home and Colonial Garrisons, &c. • Head V.—Capital Accounts Head VL—Terminal and Miscellaneous Charges and Receipts Head VII.—Half Pay, Retired Pay, Pensions, and Civil Superannuation .... £ 10,028,200 4.247.000 3,679,100 41,673,200 6.277.000 £ 398,200 181,000 4.633.200 14.366.200 988,000 £ 9.630.000 4.066.000 Cr. 954,100 27,307,000 6.289.000
+Head IIL—Cost of Educational, <kc..Establishments, and Working Expenses of Hospitals, Depots, &o. Head IV.—War Office, Staff of Commands at Home and Colonial Garrisons, &c. Head V.—Capital Accounts Head VL—Terminal and Miscellaneous Charges and Receipts Head VII.—Half Pay, Retired Pay, Pensions, and Civil Superannuation .... £ 10,028,200 4.247.000 3,679,100 41,673,200 6.277.000 £ 398,200 181,000 4.633.200 14.366.200 988,000 £ 9.630.000 4.066.000 Cr. 954,100 27,307,000 6.289.000
 
 Grand Total £ 148,227,130 21,877,600 126,349,630
 
@@ -9072,7 +9022,7 @@ No. £ £
 
 8. For expenditure in respect of Customs and Excise, Inland Revenue, Post Office and Telegraph buildings in Great Britain, and certain Post Offices abroad .... 1,631,200 4,000
 
-9. For expenditure in respect of Employment Ex-change,and insurance buildings,Great Britain (including Ministries of Labour and Health) • 1,909,700 3,100
+9. For expenditure in respect of Employment Ex-change,and insurance buildings,Great Britain (including Ministries of Labour and Health) 1,909,700 3,100
 
 10. For expenditure in respect of sundry public buildings in Great Britain not provided for on other votes (including a supplementary sum of 315,000i.) ..... 4,838,300 64,600
 
@@ -9232,13 +9182,13 @@ of His Majesty’s Woods, Forests, and Land Revenues .......
 
 the Commissioners of His Majesty’s Works and Public Buildings - - -
 
-26a. For the salaries and expenses of the office of the Lord Privy Seal...............................
+26a. For the salaries and expenses of the office of the Lord Privy Seal ...........
 
 27. For His Majesty’s foreign and other secret
 
 services (including a supplementary sum of
 
-200,000Z.)..................................
+200,000Z.) ...........
 
 85,823
 
@@ -9256,7 +9206,7 @@ services (including a supplementary sum of
 
 925,000
 
-28. For the salaries and expenses of the office of His Majesty’s Secretary for Scotland and Subordinate offices, expenses under the Inebriates Acts, 1879 to 1900, expenses under the Private Legislation Procedure (Scotland) Act, 1899, expenses under the National Registration Acts, 1915 and 1918, and a subsidy for steamer services to the Hebrides.........................................
+28. For the salaries and expenses of the office of His Majesty’s Secretary for Scotland and Subordinate offices, expenses under the Inebriates Acts, 1879 to 1900, expenses under the Private Legislation Procedure (Scotland) Act, 1899, expenses under the National Registration Acts, 1915 and 1918, and a subsidy for steamer services to the Hebrides ...........
 
 61,583
 
@@ -9268,7 +9218,7 @@ Agriculture for Scotland, including grants for agricultural education and traini
 
 30. For the salaries and expenses of the Fishery
 
-Board for Scotland, including grants in aid of piers or quays and expenditure in connection with the purchase of pickled herrings (including a supplementary sum of 1,798,875Z.)............................... 1,848,404
+Board for Scotland, including grants in aid of piers or quays and expenditure in connection with the purchase of pickled herrings (including a supplementary sum of 1,798,875Z.) ........... 1,848,404
 
 55,940
 
@@ -9446,15 +9396,15 @@ No.
 
 20. For the expenses of the Royal Irish Con-
 
-stabulary (including a supplementary sum of 1,268,361/.)..........................
+stabulary (including a supplementary sum of 1,268,361/.) ...........
 
 21. For the expenses of the General Prisons
 
-Board in Ireland, and of the establishments under their control; the registration of habitual criminals and the maintenance of criminal lunatics confined in district lunatic asylums..................................
+Board in Ireland, and of the establishments under their control; the registration of habitual criminals and the maintenance of criminal lunatics confined in district lunatic asylums ...........
 
 22. For the expenses of reformatory and industrial
 
-schools, including places of detention, in Ireland..................................
+schools, including places of detention, in Ireland ...........
 
 23. For the maintenance of criminal lunatics in
 
@@ -9522,7 +9472,7 @@ the London Museum, Lancaster House
 
 7. For the salaries and expenses of the Imperial
 
-War Museum, including a grant in aid of purchases...................................
+War Museum, including a grant in aid of purchases ...........
 
 8. For sundry grants in aid of scientific investigation, Ac., and other grants
 
@@ -9592,7 +9542,7 @@ missioners for managing certain school endowments in Ireland ....
 
 16. For the salaries and expenses of the National
 
-Gallery of Ireland.........................
+Gallery of Ireland ...........
 
 1,042
 
@@ -9706,7 +9656,7 @@ Grants. tions in Aid.
 
 No. £ £
 
-1. For Old Age Pensions in the United Kingdom, for certain administrative expenses in connection therewith, and for certain special chargee arising out of the war • • - ! 25,969,000 5,000
+1. For Old Age Pensions in the United Kingdom, for certain administrative expenses in connection therewith, and for certain special chargee arising out of the war - ! 25,969,000 5,000
 
 2, For the salaries and expenses of the National Health Insurance Joint Committee, including sundry grants in aid 402,330
 
@@ -9788,7 +9738,7 @@ Pabt 16. Unclassified Servioec.
 
 No.
 
-6. For the salaries and expenses of the Ministry of Shipping..................................
+6. For the salaries and expenses of the Ministry of Shipping ...........
 
 6. For the salaries and expenses of the Ministry
 
@@ -9804,7 +9754,7 @@ Control Board (Liquor Traffic), including the cost of acquisition and direct con
 
 9. For the salaries of the Imperial War Graves
 
-Commission and a grant in aid of the Imperial War Graves Commission Fund formed under Royal Charter 10th May 1917.....................................
+Commission and a grant in aid of the Imperial War Graves Commission Fund formed under Royal Charter 10th May 1917 ...........
 
 10. For loans to the Governments of Allied
 
@@ -9812,7 +9762,7 @@ Countries, and for loans and grants for purposes of reconstruction and relief -
 
 11. For expenditure arising from the Government
 
-control of railways in Great Britain and Ireland under the Regulation of the Forces Act, 1871................................
+control of railways in Great Britain and Ireland under the Regulation of the Forces Act, 1871 ...........
 
 12. For expenditure in respect of refunds of
 
@@ -9820,7 +9770,7 @@ excess cost of conveyance by coastwise transport over transport by rail and of D
 
 13. For compensation to Canal Companies and
 
-Canal Carriers in the United Kingdom arising out of Government control, for advances to Canal Companies, for advances to Caledonian and Crinan Canals and for survey and development of inland navigation ....................................
+Canal Carriers in the United Kingdom arising out of Government control, for advances to Canal Companies, for advances to Caledonian and Crinan Canals and for survey and development of inland navigation ...........
 
 14. For a grant in aid of the cost of bread -
 
@@ -9832,7 +9782,7 @@ Securities Deposit Scheme ....
 
 17. For the cost of certain miscellaneous war
 
-services (including a supplementary sum of 2,167,20W.) -.........................
+services (including a supplementary sum of 2,167,20W.) - ...........
 
 18. To provide for the deficiency arising under
 
@@ -9898,7 +9848,7 @@ No. £ £
 
 made in respect of German coal deliveries 100 4,999,900
 
-Total • - - £ 301,022,247 23,365,000
+Total - - £ 301,022,247 23,365,000
 
 SOHXD. (B.) Past 16.
 
@@ -10008,7 +9958,9 @@ Surplus - £1,030,938 15 2
 
 CHAPTER 33.
 
-An Act to facilitate the enforcement in England and Ireland of Maintenance Orders made in other parts of His Majesty’s Dominions and Protectorates and vice versa. [16th August 1920.]
+An Act to facilitate the enforcement in England and Ireland of Maintenance Orders made in other parts of His Majesty’s Dominions and Protectorates and vice versa.
+
+[16th August 1920.]
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
@@ -10096,7 +10048,7 @@ originally issued or subsequently endorsed by a court of summary jurisdiction ha
 
 261
 
-Maintenance Orders {Facilities for Ch. 33.
+Maintenance Orders (Facilities for Ch. 33.
 
 Enforcement) Act, 1920.
 
@@ -10110,7 +10062,7 @@ person appearing to have signed it, and the officer of a court by whom a documen
 
 10. For the purposes of this Act, the expression “ maintenance Interpreta-order ” means an order other than an order of affiliation for the tlon* periodical payment of sums of money towards the maintenance
 
-of the wife or other dependants of the person against whom the order is made, and the expression “ dependants ” means such persons as that person is, according to the law in force in the part of His Majesty’s dominions in which the maintenance order was made, liable to maintain ; the expression “ certified copy ” in relation to an order of a court means a copy of the order certified by the proper officer of the court to be a true copy, and the expression “ prescribed ” means prescribed by rales of court. 11 * * * * * * * * * * * * * *
+of the wife or other dependants of the person against whom the order is made, and the expression “ dependants ” means such persons as that person is, according to the law in force in the part of His Majesty’s dominions in which the maintenance order was made, liable to maintain ; the expression “ certified copy ” in relation to an order of a court means a copy of the order certified by the proper officer of the court to be a true copy, and the expression “ prescribed ” means prescribed by rales of court.
 
 11. In the application of this Act to Ireland the following Application
 
@@ -10132,15 +10084,7 @@ State to.the prescribed officer of a court in Ireland
 
 through the Lord Chancellor of Ireland :
 
-(c) The expression “ maintenance order ” includes an order
-
-or decree for the recovery or repayment of the
-
-cost of relief or maintenance made by virtue of the
-
-provisions of the Poor Relief (Ireland) Acts, 1839
-
-to 1914.
+(c) The expression “maintenance order” includes an order or decree for the recovery or repayment of the cost of relief or maintenance made by virtue of the provisions of the Poor Relief (Ireland) Acts, 1839 to 1914.
 
 262
 
@@ -10194,7 +10138,9 @@ is or is not expressed to be over and above the feu-duty or otherwise unequivoca
 
 CHAPTER 35.
 
-An Act to make further provision with respect to the time for the counting of Votes at Parliamentary Elections, and to amend the Law with respect to the right of voting by proxy; and for purposes connected therewith. [16th August 1920.]
+An Act to make further provision with respect to the time for the counting of Votes at Parliamentary Elections, and to amend the Law with respect to the right of voting by proxy; and for purposes connected therewith.
+
+[16th August 1920.]
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
@@ -10210,11 +10156,9 @@ at a time after the close of the poll to be fixed by Order in 8 & 9 Geo. 5. Coun
 
 Extension of right to vote by proxy.
 
-L^OOQle
-
 264
 
-Ch. 35. Representation of the People {No. 2) 10 & 11 Geo. 5.
+Ch. 35. Representation of the People (No. 2) 10 & 11 Geo. 5.
 
 Act, 1920.
 
@@ -10260,7 +10204,7 @@ Jena sith 1 la ?ihei
 
 ' ipp! J i i] j aa
 
-dla • The the ei
+dla The the ei
 
 d an
 
@@ -10332,13 +10276,11 @@ Power to increase certain pensions.
 
 Statutory conditions for increase of pension.
 
-L^ooQle
-
 266
 
 Ch. 36.
 
-Pensions {Increase) Act, 1920. 10 & 11 Geo. 5.
+Pensions (Increase) Act, 1920. 10 & 11 Geo. 5.
 
 Application 3. The Treasury after consultation with the appropriate to pensioners Government department may, by order, authorise the application looff^iuod the foregoing provisions of this Act, including the Schedule
 
@@ -10502,8 +10444,6 @@ c. 21.
 
 Annual statements as to capital charges as to telegraph and telephone services.
 
-ooQle
-
 270
 
 39 & 40 Vict. c. 5.
@@ -10524,7 +10464,7 @@ magistrates.
 
 1 & 2 Geo. 5. c. 58.
 
-Ch. 37, 38. Telegraph {Money) , 1920. 10 & 11 Geo. 5.
+Ch. 37, 38. Telegraph (Money) , 1920. 10 & 11 Geo. 5.
 
 (5) The foregoing provisions of this section shall be in substitution for the provisions of section four of the Telegraph (Money) Act, 1876.
 
@@ -10596,9 +10536,9 @@ Section 1.
 
 Repeal of statutory limits of postage rates for inland post*
 
-Ch. 39,40. Merchant Shipping {Scottish Fishing 10 & 11 Geo. 5.
+Ch. 39,40. Merchant Shipping (Scottish Fishing 10 & 11 Geo. 5.
 
-Boats) Acty 1920.
+Boats) Act, 1920.
 
 SCHEDULE.
 
@@ -10610,7 +10550,9 @@ Session and Chapter. Short Title. Extent of Repeal.
 
 CHAPTER 40.
 
-An Act to amend the Law with respect to the statutory limits on Postal and Telegraph Rates, and with respect to the remuneration to be paid to railway companies for the conveyance of Postal Parcels, and otherwise to amend the Post Office Acts, 1908 to 1915. [16th August 1920.]
+An Act to amend the Law with respect to the statutory limits on Postal and Telegraph Rates, and with respect to the remuneration to be paid to railway companies for the conveyance of Postal Parcels, and otherwise to amend the Post Office Acts, 1908 to 1915.
+
+[16th August 1920.]
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
@@ -10718,7 +10660,7 @@ c. 10. 1918.
 
 276
 
-Census Acty 1920.
+Census Act, 1920.
 
 10 & 11 Geo. 5.
 
@@ -10726,7 +10668,9 @@ Oh. 41.
 
 CHAPTER 41.
 
-An Act to make provision for the taking from time to time of a Census for Great Britain or any area therein and for otherwise obtaining Statistical Information with respect to the Population of Great Britain. [16th August 1920.]
+An Act to make provision for the taking from time to time of a Census for Great Britain or any area therein and for otherwise obtaining Statistical Information with respect to the Population of Great Britain.
+
+[16th August 1920.]
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
@@ -10952,13 +10896,11 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 T
 
-L^
-
 282
 
 Ch. 42.
 
-Census {Ireland) Act, 1920. 10 & 11 Geo. 5.
+Census (Ireland) Act, 1920. 10 & 11 Geo. 5.
 
 Provision as to houseless persons.
 
@@ -10998,7 +10940,9 @@ Acts to a fine not exceeding five pounds: Provided that no person shall be subje
 
 CHAPTER 43.
 
-An Act to amend the Law relating to Firearms and other Weapons and Ammunition, and to amend the Unlawful Drilling Act, 1819. [16th August 1920.]
+An Act to amend the Law relating to Firearms and other Weapons and Ammunition, and to amend the Unlawful Drilling Act, 1819.
+
+[16th August 1920.]
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
@@ -11107,8 +11051,6 @@ Provided that this subsection shall not apply to the sale of firearms and ammuni
 (5) Every person who sells a firearm or ammunition to a person in the United Kingdom other than a registered firearms dealer shall comply with any instructions addressed to the seller contained in the firearm certificate produced, and, in the case of the sale of a firearm, shall, within forty-eight hours from the sale, send by registered post notice of the sale to the chief officer of police by whom the certificate was issued.
 
 (6) Every person who manufactures or sells firearms or ammunition by way of trade or business shall provide and keep a register of transactions, and shall enter or cause to be entered therein the particulars set forth in the Second Schedule to this
-
-{jooQle
 
 1920.
 
@@ -11252,8 +11194,6 @@ Provided that no such order shall prohibit the holder of a firearm certificate f
 
 (4) If any person is guilty of a contravention of any of the provisions of this section, he shall, on summary conviction, be liable to a fine not exceeding twenty pounds for each firearm or parcel of ammunition in respect of which the offence is committed, or to imprisonment with or without hard labour for a term not exceeding three months, or to both such imprisonment and fine; and if the offender is the owner of the firearms or ammunition, the court before whom he is convicted may make such an order as to the forfeiture of the firearms or ammunition as the court think fit.
 
-ooQle
-
 1920.
 
 Firearms Act, 1920.
@@ -11358,7 +11298,7 @@ plication
 
 Scotland.
 
-• 17. This Act shall apply to Scotland, subject to the following modifications:—
+17. This Act shall apply to Scotland, subject to the following modifications:—
 
 53 & 54 Vict. c. 67.
 
@@ -11488,9 +11428,9 @@ at the time of the application— s. d.
 
 (a) if the firearm or any of the firearms in respect of which a certificate is applied for belonged to him at the passing of this Act - - - 2 6
 
-(ft) in any other case.....................................60
+(ft) in any other case ........... 60
 
-Where the applicant is the holder of a certificate in force at the time of the application and is applying for the renewal of the certificate..................................................26
+Where the applicant is the holder of a certificate in force at the time of the application and is applying for the renewal of the certificate ........... 26
 
 SECOND SCHEDULE.
 
@@ -11506,7 +11446,9 @@ Particulars to be entered in Book by Firearms Dealers.
 
 CHAPTER 44.
 
-An Act to control temporarily the Exportation of certain Fertilisers. [16th August 1920.]
+An Act to control temporarily the Exportation of certain Fertilisers.
+
+[16th August 1920.]
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled and by the authority of the same, as follows :
 
@@ -11566,7 +11508,9 @@ Public Libraries (Scotland) Act, 1920.
 
 CHAPTER 45.
 
-An Act to amend the Public Libraries Consolidation (Scotland) Act, 1887. [16th August 1920.]
+An Act to amend the Public Libraries Consolidation (Scotland) Act, 1887.
+
+[16th August 1920.]
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
@@ -11586,7 +11530,9 @@ Short title and citation. 57 & 58 Vict. c. 20.
 
 CHAPTER 46.
 
-An Act to regulate the Importation, Exportation, Manufacture, Sale and Use of Opium and other Dangerous Drugs. [16th August 1920.]
+An Act to regulate the Importation, Exportation, Manufacture, Sale and Use of Opium and other Dangerous Drugs.
+
+[16th August 1920.]
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
@@ -11634,7 +11580,7 @@ opium.
 
 (a) manufactures, sells or otherwise deals in prepared Penalty for opium ; or manulaotur-
 
-... , ■ , • • , mg, selling,
+... , ■ , , mg, selling,
 
 ib) has m his possession any prepared opium; or uaing, &c.,
 
@@ -11738,7 +11684,7 @@ Regulations
 
 tojbe laid before Parliament.
 
-Licenoes.
+Licences.
 
 (2) If any goods prohibited to be exported by virtue of this Act are exported from the United Kingdom in contravention thereof, or brought to a quay or other place to be shipped for the purpose of being so exported or of being waterborne to be so exported, the exporter or his agent shall be liable to the same penalty as that to which a person is liable under section one hundred and eighty-six of the Customs Consolidation Act, 1876, for illegally importing prohibited goods.
 
@@ -11922,7 +11868,7 @@ Ch. 47.
 
 Government Department or Departments may, notwithstanding anything in this Act, provide for the continuance of the power so transferred until the expiration of a period of five years from the passing of this Act, and in such case the provisions of this Act, so far as necessary, shall continue to have effect accordingly.
 
-5. Without prejudice to the operation of section ten of the Expenses. New Ministries and Secretaries Act, 1916, any expenses of the 6&7Geo. 5. Ministry of Food or any other Government Department under c- 68*
+5. Without prejudice to the operation of section ten of the Expenses. New Ministries and Secretaries Act, 1916, any expenses of the 6&7 Geo. 5. Ministry of Food or any other Government Department under c- 68*
 
 this Act, to such amount as may be sanctioned by the Treasury shall be paid out of moneys provided by Parliament.
 
@@ -11954,11 +11900,13 @@ Indemnity Act, 1920.
 
 10 & 11 Geo. 5.
 
-Restrictions on'the taking of legal proceedings against persons acting in good faith.
+Restrictions on the taking of legal proceedings against persons acting in good faith.
 
 CHAPTER 48.
 
-An Act to restrict the taking of legal proceedings in respect of certain acts and matters done during the war, and provide in certain cases remedies in substitution therefor, and to validate certain proclamations, orders, licences, ordinances, and other laws issued, made, and passed, and sentences, judgments, and orders of certain courts given and made during the war. [16th August 1920.]
+An Act to restrict the taking of legal proceedings in respect of certain acts and matters done during the war, and provide in certain cases remedies in substitution therefor, and to validate certain proclamations, orders, licences, ordinances, and other laws issued, made, and passed, and sentences, judgments, and orders of certain courts given and made during the war.
+
+[16th August 1920.]
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
@@ -12006,10 +11954,6 @@ a state whilst that state was so at war with His Majesty— an^other^
 
 (a) being the owner of a ship or vessel which or any cargo powers, space or passenger accommodation in which has been requisitioned at any time during the war in exercise or purported exercise of any prerogative right of His Majesty or of any power under any enactment relating to the defence of the realm, or any regulation or order made or purporting to be made thereunder, shall be entitled to payment or compensation for the use of the same and for services rendered during the employment of the same in Government service, and compensation for loss or damage thereby occasioned; or
 
-/■
-
-i^oosLe
-
 310
 
 Ch. 48.
@@ -12018,7 +11962,7 @@ Indemnity , 1920.
 
 10 & 11 Geo. 5.
 
-(6) who has otherwise incurred or sustained any direct loss • or damage by reason of interference with his property
+(6) who has otherwise incurred or sustained any direct loss or damage by reason of interference with his property
 
 or business in the United Kingdom through the exercise or purported exercise, during the war, of any prerogative right of His Majesty or of any power under any enactment relating to the defence of the realm, or any regulation or order made or purporting to be made thereunder, shall be entitled to payment or compensation in respect of such loss or damage ;
 
@@ -12182,19 +12126,13 @@ An Act to promote the Welfare of Blind Persons.
 
 [16th August 1920.]
 
-BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1920.
-
-Blind Persons Ac/, 1920.
-
-Ch. 49.
-
-315
+1920. Blind Persons Act, 1920. Ch. 49. 315
 
 1. Every blind person who has attained the age of fifty Pensions shall be entitled to receive and to continue to receive such pension for bUnd as, under the Old Age Pensions Acts, 1908 to 1919, he would be entitled to receive if he had attained the age of seventy, and the provisions of those Acts (including the provisions as to expenses,
 
-but excluding the provisions of subsection (2) of section ten of the Old Age Pensions Act, 1908, relating to the giving of notices 8Edw. 7 by registrars of births and deaths) shall apply in all respects to o. 40. such persons as if for the first statutory condition there were substituted a condition that the person must have attained the age of fifty, and be so blind as to be unable to perform any work for which eyesight is essential, and as if for references to “ seventy ” and “ fifty ” there wore respectively substituted references to “ fifty ” and “ thirty.”
+but excluding the provisions of subsection (2) of section ten of the Old Age Pensions Act, 1908, relating to the giving of notices 8 Edw. 7 by registrars of births and deaths) shall apply in all respects to o. 40. such persons as if for the first statutory condition there were substituted a condition that the person must have attained the age of fifty, and be so blind as to be unable to perform any work for which eyesight is essential, and as if for references to “ seventy ” and “ fifty ” there wore respectively substituted references to “ fifty ” and “ thirty.”
 
 2. — (1) It shall be the duty of the council of every county and Power of every county borough, whether in combination with any other Jj^oritiee council or councils or otherwise, to make arrangements to the to promote satisfaction of the Minister of Health for promoting the welfare welfare of of blind persons ordinarily resident within their area, and such council may for this purpose provide and maintain or contribute towards the provision and maintenance of workshops, hostels, homes, or other places for the reception of blind persons whether
 
@@ -12204,7 +12142,7 @@ within or without their area and, with the approval of the Minister of Health, d
 
 (3) A council may borrow for the purposes of this section
 
-in the case of a county council in accordance with the Local oi & 52 Vict. Government Act, 1888, and in the case of a county borough *• 41* council, in accordance with the Public Health Acts, 1875 to 1908, but the money so borrowed by the council of a county borough shall be borrowed on the security of the borough fund or borough rate, and money borrowed for the purposes of this section shall not be reckoned as part of the debt of the council for the purposes of any provision limiting the powers of borrowing by the council.
+in the case of a county council in accordance with the Local oi & 52 Vict. Government Act, 1888, and in the case of a county borough * 41* council, in accordance with the Public Health Acts, 1875 to 1908, but the money so borrowed by the council of a county borough shall be borrowed on the security of the borough fund or borough rate, and money borrowed for the purposes of this section shall not be reckoned as part of the debt of the council for the purposes of any provision limiting the powers of borrowing by the council.
 
 (4) A council may exercise any of the powers conferred by this section (other than the power of raising a rate or of borrowing money) through a committee of the council, and may appoint as members of the committee persons specially qualified by training or experience in matters relating to the blind who are not members of the council, but not less than
 
@@ -12272,7 +12210,7 @@ the passing of this Act, been registered under the War Charities e & 7 Geo. 5. A
 
 4. — (1) This Act shall apply to Scotland subject to the Application
 
-(a) Subsections (2) and (3) of section 2 and paragraphs {d)
+(a) Subsections (2) and (3) of section 2 and paragraphs (d)
 
 and (e) of subsection (1) of section 3 shall not apply;
 
@@ -12294,13 +12232,9 @@ county and town councils shall apply for the purposes
 
 of this Act with the substitution of references to this
 
-Act for references to the Children Act, 1908, or any
+Act for references to the Children Act, 1908, or any section thereof;
 
-section thereof;
-
-(d) References to the Minister of Health and to the Charity
-
-Commissioners shall be construed as references to the Scottish Board of Health.
+(d) References to the Minister of Health and to the Charity Commissioners shall be construed as references to the Scottish Board of Health.
 
 (2) This Act shall apply to Ireland subject to the following modifications:—
 
@@ -12330,7 +12264,9 @@ Genam powers and duties.
 
 CHAPTER 50.
 
-An Act to provide for the better administration of mines, and to regulate the coal industry, and for other purposes connected with the mining industry and the persons employed therein. [16th August 1920.]
+An Act to provide for the better administration of mines, and to regulate the coal industry, and for other purposes connected with the mining industry and the persons employed therein.
+
+[16th August 1920.]
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -12376,19 +12312,17 @@ sold for the bunkering of vessels other than vessels proceeding to ports outside
 
 (2) Whilst any such directions are operative it shall be lawful for the Board of Trade also to give directions as to the wages to be paid to workers in coal mines, and by order to regulate the distribution of profits, and any such order shall contain provisions framed on principles similar to the principles on which the provisions of the Coal Mines (Emergency) Act, 10 G«a 6. 1920, are framed, so as to secure, as far as practicable, an0,4, equitable distribution as between different collieries:
 
-CjOOQle
-
 320
 
 Cil. 50.
 
 Mining Industry Act, 1920. 10 &11 Geo. 5.
 
-39 & 40 Vief« c. 36.
+39 & 40 Vict. c. 36.
 
 10 Geo. 5 e 4.
 
-PiovTided that before any such order is made a draft thereof shall be laid before both Houses of Parliament, and the order shall not be made unless the draft has been approved by .resolution of both Houses of Parliament, nor, if modifications in the draft are agreed to by both Houses, otherwise than as so modified.
+Provided that before any such order is made a draft thereof shall be laid before both Houses of Parliament, and the order shall not be made unless the draft has been approved by .resolution of both Houses of Parliament, nor, if modifications in the draft are agreed to by both Houses, otherwise than as so modified.
 
 (3) If any person exports, sells or supplies, or offers for sale, or attempts to export or supply any coal in contravention of any directions given under this section or otherwise contravenes any such directions, he shall be liable on summary conviction to a fine not exceeding one hundred pounds, or, in the ca 'e of a contravention of the directions as to the export, supply or price of coal, at the discretion of the court, to a fine not exceeding treble the amount by which the sum paid or payable on any coal exported, supplied or sold by him in contravention of any such directions exceeds the maximum sum which would have been paid or payable for the coal if there had been no such contravention, and any coal which, in contravention of any such directions, is exported, or brought to any place or waterborne to be shipped for exportation or for bunker coal, shall be forfeited under the Customs (Consolidation) Act, 1876, as amended by any subsequent enactment:
 
@@ -12608,9 +12542,9 @@ Provided that no such scheme shall be formulated during the period of the operat
 
 11. The Board of Trade may by regulations provide for Additional district committees or area boards determining any questions and powers of
 
-. . i • i i t.. • * av a a district com-
+av a a district com-
 
-exercising any powers which before the passing of this Act can mittees and be determined or exercised by a conciliation board or by a joint area boards, district board constituted under the Coal Mines (Minimum Wage) 2 & 3 Goo. 5. Act, 1912; and the regulations may provide for the appointment c* *• of an independent chairman, with a casting vote, to preside at meetings of any district committee or area board when determining any such question or exercising any such power, and may add to or alter the districts mentioned in the Schedule to the Coal Mines (Minimum Wage) Act, 1912 :
+exercising any powers which before the passing of this Act can mittees and be determined or exercised by a conciliation board or by a joint area boards, district board constituted under the Coal Mines (Minimum Wage) 2 & 3 Goo. 5. Act, 1912; and the regulations may provide for the appointment c* of an independent chairman, with a casting vote, to preside at meetings of any district committee or area board when determining any such question or exercising any such power, and may add to or alter the districts mentioned in the Schedule to the Coal Mines (Minimum Wage) Act, 1912 :
 
 Provided that the regulations shall not provide for the appointment of such an independent chairman when the committee or board acts as a conciliation board except in pursuance of an agreement to that effect.
 
@@ -12642,7 +12576,7 @@ area board;
 
 (c) any questions which may be referred to them by the
 
-• Board of Trade;
+Board of Trade;
 
 and may make recommendations in respect thereof, and may, in any case when their recommendations are not complied with, or in any other case where they think fit, forward their recommendations with a report on the matter to the Board of Trade.
 
@@ -12668,7 +12602,7 @@ Ch. 50.
 
 Coal Mines Act, 1911, which relate to general regulations shall apply with the necessary modifications to regulations under this Part of this Act.
 
-17. If at the expiration of one year from the passing of this Cessation of Act it appears to the Board of Trade that the scheme of this •?'“L
+17. If at the expiration of one year from the passing of this Cessation of Act it appears to the Board of Trade that the scheme of this ?'“L
 
 r r , . , . , certain even*
 
@@ -12976,7 +12910,9 @@ shire, Shropshire.
 
 CHAPTER 51.
 
-An Act to make provision with respect to the administration of the estates of the Duchy of Lancaster, and with respect to the solicitor for the affairs of the said Duchy. [16th August 1920.]
+An Act to make provision with respect to the administration of the estates of the Duchy of Lancaster, and with respect to the solicitor for the affairs of the said Duchy.
+
+[16th August 1920.]
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
@@ -12998,7 +12934,7 @@ Provisions as to the Duchy solicitor.
 
 *39 &:40 Vict, o. 18.
 
-\Short title, •construction, iand repeals
+\Short title, construction, iand repeals
 
 1702, or in any other enactment, have power to grant mining leases for a term of years not exceeding ninety-nine years.
 
@@ -13036,7 +12972,9 @@ Session and Chapter. Title. Extent of Repeal.
 
 CHAPTER 52.
 
-An Act to prevent the writing, printing, publishing, or circulating in the United Kingdom of Advertisements, Circulars, or Coupons of any Ready Money Football Betting Business. [16th August 1920.]
+An Act to prevent the writing, printing, publishing, or circulating in the United Kingdom of Advertisements, Circulars, or Coupons of any Ready Money Football Betting Business.
+
+[16th August 1920.]
 
 X> E it enacted by the King’s most Excellent Majesty, by and -b' with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
@@ -13086,9 +13024,9 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 1. — (1) The enactments relating to the qualification of jurors and the manner of making up any roll or list of persons who are qualified and liable to serve as jurors in Scotland shall apply
 
-1920. Juror8 {Enrolment of Women) Ch. 53. 337
+1920. Juror8 (Enrolment of Women) Ch. 53. 337
 
-{Scotland) Act, 1920.
+(Scotland) Act, 1920.
 
 to women in like manner as they apply to men : provided always jurors to that the names and designations of men and women shall be aPP*y to entered in the general and the special jury books and in the Sheriff Court jury books in separate lists, and that any provision in any enactment relating to the lists or the number of jurors to be entered in any such book shall be construed as referring to such separate lists.
 
@@ -13118,7 +13056,9 @@ Seeds Act, 1920.
 
 CHAPTER 54.
 
-An Act to amend the Law with respect to the Sale and Use of Seeds for sowing and of Seed Potatoes and to provide for the testing thereof. [16th August 1920.]
+An Act to amend the Law with respect to the Sale and Use of Seeds for sowing and of Seed Potatoes and to provide for the testing thereof.
+
+[16th August 1920.]
 
 BE it enacted by the King’s most Excellent Majesty, by and U with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
 
@@ -13430,7 +13370,7 @@ as soon as may. be after they are made, and shall not continue in force after th
 
 1920.
 
-Places of Worship {Enfranchisement)
+Places of Worship (Enfranchisement)
 
 Act, 1920.
 
@@ -13466,7 +13406,7 @@ used or are proposed to be used for the purposes of a place of worship in contra
 
 348
 
-Ch. 56. Places of Worship {Enfranchisement) 10 & 11 Geo. 5.
+Ch. 56. Places of Worship (Enfranchisement) 10 & 11 Geo. 5.
 
 Act, 1920.
 
@@ -13596,8 +13536,6 @@ Provision for facilitating the compulsory acquisition of, and entry on, land req
 
 63 A 64 Vict. c. 70.
 
-kjOOQle
-
 352
 
 Ch. 57.
@@ -13636,7 +13574,7 @@ S63
 
 Ch. 57.
 
-Provided that nothing in the foregoing provision shall authorise the Minister or any local authority to enter on any permanent building or structure, or to enter upon or take possession of any land unless that land could, under some •enactment in force at the commencement of this Act, have been authorised to be acquired compulsorily for, or in connection with, the construction or improvement of a road.
+Provided that nothing in the foregoing provision shall authorise the Minister or any local authority to enter on any permanent building or structure, or to enter upon or take possession of any land unless that land could, under some enactment in force at the commencement of this Act, have been authorised to be acquired compulsorily for, or in connection with, the construction or improvement of a road.
 
 (2) Before entering on any land under this Act, the Minister or local authority shall give seven days* notice in writing of the intention so to do to the owner and occupier of the land.
 
@@ -13896,7 +13834,7 @@ shop is kept open and lighted only for such time as is necessary for serving the
 
 (/) newspapers;
 
-{g) periodicals and books from the bookstalls of such terminal and main line stations as may be approved by the Secretary of State;
+(g) periodicals and books from the bookstalls of such terminal and main line stations as may be approved by the Secretary of State;
 
 (h) motor or cycle supplies or accessories for immediate use, so long as the shop is kept open and lighted only for such time as is necessary for serving the customer;
 
@@ -13912,7 +13850,7 @@ business.
 
 1920.
 
-Shops {Early Closing) , 1920.
+Shops (Early Closing) , 1920.
 
 Ch. 58.
 
@@ -13952,13 +13890,13 @@ Provided that (1) in the case of railways, meals or refreshments may be sold aft
 
 (b) newly cooked provisions to be consumed off the premises;
 
-{c) any fruit specified in the schedule to this Order or any fresh fish or tripe;
+(c) any fruit specified in the schedule to this Order or any fresh fish or tripe;
 
 360
 
 Ch. 58,
 
-Shops {Early Closing) Act, 1920. 10 & 11 Geo 5
+Shops (Early Closing) Act, 1920. 10 & 11 Geo 5
 
 (d) intoxicating liquors to be consumed on or off the pre-
 
@@ -14112,7 +14050,7 @@ A a 2
 
 Sums not exceeding
 
-before reoeipt of sums appropriated.
+before receipt of sums appropriated.
 
 Short title.
 
@@ -14148,7 +14086,7 @@ Vote 2. Victualling and Clothing for the Navy -Vote 3. Medical Establishments an
 
 Section I. Personnel -Section III. Contract Work -Vote 9. Naval Armaments -Vote 11. Miscellaneous Effective Services -
 
-Vote 12. Admiralty Office.....................
+Vote 12. Admiralty Office ...........
 
 Vote 14. Naval and Marine Pensions, Gratuities, and Compassionate Allowances -Vote 16. Civil Superannuation, Compensation Allowances, and Gratuities
 
@@ -14194,7 +14132,7 @@ Vote 10. Vote 13.
 
 Section II. Materiel Works, Buildings, and Repairs at Home
 
-and Abroad.........................
+and Abroad ...........
 
 Half Pay and Retired Pay -
 
@@ -14630,7 +14568,7 @@ Part II.
 
 Loans by the Irish Land Commission.
 
-Loan under the Purchase of Land {Ireland) Act, 1885 (48 dc 49 Vict. c. 73).
+Loan under the Purchase of Land (Ireland) Act, 1885 (48 dc 49 Vict. c. 73).
 
 Name of Borrower. Amount of Loan. Amount to be written off.
 
@@ -14642,13 +14580,13 @@ Part III.
 
 Loans by the Commissioners of Public Works in Ireland.
 
-Loan under the Public Works {Ireland) Act, 1831 (1 de 2 Will.4. c. 33).
+Loan under the Public Works (Ireland) Act, 1831 (1 de 2 Will.4. c. 33).
 
 Name of Borrower. Amount of Loan. Amount to be written off.
 
 Dublin Port and Docks Board - £ «. d. 1,700 0 0 £ a. d. 1,250 12 10
 
-Loan under the Land Law {Ireland) Act, 1881 (44 <fc 45 Vict. c. 49. s. 31).
+Loan under the Land Law (Ireland) Act, 1881 (44 <fc 45 Vict. c. 49. s. 31).
 
 Name of Borrower. Amount of Loan. Amount to be written off.
 
@@ -14912,7 +14850,7 @@ and any deed or writing executed by her with reference to her heritable estate i
 
 (2) A married woman, if living apart from or deserted by her husband, shall, on entering into any contract for the supply of goods or furnishings for herself or for her children, be deemed to bind her own estate in the same way as if she were unmarried, but without prejudice to the right of the person who supplied such goods or furnishings to recover the price thereof from such husband, if he shall be liable therefor in accordance with the present law.
 
-4. In the event of a husband being unable to maintain A married •* himself, his wife, if she shall have a separate estate, or have a ^Mo^or0 * separate income more than reasonably sufficient for her own maintenance maintenance, shall be bound out of such separate estate to indigent provide her husband with such maintenance as he would in “ “ ‘ similar circumstances be bound to provide for her, or out of such income to contribute such sum or sums towards such maintenance as her husband would in similar circumstances be bound to contribute towards her maintenance.
+4. In the event of a husband being unable to maintain A married * himself, his wife, if she shall have a separate estate, or have a ^Mo^or0 * separate income more than reasonably sufficient for her own maintenance maintenance, shall be bound out of such separate estate to indigent provide her husband with such maintenance as he would in “ “ ‘ similar circumstances be bound to provide for her, or out of such income to contribute such sum or sums towards such maintenance as her husband would in similar circumstances be bound to contribute towards her maintenance.
 
 5. Donations inter virum et uxorem shall be irrevocable by Donations the donors : Provided that—
 
@@ -14926,7 +14864,7 @@ made or granted before the passing of this Act until the expiry of one year from
 
 the sequestration of the estates of the donor under the Bankruptcy (Scotland) Act, 1913, or any amending 3*4 Goe 6. statute, shall be revocable at the instance of the c‘20* creditors of such donor.
 
-6. Subject always to the provisions of section one of this Saving for • Act, nothing in this Act contained shall apply to any provision made in favour of or reserved by either spouse by Antenuptial con ™ Contract of Marriage whether dated before or after the passing
+6. Subject always to the provisions of section one of this Saving for Act, nothing in this Act contained shall apply to any provision made in favour of or reserved by either spouse by Antenuptial con ™ Contract of Marriage whether dated before or after the passing
 
 Bb 2
 
@@ -15056,8 +14994,6 @@ Particulars of every order made under this section shall be published forthwith 
 
 (4) Notwithstanding anything in this section, an order under this section may permit the employment in any factory or workshop in such shifts as aforesaid of young persons under the age of sixteen years who are at the commencement of this Act so employed in that factorv or workshop.
 
-i^ooQle
-
 384 Ch. 06. Employment of Women, Young Persona, 10 & 11 Geo. 6.
 
 and Children Act, 1920.
@@ -15093,8 +15029,6 @@ Short title 5. — (1) This Act may be cited as the Employment of
 mwiceraent. Women, Young Persons, and Children Act, 1920.
 
 (2) This Act shall come into operation on the first day of January, nineteen hundred and twenty-one, or on such later date or dates as the Secretary of State may by order appoint, and different dates may be appointed for different provisions of this Act and for different industries or different branches of any industry.
-
-kjOOQle
 
 1920. Employment of Women, Young Persons, Ch. 65. 385
 
@@ -15254,7 +15188,7 @@ For the purpose of this Convention, the term “ night ” signifies a period of
 
 Article 3.
 
-Women without distinction of age shall not be employed during the night in any public or private industrial undertaking, or in any branch thereof, other than an undertaking in which onlv members of the same family are employed.
+Women without distinction of age shall not be employed during the night in any public or private industrial undertaking, or in any branch thereof, other than an undertaking in which only members of the same family are employed.
 
 Article 4
 
@@ -15310,7 +15244,7 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) Subsection (4) of section one of the Criminal Injuries o 10 Geo. 6. (Ireland) Act, 1919, is hereby repealed. °-14
 
-390 Ch. 66. Criminal Injuries {Ireland) 10 & 11 Geo. 5.
+390 Ch. 66. Criminal Injuries (Ireland) 10 & 11 Geo. 5.
 
 Act, 1920.
 
@@ -15352,7 +15286,7 @@ able to a council in the current or any subsequent local financial year until th
 
 1920.
 
-Criminal Injuries {Ireland)
+Criminal Injuries (Ireland)
 
 Act, 1920.
 
@@ -15418,7 +15352,7 @@ c* 37, extend or vary the time prescribed by any statute or statutory
 
 rules for making an application for compensation for criminal injuries or for serving any notice or for doing any other act, or taking any proceedings in relation to the application, in any case where it appears to the court or judge that such extension or variation is just and reasonable for any cause whatsoever.
 
-(3) Where an application is made in respect of a murder or other criminal injuries (whether to person or property) committed or inflicted at any time after the first day of Januaiy nineteen hundred and seventeen, and a former application made by the same person in respect of the same injuries was refused by the county court or judge of assize at any time prior to the passing of this Act, the application may be reheard and determined, notwithstanding such refusal, if the court or judge is satisfied—
+(3) Where an application is made in respect of a murder or other criminal injuries (whether to person or property) committed or inflicted at any time after the first day of January nineteen hundred and seventeen, and a former application made by the same person in respect of the same injuries was refused by the county court or judge of assize at any time prior to the passing of this Act, the application may be reheard and determined, notwithstanding such refusal, if the court or judge is satisfied—
 
 (a) that the former application would not have been refused
 
@@ -15598,8 +15532,6 @@ their jurisdiction, except so far as trade may be affected by the exercise of th
 
 consistently with any general Act of the Parliament
 
-i^ooQle
-
 Government of Ireland Act, 1920. 10 & 11 Geo. 5.
 
 398 Ch, 67.
@@ -15725,8 +15657,6 @@ The persons who are ministers of Northern Ireland for the time being shall be an
 (7) The seats of the Governments of Southern Ireland and Northern Ireland shall be at Dublin and Belfast, respectively, or such places as the Parliaments of Southern Ireland and Northern Ireland may respectively determine.
 
 (8) For the purposes of this Act, “ Irish services ” in relation to Southern Ireland and Northern Ireland respectively are all public services in connection with the administration of civil government in Southern Ireland and Northern Ireland, except the administration of matters with respect to which the Parliament of Southern Ireland and the Parliament of Northern Ireland have under the provisions hereinbefore contained no power to make laws, including in this exception all public services in connection with the administration of matters by this Act declared to be reserved matters so long as they continue to be reserved; and the public services in connection
-
-L^ooQle
 
 402
 
@@ -15900,7 +15830,7 @@ of this Act, and especially to any provision enabling the Parliaments of Souther
 
 16. — (1) Bills imposing taxation or appropriating revenue Money Bill*, or moneys shall originate only in the House of Commons of
 
-• Southern Ireland or Northern Ireland, but a Bill shall not be taken to impose taxation or to appropriate revenue or moneys by reason only of its containing provisions for the imposition or appropriation of fines or other pecuniary penalties, or for the payment or appropriation of fees for licences or fees for services under the Bill.
+Southern Ireland or Northern Ireland, but a Bill shall not be taken to impose taxation or to appropriate revenue or moneys by reason only of its containing provisions for the imposition or appropriation of fines or other pecuniary penalties, or for the payment or appropriation of fees for licences or fees for services under the Bill.
 
 (2) The House of Commons of Southern Ireland or Northern Ireland shall not adopt or pass any vote, resolution, address, or Bill for the appropriation for any purpose of any part of the public revenue of Southern Ireland or Northern
 
@@ -15962,7 +15892,7 @@ Ch. 67.
 
 Government of Ireland Act, 1920. 10 & 11 Geo. 6.
 
-Represents- ' tion of Ireland in the House of Commons of the United Kingdom.
+Representation of Ireland in the House of Commons of the United Kingdom.
 
 Establishment of Southern and Northern Irish
 
@@ -16028,7 +15958,7 @@ save as aforesaid, nothing in this Act shall be construed as preventing the Parl
 
 22. — (1) The imposing, charging, levying, and collection of customs duties and of excise duties on articles manufactured and produced and the granting of customs and excise drawbacks and allowances, and, except to the extent hereinafter mentioned, the imposing, charging, levying, and collection of income tax (including super-tax) and excess profits duty, corporation profits tax, and any other tax on profits shall be reserved matters, and the proceeds of those duties and taxes shall be paid into the Consolidated Fund of the United Kingdom.
 
-(2) The Joint Exchequer Board shall in each year determine what part of the proceeds of the said duties and taxes (except such of those proceeds as consist of arrears of excess profits •duty payable in respect of any period before the passing of this Act) are properly attributable to Ireland, and in making that calculation the Board shall treat the proceeds collected in Ireland of any such duty or tax as the proceeds of that duty or tax in Ireland, subject to such adjustments as the Board think equitable, with a view to attributing to Ireland any proceeds of any of such duties and taxes collected in Great Britain but properly attributable to Ireland and to attributing to Great Britain the proceeds of any such duties and taxes collected in Ireland but properly attributable to Great Britain, and the sum so determined to be the Irish share of the proceeds of the said duties and taxes is hereinafter referred to as the Irish share of reserved taxes.
+(2) The Joint Exchequer Board shall in each year determine what part of the proceeds of the said duties and taxes (except such of those proceeds as consist of arrears of excess profits duty payable in respect of any period before the passing of this Act) are properly attributable to Ireland, and in making that calculation the Board shall treat the proceeds collected in Ireland of any such duty or tax as the proceeds of that duty or tax in Ireland, subject to such adjustments as the Board think equitable, with a view to attributing to Ireland any proceeds of any of such duties and taxes collected in Great Britain but properly attributable to Ireland and to attributing to Great Britain the proceeds of any such duties and taxes collected in Ireland but properly attributable to Great Britain, and the sum so determined to be the Irish share of the proceeds of the said duties and taxes is hereinafter referred to as the Irish share of reserved taxes.
 
 (3) Subject as aforesaid, the Joint Exchequer Board may make regulations for determining the manner in which in cases of doubt the proceeds of such duties and taxes as aforesaid are to be apportioned as between Great Britain and Ireland.
 
@@ -16124,7 +16054,7 @@ Ch. 67.
 
 64 & 55 Vict, o. 48.
 
-6Edw.7.o.S7.
+6 Edw.7.o.S7.
 
 Existing public loans.
 
@@ -16174,7 +16104,7 @@ Provided that, if the stamp duty chargeable on any instrument in such other coun
 
 (2) Where composition for stamp duty is made or agreed to be made in any one of such countries, any instrument which by virtue of the composition is exempt from the payment of duty in that country shall, for the purposes of this section, be treated in any other such country as having been stamped in the first-mentioned country with a stamp denoting the amount of duty which, but for the composition, would have been chargeable on that instrument:
 
-Provided that, if the legislature of such other country has imposed any conditions on the recognition therein of any composition made or agreed to be made in the first-mentioned country, this subsection shall not apply unless those conditions • are complied with.
+Provided that, if the legislature of such other country has imposed any conditions on the recognition therein of any composition made or agreed to be made in the first-mentioned country, this subsection shall not apply unless those conditions are complied with.
 
 inter- 30. Any excise licence granted by the Government of
 
@@ -16188,7 +16118,7 @@ Ireland and Northern Ireland in such manner as may be determined by the Joint Ex
 
 Provided that all existing charges on that fund shall, if and so far as not paid, be paid out of the Exchequer of the United Kingdom, and be made good by means of deductions from the Irish residuary share of reserved taxes in accordance with regulations made by the Treasury.
 
-1920. Government o} Ireland Acty 1920. Ch. 07. 419
+1920. Government o} Ireland Act, 1920. Ch. 07. 419
 
 32. — (1) For the purposes of the financial provisions of this Joint Act, there shall be established a Board to be called the Joint g*^quer Exchequer Board, consisting of two members appointed by
 
@@ -16304,8 +16234,6 @@ Ireland, to be called the Supreme Court of Judicature of Northern Ireland, and a
 
 41. — (1) Subject to the provisions of this Act and any modifications or adaptations made by Irish Transfer Orders under this Act, all enactments relating to the Supreme Court of Judicature in Ireland and the judges and officers thereof shall apply to the Supreme Court of Judicature in Southern Ireland and to the Supreme Court of Judicature in Northern Ireland respectively, and the judges and officers thereof, as they apply to the Supreme Court of Judicature in Ireland and the judges and officers thereof, and as if for references to the High Court of Justice in Ireland there were substituted references to the High Court of Justice in Southern Ireland or the High Court of Justice in Northern Ireland, as the case may be, and as if for references to the Court of Appeal in Ireland there were substituted references to the Court of Appeal in Southern Ireland or the Court of Appeal, in’ Northern Ireland, as the case may be:
 
-t^ooQle
-
 1920.
 
 Ch. 67.
@@ -16328,7 +16256,7 @@ or entered up in the Supreme Courts of Northern Ireland and Southern Ireland res
 
 (4) A judge of the Supreme Court, of Northern Ireland, shall not be named in a commission of assize or other commission, whether general or special, in Southern Ireland, and a judge of the Supreme Court- of Southern Ireland shall not be named in a commission of assize or other commission, whether general or special, in Northern Ireland.
 
-42. — (1) The High Court of Appeal for Ireland shall be Constitution constituted of the following ex-officio judges, that is to say, °{
+42. — (1) The High Court of Appeal for Ireland shall be Constitution constituted of the following ex-officio judges, that is to say, °(
 
 the Lord Chancellor of Ireland, who shall be president of the Appeal for ° court, the Lord Chief Justice of Southern Ireland and the Ireland.
 
@@ -16360,7 +16288,7 @@ with an additional judge of the Supreme Court of Southern Ireland, nominated by 
 
 Jurisdiction
 
-of High •Court of Appeal for
+of High Court of Appeal for
 
 Ireland.
 
@@ -16546,7 +16474,7 @@ Ch. 67.
 
 ai
 
-Civil Servioe Committee.
+Civil Service Committee.
 
 (6) The Pensions Commutation Acts, 1871 to 1882, shall apply to any person to whom an annual allowance is granted in pursuance of the provisions of this Act relating to existing officers as they apply to a person who has retired in consequence of the abolition of his office, and any terminable annuity payable in respect of the commutation of an allowance shall be payable out of the same funds as the allowance.
 
@@ -16570,8 +16498,6 @@ Provided that, after the existing Irish officers have been allocated in manner h
 
 the Dublin Metropolitan Police, or Royal Irish Constabulary, and payable at the appointed day, or in the case of an officer
 
-UooQLe
-
 432
 
 Ch. 67.
@@ -16594,7 +16520,7 @@ Provided that, where any officers employed at the appointed date wholly or in pa
 
 1920. Government of Ireland , 1920. Ch. 67. 433
 
-proportions in which any allowance, gratuity, or compensation • payable to that officer is to be paid as between the Exchequer or Consolidated Fund of Southern or Northern Ireland, as the case may be, and of the United Kingdom respectively.
+proportions in which any allowance, gratuity, or compensation payable to that officer is to be paid as between the Exchequer or Consolidated Fund of Southern or Northern Ireland, as the case may be, and of the United Kingdom respectively.
 
 59. — (1) The existing Irish officers who at the appointed Allocation day are concerned solely with the administration of publio °* exist‘in# services in Southern Ireland shall become officers of the between Government of Southern Ireland, and the existing Irish officers Southern and who at the appointed day are concerned solely with the administration of public services in Northern Ireland shall
 
@@ -16626,7 +16552,7 @@ Government of Ireland Act, 1920.
 
 10 & 11 Geo.
 
-(4) The provisions as to compensation contained in the Ninth Schedule to this Act shall apply with respect to the officers • and constables of the Dublin Metropolitan Police and of the Royal Irish Constabulary who are serving at the day of transfer.
+(4) The provisions as to compensation contained in the Ninth Schedule to this Act shall apply with respect to the officers and constables of the Dublin Metropolitan Police and of the Royal Irish Constabulary who are serving at the day of transfer.
 
 (5) Any pensions and other allowances and gratuities which may become payable to officers and constables of the Dublin Metropolitan Police or the Royal Irish Constabulary after the day of transfer (being in either case officers and constables who are serving at the day of transfer) under the existing enactments applicable to them, and any compensation payable to any of those persons under the provisions of this Act, shall be paid out of moneys provided by the Parliament of the United Kingdom; but any sums so paid shall be made good by means of deductions from the Irish residuary share of reserved taxes in accordance with regulations made by the Treasury.
 
@@ -16676,7 +16602,7 @@ Special provisions as to certain Universities and Colleges.
 
 Ch. 67.
 
-3Edw. 7.c. 37.
+3 Edw. 7.c. 37.
 
 Special provisions as to Freemasons.
 
@@ -16782,8 +16708,6 @@ confer on the naval, military, or air force authorities of the United Kingdom co
 
 (j) provide for the inclusion in the National Health Insurance Joint Committee of representatives of the Governments of Southern Ireland and Northern Ireland (or if the services connected with the administration of Part I. of the National Insurance Act, 1911, as amended l &2 Geo. 5. by subsequent enactments are transferred to the °*55*
 
-<^.ooQLe
-
 440
 
 Ch. 67.
@@ -16868,7 +16792,7 @@ The expression “ county court judge ” includes recorder : The expression “
 
 The expression “ pension ” includes superannuation allowance and gratuity, and in relation to an officer or constable of the Royal Irish Constabulary or Dublin Metropolitan Police includes a pension or gratuity payable to the widow or children of an officer or constable:
 
-The expression “ office ” indudes any place, situation, or employment, and the expression “ officer ” shall be construed accordingly :
+The expression “ office ” includes any place, situation, or employment, and the expression “ officer ” shall be construed accordingly :
 
 The expression “ officer ” in relation to the Royal Irish Constabulary includes the Inspector-General, the Deputy-Inspector-General, an Assistant-Inspector-General, the Assistant-Inspector-Geoeral-Commandant of the Depot, the Town Inspector at Belfast, a county inspector, a surgeon, a storekeeper and barrack-master, the veterinary surgeon, and a district inspector, and in relation to the Dublin Metropolitan Police, includes the Chief Commissioner and Assistant-Commissioner:
 
@@ -16969,8 +16893,6 @@ Representatives of Commerce (including Banking), Labour, and the Scientific and 
 17
 
 Section 13.
-
-i^ooQLe
 
 Ctf. 67.
 
@@ -17176,7 +17098,7 @@ Clare 4 1
 
 East Limerick - - - - "1 A
 
-Borough of Limerick - • * 1
+Borough of Limerick - * 1
 
 Kerry - - - - - \ 8 o
 
@@ -17236,8 +17158,6 @@ University Members 8 3
 
 Toted Members 128 33
 
-.ooQLe
-
 450
 
 Ch. 67.
@@ -17262,7 +17182,7 @@ South Belfast, consisting of the Gromao and the Ormeau Divisions. 4 1
 
 West Belfast, consisting of the Falls, St. Anne's and the Woodvale Divisions. 4 1
 
-Total (Boroughs) • 16 4
+Total (Boroughs) 16 4
 
 Counties.
 
@@ -17293,8 +17213,6 @@ of Northern Ireland. of United Kingdom.
 Queen's University of Belfast 4 1
 
 Total (University) - 4 1
-
-L^
 
 1920.
 
@@ -17516,7 +17434,7 @@ with regulations made by the Civil Service Committee;
 
 (c) The retirement must not take place until at least six months after the notice of retirement has been given, and may be postponed by the Civil Service Committee, if they think fit, to any later date (not being more than two years after the date of the notice) within the transitional period; and
 
-{d) The retiring officer must show to the satisfaction of the Civil Service Committee that he is not incapacitated by mental or bodily infirmity for the performance of his duties and that he has not attained the age of sixty-five years at the time when the notice is given.
+(d) The retiring officer must show to the satisfaction of the Civil Service Committee that he is not incapacitated by mental or bodily infirmity for the performance of his duties and that he has not attained the age of sixty-five years at the time when the notice is given.
 
 3. The Civil Service Committee shall not give their permission under this Schedule to an officer to retire unless that officer shows to the satisfaction of the Committee—
 
@@ -17736,7 +17654,7 @@ Provided that nothing in the Order shall prevent a police magistrate sitting alo
 
 (3) The Order shall provide for the justices who are to sit at the several sittings of the court being chosen by the panel, or, if necessary, by the police magistrate, and in case of the absence of the police magistrate through illness, leave or other cause, for his place being taken by another police magistrate or by a barrister-at-law in practice for at least seven years appointed or a justice of the peace approved by the Secretary of State. A barrister-at-law so appointed shall have all the powers of a metropolitan police magistrate so sitting in such juvenile court as aforesaid.
 
-402 -Ch. 68, 69, 70. Juvenile Courts {Metropolis) 10 & 11 Geo. 5-
+402 -Ch. 68, 69, 70. Juvenile Courts (Metropolis) 10 & 11 Geo. 5-
 
 A, 1920.
 
@@ -17774,7 +17692,7 @@ Extension of 1. — (1) Section eight of the Customs and Inland Revenue
 
 1920.
 
-Gold and Silver {Export , <kc.)
+Gold and Silver (Export , <kc.)
 
 Act, 1920.
 
@@ -17806,7 +17724,7 @@ Control, &c.) Act, 1920.
 
 Ch. 71.
 
-Housing {Scotland) Act, 1920. 10 & 11 Geo. 6.
+Housing (Scotland) Act, 1920. 10 & 11 Geo. 6.
 
 53 & 54 Vict, o. 70.
 
@@ -17872,7 +17790,7 @@ Amendment of a. 5 of 9 ft 10 Geo. & o. 99.
 
 Ch. 71
 
-Housing {Scotland) Act, 1920. 10 & 11 Geo. 5,
+Housing (Scotland) Act, 1920. 10 & 11 Geo. 5,
 
 importance than the provision of dwelling accommodation; or
 
@@ -17940,7 +17858,7 @@ Execution of works, &e., by local authorities outside their own districts in con
 
 Ch. 71.
 
-Housing {Scotland) Act, 1920. 10 & 11 Geo. 6.
+Housing (Scotland) Act, 1920. 10 & 11 Geo. 6.
 
 Extension of a. 14 (1) (d) of 9 A 10 Geo. 5. c. 60.
 
@@ -18006,7 +17924,7 @@ terms shall be fixed by an official arbiter appointed under the Acqui- 9 & 10 Ge
 
 Ch. 71.
 
-Housing {Scotland) Act, 1920. 10 & 11 Geo. 5.
+Housing (Scotland) Act, 1920. 10 & 11 Geo. 5.
 
 60 & 61 Vict. c. 38.
 
@@ -18102,7 +18020,7 @@ twenty-one, are standing to the account of the road improvement grant or are pay
 
 (3) Any sums received by the Minister under Part II. of
 
-the Development and Road Improvement Funds Act, 1909, shall 9Edw. 7.c.47. be paid by the Minister into the Road Fund in such manner as the Treasury may direct.
+the Development and Road Improvement Funds Act, 1909, shall 9 Edw. 7.c.47. be paid by the Minister into the Road Fund in such manner as the Treasury may direct.
 
 (4) There shall be paid out of the Road Fund in every year—
 
@@ -18127,8 +18045,6 @@ and establishment charges of engineers or surveyors to local authorities under s
 and, subject to payment of the sums aforesaid and of any sums to be repaid to a local or police authority out of the Road Fund under any other provision of this Act, the moneys standing to
 
 H h
-
-i^ooQle
 
 474
 
@@ -18434,7 +18350,7 @@ Locomotives Amendment (Scotland) Act, 1878, shall be substituted for the referen
 
 (b) except in this section, references to a county shall be
 
-deemed to include references to a royal, parliamentary, or police burgh containing within its boundaries, as ascertained, fixed, or determined for police purposes, a population according to the census for the time being last taken of or exceeding fifty thousand, and every other burgh shall be deemed to form part of the county within which it is situated, and the expression “ county council ” shall be construed accordingly; and (c) section four of the Locomotives Act, 1898, with the 61 & 62 Vic*, exception of subsection (3) thereof, shall apply to c* 29• Scotland with the substitution of arbitration by a single arbiter to be appointed, failing agreement, by the sheriff, for arbitration under the Arbitration Act, 1889, and county and town councils may 52 & 53 Vic*.
+deemed to include references to a royal, parliamentary, or police burgh containing within its boundaries, as ascertained, fixed, or determined for police purposes, a population according to the census for the time being last taken of or exceeding fifty thousand, and every other burgh shall be deemed to form part of the county within which it is situated, and the expression “ county council ” shall be construed accordingly; and (c) section four of the Locomotives Act, 1898, with the 61 & 62 Vic*, exception of subsection (3) thereof, shall apply to c* 29 Scotland with the substitution of arbitration by a single arbiter to be appointed, failing agreement, by the sheriff, for arbitration under the Arbitration Act, 1889, and county and town councils may 52 & 53 Vic*.
 
 484
 
@@ -18572,7 +18488,7 @@ An Act to continue certain Expiring Laws.
 
 [23rd December 1920.]
 
-WHEREAS the Acts mentioned in the Schedule to this Act are, in so far as they are in force and are temporary in their duration, limited to expire, as respects the Acts mentioned in Part I. of that schedule, on the thirty-first day of December, nineteen hundred and twenty, and, as respects the Acts men* tioned in Parts II., III., IV., and V. of that schedule, on the twenty-third day of December, nineteen hundred and twenty.
+WHEREAS the Acts mentioned in the Schedule to this Act are, in so far as they are in force and are temporary in their duration, limited to expire, as respects the Acts mentioned in Part I. of that schedule, on the thirty-first day of December, nineteen hundred and twenty, and, as respects the Acts mentioned in Parts II., III., IV., and V. of that schedule, on the twenty-third day of December, nineteen hundred and twenty.
 
 1920.
 
@@ -18748,7 +18664,7 @@ Act, 1920.
 
 ’(24)
 
-2Edw.7.c. 18 The Licensing (Ireland) Act, 1902. The whole Act.
+2 Edw.7.c. 18 The Licensing (Ireland) Act, 1902. The whole Act.
 
 (26)
 
@@ -18876,7 +18792,7 @@ military, air-force, police, or other official uniform, °* 2 * or any uniform s
 
 (b) orally, or in writing in any declaration or application, or
 
-in any document signed by hi or on his behalf, knowingly makes or connives at the making of any false statement or any omission; or (c) forges, alters, or tampers with any passport or any naval, military, air-force, police, or official pass, permit, certificate, licence, or other document of a similar character (hereinafter in this section referred to as an official document), oivuses or has in his possession any such forged, altered, or irregular official document; or {d) personates, or falsely represents himself to be a person holding, or in the employment of a person holding office under His Majesty, or to be or not to be a person to whom an official document or secret official code word or pass word has been duly issued or communicated, or with intent to obtain an official document, secret official code word or pass word, wrhether for himself or any other person, knowingly makes any false statement; or
+in any document signed by hi or on his behalf, knowingly makes or connives at the making of any false statement or any omission; or (c) forges, alters, or tampers with any passport or any naval, military, air-force, police, or official pass, permit, certificate, licence, or other document of a similar character (hereinafter in this section referred to as an official document), oivuses or has in his possession any such forged, altered, or irregular official document; or (d) personates, or falsely represents himself to be a person holding, or in the employment of a person holding office under His Majesty, or to be or not to be a person to whom an official document or secret official code word or pass word has been duly issued or communicated, or with intent to obtain an official document, secret official code word or pass word, wrhether for himself or any other person, knowingly makes any false statement; or
 
 (e) uses, or has in his possession or under his control, '■ without the authority of the Government Department or the authority concerned, any die, seal, or stamp of or belonging to, or used, made or provided by any Government Department, or by any diplomatic, naval, military, or air force authority appointed by or acting under the authority of His Majesty, or any die, seal or stamp so nearly resembling any such die, seal or stamp as to be calculated to deceive, or counterfeits any such die, seal or stamp, or uses, or has in his possession, or under his control, any such counterfeited die, seal or stamp;
 
@@ -19082,7 +18998,7 @@ city of London, has the meaning assigned to it by the Police Act, 1890;
 
 sioner of the City Police;
 
-(c) with respect to Scotland, has the meaning assigned to it by the Police (Scotland) Act, 1890; and {(1) with respect to Ireland, means, in the police district of Dublin metropolis, either of the Commissioners of Police for that district, and elsewhere the district inspector of the Royal Irish Constabulary.
+(c) with respect to Scotland, has the meaning assigned to it by the Police (Scotland) Act, 1890; and ((1) with respect to Ireland, means, in the police district of Dublin metropolis, either of the Commissioners of Police for that district, and elsewhere the district inspector of the Royal Irish Constabulary.
 
 53 A 54 Vict. c. 45.
 
@@ -19122,7 +19038,7 @@ After the words “ possession or control” there shall be inserted the words �
 
 After the words “ which he has obtained ” there shall be inserted the words “ or to which he has had access.”
 
-After the words 44 communicates the ” there shall be inserted the words “ code word, pass word.”
+After the words communicates the ” there shall be inserted the words “ code word, pass word.”
 
 After the words “ his duty to retain it ” there shall be inserted the words “ or fails to comply with all directions “ issued by lawful authority with regard to the return or “ disposal thereof.”
 
@@ -19138,13 +19054,13 @@ For paragraph (a) the following paragraph shall be substituted:—
 
 “ Any work of defence, arsenal, naval or air force establishment or station, factory, dockyard, mine, minefield, camp, ship, or aircraft belonging to or occupied by or on behalf of His Majesty, or any telegraph, telephone, wireless or signal station, or office so belonging or occupied, and any place belonging to or occupied by or on behalf of His Majesty and used for the purpose of building, repairing, making, or storing any munitions of war, or any sketches, plans, models, or documents relating thereto, or for the purpose of getting any metals, oil, or minerals of use in time of war.”
 
-In paragraphs (6) and (d) for the words “ ship, arms, or other materials or instruments of use in time of war,” in both places where they occur, there shall be substituted the words 44 munitions of war,” and for the word 44 plans,” in both places where it occurs, there shall be substituted the words 44 sketches, models, plans.”
+In paragraphs (6) and (d) for the words “ ship, arms, or other materials or instruments of use in time of war,” in both places where they occur, there shall be substituted the words munitions of war,” and for the word plans,” in both places where it occurs, there shall be substituted the words sketches, models, plans.”
 
-In paragraph (6) after the word 44 repaired ” there shall be inserted the word 44 gotten.”
+In paragraph (6) after the word repaired ” there shall be inserted the word gotten.”
 
-In paragraph (c) after the words 44 any place belonging to * there shall be inserted the words 44 or used for the purposes of.”
+In paragraph (c) after the words any place belonging to * there shall be inserted the words or used for the purposes of.”
 
-In paragraphs (c) and ( d) for the words 44 by a Secretary of State ” in both places where those words occur, there shall be substituted the words 44 by order of a Secretary of State.”
+In paragraphs (c) and ( d) for the words by a Secretary of State ” in both places where those words occur, there shall be substituted the words by order of a Secretary of State.”
 
 ^.
 
@@ -19220,8 +19136,6 @@ no account shall be taken of any variation of rent, except any variation that is
 
 (c) The corresponding minimum prices for the wheat and oats respectively of any year shall be such sums as are certified by the Commissioners to bear to the minimum prices for the wheat and oats respectively of the standard year the same proportion as the cost of production of the wheat and oats respectively of
 
-i^ooQLe
-
 1920.
 
 Agriculture ,1920.
@@ -19259,8 +19173,6 @@ or pleasure ground or land adjoining a mansion house or garden attached thereto 
 (b) that the production of food on any such land as aforesaid
 
 can, in the national interest and without injuriously affecting the persons interested in the land or altering the general character of the holding, be maintained or increased by the occupier by means of an improvement in the existing method of cultivation; or
-
-{jOOQle
 
 504
 
@@ -19356,7 +19268,7 @@ The Minister may, by an order made under this provision, apply for the purposes 
 
 1920.
 
-Agriculture Acty 1920.
+Agriculture Act, 1920.
 
 Ch. 76.
 
@@ -19418,8 +19330,6 @@ Provided that—
 
 (1) The provisions of the said schedule with respect to combinations of districts, and paragraph (4) of the said schedule shall not apply, and there shall be constituted in accordance with a scheme to be framed by the Minister a central agricultural wages committee for Wales (in this section referred to as “ the central committee ”) consisting of a chairman appointed by the Minister, and of two representatives of each district wages committee (one of whom shall represent employers, and the other of whom shall represent workmen) to be elected by the district committee, and of two women to be appointed by the Minister; and
 
-L^
-
 1920.
 
 Agriculture , 1920,
@@ -19440,7 +19350,7 @@ lished under the Act of 1917 shall continue to be exercisable until such time as
 
 cultural Wages Board shall continue in force in Wales unless and until it is varied or revoked by the central committee, and any permit granted by the said Board to a workman under subsection (3) of section five of the Act of 1917 shall, in relation to the employment of that workman in Wales, have effect as if it were granted by the central committee.
 
-7. Every notice required to be served or given by the Servioe of Minister under Part IV. of the Act of 1917, on or to the notices under owner or occupier of any land or any landlord may either be
+7. Every notice required to be served or given by the Service of Minister under Part IV. of the Act of 1917, on or to the notices under owner or occupier of any land or any landlord may either be
 
 served personally on that person or sent by post to or left at tion Act, his usual place of abode in the United Kingdom, and in case 1917* any person on or to whom any such notice is to be served or given is absent from the United Kingdom and his usual place of abode in the United Kingdom cannot after diligent enquiry be found the notice may be served by sending it by post to or leaving it with any agent ordinarily receiving the rents of the land on behalf of that person or by sending a copy thereof by post to or leaving it with the occupier of the land to which the notice relates for transmission to the owner or landlord, or, if there is no such occupier, by affixing a copy thereof on some conspicuous part of that land.
 
@@ -19710,8 +19620,6 @@ tenant shall pay to the landlord on demand all sums payable to him by the outgoi
 
 direction may, on the application of the landlord, be given subject to the condition that the tenant shall consent to the division of the holding into two parts (one such part being the part to which the direction relates) to be held at rents agreed by the landlord and tenant or in default of agreement settled by the committee, but otherwise on the same terms and conditions as the original holding, so far as applicable.
 
-t^ooQLe
-
 1920. Agriculture Act,1920. Ch. 76. 519
 
 (4) A new tenancy created by the acceptance of a tenant in accordance with the provisions of this section on the terms and conditions of the existing tenancy shall not be deemed to be a new tenancy for the purposes of the provisions of this Act relating to demands for arbitration as to rent.
@@ -19780,7 +19688,7 @@ Ch. 76.
 
 621
 
-of the tenancy of a holding, that the value of the holding has deterioration been deteriorated during the tenancy by the failure of the of holdin8-tenant to cultivate the holding according to the rules of good •husbandry or the terms of the contract of tenancy, the arbitrator shall award to the landlord such compensation as in >his opinion represents the deterioration of the holding due to •such failure:
+of the tenancy of a holding, that the value of the holding has deterioration been deteriorated during the tenancy by the failure of the of holdin8-tenant to cultivate the holding according to the rules of good husbandry or the terms of the contract of tenancy, the arbitrator shall award to the landlord such compensation as in >his opinion represents the deterioration of the holding due to such failure:
 
 Provided that compensation shall not be payable under this section unless the landlord has, before termination of the tenancy, given notice in writing to the tenant of his intention to claim such compensation :
 
@@ -19838,7 +19746,7 @@ Amendment of s. 40 of 8 Edw. 7. c. 28.
 
 1920.
 
-Agriculture Acty 1920.
+Agriculture Act, 1920.
 
 Ch. 76.
 
@@ -20016,7 +19924,7 @@ Ch. 76.
 
 627
 
-{d) The expression “ agricultural committee ” means the body of persons constituted with respect to any area by the Board of Agriculture for Scotland under subsection (2) of section eleven of the Act of 1917 ;
+(d) The expression “ agricultural committee ” means the body of persons constituted with respect to any area by the Board of Agriculture for Scotland under subsection (2) of section eleven of the Act of 1917 ;
 
 (e) The expressions “ the Agricultural Holdings Act, 1908,” and “ the Act of 1908,” mean the Agricultural Holdings (Scotland) Act, 1908, and 8 Edw. 7. references to sections eleven, twenty-one and forty- °* 84, two of the first-mentioned Act shall be construed as references to sections ten, twenty and twenty-nine respectively of the said Agricultural Holdings (Scotland) Act;
 
@@ -20122,7 +20030,7 @@ Agriculture , 1920.
 
 10 & 11 Geo. 5,
 
-{d) the right of any person to require any question arising out of any notice served, order made, or possession taken under the said powers before the commencement of this Act to be inferred to arbitration.
+(d) the right of any person to require any question arising out of any notice served, order made, or possession taken under the said powers before the commencement of this Act to be inferred to arbitration.
 
 (4) This Act may be cited as the' Agriculture Act, 1920.
 
@@ -20174,13 +20082,13 @@ Ch. 76.
 
 Enactment to be Amended. Nature of Amendment.
 
-8eoond Schedule And in paragraph (26) there shall be added at end thereof the words 44 in so far as the value of the temporary 44 pasture on the holding at the time of quitting 44 exceeds the value of the temporary pasture on the 44 holding at the commencement of the tenancy for 44 which the tenant did not pay compensation.” In paragraph 10, for the words 44 sooner than one month or later than two months,” there shall be substituted the words 44 later than one month.”
+8eoond Schedule And in paragraph (26) there shall be added at end thereof the words in so far as the value of the temporary pasture on the holding at the time of quitting exceeds the value of the temporary pasture on the holding at the commencement of the tenancy for which the tenant did not pay compensation.” In paragraph 10, for the words sooner than one month or later than two months,” there shall be substituted the words later than one month.”
 
 Minor Amendment of Agricultural Land Sales (Restriction of Notices to Quit) Act, 1919.
 
 Enactment to be Amended. Nature of Amendment.
 
-Section one After the word 44 shall,’* where it first occurs, insert 44 if 44 the contract for sale is made by the person by whom 44 the notice to quit was given.”
+Section one After the word shall,’* where it first occurs, insert if 44 the contract for sale is made by the person by whom the notice to quit was given.”
 
 In the application of this Schedule to Scotland, the references to sections fifteen and thirty-one of the Agricultural Holdings Act, 1908, shall not apply; and subsection (1) of section thirteen of the Agricultural Holdings (Scotland) Act, 1908, shall be amended by the insertion after the word “ hereto/’ of the words, “ or in respect of compensation for disturbance ” and by the insertion after the words “ or any part thereof,” wherever occurring, of the words “ and of the expense of executing and registering the same.”
 
@@ -20248,7 +20156,7 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 1. — (1) With a view to the safe-guarding of the dye-making industry, the importation into the United Kingdom of the following goods, that is to say, all synthetic organic dyestuffs.
 
-1920. Dyestuffs {Import Regulation) * Ch. 77. 533
+1920. Dyestuffs (Import Regulation) * Ch. 77. 533
 
 Act, 1920.
 
@@ -20273,8 +20181,6 @@ Such one of the three last-mentioned persons as the Board shall appoint shall be
 (7) For the purpose of providing for the expenses incurred by the Board in carrying this Act into execution, the Board may charge in respect of a licence a fee not exceeding five pounds.
 
 3. Subject to compliance with such conditions as to security Exoeption for the re-exportation of the goods as the Commissioners of
-
-L^ooQle
 
 534
 
@@ -20313,8 +20219,6 @@ WHEREAS it is enacted by section fifty of the Juries Act, 1825, that the qualifi
 And whereas doubts have arisen as to whether the provisions of the said section apply to juries impanelled for the purposes of the trial of civil or criminal cases at assizes within the said cities, boroughs, or towns, and it is apprehended that the validity of verdicts heretofore returned by juries so impanelled in the said cities, boroughs, or towns may be called, in question :
 
 And whereas it is necessary to make provision for the summoning of juries to try civil and criminal cases at assizes within such cities, boroughs, or towns during the period before
-
-i^ooQLe
 
 1920.
 
@@ -20506,7 +20410,7 @@ giving effect thereto or to any of the provisions thereof, or to any amendment w
 
 Power to apply Con vention to internal flying.
 
-2. His Majesty may, by Order in Council, direct that the provisions of the Convention for the time being in force, or any of them, and whether or not those provisions are limited to aircraft of any special description, or engaged in any special kind of navigation, shall apply to or in relation to any aircraft in or over the British Islands or the territorial waters adjacent thereto, and may make such consequential and supplementaiy provisions as appear necessary or expedient for the purpose of such application.
+2. His Majesty may, by Order in Council, direct that the provisions of the Convention for the time being in force, or any of them, and whether or not those provisions are limited to aircraft of any special description, or engaged in any special kind of navigation, shall apply to or in relation to any aircraft in or over the British Islands or the territorial waters adjacent thereto, and may make such consequential and supplementary provisions as appear necessary or expedient for the purpose of such application.
 
 1920.
 
@@ -20536,23 +20440,23 @@ for access to aerodromes and places where aircraft have landed, for access to ai
 
 renewal of any certificate or licence required by the Order or by the Convention, including the examinations and tests to be undergone, and the form, custody, production, cancellation, suspension, endorsement and surrender of any such certificate or licence;
 
-{d) as to the keeping and form of the register of British aircraft;
+(d) as to the keeping and form of the register of British aircraft;
 
 (e) as to the conditions under which aircraft may be used for carrying goods, mails and passengers;
 
-\<J) as to the conditions under which aircraft may pass, or goods, mails, or passengers may be conveyed by aircraft, into or from the British Islands, or from one British island to another;
+(f) as to the conditions under which aircraft may pass, or goods, mails, or passengers may be conveyed by aircraft, into or from the British Islands, or from one British island to another;
 
 (g) exempting from the provisions of the Order or of the Convention, or any of them, aircraft flown for experimental purposes, or any other aircraft or persons where it appears unnecessary that the same should apply;
 
-(A) prescribing the scales of charges at licensed aerodromes;
+(h) prescribing the scales of charges at licensed aerodromes;
 
 (i) prescribing, subject to the consent of the Treasury, the fees to be paid in respect of the grant of any certificate or licence or otherwise for the purposes of the Order or the Convention;
 
-( j) supplementing the Convention, in such manner as appears necessary or expedient, by general safety regulations;
+(j) supplementing the Convention, in such manner as appears necessary or expedient, by general safety regulations;
 
 (k) for the control and regulation of aerial lighthouses, and fights at or in the neighbourhood of aerodromes and aerial lighthouses;
 
-{I) regulating the signals which may be made by aircraft and persons carried therein; and (m) for the1 imposition of penalties (not exceeding imprisonment for a term of six months and a fine of two hundred pounds) to secure compliance with the Order or the Convention, and for the mode of
+(l) regulating the signals which may be made by aircraft and persons carried therein; and (m) for the1 imposition of penalties (not exceeding imprisonment for a term of six months and a fine of two hundred pounds) to secure compliance with the Order or the Convention, and for the mode of
 
 542
 
@@ -20630,7 +20534,7 @@ Air Navigation , 1920.
 
 (4) A local authority may borrow for the purposes of this section, in the case of the common council of the city of London under the City of London Sewers Acts, 1848 to 1897, and in the case of a county council under section sixty-nine of the Local Government Act, 1888, as if those purposes were mentioned in that section, and in the case of the council of a county borough or urban district shall have the same power of borrowing under this section as they have under the Public Health Acts, 1875 to 1908, for the purpose of defraying any
 
-61 & 52 Vict, expenses incurred by them in the administration of those Acts, «• 41 • but money so borrowed shall not be reckoned as part of the
+61 & 52 Vict, expenses incurred by them in the administration of those Acts, « 41 but money so borrowed shall not be reckoned as part of the
 
 debt of such local authority for the purposes of any enactment limiting the powers of borrowing by the authority.
 
@@ -20660,7 +20564,7 @@ For the purposes of this section, the expression “ owner ” in relation to an
 
 (2) The provisions of this section shall be in addition to and not in derogation of any general safety or other regulations prescribed by Order in Council under Part I. of this Act.
 
-11. The law relating to wreck and to salvage of life or Wreck and property, and to the duty of rendering assistance to vessels in “*“• distress (including the provisions of the Merchant Shipping
+11. The law relating to wreck and to salvage of life or Wreck and property, and to the duty of rendering assistance to vessels in “*“ distress (including the provisions of the Merchant Shipping
 
 Acts, 1894 to 1916, and any other Act relating to those subjects), shall apply to aircraft on or over the sea or tidal waters as it applies to vessels, and the owner of an aircraft shall be entitled to a reasonable reward for salvage services rendered by the aircraft to any property or persons in any case where the owner of a ship would be so entitled :
 
@@ -20682,7 +20586,7 @@ aforesaid in such manner and by such persons as may be specified in the order;
 
 (b) applying, with or without modification, for the purpose
 
-of investigations held with respect to any such accidents any of the provisions of section three of 57 &58 Vict, the Notice of Accidents Act, 1894; «•
+of investigations held with respect to any such accidents any of the provisions of section three of 57 &58 Vict, the Notice of Accidents Act, 1894; «
 
 546
 
@@ -20715,8 +20619,6 @@ of patents. foreign aircraft making a passage through or over the British Island
 (3) For the purposes of this section, the expression “ owner ” shall include the actual owner of an aircraft, and any person claiming through or under him, and the expression “ passage 5>
 
 * shall include all reasonable landings and stoppages in the course or the purpose of a passage.
-
-t^ooQle
 
 1920.
 
@@ -20756,8 +20658,6 @@ they may be.
 
 Provided that His Majesty may, by Order in Council, apply to any such aircraft, with or without modification, any of the
 
-CjOOQle
-
 548
 
 10 & 11 Geo. 5.
@@ -20766,7 +20666,7 @@ Application to Scotland and Ireland.
 
 52 & 53 Vict. c. 60.
 
-Short title, repeal, and commence* ment.
+Short title, repeal, and commencement.
 
 Ch. 80. Air Navigation , 1920.
 
@@ -20890,7 +20790,7 @@ both parties, where the action or matter is one in the case of which, if it were
 
 (2) Notwithstanding anything in any Act, it shall not be lawful for any party in a county court or any other inferior court of civil jurisdiction to require any action or other matter
 
-arising under the Increase of Rent and Mortgage Interest lO&HGeo.s (Restrictions) Act, 1920, to be tried with a jury. c* 4 * * * * * * * * * * * * 17 * *
+arising under the Increase of Rent and Mortgage Interest lO&HGeo.s (Restrictions) Act, 1920, to be tried with a jury. c* 4
 
 (3) This section shall come into operation on the date on
 
@@ -20902,29 +20802,13 @@ justices with an offence pleads guilty or admits the truth of befor^d
 
 the charge before the justice or justices and is committed defendant has
 
-for trial, the clerk to the justice or justices shall, before the admitted
-
-date fixed for the holding of the assizes or quarter sessions at
-
-which the person so committed is to be tried, transmit to the justices,
-
-clerk of the assize or clerk of the peace, as the case may
-
-be, a certificate stating that the person so committed so
-
-pleaded guilty or admitted the truth of the charge, and the
-
-grand jury, on the production to them of the certificate, shall
-
-forthwith, without hearing or examining any witnesses, return a
-
-true bill as respects that charge.
+for trial, the clerk to the justice or justices shall, before the admitted date fixed for the holding of the assizes or quarter sessions at which the person so committed is to be tried, transmit to the justices, clerk of the assize or clerk of the peace, as the case may be, a certificate stating that the person so committed so pleaded guilty or admitted the truth of the charge, and the grand jury, on the production to them of the certificate, shall forthwith, without hearing or examining any witnesses, return a true bill as respects that charge.
 
 (2) This section shall come into operation on the date on
 
 which the Grand Juries (Suspension) Act, 1917, expires, or, if 7 <fe 8 Geo. 5.
 
-His Majesty by Order in Council so directs, on such earlier date °* *
+His Majesty by Order in Council so directs, on such earlier date
 
 as may be specified in the Order, and, if any Order is so made, the
 
@@ -21074,7 +20958,7 @@ The expression “ judgment debtor ” means the person against whom the judgmen
 
 (2) An Order in Council under this section may be varied or revoked by a subsequent Order.
 
-Pabt III.
+Part III.
 
 Miscellaneous.
 
