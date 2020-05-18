@@ -15654,7 +15654,7 @@ Dwelling House and Yard.
 
 Soap Manufactory, Counting House, Stabling, &c.
 
-DwellingHouse,Yard,
+Dwelling House,Yard,
 
 &c.
 
@@ -22024,13 +22024,13 @@ Number on Plum Description of Property. Owners or reputed Owners. Lessees or rep
 
 18a Malt Houses - Chelsea Waterworks Company. The Commissioners of Her Majesty'sWorks and Public Buildings. In hand.
 
-19 Ranelagli Wliarf, Sheds, and Draw Dock. Chelsea Waterworks Company. Henry Edward Richards, Samuel Walker, James Hunter Tuck. James Hunter Tuck. %
+19 Ranelagh Wliarf, Sheds, and Draw Dock. Chelsea Waterworks Company. Henry Edward Richards, Samuel Walker, James Hunter Tuck. James Hunter Tuck. %
 
 20 Grosvcnor Ferry The Crown; the Mayor and Commonalty and Citizens of the City of London; the Waterman's Company. The Public.
 
 21 Land - The Crown and the Commissioners of Chelsea Hospital. The Commissioners of Chelsea Hospital.
 
-22 Outlet and Bank to Ranelagli Sewer. , The Metropolitan Commissioners of Sewers. The Metropolitan Commissioners of Sewers.
+22 Outlet and Bank to Ranelagh Sewer. , The Metropolitan Commissioners of Sewers. The Metropolitan Commissioners of Sewers.
 
 The Parishes of Saint Lulce Chelsea, and Saint Mary Abbott's Kensington, in the County of Middlesex.
 
@@ -22346,7 +22346,7 @@ and 17, White Lion Street. Cadogan. shall, William Messam Marshall. William Hewe
 
 24 House and Grounds - G eorge Brett The Metropolitan Commissioners of Sewers. . Georgo Brett.
 
-25 The Ranelagli Sewer i : i The Metropolitan Commissioners of Sewers.
+25 The Ranelagh Sewer i : i The Metropolitan Commissioners of Sewers.
 
 The Parish of Saint George Hanover Square, in the County of Middlesex.
 
@@ -22764,7 +22764,7 @@ Annual Duty for each Horse or Mule.
 
 For every Horse kept or used for the Purpose of racing or running for any Plate, Prize, or Sum of Money or other Thing, or kept in training for any of the said last-mentioned Purposes - - - - -
 
-For every other Horse, and for every Mule, exceeding respectively the Height of Thirteen Hands of Four Inches to each Hand, kept for the Purpose of riding, or drawing any Carriage ohargeable with Duty, except Horses chargeable under Schedule (F.) of this Act -
+For every other Horse, and for every Mule, exceeding respectively the Height of Thirteen Hands of Four Inches to each Hand, kept for the Purpose of riding, or drawing any Carriage chargeable with Duty, except Horses chargeable under Schedule (F.) of this Act -
 
 £ $ d. 3 17 0
 
@@ -32044,7 +32044,7 @@ XI. The Proprietor or Occupier of every Warehouse (except existing Warehouses of
 
 XII. All existing Appointments and Approvals of Warehouses for the Warehousing of Goods and of Bonded Sugar Houses, in respect of which Security shall have been given by the Proprietor or Occupier thereof as aforesaid, shall continue in force as if the same had been made under the Authority of this Act, unless and until the same shall be revoked as herein-after provided; and no Bond shall, after the passing of this Act, be required to be given by the Importer of any Goods on the warehousing thereof, but all existing Bonds given in respect of any Goods warehoused or entered to be warehoused in any Warehouse prior to the passing of this Act shall continue in force as if given under this Act.
 
-XHL The Commissioners of Customs may from Time to Time, by Order under their
+XIIL The Commissioners of Customs may from Time to Time, by Order under their
 
 Hands, appoint Stations or Places for Ships arriving at or departing from any Port or Place to bring to for the boarding or landing of Officers of the Customs, and may also appoint Places to be Sufferance Wharves for the lading and unlading of Goods by Sufferance, in such Cases, under such Restrictions, and in such Manner as they shall see fit, and may also direct at what particular Part or Parts of any Harbour, Dock, Quay, or other Place in any Port, Ships laden with Tobacco or any particular Cargo shall moor and discharge such Cargo; and the Commissioners of Customs, or the Collector or Comptroller of any Port under their Directions, may station Officers on board any Ship while within the Limits of any Port in the United Kingdom.
 
@@ -32970,7 +32970,7 @@ Officers of Customs according to the Market Price of the like Sort of Goods. bow
 
 mated.
 
-CXII. No Duty shall be oharged in respect of any Deficiency in Goods entered and Deficiencies in cleared from the Warehouse for Exportation, unless the Officers of Customs have reason- !?°£ds enter.ed able Ground to suppose that such Deficiency or any Part thereof has arisen from illegal or xpo a lon* Abstraction.
+CXII. No Duty shall be charged in respect of any Deficiency in Goods entered and Deficiencies in cleared from the Warehouse for Exportation, unless the Officers of Customs have reason- !?°£ds enter.ed able Ground to suppose that such Deficiency or any Part thereof has arisen from illegal or xpo a lon* Abstraction.
 
 cxm. No Entry for Home Consumption shall from and after the passing of this Act be Entries for received for or in respect of any Timber or Wood Goods deposited in any Warehouse for Wood Goods Security of Duties, for any less Quantity at any One Time than Five Loads of such Timber restncted' or Wood Goods, unless such Wood Goods shall be delivered by Tale, in which Case such Entry may be passed for any Quantity thereof not being less than Two hundred and forty Pieces, or Two Great Hundreds of such Wood Goods; and no less Quantity of such Timber or Wood Goods shall be delivered in virtue of any such Entry at any One Time than One Load of such Timber or Wood Goods, or Ninety Pieces of such Wood Goods if delivered by Tale.
 
