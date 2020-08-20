@@ -11124,7 +11124,7 @@ Locking and opening Warehouse.
 
 Carrying Goods to and from Warehouse.
 
-Bond upoh Entry of Goods to be warehoused.
+Bond upon Entry of Goods to be warehoused.
 
 Purchaser of Goods may give Bond in lieu of original Bond.
 
