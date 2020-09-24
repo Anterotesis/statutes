@@ -346,7 +346,7 @@ ENACTMENTS OF MERCHANT SHIPPING ACT (17 & 18 Vict. c. 104.) APPLIED.
 
 Section 103.
 
-* •
+*
 
 And in order that the above provisions as to forfeitures may be carried into effect, it shall be lawful for any commissioned officer on full pay in the military or naval service of Her Majesty, or any British officer of Customs, or any British Consular officer, to seize and detain any ship which has, either wholly or as to any share therein, become subject to forfeiture as aforesaid, and to bring her for adjudication before the High Court of Admiralty in England or Ireland, or any court having Admiralty jurisdiction in Her Majesty’s dominions; and such court may thereupon make such order in the case as it may think fit, and may award to the officer bringing in the same for adjudication such portion of the proceeds of the sale of any forfeited ship or share as it may think right.
 
@@ -618,7 +618,7 @@ justices by whom such sentences or decrees have been pronounced, it shall be com
 
 Section 542.
 
-No order, decree, or sentence pronounced by any sheriff or justice of the peace in Scotland under the authority of this Act shall be quashed or vacated for any misnomer, informality, or defect of form ; and all orders, decrees, and sentences so pronounced shall be final and conclusive, and not subject to suspension, advocation, reduction, or to any form of review or stay of execution, except on the ground of corruption or malice on the part of the sheriff or justices, in which case the suspension, advocation, or reduction must be brought within fourteen days ot the date of the order, decree, or sentence complained of: Provided always, that no stay of execution shall be competent to the effect of preventing immediate execution of such order, decree, or sentence.
+No order, decree, or sentence pronounced by any sheriff or justice of the peace in Scotland under the authority of this Act shall be quashed or vacated for any misnomer, informality, or defect of form ; and all orders, decrees, and sentences so pronounced shall be final and conclusive, and not subject to suspension, advocation, reduction, or to any form of review or stay of execution, except on the ground of corruption or malice on the part of the sheriff or justices, in which case the suspension, advocation, or reduction must be brought within fourteen days of the date of the order, decree, or sentence complained of: Provided always, that no stay of execution shall be competent to the effect of preventing immediate execution of such order, decree, or sentence.
 
 Section 543.
 
@@ -2240,8 +2240,6 @@ Aggregation of property to form one estate for purpose of duty.
 
 4. For determining the rate of Estate duty to be paid on any property passing on the death of the deceased, all property so passing in respect of which Estate duty is leviable shall be aggregated
 
-,
-
 1894.
 
 Finance Act, 1894.
@@ -2778,8 +2776,6 @@ Act, and the Acts referred to in such section thirty-four shall extend to an est
 
 (15.) An institute or heir of entail in possession of an entailed estate shall whether sui juris or not be deemed for the purposes of this Act to be a person competent to dispose of such estate: (16.) Where an entailed estate passes on the death of the deceased to an institute or heir of entail, who is not entitled to disentail such estate without either obtaining the consent of one or more subsequent heirs of entail or having the consent of such one or more subsequent heirs valued and dispensed with, settlement Estate duty as well as Estate duty shall be paid in respect of such estate, but neither Estate duty nor settlement Estate duty shall be payable again in respect of such estate, until such estate is disentailed, or until an heir of entail to whom it parses on or subsequent to the death of the institute or heir first mentioned, and who is entitled to disentail it without obtaining the consent of any subsequent heir or heirs or having the consent of any subsequent heir or heirs valued and dispensed with, dies:
 
-^
-
 1894.
 
 Finance Act, l£9k
@@ -2843,8 +2839,6 @@ fifteen degrees - - - - 0 2 4
 This section shall extend to Berlin white beer, and other preparations, whether fermented or not fermented, of a character similar to mum, spruce, or black beer. 27
 
 27. In addition to the duties of Customs now payable on every description of beer (other than is specified in the la3t preceding section) imported into Great Britain or Ireland, there shall be charged and paid on and after the seventeenth day of April one thousand eight hundred and ninety-four until the first day of July
-
-,
 
 1894.
 
@@ -10634,7 +10628,7 @@ New Towers conferred upon Parish Councils in Landward Parishes and Landward Part
 
 (b) comprises a police burgh or part of a police burgh,
 
-there shall be a c< mmittee ot the parish council, in this Act referred to as the landward committee, which shall in every case consist of the whole number of parish councillors for such parish, excepting only the councillors representing the burghal part of the parish, or such police burgh, or part of a police burgh; and, ii the case of such parishes, the powers (except the power to raise money by rate or loan) and duties conferred and imposed on a parish council by this Tart of this Act, shall be exercised and performed by the landward committee, which for such purpose and for the purpose of the Public Libraries Consolidation (S< otland) Act, 1887, shall be deemed to be the parish council of the parish, and which may sue and be sued as such landward committee. For such purpose, such burghal part and such police burgh or part of a police burgh shall be deemed to be outvxith such parish, and shall not be rated by the parish council.
+there shall be a c< mmittee of the parish council, in this Act referred to as the landward committee, which shall in every case consist of the whole number of parish councillors for such parish, excepting only the councillors representing the burghal part of the parish, or such police burgh, or part of a police burgh; and, ii the case of such parishes, the powers (except the power to raise money by rate or loan) and duties conferred and imposed on a parish council by this Tart of this Act, shall be exercised and performed by the landward committee, which for such purpose and for the purpose of the Public Libraries Consolidation (S< otland) Act, 1887, shall be deemed to be the parish council of the parish, and which may sue and be sued as such landward committee. For such purpose, such burghal part and such police burgh or part of a police burgh shall be deemed to be outvxith such parish, and shall not be rated by the parish council.
 
 Provided that where, in terms of section nine of this Act, a landward committee would consist of less than five members, the Board may, if they deem it expedient with a view to the proper transaction of business, by order provide for the election, along with, and subject to the same provisions a«, the election of parish councillors, of such additional number of members of such landward committee as shall be named in the order. In such case, if the election of the landward committee takes place according to parish wards, at least one member shall be added for each ward. Such landward committee, as increased, shall appoint from their own number to the parish council the requisite number of parish
 
@@ -11007,8 +11001,6 @@ A separate bank account shall be kept for each fund and all cheques for payment 
 (2.) A parish council and a landward committee shall keep such accounts of the above-mentioned funds, and of the sums raised by rates, as will prevent a rate from being applied to any purpose to which it is not properly applicable. The Board shall prescribe forms in which such accounts shall be kept.
 
 36. The provisions contained in sections sixty-eight to seventy inclusive of the principal Act with respect to the making up and auditing of the accounts of a county council shall, with the substitution of “ parish council ” for county council,” and “ clerk of the p trisli council ” for “ county clerk,” and “ parish ” for “ county ” or “ burgh,” and “ the Board ” for “ the Secretary for Scotland,” apply to the making up and auditing of the accounts
-
-^
 
 Incorporation of parish council.
 
@@ -16776,8 +16768,6 @@ Dangerous Goods, and Carriage of .
 
 (3.) The master shall comply with all the conditions and directions in the order, and, if he fails .to do so, shall for each offence be liable to a fine not exceeding three hundred pounds.
 
-'
-
 18D4.
 
 Merchant Shipping Act, 1894.
@@ -17259,8 +17249,6 @@ Provisions and water in ships carrying steerage passengers to British Islands.
 Registration of Births and Deaths.
 
 339. Where a ship which is not a British ship carries passengers, Application to whether cabin or steerage, to or from any port of the United forei$“ *Mp« Kingdom as the port of destination or the port of departure of such ship, the provisions of Part Two of this Act with respect to provisions
-
-,
 
 458
 
@@ -21438,7 +21426,7 @@ in addition to the expenses of making good any damage so occasioned, be liable f
 
 667. — (1.) Whenever any fire or light is burnt or exhibited at Prevention <>t such place or in such manner as to be liable to be mistaken for a false llght'i> light proceeding from a lighthouse, the general lighthouse authority
 
-within whose area the place is situate, may serve a notice upou the owner of the place where the fire or light is burnt or exhibited, or on the person having the charge of the fire or light, directing that owner or person, within a reasonable time to be specified in the notice, to take effectual means for extinguishing or effectually screening the fire or light, and for preventing for the future any similar fire or light.
+within whose area the place is situate, may serve a notice upon the owner of the place where the fire or light is burnt or exhibited, or on the person having the charge of the fire or light, directing that owner or person, within a reasonable time to be specified in the notice, to take effectual means for extinguishing or effectually screening the fire or light, and for preventing for the future any similar fire or light.
 
 (2.) The notice may be served either personally or by delivery of the same at the place of abode of the person to be served, or by affixing the same in some conspicuous spot near to the fire or light to which the notice relates.
 
@@ -23180,7 +23168,7 @@ Regulations as to number of Persons cari'ied Emigrant Ships.
 
 (2.) An emigrant ship shall not carry on the lower passenger deck a greater number of steerage passengers than in the proportion of one statute adult to every eighteen clear superficial feet of deck allotted to their use.
 
-(3.) Provided, that if the height between the lower passenger deck and the deck immediately above it is less than seven feet, or it' the apertures (exclusive of side scuttles) through which light and air are admitted together to the lower passenger deck are less in size than in the proportion of three square feet to every one hundred superficial feet of that deck, the ship shall not carry a greater number of steerage passengers on that deck than in the proportion of one statute adult to every tweuty-five clear superficial feet
+(3.) Provided, that if the height between the lower passenger deck and the deck immediately above it is less than seven feet, or it' the apertures (exclusive of side scuttles) through which light and air are admitted together to the lower passenger deck are less in size than in the proportion of three square feet to every one hundred superficial feet of that deck, the ship shall not carry a greater number of steerage passengers on that deck than in the proportion of one statute adult to every twenty-five clear superficial feet
 
 q
 
@@ -23756,7 +23744,7 @@ Section 37o.
 
 Number and Dimensions of Boats for Fishing Boats entered in the Fishing Boat Register.
 
-Registered Tonnage. Column 1. To be canned by Sailing Boats and Steam Boats. Column 2. To be carried by Sailing Boats and by Steam Boats when they do not carry the Boats in Col. 3. Column 3. To be carried by Steam Boats whicn do not carry the Boat in Col. 2. Column 4. Total Number of Boats.
+Registered Tonnage. Column 1. To be canned by Sailing Boats and Steam Boats. Column 2. To be carried by Sailing Boats and by Steam Boats when they do not carry the Boats in Col. 3. Column 3. To be carried by Steam Boats which do not carry the Boat in Col. 2. Column 4. Total Number of Boats.
 
 Boats. Boats. Launches. Boats. 4
 
@@ -25600,7 +25588,7 @@ Effect of Legislation.
 
 Statute and Chapter. Subject*matter or Short Title. How affected. Chapter of 57 & 56 Vict.
 
-19 & 20 Vict.: •
+19 & 20 Vict.:
 
 c. 24 Juvenile Convict Prison (Ireland) Repealed 56 (Stat. Law Rev.)
 
@@ -25714,7 +25702,7 @@ and Subject-matter or Short Title. How affected. of
 
 Chapter. i 57 & 58 Vict.
 
-82 & 33 Vict. : •
+82 & 33 Vict. :
 
 e. 11 Merchant Shipping (Colonial) - Repealed - 60, s. 745.
 
@@ -26118,7 +26106,7 @@ C. 68 Metropolitan Board of Works > Repealed
 
 Indemnity. ;
 
-c. 70 Vaccination Amendment (Ire- 1 S. 13, Schedule II. rep. -
+c. 70 Vaccination Amendment (Ire- 1 S. 13, Schedule II. rep.
 
 land).
 
@@ -26164,7 +26152,7 @@ c. 2 Glebe Loan (Ireland) Acts
 
 Amendment. ^ Repealed -
 
-C. 3 Consolidated Fund •
+C. 3 Consolidated Fund
 
 A.D. 1894.]
 
@@ -26182,7 +26170,7 @@ Chapter. 57 8c 58 Vict.
 
 cont. c. 4 Judicial Factors (Scotland) S. 2 repealed -
 
-c. 8 Isle of Man Loans S. 11, Schedule II. rep. -
+c. 8 Isle of Man Loans S. 11, Schedule II. rep.
 
 c. 10 Great Seal ... Ss. 2 6 repealed -1
 
@@ -26430,7 +26418,7 @@ c. 14 Contagious Diseases (Animals) Repealed - - 57, 8. 78.
 
 c. 60 Local Taxation (Customs and - 58, s. 55.
 
-Excise). .
+Excise).
 
 c. 70 Housing of the Working Classes Part II. explained - • 55.
 
