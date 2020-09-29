@@ -170,6 +170,8 @@ Cap. 84. For repairing and widening the roads from the north end of Dunsby Lane,
 
 Cap. 85. For repairing and widening the roads leading from the east side of Lincoln Heath, to the city of Peterborough; and from the east end of Marbam Lane, to the town of Walton in the county of Northampton; and from the town of Bourn, to the town of Costerworth; and from Donington High Bridge, to the cross post in the parish of Hacconby; and from the east end of a lane called Hale Drove, to and through the town of Old Sleaford, to the end of Long Hedge in the parish of Quarrington in the county of Lincoln.
 
+---
+
 Cap. 86. For building a bridge cross the river Thames, from Black Fryars in the city of London, to the opposite side in the county of Surry.
 
 Cap. 87. For regulating the nightly watch and beadels, and better enlightening, paving, and cleaning the streets and other passages, and repairing the highways within the parishes of Saint John Wapping, Saint Paul Shadwell, the hamlet of Ratcliffe, the parish of Saint Anne in the county of Middlesex, and the precinct of Well Close in the liberty of the Tower of London.
@@ -180,13 +182,13 @@ Cap. 89. For rebuilding the parish church, and enlarging the church yard of Sain
 
 Cap. 90. To enable the proprietors and inhabitants of houses in York Buildings, in the parish of Saint Martin in the Fields in the county of Middlesex, to make and levy a rate on themselves, sufficient to answer the expence of rebuilding or repairing of the terrace walk and water-gate, and such other part of the premises adjoining to the river Thames and belonging to the said buildings, as shall be judged necessary, and for keeping the same in repair for the future.
 
-Cap. 91. For explaining and making more effectual an act passed in the twenty fourth year of the reign of his present Majesty, for repairing the road leading from the east end of Brampton High Lane in the comity of York, to the town of Richmond, and from thence to and through the towns of Askrigg and Ingleton in the said county, to the town of Lancaster in the county of Lancaster; and also for repairing the road leading from Richmond aforesaid, through Gilling, Melsonby and Aldbrough, to Lucy, otherwise Lousy Cross, and from Gilling through Gilling Town Lane, to the turnpike road on Gatherly Moor.
+Cap. 91. For explaining and making more effectual an act passed in the twenty fourth year of the reign of his present Majesty, for repairing the road leading from the east end of Brampton High Lane in the county of York, to the town of Richmond, and from thence to and through the towns of Askrigg and Ingleton in the said county, to the town of Lancaster in the county of Lancaster; and also for repairing the road leading from Richmond aforesaid, through Gilling, Melsonby and Aldbrough, to Lucy, otherwise Lousy Cross, and from Gilling through Gilling Town Lane, to the turnpike road on Gatherly Moor.
 
 Cap. 92. For explaining, amending, and making more effectual, an act of parliament made in the twenty sixth year of the reign of his present Majesty, intituled, An act for repairing and widening the road from the top of White Sheet Hill in the parish of Donhead Saint Andrew in the county of Wilts, through the towns of Shaftsbury, Milborne Port and Sherborne, in the counties of Dorset and Somerset, to the Half-way House in the parish of Nether, otherwise Lower Compton, in the said county of Dorset, and several other roads near the towns of Shaftsbury and Sherborne aforesaid; and for repairing other roads adjoining to the roads in the said former act mentioned.
 
 Cap. 93. To enlarge the term and powers of an act for repairing the road from Shrewsbury to Wrexham in the county of Denbigh, and to repair and widen several other roads therein mentioned, and the road from Wrexham to Chester, and from thence to Pen Fordd y Waen in the parish of Whitford, and also the road from Broughton to Mold in the county of Flint.
 
-Cap. 94. For amending, repairing, and widening the roads leading from the Rye-way in the parish of Yarpole in the county of Hereford to Presteigne in the county of Radnor, and from thence to Leintwardine, and from Presteigne aforesaid, to the top of Trap Hill, and from the Rye-way aforesaid, by the Maidenhead, to Wooserton in the county of Salop.
+Cap. 94. For amending, repairing, and widening the roads leading from the Rye-way in the parish of Yarpole in the county of Hereford to Presteigne in the county of Radnor, and from thence to Leintwardine, and from Presteigne aforesaid, to the top of Trap Hill, and from the Rye-way aforesaid, by the Maidenhead, to Wooferton in the county of Salop.
 
 Private Acts.
 
@@ -238,9 +240,7 @@ wer, and his heirs, to take andofe
 
 13. An act for naturalizing Anthony
 
-Henry Stemam, Peter Otte, Godfrey Moiling, and Chrifian Meyer, Henry Bielf eld , John Peter ana
-
-Mathew Liebigaray.
+Henry Stemam, Peter Otte, Godfrey Moiling, and Chrifian Meyer, Henry Bielf eld , John Peter and Mathew Liebigaray.
 
 14. An act for naturalizing David Efternod.
 
@@ -7738,6 +7738,8 @@ CAP. LXXXV.
 
 An act for repairing and widening the roads leading from the east side of Lincoln Heath, to the city of Peterborough; and from the east end of Marbam Lane, to the town of Walton in the county of Northampton; and from the town of Bourn, to the town of Costerworth; and from Donington High Bridge, to the cross post in the parish of Hacconby; and from the east end of a lane called Hale Drove, to and through the town of Old Sleaford, to the end of Long Hedge in the parish of Quarrington in the county of Lincoln.
 
+---
+
 CAP. LXXXVI.
 
 An act for building a bridge cross the river Thames, from Black Fryars in the city of London, to the opposite side in the county of Surry.
@@ -7764,7 +7766,7 @@ An act to enable the proprietors and inhabitants of houses in York Buildings, in
 
 CAP. XCI.
 
-An act for explaining and making more effectual an act passed in the twenty fourth year of the reign of his present Majesty, for repairing the road leading from the east end of Brampton High Lane in the comity of York, to the town of Richmond, and from thence to and through the towns of Askrigg and Ingleton in the said county, to the town of Lancaster in the county of Lancaster; and also for repairing the road leading from Richmond aforesaid, through Gilling, Melsonby and Aldbrough, to Lucy, otherwise Lousy Cross, and from Gilling through Gilling Town Lane, to the turnpike road on Gatherly Moor.
+An act for explaining and making more effectual an act passed in the twenty fourth year of the reign of his present Majesty, for repairing the road leading from the east end of Brampton High Lane in the county of York, to the town of Richmond, and from thence to and through the towns of Askrigg and Ingleton in the said county, to the town of Lancaster in the county of Lancaster; and also for repairing the road leading from Richmond aforesaid, through Gilling, Melsonby and Aldbrough, to Lucy, otherwise Lousy Cross, and from Gilling through Gilling Town Lane, to the turnpike road on Gatherly Moor.
 
 CAP. XCII.
 
@@ -7776,7 +7778,7 @@ An act to enlarge the term and powers of an act for repairing the road from Shre
 
 CAP. XCIV.
 
-An act for amending, repairing, and widening the roads leading from the Rye-way in the parish of Yarpole in the county of Hereford to Presteigne in the county of Radnor, and from thence to Leintwardine, and from Presteigne aforesaid, to the top of Trap Hill, and from the Rye-way aforesaid, by the Maidenhead, to Wooserton in the county of Salop.
+An act for amending, repairing, and widening the roads leading from the Rye-way in the parish of Yarpole in the county of Hereford to Presteigne in the county of Radnor, and from thence to Leintwardine, and from Presteigne aforesaid, to the top of Trap Hill, and from the Rye-way aforesaid, by the Maidenhead, to Wooferton in the county of Salop.
 
 The End of the Twenty First Volume.
 
