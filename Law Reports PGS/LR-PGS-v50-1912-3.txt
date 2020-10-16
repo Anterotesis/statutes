@@ -2020,7 +2020,7 @@ services ..... 50,000 —
 
 40. For the salaries and expenses of the Public Record Office in Ireland and of the Keeper of State Papers in Dublin - - 7,446
 
-41. For the salaries and expenses of the Office of Public Works in Ireland ... 46,969 ■ i 3,000
+41. For the salaries and expenses of the Office of Public Works in Ireland ... 46,969  i 3,000
 
 42. For the salaries and expenses of the department of the Registrar General of Births, &c., and for the expenses of collecting emigration statistics in Ireland - - -
 
@@ -2982,7 +2982,7 @@ Michael Lynch and James Lynch 80 0 0 25 11 8
 
 James McNamara 60 0 0 42 12 7
 
-Thomas McNamara | 60 ■ 0 0 42 2 11
+Thomas McNamara | 60  0 0 42 2 11
 
 Martin Butledge - ; 50 0 0 33 19 5
 
@@ -3060,7 +3060,7 @@ An Act to provide for the transfer to the Commissioners of Works of certain prop
 
 WHEREAS by royal charter dated the twenty-first day of January eighteen hundred and seven (herein-after referred to as the charter of the Institution) a society (hereinafter referred to as the Institution) was incorporated by the name of “The London Institution for the Advancement of ^ Literature and the Diffusion of Useful Knowledge” for the purposes mentioned in the charter :
 
-And whereas the affairs of the Institution are regulated by the charter of the Institution and by an Act passed in the session of the first and second years of the reign of His late Majesty King George the Fourth, intituled “An Act for pro-“ viding an increase of the annual income of the London “ Institution ” (herein-after referred to as the recited Act):
+And whereas the affairs of the Institution are regulated by the charter of the Institution and by an Act passed in the session of the first and second years of the reign of His late Majesty King George the Fourth, intituled “An Act for providing an increase of the annual income of the London “ Institution ” (herein-after referred to as the recited Act):
 
 And whereas it is proposed to establish a School of Oriental Studies, and it has been arranged that certain of the property of the Institution shall be transferred to the Commissioners of Works (herein-after referred to as the Commissioners) with a view to its use for the purposes of, and in connection with, such school, and such arrangement has been confirmed at a general meeting of the proprietors of the Institution held on the twenty-fifth day of March nineteen hundred and twelve :
 
@@ -3808,9 +3808,9 @@ is shown to the authority to whom the question of disputed compensation is submi
 
 5. — (1) The requirement contained in paragraph ( ) of Miscellaneous subsection (2) of section three of the principal Act that the expenditure of a council shall in a certain case be limited by the Act!nnClpa order shall be amended by the substitution of the words “ such
 
-“ amount as the Board of Trade think fit under the circum-“ stances,” for the words “ such amount as will, in the opinion “ of the Board of Trade, bear due proportion to the benefit “ which may be expected to accrue to their area from the “ construction or working of the railway.”
+“ amount as the Board of Trade think fit under the circumstances,” for the words “ such amount as will, in the opinion “ of the Board of Trade, bear due proportion to the benefit “ which may be expected to accrue to their area from the “ construction or working of the railway.”
 
-(2) There shall be substituted for the words “ a railway com-“ pany existing at the time will construct and work the railway “ if an advance is made by the Treasury under this section ” in subsection (1) of section five of the principal Act, the words “ a railway company working railways open for traffic has “ entered into an undertaking, subject to an advance being “ made by the Treasury under this section, to work the light “ railway when constructed.”
+(2) There shall be substituted for the words “ a railway company existing at the time will construct and work the railway “ if an advance is made by the Treasury under this section ” in subsection (1) of section five of the principal Act, the words “ a railway company working railways open for traffic has “ entered into an undertaking, subject to an advance being “ made by the Treasury under this section, to work the light “ railway when constructed.”
 
 (3) The following paragraphs shall be substituted for paragraphs (c) and (d) of section eleven of the principal Act: —
 
@@ -4514,7 +4514,7 @@ Extent of Amendment.
 
 Section three, after the word “action” occurring in subhead (d), insert the words “ or cause ” ; omit sub-head
 
-(i),and in lieu thereof insert “ Sum-“ mary cause includes actions (other “ than actions brought and con-“ ducted in the small debt court “ and claims under the Workmen’s “ Compensation Act) for payment “ of money not exceeding fifty “ pounds in amount, exclusive of “ interest and expenses, and all “ actions in which either the parties “ admit that the value of the action, “ exclusive of interest and ex-“ penses, does not exceed fifty “ pounds or which they consent at “ any stage shall be tried sum-“ marily,” and at the end of the section insert —
+(i),and in lieu thereof insert “ Summary cause includes actions (other “ than actions brought and conducted in the small debt court “ and claims under the Workmen’s “ Compensation Act) for payment “ of money not exceeding fifty “ pounds in amount, exclusive of “ interest and expenses, and all “ actions in which either the parties “ admit that the value of the action, “ exclusive of interest and expenses, does not exceed fifty “ pounds or which they consent at “ any stage shall be tried summarily,” and at the end of the section insert —
 
 “ (q) * Employee ’ includes the legal personal representative of an employee, and any person who, by the law of Scotland, may be entitled to solatium in respect of the death of an employee.”
 
@@ -4522,9 +4522,9 @@ Section five, omit subsection (2), and in lieu thereof, insert —
 
 “ (2) Actions of aliment, provided that as between husband and wife they are actions of separation and aliment, adherence and aliment, or interim aliment, and actions for regulating the custody of children.”
 
-In the same section and in the last proviso thereof, omit the words from “action” to the end of the section, and in lieu thereof insert “ mentioned in the second subsec-“ tion of this section.”
+In the same section and in the last proviso thereof, omit the words from “action” to the end of the section, and in lieu thereof insert “ mentioned in the second subsection of this section.”
 
-Section six (a), after the word “defenders” insert the words “over “ each of whom a sheriff court has “ jurisdiction in terms of this Act”; omit the words “ immediately prior “ to the raising of the action ”; omit I the words “ and whose present resi-“ dence in Scotland is unknown,” and insert “ and has no known “ residence in Scotland.”
+Section six (a), after the word “defenders” insert the words “over “ each of whom a sheriff court has “ jurisdiction in terms of this Act”; omit the words “ immediately prior “ to the raising of the action ”; omit I the words “ and whose present residence in Scotland is unknown,” and insert “ and has no known “ residence in Scotland.”
 
 1913.
 
@@ -4550,7 +4550,7 @@ Courts Section six (5), omit “sheriffdom,” Act, and insert “ jurisdiction.
 
 Section seven, omit the first proviso and the word “ also.”
 
-Section eight, after the word “ party,” insert “made before the examina-“ tion of witnesses is begun”; omit the last sentence.
+Section eight, after the word “ party,” insert “made before the examination of witnesses is begun”; omit the last sentence.
 
 Section twenty-one, leave out “for “ the county or burgh, respectively, “ in which he shall be sheriff or “ salaried sheriff substitute,” and insert “ occurring within his jurisdiction.”
 
@@ -4604,7 +4604,7 @@ Omit Buie 11, and in lieu thereof insert —
 
 Sheriff Court.”
 
-16. At end, insert “ All remedies (in-“ eluding caption) competent to “ enforce the return of a borrowed “ process may proceed on the war-“ rant of the court from whose “ custody the process was obtained, “ and that whether the borrower is “ or is not resident within its “ jurisdiction.”
+16. At end, insert “ All remedies (ineluding caption) competent to “ enforce the return of a borrowed “ process may proceed on the warrant of the court from whose “ custody the process was obtained, “ and that whether the borrower is “ or is not resident within its “ jurisdiction.”
 
 22. Omit “lodge with the Sheriff Clerk,” and insert “ exhibit to the
 
@@ -4676,7 +4676,7 @@ Omit Buie 52, and in lieu thereof insert —
 
 76. Omit “ confidentially” and insert “ confidentiality.”
 
-86. At end of rule, insert “ provided “ that an interlocutor granting “ interim interdict may be ap-“ pealed within fourteen days from “ the date of intimation thereof.” 89, 90. Omit “ reclaiming note ” and insert “ reclaiming petition.”
+86. At end of rule, insert “ provided “ that an interlocutor granting “ interim interdict may be appealed within fourteen days from “ the date of intimation thereof.” 89, 90. Omit “ reclaiming note ” and insert “ reclaiming petition.”
 
 Omit Rule 119, and in lieu thereof, insert —
 
@@ -6106,7 +6106,7 @@ xvii. An Act to enable the urban district council of Rams-bottom to construct ov
 
 xviii. An Act to provide for the incorporation under the Companies (Consolidation) Act 1908 of a Company to take over the investments securities property and assets of the
 
-£■ Birkbeck Share and Debenture Trust and for other purposes. (Birkbeck Share and Debenture Trust.)
+£ Birkbeck Share and Debenture Trust and for other purposes. (Birkbeck Share and Debenture Trust.)
 
 xix. An Act to confer further powers upon the Manchester Ship Canal Company with respect to the holding and disposal of lands and for other purposes. (Manchester Ship Canal.)
 
@@ -6376,7 +6376,7 @@ P. Cxi. An Act to confirm certain Provisional Orders of the Local Government Boa
 
 P. cxii. An Act to confirm certain Provisional Orders of the Local Government Board for Ireland relating to the urban districts of Monaghan and Blackrock the rural district of Newry (No. 1) and the Newry Port Sanitary Authority. (Local Government Board (Ireland) Provisional Orders Confirmation (No. 2).)
 
-P. cxiii. An Act to confirm certain Provisional Orders of the Local Government Board for Ireland relating to the Dublin Joint Hospital District the Portarlington Joint Burial Board Clonmel and the. King’s County and County of Westmeath. (Local Government Board (Ireland) ■ Orders
+P. cxiii. An Act to confirm certain Provisional Orders of the Local Government Board for Ireland relating to the Dublin Joint Hospital District the Portarlington Joint Burial Board Clonmel and the. King’s County and County of Westmeath. (Local Government Board (Ireland)  Orders
 
 Confirmation (No. 3).)
 
