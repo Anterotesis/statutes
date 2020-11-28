@@ -568,7 +568,7 @@ ugar of a polarisation — Exceeding 76 and not exceeding 77 - the cwt.
 
 n 77 19 78 - 99
 
-99 78 * 99 79 - 99
+99 78 99 79 - 99
 
 91 79 99 80 - 99
 
@@ -598,7 +598,7 @@ ii 91 99 92 - 99 9
 
 ii 92 99 93 -
 
-ii 93 ’ 91 * 94 - 99
+ii 93 ’ 91 94 - 99
 
 ii 94 99 95 - 99
 
@@ -916,7 +916,7 @@ For the purposes of this provision, offences committed within the jurisdiction o
 
 (4) For the purpose of meeting any change in the financial relations between any counties and boroughs which may arise by virtue of the provisions of this Act as to the payment of any costs allowed under this Act, any necessary equitable adjustment may be made by agreement between the councils of the counties or boroughs concerned, or, in default of agreement, by the Local Government Board.
 
-The Board may at their option determine the matter as arbitrators, or otherwise, and, if they elect to determine the matter as arbitrators, the provisions of the Regulation of 31 * 32 Vict. Railways Act, 1868, respecting arbitrations by the Board of c# 119,
+The Board may at their option determine the matter as arbitrators, or otherwise, and, if they elect to determine the matter as arbitrators, the provisions of the Regulation of 31 32 Vict. Railways Act, 1868, respecting arbitrations by the Board of c# 119,
 
 Trade, and the enactments amending those provisions, shall apply as if they were herein re-enacted and in terms made applicable to the Local Government Board and the determination of matters under this subsection.
 
@@ -1082,7 +1082,7 @@ Session and Chapter. Short Title. Extent of Repeal.
 
 5 & G Will. 4. c. 50. The Highway Act, 1835. Section ninety five, from “ and the costs ” to “ shall be situate ” and S3etion ninety-eight.
 
-1 & 2 Vict. c. 82. * The Parkhurst Prison Act, 1838. Section fourteen, from “ and the expenses” to the end of the section.
+1 & 2 Vict. c. 82. The Parkhurst Prison Act, 1838. Section fourteen, from “ and the expenses” to the end of the section.
 
 6 & 7 Vict. c. 96. The Libel Act, 1813 - Section eight.
 
@@ -1246,7 +1246,7 @@ Finance A, 1908. Ch. 16.
 
 cultivation of tobacco in Ireland, and the curing of tobacco so grown, except by persons holding a licence and having made entry for the purpose, and on land or premises approved by the Commissioners for the purpose, and for regulating the removal of tobacco so grown and enabling a licensed manufacturer of tobacco to receive any such tobacco.
 
-The Commissioners may, by any such regulations, apply any provision of the law of excise, whether relating to excise duties generally or to any special article on which an excise duty is payable, and any provision of the Manufactured Tobacco Act, 26 * 27 Vict. 1863, or any Act amending the same. c-7-
+The Commissioners may, by any such regulations, apply any provision of the law of excise, whether relating to excise duties generally or to any special article on which an excise duty is payable, and any provision of the Manufactured Tobacco Act, 26 27 Vict. 1863, or any Act amending the same. c-7-
 
 If any person acts in contravention of, or fails to comply with, any such regulation, the article in respect of which the offence is committed shall be forfeited, and the person committing the offence shall be liable in respect of each offence to an excise penalty of fifty pounds.
 
@@ -1290,7 +1290,7 @@ General.
 
 Construction 10. — (1) Part I. of this Act so far as it relates to duties of
 
-39 &640 Vict' * Customs shall be construed together with the Customs Con-c. 36. solidation Act, 1876, and the Acts amending that Act, and so
+39 &640 Vict' Customs shall be construed together with the Customs Con-c. 36. solidation Act, 1876, and the Acts amending that Act, and so
 
 far as it relates to duties of Excise shall be construed together with the Acts which relate to the duties of Excise and the management of those duties.
 
@@ -1608,7 +1608,7 @@ c. 89. Act, 1840.
 
 (3.)
 
-4 * 6 Vict. c. 80.
+4 6 Vict. c. 80.
 
 (4.)
 
@@ -1616,15 +1616,15 @@ c. 89. Act, 1840.
 
 (5.)
 
-14 * 15 Vict. c. 104.
+14 15 Vict. c. 104.
 
 («.)
 
-17 * 18 Vict. c. 103.
+17 18 Vict. c. 103.
 
 (7.)
 
-26 * 27 Vict. c. 105.
+26 27 Vict. c. 105.
 
 (8.)
 
@@ -1632,15 +1632,15 @@ c. 89. Act, 1840.
 
 (9.)
 
-28 * 29 Vict. c. 46.
+28 29 Vict. c. 46.
 
 (10.)
 
-28 * 29 Vict. c. 83.
+28 29 Vict. c. 83.
 
 (11.)
 
-31 * 32 Vict. c. 125.
+31 32 Vict. c. 125.
 
 A (12.)
 
@@ -1652,11 +1652,11 @@ A (12.)
 
 (14.)
 
-33 * 34 Vict. c. 112.
+33 34 Vict. c. 112.
 
 (15.)
 
-34 * 35 Vict. c. 87,
+34 35 Vict. c. 87,
 
 The Textile Manufactures (Ireland) Act, 1840.
 
@@ -1666,7 +1666,7 @@ The whole Act
 
 The whole Act
 
-The Ecclesiastical Juris- | As to the provisions diction Act, 1847. I continued by 21 * 22 Vict. c. 60.
+The Ecclesiastical Juris- | As to the provisions diction Act, 1847. I continued by 21 22 Vict. c. 60.
 
 The Episcopal and Capitular Estates Act, 1851.
 
@@ -1688,29 +1688,29 @@ The whole Act.
 
 The whole Act
 
-5*6 Vict. c. 68. 30 * 31 Vict. c. 60.
+5*6 Vict. c. 68. 30 31 Vict. c. 60.
 
 83 Vict. c. 18.
 
-47 * 48 Vict. c.48. 52 * 63 Vict. c. 30.
+47 48 Vict. c.48. 52 63 Vict. c. 30.
 
 17 *18 Vict. c. 116.
 
 21 *22 Vict. c. 94.
 
-22 * 23 Vict. c. 46.
+22 23 Vict. c. 46.
 
 23 & 24 Vict. c. 124. 81 *32 Vict. c. 114.
 
 s. 10.
 
-26 * 27 Vict. c. 29.
+26 27 Vict. c. 29.
 
 s. 6.
 
-31 *32 Vict. c. 125. 46 * 47 Vict. c. 51.
+31 *32 Vict. c. 125. 46 47 Vict. c. 51.
 
-45 * 46 Vict. c. 61.
+45 46 Vict. c. 61.
 
 The Locomotives Act, 1865 j The whole Act
 
@@ -1722,19 +1722,19 @@ The Corrupt Practices The whole Act Commission Expenses !
 
 Act, 1869.
 
-45 * 46 Vict. c. 49.
+45 46 Vict. c. 49.
 
 41 *42 Vict. c. 68.
 
-41 * 42 Vict. o. 77. (Part II.)
+41 42 Vict. o. 77. (Part II.)
 
-59 * 60 Vict. c. 36. 61 * 62 Vict. c. 29.
+59 60 Vict. c. 36. 61 62 Vict. c. 29.
 
-42 * 43 Vict. c. 76. 46 * 47 Vict. c. 51,
+42 43 Vict. c. 76. 46 47 Vict. c. 51,
 
-84 * 35 Vict. c. 61.
+84 35 Vict. c. 61.
 
-The Endowed.Schools Act, As to the powers of , 86 * 37 Vict. c. 87. 1869. making schemes. 37 * 88 Vict. c. 87.
+The Endowed.Schools Act, As to the powers of , 86 37 Vict. c. 87. 1869. making schemes. 37 88 Vict. c. 87.
 
 1 62 *53 Vict. c. 40.
 
@@ -2406,7 +2406,7 @@ Indemnity to 1. Senate shall annually pay to the council of the Durham colleges 
 
 to the portion of the University's receipts from degree, examination, and Convocation fees that has hitherto been applicable to purposes now to be transferred to the said council.
 
-Continuance of 2. Senate shall annually pay to the college of medicine the sum of tnth1 ^l*1 *668 ^our hundred pounds in lieu of the grants amounting in all to four a no * jiun^jre^| p0ua(]s hitherto paid to the said college out of the University’s receipts from degree fees.
+Continuance of 2. Senate shall annually pay to the college of medicine the sum of tnth1 ^l*1 *668 ^our hundred pounds in lieu of the grants amounting in all to four a no jiun^jre^| p0ua(]s hitherto paid to the said college out of the University’s receipts from degree fees.
 
 3. Senate shall annually pay to the council of the Durham colleges the further sum of two hundred pounds as compensation equivalent to the value for the furtherance of purposes now to be transferred to the said council of the right of appointment to certain University offices to be retained by Senate, and after the treasurer of the University shall have ceased to be treasurer of the Durham division also, then an additional sum of one hundred pounds, making three hundred pounds in all.
 
@@ -2500,7 +2500,7 @@ XIII.
 
 2. Senate shall provide for the custody of the property and moneys of the University and the council of the Durham colleges for the custody of the property and moneys of the Durham division after the said Frederick William Ritson has ceased to be treasurer.
 
-* XIV.
+XIV.
 
 1. There shall be a Registrar of the University.
 
@@ -3388,7 +3388,7 @@ Penal rent* 25. Notwithstanding any provision in a contract of tenancy
 
 and liquidated making the tenant of a holding liable to pay a higher rent or ages* other liquidated damages in the event of any breach or non-fulfilment of a term or condition in the contract, a landlord shall not be entitled to recover, by distress or otherwise, any sum in consequence of any such breach or nonfulfilment in excess of the damage actually suffered by him in consequence of the breach or nonfulfilment:
 
-Provided that this section shall not apply to any term or condition in a contract against the breaking up of permanent pasture, the grubbing of underwoods, or the felling, cutting, lopping, or injuring of trees, or regulating the burning of * heather.
+Provided that this section shall not apply to any term or condition in a contract against the breaking up of permanent pasture, the grubbing of underwoods, or the felling, cutting, lopping, or injuring of trees, or regulating the burning of heather.
 
 Freedom of 26. — (1) Notwithstanding any custom of the country, or the
 
@@ -4188,7 +4188,7 @@ prisons at home and abroad
 
 . 6. For scientific services ...
 
-7. For the royal naval reserve, the royal fleet reserve (including seamen pensioner reserve), and the royal naval volunteers, &c. -'8. Sect. 1. For the personnel for shipbuilding, repairs, maintenance, &c., including the cost of establishments of dockyards and naval yards at home and abroad -J , Sect. 2. For the materiel for shipbuilding, * repairs, maintenance, &c., including the cost of establishments of dockyards and naval yards at home and abroad , Sect. 3. For contract work for shipbuilding, . repairs, &c.
+7. For the royal naval reserve, the royal fleet reserve (including seamen pensioner reserve), and the royal naval volunteers, &c. -'8. Sect. 1. For the personnel for shipbuilding, repairs, maintenance, &c., including the cost of establishments of dockyards and naval yards at home and abroad -J , Sect. 2. For the materiel for shipbuilding, repairs, maintenance, &c., including the cost of establishments of dockyards and naval yards at home and abroad , Sect. 3. For contract work for shipbuilding, . repairs, &c.
 
 9. For naval armaments - -
 
@@ -5136,7 +5136,7 @@ of Distress in Ireland - 13,000 —
 
 8. For the cost of Government Hospitality - 5,000 —
 
-Total Civil Services, Class VII. * £ 511,844 5,850
+Total Civil Services, Class VII. £ 511,844 5,850
 
 SCHEDULE (B.) — Part 12.
 
@@ -5496,7 +5496,7 @@ Nominations by members of branches.
 
 6. In section sixty-eight of the principal Act (which relates Disputes, to the decision of disputes) the words “ for not more than six months ” shall be repealed in paragraph (b) of subsection (1), and at the end of the section the following new subsection shall be added: —
 
-“ (8) In this section the expression * dispute ’ includes any dispute arising on the question whether a member or person aggrieved is entitled to be or to continue
+“ (8) In this section the expression dispute ’ includes any dispute arising on the question whether a member or person aggrieved is entitled to be or to continue
 
 H
 
@@ -5604,7 +5604,7 @@ Telegraph ( Construction)Act, 1908. 8 Edw. 7.
 
 (4) The Postmaster-General shall issue instructions to his officers with a view to ensuring that trees shall be lopped in a husbandlike manner and so as to avoid injury to their growth.
 
-6. Notwithstanding anything in the Railway and Canal Determination Traffic Act, 1888, any difference directed to be determined by Vict*5* the Railway and Canal Commission under the Telegraph Acts, c. 25. 1C * 1863 to 1907, or this Act, may in the discretion of the Commission be heard and determined by the two appointed Commissioners, whose order shall be deemed to be the order
+6. Notwithstanding anything in the Railway and Canal Determination Traffic Act, 1888, any difference directed to be determined by Vict*5* the Railway and Canal Commission under the Telegraph Acts, c. 25. 1C 1863 to 1907, or this Act, may in the discretion of the Commission be heard and determined by the two appointed Commissioners, whose order shall be deemed to be the order
 
 of the Commission.
 
@@ -5700,7 +5700,7 @@ Appointment of officers by local authorities.
 
 Local authorities and expenses.
 
-Exercise of powers of county councils by committees for the purposes of Part I. of 63 * 63 Vict.
+Exercise of powers of county councils by committees for the purposes of Part I. of 63 63 Vict.
 
 C. 60,
 
@@ -6280,7 +6280,7 @@ appointed under the Allotments and Cottage Gardens Compensation for Crops Act, 1
 
 31. — (1) The council of a borough, urban district, or parish shall cause a list to be kept showing the particulars of the tenancy, acreage, and rent of every allotment let, and of the unlet allotments.
 
-(2) The list shall be open to the inspection of ratepayers in the borough, district, or parish for which * the allotments have been provided, in such manner as may be provided by the rules made under this Act by the council, and any ratepayer of such borough, district, or parish, without paying any fee, may take copies of or extracts from the list.
+(2) The list shall be open to the inspection of ratepayers in the borough, district, or parish for which the allotments have been provided, in such manner as may be provided by the rules made under this Act by the council, and any ratepayer of such borough, district, or parish, without paying any fee, may take copies of or extracts from the list.
 
 32. — (1) Where the council of any borough, urban district, or parish are of opinion that any land acquired by them for allotments or any part thereof is not needed for the purpose of allotments, or that some more suitable land is available, they may, with the sanction of the county council, sell or let such land otherwise than under the provisions of this Act, or exchange the land for other land more suitable for allotments, and may pay or receive money for equality of exchange.
 
@@ -7726,7 +7726,7 @@ Application to Scotland, Ireland, and the Scilly Isles.
 
 c. 37.
 
-Commencement and * short title.
+Commencement and short title.
 
 Section 1.
 
@@ -8126,7 +8126,7 @@ An Act to amend the Lunacy Acts, 1890 and 1891.
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. In the case of any of the persons mentioned in sub- Extension to section (1) of section one hundred and sixteen of the Lunacy ^ttceTof" Act, 1890, not being a lunatic so found by inquisition, any powers of com-powers which, if such person were a lunatic so found by inquisi- mittee8 with tion, could be exercised by the committee of the estate, may be Sagement exercised by such person in such manner, and with or without of property, security, as the Judge in Lunacy or, subject to Rules in Lunacy, 33 * 54 Vict-a Master may direct, and any such order may confer on the c‘
+1. In the case of any of the persons mentioned in sub- Extension to section (1) of section one hundred and sixteen of the Lunacy ^ttceTof" Act, 1890, not being a lunatic so found by inquisition, any powers of com-powers which, if such person were a lunatic so found by inquisi- mittee8 with tion, could be exercised by the committee of the estate, may be Sagement exercised by such person in such manner, and with or without of property, security, as the Judge in Lunacy or, subject to Rules in Lunacy, 33 54 Vict-a Master may direct, and any such order may confer on the c‘
 
 person therein named authority to do any specified act or exercise any specified power, or may confer a general authority to exercise until further order all or any of such powers without further application to the Judge or a Master, and subsection (3) of the said section shall apply to every person so appointed, and subsection (2) of the said section shall be repealed.
 
@@ -8826,7 +8826,7 @@ Provided that a rural district council shall not exercise their powers under thi
 
 (4) Any expenses incurred by the council of a borough under this section may be paid out of the borough fund or borough rate, and any expenses incurred by the council of an urban district (not a borough) may be paid out of the rate out of which
 
-the general expenses of the council under the Public Health Act, 38 * 39 Vict. 1875, are defrayed. c 55'
+the general expenses of the council under the Public Health Act, 38 39 Vict. 1875, are defrayed. c 55'
 
 (5) Any expenses incurred by a rural district council in pursuance of an undertaking under this section may be defrayed as special expenses legally incurred in respect of the contributory place or places, and shall be apportioned between those places if more than one, and sections two hundred and twenty-nine, two hundred and thirty, and two hundred and thirty-one of the
 
@@ -8982,7 +8982,7 @@ Pott Office , 1908. Ch. 48.
 
 any chattel or money, or valuable security, to imprisonment for any term not exceeding two years with or without hard labour, or to penal servitude for life or any term not less than three years.
 
-56. — (1) If any officer of the Post Office, contrary to his duty, Opening or de opens or procures or suffers to be opened any postal packet in course of transmission by post, or wilfully detains or delays; or P * procures or suffers to be detained or delayed, any such postal packet, he shall be guilty of a misdemeanor, and being convicted thereof shall be liable, at the discretion of the court, to imprisonment with or without hard labour, or to a fine, or to both such imprisonment and fine.
+56. — (1) If any officer of the Post Office, contrary to his duty, Opening or de opens or procures or suffers to be opened any postal packet in course of transmission by post, or wilfully detains or delays; or P procures or suffers to be detained or delayed, any such postal packet, he shall be guilty of a misdemeanor, and being convicted thereof shall be liable, at the discretion of the court, to imprisonment with or without hard labour, or to a fine, or to both such imprisonment and fine.
 
 (2) Provided that nothing in this section shall extend to the opening, detaining, or delaying of a postal packet returned for want of a true direction, or returned by reason that the person to whom the same is directed is dead or cannot be found, or shall have refused the same, or shall have refused or neglected to pay the postage thereof, or to the opening or detaining or delaying of a postal packet under the authority of this Act or in obedience to an express warrant in writing under the hand of a Secretary of State: Provided that the warrant in Scotland may be either under the hand of a Secretary of State or of the Secretary for Scotland, in Ireland shall be under the hand and seal of the Lord Lieutenant, and in the Isle of Man shall be under the hand of the Governor issued with the sanction of a Secretary of State.
 
@@ -9882,7 +9882,7 @@ c. 30. The Settled Lands Act (Amendment) Act, 1887. In part, namely, — Preambl
 
 c. 32. The Open Spaces Act, 1887. In part, namely, — Section four, the words “ and this Act
 
-c. 33. The Land Law (Ireland) Act, 1887. In part, namely, — Section two. Section eight, subsection (8), the words “ within nine months after the passing of this Act or” and “whichever shall last happen ”, Section fifteen, subsection (3), the words “Her Majesty’s”, and “ Forests and Land Revenues ”, and the words “Commissioners of the ” twice occurring. The words “of Justice in Ireland” occurring in section eighteen, subsection (1), and sections nineteen and twenty-two. The preambles to sections twenty-four and twenty-seven. Section twenty-four, subsection (3), the woids “Commissioners of Her Majesty’s ” and “ (in this Act referred to as * the Treasury *) ”. Section thirty-three, subsection (2), the words “On the passing of this Act” and “ subsequently ”. Section thirty-four, first definition, the words “ of Justice ”.
+c. 33. The Land Law (Ireland) Act, 1887. In part, namely, — Section two. Section eight, subsection (8), the words “ within nine months after the passing of this Act or” and “whichever shall last happen ”, Section fifteen, subsection (3), the words “Her Majesty’s”, and “ Forests and Land Revenues ”, and the words “Commissioners of the ” twice occurring. The words “of Justice in Ireland” occurring in section eighteen, subsection (1), and sections nineteen and twenty-two. The preambles to sections twenty-four and twenty-seven. Section twenty-four, subsection (3), the woids “Commissioners of Her Majesty’s ” and “ (in this Act referred to as the Treasury *) ”. Section thirty-three, subsection (2), the words “On the passing of this Act” and “ subsequently ”. Section thirty-four, first definition, the words “ of Justice ”.
 
 c. 34. The London Parks and Works Act, 1887. In part, namely, — Section two, the words “ From and after the date of transfer,” the words “ Her Majesty’s,” and the words “and Public “ Buildings (in this Act referred to as the ‘Commis‘ sioners of Works ’) ”. Section four, the words “ From and after the date of transfer,” the words “ in force at the date of transfer, or thereafter to be in force,” and the proviso. Section seven.
 
@@ -10548,7 +10548,7 @@ Reign and | Chapter. j Short Title.
 
 52 A 53 Vict. : 1 c. 49. i The Arbitration Act, 1889. In part, namely, — Section twenty-five, from “ shall not ” to “Act, but ”. Section twenty-six, subsection (1). Section twenty-nine. Second Schedule.
 
-c. 50. ' The Local Government (Scotland) Act, 1889. In part, namely, — Section four, subsection (3) from “ Provided that ” to “ hereinafter provided ”. Section eight, subsection (1), the words, “in the month of “ January, in the year one thousand eight hundred and “ ninety, and ” and “ subsequent ”. . * Section eleven, from “ on and after ” to “ specified," and in paragraph (3) the words “ the Contagious Diseases (Animals) Acts and ” and paragraph (4). Section twelve, subsection (1), from “ Provided also ” to the end of the subsection. The words “ then on and after the appointed day ” occurring in sections thirteen and fourteen. The words “After the passing of this Act” occurring in sections fifteen, subsection (1), eighty-three, subsection (4), and eighty-six. The words “ From and after the appointed day ” occurring in section sixteen, subsections (1), (2), section sixty-eight, subsection (2). Section sixteen, subsection (1), from “and the said Act" to the end of the subsection. Subsection (2), paragraph (o), to “ repealed and,” and paragraph (c) from “ Sections sixteen " to “ day ; and ". The words “ at their first meeting in the month of May next after the passing of this Act, and thereafter" occurring in sections sixteen, subsection (2), paragraph (5), and seventy-seven, paragraph (1). Section nineteen. Section twenty to “ passing of this Act”. Section twenty-one to “passing of this Act ". Section twenty-two, paragraph (6), from the commencement to “ Parliament ; ” and the concluding paragraph from “ as from the thirty-first ” to the end of the section. The words “on and after the appointed day" occurring in sections twenty-five, subsection (1), twenty-six, subsection (1), and fifty-five, subsection (1). Section thirty, paragraph (1),the words “on the first Tuesday “ of February in the year one thousand eight hundred and “ ninety, and ". Section thirty-one from “ shall be such as at the first ” to “ subsequent elections.” Section thirty-six, the words, “ after the first election under this Act.” Section thirty-seven, paragraph (1) to “enacted that”.
+c. 50. ' The Local Government (Scotland) Act, 1889. In part, namely, — Section four, subsection (3) from “ Provided that ” to “ hereinafter provided ”. Section eight, subsection (1), the words, “in the month of “ January, in the year one thousand eight hundred and “ ninety, and ” and “ subsequent ”. . Section eleven, from “ on and after ” to “ specified," and in paragraph (3) the words “ the Contagious Diseases (Animals) Acts and ” and paragraph (4). Section twelve, subsection (1), from “ Provided also ” to the end of the subsection. The words “ then on and after the appointed day ” occurring in sections thirteen and fourteen. The words “After the passing of this Act” occurring in sections fifteen, subsection (1), eighty-three, subsection (4), and eighty-six. The words “ From and after the appointed day ” occurring in section sixteen, subsections (1), (2), section sixty-eight, subsection (2). Section sixteen, subsection (1), from “and the said Act" to the end of the subsection. Subsection (2), paragraph (o), to “ repealed and,” and paragraph (c) from “ Sections sixteen " to “ day ; and ". The words “ at their first meeting in the month of May next after the passing of this Act, and thereafter" occurring in sections sixteen, subsection (2), paragraph (5), and seventy-seven, paragraph (1). Section nineteen. Section twenty to “ passing of this Act”. Section twenty-one to “passing of this Act ". Section twenty-two, paragraph (6), from the commencement to “ Parliament ; ” and the concluding paragraph from “ as from the thirty-first ” to the end of the section. The words “on and after the appointed day" occurring in sections twenty-five, subsection (1), twenty-six, subsection (1), and fifty-five, subsection (1). Section thirty, paragraph (1),the words “on the first Tuesday “ of February in the year one thousand eight hundred and “ ninety, and ". Section thirty-one from “ shall be such as at the first ” to “ subsequent elections.” Section thirty-six, the words, “ after the first election under this Act.” Section thirty-seven, paragraph (1) to “enacted that”.
 
 254
 
@@ -10910,7 +10910,7 @@ c. 27. c. 28. The Consolidated Fund (No. 2) Act, 1891. The Branding of Herrings 
 
 e. 29. The Presumption of Life Limitation (Scotland) Act, 1891. In part, namely, — Section two.
 
-c. 30. The Law Agents and Notaries Public (Scotland) Act, 1891. In part, namely, — Section five to * repealed and ”.
+c. 30. The Law Agents and Notaries Public (Scotland) Act, 1891. In part, namely, — Section five to repealed and ”.
 
 c. 33. The Allotments Rating Exemption Act, 1891. In part, namely, — Preamble. Section one, to “ ninety-one ” where first occurring, and from “ Provided ” to the end of the section.
 
@@ -10942,7 +10942,7 @@ c. 47. The Metalliferous Mines (Isle of Man) Act, 1891. In part, namely, — Pre
 
 c, 51. The Slander of Women Act, 1891. In part, namely, — Section one, the words “ after the passing of this Act”.
 
-c. 52. The Public Health (Scotland) Amendment Act, 1891. In part, namely, * — * Preamble.
+c. 52. The Public Health (Scotland) Amendment Act, 1891. In part, namely, — Preamble.
 
 .1908. t'
 
@@ -11310,7 +11310,7 @@ c. 56. The Statute Law Revision Act, 1894. In part, namely, — Section three. S
 
 c. 57. The Diseases of Animals Act, 1894. In part, namely, — Section tifty-eight. Section seventy-eight, sub-section (I). Fifth Schedule.
 
-c. 58. ! The Local Government (Scotland) Act, 1894. Tn part, namely, — , Section three from “ and from ” to “exist”. | Section four, subsection (3). Section six, subsection (1), the words “from and after the establishment of the Board ”. Section .seven, the words, “After the establishment of the Board ”. In sections fourteen and fifteen, the words “ the second and subsequent” and “From and after such second election” wherever occurring. Section twenty-one, to “ such day ”. Section forty-six the words “ The words in the county * occurring in subsection (c) of ” and the words “ are hereby repealed, and the said section ”. Section forty-seven. Section fifty-two, subsection (1). Section fifty-five, to “ schedule and ” and the word also ”. Section fifty-six. Schedule I.
+c. 58. ! The Local Government (Scotland) Act, 1894. Tn part, namely, — , Section three from “ and from ” to “exist”. | Section four, subsection (3). Section six, subsection (1), the words “from and after the establishment of the Board ”. Section .seven, the words, “After the establishment of the Board ”. In sections fourteen and fifteen, the words “ the second and subsequent” and “From and after such second election” wherever occurring. Section twenty-one, to “ such day ”. Section forty-six the words “ The words in the county occurring in subsection (c) of ” and the words “ are hereby repealed, and the said section ”. Section forty-seven. Section fifty-two, subsection (1). Section fifty-five, to “ schedule and ” and the word also ”. Section fifty-six. Schedule I.
 
 c. 59. c. 60. : 1 ! J The Appropriation Act, 1894. The Merchant Shipping Act, 1894. In part, namely, — Section three hundred and seventy-three, subsection (6), from in substitution ” to the end of the subsection. Section five hundred and twenty-five, subsection (2), paragraph (c), from “ to the Mercantile” to Majesty and ”. Section six hundred and seventy-six, subsection (1), paragraph (9)• Section seven hundred and forty-five, subsection (1), to Provided that ”. Section seven hundred and forty-eight. Twenty-second Schedule.
 
@@ -11518,7 +11518,7 @@ c. 9. The Archdeaconry of Cornwall Act, 1897. In part, namely, — Preamble. Sec
 
 c. 10. The East India Company's Officers' Superannuation Act, 1897.
 
-c. 11. The Regular and Elders' Widows' Funds Act, 1897. In part, namely, — Preamble. Section one, to u this Act Section three, to “ cease and ”, Section four, to “ passing of this Act *' and the words * prior to the passing of this Act ”, Section five, to “ date ”. I 7
+c. 11. The Regular and Elders' Widows' Funds Act, 1897. In part, namely, — Preamble. Section one, to u this Act Section three, to “ cease and ”, Section four, to “ passing of this Act *' and the words prior to the passing of this Act ”, Section five, to “ date ”. I 7
 
 284
 
@@ -12124,7 +12124,7 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 1. This Act may be cited as the Crofters Common Grazings Short title ami
 
-Regulation Act, 1908, and shall be read as part of the Crofters construction. Holdings (Scotland) Act, 1886. * 2» 'ct'
+Regulation Act, 1908, and shall be read as part of the Crofters construction. Holdings (Scotland) Act, 1886. 2» 'ct'
 
 2. The power to appoint a committee and to make regulations Amendment of conferred by section four of the Crofters Common Grazings moVarnzings Regulation Act, 1891, may be exercised by the Crofters Com- Regulation Act, mission, if they think fit, without any request from a landlord or J^‘55 Vict crofters interested, and without prejudice to the powers conferred c< 41 ,c by section five of the said Act any person committing a breach
 
@@ -12260,7 +12260,7 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 1. If any superior landlord shall levy, or authorise to be Under tenant levied, a distress on any furniture, goods, or chattels of — °* !od8e.r*
 
-7 * ' 7 ° 7 ' distress levied.
+7 ' 7 ° 7 ' distress levied.
 
 (o) any under tenant liable to pay by equal instalments not to make decia-less often than every actual or customary quarter of mediate^ " a year a rent which would return in any whole year tenant has no the full annual value of the premises or of such part m
 
@@ -12744,7 +12744,7 @@ the names of the said councils jointly, and proceedings had or taken against any
 
 councils or committee of management in respect of any hospital of
 
-established under this Act shall be classified as establishment °spl s’ * expenses and patients’ expenses.
+established under this Act shall be classified as establishment °spl s’ expenses and patients’ expenses.
 
 “ Establishment expenses ” shall include the original cost of providing the hospital, and of furnishing the hospital with the necessary appliances and furniture, and the cost of any extension or enlargement of the hospital, and the cost of keeping the hospital, its appliances and furniture, in a state requisite for the comfort of the patients; also the salaries of the doctors, nurses, officers, servants, and all other expenses for maintaining the hospital in a fit state for the reception of patients.
 
@@ -12854,7 +12854,7 @@ c. 32.
 
 (4) Any person who wilfully obstructs or impedes any medical officer of health or other person acting in the execution of this section shall be liable on summary conviction for the-first offence to a fine not exceeding twenty pounds, and for the second or any subsequent offence to a fine not exceeding fifty pounds.
 
-(5) In this section the expression “ medical officer of health * includes a medical superintendent officer of health, and in relation to a medical superintendent officer of health the expression “ dispensary district ” means the district for -which such officer is appointed.
+(5) In this section the expression “ medical officer of health includes a medical superintendent officer of health, and in relation to a medical superintendent officer of health the expression “ dispensary district ” means the district for -which such officer is appointed.
 
 17. — (1) The expression “ sanitary officer of the sanitary authority ” in section one hundred and thirty-two of the Public Health (Ireland) Act, 1878, shall include any duly qualified veterinary surgeon approved by the sanitary authority for the purposes of that section, and the sanitary authority shall pay to« such veterinary surgeon such remuneration as the Ix)cal Government Board may approve.
 
@@ -12876,7 +12876,7 @@ Tuberculosis Prevention (Irdan, 1908. Ch. 56.
 
 19. — (1) The Local Government Board under section thirty- Powers of four of the Contagious Diseases (Animals) Act, 1878, as amended J^iisf^re-by any subsequent enactment, may on the application of the iation to council of any urban district make an order authorising the dairi^t^1ct^ide council to exercise in relation to any dairies outside the district
 
-from which milk is supplied within the district all or any of the * 74 lc ' powers which may be conferred on a local authority in relation to dairies within their district by an order under the said section.
+from which milk is supplied within the district all or any of the 74 lc ' powers which may be conferred on a local authority in relation to dairies within their district by an order under the said section.
 
 (2) The expression “dairies” in this section includes any farm, farmhouse, yard, cowshed, milk-store, milk-shop or other place from which milk is supplied or in which milk is kept for the purposes of sale.
 
@@ -13012,7 +13012,7 @@ mine — Act?™ W'
 
 (a) to make regulations for that purpose and publish such
 
-regulations by posting them and keeping them posted * at the pit head, and by supplying a copy thereof gratis to every workman employed underground in the mine who, not having been previously supplied with a copy, applies therefor at the office at which he is paid ; and
+regulations by posting them and keeping them posted at the pit head, and by supplying a copy thereof gratis to every workman employed underground in the mine who, not having been previously supplied with a copy, applies therefor at the office at which he is paid ; and
 
 (b) to provide necessary means for raising the men from
 
@@ -13594,7 +13594,7 @@ may be prescribed in the order, such dwelling-house be rendered fit, to the sati
 
 cost of demolition.
 
-11. For the purposes of the Housing of the Working Classes Amendment of Acts, sections seventy-one and seventy-two of the Lands Clauses 8 *  Vict-Consolidation Act, 1845, as amended by the Second Schedule to c‘
+11. For the purposes of the Housing of the Working Classes Amendment of Acts, sections seventy-one and seventy-two of the Lands Clauses 8  Vict-Consolidation Act, 1845, as amended by the Second Schedule to c‘
 
 342 Ch. 61. Housing of the Working Classes 8 Edw. 7.
 
@@ -13774,7 +13774,7 @@ Act, 1854, shall be amended by the substitution of the word Ip^i^urts. “ ninet
 
 (2) Section eight of the Valuation of Lands (Scotland) c-91-Amendment Act, 1867, and section seven of the Valuation of 30 *31 Vict Lands (Scotland) Amendment Act, 1879, shall be read and con- 426:43 Vict. strued as if such sections respectively provided for the nomination c. 42. of three instead of two judges in the Court of Session.
 
-8. — (1) The county council may purchase or provide, for use Fire engines, in the whole county or in any one or more districts or special &c- *“* * districts thereof, such engines (whether mechanically propelled ^unt/councii. or other) for extinguishing fire, and such water buckets, pipes,
+8. — (1) The county council may purchase or provide, for use Fire engines, in the whole county or in any one or more districts or special &c- *“* districts thereof, such engines (whether mechanically propelled ^unt/councii. or other) for extinguishing fire, and such water buckets, pipes,
 
 and other appurtenances for such engines, and such fire-escapes and other implements, vehicles (whether mechanically propelled or other), or articles, for safety or use in case of fire, and may purchase, keep, or hire such horses for drawing such engines, and may arrange for such telegraphic or telephonic connections, as they think fit, and may build, provide, or hire places for keeping such engines and horses with their appurtenances, and may insert fireplugs, and may employ a proper number of persons to act as firemen, and may appoint a firemaster or firemasters (who shall be superintendent or superintendents of the fire brigade or fire brigades), any or all of which persons may, with the consent of the police committee, be members of the police force, and may make such rules for their regulation as they think proper, and pay to such firemaster or firemasters and firemen such salaries and such rewards for their exertions in cases of fire as they think fit.
 
@@ -13898,7 +13898,7 @@ Clauses Act, 1847, shall be incorporated with this section. c*27-
 
 “ schedule annexed to the Burgh Harbours (Scotland) Act, 1853,” 55 Vict-
 
-occurring in section two, subsection 4 (6), of the Western c* ° * Highlands and Islands (Scotland) Works Act, 1891, are hereby repealed.
+occurring in section two, subsection 4 (6), of the Western c* ° Highlands and Islands (Scotland) Works Act, 1891, are hereby repealed.
 
 13. A county council may from time to time in terms and Licensing of subject to the provisions of the principal Act make byelaws for hackney car-licensing, registering, and regulating all hackney coaches, omni- ^uSy 7 buses, or carriages of any kind or description adapted for the councils, carriage of persons and plying for hire within the county, and
 
@@ -15684,7 +15684,7 @@ Act, 1908.
 
 “Law agent” shall mean a law agent enrolled in terms of
 
-the Law Agents (Scotland) Act, 1873, and any Act 36 * 37 Vict, explaining or amending that Act: c*63*
+the Law Agents (Scotland) Act, 1873, and any Act 36 37 Vict, explaining or amending that Act: c*63*
 
 “Offence” shall mean an act or attempt or omission punishable by law:
 
@@ -16588,7 +16588,7 @@ Act, 1908,
 
 8 F.nw. 7-
 
-Session and Chapter. Title of Act - i ' ; * ’ r Extent of Repeal.
+Session and Chapter. Title of Act - i ' ; ’ r Extent of Repeal.
 
 45 & 46 Vict. The Edinburgh Municipal Subsection (13) of section 41.
 
@@ -16714,7 +16714,7 @@ LXIV. Extracts of previous convictions of any crime inferring previous con-perso
 
 LXV. Extracts of previous convictions obtained in any part of the Previous con-United Kingdom of any crime inferring lewd, indecent, or libidinous victions of conduct may be lawfully put in evidence as aggravations of any crime 0011 uct* of a lewd, indecent, or libidinous character, and any aggravation set forth in such extract convictions may be lawfully used in evidence to the like effect.
 
-LXVT1I. When in the trial of any indictment, the evidence led shall Superfluous be sufficient to prove the identity of any person, corporation, or company, particulars as or of any place, or of any thing, it shall not be a valid objection to the to 1 en * ’ sufficiency of such evidence that any particulars set forth in regard thereto in the indictment have not been proved.
+LXVT1I. When in the trial of any indictment, the evidence led shall Superfluous be sufficient to prove the identity of any person, corporation, or company, particulars as or of any place, or of any thing, it shall not be a valid objection to the to 1 en ’ sufficiency of such evidence that any particulars set forth in regard thereto in the indictment have not been proved.
 
 LXIX. The declaration of the person accused, the formal parts of Declarations, which may be written or printed, or partly written and partly printed, duly authenticated by the magistrate examiner as having been emitted before him according to the existing law and practice, shall be received in evidence without being sworn to by witnesses, and it shall not be necessary to insert the names of any witnesses to the declaration in any list of witnesses, either for the prosecution or for the person accused, but it shall be competent for the person accused, before such declaration is read to the jury, to adduce as witnesses the persons who were present when the declaration was emitted, and to examine them upon any matters regarding such declaration on which it would be competent to examine them according to the existing law and practice, and to move the court to
 
@@ -17514,7 +17514,7 @@ If proof led - - 0 7 6
 
 If case adjourned for
 
-second diet * - 0 5 0
+second diet - 0 5 0
 
 II. — Court or Clerk's Dues.
 
@@ -18950,7 +18950,7 @@ a certified efficient school within the meaning of the Elementary 39 & 40 Vict. 
 
 (3) A school shall not at the same time be a day industrial school and a reformatory or industrial school,
 
-(4) If the Secretary of State is of opinion that, by reason of a change of circumstances or otherwise, a certified day industrial school ceases to be necessary or expedient for the proper training , and control of the * children of any class of population in the neighbourhood of that school, he may, after due notice, withdraw the certificate of the school, and. thereupon the school shall cease
+(4) If the Secretary of State is of opinion that, by reason of a change of circumstances or otherwise, a certified day industrial school ceases to be necessary or expedient for the proper training , and control of the children of any class of population in the neighbourhood of that school, he may, after due notice, withdraw the certificate of the school, and. thereupon the school shall cease
 
 to be a certified day industrial school.
 
@@ -19422,7 +19422,7 @@ Provided that bona fide representatives of a newspaper or news agency shall not 
 
 3*^4 vict politan Police Courts Acts, 1839 and 1840, provide for the
 
-c. $4. * establishment of one or more separate juvenile courts for the
+c. $4. establishment of one or more separate juvenile courts for the
 
 metropolitan police court district and for assigning as a division to each such court such portion of that district as may be specified in the order, and where such an order is made the London County Council shall, if so required by the Secretary of State, provide the necessary accommodation for the purpose at any place of detention provided by the Council upon such terms as to payment and otherwise as may be agreed between the Secretary of State and the Council, or, in default of agreement, as may be settled by the Treasury.
 
@@ -19672,7 +19672,7 @@ The expression “ intoxicating liquor ” means any fermented, distilled, or sp
 
 Application to Scotland.
 
-8 * 1) Vict. c. 811.
+8 1) Vict. c. 811.
 
 132. This Act in its application to Scotland shall be subject to the following modifications : —
 
@@ -20170,7 +20170,7 @@ Children Act, 1908,
 
 Session and Chapter. Short Title. Extent of Repeal.
 
-39 A 40 Vict, o. 79. The Elementary Education Act, 1876. Section twelve, from "A child shall be sent ” to the end of the section. In section thirteen the words * or the “ Industrial Schools Act, 1866, to “ an industrial school,” and the words “or the Industrial Schools Act, 1866.” Section fourteen. Section fifteen. Section sixteen. Section seventeen.
+39 A 40 Vict, o. 79. The Elementary Education Act, 1876. Section twelve, from "A child shall be sent ” to the end of the section. In section thirteen the words or the “ Industrial Schools Act, 1866, to “ an industrial school,” and the words “or the Industrial Schools Act, 1866.” Section fourteen. Section fifteen. Section sixteen. Section seventeen.
 
 40 A 41 Vict. c. 53. The Prisons (Scotland) Act, 1877. Section sixty-seven.
 
@@ -20688,7 +20688,7 @@ Port of London , 1908. Ch. 68.
 
 539
 
-10. — (1) The Port Authority may make arrangements with Relations the Conservators for the exercise by the Conservators in the ^twcen Port Port of London on behalf of the Port Authority of the powers the Con-7 * of the Port Authority for regulating the passage of vessels on senators, the Thames on the occasion of a regatta, boat race, or other similar occasion.
+10. — (1) The Port Authority may make arrangements with Relations the Conservators for the exercise by the Conservators in the ^twcen Port Port of London on behalf of the Port Authority of the powers the Con-7 of the Port Authority for regulating the passage of vessels on senators, the Thames on the occasion of a regatta, boat race, or other similar occasion.
 
 (2) Where a steam launch has been registered, either by the Port Authority or the Conservators, and a certificate thereof is in force, its registration by the other of those authorities shall not be required, and the Port Authority and the Conservators may respectively, during office hours, inspect the register of steam launches kept by the other, and shah afford to one another all reasonable information in regard thereto.
 
@@ -20920,7 +20920,7 @@ and which, or the cost of which ought, in the opinion of the Board of Trade, to 
 
 (3) Any money borrowed under this Act, if borrowed for the purpose of —
 
-(a) raising any money payable in respect of the transfer * of the undertaking of any dock company under this
+(a) raising any money payable in respect of the transfer of the undertaking of any dock company under this
 
 Act; or
 
@@ -21858,7 +21858,7 @@ Where the dues amount to 10 but do not amount to 25 Votes, 1
 
 >7 99 11 25 11 11 50 » 2
 
-11 11 11 50 11 11 100 * 3
+11 11 11 50 11 11 100 3
 
 11 11 11 100 11 11 200 , 4
 
@@ -21904,7 +21904,7 @@ Where the number of craft owned amounts to — 1 but does not amount to 10 - Vot
 
 30 99 99 50 - - , 3
 
-50 99 99 100 - - * 4
+50 99 99 100 - - 4
 
 100 11 99 150 - •, 5
 
@@ -21912,7 +21912,7 @@ Where the number of craft owned amounts to — 1 but does not amount to 10 - Vot
 
 200 99 99 300 - - « 7
 
-300 99 99 400 - - * 8
+300 99 99 400 - - 8
 
 400 99 99 500 - - , 9
 
@@ -22070,7 +22070,7 @@ Provisions as to Appointment of Conservators.
 
 By the Board of Trade - - - - - 4
 
-By the Port Authority * - * - - - 1
+By the Port Authority - - - - 1
 
 By the Metropolitan Water Board - - - 2
 
@@ -22930,7 +22930,7 @@ Rr
 
 (6) Until the warrant is surrendered, the above particulars shall be deemed to be the particulars required by this Act to be entered in the register of members ; and, on the surrender, the date of the surrender must be entered as if it were the date at which a person ceased to be a member.
 
-38. — (1) * If any person —
+38. — (1) If any person —
 
 (i) with intent to defraud, forges or alters, or offers, utters, disposes of, or puts off, knowing the same to be forged or altered, any share warrant or coupon, or any document purporting to be a share warrant or coupon, issued in pursuance of this Act; or by means of any such forged or altered share warrant, coupon, or document, purporting as aforesaid, demands or endeavours to obtain or receive any share or interest in any company under this Act, or to receive any dividend or money payable in respect thereof, knowing the warrant, coupon, or document to be forged or altered ; or
 
@@ -23058,7 +23058,7 @@ Reduction of Share .
 
 special resoiu- 46. — (1) Subject to confirmation by the court, a company
 
-tion forreduc- limited by shares, if so authorised by its articles, may by special SpitaJ8harG * res°lu^on reduce its share capital in any way, and in particular (without prejudice to the generality of the foregoing power) may-
+tion forreduc- limited by shares, if so authorised by its articles, may by special SpitaJ8harG res°lu^on reduce its share capital in any way, and in particular (without prejudice to the generality of the foregoing power) may-
 
 fa) Extinguish or reduce the liability on any of its shares in respect of share capital not paid up ; or
 
@@ -23176,7 +23176,7 @@ registration shall take place in the same manner and shall have effect as if it 
 
 Power of un- 58. An unlimited company having a share capital may, by pSytoprovide for registration as a limited company in pursuance
 
-forreserved* * of this Act, do either or both of the following things, namely: —
+forreserved* of this Act, do either or both of the following things, namely: —
 
 (a) Increase the nominal amount of its share capital by increasing the nominal amount of each of its shares, but subject to the condition that no part of the increased capital shall be capable of being called up except in the event and for the purposes of the company being wound up;
 
@@ -23894,7 +23894,7 @@ Kingdom hut comprises property outside the United Kingdom, the instrument creati
 
 (iii) where a negotiable instrument has been given to
 
-secure the payment of any book debts of a company, the deposit of the instrument for the purpose of securing an advance to the company shall not for * the purposes of this section he treated as a mortgage or charge on those book debts; and
+secure the payment of any book debts of a company, the deposit of the instrument for the purpose of securing an advance to the company shall not for the purposes of this section he treated as a mortgage or charge on those book debts; and
 
 (iv) the holding of debentures entitling the holder to a
 
@@ -24380,9 +24380,9 @@ the estimated value of his liability to future calls as well as calls already ma
 
 128. — (1) The husband of a female contributory married Provision as to before the date of the commencement of the Mamed Women’s married Property Act, 1882, or the Married Women’s Property (Scotland) 45 & 4g Vict Act, 1881, as the case may be, shall, during the continuance of c. is.
 
-the marriage, be liable, as respects any liability attaching to any 44 * 45 Vict-shares acquired bv her before that date, to contribute to the
+the marriage, be liable, as respects any liability attaching to any 44 45 Vict-shares acquired bv her before that date, to contribute to the
 
-•644 * Ch. 69. . Companies (Consolidation) Act, 1908. 8 Edw. 7.
+•644 Ch. 69. . Companies (Consolidation) Act, 1908. 8 Edw. 7.
 
 - assets of the company the same sum as she would have been liable to contribute if she had not married, and he shall be a contributory accordingly.
 
@@ -24744,7 +24744,7 @@ for the purpose of enabling the liquidator to take out the letters of administra
 
 152. — (1) When a winding-up order has been made by the Meetings of court in England, the official receiver shall summon separate creditors and
 
-o * a pniirpi hiiinripft
+o a pniirpi hiiinripft
 
 meetings of the creditors and contributories of the company for in English the purpose of — winding up.
 
@@ -25844,7 +25844,7 @@ Part V.
 
 Registration Office and Fees.
 
-Registration 243. — (1) For the purposes of the registration of companies SmcTsajaftnd un^er this there shall be offices in England, Scotland, and and Ireland. * Ireland, at such places as the Board of Trade think fit.
+Registration 243. — (1) For the purposes of the registration of companies SmcTsajaftnd un^er this there shall be offices in England, Scotland, and and Ireland. Ireland, at such places as the Board of Trade think fit.
 
 (2) The Board of Trade may appoint such registrars, assistant registrars, clerks, and servants as the Board think necessary for the registration of companies under this Act, and may make regulations with respect to their duties; and may remove any* persons so appointed.
 
@@ -26526,9 +26526,9 @@ the commencement of this Act in England, Scotland, and Ireland respectively with
 
 293. Nothing in this Act shall affect the provisions of the saving for Lite Life Assurance Companies Acts, 1870 to 1872, except that references in those Acts to any provision of the Companies Act,
 
-1862, shall be read as references to the corresponding provision * 3« Vict. c'.4i! of this Act.
+1862, shall be read as references to the corresponding provision 3« Vict. c'.4i! of this Act.
 
-294. Nothing in this Act shall affect the provisions of Saving for section five of the Trade Union Act, 1871, except that the J4 * 8g6 vict-reference in that section to the Companies Acts, 1862 and 1867,
+294. Nothing in this Act shall affect the provisions of Saving for section five of the Trade Union Act, 1871, except that the J4 8g6 vict-reference in that section to the Companies Acts, 1862 and 1867,
 
 shall be read as a reference to this Act.
 
@@ -27472,7 +27472,7 @@ Names, Addresses, and Description of Subscribers.
 
 * 7. Caesar White of in the county of • ! 10
 
-Total shares taken • • - 325 * 1
+Total shares taken • • - 325 1
 
 Dated the day of 19 .
 
@@ -28790,7 +28790,7 @@ c. cxciii. Greenock Police
 
 c. 40 Prisons Authorities Act (1874) Amendment, c. 51 Ronds and Bridges (S.)
 
-c. 52 Public Health (I.) c. 58 ; Locomotives Amendment (S.) * c. 76 Telegraph -
+c. 52 Public Health (I.) c. 58 ; Locomotives Amendment (S.) c. 76 Telegraph -
 
 Rep. [but tec ]
 
@@ -29602,7 +29602,7 @@ c. 70 Appropriation - Repealed - - -;
 
 c. 71 Public Works Loans Ss. 1, 2, 4, Sch. I. rep.
 
-c. 76 58 A 84 Vict. : Technical Institution S. 4 repealed 49 (Stat. Law * Rev.).
+c. 76 58 A 84 Vict. : Technical Institution S. 4 repealed 49 (Stat. Law Rev.).
 
 ft. 1 Consolidated Fund (No. 1) Repealed - -
 
@@ -29948,7 +29948,7 @@ Effect of Legislation
 
 Statute and Chapter. Subject-matter or Short Title. How affected. , Chapter of 8 Edw. 7.
 
-56 * 57 Vict:
+56 57 Vict:
 
 c. 86 Law of Die tress and Small S. 2 repealed
 
@@ -30298,7 +30298,7 @@ tion (S.).
 
 c. 24 Finance Ss. 1, 4 repealed -
 
-c. 26 Metropolitan Police Courts Ss. 9, 10, Sch. repealed - 1 49 (Stat. Law * Rev.).
+c. 26 Metropolitan Police Courts Ss. 9, 10, Sch. repealed - 1 49 (Stat. Law Rev.).
 
 o. 29 Poor Law - - - - S. 3, Sch. repealed - - 1
 
