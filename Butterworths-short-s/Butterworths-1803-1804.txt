@@ -2836,11 +2836,11 @@ S. 1 . 0 18 0 18 0 19 3§ 0 19 8 1 0 °4
 
 19 . 17 12 H 17 19 74 18 6 7JL '2 18 13 7 19 0 6|
 
-£.i • • 18 11 3 18 18 7 19 5 11 19 13 3 20 0 7
+£.i • 18 11 3 18 18 7 19 5 11 19 13 3 20 0 7
 
 2 . . 37 2 6 37 17 2 38 11 10 39 6 6 40 1 2
 
-3 • . 55 13 9 56 15 9 57 17 9 58 19 9 60 1 9
+3 . 55 13 9 56 15 9 57 17 9 58 19 9 60 1 9
 
 4 . . 74 5 0 75 14 4 77 3 8 78 13 0 80 2 4
 
@@ -2856,7 +2856,7 @@ S. 1 . 0 18 0 18 0 19 3§ 0 19 8 1 0 °4
 
 10 . . 185 12 6 189 5 10 192 19 2 196 12 6 200 5 10
 
-: 20 . . • 371 5 0 378 11 8 385 18 4 393 5 0 400 11 8
+: 20 . . 371 5 0 378 11 8 385 18 4 393 5 0 400 11 8
 
 44-
 
@@ -4446,7 +4446,7 @@ BRICKS AND TILES. & d.
 
 For every Thousand of Bricks which shall be made in Great Britain, not exceeding any of the following Dimensions, that is to say, Ten Inches long, Three Inches thick, and Five Inches wide - - 0 5 0
 
-For every Thousand of Bricks which shall be made in Great Britain, exceeding any of the foregoing Dimensions - - - - • 0 10 0
+For every Thousand of Bricks which shall be made in Great Britain, exceeding any of the foregoing Dimensions - - - - 0 10 0
 
 For every Thousand of Bricks which shall be made in Great Britain, and which shall be smoothed or polished on One or more Side or Sides, the same not exceeding the superficial Dimensions of Ten Inches long by Five Inches wide - - - 0 12 0
 
@@ -5150,7 +5150,7 @@ For every Gallon of Wort or Wash brewed or made for extracting Spirits, in that 
 
 Corn, Grain or Tilts, or any Mixture with the same 0 Oil For every Gallon of Cyder or Perry, or any other Wash or Liquor brewed or made as aforesaid from any Sort or Kind of British Materials, except such as are before mentioned, or any Mixture therewith, for extracting Spirits for Home Consumption - 0 0 10
 
-For every Gallon of Wort or Wash brewed or made as aforesaid from Melasses or Sugar, or any Mixture therewith, for extracting Spirits for Home Consumption - - - - • 0 1 4|
+For every Gallon of Wort or Wash brewed or made as aforesaid from Melasses or Sugar, or any Mixture therewith, for extracting Spirits for Home Consumption - - - - 0 1 4|
 
 For every Gallon of Wash brewed or made as aforesaid from Foreign refused Wine or Foreign Cyder, or Wash prepared from any other Foreign Materials, except Melasses and Sugar, or any Mixture therewith, for extracting Spirits for Home Consumption 0 1 10
 
@@ -6688,7 +6688,7 @@ of this Act, it shall be lawful for any Spiritual Person having or ratos may tak
 
 holding any Vicarage or Perpetual Curacy, or for the Stipendiary *jeases °flIie
 
-Curate thereof respectively, to occupy by himself or by any other aipropnato . T • t» r r-i t r t-.*7 J -r-. Parsonages of
+Curate thereof respectively, to occupy by himself or by any other aipropnato . T t» r r-i t r t-.*7 J -r-. Parsonages of
 
 to his Use in Ferm, of the Lease or Grant of any Person or Per- their Parishes*
 
@@ -7026,7 +7026,7 @@ C. 84.
 
 156
 
-to satisfy Pe • nalty and Costs retained out of Profits of Benefice.
+to satisfy Pe nalty and Costs retained out of Profits of Benefice.
 
 at the Time of filing any Monition no Action shall have been commenced, none shall be afterwards brought, &c>
 
@@ -7166,7 +7166,7 @@ any Person or Persons whomsoever, tending to fix the Price of Wages or Labour, o
 
 V. And be it further enacted, That no Person (whether em ployed as a Journeyman, Workman or Labourer, in any Man u facture, Trade, Business or Occupation, or not) shall at any Time ExPe™-es in
 
-r. -i - p i • V,p , p rnrrPrt firu* ar
+r. -i - p i V,p , p rnrrPrt firu* ar
 
 after the passing of this Act wilfully pay or give any bum ot Money or valuable Thing as a Subscription or Contribution for the Purpose of paying the Expences incurred, or to be incurred, by any Person or Persons acting contrary to the Provisions of this Act, or shall by Payment of Money or other Means support or maintain any Journeyman, Workman, Apprentice, Labourer, or other Person, or contribute towards his Support or Maintenance, for the Purpose of inducing him to refuse to work, or to be hired or employed in any Manufacture, Trade, Business or Occupation, or for the Purpose of maintaining or supporting any Artificer, Journeyman, Workman, Apprentice, or Labourer, who having been guilty of any Offence under this Act, shall have been lawfully convicted of the same; and every Person who shall be guilty of any such Offence, shall on Conviction thereof before any Two Justices of the Peace of the County, City, Liberty, Town or Place where the Offence shall be committed, forfeit and lose any Sum not exceeding the Sum of Ten Pounds; and every Journeyman, Workman, Labourer, and every Person who shall collect or receive any Money or valuable Thing, for any of the Purposes aforesaid, shall, on like Conviction, forfeit and lose any Sum not exceeding the Penalty, like Sum of Ten Pounds, according to the Discretion of the Justices before whom such Offender or Offenders shall be convicted;
 
@@ -7910,7 +7910,7 @@ or, in Default of resident Com-
 
 tality, the Parishes of SaintMary-le-Bone and Saint Pancras in &c. Appoint-the County of Middlesex, the Appointment of the Collectors of ment of Collec-such Duties as aforesaid, shall belong wholly to such of the Commissioners for executing this Act, who shall reside in the Wards or Parishes for which such Collectors respectively are to be appointed, in case there shall be Two or more Commissioners there resident, and no other Commissioner shall in such Case interfere; and it shall be lawful for such Commissioners residing within the respective Wards or Parishes aforesaid to appoint Two or more Persons to be Collectors, who shall have given such Security as aforesaid, whether such Persons shall have been presented by the Assessors as aforesaid, or named by the Inhabitants, or Churchwardens and Overseers or Guardians of the Poor, or any Two or more of them, or any Seven or more of the Vestry where a Select Vestry shall be appointed as aforesaid, and who shall be thought by such Commissioners to be of Ability to execute the Office of Collector; and that in Default of presenting or naming such Persons who shall be willing to give such Security, then the said Commissioners residing as aforesaid shall name such Persons as they shall think of Ability to execute the said Office : Provided always, that where Two or more Commissioners shall not be resident in any such Ward or Parish :ic aforesaid, for which Collectors Commissioners are to be appointed, then a Commissioner or Commissioners re- of adjacent siding in any adjacent Ward or Parish in the same County or City, Parish, may appoint or concur with a Commissioner so residing, in the Appointment of such Collectors; and every Person appointed a Collectors to Collector in pursuance of this Act, shall also, by virtue of such act as Assessors. Appointment, act as an Assessor for the same Parish, Ward or Place.
 
-XVI. And be it further enacted, That if any Assessor or Col- Assessors, &c. lector to be appointed as aforesaid, shall wilfully neglect or refuse refusing Office, to take upon himself the Office of an Assessor or Collector, to or neg'ect*ao which he shall be appointed, or shall wilfully neglect or refuse to uty’ • perform his Duty in the due and speedy Execution of this Act, or
+XVI. And be it further enacted, That if any Assessor or Col- Assessors, &c. lector to be appointed as aforesaid, shall wilfully neglect or refuse refusing Office, to take upon himself the Office of an Assessor or Collector, to or neg'ect*ao which he shall be appointed, or shall wilfully neglect or refuse to uty’ perform his Duty in the due and speedy Execution of this Act, or
 
 of any Act or Acts granting Duties to be assessed under the Regulations of this Act, for which he shall be appointed an Assessor or Collector, such Commissioners, or any Two or more of them, may and shall, by virtue of this Act, impose on such Person or Persons so refusing or neglecting, for every such Offence, a Fine Penalty, not exceeding Twenty Pounds : Provided, that no Person inhabit- Inhabitants not mg any Cit}r, Borough or Town Corporate, shall be compelled to compelled to be be an Assessor or Collector for any Part of such Duties, in any Assessors or Place or Places out of the Limits of the City, Borough or Town of°L^ out Corporate, in which he shall so inhabit.
 
@@ -8068,7 +8068,7 @@ A.D. 1803. 43° GEO. III. C. 99.
 
 189
 
-the said Money, and also the Costs and Charges of taking, keeping and selling the said Distress, which Costs and Charges the said Officer is hereby authorized to retain, to be restored to the Owner thereof; and moreover it shall be lawful, in such Case, to break open in the Day Time any House, upon Warrant under the Hands and Seals of Two or more of the said Commissioners obtained for that Purpose, calling to their Assistance the Constable, Tithing-man or Headborough, within the Counties, Shires, Stewartries, Cities, Towns and Places, where any Refusal, Neglect or Resistance shall be made, which said Officers are hereby required to be aiding and assisting in the Premises, as they will answer the contrary at their Peril; and if any Person or Persons appointed to pay any of the Duties charged by any Act or Acts as aforesaid, shall refuse or neglect to pay the said Sum or Sums so appointed to be paid, by the Space of Ten Days after Demand as aforesaid, where no sufficient Distress can or may be found whereby the same may be levied, then and in every such Case, Two or more of such Commissioners are hereby authorized, by Warrant under their Hands and Seals, to commit such Persons to the Common Gaol, there to be kept, without Bail or Main prize, until Payment shall be made; and if any Question or Difference shall arise upon taking such Distress, the same shall be determined and ended by Two or more of suchAIogimissioners. ~y a. j e-. kfafc • /ugsZ,.
+the said Money, and also the Costs and Charges of taking, keeping and selling the said Distress, which Costs and Charges the said Officer is hereby authorized to retain, to be restored to the Owner thereof; and moreover it shall be lawful, in such Case, to break open in the Day Time any House, upon Warrant under the Hands and Seals of Two or more of the said Commissioners obtained for that Purpose, calling to their Assistance the Constable, Tithing-man or Headborough, within the Counties, Shires, Stewartries, Cities, Towns and Places, where any Refusal, Neglect or Resistance shall be made, which said Officers are hereby required to be aiding and assisting in the Premises, as they will answer the contrary at their Peril; and if any Person or Persons appointed to pay any of the Duties charged by any Act or Acts as aforesaid, shall refuse or neglect to pay the said Sum or Sums so appointed to be paid, by the Space of Ten Days after Demand as aforesaid, where no sufficient Distress can or may be found whereby the same may be levied, then and in every such Case, Two or more of such Commissioners are hereby authorized, by Warrant under their Hands and Seals, to commit such Persons to the Common Gaol, there to be kept, without Bail or Main prize, until Payment shall be made; and if any Question or Difference shall arise upon taking such Distress, the same shall be determined and ended by Two or more of suchAIogimissioners. ~y a. j e-. kfafc /ugsZ,.
 
 XXXIV. Provided always, and be it enacted, That noThing~ herein contained shall be construed to restrain the said Commissioners, or any of them, from acting as Commissioners in any Part of the County, Riding, Division or Place, for which they are appointed; and that all Warrants and Precepts of the said Commissioners, shall and may be executed by the respective Persons to whom the same are directed, in any Part of the same County, Riding, Division or Place, for which they are appointed.
 
@@ -8704,7 +8704,7 @@ Account of Sum lent shall be stated in the Certificate of Archbishop,&c. to char
 
 On Avoidance of Benefice before the whole Sum advanced, Successor shall
 
-lawful Interest for the same, from the Time when every such Instalment ought to have been paid, the Costs of insuring the Premises against Fire, Sequestrator’s Fees, and all other Costs, Charges and Expences whatsoever attending such Sequestration as aforesaid, and the entering into such Possession by Receipt, Enjoyment and Perception of the said Rents and Profits of such Benefice, Parish or Union • and in case any Difficulty shall arise in obtaining or in retaining quiet Possession by such Sequestrator as aforesaid, it shall be lawful for the said Trustees to apply, by Petition in a summary Way, to the Lord High Chancellor, Lord Keeper, or Lords Commissioners for the Custody of the Great Seal of Ireland for the time being, who shall thereupon cause a Writ of Assistance to be issued under the Great Seal, directed to the Sheriff of the County, City or Place where such Glebe Lands, Tithes or other Ecclesiastical Profits shall be or arise, commanding him to assist, keep and maintain such Sequestrator in the peaceable and quiet Possession thereof; and it shall be lawful for the said Lord High Chancellor, Lord Keeper or Lords Commissioners for the Custody of the Great Seal of Ireland for the time being, to proceed against all Persons opposing such Process, or in any Manner hindering the due Execution thereof, in the same Manner as in other Cases of Writs of Assistance directed to the Sheriff in pursuance of Orders of the Court of Chancery for that Purpose.
+lawful Interest for the same, from the Time when every such Instalment ought to have been paid, the Costs of insuring the Premises against Fire, Sequestrator’s Fees, and all other Costs, Charges and Expences whatsoever attending such Sequestration as aforesaid, and the entering into such Possession by Receipt, Enjoyment and Perception of the said Rents and Profits of such Benefice, Parish or Union and in case any Difficulty shall arise in obtaining or in retaining quiet Possession by such Sequestrator as aforesaid, it shall be lawful for the said Trustees to apply, by Petition in a summary Way, to the Lord High Chancellor, Lord Keeper, or Lords Commissioners for the Custody of the Great Seal of Ireland for the time being, who shall thereupon cause a Writ of Assistance to be issued under the Great Seal, directed to the Sheriff of the County, City or Place where such Glebe Lands, Tithes or other Ecclesiastical Profits shall be or arise, commanding him to assist, keep and maintain such Sequestrator in the peaceable and quiet Possession thereof; and it shall be lawful for the said Lord High Chancellor, Lord Keeper or Lords Commissioners for the Custody of the Great Seal of Ireland for the time being, to proceed against all Persons opposing such Process, or in any Manner hindering the due Execution thereof, in the same Manner as in other Cases of Writs of Assistance directed to the Sheriff in pursuance of Orders of the Court of Chancery for that Purpose.
 
 VI. And be it further enacted, That when the Sum to be paid by such Incumbent as aforesaid shall be fully and entirely repaid, together with such Interest, Fees, Costs, Charges and Expences as aforesaid, it shall be lawful for the Incumbent for the time being to appty to the Ordinary of the Diocese for Redelivery of all the said Glebe Lands, Tithes, Rents and other Ecclesiastical Emoluments whatsoever so sequestered ; and in case the said Trustees shall not admit full Payment of all such Sums of Money, Fees, Costs, Charges and Expences as aforesaid, it shall be lawful for the Ordinary to direct an Account to be taken thereof by such Person or Persons as he shall appoint for that Purpose, and thereupon to make such Order, touching such Sequestration, as Justice shall require.
 
@@ -8718,7 +8718,7 @@ A.D. 1803. 43° GEO. III.
 
 C. lOG.
 
-tees, then and in such Case the Successor shall be entitled to re- receive the ceive the Remainder of'the Money so agreed to be advanced, upon Remainder, giving, in Proportion to the Money remaining to be advanced, the like Security that had been given by his Predecessor, by Bond to the King’s most Excellent Majesty; the Penalty of which Bond shall be recovered in Manner hereinbefore declared and enacted with respect to the Recovery of the Penalty of the Bond so given by his Predecessor; and the Money so advanced shall also be charged on the Benefice, Parish or Union, in the same Mariner as the Money advanced to the first Incumbent, and shall also be recoverable in like Manner.
+tees, then and in such Case the Successor shall be entitled to re- receive the ceive the Remainder of the Money so agreed to be advanced, upon Remainder, giving, in Proportion to the Money remaining to be advanced, the like Security that had been given by his Predecessor, by Bond to the King’s most Excellent Majesty; the Penalty of which Bond shall be recovered in Manner hereinbefore declared and enacted with respect to the Recovery of the Penalty of the Bond so given by his Predecessor; and the Money so advanced shall also be charged on the Benefice, Parish or Union, in the same Mariner as the Money advanced to the first Incumbent, and shall also be recoverable in like Manner.
 
 IX. Provided always, That no Money shall be advanced by the said Trustees, for the Purposes aforesaid, until a Plan for the proposed Buildings and Improvements shall have been approved of by the Ordinary of the Diocese, and an Estimate made of the Expence thereof, and until Security shall have been given, by Bond of One or more Surety or Sureties, in sufficient Penalties, for the due Application of the Money so to be advanced in making and completing such Buildings, or for refunding to the Trustees so much as shall not have been actually so expended thereon during the Incumbency of such Incumbent, or within Two Years after such Money shall have been advanced, unless the said Trustees shall think fit not to require such Security ; and then and in such Case, no Money shall be advanced by the said Trustees to such Incumbent but upon Certificate of the Incumbent or Incumbents of One or more Benefices, Parishes or Unions of Parishes adjoining or near to such Benefice, Parish or Union, that a Sum has been, actually expended in making the Buildings agreed to be made, equal to the Sum from time to time required to be advanced; and then it shall be at the Option of the said Trustees, either to pay such Money to the Incumbent, or to apply the same in Discharge of the Expences actually incurred in such Buildings.
 
@@ -10308,7 +10308,7 @@ Condition of such Bond that such Certificate shall be actually produced to and l
 
 c. 87. § 93.]
 
-III. And Whereas by an Act made in the Tenth Year of the Reign of His late Majesty King George the First, among other things, for repealing certain Duties therein mentioned, payable • upon Coffee, Tea, Cocoa Nuts, Chocolate and Cocoa Paste, im- ported, and for granting certain Inland Duties in lieu thereof, it was enacted, that all such Coffee, Tea and Cocoa Nuts as should be imported into the Kingdom of Great Britain from any Foreign Parts, upon the Entry thereof at the Custom House, and paying or securing the several Subsidies and additional Imposts which should then remain due thereon, should be forth- with carried or put into such Warehouse or Warehouses as mentioned in the said Act; and that the said Coffee, Tea and Cocoa Nuts, so brought into such Warehouse or Warehouses, should not be taken or carried out thence upon any Account whatsoever, 4 other than as is in the said Act after mentioned, and that upon producing a Warrant or Warrants, Certificate or Certificates therein mentioned, signed by such Collector or Receiver as is therein mentioned (certifying that he had received the said In- land Duties by the said Act granted), to the respective Ware- house Keeper or Warehouse Keepers, such Warehouse Keeper or Warehouse Keepers should deliver out of such Warehouse or Warehouses therein mentioned, so much Coffee, Tea or Cocoa Nuts intended for Home Consumption, as should be mentioned or expressed in such Warrant or Warrants, Certificate or Cer- tificates respectively, to have paid the said Inland Duties ; and the respective Warehouse Keeper and Warehouse Keepers were by the said Act directed thereupon to give to such Importers or Proprietors a Permit or Certificate to accompany such Coffee, 4 Tea or Cocoa Nuts so delivered out, (which Permit or Certificate should be also signed by an Officer attending the said Ware- house or Warehouses, who should be appointed by the said Commissioners for the said Inland Duties, or the major Part of them,) 4 to prevent the seizing thereof: And Whereas it is expedient that for all Coffee, Tea and Cocoa Nuts respectively expressed in any such Warrant or Warrants, or Certificate or Certificates, 4 mentioned in the said Act to have paid the Inland Duties, such Permit as is hereinafter directed should be granted to accom- pany any such Coffee, Tea or Cocoa Nuts, in lieu and instead of such Permit or Certificate as aforesaid Be it therefore enacted, That, from and after the First Day of September One thousand eight hundred and three, upon the Delivery out of any such Warehouse or Warehouses mentioned in the said Act of any Coffee, Tea or Cocoa Nuts expressed in such Warrant or Warrants, Certificate or Certificates respectively mentioned in the said Act to have paid the Inland Duties, the proper Officer or Officers of Excise shall thereupon grant and give a Permit in Writing, signed by the said Officer or Officers, specifying the Weight of all such Coffee, Tea and Cocoa Nuts respectively; and also the Name or
+III. And Whereas by an Act made in the Tenth Year of the Reign of His late Majesty King George the First, among other things, for repealing certain Duties therein mentioned, payable upon Coffee, Tea, Cocoa Nuts, Chocolate and Cocoa Paste, im- ported, and for granting certain Inland Duties in lieu thereof, it was enacted, that all such Coffee, Tea and Cocoa Nuts as should be imported into the Kingdom of Great Britain from any Foreign Parts, upon the Entry thereof at the Custom House, and paying or securing the several Subsidies and additional Imposts which should then remain due thereon, should be forth- with carried or put into such Warehouse or Warehouses as mentioned in the said Act; and that the said Coffee, Tea and Cocoa Nuts, so brought into such Warehouse or Warehouses, should not be taken or carried out thence upon any Account whatsoever, 4 other than as is in the said Act after mentioned, and that upon producing a Warrant or Warrants, Certificate or Certificates therein mentioned, signed by such Collector or Receiver as is therein mentioned (certifying that he had received the said In- land Duties by the said Act granted), to the respective Ware- house Keeper or Warehouse Keepers, such Warehouse Keeper or Warehouse Keepers should deliver out of such Warehouse or Warehouses therein mentioned, so much Coffee, Tea or Cocoa Nuts intended for Home Consumption, as should be mentioned or expressed in such Warrant or Warrants, Certificate or Cer- tificates respectively, to have paid the said Inland Duties ; and the respective Warehouse Keeper and Warehouse Keepers were by the said Act directed thereupon to give to such Importers or Proprietors a Permit or Certificate to accompany such Coffee, 4 Tea or Cocoa Nuts so delivered out, (which Permit or Certificate should be also signed by an Officer attending the said Ware- house or Warehouses, who should be appointed by the said Commissioners for the said Inland Duties, or the major Part of them,) 4 to prevent the seizing thereof: And Whereas it is expedient that for all Coffee, Tea and Cocoa Nuts respectively expressed in any such Warrant or Warrants, or Certificate or Certificates, 4 mentioned in the said Act to have paid the Inland Duties, such Permit as is hereinafter directed should be granted to accom- pany any such Coffee, Tea or Cocoa Nuts, in lieu and instead of such Permit or Certificate as aforesaid Be it therefore enacted, That, from and after the First Day of September One thousand eight hundred and three, upon the Delivery out of any such Warehouse or Warehouses mentioned in the said Act of any Coffee, Tea or Cocoa Nuts expressed in such Warrant or Warrants, Certificate or Certificates respectively mentioned in the said Act to have paid the Inland Duties, the proper Officer or Officers of Excise shall thereupon grant and give a Permit in Writing, signed by the said Officer or Officers, specifying the Weight of all such Coffee, Tea and Cocoa Nuts respectively; and also the Name or
 
 Names
 
@@ -13388,7 +13388,7 @@ How Windows shall be stopped up.
 
 Proviso for Windows in Roofs and other Windows already stopped up.
 
-Window's not to • be made, restored or stopped up without Six Days’ Notice to Survey-- 1 ors.
+Window's not to be made, restored or stopped up without Six Days’ Notice to Survey-- 1 ors.
 
 354
 
@@ -13958,7 +13958,7 @@ Instalments due previous to Judge’s Opinion to be levied.
 
 40?. Costs on Appellant having demanded a Case, if Surcharge confirmed.
 
-"When Cases obtained by Inspectors, &c. not returned within the Time for delivering Duplicates to Re • ceivers-General* &c. Commissioners shall make separate
+"When Cases obtained by Inspectors, &c. not returned within the Time for delivering Duplicates to Re ceivers-General* &c. Commissioners shall make separate
 
 shall apprehend the Determination made by the said Commissioners to be contrary to the true Intent and Meaning of this Act, and shall then declare himself or herself dissatisfied with such Determination, it shall be lawful to and for such Assessor or Assessors, Surveyor or Surveyors, Inspector or Inspectors, or Appellant respectively, to require the said Commissioners to state specially, and to sign the Case upon which the Question arose, together with the Determination thereupon, which Case the said Commissioners, or the major Part of them then present, are hereby required to state, and sign accordingly, and to cause the same to be delivered to the Party making such Request as aforesaid, to be by him or her transmitted, if in England, Wales or Berwick , to
 
@@ -14504,7 +14504,7 @@ For embodying Militia of United Kingdom, and of Corps of Miners of Devon and j C
 
 Contingencies for said Militia -1
 
-Clothing embodied Militia of Great Britain and Miners Increased Rates to Innkeepers, and f Small Beer for Militia of (Great Britain • - - J
+Clothing embodied Militia of Great Britain and Miners Increased Rates to Innkeepers, and f Small Beer for Militia of (Great Britain - - J
 
 For several Periods in 1803.
 
@@ -16764,7 +16764,7 @@ in and for the said Port of London, and the Canal and other Works which should b
 
 A.D. 1803. ' 43° GEO. III. cxxiv.
 
-‘ unmoorihg, moving and removing of Ships and other Vessels in the said Port: And Whereas Compensations were by the said Act directed to be made for Loss or Damage which might happen by reason or in consequence of the Works, Improvements and Regulations thereby intended, and divers of the said Compensations were thereby entrusted to the Care and Management of certain Commissioners appointed and to be appointed by vir- tue of the said Act, and to be called Commissioners of the
+‘ unmooring, moving and removing of Ships and other Vessels in the said Port: And Whereas Compensations were by the said Act directed to be made for Loss or Damage which might happen by reason or in consequence of the Works, Improvements and Regulations thereby intended, and divers of the said Compensations were thereby entrusted to the Care and Management of certain Commissioners appointed and to be appointed by vir- tue of the said Act, and to be called Commissioners of the
 
 4 said Compensations ; and in consideration of the great Accom- modation and Advantage which the several Works and Regulations thereby authorized to be made would afford to the Shipping and Trade of the said Port, and of the great Charges to be occasioned by making the said Canal and other Works, certain Rates or Duties of Tonnage were by the said Act made payable to His Majestj^, His Heirs and Successors, for the Term of Fourteen Years next ensuing the passing of the said Act, for Ships and other Vessels trading to or using the Port of London :
 
@@ -23108,7 +23108,7 @@ SCHEDULE (A.) STAMP DUTIES.
 
 Name and Description of the Instrument, Article or Thing, on which the Duty attaches. England. Scotland.
 
-Licence for uttering or vending by Retail, within the Cities of London • s* d* &£* s. d.
+Licence for uttering or vending by Retail, within the Cities of London s* d* &£* s. d.
 
 and Westminster, or within the Limits of the Twopenny Post, any Hats
 
@@ -23162,7 +23162,7 @@ SCHEDULE (B.) — continued.
 
 Name and Description of the Instrument, Article or Thing, on which the Duty attaches. England. Scotland.
 
-Dice, for every Pair which shall be made s. d. • s. d.
+Dice, for every Pair which shall be made s. d. s. d.
 
 fit for Sale or Use in Great Britain Hats made wholly of Felt, Wool, Stuff, Beaver or Leather, or any Mixture of the said Substances, or any of them, or with any other Substance or Substances, by whatever Name such Hat shall be called or distinguished, not exceeding the Price or Value of Four Shillings, including all the Mountings or other Ornaments, (except Gold and Silver Lace), which shall be uttered, vended or sold, by any Person or Persons taking out a Licence for uttering or 1 0 0 10 0
 
@@ -23492,7 +23492,7 @@ In Action for executing Act,
 
 44° GEO. III.
 
-otherwise, for any such Reduced Three Pounds Centum An- • nuities as aforesaid, to which any Persons, or Bodies Politic or Corporate, may become entitled under this Act, as equivalent to the Difference in Value between the said Five Pounds per Centum Annuities granted by the said Act of the Twenty fourth Year of the Reign of His present Majesty, and other subsequent Acts, and One hundred Pounds Sterling, if the Option shall be so declared, or as shall, in case of any Five Pounds per Centum Annuities, created by the said recited Acts of the Thirty seventh and Forty second Years respectively, being converted into Three Pounds per Centum Reduced Annuities, be equivalent to such Proportion of the said last mentioned Annuities as shall he equal to such Difference as aforesaid, such Proportion in the latter Case to be settled and declared by the Governor and Deputy Governor of the Bank of England.
+otherwise, for any such Reduced Three Pounds Centum An- nuities as aforesaid, to which any Persons, or Bodies Politic or Corporate, may become entitled under this Act, as equivalent to the Difference in Value between the said Five Pounds per Centum Annuities granted by the said Act of the Twenty fourth Year of the Reign of His present Majesty, and other subsequent Acts, and One hundred Pounds Sterling, if the Option shall be so declared, or as shall, in case of any Five Pounds per Centum Annuities, created by the said recited Acts of the Thirty seventh and Forty second Years respectively, being converted into Three Pounds per Centum Reduced Annuities, be equivalent to such Proportion of the said last mentioned Annuities as shall he equal to such Difference as aforesaid, such Proportion in the latter Case to be settled and declared by the Governor and Deputy Governor of the Bank of England.
 
 X. And be it further enacted, That all Persons who shall be entitled to any of the Annuities hereby granted, and all Persons lawfully claiming under them, shall be possessed thereof as of a Personal Estate, which shall not be descendible to Heirs, nor liable to any foreign Attachment by the Custom of London or otherwise; any Law, Statute or Custom to the contrary notwithstanding.
 
@@ -25150,7 +25150,7 @@ An Act for inclosing Lands in the Manor and Parish of Haddiscoe, in the County o
 
 Cap. xliv.
 
-An Act to enable the Right Honourable George Talbot, Lord Dynevor, and other Persons, claiming under the Will of the late Right Honourable Cecil Baroness Dynevor, to grant building Leases of certain Lands in the Parish of Merthyr Tydvil, in the County of Glamorgan, being Part of the Estates devised by the said Will. (q. P.) • [18th May 1804.]
+An Act to enable the Right Honourable George Talbot, Lord Dynevor, and other Persons, claiming under the Will of the late Right Honourable Cecil Baroness Dynevor, to grant building Leases of certain Lands in the Parish of Merthyr Tydvil, in the County of Glamorgan, being Part of the Estates devised by the said Will. (q. P.) [18th May 1804.]
 
 Cap. xlv.
 
