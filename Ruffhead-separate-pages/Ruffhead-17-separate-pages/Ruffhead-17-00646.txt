@@ -24,11 +24,11 @@ Bread to be loid in the City of London, and the Liberties thereof, and within th
 
 Weekly Bills of Mortality, and within ten Miles of the Royal Exchange.
 
-UE1 J^v * [4th July 1797.3
+UE1 J^v [4th July 1797.3
 
-* TT THERE AS several of the Provisions and Regulations in the Statute made in the thirty-first Year of
+TT THERE AS several of the Provisions and Regulations in the Statute made in the thirty-first Year of
 
-VV the Reign of his late Majesty King George the Second, intituled, An Act for the due waking of
+the Reign of his late Majesty King George the Second, intituled, An Act for the due waking of
 
 Bread, and to regulate the Price and Assize thereof,\ and to punish Perfom who fall adulterate Meal, Flour,
 
@@ -74,7 +74,7 @@ the Wheat shall be delivered ; and that the said Returns or Accounts, so to be e
 
 before-mentioned, shall be entered, made, and kept in the following Form, or to the like EfFeft; (that is to
 
-say,) * . * .t
+say,) . .t
 
 Corn Meter’s Office London, one thousand seven hundred and ninety-seven.
 
@@ -114,5 +114,4 @@ Form of Corn
 
 Meter’s Entries,
 
-II. And
 
