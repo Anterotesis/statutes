@@ -316,9 +316,9 @@ And whereas it is also judged necessary for the safety of the United Kingdom, an
 
 And whereas the said marine forces may frequently be quartered or be on shore, or sent to do duty or be on board transport ships or vessels, merchant ships or vessels, or other ships or vessels, or they may be under other circumstances in which they will not be subject to the laws relating to the government of Her Majesty's forces by sea:
 
-And whereas no man can be forejudged of life or limb, or subjected in time of peace to any kind of punishment within this realm by martial law, or in any other manner than by the judgment of his peers and according to the known and established laws of this realm; yet nevertheless it being requisite, for the retaining all the before-mentioned forces, and other persons subject to military law, in their duty, that an exact discipline be observed, and that persons belonging to the said forces who mutiny or stir up sedition, or desert Her Majesty's service, or are guilty of crimes and offences to the prejudice of good order and military discipline, be brought to a more exemplary and speedy punishment than the usual forms of the law will allow :
+And whereas no man can be forejudged of life or limb, or subjected in time of peace to any kind of punishment within this realm by martial law, or in any other manner than by the judgment of his peers and according to the known and established laws of this realm; yet nevertheless it being requisite, for the retaining all the before-mentioned forces, and other persons subject to military law, in their duty, that an exact discipline be observed, and that persons belonging to the said forces who mutiny or stir up sedition, or desert Her Majesty's service, or are guilty of crimes and offences to the prejudice of good order and military discipline, be brought to a more exemplary and speedy punishment than the usual forms of the law will allow:
 
-And whereas the Army Act, 1881, will expire in the year one thousand eight hundred and ninety on the following days :
+And whereas the Army Act, 1881, will expire in the year one thousand eight hundred and ninety on the following days:
 
 (a.) In the United Kingdom, the Channel Islands, and the Isle of Man, on the thirtieth day of April; and (b.) Elsewhere in Europe, inclusive of Malta, also in the West Indies and America, on the thirty-first day of July; and (c.) Elsewhere, whether within or without Her Majesty's dominions, on the thirty-first day of December:
 
@@ -692,7 +692,7 @@ Lunatics in Workhouses.
 
 (a) that such person is a lunatic, with the grounds for the Form lo. opinion; and
 
-(б) that he is a proper person to be allowed to remain in a work-house as a lunatic; and
+(b) that he is a proper person to be allowed to remain in a work-house as a lunatic; and
 
 (c) that the accommodation in the workhouse is sufficient for his proper care and treatment, separate from the inmates of the workhouse not lunatics, unless the medical officer certifies that the lunatic's condition is such that it is not necessary for the convenience of the lunatic or of the other inmates that he should be kept separate.
 
@@ -1608,7 +1608,7 @@ The Judge in Lunacy.
 
 (4.) Any order under this section may be made notwithstanding proceedings are pending for a traverse or new trial, and any person acting upon an order so made shall be indemnified as effectually as if there had been no right of traverse or new trial
 
-109. The costs of all proceedings for the purpose of ascertaining whether a person is lunatic, and of all proceedings in the matter of a lunatic shall be in the discretion of the Judge in Lunacy, who may order all or any of such costs to be paid by the lunatic or alleged lunatic, or to be charged upon aud paid out of his estate,
+109. The costs of all proceedings for the purpose of ascertaining whether a person is lunatic, and of all proceedings in the matter of a lunatic shall be in the discretion of the Judge in Lunacy, who may order all or any of such costs to be paid by the lunatic or alleged lunatic, or to be charged upon and paid out of his estate,
 
 1890.
 
@@ -2510,7 +2510,7 @@ Lunatics in Asylums.
 
 188. At least two members of the visiting committee shall together, once at least in every two months, inspect every part of the asylum, and see every patient therein, so as to give everyone, as far as possible, full opportunity of complaint, and examine the order and certificate or certificates for the admission of every lunatic admitted since the last visitation and the general books kept in the asylum; and shall enter in the visitors book any remarks they think proper in regard to the condition and management of the asylum and the lunatics therein, and shall sign the book upon every visit.
 
-189. — (1.) During the continuance of a contract for the reception of the pauper lunatics of a county borough or other borough in a county asylum not less than two members of the visiting committee of the borough appointed for the purpose shall together, at least once in every six months, visit the asylum and see aud examine the lunatics received under the contract, and shall report the result of their visit to the council of the borough.
+189. — (1.) During the continuance of a contract for the reception of the pauper lunatics of a county borough or other borough in a county asylum not less than two members of the visiting committee of the borough appointed for the purpose shall together, at least once in every six months, visit the asylum and see and examine the lunatics received under the contract, and shall report the result of their visit to the council of the borough.
 
 (2.) The visitors may, if they think fit, be accompanied by a medical practitioner who is not an officer of the asylum, and they may by order direct payment to such medical practitioner of such a sum as they think fit for his services, and such sum shall upon the production of the order be paid to the medical practitioner by the treasurer of the borough.
 
@@ -2652,7 +2652,7 @@ Annual visit to single patient.
 
 196. — (1.) The manager of every hospital or licensed house shall lay before the visiting Commissioners or Commissioner, or the visitors or visitor, at each visit —
 
-(a.) A list of all the patients then in the hospital or house (distinguishing pauper patients from other patients, and males from females, and specifying such as are deemed curable) :
+(a.) A list of all the patients then in the hospital or house (distinguishing pauper patients from other patients, and males from females, and specifying such as are deemed curable):
 
 (6.) The several books by this Act or any Rules under this Act required to be kept by the manager and by the medical officer of a hospital or licensed house:
 
@@ -3010,7 +3010,7 @@ Provisions for registration of hospitals in which lunatics are received.
 
 76
 
-Cb. 5.
+Ch. 5.
 
 Lunacy A 1890.
 
@@ -4090,7 +4090,7 @@ this Act shall not extend to criminal lunatics. £!»(!!» &c
 
 “ Asylum ” means an asylum for lunatics provided by a county
 
-or borough, or by a union of counties or boroughs :
+or borough, or by a union of counties or boroughs:
 
 “ The Bank ” means the Governor and Company of the Bank of England:
 
@@ -4098,13 +4098,13 @@ or borough, or by a union of counties or boroughs :
 
 “ Commissioners ” means the Commissioners in Lunacy:
 
-“ Contingent right, ” as applied to lands, includes a contingent and executory interest, a possibility coupled with an interest, whether the object of the gift or limitation of such interest or possibility bo or be not ascertained, also a right of entry, whether immediate or future, and whether vested or contingent :
+“ Contingent right, ” as applied to lands, includes a contingent and executory interest, a possibility coupled with an interest, whether the object of the gift or limitation of such interest or possibility bo or be not ascertained, also a right of entry, whether immediate or future, and whether vested or contingent:
 
 “Convey” and “conveyance” include the performance of all formalities required to the validity of conveyances by married women and tenants in tail under the “ Act for the abolition 3 & 4 will. 4. “ of fines and recoveries, and for the substitution of more c-74 *
 
 “ simple modes of assurance, ” and also surrenders and other acts which a tenant of copyhold lands can perform preparatory to or in aid of a complete assurance of such copyhold lands:
 
-“ County, ” for the purpose of the powers exerciseable by justices of a county, does not include a county of a city or county of a town (except the City of London), but includes any county, riding, division, part or liberty of a county having a separate court of quarter sessions :
+“ County, ” for the purpose of the powers exerciseable by justices of a county, does not include a county of a city or county of a town (except the City of London), but includes any county, riding, division, part or liberty of a county having a separate court of quarter sessions:
 
 “County borough” has the same meaning as in the Local Go- 51 & 52 Vict.
 
@@ -4142,33 +4142,33 @@ Lunacy A, 1890.
 
 “ Justice ” means a justice of the peace:
 
-“ Land ” includes an undivided share of land :
+“ Land ” includes an undivided share of land:
 
-“ Lease ” includes underlease :
+“ Lease ” includes underlease:
 
 “ Lunatic ” means an idiot or person of unsound mind:
 
-“ Magistrate ” means a stipendiary magistrate and any magistrate appointed to act at any of the police courts of the metropolis :
+“ Magistrate ” means a stipendiary magistrate and any magistrate appointed to act at any of the police courts of the metropolis:
 
 “ Manager ” in relation to an institution for lunatics means the superintendent of an asylum, the resident medical officer or superintendent of a hospital, and the resident licensee of a licensed house:
 
-“ Masters ” means the Masters in Lunacy :
+“ Masters ” means the Masters in Lunacy:
 
 “ Medical officer ” means, in the case of an asylum, the medical superintendent, or if the superintendent is not a medical practitioner the resident medical officer of the asylum, in the case of a hospital the superintendent, and in the case of a licensed house the resident medical practitioner, or if none the medical practitioner who visits the house as the medical attendant thereof:
 
-“ Medical practitioner ” means a medical practitioner duly registered under the Medical Act, 1858, and the Acts amending the same, and the Medical Act, 1886 :
+“ Medical practitioner ” means a medical practitioner duly registered under the Medical Act, 1858, and the Acts amending the same, and the Medical Act, 1886:
 
 “ Mortgage ” includes every estate, interest, or property in real or personal estate, which is a security for money or money's worth:
 
 ‘Next of kin” includes heir at law, and the persons entitled under the statutes for the distribution of the estates of intestates:
 
-“Pauper” means a person wholly or partly chargeable to a union, county, or borough :
+“Pauper” means a person wholly or partly chargeable to a union, county, or borough:
 
 “ Paymaster-General ” includes the Assistant Paymaster-General for Supreme Court business:
 
 “Prescribed” means prescribed by this Act or by any rules under this Act:
 
-“ Private patient ” means a patient who is not a pauper: “Property” includes real and personal property, whether in possession, reversion, remainder, contingency, or expectancy, and any estate or interest, and any undivided share therein :
+“ Private patient ” means a patient who is not a pauper: “Property” includes real and personal property, whether in possession, reversion, remainder, contingency, or expectancy, and any estate or interest, and any undivided share therein:
 
 1890.
 
@@ -4180,11 +4180,11 @@ Ch. 5.
 
 “ Public department ” means the Treasury, the Admiralty, and a Secretary of State, and any other public department of the Government:
 
-“ Quarter Sessions ” includes general sessions :
+“ Quarter Sessions ” includes general sessions:
 
-“ Quarter sessions borough ” means a borough having a separate court of quarter sessions :
+“ Quarter sessions borough ” means a borough having a separate court of quarter sessions:
 
-“ Reception order ” means an order or authority made or given before or after the commencement of this Act for the reception of a lunatic, whether a pauper or not, in an institution for lunatics or as a single patient, and includes an urgency order :
+“ Reception order ” means an order or authority made or given before or after the commencement of this Act for the reception of a lunatic, whether a pauper or not, in an institution for lunatics or as a single patient, and includes an urgency order:
 
 “Relative” means a lineal ancestor or lineal descendant, or a lineal descendant of an ancestor not more remote than greatgrandfather or great-grandmother:
 
@@ -4192,7 +4192,7 @@ Ch. 5.
 
 “ Transfer ” includes assignment, payment, and other disposition, and the execution, and performance, of every assurance and act to complete a transfer:
 
-“ Trust ” and “ trustee ” include implied an'd constructive trusts, and cases where the trustee has some beneficial interest, and also the duties incident to the office of personal representative of a deceased person, but not the duties incident to an estate conveyed by way of mortgage :
+“ Trust ” and “ trustee ” include implied an'd constructive trusts, and cases where the trustee has some beneficial interest, and also the duties incident to the office of personal representative of a deceased person, but not the duties incident to an estate conveyed by way of mortgage:
 
 “ Union ” means any parish or union of parishes for which there is a separate board of guardians:
 
@@ -4222,7 +4222,7 @@ Section ill. Declaration to be made by a Master.
 
 I, , declare that I will faithfully,
 
-impartially, and honestly, according to the best of my skill aud knowledge, execute the powers and trusts committed to me as one of tho masters in lunacy, and that without favour or affection, prejudice or malice.
+impartially, and honestly, according to the best of my skill and knowledge, execute the powers and trusts committed to me as one of tho masters in lunacy, and that without favour or affection, prejudice or malice.
 
 Section 151. Declaration to be made by a Commissioner.
 
@@ -4312,7 +4312,7 @@ The circumstances under which this petition is presented by me are as follows: [
 
 7. A statement of particulars relating to the said A.B. accompanies this petition.
 
-If it is the fact add :
+If it is the fact add:
 
 8. The said A.B. has been received in the asylum [or hospital
 
@@ -4540,7 +4540,7 @@ Iii the matter of A.B. of [l] in the county [2] of
 
 [3], an alleged lunatic.
 
-I, the undersigned C.D., do hereby certify as follows :
+I, the undersigned C.D., do hereby certify as follows:
 
 1. I am a person registered under the Medical Act, 1858, and I am in the actual practice of the medical profession.
 
@@ -4548,7 +4548,7 @@ I, the undersigned C.D., do hereby certify as follows :
 
 of [separately from any other practitioner] [], I personally
 
-examined the said A.B. and came to the conclusion that he is a [lunatic, an idiot, or a person of unsound mind] and a proper person to be taken charge of and detained under care aud treatment.
+examined the said A.B. and came to the conclusion that he is a [lunatic, an idiot, or a person of unsound mind] and a proper person to be taken charge of and detained under care and treatment.
 
 [7] If the same or other facts were observed previous to the time of the examination, the certifier is at liberty to subjoin them in a separate paragraph.
 
@@ -5844,7 +5844,7 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 as if in the twenty-sixth and twenty-seventh sections thereof the *ine *
 
-following sub-section were inserted instead of the sub-sections numbered (2) in those sections respectively :
+following sub-section were inserted instead of the sub-sections numbered (2) in those sections respectively:
 
 “ (2.) The centre of this disc shall be placed at such level below the deck-line marked under the provisions of this Act as may be approved by the Board of Trade, and shall indicate the maximum load-lino in salt water to which it shall be lawful to load the ship.”
 
@@ -5914,7 +5914,7 @@ WHEREAS it is expedient to amend certain provisions of the
 
 Act fifty-two and fifty-three Victoria, chapter twenty-three, 53 & 53 Vict. intituled “ An Act to amend the Herring Fishery (Scotland) Acts; c. 2a.
 
-“ and for other purposes relating thereto ” :
+“ and for other purposes relating thereto ”:
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -5930,7 +5930,7 @@ CHAPTER 11.
 
 An Act to amend the Law relating to Municipal Election* in certain Burghs in Scotland. [4th July 1890.]
 
-"TTTHEREAS it is expedient to amend the law relative to muni-»▼ cipal elections in certain burghs in Scotland:
+"T WHEREAS it is expedient to amend the law relative to muni-»▼ cipal elections in certain burghs in Scotland:
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -6108,7 +6108,7 @@ As to expenses 2. — (1.) For the purposes of this Act, so far as the same rela
 
 (1.) The Lord Lieutenant and Privy Council shall be substituted for the Board of Agriculture.
 
-(2.) There shall be paid to the General Cattle Diseases Fund :
+(2.) There shall be paid to the General Cattle Diseases Fund:
 
 (a.) Such moneys (not exceeding twenty thousand pounds in any one year) as may be provided by Parliament towards defraying the costs of the execution of this Act in Ireland; and (b.) All sums received by the Lord Lieutenant and Privy Council on the sale of the carcases of cattle slaughtered under this Act, after deducting any amounts payable to the owners of such cattle under the third sub-section of section thirty of the principal Act; and the amounts so paid shall be carried to a separate account to be called the Cattle Pleuro-pneumonia Account of the said Fund, and shall be applicable solely to the purposes of this Act.
 
@@ -6158,7 +6158,7 @@ under this
 
 C. 74. 8. 21.
 
-8« — (!) This Act may be cited as the Contagious Diseases Short title, aud (Animals) (Pleuro-pneumonia) Act, 1890, and so far as is consistent J>“t*truction of with the tenor thereof, shall be construed as one with the Contagious Diseases (Animals) Acts, 1878 to 1886.
+8« — (!) This Act may be cited as the Contagious Diseases Short title, and (Animals) (Pleuro-pneumonia) Act, 1890, and so far as is consistent J>“t*truction of with the tenor thereof, shall be construed as one with the Contagious Diseases (Animals) Acts, 1878 to 1886.
 
 (2.) The Contagious Diseases (Animals) Acts, 1878 to 1886, and this Act may be cited together as the Contagious Diseases (Animals)
 
@@ -6270,7 +6270,7 @@ Ch. 17, 18. Public Health (Rating of Orchards) 5.3 & 54 Vict.
 
 Act, 1890.
 
-“ meadow, or pasture ground only, or as woodlands, market gardens, “ or nursery grounds, ” shall be assessed to the general district rate in an urban district or to a separate rate levied in respect of special expenses within the meaning of the said Act in a rural district, in the proportion of one-fourth part only of the net annual value or rateable value of such land :
+“ meadow, or pasture ground only, or as woodlands, market gardens, “ or nursery grounds, ” shall be assessed to the general district rate in an urban district or to a separate rate levied in respect of special expenses within the meaning of the said Act in a rural district, in the proportion of one-fourth part only of the net annual value or rateable value of such land:
 
 And whereas doubts have arisen whether orchards are or are not included among the lands to which the aforesaid exemption* apply:
 
@@ -6290,7 +6290,7 @@ An Act to amend the Law relating to the grant of Superannuation Allowances and G
 
 WHEREAS between the seventeenth day of December one thousand eight hundred and sixty-one, and the fourth day of June one thousand eight hundred and seventy, certain persons entered the service of the Government in the manufacturing and store establishments of the War Department in the United Kingdom, in a capacity which did not entitle them to the benefits of the 22 Vict. c. 26. Superannuation Act, 1859, but owing to inadvertence on the part of the heads of the establishments in which they respectively served the fact of their not being so entitled was not communicated to them before or at the time of their entering service:
 
-And whereas such persons were in consequence led to entertain a reasonable expectation that they were so entitled, and it is expedient that compensation should be granted to them for the loss of such reasonable expectation :
+And whereas such persons were in consequence led to entertain a reasonable expectation that they were so entitled, and it is expedient that compensation should be granted to them for the loss of such reasonable expectation:
 
 1890.
 
@@ -6386,7 +6386,7 @@ CHAPTER 20.
 
 An Act to amend the Public Health (Scotland) Act, 1867, in relation to Hospitals for Burghs. [25th July 1890.]
 
-WHEREAS it is expedient to extend the provisions of the Public Health (Scotland) Act, relating to the power of local authorities to provide hospitals :
+WHEREAS it is expedient to extend the provisions of the Public Health (Scotland) Act, relating to the power of local authorities to provide hospitals:
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -6770,15 +6770,15 @@ Definitions. 39. In this Act, unless the context otherwise requires, —
 
 “ Commissioner ” means Commissioner of inland revenue:
 
-" Accountant General ” means Accountant and Comptroller General of inland revenue :
+" Accountant General ” means Accountant and Comptroller General of inland revenue:
 
 “ Receiver General ” means Receiver General of inland revenue:
 
-" Collector ” means Collector of inland revenue :
+" Collector ” means Collector of inland revenue:
 
 “ Officer ” means Officer of inland revenue:
 
-Goods ” includes commodities and chattels :
+Goods ” includes commodities and chattels:
 
 " Prescribed ” means prescribed by the Commissioners:
 
@@ -7072,7 +7072,7 @@ An Act to make provision for building and enlarging Barracks and Camps in the Un
 
 [25th July 1890.]
 
-WHEREAS it is expedient to make provision for building and enlarging barracks and camps, and for facilitating the training of troops in the United Kingdom, and in certain colonies, and to make better precautions for the health and efficiency of Her Majesty's military forces (which purposes are herein-after referred to as the purposes of this Act) :
+WHEREAS it is expedient to make provision for building and enlarging barracks and camps, and for facilitating the training of troops in the United Kingdom, and in certain colonies, and to make better precautions for the health and efficiency of Her Majesty's military forces (which purposes are herein-after referred to as the purposes of this Act):
 
 And whereas by the Drill Grounds Act, 1886, and the Acts 49 Vict c. 5. therein referred to powers are given to acquire land and rights over land for the purposes of artillery and rifle ranges, and for the purposes of drill and other military purposes of volunteer corps, or of other portions of Her Majesty's military forces, and it is expedient to extend those powers:
 
@@ -7168,7 +7168,7 @@ ratee money Treasury may, if they think fit, at any time after the thirty-first 
 
 (a) providing money for sums to be issued after that date out of the Consolidated Fund under the authority of this Act; or
 
-(б) repaying to that fund all or any part of the sums so issued; or
+(b) repaying to that fund all or any part of the sums so issued; or
 
 (c) paying off any securities issued under this section or replacing in any financial year money expended in paying off such securities in the same financial year.
 
@@ -7198,7 +7198,7 @@ may be required by the Treasury, showing as follows:
 
 (a) the money expended during that year in pursuance of this Act, and the purposes on which that money was expended, distinguishing the expenditure under each of the heads in the Schedule to this Act; and
 
-(б) the mode in which that money was provided, and the securities (if any) created for providing the same; and
+(b) the mode in which that money was provided, and the securities (if any) created for providing the same; and
 
 (c) the aggregate amount of money expended since the passing of this Act on the purposes thereof, and the aggregate amount of money borrowed and of securities (if any) created for providing for the same; and
 
@@ -7344,7 +7344,7 @@ Part VII. — Miscellaneous.
 
 Past I. — Parliamentary.
 
-2. There shall be, in place of the Legislative Council now subsisting, a Legislature to Legislative Council aud a Legislative Assembly: and it shall be lawful for j>© constituted Her Majesty, by and with the advice and consent of the said Council and Western Assembly, to make laws for the peace, order, and good government of the Aus ia‘ colony of Western Australia and its dependencies; and such Council and Assembly shall, subject to the provisions of this Act, have all the powers
+2. There shall be, in place of the Legislative Council now subsisting, a Legislature to Legislative Council and a Legislative Assembly: and it shall be lawful for j>© constituted Her Majesty, by and with the advice and consent of the said Council and Western Assembly, to make laws for the peace, order, and good government of the Aus ia‘ colony of Western Australia and its dependencies; and such Council and Assembly shall, subject to the provisions of this Act, have all the powers
 
 and functions of the now subsisting Legislative Council.
 
@@ -7472,7 +7472,7 @@ Any member accepting a contract, or
 
 preceding sections shall not apply to any member of the Legislative Council until Part III. of this Act shall come into operation.
 
-22. No member of the Legislative Council or Legislative Assembly shall sit or vote therein until he shall have taken and subscribed the following oath before the Governor, or before some person authorised by the Governor to administer such oath :
+22. No member of the Legislative Council or Legislative Assembly shall sit or vote therein until he shall have taken and subscribed the following oath before the Governor, or before some person authorised by the Governor to administer such oath:
 
 “ I, A.B., do sincerely promise and swear that I will be faithful and bear true allegiance to Her Majesty Queen Victoria, as lawful Sovereign of the United Kingdom of Great Britain and Ireland, and of this colony of Western Australia. So help me God.' *
 
@@ -7736,7 +7736,7 @@ number of members to be elected to serve in the Legislative Council for an elect
 
 (2.) Is a natural born or naturalised subject of Her Majesty, or a denizen of Western Australia; and,
 
-(3.) Has possessed for at least one year before bsing registered, and within the electoral division for which he seeks to be registered :
+(3.) Has possessed for at least one year before bsing registered, and within the electoral division for which he seeks to be registered:
 
 (a.) Either a freehold estate in possession at law or in equity of the clear value of two hundred pounds sterling above all charges or encumbrances affecting the same; or,
 
@@ -8650,7 +8650,7 @@ An Act for further promoting the Revision of the Statute Law by repealing Enactm
 
 [4th August 1890.]
 
-WHEREAS it is expedient that certain enactments which may be regarded as superfluous or spent, or have ceased to be in force otherwise than by express specific repeal by Parliament, or have, by lapse of time or otherwise, become unnecessary, should be expressly and specifically repealed :
+WHEREAS it is expedient that certain enactments which may be regarded as superfluous or spent, or have ceased to be in force otherwise than by express specific repeal by Parliament, or have, by lapse of time or otherwise, become unnecessary, should be expressly and specifically repealed:
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -9532,7 +9532,7 @@ Reign and Chapter. Title.
 
 11 Geo. Will. 4. c. 70. An Act for the more effectual Administration of Justice in England and Wales. In part; namely, — 1 Section thirty-one.
 
-1 Will. 4. c. 3. - 1 An Act the title of which begins with the words “ An Act to amend ” and ends with the words “ certain Cases.” In part; namely, — Title, from “ to amend ” to “ thereof; and.”, Preamble. :
+1 Will. 4. c. 3. - 1 An Act the title of which begins with the words “ An Act to amend ” and ends with the words “ certain Cases.” In part; namely, — Title, from “ to amend ” to “ thereof; and.”, Preamble.:
 
 1 Will. 4.c. 13. - ! | t An Act the title of which begins with the words “An Act to amend” and ends with the words “Lunatic Asylum.” In part; namely, — Preamble. Section one to “passing of this Act, ” and the word “that” before “notwithstanding” and before “ the care ” and before “ all rights.”
 
@@ -10106,7 +10106,7 @@ In this Act —
 
 “ Dairy” shall include any farm, farmhouse, cowshed, milk-store milk-shop, or other place from which milk is supplied, or in which milk is kept for purposes of sale:
 
-“ Dairyman ” shall include any cowkeeper, purveyor of milk, or occupier of a dairy :
+“ Dairyman ” shall include any cowkeeper, purveyor of milk, or occupier of a dairy:
 
 “ Medical officer of health ” shall include any person duly authorised to act temporarily as medical officer of health:“Local authority” shall include the Local Board of Woolwich, and the parish of Woolwich shall be deemed to be a London district.
 
@@ -10752,13 +10752,13 @@ Nature of Partnership.
 
 (a.) Registered as a company under the Companies Act, 1862, or any other Act of Parliament for the time being in force and relating to the registration of joint stock companies; or (b.) Formed or incorporated by or in pursuance of any other Act of Parliament or letters patent, or Royal Charter; or (c.) A company engaged in working mines within and subject to the jurisdiction of the Stannaries: is not a partnership within the meaning of this Act.
 
-2. In determining whether a partnership does or does not exist, regard shall be had to the following rules :
+2. In determining whether a partnership does or does not exist, regard shall be had to the following rules:
 
 (1.) Joint tenancy, tenancy in common, joint property, common property, or part ownership does not of itself create a partnership as to anything so held or owned, whether the tenants or owners do or do not share any profits made by the use thereof. (2.) The sharing of gross returns does not of itself create a partnership, whether the persons sharing such returns have or have not a joint or common right or interest in any property from which or from the use of which the returns are derived. (3.) The receipt by a person of a share of the profits of a business is primd facie evidence that he is a partner in the business, but the receipt of such a share, or of a payment contingent on or varying with the profits of a business, does not of itself make him a partner in the business; and in particular —
 
-(a.) The receipt by a person of a debt or other liquidated amount by instalments or otherwise out of the accruing profits of a business does not of itself make him a partner in the business or liable as such :
+(a.) The receipt by a person of a debt or other liquidated amount by instalments or otherwise out of the accruing profits of a business does not of itself make him a partner in the business or liable as such:
 
-(6.) A contract for the remuneration of a servant or agent of a person engaged in a business by a share of the profits of the business does not of itself make the servant or agent a partner in the business or liable as such :
+(6.) A contract for the remuneration of a servant or agent of a person engaged in a business by a share of the profits of the business does not of itself make the servant or agent a partner in the business or liable as such:
 
 (c.) A person being the widow or child of a deceased partner, and receiving by way of annuity a portion of the profits made in the business in which the deceased person was a partner, is not by reason only of such receipt a partner in the business or liable as such:
 
@@ -10964,7 +10964,7 @@ Ch. 89.
 
 303
 
-mined, subject to any agreement express or implied between the partners, by the following rules :
+mined, subject to any agreement express or implied between the partners, by the following rules:
 
 (1.) All the partners are entitled to share equally in the capital and profits of the business, and must contribute equally towards the losses whether of capital or otherwise sustained by the firm.
 
@@ -11070,7 +11070,7 @@ Ch. 39.
 
 (b.)When a partner, other than the partner suing, becomes in any other way permanently incapable of performing his part of the partnership contract:
 
-(c.) When a partner, other than the partner suing, has been guilty of such conduct as, in the opinion of the Court, regard being had to the nature of the business, is calculated to prejudicially affect the carrying on of the business :
+(c.) When a partner, other than the partner suing, has been guilty of such conduct as, in the opinion of the Court, regard being had to the nature of the business, is calculated to prejudicially affect the carrying on of the business:
 
 (d.) When a partner, other than the partner suing, wilfully or persistently commits a breach of the partnership agreement, or otherwise so conducts himself in matters relating to the partnership business that it is not reasonably practicable for the other partner or partners to carry on the business in partnership with him:
 
@@ -11154,7 +11154,7 @@ be observed . settlement of
 
 (a.) Losses, including losses and deficiencies of capital, shall be account8-paid first out of profits, next out of capital, and lastly, if necessary, by the partners individually in the proportion in which they were entitled to share profits:
 
-(b.) The assets of the firm including the sums, if any, contributed by the partners to make up losses or deficiencies of capital, shall be applied in the following manner and order :
+(b.) The assets of the firm including the sums, if any, contributed by the partners to make up losses or deficiencies of capital, shall be applied in the following manner and order:
 
 1. in paying the debts and liabilities of the firm to persons
 
@@ -11254,7 +11254,7 @@ An Act to further amend the Acts relating to the raising of Money by the London 
 
 WHEREAS the London County Council (in this Act referred to as “ the Council ”) require to borrow the amounts hereinafter named within the times herein-after limited:
 
-And whereas by the London Council (Money) Act, 1889 (in this 52 & 58 Vict. Act referred to as “ the Act of 1889 ”), the Council were empowered e‘61* to raise certain sums of money for the purposes in the said Act mentioned, and limits of time and amount within which the powers by the said Act granted might be exercised were fixed :
+And whereas by the London Council (Money) Act, 1889 (in this 52 & 58 Vict. Act referred to as “ the Act of 1889 ”), the Council were empowered e‘61* to raise certain sums of money for the purposes in the said Act mentioned, and limits of time and amount within which the powers by the said Act granted might be exercised were fixed:
 
 And whereas the powers for the raising of money by the Act of 1889 conferred upon the Council have been partially exercised, but it is expedient that the Council should have power to raise certain further sums of money specified in the First Schedule to this Act annexed for the purposes, upon the terms, and subject to the limitations herein-after mentioned, and that the Act of 1889 should be amended:
 
@@ -12268,7 +12268,7 @@ to payment of as a “grant”) payable by the police authority to any person (i
 
 (4.) If the pensioner appears to the police authority to be insane or otherwise incapacitated to act, the police authority may pay so much of the grant as the police authority think fit to the institution or person having the care of the pensioner, and may pay the surplus (if any) or such part thereof as the authority think fit for or towards the maintenance and benefit of the wife or relatives of the pensioner:
 
-(5.) On the death of a pensioner to whom a sum not exceeding one hundred pounds is due on account of a grant, then, if the police authority so direct, probate or other proof of the title of the personal representative of the deceased may be dispensed with, and the sum may be paid or distributed to or among the persons appearing to the police authority to be beneficially entitled to the personal estate of the deceased pensioner, or to or among any one or more of those persons, or in case of the illegitimacy of the deceased pensioner, to or among such persons as the police authority may think tit, and the police authority, and any officer of the police authority making the payment, shall be discharged from all liability in respect of any such payment or distribution :
+(5.) On the death of a pensioner to whom a sum not exceeding one hundred pounds is due on account of a grant, then, if the police authority so direct, probate or other proof of the title of the personal representative of the deceased may be dispensed with, and the sum may be paid or distributed to or among the persons appearing to the police authority to be beneficially entitled to the personal estate of the deceased pensioner, or to or among any one or more of those persons, or in case of the illegitimacy of the deceased pensioner, to or among such persons as the police authority may think tit, and the police authority, and any officer of the police authority making the payment, shall be discharged from all liability in respect of any such payment or distribution:
 
 (6.) Any sum payable to a minor on account of a grant may be paid either to the minor or to such person and on such conditions for the benefit of the minor as to the police authority seems expedient:
 
@@ -12332,7 +12332,7 @@ Provision as to service in more than one capacity.
 
 (a.) where a pension after being granted to a constable has subsequently in pursuance of this Act been declared to have been forfeited, and
 
-(b.) where a constable is dismissed without a pension to which he would be otherwise entitled, and in any other case where a constable, or the widow or child of a constable, claims a pension or allowance under this Act as of right, and the police authority do not admit the claim, the constable, widow, or child may apply to the police authority for a re*consideration of the claim to the pension or allowance, and if aggrieved by the decision upon such re-consideration may apply to the next practicable court of quarter sessions for the county within which the constable last served; or if the constable last served in the police force of a borough having a separate police force and a separate court of quarter sessions, then to the next practicable court of quarter sessions for that borough, and that court, after inquiry into the case, may make such order in the matter as appears to the court just, which order shall he final; hut nothing in this section shall confer a right to appeal against the exercise of any discretion, or against any decision which is declared by this Act to he final
+(b.) where a constable is dismissed without a pension to which he would be otherwise entitled, and in any other case where a constable, or the widow or child of a constable, claims a pension or allowance under this Act as of right, and the police authority do not admit the claim, the constable, widow, or child may apply to the police authority for a re*consideration of the claim to the pension or allowance, and if aggrieved by the decision upon such reconsideration may apply to the next practicable court of quarter sessions for the county within which the constable last served; or if the constable last served in the police force of a borough having a separate police force and a separate court of quarter sessions, then to the next practicable court of quarter sessions for that borough, and that court, after inquiry into the case, may make such order in the matter as appears to the court just, which order shall he final; hut nothing in this section shall confer a right to appeal against the exercise of any discretion, or against any decision which is declared by this Act to he final
 
 12. The provisions of this Act shall apply to a chief officer of police and to the assistant commissioners of the metropolitan police m like manner, so nearly as circumstances admit, as they apply to any other constable, except that, in the case of a chief officer, the certificate of approved service and the sanction to removal from one force to another may he given by a resolution of the police authority, and that nothing in this section shall make any pension which is now payable out of money provided by Parliament payable from any other source.
 
@@ -12598,7 +12598,7 @@ constables, (that is to say, to constables appointed to police forces, and to th
 
 (3.) Where the police force of a borough has been consolidated with the police force of a county, and the existing pension or superannuation fund of the police force of the borough has not been transferred to the county treasurer, that fund shall be transferred in accordance with the foregoing provisions of this section, as soon as may be after the commencement of this Act, by the persons holding the same, and, in the absence of any agreement between the police authorities for the county and borough, the income of that fund shall be applied in paying the superannuation and other allowances charged thereon at the date of the transfer, and, subject thereto, in paying the pensions, allowances, and gratuities to constables employed in the consolidated force, and their widows and children, in such manner as may be determined by an arbitrator appointed by the Secretary of State:
 
-(4.) In Lincolnshire section twenty-two of the County and Borough Police Act, 1859, and sections six, seven, and eight of the Police Superannuation Act, 1865, as amended by the Lincolnshire Police Superannuation Act, 1888, shall, so far as is consistent with the tenor thereof, apply to the pension fund under this Act in like manner as if it were the superannuation fund in those sections mentioned :
+(4.) In Lincolnshire section twenty-two of the County and Borough Police Act, 1859, and sections six, seven, and eight of the Police Superannuation Act, 1865, as amended by the Lincolnshire Police Superannuation Act, 1888, shall, so far as is consistent with the tenor thereof, apply to the pension fund under this Act in like manner as if it were the superannuation fund in those sections mentioned:
 
 (5.) Every police authority shall, within fourteen days after a pension scale has been adopted by or framed for the police authority in pursuance of this Act, cause written notice to be given to every constable in the police force under that authority, requiring him to inform that authority in writing before the date of the commencement of this Act, whether he does or does not accept the provisions of this Act in lieu of the existing enactments respecting superannuation:
 
@@ -12608,7 +12608,7 @@ Ch. 45.
 
 (6.) This Act shall not apply to any existing constable who, before the date of the commencement of this Act, whether any such notice has or has not been given to him, declines in writing to accept the provisions of this Act; but save as aforesaid this Act shall apply to all existing constables; and those constables shall be deemed to have surrendered in favour of the police authority all right to any provision made before the commencement of this Act, either wholly or partly, by the police authority for the superannuation of such constables, or, in case of their death, for their widows and children or any of them, whether that provision is made by an annual allowance, insurance, or otherwise:
 
-(7.) If by reason of the police authority not having given such notice as aforesaid an existing constable becomes entitled to a less pension than he would have been entitled to receive if this Act had not passed, he may apply to the police authority, and the police authority may make such order as may seem just for the purpose of preventing the constable from suffering any loss by reason of the notice not having been given :
+(7.) If by reason of the police authority not having given such notice as aforesaid an existing constable becomes entitled to a less pension than he would have been entitled to receive if this Act had not passed, he may apply to the police authority, and the police authority may make such order as may seem just for the purpose of preventing the constable from suffering any loss by reason of the notice not having been given:
 
 (8.) In the case of any existing constable to whom this Act applies, his approved service for any period before the commencement of this Act in the force in which he is serving at the time of his retirement shall be reckoned as approved service; and his service for not les< than three years either wholly or partly before the commencement of this Act in any police force in any part of the United Kingdom from which he removed with the sanction of the chief officer or police authority of that force to another force, shall (notwithstanding the sanction was not given in writing) be reckoned as approved service for the said period in the last-mentioned force, uuless the police authority who give him the notice respecting the acceptance of this Act, inform him in writing at the time of such notice that they refuse to allow the said service to be reckoned, but their refusal shall not prevent the reckoning of that service under any other provision of this section:
 
@@ -12674,9 +12674,9 @@ Provided as follows: —
 
 34. In this Act, unless the context otherwise requires,
 
-The expression “ treasurer ” includes any receiver, chamberlain, or other officer, by whatever name known, who performs the duties of treasurer in relation to any police fund :
+The expression “ treasurer ” includes any receiver, chamberlain, or other officer, by whatever name known, who performs the duties of treasurer in relation to any police fund:
 
-The expression “ fine ” includes a pecuniary penalty :
+The expression “ fine ” includes a pecuniary penalty:
 
 The expression “ fee ” does not include any reward paid to an individual constable by direction of the Admiralty, or of any, military authority, or of a Secretary of State not acting as the police authority, or any gratuity paid to a constable for a meritorious act done in the execution of his duty.
 
@@ -12712,7 +12712,7 @@ Extent of Act.
 
 same shall not be altered under this Act. and shall, save as otherwise expressly provided by this Act, be paid out of the like hinds, as nearly as may be, as if this Act had not passed.
 
-36. The Acts mentioned m the Fourth Schedule to this Act are hereby repealed to the extent in the third column of that schedule mentioned, and so much of any other Act as regulates the superannuation of any police force in England and Wales, or is inconsistent with this Act, is also hereby repealed :
+36. The Acts mentioned m the Fourth Schedule to this Act are hereby repealed to the extent in the third column of that schedule mentioned, and so much of any other Act as regulates the superannuation of any police force in England and Wales, or is inconsistent with this Act, is also hereby repealed:
 
 Provided that —
 
@@ -12782,7 +12782,7 @@ If the injury is accidental and the constable is partially disabled —
 
 (a) if he has completed not more than five years approved service, an anuual sum not greater than ten fiftieths and not less than ten sixtieths of his annual pay;
 
-(б) if he has completed more than five and net more than ten years approved service, an annual sum not greater than twelve fiftieths and' not less than twelve sixtieths of his annual pay;
+(b) if he has completed more than five and net more than ten years approved service, an annual sum not greater than twelve fiftieths and' not less than twelve sixtieths of his annual pay;
 
 348
 
@@ -12904,7 +12904,7 @@ Police Areas and Authorities.
 
 Police Area. Police Authority. 1 Chief Officer of | Police. Police Fund.
 
-The Metropolitan Police District. One of Her Majesty's Principal Secre-taries of State. The commissioner of police of the metropolis. The funds applicable for defraying the expenses of the metropolitan police force.
+The Metropolitan Police District. One of Her Majesty's Principal Secretaries of State. The commissioner of police of the metropolis. The funds applicable for defraying the expenses of the metropolitan police force.
 
 A county The standing joint committee of the quarter sessions and the county council. The chief constable. The county fund.
 
@@ -13226,7 +13226,7 @@ L This Act may be cited as the Pharmacy Act (Ireland), 1875, Short title. Amendm
 
 3. In this Act — Interpretation. “ The principal Act ” means the Pharmacy Act (Ireland), 1875:
 
-“ The Society ” means the Pharmaceutical Society of Ireland :
+“ The Society ” means the Pharmaceutical Society of Ireland:
 
 “ The council ” means the council of the Society:
 
@@ -13814,7 +13814,7 @@ WHEREAS it is expedient that certain enactments which may be regarded as spent, 
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. The enactments described in the schedule to this Act are Enactments hereby repealed, subject to the provisions of this Act and to the exceptions and qualifications in the schedule mentioned, aud every r#pe“ed* part of a title, preamble, or recital specified after the words “ in part, namely, " in connexion with an Act mentioned in the said schedule may be omitted from any revised edition of the statutes published by authority after the passing of this Act, and there may be added in the said edition such brief statement of the Acts, officers, persons, and things mentioned in the title, preamble, or recital, as may in consequence of such omission appear necessary.
+1. The enactments described in the schedule to this Act are Enactments hereby repealed, subject to the provisions of this Act and to the exceptions and qualifications in the schedule mentioned, and every r#pe“ed* part of a title, preamble, or recital specified after the words “ in part, namely, " in connexion with an Act mentioned in the said schedule may be omitted from any revised edition of the statutes published by authority after the passing of this Act, and there may be added in the said edition such brief statement of the Acts, officers, persons, and things mentioned in the title, preamble, or recital, as may in consequence of such omission appear necessary.
 
 Provided that —
 
@@ -13896,7 +13896,7 @@ Sections one to six and nine to eleven, except as to any tithes which have not b
 
 Statute Law Revision (No. 2) Act, 1890.
 
-Cb. 51.
+Ch. 51.
 
 376
 
@@ -14448,7 +14448,7 @@ Reign and Chapter. Title.
 
 Statute Law Revision (No. 2) Act, 1890.
 
-Cb. 51.
+Ch. 51.
 
 397
 
@@ -15646,7 +15646,7 @@ Section one hundred and sixty-one, the words “ her heirs or successors ” occ
 
 5 A 6 Vict. c. 93.
 
-An Act the title of which begins with the words “ An Act to amend” aud ends with the words “ lieu thereof.”
+An Act the title of which begins with the words “ An Act to amend” and ends with the words “ lieu thereof.”
 
 In part; namely, —
 
@@ -15746,7 +15746,7 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 438
 
-Cb. 52.
+Ch. 52.
 
 Railways (Ireland) Act, 1890. 53 & 54 Vict.
 
@@ -15774,7 +15774,7 @@ Ch. 52.
 
 6. In this Act, unless there is something inconsistent in the Interpretation, context —
 
-The expression " the Tramways (Ireland) Acts ” means the 23 & 24 Vict Tramways (Ireland) Act, 1860, the Tramways (Ireland) Vict.
+The expression "the Tramways (Ireland) Acts ” means the 23 & 24 Vict Tramways (Ireland) Act, 1860, the Tramways (Ireland) Vict.
 
 Amendment Act, 1861, the Act of the session of the thirty- c. iu. fourth and thirty-fifth years of the reign of Her present *43 Vict. Majesty, chapter one hundred and fourteen, the Tramways Vict
 
@@ -15934,7 +15934,7 @@ Practices) Act, 1890.
 
 “ Election court ” means a court constituted under this Act for the trial of an election petition:
 
-“ Election petition ” means a petition under this Act complaining of an undue election :
+“ Election petition ” means a petition under this Act complaining of an undue election:
 
 “ Licensing Acts ” means the Acts regulating the licensing of premises for the sale of intoxicating liquors in Scotland:
 
@@ -15944,7 +15944,7 @@ Practices) Act, 1890.
 
 “ Revising authority ” means the sheriff:
 
-“ Election/' when used with reference to a petition, means the election to which the petition relates :
+“ Election/' when used with reference to a petition, means the election to which the petition relates:
 
 Other expressions shall have the same meaning as in the Corrupt 46 47 Vict
 
@@ -16514,7 +16514,7 @@ petitions.
 
 (2.) If a petitioner neglects or refuses for three months after demand to pay to any person summoned as a witness on his behalf, or to the respondent, any sum certified to be due to him for his charges and expenses, and the neglect or refusal is, within one year after the demand, proved to the satisfaction of the election court, the prescribed officer shall thereon certify that the conditions contained in the bond of caution have not been fulfilled, and it shall then be competent for the party or parties interested to register the said bond and do diligence upon it.
 
-(3.) Where, upon the trial of an election petition, it appears to the election court that a corrupt practice has not been proved to have been committed in reference to the election by or with the knowledge and consent of the respondent to the petition, and that such respondent took all reasonable means to prevent corrupt practices being committed on his behalf, the court may make one or more orders with respect to the payment either of the whole or such part of the expenses of the petition as the court may think right, as follows :
+(3.) Where, upon the trial of an election petition, it appears to the election court that a corrupt practice has not been proved to have been committed in reference to the election by or with the knowledge and consent of the respondent to the petition, and that such respondent took all reasonable means to prevent corrupt practices being committed on his behalf, the court may make one or more orders with respect to the payment either of the whole or such part of the expenses of the petition as the court may think right, as follows:
 
 (a.) if it appears to the court that corrupt practices extensively prevailed in reference to the said election, the court may order j the whole or part of the expenses to be paid by the county, burgh, school board, or parochial board, as the case may be; and
 
@@ -16642,7 +16642,7 @@ Section II. — The following persons shall be deemed guilty of bribery, and sha
 
 (1.) Every person who shall, directly or indirectly, by himself or by any other person on his behalf, give, lend, or agree to give or lend, or shall offer, promise, or promise to procure or to endeavour to procure, any money or valuable consideration to or for any voter, or to or for any person on behalf of any voter, or to or for any other person in order to induce any voter to vote, or refrain from voting, or shall corruptly do any such act as aforesaid, on account of such voter having voted or refrained from voting at any election:
 
-(2.) Every person who shall, directly or indirectly, by himself or by any other person on his behalf, give or procure, or agree to give or proenre, or offer, promise, or promise to procure or to endeavour to procure, any office, place, or employment to or for any voter, or to or for any person on behalf of any voter, or to or for any other person, in order to induce such voter to vote or refrain from voting, or shall corruptly do any such act as aforesaid, on account of any voter having voted or refrained from voting at any election :
+(2.) Every person who shall, directly or indirectly, by himself or by any other person on his behalf, give or procure, or agree to give or proenre, or offer, promise, or promise to procure or to endeavour to procure, any office, place, or employment to or for any voter, or to or for any person on behalf of any voter, or to or for any other person, in order to induce such voter to vote or refrain from voting, or shall corruptly do any such act as aforesaid, on account of any voter having voted or refrained from voting at any election:
 
 (3.) Every person who shall, directly or indirectly, by himself or by any other person on his behalf, make any such gift, loan, offer, promise, procurement, or agreement as aforesaid, to or for any person, in order to induce such person to procure or endeavour to procure the return of any person to serve in Parliament, or the vote of any voter at any election:
 
@@ -17234,7 +17234,7 @@ TCiSnswaitarv ^he flowing matters, namely: —
 
 purposa^*7 (a-) For prescribing the times for the removal or carriage through the streets of any fcecal or offensive or noxious matter or liquid, whether such matter or liquid shall be in course of removal or carriage from within or without or through their district:
 
-(b.) For providing that the vessel, receptacle, cart, or carriage used therefor shall be properly constructed and covered so as to prevent the escape of any such matter or liquid :
+(b.) For providing that the vessel, receptacle, cart, or carriage used therefor shall be properly constructed and covered so as to prevent the escape of any such matter or liquid:
 
 (c.) For compelling the cleansing of any place whereon such matter or liquid shall have been dropped or spilt in such removal or carriage.
 
@@ -17480,7 +17480,7 @@ Ch. 59.
 
 1. After the expiration of six months from the adoption of this
 
-part of this Act, a house, room, garden, or other place, whether licensed or not for the sale of wine, spirits, beer, or other fermented or distilled liquors, shall not be kept or used for public dancing, singing, music, or other public entertainment of the like kind without a licence for the purpose or purposes for which the same respectively is to be used first obtained from the licensing justices of the licensing district in which the house, room, garden, or place is situate, and for the registration thereof a fee of five shillings shall be paid by the person applying therefor :
+part of this Act, a house, room, garden, or other place, whether licensed or not for the sale of wine, spirits, beer, or other fermented or distilled liquors, shall not be kept or used for public dancing, singing, music, or other public entertainment of the like kind without a licence for the purpose or purposes for which the same respectively is to be used first obtained from the licensing justices of the licensing district in which the house, room, garden, or place is situate, and for the registration thereof a fee of five shillings shall be paid by the person applying therefor:
 
 2. Such justices may, under the hands of a majority of them
 
@@ -17504,7 +17504,7 @@ on the door or entrance of every house, room, garden, or place so kept or used a
 
 “ Licensed in pursuance of Act of Parliament for
 
-” with the addition of words showing the purpose or purposes for which the same is licensed :
+” with the addition of words showing the purpose or purposes for which the same is licensed:
 
 7. Any house, room, garden, or place so kept or used, although
 
@@ -17526,7 +17526,7 @@ and the observance of the days and hours of opening and closing, shall be insert
 
 conditions upon or subject to which the licence was granted, the holder thereof shall be liable to a penalty not exceeding twenty pounds, and to a daily penalty not exceeding five pounds, and such licence shall be liable to be revoked by the order of a court of summary jurisdiction.
 
-10. No notice need be given under sub-section four of this section when the application is for a renewal of any existing licence held by the applicant for the same premises :
+10. No notice need be given under sub-section four of this section when the application is for a renewal of any existing licence held by the applicant for the same premises:
 
 11. The justices in any petty sessions may, if and as they think fit, grant to any person applying for the same a licence to keep or use any bouse, room, garden, or place for any purpose within the meaning of this section for any period not exceeding fourteen days which they shall specify in such licence, notwithstanding that no notices shall have been given under sub-section four of this section:
 
@@ -17554,7 +17554,7 @@ CHAPTER 60.
 
 An Act for the Distribution and Application of certain Duties of Customs and Excise; and for other purposes connected therewith. [18th August 1890.]
 
-“YTTHEREAS certain local taxation (customs and excise) duties have by an Act of the present session been directed to be paid to the same local taxation accounts as the local taxation probate duty, and it is expedient to provide for the distribution and application of the duties so paid:
+“Y WHEREAS certain local taxation (customs and excise) duties have by an Act of the present session been directed to be paid to the same local taxation accounts as the local taxation probate duty, and it is expedient to provide for the distribution and application of the duties so paid:
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -17624,7 +17624,7 @@ Provided nevertheless that the council of any such county or burgh and the Commi
 
 (a) in the case of every national school in a union which is not a contributory union, shall be paid for the benefit of the schools which are not model schools as an addition to the local contributions to or in respect of such schools within the financial year fixed by the last-mentioned rules; and
 
-(б) in the case of every national school in a union which is a contributory union, shall be paid to the guardians
+(b) in the case of every national school in a union which is a contributory union, shall be paid to the guardians
 
 of such union, provided that no such payment shall be made to the guardians of any contributory union in excess of the amount paid by them within the financial year fixed as aforesaid, pursuant to the provisions of the National School Teachers (Ireland) Act, 1875, out of the 38 & 39 Vict. poor rate; 96,
 
@@ -17962,7 +17962,7 @@ affairs.
 
 (a) determining whether or not an application is to be made to the court for appointing a liquidator in the place of the official receiver; and
 
-(б) determining whether or not an application is to be made to the court for the appointment of a committee of inspection to act with the liquidator, and who are to be the members of such committee if appointed.
+(b) determining whether or not an application is to be made to the court for the appointment of a committee of inspection to act with the liquidator, and who are to be the members of such committee if appointed.
 
 The court may make any appointment and order required to give effect to any such determination, and if there is a difference between the determinations of the meetings of the creditors and contributories in respect of any of the matters mentioned in the foregoing provisions the court shall decide the difference and make such order thereon as the court may think fit
 
@@ -18290,7 +18290,7 @@ this Act, whether commenced under this or any previous Act, and the provisions o
 
 (2.) The accounts of the Board of Trade under this Act shall be audited hi such manner as the Treasury direct, and, for the purpose of the account to be laid before Parliament, the Board of Trade shall make such returns and give such information as the Treasury direct.
 
-29. — -(1.) The officers of the courts acting in the winding up of companies shall make to the Board of Trade such returns of the business of their respective courts and offices, at such times and in such manner and form as may be prescribed, aud from such returns the Board of Trade shall cause books to be prepared which shall, under the regulations of the Board, be open for public information and searches.
+29. — -(1.) The officers of the courts acting in the winding up of companies shall make to the Board of Trade such returns of the business of their respective courts and offices, at such times and in such manner and form as may be prescribed, and from such returns the Board of Trade shall cause books to be prepared which shall, under the regulations of the Board, be open for public information and searches.
 
 (2.) The Board of Trade shall also cause a general annual report of all matters, judicial and financial, within this Act to be prepared and laid before both Houses of Parliament.
 
@@ -18364,7 +18364,7 @@ Companies (Winding up) Act, 1890. 53 & 54 Vict.
 
 (8.) For the purpose of voting, a secured creditor shall, unless he surrenders his security, state in his proof the particulars of his security, the date when it was given, and the value at which he assesses it, and shall be entitled to vote only in respect of the balance (if any) due to him, after deducting the value of his security. If he votes in respect of his whole debt he shall be deemed to have surrendered his security, unless the court on application is satisfied that the omission to value the security has arisen from inadvertence.
 
-(9.) A creditor shall not vote in respect of any debt on or secured by a current bill of exchange or promissory note held, by him, unless be is willing to treat the liability to him thereon of every person who is liable thereon antecedently to the company, aud against whom a receiving order in bankruptcy has not been made, as a security in his hands, and to estimate the value thereof, and -for the purposes of voting, but not for the purposes of dividend, to deduct it from his proof.
+(9.) A creditor shall not vote in respect of any debt on or secured by a current bill of exchange or promissory note held, by him, unless be is willing to treat the liability to him thereon of every person who is liable thereon antecedently to the company, and against whom a receiving order in bankruptcy has not been made, as a security in his hands, and to estimate the value thereof, and -for the purposes of voting, but not for the purposes of dividend, to deduct it from his proof.
 
 (10.) It shall be competent to the official receiver, or to the liquidator, within twenty-eight days after a proof estimating the value of a security as aforesaid had been made use of in voting at any meeting, to require the creditor to give up the security for the benefit of the creditors generally on payment of the value so estimated, with an addition thereto of twenty per centum. Provided, that where a creditor has put a value on such security, he may, at any time before he has been required to give up such security as aforesaid, correct such valuation by a new proof, and deduct such new value from his debt, but in that case such addition of twenty per centum shall not be made if the liquidator requires the security to be given up.
 
@@ -18516,7 +18516,7 @@ An Act to provide for an Appeal from a Sanitary Authority failing to carry into 
 
 BE it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. This Act shall be construed as one with the Allotments Act, 1887 (in this Act referred to as the principal Act), and the principal Act aud this Act may be cited together as the Allotments Acts, 1887 and 1890, and this Act may be cited as the Allotments Act, 1890.
+1. This Act shall be construed as one with the Allotments Act, 1887 (in this Act referred to as the principal Act), and the principal Act and this Act may be cited together as the Allotments Acts, 1887 and 1890, and this Act may be cited as the Allotments Act, 1890.
 
 2. — (1.) Where such representation as is authorised by section two of the principal Act has been made to the sanitary authority with respect to any district or parish, not being within the limits of a borough as defined by the Municipal Corporations Act, 1882, and any six persons qualified to make such representation consider that the circumstances of the district or parish are such as to make it the duty of the sanitary authority to take proceedings under that Act therein, and that the sanitary authority have failed to acquire land adequate and suitable in quality and position to provide a sufficient number of allotments, such persons may petition the county council of the county in which such district or parish is situate, stating the facts and requesting the council to put into force the principal Act for the purpose of providing a sufficient number of allotments for the district or parish.
 
@@ -18752,7 +18752,7 @@ Reckoning of sendee for pension.
 
 (a) as regards ordinary pensions, the scale set forth in Part I. of the First Schedule to this Act; and
 
-(б) as regards special pensions and allowances and gratuities, the scale set forth in Part II. of that Schedule.
+(b) as regards special pensions and allowances and gratuities, the scale set forth in Part II. of that Schedule.
 
 (2.) The rules contained in Part III. of the First Schedule to this Act shall apply to all pensions, allowances, and gratuities granted under this Act
 
@@ -18858,7 +18858,7 @@ Appeal in caae of forfeiture or refusal of pennon or allowance.
 
 (b) where a constable is dismissed without a pension to which he would be otherwise entitled, and in any other case where a constable or the widow or child of a constable claims a pension or allowance under this Act as of right, and the police authority do not admit the claim,
 
-such constable, widow, or child may apply to the police authority for a re-consideration of the claim to the pension or allowance, and if aggrieved by the decision upon such re-consideration may apply to the sheriff having jurisdiction in the place where the constable was last serving, and the sheriff, after inquiry into the case, may make such order in the matter as appears to him just, which order shall be final; but nothing in this section shall confer a right
+such constable, widow, or child may apply to the police authority for a reconsideration of the claim to the pension or allowance, and if aggrieved by the decision upon such reconsideration may apply to the sheriff having jurisdiction in the place where the constable was last serving, and the sheriff, after inquiry into the case, may make such order in the matter as appears to him just, which order shall be final; but nothing in this section shall confer a right
 
 X
 
@@ -19078,13 +19078,13 @@ Ch. 67.
 
 appointed to police forces before the commencement of this Act), fund and the following provisions shall have effect: oonstabie
 
-(1.) Where the Exchequer contribution to the police authority of a police force becomes payable before a pension fund is established for the force in pursuance of this Act, the payment of the contribution shall be deferred until the Secretary for Scotland has certified that the fund is so established :
+(1.) Where the Exchequer contribution to the police authority of a police force becomes payable before a pension fund is established for the force in pursuance of this Act, the payment of the contribution shall be deferred until the Secretary for Scotland has certified that the fund is so established:
 
-(2.) Every police authority shall, before the first day of January one thousand eight hundred and ninety-one, cause written notice to be given to every constable in the police force under that authority, requiring him to inform that authority in writing, before the date of the commencement of this Act, whether he does or does not accept the provisions of this Act in lieu of the existing enactments respecting superannuation and allowances or pensions :
+(2.) Every police authority shall, before the first day of January one thousand eight hundred and ninety-one, cause written notice to be given to every constable in the police force under that authority, requiring him to inform that authority in writing, before the date of the commencement of this Act, whether he does or does not accept the provisions of this Act in lieu of the existing enactments respecting superannuation and allowances or pensions:
 
 (3.) This Act shall not apply to any existing constable who, before the date of the commencement of this Act, whether any such notice has or has not been given to him, declines in writing to accept the provisions of this Act; but save as aforesaid this Act shall apply to all existing constables; and those constables shall be deemed to have surrendered in favour of the police authority all right to any provision made before the commencement of this Act, either wholly or partly, by the police authority for the superannuation of such constables, or, in case of their death, for their widows and children, or any of them whether that provision is made by an annual allowance, insurance, or otherwise:
 
-(4.) If by reason of the police authority not having given such notice as aforesaid an existing constable becomes entitled to a less pension than he would have been entitled to receive if this Act had not passed, he may apply to the sheriff, who may make such order as may seem just for the purpose of preventing the constable from suffering any loss by reason of the notice not having been given :
+(4.) If by reason of the police authority not having given such notice as aforesaid an existing constable becomes entitled to a less pension than he would have been entitled to receive if this Act had not passed, he may apply to the sheriff, who may make such order as may seem just for the purpose of preventing the constable from suffering any loss by reason of the notice not having been given:
 
 (5.) In the case of any constable who retires on a pension within seven years after the commencement of this Act without the rateable deductions having been made from his pay during all the years counted to his credit for pension, such pension shall be diminished by the equivalent, so near as may be, of the rateable deductions during every year for which such deductions have not been made. Such equivalent shall be calculated according to tables to be approved and certified by the Secretary for Scotland:
 
@@ -19192,7 +19192,7 @@ Ordinary .
 
 (a) if he has completed twenty years approved service an annual sum equal to twenty sixtieths of his annual pay; and
 
-(б) if he has completed twenty-one years, but less than twenty-eight years, approved service, an annual sum equal to twenty sixtieths of his annual pay, with an addition equal to one sixtieth of his annual pay for every year of approved service above twenty years; and
+(b) if he has completed twenty-one years, but less than twenty-eight years, approved service, an annual sum equal to twenty sixtieths of his annual pay, with an addition equal to one sixtieth of his annual pay for every year of approved service above twenty years; and
 
 (c) if he has completed twenty-eight years approved service, an annual sum equal to twenty-eight sixtieths of his annual pay, with an addition equal to two sixtieths of his annual pay for every year of approved service above twenty-eight years, so, however, that the pension shall not exceed two thirds of his annual pay.
 
@@ -19392,11 +19392,11 @@ vested in them, shall extend to the vestry of any parish in the Metropolis, and 
 
 10. For the purposes of this Act —
 
-The expression “ Libraries Acts ” means this Act and the Acts with which this Act is to be construed as one :
+The expression “ Libraries Acts ” means this Act and the Acts with which this Act is to be construed as one:
 
-The expression M library district ” means any district for which the Libraries Acts may, subject to the provisions of this Act, be adopted :
+The expression M library district ” means any district for which the Libraries Acts may, subject to the provisions of this Act, be adopted:
 
-The expression district authority ” means the body or person whose duty it would have been, but for the passing of this Act, to convene a public meeting in any library district under the Libraries Acts :
+The expression district authority ” means the body or person whose duty it would have been, but for the passing of this Act, to convene a public meeting in any library district under the Libraries Acts:
 
 The expression “ county electors ” means the persons registered as county electors under the County Electors Act, 1888.
 
@@ -19606,7 +19606,7 @@ Leases,
 
 8. In a mining lease —
 
-(i.) The rent may be made to vary according to the price of the minerals or substances gotten, or any of them :
+(i.) The rent may be made to vary according to the price of the minerals or substances gotten, or any of them:
 
 (ii.) Such price may be the saleable value, or the price or value appearing in any trade or market or other price list or return from time to time, or may be the marketable value as ascertained in any manner prescribed by the lease (including a reference to arbitration), or may be an average of any such prices or values taken during a specified period.
 
@@ -19958,7 +19958,7 @@ thereof, without any additional allowance in respect of the compulsory purchase 
 
 1 respect of which an official representation has been made, or of any lands included in a scheme which, in the opinion of the arbitrator, have been so included as falling under the description of property which may be constituted an unhealthy area under this part of this Act; and
 
-(б) in such estimate any addition to or improvement of the property made after the date of the publication in pursuance of this part of this Act of an advertisement stating the fact of the improvement scheme having been made shall not (unless such addition or improvement was necessary for the maintenance of the property in a proper state of repair) be included, nor in the case of any interest acquired after the said date shall any separate estimate of the value thereof be made so as to increase the amount of compensation to be paid for the lands; and
+(b) in such estimate any addition to or improvement of the property made after the date of the publication in pursuance of this part of this Act of an advertisement stating the fact of the improvement scheme having been made shall not (unless such addition or improvement was necessary for the maintenance of the property in a proper state of repair) be included, nor in the case of any interest acquired after the said date shall any separate estimate of the value thereof be made so as to increase the amount of compensation to be paid for the lands; and
 
 (2.) On the occasion of assessing the compensation payable under any improvement scheme in respect of any house or premises situate within an unhealthy area evidence shall be receivable by the arbitrator to prove —
 
@@ -19978,7 +19978,7 @@ Ch. 70.
 
 (a) shall in the first case so far as it is based on rental be based on the rental which would have been obtainable if the house or premises were occupied for legal purposes and only by the number of persons whom the house or premises were under all the circumstances of the case fitted to accommodate without such overcrowding as is dangerous or injurious to the health of the inmates; and
 
-(б) shall in the second case be the amount estimated as the value of the house or premises if the nuisance had been abated, or if they had been put into a sanitary condition, or into reasonably good repair, after deducting the estimated expense of abating the nuisance, or putting them into such condition or repair, as the case may be; and
+(b) shall in the second case be the amount estimated as the value of the house or premises if the nuisance had been abated, or if they had been put into a sanitary condition, or into reasonably good repair, after deducting the estimated expense of abating the nuisance, or putting them into such condition or repair, as the case may be; and
 
 (c) shall in the third case be the value of the land, and of the materials of the buildings thereon.
 
@@ -20236,7 +20236,7 @@ Scheme for area comprising houses closed by closing order.
 
 (iii) exchanged with other neighbouring land which is more suitable for the erection of such dwellings, and on exchange will be appropriated, sold, or let for such erection; or
 
-(б) where it appears to the local authority that the closeness, narrowness, and bad arrangement or bad condition of any buildings, or the want of u^ht, air, ventilation, or proper conveniences, or any other sanitary defect in any buildings is dangerous or prejudicial to the health of the inhabitants either of the said buildings or of the neighbouring buildings, and that the demolition or the reconstruction and re-arrangement of the said buildings or of some of them is necessary to remedy the said evils, and that the Area comprising th< se buildings and the yards, outhouses, and appurtenances thereof, and the site thereof, is too small to be dealt with as an unhealthy area under Part I. of this Act,
+(b) where it appears to the local authority that the closeness, narrowness, and bad arrangement or bad condition of any buildings, or the want of u^ht, air, ventilation, or proper conveniences, or any other sanitary defect in any buildings is dangerous or prejudicial to the health of the inhabitants either of the said buildings or of the neighbouring buildings, and that the demolition or the reconstruction and re-arrangement of the said buildings or of some of them is necessary to remedy the said evils, and that the Area comprising th< se buildings and the yards, outhouses, and appurtenances thereof, and the site thereof, is too small to be dealt with as an unhealthy area under Part I. of this Act,
 
 the local authority shall pass a resolution to the above effect and direct a scheme to be prepared for the improvement of the said area.
 
@@ -20858,7 +20858,7 @@ where the compensation claimed in respect of lands does not exceed fifty pounds 
 
 (3.) The Public Health (Scotland) Act, 1867, and the Acts amending the same shall be substituted for the Public Health Acts and in particular —
 
-(a.) With respect to the purchase of land a reference to section ninety of the said Public Health (Scotland) Act, 1867, shall be substituted for a reference to sections one hundred and seventy-five to one hundred and seventy-eight of the Public Health Act, 1875 :
+(a.) With respect to the purchase of land a reference to section ninety of the said Public Health (Scotland) Act, 1867, shall be substituted for a reference to sections one hundred and seventy-five to one hundred and seventy-eight of the Public Health Act, 1875:
 
 (6.) Local inquiries by the Board of Supervision shall be held under sections ten to thirteen of the Public Health (Scotland) Act, 1867, and local inquiries by the Secretary for Scotland under the Local Government (Scotland) Act, 1889, and the provisions of sub-section one of section eighty-five of this Act shall apply to such inquiries by the Board of Supervision:
 
@@ -20880,7 +20880,7 @@ S51‘.
 
 sir:
 
-itoi1; :
+itoi1;
 
 #&>r
 
@@ -21454,15 +21454,15 @@ Application of Schedule to .
 
 The provisions of this schedule shall apply to Scotland, with the following modifications: —
 
-(33.) — (a.) In any reference in this schedule to “ an abstract of title ” there shall be substituted “ a legal progress of the title deeds ” :
+(33.) — (a.) In any reference in this schedule to “ an abstract of title ” there shall be substituted “ a legal progress of the title deeds ”:
 
-(b.) In articles sixteen and eighteen of this schedule the words heirs, executors, or assignees shall be substituted for the words “executors, administrators, or assigns ” :
+(b.) In articles sixteen and eighteen of this schedule the words heirs, executors, or assignees shall be substituted for the words “executors, administrators, or assigns ”:
 
-(c.) In articles twenty and twenty-one the words “ as amended by the “ Court of Chancery Funds Act, 1872, ” shall be omitted :
+(c.) In articles twenty and twenty-one the words “ as amended by the “ Court of Chancery Funds Act, 1872, ” shall be omitted:
 
 (d.) Any reference to payment of money into the Bank of England shall be construed to be payment into any one of the incorporated or chartered banks of Scotland:
 
-(e.) Any reference to the High Court shall be construed as a reference to the Court of Session :
+(e.) Any reference to the High Court shall be construed as a reference to the Court of Session:
 
 (/.) Any money ordered to be invested under article twenty-five of this schedule shall be invested only in Government securities:
 
@@ -21744,7 +21744,7 @@ one of Her Majesty's justices of the peace acting in and for the county [or othe
 
 Public Health Act, 1875, of [describe the local ], were in a state
 
-so dangerous or injurious to health as to be unfit for human habitation :
+so dangerous or injurious to health as to be unfit for human habitation:
 
 County of
 
@@ -22046,7 +22046,7 @@ Ch. 71.
 
 (g.) That the bankrupt has put any of his creditors to unnecessary expense by a frivolous or vexatious defence to any action properly brought against him:
 
-(A) That the bankrupt has within three months preceding the date of the receiving order incurred unjustifiable expense by bringing a frivolous or vexatious action :
+(A) That the bankrupt has within three months preceding the date of the receiving order incurred unjustifiable expense by bringing a frivolous or vexatious action:
 
 (i.) That the bankrupt has within three months preceding the date of the receiving order, when unable to pay his debts as they become due, given an undue preference to any of his creditors:
 
@@ -22314,7 +22314,7 @@ The Commissioners of the Treasury shall not authorise any expenditure which may 
 
 1st A sum of one hundred and seventeen thousand seven hundred and thirty-one pounds six shillings and ten pence for navy services out of the unexpended balances of certain votes, aided by sums realised in excess of the estimated appropriations in aid:
 
-2nd. A sum of one hundred and twenty-four thousand seven hundred and seventy pounds seventeen shillings and eleven pence for army services out of the unexpended balances of certain votes, aided by sums realised in excess of the estimated appropriations in aid :
+2nd. A sum of one hundred and twenty-four thousand seven hundred and seventy pounds seventeen shillings and eleven pence for army services out of the unexpended balances of certain votes, aided by sums realised in excess of the estimated appropriations in aid:
 
 It is enacted that the application of the said sums is hereby sanctioned.
 
@@ -23972,7 +23972,7 @@ Clxii. An Act for making Subways in the City and Suburbs of Glasgow; and for oth
 
 Clxvi. An Act to incorporate the Forfar and Brechin Railway Company and to empower them to construct Railways in the County of Forfar and for other purposes. (Forfar and Brechin Railway.)
 
-clxvii. An Act for enabling the Caledonian Railway Company to make and maintain certain Railways extending their Undertaking in Edinburgh Leith and Newhaven and other Works in the County of Midlothian and to raise additional money and for other purposes. (Caledonian Railway (Edinburgh, Leith, and Newhaven Extension Lines).) clxviii. An Act to authorise the Kirkcaldy and District Railway Company to extend their railways and for other purposes. (Kirkcaldy and District Railway.) clxix. An Act for amending the provisions of certain Local Acts in force in the City of Liverpool and for other purposes. (Liverpool Corporation.) nlmr. An Act to extend the time for completing the Manchester Middleton and District Tramways. (Manchester, Middleton, and District Tramways.) clxxi. An Act to authorise and provide for certain Sea Defence Works and Improvements at and near Walton-on-therNaze in the county of Essex to re-constitute the Walton Improvement Commissioners and make provision for their Election and to enlarge their powers and for other purposes. on-the-Naze Improvement.)
+clxvii. An Act for enabling the Caledonian Railway Company to make and maintain certain Railways extending their Undertaking in Edinburgh Leith and Newhaven and other Works in the County of Midlothian and to raise additional money and for other purposes. (Caledonian Railway (Edinburgh, Leith, and Newhaven Extension Lines).) clxviii. An Act to authorise the Kirkcaldy and District Railway Company to extend their railways and for other purposes. (Kirkcaldy and District Railway.) clxix. An Act for amending the provisions of certain Local Acts in force in the City of Liverpool and for other purposes. (Liverpool Corporation.) nlmr. An Act to extend the time for completing the Manchester Middleton and District Tramways. (Manchester, Middleton, and District Tramways.) clxxi. An Act to authorise and provide for certain Sea Defence Works and Improvements at and near Walton-on-therNaze in the county of Essex to reconstitute the Walton Improvement Commissioners and make provision for their Election and to enlarge their powers and for other purposes. on-the-Naze Improvement.)
 
 Clxxii. An Act to extend the Objects and enlarge the Ppwers of the Commercial Unicn Assurance Company Limited and for other purposes. (Commercial Union Assurance Company (Limited).)
 
@@ -24238,7 +24238,7 @@ c. 68. 48 Geo. 3. c. 140 Dublin polioe district Ss. 47, 48 repealed (33 (Stat La
 
 54 Geo. 3. c. 15 - Recovery of debts in New South Wales. Repealed as to Victoria -
 
-5 Geo. 3. :
+5 Geo. 3.:
 
 c. 50 Gaols (England) Ss. 6-8, 11, 12 repealed (with savings)
 
@@ -24254,7 +24254,7 @@ rep. (with savings).
 
 c. 185 Stamp duties Repealed 8, 8. 36.
 
-56 Geo. 3. :
+56 Geo. 3.:
 
 c. 56 Probates, See. (Ireland) - S. 118, Sch. Pt.III.rep.; ss. 119, 120 rep. (with savings). 83 (Stat Law Rev, )
 
@@ -24284,7 +24284,7 @@ excise. Rev. (No. 2).)
 
 c. 116 Gaol feeB, &c. Repealed
 
-57 Geo. 3. :
+57 Geo. 3.:
 
 c. 19 Seditious meetings S. 24 repealed -
 
@@ -24324,7 +24324,7 @@ land). 58, Schedules repealed 33 (Stat Law
 
 c. 66 Fur trade, &c., North America - S. 4 repealed ' Rev.)
 
-3 Geo. 4. :
+3 Geo. 4.:
 
 c. 49 Residence of sheriffs depute of S. 2 repealed
 
@@ -24334,7 +24334,7 @@ e. 62 Fees in Office of Lord Register Repealed
 
 ^ Scotland).
 
-4 Geo. 4 :
+4 Geo. 4:
 
 c. 27 Justices of the peace in citiea - Repealed 51 (Stat. Law
 
@@ -24362,7 +24362,7 @@ c. 91 Confirmation of certain marriages Repealed as to future 47, S. 12.
 
 c. 97 Commissaries (Scotland) marriages. Repealed (except ss. 5, 13) 1 '
 
-5 Geo. 4. :
+5 Geo. 4.:
 
 c. 84 Transportation of offenders Ss. 18, 19 repealed
 
@@ -24410,7 +24410,7 @@ c. 74
 
 c. 58
 
-9 Geo. 4. :
+9 Geo. 4.:
 
 c. 55
 
@@ -24620,7 +24620,7 @@ c. 52
 
 c. 78
 
-6 & 7 Will. 4. :
+6 & 7 Will. 4.:
 
 c. 20 e. 28 c. 87
 
@@ -24850,7 +24850,7 @@ c. 98 Prisons - Rep. (except ss. 12, 31, 51 (Stat. Law
 
 33, and in part ss. 5, 6). Rev. (No. 2).)
 
-6 & 7 Vict :
+6 & 7 Vict:
 
 c. 38 Judicial Committee of the Privy Ss. 2, 8, 5, 7, 9, 10, 12, 27, s. 18.
 
@@ -24942,7 +24942,7 @@ c. 105 Lunatic Asylums Acts Amendment. Repealed 5, s. 842.
 
 C. 120 Metropolis Management Amended 66.
 
-19 8c 20 Vict. :
+19 8c 20 Vict.:
 
 c. 60 Mercantile Law Amendment (Scotland). S. 7 repealed 39, s. 48.
 
@@ -24952,7 +24952,7 @@ c. 87 Lunatic Asylums Act, 1853, Amendment. Repealed 5, 8.842.
 
 c. 97 Mercantile Law Amendment S. 4 repealed 39, 8. 48.
 
-20 A 21 Vict. :
+20 A 21 Vict.:
 
 c. 64 Metropolitan police S. 15 repealed - 45, s. 36.
 
@@ -24968,7 +24968,7 @@ o. 118 Excise duties - - S. 40 repealed 21, 8. 40.
 
 c. 127 Attorneys, solicitors, Ac. S. 29 repealed 5, 8. 342.
 
-24 & 25 Vict. :
+24 & 25 Vict.:
 
 c. 31 Offences (Sierra Leone) - Repealed prospectively - 37, 8. 17.
 
@@ -24978,7 +24978,7 @@ c. 96 Larceny, &c. - S. 85 rep. in part 71, ss. 27, 29.
 
 c. 124 Metropolitan police S. 6 repealed 45, s. 36.
 
-25 8c 26 Vict. :
+25 8c 26 Vict.:
 
 c. 86 Lunacy regulation - Repealed 5, s. 342.
 
@@ -25162,7 +25162,7 @@ ings Improvement (Scotland). > Repealed 70, s. 102.
 
 e. 8 Artisans and Labourers Dwellings
 
-48 44 Vict. :
+48 44 Vict.:
 
 e. 19 Taxes management Ss. 12, 14, 21 (2), rep. - J-21, s.40.
 

@@ -240,7 +240,7 @@ CHAPTER 2.
 
 An Act to amend the Law relating to Inland Revenue (including Excise) and the National Debt, and for other purposes connected with Finance. [31st March 1911.]
 
-BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 Part I.
 
@@ -302,7 +302,7 @@ Right of Commissioners of Inland
 
 Revenue to appeal against decision of referee.
 
-(4) Where a lease of any land held upon trust for any body of peraons is determined before the expiration of the term of the lease by the surrender thereof to the lessor upon the terms that he shall grant to those persons severally leases of various plots of land representing in the aggregate the whole of the land comprised in the original lease, for a term in each case equal to the unexpired term of the residue of the original lease, and at rents amounting in the aggregate to but not exceeding the rent reserved by the original lease, no reversion duty shall be payable on the determination of the lease :
+(4) Where a lease of any land held upon trust for any body of peraons is determined before the expiration of the term of the lease by the surrender thereof to the lessor upon the terms that he shall grant to those persons severally leases of various plots of land representing in the aggregate the whole of the land comprised in the original lease, for a term in each case equal to the unexpired term of the residue of the original lease, and at rents amounting in the aggregate to but not exceeding the rent reserved by the original lease, no reversion duty shall be payable on the determination of the lease:
 
 Provided that the lessor shall, in any case to which this pro-< vision applies, deliver an account under section fifteen of the* principal Act in the same manner as if reversion duty were payable on the determination of the lease.
 
@@ -536,7 +536,7 @@ tinued for the safety of the United Kingdom and the defence of the possessions o
 
 And whereas it is also judged necessary for the safety of the United Kingdom, and the defence of the possessions of this realm, that a body of Royal Marine forces should be employed in His Majesty’s fleet and naval service, under the direction of the Lord High Admiral of the United Kingdom, or the Commissioners for executing the office of Lord High Admiral aforesaid:
 
-And whereas the said marine forces may frequently be quartered or be on shore, or sent to do duty or be on board transport ships or vessels, merchant ships or vessels, or other ships or vessels, or they may be under other circumstances in which they will not be subject to the laws relating to the government of His Majesty’s forces by sea :
+And whereas the said marine forces may frequently be quartered or be on shore, or sent to do duty or be on board transport ships or vessels, merchant ships or vessels, or other ships or vessels, or they may be under other circumstances in which they will not be subject to the laws relating to the government of His Majesty’s forces by sea:
 
 And whereas no man can be forejudged of life or limb, or subjected in time of peace to any kind of punishment within this realm, by martial law, or in any other manner than by the judgment of his peers and according to the known and established laws of this realm; yet, nevertheless, it being requisite, for the retaining all the before-mentioned forces, and other persons subject to military law, in their duty, that an exact discipline be observed, and that persons belonging to the said forces who mutiny or stir up sedition, or desert His Majesty’s service, or are guilty of crimes and offences to the prejudice of good order and military discipline, be brought to a more exemplary and speedy punishment than the usual forms of the law will allow:
 
@@ -546,7 +546,7 @@ And whereas the Army Act will expire in the year one thousand nine hundred and e
 
 Isle of Man, on the thirtieth day of April; and
 
-(б) Elsewhere, whether within or without His Majesty’s
+(b) Elsewhere, whether within or without His Majesty’s
 
 dominions, on the thirty-first day of July:
 
@@ -684,7 +684,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 
 Consolidated Fund (No. 2) Act, 1911. Cb. 5, 6.
 
-supply which we have cheerfully granted to Your Majesty in this session of Parliament, have resolved to grant unto Your Majesty the sum herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Xing’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+supply which we have cheerfully granted to Your Majesty in this session of Parliament, have resolved to grant unto Your Majesty the sum herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Xing’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. The Treasury may issue out of the Consolidated Fund of issue of
 
@@ -776,7 +776,7 @@ he shall be guilty of a misdemeanour, and, on conviction thereof on indictment, 
 
 or licence for marriage, knowingly and wilfully “Preference makes a false oath, or makes or signs a false to marriage, declaration, notice or certificate required under any Act of Parliament for the time being in force relating to marriage; or
 
-(б) knowingly and wilfully makes, or knowingly and
+(b) knowingly and wilfully makes, or knowingly and
 
 wilfully causes to be made, for the purpose of being inserted in any register of marriage, a false statement as to any particular required by law to be known and registered relating to any marriage; or
 
@@ -814,7 +814,7 @@ False declarations, See. to obtain registration, &c. for carrying on a vocation.
 
 Perjury Act, 1911.
 
-(d) makes any false statement with intent to have the same inserted in any register of births or deaths :
+(d) makes any false statement with intent to have the same inserted in any register of births or deaths:
 
 he shall be guilty of a misdemeanour and shall be liable —
 
@@ -844,7 +844,7 @@ he shall be guilty of a misdemeanour and shall be liable on conviction thereof o
 
 on any register or roll kept under or in pursuance of any public general Act of Parliament for the time being in force of persons qualified by law to practise any vocation or calling; or
 
-(б) procures or attempts to procure a certificate of the
+(b) procures or attempts to procure a certificate of the
 
 registration of any person on any such register or roll as aforesaid,
 
@@ -916,7 +916,7 @@ of the said Vexatious Indictments Act, 1859:Provided that in that section a refe
 
 punishable under this Act; or
 
-(б) for unlawfully, wilfully, falsely, fraudulently, deceit-
+(b) for unlawfully, wilfully, falsely, fraudulently, deceit-
 
 fully, maliciously, or corruptly taking, making, signing, or subscribing any oath, affirmation, solemn declaration, statutory declaration, affidavit, deposition, notice, certificate, or other writing,
 
@@ -1774,7 +1774,7 @@ Be it therefore enacted by the King’s most Excellent Majesty, by and with the 
 
 (a) payment of a greater sum than one half of the wages;
 
-(б) payment at a period earlier than one month from the
+(b) payment at a period earlier than one month from the
 
 date of the agreement with the crew and at intervals more frequent than one month.
 
@@ -1784,7 +1784,7 @@ CHAPTER 9.
 
 An Act to amend the Public Libraries (Ireland) Acts, 1855 to 1902, as respects the provision of Art Galleries in County Boroughs and for other purposes incidental thereto. [18th August 1911.]
 
-BE it enacted by the King’s most Excellent Majesty, by and A* with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and A* with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. — (1) Where an art gallery is established in any county borough under the Public Libraries (Ireland) Acts, 1855 to 1902, whether before or after the passing of this Act, the rate which may be levied in that borough for the purposes of those Acts may exceed the limit of one penny in the pound imposed by section eight of the Public Libraries Act (Ireland), 1855, to the extent of not more than one halfpenny in the pound.
 
@@ -1810,7 +1810,7 @@ An Act to amend the Law relating to the share of Intestate Husband’s Estate fa
 
 [18th August 1911.]
 
-BE it enacted by the King’s most Excellent Majesty, by and 1^ with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and 1^ with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. The heritable and moveable estate of every man who shall die intestate, domiciled in Scotland, after the passing of this Act, leaving a widow but no lawful issue, shall, in all cases where the net value of such heritable and moveable estate, taken together, shall not exceed five hundred pounds, belong to his widow absolutely and exclusively.
 
@@ -1926,13 +1926,13 @@ An Act to make provision with respect to the powers of the House of Lords in rel
 
 [18th August 1911.]
 
-T \TI1EREAS it is expedient that provision should be made’for regulating the relations between the two Houses of Parliament :
+T \TI1EREAS it is expedient that provision should be made’for regulating the relations between the two Houses of Parliament:
 
-And whereas it is intended to substitute for the House of Lords as it at present exists a Second Chamber constituted on a popular instead of hereditary basis, but such substitution cannot be immediately brought into operation :
+And whereas it is intended to substitute for the House of Lords as it at present exists a Second Chamber constituted on a popular instead of hereditary basis, but such substitution cannot be immediately brought into operation:
 
-And whereas provision will require hereafter to be made by Parliament in a measure- effecting such substitution for limiting and defining the powers of the new Second Chamber, but it is expedient to make such provision as in this Act appears for restricting the existing powers of the House of Lords :
+And whereas provision will require hereafter to be made by Parliament in a measure- effecting such substitution for limiting and defining the powers of the new Second Chamber, but it is expedient to make such provision as in this Act appears for restricting the existing powers of the House of Lords:
 
-Be it therefore enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+Be it therefore enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. — (1) If a Money Bill, having been passed by the House of Commons, and sent up to the House of Lords at least one month before the end of the session, is not passed by the House of Lords without amendment within one month after it is so sent up to that House, the Bill shall, unless the House of Commons direct to the contrary, be presented to His Majesty and become an Act of Parliament on the Royal Assent being signified, notwithstanding that the House of Lords have not consented to the Bill.
 
@@ -2004,7 +2004,7 @@ CHAPTER 14.
 
 An Act to amend the Law with respect to Customs in the Isle of Man. [18th August 1911.]
 
-BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 Continuance 1. The additional duty of Customs on tea removed or duHeson tea, imported into the Isle of Man imposed by Section one of the tobacco, Isle of Man (Customs) Act, 1906, and the additional duties of spirits, ale, Customs on tobacco and spirits removed or imported into the
 
@@ -2036,7 +2036,7 @@ An Act to apply a sum out of the Consolidated Fund to the service of the year en
 
 Most Gracious Sovereign,
 
-Vkl E, Your Majesty’s most dutiful and loyal subjects, the ” Commons of the United Kingdom of Great Britain and Ireland in Parliament assembled, towards making good the supply which we have cheerfully granted to Your Majesty in this session of Parliament, have resolved to grant unto Your Majesty the sum herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+Vkl E, Your Majesty’s most dutiful and loyal subjects, the ” Commons of the United Kingdom of Great Britain and Ireland in Parliament assembled, towards making good the supply which we have cheerfully granted to Your Majesty in this session of Parliament, have resolved to grant unto Your Majesty the sum herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 Grants out of Consolidated Fund.
 
@@ -2450,7 +2450,7 @@ reserve (including seamen pensioner reserve), and the royal naval volunteers, &c
 
 12. For the Admiralty Office
 
-13. For half-pay, aud retired pay to officers of
+13. For half-pay, and retired pay to officers of
 
 the navy and marines
 
@@ -2786,7 +2786,7 @@ For the salaries and expenses of the Local Government Board - For the salaries a
 
 For the salaries and expenses of the National Debt Office - For the salaries anil expenses of the Public Record Office and of the Office of Land Revenne Records and Inrolments - For the salaries and expenses of the establish ment under the Public Works Loan Commissioners -
 
-For the salaries aud expenses of the department of the Registrar General of Births, &c. in England ....
+For the salaries and expenses of the department of the Registrar General of Births, &c. in England ....
 
 Sums not exceeding
 
@@ -3496,7 +3496,7 @@ An Act to amend the Old Age Pensions Act, 1908.
 
 [18th August 1911.]
 
-BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. For the purposes of the Old Age Pensions Act, 1908 (in this Act referred to as “ the principal Act ”), a person shall be deemed, according to the law in Scotland as well as according to the law in England and Ireland, to have attained the age of seventy or sixty on the commencement of the day previous to the seventieth or sixtieth anniversary, as the case may be, of the day of his birth.
 
@@ -3536,13 +3536,13 @@ graph (2) of section two of the principal Act shall not be required to be fulfil
 
 (2) it shall be a statutory condition for the receipt of an
 
-old age pension by any person, that the person must satisfy the pension authorities that for at least twelve yearn in the aggregate out of the twenty years up to the date of the receipt of any sum on account of a pension he has had his residence in the United Kingdom :
+old age pension by any person, that the person must satisfy the pension authorities that for at least twelve yearn in the aggregate out of the twenty years up to the date of the receipt of any sum on account of a pension he has had his residence in the United Kingdom:
 
 Provided that for the purposes of computing the twelve years’ residence in the United Kingdom under this provision —
 
 (a) any periods spent abroad in any service under the Crown, the remuneration for which is paid out of moneys provided by Parliament, or as the wife or servant of a person in any such service so remunerated; and
 
-(б) any periods spent in the Channel Islands or riie Isle of Man by a person born in the United Kingdom; and
+(b) any periods spent in the Channel Islands or riie Isle of Man by a person born in the United Kingdom; and
 
 (c) any periods spent abroad by any person during which that person has maintained or assisted in maintaining any dependent in the United Kingdom; and
 
@@ -3656,7 +3656,7 @@ Provided that, in the case of a personal representative, the deduction shall onl
 
 pension at the time of the commencement of this Act to continue to receive his pension; or
 
-(б) so as to reduce the rate of pension to which such a
+(b) so as to reduce the rate of pension to which such a
 
 person is entitled.
 
@@ -3690,7 +3690,7 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 1. — (1) For the purpose of local loans, there may be issued by the National Debt Commissioners the following sums, namely: —
 
-(a) For the purpose of loans by the Public Works Loan Commissioners, any sum or sums not exceeding in the whole the sum of five million pounds :
+(a) For the purpose of loans by the Public Works Loan Commissioners, any sum or sums not exceeding in the whole the sum of five million pounds:
 
 (b) For the purpose of loans by the Commissioners of Public Works in Ireland, any sum or sums not exceeding in the whole the sum of five hundred thousand pounds.
 
@@ -3722,11 +3722,11 @@ respect of Eyemouth Harbour Trustees on the security of the harbour
 
 Harbour loan, revenues with the collateral security of the Fishery Board for Scotland:
 
-And whereas under an arrangement confirmed by section 1 Edw. 7.C.35. three of the Public Works Loans Act, 1901, the liability of the Eyemouth Harbour Trustees in respect of the said loan has been extinguished without prejudice to the liability of the Fishery Board for Scotland to repay that loan, and, in consequence thereof, the said collateral security is the sole security for the repayment of the said loan :
+And whereas under an arrangement confirmed by section 1 Edw. 7.C.35. three of the Public Works Loans Act, 1901, the liability of the Eyemouth Harbour Trustees in respect of the said loan has been extinguished without prejudice to the liability of the Fishery Board for Scotland to repay that loan, and, in consequence thereof, the said collateral security is the sole security for the repayment of the said loan:
 
 And whereas the terms of the said collateral security are embodied in a memorandum of agreement between the Secretary for Scotland and the Public Works Loan Commissioners, dated the eleventh day of March eighteen hundred and ninety-two, whereby a portion of the “ surplus herring brand fees, ” as defined in clause three of the said memorandum, was pledged in security for the repayment of the said loan with interest by the instalments and at the times mentioned in the security given by the Eyemouth Harbour Trustees for the said loan, and it was provided that the said portion of the “surplus herring brand fees ” of any one year should only be applicable to the repayment of the one-fiftieth part of principal and interest on outstanding principal falling due under the security for the said loan in the same year, and should not be applicable to the repayment of arrears of principal:
 
-And whereas the said portion of the “ surplus herring brand fees ” so pledged as aforesaid, was in the year ending the thirty-first day of March, nineteen hundred and eleven, insufficient to discharge in full the instalment of principal with interest which fell due under the security for the said loan in that year, and the principal sum of two hundred pounds, with interest amounting to two hundred and eight pounds four shillings and sixpence, now remains unpaid and under the terms of the said memorandum of agreement is irrecoverable :
+And whereas the said portion of the “ surplus herring brand fees ” so pledged as aforesaid, was in the year ending the thirty-first day of March, nineteen hundred and eleven, insufficient to discharge in full the instalment of principal with interest which fell due under the security for the said loan in that year, and the principal sum of two hundred pounds, with interest amounting to two hundred and eight pounds four shillings and sixpence, now remains unpaid and under the terms of the said memorandum of agreement is irrecoverable:
 
 Therefore the said principal sum of two hundred pounds shall be extinguished, and the said arrears of interest amounting to two hundred and eight pounds four shillings and sixpence shall be remitted.
 
@@ -3846,7 +3846,7 @@ CHAPTER 19.
 
 An Act to amend the Law relating to Labourers in Ireland. [18th August 1911.]
 
-T>£ it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+T>£ it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. — (1) The Bank of Ireland shall, upon the order of the Lord Chancellor, out of the fund of suitors in the Supreme tioiToUnsh Court, pay to the Local Government Board for Ireland for the Suitors’ Fund purposes of the Labourers Acts the sum of thirty-six thousand pounds. Labourers
 
@@ -3950,9 +3950,9 @@ An Act to make such amendments in the Law as are necessary to enable certain res
 
 [18th August 1911.]
 
-WHEREAS His Majesty has ratified, with certain reservations, ’the Convention for the amelioration of the condition of the wounded and sick of armies in the field, drawn up in Geneva in the year one thousand nine hundred and six, and it is desirable, in order that those reservations may be withdrawn, that such amendments should be made in the law as are in this Act contained :
+WHEREAS His Majesty has ratified, with certain reservations, ’the Convention for the amelioration of the condition of the wounded and sick of armies in the field, drawn up in Geneva in the year one thousand nine hundred and six, and it is desirable, in order that those reservations may be withdrawn, that such amendments should be made in the law as are in this Act contained:
 
-Be it therefore enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+Be it therefore enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1911.
 
@@ -4014,7 +4014,7 @@ An Act to continue various Expiring Laws.
 
 TX7~HEREAS the Acts mentioned in the schedule to this Act’' are, in so far as they are in force and are temporary in their duration, limited to expire on the thirty-first day of December nineteen hundred and eleven:
 
-And whereas it is expedient to provide for the continuance as in this Act mentioned of those Acts, and of the enactments amending or affecting the same :
+And whereas it is expedient to provide for the continuance as in this Act mentioned of those Acts, and of the enactments amending or affecting the same:
 
 Be it therefore enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -4202,9 +4202,9 @@ And whereas one of the said pieces of land is vested in His Majesty and is under
 
 And whereas it is expedient that for the purposes aforesaid the said pieces of land should he vested in the Commissioners of Works:
 
-And whereas the said pieces of land are delineated on a plan signed by the Right Honourable William, Earl Beauchamp, First Commissioner of Works, and deposited at the Office of the Commissioners of Works (in this Act referred to as the deposited plan No. 1), and thereon coloured, as to the piece of land vested in His Majesty, blue, and, as to the pieces of land vested in the said Secretary of State, yellow :
+And whereas the said pieces of land are delineated on a plan signed by the Right Honourable William, Earl Beauchamp, First Commissioner of Works, and deposited at the Office of the Commissioners of Works (in this Act referred to as the deposited plan No. 1), and thereon coloured, as to the piece of land vested in His Majesty, blue, and, as to the pieces of land vested in the said Secretary of State, yellow:
 
-And whereas another plan (in this Act referred to as the deposited plan No. 2) has been signed by the said Right Honourable William, Earl Beauchamp, and deposited at the Office of the Commissioners of Works :
+And whereas another plan (in this Act referred to as the deposited plan No. 2) has been signed by the said Right Honourable William, Earl Beauchamp, and deposited at the Office of the Commissioners of Works:
 
 And whereas the piece of land coloured green on the deposited plan No. 2 (which piece of land is in this Act referred
 
@@ -4272,7 +4272,7 @@ For the purpose of ascertaining the sum payable under this section, the said lan
 
 Park and the management thereof shall be transferred from the Commissioners of Works to the Commissioners of Woods, and accordingly all the powers of the Commissioners of Woods under the Crown Lands Acts, 1829 to 1906, shall apply to the Park land as they apply to the possessions and land revenues of the Crown which do not form part of a Royal Park; and
 
-(б) The leased land shall, on the surrender by the London
+(b) The leased land shall, on the surrender by the London
 
 County Council of their interest therein, become part of St. James’s Park and accordingly thereafter be under the management of the Commissioners of Works.
 
@@ -4294,7 +4294,7 @@ CHAPTER 24.
 
 An Act to consolidate and amend the Law relating to the payment of Pensions to Governors of any part of His Majesty’s Dominions, or any British Protectorate, or persons holding a similar office. [18th August 1911.]
 
-BE it enacted by the King’s most Excellent Majesty, by and B with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and B with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. — (1) Subject to the provisions of this Act, the Secretary Power to grunt of State may, with the approval of the Treasury, by writing
 
@@ -4302,7 +4302,7 @@ under his hand, grant a pension to any Governor within the meaning of this Act w
 
 (a) attained the age of sixty years; or
 
-(б) become, in the opinion of the Secretary of State, incap-
+(b) become, in the opinion of the Secretary of State, incap-
 
 able of discharging the duties of his office by reason of some infirmity of mind or body which is likely to be permanent; or
 
@@ -4322,11 +4322,11 @@ The division shall be made by order of the Secretary of State approved by the Tr
 
 (2) The unit of pension for every completed month’s service
 
-as Governor shall be five pounds for Class I., four pounds for Class II., three pounds for Class III., and two pounds for Class IV. :
+as Governor shall be five pounds for Class I., four pounds for Class II., three pounds for Class III., and two pounds for Class IV.:
 
 (3) Where a Governor’s service has been in one class only,
 
-the yearly amount of his pension shall be the amount produced by multiplying the unit of pension for that class by the number of completed months’ service :
+the yearly amount of his pension shall be the amount produced by multiplying the unit of pension for that class by the number of completed months’ service:
 
 (4) Where a Governor’s service has been in more than one
 
@@ -4410,7 +4410,7 @@ elapse between the date on which the pension becomes payable
 
 and the time at which the person to whom the pension is
 
-granted will attain the age of sixty :
+granted will attain the age of sixty:
 
 86
 
@@ -4520,7 +4520,7 @@ An Act to amend the Government of India Act, 1858.
 
 [18th August 1911.]
 
-BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. In section eighteen of the Government of India Act, 1858, the words “ or to his legal personal representative such gratuity ” shall be inserted after the words “ such compensation, superannuation, or retiring allowance” where they secondly occur, and the words “ or to personal representatives of such persons” shall be inserted after the words “public service, ” and also at the end of the section.
 
@@ -4614,7 +4614,7 @@ Commissioners shall not be required, notwithstanding that the appointment is not
 
 (2) Continuous service with the Company shall be treated
 
-as service in the office to which an officer is first transferred for the purpose of calculating the period of ten years’ service required as a condition for entitling a civil servant to a superannuation allowance under the Superannuation Acts, 1834 to 1909, and the period of five years’ service required as a condition for entitling a civil servant to a gratuity under section two of the Superannuation Act, 1909 :
+as service in the office to which an officer is first transferred for the purpose of calculating the period of ten years’ service required as a condition for entitling a civil servant to a superannuation allowance under the Superannuation Acts, 1834 to 1909, and the period of five years’ service required as a condition for entitling a civil servant to a gratuity under section two of the Superannuation Act, 1909:
 
 (3) The conditions mentioned in the foregoing paragraph
 
@@ -4634,11 +4634,11 @@ to an officer who would not be entitled to a superannuation allowance but for th
 
 (5) If the officer is not a contributor to the Company’s
 
-pension fund, or has not assigned to the Postmaster General his share in that fund, his continuous service with the Company prior to the date of his transfer up to a period not exceeding two years shall be treated as service in the office to which he is first transferred :
+pension fund, or has not assigned to the Postmaster General his share in that fund, his continuous service with the Company prior to the date of his transfer up to a period not exceeding two years shall be treated as service in the office to which he is first transferred:
 
 (6) In the case of a contributor to the Company’s pension
 
-fund, his service during the period of contribution and, in the case of an original member of the fund, the whole of his continuous service with the Company, shall, if he assigns to the Postmaster General his share of the fund, be treated as service in the office to which he is first transferred :
+fund, his service during the period of contribution and, in the case of an original member of the fund, the whole of his continuous service with the Company, shall, if he assigns to the Postmaster General his share of the fund, be treated as service in the office to which he is first transferred:
 
 (7) In the case of an original member of the Company’s
 
@@ -4708,7 +4708,7 @@ An Act to consolidate, amend, and extend certain enactments relating to Animals 
 
 [18th August 1911.]
 
-BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 /
 
@@ -4744,7 +4744,7 @@ administer, or cause or procure, or being the owner permit, such administration 
 
 such person shall be guilty of an offence of cruelty within the meaning of this Act, and shall be liable upon summary conviction to a fine not exceeding twenty-five pounds, or alternatively, or in addition thereto, to be imprisoned, with or without hard labour, for any term not exceeding six months.
 
-(2) For the purposes of this section, an owner shall be deemed to have permitted cruelty within the meaning of this Act if he shall have failed to exercise reasonable care and supervision in respect of the protection of the animal therefrom :
+(2) For the purposes of this section, an owner shall be deemed to have permitted cruelty within the meaning of this Act if he shall have failed to exercise reasonable care and supervision in respect of the protection of the animal therefrom:
 
 Provided that, where an owner is convicted of permitting cruelty within the meaning of this Act by reason only of his having failed to exercise such care and supervision, he shall not be liable to imprisonment without the option of a fine.
 
@@ -4762,7 +4762,7 @@ Ch. 27.
 
 the destruction, or the preparation for destruction, of any animal as food for mankind, unless such destruction or such preparation was accompanied by the infliction of unnecessary suffering; or
 
-(б) to the coursing or hunting of any captive animal, unless
+(b) to the coursing or hunting of any captive animal, unless
 
 such animal is liberated in an injured, mutilated, or exhausted condition; but a captive animal shall not, for the purposes of this section, be deemed to be coursed or hunted before it is liberated for the purpose of being coursed or hunted, or after it has been recaptured, or if it is under control.
 
@@ -4846,7 +4846,7 @@ or cause or procure any person to sell or offer or expose for sale or give away,
 
 person to put or place, or knowingly be a party to the putting or placing, in or upon any land or building any poison, or any fluid or edible matter (not being sown seed or grain) which has been rendered poisonous,
 
-such person shall, upon summary conviction, be liable to a fine not exceeding ten pounds :
+such person shall, upon summary conviction, be liable to a fine not exceeding ten pounds:
 
 Provided that, in any proceedings under paragraph (6) of this section, it shall be a defence that the poison was placed by the accused for the purpose of destroying rats, mice, or other small vermin, and that he took all reasonable precautions to prevent access thereto of dogs, cats, fowls, or other domestic animals.
 
@@ -5058,7 +5058,7 @@ in any prohibited place within the meaning of this Act, or anything in such a pl
 
 document, or information to any person, other than a person to whom he is authorised to communicate it, or a person to whom it is in the interest of the State his duty to communicate it, or
 
-(б) retains the sketch, plan, model, article, note, or document
+(b) retains the sketch, plan, model, article, note, or document
 
 in his possession or control when he has no right to retain it or when it is contrary to his duty to retain it:
 
@@ -5264,7 +5264,7 @@ CHAPTER 31.
 
 An Act to amend Section Sixteen of the Merchandise Marks Act, 1887. [16th December 1911.]
 
-BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. — (1) Where any goods which, if sold, would be liable to Power to forfeiture under the Merchandise Marks Act, 1887, are imported J2Soniiifor* into the United Kingdom, and the goods bear any name or trade ^pe°ctof im-mark being or purporting to be the name or trade mark of any ported goods manufacturer, dealer, or trader in the United Kingdom, and the Jj“entgmarks. Commissioners of Customs and Excise are, upon representations 50 k 51 Vict made to them, satisfied that the use of the name or trade mark c. 2*.
 
@@ -5286,7 +5286,7 @@ An Act to make provision for the better administration by the Central and Local 
 
 [16th December 1911.]
 
-BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 I
 
@@ -5544,7 +5544,7 @@ Ch. 34.
 
 (6) The Board of Trade shaH (in addition to the powers given to them under the foregoing provisions of this section) have power on the application of any company, to make as respects that company any special variation in the form of the accounts and returns set out in the First Schedule to this Act which appears to the Board to be required for the purpose of adapting the form to the particular circumstances of that company.
 
-4. — (1) A railway company shall not be under any obligation to prepare or to submit to their shareholders or auditors, statements of accounts or balance sheets, or to hold ordinary general meetings more than once a year, and anything which under any special Act is authorised or required to be done at a general meeting of a railway company to be held at any specified time may be done at the annual general meeting of the company at whatever time held :
+4. — (1) A railway company shall not be under any obligation to prepare or to submit to their shareholders or auditors, statements of accounts or balance sheets, or to hold ordinary general meetings more than once a year, and anything which under any special Act is authorised or required to be done at a general meeting of a railway company to be held at any specified time may be done at the annual general meeting of the company at whatever time held:
 
 Provided that nothing in this provision shall relieve a railway company of any obligation to prepare half-yearly accounts in cases where those accounts are required in connexion with any guarantee of dividend under any such statutory provisions.
 
@@ -5662,9 +5662,9 @@ Ch. 34. Railway Companies (Accounts and 1 & 2 Geo. 5.
 
 Returns) A, 1911.
 
-No. 10. Receipts aud Expenditure in respect of Railway working.
+No. 10. Receipts and Expenditure in respect of Railway working.
 
-Abstract A. — Maintenance and Renewal of Ways aud Works.
+Abstract A. — Maintenance and Renewal of Ways and Works.
 
 Abstract B. — Maintenance and Renewal of Rolling Stock —
 
@@ -5680,7 +5680,7 @@ Abstract D. — Traffic Expenses.
 
 Abstract E. — General Charges.
 
-Abstract F. — Expenses of Collection aud Delivery of Parcels and Goods.
+Abstract F. — Expenses of Collection and Delivery of Parcels and Goods.
 
 Abstract G. — Running Powers. Receipts and Payments in respects of Running Power Expenses.
 
@@ -5718,7 +5718,7 @@ I. Mileage of Lines —
 
 II. Rolling Stock —
 
-(A) — Steam Locomotives aud Tenders.
+(A) — Steam Locomotives and Tenders.
 
 (B) — Rail Motor Vehicles.
 
@@ -5726,7 +5726,7 @@ II. Rolling Stock —
 
 (D) — Coaching Vehicles (other thau Electric).
 
-(E) — Merchandise aud Mineral Vehicles.
+(E) — Merchandise and Mineral Vehicles.
 
 (F) — Railway Service Vehicles, and Horses for Shunting.
 
@@ -6090,7 +6090,7 @@ Land, property, &c. not forming part of the railway or stations:—
 
 ing.
 
-(б) Not used in connexion with railway
+(b) Not used in connexion with railway
 
 working.
 
@@ -6224,11 +6224,11 @@ Electric power stations, &c. (particulars) -Land, property, &c., not forming par
 
 (a) Used in connexion with railway working (particulars)
 
-(б) Not used in connexion with railway working (particulars) Subscriptions to other companies (particulars) -
+(b) Not used in connexion with railway working (particulars) Subscriptions to other companies (particulars) -
 
 (a) Railway companies.........................................
 
-(б) Other.....................................................
+(b) Other.....................................................
 
 Special items (details to be given)..............................
 
@@ -7036,7 +7036,7 @@ Office expenses -
 
 Total Superintendence.
 
-Generation :
+Generation:
 
 Maintenance of buildings.
 
@@ -7074,7 +7074,7 @@ Taxes -
 
 ----Current sup- |
 
-plied :
+plied:
 
 I For traction
 
@@ -7292,7 +7292,7 @@ Over Foi (reduce* Track). IS x ill |H Total of J includi incl ing Sidings.
 
 M. Ch. IM. Ch. M. Ch. M. Ch. M. Ch. M. Ch. M. Ch. M. Ch.!j M.
 
-Lines leased or worked :
+Lines leased or worked:
 
 BvJ the Com-’pany
 
@@ -7420,7 +7420,7 @@ Year
 
 Number. Number.
 
-Open wagons :
+Open wagons:
 
 Under 8 tons.................................,
 
@@ -7650,7 +7650,7 @@ Heavy repairs Light
 
 Carriages under or awaiting repair at end of year. *
 
-(б) Others renewed
+(b) Others renewed
 
 Others repaired:
 
@@ -7966,7 +7966,7 @@ CHAPTER 37.
 
 An Act to amend the Conveyancing and Law of Property Act, 1881. [16th December 1911.]
 
-BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 Discharge of 1. On any application under section five of the Act of 1881
 
@@ -8046,7 +8046,7 @@ the law permits, by covenant, condition, or otherwise, on the unsold part of the
 
 (a) With or without a grant or reservation of rights of way, rights of water, easements, rights, and privileges for or connected with building or other purposes in relation to the property remaining in mortgage or any part thereof, or to any property sold;
 
-(б) With or without an exception or reservation of all or any of the mines and minerals in or under the mortgaged property, and with or without a grant or reservation of powers of working, way-leaves, or rights of way, rights of water and drainage and other powers, easements, rights, and privileges for or connected with mining purposes in relation to the property remaining unsold or any part thereof, or to any property sold;
+(b) With or without an exception or reservation of all or any of the mines and minerals in or under the mortgaged property, and with or without a grant or reservation of powers of working, way-leaves, or rights of way, rights of water and drainage and other powers, easements, rights, and privileges for or connected with mining purposes in relation to the property remaining unsold or any part thereof, or to any property sold;
 
 (c) With or without covenants by the purchaser to expend money on the land sold.
 
@@ -8256,7 +8256,7 @@ CHAPTER 39.
 
 An Act to facilitate the construction and maintenance of Telegraphic Lines. [16th December 1911.]
 
-BE it enacted by the King’s most Excellent Majesty, by and Al with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and Al with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 Power to Postmaster General to place telegraphic lines across railways and canals.
 
@@ -8270,9 +8270,9 @@ portion of a telegraphic line where that portion is placed or intended to be pla
 
 Postmaster General shall not interfere with the traffic along or user of the railway or canal, and shall enjoy the rights and powers aforesaid, subject to the following conditions: —
 
-(a) The Postmaster General shall, not less than twenty-one days before he places any telegraphic line, give to the railway company or canal company a notice specifying the course and position and method of construction and attachment (if any) of the proposed telegraphic line, and any proposed means of protection where necessary, so far as regards the railway or canal, and, if within twenty-one days after such notice the company object to the proposals specified in the notice, a difference shall be deemed to have arisen between the Postmaster General and the company :
+(a) The Postmaster General shall, not less than twenty-one days before he places any telegraphic line, give to the railway company or canal company a notice specifying the course and position and method of construction and attachment (if any) of the proposed telegraphic line, and any proposed means of protection where necessary, so far as regards the railway or canal, and, if within twenty-one days after such notice the company object to the proposals specified in the notice, a difference shall be deemed to have arisen between the Postmaster General and the company:
 
-(/>) The Postmaster General shall not, under the powers of this Act, be entitled to make any attachment to or prejudicially affect any telegraphic line belonging to or maintained by the railway company or canal company :
+(/>) The Postmaster General shall not, under the powers of this Act, be entitled to make any attachment to or prejudicially affect any telegraphic line belonging to or maintained by the railway company or canal company:
 
 1911.
 
@@ -8568,7 +8568,7 @@ CHAPTER 45.
 
 An Act to amend the Law in Ireland with respect to the use of Locomotives on Public Roads, and with respect to extraordinary Traffic. [16th December 1911.]
 
-BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. — (1) Where, by a certificate of their surveyor, it appears power of to the county council or urban district council which is liable or authority to has undertaken to repair any public road, whether a main road or not, that, having regard to the average expense of repairing traordinary that road, extraordinary expenses have become necessary for the trafflc' purpose of repairing the road by reason of the damage caused by excessive weight passing along the same, or extraordinary traffic thereon, the council may recover from any person by or in consequence of whose order such weight or traffic has been conducted the amount of such expenses as may be proved to the satisfaction of the court having cognizance of the case to have become necessary by reason of the damage arising from such weight or traffic as aforesaid:
 
@@ -8620,7 +8620,7 @@ fourteen tons in weight, except as herein-after provided; and
 
 and smooth-soled, or shod with diagonal crossbars of not less than three inches in width nor more than three-quarters of an inch in thickness, extending the full breadth of the tire, and the space intervening between each such crossbar shall not exceed three inches:Provided that the requirements of this subsection may be fiom time to time varied by order of the Local Government Board.
 
-3. — (1) The owner of any locomotive used contrary to the provisions of the last preceding section shall, for every such offence, be liable to a fine not exceeding five pounds:Provided that any county council or urban district council may, on the application of the owner of any locomotive exceeding nine feet in width or fourteen tons in weight, authorise such locomotive to be used on any public road or part of a public road which the council are liable or have undertaken to repair under such conditions (if any) as to them may appear desirable :
+3. — (1) The owner of any locomotive used contrary to the provisions of the last preceding section shall, for every such offence, be liable to a fine not exceeding five pounds:Provided that any county council or urban district council may, on the application of the owner of any locomotive exceeding nine feet in width or fourteen tons in weight, authorise such locomotive to be used on any public road or part of a public road which the council are liable or have undertaken to repair under such conditions (if any) as to them may appear desirable:
 
 Provided also that the owner of the locomotive used contrary to the provisions of subsection (2) of the last preceding section shall not be deemed guilty of an offence under that section if he proves to the satisfaction of the court having cognizance of the case that such locomotive was constructed before the passing of this Act, and that the tires of the wheels thereof are not less than nine inches in width.
 
@@ -8784,7 +8784,7 @@ private study, research, criticism, review, or newspaper summary:
 
 (ii) Where the author of an artistic work is not the owner
 
-of the copyright therein, the use by the author of any mould, cast, sketch, plan, model, or study made by him for the purpose of the work, provided that he does not thereby repeat or imitate the main design of that work :
+of the copyright therein, the use by the author of any mould, cast, sketch, plan, model, or study made by him for the purpose of the work, provided that he does not thereby repeat or imitate the main design of that work:
 
 (iii) The making or publishing of paintings, drawings,
 
@@ -8806,11 +8806,11 @@ public place or building, or the making or publishing of paintings, drawings, en
 
 (iv) The publication in a collection, mainly composed of
 
-non-copyright matter, bona fide intended for the use of schools, and so described in the title and in any advertisements issued by the publisher, of short passages from published literary works not themselves published for the use of schools in which copyright subsists: Provided that not more than two of such passages from works by the same author are published by the same publisher within five yeai*s, and that the source from which such passages are taken is acknowledged :
+non-copyright matter, bona fide intended for the use of schools, and so described in the title and in any advertisements issued by the publisher, of short passages from published literary works not themselves published for the use of schools in which copyright subsists: Provided that not more than two of such passages from works by the same author are published by the same publisher within five yeai*s, and that the source from which such passages are taken is acknowledged:
 
 (v) The publication in a newspaper of a report of a lecture
 
-delivered in public, unless the report is prohibited by conspicuous written or printed notice affixed before and maintained during the lecture at or about the main entrance of the building in which the lecture is given, and, except whilst the building is being used for public worship, in a position near the lecturer; but nothing in this paragraph shall affect the provisions in paragraph (i) as to newspaper summaries :
+delivered in public, unless the report is prohibited by conspicuous written or printed notice affixed before and maintained during the lecture at or about the main entrance of the building in which the lecture is given, and, except whilst the building is being used for public worship, in a position near the lecturer; but nothing in this paragraph shall affect the provisions in paragraph (i) as to newspaper summaries:
 
 (vi) The reading or recitation in public by one person of
 
@@ -8822,7 +8822,7 @@ any reasonable extract from any published work.
 
 for sale or hire; or
 
-(б) distributes either for the purposes of trade or to such
+(b) distributes either for the purposes of trade or to such
 
 an extent as to affect prejudicially the owner of the copyright; or
 
@@ -8834,7 +8834,7 @@ dominions to which this Act extends, any work which to his knowledge infringes c
 
 (3) Copyright in a work shall also be deemed to be infringed by any person who for his private profit permits a theatre or other place of entertainment to be used for the performance in public of the work without the consent of the owner of the copyright, unless he was not aware, and had no reasonable ground for suspecting, that the performance would be an infringement of copyright.
 
-3. The term for which copyright shall subsist shall, except as otherwise expressly provided by this Act, be the life of the author and a period of fifty years after his death :
+3. The term for which copyright shall subsist shall, except as otherwise expressly provided by this Act, be the life of the author and a period of fifty years after his death:
 
 1911.
 
@@ -8940,7 +8940,7 @@ of any such work; or
 
 (e) imports for sale or hire into the United Kingdom
 
-any infringing copy of any such work :
+any infringing copy of any such work:
 
 he shall be guilty of an offence under this Act and be liable on summary conviction to a fine not exceeding forty shillings for every copy dealt with in contravention of this section, but not exceeding fifty pounds in respect of the same transaction; or, in the case of a second or subsequent offence, either to such fine or to imprisonment with or without hard labour for a term not exceeding two months.
 
@@ -8986,7 +8986,7 @@ Kingdom, shall not be so imported, and shall, subject to the provisions of this 
 
 (5) The regulations may provide for the informant reimbursing the Commissioners of Customs and Excise all expenses and damages incurred in respect of any detention made on his information, and of any proceedings consequent on such detention; and may provide for notices under any enactment repealed by this Act being treated as notices given under this section.
 
-(6) The foregoing provisions of this section shall have effect as if they were part of the Customs Consolidation Act, 1876 :
+(6) The foregoing provisions of this section shall have effect as if they were part of the Customs Consolidation Act, 1876:
 
 Provided that, notwithstanding anything in that Act, the Isle of Man shall not be treated as part of the United Kingdom for the purposes of this section.
 
@@ -9114,7 +9114,7 @@ Provided that, if, at any time after the expiration of seven years from the comm
 
 (7) In the case of musical works published before the commencement of this Act, the foregoing provisions shall have effect, subject to the following modifications and additions: —
 
-(a) The conditions as to the previous making by, or with the consent or acquiescence of, the owner of the copyright in the work, and the restrictions as to alterations in or omissions from the work, shall not apply :
+(a) The conditions as to the previous making by, or with the consent or acquiescence of, the owner of the copyright in the work, and the restrictions as to alterations in or omissions from the work, shall not apply:
 
 (h) The rate of two and one-half per cent, shall be substituted for the rate of five per cent, as the rate at which royalties are to be calculated, but no royalties shall be payable in respect of contrivances sold before the first day of July, nineteen hundred and thirteen, if contrivances reproducing the same work had been lawfully made, or placed on sale, within the parts of His Majesty’s dominions to which this Act extends before the first day of July, nineteen hundred and ten:
 
@@ -9132,7 +9132,7 @@ Provision as to political speeches.
 
 Provisions as to photographs.
 
-making, or authorising the making, of contrivances by means of which the work may be mechanically performed shall belong to the author or his legal personal representatives and not to the assignee, and the royalties aforesaid shall be payable to, and for the benefit of, the author of the work or his legal personal representatives :
+making, or authorising the making, of contrivances by means of which the work may be mechanically performed shall belong to the author or his legal personal representatives and not to the assignee, and the royalties aforesaid shall be payable to, and for the benefit of, the author of the work or his legal personal representatives:
 
 (d) The saving contained in this Act of the rights and
 
@@ -9280,7 +9280,7 @@ Cu. 46.
 
 (c) in respect of residence in a foreign country to which the Order relates, in like manner as if such residence were residence in the parts of His Majesty’s dominions to which this Act extends;
 
-and thereupon, subject to the provisions of this Part of this Act and of the Order, this Act shall apply accordingly :
+and thereupon, subject to the provisions of this Part of this Act and of the Order, this Act shall apply accordingly:
 
 Provided that —
 
@@ -9994,7 +9994,7 @@ commencement of this Act is held by a tenant from year to year who resides on or
 
 (iii) As from the termination of the lease, and subject as
 
-herein-after provided, every holding which at the commencement of this Act is held under a lease for a term longer than one year by a tenant who resides on or within two miles from the holding, and by himself or his family cultivates the holding with or without hired labour (such tenant, or his heir or successor, as the case may be, holding under the lease at the termination thereof being herein-after referred to as a qualified leaseholder) :
+herein-after provided, every holding which at the commencement of this Act is held under a lease for a term longer than one year by a tenant who resides on or within two miles from the holding, and by himself or his family cultivates the holding with or without hired labour (such tenant, or his heir or successor, as the case may be, holding under the lease at the termination thereof being herein-after referred to as a qualified leaseholder):
 
 Provided that such tenant from year to year or leaseholder —
 
@@ -10250,7 +10250,7 @@ statutory conditions additional to or in modification of those statutory prescri
 
 (1) The landholder shall, by himself or his family, with or
 
-without hired labour, cultivate his holding, without prejudice to the right (which is hereby conferred upon him) to make such use thereof for subsidiary or auxiliary occupations as in case of dispute the Land Court may find to be reasonable and not inconsistent with the cultivation of the holding; provided that the expression “ cultivate ” in this subsection shall include the use of a holding for horticulture or for any purpose of husbandry, inclusive of the keeping or breeding of live stock, poultry, or bees, and the growth of fruit, vegetables, and the like :
+without hired labour, cultivate his holding, without prejudice to the right (which is hereby conferred upon him) to make such use thereof for subsidiary or auxiliary occupations as in case of dispute the Land Court may find to be reasonable and not inconsistent with the cultivation of the holding; provided that the expression “ cultivate ” in this subsection shall include the use of a holding for horticulture or for any purpose of husbandry, inclusive of the keeping or breeding of live stock, poultry, or bees, and the growth of fruit, vegetables, and the like:
 
 (2) The expression “ passing of this Act ” in subsection four
 
@@ -10546,9 +10546,9 @@ Common Grazings Regulation Act, 1891: c*41 *
 
 The expression “ Act of 1908 “ means the Crofters Common 8 E<iw. 7. c. 50.
 
-Grazings Regulation Act, 1908 :
+Grazings Regulation Act, 1908:
 
-The expression “ Crofters Acts “ means the Act of 1886, the Act of 1887, the Act of 1891, and the Act of 1908 :
+The expression “ Crofters Acts “ means the Act of 1886, the Act of 1887, the Act of 1891, and the Act of 1908:
 
 The expression “statutory successor” means any person who in terms of the Landholders Acts as the case may be has succeeded or may succeed to a holding whether as heir-at-law or legatee of his immediate predecessor being a crofter or landholder in occupation of the holding:
 
@@ -10636,7 +10636,7 @@ In the Second Schedule to the Agricultural Holdings (Scotland) Act, 1908, the La
 
 (11) In the event of the landlord on the renewal of the
 
-tenancy failing to provide such buildings as will enable the tenant to cultivate the holding according to the terms of the lease or agreement or at any time failing to maintain the buildings and permanent improvements required for the cultivation and reasonable equipment of the holding, in so far as the tenant is not required at common law or by express agreement in writing to do so, it shall be lawful for the tenant to apply to the Land Court to so find and declare, and, if the Land Court after hearing parties (if they desire to be heard) and after giving the landlord (if he so desires) an opportunity of remedying his failure as aforesaid shall so find and declare, the tenant shall, as from the date specified in the finding, become a landholder, and the definition of landholder in this Act shall include such tenant and his successors in the holding, being his heirs or legatees :
+tenancy failing to provide such buildings as will enable the tenant to cultivate the holding according to the terms of the lease or agreement or at any time failing to maintain the buildings and permanent improvements required for the cultivation and reasonable equipment of the holding, in so far as the tenant is not required at common law or by express agreement in writing to do so, it shall be lawful for the tenant to apply to the Land Court to so find and declare, and, if the Land Court after hearing parties (if they desire to be heard) and after giving the landlord (if he so desires) an opportunity of remedying his failure as aforesaid shall so find and declare, the tenant shall, as from the date specified in the finding, become a landholder, and the definition of landholder in this Act shall include such tenant and his successors in the holding, being his heirs or legatees:
 
 (12) It shall be lawful for the Board to provide model
 
@@ -10644,7 +10644,7 @@ forms of agreements for optional use by landlords and tenants under this section
 
 (13) In the event of any dispute arising as to whether a
 
-person is a statutory small tenant within the meaning of this Act, it shall be competent for the Land Court to determine such question summarily :
+person is a statutory small tenant within the meaning of this Act, it shall be competent for the Land Court to determine such question summarily:
 
 (14) Subsection (4) of section six, section twenty, and
 
@@ -10696,7 +10696,7 @@ Act, 1911.
 
 been acquired, or subjected to servitudes or restrictions for the purposes of the Naval or Military Forces of the Crown.
 
-35. Nothing in this Act contained shall prejudice or in any way affect the right of any owner of land, at any time after the commencement of this Act, to constitute and equip a small holding, as defined in the section of this Act providing for a register of small holdings, and to let such holding to any person at such rent, for such period, and on such terms and conditions as may be agreed on between them, and none of the provisions of this Act shall, except by the joint consent of such owner and such person, apply to such holding :
+35. Nothing in this Act contained shall prejudice or in any way affect the right of any owner of land, at any time after the commencement of this Act, to constitute and equip a small holding, as defined in the section of this Act providing for a register of small holdings, and to let such holding to any person at such rent, for such period, and on such terms and conditions as may be agreed on between them, and none of the provisions of this Act shall, except by the joint consent of such owner and such person, apply to such holding:
 
 Provided that, as regards land comprised in a scheme referred to in an intimation to a landlord made in terms of subsection (9) of section seven of this Act, the said right shall not, while such scheme is under consideration, be exercised without the consent of the Land Court.
 
@@ -10714,7 +10714,7 @@ SCHEDULES.
 
 FIRST SCHEDULE.
 
-The Acts specified in Part II. of the First Schedule to the Board of Agriculture Act, 1889, aud any enactment amending or extending the same.
+The Acts specified in Part II. of the First Schedule to the Board of Agriculture Act, 1889, and any enactment amending or extending the same.
 
 The Sale of Food and Drugs Acts, 1875 to 1907.
 
@@ -10818,7 +10818,7 @@ An Act to consolidate and amend the Law relating to Coal Mines and certain other
 
 [16th December 1911.]
 
-BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 Application of Act.
 
@@ -10876,7 +10876,7 @@ manager, as the case may be, in respect of daily personal supervision being perf
 
 if any, or by a person not under the age of twenty-five years and holding a first or second-class certificate of competency under this Act, appointed in writing by the owner or agent;
 
-(б) in the absence of the under-manager, in the case
+(b) in the absence of the under-manager, in the case
 
 of a mine for which a separate under-manager is required by this Act to be appointed, by a person not under the age of twenty-five years and holding a first or second-class certificate of competency under this Act appointed as aforesaid:
 
@@ -10992,13 +10992,13 @@ Ch. 50.
 
 place as the Secretary of State may appoint, by such county court judge, metropolitan police magistrate, stipendiary magistrate, or other person or persons (herein-after in this section referred to as the court) as may be directed by the Secretary of State, and either alone or with the assistance of any assessor or assessors named by the Secretary of State:
 
-(б) The Secretary of State shall, before the commencement
+(b) The Secretary of State shall, before the commencement
 
-of the inquiry, furnish to the person into whose conduct inquiry is made a statement of the case on which the inquiry is instituted :
+of the inquiry, furnish to the person into whose conduct inquiry is made a statement of the case on which the inquiry is instituted:
 
 (c) The person into whose conduct inquiry is made may
 
-attend the inquiry by himself, his counsel, solicitor, or agent, and may, if he thinks fit, be sworn and examined as an ordinary witness in the case :
+attend the inquiry by himself, his counsel, solicitor, or agent, and may, if he thinks fit, be sworn and examined as an ordinary witness in the case:
 
 (d) The court shall, on the conclusion of the inquiry, send
 
@@ -11066,7 +11066,7 @@ safety (including the checking and recording of the number of persons under his 
 
 employed below ground at one time does not exceed thirty; or
 
-(б) any mine in the counties of Durham or Northumber-
+(b) any mine in the counties of Durham or Northumber-
 
 land; or
 
@@ -11094,7 +11094,7 @@ Coal Miiies Act, 1911.
 
 age or upwards and has had at least five years’ practical experience underground in a mine, of which not less than two years have been at the face of the workings of a mine; and (6) has obtained a certificate in the prescribed form from a mining school or other institution or authority approved by the Secretary of State as to his ability to make accurate tests (so far as practicable with a safety lamp) for inflammable gas, and to measure the quantity of air in an air current, and that his hearing is such as to enable him to carry out his duties efficiently; and
 
-(c) has, within the preceding five years, obtained from such approved school, institution, or authority as aforesaid, or from a duly qualified medical practitioner, a certificate in the prescribed form to the effect that his eyesight is such as to enable him to make accurate tests for inflammable gas and that his hearing is such as to enable him to carry out his duties efficiently, the expense of obtaining which shall, in the case of a person employed at the time as fireman, examiner, or deputy, be borne by the owner of the mine :
+(c) has, within the preceding five years, obtained from such approved school, institution, or authority as aforesaid, or from a duly qualified medical practitioner, a certificate in the prescribed form to the effect that his eyesight is such as to enable him to make accurate tests for inflammable gas and that his hearing is such as to enable him to carry out his duties efficiently, the expense of obtaining which shall, in the case of a person employed at the time as fireman, examiner, or deputy, be borne by the owner of the mine:
 
 Provided that a person shall not be required to have obtained a certificate as to ability to make tests for inflammable gas or as to eyesight, if he is employed in a mine in which inflammable gas is unknown.
 
@@ -11206,7 +11206,7 @@ not more than three months previously, showing —
 
 (2) The owner, agent, or manager of every mine shall1 also keep in the office at the mine a separate plan showing the system of ventilation in the mine, and in particular the general direction of the currents, the points where the quantity of air is measured, and the principal devices for the regulation and distribution of the air, and on every such plan the intake airways shall be coloured blue and the return airways red.
 
-(3) Every such plan must be on a scale of not less than forty inches to the mile, and must be prepared by or under the supervision of a surveyor possessing the prescribed qualifications, and shall be of a durable character :
+(3) Every such plan must be on a scale of not less than forty inches to the mile, and must be prepared by or under the supervision of a surveyor possessing the prescribed qualifications, and shall be of a durable character:
 
 Provided that, in the case of a mine opened before the* passing of this Act, it shall be sufficient if the scale of the plan is not less than the Ordnance scale of twenty-five inches to the mile.
 
@@ -11246,7 +11246,7 @@ Further, the inspector may, by notice in writing (whether a penalty for the offe
 
 (/) the depth of every shaft or, in the case of an abandoned seam, the depth of every shaft from the surface to that seam; and Aii) A section of the strata sunk through, or, if that is not reasonably practicable, a section of every seam in the mine or of the seam, as the case may be.
 
-(2) Every such plan must be on a scale of not less than that of the Ordnance Survey of twenty-five inches to the mile in the case of a mine opened before the passing of this Act, and on a scale of not less than forty inches to the mile in the case of a mine opened after the passing of this Act, and its accuracy must be certified, so far as is reasonably practicable, by a surveyor possessing the prescribed qualifications, and it shall be of a durable character :
+(2) Every such plan must be on a scale of not less than that of the Ordnance Survey of twenty-five inches to the mile in the case of a mine opened before the passing of this Act, and on a scale of not less than forty inches to the mile in the case of a mine opened after the passing of this Act, and its accuracy must be certified, so far as is reasonably practicable, by a surveyor possessing the prescribed qualifications, and it shall be of a durable character:
 
 Provided that the foregoing requirement as to the scale of the plan shall not apply as respects any workings plotted before the commencement of this Act.
 
@@ -11320,7 +11320,7 @@ Ch. 50.
 
 257
 
-thereof, and of every other person interested in the minerals of the mine, to cause the top or entrance of every shaft and outlet to be kept surrounded by a structure of a permanent character sufficient to prevent accidents :
+thereof, and of every other person interested in the minerals of the mine, to cause the top or entrance of every shaft and outlet to be kept surrounded by a structure of a permanent character sufficient to prevent accidents:
 
 Provided that —
 
@@ -11372,7 +11372,7 @@ person, employment as a manager or under-manager or in any other capacity, or th
 
 statement, or evidence which is false in any particular; or
 
-(б) knowingly utters, produces, or makes use of any
+(b) knowingly utters, produces, or makes use of any
 
 such declaration, representation, statement, or evidence, or any document containing the same; or
 
@@ -11388,7 +11388,7 @@ Provisions as to Safety.
 
 Ventilation.
 
-29. — (1) An adequate amount of ventilation shall be constantly produced in every mine to dilute and render harmless inflammable and noxious gases to such an extent that all shafts, roads, levels, stables, and workings of the mine shall be in a fit state for working and passing therein, and in particular that the intake airways up to within one hundred yards of the first working-place at the working-face which the air enters shall be normally kept free from inflammable gas :
+29. — (1) An adequate amount of ventilation shall be constantly produced in every mine to dilute and render harmless inflammable and noxious gases to such an extent that all shafts, roads, levels, stables, and workings of the mine shall be in a fit state for working and passing therein, and in particular that the intake airways up to within one hundred yards of the first working-place at the working-face which the air enters shall be normally kept free from inflammable gas:
 
 Provided always that —
 
@@ -11412,7 +11412,7 @@ Ch. 50.
 
 month, be measured and entered in a book to be kept for the purpose at the mine.
 
-(3) For the purposes of this section, a place shall not be deemed ta be in a fit state for working or passing therein if the air contains either less than nineteen per cent, of oxygen or more than one-and-a-quarter per cent, of carbon dioxide, and an intake airway shall not be deemed to be normally kept free from inflammable gas if the average percentage of inflammable gas found in six samples of air taken by an inspector in the air current in that airway at intervals of not less than a fortnight exceeds one quarter :
+(3) For the purposes of this section, a place shall not be deemed ta be in a fit state for working or passing therein if the air contains either less than nineteen per cent, of oxygen or more than one-and-a-quarter per cent, of carbon dioxide, and an intake airway shall not be deemed to be normally kept free from inflammable gas if the average percentage of inflammable gas found in six samples of air taken by an inspector in the air current in that airway at intervals of not less than a fortnight exceeds one quarter:
 
 Provided that, in case of a mine which is liable to spontaneous combustion of coal, a place shall be deemed to be in a fit state for working or passing therein, notwithstanding that the air contains either less than nineteen per cent, of oxygen or more than one-and-a-quarter per cent, of carbon dioxide, if the mine lias been exempted by order of the Secretary of State, and the conditions on which the exemption is granted are complied with.
 
@@ -11422,7 +11422,7 @@ Provided that, in case of a mine which is liable to spontaneous combustion of co
 
 31. — (1) Where a fire is used for ventilation in any mine, the return air shall be carried off clear of the fire by means of a dumb drift or airway, unless the mine is one in which inflammable gas is unknown.
 
-(2) Where a mechanical contrivance for ventilation is used at any mine, it shall not be placed beneath the surface :
+(2) Where a mechanical contrivance for ventilation is used at any mine, it shall not be placed beneath the surface:
 
 Provided that this provision shall not be construed as preventing mechanical contrivances for ventilation being placed underground either —
 
@@ -11456,7 +11456,7 @@ Safety L.
 
 from any ventilating district in the seam is found normally to contain more than one half per cent, of inflammable gas; or
 
-(б) in any seam (except in the main intake airways within
+(b) in any seam (except in the main intake airways within
 
 two hundred yards from the shaft) in which an explosion of inflammable gas causing any personal injury whatever has occurred within the previous twelve months, unless an exemption is given by the Secretary of State on the ground that, on account of the special character of the mine, the use of safety lamps is not required;
 
@@ -11464,7 +11464,7 @@ two hundred yards from the shaft) in which an explosion of inflammable gas causi
 
 (d)in any working near to or approaching a place in which there is likely to be an accumulation of inflammable gas;
 
-(e) in any place where the use of safety lamps is required by the regulations of the mine :
+(e) in any place where the use of safety lamps is required by the regulations of the mine:
 
 Provided that —
 
@@ -11734,7 +11734,7 @@ If any question arises as to whether the character of the strata in any mine mak
 
 detaching or attaching tubs from or to the haulage rope, if that set or train is not proceeding at a higher speed than three miles an hour; or
 
-(б) men being conveyed, with the written permission of the
+(b) men being conveyed, with the written permission of the
 
 manager or under-manager, to or from their work at the commencement or end of their employment (including any person in charge of a set or train of tubs on which men are being so conveyed); or
 
@@ -11756,7 +11756,7 @@ Provided that —
 
 (b) where, in the case of any existing mine, compliance with the requirements of this subsection would necessitate the removal of arching or other masonry work, or where, in the case of any mine, sets or trains of tubs are coupled or uncoupled at the face, or at the pass-bye next the face, other provisions for securing safety may be substituted by the regulations of the mine for those requirements.
 
-The provisions of this subsection shall come into operation on the first day of January, nineteen hundred and thirteen :
+The provisions of this subsection shall come into operation on the first day of January, nineteen hundred and thirteen:
 
 Provided that this subsection shall not apply to any district in any mine as respects which the Secretary of State is satisfied that it will be worked out within three years from the commencement of this Act.
 
@@ -12196,7 +12196,7 @@ respect to the provision and use of sanitary conveniences in mines, 10 sanitary 
 
 77. — (1) Where a majority, ascertained by ballot of two- Provision of thirds of the workmen employed in any mine to whom this ^ir^ac-1^ section applies, represent to the owner of the mine that they commodation. desire that accommodation and facilities for taking baths and
 
-drying clothes should be provided at the mine and undertake to pay half the cost of the maintenance of the accommodation and facilities to be provided, the owner shall forthwith provide sufficient and suitable accommodation and facilities for such purposes as aforesaid :
+drying clothes should be provided at the mine and undertake to pay half the cost of the maintenance of the accommodation and facilities to be provided, the owner shall forthwith provide sufficient and suitable accommodation and facilities for such purposes as aforesaid:
 
 Provided that the owner shall not be bound to provide any such accommodation and facilities, if the estimated total cost of maintenance exceeds threepence per week for each workman liable to contribute under this section.
 
@@ -12332,9 +12332,9 @@ respect to the accident, and the Secretary of State may cause any such report to
 
 to hold the investigation, and may appoint any person or persons possessing legal or special knowledge to act as assessor or assessors in holding the investigation:
 
-(б) The person or persons so appointed (herein-after called
+(b) The person or persons so appointed (herein-after called
 
-the court) shall hold the investigation in open court, in such manner and under such conditions as the court may think most effectual for ascertaining the causes and circumstances of the accident, and enabling the coxirt to make the report in this section mentioned :
+the court) shall hold the investigation in open court, in such manner and under such conditions as the court may think most effectual for ascertaining the causes and circumstances of the accident, and enabling the coxirt to make the report in this section mentioned:
 
 (c) The court shall have for the purpose of the investigation
 
@@ -12342,7 +12342,7 @@ all the powers of a court of summary jurisdiction when acting as a court in hear
 
 (i) power by summons signed by the court, to require the attendance of all such persons as it thinks fit to call before it and examine for the said purpose; and
 
-(ii) power to require the production of all books, papers, and documents which the court considers important for the purposes of the inquiry :
+(ii) power to require the production of all books, papers, and documents which the court considers important for the purposes of the inquiry:
 
 (d) Persons attending as witnesses before the court shall be
 
@@ -12462,7 +12462,7 @@ near the mine, where they may be conveniently read or seen by the persons employ
 
 (b) The owner, agent, or manager shall supply gratis to
 
-each person employed in or about the mine at the commencement of his employment, and on each occasion when a new abstract is issued or new regulations made, a book containing so much of the abstract and so much of the regulations as the Secretary of State may prescribe as being the parts of the abstract and regulations for the time being in force affecting persons of the class to which the person belongs, and shall also supply, at a price not exceeding one penny, to any such person who applies therefor at the office at which the persons immediately employed by the owner, agent, or manager are paid, a copy of such book :
+each person employed in or about the mine at the commencement of his employment, and on each occasion when a new abstract is issued or new regulations made, a book containing so much of the abstract and so much of the regulations as the Secretary of State may prescribe as being the parts of the abstract and regulations for the time being in force affecting persons of the class to which the person belongs, and shall also supply, at a price not exceeding one penny, to any such person who applies therefor at the office at which the persons immediately employed by the owner, agent, or manager are paid, a copy of such book:
 
 (c) Every copy of the regulations shall be kept distinct from
 
@@ -12616,9 +12616,9 @@ Ch. 50.
 
 291
 
-relating to matters above ground or below ground are complied with in the case of any mine :
+relating to matters above ground or below ground are complied with in the case of any mine:
 
-(ii; to enter, inspect, and examine any mine, and every part thereof, at all reasonable times by day and night, but so as not to impede or obstruct the working of the mine :
+(ii; to enter, inspect, and examine any mine, and every part thereof, at all reasonable times by day and night, but so as not to impede or obstruct the working of the mine:
 
 (iii) to examine into and make inquiry respecting the state
 
@@ -12684,7 +12684,7 @@ liable to a fine not exceeding, if lie is an owner, agent, or manager, or under-
 
 respect of the matters in question take any part in the management of the mine; and
 
-(б) that he had made all the financial and other provision
+(b) that he had made all the financial and other provision
 
 necessary to enable the manager to carry out his duties; and
 
@@ -12732,7 +12732,7 @@ Provided that —
 
 (i) It shall be sufficient to allege that the mine is a mine
 
-within the meaning of this Act, without more :
+within the meaning of this Act, without more:
 
 (ii) The court shall, if required by either party, cause
 
@@ -12914,7 +12914,7 @@ Cii. 50.
 
 Coal Mines Act, 1911.
 
-ground, in and adjacent to and belonging to the mine, but does not include any part of such premises on which any manufacturing process is carried on other than a process ancillary to the getting, dressing or preparation for sale of minerals :
+ground, in and adjacent to and belonging to the mine, but does not include any part of such premises on which any manufacturing process is carried on other than a process ancillary to the getting, dressing or preparation for sale of minerals:
 
 “ Main airway ” means an airway commencing from, or terminating at, a shaft or outlet to the surface, or any airway from which a split is taken to ventilate any district of the mine, or into which a split so taken returns:
 
@@ -12922,7 +12922,7 @@ ground, in and adjacent to and belonging to the mine, but does not include any p
 
 “ Office at the mine ” means an office on the surface of the mine:
 
-“ Small mine ” means a mine in which the total number of persons employed below ground does not exceed thirty :
+“ Small mine ” means a mine in which the total number of persons employed below ground does not exceed thirty:
 
 “ Owner, ” when used in relation to any mine, means any person or body corporate who is the immediate proprietor or lessee, or occupier of any mine, or of any part thereof, and in the case of a mine the business whereof is carried on by a liquidator or receiver includes such liquidator or receiver, but does not include a person or body corporate who merely receives a royal ty, . rent, or fine from a mine, or is merely the proprietor of a mine subject to any lease, grant, or licence for the working thereof, or is merely the owner of the soil, and not interested in the minerals of the mine; but any contractor for the working of any mine, or any part thereof, shall be subject to this Act in like manner as if he were an owner, but so as not to exempt the owner from any liability:
 
@@ -12974,7 +12974,7 @@ c’88, “receiver” includes a trustee in bankruptcy;
 
 “ attending on subpoena before a court of record ” means attending on citation the High Court of Justiciary, and any reference to a Court of Record shall be construed accordingly; “ master of the Supreme Court” means auditor of the sheriff court; “ county court judge ” means sheriff;
 
-“ London Gazette ” means “ Edinburgh Gazette ” :
+“ London Gazette ” means “ Edinburgh Gazette ”:
 
 (2) The provision relating to an appeal to quarter sessions
 
@@ -12994,7 +12994,7 @@ sitting in petty sessions; and a resident magistrate means a magistrate appointe
 
 (2) Section one hundred and seven of the Public Health 41 & 42 Vict.
 
-(Ireland) Act, 1878, shall be substituted for section c*52, ninety-one of the Public Health Act, 1875 :
+(Ireland) Act, 1878, shall be substituted for section c*52, ninety-one of the Public Health Act, 1875:
 
 (3) “Police or stipendiary magistrate” means resident
 
@@ -13004,7 +13004,7 @@ magistrate; “ master of the Supreme Court ” means a taxing master of the Hig
 
 (4) The Licensing Act, 1872, shall be substituted for the 35 & 36 Vict. Licensing (Consolidation) Act, 1910. c-94,
 
-126. The enactments mentioned in the Fourth Schedule to Repeal, this Act are hereby repealed to the extent mentioned in the third column of that Schedule :
+126. The enactments mentioned in the Fourth Schedule to Repeal, this Act are hereby repealed to the extent mentioned in the third column of that Schedule:
 
 Provided that —
 
@@ -13500,7 +13500,7 @@ Short title and commencement.
 
 Interpretation.
 
-(b)The provision respecting the Rules Publication Act, 1893, shall have effect as if section one of that Act applied to Scotland with the substitution of the “ Edinburgh Gazette ” for the “ London Gazette ” :
+(b)The provision respecting the Rules Publication Act, 1893, shall have effect as if section one of that Act applied to Scotland with the substitution of the “ Edinburgh Gazette ” for the “ London Gazette ”:
 
 (c) The expenses of a local authority under this Act shall be defrayed out of the public health general assessment levied under the Public Health (Scotland) Act, 1897.
 
@@ -13546,17 +13546,17 @@ Ch. 53.
 
 1911.
 
-let in conjunction with a shop, workshop, stable, or byre; nor shall it include any dwelling-house let under any contract or lease current at the passing of this Act prior to the expiration of such contract or lease :
+let in conjunction with a shop, workshop, stable, or byre; nor shall it include any dwelling-house let under any contract or lease current at the passing of this Act prior to the expiration of such contract or lease:
 
-The expression “ assessing authority ” includes a town council, a county council, a parish council, and every other body entitled to impose an assessment :
+The expression “ assessing authority ” includes a town council, a county council, a parish council, and every other body entitled to impose an assessment:
 
 The expression “ assessment” includes all rates, charges, and assessments imposed, assessed, or levied by an assessing authority, the proceeds of which are applicable to public local purposes and which are leviable in respect of the yearly value of lands and heritages, and includes any sum which, though obtained in the first instance by a precept, certificate, or other instrument requiring payment from some authority or officer, is or can be ultimately raised out of an assessment:
 
 The expression “ magistrate ” includes judge of police:
 
-The expressions “ owner ” and “ occupier ” have the meanings assigned to them respectively in the Burgh Police 55 & 56 Vict. (Scotland) Act, 1892; provided that section fifty-eight c*55-of the Burgh Police (Scotland) Act, 1903 (which limits 3 Edw. 7.c. 33. the obligations of factors), shall apply for the purposes of this Act as if it were herein re-enacted with the substitution of this Act for the Burgh Police Acts specified in the said section :
+The expressions “ owner ” and “ occupier ” have the meanings assigned to them respectively in the Burgh Police 55 & 56 Vict. (Scotland) Act, 1892; provided that section fifty-eight c*55-of the Burgh Police (Scotland) Act, 1903 (which limits 3 Edw. 7.c. 33. the obligations of factors), shall apply for the purposes of this Act as if it were herein re-enacted with the substitution of this Act for the Burgh Police Acts specified in the said section:
 
-The expression “ burgh ” means a royal, parliamentary, or police burgh; and the expression “population ” means, in relation to an existing burgh, the populat on within the police boundaries thereof according to the census of nineteen hundred and eleven, and, in relation to a burgh constituted after the passing of this Act or to a special district, the population thereof as ascertained for the purposes of this Act in manner approved by the Secretary for Scotland :
+The expression “ burgh ” means a royal, parliamentary, or police burgh; and the expression “population ” means, in relation to an existing burgh, the populat on within the police boundaries thereof according to the census of nineteen hundred and eleven, and, in relation to a burgh constituted after the passing of this Act or to a special district, the population thereof as ascertained for the purposes of this Act in manner approved by the Secretary for Scotland:
 
 The expression “ special district” means a special district formed in a county under the Public Health (Scotland) 60 k 61 Vict. Act, 1897, or the Local Government (Scotland) Acts, c-38<
 
@@ -13590,7 +13590,7 @@ Summary application for removing]
 
 months, the notice shall be given at least forty days before the said day or lawful date, as the case may be; and
 
-(б) If the house be let for a period of three months or less,
+(b) If the house be let for a period of three months or less,
 
 the notice shall be given as many days before the said day or lawful date, as the case may be, as shall be equivalent to at least one third of the said period; except in the case of a let for a shorter period than one month, in which case the notice shall be given at least five days before the said day or lawful date, as the case may be.
 
@@ -13610,7 +13610,7 @@ on cause shown (which cause the sheriff or magistrate shall state in his order g
 
 (1) The occupier of a small dwelling-house shall, in no case,
 
-be liable to pay occupiers’ assessment therefor in respect of any period prior to the commencement or subsequent to the termination of his occupancy, but any liability to pay occupiers’ assessment, which would by law be imposed on a person occupying the small dwelling-house throughout the year from Whitsunday to Whitsunday, shall be imposed on any such occupier or successive occupiers during the year, whether their names appear in the valuation roll or not, to such extent or in such shares as shall be proportionate to the period or periods of their respective occupancies, of the small dwelling-house :
+be liable to pay occupiers’ assessment therefor in respect of any period prior to the commencement or subsequent to the termination of his occupancy, but any liability to pay occupiers’ assessment, which would by law be imposed on a person occupying the small dwelling-house throughout the year from Whitsunday to Whitsunday, shall be imposed on any such occupier or successive occupiers during the year, whether their names appear in the valuation roll or not, to such extent or in such shares as shall be proportionate to the period or periods of their respective occupancies, of the small dwelling-house:
 
 (2) Subject as herein-after provided, the owner of a small '
 
@@ -13630,13 +13630,13 @@ Home Letting and Rating (Scotland), 1911.
 
 1 & 2 Geo. 5.
 
-day of May in each year), with the clerk to any such authority, or with such other officer as such authority may appoint for the purpose, a claim for repayment, which shall set forth the period or periods during which the small dwelling-house was not let, or in respect of which, though the house was let, no payment of rent or other consideration was received by him, and a declaration to the effect that no rent or other consideration has been paid or given for such period or periods, be entitled to repayment without any unnecessary delay from such authority of the proportionate amount of such assessment for the said period or periods without prejudice to the right of the authority to make adjustments with the owner in respect of any such rent or other consideration subsequently recovered by him: Provided that, for the purpose of any qualification or franchise which depends on payment of occupiers’ assessments, an occupier shall be held to be in arrear and his assessments to remain unpaid to the extent of any claim therefor (if relating to any period during the occupancy of the said occupier) under this subsection in respect of which the owner has received repayment, or which is pending at the date when notice of occupiers’ assessments in arrear requires to be given under the statutes relating to such qualification or franchise, and the said occupier shall, as being in arrear to the extent aforesaid, unless he has paid such arrears to the assessing authority in terms of section eight of this Act, be included in any list of persons who have failed to pay assessments which under the Acts regulating such qualification or franchise is required to be sent to the assessor as a person who has so failed :
+day of May in each year), with the clerk to any such authority, or with such other officer as such authority may appoint for the purpose, a claim for repayment, which shall set forth the period or periods during which the small dwelling-house was not let, or in respect of which, though the house was let, no payment of rent or other consideration was received by him, and a declaration to the effect that no rent or other consideration has been paid or given for such period or periods, be entitled to repayment without any unnecessary delay from such authority of the proportionate amount of such assessment for the said period or periods without prejudice to the right of the authority to make adjustments with the owner in respect of any such rent or other consideration subsequently recovered by him: Provided that, for the purpose of any qualification or franchise which depends on payment of occupiers’ assessments, an occupier shall be held to be in arrear and his assessments to remain unpaid to the extent of any claim therefor (if relating to any period during the occupancy of the said occupier) under this subsection in respect of which the owner has received repayment, or which is pending at the date when notice of occupiers’ assessments in arrear requires to be given under the statutes relating to such qualification or franchise, and the said occupier shall, as being in arrear to the extent aforesaid, unless he has paid such arrears to the assessing authority in terms of section eight of this Act, be included in any list of persons who have failed to pay assessments which under the Acts regulating such qualification or franchise is required to be sent to the assessor as a person who has so failed:
 
 -(4) The owner of a small dwelling-house, on receipt of a requisition from an assessing authority or such officer as they may appoint, shall, within ten days thereafter, furnish such authority with a return containing particulars of any period or periods in any year from Whitsunday to Whitsunday during which such small dwelling-house has been let, and of the occupier or successive occupiers thereof with their respective periods of occupancy and the amount of rent payable and paid by them respectively:
 
 (5) Any owner knowingly making or causing to be made
 
-any false statement in or in connexion with any claim, declaration, or return under this section, or failing to make any such return, shall be liable, on summary conviction, to a penalty not exceeding fifty pounds :
+any false statement in or in connexion with any claim, declaration, or return under this section, or failing to make any such return, shall be liable, on summary conviction, to a penalty not exceeding fifty pounds:
 
 (6) Every assessing authority shall, in respect of the occu-
 
@@ -13776,9 +13776,9 @@ CHAPTER 54.
 
 An Act to amend and extend the Shops Regulation Acts, 1892 to 1904. [16th December 1911.]
 
-BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows :
+BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. — (4) On at least one week day in each week a shop assistant shall not be employed about the business of a shop after half-past one o’clock in the afternoon :
+1. — (4) On at least one week day in each week a shop assistant shall not be employed about the business of a shop after half-past one o’clock in the afternoon:
 
 Provided that this provision shall not apply to the week preceding a bank holiday if the shop assistant is not employed on the bank holiday, and if on one week day in the following week in addition to the bank holiday the employment of the shop assistant ceases not later than half-past one o’clock in the afternoon.
 
@@ -13824,7 +13824,7 @@ any area are in favour of being exempted from the provisions of this section, ei
 
 closing hour earlier than seven o’clock, shall cease to have effect, and any closing order which is in force at the commencement of this Act shall cease to have effect in so far as it fixes an hour earlier than seven o’clock for any shop to which this section applies.
 
-Local inquiries for the purpose of promoting aud facilitating early closing.
+Local inquiries for the purpose of promoting and facilitating early closing.
 
 3. — (1) Where it appears to the Secretary of State, on the representation of the local authority or a joint representation from a substantial number of occupiers of shops and shop assistants in the area of the local authority, that it is expedient to ascertain the extent to which there is a demand for early closing in any locality, and to promote and facilitate the making
 
@@ -13850,7 +13850,7 @@ local authority, it appears to the person holding the inquiry that it is expedie
 
 4. Subject to any provisions contained in a closing order, it Provisions as shall not be lawful in any locality to carry on in any place not
 
-being a shop retail trade or business of any class at any time than"in™ when it would be unlawful in that locality to keep a shop open shops, for the purposes of retail trade or business of that class, and, if any person carries on any trade or business in contravention of this section, the Shops Regulation Acts, 1892 to 1911, shall apply as if he were the occupier of a shop and the shop were being kept open in contravention of those Acts :
+being a shop retail trade or business of any class at any time than"in™ when it would be unlawful in that locality to keep a shop open shops, for the purposes of retail trade or business of that class, and, if any person carries on any trade or business in contravention of this section, the Shops Regulation Acts, 1892 to 1911, shall apply as if he were the occupier of a shop and the shop were being kept open in contravention of those Acts:
 
 Provided that —
 
@@ -13894,7 +13894,7 @@ Ch. 54.
 
 329
 
-and the same local authorities shall be the local authorities for the purposes of the Shop Hours Act, 1904, and shall, in so far as they differ from the local authorities specified in that Act, be substituted for those local authorities :
+and the same local authorities shall be the local authorities for the purposes of the Shop Hours Act, 1904, and shall, in so far as they differ from the local authorities specified in that Act, be substituted for those local authorities:
 
 Provided that a county council may, with the approval of the Secretary of State, make arrangements with the council of an urban district in the county with a population of less than twenty thousand, or with the council of a rural district, for the exercise by the council of that district as agents for the county council, on such terms and subject to such conditions as may be agreed on, of any powers of the county council under the Shops Regulation Acts, 1892 to 1911, within the district, and the council of the district may, as part of the agreement, undertake to pay the whole or any part of the expenses incurred in connection with the exercise of the powers delegated to them, and the London County Council may, with the like approval, make similar arrangements with the council of any metropolitan borough.
 
@@ -13960,7 +13960,7 @@ Ch. 54.
 
 331
 
-should be transacted in any such shop at times when under the provisions of this Act relating to the weekly half-holiday the shop would be required to be closed, or under conditions not authorised by this Act, the shop shall, for the purpose of the transaction of Post Office business, be exempted from the provisions of this Act to such extent as the Postmaster General may certify to be necessary for the purpose :
+should be transacted in any such shop at times when under the provisions of this Act relating to the weekly half-holiday the shop would be required to be closed, or under conditions not authorised by this Act, the shop shall, for the purpose of the transaction of Post Office business, be exempted from the provisions of this Act to such extent as the Postmaster General may certify to be necessary for the purpose:
 
 Provided that in such cases the Postmaster General shall make the best arrangements that the exigencies of the postal service allow with a view to the conditions of employment of the persons employed being on the whole not less favourable than those secured by this Act.
 
@@ -14024,11 +14024,11 @@ of State:
 
 (2) A local authority for the purposes of this Act means as
 
-respects any municipal borough the borough council, and as respects any urban district the district council, and those authorities shall, as respects their several areas, be the local authorities for the purposes of the Shop Hours Act, 1904 :
+respects any municipal borough the borough council, and as respects any urban district the district council, and those authorities shall, as respects their several areas, be the local authorities for the purposes of the Shop Hours Act, 1904:
 
 (3) The expenses of such local authorities shall be defrayed,
 
-in the case of a municipal borough, out of the borough fund or borough rate, and, in the case of a district council, as part of the general expenses incurred in the execution of the Public Health (Ireland) Acts, 1878 to 1907 :
+in the case of a municipal borough, out of the borough fund or borough rate, and, in the case of a district council, as part of the general expenses incurred in the execution of the Public Health (Ireland) Acts, 1878 to 1907:
 
 (4) ’tThis Act shall not extend to any rural district or part of
 
@@ -14102,7 +14102,7 @@ Ch. 54.
 
 Such, order shall be deemed to be a closing order, and all the provisions of the Shop Hours Act, 1904, with respect to closing orders, save those relating to the earliest hours to be fixed by a closing order, shall apply accordingly with the necessary modifications:
 
-Provided that an order made under this subsection shall not in any way affect the powers conferred by section eleven of the Licensing (Ireland) Act, 1874, of granting exemption orders in respect of licensed premises, or apply to any licensed premises during any time during which the premises are permitted to be open under any such exemption order :
+Provided that an order made under this subsection shall not in any way affect the powers conferred by section eleven of the Licensing (Ireland) Act, 1874, of granting exemption orders in respect of licensed premises, or apply to any licensed premises during any time during which the premises are permitted to be open under any such exemption order:
 
 (8) Shops in which there is carried on the business of the
 
@@ -14154,7 +14154,7 @@ Without prejudice to the foregoing provision —
 
 to 7 p.m., an interval of not less than half-an-bour shall be allowed between those hours for tea;
 
-and the interval for dinner ehall be increased to one hour in cases where that meal is not taken in the shop, or in a building of which the shop forms part or to which the shop is attached :
+and the interval for dinner ehall be increased to one hour in cases where that meal is not taken in the shop, or in a building of which the shop forms part or to which the shop is attached:
 
 Provided that an assistaut employed in the sale of refreshments or in the sale by retail of intoxicating liquors need not be allowed the interval for dinner between 11.30 a.m. and 2.30 p.m., if he is allowed the same interval so arranged as either to end not earlier than 11.30 a.m. or to commence not later than 2.30 p.m., and the same exemption shall apply to assistants employed in any shop on the market day in any town in which a market is held not oftener than once a week, or on a day on which an annual fair is held.
 
@@ -14268,7 +14268,7 @@ Contributions.
 
 to the remaining two-ninths (or, in the case of women, one quarter) thereof from moneys provided by Parliament.
 
-4. — (1) The contributions payable in respect of employed contributors shall be at the rate specified in Part I. of the Second Schedule to this Act (herein-after referred to as the employed rate), and shall comprise contributions by the contributors and contributions by their employers at the rates specified in that Part of that schedule, and shall be payable at weekly or other prescribed intervals :
+4. — (1) The contributions payable in respect of employed contributors shall be at the rate specified in Part I. of the Second Schedule to this Act (herein-after referred to as the employed rate), and shall comprise contributions by the contributors and contributions by their employers at the rates specified in that Part of that schedule, and shall be payable at weekly or other prescribed intervals:
 
 Provided that, in the case of an employed contributor of the age of twenty-one or upwards whose remuneration does not include the provision of board and lodging by the employer and the rate of whose remuneration does not exceed two shillings a working day, such part of the contributions payable in respect of him as is specified in the said schedule shall be paid out of moneys provided by Parliament.
 
@@ -14282,13 +14282,13 @@ Provided that, in the case of an employed contributor of the age of twenty-one o
 
 has become employed within the meaning of this Part of this Act after attaining the age of 6ixty-five; or
 
-(б) that he has obtained and still holds a certificate of
+(b) that he has obtained and still holds a certificate of
 
 exemption under this Part of this Act;
 
 shall be liable to pay the like contributions as would have been payable as employer’s contributions if such person had been an employed contributor, and such contributions shall be carried to such account and dealt with in such manner as may be prescribed by regulations made by the Insurance Commissioners, and those regulations may provide for applying the sums standing to the credit of the account, or any part thereof, for the benefit of any persons in respect of whom contributions have been so paid, in the event of such persons subsequently becoming employed contributors.
 
-5. — (1) The contributions payable by voluntary contributors shall be at the rate appropriate to their age at the date of their entry into insurance ascertained in accordance with a table to be prepared by the Insurance Commissioners (herein-after referred to as the voluntary rate) and shall be paid by the voluntary contributors at weekly or other prescribed intervals :
+5. — (1) The contributions payable by voluntary contributors shall be at the rate appropriate to their age at the date of their entry into insurance ascertained in accordance with a table to be prepared by the Insurance Commissioners (herein-after referred to as the voluntary rate) and shall be paid by the voluntary contributors at weekly or other prescribed intervals:
 
 Rates and rules for contributions by employed contributors and theij employers.
 
@@ -14366,7 +14366,7 @@ National Insurance, 1911. 1 Geo. 5.
 
 (3) In the case of insured persons who have attained the age of seventy, the right to sickness benefit and disablement benefit shall cease.
 
-(4) No insured person shall be entitled to any benefit during any period when he is resident either temporarily or permanently outside the United Kingdom :
+(4) No insured person shall be entitled to any benefit during any period when he is resident either temporarily or permanently outside the United Kingdom:
 
 Provided that, if a person is temporarily resident in the Isle of Man or the Channel Islands, he shall not, whilst so resident, be disentitled to benefits other than medical benefit, and that, if with the consent of the society or committee by which the benefit is administered a person is temporarily resident outside the United Kingdom elsewhere than in the Isle of Man or the Channel Islands, the society or committee may allow him, whilst so resident, to continue to receive sickness or disablement benefit, and that a person resident out of the United Kingdom shall not be disentitled to maternity benefit in respect of the confinement of his wife, if his wife at the time of her confinement is resident in the United Kingdom.
 
@@ -14388,7 +14388,7 @@ Medical benefit shall not include any right to medical treatment or attendance i
 
 commencement of this Act;
 
-(б) to sickness benefit, unless and until twenty-six weeks
+(b) to sickness benefit, unless and until twenty-six weeks
 
 have elapsed since his entry into insurance, and at least twenty-six weekly contributions have been paid by or in respect of him;
 
@@ -14434,7 +14434,7 @@ Ch. 55.
 
 National Insurance, 1911.
 
-continues to be suspended, be carried to such account and dealt with in such manner as may be prescribed for the benefit (except so far as such sums comprise sums in respect of a reserve value) of the society or any other society to which such person may subsequently be transferred :
+continues to be suspended, be carried to such account and dealt with in such manner as may be prescribed for the benefit (except so far as such sums comprise sums in respect of a reserve value) of the society or any other society to which such person may subsequently be transferred:
 
 Provided that, if at any time after suspension from any such benefits he becomes employed within the meaning of this Part of this Act, he shall be entitled to those benefits at such rate, after the lapse of such time and after the payment of such number of contributions, as would have been applicable to his case had he not previously been an insured person, but, if he so elects at any time, the benefits to which he is entitled shall be such as he would be entitled to, were the period from the time of his original entry into insurance taken as a whole.
 
@@ -14448,7 +14448,7 @@ Provided that, if at any time after suspension from any such benefits he becomes
 
 been, or but for this section or any other provision of this Act disentitling a person to such benefit, would have been, in receipt of sickness benefit or disablement benefit; or
 
-(б) in the case of a woman who, being an insured person,
+(b) in the case of a woman who, being an insured person,
 
 is herself entitled to maternity benefit, during two weeks before and four weeks after her delivery, or in the case of maternity benefit payable in respect of the posthumous child of an insured person, during the period subsequent to the father’s death; or
 
@@ -14484,7 +14484,7 @@ respect of the amount so paid until after the expiration of one month from the d
 
 to such person in respect of that injury or disease in any case where any weekly sum or the weekly value of any lump sum paid or payable by way of compensation or damages is equal to or greater than the benefit otherwise payable to such person, and, where any such weekly sum or the weekly value of any such lump sum is less than the benefit in question, such part only of the benefit shall be paid as, together with the weekly sum or the weekly value of the lump sum, will be equal to the benefit:
 
-(б) The weekly value of any such lump sum as aforesaid
+(b) The weekly value of any such lump sum as aforesaid
 
 may be determined by the society or committee by which the sickness and disablement benefits payable to such person are administered, but, if the insured person is aggrieved by such determination, the matter shall be settled in manner provided by this Part of this Act for settling disputes between insured persons and societies or committees:c) Where an agreement is made as to the amount of such compensation as aforesaid, and the amount so agreed is less than ten shillings a week, or as to the redemption of a weekly payment by a lump sum, under the Workmen’s Compensation Act, 1906, the employer shall, within three days thereafter, or such longer time as may be prescribed, send to the Insurance Commissioners, or to the society or committee concerned, notice in writing of such agreement giving the prescribed particulars thereof, and proviso (d) to paragraph (9) of the Second Schedule of the Workmen’s Compensation Act, 1906 (which relates to the powers of registrars of county courts to refuse to
 
@@ -14504,7 +14504,7 @@ record memoranda of agreements and to refer the matter to the judge) shall, in c
 
 of such person such proceedings, in which case any compensation or damages recovered shall be held by the society or committee as trustee for the insured person; or
 
-(б) to withhold payment of any benefit to which apart from
+(b) to withhold payment of any benefit to which apart from
 
 this section such person would be entitled.
 
@@ -14568,7 +14568,7 @@ Administration of Benefits.
 
 shillings or, in the case of repeated breaches of rules, twenty shillings;
 
-(б) no such rule shall provide for the suspension of any
+(b) no such rule shall provide for the suspension of any
 
 benefit for a period exceeding one year;
 
@@ -14614,7 +14614,7 @@ Provided that no such rule relating to anything to be done by, to, or through th
 
 practitioners who have agreed to attend and treat insured persons whose medical benefit is administered by the committee;
 
-(б) a right on the part of any duly qualified medical
+(b) a right on the part of any duly qualified medical
 
 practitioner who is desirous of being included in any such list as aforesaid of being so included, but, where the Insurance Commissioners, after such inquiry as may be prescribed, are satisfied that his continuance
 
@@ -14710,7 +14710,7 @@ person resident in the county or county borough, payable out of the funds out of
 
 (b) one penny in respect of each such person payable out
 
-of moneys provided by Parliament :
+of moneys provided by Parliament:
 
 Provided that the Insurance Commissioners may retain the whole or any part of the sums so payable out of moneys provided by Parliament to be applied, in accordance with regulations made by the Commissioners, for the purposes of research.
 
@@ -14734,7 +14734,7 @@ person to or from any sanatorium or institution to which he may be sent for trea
 
 (3) The Treasury and the council of the county or county borough sanctioning such expenditure as aforesaid shall thereupon each be liable to make good, in the case of the Treasury out of moneys provided by Parliament, and, in the case of the council of the county or county borough, out of the county fund or borough fund or borough rate, as the case may be, one-half of any sums so sanctioned by them and expended by the Insurance Committee on sanatorium benefit for insured persons and their dependants in the course-of the year in excess of the amount available for defraying the expenses of the committee on sanatorium benefit.
 
-18. — (1) Where the mother of the child is herself an Administra-insured person, and is not the wife or, in the case of a nity benefit^ posthumous child, the widow of an insured person, maternity benefit shall be treated as a benefit for her and shall be administered in cash or otherwise by the approved society of which she is a member, or, if she is not a member of any society, by the Insurance Committee; in any other case, the benefit shall be treated as a benefit for her husband and shall be administered in cash or otherwise by the approved society of which he is a member, or, if he is not a member of any such society, by the Insurance Committee, and shall be payable in respect of a posthumous child as if the husband were still alive :
+18. — (1) Where the mother of the child is herself an Administra-insured person, and is not the wife or, in the case of a nity benefit^ posthumous child, the widow of an insured person, maternity benefit shall be treated as a benefit for her and shall be administered in cash or otherwise by the approved society of which she is a member, or, if she is not a member of any society, by the Insurance Committee; in any other case, the benefit shall be treated as a benefit for her husband and shall be administered in cash or otherwise by the approved society of which he is a member, or, if he is not a member of any such society, by the Insurance Committee, and shall be payable in respect of a posthumous child as if the husband were still alive:
 
 Provided always that the mother shall decide whether she shall be attended by a duly qualified medical practitioner or by a duly certified midwife, and shall have free choice in the selection of such practitioner or midwife, but if, in the case of a midwife being selected, a duly qualified medical practitioner
 
@@ -14810,7 +14810,7 @@ the society comply with the requirements of this Part of this Act relating to ap
 
 (3) This section shall come into operation on the passing of this Act, and shall not continue in force beyond the expiration of one year from the commencement of this Act, except so far as may be necessary to enable a society which has undertaken the transaction of insurance business under this Part of this Act to continue to transact such business.
 
-25. — (1) Where a society consists of persons entitled to rights in a superannuation or other provident fund established for the benefit of persons employed by one or more employers, the society may be approved, notwithstanding that the employer is entitled to representation on the committee or other body administering the fund to an extent not exceeding one quarter of the total number of the body, if the employer, in addition to the employers contributions payable by him under this Part of this Act, is responsible for the solvency of the fund or for the benefits payable thereout, or is liable to pay a substantial part of, or to make substantial contributions to, or substantially to supplement, the benefits payable out of the fund :
+25. — (1) Where a society consists of persons entitled to rights in a superannuation or other provident fund established for the benefit of persons employed by one or more employers, the society may be approved, notwithstanding that the employer is entitled to representation on the committee or other body administering the fund to an extent not exceeding one quarter of the total number of the body, if the employer, in addition to the employers contributions payable by him under this Part of this Act, is responsible for the solvency of the fund or for the benefits payable thereout, or is liable to pay a substantial part of, or to make substantial contributions to, or substantially to supplement, the benefits payable out of the fund:
 
 Provided that no such society as aforesaid shall be approved unless by its constitution it is prohibited so far as concerns the benefits under this Part of this Act from refusing to allow a member to transfer to another approved society, and from refusing to allow a member who is discharged from or leaves the employment of the employer and is unable to obtain admission to another approved society on account of the state of his health to continue a member, and unless its constitution
 
@@ -14824,7 +14824,7 @@ Provided also that no such society shall he approved if the employer makes membe
 
 (3) Where such a scheme has been approved by the Insurance Commissioners, the Act or deed constituting the society shall have effect subject to the provisions of the scheme, but the Insurance Commissioners shall not approve any such scheme unless they are satisfied that the members of the society have been given an opportunity of voting by ballot thereon, and that the scheme makes proper provision for safeguarding existing rights and interests.
 
-26. — (1) Every approved society and every society desirous Security to of becoming an approved society shall give such security as the Insurance Commissioners may consider sufficient to provide societies, against any malversation or misappropriation by officers of the society of any funds coming to the hands of the society under this Part of this Act, and in determining the amount of the security to be required the Commissioners shall have regard to the amount of the funds so coming into the hands of the society :
+26. — (1) Every approved society and every society desirous Security to of becoming an approved society shall give such security as the Insurance Commissioners may consider sufficient to provide societies, against any malversation or misappropriation by officers of the society of any funds coming to the hands of the society under this Part of this Act, and in determining the amount of the security to be required the Commissioners shall have regard to the amount of the funds so coming into the hands of the society:
 
 Provided that no security shall be required from any society which proves to the Insurance Commissioners that the only funds coming into the hands of the society under this Part of this Act are such funds as are required for reimbursing to the society sums previously expended by the society under this Part of this Act.
 
@@ -14868,7 +14868,7 @@ ministering benefits under this Part of this Act any branch which is guilty of m
 
 (3) Where under any Act regulating the constitution of an approved society the rules of the society are required to be registered, any rules approved under this section by the Insurance Commissioners shall forthwith be registered, but until so registered shall have effect as if they had been duly registered.
 
-28. — (1) No branch of an approved society having insured persons among its members shall be entitled to secede or withdraw from the society without the consent of the Insurance Commissioners; but such consent shall not be given unless the seceding or withdrawing branch complies with the conditions of approval requisite in the case of approved societies, and, on any such consent being given, the branch shall be subject in all respects to the provisions and requirements of this Part of this Act relating to approved societies :
+28. — (1) No branch of an approved society having insured persons among its members shall be entitled to secede or withdraw from the society without the consent of the Insurance Commissioners; but such consent shall not be given unless the seceding or withdrawing branch complies with the conditions of approval requisite in the case of approved societies, and, on any such consent being given, the branch shall be subject in all respects to the provisions and requirements of this Part of this Act relating to approved societies:
 
 Provided that such consent shall not be required if the branch makes provision to the satisfaction of the Insurance Commissioners for the transfer to other approved societies or to other branches of the society from which it is seceding or withdrawing of such of its members as are insured persons.
 
@@ -14906,7 +14906,7 @@ such application shall be refused solely on the ground of the age of the applica
 
 31. — (1) If an insured person, being a member of an Transfer from approved society, ceases to be a member of that society, whether ^'ieat^p^ved voluntarily or by expulsion, and becomes a member of another another, approved society, there shall be transferred to such other society
 
-in respect of such person a sum representing the liability under this Part of this Act of the first-mentioned society in respect of him (in this Act called “ transfer value ”) calculated in accordance with tables to be prepared by the Insurance Commissioners :
+in respect of such person a sum representing the liability under this Part of this Act of the first-mentioned society in respect of him (in this Act called “ transfer value ”) calculated in accordance with tables to be prepared by the Insurance Commissioners:
 
 Provided that such transfer value shall not be so transferred in any case where the first-mentioned society proves that the insured person voluntarily ceased to be a member of that soc iety without the consent of the society, and that that consent was not unreasonably withheld.
 
@@ -14996,7 +14996,7 @@ Where a separate section of a society has been established and such separate sec
 
 fa) If the society is not a society with branches, the society may submit to the Insurance Commissioners a scheme for distributing out of such surplus any one or more additional benefits among insured persons who are members thereof for the purposes of this Part of this Act, and, upon any such scheme being sanctioned by the Insurance Commissioners, the society may distribute such additional benefit or benefits in accordance with the provisions thereof:
 
-(b) If the society is a society with branches, any surplus in the central fund of the society, including any surplus transferred from the branches to the society under the provisions of this section, shall, subject to the provisions of the next succeeding section of this Act, be applied in the first instance towards making good any deficiency shown by any of its branches; and the society may distribute the balance of the surplus, after making good deficiencies as aforesaid, amongst such of its branches as have a surplus in proportion to the amounts of such surpluses, and the sum so apportioned to a branch shall be treated as an addition to the disposable surplus of that branch :
+(b) If the society is a society with branches, any surplus in the central fund of the society, including any surplus transferred from the branches to the society under the provisions of this section, shall, subject to the provisions of the next succeeding section of this Act, be applied in the first instance towards making good any deficiency shown by any of its branches; and the society may distribute the balance of the surplus, after making good deficiencies as aforesaid, amongst such of its branches as have a surplus in proportion to the amounts of such surpluses, and the sum so apportioned to a branch shall be treated as an addition to the disposable surplus of that branch:
 
 te) If, on the valuation of a branch of an approved society, a surplus is shown in respect of such branch, there shall be transferred to the central body or other
 
@@ -15016,9 +15016,9 @@ central authority of the society of which it is a branch one-third of the surplu
 
 38. — (1) If upon any such valuation a deficiency is found, the following provisions shall apply: —
 
-(a) If the deficiency is shown by a branch of an approved society, three-quarters, or, if the society thinks fit, the whole thereof, shall, in the first place, so far as possible, be made good out of any surplus available for that purpose in the hands of the central body or other central authority of the society :
+(a) If the deficiency is shown by a branch of an approved society, three-quarters, or, if the society thinks fit, the whole thereof, shall, in the first place, so far as possible, be made good out of any surplus available for that purpose in the hands of the central body or other central authority of the society:
 
-Provided that the society may, if it is satisfied that the deficiency is due to any maladministration on the part of the branch in question, with the consent of the Insurance Commissioners, refuse to make good any part of the deficiency out of such surplus :
+Provided that the society may, if it is satisfied that the deficiency is due to any maladministration on the part of the branch in question, with the consent of the Insurance Commissioners, refuse to make good any part of the deficiency out of such surplus:
 
 (h) Subject as aforesaid, every deficiency shall be made good in accordance with a scheme for that purpose to be prepared by the society, or, in the case of a deficiency in a branch, by the branch subject to the approval of the society, and submitted to the Insurance Commissioners for their sanction; such a scheme shall provide for making good the deficiency, within a period of three years from the date at which the
 
@@ -15050,7 +15050,7 @@ in accordance with a scheme sanctioned under this section may be enforced in suc
 
 (d) If a member chargeable with a levy falls into arrears,
 
-his arrears shall reckon as though the total sum thereof, inclusive of the levy, consisted of the contributions payable by or in respect of him had no levy been made :
+his arrears shall reckon as though the total sum thereof, inclusive of the levy, consisted of the contributions payable by or in respect of him had no levy been made:
 
 (e) If within six months after the declaration of a deficiency,
 
@@ -15064,7 +15064,7 @@ Ch. 55.
 
 National Insurance, 1011.
 
-the scheme relates is not enforcing the provisions of the scheme, the Insurance Commissioners may take over the administration of the affairs of the society or branch under this Part of this Act, and shall, as soon as possible thereafter, take such steps as they may think necessary to make good the deficiency by any or all of the methods mentioned in paragraph ()of this section, and for that purpose they shall be entitled to exercise all or any of the powers given to the society or branch by this Part of this Act :
+the scheme relates is not enforcing the provisions of the scheme, the Insurance Commissioners may take over the administration of the affairs of the society or branch under this Part of this Act, and shall, as soon as possible thereafter, take such steps as they may think necessary to make good the deficiency by any or all of the methods mentioned in paragraph ()of this section, and for that purpose they shall be entitled to exercise all or any of the powers given to the society or branch by this Part of this Act:
 
 (/) The Insurance Commissioners after taking over the administration of the affairs of any society or branch shall within a reasonable time, not exceeding three years, make arrangements for the restoration to the society or branch of its powers of self-government or, failing that, for the transfer of the members of the society or branch, being insured persons, to other approved societies or branches or to the Post Office fund:
 
@@ -15112,7 +15112,7 @@ together according to the localities in which they carry on business.
 
 case of an association, and to the Insurance Committee for the county or county borough in the case of a group, shall be substituted for the reference to the central authority of the society;
 
-(б) The approval of the central financial committee or
+(b) The approval of the central financial committee or
 
 Insurance Committee shall not be required to any scheme prepared by an associated or grouped society for the distribution of any surplus.
 
@@ -15128,7 +15128,7 @@ National Insurance, 1911.
 
 by a branch as to the distribution of a surplus or the making good of a deficiency) shall not apply to the society, but each branch shall, for the purposes of this section, be deemed to be a separate society.
 
-(6) For the purposes of this section, a society shall be deemed to carry on business only in the county or county borough in which its registered office or other principal place of business is situate :
+(6) For the purposes of this section, a society shall be deemed to carry on business only in the county or county borough in which its registered office or other principal place of business is situate:
 
 Provided that, where of the insured persons who are members of a grouped society at the date of any valuation more than one hundred or more than one-sixth reside in some county or county borough other than that in which the registered office or other principal place of business is situate, the proper proportion of any surplus or deficiency of the society shall, if application for the purpose is made by any of the Insurance Committees concerned, be apportioned to the Insurance Committee of that other county or county borough, such proportion to be determined, in default of agreement between the Insurance Committees concerned, by the Insurance Commissioners.
 
@@ -15162,7 +15162,7 @@ Deposit Insurance.
 
 (a) Contributions by or in respect of a deposit contributor
 
-shall be credited to a special fund to be called the Post Office fund :
+shall be credited to a special fund to be called the Post Office fund:
 
 (b) The sums required for the payment of any sickness,
 
@@ -15186,11 +15186,11 @@ payable in respect of each deposit contributor towards the expenses incurred by 
 
 (a) if he becomes a deposit contributor, his transfer value
 
-shall be carried to his credit in the Post Office fund :
+shall be carried to his credit in the Post Office fund:
 
 Provided that, if a reserve value has been credited to the society in respect of him, such part of that reserve value as is still outstanding (or if the amount so outstanding exceeds the transfer value such part of the reserve value as is equal to the transfer value) shall be cancelled, and the amount, if any, by which the transfer value exceeds the amount so cancelled shall be carried to the credit of the deposit contributor;
 
-(б) if he does not become a deposit contributor, his transfer
+(b) if he does not become a deposit contributor, his transfer
 
 value shall be carried to such account and dealt with in such manner as may be prescribed.
 
@@ -15204,7 +15204,7 @@ National Insurance, 1911.
 
 1 & 2 Geo. 5.
 
-(2) If an insured person who is a deposit contributor subsequently becomes a member of an approved society for the purposes of this Part of this Act, there shall be transferred to the society the amount standing to his credit in the Post Office fund :
+(2) If an insured person who is a deposit contributor subsequently becomes a member of an approved society for the purposes of this Part of this Act, there shall be transferred to the society the amount standing to his credit in the Post Office fund:
 
 Provided that —
 
@@ -15242,7 +15242,7 @@ pence a week;
 
 Provided that, where a married woman elects not to become such a voluntary contributor, she shall be entitled to have a sum equal to the remaining two-thirds of her transfer value applied in accordance with regulations of the Insurance Commissioners towards the payment of any of the benefits specified in Part III. of the Fourth Schedule to this Act until the same is exhausted, except that, where a reserve value was credited to the society in respect of such woman at the date of her entrance into insurance, so much of such sum as aforesaid as may be prescribed shall not be so applied but shall be written oil the amount of the reserve values credited to the society.
 
-(3) Where the husband of a married woman who has been so suspended from ordinary benefits as aforesaid and who is a member of an approved society dies, she may, if she is qualified to become a voluntary contributor, and elects to do so within one month after the death of her husband, become an ordinary voluntary contributor paying contributions at the rate which would have been applicable to the case had she become such a contributor at the date of her entry into insurance :
+(3) Where the husband of a married woman who has been so suspended from ordinary benefits as aforesaid and who is a member of an approved society dies, she may, if she is qualified to become a voluntary contributor, and elects to do so within one month after the death of her husband, become an ordinary voluntary contributor paying contributions at the rate which would have been applicable to the case had she become such a contributor at the date of her entry into insurance:
 
 Provided that she may, whether or not so qualified, if she so elects within one month after the death of her husband, continue to be or become a voluntary contributor on the same terms and subject to the same conditions as above provided as respects married women.
 
@@ -15360,9 +15360,9 @@ both he and his wife are resident outside the United Kingdom at the date of the 
 
 (a) The sums so deducted and the contributions so made as
 
-aforesaid in respect of such men shall be paid into the National Health Insurance Fund, and out of such sums there shall be retained by the Insurance Commissioners towards discharging their liabilities in respect of the reserve values created under this Part of this Act the like amount as if such men were members of approved societies, and the balance shall be credited to a special fund to be called the Navy and Army Insurance Fund :
+aforesaid in respect of such men shall be paid into the National Health Insurance Fund, and out of such sums there shall be retained by the Insurance Commissioners towards discharging their liabilities in respect of the reserve values created under this Part of this Act the like amount as if such men were members of approved societies, and the balance shall be credited to a special fund to be called the Navy and Army Insurance Fund:
 
-(б) There shall also be paid into the Navy and Army
+(b) There shall also be paid into the Navy and Army
 
 Insurance Fund in each year out of moneys provided by Parliament a sum equal to two-ninths of the amount, calculated in the prescribed manner, which would have been payable in that year in respect of medical, sanatorium, sickness, and disablement benefits (including expenses of administration) had all seamen, marines, and soldiers from whose pay deductions are made under this section been members of approved societies and entitled to such benefits as employed contributors:
 
@@ -15376,15 +15376,15 @@ National Insurance Act, 1911. 1 & 2 Geo. 5.
 
 (d) If any such man was at the date of his entry or
 
-enlistment a deposit contributor, he shall, for the purpose of dealings with the sum standing to his credit in the Post Office fund, be treated as if the Navy and Army Insurance Fund had been an approved society, and he had at the date of his entry or enlistment become a member of that society :
+enlistment a deposit contributor, he shall, for the purpose of dealings with the sum standing to his credit in the Post Office fund, be treated as if the Navy and Army Insurance Fund had been an approved society, and he had at the date of his entry or enlistment become a member of that society:
 
 (e) In the case of a seaman, marine, or soldier serving at
 
 the commencement of this Act, there shall be credited to the Navy and Army Insurance Fund such reserve value as would have been credited to an approved society had he at that date become a member of the society as an employed contributor: Provided that no such reserve value shall be credited to that fund
 
-from his pay, or unless, not having so elected, he becomes on discharge entitled to benefits payable out of that fund as herein-after mentioned :
+from his pay, or unless, not having so elected, he becomes on discharge entitled to benefits payable out of that fund as herein-after mentioned:
 
-(f) Every such man shall, until discharged, be entitled to maternity benefit payable out of the Navy and Army Insurance Fund, and shall be entitled to such benefit, notwithstanding that both he and his wife are at the date of the confinement resident outside the United Kingdom, and the benefit shall be administered by the Admiralty and Army Council either directly or through Insurance Committees :
+(f) Every such man shall, until discharged, be entitled to maternity benefit payable out of the Navy and Army Insurance Fund, and shall be entitled to such benefit, notwithstanding that both he and his wife are at the date of the confinement resident outside the United Kingdom, and the benefit shall be administered by the Admiralty and Army Council either directly or through Insurance Committees:
 
 \g) On the discharge of a seaman, marine, or soldier, from whose pay deductions have been made and continue to be made up to the date of his discharge, there shall be debited to the Navy and Army Insurance Fund, and, if he becomes a member of an approved society within the prescribed time from his discharge, there shall be credited to that society, or, if he does not become a member of such a society within the prescribed time from his discharge, there shall, unless he becomes entitled to benefits out of the Navy and Army Insurance Fund as herein-after mentioned, be carried to his credit in the Post Office fund the transfer value which would have been payable in respect of him had he been a member of an approved society throughout his period of service, or, in the case of a man serving at the date of the commencement of this Act, since that date, and, if he becomes a deposit contributor, so much of the reserve value, if any, credited to the Navy and Army Insurance Fund in respect of him shall be cancelled as would have been cancelled had he been transferred from an approved society to the Post Office fund:
 
@@ -15446,13 +15446,13 @@ apply to a man who was not immediately before the training an insured person, ex
 
 (2) It shall be lawful for any employer who employs persons in any class of employment specified in any such order, within a locality (if the custom is confined to certain localities) so specified, to give to the Insurance Commissioners the prescribed notice, and thereupon the employer shall, as respects all such persons, be subject to the liabilities, and this Part of this Act shall apply in respect of all such persons, subject to the modifications, herein-after mentioned.
 
-(3) The employer shall be liable to pay full remuneration to every such person during any period or periods not exceeding six weeks in the aggregate in any one year during which such person may be suffering from any disease or disablement commencing while such person is in his employment, notwithstanding that such person may have left his employment before the expiration of that time :
+(3) The employer shall be liable to pay full remuneration to every such person during any period or periods not exceeding six weeks in the aggregate in any one year during which such person may be suffering from any disease or disablement commencing while such person is in his employment, notwithstanding that such person may have left his employment before the expiration of that time:
 
 Provided that, if any such person is engaged for a term of not less than six months certain, the employer shall be liable to pay full remuneration during any period of disease or disablement lasting less than six weeks, and for the first six weeks of any period of disease or disablement lasting more than six weeks, notwithstanding that the aggregate exceeds six weeks, but, where any such period extends beyond the term of the engagement, the employer shall not be liable to make any payment in respect of any part thereof after the expiration of such term.
 
 (4) This Part of this Act shall apply in respect of persons so employed as aforesaid, subject to the following modifications:—
 
-(a) Sickness benefit shall not be payable in respect of any period during which full remuneration is payable by the employer under this section, but, for the purpose of calculating the rate and duration thereof, shall be deemed to have been paid for six weeks before the date as from which it becomes actually payable :
+(a) Sickness benefit shall not be payable in respect of any period during which full remuneration is payable by the employer under this section, but, for the purpose of calculating the rate and duration thereof, shall be deemed to have been paid for six weeks before the date as from which it becomes actually payable:
 
 Cc
 
@@ -15466,7 +15466,7 @@ National Insurance, 1911. 1 & 2 Geo. 5.
 
 (c) The weekly contributions payable by the employer shall
 
-be reduced by one penny (or, where the employed contributor is a woman, one halfpenny), and the weekly contributions payable by the employed contributor shall be reduced by one penny :
+be reduced by one penny (or, where the employed contributor is a woman, one halfpenny), and the weekly contributions payable by the employed contributor shall be reduced by one penny:
 
 (d) There shall be credited to the approved society of which
 
@@ -15474,7 +15474,7 @@ any such person is a member, or, if he is a deposit contributor, to his account 
 
 (e) Contributions shall not be payable in respect of any
 
-period of disease or disablement during which full remuneration is payable under this section if the prescribed notice has been given :
+period of disease or disablement during which full remuneration is payable under this section if the prescribed notice has been given:
 
 (j)The rules of an approved society or Insurance Committee
 
@@ -15492,7 +15492,7 @@ Ch. 55.
 
 National Insurance, 1911.
 
-duration thereof, shall be deemed to have been paid during those six weeks, and, notwithstanding anything in this Part of this Act, a disease or disablement shall not, for the purposes of sickness benefit, be treated as a continuation of a previous disease or disablement unless the medical practitioner attending such person certifies that it in fact is so :
+duration thereof, shall be deemed to have been paid during those six weeks, and, notwithstanding anything in this Part of this Act, a disease or disablement shall not, for the purposes of sickness benefit, be treated as a continuation of a previous disease or disablement unless the medical practitioner attending such person certifies that it in fact is so:
 
 Provided that, if any such person at any time wishes to become an ordinary voluntary contributor, he may become such after the payment of twenty-six weekly contributions at the full rate, or, if the society of which he is a member consents, after the payment of such less number of such contributions as the society may appoint.
 
@@ -15526,17 +15526,17 @@ National Insurance, 1911. 1 & 2 Geo. 5.
 
 (1) Neither sickness benefit nor disablement benefit shall
 
-be paid to a master, seaman, or apprentice suffering from any disease or disablement in respect of any period during which the owner of the ship is under the Merchant Shipping Act, 1894, as amended by any subsequent enactment, or otherwise, liable to defray the expense of the necessary surgical and medical advice and attendance and medicine, and of his maintenance, but, for the purpose of calculating the rate and duration of sickness benefit, such benefit shall be deemed to have been paid from the commencement of the disease or disablement until the determination of such liability as aforesaid, and he shall not be entitled to medical benefit during such period :
+be paid to a master, seaman, or apprentice suffering from any disease or disablement in respect of any period during which the owner of the ship is under the Merchant Shipping Act, 1894, as amended by any subsequent enactment, or otherwise, liable to defray the expense of the necessary surgical and medical advice and attendance and medicine, and of his maintenance, but, for the purpose of calculating the rate and duration of sickness benefit, such benefit shall be deemed to have been paid from the commencement of the disease or disablement until the determination of such liability as aforesaid, and he shall not be entitled to medical benefit during such period:
 
 (2) In the case of masters, seamen, and apprentices serving
 
-on foreign-going ships or ships engaged in regular trade on foreign stations, the employed rate and the employer’s contributions shall each be reduced by one penny a week, and every four weekly contributions paid in any calendar year by a master, seaman, or apprentice whilst serving on such a ship shall, for the purposes of determining the number of contributions to be paid by him in that year and for the purposes of calculating arrears, be treated as five such contributions :
+on foreign-going ships or ships engaged in regular trade on foreign stations, the employed rate and the employer’s contributions shall each be reduced by one penny a week, and every four weekly contributions paid in any calendar year by a master, seaman, or apprentice whilst serving on such a ship shall, for the purposes of determining the number of contributions to be paid by him in that year and for the purposes of calculating arrears, be treated as five such contributions:
 
 Provided that —
 
 (a) nothing in this provision shall affect the number of employer’s contributions to be paid in respect of such a master, seaman, or apprentice, but no employer’s contributions paid in respect of any week in respect of which no contribution is payable by the master, seaman, or apprentice shall be taken into account in reckoning the amount of his arrears;
 
-(б) there shall be credited to the approved society of which the master, seaman, or apprentice is a member, or, if he is a deposit contributor, to his account in the Post Office fund, a sum equal to two-fifths of the amount of the contributions actually paid in respect of him, and an equal sum shall be treated as having been expended on sickness benefit, and the proper proportion thereof shall accordingly be paid out of moneys provided by Parliament:
+(b) there shall be credited to the approved society of which the master, seaman, or apprentice is a member, or, if he is a deposit contributor, to his account in the Post Office fund, a sum equal to two-fifths of the amount of the contributions actually paid in respect of him, and an equal sum shall be treated as having been expended on sickness benefit, and the proper proportion thereof shall accordingly be paid out of moneys provided by Parliament:
 
 (3) A master, seaman, or apprentice who is neither domiciled
 
@@ -15550,11 +15550,11 @@ meaning of this Part of this Act, but the employer shall be liable to pay the sa
 
 (4) The Board of Trade shall, as soon as may be after the
 
-passing of this Act, cause a society to be formed, to be called the Seamen’s National Insurance Society, of which any masters, seamen, and apprentices to the sea service and the sea fishing service who are employed within the meaning of this Part of this Act shall be entitled to become members, but nothing in this section shall prevent any such person joining another approved society instead of the society so formed :
+passing of this Act, cause a society to be formed, to be called the Seamen’s National Insurance Society, of which any masters, seamen, and apprentices to the sea service and the sea fishing service who are employed within the meaning of this Part of this Act shall be entitled to become members, but nothing in this section shall prevent any such person joining another approved society instead of the society so formed:
 
 (5) The affairs of the Seamen’s National Insurance Society
 
-shall be managed by a committee constituted in accordance with a scheme to be prepared by the Board of Trtide with the approval of the Insurance Commissioners, comprising representatives of the Board of Trade, of shipowners, and of members of the society in equal proportions, and the society shall, notwithstanding anything in this Part of this Act, become an approved society :
+shall be managed by a committee constituted in accordance with a scheme to be prepared by the Board of Trtide with the approval of the Insurance Commissioners, comprising representatives of the Board of Trade, of shipowners, and of members of the society in equal proportions, and the society shall, notwithstanding anything in this Part of this Act, become an approved society:
 
 (6) All contributions paid by employers in respect of
 
@@ -15574,7 +15574,7 @@ National Insurance Act, 1911. 1 & 2 Geo. 5.
 
 last foregoing subsection applicable towards the payment of pensions or superannuation allowances granted by other approved societies to members with such sea service that, had they been members of the Seamen’s National Insurance Society, they would have been entitled to pensions under the scheme; and
 
-(b) in the case of the transfer of a member of the society to another approved society, the transfer value payable in respect of him shall be calculated with reference to the liabilities of the society for benefits other than such pensions as aforesaid :
+(b) in the case of the transfer of a member of the society to another approved society, the transfer value payable in respect of him shall be calculated with reference to the liabilities of the society for benefits other than such pensions as aforesaid:
 
 (8) The rules of the Seamen’s National Insurance Society
 
@@ -15582,7 +15582,7 @@ shall provide for allowing a member who leaves the sea service and is unable to 
 
 (9) Where a master, seaman, or apprentice is at the com-
 
-mencement of this Act a member of a society which becomes an approved society he may, if that society and the Seamen’s National Insurance Society so agree, continue to be a member of the first-mentioned society for the purposes of benefits under this Part of this Act other than pension, and become a member of the last-mentioned society for the purposes of pension only, and in such case the balance of the contributions payable in respect of him (after deducting the sums to be retained by the Insurance Commissioners towards discharging their liabilities in respect of reserve values) shall be divided between the two societies in such proportion as they may agree :
+mencement of this Act a member of a society which becomes an approved society he may, if that society and the Seamen’s National Insurance Society so agree, continue to be a member of the first-mentioned society for the purposes of benefits under this Part of this Act other than pension, and become a member of the last-mentioned society for the purposes of pension only, and in such case the balance of the contributions payable in respect of him (after deducting the sums to be retained by the Insurance Commissioners towards discharging their liabilities in respect of reserve values) shall be divided between the two societies in such proportion as they may agree:
 
 (10) Expressions in this section have the same meaning as
 
@@ -15594,11 +15594,11 @@ in the Merchant Shipping Acts, 1894 to 1907, but the expressions “ foreign-goi
 
 National Insurance, 1911. Ch. 55.
 
-that she puts into a port in the United Kingdom for the purpose of survey or repair :
+that she puts into a port in the United Kingdom for the purpose of survey or repair:
 
 (11) The provisions of this Part of this Act affecting the
 
-employed rate and the rates of contributions of employers and contributors in Ireland, and depriving insured persons in Ireland of medical benefit, shall not apply to any such master, seaman, or apprentice, unless he has a permanent place of residence in Ireland and is not a member of the Seamen’s National Insurance Society; and, in the case of a master, seaman, or apprentice serving on a foreign-going ship or a ship engaged in foreign trade to whom such provisions do apply the amount by which the employed rate and the employer’s contributions are to be reduced shall be one halfpenny a week :
+employed rate and the rates of contributions of employers and contributors in Ireland, and depriving insured persons in Ireland of medical benefit, shall not apply to any such master, seaman, or apprentice, unless he has a permanent place of residence in Ireland and is not a member of the Seamen’s National Insurance Society; and, in the case of a master, seaman, or apprentice serving on a foreign-going ship or a ship engaged in foreign trade to whom such provisions do apply the amount by which the employed rate and the employer’s contributions are to be reduced shall be one halfpenny a week:
 
 (12) Members of the Seamen’s National Insurance Society
 
@@ -15734,7 +15734,7 @@ sum to the credit of an approved society in the investment account, to pay over 
 
 prescribed rate per annum on the sums for the time being standing to the credit of the society in the investment account;
 
-id) provide for the discharge of debit balances in such manner as the Insurance Commissioners determine, either by the reduction of the reserve values credited to the society or out of the proceeds of the realisation of securities held by the society or by the Commissioners on behalf of the society, and out of the sums standing to the credit of the society in the investment account, proportionately :
+id) provide for the discharge of debit balances in such manner as the Insurance Commissioners determine, either by the reduction of the reserve values credited to the society or out of the proceeds of the realisation of securities held by the society or by the Commissioners on behalf of the society, and out of the sums standing to the credit of the society in the investment account, proportionately:
 
 Provided that, in the case of any society which gives notice to that effect to the Insurance Commissioners, no part of the sums carried to the credit of the society in the investment account shall be paid over to the society or retained by the Commissioners for investment on its behalf, but the whole amount shall remain to the credit of the society in the investment account, and in such case the regulations made under the foregoing provisions shall apply to the society subject to the prescribed modifications.
 
@@ -15768,7 +15768,7 @@ Appointment of Instrance Committees.
 
 Ch. 55. National Insurance, 1911. I & 2 Geo. 5.
 
-Friendly Societies Act, 1896, to an inspector appointed thereunder :
+Friendly Societies Act, 1896, to an inspector appointed thereunder:
 
 Provided that any complaint or report as to any such branch as aforesaid made by an inspector under this subsection shall be communicated to the central body or other central authority of the society.
 
@@ -15818,7 +15818,7 @@ for conferring on the approved societies which have members resident in the coun
 
 (3) The Insurance Commissioners may, where any part of the cost of medical benefit or sanatorium benefit is defrayed by the council of the county or county borough, increase the representation of the council and make a corresponding diminution in the representation of the insured persons.
 
-(4) The Insurance Commissioners may make regulations as to the appointment, quorum, term of office, and rotation of members and proceedings generally (including the appointment of sub-committees consisting wholly or partly of members of the committee) of the committee, and the employment of officers and the provision of offices by the committee, including the use by the committee, with or without payment, of any offices of a local authority, but subject to the consent of such authority, and any such regulations may provide for the constitution of district insurance committees, and for apportioning amongst the several district insurance committees any of the powers and duties of the Insurance Committee and regulating the relations of district insurance committees to the Insurance Committee and to one another :
+(4) The Insurance Commissioners may make regulations as to the appointment, quorum, term of office, and rotation of members and proceedings generally (including the appointment of sub-committees consisting wholly or partly of members of the committee) of the committee, and the employment of officers and the provision of offices by the committee, including the use by the committee, with or without payment, of any offices of a local authority, but subject to the consent of such authority, and any such regulations may provide for the constitution of district insurance committees, and for apportioning amongst the several district insurance committees any of the powers and duties of the Insurance Committee and regulating the relations of district insurance committees to the Insurance Committee and to one another:
 
 Provided that the regulations so made shall require the Insurance Committee of every county (except in cases where, owing to special circumstances, the Commissioners consider it unnecessary) within six months after the commencement of this Act to prepare after consultation with the county council and submit for approval to the Commissioners a scheme for the appointment of district insurance committees for the county and prescribing the area to be assigned to each such committee, and in particular the scheme shall provide for the appointment of a district insurance committee for each borough (including the City of London and a metropolitan borough) within the county having a population of not less than ten thousand, and for each urban district within the county with a population of not less than twenty thousand, but, if the Insurance Committee or, on appeal, the Insurance Commissioners consider it expedient in the case of any such borough (outside London) or urban district, any adjoining areas may be grouped with such borough
 
@@ -15838,7 +15838,7 @@ or urban district for the purpose of the appointment of a district insurance com
 
 60. — (1) The Insurance Committee of a county or county borough shall, in addition to the other powers and duties conferred and imposed on it by this Part of this Act, have the following powers and duties: — °
 
-(a) It shall make such reports as to the health of insured persons within the county or county borough as the Insurance Commissioners, after consultation with the Local Government Board, may prescribe, and shall furnish to them such statistical and other returns as they may require, and may make to them such other reports on the health of such persons and the conditions affecting the same, and may make such suggestions with regard thereto as it may think fit, and the Insurance Commissioners shall forward to the councils of the counties, boroughs, and urban and rural districts, which appear to them to be affected by or interested in any such reports, returns, or suggestions, copies of such reports, returns, and suggestions, and the reports and returns so made shall include such reports and returns as will enable an analysis and classification to be made of the persons who are deposit contributors :
+(a) It shall make such reports as to the health of insured persons within the county or county borough as the Insurance Commissioners, after consultation with the Local Government Board, may prescribe, and shall furnish to them such statistical and other returns as they may require, and may make to them such other reports on the health of such persons and the conditions affecting the same, and may make such suggestions with regard thereto as it may think fit, and the Insurance Commissioners shall forward to the councils of the counties, boroughs, and urban and rural districts, which appear to them to be affected by or interested in any such reports, returns, or suggestions, copies of such reports, returns, and suggestions, and the reports and returns so made shall include such reports and returns as will enable an analysis and classification to be made of the persons who are deposit contributors:
 
 (6) It shall make such provision for the giving of lectures
 
@@ -15912,7 +15912,7 @@ Ch. 55.
 
 National Insurance Act, 1911.
 
-or by the owner, lessee, or occupier of the premises who is proved to the satisfaction of the person holding the inquiry to be responsible :
+or by the owner, lessee, or occupier of the premises who is proved to the satisfaction of the person holding the inquiry to be responsible:
 
 (c) Where the excess or such part thereof as aforesaid is due to an insufficient or contaminated water supply, it shall be made good by the local authority, company, or person by whom the water is supplied, or who having imposed upon them the duty of affording a water supply have refused or neglected to do so, unless the local authority, company, or person prove that such insufficiency or contamination was not due to any default on the part of the authority, company, or person, but arose from circumstances over which they had no control.
 
@@ -15946,7 +15946,7 @@ National Insurance, 1911.
 
 Supplementary Provisions.
 
-64. — (1) If under any other Act of the present session any sum is made available for the purposes of the provision of or making grants in aid to sanatoria and other institutions for the treatment of tuberculosis or such other diseases as the Local Government Board with the approval of the Treasury may appoint, such sum shall be distributed by the Local Government Board with the consent of the Treasury in making grants, for those purposes, and the Treasury before giving their consent shall consult with the Insurance Commissioners :
+64. — (1) If under any other Act of the present session any sum is made available for the purposes of the provision of or making grants in aid to sanatoria and other institutions for the treatment of tuberculosis or such other diseases as the Local Government Board with the approval of the Treasury may appoint, such sum shall be distributed by the Local Government Board with the consent of the Treasury in making grants, for those purposes, and the Treasury before giving their consent shall consult with the Insurance Commissioners:
 
 Provided that such sum shall be apportioned between England, Wales, Scotland, and Ireland in proportion to their respective populations ascertained in accordance with the returns of the census taken in the year nineteen hundred and eleven.
 
@@ -16014,7 +16014,7 @@ instead of themselves deciding whether any class of employment is or will be emp
 
 person who is a member of such society or branch or any person claiming through him;
 
-(б) An approved society or branch thereof, and any person
+(b) An approved society or branch thereof, and any person
 
 who has ceased to be a member for thtf purposes of this Part of this Act of such society or branch, or any person claiming through him;
 
@@ -16038,7 +16038,7 @@ Ch. 55.
 
 this section, and any decision given by the Insurance Commissioners or a referee under this section shall be final and conclusive.
 
-68. — (1) Where the medical practitioner attending on any Protection insured person in receipt of sickness benefit certifies that the a^execa^m* levying of any distress or execution upon any goods or chattels in certain belonging to such insured person and being on premises occupied by him, or the taking of any proceedings in ejectment or for the recovery of any rent or to enforce any judgment in ejectment against such person, would endanger his life, and such certificate has been sent to the Insurance Committee and has been recorded in manner herein-after provided, it shall not be lawful during any period named in the certificate for any person to levy any such distress or execution or to take any such proceedings or to enforce any such judgment against the insured person :
+68. — (1) Where the medical practitioner attending on any Protection insured person in receipt of sickness benefit certifies that the a^execa^m* levying of any distress or execution upon any goods or chattels in certain belonging to such insured person and being on premises occupied by him, or the taking of any proceedings in ejectment or for the recovery of any rent or to enforce any judgment in ejectment against such person, would endanger his life, and such certificate has been sent to the Insurance Committee and has been recorded in manner herein-after provided, it shall not be lawful during any period named in the certificate for any person to levy any such distress or execution or to take any such proceedings or to enforce any such judgment against the insured person:
 
 Provided that, if any person desirous of levying such distress or execution or taking such proceedings or enforcing such judgment disputes the accuracy of the certificate, he may apply to the registrar of the county court, who, if he is of opinion that the certificate should be cancelled or modified, may make an order cancelling or modifying it, and no appeal shall lie against any such order of a refusal to make any such order.
 
@@ -16050,7 +16050,7 @@ Ch. 55.
 
 National Insurance Act, 1911. 1 & 2 Geo. 5.
 
-original certificate, but no such renewal shall have effect unless sent to the Insurance Committee and recorded as aforesaid :
+original certificate, but no such renewal shall have effect unless sent to the Insurance Committee and recorded as aforesaid:
 
 Provided that the protection conferred by this section shall not extend beyond the expiration of one month from such date if, on demand being made by the person desirous of levying such distress or execution, or taking such proceedings, or enforcing such judgment, proper security is not given for payment of rent thereafter to become due from the insured person or the amount of the judgment debt, as the case may be, and any dispute as to the sufficiency of the security shall be determined by the registrar of the county court whose decision shall be final and not subject to appeal.
 
@@ -16220,7 +16220,7 @@ of this Act in respect of insured persons resident in Scotland, and all sums pai
 
 (3) The expression “ Local Government Board ” means the
 
-Local Government Board for Scotland (in this section referred to as the Board): Provided that, as regards the making of regulations respecting sums payable out of the Local Taxation (Scotland) Account, the said expression means the Secretary for Scotland; the expression “ Local Taxation Account ” means the Local Taxation (Scotland) Account; and the expression “ inspector of the Local Government Board ” includes a person acting under section seven or section eight of the Public Health (Scotland) Act, 1897 :
+Local Government Board for Scotland (in this section referred to as the Board): Provided that, as regards the making of regulations respecting sums payable out of the Local Taxation (Scotland) Account, the said expression means the Secretary for Scotland; the expression “ Local Taxation Account ” means the Local Taxation (Scotland) Account; and the expression “ inspector of the Local Government Board ” includes a person acting under section seven or section eight of the Public Health (Scotland) Act, 1897:
 
 (4) The expression “ county borough ” means a burgh or
 
@@ -16230,7 +16230,7 @@ police burgh within the meaning of the Local Government (Scotland) Act, 1889 (in
 
 9
 
-the. purposes of this Part of this Act, be represented thereon as may be determined by the Secretary for Scotland: Provided that references to the council of a county borough shall, in the case of Dumfries and Maxwell town, be construed as references to a joint committee of the town councils thereof which shall from time to time be appointed subject to the provisions of section seventy-six of the Act of 1889 :
+the. purposes of this Part of this Act, be represented thereon as may be determined by the Secretary for Scotland: Provided that references to the council of a county borough shall, in the case of Dumfries and Maxwell town, be construed as references to a joint committee of the town councils thereof which shall from time to time be appointed subject to the provisions of section seventy-six of the Act of 1889:
 
 (5) References to a county and the county council thereof
 
@@ -16248,7 +16248,7 @@ any area containing a population of less than forty thousand shall be twenty-fiv
 
 (7) No person, except a medical practitioner qualified as such,
 
-shall be qualified for appointment as member of an Insurance Committee by a county or town council unless he is a member of a local authority within the county under the Public Health (Scotland) Act, 1897, or of the town council, as the case may be; but this requirement shall not apply to women if women so qualified are not available :
+shall be qualified for appointment as member of an Insurance Committee by a county or town council unless he is a member of a local authority within the county under the Public Health (Scotland) Act, 1897, or of the town council, as the case may be; but this requirement shall not apply to women if women so qualified are not available:
 
 (8) Before submitting for approval a scheme prescribing
 
@@ -16264,7 +16264,7 @@ Ch. 55.
 
 National Insurance Act, 1911. 1 & 2 Geo. 5.
 
-other benefits or the grant of one or more additional benefits to an amount equivalent to the value of the modification or suspension :
+other benefits or the grant of one or more additional benefits to an amount equivalent to the value of the modification or suspension:
 
 (10) — (a) If it appears to any county council that, having
 
@@ -16304,11 +16304,11 @@ further action following on such inquiry which, in accordance with the provision
 
 (12) Expenses incurred by a county council under this Part
 
-of this Act shall be defrayed out of the general purposes rate; provided that, notwithstanding anything contained in the Act of 1889, the ratepayers of a police burgh shall not be assessed by the county council for any such expenses unless the police burgh is, for the purposes of this Part, of this Act, held to be within the county; and provided further that, with respect to every burgh within the meaning of the Act of 1889, which is, for the purposes of this Act, held to be within the county, subsection (3) and subsection (4) of section sixty, and section sixty-six, of the Act of 1889, shall, so far as applicable, have effect as if such expenses were expenditure therein mentioned :
+of this Act shall be defrayed out of the general purposes rate; provided that, notwithstanding anything contained in the Act of 1889, the ratepayers of a police burgh shall not be assessed by the county council for any such expenses unless the police burgh is, for the purposes of this Part, of this Act, held to be within the county; and provided further that, with respect to every burgh within the meaning of the Act of 1889, which is, for the purposes of this Act, held to be within the county, subsection (3) and subsection (4) of section sixty, and section sixty-six, of the Act of 1889, shall, so far as applicable, have effect as if such expenses were expenditure therein mentioned:
 
 (13) Expenses incurred by a town council under this Partr
 
-of this Act (whether under requisition from the county council or otherwise) shall be defrayed out of the public health general assessment, but shall not be reckoned in any calculation as to the statutory limit of that assessment; and references to the borough fund or borough rate shall be construed accordingly :
+of this Act (whether under requisition from the county council or otherwise) shall be defrayed out of the public health general assessment, but shall not be reckoned in any calculation as to the statutory limit of that assessment; and references to the borough fund or borough rate shall be construed accordingly:
 
 (14) The expression “ borough ” and the expression “ urban
 
@@ -16316,7 +16316,7 @@ district ” mean a burgh or police burgh within the meaning of the Act of 1889,
 
 (15) The expression “ Lord Chief Justice ” means the Lord
 
-President of the Court of Session :
+President of the Court of Session:
 
 (16) The expression “county court” means the sheriff
 
@@ -16326,7 +16326,7 @@ Ee
 
 414 Ch. 55. National Insurance Act, 1911. 1 & 2 Geo. 5.
 
-(17) The expression “ workhouse ” means poorhouse; “ coverture ” means marriage; “levy any distress or execution ” means use any diligence; “ ejectment ’’ means removing; “ amount of judgment debt ” means amount decerned for; “ registrar of the county court ” means court exercising jurisdiction in the proceedings; “ certified midwife ” means any midwife possessing such qualifications as may be prescribed; “ public elementary school ” means public school; “ Public Health Acts ” means the Public Health (Scotland) Acts, 1897 and 1907; “ Local Loans Act, 1875” means the Local Authorities Loans (Scotland) Acts, 1891 and 1893; and “ High Court ” means Court of Seseion :
+(17) The expression “ workhouse ” means poorhouse; “ coverture ” means marriage; “levy any distress or execution ” means use any diligence; “ ejectment ’’ means removing; “ amount of judgment debt ” means amount decerned for; “ registrar of the county court ” means court exercising jurisdiction in the proceedings; “ certified midwife ” means any midwife possessing such qualifications as may be prescribed; “ public elementary school ” means public school; “ Public Health Acts ” means the Public Health (Scotland) Acts, 1897 and 1907; “ Local Loans Act, 1875” means the Local Authorities Loans (Scotland) Acts, 1891 and 1893; and “ High Court ” means Court of Seseion:
 
 (18) Unless inconsistent with the context, references to the Elementary School Teachers’ Superannuation Act, 1898, to the deferred annuity fund under that Act, and to the Board of Education, shall be construed, respectively, as references to section fourteen of the Education (Scotland) Act, 1908, and a scheme thereunder, to the Scottish Teachers’ Superannuation Fund, and to the Scotch Education Department.
 
@@ -16350,11 +16350,11 @@ Ch. 55.
 
 National Insurance, 1911.
 
-officers, inspectors, referees, and servants appointed by them shall repectively have all the like powers and duties as are by the provisions of this Act conferred and imposed on the Insurance Commissioners and the officers, inspectors, referees, and servants appointed by them, and references in those provisions to the Insurance Commissioners shall be construed as references to the Irish Insurance Commissioners :
+officers, inspectors, referees, and servants appointed by them shall repectively have all the like powers and duties as are by the provisions of this Act conferred and imposed on the Insurance Commissioners and the officers, inspectors, referees, and servants appointed by them, and references in those provisions to the Insurance Commissioners shall be construed as references to the Irish Insurance Commissioners:
 
 (2) All sums received from contributions under this Part of
 
-this Act in respect of insured persons resident in Ireland and all sums paid out of moneys provided by Parliament in respect of benefits under this Part of this Act to such persons and the expenses of administration of such benefits shall be paid into a fund to be called the Irish National Health Insurance Fund, under the control and management of the Irish Insurance Commissioners, and the sums required to meet expenditure properly incurred by approved societies and Insurance Committees for the purposes of such benefits and the administration of such benefits shall be paid out of that fund and the foregoing provisions of this Act with respect to the National Health Insurance Fund shall, with the necessary modifications, apply to the Irish National Health Insurance Fund accordingly :
+this Act in respect of insured persons resident in Ireland and all sums paid out of moneys provided by Parliament in respect of benefits under this Part of this Act to such persons and the expenses of administration of such benefits shall be paid into a fund to be called the Irish National Health Insurance Fund, under the control and management of the Irish Insurance Commissioners, and the sums required to meet expenditure properly incurred by approved societies and Insurance Committees for the purposes of such benefits and the administration of such benefits shall be paid out of that fund and the foregoing provisions of this Act with respect to the National Health Insurance Fund shall, with the necessary modifications, apply to the Irish National Health Insurance Fund accordingly:
 
 (3) The provisions of this Part of this Act conferring a
 
@@ -16392,7 +16392,7 @@ The reference to the Local Government Board, as regards the making of regulation
 
 (6) A reference to the Housing of the Working Classes
 
-(Ireland) Acts, 1890 to 1908, shall be substituted for the reference to the Housing of the Working Classes Acts, 1890 to 1909, a reference to the Public Health (Ireland) Acts, 1878 to 1907, shall be substituted for the reference to the Public Health Acts and a reference to the rate or fund applicable to the purposes 6f the Public Health (Ireland) Acts, 1878 to 1907, shall be substituted for any reference to the borough rate or borough fund :
+(Ireland) Acts, 1890 to 1908, shall be substituted for the reference to the Housing of the Working Classes Acts, 1890 to 1909, a reference to the Public Health (Ireland) Acts, 1878 to 1907, shall be substituted for the reference to the Public Health Acts and a reference to the rate or fund applicable to the purposes 6f the Public Health (Ireland) Acts, 1878 to 1907, shall be substituted for any reference to the borough rate or borough fund:
 
 (7) — (a) If it appears to any county council that, having
 
@@ -16466,11 +16466,11 @@ Ch. 55.
 
 1911. National Insurance Ac, 1911.
 
-Provided that, in the case of a married woman resident in Ireland becoming a voluntary contributor at reduced rates of benefit under the special provisions with respect to married women, the rate of contributions payable by her shall be one penny halfpenny a week instead of three pence a week, and the difference to be credited shall be one penny halfpenny a week accordingly :
+Provided that, in the case of a married woman resident in Ireland becoming a voluntary contributor at reduced rates of benefit under the special provisions with respect to married women, the rate of contributions payable by her shall be one penny halfpenny a week instead of three pence a week, and the difference to be credited shall be one penny halfpenny a week accordingly:
 
 (12) In ascertaining the voluntary rate applicable to
 
-voluntary contributors in Ireland in cases where that rate is not the same as the employed rate, regard shall be had both to the provisions of this section as to the crediting of differences and to the proportion of benefits to be paid out of the contributions payable by or in respect of such contributors :
+voluntary contributors in Ireland in cases where that rate is not the same as the employed rate, regard shall be had both to the provisions of this section as to the crediting of differences and to the proportion of benefits to be paid out of the contributions payable by or in respect of such contributors:
 
 (13) Rules of an approved society or Insurance Com-
 
@@ -16510,7 +16510,7 @@ certificated teachers, references to the Board of Education, to the Elementary S
 
 (18) As respects insured persons in Ireland, “six-elevenths”
 
-shall be substituted for “ four-sevenths ” and (in the case of women) “four-ninths” shall be substituted for “ one-half ” :
+shall be substituted for “ four-sevenths ” and (in the case of women) “four-ninths” shall be substituted for “ one-half ”:
 
 (19) For the reference to the registrar of the county court,
 
@@ -16560,7 +16560,7 @@ Unemployment Insurance.
 
 1911. National Insurance Act, 1911. Ch. 55.
 
-fulfilled, and so long as he is not disqualified under this Act for the receipt of unemployment benefit :
+fulfilled, and so long as he is not disqualified under this Act for the receipt of unemployment benefit:
 
 Provided that unemployment benefit shall not be paid in respect of any period of unemployment which occurs during the six months following the commencement of this Act.
 
@@ -16582,7 +16582,7 @@ stamps affixed to or impressed upon books or cards, or otherwise, and for regula
 
 books or cards and the replacement of books or cards which have been lost destroyed or defaced.
 
-(б) A contribution shall be made in each year out of moneys provided by Parliament equal to one-third of the total contributions received from employers and workmen during that year, and the sums to be contributed in any year shall be paid in such manner and at such times as the Treasury may determine.
+(b) A contribution shall be made in each year out of moneys provided by Parliament equal to one-third of the total contributions received from employers and workmen during that year, and the sums to be contributed in any year shall be paid in such manner and at such times as the Treasury may determine.
 
 Contributions by workmen, employers, and the Treasury.
 
@@ -16646,7 +16646,7 @@ Provided that —
 
 or is stopped, or where the amount of the benefit allowed is not in accordance with the claim, the workman may require the insurance officer to report the matter to a court of referees constituted in accordance with this Part of this Act, and the court of referees after considering the circumstances may make to the insurance officer such recommendations on the case as they may think proper, and the insurance officer shall, unless he disagrees, give effect to those recommendations. If the insurance officer disagrees with any such recommendation, he shall, if so requested by the court of referees, refer the recommendation, with his reasons for disagreement, to the umpire appointed under this Part of this Act, whose decision shall be final and conclusive;
 
-(б) the insurance officer in any case in which he considers
+(b) the insurance officer in any case in which he considers
 
 it expedient to do so may, instead of himself determining the claim or question, refer it to a court of referees, who shall in such case determine the question, and the decision of the court of referees shall be final and conclusive.
 
@@ -16678,7 +16678,7 @@ retention of any benefit which may have been received under the decision or reco
 
 89. — (1) For the purposes of this Part of this Act, an umpire may be appointed by His Majesty, and insurance officers shall be appointed by the Board of Trade (subject to the consent of the Treasury as to number) and the insurance officers shall be appointed to act for such areas as the Board direct.
 
-(2) The Board of Trade may appoint such other officers, inspectors, and servants for the purposes of this Part of this Act as the Board may, with the sanction of the Treasury, determine, and there shall be paid out of moneys provided by Parliament to the umpire and insurance officers and to such other officers, inspectors, and servants, such salaries or remuneration as the Treasury may determine; and any expenses incurred by the Board of Trade in carrying this Part of this Act into effect to such amount as may be sanctioned by the Treasury shall be defrayed out of moneys provided by Parliament :
+(2) The Board of Trade may appoint such other officers, inspectors, and servants for the purposes of this Part of this Act as the Board may, with the sanction of the Treasury, determine, and there shall be paid out of moneys provided by Parliament to the umpire and insurance officers and to such other officers, inspectors, and servants, such salaries or remuneration as the Treasury may determine; and any expenses incurred by the Board of Trade in carrying this Part of this Act into effect to such amount as may be sanctioned by the Treasury shall be defrayed out of moneys provided by Parliament:
 
 Provided that such sum as the Treasury may direct, not exceeding one-tenth of the receipts, other than advances by the Treasury, paid into the unemployment fund on income account shall, in accordance with regulations made by the Treasury, be applied as an appropriation in aid of money provided by Parliament for the purpose of such salaries, remuneration, and expenses.
 
@@ -17054,7 +17054,7 @@ National Insurance, 1911. 1 & 2 Geo. 5.
 
 (2) The occupier of any such premises or place and any other person employing any employed contributor or workman in an insured trade, and the servants and agents of any such occupier or other person, and any employed contributor or workman in an insured trade shall furnish to any inspector all such information and shall produce for inspection all such registers, books, cards, and other documents as the inspector may reasonably require.
 
-(3) If any person wilfully delays or obstructs an inspector in the exercise of any power under this section or fails to give such information or to produce such documents as aforesaid, or conceals or prevents or attempts to conceal or prevent any person from appearing before or being examined by an inspector, he shall be liable on summary conviction to a fine not exceeding five pounds :
+(3) If any person wilfully delays or obstructs an inspector in the exercise of any power under this section or fails to give such information or to produce such documents as aforesaid, or conceals or prevents or attempts to conceal or prevent any person from appearing before or being examined by an inspector, he shall be liable on summary conviction to a fine not exceeding five pounds:
 
 Provided that no one shall be required under this section to answer any question or give any evidence tending to incriminate himself.
 
@@ -17538,13 +17538,13 @@ SEVENTH SCHEDULE.
 
 Rates and Periods of Unemployment Benefit.
 
-In respect of each week following the first week of any period of unemployment, seven shillings, or such other rates as may be prescribed either generally or for any particular trade or any branch thereof :
+In respect of each week following the first week of any period of unemployment, seven shillings, or such other rates as may be prescribed either generally or for any particular trade or any branch thereof:
 
 Provided that, in the case of a workman under the age of eighteen, no unemployment benefit shall be paid while the workman is l>elow the age of seventeen, and while the workman is of the age of seventeen or upwards but below the age of eighteen, unemployment benefit shall only be paid at half the rate at which it would be payable if the workman was above the age of eighteen.
 
 No workman shall receive unemployment benefit for more than fifteen or such other number of weeks as may be prescribed either generally or for any particular trade or branch thereof within any period of twelve months, or in respect of any period less than one day.
 
-No workman shall receive more unemployment benefit than in the proportion of one week’s benefit for every five contributions paid by him under this Act :
+No workman shall receive more unemployment benefit than in the proportion of one week’s benefit for every five contributions paid by him under this Act:
 
 Provided that for the purpose of the foregoing paragraph —
 
@@ -17650,7 +17650,7 @@ CHAPTER 57.
 
 An Act to amend the Law relating to Merchant Shipping with a view to enabling certain Conventions to be carried into effect. [16th December 1911.]
 
-"TTTHEREAS at the Conference held at Brussels in the year nineteen hundred and ten two conventions, dealing respectively with collisions between vessels and with salvage, were signed on behalf of His Majesty, and it is desirable that such amendments should be made in the law relating to merchant shipping as will enable effect to be given to the conventions :
+"T WHEREAS at the Conference held at Brussels in the year nineteen hundred and ten two conventions, dealing respectively with collisions between vessels and with salvage, were signed on behalf of His Majesty, and it is desirable that such amendments should be made in the law relating to merchant shipping as will enable effect to be given to the conventions:
 
 Be it therefore enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -18938,7 +18938,7 @@ c. 60 Crown Lands S. 83 rep. as to E. - j 6, s. 17, Sch.
 
 2 Si 3 Will. 4.c. 53 Army Prize Money Ss. 45, and in part 46, 49, rep. ! as to E. 6, 8. 17, Sch.
 
-3 k4 Will. 4. :
+3 k4 Will. 4.:
 
 c. 15 Dramatic Copyright - Repealed (but see Term*) - 46, a. 36, Sch.
 
@@ -19064,7 +19064,7 @@ c. 66 1 Pharmacy - - - 1 S. 16 rep. in part as to E. - 6, s. 17, Sch.
 
 c. 57 Election Commissioners S. 13 rep. as to E. 6, 8. 17, Sch.
 
-16 ft 17 Vict. :
+16 ft 17 Vict.:
 
 c. 45 Government Annuities S. 32 rep. as to E. 6, s. 17, 8ch.
 
@@ -19092,7 +19092,7 @@ Statute and Chapter. Subject-matter or Short Title. > 1 How affected. I Chapter 
 
 20& 21 Vict. c. 85 Matrimonial Causes S. 50 repealed i i 6, s. 17, Sch.
 
-21 A 22 Vict. :
+21 A 22 Vict.:
 
 c. 78 Parliamentary Witnesses S. 3 rep. as to E. - 6, s. 17, Sch.
 
@@ -19130,7 +19130,7 @@ c. 87 Trustee Savings Banks - S. 49 rep. in part as to E. 6, a 17, Sch.
 
 c. 113 Poisoned Grain Prohibition - Repealed (except as to S.) - 27, 8. 18, Sch. II.
 
-27 & 28 Vict. :
+27 & 28 Vict.:
 
 c. 25 Naval Prize - S. 50 rep. a6 to E. 1 6, s. 17, Sch.
 
@@ -19144,7 +19144,7 @@ c. 83 Locomotives ... Ss. 3 (pars. (1) (2)), 5 rep. as to I. | 45, ss. 3(2), 4 (
 
 c. 113 Colonial Governors (Pensions) Repealed (but tee lermt) | 24, s. 12 (2), Sch.
 
-29 St 30 Vict. :
+29 St 30 Vict.:
 
 c. 25 Exchequer Bills and Bonds S. 26 restricted - 26, a 1 (2).
 
@@ -19570,7 +19570,7 @@ Effect of Legislation.
 
 Statute and Chapter. Subject-matter or Short Title. How affected. Chapter of 1 A 2 Geo. 6.
 
-1 Edw. 7 :
+1 Edw. 7:
 
 c. 22; Factory and Workshop Ss. 90-92, 94, Seh. IV. virt. rep. (prosp.); s. 95 am. 21, s. 1.
 
@@ -19606,7 +19606,7 @@ c. 33 Burgh Police (S.) - S. 82 (l)-(4) am.; s. 82 (3) 51, 8. 1.
 
 as to rural districts, Ac., in Ireland); applied with mewls. Sch. III.
 
-5 Edw. 7 :
+5 Edw. 7:
 
 c. 18 Isle of Man (Customs) - S. 1 continued 14, s. 1.
 
@@ -19640,7 +19640,7 @@ c. 21 Limited Partnerships S. 12 rep. as to E. 6, s. 17, Sch.
 
 c. 29 Patents and Designs - S. 86 amended - 46, s. 22 (2).
 
-8 Edw. 7 :
+8 Edw. 7:
 
 c. 28 Agricultural Holdings S. 13 (6) repealed 6, s. 17, Sch.
 
@@ -19712,7 +19712,7 @@ Aid). affected by Act (but lermt). IV. 48, s. 1.
 
 i c. 35 Finance .... S. 1 continued
 
-1 k 2 Geo. 5 :
+1 k 2 Geo. 5:
 
 c. 2 Revenue .... Sch. amended 48, s. 21
 
