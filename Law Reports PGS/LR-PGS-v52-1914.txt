@@ -822,7 +822,7 @@ On. 10.
 
 “ ninepence if the total income does not exceed one thousand “ pounds;
 
-“ tenpence halfpenny if the total income exceeds one tliousand pounds but does not exceed one thousand five “ hundred pounds;
+“ tenpence halfpenny if the total income exceeds one thousand pounds but does not exceed one thousand five “ hundred pounds;
 
 “ one shilling if the total income exceeds one thousand five “ hundred pounds but does not exceed two thousand “ pounds;
 
@@ -6854,7 +6854,7 @@ Enactments Repealed.
 
 Session and Chapter. Short Title. Extent of Repeal.
 
-49 A 50 Vict. c. 32. The Contagious Diseases (Animals) Act, 1886. In sectiqn nine, subsections (3) (5) and (6) so far as they relate to England.
+49 A 50 Vict. c. 32. The Contagious Diseases (Animals) Act, 1886. In section nine, subsections (3) (5) and (6) so far as they relate to England.
 
 54 & 55 Vict. c. 76. The Public Health (London) Act, 1891. Section twenty-eight.
 
