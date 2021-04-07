@@ -2888,7 +2888,7 @@ subdivisions but not more than twenty-four - - - 0 2
 
 , , , containing more than twenty-four
 
-subdivisions but not more than thirty - - - -0 2 ^
+subdivisions but not more than thirty - - - -0 2
 
 , , , containing more than thirty subdivisions but not more than
 
@@ -2896,7 +2896,7 @@ thirty-six - - - 0 3
 
 , , , containing more than thirty-six
 
-subdivisions but not more than forty-two - - - 0 3 ^
+subdivisions but not more than forty-two - - - 0 3
 
 , , , containing more than forty-two sub-
 
@@ -5698,7 +5698,7 @@ as to the mode in which the regulations of the hospital are carried out
 
 64. As from the passing of this Act no agreement shall be made No agreement. '
 
-between a local authority and the subscribers to a hospital for !0 ^
+between a local authority and the subscribers to a hospital for !0
 
 uniting to provide and maintain an asylum or for the reception of subscribers pauper patients into the hospital. Provided always, that in any
 
@@ -11034,7 +11034,7 @@ Ch. 55.
 
 Universities (Scotland) Act, 1889. 52 & 53 VICT.
 
-Tests ^
+Tests
 
 Abolition of 17. The second, fourth, and fifth sections of the Act of the tests in certain sixteenth and seventeenth years of Her present Majesty, chapter cases. eighty-nine, are hereby repealed, and the Act of the twenty-second
 
@@ -16014,11 +16014,11 @@ iagi
 
 itionc
 
-) nC ^
+) nC
 
 OffllD5 '
 
-aithu ^
+aithu
 
 tion, to such extent and on such terms as the authority think expedient, subject to the following restrictions, namely: —
 

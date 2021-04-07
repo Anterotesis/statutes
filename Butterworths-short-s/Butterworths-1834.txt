@@ -96,9 +96,9 @@ PUBLIC GENERAL ACTS.
 
 29. An Act for facilitating the Loan of Money upon Landed Securities in Ireland. 66
 
-50. An Act to facilitate the Exchange of Lands lying in Common Fields. 68
+30. An Act to facilitate the Exchange of Lands lying in Common Fields. 68
 
-51. An Act for transferring certain Annuities of Four Pounds per Centum per Annum into Annuities of Three Pounds and Ten Shillings per Centum per Annumy and for providing for paying off the Persons who may dissent to such Transfer. 78
+31. An Act for transferring certain Annuities of Four Pounds per Centum per Annum into Annuities of Three Pounds and Ten Shillings per Centum per Annumy and for providing for paying off the Persons who may dissent to such Transfer. 78
 
 32. An Act for reducing the Tonnage Rates payable in the Port of London. 88
 
@@ -962,7 +962,7 @@ The Treasury or Commissioners of Customs may release Persons committed.
 
 As to the Form of Informations and Convictions.
 
-None of His Majesty*s Subjects to hoist in their Vessels the Union Jack or any Pendants, &c. usually worn
+None of His MMajesty's Subjects to hoist in their Vessels the Union Jack or any Pendants, &c. usually worn
 
 relating to the Customs, For which such Person would be liable to be committed to hard Labour, it shall and may be lawful for the Justices before whom such Person is so convicted, provided such Person is a Female, or provided it appears to such Justices that such Person is from Age or Sickness incapable of hard Labour, to order and adjudge that such Person shall, in lieu of being committed to hard Labour, be imprisoned in any of His Majesty's Gaols within their Jurisdiction for the Length of Time to which such Person would have been liable to be kept to hard Labour: Provided always, that in all such Cases the Cause of Mitigation shall be stated in the Warrant of Commitment.
 
@@ -1096,7 +1096,7 @@ An Act to repeal so much of several Acts as authorizes the issuing any Sums of M
 
 [22d May 1834.]
 
-WHEREAS various Sums of Money have been from Time to it Time issued under the Provision of several Acts passed in the Tenth, Twenty-first, and Twenty-sixth Years respectively of the Reign of His late Majesty King George the Third, for the Encouragement of raising and dressing Hemp and Flax in the United Kingdom: And whereas by an Act passed in the Twenty-seventh Year of the Reign of His said late Majesty, 4 intituled An Act for repealing the several Duties of Customs and Excise, and granting other Duties in lieu thereof and for applying the said Duties, together with the other Duties composing the Public Revenue; for permitting the Importation of certain Goods, Wares, and Merchandize, the Produce or Manufacture of the European Dominions of the French King, into this Kingdom; and for applying certain unclaimed Monies remaining in the Exchequer for the Payment of Annuities on Lives to the Reduction of the National Debt, it was enacted, that the Sum of Six thousand three hundred and thirty-five Pounds and Fifteen Shillings should at the End of each Year be set apart in the Receipt of His Majesty's 4 Exchequer, out of the Duties of Customs imposed by the said Act, as a Fund for the Encouragement of raising and dressing Hemp and Flax, to be applied to such Uses and Purposes and in such Way and Manner as was directed and provided by the before-mentioned Acts of the Tenth, Twenty-first, and Twentysixth Years respectively: And whereas it is expedient that no further Sum or Sums of Money should be set apart or applied for such Purpose in futureBe it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the passing of this Act so much of the said recited Act of the Twenty-seventh Year of the Reign of His late Majesty King George the Third as is herein-before recited, and 60 much of any other Act or Acts as authorizes or directs any such Payment to be made, shall be and the same is and are hereby repealed.
+WHEREAS various Sums of Money have been from Time to it Time issued under the Provision of several Acts passed in the Tenth, Twenty-first, and Twenty-sixth Years respectively of the Reign of His late Majesty King George the Third, for the Encouragement of raising and dressing Hemp and Flax in the United Kingdom: And whereas by an Act passed in the Twenty-seventh Year of the Reign of His said late Majesty, intituled An Act for repealing the several Duties of Customs and Excise, and granting other Duties in lieu thereof and for applying the said Duties, together with the other Duties composing the Public Revenue; for permitting the Importation of certain Goods, Wares, and Merchandize, the Produce or Manufacture of the European Dominions of the French King, into this Kingdom; and for applying certain unclaimed Monies remaining in the Exchequer for the Payment of Annuities on Lives to the Reduction of the National Debt, it was enacted, that the Sum of Six thousand three hundred and thirty-five Pounds and Fifteen Shillings should at the End of each Year be set apart in the Receipt of His Majesty's 4 Exchequer, out of the Duties of Customs imposed by the said Act, as a Fund for the Encouragement of raising and dressing Hemp and Flax, to be applied to such Uses and Purposes and in such Way and Manner as was directed and provided by the before-mentioned Acts of the Tenth, Twenty-first, and Twentysixth Years respectively: And whereas it is expedient that no further Sum or Sums of Money should be set apart or applied for such Purpose in futureBe it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the passing of this Act so much of the said recited Act of the Twenty-seventh Year of the Reign of His late Majesty King George the Third as is herein-before recited, and 60 much of any other Act or Acts as authorizes or directs any such Payment to be made, shall be and the same is and are hereby repealed.
 
 27 G. 3. c. 13.
 
@@ -1118,7 +1118,7 @@ An Act to regulate the Office of the Receipt of His Majesty's Exchequer at Westm
 
 WHEREAS by an Act passed in the Fifty-seventh Year of
 
-* the Reign of His late Majesty King George the Third, 57 G. s. c. 84. 4 intituled An Act to regulate the Offices of His Mcgestys Exchequer
+* the Reign of His late Majesty King George the Third, 57 G. s. c. 84. intituled An Act to regulate the Offices of His Mcgestys Exchequer
 
 4 in England and Ireland respectively, it was declared, that the
 
@@ -1204,7 +1204,7 @@ All Public Monies hitherto payable into the Exchequer to be paid into tho Bank.
 
 Monies paid to the Account of the Exchequer to form One Fund in the Bonk Books.
 
-Royal Order for issuing Money to the different Departments of the Public Ser-^ vice.
+Royal Order for issuing Money to the different Departments of the Public Ser- vice.
 
 Treasury Warrant.
 
@@ -3120,7 +3120,7 @@ Recited Acts in part repealed.
 
 for every Chest of Bohea Tea, under the same Terms and Con-
 
-ditions, and subject to the same Forfeitures, Penalties, and Regulations, as are mentioned and contained in the said recited Act of the Eighteenth Year of the Reign of His then late Majesty: And whereas by another Act passed in the Thirty-third Year of the Reign of His late Majesty King George the Third, 4 intituled An Act for continuing in the East India Company for a 4 further Term the Possession of the British Territories in India,
+ditions, and subject to the same Forfeitures, Penalties, and Regulations, as are mentioned and contained in the said recited Act of the Eighteenth Year of the Reign of His then late Majesty: And whereas by another Act passed in the Thirty-third Year of the Reign of His late Majesty King George the Third, intituled An Act for continuing in the East India Company for a 4 further Term the Possession of the British Territories in India,
 
 together with their exclusive Trade under certain Limitations; for establishing further Regulations for the Government of the said Territories ', and the better Administration of Justice within the same; for appropriating to certain Uses the Revenues and Profits of the said Company, and for making Provision for the good Order and Government of the Towns of Calcutta, Madras, and Bombay,
 
@@ -3708,7 +3708,7 @@ Publication of Proclamation revoking a former Proclamation in whole or in part.
 
 C.39, 40.
 
-4° & 5° GULIELMI IV. A.D. 1834 ^
+4° & 5° GULIELMI IV. A.D. 1834
 
 CAP. XXXIX.
 
@@ -3746,7 +3746,7 @@ with
 
 with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That so much of the said Act as Repeal of enacts that no* Rules shall be allowed unless it shall appear 10G.4. c.56. to the Justices to whom the same are tendered that the Tables *6* of the Payment to be made by the Members, and of the Benefits to be received by them, may be adopted with Safety to all Parties concerned; and so much as enacts that the Executors, Adminis- a. 20. trators, or Assignees of Bankrupts or Insolvents shall pay Money due to Friendly Societies before any other Debts; and so much s. 30. as enacts that the Funds of any Friendly Society may be subscribed into a Savings Bank; and so much as requires the Part of s. 34. Returns of the Rate of Sickness and Mortality to be made to the Clerk of the Peace, or as requires Clerks of the Peace to Part of s. 35. transmit such Returns to the Secretary of State, or as provides 36. that the Friendly Society refusing or neglecting to make such Return should cease to be entitled to the Privileges of the said recited Act; shall be and the same are hereby repealed.
 
-II. And whereas it is in and by the said recited Act provided Purpose* for that a Society may be established for the mutual Relief and whlc^?ciet ^
+II. And whereas it is in and by the said recited Act provided Purpose* for that a Society may be established for the mutual Relief and whlc^?ciet
 
 Maintenance of all and every the Members thereof, their Wives 10^4,
 
@@ -4588,7 +4588,7 @@ A.D. 1834. 4° & 5° GULIELMI IV. C.51. 153
 
 Place, Vessel or Utensil, of which Entry is required to be made or Notice given by any Act or Acts relating to the Revenue of Excise, without having made Entry thereof in manner herein-before directed, shall for every such unentered House, Building, or Place, Vessel or Utensil, forfeit Two hundred Pounds.
 
-VIL And be it further enacted, That every Person carrying on any Trade or Business under or subject to any Law or Laws of Excise, who having made Entry of any House, Build-0 ing, or Place, Vessel or Utensil, or other Thing, shall in the carrying on such Trade or Business fraudulently make use of any such House, Building, or Place, Vessel or Utensil, or other Thing, for any other or different Purpose than the particular Use or Purpose for which the same shall have been entered, shall forfeit One hundred Pounds.
+VIL And be it further enacted, That every Person carrying on any Trade or Business under or subject to any Law or Laws of Excise, who having made Entry of any House, Building, or Place, Vessel or Utensil, or other Thing, shall in the carrying on such Trade or Business fraudulently make use of any such House, Building, or Place, Vessel or Utensil, or other Thing, for any other or different Purpose than the particular Use or Purpose for which the same shall have been entered, shall forfeit One hundred Pounds.
 
 VIII. And be it further enacted, That when any Person or Persona shall have made Entry of any Building, Room, Place, Vessel, or Utensil for the carrying on any Trade or Business in respect of which any Entry is by any Act or Acts of Parliament relating to the Revenue of Excise required, it shall not be lawful during the Continuance of such Entry for any other Person or Persons (except Persons becoming Partners in the same Trade or Business in respect of which the Entry shall already have been made) to make Entry of the same Building, Room, or Place, Vessel or Utensil, for the carrying on of any other Trade or Business of the same or any other Description subject to the Survey of Excise; but every such subsequent Entry made whilst such former Entry is in force shall be null and void to all Intents and Purposes.
 
@@ -4818,7 +4818,7 @@ port of maimed and disabled Seamen, and the Widows and ' Children of such as sha
 
 said: And 'whereas another Act was passed in the Thirtyseventh Year of the Reign of His Majesty King George the
 
-Third, intituled An Act for preventing the Desertion ef Seamen 1 from British Merchant Ships trading to His Majesty*s Colonies and Plantations Abroad: And whereas it is expedient to repeal some, and to extend and comprise in One Act of Parliament ' others of the Provisions of the said Two recited ActsBe it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the Thirty-first Day of December One thousand eight hundred and thirty-four, from which Day (except as herein-after is expressly provided) this Act shall commence and take effect, the whole of the said recited Act of the Twentieth Year of the Reign of His said late Majesty King George the Second, except so far as the same relates to the Incorporation and perpetual Succession of the said Body Corporate and Politic, or to the Powers and Authorities thereby vested in the said President and Governors for receiving, possessing, and applying such Sums of Money as should be contributed, devised, or bequeathed to it, and for purchasing and holding Lands and erecting an Hospital, or to the Rules and Method thereby provided for supplying the Places of the President and Assistants or Committees and Governors or Members
+Third, intituled An Act for preventing the Desertion ef Seamen 1 from British Merchant Ships trading to His MMajesty's Colonies and Plantations Abroad: And whereas it is expedient to repeal some, and to extend and comprise in One Act of Parliament ' others of the Provisions of the said Two recited ActsBe it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the Thirty-first Day of December One thousand eight hundred and thirty-four, from which Day (except as herein-after is expressly provided) this Act shall commence and take effect, the whole of the said recited Act of the Twentieth Year of the Reign of His said late Majesty King George the Second, except so far as the same relates to the Incorporation and perpetual Succession of the said Body Corporate and Politic, or to the Powers and Authorities thereby vested in the said President and Governors for receiving, possessing, and applying such Sums of Money as should be contributed, devised, or bequeathed to it, and for purchasing and holding Lands and erecting an Hospital, or to the Rules and Method thereby provided for supplying the Places of the President and Assistants or Committees and Governors or Members
 
 thereof
 
@@ -5218,7 +5218,7 @@ WHEREAS an Act was made in the Forty-seventh Year of the Reign of His Majesty Ki
 
 4 tuled An Act to prevent improper Persons from having Arms »
 
-4 Ireland, to, continue in force for a certain Period therein men ^
+4 Ireland, to, continue in force for a certain Period therein men
 
 4 tioned: And whereas the said Act was by another Act made in the Fiftieth Year of His said Majesty's Reign continued and amended: And whereas by another Act made in the Fourth Year of the Reign of His late Majesty King George the Fourth the said recited Acts of the Forty-seventh and Fiftieth Years of the Reign of His Majesty King Ueorge the Third were further continued; and the said Acts were by another Act made in the Tenth Year of the Reign of His said late Majesty King George the Fourth amended and further continued for One 4 Year, and until the End of the then next Session of Parliament,
 
@@ -6074,7 +6074,7 @@ An Act to amend the Laws relating to the Land and Assessed Taxes, and to consoli
 
 WHEREAS, for the more convenient Execution of the Acts relating to the Land Tax, it is expedient to authorize the Commissioners acting in the Execution of the said Acts for any County, Shire, or Riding to alter the Jurisdiction of any Parishes, Tithings, Townships, Hamlets, or Places, by transferring any One or more thereof from one Division to another 1 of the same County, or by creating thereout any new Division or Divisions for the Purposes of the said Act, as Occasion shall
 
-P 3 4 require ^
+P 3 4 require
 
 ' L.OO
 
@@ -7016,7 +7016,7 @@ the Advice of His Privy Council, to authorize the Governors or other Persons adm
 
 of August in the Year One thousand eight hundred and twentysix, and thereby appointed, among other Places, Norfolk Islana to be the Place within the Colony of New South Wales to which Offenders convicted in the said Colony, and being under Sentence or Order of Transportation, might be sent or trailsported: And whereas the Removal of Persons under Charge of Capital and other Offences committed at Norfolk Island, from thence for Trial in the Supreme Court of the said Colony, is attended with great Delay, Expence, and Inconvenience, and it is expedient that a Court should be established in Norfolk Island for the Trial and Punishment of Crimes, Misdemeanors, and Offences, of what Nature or Degree soever, committed there by Persons under Sentence or Order of Transportation: And whereas an Act was made and passed in the Thirty-fifth Year of the Reign of His late Majesty King George the Third, intituled
 
-4 An Act to repeal an Act made in the last Session of Parliament, 35 G.s. c. 18. 4 intituled An Act to enable His Majesty to establish a Court of Criminal Judicature in Norfolk Island, ' and for better enabling His Majesty to establish such Court in the said Island: And whereas the Provisions of the said recited Act are insufficient to remedy the Inconvenience and to carry into effect the Purposes herein-before expressed, and it is therefore expedient to repeal the same Be it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That
+4 An Act to repeal an Act made in the last Session of Parliament, 35 G.s. c. 18. intituled An Act to enable His Majesty to establish a Court of Criminal Judicature in Norfolk Island, ' and for better enabling His Majesty to establish such Court in the said Island: And whereas the Provisions of the said recited Act are insufficient to remedy the Inconvenience and to carry into effect the Purposes herein-before expressed, and it is therefore expedient to repeal the same Be it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That
 
 R 4
 
@@ -7132,7 +7132,7 @@ FundBe it therefore enacted by the King's most Excellent
 
 Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from Such Parts of and after the passing of this Act such Parts of the said recited re*ited Acts 03 Acts as relate to the Application of the Monies arising from the ^catioif of Tolls of the said Bridges respectively shall be and the same are Monies, re-hereby repealed. pealed.
 
-II. And be it further enacted, That all Monies now at the All Monies now Disposal of the Commissioners for the Execution of the said in hand, or recited Act of the Third and Fourth Year of the Reign of His hereafter represent Majesty, received on account of the Tolls of the said *1 ^
+II. And be it further enacted, That all Monies now at the All Monies now Disposal of the Commissioners for the Execution of the said in hand, or recited Act of the Third and Fourth Year of the Reign of His hereafter represent Majesty, received on account of the Tolls of the said *1
 
 Bridges respectively, and whether in respect of the said annual ^mnJsaoneis Sums of Five hundred Pounds and Two hundred Pounds so jnto the Receipt directed to be set apart as aforesaid, or otherwise, under or by of the Exche-virtue of the said recited Acts or any of them, shall immediately <luer* after the passing of this Act be paid into the Receipt of His Majesty's Exchequer at Westmifister, to the Account of the Consolidated Fund; and all Sums of Money which shall at any Time hereafter be received by the said last-mentioned Commissioners, their Agents or Receivers, on account of the said Tolls, after
 
@@ -7322,7 +7322,7 @@ IX. And whereas by the said recited Act of the Ninth Year Trustees of the
 
 of the Reign of His late Majesty King George the Fourth it Shiffnall Dfc-
 
-4 was enacted, that the Commissioners acting in execution of the trictofthe Watsaid recited Act of the Fourth Year of the Reign of His said ^2nuea ^
+4 was enacted, that the Commissioners acting in execution of the trictofthe Watsaid recited Act of the Fourth Year of the Reign of His said ^2nuea
 
 late Majesty should apply any Sum not exceeding the Sum of tjonaj Tolls.
 
@@ -7402,23 +7402,23 @@ An Act to authorize an Advance out of the General Fund of Monies belonging to th
 
 [13th August 1834.]
 
-WHEREAS by an Act passed in the Parliament of Ireland in the Thirtieth Year of the Reign of His late Majesty
+WHEREAS by an Act passed in the Parliament of Ireland in the Thirtieth Year of the Reign of His late Majesty King George the Third,
 
-King George the Third, intituled An Act for enabling the Lard S0G.S, c.4l.
+[30 G.3, c. 41.]
 
-High Chancellor and the Court of Exchequer respectively to make Orders on the Governor and Company of the Bank of Ireland for Payment, out of the General Fund of Monies belonging to the Suitors of the Courts of Chancery and Exchequer, the Sum 4 therein mentioned towards building the principal Courts of Justice at Dublin, and Law Offices, and for amending an Act, intituled An Act for better securing the monies and Effects of the Suitors x of the Court of Chancery and Court of Exchequer, by depositing the same in die National Bank, and to prevent the forging and counterfeiting any Draft, Order, or other Voucher for the Payment or Delivery of such Money or Effects, and for other Purposes, * it is amongst other Things enacted, that out of the
+intituled An Act for enabling the Lord High Chancellor and the Court of Exchequer respectively to make Orders on the Governor and Company of the Bank of Ireland for Payment, out of the General Fund of Monies belonging to the Suitors of the Courts of Chancery and Exchequer, the Sum therein mentioned towards building the principal Courts of Justice at Dublin, and Law Offices, and for amending an Act, intituled An Act for better securing the monies and Effects of the Suitors of the Court of Chancery and Court of Exchequer, by depositing the same in die National Bank, and to prevent the forging and counterfeiting any Draft, Order, or other Voucher for the Payment or Delivery of such Money or Effects, and for other Purposes, it is amongst other Things enacted, that out of the General Fund of the Monies of the Suitors of His Majesty's High Court of Chancery and Court of Exchequer which then were or should be deposited in the Bank of Ireland the Governor and Company of the Bank of Ireland should, within the Space of Three Years from the Twenty-fifth Day of March One thousand seven hundred and ninety, pay to the Lord High Chancellor and Chief Judges, towards building such Courts and Offices as therein mentioned, the Sum of Thirty thousand Pounds, in manner therein provided: And whereas by an Act passed in the Parliament of Ireland in the Thirty-fourth Year of the same Reign,
 
-General Fund of the Monies of the Suitors of His Majesty's 1 High Court of Chancery and Court of Exchequer which then 1 were or should be deposited in the Bank of Ireland the Governor and Company of the Bank of Ireland should, within the Space of Three Years from the Twenty-fifth Day of March One 4 thousand seven hundred and ninety, pay to the Lord High Chancellor and Chief Judges, towards building such Courts and Offices as therein mentioned, the Sum of Thirty thousand Pounds, in manner therein provided: And whereas by an Act passed in the Parliament of Ireland in the Thirty-fourth Year
+[
 
-4 of the same Reign, intituled An Act for enabling the Lord High 34G.S. c.6.
+intituled An Act for enabling the Lord High 34G.S. c.6.
 
-4 Chancellor of Ireland and the Court of Exchequer respectively to make Orders on the Governor and Company of the Bank of Ireland for Payment, out of the General Fund of Monies belonging to the Suitors of the Courts of Chancery and Exchequer, of the further Sum therein mentioned towards building the principal Courts of Justice at Dublin, and Law Offices, and for declaring that all Government Securities purchased by the Governor and Directors of the said Bank, and Profits arising therefrom, should be placed to the Account of the Governor and Company of the said Bank, it was amongst other Things enacted, that a further Sum 4 of Thirteen thousand five hundred Pounds should be paid out of the said Fund to the Lord High Chancellor and Chief Judges towards building the said Courts and Offices: And whereas by an Act passed in the Parliament of the United Kingdom in the Second Year of the Reign of His present Majesty, intituled An Act for the Erection of a Nisi Prius Court House in Dublin, 2 W.4. c.S2. 4 it was amongst other Things enacted, that out of the said General Fund of the Monies of the Suitors of the said High Court of Chancery and Court of Exchequer which then were or should be deposited in the Bank of Ireland the Governor and Company of the Bank of Ireland should, from and after the
+Chancellor of Ireland and the Court of Exchequer respectively to make Orders on the Governor and Company of the Bank of Ireland for Payment, out of the General Fund of Monies belonging to the Suitors of the Courts of Chancery and Exchequer, of the further Sum therein mentioned towards building the principal Courts of Justice at Dublin, and Law Offices, and for declaring that all Government Securities purchased by the Governor and Directors of the said Bank, and Profits arising therefrom, should be placed to the Account of the Governor and Company of the said Bank, it was amongst other Things enacted, that a further Sum 4 of Thirteen thousand five hundred Pounds should be paid out of the said Fund to the Lord High Chancellor and Chief Judges towards building the said Courts and Offices: And whereas by an Act passed in the Parliament of the United Kingdom in the Second Year of the Reign of His present Majesty, intituled An Act for the Erection of a Nisi Prius Court House in Dublin, 2 W.4. c.S2. 4 it was amongst other Things enacted, that out of the said General Fund of the Monies of the Suitors of the said High Court of Chancery and Court of Exchequer which then were or should be deposited in the Bank of Ireland the Governor and Company of the Bank of Ireland should, from and after the
 
 S 4
 
 4 Twei '
 
-<A.D. 18S ^
+<A.D. 18S
 
 The Bairk of Ireland may advance to the Commissioners ofPublicWorks, out of the Suitors Fund of the Court of Chan-cory or of the Exchequer, certain Sums for Purchase of Ground and building Offices.
 
@@ -8178,7 +8178,7 @@ XV. And be it further enacted, That from and after the passing Administration
 
 of this Act the Administration of Relief to the Poor throughout tl, e
 
-England and Wcdesy according to the existing Laws, or such Laws, ^ rCo»trol as shall be in force at the Time being, shall beoubject to the uf the Commis-Direction and Control of the said Commissioners; and for exe- sioners; who cuting the Powers given to them by this Act the said Comrais- arc to make sioners shall and are hereby authorized and required, from Time «ules.aI?d
+England and Wcdesy according to the existing Laws, or such Laws, rCo»trol as shall be in force at the Time being, shall beoubject to the uf the Commis-Direction and Control of the said Commissioners; and for exe- sioners; who cuting the Powers given to them by this Act the said Comrais- arc to make sioners shall and are hereby authorized and required, from Time «ules.aI?d
 
 to Time as they shall see Occasion, to make and issue all such iheMunm- Rules, Orders, and Regulations for the Management of the Poor, ment for the Government of Workhouses and the Education of the Poor, and Ad-Children therein, and for the Management of Parish poor Children ministration of under the Provisions of an Act made and passed in the Seventh t|, e.I^*'rs.
 
@@ -10036,7 +10036,7 @@ For the Royal Military Asylum"
 
 For Volunteer Corps in Great Britain For Rewards for distinguished Military Services and Allowances to Garrison Officers in the United Kingdom and on Foreign Stations For Pay of General Officers not being Colonels of Regiments For Full Pay for reduced and retired Officers For Half Pay and Allowances to reduced and retired Officers For Half Pay and reduced Allowances to Officers of Disbanded Foreign Corps,
 
-Pensions to wounded Foreign Officers, and Allowances to Widows and Children of deceased Foreign Officers - For Pensions to Widows of Officers For Compassionate List, Allowances of His Majesty's Bounty, and Pensions to wouncled Officers - For Chelsea and Kilmainham Hospitals - For Superannuations to Persons formerly belonging to Public Departments For the Commissariat Department
+Pensions to wounded Foreign Officers, and Allowances to Widows and Children of deceased Foreign Officers - For Pensions to Widows of Officers For Compassionate List, Allowances of His Majesty's Bounty, and Pensions to wounded Officers - For Chelsea and Kilmainham Hospitals - For Superannuations to Persons formerly belonging to Public Departments For the Commissariat Department
 
 For Half Pay, Pensions, and Allowances in Commissariat Department For Disembodied Militia, and Pensions, &c. to the Regular and Local Militia - For Ordnance Services for the Year 1834-5.
 
@@ -10918,7 +10918,7 @@ An Act to amend the Laws relating to the Customs.
 
 [15th August 1834.]
 
-WHEREAS by an Act passed in the last Session of Parlia* ment, intituled An Act to repeal the several Laws relating
+WHEREAS by an Act passed in the last Session of Parliament, intituled An Act to repeal the several Laws relating
 
 4 to the Customs, certain Acts or Parts of Acts were repealed: And whereas several other Acts were passed in the said Session ' for consolidating the Laws of the Customs, and it has been found necessary to make certain Alterations and Amendments therein:* Be it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same. That from and after the passing of this Act the same shall come into and be and continue in full Force and Operation for all the Purposes mentioned therein.
 
@@ -12266,7 +12266,7 @@ C.92.
 
 4° & 5° GULIELMI IV. A.D. 1834.
 
-Land* of any Tenure in England to be sold, where the Purchase Money is subject to be invested in the Purchase of Lands to be en-^ tailed, and Money under the Control of a Court of Equity, to be subject to this Act in Cases of Bankruptcy.
+Land* of any Tenure in England to be sold, where the Purchase Money is subject to be invested in the Purchase of Lands to be en- tailed, and Money under the Control of a Court of Equity, to be subject to this Act in Cases of Bankruptcy.
 
 As to Deeds being acknowledged before Inrolment.
 
@@ -12320,7 +12320,7 @@ ibiesLoners, or Two special Commissioners, to be respectively appointed as herei
 
 LXXI. And be it further enacted, That such Judge, Master in Chancery, or Commissioners as aforesaid, before he or they shall receive the Acknowledgment by any married Woman of any Deed by which any Disposition, Release, Surrender, or Extinguishment shall be made by her under this Act, shall examine her apart from her Husband touching her Knowledge of such Deed, and shall ascertain whether she freely and voluntarily consents to such Deed, and unless she freely and voluntarily consents to such Deed shall not permit her to acknowledge the same; and in such Case such Deed shall, so far as relates to the Execution thereof by such married Woman, be void.
 
-LXXI I. And be it further enacted, That for the Purpose of providing convenient Means of taking Acknowledgments by married Women of the Deeds to be executed by them as aforesaid, the Lord Chief Justice of the Court of Common Pleas in Dublin shall from Time to Time appoint such proper Person as he shall think fit, for every County, Riding, Division, or Place for which there may be a Clerk of the Peace, to be perpetual Commissioners for taking such Acknowledgments, and such Commissioners shall be removable by and at the Pleasure of the said Lord Chief Justice; and Lists of the Names of such Commissioners for the Time being, with the Names of their Places of Residence, and the Counties, Ridings, Divisions, or Places for which they shall be respectively appointed to act, shall from Time to Time be made out and be kept by the Officer of the Court of Common Pleas in Dublin, with whom the Certificates of the Acknowledgments by married Women are to be lodged as hereinafter mentioned; and such Officer shall from Time to Time transmit, without Fee or Reward, to the Clerk of the Peace for each County, Riding, Division, or Place, or his Deputy, a Copy of the List to be so from Time to Time made out for that County, Riding, Division, or Place; and such Officer shall deliver a Copy, signed by him, of the List for the Time being for any County, Riding, Division, or Place, to any Person applying for the same; and the Clerk of the Peace for each County, Riding, Division, or Place, or his Deputy, shall deliver a Copy, signed by him, of the List last transmitted to him as aforesaid, to any Person applying for the same.
+LXXII. And be it further enacted, That for the Purpose of providing convenient Means of taking Acknowledgments by married Women of the Deeds to be executed by them as aforesaid, the Lord Chief Justice of the Court of Common Pleas in Dublin shall from Time to Time appoint such proper Person as he shall think fit, for every County, Riding, Division, or Place for which there may be a Clerk of the Peace, to be perpetual Commissioners for taking such Acknowledgments, and such Commissioners shall be removable by and at the Pleasure of the said Lord Chief Justice; and Lists of the Names of such Commissioners for the Time being, with the Names of their Places of Residence, and the Counties, Ridings, Divisions, or Places for which they shall be respectively appointed to act, shall from Time to Time be made out and be kept by the Officer of the Court of Common Pleas in Dublin, with whom the Certificates of the Acknowledgments by married Women are to be lodged as hereinafter mentioned; and such Officer shall from Time to Time transmit, without Fee or Reward, to the Clerk of the Peace for each County, Riding, Division, or Place, or his Deputy, a Copy of the List to be so from Time to Time made out for that County, Riding, Division, or Place; and such Officer shall deliver a Copy, signed by him, of the List for the Time being for any County, Riding, Division, or Place, to any Person applying for the same; and the Clerk of the Peace for each County, Riding, Division, or Place, or his Deputy, shall deliver a Copy, signed by him, of the List last transmitted to him as aforesaid, to any Person applying for the same.
 
 LXXIII. Provided always, and be it further enacted, That any Person appointed Commissioner for any particular County, Riding, Division, or Place shall be competent to take the Acknowledgment of any married Woman wheresoever she may reside, and wheresoever the Lands or Money in respect of which the Acknowledgment is to be taken may be.
 
@@ -12428,7 +12428,7 @@ the Affidavits verifying the Certificates, and the Time within which any of the 
 
 LXXXI. Provided always, and be it further enacted, That if a Husband shall, in consequence of being a Lunatic, Idiot, or of unsound Mind, and whether he shall have been found such by Inquisition or not, shall from any other Cause be incapable of executing a Deed, or if his Residence shall not be known, or he shall be m Prison, or shall be living apart from his Wife, either by mutual Consent or by Sentence of Divorce, or in consequence of his being transported beyond the Seas, or from any other Cause whatsoever, it shall be lawful for the Court of Common Pleas in Dublin, by an Order to be made in a summary Way upon the Application of the Wife, and upon such Evidence as to the said Court shall seem meet, to dispense with the Concurrence of the Husband in any Case in which his Concurrence is required by this Act or otherwise; and all Acts or Deeds to be done, executed, or made by the Wife in pursuance of such Order, in regard to Lands of any Tenure, or in regard to Money subject to be invested in the Purchase of Lands, shall be done, executed^ or made by her in the same Manner as if she were a Feme Sole, and when done, executed, or made by her shall (but without Prejudice to the Rights of the Husband as then existing independently of this Act) be as good and valid as they would have been if the Husband had concurred: Provided always, that this Clause shall not extend to the Case of a married Woman where under this Act the Lord High Chancellor, Lord Keeper or Lords Commissioners for the Custody of the Great Seal, or other the Person or Persons intrusted with the Care and Commitment of the Custody of the Persons and Estates of Persons found lunatic, idiot, and of unsound Mind, or His Majesty's High Court of Chancery, shall be the Protector of a Settlement in lieu of her Husband.
 
-LXXXI I. And be it further enacted, That this Act or any Part thereof may be altered, varied, or repealed by any Act or Acts to be passed in the present Session of Parliament.
+LXXXII. And be it further enacted, That this Act or any Part thereof may be altered, varied, or repealed by any Act or Acts to be passed in the present Session of Parliament.
 
 cates, Affidavits, &c.
 
@@ -13174,7 +13174,7 @@ An Act for improving the Port and Harbour of Aberavon in the County of Glamorgan
 
 [16th June 1834.]
 
-{ Vessels in His Majesty*s Service, or in the Employ of the Ordnance, Customs, Excise, or Post Office, and Vessels in Ballast, laden with Limestone, or in Distress, exempted from Toll, § 59, 60.]
+{ Vessels in His MMajesty's Service, or in the Employ of the Ordnance, Customs, Excise, or Post Office, and Vessels in Ballast, laden with Limestone, or in Distress, exempted from Toll, § 59, 60.]
 
 Cap. xliv.
 
@@ -13322,7 +13322,7 @@ An Act for repairing and maintaining the Road from Stafford to Church Bridge, an
 
 Cap. lx.
 
-An Act for more effectually repairing certain Roads from Scad-dow Gate in the Parish of TicknaU to the Burton-upon-Trent and Ashby Road, and for making new Branches of Road, in the Counties of Derby and Leicester, (b) [16th June 1834.]
+An Act for more effectually repairing certain Roads from Scad-dow Gate in the Parish of Ticknall to the Burton-upon-Trent and Ashby Road, and for making new Branches of Road, in the Counties of Derby and Leicester, (b) [16th June 1834.]
 
 [34 G. 3. c. 120. and 55 G. 3. c. lxiii. repealed, § 1. Tolls to be taken but once a Day at same Gate, § 13. Two Tolls only to be taken on same Day fqr passing through all the Gates on all the Lines of Road comprised in this Act; and One full Toll only on all the Lines in the recited Acts, § 14. Carriages passing from Overseal to the Coed Pits and Lime Kilns of the Marquis of Hastings to pay a Toll of <2d. only, § 15. Steam Carriages to pay each Time of passing, § 18. No Tolls to be laid out in repairing Streets, § 21. Penalty of £5 for exercising Three Horses abreast, or hanging out Linen within Forty Feet from Centre of the Road, § 22.]
 
@@ -13862,11 +13862,7 @@ Cap. 26.
 
 An Act for exonerating Estates in the Counties of Somerset and Devon comprised in the Marriage Settlement of Sir John Palmer Acland Baronet, deceased, from the Jointure or Rent-Charge thereby limited to Dame Sarah Maria Palmer Acland his Widow, during her Life, and for charging other Estates
 
-in
-
-A D. 1834. 4° A 5° GULIELMI IV. Pr.C.26 — 31.
-
-481
+A D. 1834. 4° A 5° GULIELMI IV. Pr.C.26 — 31. 481
 
 in the County of Somerset devised and directed to be purchased by the Will of the said Sir John Palmer Acland with the Payment thereof.
 
@@ -13878,9 +13874,7 @@ Cap. 27.
 
 An Act for vesting certain detached Estates devised by the Will of the late Henry Charles Alton Esquire, deceased, in Trustees, upon Trust to raise Money for the'Purchase of an Estate called the Dutton Estate, in the County of Chester, and for other Purposes incidental thereto.
 
----[
-
-[27th June 1834, ]
+[27th June 1834.]
 
 Cap. 28.
 
@@ -13893,8 +13887,6 @@ Cap. 29.
 An Act for inclosing Lands within the Parish and Manor of Stanwick in the County of Northampton, and for extinguishing the Tithes therein.
 
 [27th June 1834.]
-
-]---
 
 [Allotment to be made for Materials for Roads, Bridges, Sfc. § 23 .; and to the Lord of the Manor for Right of Soil, § 24 .; and to the Rector for Glebe, § 25 .; and to the Rector and Mr. Drayson for Tithes of certain Lands, § 26 .; and to the Rector for other Tithes, § 28. and for Tithes of Woods, § 30. Rector s Allotments to be fenced at the general Expence, § 36. Rector may (with Consent of the Bishop and Patron) lease his Allotments for Twenty-one Years, to commence within Twelve Calendar Months after passing of the Act, § 55. Saving the Lord's Right to Seignories, Sfc. § 80.]
 
