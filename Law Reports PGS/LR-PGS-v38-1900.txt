@@ -776,7 +776,7 @@ Cavendish or Negrohead, manufactured in bond - the lb. 0 0 5
 
 Other manufactured tobacco - the lb. 0 0 5
 
-Snuff containing more than 13 lbs. of moisture in every 100 lbs. weight thereof - - - the lb. 0 0 5
+Snuff containing more than 13 lbs. of moisture in every 100 lbs. weight thereof - the lb. 0 0 5
 
 Snuff not containing more than 13 lbs. of moisture in every 100 lbs. weight thereof - - the lb. 0 0 6
 
@@ -802,7 +802,7 @@ Containing less than 10 lbs. of
 
 moisture in every 100 lbs.
 
-weight thereof - - - the lb. 0 0 4
+weight thereof - the lb. 0 0 4
 
 (2.) Drawback allowed under section one of the Manufactured 26 & 27 Vict. Tobacco Act, 1863, as extended by any subsequent Act, on tobacco c*7-exported from Great Britain or Ireland, or deposited in a bonded or Queen’s warehouse shall, as from the sixth day of May nineteen hundred until the first day of October nineteen hundred and one, be allowed at the rate, of three shillings and a penny upon every pound weight.
 
@@ -814,9 +814,9 @@ Great Britain or Ireland, there shall, as from the sixth day of special kinds Ma
 
 For every thirty-six gallons of beer where the worts thereof are, or were before fermentation, of a specific gravity —
 
-Not exceeding one thousand two hundred and fifteen degrees - - - - - 040
+Not exceeding one thousand two hundred and fifteen degrees - - - 040
 
-Exceeding one thousand two hundred and fifteen degrees - - - - 0 4 8
+Exceeding one thousand two hundred and fifteen degrees - - 0 4 8
 
 (2.) This section shall extend to Berlin white beer, and other preparations, whether fermented or not fermented, of a character similar to mum, spruce, or black beer.
 
@@ -848,7 +848,7 @@ Addition to excise duty on beer.
 
 £ 8. d.
 
-For every gallon, computed at proof, of spirits of any description (except, perfumed, spirits), including naphtha or methylic alcohol, purified so as to be potable, and mixtures and preparations containing spirits - - - - - - 006
+For every gallon, computed at proof, of spirits of any description (except, perfumed, spirits), including naphtha or methylic alcohol, purified so as to be potable, and mixtures and preparations containing spirits - - 006
 
 For every gallon of perfumed spirits - - 0 0 10
 
@@ -1548,7 +1548,7 @@ Oath or affirmation of allegiance.
 
 Member of one House ineligible for other.
 
-is no Speaker or if he is absent from the Commonwealth the Governor-General in Conncil may issue the writ.
+is no Speaker or if he is absent from the Commonwealth the Governor-General in Council may issue the writ.
 
 34. Until the Parliftmeut otherwise provides, the qualifications of a member of the House of Representatives shall be as follows:—
 
@@ -3464,7 +3464,7 @@ Tobacco, unmanufactured, viz.: —
 
 Containing 10 lbs. or more of moisture in every 100 lbs. weight thereof - - the lb.
 
-Containing less than 10 lbs. of moisture in every 100 lbs. weight thereof - - - the lb.
+Containing less than 10 lbs. of moisture in every 100 lbs. weight thereof - the lb.
 
 Tea ---- the lb.
 
@@ -3474,7 +3474,7 @@ Spirits of any kind (except perfumed spirits) computed at hydrometer proof - the
 
 £ 8. d.
 
-For every thirty-six gallons where the worts thereof were before fermentation of a specific gravity of 1055 degrees a duty of- - - -046
+For every thirty-six gallons where the worts thereof were before fermentation of a specific gravity of 1055 degrees a duty of- -046
 
 With a proportionate increase or decrease according to the specific gravity of the worts thereof before fermentation.
 
@@ -7112,11 +7112,11 @@ For the service of the years ended on the 31st March 1899
 
 and 1900: —
 
-Under Act 63 Vict. c. 3. - - - - 466, 770 0 0
+Under Act 63 Vict. c. 3. - - 466, 770 0 0
 
 For the servioe of the year ending on 31st March 1901:—
 
-Under Act 63 Vict. c. 3. - - - - 46, 156, 500 0 0
+Under Act 63 Vict. c. 3. - - 46, 156, 500 0 0
 
 Under this Act .... 95, 234, 796 0 C
 
@@ -7132,7 +7132,7 @@ Appropriation Ad, 1900.
 
 63 & 64 Vict.
 
-Schxd. (B.) SCHEDULE (B.) — Part 1.
+Sched. (B.) SCHEDULE (B.) — Part 1.
 
 Past 1. v
 
@@ -7182,7 +7182,7 @@ Sum granted to meet additional expenditure, in consequence of the war in South A
 
 March 1900; viz.: —
 
-Pay, Ac. of the Army - - - - 2, 400,000
+Pay, Ac. of the Army - - 2, 400,000
 
 Medical establishments: Pay, Ac. 70,000
 
@@ -7190,7 +7190,7 @@ Militia: Pay, Ac........................................ 250,000
 
 Yeomanry Cavalry: Pay and Allowances - 5,000
 
-Volunteer Corps: Pay and Allowances - - - 15,000
+Volunteer Corps: Pay and Allowances - 15,000
 
 Transport and remounts ... - 5,000,000
 
@@ -7234,7 +7234,7 @@ Supply j Grants. Appropriations in Aid.
 
 CIVIL SERVICES. Class I. For expenditure in respect of Post Office and Post Office Telegraph buildings in Great Britain £ 20,000 1 £
 
-For expenditure in respect of sundry public buildings in Great Britain, not provided for on other votes - - - 40,000 *1,000
+For expenditure in respect of sundry public buildings in Great Britain, not provided for on other votes - 40,000 *1,000
 
 For rates and contributions in lien of rates, <fec. in respect of Government property ... 12,000 —
 
@@ -7270,7 +7270,7 @@ For the Department of Science and Art in respect of Science Schools ----
 
 Class Y.
 
-For grants in aid of tho expenses of the British Protectorates in Uganda and in Central and East Africa - - -
+For grants in aid of tho expenses of the British Protectorates in Uganda and in Central and East Africa -
 
 For sundry Colonial services, including certain grants in aid ..... For the subsidies to certain telegraph companies - For making good the net loss on transactions connected with the raising of money for the various Treasury chests abroad in the year 1898-99
 
@@ -7280,7 +7280,7 @@ For making good the sum by which the interest accrued in the year ended 20th Nov
 
 Class VII.
 
-For the salaries and other expenses of temporary Commissioners, committees, and special inquiries For making good certain sums written off from the assets of the local loans fnnd - - -
+For the salaries and other expenses of temporary Commissioners, committees, and special inquiries For making good certain sums written off from the assets of the local loans fnnd -
 
 Total Civil Services -
 
@@ -7504,7 +7504,7 @@ For the expense of the ordnanco factories, the cost of productions of which is c
 
 4, 428,000
 
-Total Army Services (including Ordnance \ Factories) - - - - £ J
+Total Army Services (including Ordnance \ Factories) - - £ J
 
 73, 203, 400
 
@@ -7518,7 +7518,7 @@ Appropriation, 1900.
 
 63 & 64 Vict.
 
-Schxd. (B.)
+Sched. (B.)
 
 Part 7. Civil Services. Class I.
 
@@ -7558,7 +7558,7 @@ and Post Office Telegraph buildings in Great Britain, and certain Post Offices a
 
 8. For expenditure in respect of sundry public
 
-buildings in Great Britain not provided for on othor votes - - - - -
+buildings in Great Britain not provided for on othor votes -
 
 9. For the survey of the United Kingdom, and for
 
@@ -7666,7 +7666,7 @@ No. £ £
 
 12. For salaries and expenses of the Charity Commission for England and Wales 39, 036
 
-13. For salaries and expenses of the Civil Service Commission - - - - - | 43, 774
+13. For salaries and expenses of the Civil Service Commission - - - | 43, 774
 
 14. For salaries and expenses of the department of the Comptroller and Auditor General 62, 691 2, 517
 
@@ -7726,9 +7726,9 @@ of the Registrar General of Births, Ac. in England .....
 
 23. For stationery, printing, paper, binding, and
 
-printed books, for the public servioe, and for the salaries and expenses of the Stationery Office, and for sundry miscellaneous services, including the reports of Parliamentary Debates - - - - -
+printed books, for the public servioe, and for the salaries and expenses of the Stationery Office, and for sundry miscellaneous services, including the reports of Parliamentary Debates -
 
-24. For salaries and expenses of the office of Her Majesty’s Woods, Forests, and Land Revenues, and of the office of Land Revenue Records and Inrolments For salaries and expenses of the office of the Commissioners of Her Majesty’s Works and Public Buildings - - -
+24. For salaries and expenses of the office of Her Majesty’s Woods, Forests, and Land Revenues, and of the office of Land Revenue Records and Inrolments For salaries and expenses of the office of the Commissioners of Her Majesty’s Works and Public Buildings -
 
 For Her Majesty’s foreign and other secret services -
 
@@ -7920,7 +7920,7 @@ No.
 
 2. For certain miscellaneous legal expenses, in-
 
-cluding grants-in-aid of the expenses of the Incorporated Law Societies of England and Ireland - - -
+cluding grants-in-aid of the expenses of the Incorporated Law Societies of England and Ireland -
 
 3. For such of the salaries and expenses of the
 
@@ -8086,7 +8086,7 @@ including certain grants in aid ?. For salaries and expenses of the National Gal
 
 aid for the purchase of pictures 4. For salaries and expenses of the National Portrait Gallery, including a grant in aid for I 17, 374 1, 600
 
-the purchase of portraits - - - 1 5. For the salaries and expenses of the Wallace Collection (Hertford House) - - 6. For sundry grants in aid of scientific investiga- 5, 520 —
+the purchase of portraits - 1 5. For the salaries and expenses of the Wallace Collection (Hertford House) - - 6. For sundry grants in aid of scientific investiga- 5, 520 —
 
 8, 967 — -
 
@@ -8210,9 +8210,9 @@ No. 2. For grants in aid of the expenses of the British Protectorates in Uganda 
 
 Act, 1896 ..... 3. For sundry colonial services, including certain grants in aid (including a supplementary 467, 186
 
-sum of 200,0001.) - - - -4. For a grant in aid of the revenue of the Island 686, 955
+sum of 200,0001.) - -4. For a grant in aid of the revenue of the Island 686, 955
 
-of Cyprus - - -5. For the subsidies to certain Telegraph Com- 32,000 —
+of Cyprus -5. For the subsidies to certain Telegraph Com- 32,000 —
 
 panies 52, 350 23,000
 
@@ -9408,7 +9408,7 @@ CXliii. An Act to con£er additional powers upon the Midland Railway Company and
 
 cxliv. An Act to constitute and incorporate a Joint Water Board consisting of representatives from the Councils of the respective Boroughs of Bury Haslingden and Rawtenstall and the Urban Districts of Radcliffe Ramsbottom Little Lever Whitefield and Tottington and the Rural District of Bury all in the County Palatine of Lancaster and to transfer to and vest in such Board the water undertaking of the Bury Corporation and for other purposes. (Bury and District Water (Transfer).)
 
-CXlT. An Act to alter the numbers and boundaries of the wards of the Borough of Preston and to enable the Mayor Aldermen and Burgesses of the said borough to reconstruct their existing and to construct additional tramways in and adjacent to the borough and to make further provisions for the good government of the borough. (Preston Corporation.)
+CXII. An Act to alter the numbers and boundaries of the wards of the Borough of Preston and to enable the Mayor Aldermen and Burgesses of the said borough to reconstruct their existing and to construct additional tramways in and adjacent to the borough and to make further provisions for the good government of the borough. (Preston Corporation.)
 
 CXlvi. An Act to confer further powers on the London Sea Water Supply Company. (London Sea Water Supply.)
 
@@ -9828,7 +9828,7 @@ Statute and Chapter. i Subject-matter or Short Title. IIow affected. Chapter of 
 
 ! 7 Anne c. 20 Middlesex Registry Restricted - - \ 26, s. 4.
 
-3 Geo. 4. c. 91 - Royal Burghs (S.) - - - j Repealed - - j 49, s. 3.
+3 Geo. 4. c. 91 - Royal Burghs (S.) - j Repealed - - j 49, s. 3.
 
 2 & 3 Will. 4.:
 
@@ -10058,7 +10058,7 @@ c. 66 Intermediate Education (I.) S. 2, 8 amended - 43, ss. 1, 4.
 
 c. 23 Elementary Education - S. 4 amended - 53, s. 6 (1).
 
-c. 41 Burial - - - Extended; s. 1 rep. in part. 15, 88. 8, 9.
+c. 41 Burial - Extended; s. 1 rep. in part. 15, 88. 8, 9.
 
 44 & 45 Vict.:
 
@@ -10114,7 +10114,7 @@ c. 60 Federal Council of Australasia - Rep. with saving - 12, 8. 7.
 
 49 & 50 Vict.:
 
-c. 48 Medical - - - S. 7 amended - xix., s. 10.
+c. 48 Medical - S. 7 amended - xix., s. 10.
 
 50 & 51 Vict.:
 

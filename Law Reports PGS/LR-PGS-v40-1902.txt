@@ -1390,7 +1390,7 @@ Name of Borrower. Amount of Loan. Amount to be Written off.
 
 James Gordon - 120 0 0 2 10 0
 
-Honora Cahill - - - 60 0 0 31 14 9
+Honora Cahill - 60 0 0 31 14 9
 
 180 0 0 34 4 9
 
@@ -1406,11 +1406,11 @@ Name of Borrower. Amount of Loan. Amount to be Written off.
 
 James Hughes - £ 180 0 0 £ 8. d. 116 10 6
 
-John Moore - - - 50 0 0 28 18 5
+John Moore - 50 0 0 28 18 5
 
 Bartholomew Sullivan - 55 0 0 36 2 5
 
-Denis Sullivan - - - 80 0 0 36 10 7
+Denis Sullivan - 80 0 0 36 10 7
 
 Francis Finn - 30 0 0 16 3 6
 
@@ -1418,9 +1418,9 @@ Denis Courtney - . - 56 0 0 40 16 0
 
 John Bane ... 50 0 0 37 2 7
 
-William Wright - - - 50 0 0 49 4 6
+William Wright - 50 0 0 49 4 6
 
-William Wright - - - - 100 0 0 97 13 4
+William Wright - - 100 0 0 97 13 4
 
 651 0 0 459 1 10
 
@@ -1864,13 +1864,13 @@ Grant out of the Consolidated Fund.
 
 For the service of the years ended on the 31st March £ I. d. 1901 and 1902
 
-Under Act 2 Edw. 7. c. 1. - - - 5, 512, 396 2 5
+Under Act 2 Edw. 7. c. 1. - 5, 512, 396 2 5
 
 Under this Act - 100 0 0
 
 For the service of the year ending on 31st March 1903: —
 
-Under Act 2 Edw. 7. c. 1. - - - - 68, 181, 600 0 0
+Under Act 2 Edw. 7. c. 1. - - 68, 181, 600 0 0
 
 Under this Act - 77, 527, 601 0 0
 
@@ -1968,7 +1968,7 @@ CIYIL SERVICES.
 
 Class II.
 
-For the salaries and expenses of the Department of His Majesty’s Secretary of State for Foreign Affairs - - - - ' -
+For the salaries and expenses of the Department of His Majesty’s Secretary of State for Foreign Affairs - - ' -
 
 For the expense of providing stationery, printing, paper, binding and printed books for the Public Service -
 
@@ -2062,7 +2062,7 @@ No. 3. For medical services, including the cost of medical establishments at hom
 
 ' 8. Sect. 1. For the expense of the personnel for shipbuilding, repairs, maintenance, &c., including the cost of establishments of dockyards and naval yards at home and abroad ... - 2, 661, 500 12, 915
 
-, Sect. 2. For the expense of the materiel for shipbuilding, repairs, maintenance, <&c., including the cost of establishments of dockyards and naval yards at home and abroad - - - 4, 812, 700 205,000
+, Sect. 2. For the expense of the materiel for shipbuilding, repairs, maintenance, <&c., including the cost of establishments of dockyards and naval yards at home and abroad - 4, 812, 700 205,000
 
 , Sect. 3. For the expense of contract work for shipbuilding, repairs, &c. - 7, 665, 800 72, 350
 
@@ -2204,7 +2204,7 @@ Abut (Ordnance Factories). £ £
 
 For the expense of the ordnanco factories, the cost of productions of which is charged to the army, navy and Indian and Colonial Governments 355,000 4, 650,000
 
-Total Army Services (including Ordnance \ Factories) - - - - j 69, 665,000 9, 200, 299
+Total Army Services (including Ordnance \ Factories) - - j 69, 665,000 9, 200, 299
 
 Schbd. (3.) SCHEDULE (B.) — Part 8.
 
@@ -2322,7 +2322,7 @@ No. £ £
 
 House of Lords .... 7, 657
 
-2. For salaries and expenses in the offices of the Houbo of Commons - - - 25, 044 34, 500
+2. For salaries and expenses in the offices of the Houbo of Commons - 25, 044 34, 500
 
 3. For salaries and other expenses of the department of His Majesty’s Treasury and subordinate departments, including expenses in respect of advances under the Light Railways ' 89, 851 3, 800
 
@@ -2366,7 +2366,7 @@ Council -7a. For the salaries and expenses of the office of 12, 390 1, 508
 
 the Lord Privy Seal -8. For salaries and expenses of the office of the Committee of Privy Council for Trade and subordinate departments, including a grant 1,000
 
-in aid - - - - 9. For the salaries and expenses of certain services transferred from the Mercantile Marine Fund and other services connected with the 197, 465 10, 645
+in aid - - 9. For the salaries and expenses of certain services transferred from the Mercantile Marine Fund and other services connected with the 197, 465 10, 645
 
 Mercantile Marine ... 10. For meeting the deficiency of income from fees, Ac. for the requirements of the Board of Trade, under the Bankruptcy Acts, 1883 and 1890, and the Companies (Winding-up) Act, 96, 826 52, 300
 
@@ -2506,7 +2506,7 @@ the salaries and expenses of the department of the Solicitor for the affairs of 
 
 3. For such of the salaries and expenses of the Supreme Court of Judicature as are not charged on the Consolidated Fund - 320, 929 54, 300
 
-4. For salaries and expenses of the office of land registry - - - - - 89, 202
+4. For salaries and expenses of the office of land registry - - - 89, 202
 
 5. For salaries and expenses connected with the County Courts - 41,000 460, 665
 
@@ -4060,7 +4060,7 @@ EMctoSte0f (Application of Enactments) Order, 1898 (which provides for the Its?'
 
 Amendment of 12. — (1) Notwithstanding anything in Article thirfcy-six of the
 
-Bn£i°°0f schedule to the Local Government (Application of Enactments) Order, schednle, Order, 1898, the Local Government Board shall, by order, on article 86, as request made by a resolution of a county council, passed by two-meeti^'TofO^ thirds of the members of the council duly summoned on not less councils. than one month’s notice, authorise the council to hold half-yearly, instead of quarterly, meetings.
+Bn£i°°0f schedule to the Local Government (Application of Enactments) Order, schedule, Order, 1898, the Local Government Board shall, by order, on article 86, as request made by a resolution of a county council, passed by two-meeti^'TofO^ thirds of the members of the council duly summoned on not less councils. than one month’s notice, authorise the council to hold half-yearly, instead of quarterly, meetings.
 
 (2) An order under this section may provide for the transaction, at a half-yearly meeting, of any business which would, if the order had not been made, have been transacted at a quarterly meeting.
 
@@ -6740,7 +6740,7 @@ e. 48 Industrial Schools Amended 42, ss. 5, 25 (2),
 
 Sch. III. (1).
 
-43 Vict. c. 6 Beer Dealers Retail Licences - Repealed - - - 28, s. 33, Sch.
+43 Vict. c. 6 Beer Dealers Retail Licences - Repealed - 28, s. 33, Sch.
 
 43 & 44 Vict. c. 23 Elementary Education Amended; s. 3 rep. 42, ss. 5, 25 (2),
 
@@ -6756,7 +6756,7 @@ c. 58 Army - S. 174 repealed - 28, s. 33, Sch.
 
 6 Vict.:
 
-c. 34 Beer Dealers Retail Licences - Repealed - - - 28, s. 33, Sch
+c. 34 Beer Dealers Retail Licences - Repealed - 28, s. 33, Sch
 
 c. 49 Militia - Ss. 3, 4 ext. to yeomanry - 39.
 
@@ -6870,7 +6870,7 @@ c. 37 Local Government (I.) - S. 80 applied -Ss. 10 (3) (p). 15 (9), | 42 (3), 5
 
 c. 53 Libraries Offences Ext. to Ireland -
 
-C. 60 1 Inebriates - - - S. 2, Sch. I. amended -
+C. 60 1 Inebriates - S. 2, Sch. I. amended -
 
 62 & 63 Vict.:
 
@@ -6894,7 +6894,7 @@ c. 53 Elementary Education - Amended; 8. 3 rep.
 
 c. 4 Civil List - S. 1 applied -
 
-c. 7 Finance - - - 1 S. 2 am.; s. 10 explained
+c. 7 Finance - 1 S. 2 am.; s. 10 explained
 
 c. 11 Education - Continued and amended -
 

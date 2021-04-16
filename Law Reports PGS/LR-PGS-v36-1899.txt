@@ -594,21 +594,21 @@ Wine —
 
 Not exceeding 80 degrees of proof spirit, the
 
-gallon - - - - - - - 013
+gallon - - - 013
 
 Exceeding 30 but not exceeding 42 degrees
 
-of proof spirit, the gallon - - - 0 3 0
+of proof spirit, the gallon - 0 3 0
 
-And for every degree, or part of a degree, beyond the highest above charged, an additional duty, the gallon - - - 0 0 3
+And for every degree, or part of a degree, beyond the highest above charged, an additional duty, the gallon - 0 0 3
 
 Sparkling wine in bottle, an additional duty,
 
-the gallon - - - - 0 2 6
+the gallon - - 0 2 6
 
 Still wine in bottle, an additional duty, the
 
-gallon - - - - - - - 010
+gallon - - - 010
 
 In this section —
 
@@ -634,9 +634,9 @@ say)
 
 £ d.
 
-Spirits in bottle, enumerated and tested, and sweetened spirits in bottle, unenumerated and tested, the proof gallon - - -010
+Spirits in bottle, enumerated and tested, and sweetened spirits in bottle, unenumerated and tested, the proof gallon -010
 
-Perfumed spirits, liqueurs, cordials, mixtures, and other preparations in bottle, entered in such a manner as to indicate that the strength is not to be tested, the liquid gallon - - - - - - -010
+Perfumed spirits, liqueurs, cordials, mixtures, and other preparations in bottle, entered in such a manner as to indicate that the strength is not to be tested, the liquid gallon - - -010
 
 PART II.
 
@@ -848,11 +848,11 @@ Equivalents in Sterling of Foreign Currencies.
 
 Gold dollar - - Five to one pound.
 
-Silver dollar Yen -Rouble - - - Ten to one pound.
+Silver dollar Yen -Rouble - Ten to one pound.
 
 Florins Guilders Gulden *1 - > Twelve to one pound.
 
-Rupee - - - - Fifteen to one pound.
+Rupee - - Fifteen to one pound.
 
 Mark - - Twenty to one pound.
 
@@ -5754,7 +5754,7 @@ Barra - - Donald Mclnnes O Duncan McDonald - 1 John Mclnnes - - | Donald Mclnnes
 
 Cromarty - John McIntosh O John McIntosh, junr. - 1 John Mitchell - - j Thomas Fraser - - J 65 0 0 36 13 10 28 6 2
 
-Loch Broom - Roderick McKay O Hugh Gunn - - -1 George McKay - [William McIntosh - J 252 0 0 207 0 11 44 19 1
+Loch Broom - Roderick McKay O Hugh Gunn -1 George McKay - [William McIntosh - J 252 0 0 207 0 11 44 19 1
 
 Stornoway - Alexander McRae, senr.l Kenneth Campbell Alexander McRae, junr. | Angus McSween - - 1 John McKay - - f Donald McSween Roderick McSween Norman Morrison - J 124 10 0 102 0 9 2 14 3 *
 
@@ -6376,7 +6376,7 @@ Seychelles Roads and Survey - Harbour and Railways and Irrigation 20,000
 
 Cyprus .... Mauritius 314,000
 
-Public Works - - - - 32, 820 £3, 351, 820
+Public Works - - 32, 820 £3, 351, 820
 
 CHAPTER 37.
 
@@ -6554,21 +6554,21 @@ BE it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 8.
 
-Wine not exceeding 30 degrees of proof spirit, the gallon - - - - - -013
+Wine not exceeding 30 degrees of proof spirit, the gallon - -013
 
 Exceeding 30, but not exceeding 42 degrees of proof
 
-spirit, the gallon - - - - - -0 3 9
+spirit, the gallon - -0 3 9
 
-And for every degree, or part of a degree, beyond the highest above charged, an additional duty, the gallon - - - - -003
+And for every degree, or part of a degree, beyond the highest above charged, an additional duty, the gallon - - -003
 
 Sparkling wine imported in bottle, an additional
 
-duty, the gallon - - - - - - 026
+duty, the gallon - - 026
 
 Still wine imported in bottle, an additional duty,
 
-the gallon - - - - -010
+the gallon - - -010
 
 (2.) The said duties on wine shall be chargeable, levied, and paid as from the twenty-sixth day of May, one thousand eight hundred and ninety-nine.
 
@@ -6870,7 +6870,7 @@ By Act of 1897 654,000
 
 ---- 4, 505, 320
 
-Further expenditure to be authorised by this Act - - - - - £3, 100,000
+Further expenditure to be authorised by this Act - - - £3, 100,000
 
 138 Ch. 43. Royal Niger Company, 1899. 62 & 63 Vict.
 
@@ -7922,13 +7922,13 @@ SCHED. (A.)
 
 For the service of the years ended on the 31st Maroh 1898 and 1899: —
 
-Under Act 62 Vict. c. 2. - - - 1, 860, 115 5 1
+Under Act 62 Vict. c. 2. - 1, 860, 115 5 1
 
 For the service of the year ending 31st March 1900: —
 
-Under Act 62 Vict. c. 2. - - - - 29, 596, 900 0 0
+Under Act 62 Vict. c. 2. - - 29, 596, 900 0 0
 
-Under this Act - - - 55, 858, 263 0 0
+Under this Act - 55, 858, 263 0 0
 
 Total .... £87, 315, 278 5 1
 
@@ -7996,7 +7996,7 @@ Navy Supplementary, 1898-99.
 
 Sum granted to meet additional expenditure for Navy Services for the year ended on the 31st day of March 1899; viz.: —
 
-Vote 2. Victualling and clothing for the Navy Vote 8. Shipbuilding, repairs, maintenance, &c.: — Sec. 2. Materiel -Vote 9. Naval armaments - - - Sums not exceeding
+Vote 2. Victualling and clothing for the Navy Vote 8. Shipbuilding, repairs, maintenance, &c.: — Sec. 2. Materiel -Vote 9. Naval armaments - Sums not exceeding
 
 Supply Grants. Appropriations in Aid.
 
@@ -8026,7 +8026,7 @@ Sums not exceeding
 
 Supply Grants. Appropriations in Aid.
 
-Volunteer Corps, pay and allowances Transport and remounts >-Clothing establishments and services Warlike and other stores - - -Works, Buildings, and Repairs - £ 261,000 169.000 208.000 630,000 97,000 1 1 1 1 u
+Volunteer Corps, pay and allowances Transport and remounts >-Clothing establishments and services Warlike and other stores -Works, Buildings, and Repairs - £ 261,000 169.000 208.000 630,000 97,000 1 1 1 1 u
 
 Appropriations in Aid (Votes 1, 9, 10) 1, 365,000 480,000 —
 
@@ -8040,7 +8040,7 @@ Sum granted to meet additional Expenditure for
 
 Army Ordnance Factories for the year ended
 
-31st March 1899 - - - 100 400, 900
+31st March 1899 - 100 400, 900
 
 SCHEDULE (B.) — Part 5. Schbd. (B.) *
 
@@ -8090,11 +8090,11 @@ Stuns not exceeding
 
 Class II.
 
-For salaries and expenses of the department of Her Majesty’s Secretary of State for Foreign Affairs - - - - -
+For salaries and expenses of the department of Her Majesty’s Secretary of State for Foreign Affairs -
 
-For the salaries and expenses of Her Majesty's Secretary of State for the Colonies For the salaries and expenses of the Mint, including the expenses of coinage - - -
+For the salaries and expenses of Her Majesty's Secretary of State for the Colonies For the salaries and expenses of the Mint, including the expenses of coinage -
 
-For the salaries and expenses of the Public Record Office - - - - - -
+For the salaries and expenses of the Public Record Office - -
 
 For the salaries and expenses of the General Valuation and Boundary Survey of Ireland
 
@@ -8116,7 +8116,7 @@ For sundry Colonial services, including certain grants in aid - For making good 
 
 Class VI.
 
-For superannuation, retired, compensation, and compassionate allowances - For a grant in aid of the local cost of maintenance of pauper lunatics, Ireland - - -
+For superannuation, retired, compensation, and compassionate allowances - For a grant in aid of the local cost of maintenance of pauper lunatics, Ireland -
 
 For making good the sum by which the interest accrued in the year ended 20th November 1898, from securities held by the National Debt Commissioners, on account of “The Fund for the Banks for Savings ” and “ The Fund for Friendly Societies” was insufficient to meet the interest which the said Commissioners are obliged by statute to pay and credit to trustees of savings banks and to friendly societies; and also the sum by which the interest accrued in the year
 
@@ -8238,7 +8238,7 @@ No. 2. For the expense of victualling and clothing for the navy, including the c
 
 , Sect. 2. For the expense of the materiel for shipbuilding, repairs, maintenance, &c., including the cost of establishments of dockyards and naval yards at home and abroad 3, 799,000 161,000
 
-, Sect. 3. For the expense of contract work for . shipbuilding, repairs, <fce. - - - 6, 601,000 37, 460
+, Sect. 3. For the expense of contract work for . shipbuilding, repairs, <fce. - 6, 601,000 37, 460
 
 9. For naval armaments - 2, 710, 800 44, 785
 
@@ -8250,7 +8250,7 @@ No. 2. For the expense of victualling and clothing for the navy, including the c
 
 13. For half-pay, reserved and retired pay to officers of the navy and marines 774, 700 12, 214
 
-14. For naval and marine pensions, gratuities, and compassionate allowances - - - 1, 116,000 21, 936
+14. For naval and marine pensions, gratuities, and compassionate allowances - 1, 116,000 21, 936
 
 15. For civil pensions and gratuities 341, 500 393
 
@@ -8288,7 +8288,7 @@ number not exceeding 131, 670, including 30,000 militia reserve)
 
 4. For the pay and miscellaneous charges of the
 
-yeomanry cavalry - - - -
+yeomanry cavalry - -
 
 5. For capitation grants and miscellaneous charges
 
@@ -8386,7 +8386,7 @@ Supply Grants. Appropriar-tions in Aid.
 
 Abut (Ordnance Factories). For the expense of the ordnance factories, the cost of productions of which is charged to the army, navy, and Indian and Colonial Governments i £ 100 £ 3, 319,000
 
-Total Abut Services (including Ordnance \ Factories) - - - - £ J 20, 617, 300 6, 519, 133
+Total Abut Services (including Ordnance \ Factories) - - £ J 20, 617, 300 6, 519, 133
 
 SCHEDULE (B.) — Part 8. CIVIL SERVICES. — Class I.
 
@@ -8516,7 +8516,7 @@ House of Lords - -2. For salaries and expenses in the offices of the 10, 099 32,
 
 House of Commons -3. For salaries and expenses of the department of Her Majesty’s Treasury and subordinate 28, 269 30,000
 
-departments - - - - - 4. For salaries and expenses of the office of Her Majesty’s Secretary of State for the Home Department and subordinate offices - 5. For salaries and expenses of the department of Her Majesty’s Secretary of State for Foreign 89, 300 3, 230
+departments - - - 4. For salaries and expenses of the office of Her Majesty’s Secretary of State for the Home Department and subordinate offices - 5. For salaries and expenses of the department of Her Majesty’s Secretary of State for Foreign 89, 300 3, 230
 
 146, 868 7, 800
 
@@ -8740,7 +8740,7 @@ Supreme Court of Judicature as are not charged on the Consolidated Fund
 
 4. For salaries and expenses of the land
 
-registry - - - - -
+registry -
 
 5. For salaries and expenses connected with the
 
@@ -10278,13 +10278,13 @@ lxviii. An Act for incorporating the Brymnawr and Western Valleys Railway Compan
 
 ^ IxiX. An Act to incorporate and confer powers for the supply of Water upon the Barton-on-Sea Water Company.. (Barton-y' on-SeaWater.)
 
-Ixx. An Act to enable the District Committee ' of the Middle Ward of the county of Lanark to construct additional waterworks and certain railways in connection with their undertaking to confer further powers on the County Council of the county of Lanark with respect to the domestic water rate authorised by the Lanarkshire (Middle Ward District) Water Act 1892 and to enable "them to borrow additional money to amend the provisions of the said Act and for other purposes. (Lanarkshire (Middle Ward District) Water.)
+lxx. An Act to enable the District Committee ' of the Middle Ward of the county of Lanark to construct additional waterworks and certain railways in connection with their undertaking to confer further powers on the County Council of the county of Lanark with respect to the domestic water rate authorised by the Lanarkshire (Middle Ward District) Water Act 1892 and to enable "them to borrow additional money to amend the provisions of the said Act and for other purposes. (Lanarkshire (Middle Ward District) Water.)
 
 IXXi. An Act to authorise the Lord Provost Magistrates and Council of the City of Edinburgh to provide erect and maintain a Municipal Hall to provide increased facilities in connection with their Electric Lighting Undertaking to construct works and Tramways to acquire lands to amend Acts and for other purposes. (Edinburgh Corporation.)
 
 lxxii. An Act for supplying with water certain Parishes in the Rural Districts of Wetherby and Tadcaster in the West y Riding of the County of York. (Wetherby District Water.)
 
-Ixxiii. An Act to empower the Airdrie and Coatbridge Water Company to abandon certain works authorised, by the Airdrie and Coatbridge Waterworks Amendment Act 1892 and to construct additional waterworks to amend the provisions of that Act to raise additional capital and for other purposes. (Airdrie and Coatbridge Waterworks Amendment)
+lxxiii. An Act to empower the Airdrie and Coatbridge Water Company to abandon certain works authorised, by the Airdrie and Coatbridge Waterworks Amendment Act 1892 and to construct additional waterworks to amend the provisions of that Act to raise additional capital and for other purposes. (Airdrie and Coatbridge Waterworks Amendment)
 
 J
 
@@ -10960,7 +10960,7 @@ Statute and Subject-matter or Short Title. How affected. Chapter
 
 Chapter. . 62 & 63 Vick
 
-29 Geo. 2. c. 36 -31 Geo. 2. c. 41 - Inclosure - 19 - - - j- Repealed with saving - 30, s. 23.
+29 Geo. 2. c. 36 -31 Geo. 2. c. 41 - Inclosure - 19 - j- Repealed with saving - 30, s. 23.
 
 37 Geo. 3. c. 21 Game Law (Ireland) - Amended 1.
 
@@ -10970,7 +10970,7 @@ Chapter. . 62 & 63 Vick
 
 1 & 2 Geo.4.c. 23 4 & 5 Will. 4. c. 30 Inclosure Common Fields Exchange - > Repealed with saving - 30, s. 23.
 
-6 & 7 Will. 4. c.115 inclosure - - - J
+6 & 7 Will. 4. c.115 inclosure - J
 
 2 & 3 Vict. c. 71 Police Courts (Metropolis) S. 9 repealed with saving 26.
 
@@ -10978,7 +10978,7 @@ Chapter. . 62 & 63 Vick
 
 6 & 7 Vict. c. 18 Parliamentary Voters Registration S. 56 repealed in part 14, s. 35 (2).
 
-c. 73 Solicitors - - - S. 32 amended - 4.
+c. 73 Solicitors - S. 32 amended - 4.
 
 8 & 9 Vict. c. 118 inclosure - S. 150 am.; ss. 121, 122 30, ss. 19, 23.
 
@@ -11108,7 +11108,7 @@ c. 9 Documentary Evidence - S. 4 am. - 50, s. 21.
 
 c. 16 Irish Reproductive Loan Fund- Ss. 2, 3 am. ... 50, ss. 2 (1) (t), 3 (4).
 
-c. 38 Settled land - - - - Parts VII., XII. extended to Scotland. 46, s. 2.
+c. 38 Settled land - - Parts VII., XII. extended to Scotland. 46, s. 2.
 
 c. 48 Reserve Forces - Amended ... 40.
 
@@ -11146,19 +11146,19 @@ c. 32 Open Spaces - S. 5 am.; s. 7 ext. 30, s. 17(1), (3).
 
 c. 42 Public Libraries (Scotland) Amended 5.
 
-51 & 52 Met. c. 65 52 & 53 Vict.:Solicitors - - - Amended - 4.
+51 & 52 Met. c. 65 52 & 53 Vict.:Solicitors - Amended - 4.
 
 c. 6 National Debt - S. 1 repealed 9, s. 16.
 
 c. 50 Local Government (S.) S. 8 am. - - 44, s. 12.
 
-e. 56 Poor Law - - - S. 1 (1), (2), (4), repealed 37, s. 1.
+e. 56 Poor Law - S. 1 (1), (2), (4), repealed 37, s. 1.
 
 c. 72 Infectious Disease (Notification) Ext.; ss. 2 (6) in part. 8, ss. 1, 2, 3.
 
 5 rep., a8 to E.; s. 14 am. as to E., with saving for Huddersfield.
 
-c. 74 Steam Trawling (I.) Ss. 3, 4 am. - - - 50, ss. 2 (1) (i),
+c. 74 Steam Trawling (I.) Ss. 3, 4 am. - 50, ss. 2 (1) (i),
 
 3(4).
 

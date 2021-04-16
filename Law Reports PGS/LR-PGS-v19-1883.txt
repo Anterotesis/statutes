@@ -1286,7 +1286,7 @@ Rates of Pay of Royal Irish Constabulary.
 
 Weekly Pay.
 
-Head constable major - - - m J5. 40 d. 0
+Head constable major - m J5. 40 d. 0
 
 Head constable:
 
@@ -1316,7 +1316,7 @@ Nine to twelve years service - - 24 0
 
 Seven to nine years service - - 23 0
 
-Four to seven years service - - - - 22 0
+Four to seven years service - - 22 0
 
 Six months to four years service - 21 0
 
@@ -1488,11 +1488,11 @@ Weekly Pay.
 
 Acting inspector -
 
-Station sergeant - - - -
+Station sergeant - -
 
 Sergeant holding that rank at the passing of this Act Sergeant, who was an acting sergeant at the passing of this Act, and retires after not less than five years service subsequent to his appointment as acting
 
-sergeant - - - - - -
+sergeant - -
 
 C 2
 
@@ -1540,15 +1540,15 @@ Weekly Pay.
 
 Sergeant, who was an acting sergeant at the passing of s. d.
 
-this Act, and retires after less than five years service subsequent to his appointment as acting sergeant Sergeant, who was a constable at the passing of this Act, and retires after not less than five years service as a sergeant - - -
+this Act, and retires after less than five years service subsequent to his appointment as acting sergeant Sergeant, who was a constable at the passing of this Act, and retires after not less than five years service as a sergeant -
 
 Sergeant, who was a constable at the passing of this. Act,
 
 and retires after less than five years service as a sergeant 112 6
 
-Acting sergeant - - - - - -112 6
+Acting sergeant - -112 6
 
-Constable - - - - - -190
+Constable - -190
 
 The pension of an inspector who became a member of the force before the 12th August- 1867, shall be calculated with reference to the pay which he receives at the time of his retirement.
 
@@ -1564,11 +1564,11 @@ Chief inspector ---- 180 0 0
 
 Weekly Pay.
 
-Inspector - - - - - -119 0
+Inspector - -119 0
 
-The senior acting inspector - - - - 1 19 0
+The senior acting inspector - - 1 19 0
 
-Acting inspector - - - - -118 0
+Acting inspector - - -118 0
 
 Sergeant with not less than five years s?rvice in that rank 118 0
 
@@ -1576,11 +1576,11 @@ Sergeant with not less than two years service in that rank 1 14 6
 
 Sergeant with less than two years service in that rank - 1 13 6
 
-Acting sergeant - - - - - -113 6
+Acting sergeant - -113 6
 
-Detective - - - - - -110 0
+Detective - -110 0
 
-Constable - - - - - -110 0
+Constable - -110 0
 
 CHAPTER 15.
 
@@ -3790,7 +3790,7 @@ u Artizans’ Dwellings ... 99,000 0 0
 
 (c) 30,000 0 0
 
-Fire Brigade - - - 35,000 0 0
+Fire Brigade - 35,000 0 0
 
 («) Road by Wormwood Scrubs ---- 6,000 0 0
 
@@ -3800,7 +3800,7 @@ Fire Brigade - - - 35,000 0 0
 
 (h) Bridges (Act 1881) ---- 300,000 0 0
 
-Artizans’ Dwellings - - - . - 30,000 0 0
+Artizans’ Dwellings - . - 30,000 0 0
 
 (A) New Street, &c., under the Metropolitan and District Railways (City Lines and Extension) Act, 1879, and the Metropolitan and District Railways (City Lines and Extensions) Act, 1882 ---- 500,000 0 0
 
@@ -3808,9 +3808,9 @@ Artizans’ Dwellings - - - . - 30,000 0 0
 
 (m) Metropolitan Board of Works (Various Powers) Act, 1882 51, 500 0 0
 
-9 Main Drainage - - - - - - 190,000 0 0
+9 Main Drainage - - 190,000 0 0
 
-10 (Loans to vestries and district boards - - - - 200,000 0 0
+10 (Loans to vestries and district boards - - 200,000 0 0
 
 Loans to other public bodies - 100,000 0 0
 
@@ -3848,7 +3848,7 @@ Streets under Act of 1877 - - 750,000
 
 Thames River Prevention of Floods - 10,000
 
-Bridges (Act of 1881) - - - 300,000
+Bridges (Act of 1881) - 300,000
 
 Artizans’ Dwellings - 30,000
 
@@ -3856,7 +3856,7 @@ New Street, Ac., under the Metropolitan and District Railways (City Lines and Ex
 
 Brook Green (addition to) - - 2,000
 
-Metropolitan Board of Works (Various Powers) Act, 1882 - - - 50, 970
+Metropolitan Board of Works (Various Powers) Act, 1882 - 50, 970
 
 Main Drainage - 190,000
 
@@ -5502,7 +5502,7 @@ and Inland Revenue and to repeal and I ., _orno,
 
 alter other Duties of Customs and Inland r m P r »
 
-Revenue - - - - - J
+Revenue - - - J
 
 Sections One to Fourteen, Sixteen, Seventeen, and Thirty-four to Thirty-nine.
 
@@ -5518,7 +5518,7 @@ Repealed as to all Her Majesty’s Dominions.
 
 An Act to amend the Lands Clauses Consol i-1 ., ,
 
-elation Act - - - .) m part; namely, -
+elation Act - .) m part; namely, -
 
 Section Two.
 
@@ -5540,7 +5540,7 @@ An Act to amend the Law for licensing Beer-*]
 
 houses, and to make certain Alterations I .
 
-with respect to the Sale by retail of Beer, r m Pa’name Cider, and Wine - - - - J
+with respect to the Sale by retail of Beer, r m Pa’name Cider, and Wine - - J
 
 Sections Ten and Twenty-one.
 
@@ -5556,7 +5556,7 @@ Section Six.
 
 An Act to amend ^lie Law concerning the 'J
 
-Appointment of Deputies by Stipendiary >in part; namely, — Magistrates - - - J
+Appointment of Deputies by Stipendiary >in part; namely, — Magistrates - J
 
 Section One.
 
@@ -5610,7 +5610,7 @@ An Act for amending the Law with respect"]
 
 to the Rating of Occupiers for short terms, I ., .
 
-and the making and collecting of the Poor’s fin Par name Rate - - - - - J
+and the making and collecting of the Poor’s fin Par name Rate - - - J
 
 Section Sixteen from “ and the twelfth ” to the end of that section.
 
@@ -5620,7 +5620,7 @@ matic Salaries, Allowances, and Pensions j in name Section Four, the first parag
 
 An Act to make better Provision respecting "|
 
-Greenwich Hospital, and the Application >in part; namely, — of the Revenues thereof - - - J
+Greenwich Hospital, and the Application >in part; namely, — of the Revenues thereof - J
 
 Sections Two, Ten, and Twelve.
 
@@ -5642,7 +5642,7 @@ Sections Two and Four.
 
 An Act for amending the Public Schools 1 .__________.
 
-Act, 1868 - - - , )m part; namely, -
+Act, 1868 - , )m part; namely, -
 
 The Preamble.
 
@@ -5650,7 +5650,7 @@ Section One.
 
 An Act to amend the Laws relating to the!
 
-Investments for Saving Banks and Post >in part; namely, — Office Savings Banks - - - J
+Investments for Saving Banks and Post >in part; namely, — Office Savings Banks - J
 
 Section Two from “ from time ” to “ such annuities ”.
 
@@ -5666,7 +5666,7 @@ Section Seven.
 
 An Act to amend the Metropolitan Poor "I . _ ,
 
-Act, 1867 - - - jm part; namely, -
+Act, 1867 - jm part; namely, -
 
 Section One from “ and so much ” to “ repealed
 
@@ -5712,19 +5712,19 @@ An Act for appointing Commissioners to Inquire into the Existence of Corrupt Pra
 
 xVn Act to provide for Uniformity in the'J
 
-Assessment of Rateable Property in the > in part; namely, — Metropolis - - - - J
+Assessment of Rateable Property in the > in part; namely, — Metropolis - - J
 
 Section Seventy-seven to “ to this Act and ”, the word “ other ” (where it next occurs), the proviso, and the Fifth Schedule except as to the repeal of so much of any Act as applies the provisions thereby repealed of 25 & 26 Vict. c. 102.
 
 An Act for the further Amendment of the 1 . , i,
 
-Law of Evidence - - -j » part; namely, -
+Law of Evidence -j » part; namely, -
 
 Section One.
 
 An Act to Consolidate and Amend the Law 1.
 
-of Bankruptcy - - - . pn part; namely, -
+of Bankruptcy - . pn part; namely, -
 
 Section Sixty-one, the second paragraph.
 
@@ -5740,13 +5740,13 @@ Section One hundred and thirty-two.
 
 An Act to amend the Law relating to Criminal 1 .
 
-Lunatics- - - - .} m part; namely, -
+Lunatics- - .} m part; namely, -
 
 Section Two from “and all orders” to “valid accordingly; ”.
 
 An Act to amend the Metropolitan Building 1 ., ,
 
-Act, 1855 - - - m part; namely, -
+Act, 1855 - m part; namely, -
 
 Section Six.
 
@@ -5770,7 +5770,7 @@ An Act to continue certain Turnpike Acts in Great Britain, to repeal certain oth
 
 An Act for amending the Law relating to the')
 
-Salaries, Expenses, and Funds of Courts >in part; namely, — of Law in England - - - J
+Salaries, Expenses, and Funds of Courts >in part; namely, — of Law in England - J
 
 Section Eight, from “ and all moneys” to end of that section. Section Nine.
 
@@ -5796,11 +5796,11 @@ c. 92. in part. . An Act to amend the Laws relating to the 1 . ., Fisheries of I
 
 c. 93. An Act to apply a Sum out of the Consolidated Fund and the Surplus of Ways and Means to the service of the year ending the Thirty-first day of March One thousand eight hundred and seventy, and to appropriate the Supplies granted in this Session of Parliament.
 
-c. 96. in part. An Act to amend the Contagious Diseases I, Act, 1866 - - - .j >n part; namely, - Section Four from “ provided that all ” to end of that section. Section Twelve.
+c. 96. in part. An Act to amend the Contagious Diseases I, Act, 1866 - .j >n part; namely, - Section Four from “ provided that all ” to end of that section. Section Twelve.
 
 c. 97. in part. An Act to amend in certain respects the 1 ., , Act for the better Government of India - J in Par name J> Section Five.
 
-c. 98. in part. Section Eight from “which ” to “ meeting”. An Act to define the Powers of the Governor "| General of India in Council at Meetings 1. . for making Laws and Regulations for r certain Purposes - - - - J Section Two.
+c. 98. in part. Section Eight from “which ” to “ meeting”. An Act to define the Powers of the Governor "| General of India in Council at Meetings 1. . for making Laws and Regulations for r certain Purposes - - J Section Two.
 
 c. 100. in part. Repealed as to all Her Majesty’s Dominions. An Act to facilitate the borrowing Money "j in certain Cases for the purpose of the 1. . Sanitary Act, 1866, and the Acts amending | P *'» J> the same; and for other purposes - J Section Three, so far as it relates to a sewer authority and a local board.
 
@@ -5828,7 +5828,7 @@ c. 116. in part. An Act to amend “ The Titles to Land Con-1 ., solidation (Sco
 
 c. 117. in part. An Act to amend “ The Pharmacy Act, 1868 ” - in part; namely, — Sections Two and Four. Schedule (A.).
 
-33 & 34 Vict.. c. 3. in part. An Act to make better provision for*) making Laws and Regulations for certain 1 . . parts of India, and for certain other pur- rm ^'a nftE2e poses relating thereto - - - J Section Four. Repealed as to all Her Majesty’s Dominions.
+33 & 34 Vict.. c. 3. in part. An Act to make better provision for*) making Laws and Regulations for certain 1 . . parts of India, and for certain other pur- rm ^'a nftE2e poses relating thereto - J Section Four. Repealed as to all Her Majesty’s Dominions.
 
 c. 5. An Act to apply certain Sums out of the Consolidated Fund to the service of the years ending on the Thirty-first day of March One thousand eight hundred and sixty-nine, One thousand eight hundred and seventy, and One thousand eight hundred and seventy-one, and preceding years.
 
@@ -5880,7 +5880,7 @@ namely, —
 
 An Act to amend the Law relating to the "I
 
-Surveys of Great Britain, Ireland, and >in part; namely, — the Isle of Man - - - - J
+Surveys of Great Britain, Ireland, and >in part; namely, — the Isle of Man - - J
 
 Section Four.
 
@@ -5890,7 +5890,7 @@ The Schedule.
 
 An Act to amend the Law relating to the!
 
-legal condition of Aliens and British > in part; namely, — Subjects - - - - - J
+legal condition of Aliens and British > in part; namely, — Subjects - - - J
 
 Section Eighteen.
 
@@ -5900,7 +5900,7 @@ An Act to transfer to the Commissioners^) of Her Majesty’s Works and Public I 
 
 the Buildings and Property of the County fin *
 
-Courts in England, and for other purposes | relating thereto - - - -J
+Courts in England, and for other purposes | relating thereto - -J
 
 Section Five.
 
@@ -5922,25 +5922,25 @@ Section Four, the third paragraph.
 
 Section Five to “ repealed, and ”.
 
-An Act to amend “ The Mortgage Deben- "I . turo Act, 1865” - - - -J
+An Act to amend “ The Mortgage Deben- "I . turo Act, 1865” - -J
 
 Section Three.
 
 An Act to abolish Forfeitures for Treason !
 
-and Felony, and to otherwise amend the > in part; namely, — Law relating thereto - - -
+and Felony, and to otherwise amend the > in part; namely, — Law relating thereto -
 
 Section Thirty-one.
 
 An Act for making further provision respect-"j
 
-ing the borrowing of Money by the Metro- >in part; namely, — politan l^oard of Works - - - J
+ing the borrowing of Money by the Metro- >in part; namely, — politan l^oard of Works - J
 
 Section Two.
 
 An Act for the Protection of Inventions')
 
-exhibited at International Exhibitions in >inpart; namely, — the United Kingdom - - - J
+exhibited at International Exhibitions in >inpart; namely, — the United Kingdom - J
 
 Section Four from “ the Workmen’s ” to “ fifty-one; also ”.
 
@@ -5954,7 +5954,7 @@ Section Sixteen.
 
 An Act to apply the sum of Nine million pounds out of the Consolidated Fund to the service of the year ending the Thirty-first day of March, One thousand eight hundred and seventy-one.
 
-An Act to grant certain Duties of Customs and Inland! Revenue, and to repeal and alter other Duties of Cus- >: — toms and Inland Revenue - - - - J
+An Act to grant certain Duties of Customs and Inland! Revenue, and to repeal and alter other Duties of Cus- >: — toms and Inland Revenue - - J
 
 Except Sections One, Four, and Five.
 
@@ -5970,7 +5970,7 @@ Statute Law Revision Act, 1883. 46 & 47 VICT.
 
 c. 44. c. 45. An Act to declare the Stamp Duty chargeable on certain Leases. An Act for establishing a District Registrar of the High Court of Admiralty in England at Liverpool.
 
-c. 46. in part. An Act to amend the Law relating to thel Occupation and Ownership of Land in >in part; namely, — Ireland - - - - - J
+c. 46. in part. An Act to amend the Law relating to thel Occupation and Ownership of Land in >in part; namely, — Ireland - - - J
 
 c. 50. c. 51. Section Thirty-one. Section Sixty-seven from “ or under ” to end of that section. An Act to amend “ The Shipping Dues Exemption Act, 1867.” An Act to repeal an Act intituled “ An Act to alter the mode of giving Notices for the holding of Vestries, of making Proclamation in cases of Outlawry, and of giving Notices on Sundays in respect to various matters, ” so far as such Act relates to the Isle of Man.
 
@@ -5986,7 +5986,7 @@ c. 61. in part. An Act to amend the Law relating to Life 1 . . . Assurance Compa
 
 c. 65. in part. An Act to amend the Law relating to Adver-1 . ., tisements respecting Stolen Goods - / , n Par* "““ly, — Section Four.
 
-c. 71. in part. An Act for consolidating, with Amendments, certain Enactments relating to the > in part; namely, — National Debt - - - - J Section Twenty, the last paragraph. The Second Schedule, Part II.
+c. 71. in part. An Act for consolidating, with Amendments, certain Enactments relating to the > in part; namely, — National Debt - - J Section Twenty, the last paragraph. The Second Schedule, Part II.
 
 c. 73. in part. An Act to continue certain Turnpike Acts in Great Britain, 1 to repeal certain other Turnpike Acts, and to make fur- >: — ther Provisions concerning Turnpike Roads - - J Except Sections Ten to Fourteen.
 
@@ -6020,7 +6020,7 @@ e. 97. in part.
 
 An Act for further Regulation of Duties of 1
 
-Postage, and for other purposes relating to >in part; namely, — the Post Office - - - -
+Postage, and for other purposes relating to >in part; namely, — the Post Office - -
 
 Sections Four, Five, and Nine.
 
@@ -6102,19 +6102,19 @@ Statute Law Revision Act, 1883. 46 & 47 Vict.
 
 33 & 34 Vict. c. 97. in part. — cont. Institution Perpetual Curacy Presentation
 
-c. 98. in part. the words “under the authority of any Act of Parliament” in Exemption (7) under heading beginning ‘‘ Bill op Exchange of any other kind.” and paragraph (1) under heading beginning Letter or Power of Attorney. An Act for consolidating and amending the *| Law relating to the Management of Stamp >in part; namely, — Duties - - - - - J
+c. 98. in part. the words “under the authority of any Act of Parliament” in Exemption (7) under heading beginning ‘‘ Bill op Exchange of any other kind.” and paragraph (1) under heading beginning Letter or Power of Attorney. An Act for consolidating and amending the *| Law relating to the Management of Stamp >in part; namely, — Duties - - - J
 
 c. 103. c. 105. Section Fourteen, sub-section (5.), paragraph (a). An Act to continue various expiring Laws. An Act for appointing a Commission to inquire into the alleged prevalence of the Truck System, and the disregard of the Acts of Parliament prohibiting such System, and for giving such Commission the powers necessary for conducting such Inquiry.
 
-c. 107. c. 108. c. 109. in part. An Act for taking the Census of England. An Act for taking the Census in Scotland. An Act to abolish certain Real Actions in’! the Superior Courts of Common Law in Ireland, and further to amend the Proce- > in part; namely, — jlure in the said Courts; and for other j purposes - - - - - J Section Four, the last paragraph.
+c. 107. c. 108. c. 109. in part. An Act for taking the Census of England. An Act for taking the Census in Scotland. An Act to abolish certain Real Actions in’! the Superior Courts of Common Law in Ireland, and further to amend the Proce- > in part; namely, — jlure in the said Courts; and for other j purposes - - - J Section Four, the last paragraph.
 
 c. 110. in part. An Act to provide for the administration'! of the Law relating to Matrimonial Causes 1 . . . and Matters, and to amend the Law re- r m nttmev> lating to Marriages, in Ireland - - J Sections Five, Nineteen, Twenty, and Twenty-two. Section Thirty-nine to “ void; but ”.
 
-c. 111. in part. An Act to make provision in relation tol certain Beerhouses not duly qualified ac- >in part; namely, — cording to Law - - - J Section One so far as it relates to the fifteenth section of 3 & 4 Vict. c. 61. and the closing hour.
+c. 111. in part. An Act to make provision in relation tol certain Beerhouses not duly qualified ac- >in part; namely, — cording to Law - J Section One so far as it relates to the fifteenth section of 3 & 4 Vict. c. 61. and the closing hour.
 
 c. 112. in part. An Act the title of which begins with Me*! words, — An Act to amend the Act of the first and second years of the Reign of 1 . . . His late Majesty King William the Fourth, 111 Pa namely, — and ends with the words, — Lands for Glebes, in Ireland Section Three, from “ out of” to “ annexed mentioned.” Section Six from “and all the provisions” to end of that section. Section Nine. The Schedule. Provided that the repeal of the Schedule shall not affect the reference thereto in 34 & 35 Vict. c. 100. s. 11.
 
-34 & 35 Vict. c. 3. in part. An Act to empower Committees on Bills’] confirming or giving effect to Provisional 1 . . . Orders to award Costs, and examine Wit- rm ^ar namey» nesses on Oath - - - - J Section One.
+34 & 35 Vict. c. 3. in part. An Act to empower Committees on Bills’] confirming or giving effect to Provisional 1 . . . Orders to award Costs, and examine Wit- rm ^ar namey» nesses on Oath - - J Section One.
 
 c. 5. An Act to make provision for the Assessment of Income Tax.
 
@@ -6134,11 +6134,11 @@ c. 9. An Act for punishing Mutiny and Desertion, and for the better Payment of t
 
 c. 10. An Act for the Regulation of Her Majesty’s Royal Marine Forces while on Shore.
 
-c. 18. in part. An Act to amend the Law disqualifying AtO torneys, Solicitors, and Proctors in practice 1. . . from being Justices of the Pence for f " part! namcl^’~ Counties - - - - J Section One to “ repealed; but ”.
+c. 18. in part. An Act to amend the Law disqualifying AtO torneys, Solicitors, and Proctors in practice 1. . . from being Justices of the Pence for f " part! namcl^’~ Counties - - J Section One to “ repealed; but ”.
 
 c. 20. An Act to apply the Sum of Seven million pounds out of the Consolidated Fund to the Service of the Year ending the Thirty-first day of March One thousand eight hundred and seventy-two.
 
-c. 21. c. 22. in part. An Act to grant Duties of Customs and Income Tax. An Act the title of which begins with words, — An Act to amend the Law in | Ireland relating to Commissions of Lunacy, S-in part; namely, — — and ends with the words, — and for I other purposes - - -J Section Five from “ and every person who is by ” to end of that section. Section Six from “ and every person who is by ” to “ been fixed Section Twenty. Section One hundred and fifteen, from “ Provided always ” to end of that section. Section One hundred and eighteen, the last paragraph. Schedule I.
+c. 21. c. 22. in part. An Act to grant Duties of Customs and Income Tax. An Act the title of which begins with words, — An Act to amend the Law in | Ireland relating to Commissions of Lunacy, S-in part; namely, — — and ends with the words, — and for I other purposes -J Section Five from “ and every person who is by ” to end of that section. Section Six from “ and every person who is by ” to “ been fixed Section Twenty. Section One hundred and fifteen, from “ Provided always ” to end of that section. Section One hundred and eighteen, the last paragraph. Schedule I.
 
 c. 25. An Act the title of which begins with the, — An Act to empower the Lord Lieutenant, — and ends with the, — and to continue “The Peace Preservation (Ireland) Act, 1870.”
 
@@ -6146,7 +6146,7 @@ c. 26. in part. An Act to alter the Law respecting Religious 'j Tests in the Uni
 
 c. 29. in part. An Act to facilitate the payment of Divi- 1 . . dends on India Stocks - . .)m part; namely, -So far as the Act applies 33 & 34 Vict. c. 71. s. 20., the last paragraph.
 
-c. 30. in part. An Act for the further Eegulation of the 1; t namely, -Duties on Postage - - - J r J Section One. Section Two from “and the Acts” to end of that section. Section Four. Schedule Two.
+c. 30. in part. An Act for the further Regulation of the 1; t namely, -Duties on Postage - J r J Section One. Section Two from “and the Acts” to end of that section. Section Four. Schedule Two.
 
 142
 
@@ -6206,7 +6206,7 @@ Section Fourteen.
 
 An Act to amend the Law relating to the"!
 
-Tables of Lessons and Psalter contained >in part; namely, — in the Prayer Book - - - J
+Tables of Lessons and Psalter contained >in part; namely, — in the Prayer Book - J
 
 Section Two from “ Provided that the Table ” to therefor; and”.
 
@@ -6222,7 +6222,7 @@ borrowing of Money by the Metropolitan I. . ., __
 
 Board of Works; and for other purposes f " *
 
-relating thereto - - - - J
+relating thereto - - J
 
 Sections Ten, Fourteen, and Seventeen.
 
@@ -6232,7 +6232,7 @@ to Oaths and Declarations which are not in I. nomfl,
 
 force; and for other purposes connected |
 
-therewith - - - - J
+therewith - - J
 
 Section One to end of subsection (1).
 
@@ -6240,7 +6240,7 @@ The Schedules.
 
 An Act to amend the Matrimonial Causes']
 
-and Marriage Law (Ireland) Amendment >in part; namely, — Act, 1870 - - - -J
+and Marriage Law (Ireland) Amendment >in part; namely, — Act, 1870 - -J
 
 Sections Four and Seventeen.
 
@@ -6262,23 +6262,23 @@ Ch. 39.
 
 143
 
-34 & 35 Vict. — coni. c. 59. in part. An Act to amend “ The Public Libraries"' (Scotland) Act, 1867, ” and to give additional Facilities to the Local Authorities >in part; namely, — entrusted with carrying the same into execution - - - -J Section One.
+34 & 35 Vict. — coni. c. 59. in part. An Act to amend “ The Public Libraries"' (Scotland) Act, 1867, ” and to give additional Facilities to the Local Authorities >in part; namely, — entrusted with carrying the same into execution - -J Section One.
 
-c. 60. in part. An Act to amend the Public Schools Act, 1 . ., 1868 - - - - _ j m part; namely, — The Preamble. Section Two. Section Three, except the last proviso. Section Four.
+c. 60. in part. An Act to amend the Public Schools Act, 1 . ., 1868 - - _ j m part; namely, — The Preamble. Section Two. Section Three, except the last proviso. Section Four.
 
-c. 62. in part. An Act to enable Her Majesty to make"] Regulations relative to the leave of I. f. riornolv absence of Indian Bishops on Furlough (’and Medical Certificates - - - J From “and provided ” to end of Act. Repealed as to all Her Majesty’s Dominions.
+c. 62. in part. An Act to enable Her Majesty to make"] Regulations relative to the leave of I. f. riornolv absence of Indian Bishops on Furlough (’and Medical Certificates - J From “and provided ” to end of Act. Repealed as to all Her Majesty’s Dominions.
 
 c. 65. in part. An Act to amend and consolidate the Laws') . . i, relating to Juriea in Ireland - - Jln P”t; namely’~ Section Four, from “ the several ” to “ repealed and ”, the word “ other (wherever it occurs), and from “ except as to anything ” to end of that section. Sections Five and Eleven. The First Schedule. The Third Schedule, Form A. to Form C. The Fourth and Fifth Schedules. Except as to Section Four and First Schedule, repealed so long as 39 & 40 Vict. c. 21. ss. 2, 4, 5, continue iu force.
 
-c. 68. in part. An Act to determine the Boundaries of the"! Barony and Regality of Glasgow for pur- >in part; namely, — poses of Registration - - - J Sections Two to Four.
+c. 68. in part. An Act to determine the Boundaries of the"! Barony and Regality of Glasgow for pur- >in part; namely, — poses of Registration - J Sections Two to Four.
 
 c. 69. An Act to enable the Board of Trade to dispense with certain provisions of the Tramways Act, 1870, in respect of certain Provisional Orders.
 
 c.72. in part. An Act for the further protection of Pur-"] chasers against Crown Debts, and for 1 amending the Laws relating to the Office >in part; namely, — of the Registrar of Judgments and other J Offices of the Court of Chancery. Ireland J Section One. Schedule A.
 
-c. 73. in part. An Act for making Regulations as to the ] Office of Clerk of the Peace for the County > in part; namely, — Palatine of Lancaster - - - J Section Four to “ repealed, and ”. Section Seven.
+c. 73. in part. An Act for making Regulations as to the ] Office of Clerk of the Peace for the County > in part; namely, — Palatine of Lancaster - J Section Four to “ repealed, and ”. Section Seven.
 
-c. 76. in part. An Act to amend the Law relating to the"] Recovery of Small Debts and to Summary >in part; namely, — Jurisdiction in Ireland - - - J Preamble, the first two paragraphs. Section Three.
+c. 76. in part. An Act to amend the Law relating to the"] Recovery of Small Debts and to Summary >in part; namely, — Jurisdiction in Ireland - J Preamble, the first two paragraphs. Section Three.
 
 144
 
@@ -6288,11 +6288,11 @@ Statute Law Revision Act, 1883. 46 47 Vict.
 
 34 & 35 Vict. — cont. c. 78. in part. An Act to amend the Taw respecting the In-1 ., . epectioD and Regulation of Railways -/ P:nl, mel-v>~ Section Thirteen, the last paragraph. Section Fourteen, the last paragraph. Section Seventeen.
 
-c. 81. c. 82. c. 83. in pai-t. Schedule Two, the third column. An Act to abolish Reductions ex capite lecti in Scotland. Church Building Acts Amendment Act, 1871. An Act for enabling the House of Commons'! and any Committee thereof to administer >in part; namely, — Oaths to Witnesses - - - J Section Two.
+c. 81. c. 82. c. 83. in pai-t. Schedule Two, the third column. An Act to abolish Reductions ex capite lecti in Scotland. Church Building Acts Amendment Act, 1871. An Act for enabling the House of Commons'! and any Committee thereof to administer >in part; namely, — Oaths to Witnesses - J Section Two.
 
-c. 84. in part. An Act to amend “ The Limited Owners 1 . . . Residences Act, 1870 - - - - / m 5 name, ^“ Section Two.
+c. 84. in part. An Act to amend “ The Limited Owners 1 . . . Residences Act, 1870 - - / m 5 name, ^“ Section Two.
 
-c. 86. in part. An Act for the better Regulation of the"! Regular and Auxiliary Land Forces of the 1 . ., Crown; and for other purposes relating rm Pa 5 name thereto - - - - - J Section Two.
+c. 86. in part. An Act for the better Regulation of the"! Regular and Auxiliary Land Forces of the 1 . ., Crown; and for other purposes relating rm Pa 5 name thereto - - - J Section Two.
 
 c. 89. An Act to apply a Sum out of the Consolidated Fund to the Service of the Year ending the Thirty-first day of March One thousand eight hundred and seventy-two, and to appropriate the Supplies granted in this Session of Parliament.
 
@@ -6306,11 +6306,11 @@ c. 97. An Act for making Provision for facilitating the Manoeuvres of Troops to 
 
 c. 98. in part. An Act to amend tbo Vaccination Act, 1867 - in part; namely, — Section Seventeen. The Schedule.
 
-c. 99. in part. An Act to amend the Procedure in the Civil 1 . ., Bill Courts in Ireland - - - J 111 part; namely, — Section Eight.
+c. 99. in part. An Act to amend the Procedure in the Civil 1 . ., Bill Courts in Ireland - J 111 part; namely, — Section Eight.
 
-c. 100. in part. An Act to amend “ The Glebe Loan (Ireland) 1 -, Act, 1870” - - - jm part; namely, — Section Fourteen.
+c. 100. in part. An Act to amend “ The Glebe Loan (Ireland) 1 -, Act, 1870” - jm part; namely, — Section Fourteen.
 
-c. 101. in part. An Act to amend the Law respecting the! proving and sale of Chain Cables and >in part; namely, — Anchors - - - - - J Sections Seven and Nine. The Third Schedule.
+c. 101. in part. An Act to amend the Law respecting the! proving and sale of Chain Cables and >in part; namely, — Anchors - - - J Sections Seven and Nine. The Third Schedule.
 
 e. 102. in part. An Act to amend the Laws of Charitable! . ., Donations and Bequests in Ireland - in Par name Section Two from “ Provided ” to end of that section. Section Four to “ repealed, and ”. Section Six to “ repealed; and ”. Section Eight to “ repealed; and ”.
 
@@ -6326,15 +6326,15 @@ Off. 39.
 
 c. 105. in part. An Act for the safe keeping of Petroleum 1 . . . and other Substances of a like Nature - J 110 Part Dame ¥* Section Seventeen. The Schedules.
 
-c. 109. in part. An Act to amend the Law relating to the'I Local Goverment of Towns and populous > in part; namely, — Places in Ireland - - - J Section Twenty-six.
+c. 109. in part. An Act to amend the Law relating to the'I Local Goverment of Towns and populous > in part; namely, — Places in Ireland - J Section Twenty-six.
 
-c. 110. in part. An Act to amend the Merchant Shipping 1 . ., Acts - - - - part; namely, — Section Twelve.
+c. 110. in part. An Act to amend the Merchant Shipping 1 . ., Acts - - part; namely, — Section Twelve.
 
-c. 111. in part. An Act to amend “ The Beerhouses (Ireland) ”1 Act, 1864, ” and for other purposes relating > in part; namely, — thereto - - - - - J Section Four from “ affect the ” to “ such repeal ”. Section Five.
+c. 111. in part. An Act to amend “ The Beerhouses (Ireland) ”1 Act, 1864, ” and for other purposes relating > in part; namely, — thereto - - - J Section Four from “ affect the ” to “ such repeal ”. Section Five.
 
 c. 112. in part. An Act for the more effectual Prevention of 1 . ., Crime J m part; namely, - Section Twenty-one.
 
-c. 113. in part. An Act to amend “ The Metropolis Water"! Act, 1852and to make further Provision i for the due Supply of Water to the Metro- >in part; namely, — polis and certain Places in the Neigh- I bourhood thereof - - -J Section Five. Section Thirty-nine from “Notwithstanding” to end of that section. Section Fifty-one. Schedules B. and C.
+c. 113. in part. An Act to amend “ The Metropolis Water"! Act, 1852and to make further Provision i for the due Supply of Water to the Metro- >in part; namely, — polis and certain Places in the Neigh- I bourhood thereof -J Section Five. Section Thirty-nine from “Notwithstanding” to end of that section. Section Fifty-one. Schedules B. and C.
 
 c. 115. in part. An Act to continue certain Turnpike Acts" in Great Britain, to repeal certain other 1 ., Turnpike Acts, and to make further Pro- > P visions concerning Turnpike Roads Sections One to Fourteen. Section Fifteen, the last paragraph. Section Sixteen, the words and figures “or the Annual Turnpike Acts Continuance Act, 1868, ” and the last paragraph. The Schedules.
 
@@ -6388,7 +6388,7 @@ Section Seven.
 
 An Act to continue the Appointment and '
 
-Jurisdiction of the Commissioners for the Sale of Incumbered Estates in the West Indies - - -
+Jurisdiction of the Commissioners for the Sale of Incumbered Estates in the West Indies -
 
 Section Three.
 
@@ -6404,7 +6404,7 @@ Section One.
 
 An Act to grant certain Duties of Customs'!
 
-and Inland Revenue and to alter other >in part; namely, — Duties - - - - - J
+and Inland Revenue and to alter other >in part; namely, — Duties - - - J
 
 Sections Two to Four.
 
@@ -6450,11 +6450,11 @@ Schedule Two.
 
 1883. Statute Law Revision A, 1883. Ch. 39. 147
 
-35 & 36 Vict. — cont. c. 47. in part. An Act to amend the Act of the thirtieth"1 and thirty-first years of Victoria, chapter eighty-five, intituled “ An Act to include ! ., the whole of the Burgh of Galashiels within fin name y, the County, Sheriffdom, and Commis-sariot of Selkirk ” - - -J Section Two.
+35 & 36 Vict. — cont. c. 47. in part. An Act to amend the Act of the thirtieth"1 and thirty-first years of Victoria, chapter eighty-five, intituled “ An Act to include ! ., the whole of the Burgh of Galashiels within fin name y, the County, Sheriffdom, and Commis-sariot of Selkirk ” -J Section Two.
 
 c. 54. c. 55. in part. An Act to amend the Public Schools Act, 1868. An Act for making better provision for the'] erection of Lighthouses on the Great 1 . ., Basses Rock, and on the Little Basses f m P » a Rock in the Colony of Ceylon - - J Section Eight.
 
-c. 57. in part. An Act for the Abolition of Imprisonment for"] Debt in Ireland, and for the Punishment of I . . # . fraudulent Debtors, and for other purposes | n Pa uame relating thereto - - - - J Section Six, the last paragraph. Section Twenty-seven.
+c. 57. in part. An Act for the Abolition of Imprisonment for"] Debt in Ireland, and for the Punishment of I . . # . fraudulent Debtors, and for other purposes | n Pa uame relating thereto - - J Section Six, the last paragraph. Section Twenty-seven.
 
 c. 58. in part. An Act for the Amendment of the Law of 1 . ., Bankruptcy in Ireland - - . | in part; namely, - Section Five. Section Twenty-one, subsection (3), the second paragraph, and subsection (8). Schedule A.
 
@@ -6462,7 +6462,7 @@ c. 59. An Act to amend Paragraph Three of the Second Schedule of the Elementary 
 
 c. 60. in part. An Act for the better prevention of Corrupt 1 Practices at Municipal Elections, and for I ., . establishing a Tribunal for the trial of the f m Par’name Validity of such Elections - - J Section Twenty-nine. The Schedule.
 
-c. 62. in part. An Act to amend and extend the provisions! of the Law of Scotland on the subject of > in part; namely, — Education - - - -J Section Three from “to endure” in the first paragraph to end of subsection (5). Sections Four, Six, and Seven. Section Twelve, except the last paragraph. Section Twenty-seven from “ and should any school board” to end of that section. Section Twenty-nine to “ Board of Education, or”. Section Thirty-seven from “ And for the purpose ” to end of that section. Section Forty-six from “provided always” to end of that section. Section Seventy-eight. Schedule B., Rule 4.
+c. 62. in part. An Act to amend and extend the provisions! of the Law of Scotland on the subject of > in part; namely, — Education - -J Section Three from “to endure” in the first paragraph to end of subsection (5). Sections Four, Six, and Seven. Section Twelve, except the last paragraph. Section Twenty-seven from “ and should any school board” to end of that section. Section Twenty-nine to “ Board of Education, or”. Section Thirty-seven from “ And for the purpose ” to end of that section. Section Forty-six from “provided always” to end of that section. Section Seventy-eight. Schedule B., Rule 4.
 
 c. 64. An Act for making provision for facilitating the Manoeuvres of Troops to be assembled during the ensuing Autumn.
 
@@ -6474,13 +6474,13 @@ Ch. 39.
 
 148 Ch. 31 ). Statute Law Revision, 1883. 46 & 47 Vict.
 
-35 & 36 V ict. — cont. c. 69. in part. An Act the title of which begins with 1 words, — An Act for constituting a Local Government Board in Ireland, — and ends f in part; namely, — with the words, — Relief of the Poor in 1 Ireland - - - - -J Section Twelve from “ section ” to “ 1871, and”. The Schedule, except so far as it relates to 17 & 18 Vict. c. 103. and 34 & 35 Vict. c. 109.
+35 & 36 V ict. — cont. c. 69. in part. An Act the title of which begins with 1 words, — An Act for constituting a Local Government Board in Ireland, — and ends f in part; namely, — with the words, — Relief of the Poor in 1 Ireland - - -J Section Twelve from “ section ” to “ 1871, and”. The Schedule, except so far as it relates to 17 & 18 Vict. c. 103. and 34 & 35 Vict. c. 109.
 
 c. 70. in part. An Act to make better provision respecting"] certain Fees payable to the Law Officers >in part; namely, — of the Crown for England - - J Section Two from “ but this ” to end of that section.
 
 c. 73. in part. An Act to amend the Merchant Shipping 1 ., , Acts and the Passenger Acts - « j .n part; namely, -Section Three from “and the fourth” to 1871 ”.
 
-c. 76. in part. Section Five to “ repealed, and ”. Section Eight to “ repealed, and Section Ten from “the Trinity House of Deptford Strond shall ” to “ per annum; and that ”. An Act to consolidate and amend the Acts'] relating to the Regulation of Coal Mines > in part; namely, — and certain other Alines - - -J Section Nineteen, the words “ The Weights and Measures Act, or ” and the second paragraph (including the subsections). Sections Twenty-three, Twenty-four, and Seventy-six. Schedule Three.
+c. 76. in part. Section Five to “ repealed, and ”. Section Eight to “ repealed, and Section Ten from “the Trinity House of Deptford Strond shall ” to “ per annum; and that ”. An Act to consolidate and amend the Acts'] relating to the Regulation of Coal Mines > in part; namely, — and certain other Alines -J Section Nineteen, the words “ The Weights and Measures Act, or ” and the second paragraph (including the subsections). Sections Twenty-three, Twenty-four, and Seventy-six. Schedule Three.
 
 c. 77. in part. An Act to consolidate and amend the Law 1 ., , , relating to Metalliferous Mines - - j m Par^ '* n me Section Forty-five. The Schedule.
 
@@ -6506,11 +6506,11 @@ Ch. 30.
 
 c. 92. in part. An Act to render unnecessary the general 1 . . . Appointment of Parish Constables . j m part; namely, -Section Three from “ and the twelfth ” to “ repealed, ”. Section Thirteen.
 
-c. 93. in part. An Act for consolidating, with Amendments, "j the Acts relating to Pawnbrokers in Great >in part; namely, — Britain - - - - - J Section Four from “ but this repeal ” to end of that section. Section Fifty-four.
+c. 93. in part. An Act for consolidating, with Amendments, "j the Acts relating to Pawnbrokers in Great >in part; namely, — Britain - - - J Section Four from “ but this repeal ” to end of that section. Section Fifty-four.
 
 c. 94. in part. Ancattgtiq1uTs1, lti-nS the-Sttle °*- Intox‘: | in jmrt; name, 7>_ Section Twenty-eight from “ and where other ” to “ nine of the clock Section Thirty-seven, the last paragraph. Section Thirty-eight from “Provided that” to end of subsection 2. Section Forty, the last paragraph to “ had not passed ”. Section Sixty-nine from “ Provided that ” to end of that section. Section Seventy-four from “Police district means” to “him in that behalf: ”. Section Seventy-five to end of subsection (6). Section Seventy-seven as to the interpretation of the terms “ License, ” “ Licensing justices, ” “register of licenses, ” and “ clerk to the licensing justices ”. Section Eighty. The Second Schedule.
 
-36 & 37 Vict. c. 2. in part. An Act to make special provisions in relation 'j to the Constitution of certain Polling 1. ., Districts at Parliamentary Elections in | P » 7» Ireland - - - - - J Section One. Section Two, subsections (1) to (5). Section Three to “ be it enacted that ”, The Schedule.
+36 & 37 Vict. c. 2. in part. An Act to make special provisions in relation 'j to the Constitution of certain Polling 1. ., Districts at Parliamentary Elections in | P » 7» Ireland - - - J Section One. Section Two, subsections (1) to (5). Section Three to “ be it enacted that ”, The Schedule.
 
 c. 3. An Act to apply certain Sums out of the Consolidated Fund to the Service of the Years ending the Thirty-first day of March One thousand eight hundred and seventy-two, One thousand eight hundred and seventy-three, and One thousand eight hundred and seventy-four.
 
@@ -6530,7 +6530,7 @@ Statute Law Revision Act, 1883. 46 & 47 Vict.
 
 36 & 37 Vict. — cont. c. 11. An Act for the Regulation of Her Majesty’s Royal Marine Forces while on shore.
 
-c. 12. in part. An Act to amend the Law as to the Custody 1 . ., of Infants - - - '.jin part; namely, — Section Three.
+c. 12. in part. An Act to amend the Law as to the Custody 1 . ., of Infants - '.jin part; namely, — Section Three.
 
 c. 13. An Act to discontinue the Office of Special Commissioners of Salmon Fisheries in England.
 
@@ -6538,9 +6538,9 @@ c. 14. in part. An Act to repeal the Acts relating to the Harbour of Port-1 patr
 
 c. 17. in part. An Act the title of which begins with the'} words, — An Act to provide for the Redemption or Commutation of the Dividend ! ., on the Capital Stock of the East India fm 5 namel^“’ Company, — and ends with the, — Dissolution of the East India Company Sections Three to Nine. Section Ten to. “ shall think fit; and ”. Sections Eleven to Fifteen, Nineteen to Twenty-three, Twenty-six, Thirty-five, and Thirty-six. Provided that, without prejudice to the general savings in this Act, this repeal shall not affect any jurisdiction or procedure given or authorised by the enactments repealed with reference to questions arising in consequence of any commutation or payment, or affect any protection thereby conferred in reference to any act, matter, or thing done by any trustee, executor, administrator, or other person.
 
-c. 18. in part. An Act to grant certain Duties of Customs and Inland 1 Revenue, and to alter other Duties - - - j Except Sections One, Four, and Five.
+c. 18. in part. An Act to grant certain Duties of Customs and Inland 1 Revenue, and to alter other Duties - j Except Sections One, Four, and Five.
 
-c. 19. in part. An Act for making better provision for the "| management in certain cases of lands 1 . >, allotted under Local Acts of Inclosure for f P e Y* the benefit of the Poor - - - J Section Ten.
+c. 19. in part. An Act for making better provision for the "| management in certain cases of lands 1 . >, allotted under Local Acts of Inclosure for f P e Y* the benefit of the Poor - J Section Ten.
 
 c. 21. in part. An Act to abolish Tests in Trinity College 1 . ., and the University of Dublin - - j m part; namely, — The last section. The Schedule.
 
@@ -6560,13 +6560,13 @@ Ch. 39.
 
 151
 
-36 & 37 Vict. — cont. c. 32. in part. An Act to enable the Secretary of State in Council of India to raise Money in the 1 . . . United Kingdom for the Service of the rin Par > name y, Government of India - - - J
+36 & 37 Vict. — cont. c. 32. in part. An Act to enable the Secretary of State in Council of India to raise Money in the 1 . . . United Kingdom for the Service of the rin Par > name y, Government of India - J
 
 c. 37. in part. Section One, the last paragraph. An Act to amend the Law relating to Fairs 1, , in England and Wales - - . j m part; namely, - Section Five.
 
 c. 38. in part An Act the title of which begins with words, — An Act to amend an Act passed in the fifth year of the reign of His I. ., Majesty George the Fourth — and ends f m part; namely>“ with the words, — “ The Vagrant Act j Amendment Act, 1868 ” - -J Section Five.
 
-c. 41. in part. An Act to amend the Public Schools Act, 1 1868, as to the Property of Shrewsbury > in part; namely, — and Harrow Schools - - -J Section Two from “ with reference to Shrewsbury ” to “ Shrews bury, and.” Sections Three, Four, and Six to Eight.
+c. 41. in part. An Act to amend the Public Schools Act, 1 1868, as to the Property of Shrewsbury > in part; namely, — and Harrow Schools -J Section Two from “ with reference to Shrewsbury ” to “ Shrews bury, and.” Sections Three, Four, and Six to Eight.
 
 c. 42. in part. An Act for amending the Tithe Commuta- "1 ., tion Acts with respect to Market Gardens j 111 P » name y> Section Two.
 
@@ -6574,9 +6574,9 @@ c. 45. in part. An Act the title of which begins icith words, — An Act to auth
 
 c. 47. An Act the title of which begins with the, — An Act tc amend an Act passed in the session of Parliament held in the thirtieth and thirty-first years, — and ends with the, — Cork and Waterford; and for other purposes relating thereto.
 
-c. 48. in part. An Act to make better provision for carrying T into effect the Railway and Canal Traffic 1 . Act, 1854, and for other purposes con- >inParti ™«>ely, -nected therewith - - - J
+c. 48. in part. An Act to make better provision for carrying T into effect the Railway and Canal Traffic 1 . Act, 1854, and for other purposes con- >inParti ™«>ely, -nected therewith - J
 
-c. 51. in part. Section Thirty-three. An Act to amend the Law relating to the ] Superannuation of Prison Officers in >in part; namely, — Ireland - - - - - J Section Three. The Schedule.
+c. 51. in part. Section Thirty-three. An Act to amend the Law relating to the ] Superannuation of Prison Officers in >in part; namely, — Ireland - - - J Section Three. The Schedule.
 
 c. 53. in part An Act the title of which begins with r words, — An Act to make better provision respecting certain Sums payable to School- . .. » masters of Highland Schools, — and ends Pa with the words, — endowment of addit onal Schools in Scotland - Section Three, the last two paragraphs. Sections Four and Five.
 
@@ -6630,7 +6630,7 @@ An Act the title of which begins with the' '
 
 words, — An Act for the constitution of a Supreme Court, — and ends with the
 
-words, — Judicial Committee of Her Majesty’s Privy Council - - -j
+words, — Judicial Committee of Her Majesty’s Privy Council -j
 
 Section Five, the second paragraph, the words “ the Lord Chief Justice of the Common Pleas, and the Lord Chief Baron ” and from “ shall be styled ” to “ of Justice, and ”.
 
@@ -6690,15 +6690,15 @@ c. 75. c. 79. An Act to continue various expiring Laws. An Act to apply a Sum ou
 
 c. 81. in part. An Act to authorise the division of the ] Wapentake of Langbaurgh in the county j of York into Districts for the purpose of I. . Coroners jurisdiction, and the appointment j n Par name of additional Coroners for the said Wapentake -J Section Six.
 
-c. 85. in part. An Act to amend the Merchant Shipping 1 . . . Acts - - - . jin Parfc; namely, — Section Thirty-three.
+c. 85. in part. An Act to amend the Merchant Shipping 1 . . . Acts - . jin Parfc; namely, — Section Thirty-three.
 
-c. 86. in part. An Act to amend the Elementary Education Act (1870), and for other purposes >in part; namely, — connected therewith - - - J Section Four. Section Six from “ but the said ” to end of that section. Section Ten, the last paragraph. Section Sixteen, the last paragraph. Section Eighteen, the last paragraph. Section Twenty-one from “ but such substitution ” to end of that section. Section Twenty-four, subsections (1.) and (2.) Section Twenty-eight. The Fourth Schedule.
+c. 86. in part. An Act to amend the Elementary Education Act (1870), and for other purposes >in part; namely, — connected therewith - J Section Four. Section Six from “ but the said ” to end of that section. Section Ten, the last paragraph. Section Sixteen, the last paragraph. Section Eighteen, the last paragraph. Section Twenty-one from “ but such substitution ” to end of that section. Section Twenty-four, subsections (1.) and (2.) Section Twenty-eight. The Fourth Schedule.
 
 c. 87. in part. An Act to continue and amend the En- \ . . (lowed Schools Act, 1869 - - j m Part nam^>-Section Nine. Section Fourteen, the last paragraph. Sections Nineteen and Twenty. The Schedule.
 
 c. 88. in part. An Act for consolidating with Amendments'] the Acts for carrying into effect Treaties | for the more effectual Suppression of the } in part; namely, — Slave Trade, and for other purposes con- | nected with the Slave Trade - -J Section Thirty. The Second Schedule.
 
-c. 89. in part. An Act to extend and amend the provisions'] of the Gas and Water Works Facilities >iu part; namely, — Act, 1870 - - - -J Sections Two to Eleven. The Schedule.
+c. 89. in part. An Act to extend and amend the provisions'] of the Gas and Water Works Facilities >iu part; namely, — Act, 1870 - -J Sections Two to Eleven. The Schedule.
 
 154
 
@@ -6706,13 +6706,13 @@ Ch. 39.
 
 Statute Law Revision Act, 1883. 46 & 47 VICT.
 
-36 & 37 Vict. — c. 90. in part. An Act to continue certain Turnpike Acts'') in Great Britain, to repeal certain other 1 ., . Turnpike Acts, and for other purposes j n name7> connected therewith - - -J Sections. One to Twelve. Tho Schedules.
+36 & 37 Vict. — c. 90. in part. An Act to continue certain Turnpike Acts'') in Great Britain, to repeal certain other 1 ., . Turnpike Acts, and for other purposes j n name7> connected therewith -J Sections. One to Twelve. Tho Schedules.
 
 37 & 38 Vict. c. 1. An Act the title of which begins with the, — An Act to apply the Sum of, — and ends with the words, — One thousand eight hundred and seventy-four.
 
 c. 2. An Act to apply the sum of Seven million pounds out of the Consolidated Fund to the Service of the Year ending the Thirty-first day of March One thousand eight hundred and seventy-five.
 
-c. 3. in part. An Act to enable the Secretary of State in 1 Council of India to raise Money in the 1 . ., United Kingdom for the Service of the | ln P8, name Y* Government of India - - -J Section Fourteen.
+c. 3. in part. An Act to enable the Secretary of State in 1 Council of India to raise Money in the 1 . ., United Kingdom for the Service of the | ln P8, name Y* Government of India -J Section Fourteen.
 
 c. 4. Section Fifteen from “ and the provisions ” to end of that section. Section Eighteen. An Act for punishing Mutiny and Desertion, and for the better payment of the Army and their Quarters. 4 i, /» . i r\ i . « r* tt « r . « 1
 
@@ -6826,11 +6826,11 @@ in part.
 
 c. 49. An Act to amend the Laws relating to the 1
 
-in part. Sale and Consumption of Intoxicating >in part; namely, — Liquors - - - - - j Section Two, the words “and as to the provision repealing section twenty-four of the principal Act, ”. Section Four from “ and so much” to end of that section. Section Twelve to “enacted, that”. Section Twenty-seven to “ enactment, and”. Section Thirty-three.
+in part. Sale and Consumption of Intoxicating >in part; namely, — Liquors - - - j Section Two, the words “and as to the provision repealing section twenty-four of the principal Act, ”. Section Four from “ and so much” to end of that section. Section Twelve to “enacted, that”. Section Twenty-seven to “ enactment, and”. Section Thirty-three.
 
 c. 51. An Act to amend the Law respecting the!
 
-in part. Proving and Sale of Chain Cables and > in part; namely, — Anchors - - - - - J Section Six to “in lieu thereof” Section Eight. The Schedule.
+in part. Proving and Sale of Chain Cables and > in part; namely, — Anchors - - - J Section Six to “in lieu thereof” Section Eight. The Schedule.
 
 c. 53. An Act to amend the Law relating to the 1 ., .
 
@@ -6838,7 +6838,7 @@ in part. Payment of Revising Barristers ° . | m part j namely, — Section Five
 
 c. 54. An Act to amend the Law respecting thel
 
-in part. Liability and Valuation of certain Property > in part; namely, — for the purpose of Kates - - - J Section Fourteen.
+in part. Liability and Valuation of certain Property > in part; namely, — for the purpose of Kates - J Section Fourteen.
 
 c. 56. An Act to apply a Sum out of the Consolidated Fund to the Service of the Year ending the thirty-iirst day of March One thousand eight hundred and seventy-five, and to appropriate the Supplies granted in this Session of Parliament.
 
@@ -6860,7 +6860,7 @@ in part. of Evidence in Scotland, and to provide for the recording, by means of 
 
 c. 67. An Act to regulate and otherwise deal withl
 
-in part. Slaughter-houses and certain other Busi- >in part; namely, — . nesses in the Metropolis - - - J Sections Eleven and Fourteen.
+in part. Slaughter-houses and certain other Busi- >in part; namely, — . nesses in the Metropolis - J Sections Eleven and Fourteen.
 
 1883.
 
@@ -6870,23 +6870,23 @@ Cff. 39.
 
 157
 
-37 & 38 Vict. — cont. c. 69. in part. An Act to amend the Laws relating to the 1 Sale and Consumption of Intoxicating >in part; namely, — Liquors in Ireland - - - J Section Three.
+37 & 38 Vict. — cont. c. 69. in part. An Act to amend the Laws relating to the 1 Sale and Consumption of Intoxicating >in part; namely, — Liquors in Ireland - J Section Three.
 
 c. 70. in part. Section Twenty to “ enacted, that ”. Section Thirty-seven, the last paragraph. Section Thirty-eight. An Act to amend the Law relating to the 1 . ., Valuation of Rateable Property in Ireland j P8, » Section Four.
 
-c. 72. in part. An Act to explain and amend the Fines Act 1 (Ireland), 1851, and for other purposes >in part; namely, — relating thereto - - - - J Section Three.
+c. 72. in part. An Act to explain and amend the Fines Act 1 (Ireland), 1851, and for other purposes >in part; namely, — relating thereto - - J Section Three.
 
-c. 73. in part. An Act to amend the Law relating to the" Payment to and Repayment by the Commissioners for the Reduction of the . . . National Debt of Moneys received in and ^in P D e to the accounts relating to the Post Office Savings Bank - - - -J Section Three from “ Section twelve ” to end of that section.
+c. 73. in part. An Act to amend the Law relating to the" Payment to and Repayment by the Commissioners for the Reduction of the . . . National Debt of Moneys received in and ^in P D e to the accounts relating to the Post Office Savings Bank - -J Section Three from “ Section twelve ” to end of that section.
 
 c. 74. in part. An Act to amend the Law respecting certain 1 Receipts and Expenses connected with >in part; namely, — Private Lunatic Asylums in Ireland - J Section Three. The Schedule.
 
-c. 76. c. 77. in part. An Act to continue various expiring Laws. An Act respecting Colonial and certain other "1 . . Clergy - - - - - J m Parc» namev> — Sections Two and Ten. The Schedules.
+c. 76. c. 77. in part. An Act to continue various expiring Laws. An Act respecting Colonial and certain other "1 . . Clergy - - - J m Parc» namev> — Sections Two and Ten. The Schedules.
 
 c. 80. in part. Repealed as to all Her Majesty’s Dominions. An Act to amend the Laws relating to the 1 . ., Royal Irish Constabulary - - J m P"1 1 namel^“ Section Two from paragraph numbered 4. to end of that section. Section Thirteen.
 
 c. 81. in part. The Schedule. An Act to provide for the abolition of certain"] Offices connected with the Great Seal, j and to make better provision respecting }► in part; namely, — the Office of the Clerk of the Crown in 1
 
-c. 82. in part. > Chancery - -J Section Four, the first paragraph. Section Six, the first paragraph. Section Nine, the words “and the Public Offices Fees Act, 1866, shall apply to all such fees ”. Section Twelve. The Schedule. An Act to alter and amend the laws relating"] to the Appointment of Ministers to Parishes >in part; namely, — in Scotland - - - - J Section Three from “ the said Acts ” to repealed, and ”. Sections Four to Six. Section Seven, the second paragraph. Section Eight from “ nor shall anything ” to end of that section. Section Nine from “ the word guardian shall include ” to “ public capacity; ” and from “ heritors shall mean ” to end of that section.
+c. 82. in part. > Chancery - -J Section Four, the first paragraph. Section Six, the first paragraph. Section Nine, the words “and the Public Offices Fees Act, 1866, shall apply to all such fees ”. Section Twelve. The Schedule. An Act to alter and amend the laws relating"] to the Appointment of Ministers to Parishes >in part; namely, — in Scotland - - J Section Three from “ the said Acts ” to repealed, and ”. Sections Four to Six. Section Seven, the second paragraph. Section Eight from “ nor shall anything ” to end of that section. Section Nine from “ the word guardian shall include ” to “ public capacity; ” and from “ heritors shall mean ” to end of that section.
 
 158
 
@@ -6894,13 +6894,13 @@ Ch. 39.
 
 Statute Law Revision Act, 1883. 46 & 47 VICT.
 
-37 & 38 Vict. — cont. c. 83. in part. An Act for delaying the coming into opera-'j tion of the Supreme Court of Judicature >in part; namely, — Act, 1873 - - - -J Section One.
+37 & 38 Vict. — cont. c. 83. in part. An Act for delaying the coming into opera-'j tion of the Supreme Court of Judicature >in part; namely, — Act, 1873 - -J Section One.
 
 c. 86. in part. An Act to amend the Law relating to the 1 . Irish Reproductive Loan Fund - .)m part; namely, - Sections Six and Eight.
 
 c. 87. in part. An Act to amend the Endowed Schools Acts - in part; namely, — Section One, the last paragraph. Section Three to “ inspectors; and ”. Sections Seven and Eight. The Schedule.
 
-c. 83. in part. An Act to amend the Law relating to the") Registration of Births and Deaths in England, and to consolidate the Law re- )>»in part; namely, — spccting the Registration of Births and | Deaths at Sea - - - -J Section Fifty-four. The Fifth Schedule.
+c. 83. in part. An Act to amend the Law relating to the") Registration of Births and Deaths in England, and to consolidate the Law re- )>»in part; namely, — spccting the Registration of Births and | Deaths at Sea - -J Section Fifty-four. The Fifth Schedule.
 
 c. 89. in part. to amend and extend the Sanitary j , n part. nameljr>_ Sections One to Eighteen and Twenty-one to Forty-five. Section Forty-six to “ Sanitary Acts; and ”. Section Forty-eight. Section Forty-nine so far as it relates to slaughter-houses. Section Fifty-seven, the last two paragraphs. Repealed except as to the parish of Woolwich.
 
@@ -6922,7 +6922,7 @@ Ch. 30.
 
 c. 2. An Act to apply the Sum of Seven million pounds out of the Consolidated Fund to the Service of the Year ending the Thirty-first day of March One thousand eight hundred and seventy-six.
 
-c. 3. in part. An Act to make further provision with"] respect to the Salaries of the Magistrates 1 . ., of the Police Courts in the Metropolitan r P Police District - - - - J Section Two. The Schedule.
+c. 3. in part. An Act to make further provision with"] respect to the Salaries of the Magistrates 1 . ., of the Police Courts in the Metropolitan r P Police District - - J Section Two. The Schedule.
 
 c. 5. in part. An Act to amend the Law relating to the 1 . . . Registry of Deeds Office, Ireland _ |m part; namely, -Section One to “ Provided that ”.
 
@@ -6930,7 +6930,7 @@ c. 7. An Act for punishing Mutiny and Desertion, and for the better payment of t
 
 c. 8. An Act for the Regulation of Her Majesty’s Royal Marine Forces while on shore.
 
-c. 9. in part. An Act to repeal Section Eight of (he Build-"} ing Societies Act, 1874, and make other jin part; namely, — provision in lieu thereof - - - J Section One.
+c. 9. in part. An Act to repeal Section Eight of (he Build-"} ing Societies Act, 1874, and make other jin part; namely, — provision in lieu thereof - J Section One.
 
 c. 10. An Act to apply the Sum of Fifteen millions out of the Consolidated Fund to the Service of the Year ending the Thirty-first day of March One thousand eight hundred and seventy-six.
 
@@ -6944,7 +6944,7 @@ c. 17. in part. An Act to amend the Law with respect to"] manufacturing, keeping
 
 c. 19. c. 21. in part. An Act for making perpetual the Bishops Resignation Act, 1869. An Act for amending the Law relating to"] Houses of Public Dancing, Music, or other 1 ., Public Entertainment of the like kind, in jin Par’name the Cities of London and Westminster - J Section Two from “and all proceedings ” to end of that section.
 
-c. 23. in part. An Act to grant certain Duties of Customs"] and Inland Revenue, to alter other Duties, 1., and to amend the Laws relating to Customs (in uame y* and Inland Revenue - - -J Sections Two to Seven. Section Eleven, the first paragraph.
+c. 23. in part. An Act to grant certain Duties of Customs"] and Inland Revenue, to alter other Duties, 1., and to amend the Laws relating to Customs (in uame y* and Inland Revenue -J Sections Two to Seven. Section Eleven, the first paragraph.
 
 1G0
 
@@ -6954,9 +6954,9 @@ Statute Law Revision Act, 1883. 4G & 47 Vict.
 
 38 & 39 Vict. c. 23. in part — cont. Section Twelve from “ taken out after ” to “ after the said lAst-mentioned day ” and from “ and every such licence ” to “ duly of excise ”. Section Fourteen. The Schedule.
 
-c. 25. in part. An Act to consolidate, with amendments, the 1 Acts relating to the Protection of Public > in part; namely, — Stores - - - - -J Section Eighteen to “ save that ”. The Second Schedule.
+c. 25. in part. An Act to consolidate, with amendments, the 1 Acts relating to the Protection of Public > in part; namely, — Stores - - -J Section Eighteen to “ save that ”. The Second Schedule.
 
-c. 26. in part. An Act to amend the Law of Bankruptcy! ., in Scotland - - - '.}'apart; namely, - Section Two.
+c. 26. in part. An Act to amend the Law of Bankruptcy! ., in Scotland - '.}'apart; namely, - Section Two.
 
 c. 28. in part. An Act to amend the Law respecting the"! Superannuation Allowances of certain i . . . Officers of the Staff of the Metropolitan f Y* Police -J Section Four.
 
@@ -6964,17 +6964,17 @@ c. 30. c. 31. An Act to amend the Glebe Loan (Ireland) Amendment Act, 1871. An A
 
 c. 34. in part. An Act the title of which begins with ! wordsy — An Act to amend the Acts re- j lating to the Ecclesiastical Commis- Sin part; namely, — sioners, — and ends with the word, — new I Bishopric of Saint Albans - - J Section Seven from “ and whenever ” to end of that section.
 
-c. 35. in part. An Act for the further Amendment of the"! Laws relating to Turnpike Roads in South >in part; namely, — Wales - - - - - J
+c. 35. in part. An Act for the further Amendment of the"! Laws relating to Turnpike Roads in South >in part; namely, — Wales - - - J
 
 c. 37. c. 39. in part. Section Three to “ effect; namely ”. An Act to amend the Law relating to Juries in Ireland. An Act to amend the provisions of the*') Metalliferous Mines Regulation Act, 1872, 1 ., with respect to the annual Returns from j ” Mines -J Section Four.
 
 c. 40. in part. An Act to amend the Law regulating Muni- 1 ., cipal Elections - - . J m part; namely, - Section Twelve. The Second Schedule.
 
-c. 44. c. 45. in part. An Act to amend the Constabulary (Ireland) Act, 1874. An Act to amend the Law with respect to"! the Reduction of the National Debt and 1 ., , the Charge for the National Debt in the fln Par‘! Consolidated Fund - - - J Section Six.
+c. 44. c. 45. in part. An Act to amend the Constabulary (Ireland) Act, 1874. An Act to amend the Law with respect to"! the Reduction of the National Debt and 1 ., , the Charge for the National Debt in the fln Par‘! Consolidated Fund - J Section Six.
 
-c. 50. in part. An Act to amend the Acts relating to the! ., ., County Courts - - - -j m part; namely, - Section Twelve.
+c. 50. in part. An Act to amend the Acts relating to the! ., ., County Courts - -j m part; namely, - Section Twelve.
 
-c. 51. in part. Schedule (C.) An Act the title of which begins with the'] wordsj — An Act to amend the Act of, — 1 and ends with the words, — Criminal Out- |> in part; namely, — rages upon Natives of the Islands in the j Pacific Ocean ” - - - -J Section Eleveu.
+c. 51. in part. Schedule (C.) An Act the title of which begins with the'] wordsj — An Act to amend the Act of, — 1 and ends with the words, — Criminal Out- |> in part; namely, — rages upon Natives of the Islands in the j Pacific Ocean ” - -J Section Eleveu.
 
 1883.
 
@@ -7018,11 +7018,11 @@ Schedule I.
 
 An Act to further amend the Law of Entail 1 . _ .
 
-in Scotland - - - jmpartj namely, -
+in Scotland - jmpartj namely, -
 
 Section Five, subsection (3.) to “ repealed; but An Act to repeal the Adulteration of Foodl Acts, and to make better provision for the >in part; namely, — Sale of Food and Drugs in a pure state - J Section One.
 
-An Act to repeal the Guarantee by Com-1 panies Act, 1867, and to make other pro- >in part; namely, — vision in lieu thereof - - - J
+An Act to repeal the Guarantee by Com-1 panies Act, 1867, and to make other pro- >in part; namely, — vision in lieu thereof - J
 
 Section One.
 
@@ -7032,7 +7032,7 @@ relating to the raising of Money by the I . ..
 
 Metropolitan Board of Works, and for f P1* 7 *
 
-other purposes - - - - J
+other purposes - - J
 
 Section Two.
 
@@ -7072,9 +7072,9 @@ Ch. 39.
 
 Statute Law Revision Act, 1883. 46 & 47 Vict.
 
-38 & 39 Vict. — cont. c. 74. in part. An Act to amend “ The Public Health') (Scotland) Act, 1867, •> and other Suitary L namel Acts, in respect of Loans for Sanitary J> Purposes - - - - - J Section Three, the first paragraph.
+38 & 39 Vict. — cont. c. 74. in part. An Act to amend “ The Public Health') (Scotland) Act, 1867, •> and other Suitary L namel Acts, in respect of Loans for Sanitary J> Purposes - - - J Section Three, the first paragraph.
 
-c. 76. in part. An Act to make provision for Returns'! relating to Ecclesiastical Fees, and for >in port; namely, — other purposes - - - - J Section Six.
+c. 76. in part. An Act to make provision for Returns'! relating to Ecclesiastical Fees, and for >in port; namely, — other purposes - - J Section Six.
 
 c« 77. in part. An Act to amend and extend the Supreme 1 ., , Court of Judicature Act, 1878 - . | ui part; munely, - Section Three, the first paragraph and the words “ and style ” in the second paragraph. Section Four, the second paragraph from “the Lord Chief Justice of the Common Pleas ” to end of that paragraph, the fourth paragraph* the fifth paragraph, the words, “the Common Pleas Division, the Exchequer Division, ” and the seventh paragraph to “ take effect: ” Section Eight to the end of the first paragraph of the enactment, the next paragraph from “ He shall be entitled ” to end of that paragraph and the next paragraph from “ Provided that ” to end of that paragraph. Section Fourteen, from “and the Lord Chief Justice of England ” in the last paragraph to end of that section. Section Sixteen. Section Seventeen, subsection (1.) the words “and the Court of Appeal” and “ respectively ”. Section Eighteen, the first paragraph from “ except” to “ before the commencement of this Act, ”. Section Nineteen, the words “ the First Schedule hereto and”. Section Twenty, the words “ or in the First Schedule hereto, ”. Section Twenty-six, the third paragraph (to end of the subsections) except subsection (3.) to “ the fees.” Section Twenty-seven. Section Twenty-nine, except the last paragraph. Section Thirty-one. Section Thirty-three, subsection (1.) and the word “ other ” in subsection (2.) Section Thirty-four. The Schedules. Provided that the repeal shall take effect with respect to Sections Sixteen, Eighteen, Nineteen, and Twenty, and the First Schedule from the 24th day of October 1883.
 
@@ -7082,7 +7082,7 @@ c. 78. An Act to apply a Sum out of the Consolidated Fund to the Service of the 
 
 c. 79. in part. Ari1iL\Td the W r.elatiDg -to } io part; namely, -Section Two, the first paragraph. The Schedule.
 
-c. 83. in part. An Act to amend the Law relating to 1 Securities for Louis contracted by Local >in part; namely, — Authorities - - - - J Section Thirty-five.
+c. 83. in part. An Act to amend the Law relating to 1 Securities for Louis contracted by Local >in part; namely, — Authorities - - J Section Thirty-five.
 
 1883.
 
@@ -7096,7 +7096,7 @@ Ch. 39.
 
 c. 87. in part. An Act to simplify Titles and facilitate the 1 . ., Transfer of Land in England - -} m part; namely, -Sections One hundred and thirteen and One hundred and twenty-nine.
 
-c. 89. in part. An Act to consolidate with Amendments'! the Acts relating to Loans for Public > in part; namely, — Works - - - - -J Sections Forty-two, Fifty-two, and Fifty-four. Section Fifty-seven, paragraph (2.).
+c. 89. in part. An Act to consolidate with Amendments'! the Acts relating to Loans for Public > in part; namely, — Works - - -J Sections Forty-two, Fifty-two, and Fifty-four. Section Fifty-seven, paragraph (2.).
 
 c. 94. in part. An Act to amend the Law relating to 1, , . Offences against the Pereon - .} >n part, namely, — Section Two.
 
@@ -7112,9 +7112,9 @@ c. 9. An Act for the Regulation of Her Majesty’s Royal Marine Forces while on 
 
 c. 15. An Act to apply the Sum of Eleven million pounds out of the Consolidated Fund to the Service of the Year ending the thirty-first day of March One thousand eight hundred and seventy-seven..
 
-c. 16. in part. An Act to grant and alter certain Duties 'j of Customs and Inland Revenue, and to I ., , amend the Laws relating to Customs and /m name Inland Revenue - - - - J Section Two. Section Four, the first two paragraphs. Sections Six, Seven, Nine, and Ten. The Schedule to the second (< Section 6."
+c. 16. in part. An Act to grant and alter certain Duties 'j of Customs and Inland Revenue, and to I ., , amend the Laws relating to Customs and /m name Inland Revenue - - J Section Two. Section Four, the first two paragraphs. Sections Six, Seven, Nine, and Ten. The Schedule to the second (< Section 6."
 
-c. 18. in part. An Act to incorporate the Solicitor for the*' Affairs of Her Majesty’s Treasury, and make further provision respecting the . ., Grant of the Administration of the Estates j of deceased Persons for the use of Her | Majesty - - - -J Section Eight. Section Nine, the proviso, sub-section (4.). L 2
+c. 18. in part. An Act to incorporate the Solicitor for the*' Affairs of Her Majesty’s Treasury, and make further provision respecting the . ., Grant of the Administration of the Estates j of deceased Persons for the use of Her | Majesty - -J Section Eight. Section Nine, the proviso, sub-section (4.). L 2
 
 164
 
@@ -7126,19 +7126,19 @@ Statute Law Revision Act, 1883. 46 & 47 Vict.
 
 c. 22. in part. c. 28. in part. An Act to amend the Trade Union Act, 1871- in part; namely, — Section Sixteen, the first paragraph. An Act to amend the Court of Admiralty" (Ireland) Act, 1867, and confer a more . . d extended Admiralty Jurisdiction on the rin P Recorders of Cork and Belfast Section Seven from “ and such fees” to end of that section.
 
-c. 31. in part. An Act to grant Money for the purpose of "| Loans by the Public Works Loan Commis- 1. . sioners, and to amend the Public Works f P Loans Act, 1875 - - - - J Sections Three and Eight.
+c. 31. in part. An Act to grant Money for the purpose of "| Loans by the Public Works Loan Commis- 1. . sioners, and to amend the Public Works f P Loans Act, 1875 - - J Sections Three and Eight.
 
 c. 33. in part. An Act for the Amendmont of the Trade 1 . . . Marks Registration Act, 1875 - . j « part j namely, — Section One, the first paragraph.
 
-c. 34. in part. An Act to amend the Law relating to Elver !. . . Fishing- - - - jin part; namely, — Section One.
+c. 34. in part. An Act to amend the Law relating to Elver !. . . Fishing- - jin part; namely, — Section One.
 
-c. 35. in part. An Act for consolidating the Duties of 1 . ., Customs- - - - jin part; namely, - Section One from “and in the Act” to “so included and repeated in the said table The Schedule from “ or any other vegetable ” to “ chicory or coffee ”, the words and figures “ Paste or chocolate - - the lb. 0 0 2 ”, from “ Malt ” to “ See Spirits ” (where those words next occur), from “ Tea, until the first day of August 1877 ” to “0 3 6” and from “Varnish. See Spirits” to “0 0 1.”
+c. 35. in part. An Act for consolidating the Duties of 1 . ., Customs- - jin part; namely, - Section One from “and in the Act” to “so included and repeated in the said table The Schedule from “ or any other vegetable ” to “ chicory or coffee ”, the words and figures “ Paste or chocolate - - the lb. 0 0 2 ”, from “ Malt ” to “ See Spirits ” (where those words next occur), from “ Tea, until the first day of August 1877 ” to “0 3 6” and from “Varnish. See Spirits” to “0 0 1.”
 
 c. 36. in part. An Act to consolidate the Customs Laws - in part; namely, — Section Twenty-seven, from “ and the specifications ” to end of that section. Section Forty-two, the fourth paragraph of the Table from “ malt (except ” to “ made from malt)”. Section Two hundred and eighty-seven.
 
 c. 37. in part An Act to assimilate the Law in Ireland! to the Law in England as to quieting >in part; namely, — Possessions and Titles against the Crown J Section Four.
 
-c. 38. in part. An Act to extend the Limits of Age up to") which, with the Assent of Boards of j Guardians, Orphan and deserted pauper >in part; namely, — Children may be supported out of Work- [houses in Ireland - - -J Section One.
+c. 38. in part. An Act to extend the Limits of Age up to") which, with the Assent of Boards of j Guardians, Orphan and deserted pauper >in part; namely, — Children may be supported out of Work- [houses in Ireland -J Section One.
 
 1883.
 
@@ -7182,7 +7182,7 @@ Provided that the repeal shall take effect with respect to 6 G. 4. c. i., 7 G. 4
 
 Practitioners to hold certain public Medical I .
 
-Appointments, and for amending the part; namely, -Medical Act - - - - J
+Appointments, and for amending the part; namely, -Medical Act - - J
 
 The first two paragraphs of the Preamble.
 
@@ -7204,7 +7204,7 @@ The Schedule.
 
 An Act to consolidate and amend the Laws 1
 
-relating to Industrial and Provident >in part; namely, — Societies - - - - J
+relating to Industrial and Provident >in part; namely, — Societies - - J
 
 Section Four.
 
@@ -7220,7 +7220,7 @@ An Act to amend tho Law respecting the"|
 
 Powers and Duties vested in the Barrister I .
 
-appointed to certify the Rules of Savings |ln J* Banks - - - - -J
+appointed to certify the Rules of Savings |ln J* Banks - - -J
 
 Section Three, the third paragraph, from “ but until” to end of that paragraph, and the last paragraph.
 
@@ -7228,17 +7228,17 @@ An Act to make further provision respecting"!
 
 the Superannuation Allowance to be I- ^____,
 
-grouted to Civil Servants serving in P"t! namely, -unhealthy Climates - - - J
+grouted to Civil Servants serving in P"t! namely, -unhealthy Climates - J
 
 Section Six.
 
-An Act to provide for the Foundation of a "I new Bishopric out of a part of the Diocese >in part; namely, — of Exeter - - - - J
+An Act to provide for the Foundation of a "I new Bishopric out of a part of the Diocese >in part; namely, — of Exeter - - J
 
 Section Five from “ and whenever ” to end of that section.
 
 An Act for further amending the Acts relaO
 
-ting to the raising of Money by the Metro* I. _ . politan Board of Works; and for other Part; purposes relating thereto - - - J
+ting to the raising of Money by the Metro* I. _ . politan Board of Works; and for other Part; purposes relating thereto - J
 
 Section Three.
 
@@ -7256,13 +7256,13 @@ Statute Lau> Revision Act, 1883. 46 & 47 Vict.
 
 39 & 40 Vict. c. 55. in part — cont. Section Eight, the first three paragraphs. Section Nine, the first three and last paragraphs. Section Ten.
 
-c. 56. in part. An Act for facilitating the regulation and im-"| provement of Commons, and for amending 1 . . the Acts relating to the Inclosure of fm Pftrt; namel*“ Commons - - - - J Section Thirty-four to “ 1845, and”.
+c. 56. in part. An Act for facilitating the regulation and im-"| provement of Commons, and for amending 1 . . the Acts relating to the Inclosure of fm Pftrt; namel*“ Commons - - J Section Thirty-four to “ 1845, and”.
 
 c. 59. in part. An Act for amending the Law in respect of the Appellate Jurisdiction of the House of >in part; namely, — Lords; and for other purposes - - J Section Thirteen. Section Fifteen, the first paragraph from “ Be it enacted ” to end of that paragraph, the fourth and seventh paragraphs, and the ninth paragraph to “ mentioned; and ”. Section Sixteen, from “ and so much of section ” to end of that section. Section Seventeen, the second paragraph, the words “ any three or more of” and from “ of whom” to "specified therein ”, and the Iqst paragraph. Sections Twenty-one and Twenty-four. Provided that the repeal shall take effect with respect to Section Sixteen from the 24th day of October 1883.
 
 c. 60. An Act to apply a Sum out of the Consolidated Fund to the Service of the Year ending the Thirty-first day of March One thousand eight hundred and seventy-seven, and to appropriate the Supplies granted in this Session of Parliament.
 
-c. 61. in part. An Act to provide for the better arrange-"! ment of divided Parishes and other local 1 areas, and to make sundry Amendments >in part; namely, — in the Law relating to the Relief of the | Poor in England - - -J Section Twelve to i(repealed, and”. Section Twenty-seven. Section Twenty-nine, the last paragraph.
+c. 61. in part. An Act to provide for the better arrange-"! ment of divided Parishes and other local 1 areas, and to make sundry Amendments >in part; namely, — in the Law relating to the Relief of the | Poor in England -J Section Twelve to i(repealed, and”. Section Twenty-seven. Section Twenty-nine, the last paragraph.
 
 c. 63. in part. An Act to render necessary in Ireland a" Year’s Notice to Quit to determine a ! . M ., Tenancy from Year to Year, and otherwise rm to amend the Law as to Notices to Quit Section Six to “ before the passing of this Act ”. Section Seven.
 
@@ -7274,11 +7274,11 @@ c. 69. 1 An Act to continue various expiring Laws.
 
 1883. Statute Law Revision 1883. Ch. 39. 167
 
-39 & 40 Vict — cont. c. 70. in part. An Act to alter and amend the Law relating'') to the Administration of Justice in Civil Causes in the ordinary Sheriff Courts in >in part; namely, — . Scotland, and for other purposeB relating I thereto - - - - -J
+39 & 40 Vict — cont. c. 70. in part. An Act to alter and amend the Law relating'') to the Administration of Justice in Civil Causes in the ordinary Sheriff Courts in >in part; namely, — . Scotland, and for other purposeB relating I thereto - - -J
 
 o. 72. Section Twelve, subsection (6.). Section Thirty-five to “ abolished, nnd ”. Section Forty-one from “and sections twelve and thirteen* to end of that section. Section Forty-four the words “ which Schedule C. is hereby repealed ”. Section Forty-eight. Section Fifty-three from “ instead of” to “that purpose, ”. An Act to suspend for a limited period the holding of an Election of a Member or Members to serve in Parliament for the City of Norwich, and to disfranchise certain Voters for the said City, and also certain Voters for the Borough of Boston. Repealed from the 15th day of August 1883.
 
-c. 73. in part. An Act to amend the Pensions Commutation 1 . ., Act, 1871 - - -j in P«rt i namely, — Section Three.
+c. 73. in part. An Act to amend the Pensions Commutation 1 . ., Act, 1871 -j in P«rt i namely, — Section Three.
 
 c. 74. in part. An Act for amending so much of the") Agricultural Holdings (England) Act, 1 1876, a8 relates to die Governors of the >in part; namely, — Bounty of Queen Anne for the Augmenta- j don of the Maintenance of the Poor Clergy J Section Two. The Schedule.
 
@@ -7290,7 +7290,7 @@ c. 78. in part. An Act to amend the Procedure con- \. . . nected with Trial by J
 
 c. 79. in part. An Act to make further provision for Ele- 1 . ., , mentary Eduction - - part; namely, - Section Ten, the last paragraph. Section Nineteen, the first paragraph. Section Forty-four, the words “ which is repealed by this Act ”. The Fourth Schedule.
 
-c. 80. in part. An Act to amend the Merchant Shipping 1 . . . Acts - - - ° j in part; namely, — Section Thirty from “ by the ” to “ authority ”. Section Forty-five. The Schedule.
+c. 80. in part. An Act to amend the Merchant Shipping 1 . . . Acts - ° j in part; namely, — Section Thirty from “ by the ” to “ authority ”. Section Forty-five. The Schedule.
 
 40 &41 Vict. c. 1. An Act to apply the Sum of Three hundred and fifty thousand pounds out of the Consolidated Fund to the Service of the Year ending the Thirty-first day of March One thousand eight hundred and seventy-seven.
 
@@ -7300,9 +7300,9 @@ Ch. 39.
 
 Statute Law Revision Act, 1883. 46 & 47 Vict.
 
-40&41 Vict. — cont. c. 2. in pari. An Act to provide for the preparation, f issue, and payment of Treasury Bills, andl n8mely, — make further provision respecting Ex-1 r J chequer Bills - - - -1_ Section Six, the last paragraph.
+40&41 Vict. — cont. c. 2. in pari. An Act to provide for the preparation, f issue, and payment of Treasury Bills, andl n8mely, — make further provision respecting Ex-1 r J chequer Bills - -1_ Section Six, the last paragraph.
 
-c. 3. in part. An Act to amend the Publicans* Certificates 1 . (Scotland) Act, 1876 - - - J m part; namely, - Section Two to “ enacted that ”, from u at the meeting ” to “ thereof, and *, and from “ in every subsequent to “ shall be made *. Section Three.
+c. 3. in part. An Act to amend the Publicans* Certificates 1 . (Scotland) Act, 1876 - J m part; namely, - Section Two to “ enacted that ”, from u at the meeting ” to “ thereof, and *, and from “ in every subsequent to “ shall be made *. Section Three.
 
 c. 5. An Act to raise the Sum of Seven hundred thousand pounds by Exchequer Bills or Exchequer Bonds for the Service of the Year ending on the Thirty-first day of March One thousand eight hundred and seventy-seven.
 
@@ -7314,11 +7314,11 @@ c. 8. An Act for the Regulation of Her Majesty’s Royal Marine Forces while on 
 
 c. 9. in part. An Act for amending the Supreme Court of 1 ., ., Judicature Acts, 1873 and 1875 - .)m part; namely, — Section Five, from “the Master” to “ Baron Section Six.
 
-c. 11. in part. An Act to make provision with respect 1 to Judicial Proceedings in certain Cases >in part; namely, — relating to Rating - - - J Section Two.
+c. 11. in part. An Act to make provision with respect 1 to Judicial Proceedings in certain Cases >in part; namely, — relating to Rating - J Section Two.
 
 c. 12. An Act to apply the Sum of Five million nine hundred thousand pounds out of the Consolidated Fund to the Service of the Year ending the Thirty-first day of March One thousand eight hundred and seventy-eight.
 
-c. 13. in part. An Act to grant certain Duties of Customs") and Inland Revenue, and to amend the I. ., laws relating to Customs, Inland Revenue, f and Savings Banks - - - J Sections Two, Six to Nine, and Thirteen. Section Seventeen, the last paragraph. Schedule B.
+c. 13. in part. An Act to grant certain Duties of Customs") and Inland Revenue, and to amend the I. ., laws relating to Customs, Inland Revenue, f and Savings Banks - J Sections Two, Six to Nine, and Thirteen. Section Seventeen, the last paragraph. Schedule B.
 
 c. 18. in part. An Act to consolidate and amend the Law 1 relating to Leases and Sales of Settled >in part; namely, ' — Estates - J Section Fifty-eight. The Schedule.
 
@@ -7332,17 +7332,17 @@ c. 20. in part. An Act to fix the Salaries of the Members') of the Royal Irish C
 
 c. 24. An Act to apply the Sum of Twenty million pounds out of the Consolidated Fund to the Service of the Year ending the Thirty-first day of March One thousand eight hundred ami seventy-eight.
 
-c. 25. in part. An Act for regulating the Examination oPl Persons applying to, be admitted Solicitors j of the Supreme Court of Judicature in >inpart; namely, — England, and for otherwise amending the ] Law relating to Solicitors - - -J Section Twenty-two. Section Twenty-three, from “Provided also” to end of that section.
+c. 25. in part. An Act for regulating the Examination oPl Persons applying to, be admitted Solicitors j of the Supreme Court of Judicature in >inpart; namely, — England, and for otherwise amending the ] Law relating to Solicitors -J Section Twenty-two. Section Twenty-three, from “Provided also” to end of that section.
 
-c. 27. in part. An Act the title of which begins with the"^ words, — An Act to grant Money for the j purposes of Loans, — and ends with the ^in part; namely, — words, — -Commissioners of Public Works in Ireland - - - - I Preamble, the fourth and fifth paragraphs. Sections Nine and Ten. Part III. The Second Schedule.
+c. 27. in part. An Act the title of which begins with the"^ words, — An Act to grant Money for the j purposes of Loans, — and ends with the ^in part; namely, — words, — -Commissioners of Public Works in Ireland - - I Preamble, the fourth and fifth paragraphs. Sections Nine and Ten. Part III. The Second Schedule.
 
-c. 32. in part. An Act to remit certain Loans formerly made out ofl the Consolidated Fund or other Public Revenue of the >: — United Kingdom - - - - - J Except so far as it relates to Beattock Inn.
+c. 32. in part. An Act to remit certain Loans formerly made out ofl the Consolidated Fund or other Public Revenue of the >: — United Kingdom - - - J Except so far as it relates to Beattock Inn.
 
 c. 37. An Act for extending the Time for the Registration of Trade Marks, in so far as relates to Trade Marks used in Textile Industries.
 
 c. 38. An Act to continue for One Year the Board of Education in Scotland.
 
-c. 42. in part. An Act to amend the Law relating to the 1 Fisheries of Oysters, Crabs, and Lobsters, >in part; namely, — and other Sea Fisheries - - - J Section Sixteen.
+c. 42. in part. An Act to amend the Law relating to the 1 Fisheries of Oysters, Crabs, and Lobsters, >in part; namely, — and other Sea Fisheries - J Section Sixteen.
 
 c. 43. in part. An Act to amend the Law with respect to') the Appointment, Payment, and Fees of 1 . . Clerks of Justices of the Peace and Clerks >m Pttrt; of Special and Petty Sessions - - J Section Eight, the second paragraph. Section Ten from “and so much” to end of that section.
 
@@ -7428,7 +7428,7 @@ The Schedule.
 
 An Act to amend the Law relating to Prisons 1 .___. _ .
 
-in Scotland - - - _|in part; namely, -
+in Scotland - _|in part; namely, -
 
 Sections Seventeen to Twenty-three and Twenty-six.
 
@@ -7670,7 +7670,7 @@ Ch. 39.
 
 173
 
-41 & 42 Vict. — con c. 39. in part. An Act for the protection of Freshwater 1 . . Fish - - - - - /in Part; nam8lJ» — Section Thirteen.
+41 & 42 Vict. — con c. 39. in part. An Act for the protection of Freshwater 1 . . Fish - - - /in Part; nam8lJ» — Section Thirteen.
 
 c. 45. An Act to apply the Sura of Fourteen millions five hundred thousand pounds out of the Consolidated Fund to the Service of the Year ending on the Thirty-first day of March One thousand eight hundred and seventy-nine.
 
@@ -7700,7 +7700,7 @@ Ch. 3.9, 40.
 
 Statute Law Revision Act, 1883. 46 & 47 Vict.
 
-41&42 Vict. — cont. c. 66. in part. An Act to promote Intermediate Education 1 i t namely, — in Ireland - - - - J Section Six, the last paragraph. The Schedule.
+41&42 Vict. — cont. c. 66. in part. An Act to promote Intermediate Education 1 i t namely, — in Ireland - - J Section Six, the last paragraph. The Schedule.
 
 c. 67. in part.' An Act for extending and amending thel . namely, -Foreign Jurisdiction Acts - J Section Two. First Schedule, the entry relating to 6 A 7 Vict. c. 34. Second Schedule.
 
@@ -7708,11 +7708,11 @@ c. 69. in part. Repealed as to all Her Majesty’s Dominions. An Act to amend th
 
 c. 70. c. 72. in part. An Act to continue various expiring Laws. An Act to prohibit the Sale of Intoxicating 1 . namel Liquors on Sunday m Ireland - ~ I V Section Four, the proviso.
 
-c. 74. in part. An Act for making better provision respect-"! ing Contagious and Infectious Diseases I., of Cattle and other Animals; and for (, mPllrtl other purposes - - - - J Section Four, except the last paragraph. Section Thirty-five, paragraph (2.) from “ and until ” to end of that paragraph. The First Schedule.
+c. 74. in part. An Act for making better provision respect-"! ing Contagious and Infectious Diseases I., of Cattle and other Animals; and for (, mPllrtl other purposes - - J Section Four, except the last paragraph. Section Thirty-five, paragraph (2.) from “ and until ” to end of that paragraph. The First Schedule.
 
 c. 77. in part. An Act to amend the Law relating to HighO ways in England and the Acts relating to 1. . . Locomotives on Roads; and for other, f P;
 
-c. 78. in part. purposes - - - -J Section Nine, the fourth paragraph to “ district fund, and ” and the last paragraph. Section Twelve. An Act to further amend the Provisions of"| the Law of Scotland on the subject of 1 . ' . Education, and for other purposes con- rin’name y» nected therewith - - - J Section Fourteen.
+c. 78. in part. purposes - -J Section Nine, the fourth paragraph to “ district fund, and ” and the last paragraph. Section Twelve. An Act to further amend the Provisions of"| the Law of Scotland on the subject of 1 . ' . Education, and for other purposes con- rin’name y» nected therewith - J Section Fourteen.
 
 CHAPTER 40.
 
@@ -9890,7 +9890,7 @@ Under this Act -
 
 4, 121, 300 0 0 6, 240, 100 0 0 5, 973, 912 0 0 15, 182, 707 0 0. 23, 734, 011 0 0
 
-Total- - - - 57, 485, 988 9 8
+Total- - 57, 485, 988 9 8
 
 1883.
 
@@ -9910,7 +9910,7 @@ Board of Trade ----
 
 Civil Service Commission ....
 
-Fishery Board, Scotland - - - -
+Fishery Board, Scotland - -
 
 Class III.
 
@@ -9926,7 +9926,7 @@ Orange River Territory and St. Helena (Non-Effective Charges)
 
 Class VI.
 
-Pauper Lunatics, Scotland - - - -
+Pauper Lunatics, Scotland - -
 
 Total
 
@@ -9972,7 +9972,7 @@ Royal Parks and Pleasure Grounds Houses of Parliament -County Court Buildings Ha
 
 Class II.
 
-Foreign Office - - - -
+Foreign Office - -
 
 Board of Trade -
 
@@ -10046,7 +10046,7 @@ Class IV.
 
 Public Education, England and Wales British Museum ....
 
-London University - - - -
+London University - -
 
 Deep Sea Exploring Expedition (Report)
 
@@ -10078,7 +10078,7 @@ REVENUE DEPARTMENTS.
 
 Customs .....
 
-Inland Revenue - - -
+Inland Revenue -
 
 Post Office
 
@@ -10156,7 +10156,7 @@ Navy (Supplementary, 1882-83).
 
 For defraying additional Expenditure arising out of mil itary operations iu Egypt, £
 
-incurred during the year ended on the 31st day of March 1883 beyond the Sums granted by Parliament ..... - - - 350,000
+incurred during the year ended on the 31st day of March 1883 beyond the Sums granted by Parliament ..... - 350,000
 
 SCHEDULE (B.) — Part 5. "
 
@@ -10164,7 +10164,7 @@ Army, Supplementary, 1882-83.
 
 For defraying additional Expenditure incurred during the year ended on the £
 
-31st day of March 1883, for Army Services consequent on the despatch of an Expeditionary Force to Egypt - - - - - 728,000
+31st day of March 1883, for Army Services consequent on the despatch of an Expeditionary Force to Egypt - - - 728,000
 
 SCHEDULE (B.) — Part 6. — =
 
@@ -10224,7 +10224,7 @@ I, Sect. 2. For steam machinery, and ships built by contract, Ac.
 
 11. For new works, buildings, machinery, and repairs in the naval establish
 
-ments - - - -
+ments - -
 
 12. For medicines, modical stores, Ac.
 
@@ -10344,7 +10344,7 @@ buildings, and repairs at home and abroad ....
 
 18. For half-pay, Ac., of field marshals, and of general, regimental, and
 
-Departmental officers, exclusive of charges on India - - -
+Departmental officers, exclusive of charges on India -
 
 19. For retired pay, retired fdil pay, and gratuities, for reduced and retired
 
@@ -10360,7 +10360,7 @@ officers, including payments awarded by Army Purchase Commissioners, exclusive o
 
 discharged Negro soldiers, and for gratuities awarded in lieu of pensions, exclusive of charges on India ...
 
-24. For superannuation allowances - - - -
+24. For superannuation allowances - -
 
 25. For retired allowances, Ac. to. officers of the militia, yeomanry, and
 
@@ -10418,7 +10418,7 @@ SCHEDULE (B.) — Part 11.
 
 Army (Indian Home Charges).
 
-For the sum to be transferred in aid of Army Grants to meet the charge incurred in recruiting and training officers and men, and in defraying the non-effective expenditure for the regular forces serving in India, which will come in course of payment during the year ending on the 31st day of March 1884 - - - - - -
+For the sum to be transferred in aid of Army Grants to meet the charge incurred in recruiting and training officers and men, and in defraying the non-effective expenditure for the regular forces serving in India, which will come in course of payment during the year ending on the 31st day of March 1884 - -
 
 1, 230,000
 
@@ -10440,11 +10440,11 @@ Schedule of Suns granted to defray the charges of the several Civil Services her
 
 No- .1. For the maintenance and repair of the royal palaces (including a supple- £
 
-mentary sum of 4,0001) ---- iL-For the maintenance and repair of Marlborough House - - - 3. For the royal parks and pleasure gardens ..... 4. For the buildings of the Houses of Parliament (including a supple- 40, 053 2, 953 113, 322
+mentary sum of 4,0001) ---- iL-For the maintenance and repair of Marlborough House - 3. For the royal parks and pleasure gardens ..... 4. For the buildings of the Houses of Parliament (including a supple- 40, 053 2, 953 113, 322
 
 mentary sum of 4, 8951) ---- 5. For the execution and erection of a statue in the Collegiate Church of St. Peter, Westminster, to the memory of the late Right Honourable 40, 115
 
-Benjamin Disraeli, Earl of Beaoonsfield, K.G., P.O. - - -6. For the maintenance and repair of publio buildings in Great Britain and the Isle of Man, including various special works; for providing the necessary supply of water; for rents of houses hired for accommodation 1, 050
+Benjamin Disraeli, Earl of Beaoonsfield, K.G., P.O. -6. For the maintenance and repair of publio buildings in Great Britain and the Isle of Man, including various special works; for providing the necessary supply of water; for rents of houses hired for accommodation 1, 050
 
 of public departments, and charges attendant thereon -7. For the acquisition of a site for the Admiralty and War Office, and preliminary expenses, under the provisions of the Public Offices Site 147, 762
 
@@ -10452,7 +10452,7 @@ Act, 1882 8. For the supply and repair of furniture in the public departments of
 
 Britain - .9. For the expenses of the Customs, Inland Revenue, Post Office, and Post Office Telegraph Buildings, in Great Britain, including furniture, fuel, 16, 730
 
-and sundry miscellaneous services - - - -10. For new buildings for county courts, maintenance and repair of courts, 334, 312
+and sundry miscellaneous services - -10. For new buildings for county courts, maintenance and repair of courts, 334, 312
 
 supply of furniture, fuel, &c., and for charges attendant thereon 11. For charges connected with Metropolitan Police Court BuildingB 12. For one half of the expense of erecting or improving court houses or offices for the sheriff courts in Scotland, and the expense of maintaining 35, 150 6, 175:
 
@@ -10560,7 +10560,7 @@ Honourable Privy Council and subordinate departments
 
 9. For salaries and expenses of the office of the Committee of Privy Council
 
-for Trade, and subordinate departments - - - - -
+for Trade, and subordinate departments -
 
 10. For salaries and expenses of the Charity Commission for England and
 
@@ -10678,7 +10678,7 @@ No.
 
 For salaries and expenses of the Mint, including the expenses of the coinage ----
 
-For salaries and expenses of the National Debt Office - For charges connected with the Patent Law Amendment Act, the Registration of Trade Marks Act, and the Registration of Designs Act For salaries and expenses of the department of Her Majesty’s Paymaster General in London and Dublin - For salaries and expenses of the establishments under the Public Works Loan Commissioners - For salaries and expenses of the Public Record Office in England For salaries and expenses of the department of the Registrar General of Births, Ac. in England - - -
+For salaries and expenses of the National Debt Office - For charges connected with the Patent Law Amendment Act, the Registration of Trade Marks Act, and the Registration of Designs Act For salaries and expenses of the department of Her Majesty’s Paymaster General in London and Dublin - For salaries and expenses of the establishments under the Public Works Loan Commissioners - For salaries and expenses of the Public Record Office in England For salaries and expenses of the department of the Registrar General of Births, Ac. in England -
 
 For stationery, printing, and paper, binding, and printed books, for the several departments of Government in England, Scotland, and Ireland, and some dependencies, and for the two Houses of Parliament; for the salaries and expenses of the Establishment of the Stationery Officer and the cost of Stationery Office publications, and of the Gazette Offices; and for sundry miscellaneous services, including a grant in aid of the publication of Parliamentary Debates - For salaries and expenses of the office of Woods, Forests, and Land Revenues, and of the office of Land Revenue Records and Inrolmenta - For salaries and expenses of the office of the Commissioners of Her Majesty’s Works and Public Buildings -In aid of the Mercantile Marine Fund - For Her Majesty’s foreign and other secret services
 
@@ -10686,13 +10686,13 @@ For salaries and expenses of the department of the Queen’s and Lord Treasurer�
 
 For salaries and expenses of the Board of Lunacy in Scotland For salaries and expenses of the department of the Registrar General of Births, Ac. in Scotland .......
 
-For salaries and expenses of the Board of Supervision for Relief of the Poor, and for expenses under the Public Health and Vaccination Acts, including certain grants in aid of local taxation in Scotland For salaries of the officers and attendants of the household of the Lord Lieutenant of Ireland and other expenses For salaries and expenses of the offices of the Chief Secretary to the Lord Lieutenant of Ireland, in Dublin and London, and subordinate departments - - - - - - -
+For salaries and expenses of the Board of Supervision for Relief of the Poor, and for expenses under the Public Health and Vaccination Acts, including certain grants in aid of local taxation in Scotland For salaries of the officers and attendants of the household of the Lord Lieutenant of Ireland and other expenses For salaries and expenses of the offices of the Chief Secretary to the Lord Lieutenant of Ireland, in Dublin and London, and subordinate departments -
 
-For salaries and expenses of the office of the Commissioners of Charitable Donations and Bequests for Ireland - - -
+For salaries and expenses of the office of the Commissioners of Charitable Donations and Bequests for Ireland -
 
 For salaries and expenses of the Local Government Board in Ireland, including various grants in aid of local taxation -
 
-For salaries and expenses of the Office of Public Works in Ireland For salaries and expenses of the Public Record Office and of the Keeper of the State Papers in Ireland - For salaries and expenses of the department of the Registrar General of Births, Ac., and for expenses of the collection of agricultural and emigration statistics in Ireland - - - - -
+For salaries and expenses of the Office of Public Works in Ireland For salaries and expenses of the Public Record Office and of the Keeper of the State Papers in Ireland - For salaries and expenses of the department of the Registrar General of Births, Ac., and for expenses of the collection of agricultural and emigration statistics in Ireland -
 
 For salaries and expenses of the general valuation and boundary survey of Ireland ........
 
@@ -10848,7 +10848,7 @@ For salaries and expenses of the Courts of Law and Justice in Scotland and other
 
 For the expenses of the Prison Commissioners for Scotland, and of the prisons under their control, including the maintenance of criminal lunatics and the preparation of judicial statistics -
 
-For the expense of criminal prosecutions and other law charges in Ireland, including certain allowances under the Act 15 & 16 Vict. c. 83. - For such of the salaries and expenses of the Supreme Court of Judicature in Ireland as are not charged on the Consolidated Fund For salaries and incidental expenses of the Court of Bankruptcy in Ireland For salaries and expenses of the Admiralty Court Registry m Ireland For salaries and expenses of the Office for the Registration of Deeds in Ireland - - -
+For the expense of criminal prosecutions and other law charges in Ireland, including certain allowances under the Act 15 & 16 Vict. c. 83. - For such of the salaries and expenses of the Supreme Court of Judicature in Ireland as are not charged on the Consolidated Fund For salaries and incidental expenses of the Court of Bankruptcy in Ireland For salaries and expenses of the Admiralty Court Registry m Ireland For salaries and expenses of the Office for the Registration of Deeds in Ireland -
 
 For salaries and expenses in the Office for the Registration of Judgments in Ireland - -
 
@@ -10910,7 +10910,7 @@ Education Office in London ----
 
 2. For salaries and expenses of the Department of Science and Art, and of
 
-the establishments connected therewith - - - - -
+the establishments connected therewith -
 
 3. For salaries and expenses of the British Museum, including the amount
 
@@ -10922,7 +10922,7 @@ required for the Natural History Museum -3a. For the purchase of certain manuscr
 
 6. For grants in aid of the expenditure of certain learned societies in Great
 
-Britain and Ireland - - - -
+Britain and Ireland - -
 
 7. For salaries and expenses of the University of London
 
@@ -10970,7 +10970,7 @@ of Venus 1882 ----
 
 13. For the annuity to the Board of Trustees of manufactures in Scotland, in
 
-discharge of equivalents under the Treaty of Union, to be applied in maintenance of the National Gallery, School of Art and Museum of Antiquities, Scotland, and for the exhibition of the Torrie Collection of Works of Art, mid for other purposes -13a. For a contribution towards the establishment of a National Portrait Gallery for Scotland - - - -
+discharge of equivalents under the Treaty of Union, to be applied in maintenance of the National Gallery, School of Art and Museum of Antiquities, Scotland, and for the exhibition of the Torrie Collection of Works of Art, mid for other purposes -13a. For a contribution towards the establishment of a National Portrait Gallery for Scotland - -
 
 14. For public education under the Commissioners of National Education in
 
@@ -10988,9 +10988,9 @@ tion in Ireland appointed for the regulation of endowed schools
 
 purchase of pictures ----
 
-18. In aid of the expenses of the Queen’s Colleges in Ireland - - -
+18. In aid of the expenses of the Queen’s Colleges in Ireland -
 
-19. In aid of the expenses of the Royal Irish Academy - - - -
+19. In aid of the expenses of the Royal Irish Academy - -
 
 5, 800
 
@@ -11118,7 +11118,7 @@ widows and children ----
 
 3. In aid of the local cost of maintenance of pauper lunatics in England and
 
-Wales - - - ...
+Wales - ...
 
 4. In aid of the local cost of maintenance of pauper lunatics in Scotland
 
@@ -11176,9 +11176,9 @@ No.
 
 1. For salaries and incidental expenses of temporary commissions and
 
-mittees, including special inquiries - - - -
+mittees, including special inquiries - -
 
-2. For certain miscellaneous expenses - - - *
+2. For certain miscellaneous expenses - *
 
 Total Civil Services, Class VII.
 
@@ -12448,9 +12448,9 @@ Receipts.
 
 Received of [the above-named candidateQ, [or where the candidate is "1
 
-his own election agent, “ Paid by me ”] - - - - J
+his own election agent, “ Paid by me ”] - - J
 
-Received of J.K. - - - - - - - £
+Received of J.K. - - - £
 
 [Here set out the name and description of every, society,
 
@@ -12464,7 +12464,7 @@ Ch. 51. Corrupt arid Illegal Practices Prevention Act. 46 & 47 Vict.
 
 Expenditure.
 
-Paid to E.F., the returning officer for the said county [or borough] for his charges at the said election - - -
+Paid to E.F., the returning officer for the said county [or borough] for his charges at the said election -
 
 Personal expenses of the said C.D., paid by himself [or if the candidate is his own election agent, “ Paid by me as candidate ”]
 
@@ -12490,7 +12490,7 @@ and the sum paid to each, must be set out separately either in the account or in
 
 Paid to the following persons in respect of goods supplied or work and labour done:
 
-To P. Q. (printing) - - -
+To P. Q. (printing) -
 
 To M.N. (advertising) -
 
@@ -12508,7 +12508,7 @@ For holding public meetings - For committee rooms -
 
 [A room hired for a public meeting or for a committee room must be named or described so as to identify it; and the name and description of every person to whom any payment was made for each such room, together with the amount paid, must be set out separately either in the account or in a separate list annexed to and referred to in the account.']
 
-Paid for miscellaneous matters, namely — - - - - £
+Paid for miscellaneous matters, namely — - - £
 
 [The name and description of each person to whom any sum is paid, and the reason for which it was paid to him, must be set out separately either in the account or in a separate list annexed to and referred to in the account.]
 
@@ -13280,7 +13280,7 @@ Vacating of seat in House of Commons.
 
 300 Ch. 52. Bankruptcy Act, 1883. 4G & 47 Vict.
 
-(3.) The powers of the Act of the twenty-fourth year of the reign of King George the Third, chapter twenty-six, “ to repeal so much “ of two Acts made in the tenth and fifteenth years of the reign of “ His present Majesty as authorises the Speaker of the House of “ Commons to issue his warrant to the clerk of the Crown for making “ out writs for the election of members to serve in Parliament in “ the manner therein mentioned; and for substituting other provisions for the like purposes, " so far as those powers enable the Speaker to nominate and appoint other persons, being members of the House of Commons, to issue warrants for the making out of new writs during the vacancy of the office of Speaker or during his absence out of the realm, shall extend to enable him to make the like nomination and appointment for issuing warrants, under the like circumstances and conditions, for the election of a member in the room of any member whose seat becomes vacant under this Act.
+(3.) The powers of the Act of the twenty-fourth year of the reign of King George the Third, chapter twenty-six, “ to repeal so much “ of two Acts made in the tenth and fifteenth years of the reign of “ His present Majesty as authorises the Speaker of the House of “ Commons to issue his warrant to the clerk of the Crown for making “ out writs for the election of members to serve in Parliament in “ the manner therein mentioned; and for substituting other provisions for the like purposes," so far as those powers enable the Speaker to nominate and appoint other persons, being members of the House of Commons, to issue warrants for the making out of new writs during the vacancy of the office of Speaker or during his absence out of the realm, shall extend to enable him to make the like nomination and appointment for issuing warrants, under the like circumstances and conditions, for the election of a member in the room of any member whose seat becomes vacant under this Act.
 
 maSciDgl and 34. If a person is adjudged bankrupt whilst holding the office othe^offices! of mayor, alderman, councillor, guardian, overseer, or member of a sanitary authority, school board, highway board, burial board, or select vestry, his office shall thereupon become vacant, courttoannul 35. (1.) Where in the opinion of the Court a debtor ought not adjudicattonin to have been adjudged bankrupt, or where it is proved to the satisfaction of the Court that the debts of the bankrupt are paid in full, the Court may, on the application of any person interested, by order, annul the adjudication.
 
@@ -15596,7 +15596,7 @@ Section ninety-seven of the said Act shall be construed so as to confine the app
 
 15. In lieu of the stamp duty now payable under the Stamp Act, 1870, there shall be charged upon mortgage, bond, debenture, covenant, and foreign security of any kind —
 
-Being a security for the payment or repayment of money not exceeding ten pounds - - - Os.
+Being a security for the payment or repayment of money not exceeding ten pounds - Os.
 
 Part III.
 
@@ -17266,13 +17266,13 @@ Fees on instruments for obtaining Patents, and Renewal.
 
 On application for provisional protection - - 1 0 0
 
-On filing complete specification - - - 3 0 0
+On filing complete specification - 3 0 0
 
 On filing complete specification with first application - -400
 
 (5.) Further before end offour years from date of patent.
 
-On certificate of renewal - - - - - 50 00
+On certificate of renewal - - - 50 00
 
 (c.) Further before end of seven years, or in the case of patents granted after the commencement of this Act, before the end of eight years from date of patent.
 
@@ -19326,7 +19326,7 @@ lxix. An Act to enable the President Vice-Presidents Treasurer and Governors of 
 
 1xx. An Act to consolidate with amendments the Local Acts and Orders in force in the Borough of Birmingham and for other purposes.
 
-Ixxi. An Act to make better provision in relation to the gas and water supply health local government and improvement of the borough of Heywood the borrowing of money and for other purposes, lxxii. An Act for making further Provision respecting the continuation already authorised of Pall Mall and Ray Street in the city of Liverpool; and for other purposes.
+lxxi. An Act to make better provision in relation to the gas and water supply health local government and improvement of the borough of Heywood the borrowing of money and for other purposes, lxxii. An Act for making further Provision respecting the continuation already authorised of Pall Mall and Ray Street in the city of Liverpool; and for other purposes.
 
 lxxiii. An Act for more effectually protecting from Inundation by the Sea and for otherwise improving the Island of Canvey in the County of Essex and for other purposes.
 

@@ -1184,7 +1184,7 @@ lxiv. An Act for reviving the Term, and continuing, altering and enlarging the P
 
 lxv. An Act for repealing an Act, passed in the Forty third Year of His present Majesty, intituled An Act for continuing the Term, and consolidating into One Act, several Ads relating to the Road from Glasgow to Redburn Bridge, and for making and repairing the Road therein mentioned, and for granting other Powers for the Amendment and Repair of the said Roads.
 
-Ixvi. An Act to continue the Term, and alter and enlarge the Powers, of Two Acts, of the Twenty eighth Year of King George the Second, and the Nineteenth Year of His present Majesty, for repairing the Road from Market in
+lxvi. An Act to continue the Term, and alter and enlarge the Powers, of Two Acts, of the Twenty eighth Year of King George the Second, and the Nineteenth Year of His present Majesty, for repairing the Road from Market in
 
 the County of Leicester, to the City of Coventry. Ibid.
 
@@ -1192,7 +1192,7 @@ lxvii. An Act for amending, widening, altering and improving the Road leading fr
 
 all in the County of Derby. Ibid.
 
-Ixviii. An Act to continue the Term, and alter and enlarge the Powers, of so much of Two Acts, passed in the Eighth and Twenty ninth Years of His present Majesty, as relates to the Road from the City of York to the Top of Bank, in
+lxviii. An Act to continue the Term, and alter and enlarge the Powers, of so much of Two Acts, passed in the Eighth and Twenty ninth Years of His present Majesty, as relates to the Road from the City of York to the Top of Bank, in
 
 the County of York. Ibid.
 
@@ -4360,7 +4360,7 @@ For every Barrel of Strong Beer or Ale, or Beer or Ale above Sixteen Shillings t
 
 (b) [5 & 6 Ann 8. 7.]
 
-For every Barrel of Table Beer, or Beer or Ale of Sixteen Shillings the Barrel, or under, exclusive of the Duty hereby imposed thereon, which shall be brewed in Great Britain by any Common Brewer, or other Person or Persons, who shall sell or tap out Beer or Ale publicly or privately, to be paid by such Common Brewer, or other Person or Persons respectively - - -
+For every Barrel of Table Beer, or Beer or Ale of Sixteen Shillings the Barrel, or under, exclusive of the Duty hereby imposed thereon, which shall be brewed in Great Britain by any Common Brewer, or other Person or Persons, who shall sell or tap out Beer or Ale publicly or privately, to be paid by such Common Brewer, or other Person or Persons respectively -
 
 For every Barrel of Twopenny Ale, mentioned and described in the Seventh Article of the Treaty of Union with Scotland, to be paid by the Common Brewer or Victualler - For every Barrel containing Thirty two Gallons, Wine Measure, of Spruce Beer, and of all other Sorts or Kinds of Beer or Ale, and for every such Barrel of Mum which shall be imported from Parts beyond the Seas into Great Britain, the same not being Irish Beer, Ale or Mum, imported directly from Ireland, to be paid by the Importer before the landing thereof -
 
@@ -4388,21 +4388,21 @@ BRICKS AND TILES. & d.
 
 For every Thousand of Bricks which shall be made in Great Britain, not exceeding any of the following Dimensions, that is to say, Ten Inches long, Three Inches thick, and Five Inches wide - - 0 5 0
 
-For every Thousand of Bricks which shall be made in Great Britain, exceeding any of the foregoing Dimensions - - - - 0 10 0
+For every Thousand of Bricks which shall be made in Great Britain, exceeding any of the foregoing Dimensions - - 0 10 0
 
-For every Thousand of Bricks which shall be made in Great Britain, and which shall be smoothed or polished on One or more Side or Sides, the same not exceeding the superficial Dimensions of Ten Inches long by Five Inches wide - - - 0 12 0
+For every Thousand of Bricks which shall be made in Great Britain, and which shall be smoothed or polished on One or more Side or Sides, the same not exceeding the superficial Dimensions of Ten Inches long by Five Inches wide - 0 12 0
 
 For every Hundred of such last mentioned Bricks, r The Duties on exceeding the aforesaid superficial Dimensions Paving Tiles. For every Thousand of Plain Tiles which shall be
 
-made in Great Britain - - - -0410
+made in Great Britain - -0410
 
 For every Thousand of Pan or Ridge Tiles which
 
-shall be made in Great Britain - - - 0 12 10
+shall be made in Great Britain - 0 12 10
 
-For every Hundred of Paving Tiles which shall be made in Great Britain, not exceeding Ten Inches Square - - - - - -025
+For every Hundred of Paving Tiles which shall be made in Great Britain, not exceeding Ten Inches Square - -025
 
-For every Hundred of Paving Tiles which shall be made in Great Britain, exceeding Ten Inches Square - - - - - -04 10
+For every Hundred of Paving Tiles which shall be made in Great Britain, exceeding Ten Inches Square - -04 10
 
 For every Thousand Tiles which shall be made in Great Britain, other than such as are hereinbefore enumerated or described, by whatever Name or Names such Tiles are or may be called or known - 0 4 10
 
@@ -4410,11 +4410,11 @@ The said Duties on Bricks and Tiles to be paid by the Maker or Makers thereof re
 
 CANDLES.
 
-For every Pound Weight Avoirdupois of Candles of Tallow and other Candles whatsoever, except Wax and Spermaceti Candles, which shall be made in Great Britain - - - - -001
+For every Pound Weight Avoirdupois of Candles of Tallow and other Candles whatsoever, except Wax and Spermaceti Candles, which shall be made in Great Britain - - -001
 
 For every Pound Weight Avoirdupois of Candles which shall be made in Great of Wax or
 
-of Spermaceti, or which are usually called or sold for either Wax or Spermaceti Candles, notwithstanding the Mixture of any other Ingredients therewith - - - - - - 0 0 3£
+of Spermaceti, or which are usually called or sold for either Wax or Spermaceti Candles, notwithstanding the Mixture of any other Ingredients therewith - - 0 0 3£
 
 The said Duties on Candles to be paid by the Makers thereof.
 
@@ -4478,19 +4478,19 @@ Enamel, stained or Paste Glass, or Phial Glass - 112 8
 
 commonly called or known by the Name of Broad
 
-Glass - - - - - -082
+Glass - -082
 
 ---- In the making of all other Window Glass,
 
-not being Spread Glass, whether flashed or otherwise manufactured, and commonly called or known either by the Name of Crown Glass or German Sheet Glass - - - - -146
+not being Spread Glass, whether flashed or otherwise manufactured, and commonly called or known either by the Name of Crown Glass or German Sheet Glass - - -146
 
 ---- And in the making of common Bottles, the
 
-same not being Phials, and of Vessels made use of in Chemical Laboratories, and of Garden Glasses, and of all other Vessels and Utensils made of common Bottle Metal - - - -0 4 1
+same not being Phials, and of Vessels made use of in Chemical Laboratories, and of Garden Glasses, and of all other Vessels and Utensils made of common Bottle Metal - -0 4 1
 
 The said several Rates and Duties upon the Materials or Metal, or other Preparations for making Glass, to be paid by the Maker or Makers thereof respectively.
 
-For every Hundred Weight of Plate Glass, and of all other Glass Manufactures, which shall be imported from Parts beyond the Seas into Great Britain, the same not being Flasks in which Wine or Oil shall or may be imported, nor Foreign green Glass Bottles, nor Irish Glass, or Glass Manufactures imported -directly from Ireland, to be paid by the Importer before the landing thereof (a) - - - 2 2 0
+For every Hundred Weight of Plate Glass, and of all other Glass Manufactures, which shall be imported from Parts beyond the Seas into Great Britain, the same not being Flasks in which Wine or Oil shall or may be imported, nor Foreign green Glass Bottles, nor Irish Glass, or Glass Manufactures imported -directly from Ireland, to be paid by the Importer before the landing thereof (a) - 2 2 0
 
 (a) [Duties and Drawbacks on Window Glass made to ,
 
@@ -4502,9 +4502,9 @@ HIDES AND SKINS.
 
 For every Pound Weight Avoirdupois of Hides, of what Kind soever, and of Calve Skins, Kips, Hogs ’
 
-Skins, Dogs’ Skins and Seal Skins, which shall be tanned in Great Britain; and of Sheep Skins and Lamb Skins which shall be tanned in Great Britain for Gloves and Bazils - - - -0011-
+Skins, Dogs’ Skins and Seal Skins, which shall be tanned in Great Britain; and of Sheep Skins and Lamb Skins which shall be tanned in Great Britain for Gloves and Bazils - -0011-
 
-For every Dozen of Goat Skins tanned with Shomack, or otherwise, in Great Britain, to resemble Spanish Leather ~ - - - - -040
+For every Dozen of Goat Skins tanned with Shomack, or otherwise, in Great Britain, to resemble Spanish Leather ~ - - -040
 
 94-
 
@@ -4648,9 +4648,9 @@ Every Chandler or Maker of Candles, other than Wax or Spermaceti Candles, for Sa
 
 Every Person trading in, vending or selling Coffee, Tea, Cocoa Nuts or Chocolate, for every such Licence ----
 
-Every Glassmaker, for a Licence for each and every Glasshouse - - -
+Every Glassmaker, for a Licence for each and every Glasshouse -
 
-Every Tanner within the Limits of the weekly Bills of Mortality, for every such Licence Every other Tanner, for every such Licence -Every Tawer, for every such Licence Every Dresser of Hides and Skins in Oil, for every such Licence - - - -
+Every Tanner within the Limits of the weekly Bills of Mortality, for every such Licence Every other Tanner, for every such Licence -Every Tawer, for every such Licence Every Dresser of Hides and Skins in Oil, for every such Licence - -
 
 Every Currier, for every such Licence Every Maker of Vellum or Parchment, for every such Licence
 
@@ -4708,49 +4708,49 @@ SCHEDULE (A.) — Duties.
 
 Licences — continued. £. s. *
 
----- If the same shall exceed Two hundred Quarters, and shall not exceed Two hundred and fifty Quarters - - - - -150
+---- If the same shall exceed Two hundred Quarters, and shall not exceed Two hundred and fifty Quarters - - -150
 
 ---- If the same shall exceed Two hundred and
 
-fifty Quarters, and shall not exceed Three hundred Quarters - - - - - -110 0
+fifty Quarters, and shall not exceed Three hundred Quarters - -110 0
 
 — If the same shall exceed Three hundred
 
 Quarters, and shall not exceed Three hundred and
 
-fifty Quarters - - - - -1150
+fifty Quarters - - -1150
 
 ----If the same shall exceed Three hundred and
 
-fifty Quarters, and shall not exceed Four hundred Quarters - - - - -200
+fifty Quarters, and shall not exceed Four hundred Quarters - - -200
 
 — — If the same shall exceed Four hundred
 
 Quarters, and shall not exceed Four hundred and
 
-fifty Quarters - - - - -250
+fifty Quarters - - -250
 
 — If the same shall exceed Four hundred and
 
-fifty Quarters, and shall not exceed Five hundred Quarters - - - - -2 10 0
+fifty Quarters, and shall not exceed Five hundred Quarters - - -2 10 0
 
-If the same shall exceed Five hundred Quarters, and shall not exceed Five hundred and fifty Quarters - - - - -2150
+If the same shall exceed Five hundred Quarters, and shall not exceed Five hundred and fifty Quarters - - -2150
 
 •----Or if the same shall exceed Five hundred
 
-and fifty Quarters - - - - 3 0 0
+and fifty Quarters - - 3 0 0
 
-Every Person who shall first become a Maltster, or Maker of Malt for Sale, for every such Licence Five Shillings; and within Ten Days after the Fifth Day of July next after taking out such Licence, such further additional Sum as, with the said Five Shillings, shall amount to the Duty hereinbefore directed to be paid according to the Quantity of Malt made within the preceding Year - - -050
+Every Person who shall first become a Maltster, or Maker of Malt for Sale, for every such Licence Five Shillings; and within Ten Days after the Fifth Day of July next after taking out such Licence, such further additional Sum as, with the said Five Shillings, shall amount to the Duty hereinbefore directed to be paid according to the Quantity of Malt made within the preceding Year -050
 
 and Surcharge.
 
 Every Maker of Metheglin or Mead for Sale, for every
 
-such Licence - - - - -100
+such Licence - - -100
 
 Every Maker of Paper or Pasteboard, and every Paper
 
-Stainer, for every such Licence - - - 2 0 0
+Stainer, for every such Licence - 2 0 0
 
 Every Person trading in, vending or selling any Gold or Silver Plate, or any Goods or Wares in which any Quantity of Gold exceeding Two Pennyweights and under Two Ounces in Weight, or any Quantity of Silver exceeding Five Pennyweights and under Thirty Ounces in Weight, in any One separate and distinct Ware or Piece of Goods, is or shall be manufactured, for every such Licence - - 2 6 0
 
@@ -4764,9 +4764,9 @@ SCHEDULE (A.) — Duties.
 
 Licences — continued.
 
-or Wares in which any Quantity of Gold or Silver is or shall be manufactured, or taking in or delivering out Pawns of such Plate, Goods or Wares; and every Refiner of Gold or Silver; for every such Licence - - - - - 5 15 0
+or Wares in which any Quantity of Gold or Silver is or shall be manufactured, or taking in or delivering out Pawns of such Plate, Goods or Wares; and every Refiner of Gold or Silver; for every such Licence - - - 5 15 0
 
-Every Calicoe Printer, and every Printer, Painter or -Stainer of Linens {a) , Cottons or Stuffs, for every such Licence - - - - -1000
+Every Calicoe Printer, and every Printer, Painter or -Stainer of Linens {a) , Cottons or Stuffs, for every such Licence - - -1000
 
 (a) {Printer, Painter or Stainer Silks to take out 49 G.3. c. 81. § 2.]
 
@@ -4814,41 +4814,41 @@ SCHEDULE (A.) — Duties.
 
 Licences — continued.
 
-— ----If at Twenty five Pounds per Annum or upwards, and under Thirty Pounds - - -5
+— ----If at Twenty five Pounds per Annum or upwards, and under Thirty Pounds -5
 
 ----If at Thirty Pounds per Annum or upwards,
 
-and under Forty Pounds - - - - 6
+and under Forty Pounds - - 6
 
 .----If at Forty Pounds per Annum or upwards,
 
-and under Fifty Pounds - - - - 6
+and under Fifty Pounds - - 6
 
-----Or if at Fifty Pounds per Annum or upwards - - - - - *7
+----Or if at Fifty Pounds per Annum or upwards - - - *7
 
-Every Person who, within the Limits of any Royal Burgh, Burgh of Barony or Regality in any Part of Scotland, or in any Place in any other Part of Scotland other than within the Highlands of Scotland, limited and described in the Acts in that Case made and provided, shall retail any Spirits made or distilled from Malt, Corn, Grain, Barley, Beer, Bigg or other British Materials, and commonly called or known by the Name of Aqua Vitae in that Part of the United Kingdom, for every such Licence to retail plain Aqua Vitae only (a) - - -2
+Every Person who, within the Limits of any Royal Burgh, Burgh of Barony or Regality in any Part of Scotland, or in any Place in any other Part of Scotland other than within the Highlands of Scotland, limited and described in the Acts in that Case made and provided, shall retail any Spirits made or distilled from Malt, Corn, Grain, Barley, Beer, Bigg or other British Materials, and commonly called or known by the Name of Aqua Vitae in that Part of the United Kingdom, for every such Licence to retail plain Aqua Vitae only (a) -2
 
 Every Person who shall retail such Spirits within the several Counties and Districts of the Highlands of Scotland, the Royal Burghs, Burghs of Barony or Regality therein excepted, for every such Licence [a) 1
 
 {a) [See 53 G. 3. c.13.]
 
-Every Starch Maker, for every Licence to be taken out as aforesaid - - - - - 5
+Every Starch Maker, for every Licence to be taken out as aforesaid - - - 5
 
 Every Maker of any Kind of Sweets, or Made Wines, other than Mead, for Sale, for every such Licence 5 Every Retailer of BHtish made Wines, or Sweets, for
 
-every such Licence, - - - 2
+every such Licence, - 2
 
 Every Manufacturer of Tobacco or Snuff, for every such Licence, if the Tobacco and Snuff Work weighed by such Person for Manufacture, within the Year ending on the Tenth Day of October, previous to taking out the Licence, shall not have exceeded Twenty thousand Pounds Weight - 2
 
 - If the same shall have exceeded Twenty
 
-thousand Pounds, and shall not have exceeded Thirty thousand Pounds Weight - - - 3
+thousand Pounds, and shall not have exceeded Thirty thousand Pounds Weight - 3
 
----- if the same shall have exceeded Thirty thousand Pounds, and shall not have exceeded Forty thousand Pounds Weight - - -4?
+---- if the same shall have exceeded Thirty thousand Pounds, and shall not have exceeded Forty thousand Pounds Weight -4?
 
----- If the same shall have exceeded Forty thousand Pounds, and shall not have exceeded Fifty thousand Pounds Weight - - - 5
+---- If the same shall have exceeded Forty thousand Pounds, and shall not have exceeded Fifty thousand Pounds Weight - 5
 
-— ----If the same shall have exceeded Fifty thousand Pounds, and shall not have exceeded Sixty thousand Pounds Weight - - - 6
+— ----If the same shall have exceeded Fifty thousand Pounds, and shall not have exceeded Sixty thousand Pounds Weight - 6
 
 • 1 If the same shall have exceeded Sixty thousand Pounds, and shall not have exceeded Seventy thousand Pounds Weight ' - - 7
 
@@ -4882,7 +4882,7 @@ thousand Pounds, and shall not have exceeded Eighty thousand Pounds Weight - - 8
 
 — ----If the same shall have exceeded Eighty
 
-thousand Pounds, and shall not have exceeded Ninety thousand Pounds Weight - - - 9 0 0
+thousand Pounds, and shall not have exceeded Ninety thousand Pounds Weight - 9 0 0
 
 — -......If the same shall have exceeded Ninety
 
@@ -4894,23 +4894,23 @@ thousand Pounds, and shall not have exceeded One hundred and twenty thousand Pou
 
 ----If the same shall have exceeded One hundred
 
-and twenty thousand Pounds, and shall not have exceeded One hundred and fifty thousand Pounds Weight - - - - - -15 0 0
+and twenty thousand Pounds, and shall not have exceeded One hundred and fifty thousand Pounds Weight - -15 0 0
 
 — — — — — If the same shall have exceeded One hundred
 
 and fifty thousand Pounds Weight - - 20 0 0
 
-Every Person who shall first become a Manufacturer of Tobacco or SnulF, for every such Licence, Two Pounds, and within Ten Days after the Tenth Day of October next after taking out such Licence, such further additional Sum as, with the said Two Pounds, shall amount to the Duty hereinbefore directed to be paid, according to the Quantity of Tobacco and Snuff Work weighed for Manufacture within the preceding Year - - - - -200
+Every Person who shall first become a Manufacturer of Tobacco or SnulF, for every such Licence, Two Pounds, and within Ten Days after the Tenth Day of October next after taking out such Licence, such further additional Sum as, with the said Two Pounds, shall amount to the Duty hereinbefore directed to be paid, according to the Quantity of Tobacco and Snuff Work weighed for Manufacture within the preceding Year - - -200
 
-and a Surcharge. Every Dealer in, or Seller of, Tobacco or Snuff, within the Limits of the Chief Office of Excise in or of the Chief Office of Excise in Edinburgh, for every such Licence - - - - 0 5 0
+and a Surcharge. Every Dealer in, or Seller of, Tobacco or Snuff, within the Limits of the Chief Office of Excise in or of the Chief Office of Excise in Edinburgh, for every such Licence - - 0 5 0
 
-Every Dealer in, or Seller of, Tobacco or Snuff, in any other Part of Great Britain, out of the said Limits, for every such Licence - - - 0 2 6
+Every Dealer in, or Seller of, Tobacco or Snuff, in any other Part of Great Britain, out of the said Limits, for every such Licence - 0 2 6
 
-Every Maker or Vinegar for Sale, ' for every such Licence - - - - - -10 00
+Every Maker or Vinegar for Sale, ' for every such Licence - -10 00
 
 Every Retailer of Foreign Wine, in that Part of Great Britain called England, who shall not have an Excise Licence for retailing distilled Spirituous Liquors or Strong Waters, or a Licence for the retailing of Beer, Ale or other exciseable Liquors, for every such Licence to retail Foreign Wine - -54 0
 
-Every Retailer of Foreign Wine in that Part of Great Britain called England, who shall have taken out a Licence for retailing Beer, Ale, and other exciseable Liquors, but shall not have an Excise Licence for retailing distilled Spirituous Liquors or Strong Waters, for every such Licence to retail Foreign Wine - - - - - - 440
+Every Retailer of Foreign Wine in that Part of Great Britain called England, who shall have taken out a Licence for retailing Beer, Ale, and other exciseable Liquors, but shall not have an Excise Licence for retailing distilled Spirituous Liquors or Strong Waters, for every such Licence to retail Foreign Wine - - 440
 
 Every Retailer of Foreign Wine in that Part of Great Britain called England, who shall have an Excise
 
@@ -4926,15 +4926,15 @@ SCHEDULE (A.) — Duties.
 
 Licences — continued.
 
-Licence for retailing distilled Spirituous Liquors or Strong Waters, for every such Licence to retail Foreign Wine - - - - -2
+Licence for retailing distilled Spirituous Liquors or Strong Waters, for every such Licence to retail Foreign Wine - - -2
 
 Every Retailer of Foreign Wine in that Part of Great Britain called Scotland, who shall not have an Excise Licence for retailing distilled Spirituous Liquors or Strong Waters, or a Licence for retailing Beer,
 
-Ale or other exciseable Liquors, for every such Licence to retail Foreign Wine - - - 3
+Ale or other exciseable Liquors, for every such Licence to retail Foreign Wine - 3
 
 Every Retailer of Foreign Wine in that Part of Great Britain called Scotland, who shall have taken out a Licence for retailing Beer, Ale or other exciseable Liquors, but shall not have an Excise Licence for retailing distilledSpirituousLiquors or StrongWaters, for every such Licence to retail Foreign Wine - 2
 
-Every Retailer of Foreign Wine in that Part of Great Britain called Scotland, who shall have an Excise Licence for retailing distilled Spirituous Liquors or Strong Waters, for every such Licence to retail Foreign Wine - - - - 1
+Every Retailer of Foreign Wine in that Part of Great Britain called Scotland, who shall have an Excise Licence for retailing distilled Spirituous Liquors or Strong Waters, for every such Licence to retail Foreign Wine - - 1
 
 Every Wiredrawer or other Person, who shall draw, or cause to be drawn, any Gilt or Silver Wire, commonly called Big Wire, in Great Britain, for every Licence to be taken out as aforesaid - - 2
 
@@ -4942,15 +4942,15 @@ Every Wiredrawer or other Person, who shall draw, or cause to be drawn, any Gilt
 
 MALT.
 
-For every Bushel of Malt which shall be made of Barley or any other Corn or Grain, in Great Britain, to be paid by the Maker thereof - - - 0
+For every Bushel of Malt which shall be made of Barley or any other Corn or Grain, in Great Britain, to be paid by the Maker thereof - 0
 
 N. B. Malt is also subject to Two other Duties, imposed by annual Acts, viz. 6d. per Bushel in England, and 2>d. per Bushel in Scotland, . by the Act for continuing certain Duties on Malt, Mum, Cyder and Perry, and 9 Bushel in England, and 4$ in Scotland, by the Act for continuing the Duties oa Pensions, Offices, &c,
 
 METHEGLIN or MEAD.
 
-For every Gallon of Metheglin or Mead which shall be made in Great Britain for Sale, to be paid by the Maker thereof - - - - 0
+For every Gallon of Metheglin or Mead which shall be made in Great Britain for Sale, to be paid by the Maker thereof - - 0
 
-For every Gallon of Metheglin or Mead which shall be imported from Parts beyond the Seas into Great Britain, not being Irish Metheglin or Mead imported directly from Ireland, to be paid by the Importer before the landing thereof - - - 0
+For every Gallon of Metheglin or Mead which shall be imported from Parts beyond the Seas into Great Britain, not being Irish Metheglin or Mead imported directly from Ireland, to be paid by the Importer before the landing thereof - 0
 
 PAPER.
 
@@ -4994,7 +4994,7 @@ PRINTED GOODS.
 
 For every Yard Square of Paper which shall be printed, painted or stained in Great Britain, to serve for Hangings or other Uses, over and above the Duties payable for such Paper before the printing, painting or staining thereof -
 
-For every Yard in Length, reckoning Yard Wide, of Foreign Calico, and of Foreign Muslin, which shall be printed, stained, painted or dyed in Great Britain, except such as shall be dyed throughout of One Colour only - - - -
+For every Yard in Length, reckoning Yard Wide, of Foreign Calico, and of Foreign Muslin, which shall be printed, stained, painted or dyed in Great Britain, except such as shall be dyed throughout of One Colour only - -
 
 For every Yard in Length, reckoning Yard Wide, of all Linens, and of Stuffs wholly made of Cotton Wool, wove in Great Britain, commonly called British Manufactory, and of British Muslins, and of all Fustians, Velvets, Velverets, Dimities and other figured Stuffs made of Cotton and other Materials mixed, or wholly made of Cotton Wool, wove in Great Britain, and of all other Stuffs whatsoever, which shall be printed, stained, painted or dyed in Great Britain, except such as shall be dyed throughout of One Colour only, and Stuffs made of Woollen, or whereof the greatest Part in Value shall be Woollen ----
 
@@ -5030,7 +5030,7 @@ For every Bushel of Salt which shall be imported from
 
 beyond the Seas into Great Britai, not being Salt imported directly from Ire, to be paid by the Importer before the landing thereof - - 0 13 4
 
-For every Bushel of Salt or Rock Salt that shall be made at any Salt Work, or raised or taken out of any Salt Mine or Salt Pit in that Part of Great Britain called England - - - 0 10 0
+For every Bushel of Salt or Rock Salt that shall be made at any Salt Work, or raised or taken out of any Salt Mine or Salt Pit in that Part of Great Britain called England - 0 10 0
 
 For every Bushel of Salt or Rock Salt that shall be made at any Salt Work, or raised or taken out of any Salt Mine or Salt Pit in Scotland - - 0 4 0
 
@@ -5054,9 +5054,9 @@ The said Duties on Salt made or raised or taken out of any Salt Mine or Salt Pit
 
 For every Bushel of Salt or Rock Salt which shall be brought from Scotland into that Part of Great Britain called England, accompanied with a Certificate from the proper Officer that it hath paid the Duty of Four Shillings hereby imposed for every Bushel of Salt or Rock Salt made at any Salt Work or taken out of any Salt Mine or Salt Pit in, to
 
-be paid by the Master or Commander of every Ship or Vessel bringing or importing such Salt or Rock Salt before the landing thereof - - -060
+be paid by the Master or Commander of every Ship or Vessel bringing or importing such Salt or Rock Salt before the landing thereof -060
 
-For every Bushel of Salt used or employed in curing and salting Flesh exported from Scotland to England, and Provisions for Ships in Scotland and for Foreign Voyages, to be paid by the Owners or Shippers thereof in Scotland - - - 0 6 0
+For every Bushel of Salt used or employed in curing and salting Flesh exported from Scotland to England, and Provisions for Ships in Scotland and for Foreign Voyages, to be paid by the Owners or Shippers thereof in Scotland - 0 6 0
 
 For every Hundred Weight of Salted Beef or Pork, or of Bacon brought by Land from Scotland to
 
@@ -5070,7 +5070,7 @@ SCHEDULE (A.) — Duties.
 
 Salt — continued. s.
 
-England, to be paid by the Person bringing the same, upon Entry thereof at the nearest Office of Excise in England, on Pain of the Forfeiture of such Beef, Pork or Bacon, or the Value thereof, to be recovered and applied as any Fine, Penalty or Forfeiture is or may be recovered and applied by any Law or Laws of Excise (a) - - - 0 2 6
+England, to be paid by the Person bringing the same, upon Entry thereof at the nearest Office of Excise in England, on Pain of the Forfeiture of such Beef, Pork or Bacon, or the Value thereof, to be recovered and applied as any Fine, Penalty or Forfeiture is or may be recovered and applied by any Law or Laws of Excise (a) - 0 2 6
 
 (a) [6<f. of this Duty 2s. 6d. rep, 47 G. 3. Sess. 2. c. 30. § 5. Additional Duties on Salt generally, 45 G. 3. c. 14. But the Duties of Excise payable upon Salt, and the Duties
 
@@ -5084,7 +5084,7 @@ SOAP.
 
 For every Pound Weight Avoirdupois of Hard Cake Soap, or Ball Soap, which shall be made in Great Britain, to be paid by the Maker thereof - 0 0 2£
 
-For every Pound Weight Avoirdupois of Soft Soap, which shall be made in Great Britain, to be paid by the Maker thereof - - - - 0 0 If
+For every Pound Weight Avoirdupois of Soft Soap, which shall be made in Great Britain, to be paid by the Maker thereof - - 0 0 If
 
 SPIRITS.
 
@@ -5092,7 +5092,7 @@ For every Gallon of Wort or Wash brewed or made for extracting Spirits, in that 
 
 Corn, Grain or Tilts, or any Mixture with the same 0 Oil For every Gallon of Cyder or Perry, or any other Wash or Liquor brewed or made as aforesaid from any Sort or Kind of British Materials, except such as are before mentioned, or any Mixture therewith, for extracting Spirits for Home Consumption - 0 0 10
 
-For every Gallon of Wort or Wash brewed or made as aforesaid from Melasses or Sugar, or any Mixture therewith, for extracting Spirits for Home Consumption - - - - 0 1 4|
+For every Gallon of Wort or Wash brewed or made as aforesaid from Melasses or Sugar, or any Mixture therewith, for extracting Spirits for Home Consumption - - 0 1 4|
 
 For every Gallon of Wash brewed or made as aforesaid from Foreign refused Wine or Foreign Cyder, or Wash prepared from any other Foreign Materials, except Melasses and Sugar, or any Mixture therewith, for extracting Spirits for Home Consumption 0 1 10
 
@@ -5116,13 +5116,13 @@ For every Gallon of Wash in the Possession of the said Sir William Bishop, Georg
 
 Manufacture of Maidstone Geneva, shall be found to produce more than Two Gallons and One Eighth of a Gallon of Spirits at the Strength of One in Six under Hydrometer Proof, to be paid by the said Sir William Bishop, George Bishop and Angles, and the
 
-Survivor and Survivors of them, immediately on being charged therewith by the proper Officer or Officers of Excise - - - - 0
+Survivor and Survivors of them, immediately on being charged therewith by the proper Officer or Officers of Excise - - 0
 
 For every Gallon, English Wine Measure, of the cubical Content or Capacity of each and every Still, including the Head and every Part thereof, and of any Horn, Pipe, Tube or other Apparatus therewith connected, under whatever Name or Denomination the same may be called or known, as high as the Steam can ascend, and until the Top of the Head shall turn downwards, and form an Angle of Forty five Degrees, which shall be used or employed for any or either of the Purposes hereinafter mentioned; (that is to say,)
 
 ----For the making or distilling of Low Wines
 
-or Spirits for Consumption in Scotland from. Corn, Grain, Malt, Tilts, Cyder or Perry, or other Wash or Liquor made or brewed from any Sort of British Materials, or any Mixture therewith, in any Part or Place in Scotland, other than and except the -land District, particularly specified and described in the Acts in that Case made and provided, the annual Sum of - - - - 108
+or Spirits for Consumption in Scotland from. Corn, Grain, Malt, Tilts, Cyder or Perry, or other Wash or Liquor made or brewed from any Sort of British Materials, or any Mixture therewith, in any Part or Place in Scotland, other than and except the -land District, particularly specified and described in the Acts in that Case made and provided, the annual Sum of - - 108
 
 .---- For the making or distilling of Low Wines or
 
@@ -5154,7 +5154,7 @@ Scotland, the annual Sum of - 760 0 0
 
 ---- And for the rectifying, compounding or mixing, in any Part or Place in Scotl, of any Kind of Spirits or Strong Waters for Consumption in
 
-land, the annual Sum of - - - 108 0 0
+land, the annual Sum of - 108 0 0
 
 The said Duties on the Contents of Stills to be paid by the Distillers, Makers, Rectifiers or Compounders of Spirits respectively.
 
@@ -5172,7 +5172,7 @@ Tilts, Cyder or Perry, or other Worts, Wash or Liquor made or brewed from any So
 
 For every Gallon, English Wine Measure, of all Worts or Wash brewed or made in any Part or Place in Scotland for extracting Spirits for Consumption in Scotland from Melasses or Sugar, or any Mixture therewith, or from Foreign refused Wines, or Foreign Cyder, or Wash prepared from Foreign Materials, or any Mixture therewith, to be paid by the Brewer,
 
-Maker or Distiller thereof - - - 0 0 2£
+Maker or Distiller thereof - 0 0 2£
 
 For every Gallon, English Wine Measure, of the cubical
 
@@ -5200,7 +5200,7 @@ the annual Rate of Fifty two Gallons of the Strength aforesaid, for each Gallon 
 
 ----For every Gallon of such Surplus Spirits
 
-distilled from Melasses or Sugar exceeding the annual Rate of Four thousand and fifty Gallons of the Strength aforesaid, for each Gallon of the-Content of the Still when the beforementioned annual Duty of Six hundred and seventy Pounds shall be paid, for every Gallon of such Content in any Part or Place in Scotland, the Sum of - - - 0 4
+distilled from Melasses or Sugar exceeding the annual Rate of Four thousand and fifty Gallons of the Strength aforesaid, for each Gallon of the-Content of the Still when the beforementioned annual Duty of Six hundred and seventy Pounds shall be paid, for every Gallon of such Content in any Part or Place in Scotland, the Sum of - 0 4
 
 " — And for every Gallon of such Surplus Spirits
 
@@ -5220,7 +5220,7 @@ C. 69. 43° GEO. III. A.D. 1803.
 
 SCHEDULE (A.) — Duties.
 
-Spirits — continued. d. of Seven hundred and sixty Pounds shall be paid, for every Gallon of such Content in any Part or Place in Scotland, the Sum of - - - 0 5 9
+Spirits — continued. d. of Seven hundred and sixty Pounds shall be paid, for every Gallon of such Content in any Part or Place in Scotland, the Sum of - 0 5 9
 
 For every Gallon of Spirits deficient, if the Quantity of Spirits computed at the Strength of One to Ten over Hydrometer Proof, which shall be produced to the proper Officer or Officers of Excise by any Distiller in Scotland, and be actually charged with the beforementioned Duty of Six Pence for every Gallon, shall be found to fall short of the Quantity which ought to have been produced according to the beforementioned annual Rates, to be paid by the Distiller .or Maker of such Spirits, the Sum of - 0 0 6
 
@@ -5232,7 +5232,7 @@ and produced to the proper Officer of Excise, and actually charged with the Duty
 
 be discovered, shall have been made or distilled from Malt, Corn or British Materials, or any Mixture therewith, and if any Distiller in the Lowlands of Scotland shall not produce to the proper Officer at least Eleven Gallons English Wine Measure of Spirits
 
-of the Strength of One to Ten over Hydrometer Proof for every One hundred Gallons of Wash prepared from the said Materials, and found in the Custody of such Distiller; or if any Distiller in the Highland District of Scotland shall not produce to the Officer at least Six Gallons of Spirits of the Strength aforesaid for every One hundred Gallons of Wash prepared from Barley, Beer or Bigg of the Growth of the said Highlands, or any Mixture therewith, and found in the Custody of such Distiller, for every Gallon deficient, the Sum of - - - 0 1 6
+of the Strength of One to Ten over Hydrometer Proof for every One hundred Gallons of Wash prepared from the said Materials, and found in the Custody of such Distiller; or if any Distiller in the Highland District of Scotland shall not produce to the Officer at least Six Gallons of Spirits of the Strength aforesaid for every One hundred Gallons of Wash prepared from Barley, Beer or Bigg of the Growth of the said Highlands, or any Mixture therewith, and found in the Custody of such Distiller, for every Gallon deficient, the Sum of - 0 1 6
 
 - — - If the Spirits in which the Deficiency
 
@@ -5310,7 +5310,7 @@ TEA.
 
 For and upon all Tea which shall be sold in Great Britain by the United Company of Merchants of England trading to the East Indies for less than Two Shillings and Six Pence pe Pound Weight Avoirdupois, Fifteen Pounds per to be computed
 
-upon the Gross Prices at which such Tea shall be sold - - - -
+upon the Gross Prices at which such Tea shall be sold - -
 
 For and upon all Tea which shall be sold in Great Britain by the United Company of Merchants of England trading to the East Indies for Two Shillings and SixPence per Pound Weight or upwards, Fort}'' five Pounds per Centum, to be computed upon the Gross Prices at which such Tea shall be sold
 
@@ -5342,7 +5342,7 @@ Tobacco and Snuff — continued
 
 For every Pound Weight of Snuff imported into Great Britain by the United Company of Mer-- chants of England trading to the East Indies - 0
 
-For every Pound Weight of Snuff imported into Great Britain from any British Plantation in America, or from the Spanish West Indies - - - 0
+For every Pound Weight of Snuff imported into Great Britain from any British Plantation in America, or from the Spanish West Indies - 0
 
 For every Pound Weight of Snuffimported into Great Britain from any other Place, not being Irish manufactured Snuff imported directly from Ireland - 0
 
@@ -5356,15 +5356,15 @@ For the Conditions, Rules and Regulations under which Tobacco and Snuff may, on 
 
 VERJUICE.
 
-For every Hogshead of Verjuice which shall be made in Great Britain for Sale, to be paid by the Maker thereof - - - - - - 0
+For every Hogshead of Verjuice which shall be made in Great Britain for Sale, to be paid by the Maker thereof - - 0
 
 VINEGAR.
 
-For every Barrel of Vinegar, Vinegar Beer, or Liquors preparing for Vinegar, which shall be brewed or made in Great Britain for Sale, to be paid by the Maker thereof - - - Q
+For every Barrel of Vinegar, Vinegar Beer, or Liquors preparing for Vinegar, which shall be brewed or made in Great Britain for Sale, to be paid by the Maker thereof - Q
 
 WINE.
 
-For every Tun of French Wine which shall be imported into Great Britain - - - - 4S
+For every Tun of French Wine which shall be imported into Great Britain - - 4S
 
 For every Tun of all other Wines, not being French Wines, which shall be imported into Great Britain - 32 The said Duties on Wines to be paid by the Importers thereof before the landing thereof.
 
@@ -5394,9 +5394,9 @@ SCHEDULE (A.) — Duties.
 
 WIRE. £.
 
-For every Ounce Troy of Gilt Wire which shall be made in Great Britain, to be paid by the Maker thereof - - - - - -00 10
+For every Ounce Troy of Gilt Wire which shall be made in Great Britain, to be paid by the Maker thereof - -00 10
 
-For every Ounce Troy of Silver Wire which shall be made in Great Britain, to be paid by the Maker thereof - - - - - -007
+For every Ounce Troy of Silver Wire which shall be made in Great Britain, to be paid by the Maker thereof - -007
 
 SCHEDULE (B.)
 
@@ -5416,7 +5416,7 @@ For every Thousand of Irish Bricks, not exceeding any of the following Dimension
 
 For every Thousand of Irish Bricks, exceeding any of the foregoing Dimensions For every Thousand of I Bricks, smoothed or polished on One or more Side or Sides, not exceeding the superficial Dimensions of Ten Inches long by Five Inches wide -
 
-For every Hundred of such last mentioned Bricks, ex- ceeding the said Dimensions - - -,
+For every Hundred of such last mentioned Bricks, ex- ceeding the said Dimensions -,
 
 For every Thousand of Irish Plain Tiles For every Thousand of Irish Pan or Ridge Tiles For every Hundred of Irish Paving Tiles, not exceeding Ten Inches Square -
 
@@ -5462,7 +5462,7 @@ For every Gallon of Irish Metheglin or Mead - 0 1 6
 
 VELLUM AND PARCHMENT.
 
-For every Dozen of Irish Vellum - - - 0 3 6
+For every Dozen of Irish Vellum - 0 3 6
 
 For every Dozen of Irish Parchment - - 0 1 9
 
@@ -5476,19 +5476,19 @@ of the First Class or Denomination; (that is to say,) all Paper other than Brown
 
 pay as Mill Board, 47 G. 3. Sess. 2. c. 30. § 14.]
 
-For every Pound Weight Avoirdupois of Irish Paper of the Second Class or Denomination; (that is to say,) all Brown Paper made of old Ropes or Cordage only as aforesaid - - - - 0 0 l£
+For every Pound Weight Avoirdupois of Irish Paper of the Second Class or Denomination; (that is to say,) all Brown Paper made of old Ropes or Cordage only as aforesaid - - 0 0 l£
 
 For every One hundred Weight of Pasteboard,
 
-Millboard, Scaleboard and Glazed Paper for Clothiers and Hotpressers - - - - I 1 0
+Millboard, Scaleboard and Glazed Paper for Clothiers and Hotpressers - - I 1 0
 
-For every Pound Weight Avoirdupois of Books, whether bound or unbound, and of Maps or Prints, which shall be imported into Great Britain directly from Ireland - - - - -003
+For every Pound Weight Avoirdupois of Books, whether bound or unbound, and of Maps or Prints, which shall be imported into Great Britain directly from Ireland - - -003
 
 SPIRITS, BRITISH.
 
 For every Gallon, English Wine Measure, of Spirits,
 
-Aqua Vitae or Strong Waters, which shall be distilled or made in Ireland, and imported into Great Britain, at a Strength not exceeding One to Ten over Hydrometer Proof - - - - 0 5 4
+Aqua Vitae or Strong Waters, which shall be distilled or made in Ireland, and imported into Great Britain, at a Strength not exceeding One to Ten over Hydrometer Proof - - 0 5 4
 
 For and upon all such Spirits above the Strength of One to Ten over Hydrometer Proof, a Duty in Proportion to the last mentioned Duty; and for and upon all such of the said Spirits as shall be sweetened or compounded, a like Duty computed upon the highest Degree of Strength at which such Spirits c \ propor-can be made .... -\tional Duty.
 
@@ -5512,9 +5512,9 @@ Wire — continued. d.
 
 For every Ounce Troy of Irish Silver Wire - - 0 0 7
 
-For every Pound Weight Avoirdupois of Irish Gold Thread, Gold Lace or Gold Fringe, made of Plate Wire, spun upon Silk - - - - 0 7 8
+For every Pound Weight Avoirdupois of Irish Gold Thread, Gold Lace or Gold Fringe, made of Plate Wire, spun upon Silk - - 0 7 8
 
-For every Pound Weight Avoirdupois of Irish Silver Thread, Silver Lace or Silver Fringe, made of Plate Wire, spun upon Silk - - - - 0 5 9
+For every Pound Weight Avoirdupois of Irish Silver Thread, Silver Lace or Silver Fringe, made of Plate Wire, spun upon Silk - - 0 5 9
 
 SCHEDULE (C.)
 
@@ -5530,7 +5530,7 @@ For all Paper made in Great Britain of the First Class or Denomination, which sh
 
 Testaments, Psalm Books, Books of Common Prayer, and Confession of Faith, and the Larger and Shorter Catechism, or any of them, within the Twro Universities of Oxford and Cam, or either of them, by Permission of the Vice Chancellors of the same respectively; or which shall be used in the printing of any Books in the Latin, Greek, Oriental or Northern Languages, within the Universities of Scotland, or any of them, by Permission of the Principals of the same respectively; or which shall be used by the King’s Printers in England and Scotland respectively, in the printing of Bibles, Testaments,
 
-Psalm Books, Books of Common Prayer of the Church of England, the Book commonly called or known in Scotland by the Name of the Confession of Faith, or the Larger or Shorter Catechism of the Church of Scotland, - - - The whole Duty.
+Psalm Books, Books of Common Prayer of the Church of England, the Book commonly called or known in Scotland by the Name of the Confession of Faith, or the Larger or Shorter Catechism of the Church of Scotland, - The whole Duty.
 
 SALT.
 
@@ -5546,7 +5546,7 @@ SCHEDULE (C.) — Allowances.
 
 Salt — continued. sS.
 
-any greater or less Quantity, deducting at the Rate of Seven and an Half per Centum in consequence of the Increase in the Weight of the Salt by the Moisture of the Air - - - - 0
+any greater or less Quantity, deducting at the Rate of Seven and an Half per Centum in consequence of the Increase in the Weight of the Salt by the Moisture of the Air - - 0
 
 For every Bushel of Salt which shall be used, employed, spent and consumed by any Bleacher of Linen or Cotton, in that Part of Great Britain called Scotland, in the making of Oxigenated Muriatic Acid, for the sole Purpose of bleaching Linen or Cotton, and so in Proportion for any greater or less Quantity, deducting at the Rate of Seven and an Half per Centum in consequence of the Increase in the Weight of the Salt by the Moisture of the Air 0 [See55 G. § 1.]
 
@@ -5554,15 +5554,15 @@ SOAP.
 
 For every Pound Weight Avoirdupois of Hard Cake Soap, or Ball Soap, made in Great, which
 
-shall be used, employed, spent and consumed in Great Britain, in the making of any Cloths, Serges, Kerseys, Bays, Stockings, or other Manufactures of Sheep or Lamb’s Wool only, or Manufactures whereof the greatest Part of the Value of the Materials shall be Wool, or in the finishing of the said Manufactures, or preparing the Wool for the same - - - - - - 0
+shall be used, employed, spent and consumed in Great Britain, in the making of any Cloths, Serges, Kerseys, Bays, Stockings, or other Manufactures of Sheep or Lamb’s Wool only, or Manufactures whereof the greatest Part of the Value of the Materials shall be Wool, or in the finishing of the said Manufactures, or preparing the Wool for the same - - 0
 
-For every Pound Weight Avoirdupois of Soft Soap made in Great Britain, which shall be used, employed, spent and consumed in Great Britain in the making of any Cloths, Serges, Bays, Stockings, or other Manufactures of Sheep or Lamb’s Wool only, or Manufactures whereof the greatest Part of the Valueofthe Materials shall be Wool, or in the finishing of the said Manufactures, or preparing the Wool for the same - - - - 0
+For every Pound Weight Avoirdupois of Soft Soap made in Great Britain, which shall be used, employed, spent and consumed in Great Britain in the making of any Cloths, Serges, Bays, Stockings, or other Manufactures of Sheep or Lamb’s Wool only, or Manufactures whereof the greatest Part of the Valueofthe Materials shall be Wool, or in the finishing of the said Manufactures, or preparing the Wool for the same - - 0
 
 For every Pound Weight Avoirdupois of Hard Cake Soap, or Ball Soap, made m Great, which
 
-shall be used, employed, spent and consumed in Great Britain in the whitening of new Linen in the Piece, for Sale - - - - - 0
+shall be used, employed, spent and consumed in Great Britain in the whitening of new Linen in the Piece, for Sale - - - 0
 
-For every Pound Weight Avoirdupois of Soft Soap, which shall be used, employed, spent and consumed in Great Britain in the whitening of new Linen in the Piece, for Sale - - - 0
+For every Pound Weight Avoirdupois of Soft Soap, which shall be used, employed, spent and consumed in Great Britain in the whitening of new Linen in the Piece, for Sale - 0
 
 For every Pound Weight Avoirdupois of Soap made in Great Britain, which shall be used, employed, spent and consumed in Great, on or before
 
@@ -5610,11 +5610,11 @@ SALT.
 
 For every One hundred Weight of dried Cod Fish,
 
-Ling or Hake, commonly called Haberdine, which shall contain in Length Fourteen Inches or upwards, from the Bone in the Fin to the Third Joint in the Tail of every such Fish, and which shall be duly exported to Foreign Parts - - - 0
+Ling or Hake, commonly called Haberdine, which shall contain in Length Fourteen Inches or upwards, from the Bone in the Fin to the Third Joint in the Tail of every such Fish, and which shall be duly exported to Foreign Parts - 0
 
-For every Barrel of Wet Cod Fish, Ling or Hake, containing Thirty two Gallons, which shall be duly exported to Foreign Parts - - - 0
+For every Barrel of Wet Cod Fish, Ling or Hake, containing Thirty two Gallons, which shall be duly exported to Foreign Parts - 0
 
-For every Barrel of Salmon, containing Forty two Gallons, which shall be duly exported to Foreign Parts - - - - - - 0
+For every Barrel of Salmon, containing Forty two Gallons, which shall be duly exported to Foreign Parts - - 0
 
 For every Barrel of White Herrings, containing Thirty two Gallons, which shall be duly exported to Fo-
 
@@ -5640,15 +5640,15 @@ reign Parts, from and after the Twenty fifth Day of March One thousand eight hun
 
 [Repealed, 55 G. 3. c. 94. § 5.]
 
-For every Barrel of full Red Herrings, containing Thirty two Gallons, which shall be duly exported to Foreign Parts - - - - 0 1 9
+For every Barrel of full Red Herrings, containing Thirty two Gallons, which shall be duly exported to Foreign Parts - - 0 1 9
 
-For every Barrel of clean shotten Red Herrings, containing Thirty two Gallons, which shall be duly exported to Foreign Parts - - - 0 1 0
+For every Barrel of clean shotten Red Herrings, containing Thirty two Gallons, which shall be duly exported to Foreign Parts - 0 1 0
 
-For every Last, consisting of Ten thousand dried Red Sprats, which shall be duly exported to Foreign Parts - - - - - - 0 1 0
+For every Last, consisting of Ten thousand dried Red Sprats, which shall be duly exported to Foreign Parts - - 0 1 0
 
 For every Cask or Vessel of Pilchards or Scads, containing Fifty Gallons, which shall be duly exported
 
-to Foreign Parts - - - - - 0 7 0
+to Foreign Parts - - - 0 7 0
 
 For every such Cask or Vessel of Pilchards so exported, until and upon the Twenty fourth Day of June One thousand eight hundred and five, over and besides the aforesaid Sum of Seven Shillings - 0 1 6
 
@@ -5656,9 +5656,9 @@ For all Pilchards which shall be duly shipped and exported directly to any of th
 
 [Bounty extended, 48 G. 3. c. 68. — 52 G. 3. c. 42. — 59 G.3. c. 77.]
 
-For every Barrel of Beef or Pork, containing Thirty two Gallons, which shall have been salted in that Part of Great Britain called England, with Salt that shall have paid all the Duties due and payable thereon in England, and which shall be duly exported to Foreign Parts - - - -050
+For every Barrel of Beef or Pork, containing Thirty two Gallons, which shall have been salted in that Part of Great Britain called England, with Salt that shall have paid all the Duties due and payable thereon in England, and which shall be duly exported to Foreign Parts - -050
 
-For every Barrel of Beef or Pork, of Thirty two Gallons, which shall have been salted in Scotland, with Foreign Salt that shall have paid all the Duties due and payable thereon, without any Mixture of British or Irish Salt, and which shall be duly exported to Foreign Parts - - - - 0 5 0
+For every Barrel of Beef or Pork, of Thirty two Gallons, which shall have been salted in Scotland, with Foreign Salt that shall have paid all the Duties due and payable thereon, without any Mixture of British or Irish Salt, and which shall be duly exported to Foreign Parts - - 0 5 0
 
 A proportional Bounty.
 
@@ -5694,7 +5694,7 @@ CHOCOLATE.
 
 For every Pound Weight Avoirdupois of Chocolate made in Great Britain of Cocoa Nuts, which shall have been imported into Great, and for
 
-which the Duties imposed in respect thereof shall been paid, and duly exported as Merchandize to Foreign Parts - - - - -0010
+which the Duties imposed in respect thereof shall been paid, and duly exported as Merchandize to Foreign Parts - - -0010
 
 [. Additional Drawback on Chocolate ', 53 G.3. c. 11.}
 
@@ -5712,7 +5712,7 @@ Glass made in Great Britain, from Materials or Metal or other Preparations for w
 
 For every Hundredweight of Flint Glass or Enamel,
 
-Stained or Paste Glass or Phial Glass, made in Great Britain from Materials or Metal, or other Preparations for which the Duties imposed in respect thereof shall have been paid, and duly exported as Merchandize to Foreign Parts, and so in Proportion for any greater or less Quantity - - - -23 6
+Stained or Paste Glass or Phial Glass, made in Great Britain from Materials or Metal, or other Preparations for which the Duties imposed in respect thereof shall have been paid, and duly exported as Merchandize to Foreign Parts, and so in Proportion for any greater or less Quantity - -23 6
 
 A.D. 1803.
 
@@ -5728,7 +5728,7 @@ Glass p — co ntinued. £. s.
 
 For every Hundred Weight of Spread Window Glass, commonly called or known by the Name of Broad Glass, made in Great Britain from Materials or Metaf, or other Preparations, for which the Duties imposed in respect thereof shall have been paid, and duly exported to Foreign Parts as Merchandize, and so in Proportion for any greater or less Quantity - 0 8 1
 
-For every Hundred Weight of all other Window Glass, not being Spread Glass, whether flashed or otherwise manufactured, and commonly called or known either by the Name of Crown Glass or of German Sheet Glass, made in Great Britain from Materials or Metal, or other Preparations, for which the Duties imposed in respect thereof shall have been paid, and duly exported as Merchandize to Foreign Parts, and so in Proportion for any greater or less Quantity - - - - - 1 9 9
+For every Hundred Weight of all other Window Glass, not being Spread Glass, whether flashed or otherwise manufactured, and commonly called or known either by the Name of Crown Glass or of German Sheet Glass, made in Great Britain from Materials or Metal, or other Preparations, for which the Duties imposed in respect thereof shall have been paid, and duly exported as Merchandize to Foreign Parts, and so in Proportion for any greater or less Quantity - - - 1 9 9
 
 For every Hundred Weight of common Bottles, not being Phials, and of Vessels made use of in Chemical Laboratories, and of Garden Glasses, and of all other Vessels or Utensils of common Bottle Metal, made in Great Britain from Materials or Metal, or other Preparations, for which the Duties imposed in respect thereof shall have been paid, and duly exported to Foreign Parts as Merchandize, and so in Proportion for any greater or less Quantity -04
 
@@ -5740,11 +5740,11 @@ HIDES AND SKINS.
 
 For all Hides and Calve Skins, Sheep and Lamb Skins, and Seal Skins, tanned or tawed in Great ,
 
-and duly marked, for which the Duties imposed in respect thereof shall have been paid, and which shall, be duly exported to Foreign Parts as Merchandize \0ftbeDuties For every Pound Weight Avoirdupois of Leather tanned in Great Britain, and chargeable by this Act to pay a Duty by Weight, for which the Duties imposed in respect thereof shall have been paid, and which shall be manufactured and actually made into Goods or Wares, and duly exported as Merchandize to Foreign Parts - - - - -OOI5
+and duly marked, for which the Duties imposed in respect thereof shall have been paid, and which shall, be duly exported to Foreign Parts as Merchandize \0ftbeDuties For every Pound Weight Avoirdupois of Leather tanned in Great Britain, and chargeable by this Act to pay a Duty by Weight, for which the Duties imposed in respect thereof shall have been paid, and which shall be manufactured and actually made into Goods or Wares, and duly exported as Merchandize to Foreign Parts - - -OOI5
 
 For every Pound Weight Avoirdupois of Boots, Shoes,
 
-Gloves or other Manufactures made in Great of any Kind of tawed Leather chargeable by this Act to pay a Duty by Weight, for which the Duties imposed in respect thereof shall have been paid, and which shall be duly exported as Merchandize to f Two Thirds Foreign Parts - - - - . tof.beDute.
+Gloves or other Manufactures made in Great of any Kind of tawed Leather chargeable by this Act to pay a Duty by Weight, for which the Duties imposed in respect thereof shall have been paid, and which shall be duly exported as Merchandize to f Two Thirds Foreign Parts - - . tof.beDute.
 
 For every Pound Weight of all Buck, Deer or Elk
 
@@ -5764,13 +5764,13 @@ SCHEDULE (C.) — Drawbacks.
 
 Hides and Skins — continued. £. s. d.
 
-paid, whether manufactured and actually made into Goods or Wares or not, and duly exported as Merchandize to Foreign Parts - - - - 0 1 0
+paid, whether manufactured and actually made into Goods or Wares or not, and duly exported as Merchandize to Foreign Parts - - 0 1 0
 
-For every Pound Weight Avoirdupois of all Sheep and Lamb Skins dressed in Oil in Great Britain, for which the Duties imposed in respect thereof shall have been paid, and which shall be manufactured and actually made into Goods or Wares, and duly exported as Merchandize to Foreign Parts - - - 0 0 3
+For every Pound Weight Avoirdupois of all Sheep and Lamb Skins dressed in Oil in Great Britain, for which the Duties imposed in respect thereof shall have been paid, and which shall be manufactured and actually made into Goods or Wares, and duly exported as Merchandize to Foreign Parts - 0 0 3
 
 For every Pound Weight of all other Skins and of all Hides dressed in Oil in Great, for which the
 
-Duties imposed in respect thereof shall have been paid, and which shall be manufactured and actually made into Goods or Wares, and duly exported as Merchandize to Foreign Parts - - - 0 0 6
+Duties imposed in respect thereof shall have been paid, and which shall be manufactured and actually made into Goods or Wares, and duly exported as Merchandize to Foreign Parts - 0 0 6
 
 For ^very Pound Weight of all other Skins, except Lamb Skins, and of all Hides dressed in Oil in Great Britain, and duly marked, for which the Duties imposed in respect thereof shall have been paid, and which shall be exported as Merchandize to Foreign jxwo Thirds Parts ---- - "^oftheDuties.
 
@@ -5784,7 +5784,7 @@ PAPEB.
 
 For all Paper made in Great, for which the
 
-Duties imposed in respect thereof shall have been paid, and which shall be duly exported as Merchandize to Foreign Parts - - - All the Duties.
+Duties imposed in respect thereof shall have been paid, and which shall be duly exported as Merchandize to Foreign Parts - All the Duties.
 
 For every One hundred Weight of Pasteboard made in Great Britain of Paper for which the Duties imposed in respect thereof shall have been paid; and for every One hundred Weight of Millboard and Scaleboard made in Great Britain, for which the Duties imposed in respect of such Millboard and Scaleboard respectively shall have been paid, and duly exported as Merchandize to Foreign Parts, and so in Proportion for any greater or less Quantity - 1 1 0
 
@@ -5818,7 +5818,7 @@ SALT.
 
 For every Bushel of Salt made in that Part of Great Britain called England, Rock Salt excepted, for which all the Duties due and payable thereon shall have been paid, and which shall be duly exported from thence to Foreign Parts as Merchandize - 0 10
 
-For every Bushel of Salt made in Scotland, Rock Salt excepted, for which all the Duties due and payable thereon shall have been paid, and which shall be duly exported from thence as Merchandize to Foreign Parts - - - - - - o 4
+For every Bushel of Salt made in Scotland, Rock Salt excepted, for which all the Duties due and payable thereon shall have been paid, and which shall be duly exported from thence as Merchandize to Foreign Parts - - o 4
 
 For every Bushel of Salts, known or called by the Name of Glauber or Epsom Salts, made or produced in Great Britain, for which all the Duties due and payable thereon shall have been paid, and which shall be duly exported to Foreign Parts as Merchandize 0 10
 
@@ -5868,19 +5868,19 @@ TOBACCO.
 
 For every Pound Weight of Shortcut Tobacco, manufactured at any of the Ports of Great Britain into which Tobacco may lawfully be imported, or within Two Miles thereof, from Tobacco for which the Duties imposed in respect thereof shall have been paid, and exported as Merchandize by the Manufacturer thereof from such Ports to Foreign Parts 0 0 4?
 
-For every Pound Weight of Shag Tobacco so manufactured and exported - - - 0 0 3$
+For every Pound Weight of Shag Tobacco so manufactured and exported - 0 0 3$
 
-For every Pound Weight of Roll Tobacco so manufactured and exported - - - 0 0 4?
+For every Pound Weight of Roll Tobacco so manufactured and exported - 0 0 4?
 
-For every Pound Weight of Carrot Tobacco so manufactured and exported - - - 0 0 3$
+For every Pound Weight of Carrot Tobacco so manufactured and exported - 0 0 3$
 
 N. B. Tobacco exported is also entitled to other Drawbacks out of the annual Duty by Act for continuing the Duties on Pensions, Offices, &c.
 
 WINE.
 
-For every Tun of French Wine imported into Great Britain, for which all the Duties imposed in respect thereof shall have been paid, and which shall be duly exported as Merchandize from or out of the entered Stock of any Dealer or Dealers in, or Seller or Sellers of French Wine, and so in Proportion for any greater or less Quantity - - - - 44? 2 0
+For every Tun of French Wine imported into Great Britain, for which all the Duties imposed in respect thereof shall have been paid, and which shall be duly exported as Merchandize from or out of the entered Stock of any Dealer or Dealers in, or Seller or Sellers of French Wine, and so in Proportion for any greater or less Quantity - - 44? 2 0
 
-For every Tun of any other Wines imported into Great Britain, for which all the Duties imposed in respect thereof shall have been paid, and which shall be duly exported as aforesaid as Merchandize to Foreign Parts, and so in Proportion for any greater or less Quantity - - - - - 29 8 0
+For every Tun of any other Wines imported into Great Britain, for which all the Duties imposed in respect thereof shall have been paid, and which shall be duly exported as aforesaid as Merchandize to Foreign Parts, and so in Proportion for any greater or less Quantity - - - 29 8 0
 
 WIRE.
 
@@ -6414,7 +6414,7 @@ SCHEDULES to which this Act refers. SCHEDULE (A.)
 
 WINE. £.
 
-For every Tun of French Wine imported into Great Britain, for which all the Duties that shall have been charged or shall be chargeable thereon, shall not have been paid, before the 13th Day of June 1803, or which on the 12th Day of June 1803, shall be remaining in any Warehouse, Storehouse, Vault or Cellar, under the Locks of the Officers of the Customs or Excise - - - - -1800
+For every Tun of French Wine imported into Great Britain, for which all the Duties that shall have been charged or shall be chargeable thereon, shall not have been paid, before the 13th Day of June 1803, or which on the 12th Day of June 1803, shall be remaining in any Warehouse, Storehouse, Vault or Cellar, under the Locks of the Officers of the Customs or Excise - - -1800
 
 For every Tun of all other Wines (not being French Wines) imported into Great, for which all
 
@@ -6436,7 +6436,7 @@ Officers of the Customs or Excise, or in any Warehouse in which the same shall h
 
 “ Payment of Duties, under certain Restrictions,
 
-“ for a limited Time.” - - - 12 0 0
+“ for a limited Time.” - 12 0 0
 
 [. Duties of Excise made perpetual as therein ,
 
@@ -6444,7 +6444,7 @@ Officers of the Customs or Excise, or in any Warehouse in which the same shall h
 
 For every Tun of French Wine which shall have been found on the First actual Survey by the proper Officer of Excise after the 12th Day of June 1803, in the Stock, Custody or Possession of any Dealer or Dealers in, or Seller or Sellers of Foreign Wine 18 0 0
 
-For every Tun of all other Wines (not being French Wines) which shall have been found on the First actual Survey by the proper Officer of Excise after the 12th Day of June 1803, in the Stock, Custody or Possession of any Dealer or Dealers in, or Seller' or Sellers of Foreign Wine - - - 12 0 0
+For every Tun of all other Wines (not being French Wines) which shall have been found on the First actual Survey by the proper Officer of Excise after the 12th Day of June 1803, in the Stock, Custody or Possession of any Dealer or Dealers in, or Seller' or Sellers of Foreign Wine - 12 0 0
 
 SWEETS.
 
@@ -6458,11 +6458,11 @@ SPIRITS.
 
 For every Gallon of Single Rum, Spirits or Aqua Vitae of the Produce of the British Colonies or Plantations in America, imported into Great Britain - - 0
 
-For every Gallon of Rum, Spirits or Aqua Vitae above Proof, of the Produce of the British Colonies or Plantations in America, imported into Great Britain 0 For every Gallon of Single Rum, Spirits or Aqua Vitae imported by the United Company of Merchants of England trading to the East Indies - - - 0
+For every Gallon of Rum, Spirits or Aqua Vitae above Proof, of the Produce of the British Colonies or Plantations in America, imported into Great Britain 0 For every Gallon of Single Rum, Spirits or Aqua Vitae imported by the United Company of Merchants of England trading to the East Indies - 0
 
 For every Gallon of Rum, Spirits or Aqua Vitae above Proof, imported by the United Company of Merchants of England trading to the East Indies - 0
 
-For every Gallon of Single Brandy, Spirits, Aqua Vitae or Strong Waters of any Sort or Kind, other than such Rum, Spirits or Aqua Vitae as aforesaid, imported into Great Britain, not being Irish Spirits, imported directly from Ireland - - - 0
+For every Gallon of Single Brandy, Spirits, Aqua Vitae or Strong Waters of any Sort or Kind, other than such Rum, Spirits or Aqua Vitae as aforesaid, imported into Great Britain, not being Irish Spirits, imported directly from Ireland - 0
 
 3 51 6 8
 
@@ -6488,7 +6488,7 @@ Spirits — continued,
 
 For every Gallon of Brandy, Spirits, Aqua Vitae or Strong Waters above Proof, other than such Brandy,
 
-Rum, Spirits or Aqua Vitae as aforesaid, imported into Great Britain, not being Irish Spirits, imported directly from Ireland - - - - -08
+Rum, Spirits or Aqua Vitae as aforesaid, imported into Great Britain, not being Irish Spirits, imported directly from Ireland - - -08
 
 [Additional Duty on Spirits imported continued till 5th 1822, 1&2G.4.C. 3. § 11. See 3 G. 4. c.6.]
 
@@ -9708,7 +9708,7 @@ County of Dr. per Contra Cr.
 
 Paid Volunteer
 
-Cavalry Men, for their Attendance at the Place of Exercise on the Days appointed, being Days’ Pay - - -
+Cavalry Men, for their Attendance at the Place of Exercise on the Days appointed, being Days’ Pay -
 
 Paid Allowance
 
@@ -14076,9 +14076,9 @@ Produce of Lottery (deducting
 
 117, 444/. 8s. 11 d.for Ireland) ----
 
-Additional Customs - - ----
+Additional Customs ----
 
-----Excise - - ----
+----Excise ----
 
 -i
 
@@ -14242,7 +14242,7 @@ Hire of Transports Prisoners of War in Health Ditto Sick
 
 Wages of 10,000 Men addi- f tional, (including 2, 4-00 Marines) -Victualling -
 
-Wear and Tear of Ships -Ordnance - - - -
+Wear and Tear of Ships -Ordnance - -
 
 Wages for 40,000 further additional (including8000 Marines)
 
@@ -14388,7 +14388,7 @@ Increased Rates to Innkeepers Small Beer and Allowances on March in Ireland (a)
 
 On Account of reduced Officers'!
 
-of Land Forces and Marines Half Pay and Allowances to reduced Officers of British Ame- J> For the Year 1803. rican Forces - - - |
+of Land Forces and Marines Half Pay and Allowances to reduced Officers of British Ame- J> For the Year 1803. rican Forces - |
 
 On Account of Officers late Service of States General -Widows’ Pensions Volunteers Corps Barrack Departments -Foreign Corps in His Majesty’s'!
 
@@ -14398,13 +14398,13 @@ Medicines, Bedding and Hospital Contingencies for Forces in land, and Military I
 
 Chelsea and Kilma inham Hos-
 
-pitals, In and Out Pensioners, and Expences of the Hospitals For One Regiment of Light Dra- goons and . One West India Regiment retained on the Establishment, and Augmentation to Dragoon Guards, and Dragoons in the United Kingdom, and to the Three Regiments of Foot Guards -Additional General and General 1 Staff Officers in the United King- v For 1803. dom - - - - -J
+pitals, In and Out Pensioners, and Expences of the Hospitals For One Regiment of Light Dra- goons and . One West India Regiment retained on the Establishment, and Augmentation to Dragoon Guards, and Dragoons in the United Kingdom, and to the Three Regiments of Foot Guards -Additional General and General 1 Staff Officers in the United King- v For 1803. dom - - -J
 
 For appointing effective Captains
 
 to Troops and Companies lately I From 25 May to held by Colonels, &c. through- f 24 December 1803. out the Army - J
 
-For embodying Militia of United Kingdom, and of Corps of Miners of Devon and j Cornwall - - - *
+For embodying Militia of United Kingdom, and of Corps of Miners of Devon and j Cornwall - *
 
 Contingencies for said Militia -1
 
@@ -14434,7 +14434,7 @@ For the Year 1803.
 
 Supplementary Militia of Great Britain, raised by Proclamation of ’
 
-Volunteer Corps, Cavalry and In- fantry ----Further Charge of Barrack Department in Great Britain Ditto ditto Ireland Towards Extraordinaries of Army j in Great Britain - - - j
+Volunteer Corps, Cavalry and In- fantry ----Further Charge of Barrack Department in Great Britain Ditto ditto Ireland Towards Extraordinaries of Army j in Great Britain - j
 
 Ditto ditto Ireland - - J
 
@@ -16036,7 +16036,7 @@ Reign of His late Majesty, and in the Twenty second Year of the Reign of His pre
 
 [11th June 1803.]
 
-Cap. Ixvi.
+Cap. lxvi.
 
 , c. 124. An Act for continuing (b) the Term, and altering and enlarging the Powers of an Act passed in the Twenty fifth Year of the Reign of His present Majesty, for amending and keeping in Repair the Road from Whitechapel Church, in the County of Middlesex, to Shenfield, and the furthermost Part of the Parish of Woodford towards Epping, and from the Causeway in the Parish of Low Layton to the End of the said Parish of
 
@@ -19932,7 +19932,7 @@ remaining in any Warehouse, Storehouse, Vault or Cellar, under the Locks of the 
 
 For every Tun of all other Wines (not being French Wines) imported into Great, for which all
 
-the Duties herein specified, and all other Duties thereon, that shall have been charged, or shall be chargeable thereon, shall not be paid before the 30th Day of April 1804, or which, on the 30th Day of April 1804, shall be remaining in any Warehouse, Storehouse, Vault or Cellar, under the Locks of the Officers of the Customs of Excise, or in any Warehouse in which the same shall have been or shall be lodged or deposited under and by virtue of an Act, passed in the Forty first Year of the Reign of His present Majesty, intituled An Act to permit Portugal Wine to be landed and warehoused without Payment of Duties under certain restrictions for a limited Time. - - -
+the Duties herein specified, and all other Duties thereon, that shall have been charged, or shall be chargeable thereon, shall not be paid before the 30th Day of April 1804, or which, on the 30th Day of April 1804, shall be remaining in any Warehouse, Storehouse, Vault or Cellar, under the Locks of the Officers of the Customs of Excise, or in any Warehouse in which the same shall have been or shall be lodged or deposited under and by virtue of an Act, passed in the Forty first Year of the Reign of His present Majesty, intituled An Act to permit Portugal Wine to be landed and warehoused without Payment of Duties under certain restrictions for a limited Time. -
 
 For every Tun of French Wine which shall have been found on the first actual Survey by the proper Officer of Excise after the 30th Da}' of April 1804, in the Stock, Custody or Possession of any Dealer or Dealers in, or Seller or Sellers of Foreign Wine. For every Tun of all other Wines (not being French Wines) which shall have been found on the first actual Survey by the proper Officer of Excise after the 30th Day of April1804, in the Stock, Custody or Possession of any Dealer or Dealers in, or Seller or Sellers of Foreign Wine
 
@@ -20788,7 +20788,7 @@ Names and Descriptions of Corps. Number of Persons enrolled and serving therein.
 
 3. Infantry - 1,000 600 Not Inspected, but willing to be so.
 
-4. Artillery -D« - - - 700 400 D°
+4. Artillery -D« - 700 400 D°
 
 &c. &c. - - &c. &c.
 
@@ -21104,7 +21104,7 @@ tain called Scotland, who is a Brewer, Maltster, Distiller or Retailer of Ale, B
 
 in which no Essoign, Protection, Wager of Law or more than One Imparlance shall be allowed; which said Penalty of Fifty Pounds shall be paid, One Moiety thereof to the Person who sues for the same, and the other Moiety to the Collector of the Cess for the Shir-e or Stewartry within which such Justice or Magistrate has offended, to be applied for the Reparation of the Highways or Bridges in such Shire or Stewartry, in such Manner as the Persons who by Law have the ordering and directing of such Reparations, shall think proper.
 
-XXII. And be it further enacted, That in case any Action, Suit or other Prosecution, shall be had, brought or prosecuted, against any Person or Persons, for or by reason of any Act, Matter or Thing, by him, her or them done or committed by virtue or in pursuance of this Act, that then, in every such Case, " the Action, Suit or Prosecution shall be laid and prosecuted in the Court of Exchequer in Edinburgh, and not elsewhere; and that in every such
+XXII. And be it further enacted, That in case any Action, Suit or other Prosecution, shall be had, brought or prosecuted, against any Person or Persons, for or by reason of any Act, Matter or Thing, by him, her or them done or committed by virtue or in pursuance of this Act, that then, in every such Case," the Action, Suit or Prosecution shall be laid and prosecuted in the Court of Exchequer in Edinburgh, and not elsewhere; and that in every such
 
 Action, Suit or Prosecution, the Defendant
 
@@ -22666,7 +22666,7 @@ Things under the Management of the Commissioners of the
 
 Stamp Duties, and do therefore most humbly beseech Your
 
-Majesty that it may be enactedand be it therefore enacted,
+Majesty that it may be enacted and be it therefore enacted,
 
 That, from and after the said Tenth Day of October One thousand eight hundred and four, in lieu and instead of the said Duties respectively by this Act repealed, there shall be raised, levied, collected and paid, in England, unto His Majesty, His Heirs and Successors, for and in respect of the several Instruments, Articles, Matters and Things mentioned, enumerated and described in the Schedules marked (A.) and (B.) hereunto annexed, the several Sums of Money and Duties as they are respectively inserted, described and set forth in the Column of the said Schedules marked (A.) and (B.) , intituled u Englandand that there shall be raised, levied, collected and paid in like Manner in, the
 
@@ -22986,7 +22986,7 @@ s€. s. d. sS. s. d.
 
 commonly called or known by the Name of Felt or Wool, Stuff or Beaver Hats, or any Leather or Japanned Hats, or any Hats made wholly of Felt, Wool, Stuff, Beaver or Leather, or any Mixture of the said Substances, or any of them, or mixed with any other Substance or Substances, by whatever Name such Hats shall be called or distinguished, yearly - 2 G 0 0 0 0
 
-Licence for uttering or vending by Retail, any Hats commonly called or known by the Name of Felt or Wool, Stuff or Beaver Hats, or any Leather or Japanned Hats, or any Hats made wholly of Felt, Wool, Stuff, Beaver or Leather, or any Mixture of the said Substances, or any of them, or mixed with any other Substance or Substances, by whatever Name such Hats shall be called or distinguished, in any other Place than as last above mentioned, yearly - - - - - -| 0 5 0 0 5 0
+Licence for uttering or vending by Retail, any Hats commonly called or known by the Name of Felt or Wool, Stuff or Beaver Hats, or any Leather or Japanned Hats, or any Hats made wholly of Felt, Wool, Stuff, Beaver or Leather, or any Mixture of the said Substances, or any of them, or mixed with any other Substance or Substances, by whatever Name such Hats shall be called or distinguished, in any other Place than as last above mentioned, yearly - -| 0 5 0 0 5 0
 
 SCHEDULE (B.) STAMP DUTIES.
 
@@ -23040,7 +23040,7 @@ or Thing, on which the Duty attaches.
 
 Made of any such Substance or Substances as last above men- tioned, exceeding the Price or Value of Eighteen Shillings, including all the Mountings or other Ornaments, (except Gold and Silver Lace) , which shall be so uttered, vended or sold, s. d. S. d.
 
-each Hat - - - [Duties on Gold and Silver Plate made to, 55 3. c. 185. § 1.] Medicines, for and upon every Packet, Box, Bottle, Pot, Phial or other Inclosure, containing anyDrugs, Herbs, Pills, Waters, Essences, Tinctures, Powders or other Preparation or Composition whatsoever, used or applied, or to be used or applied, externally or internally, as Medicines or Medicaments for the Prevention, Cure or Relief of any Disorder or Complaint incident to or in any wise affecting the Human Body; which shall be uttered or vended in Great Britain, where such Packet, Box, Bottle, Pot, Phial or other Inclosure, with its Contents, shall not exceed the Price or Value of One 0 3 0 0 3 0
+each Hat - [Duties on Gold and Silver Plate made to, 55 3. c. 185. § 1.] Medicines, for and upon every Packet, Box, Bottle, Pot, Phial or other Inclosure, containing anyDrugs, Herbs, Pills, Waters, Essences, Tinctures, Powders or other Preparation or Composition whatsoever, used or applied, or to be used or applied, externally or internally, as Medicines or Medicaments for the Prevention, Cure or Relief of any Disorder or Complaint incident to or in any wise affecting the Human Body; which shall be uttered or vended in Great Britain, where such Packet, Box, Bottle, Pot, Phial or other Inclosure, with its Contents, shall not exceed the Price or Value of One 0 3 0 0 3 0
 
 Shilling - Where such Packet, Box, Bottle, Pot, Phial or other Inclosure, with its Contents, shall exceed the Price or Value of One Shilling, and not exceed the Price or Value of Two Shillings pH © o © ©
 
@@ -23064,7 +23064,7 @@ Shillings, and shall not exceed the Price or Value of Ten £. s. d. s. d.
 
 Shillings -Where such Packet, Box, Bottle, Pet, Phial or other Inclosure, with its Contents, shall exceed the Price or Value of Ten Shillings, and shall not exceed the Price or Value of Twenty 0 1 0 0 1 0
 
-Shillings - - -Where such Packet, Box, Bottle, Pot, Phial or other Inclosure, with its Contents, shall exceed the Price or Value of Twenty Shillings, and shall not exceed the Price or Value of Thirty O O 0 2 0
+Shillings -Where such Packet, Box, Bottle, Pot, Phial or other Inclosure, with its Contents, shall exceed the Price or Value of Twenty Shillings, and shall not exceed the Price or Value of Thirty O O 0 2 0
 
 Shillings -Where such Packet, Box, Bottle, Pot, Phial or other Inclosure, with its Contents, shall exceed the Price or Value of Thirty Shillings, and shall not exceed the Price or Value of Fifty 0 3 0 0 3 0
 
@@ -23886,7 +23886,7 @@ Ships, - - I
 
 Ordnance, - -J Ordinary of the Navy, (including Pay)
 
-Building, rebuilding and repairing of Ships, &c. Extra -. Hire of Transports - - - }► For the Year 1804
+Building, rebuilding and repairing of Ships, &c. Extra -. Hire of Transports - }► For the Year 1804
 
 Prisoners of War in Health Ditto Sick -
 
@@ -24012,23 +24012,23 @@ For Military Allowances to reduced Officers of Land Forces Half Pay and Allowanc
 
 On account of Officers late in the Service of the States General --Chelsea and Kilm ainharnHos-V pitals, In and Out Pensioners, and / From 25 180
 
-Expences of the Hospitals - > to 25 Dec, 1804, Widows’ Pensions in Great Britain I (both inclusive) and Ireland - - - - J
+Expences of the Hospitals - > to 25 Dec, 1804, Widows’ Pensions in Great Britain I (both inclusive) and Ireland - - J
 
 Barrack Departments in Ireland For the Year 1804. General Hospital Expences, for ) 25 December 1803, Ireland, and Military Infirmary r to
 
-in Dublin - - - -) 24 December 1804 *
+in Dublin - -) 24 December 1804 *
 
 ' For the Year 1803.
 
 1804.
 
-Foreign Corps in His Majesty’sY Service - - - f
+Foreign Corps in His Majesty’sY Service - f
 
 Garrison Service in the West Indies {
 
 !> For the Year 1804 *
 
-III XJLIUILIV - - - - J
+III XJLIUILIV - - J
 
 q Volunteers Corps in Great Britain year 11 Foreign Corps in His Majesty’sY
 
@@ -24250,7 +24250,7 @@ Repairs at Port .
 
 Indexes to Journals of House of Lords. 265, 336 14 10j Prize Money for Ships taken at Toulon.
 
-150.000 0 0 Secret Services - - - For the Year 1804.
+150.000 0 0 Secret Services - For the Year 1804.
 
 412.000 0 0 Sums awarded to be paid by Commissioners on Article 7. of American Treaty.
 
@@ -24318,11 +24318,11 @@ Expences of Commissioners for publishing the Public Records of the Kingdom in th
 
 Prosecutions, §c.relating to the 7 1803.
 
-^ Coin in - - - -) 1804.
+^ Coin in - -) 1804.
 
 Inland Navigation from the Eastern to the Western Sea.
 
-Works done at the Two Houses! From 31st May of Parliament and at the > 1803, to 24th of Speaker’s - - -) April 1804.
+Works done at the Two Houses! From 31st May of Parliament and at the > 1803, to 24th of Speaker’s -) April 1804.
 
 Works done at Old Chapter House, Westminster. Repairs of King’s Bench Prison.
 
@@ -24526,7 +24526,7 @@ for building and rebuilding Churches -
 
 ation
 
-' ublin Husbandry Sc ciety - - - j
+' ublin Husbandry Sc ciety - j
 
 epository in Garden at inning Society of In land
 
@@ -24568,7 +24568,7 @@ Sterling. *£.18, 580 18 2 Irish. 20, 129 6 4 Society for promoting '
 
 5th Jan. 1805.
 
-pital - - -J
+pital -J
 
 XXIV.") Directing Application of Supplies and Rules for receiving Half Pay, XXV. \ and Application of Overplus of Sum appropriated to reduced Officers XXVI.) by 43 G.3. c. 162. § 10.
 
@@ -25244,13 +25244,13 @@ An Act for repealing an Act, passed in the Forty third Year of His present Majes
 
 f [26 G.2. c. 90. — 27 G.2. c. 27.-6 3. c. 82.-27 3. c. 83.]
 
-Cap. Ixvi.
+Cap. lxvi.
 
 An Act to continue the Term, and alter and enlarge the Powers of Two Acts, of the Twenty eighth Year of King George the Second, and the Nineteenth Year of His present Majesty, for repairing the Road from Market, in the County of
 
 Leicester, to the City of Coventry. ()[29th June 1804.]
 
-Cap. Ixvii.
+Cap. lxvii.
 
 An Act for amending, widening, altering and improving the Road leading from the Market Place in Cromford to the Five Lane Fnds at the Guide Post on Hopton, and for setting out
 
@@ -25258,7 +25258,7 @@ and making Two new Roads branching from the said Road, One up the Valley, by Gra
 
 in the County of Derby, (a) [29th June 1804.]
 
-Cap. Ixviii.
+Cap. lxviii.
 
 An Act to continue the Term, and alter and enlarge the Powers of so much of Two Acts, passed in the Eighth and Twenty ninth Years of His present Majesty, as relates to the Road from the City of York to the Top of Bank, in the County
 

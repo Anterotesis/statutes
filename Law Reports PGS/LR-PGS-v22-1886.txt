@@ -1734,7 +1734,7 @@ SCHEDULE (A.)
 
 £ 9. d.
 
-Grants out of the Consolidated Fund - - - 40, 290, 457 2 1
+Grants out of the Consolidated Fund - 40, 290, 457 2 1
 
 SCHEDULE (B.) — Appropriation of Grants.
 
@@ -1814,9 +1814,9 @@ Registrar General's Office (Scotland) - - 1 10 11
 
 Class HI.
 
-Supreme Court of Judicature (Ireland) - - - 178 17 1
+Supreme Court of Judicature (Ireland) - 178 17 1
 
-Dublin Metropolitan Police - - - 398 16 0
+Dublin Metropolitan Police - 398 16 0
 
 Total - - . 1 595 1 2 1
 
@@ -2014,13 +2014,13 @@ For the expense of the victualling yards at home and abroad ----
 
 For the expense of the medical establishments at home and abroad ----
 
-For the expense of the Marine Divisions - - -
+For the expense of the Marine Divisions -
 
 Sect. 1. For naval stores for building, repairing, and outfitting the fleet and coast guard -Sect. 2. For steam machinery, and ships built by contract, &c. ----
 
 For new works, buildings, machinery, and repairs in the naval establishments -
 
-For medicines, medical stores, &c. - - - -
+For medicines, medical stores, &c. - -
 
 For martial law, &c.
 
@@ -2358,7 +2358,7 @@ No. Sums not exceeding £
 
 26. For maintaining certain lighthouses abroad - 13, 208
 
-27. For diplomatic and consular buildings, including rents and furniture, and for the maintenance of certain cemeteries abroad - - - 41, 677
+27. For diplomatic and consular buildings, including rents and furniture, and for the maintenance of certain cemeteries abroad - 41, 677
 
 Total Civil Services, Class I. - £ 1, 807, 343
 
@@ -2376,13 +2376,13 @@ Ne.
 
 2. For salaries and expenses in the offices of the Honse of
 
-Commons - - - - ' -
+Commons - - ' -
 
 3. For salaries and expenses of the department of Her Majesty's
 
 Treasury and in the office of the Parliamentary Counsel --4. For salaries and expenses of the office of Her Majesty's Secretary of State for the Home Department and subordinate offices ----
 
-5. For salaries and expenses of the department of Her Majesty's Secretary of State for Foreign Affairs 6. For salaries and expenses of the department of Her Majesty's Secretary of State for the Colonies, including certain expenses connected with Emigration 7. For salaries and expenses of the department of Her Majesty's Most Honourable Privy Council and subordinate departments - - - - - -
+5. For salaries and expenses of the department of Her Majesty's Secretary of State for Foreign Affairs 6. For salaries and expenses of the department of Her Majesty's Secretary of State for the Colonies, including certain expenses connected with Emigration 7. For salaries and expenses of the department of Her Majesty's Most Honourable Privy Council and subordinate departments - -
 
 S. For salaries and expenses of the office of the Committee of Privy Council for Trade, and subordinate departments -
 
@@ -2640,11 +2640,11 @@ sioner .....
 
 8. For salaries and expenses of the police courts of London and
 
-Sheerness - - -
+Sheerness -
 
 9. For contribution toward the expenses of the metropolitan
 
-police, and of the horse patrol, and Thames police, and for the salaries of the Commissioner, Assistant Commissioners, and Receiver - - -
+police, and of the horse patrol, and Thames police, and for the salaries of the Commissioner, Assistant Commissioners, and Receiver -
 
 10. For the expenses of police engaged in special duties in con-
 
@@ -2700,7 +2700,7 @@ No. £
 
 13. For the expenses of the Prisons Board, England, and of the prisons under their control ---- 466, 035
 
-14. For the maintenance of juvenile offenders in reformatory, industrial, and day industrial schools in Great Britain, and for the salaries and expenses of the Inspectors of Reformatories - - - 280, 852
+14. For the maintenance of juvenile offenders in reformatory, industrial, and day industrial schools in Great Britain, and for the salaries and expenses of the Inspectors of Reformatories - 280, 852
 
 15. For the maintenance of criminal lunatics in Broadmoor Criminal Lunatic Asylum, England ... 29, 282
 
@@ -2720,7 +2720,7 @@ No. £
 
 24. For salaries and expenses of the Admiralty Court Registry in Ireland ---- 1, 285
 
-25. For salaries and expenses of the Office for the Registration of Deeds in Ireland - - - - - 9,000 (on account)
+25. For salaries and expenses of the Office for the Registration of Deeds in Ireland - - - 9,000 (on account)
 
 26. For salaries and expenses in the Office for the Registration of Judgments in Ireland ..... 1, 200 (on account)
 
@@ -2730,7 +2730,7 @@ No. £
 
 29. For salaries and expenses of the Commissioners of Police, of the police courts and of the metropolitan police establishment of Dublin ---- 30. For the expenses of the Constabulary Force in Ireland 90,000 (on account) 855,000 (on account)
 
-31. For the expense of the General Prisons Board in Ireland, and of the prisons under their control; and of the registration of habitual criminals - - - 85,000 (on account)
+31. For the expense of the General Prisons Board in Ireland, and of the prisons under their control; and of the registration of habitual criminals - 85,000 (on account)
 
 32. For the expenses of reformatories and industrial schools in Ireland ..... 108, 057
 
@@ -4634,13 +4634,13 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 Wine not exceeding SO degrees of proof spirit, the
 
-gallon - - - - -010
+gallon - - -010
 
 Wine exceeding 30 but not exceeding 42 degrees
 
-of proof spirit, the gallon - - - 0 2 6
+of proof spirit, the gallon - 0 2 6
 
-And for every degree or part of a degree beyond the highest above charged, an additional duty, the gallon - - - - - -003
+And for every degree or part of a degree beyond the highest above charged, an additional duty, the gallon - -003
 
 99
 
@@ -5200,7 +5200,7 @@ Streets under Act of 1877 ----
 
 Streets under Act of 1883, including freeing footbridges over canal ----
 
-Improvements under the Metropolis Management Act, 1855, the Metropolis Management Amendment Act, 1862, including improvements sanctioned by Parliament, for which no provision is elsewhere made in this Act -Various Powers Act, 1884 Various Powers Act, 1885 - - -
+Improvements under the Metropolis Management Act, 1855, the Metropolis Management Amendment Act, 1862, including improvements sanctioned by Parliament, for which no provision is elsewhere made in this Act -Various Powers Act, 1884 Various Powers Act, 1885 -
 
 Main Drainage (including Precipitation Works)
 
@@ -5216,7 +5216,7 @@ Bridges (under Acts of 1881 and 1884)
 
 Bridges (under Act of 1883)
 
-Thames River, Prevention of Floods Artizans' Dwellings - - -
+Thames River, Prevention of Floods Artizans' Dwellings -
 
 Streets (under Act of 1877) *
 
@@ -5650,7 +5650,7 @@ Members of
 
 General
 
-Conncil.
+Council.
 
 Ch. 48. Medical Act, 1886. 49 & 50 Vict.
 
@@ -7344,7 +7344,7 @@ lxxxv. An Act for empowering the Southwark and Vauxhall Water Company to constru
 
 lxxxvi. An Act to incorporate the Bute Docks Company; and to transfer to the Company so incorporated the Bute Docks Undertaking; and for other purposes.
 
-Ixxxvii. An Act to authorise the Bexley Heath Railway Company to make a new road and sewer in connection with their authorised railway and to extend the time for the purchase of land and completion of that railway and for other purposes.
+lxxxvii. An Act to authorise the Bexley Heath Railway Company to make a new road and sewer in connection with their authorised railway and to extend the time for the purchase of land and completion of that railway and for other purposes.
 
 lxxxviii. An Act to amend the Dore and Chinley Railway Acts 1884 and 1885 and for other purposes.
 

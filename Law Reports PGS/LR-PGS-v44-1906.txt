@@ -796,11 +796,11 @@ Table of Rates of Drawback.
 
 1 Ordinary Rate. Addition while Additional 1900 Duty is in force. Total while Additional 1900 Duty is in force.
 
-Cigars - - - - the lb. ft. 3 1 (1. 1 4 1 s. d. 3 5
+Cigars - - the lb. ft. 3 1 (1. 1 4 1 s. d. 3 5
 
-Cigarettes - - - the lb. 3 0 4 3 4
+Cigarettes - the lb. 3 0 4 3 4
 
-Cut, roll, cake, or other manufactured tobacco - - - the lb. 2 11 4 3 3
+Cut, roll, cake, or other manufactured tobacco - the lb. 2 11 4 3 3
 
 Snuff (not being offal snuff) - the lb. | 2 10 i 4 3 2
 
@@ -1810,7 +1810,7 @@ Customs and Excise.
 
 £ *.
 
-On a licence to be taken out annually by a manufacturer for sale of British wines or sweets or made wines authorising manufacture only - - - - -100
+On a licence to be taken out annually by a manufacturer for sale of British wines or sweets or made wines authorising manufacture only - - -100
 
 (2) The Commissioners of Inland Revenue may make regulations prohibiting the manufacture for sale of British wines, or
 
@@ -2526,11 +2526,11 @@ Under Act 6 Edw. 7. c. 1. - 120, 580 0 0
 
 For the service of the year ending on 31st March 1907:—
 
-Under Act 6 Edw. 7. c. 1. - - - - 42, 855, 900 0 0
+Under Act 6 Edw. 7. c. 1. - - 42, 855, 900 0 0
 
 Under this Act - ... 68, 528, 828 0 0
 
-Total - - - - £ 111, 505, 308 0 0
+Total - - £ 111, 505, 308 0 0
 
 SCHEDULE (B.) — Part 1.
 
@@ -2586,7 +2586,7 @@ For the expenses of the Office of the Irish Land Commission ---- 1, 600 —
 
 Class V.
 
-For the expenses in connection with His Majesty’s Missions Abroad - For paying to the French Government the compensation awarded to French Fishermen on the Treaty Shore of Newfoundland - - - 500 54, 683 2,000
+For the expenses in connection with His Majesty’s Missions Abroad - For paying to the French Government the compensation awarded to French Fishermen on the Treaty Shore of Newfoundland - 500 54, 683 2,000
 
 For the settlement of the Samoa Arbitration Claims 8, 567 —
 
@@ -2598,7 +2598,7 @@ Revenue Departments.
 
 For the salaries and expenses of the Customs Department ---- 9,000 1, 800
 
-Total - - - £ 120, 480 3, 800
+Total - £ 120, 480 3, 800
 
 E
 
@@ -2628,7 +2628,7 @@ No.
 
 and boys, coastguard, and Royal marines - 6, 810, 700 135, 827
 
-For victualling and clothing for the navy, including the cost of victualling establishments at home and abroad - - - 2, 053, 200 528, 899
+For victualling and clothing for the navy, including the cost of victualling establishments at home and abroad - 2, 053, 200 528, 899
 
 3. For medical services, including the cost of medical establishments at home and abroad 275, 500 19, 297
 
@@ -2646,7 +2646,7 @@ I, Sect. 2. For the materiel for shipbuilding, ] repairs, maintenance, &c., incl
 
 , Sect. 3. For contract work for shipbuilding, repairs, &c. - 8, 588, 400 137,000
 
-9. For naval armaments - - - 2, 986,000 149, 123
+9. For naval armaments - 2, 986,000 149, 123
 
 10. For works, buildings, and repairs at home and abroad, including the cost of superintendence, purchase of sites, grants in aid, and o^her charges connected therewith 1, 954, 500 32,000
 
@@ -2680,7 +2680,7 @@ Supply Grants. Appropriations in Aid.
 
 No.
 
-1. For the pay, &c. of His Majesty’s Army (including Army Reserve to a number not exceeding 122,000) at home and abroad (exclusive of India) - - - £ £
+1. For the pay, &c. of His Majesty’s Army (including Army Reserve to a number not exceeding 122,000) at home and abroad (exclusive of India) - £ £
 
 10, 220,000 1, 062,000
 
@@ -2688,7 +2688,7 @@ No.
 
 3. For the pay, bounty, &c. of the militia (to a number not exceeding 141, 058, including 8,000 militia reserve) - - 819,000 9,000
 
-4. For the pay and allowances of the Imperial yeomanry - - - 423,000 750
+4. For the pay and allowances of the Imperial yeomanry - 423,000 750
 
 5. For capitation grants and miscellaneous charges of volunteer corps, including pay, &c. of the permanent staff - 1, 244,000 1, 800 49,000
 
@@ -2712,7 +2712,7 @@ No.
 
 15. For Chelsea and Kilmainham hospitals, and the in-pensioners thereof; for out-pensions, and for gratuities awarded in commutation and in lieu of pensions; for the maintenance of lunatics for whom pensions are not drawn; . for pensions to schoolmistresses and nurses; for rewards for meritorious services; for Victoria Cross pensions, and for pensions, &c. to the widows and children of warrant officers, non-commissioned officers, and men, &c. 1, 684,000 495.557
 
-16. For civil superannuation, compensation, and compassionate allowances, and gratuities, and also for payments under the Workmen’s Compensation Act - - - 180,000 133
+16. For civil superannuation, compensation, and compassionate allowances, and gratuities, and also for payments under the Workmen’s Compensation Act - 180,000 133
 
 Total Army Services - £ 29, 796,000 j 3, 242, 561
 
@@ -2830,9 +2830,9 @@ Grants. tions in Aid.
 
 No. 13. For rates and contributions in lieu of rates, &c., £ £
 
-in respect of Government property, and for rates on houses occupied by representatives of Foreign Powers, and for salaries and expenses of the Rating of Government property department, and for a contribution towards the expenses of the Metropolitan Fire Brigade - - - 635, 656 26, 970
+in respect of Government property, and for rates on houses occupied by representatives of Foreign Powers, and for salaries and expenses of the Rating of Government property department, and for a contribution towards the expenses of the Metropolitan Fire Brigade - 635, 656 26, 970
 
-14. For the erection, repairs, and maintenance of public buildings in Ireland, for the maintenance of certain parks and public works, and for the maintenance of drainage works on the River Shannon - - - 206, 477 6, 300
+14. For the erection, repairs, and maintenance of public buildings in Ireland, for the maintenance of certain parks and public works, and for the maintenance of drainage works on the River Shannon - 206, 477 6, 300
 
 15. For payments under the Tramways and Public Companies (Ireland) Act, 1883, &c j the Tramways (Ireland) Act, 1895, the Railways (Ireland) Act, 1896, and the Marine Works (Ireland) Act, 1902 - 63, 663
 
@@ -2854,7 +2854,7 @@ No. 1. For the salaries and expenses of the offices of £ £
 
 the House of Lords - 17, 210 25,000
 
-2. For the salaries and expenses in the offices of the House of Commons - - - 32, 900 25,000
+2. For the salaries and expenses in the offices of the House of Commons - 32, 900 25,000
 
 3. For the salaries and other expenses of the department of His Majesty’s Treasury and subordinate departments, including expenses in respect of advances under the Light Railways Act, 1896 - 99, 911 3, 694
 
@@ -2926,7 +2926,7 @@ of the Comptroller and Auditor-General
 
 15. For the salaries and expenses of the Registry
 
-of Friendly Societies - - - -
+of Friendly Societies - -
 
 16. For the salaries and expenses of the Local
 
@@ -3022,7 +3022,7 @@ No. . w 24. For the salaries and expenses of the office of £ £
 
 His Majesty’s Woods, Forests, and Land Revenues ---- 20, 756
 
-25. For the salaries and expenses of the office of the Commissioners of His Majesty’s Works and Public Buildings - - - 26. For His Majesty’s foreign and other secret services - - - - 79, 278
+25. For the salaries and expenses of the office of the Commissioners of His Majesty’s Works and Public Buildings - 26. For His Majesty’s foreign and other secret services - - 79, 278
 
 50,000
 
@@ -3044,7 +3044,7 @@ Board for Scotland, and for grants in aid of piers or quays - 18, 691 - -
 
 34. For the salaries and expenses of the department of agriculture and other industries, and technical instruction for Ireland, and of the services administered by that department, including sundry grants in aid 190, 146 1, 380
 
-35. For the salaries and expenses of the office of the Commissioners of Charitable Donations and Bequests for Ireland - - - 2.049 34
+35. For the salaries and expenses of the office of the Commissioners of Charitable Donations and Bequests for Ireland - 2.049 34
 
 36. For the salaries and expenses of the Local Government Board in Ireland 63, 566 11, 500
 
@@ -3052,7 +3052,7 @@ Board for Scotland, and for grants in aid of piers or quays - 18, 691 - -
 
 38. For the salaries and expenses of the Office of Public Works in Ireland - 39, 938 3,000
 
-39. For the salaries and expenses of the department of the Registrar General of Births, &c., and for the expenses of collecting emigration statistics in Ireland - - - - 12, 132 720
+39. For the salaries and expenses of the department of the Registrar General of Births, &c., and for the expenses of collecting emigration statistics in Ireland - - 12, 132 720
 
 40. For the salaries and expenses of the general valuation and boundary survey of Ireland (including a supplementary sum of 1,000l.) - 18, 276 12, 925
 
@@ -3108,7 +3108,7 @@ Wales, and the Colonies
 
 8. For the salaries and expenses of the office of
 
-the Inspector of Reformatories and for the maintenance of juvenile offenders in reformatory, industrial, and day industrial schools and under the Youthful Offenders Act, in Great Britain - - -
+the Inspector of Reformatories and for the maintenance of juvenile offenders in reformatory, industrial, and day industrial schools and under the Youthful Offenders Act, in Great Britain -
 
 9. For the maintenance of criminal lunatics in
 
@@ -3242,7 +3242,7 @@ grant in aid -9. For a grant to the Board of Trustees for manufactures in Scotla
 
 ments in Ireland -12. For the salaries and expenses of the National Gallery of Ireland, including a grant in aid 910
 
-for the purchase of pictures - - -13. For a grant in aid of the expenses of the 4, 266
+for the purchase of pictures -13. For a grant in aid of the expenses of the 4, 266
 
 Queen’s Colleges in Ireland - 4, 861 6, 750
 
@@ -3272,7 +3272,7 @@ expenses of the Pacific Cable -4. For a grant in aid of the Revenue of the Islan
 
 of Cyprus - 5. For making good the net loss on transactions connected with the raising of money for the various Treasury chests abroad in the year 28,000
 
-1905-6 - - - - 14, 600
+1905-6 - - 14, 600
 
 Total Civil Services, Class V. - £ 1, 873, 905 165, 873
 
@@ -3326,7 +3326,7 @@ No.
 
 2. For certain miscellaneous charitable, and other £ £
 
-allowances - - - 1, 533 —
+allowances - 1, 533 —
 
 3. For hospitals and infirmaries and certain miscellaneous charitable, and other allowances in Ireland, including sundry grants in aid 17, 199 116
 
@@ -3388,7 +3388,7 @@ Department -2. For the salaries and expenses of the Inland 952, 700 54, 550
 
 Revenue Department ... 3. For the salaries and expenses of the Post Office 2, 259, 500 17,000
 
-including Telegraphs - - - 16, 746, 741 376, 988
+including Telegraphs - 16, 746, 741 376, 988
 
 Total Revenue Departments - £ 19, 958, 941 448, 538
 
@@ -3798,7 +3798,7 @@ Loans by the Commissioners of Public Works, Ireland.
 
 Name of Borrower. Amount of Loan. Amount to be written off.
 
-Andrew Murphy - - -Charles H. Robinson - - - j £ *. d. 200 0 0 350 0 0 250 0 0 £ s. d. 72 2 1 31 0 0 24 13 3
+Andrew Murphy -Charles H. Robinson - j £ *. d. 200 0 0 350 0 0 250 0 0 £ s. d. 72 2 1 31 0 0 24 13 3
 
 (2) Loans under the Landlord and Tenant (Ireland) Act, 1870 (33 &34 Vict. c. 46).
 
@@ -3854,9 +3854,9 @@ Names of Borrowers. Fishery District. Amount of Loan. Amount to be written off.
 
 William Forbes ", 1 £ £ 8. d.
 
-John Forbes, and Angus Forbes - - - J Angus McLeod, 1 Murdo McDonald, | I 1 Lybster 257 22 4 7
+John Forbes, and Angus Forbes - J Angus McLeod, 1 Murdo McDonald, | I 1 Lybster 257 22 4 7
 
-Norman Beatou, 1 Angus McRae, i Neil McLeod, and Murdo Mclver - - - J James Williamson, ] f i I Stornoway - 286 6 16 11
+Norman Beatou, 1 Angus McRae, i Neil McLeod, and Murdo Mclver - J James Williamson, ] f i I Stornoway - 286 6 16 11
 
 David Davidson, and Alexander Cormack - J John Sutherland, j | Wick - 270 77 15 4
 
@@ -12504,13 +12504,13 @@ Insurable Value.
 
 16. Subject to any express provision or valuation in the Measure of in-policv, the insurable value of the subject-matter insured must8urable value-be ascertained as follows: —
 
-(1) In insurance on sbip, the insurable value is the value, at
+(1) In insurance on ship, the insurable value is the value, at
 
-the commencement of the risk, of the sbip, including her outfit, provisions and stores for the officers and crew, money advanced for seamen’s wages, and other disbursements (if any) incurred to make the sbip fit for the voyage or adventure contemplated by the policy,
+the commencement of the risk, of the ship, including her outfit, provisions and stores for the officers and crew, money advanced for seamen’s wages, and other disbursements (if any) incurred to make the ship fit for the voyage or adventure contemplated by the policy,
 
 * plus the charges, of insurance upon the whole:
 
-The insurable value, in the case of a steamship, includes also the machinery, boilers, and coals and engine stores if owned by the assured, and, in the case of a sbip engaged in a special trade, the ordinary fittings requisite for that trade:
+The insurable value, in the case of a steamship, includes also the machinery, boilers, and coals and engine stores if owned by the assured, and, in the case of a ship engaged in a special trade, the ordinary fittings requisite for that trade:
 
 (2) In insurance on freight, whether paid in advance or other-
 
@@ -16270,7 +16270,7 @@ Cii. 55.
 
 wise carrying this Act into effect as may be sanctioned by the Treasury shall be paid out of moneys provided by Parliament.
 
-9. — (1) Tliere shall be charged in respect of the duties of the Fees charged public trustee such fees, whether by way of percentage or other- b^ Public wise, as the Treasury with the sanction of the Lord Chancellor rus
+9. — (1) There shall be charged in respect of the duties of the Fees charged public trustee such fees, whether by way of percentage or other- b^ Public wise, as the Treasury with the sanction of the Lord Chancellor rus
 
 may fix, and such fees shall be collected and accounted for by such persons, and in such manner, and shall be paid to such account, as the Treasury direct.
 
@@ -18528,7 +18528,7 @@ c. 30 Fisheries (S.) - - Repealed - 50, s. 9, Sch.
 
 18 Geo. 2. c. 20 - Justices Qualification Repealed - 16, s. 5 (2), Sch.
 
-19 Geo. 2. c. 37 - Insurance on Ships Repealed - - - 41, 8. 92, Sch. II.
+19 Geo. 2. c. 37 - Insurance on Ships Repealed - 41, 8. 92, Sch. II.
 
 13 Geo. 3. c. 52 - Sheffield Assay Ss. 3, 27 am.; ss. 16, 17 ix., 88. 2, 6-10
 
@@ -18690,7 +18690,7 @@ c. 34 Metropolitan Open Spaces Repealed, but see terms - 25, s. 23, Sch.
 
 c. 87 Alkali, &c. Works Regulation - Repealed, but see terms - 14, s. 30, Sch.
 
-c. 58 45 &46 Vict.: Army - - - - Ss. 13 (1) (a), 43, 44, 46, 47 (5), 50 (3), 51, 52, 53 (3) (4) (8) (9), 54 (1) (3) (4), 56, 73 (3), 133 (2), 138 par. (1), 176 par. (5), 181 (1), 183 par. (3) am.; s. 133 (2) rep. in part. 2, ss. 4-10.
+c. 58 45 &46 Vict.: Army - - Ss. 13 (1) (a), 43, 44, 46, 47 (5), 50 (3), 51, 52, 53 (3) (4) (8) (9), 54 (1) (3) (4), 56, 73 (3), 133 (2), 138 par. (1), 176 par. (5), 181 (1), 183 par. (3) am.; s. 133 (2) rep. in part. 2, ss. 4-10.
 
 c. 48 Reserve forces - S. 14 (2) rep., but see terms; s. 20 ext. S. 12 (e) amended S. 157 (2) (4) rep. in part 11, S3. 1, 2.
 
@@ -18714,7 +18714,7 @@ c. 77 Labourers (I.) - - Am.; ss. 12, 16 (prov.2) rep.; s. 21 am. 37, ss? 4, 26,
 
 c. 16 National Debt and Local Loans S. 15 applied 29, s. 2.
 
-c. 32 Open Spaces - - - Rep. (except part of s. 4), but see terms. 25, s. 23, Sch.
+c. 32 Open Spaces - Rep. (except part of s. 4), but see terms. 25, s. 23, Sch.
 
 c. 43 Stannaries - | S. 9 extended 58, s. 5 (4).
 
@@ -18752,13 +18752,13 @@ C. 60 Preferential Payments in Bankruptcy (I.). S. 4 amended 58, s. 5 (3).
 
 53 & 54 Vict.:
 
-c. 15 Open Spaces - - - Repealed, but sec terms - 25, s. 23, Sch.
+c. 15 Open Spaces - Repealed, but sec terms - 25, s. 23, Sch.
 
 c. 45 Police - 1 Ss. 4 .(, 1), 8 am.; s. 4 (5) ext. with mod.; s. 15 restricted. 7, ss. 1 (3), 3 (1), 4 (2), 5, 7.
 
 c. 50 54 & 55 Vict.: Public Works Loans S. 5 amended 29, s. 3.
 
-c. 89 Stamp - - - - ' - Ssh. I. amended 20, s. 9.
+c. 89 Stamp - - ' - Ssh. I. amended 20, s. 9.
 
 c. 43 Purchase of Laod (I.) - S. 5 (2) rep. in part, but see terms. 37, s. 18 (1), 38, Sch.
 
@@ -18860,7 +18860,7 @@ c. 22 Factory and Workshop S. 130 virt. rep. in part -S. 19 repealed 49, s. 10. 
 
 2 Edw. 7.:
 
-c. 7 Finance - - - - S. 5 (2) am.; s. 8 am. and restricted. 20, ss. 1 (1), (2), (4), 8.
+c. 7 Finance - - S. 5 (2) am.; s. 8 am. and restricted. 20, ss. 1 (1), (2), (4), 8.
 
 c. 10 Police Reservists Rep., as to England 7, s. 4 (3).
 

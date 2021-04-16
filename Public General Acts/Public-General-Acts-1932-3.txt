@@ -14454,13 +14454,13 @@ Class of Transport Stock
 
 Amount. to be issued.
 
-£7, 288, 676 - - - - 4$ per cent. “ A ” Stock.
+£7, 288, 676 - - 4$ per cent. “ A ” Stock.
 
 £2,000,000 - 5 per cent. “ A ” Stock.
 
-£4, 489, 797 - - - 6 per cent. “ B ” Stock.
+£4, 489, 797 - 6 per cent. “ B ” Stock.
 
-£5, 115, 600 - - - “C” Stock.
+£5, 115, 600 - “C” Stock.
 
 With the addition of £70 “ B ” transport stock for each £100 of
 
@@ -17632,11 +17632,11 @@ For every 36 gallons of worts of a specific gravity of
 
 For every 36 gallons of worts of a specific gravity exceeding 1, 027 degrees—
 
-For the first 1, 027 degrees - - - - -140
+For the first 1, 027 degrees - - -140
 
 For. every additional degree in excess of 1, 027
 
-degrees - - - - - - - - 020
+degrees - - - - 020
 
 And so in proportion for any less number of gallons.
 
@@ -17652,11 +17652,11 @@ Rate of Excise Drawback.
 
 For every 36 gallons of beer of an original gravity of £ a. d.
 
-1, 027 degrees or less - - - -142
+1, 027 degrees or less - -142
 
 For every 36 gallons of beer of an original gravity exceeding 1, 027 degrees—
 
-For the first 1, 027 degrees - - - - - 1 4 2
+For the first 1, 027 degrees - - - 1 4 2
 
 For every additional degree in excess of 1, 027
 
@@ -17690,7 +17690,7 @@ For the first 1, 027 degrees.
 
 For every additional degree in excess of 1, 027
 
-degrees - - - - - - - -
+degrees - -
 
 And so in proportion for any less number of gallons.
 
@@ -17708,17 +17708,17 @@ Rate of Customs Drawback. *
 
 For every 36 gallons of an original gravity of 1, 027 £ s. d.
 
-degrees or less - - - - - 14 2
+degrees or less - - - 14 2
 
 For every 36 gallons of an original gravity exceeding
 
 1, 027 degrees—
 
-For the first 1, 027 degrees - - - - -142
+For the first 1, 027 degrees - - -142
 
 For every additional degree in excess of 1, 027
 
-degrees - - - - - - - - 0 20
+degrees - - - - 0 20
 
 And so in proportion for any less number of gallons.
 
@@ -17752,15 +17752,15 @@ Scale 2.
 
 Number of bulk barrels brewed during the preceding year:—
 
-Not exceeding 100 barrels - - - - -100
+Not exceeding 100 barrels - - -100
 
 Exceeding 100 barrels:—
 
-For the first 100 barrels - - -:- -100
+For the first 100 barrels -:- -100
 
 For every further 50 barrels or fraction of
 
-50 barrels - - - - - - 080
+50 barrels - - 080
 
 For the purposes of this scale, the expression “bulk barrel ”
 
@@ -17774,15 +17774,15 @@ Rates oe Customs Duties on Matches.
 
 Containers in which there are not more than 10 matches—
 
-For every 1,000 such containers - - - - 6 8
+For every 1,000 such containers - - 6 8
 
 Containers in which there are more than 10 matches, but not more than 20 matches—
 
-For every 1,000 such containers - - - - 13 4
+For every 1,000 such containers - - 13 4
 
 Containers in which there are more than 20 matches, but not more than 50 matches—
 
-For every 144 such containers - - - - - 4 9
+For every 144 such containers - - - 4 9
 
 In respect of every additional 25 matches, or part of
 
@@ -18262,11 +18262,11 @@ Description of vehicles. Rate of duty.
 
 agricultural tractors and other agricultural engines,
 
-which are not used on roads for hauling any objects except their own necessary gear, threshing appliances, farming implements or supplies of water or fuel required for the purposes of the vehicle or for agricultural purposes - - - 0 5 0
+which are not used on roads for hauling any objects except their own necessary gear, threshing appliances, farming implements or supplies of water or fuel required for the purposes of the vehicle or for agricultural purposes - 0 5 0
 
 (b) Vehicles designed, constructed and used for the purpose of trench digging and other excavation work which are used on roads only for that purpose or for the purpose of proceeding to and from the place where they are to be used for that purpose, and when so proceeding neither carry nor haul any load other than such as is necessary for their propulsion or equipment - 0 5 0
 
-(c) Mowing machines - ~ - - - .050
+(c) Mowing machines - ~ - .050
 
 (d) Tractors, agricultural tractors and agricultural engines (other than vehicles in respect of which a duty of five shillings is chargeable under the foregoing provisions of this paragraph) which are registered under the Roads Act, 1920, in the name of a person engaged in agriculture, and are
 
@@ -18342,9 +18342,9 @@ Exceeding 7J tons in weight unladen but not exceeding 8 tons in weight unladen -
 
 Exceeding 8 tons in weight unladen—
 
-For the first 8 tons - - - - 85 0 0
+For the first 8 tons - - 85 0 0
 
-For each additional ton or part of a ton in excess of 8 tons - - - - 15 0 0
+For each additional ton or part of a ton in excess of 8 tons - - 15 0 0
 
 Past III.
 
@@ -18454,15 +18454,15 @@ Exceeding 1 ton, but not exceeding lit tons in weight unladen. 14 00 14 00
 
 Exceeding 1J tons, but not exceeding 2 tons in weight unladen.10 00 16 00
 
-Exceeding 2 tons, but not exceeding 2J tons in weight unladen - - - - - 18 0 0 24 0 0
+Exceeding 2 tons, but not exceeding 2J tons in weight unladen - - - 18 0 0 24 0 0
 
-Exceeding 2\ tons, but not exceeding 3 tons in weight unladen - - - - - 20 0 0 26 13 4
+Exceeding 2\ tons, but not exceeding 3 tons in weight unladen - - - 20 0 0 26 13 4
 
 Exceeding 3 tons in Weight unladen-—
 
-For the first 3 tons - - - - - 20 0 0 26 13 4
+For the first 3 tons - - - 20 0 0 26 13 4
 
-For each additional ton or part of a ton in excess of 3 tons - - - - - 4 0 0 668
+For each additional ton or part of a ton in excess of 3 tons - - - 4 0 0 668
 
 (c) Goods vehicles other than vehicles *
 
@@ -18482,17 +18482,17 @@ Exceeding 2 tons, but not exceeding 2\ tons in weight unladen. 25 0 0 33 6 8
 
 Exceeding 2J tons, but not exceeding 3 tons in weight unladen. 30 0 0 40 0 0
 
-Exceeding 3 tons, but not exceeding 4 tons in weight unladen - - - - - 35 0 0 46 13 4
+Exceeding 3 tons, but not exceeding 4 tons in weight unladen - - - 35 0 0 46 13 4
 
-Exceeding 4 tons, but not exceeding 5 tons in weight unladen - - - - - 40 0 0 53 6 8
+Exceeding 4 tons, but not exceeding 5 tons in weight unladen - - - 40 0 0 53 6 8
 
-Exceeding 5 tons, but not exceeding 6 tons in weight unladen - - - - 45 00 60 00
+Exceeding 5 tons, but not exceeding 6 tons in weight unladen - - 45 00 60 00
 
 Exceeding 6 tons in weight unladen—
 
 For the first 6 tons. 45 0 0 60 0 0
 
-For each additional ton or part of a ton in excess of 6 tons * - - - - 10 00 13 68
+For each additional ton or part of a ton in excess of 6 tons * - - 10 00 13 68
 
 1933.
 
@@ -18792,7 +18792,7 @@ Not exceeding 2-J tons in weight unladen
 
 Exceeding tons, but not exceeding 3 tons in weight unladen.
 
-Exceeding 3 tons, but not exceeding 4 tons in weight unladen - - - - t •
+Exceeding 3 tons, but not exceeding 4 tons in weight unladen - - t •
 
 Exceeding 4 tons, but not exceeding 5 tons in weight unladen .....
 
@@ -27096,11 +27096,11 @@ Class III.
 
 For certain Miscellaneous Legal Expenses, for the Salaries and Expenses of Arbitrators, &c., under the Acquisition of Land (Assessment of Compensation) Act, 1919, and for a Grant in Aid of the Expenses of the Law
 
-Society - - - -
+Society - -
 
 6, 500
 
-Carried forward - - - £ j
+Carried forward - £ j
 
 3, 590, 635
 
@@ -27262,7 +27262,7 @@ cost of medical establishments at home and abroad ...
 
 —
 
-5. For educational services - - -
+5. For educational services -
 
 198, 500
 
@@ -27486,7 +27486,7 @@ remounts -
 
 105,000
 
-8. For general stores - - - -
+8. For general stores - -
 
 9. For warlike stores, including technical
 
@@ -27494,7 +27494,7 @@ remounts -
 
 170,000
 
-establishments - - - -
+establishments - -
 
 2, 437,000
 
@@ -27546,7 +27546,7 @@ No.
 
 including military and civilian staff and other charges in connec-
 
-tiontherewith - - - -I
+tiontherewith - -I
 
 2, 640,000
 
@@ -27828,7 +27828,7 @@ Honourable Privy Council -
 
 6. For the salaries and expenses of the
 
-Charity Commission for England and Wales - - -
+Charity Commission for England and Wales -
 
 38, 499
 
@@ -27912,7 +27912,7 @@ Chemist ----
 
 Foreign), and the expenses of the preparation of medals, dies for postage and other stamps, and His
 
-Majesty’s seals - - - -
+Majesty’s seals - -
 
 150,000
 
@@ -27920,7 +27920,7 @@ Majesty’s seals - - - -
 
 14. For the salaries and expenses of the
 
-National Debt Office - - -
+National Debt Office -
 
 883
 
@@ -27946,7 +27946,7 @@ Office of Land Revenue Records and Inrolments -
 
 17. For the salaries of the establishment under the Public Works Loan
 
-Commission and the expenses of the Commission - - - -
+Commission and the expenses of the Commission - -
 
 100
 
@@ -28848,7 +28848,7 @@ a grant in aid of purchases -
 
 Lancaster House, including a
 
-grant in aid - - - -
+grant in aid - -
 
 6. For the salaries and expenses of the
 
@@ -28942,7 +28942,7 @@ School ----
 
 and for the Royal Scottish
 
-Museum, Edinburgh, including sundry grants in aid - - -
+Museum, Edinburgh, including sundry grants in aid -
 
 6, 719, 610
 
@@ -28954,7 +28954,7 @@ the Scottish National Portrait
 
 Gallery, and the Museum of
 
-Antiquities, including certain grants in aid - - - -
+Antiquities, including certain grants in aid - -
 
 9, 044
 
@@ -29670,7 +29670,7 @@ Houses of Parliament buildings -
 
 (including Ministries of Labour and Heal til and the Department of
 
-Health for Scotland} - - -
+Health for Scotland} -
 
 596, 935
 
@@ -32888,7 +32888,7 @@ mechanical lighter other than a flint, in lieu of the duty of customs theretofor
 
 -Articles manufactured in the United
 
-Kingdom - - - - - Is. 0d.
+Kingdom - - - Is. 0d.
 
 Other articles' ---- Is. 6cL
 
@@ -33602,19 +33602,19 @@ s. d.
 
 Containers in which there are not more than ten matches—
 
-For every 1,000 such containers . - - - 6 8
+For every 1,000 such containers . - 6 8
 
 Containers in which there are more than 10 matches,
 
 but not more than 20 matches—
 
-For every 1,000 such containers * - - - 13 4
+For every 1,000 such containers * - 13 4
 
 Containers in which there are more than 20 matches,
 
 but not more than 50 matches'—
 
-For every 144 such containers - - - -‘49
+For every 144 such containers - -‘49
 
 In respect of every additional 25 matches, or part of
 
@@ -33632,7 +33632,7 @@ Clocks, &c.
 
 Description of Goods. Rate of duty.
 
-Pianos, non-automatic; and component parts and accessories thereof - - - - - - 20 per cent;
+Pianos, non-automatic; and component parts and accessories thereof - - 20 per cent;
 
 Piccolos, flutes, clarinets, flageolets, bassoons and comets, * and component parts and accessories thereof -.20 per cent.
 
@@ -33660,25 +33660,25 @@ Stringed musical instruments; and component parts and accessories thereof - * - 
 
 Gramophones without electrical amplification, of a
 
-value not exceeding 10s. each - - - - 15 per cent.
+value not exceeding 10s. each - - 15 per cent.
 
 Gramophones without electrical amplification, of a
 
 value exceeding 10s. each ---- 20 per cent.
 
-Concertinas (including accordions) of a value not exceeding 35s. each - - - -15 per cent.
+Concertinas (including accordions) of a value not exceeding 35s. each - -15 per cent.
 
 Concertinas (including accordions) of a value exceeding 35s. each.20 per ’cent.
 
-Mouth organs - - - - - - -10 per cent.
+Mouth organs - - -10 per cent.
 
 Clocks, alarm (other than electric clocks) of a
 
-value not exceeding 30s. each - - - - 20 per cent.
+value not exceeding 30s. each - - 20 per cent.
 
 Clocks (other than electric or alarm clocks) of a
 
-value not exceeding 30s. each - - - - 25 per cent.
+value not exceeding 30s. each - - 25 per cent.
 
 Clock movements complete (other than movements of electric clocks), of a value not exceeding 15s.
 
@@ -33896,11 +33896,11 @@ Coconut oil ---- -
 
 Ground-nut oil.
 
-Rape oil- - - - - - -
+Rape oil- - -
 
 Sesamum oil ---- -
 
-Magnesium chloride - - - - - '
+Magnesium chloride - - - '
 
 Id. per lb.
 
@@ -59268,7 +59268,7 @@ Exeter, Gloucester, and Plymouth.
 
 Traffic Area.
 
-10 * Mctropolitan
+10 * Metropolitan
 
 Traffic Area.
 
@@ -59364,7 +59364,7 @@ Representatives.
 
 Looal authorities in England and Wales - 4
 
-Local authorities in Scotland - - - - 2
+Local authorities in Scotland - - 2
 
 Users of mechanically propelled vehicles - 5
 
@@ -60090,7 +60090,7 @@ Short title. 11. This Measure may be cited as the Benefices
 
 * * The day thus determined was June 1, 1933: see “London
 
-Gazette, " May. 16, 1933, p. 3293.
+Gazette," May. 16, 1933, p. 3293.
 
 1933. * Benefices No. 1.
 
@@ -61174,7 +61174,7 @@ Places of Worship in idle Highlands and Islands of
 
 Scotland.
 
-S. 12 excluded - - -
+S. 12 excluded -
 
 44, s. 5.
 
@@ -61660,7 +61660,7 @@ land saved-
 
 Poor Law Amend-
 
-S. 61 repealed - - - j
+S. 61 repealed - j
 
 51, ss. 307-8,
 
@@ -62000,7 +62000,7 @@ Sch.
 
 0. 57
 
-Repealed - - -
+Repealed -
 
 51, ss.304, 807-8,
 
@@ -62010,7 +62010,7 @@ sebs. 10, 11.
 
 Poor Law Amendment Act, 1850.
 
-S. 6 repealed - - -
+S. 6 repealed -
 
 5l, ss.304, 307-8,
 
@@ -63498,7 +63498,7 @@ Ss. 1-9, 37 repealed (repeal of s. 37 extends to
 
 London),
 
-Repealed - - -
+Repealed -
 
 Ss. 8 in part, 14 in part, and
 
@@ -65076,7 +65076,7 @@ Notice of Accidents
 
 Act, 1894.
 
-Restricted - - -
+Restricted -
 
 53, ss. 43 (2), 49.
 

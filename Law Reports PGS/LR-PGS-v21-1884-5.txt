@@ -1694,9 +1694,9 @@ Mode of making out IMU.
 
 13. In the case of occupation voters the nature of the qualification should be entered as nearly as possible in the words of the statute conferring the franchise, for instance: —
 
-(a.) The nature of the fifty pounds rental qualification or ten pounds occupation qualification of a person should be stated thus, “ tenement ” or “ land, " or “ land and tenement, " or, in the case of a joint occupation, “ tenement (joint) ” or “ land (joint), ” or, in the case of successive occupation, “ tenement (successive) ” or “ land ^successive) ”:
+(a.) The nature of the fifty pounds rental qualification or ten pounds occupation qualification of a person should be stated thus, “ tenement ” or “ land," or “ land and tenement," or, in the case of a joint occupation, “ tenement (joint) ” or “ land (joint), ” or, in the case of successive occupation, “ tenement (successive) ” or “ land ^successive) ”:
 
-(b.) The nature of a household qualification should be stated thus, “ dwelling-house, " or in the case of successive occupation, M dwelling-house (successive)."
+(b.) The nature of a household qualification should be stated thus, “ dwelling-house," or in the case of successive occupation, M dwelling-house (successive)."
 
 Where the same property constitutes both a ten pounds occupation qualification and a household qualification the nature of the qualification should be entered as “ dwelling-house."
 
@@ -1770,7 +1770,7 @@ Schedule &. For any list or copy of a list containing any number of persons name
 
 s. <t.
 
-Not exceeding 100 names - - - - 0 6
+Not exceeding 100 names - - 0 6
 
 Exceeding 100 and not exceeding 200 - - 1 0.
 
@@ -1778,7 +1778,7 @@ Exceeding 200 and not exceeding 800 - - 1 <6
 
 Exceeding 300 and not exceeding 400 - - 2 0
 
-Exceeding 400 - - - - - 2 6
+Exceeding 400 - - - 2 6
 
 22. You must allow any person who is 'registered as a parliamentary voter for your division [or county] to inspect rat all reasonable crimes, free of charge^ —
 
@@ -3100,7 +3100,7 @@ For any list or copy of a list containing any number of persons names —
 
 s. d.
 
-Not exceeding 100 names - - - - 0 6
+Not exceeding 100 names - - 0 6
 
 Exceeding 100 and not exceeding 200 - - 1 0
 
@@ -3108,7 +3108,7 @@ Exceeding 200 and not exceeding 300 - - 1 6
 
 Exceeding 300 and not exceeding 400 - - 2 0
 
-Exceeding 400 - - - - - 2 6
+Exceeding 400 - - - 2 6
 
 22. You must allow any person who is registered as a parliamentary voter in the said parliamentary borough, *or enrolled as a burgess in the said municipal borough, * to inspect at all reasonable times, free of charge, — (a) the books containing the poor rates made for your parish township] within the last two years, and to make a copy of, or take an extract from, such books, and (5) the returns of deaths sent to you by the registrars of births and deaths.
 
@@ -5412,13 +5412,13 @@ Table of Rates of Payment to be demanded and paid for any list or copy of a list
 
 For any list or copy of a list containing any number of persons names: —
 
-Not exceeding 100 names - - - -
+Not exceeding 100 names - -
 
-Exceeding 100 and not exceeding 200 - - -
+Exceeding 100 and not exceeding 200 -
 
 Exceeding 200 and not exceeding 800 .....
 
-Exceeding 300 and not exceeding 400 - - - -
+Exceeding 300 and not exceeding 400 - -
 
 Exceeding 400 ----
 
@@ -6542,11 +6542,11 @@ I Name of Borough. Total Number of Members. Name of Borough. Total Number of Mem
 
 ENGLAND.
 
-Birmingham - - - Seven. SCOTLAND.
+Birmingham - Seven. SCOTLAND.
 
-Bradford - - - Three. Aberdeen -
+Bradford - Three. Aberdeen -
 
-Bristol - - - Four. Two.
+Bristol - Four. Two.
 
 Kingston-upon-Hull -Leeds Three. Five. Edinburgh ... Glasgow - Four. Seven.
 
@@ -6562,7 +6562,7 @@ Swansea ... Two.
 
 Tower Hamlets Seven. Belfast - Four.
 
-Wolverhampton Three. Dublin - - - Four.
+Wolverhampton Three. Dublin - Four.
 
 t
 
@@ -10778,7 +10778,7 @@ the Liberty of Ripon, and the Municipal Borough of Ripon.
 
 No. 22. — THE OTLEY DIVISION.
 
-The Sessional Division of Otley, and the. Parishes of — Beamsley in Addingham, Beamsley in Skipton, Bingley and Mickle-thwaite, Hazlcwood with Storris, Morton, and Nesfield with Langbar.
+The Sessional Division of Otley, and the. Parishes of — Beamsley in Addingham, Beamsley in Skipton, Bingley and Micklethwaite, Hazlcwood with Storris, Morton, and Nesfield with Langbar.
 
 No. 23. — THE BARKSTON ASH DIVISION.
 
@@ -11542,7 +11542,7 @@ No. 2. — SOUTH ROSCOMMON.
 
 The Baronies of —
 
-Athlone, Bailintober South, Ballymoe, Castlercagh, and Moycarn, and so much of the Barony of Roscommon, as comprises the Parish of Cloonfinlough, and part of the Parish of Kilbride, and in the Parish of Lissonuffy, the Town-lands of Coggalkeenagh, Coggalmore, Ccggnlstack, Coggaltonroe, and Coggalforty acres.
+Athlone, Bailintober South, Ballymoe, Castlereagh, and Moycarn, and so much of the Barony of Roscommon, as comprises the Parish of Cloonfinlough, and part of the Parish of Kilbride, and in the Parish of Lissonuffy, the Town-lands of Coggalkeenagh, Coggalmore, Ccggnlstack, Coggaltonroe, and Coggalforty acres.
 
 1885.
 
@@ -13182,9 +13182,9 @@ Hampton Court.
 
 £ s. d.
 
-A house, coach-house stable cottage and garden 2 cottages and gardens and 2 pieces of land with a cottage standing on one of them all situate at Hampton in the county of Middlesex in the occupation of Eliza Johanna Blanshard under a lease for 21 years from Midsummer 1869 at the yearly rent of 80/. - - - - - - 8000
+A house, coach-house stable cottage and garden 2 cottages and gardens and 2 pieces of land with a cottage standing on one of them all situate at Hampton in the county of Middlesex in the occupation of Eliza Johanna Blanshard under a lease for 21 years from Midsummer 1869 at the yearly rent of 80/. - - 8000
 
-A piece of garden ground situate at Hampton aforesaid in the occupation of the said Eliza Johanna Blanshard as yearly tenant at the annual rent of 10/. - - - - - - - -10 00
+A piece of garden ground situate at Hampton aforesaid in the occupation of the said Eliza Johanna Blanshard as yearly tenant at the annual rent of 10/. - - - -10 00
 
 A piece of garden ground situate at Hampton aforesaid in the occupation
 
@@ -13222,7 +13222,7 @@ Second Part.
 
 Copyholds of the Manor of Hampton.
 
-A house coach-house stable cottage and garden two cottages and gardens and two pieces of land with a cottage standing on one of them all situate at Hampton in the connty of Middlesex now held by Charles Pemberton under a lease granted to Eliza Johanna Blanchard for the term of twenty-one years from Midsummer one thousand eight hundred and sixty-nine at the yearly rent of eighty pounds.
+A house coach-house stable cottage and garden two cottages and gardens and two pieces of land with a cottage standing on one of them all situate at Hampton in the county of Middlesex now held by Charles Pemberton under a lease granted to Eliza Johanna Blanchard for the term of twenty-one years from Midsummer one thousand eight hundred and sixty-nine at the yearly rent of eighty pounds.
 
 A piece of garden ground situate at Hampton aforesaid held by the said Charles Pemberton as yearly tenant at the annual rent of ten pounds.
 
@@ -14746,11 +14746,11 @@ Bridges (under Acts of 1881 and 1884) -
 
 Bridges (under Act of 1883) including freeing of East and West Perry Roads ----
 
-Thames River Prevention of Floods - - - -
+Thames River Prevention of Floods - -
 
 Artizans' Dwellings ----
 
-Streets under Act of 1877 - - - - -
+Streets under Act of 1877 -
 
 Streets under Act of 1883, including freeing footbridges over canal -
 
@@ -15964,7 +15964,7 @@ Rivers Pollution .....
 
 Burial Grounds .....
 
-Food and Drugs - - - -
+Food and Drugs - -
 
 Artkans and Labourers Dwellings
 
@@ -16116,11 +16116,11 @@ Scale of Payment to Deputy Returning Officers.
 
 (1.) At a contested election. For every thousand or part of a
 
-thousand electors in the constituency - - - 1 10 0
+thousand electors in the constituency - 1 10 0
 
 (2.) At an uncontested election. For every thousand or part
 
-of a thousand electors - - - - - 0 10 0
+of a thousand electors - - - 0 10 0
 
 [Short title.]
 
@@ -16362,7 +16362,7 @@ Class II.
 
 Privy Council ..... 81 10 5
 
-Registrar General's Office (Scotland) . - - - - 3 4 3
+Registrar General's Office (Scotland) . - - 3 4 3
 
 Class III.
 
@@ -16392,7 +16392,7 @@ House of Commons -
 
 Privy Council Office -
 
-Charity Commission - - -
+Charity Commission -
 
 Local Government Board
 
@@ -16556,7 +16556,7 @@ Akmy (Supplementary), 1884-85 (Expedition to Bechuanaland).
 
 For defraying additional Expenditure arising out of the expedition to Bechu- £
 
-analand incurred during the year ended on the 31st day of March 1885, beyond the sums already granted by Parliament - - - - 675,000
+analand incurred during the year ended on the 31st day of March 1885, beyond the sums already granted by Parliament - - 675,000
 
 SCHEDULE (B.) — Part 7.
 
@@ -16584,7 +16584,7 @@ and seamen and marine pensioners reserve, and royal naval artillery volunteers -
 
 8. For the expense of the medical establishments at home and abroad
 
-9. For the expense of the Marine Divisions - - - -
+9. For the expense of the Marine Divisions - -
 
 (10. Sect. 1. For naval stores for building, repairing, and outfitting the fleet and coast guard .....
 
@@ -16600,7 +16600,7 @@ and seamen and marine pensioners reserve, and royal naval artillery volunteers -
 
 15. For half pay, reserved half pay, and retired pay to officers of the navy and marines ----
 
-(16. Sect. 1. For military pensions and allowances - - -
+(16. Sect. 1. For military pensions and allowances -
 
 , Sect. 2. For civil pensions and allowances 17. For freight of ships, for the victualling and conveyance of troops, on account of the army department .....
 
@@ -16744,7 +16744,7 @@ not drawn, and for gratuities awarded in lieu of pensions, exclusive of charges 
 
 24. For superannuation, compensation, and compassionate allowances, and
 
-gratuities - - - - - -
+gratuities - -
 
 25. For retired allowances, Ac. to officers of the militia, yeomanry, and
 
@@ -16810,7 +16810,7 @@ supplementary sum of 5,000Z.) -
 
 5. For the maintenance and repair of publio buildings in Great Britain,
 
-including various special works; for providing the necessary supply of water; for rents of houses hired for accommodation of public departments, and charges attendant thereon - - -
+including various special works; for providing the necessary supply of water; for rents of houses hired for accommodation of public departments, and charges attendant thereon -
 
 5a. For the cost of erecting a monument in memory of the late Major-General Charles George Gordon ----
 
@@ -16878,11 +16878,11 @@ History Museum buildings, for rents of premises, supply of water, fuel, Ac., and
 
 15. For maintaining certain harbours, Ac. under the Board of Trade
 
-15a. For constructing a new harbour of refuge at Peterhead - - -
+15a. For constructing a new harbour of refuge at Peterhead -
 
 16. For rates and contributions in lieu of rates, Ac., in respect'of Government
 
-property, and for salaries and expenses of the rating of Gov enment 1 2 3 property department - - - - - - - '
+property, and for salaries and expenses of the rating of Gov enment 1 2 3 property department - - - '
 
 17. For contribution to the funds for the establishment and maintenance of
 
@@ -17006,7 +17006,7 @@ Auditor General, including the Chancery Audit Branch 13. For salaries and expens
 
 matters of Inclosure and Drainage ---- 15. For salaries and expenses of the Local Government Board, including 23, 021
 
-various grants in aid of local taxation - - - - -16. For salaries and expenses of the office of the Commissioners in Lunacy in 441, 254
+various grants in aid of local taxation - - -16. For salaries and expenses of the office of the Commissioners in Lunacy in 441, 254
 
 England ---- 17. For salaries and expenses of tho Mint, including the expenses of the 15, 225
 
@@ -17120,7 +17120,7 @@ as are not charged on the Consolidated Fund .....
 
 5. For salaries and expenses connected with the County Courts
 
-6. For salaries and expenses of the Office of Land Registry - - -
+6. For salaries and expenses of the Office of Land Registry -
 
 7. For the expense of revising barristers in England (including a supplemen-
 
@@ -17134,7 +17134,7 @@ the horse patrol, and Thames police, and for the salaries of the Commissioner, A
 
 10. For the expenses of police engaged in special duties in connexion with
 
-dynamite outrages - - -
+dynamite outrages -
 
 11. For certain expenses connected with the police in counties and boroughs in
 
@@ -17180,7 +17180,7 @@ establishments in England and the Colonies under their control
 
 13. For the expenses of the Prisons Board, England, and of the prisons under
 
-their control - - - - -
+their control -
 
 14. For the maintenance of juvenile offenders in reformatory, industrial, and
 
@@ -17192,7 +17192,7 @@ Asylum, England, and of one criminal lunatic in Bethlem Hospital
 
 16. For salaries and expenses of the Lord Advocate's department and others
 
-connected with criminal proceedings in Scotland, including certain | allowances under the Act 15 & 16 Vict. c. 83. - - -:
+connected with criminal proceedings in Scotland, including certain | allowances under the Act 15 & 16 Vict. c. 83. -:
 
 17. For salaries and expenses of the Courts of Law and Justice in Scotland I
 
@@ -17328,7 +17328,7 @@ Ireland ----
 
 15. For the salaries and expenses of the National School Teachers' Super-
 
-annuation Office, Dublin - - - -
+annuation Office, Dublin - -
 
 16. For the salary and expenses of the Office of the Commissioners of Educa-
 
@@ -17338,7 +17338,7 @@ tion in Ireland appointed for the regulation of endowed schools -
 
 purchase of pictures ----
 
-18. In aid of the expenses of the Queen's Colleges in Ireland - - -
+18. In aid of the expenses of the Queen's Colleges in Ireland -
 
 19. In aid of the expenses of the Royal Irish Academy ...
 
@@ -17394,11 +17394,11 @@ No.
 
 2. For consular establishments abroad, and for other expenditure charge-
 
-able on the Consular Vote - - - - -
+able on the Consular Vote -
 
 3. For the expenses of various services (other than Consular) in connection
 
-with the suppression of the slave trade, and tho expenses of the Liberated African Department - - - - -
+with the suppression of the slave trade, and tho expenses of the Liberated African Department -
 
 4. For salaries and expenses of the three representatives of Her Majesty's
 
@@ -17410,7 +17410,7 @@ governors, Ac., and for other charges connected with the colonies, including exp
 
 6. For certain charges connected with the Orange River Territory, the
 
-Transvaal, Zululand, Bechuanaland, the island of St. Helena, and the High Commissioner for South Africa - - - - -
+Transvaal, Zululand, Bechuanaland, the island of St. Helena, and the High Commissioner for South Africa -
 
 232, 245
 
@@ -17468,7 +17468,7 @@ widows and children -
 
 3. In aid of the local cost of maintenance of pauper lunatics in England and
 
-Wales - - - - - -
+Wales - -
 
 4. In aid of the local cost of maintenance of pauper lunatics in Scotland
 
@@ -17612,7 +17612,7 @@ For defraying expenses which may be incurred during the year ending on the 31st 
 
 1. For remaining charges in the Soudan and Upper Egypt - -1
 
-2. For special Naval and Military preparations - - - .
+2. For special Naval and Military preparations - .
 
 11,000,000
 
@@ -18464,7 +18464,7 @@ Public Health Act, 1875, and if such expenses are not to be borne by the whole o
 
 . “ district ” shall mean the City of London, and “ board ” the
 
-Commissioners of Sewers of that city; and in the application of the said Acts to the metropolis, “ district ” shall mean the Metropolis exclusive of the City of London, and “ Board ” the Metropolitan Board of Works; and in the application of the said Acts to a rural sanitary district, " district ” shall mean the said district, and “ board ” the rural sanitary authority. In any case where an urban sanitary authority does not levy a borough rate or any general district rate, but is empowered by a Local Act or Acts to borrow money and to levy a rate or rates throughout the whole of their district for purposes similar to those or to some of those for which a general district rate is leviable, it shall be lawful for such sanitary authority to defray the expenses incurred in the execution of the said Acts by means of money to be borrowed, and a rate or rates to be levied, under such Local Act or Acts.
+Commissioners of Sewers of that city; and in the application of the said Acts to the metropolis, “ district ” shall mean the Metropolis exclusive of the City of London, and “ Board ” the Metropolitan Board of Works; and in the application of the said Acts to a rural sanitary district," district ” shall mean the said district, and “ board ” the rural sanitary authority. In any case where an urban sanitary authority does not levy a borough rate or any general district rate, but is empowered by a Local Act or Acts to borrow money and to levy a rate or rates throughout the whole of their district for purposes similar to those or to some of those for which a general district rate is leviable, it shall be lawful for such sanitary authority to defray the expenses incurred in the execution of the said Acts by means of money to be borrowed, and a rate or rates to be levied, under such Local Act or Acts.
 
 2. (1.) The expression “lodging-houses for the labouring classes” when used in the Labouring Classes Lodging Houses Acts, 1851 to 1867, shall be deemed to include separate houses or cottages for the labouring classes, whether containing one or several tenements, and the purposes of the said Act shall be deemed to include the provision of such houses and cottages.
 
@@ -20276,7 +20276,7 @@ Another turnpike road from the north side of the said North Channel Bridge throu
 
 Another turnpike road from the church in the said parish of Sunk Island through the said parish and the parish of Ottringham to the turnpike rood leading from Kingston-upon-Hull through Hedon to Patrington.
 
-And another turnpike road from the said church in the parish of Sunk Islaad to the harbour called Stone Creek in the said parish.
+And another turnpike road from the said church in the parish of Sunk Island to the harbour called Stone Creek in the said parish.
 
 CHAPTER 80.
 
@@ -20480,7 +20480,7 @@ P. lxv. An Act to confirm certain Provisional Orders made by the Board of Trade 
 
 P. lxvL An Act to confirm certain Provisional Orders made by the Board of Trade under the Tramways Act, 1870, relating to Bradford and Shelf Tramways, Cardiff District and Penarth Harbour Tramways (Extensions), Cardiff Tramways (Extensions), Shipley Tramways, Tynemouth and District Tramways, and Worcester Tramways.
 
-IxviL An Act to confer further Powers on the London Brighton and South Coast Railway Company, lxviii. An Act for granting further Powers to the Canada North-West Land Company.
+lxviL An Act to confer further Powers on the London Brighton and South Coast Railway Company, lxviii. An Act for granting further Powers to the Canada North-West Land Company.
 
 lxix. An Act to confer further Powers on the Mayor Aldermen and Burgesses of the borough of Longton. lxx. An Act to make provision with reference to the Arrears of Dividend on the Guaranteed Preference Shares in the Capital of the Northern Railway of Buenos Ayres Company Limited and for other purposes. linci. An Act for the abandonment of the Railway authorised by the Charing Cross and Waterloo Electric Railway Act 1882 and for other purposes.
 
@@ -20498,7 +20498,7 @@ lxxix. An Act to extend the time for the completion of the Railways authorised b
 
 Iwinmi. An Act to confer upon the Lydd Railway Company further Powers with reference to their own undertaking and for other purposes.
 
-Ixxxiv. An Act to authorise the Manchester Sheffield and Lincolnshire Railway Company to construct new Railways and other works and to confer further Powers upon that Company in connexion with their undertaking and for other purposes.
+lxxxiv. An Act to authorise the Manchester Sheffield and Lincolnshire Railway Company to construct new Railways and other works and to confer further Powers upon that Company in connexion with their undertaking and for other purposes.
 
 1XXXV. An Act for authorising the Rhondda and Swansea Bay Railway* Company to purchase additional Lands to extend the period limited by the Rhondda and Swansea Bay Railway Act 1382 for the purchase of certain Lands and for other purposes, lxxxvi. An Act to confer further Powers on the London Tilbury and Southend Railway Company with respect to their own and other undertakings and with respect to their Boats. To authorise the abandonment of their authorised Junction with the Metropolitan Outer Circle Railway and for other purposes, lxxxvii. An Act to grant further Powers to the Lanarkshire and Ayrshire Railway Company to enable the Caledonian Railway Company to contribute to the undertaking of that Company and for other purposes. lXXXViii. An Act for conferring further Powers upon the London and Northwestern Railway Company in relation to their own Undertaking and other Undertakings in which they are interested jointly with other Companies and also for conferring Powers upon the Great Western Railway Company the Lancashire and Yorkshire Railway Company the Furness Railway Company and the Manchester Sheffield and Lincolnshire Railway Company in relation to such other Undertakings for vesting in the London and North-western Railway Company the Undertaking of the Lancaster Canal Navigation Company and for enabling the Manchester South Junction and Altrincham Railway Company to raise additional Capital and for other purposes, lxxxix. An Act to empower the Metropolitan Railway Company to make a Branch from their authorised Aylesbury and Rickmansworth Railway to
 

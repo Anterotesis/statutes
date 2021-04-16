@@ -1914,7 +1914,7 @@ Customs and Excise,
 
 1. The duty of customs payable on tea until the fourteenth day of May nineteen hundred and seven, under the Finance Act, 1906, shall be deemed to have been continued as from that date and shall continue to be charged, levied, and paid until the first day of July nineteen hundred and eight on the importation thereof into Great Britain or Ireland (that is to say): —
 
-Tea, the pound - - - fivepence.
+Tea, the pound - fivepence.
 
 2. The additional duties of customs on tobacco, beer, and spirits imposed by sections two, three, four, and five of the Finance Act, 1900 (including the increased duties imposed by section five of that Act), shall continue to be charged, levied, and paid, and the additional drawback allowed under the said section four shall continue to be allowed, until Parliament otherwise determine, and
 
@@ -2402,7 +2402,7 @@ The words “and made before a justice of the peace ’* in the exemption number
 
 “ Certificate of any goods,
 
-“ wares, or merchandise, having been “ duly entered inwards, which shall “ be entered outwards for exportation at the port of importation, or “ be removed from thence to any “ other -port for the more convenient “ exportation thereof, where such “ certificate is issued for enabling a “ person to obtain a debenture or “ certificate entitling him to receive “ a drawback of any duty of customs - - - - 040”
+“ wares, or merchandise, having been “ duly entered inwards, which shall “ be entered outwards for exportation at the port of importation, or “ be removed from thence to any “ other -port for the more convenient “ exportation thereof, where such “ certificate is issued for enabling a “ person to obtain a debenture or “ certificate entitling him to receive “ a drawback of any duty of customs - - 040”
 
 “ Debenture or Certificate for “ entitling any person to receive any “ allowance by way of drawback or “ otherwise payable o it of the revenue of customs or excise, for or “ in respect of an goods, wares, or “ merchandise exported or shipped'to “ be exported from the United Kingdom to any part beyond the sea.
 
@@ -3114,11 +3114,11 @@ Under Act 7 Edw. 7. c. 1. - 71, 715 0 0
 
 For the service of the year ending on 31st March 1908:—
 
-Under Act 7 Edw. 7. c. 1. - - - - 38, 114, 700 0 0
+Under Act 7 Edw. 7. c. 1. - - 38, 114, 700 0 0
 
 Under this Act - <* - - 72, 563, 714 0 0
 
-Total - - - - £ 110, 750, 129 0 0
+Total - - £ 110, 750, 129 0 0
 
 SCHED. (B.) Part 1.
 
@@ -3164,7 +3164,7 @@ For the Royal Parks and Pleasure Gardens For Houses of Parliament Buildings 2, 3
 
 Class II.
 
-For the salaries and expenses in the Offices of the House of Commons - - - For the salaries and expenses of the Offices of the Chief Secretary in Dublin and London, and expenses under the Inebriates Acts - 1, 550 255 1, 630
+For the salaries and expenses in the Offices of the House of Commons - For the salaries and expenses of the Offices of the Chief Secretary in Dublin and London, and expenses under the Inebriates Acts - 1, 550 255 1, 630
 
 Class III.
 
@@ -3182,7 +3182,7 @@ Ci^ss VII.
 
 For the salaries and other expenses of Temporary Commissions, Committees, and Special Inquiries 10,000
 
-Total - - - £ 71, 615 1, 630
+Total - £ 71, 615 1, 630
 
 Sched. (B.) Part 2.
 
@@ -3276,13 +3276,13 @@ No. 1. For the pay, &c. of His Majesty’s Army (including Army Reserve to a num
 
 9, 835,000 1, 058,000
 
-clusive of India) - - -
+clusive of India) -
 
 2. For the pay, &c. of the medical establishments and for medicines, &c. - 460,000 1, 800
 
 3. For the pay, bounty, &c. of the militia (to a number not exceeding 139, 418, including 7,000
 
-7, 700 militia reserve) - - - - 840,000
+7, 700 militia reserve) - - 840,000
 
 4. For the pay and allowances of the Imperial yeomanry, including the permanent staff 410,000 1,000
 
@@ -3302,7 +3302,7 @@ technical committees - 1, 671,000
 
 10. For barrack construction, for purchases of land, and for works, buildings, and repairs at home
 
-and abroad, including staff in connection therewith - - - - - 2, 436,000 105, 740
+and abroad, including staff in connection therewith - - - 2, 436,000 105, 740
 
 11. For establishments for military education - 137,000 66, 800
 
@@ -3310,7 +3310,7 @@ and abroad, including staff in connection therewith - - - - - 2, 436,000 105, 74
 
 13. For the "War Office and Army Accounts Department - - 567,000 250
 
-14. For rewards, half-pay, retired pay, widows’ pensions, and other non-effective charges for officers - - - 1, 714,000 476, 568
+14. For rewards, half-pay, retired pay, widows’ pensions, and other non-effective charges for officers - 1, 714,000 476, 568
 
 15. For Chelsea and Kilmainham hospitals; for out-pensions; for rewards for distinguished services; for widows’ pensions; and for other non-effective charges for warrant officers, non-commissioned officers, and men, &C. ---- 1, 709,000 492, 782
 
@@ -3398,7 +3398,7 @@ Grants. tions in Aid.
 
 No. 11. For maintaining certain harbours under the £ £
 
-Board of Trade and for grants in aid of harbours - - - 31, 740 2, 600
+Board of Trade and for grants in aid of harbours - 31, 740 2, 600
 
 12. For constructing a new harbour of refuge at Peterhead ..... 31, 988
 
@@ -3406,7 +3406,7 @@ Board of Trade and for grants in aid of harbours - - - 31, 740 2, 600
 
 of Foreign Powers, and for salaries and expenses of the Rating of Government property department, and for a contribution towards the expenses of the London Fire Brigade 638, 700 26, 580
 
-14. For the erection, repairs, and maintenance of public buildings in Ireland, for the maintenance of certain parks and public works* and for the maintenance of drainage works on the River Shannon - - - - 217, 829 6, 860
+14. For the erection, repairs, and maintenance of public buildings in Ireland, for the maintenance of certain parks and public works* and for the maintenance of drainage works on the River Shannon - - 217, 829 6, 860
 
 15. For payments under the Tramways and Public Companies (Ireland) Act, 1883, &c., the Tramways (Ireland) Act, 1895, the Railways
 
@@ -3432,7 +3432,7 @@ No.
 
 the House of Lords .... 2. For the salaries and expenses in the offices of 27, 543 15, 009
 
-the House of Commons - - -3. For the salaries and other expenses of the department of His Majesty’s Treasury and subordinate departments, including expenses in respect of advances under the Light 42, 800 17, 450
+the House of Commons -3. For the salaries and other expenses of the department of His Majesty’s Treasury and subordinate departments, including expenses in respect of advances under the Light 42, 800 17, 450
 
 Railways Act, 1896 -4. For the salaries and expenses of the office of His Majesty’s Secretary of State for the 100, 919 3, 724
 
@@ -3482,7 +3482,7 @@ Colonies, including a grant in aid of certain expenses connected with Emigration
 
 Fund and other services connected with the Mercantile Marine (including Merchant Seamen’s Fund Pensions) - 104, 816 56, 950
 
-10. For meeting the deficiency of income from fees, &c. for the requirements of the Board of Trade, under the Bankruptcy Acts, 1883 and 1890, and the Companies (Winding-up) Act, 1890 - - - 2, 008 130, 684
+10. For meeting the deficiency of income from fees, &c. for the requirements of the Board of Trade, under the Bankruptcy Acts, 1883 and 1890, and the Companies (Winding-up) Act, 1890 - 2, 008 130, 684
 
 11. For the salaries and expenses of the Board of Agriculture and Fisheries and of Royal Botanic Gardens, Kew, including certain grants in aid - 137, 840 31, 250
 
@@ -3492,7 +3492,7 @@ Fund and other services connected with the Mercantile Marine (including Merchant
 
 14. For the salaries and expenses of the department of the Comptroller and Auditor-General 64, 400 7, 978
 
-15. For the salaries and expenses of the Registry of Friendly Societies - - - 8, 624 .
+15. For the salaries and expenses of the Registry of Friendly Societies - 8, 624 .
 
 16. For the salaries and expenses of the Local Government Board - 232, 782 5, 300
 
@@ -3540,7 +3540,7 @@ His Majesty’s Secretary for Scotland and subordinate office, expenses under th
 
 28. For the salaries and expenses of the Fishery
 
-Board for. Scotland, and for grants in aid of piers or quays - - -
+Board for. Scotland, and for grants in aid of piers or quays -
 
 29. For the salaries and expenses of the Board of
 
@@ -3576,7 +3576,7 @@ Government Board in Ireland
 
 37. For the salaries and expenses of the Public
 
-Record Office in Ireland and of the Keeper of State Papers in Dublin - - -
+Record Office in Ireland and of the Keeper of State Papers in Dublin -
 
 38. For the salaries and expenses of the Office of
 
@@ -3584,7 +3584,7 @@ Public Works in Ireland ...
 
 39. For the salaries and expenses of the depart-
 
-ment of the Registrar General of Births, &c., and for the expenses of collecting emigration statistics in Ireland - - - ' -
+ment of the Registrar General of Births, &c., and for the expenses of collecting emigration statistics in Ireland - ' -
 
 40. For the salaries and expenses of the general
 
@@ -3682,7 +3682,7 @@ of the Inspectors of Constabulary 7. For the expenses of the prisons in England,
 
 Wales, and the Colonies - - 8. For the salaries and expenses of the office of the Inspector of Reformatories and for the maintenance of juvenile offenders in reformatory, industrial, and day industrial schools and under the Youthful Offenders Act, in 727, 605 22, 500
 
-Great Britain - - - - . 9. For the maintenance of criminal lunatics in 257, 105 29,000
+Great Britain - - . 9. For the maintenance of criminal lunatics in 257, 105 29,000
 
 Broadmoor Criminal Lunatic Asylum 10. For the salaries and expenses of the Lord Advocate’s department and other law charges, and the salaries and expenses of the Courts 36, 128 1, 132
 
@@ -3704,7 +3704,7 @@ No. £ £
 
 It. For the salaries and expenses of the offices ,
 
-in His Majesty’s General Register House, Edinburgh - - - 42, 700 —
+in His Majesty’s General Register House, Edinburgh - 42, 700 —
 
 12. For the salaries and expenses of the Establishment of the Crofters’ Commission 4, 545
 
@@ -3792,7 +3792,7 @@ National Education in Ireland, including a grant in aid of the Teachers Pension 
 
 11. For the expenses of the Office of the Commis-
 
-sioners for managing certain school endowments in Ireland - - -
+sioners for managing certain school endowments in Ireland -
 
 12. For the salaries and expenses of the National
 
@@ -3942,7 +3942,7 @@ No.
 
 temporary commissions, committees, and
 
-special inquiries - - - r 64,000 —
+special inquiries - r 64,000 —
 
 2. For certain miscellaneous expenses - 54, 094 5, 550 .
 
@@ -3978,7 +3978,7 @@ EARL OF CROMER.
 
 Grant to the Earl of Cromer, O.M., G.C.B., G.C.M.G.,
 
-K.C.S.I., C.I.E., in recognition of his eminent Services £ a? Agent and Consul-General in Egypt - - - - 50,000
+K.C.S.I., C.I.E., in recognition of his eminent Services £ a? Agent and Consul-General in Egypt - - 50,000
 
 SCHEDULE (B.) — Part 13.
 
@@ -4026,11 +4026,11 @@ Number of Vote. NAVY SERVICES, 1903-C. Surpluses. Deficits made good from Surplu
 
 1 Wages, &c., of officers, seamen, and boys, coast guard, and ltoyal Marines - £ d. £ 8. 163, 909 1 d. 8
 
-2 Victualling and clothing for the Navy - - - 18, 07*2 14 10 —
+2 Victualling and clothing for the Navy - 18, 07*2 14 10 —
 
 3 Medical establishments and services .... 12, 042 10 4 —
 
-4 Martial law - - - 720 19 C —
+4 Martial law - 720 19 C —
 
 5 Educational services 10, 824 8 0 —
 
@@ -7046,7 +7046,7 @@ Fees on Instruments for obtaining Patents and Renewal.
 
 On application for provisional protection - - 1 0 0
 
-On filing complete specification - - - 3 0 0
+On filing complete specification - 3 0 0
 
 ---- 4 0 0
 
@@ -7056,11 +7056,11 @@ On filing complete specification with first application - 4 0 0
 
 On the sealing of the patent in respect of investigations as
 
-to anticipation - - - - - -100
+to anticipation - -100
 
 (i b) Further before end offour years from date of patent.
 
-On certificate of renewal - - - - - 50 00
+On certificate of renewal - - - 50 00
 
 (c) Further before end of eight years from date of patent.
 
@@ -7692,7 +7692,7 @@ Name of Borrower. Amount of Loan. Amount to be written off from Local Loans Fund
 
 r 300 90 19 3
 
-Daniel Ottley - - - -
+Daniel Ottley - -
 
 (200 73 15 3
 
@@ -7710,7 +7710,7 @@ Name of Borrower. Amount of Loan. Amount to be written off from Local Loans Fund
 
 Hose Monahan - 200 127 18 10
 
-Patrick McTague - - - GO 1 10 6
+Patrick McTague - GO 1 10 6
 
 Thomas and Patrick Loughlin, now 80 2 5 9
 
@@ -7718,19 +7718,19 @@ Garret Hagans.
 
 Edward Galligan 80 29 8 6
 
-Eleanor Ryan - - -; I 100 £0 2 2
+Eleanor Ryan -; I 100 £0 2 2
 
 Edward McManus 40 8 10 0
 
-Samuel Kennedy - - - 100 70 9 9
+Samuel Kennedy - 100 70 9 9
 
 John Brady 70 63 6 3
 
-John Mallon - - - 50 36 6 7
+John Mallon - 50 36 6 7
 
 Murty O’Shea - G5 44 1 .3
 
-Lacky McGloin - - - - 40 36 9 5
+Lacky McGloin - - 40 36 9 5
 
 (3) Loans under the Drainage and Improvement of Lands ()
 
@@ -9620,7 +9620,7 @@ Number and amount of shares and deben- ] tures agreed to be issued as fully or j
 
 Names and addresses of ()vendors of property purchased or acquired, or proposed to be (b) purchased or acquired by the company. Amount (in cash, shares, or debentures) payable to each separate vendor.
 
-Amount (if any) paid or payable (in cash or shares or debentures) for any such property, specifying amount (if any) paid or payable for goodwill. Total purchase price £ Cash - - - £ Shares - - £ Debentures - £ Goodwill - - £
+Amount (if any) paid or payable (in cash or shares or debentures) for any such property, specifying amount (if any) paid or payable for goodwill. Total purchase price £ Cash - £ Shares - - £ Debentures - £ Goodwill - - £
 
 Amount (if any) paid or payable as commission for subscribing or agreeing to subscribe or procuring or agreeing to procure subscriptions for any shares or debentures in the company, or Rate of such commission ... Amount paid., payable. Rate per cent.
 
@@ -13988,7 +13988,7 @@ lxviii. An Act to authorise the Southport Birkdale and West Lancashire Water Boa
 
 lxix. An Act to confer further powers upon the mayor aldermen and burgesses of the borough of Brighouse in regard to their electricity undertaking and to make further provision in regard to the health local government and improvement of the borough and for other purposes. (Brighouse Corporation.)
 
-Ixx. An Act to incorporate the President qnd Council of Kang Edward’s Hospital Fund for London to provide for the management of the Fund and for other purposes. (King Edward's Hospital Fund for London.)
+lxx. An Act to incorporate the President qnd Council of Kang Edward’s Hospital Fund for London to provide for the management of the Fund and for other purposes. (King Edward's Hospital Fund for London.)
 
 v/
 
@@ -14780,7 +14780,7 @@ Statute, and Chapter. Subject-matter or Short Title. How affected. Chapter of 7 
 
 12 Car. 2. c. 34 - Tobacco Planting - - Rep. in part prosp. 3, 8. 1 (1).
 
-15 Car. 2. c. 7 - Tobacco Planting - - - Rep. in part prosp. 3, 8. 1 (1).
+15 Car. 2. c. 7 - Tobacco Planting - Rep. in part prosp. 3, 8. 1 (1).
 
 Farit, of Scotland, 1695. c. 38 Division of Commonties Amended - 51, s. 5 (3).
 
@@ -14792,7 +14792,7 @@ Parlt. of Scotland Blank Bonds and Trusts - Amended as to debentures 50, s. 36.
 
 20 Geo. 2. c. 43 - Heritable Jurisdictions (S.) S. 29 repealed 51, s. 52, Sch. II.
 
-21 Geo. 2. c. 19 - Sheriffs (S.) - - - Ss. 10, 11 repealed 51, s. 52, Sch. II.
+21 Geo. 2. c. 19 - Sheriffs (S.) - Ss. 10, 11 repealed 51, s. 52, Sch. II.
 
 28 Geo. 2. c. 7 - Sheriffs (S.) - Repealed - 51, s. 52, Sch. IL
 
@@ -14804,7 +14804,7 @@ Parlt. of Scotland Blank Bonds and Trusts - Amended as to debentures 50, s. 36.
 
 c. 23 Sheriff Courts (S.) . Ss. 1, 3-5, 8 rep., so far as they relate to civil causes in Sheriff Court $ 8. 10 rep. 51, s. 52, Sch. II.
 
-c. 120 Court of Session - - - S. 40 rep., so far as it relates to appeal for Jury Trial from Sheriff Court to Court of Session. 51, s. 52, Sch. H.
+c. 120 Court of Session - S. 40 rep., so far as it relates to appeal for Jury Trial from Sheriff Court to Court of Session. 51, s. 52, Sch. H.
 
 9 Geo. 4. c. 29 - Circuit Courts (S.) S. 22 repealed 51, s. 52, Sch. II.
 
@@ -14850,7 +14850,7 @@ c. 76 Australian Constitutions - S. 33 extended 7, 8. 1 (3).
 
 16 & 17 Vict. c. 80 Sheriff Courts (S.) - Repealed, except. 8. 34 - 51, s. 52, Sch. II.
 
-18 & 19 Vict c. 131 School Grants - - - S. 1 amended 43, s. 2.
+18 & 19 Vict c. 131 School Grants - S. 1 amended 43, s. 2.
 
 20 & 21 Vict. c. 85 Matrimonial Causes S. 32 repealed - 12, s. 2.
 
@@ -14990,7 +14990,7 @@ c. 75 Married Women’s Property Amended 18, ss. 2, 3.
 
 46 & 47 Vict: c. 30 Companies (Colonial Registers) Explained 50, s. 43.
 
-c. 55 Revenue - - - S. 10 restricted 8, 8. 1 (1).
+c. 55 Revenue - S. 10 restricted 8, 8. 1 (1).
 
 . 8. 10 (2) amended - 13, s. 5.
 
@@ -15126,7 +15126,7 @@ S. 4 amended S. 2, Sch. A. am.; 8. 8 repealed.
 
 S. 9 (1) repealed -S. 93 applied with mods. -S. 4 (1) amended
 
-Repealed - - -
+Repealed -
 
 Ss. 7, 23, 24 amended -
 

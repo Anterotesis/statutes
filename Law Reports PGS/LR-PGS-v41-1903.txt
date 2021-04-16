@@ -1792,7 +1792,7 @@ By Act of 1895 (1,000,0007. less 140,0007. lapsed) -By Act of 1896 ......
 
 By Act of 1897 ......
 
-By Act of 1899 - - - -
+By Act of 1899 - -
 
 By Act of 1901
 
@@ -3566,7 +3566,7 @@ The following Fees to be payable to Clerks of the Peace, Sheriff Clerks and Town
 
 Each printed copy of form of application for certificate -Lodging application -Lodging objection -
 
-Inspection of register, or applications, for each hour or part an hour - - - - - - .
+Inspection of register, or applications, for each hour or part an hour - - .
 
 Warrant on complaint -Each witness examined in trials
 
@@ -3936,9 +3936,9 @@ IV. New development in the Transvaal and
 
 Orange River Colony:
 
-A. New Railways - - - 5,000,000
+A. New Railways - 5,000,000
 
-B. Land Settlement - - - 3,000,000
+B. Land Settlement - 3,000,000
 
 C. Other Public Works - - 2,000,000
 
@@ -4022,7 +4022,7 @@ Name of Borrower. Amount of Loan. Amount to be Written off.
 
 Timothy Sullivan - 130 0 0 8 1 10
 
-Sundry Items - - - — 33 1 1
+Sundry Items - — 33 1 1
 
 (2.) Loans under the Land Law (Ireland) Act, 1581 (44 & 45 Vict. c. 49. s. 31).
 
@@ -4122,9 +4122,9 @@ N aval Bases and Coal- 1, 187,000 450,000 410,000 202,000 2, 249,000
 
 ing Stations. South Africa 152,000 — — 2, 300,000 2, 452,000
 
-Total - - - 4, 075,000 14, 041, 500
+Total - 4, 075,000 14, 041, 500
 
-Less — proceeds of sale ' of Sundry Barracks. - - - 500,000 500,000
+Less — proceeds of sale ' of Sundry Barracks. - 500,000 500,000
 
 Net Total 2, 989,000 2, 770,000 4, 207, 500 3, 575,000 ' 13, 541, 500
 
@@ -4566,13 +4566,13 @@ For the service of the years ended on the 31st March £
 
 1902 and 1903
 
-Under Act 3 Edw. 7. c. 3. - - - - 1, 520, 704 15 5
+Under Act 3 Edw. 7. c. 3. - - 1, 520, 704 15 5
 
-Under this Act - - - - - 100 0 0
+Under this Act - - - 100 0 0
 
 For the service of the year ending on 31st March 1904: —
 
-Under Act 3 Edw. 7. c. 3. - - - - - 38, 997, 200 0 0
+Under Act 3 Edw. 7. c. 3. - - - 38, 997, 200 0 0
 
 Under this Act - 75, 392, 969 0 0
 
@@ -4596,7 +4596,7 @@ Sum granted to make good an excess on the £ e. d. £ «. d.
 
 Grant for the National Gallery of Ireland, for the year ended on the 31st day of March
 
-1902 - - - - ' - 77 15 5 —
+1902 - - ' - 77 15 5 —
 
 SCHEDULE (B.) — Part 2. Sched. (B.)
 
@@ -4688,7 +4688,7 @@ Grants. tions in Aid.
 
 Class IY. £ £
 
-For the salaries and expenses of the Board of Education - - - 292, 807
+For the salaries and expenses of the Board of Education - 292, 807
 
 For the expenses of the Commissioners of National Education in Ireland ... 28,000 —
 
@@ -4912,7 +4912,7 @@ Abut (Ordnance Factories). £ £
 
 For the expense of the ordnance factories, the cost of productions of which is charged to the army, navy and Indian and Colonial Governments 255,000 3, 900,000
 
-Total Abmt Services (including Ordnance \ Factories) - - - £ J 31, 500,000 7, 274, 489
+Total Abmt Services (including Ordnance \ Factories) - £ J 31, 500,000 7, 274, 489
 
 Sc HIED. (B.) Part 7.
 
@@ -5066,7 +5066,7 @@ No. 4. For salaries and expenses of the office of His Majesty’s Secretary of S
 
 8. For salaries and expenses of the office of the Committee of Privy Council for Trade and
 
-subordinate departments, including a grant in aid - - - - - 214, 395 9, 935
+subordinate departments, including a grant in aid - - - 214, 395 9, 935
 
 9. For the salaries and expenses of certain services
 
@@ -5080,7 +5080,7 @@ transferred from the Mercantile Marine Fund and other services connected with th
 
 30, 312
 
-13. For salaries and expenses of the Civil Service Commission - - - - - 43, 393
+13. For salaries and expenses of the Civil Service Commission - - - 43, 393
 
 14. For salaries and expenses of the department of the Comptroller and Auditor General 63, 321 2, 517
 
@@ -5094,7 +5094,7 @@ transferred from the Mercantile Marine Fund and other services connected with th
 
 13, 498 2, 552
 
-20. For salaries and expenses of the Public Record Office and of the Office of Land Revenue Records and Inrolments - - - 24, 158
+20. For salaries and expenses of the Public Record Office and of the Office of Land Revenue Records and Inrolments - 24, 158
 
 21. For salaries and expenses of the establishment under the Public Works Loan Commissioners 18 10, 680
 
@@ -5142,13 +5142,13 @@ nical instruction for Ireland, and of the services administered by that departme
 
 supplementary sum of 10, O0OZ.) 35. For salaries and expenses of the office of the Commissioners of Charitable Donations and 1, 225
 
-Bequests for Ireland - - - - 36. For salaries and expenses of the Local Govern- 1, 997 38
+Bequests for Ireland - - 36. For salaries and expenses of the Local Govern- 1, 997 38
 
 ment Board in Ireland -37. For salaries and expenses of the Public Record Office in Ireland and of the Keeper of the 62, 690 11, 501
 
 State Papers in Dublin 38. For salaries and expenses of tho Office]of Public 5, 348 ““
 
-Works in Ireland - - -J 38, 053 2, 500.
+Works in Ireland -J 38, 053 2, 500.
 
 SCBRD. (B.) Part 8.
 
@@ -5200,7 +5200,7 @@ the salaries and expenses of the department of the Solicitor for the affairs of 
 
 2. For certain miscellaneous legal expenses, in-
 
-cluding grants in aid of the expenses of the Incorporated Law Societies of England and Iceland - - - -
+cluding grants in aid of the expenses of the Incorporated Law Societies of England and Iceland - -
 
 3. For such of the salaries and expenses of the
 
@@ -5416,7 +5416,7 @@ Collection (Hertford House) 6. For sundry grants in aid of scientific investigat
 
 90, 780
 
-Education Act, 1889 - - - -8. For public education in Scotland and for Science and Art in Scotland, including a 119, 190
+Education Act, 1889 - -8. For public education in Scotland and for Science and Art in Scotland, including a 119, 190
 
 grant in aid - -9. For a grant to the Board of Trustees for manufactures in Scotland, in aid of the maintenance of the National Gallery, School of 1, 658, 828
 
@@ -5426,9 +5426,9 @@ Ireland - 1, 347, 101 2, 250
 
 11, For the expenses of the Office of the Commissioners for managing certain school 930
 
-endowments in Ireland - - -12, For salaries and expenses of the National Gallery of Ireland, including a grant in aid
+endowments in Ireland -12, For salaries and expenses of the National Gallery of Ireland, including a grant in aid
 
-for the purchase of pictures - - -13. For a grant in aid of the expenses of the Queen’s 3, 707
+for the purchase of pictures -13. For a grant in aid of the expenses of the Queen’s 3, 707
 
 Colleges in Ireland - - 4, 800 5, 500
 
@@ -5464,7 +5464,7 @@ penditure chargeable to the Consular Vote - 534, 7$0 89, 582
 
 grants in aid .... 6(61, 525
 
-4. For a grant in aid of the revenue of the Island of Cyprus - - - - 87,000 MM
+4. For a grant in aid of the revenue of the Island of Cyprus - - 87,000 MM
 
 6. For the subsidies to certain Telegraph Companies and a grant in aid of the annual expenses of the Pacific Cable 72, 100 102, 875
 
@@ -5540,7 +5540,7 @@ No. £ £
 
 3. For making good certain sums written off1 from the assets of the Local Loans Fund - 19, 359 .
 
-4. For a grant in aid of the expenses of the Royal Commission for the St. Louis Exhibition, 1904 (including a supplementary sum of 50,0001.) - - -• - 80,000
+4. For a grant in aid of the expenses of the Royal Commission for the St. Louis Exhibition, 1904 (including a supplementary sum of 50,0001.) -• - 80,000
 
 5. For repayments to the Civil Contingencies Fund of certain miscellaneous advances - li; 082
 
@@ -7182,7 +7182,7 @@ Insert instead of the words repealed the words “ such agreement.”
 
 Insert instead of the words first repealed, “ the owner of every land or heritage “ shall prevent any surface water therefrom from flowing over and upon any “ street; and so far as may be necessary “ for the said purposes.”
 
-Insert instead of the words repealed, " the “ owner failing to commence any opera* " tions ordered within one month of the date of the said notice, or of his " thereafter failing to proceed with the “ said operations continuously, and com-" plete them within the period specified “ therein.”
+Insert instead of the words repealed," the “ owner failing to commence any opera* " tions ordered within one month of the date of the said notice, or of his " thereafter failing to proceed with the “ said operations continuously, and com-" plete them within the period specified “ therein.”
 
 Sec. 278
 
@@ -7314,7 +7314,7 @@ Sugar duties.
 
 8. d.
 
-Sugar which, when tested by the polariscope, indicates a polarisation exceeding ninety-eight degrees - - - the cwt.
+Sugar which, when tested by the polariscope, indicates a polarisation exceeding ninety-eight degrees - the cwt.
 
 Sugar of a polarisation not exceeding seventy-six degrees - the cwt.
 
@@ -7356,13 +7356,13 @@ The amount of sweetening matter to be taken to be the total amount of cane, inve
 
 Glucose:
 
-Solid - - - the cwt. 0 2 9
+Solid - the cwt. 0 2 9
 
 Liquid - -, 0 2 0
 
 Saccharin (including substances of a like nature
 
-or use) - - - - the cz. 0 13
+or use) - - the cz. 0 13
 
 and there shall, as from the same date, be allovj ed in respect of those articles the drawbacks set out in the Second Schedule to this Act.
 
@@ -9632,7 +9632,7 @@ Buildings Expenses Act, 1898. Estimate.
 
 Expenses Act, 1898 Difference between the sum granted under the Act of 1898 and the sum estimated to be available, due to depreciation in securities in which the money granted has been 2, 550,000 3, 050,000 500,000
 
-invested - - - 80,000 — 80,000
+invested - 80,000 — 80,000
 
 2, 470,000 3, 050,000 580,000
 
@@ -10316,7 +10316,7 @@ Section and Chapter. Short Title. - Extent of Repeal. ' *
 
 54 & 55 Vict. c. 25. The Customs and Inland Revenue Act, 1891. Section four.
 
-54 & 55 Vict. c. 39. The Stamp Act, 1891 In the First Schedule the words — “ Commission:£ a. <?. (1) To any officer in the army or in the corps of Royal Marines - 1 10 0 (2) To any officer in the navy - - -050
+54 & 55 Vict. c. 39. The Stamp Act, 1891 In the First Schedule the words — “ Commission:£ a. <?. (1) To any officer in the army or in the corps of Royal Marines - 1 10 0 (2) To any officer in the navy -050
 
 Exemption. Commission to any officer of militia* yeomanry or volunteers.”
 
@@ -10648,7 +10648,7 @@ cxiii. An Act to authorise the Port Talbot Railway and Docks Company to raise fu
 
 Cxiv. An Act to empower the Urban District Council of Merthyr Tydfil to construct additional waterworks and a street improvement and to make further and better provision for the good government health and improvement of the district and for olher purposes. (Merthyr Tydfil Urban District Council)
 
-CXV. An Act to empower the Pontypridd Urban District Council to make a new street and other street works to lay down a tramway and to coufer further powers upon the Council with regard to their gas and electricity undertakings and with regard to the good government and improvement of the district. (Pontypridd Urban District Council)
+CXV. An Act to empower the Pontypridd Urban District Council to make a new street and other street works to lay down a tramway and to confer further powers upon the Council with regard to their gas and electricity undertakings and with regard to the good government and improvement of the district. (Pontypridd Urban District Council)
 
 cxvi. An Act to authorise the Council for the Urban District of Frinton-on-Sea in the county of Essex to construct and maintain sea-walls and other works at Frinton-on Sea and to improve and regulate the sea front of the said district and for other purposes. (Frinton-on-Sea Defences)
 
@@ -11176,7 +11176,7 @@ c. 75 Elementary Education - Ss. 37-39, 58, Sch. V. rep.; s. 3, Sch. 11. rep. in
 
 34 & 35 Vict.:
 
-c. 17 Bank Holidays - - - S. 1. Sch. ext. as to Ireland 1, s. 1.
+c. 17 Bank Holidays - S. 1. Sch. ext. as to Ireland 1, s. 1.
 
 c. 22 Lunacy Regulation (I.) S. 63 applied 37, s. 26.
 
@@ -11230,7 +11230,7 @@ c. 39 Freshwater Fisheries - Amended - 31, Sch.
 
 c. 78 Education (S.) - S. 7 amended 45, s. 14 (5).
 
-42 & 43 Vict. c.26 Salmon Fishery Law Amendment. Amended - - - 31, Sch.
+42 & 43 Vict. c.26 Salmon Fishery Law Amendment. Amended - 31, Sch.
 
 43 & 44 Vict.:
 
@@ -11374,11 +11374,11 @@ c. 57 Diseases of Animals S. 22 amended 43, s. 1.
 
 c. 58 Local Government (S.) - Am. prospectively as to certain fishing burghs. S. 19 (7) am. - 34, s. 7. 33, s. 94.
 
-58 & 59 Vict. c. 35 Naval Works - - - S. 5 applied with mods. - 22, s. 1 (1).
+58 & 59 Vict. c. 35 Naval Works - S. 5 applied with mods. - 22, s. 1 (1).
 
 59 & 60 Vict.: |
 
-c. 6 Naval Works - - - Ss. 3, 5 applied - 22, s. 1 (1).
+c. 6 Naval Works - Ss. 3, 5 applied - 22, s. 1 (1).
 
 c. 18 Fisheries (Norfolk and Suffolk) | Amended - - 31 Sch.
 
@@ -11402,11 +11402,11 @@ c. 36 Criminal Evidence Ss. 1-4 ext. to I. in case of motor-car offences. 36, s.
 
 c. 37 Local Government (I.) - S. 19 (2) applied; ss. 48 50 amended. 37, ss. 14 (3), 40 (1).
 
-c. 60 Inebriates - - - S. 24 am.; Sch. I. am. as toS. 25 ss. 70 (3), 71, 75 (2).
+c. 60 Inebriates - S. 24 am.; Sch. I. am. as toS. 25 ss. 70 (3), 71, 75 (2).
 
 62 & 63 Vict.:
 
-c. 9 Finance - - - S. 16 repealed 8, 8.7 (l), Sch. If.
+c. 9 Finance - S. 16 repealed 8, 8.7 (l), Sch. If.
 
 c. 18 Congested Districts Board (I.) - i S. 3 repealed (save as regards agreements made before 3 Edw. 7, c. 37). 37, s. 103, Sch.
 
@@ -11424,7 +11424,7 @@ c. 50 Agriculture and Technical Instruction (I.). S. 15 (6) amended; 8. 18 repea
 
 c. 2 War Loan - S. 3 repealed in part 8, s. 7(1), Sch. II.
 
-c. 7 Finance - - - Ss. 2-7 am. and continued 8, 68. 3, 4.
+c. 7 Finance - Ss. 2-7 am. and continued 8, 68. 3, 4.
 
 c. 28 Inebriates Amendment (S)S. 2 repealed - 25, s. 110, Sch. XII. (Pt. I.).
 
@@ -11442,7 +11442,7 @@ Statute and Chapter. Subject-matter or Short Title. How affected. Chapter of 3 E
 
 c. 49 Town Councils (S.) - - Amended; ss. 13, 23, 42, 34, ss. 2-8.
 
-C. 52 Naval Reserve - - - Sch. III. a.m. 5 s. 47rep.j s. 78 am. and rep. in part; ss. 91-99 applied (but see terms). S. 1 repealed in part 6, s. 5.
+C. 52 Naval Reserve - Sch. III. a.m. 5 s. 47rep.j s. 78 am. and rep. in part; ss. 91-99 applied (but see terms). S. 1 repealed in part 6, s. 5.
 
 c. 56 Military Lands ... S. 1 applied - 47, s. 1 (2).
 

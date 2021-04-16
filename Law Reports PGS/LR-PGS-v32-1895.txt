@@ -312,7 +312,7 @@ Rules and regulations.
 
 (4.) For the purpose of facilitating such examination the Guardians shall keep a list of the names and addresses of all purchasers of seed, and shall permit such list to be inspected by any person having authority to enter and examine under this Act.
 
-(5.) If any person refuses to a Guardian or other person acting in execution of the powers couferred by this section admission to any land which such Guardian or person is entitled to enter or examine, or obstructs or impedes him in so entering or examining, the person so offending shall be liable, on summary conviction, to a fine not exceeding five pounds.
+(5.) If any person refuses to a Guardian or other person acting in execution of the powers conferred by this section admission to any land which such Guardian or person is entitled to enter or examine, or obstructs or impedes him in so entering or examining, the person so offending shall be liable, on summary conviction, to a fine not exceeding five pounds.
 
 9. If any purchaser of seed from Guardians under this Act does not properly sow such seed, the Guardians may forthwith recover the price of such seed, whether the amount is more or less than two pounds, before the justices in petty sessions, in the manner prescribed by the Act of the session of the twenty-second year of the reign of Her present Majesty, chapter fourteen, and any Acts amending it; and the provisions of such Acts shall apply as if the amount was under two pounds.
 
@@ -874,11 +874,11 @@ For every thirty-six gallons of beer where the worts thereof are or were before 
 
 Not exceeding one thousand two hundred and
 
-fifteen degrees - - - - 0 2 0
+fifteen degrees - - 0 2 0
 
 Exceeding one thousand two hundred and fifteen
 
-degrees - - - - -024
+degrees - - -024
 
 3895.
 
@@ -964,7 +964,7 @@ transfer, or acceptance of any government or parliamentary stocks or funds shall
 
 Where the nominal amount of the stocks or funds does
 
-not exceed 100£. - - - - - 2 6 12 *
+not exceed 100£. - - - 2 6 12 *
 
 Collection of stamp duty in < :tses of pioperty vested by Act or pur-
 
@@ -1700,7 +1700,7 @@ with the Commissioners, other than as 1 v.11r_______ ._
 
 herein-before mentioned, a rate of \ sbill.ngs per centum
 
-interest of - - - -J P“annum '
+interest of - -J P“annum '
 
 (2.) For sub-section ten of the same section shall be substituted the following sub-section: —
 
@@ -2148,7 +2148,7 @@ For the service of the years ending 31st March 1894 and i.
 
 1895: —
 
-Under Act 58 Vict. c. 4. - - - 551, 909 9 2
+Under Act 58 Vict. c. 4. - 551, 909 9 2
 
 For the service of the year ending 31st March 1896: —
 
@@ -2160,7 +2160,7 @@ Under this Act .
 
 [- 14, 534, 875 0 0
 
-Total - - - -£33, 078, 652 9 2
+Total - -£33, 078, 652 9 2
 
 SCHEDULE (B.) — Part 1.
 
@@ -2256,7 +2256,7 @@ Class II.
 
 Foreign Office - 7, 300
 
-Colonial Office - - - 1, 500
+Colonial Office - 1, 500
 
 Mercantile Marine Fund (Grant in Aid) -Board of Supervision for Relief of the Poor in Scotland (now Local Government Board 2, 500
 
@@ -2278,7 +2278,7 @@ Law Charges and Courts of Law, Scotland Register House, Edinburgh - - 5, 125
 
 Class IV.
 
-Public Education, England and Wales -National Portrait Gallery - - - 136, 189
+Public Education, England and Wales -National Portrait Gallery - 136, 189
 
 90 - -
 
@@ -2286,7 +2286,7 @@ London University .... 10 660
 
 Class V.
 
-Slave Trade Services - - - 500
+Slave Trade Services - 500
 
 Cyprus, Grant in Aid .... 29,000 —
 
@@ -2294,7 +2294,7 @@ Class VI.
 
 Superannuation and Retired Allowances -Class VII. 24,000 •“
 
-Temporary Commissions - Relief of Distress, Ireland - - - 14,000 -
+Temporary Commissions - Relief of Distress, Ireland - 14,000 -
 
 35,000 —
 
@@ -2340,7 +2340,7 @@ No. £ £
 
 7. For the expense of the royal naval reserve, reserve of retired officers, seamen and marine pensioners, and royal naval artillery volunteers - 20,000 *
 
-” 8. Sect. 1. For the expense of the personnel for shipbuilding, repairs, and maintenance, including the cost of establishments of dockyards and naval yards at home and abroad - - - - 100,000 *
+” 8. Sect. 1. For the expense of the personnel for shipbuilding, repairs, and maintenance, including the cost of establishments of dockyards and naval yards at home and abroad - - 100,000 *
 
 ) , Sect. 2. For the expense of the materiel for J shipbuilding, repairs, and maintenance, including the cost of establishments of dockyards and naval yards at home and
 
@@ -2394,7 +2394,7 @@ Her Majesty’s army at home and abroad (exclusive of India), and of the general
 
 2. For the medical establishments and cost of
 
-medicines - - -
+medicines -
 
 3. For the pay and allowances (exclusive of supplies, clothing, <fec.) of the militia (to a number not exceeding 135, 473, including 30,000 militia reserve) -
 
@@ -2500,7 +2500,7 @@ Supply Grants. Appropriations in Aid.
 
 Army (Ordnance Factories). For the expense of the ordnance factories, the cost of productions of which is charged to the army, navy, and Indian and Colonial Governments - £ 100 £ 2, 243,000
 
-Total Army Services (including Ordnance! Factories) - - - - 10, 003, 100 3, 433, 300
+Total Army Services (including Ordnance! Factories) - - 10, 003, 100 3, 433, 300
 
 SCHEDULE (B.) — Part 7.
 
@@ -2538,7 +2538,7 @@ consular buildings, and for the maintenance of certain cemeteries abroad
 
 8. For the Customs, Inland Revenue, Post Office,
 
-and Post Office Telegraph buildings in Great Britain, including furniture, fuel, and sundry miscellaneous services - - -
+and Post Office Telegraph buildings in Great Britain, including furniture, fuel, and sundry miscellaneous services -
 
 9. For expenditure in respect of sundry public
 
@@ -2728,7 +2728,7 @@ Commissioners in Lunacy in England
 
 18. For salaries and expenses of the Mint, including
 
-the expenses of the coinage - - -
+the expenses of the coinage -
 
 19. For salaries and expenses of the National Debt
 
@@ -2816,11 +2816,11 @@ Grants. in Aid.
 
 No. £ £
 
-25. For salaries and expenses of the office of the Commissioners of Her Majesty’s Works and, Public Buildings - - - - j 24,000 *
+25. For salaries and expenses of the office of the Commissioners of Her Majesty’s Works and, Public Buildings - - j 24,000 *
 
-26. For Her Majesty’s foreign and other secret, services - - - - - 1 16,000* -
+26. For Her Majesty’s foreign and other secret, services - - - 1 16,000* -
 
-27. For the salaries and expenses of the office of Her Majesty’s Secretary for Scotland and ' subordinate offices - - - -, 5,000 *
+27. For the salaries and expenses of the office of Her Majesty’s Secretary for Scotland and ' subordinate offices - -, 5,000 *
 
 28. For salaries and expenses of the Fishery Board j for Scotland, ana for grants in aid of piers ' or quays - 12,000 *
 
@@ -2888,7 +2888,7 @@ Supreme Court of Judicature as are not charged on the Consolidated Fund -
 
 4. For the salaries and expenses of the land
 
-registry - - -
+registry -
 
 5. For salaries and expenses connected with the
 
@@ -3060,7 +3060,7 @@ including the expenses of the Education Office in London -
 
 2. For salaries and expenses of the Department of
 
-Science and Art, and of the establishments connected therewith - - - -
+Science and Art, and of the establishments connected therewith - -
 
 8. For salaries and expenses of the British Museum, including the amount required for the Natural History Museum
 
@@ -3310,7 +3310,7 @@ Department -
 
 3. For salaries and expenses of the Post Office
 
-services, the expenses of Post Office savings bulks, and Government annuities and insurances, and the collection of the Post Office revenue - - - -
+services, the expenses of Post Office savings bulks, and Government annuities and insurances, and the collection of the Post Office revenue - -
 
 4. For the Post Office packet service
 
@@ -3674,7 +3674,7 @@ inquiry. procurator-fiscal, or, in the event of his being unable to attend perso
 
 (b) to inspect, either with or without the jury, or to grant warrant for the inspection by any person he may deem expedient, of any premises, machinery, or other thing, the inspection of which is or may, in his opinion, be, material for the purposes of the inquiry.
 
-(3.) It shall be competent to the wife or husband, and to the relatives, and to the employer or employers, of any person who has lost his life in the accident, and in the case of an accident in or about a mine to an inspector of mines, and in the case of an accident in a factory or workshop to an inspeotor of factories and workshops, as also to any person or persons engaged under the same employers as such person, and to any other person or persons whom the sheriff may consider to have a just interest in the inquiry, to appear at, and take part in, and adduce evidence at, such inquiry, either by themselves or by counsel or agents, or by any other person or persons whom the sheriff may allow to appear on their behalf.
+(3.) It shall be competent to the wife or husband, and to the relatives, and to the employer or employers, of any person who has lost his life in the accident, and in the case of an accident in or about a mine to an inspector of mines, and in the case of an accident in a factory or workshop to an inspector of factories and workshops, as also to any person or persons engaged under the same employers as such person, and to any other person or persons whom the sheriff may consider to have a just interest in the inquiry, to appear at, and take part in, and adduce evidence at, such inquiry, either by themselves or by counsel or agents, or by any other person or persons whom the sheriff may allow to appear on their behalf.
 
 (4.) The evidence adduced at such inquiry shall be taken on oath, the witnesses shall be subject to cross-examination, and the inquiry shall be conducted as nearly as possible in accordance with the ordinary procedure in a trial by jury before the sheriff court. Provided that the examination of any person as a witness or haver at such inquiry shall not be a bar to criminal proceedings being afterwards taken against such person. Provided further, that no witness at such inquiry shall be compellable to answer any question tending to show that he is guilty of any crime or offence. The evidence shall be taken down in writing under the control and supervision of the sheriff, and as he shall direct, cither at length or in shorthand, which shall afterwards be written out, and it shall in either case bo duly authenticated as correct.
 
@@ -4550,9 +4550,9 @@ payment of duty - - the gallon 9 0
 
 Liqueurs, or cordials, and mixed or sweetened
 
-spirits - - - - the gallon 9 0
+spirits - - the gallon 9 0
 
-All such spirits shall be computed at hydrometer proof; provided that where a person importing liqueurs, cordials, or mixed or sweetened spirits in bottle, has entered the same in such a manner as to indicate that the strength is not to be tested, duty shall be levied and paid at the rate per gallon of - - - - - 10 0
+All such spirits shall be computed at hydrometer proof; provided that where a person importing liqueurs, cordials, or mixed or sweetened spirits in bottle, has entered the same in such a manner as to indicate that the strength is not to be tested, duty shall be levied and paid at the rate per gallon of - - - 10 0
 
 Perfumed spirits - the gallon 10 0
 
@@ -4562,7 +4562,7 @@ Tea .
 
 Tobacco, unmanufactured, containing in every 100 lbs. weight thereof —
 
-10 lbs. or more of moisture - - - - 3 2
+10 lbs. or more of moisture - - 3 2
 
 Less than 10 lbs. of moisture - t *36
 
@@ -4570,9 +4570,9 @@ Less than 10 lbs. of moisture - t *36
 
 Tobacco, manufactured — s. d.
 
-Segars - . - - - - 50
+Segars - . - - 50
 
-Cavendish or Negrohead - - - 4 6
+Cavendish or Negrohead - 4 6
 
 Snuff, containing in every 100 lbs. weight thereof —
 
@@ -4580,7 +4580,7 @@ More than 13 lbs of moisture - - 3 9
 
 Not more than 13 lbs. of moisture - 4 6
 
-Other manufactured tobacco and Cavendish or Negro-head manufactured in bond - - - 4 0
+Other manufactured tobacco and Cavendish or Negro-head manufactured in bond - 4 0
 
 Wine, namely: —
 
@@ -6068,9 +6068,9 @@ Grants. tions in Aid.
 
 No. £ £
 
-5. For odaoational services - - - | 74, 400* 27, 327
+5. For odaoational services - | 74, 400* 27, 327
 
-6. For scientific services - - - - j 57, 400* 10, 797
+6. For scientific services - - j 57, 400* 10, 797
 
 7. For the oxpense of the royal naval r'esorve, i reserve of retired officers, seamen and j marine pensioners, and royal naval artillery 1 volunteers -:195, 600* 33
 
@@ -6120,7 +6120,7 @@ No.
 
 2. For the medical establishments and cost of
 
-medicines - - -
+medicines -
 
 3. For the pay and allowances (exclusive of sup-
 
@@ -6338,7 +6338,7 @@ No. £ £
 
 [- 16* 143, 250
 
-11. For the salaries and expenses of the Board of Agricultm*e, and for defraying the repayable expenses to lie incurred in matters of Inclosure and Land Improvement and for paying certain grants in aid - - - - 64, 029* 8, 500
+11. For the salaries and expenses of the Board of Agricultm*e, and for defraying the repayable expenses to lie incurred in matters of Inclosure and Land Improvement and for paying certain grants in aid - - 64, 029* 8, 500
 
 12. For salaries and expenses of the Charity Commission for England and Wales, including the Endowed Schools department 23, 148 *
 
@@ -6670,7 +6670,7 @@ Ch. 6.
 
 . SCHEDULE (B.) — Part 6. CIVIL SERVICES. — Class IV.
 
-Schxd. (B.)
+Sched. (B.)
 
 Part 6. Civil Services. Class IV.
 
@@ -7156,7 +7156,7 @@ Table of the Statutes.
 
 lxxiii. An Act to repeal and re-enact with amendments the Phoenix Assurance Company’s Act 1813 to make further provisions in relation to the laws objects regulations and capital of the Company and for other purposes. (Phoenix Assurance Company's.)
 
-Ixxiv. An Act to enable the Master Professors Fellows and Scholars of Downing College in the University of Cambridge to sell and to lease on long leases and otherwise improve part of their Estate situate in the Parishes of St. Botolph St. Andrew-the-Great St. Benedict and St. Mary-the-Less in the Town of Cambridge and for other purposes. (Downing College.)
+lxxiv. An Act to enable the Master Professors Fellows and Scholars of Downing College in the University of Cambridge to sell and to lease on long leases and otherwise improve part of their Estate situate in the Parishes of St. Botolph St. Andrew-the-Great St. Benedict and St. Mary-the-Less in the Town of Cambridge and for other purposes. (Downing College.)
 
 Royal Assent, 6th July 1895.
 

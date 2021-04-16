@@ -292,11 +292,11 @@ Lots. Proprietor. Amount.
 
 15 Michael Cloran - 39 16 9
 
-16 Henry Persse - - - 26 0 6
+16 Henry Persse - 26 0 6
 
 17 & 19 Rush and Palmer - 43 3 3
 
-20, 21, 22, & 23. Revd. A. N. C. McLachlan - - - 55 13 0
+20, 21, 22, & 23. Revd. A. N. C. McLachlan - 55 13 0
 
 28, 29, & Reps, of Sir B. L. Guinness - 18 12 3
 
@@ -846,29 +846,29 @@ Cornwall Hayle Bridge Causeway - - 4 15
 
 Launceston . . . 1 2
 
-Derby - Derby and Burton-upon-Trent - - - 4 12
+Derby - Derby and Burton-upon-Trent - 4 12
 
 Devon - Barnstaple - - 2 7
 
-Great Tomngton - - - 2 G
+Great Tomngton - 2 G
 
-Gloucester - Huntley Roads - - - - o 8
+Gloucester - Huntley Roads - - o 8
 
-Hants - Andover and East Ilsley - - - I 1
+Hants - Andover and East Ilsley - I 1
 
-Southampton, South District - - - - 3 9
+Southampton, South District - - 3 9
 
-Herts - Reading and Hatfield - - - - 3 11
+Herts - Reading and Hatfield - - 3 11
 
 Lancaster Blackburn and Walton Cop - _ - 4 14
 
-Rochdale and Burnley - _ - - - 2 4
+Rochdale and Burnley - _ - 2 4
 
-Northumberland. Elsdon and Reed water - - - " 2 3
+Northumberland. Elsdon and Reed water - " 2 3
 
-Surrey - Horsham and Dorking - - - - - 2 5
+Surrey - Horsham and Dorking - - - 2 5
 
-Anglesey Beaumaris and Menai Bridge - - - - 3 10
+Anglesey Beaumaris and Menai Bridge - - 3 10
 
 ie
 
@@ -934,7 +934,7 @@ l. Date of Act. 2. Title of Act. 8. Extent to which Act is modified and continue
 
 58 G. 3. 12. An Act for more effec- The entire 1 November Amount expended 1st of No-
 
-c. xxxvi. tually repairing and improving the road from the west end of the town of Burton-upon-Trent, in the county of Stafford, through the said town, to the south end of the town of Derby, in the connty of Derby. Act. 1880. in repair of roads to be not less than 450/. per annum. No interest payable. vember 1884, and no longer.
+c. xxxvi. tually repairing and improving the road from the west end of the town of Burton-upon-Trent, in the county of Stafford, through the said town, to the south end of the town of Derby, in the county of Derby. Act. 1880. in repair of roads to be not less than 450/. per annum. No interest payable. vember 1884, and no longer.
 
 7&8G.4. 13. An Act for more effec- The entire 1 November The road from New- 1st of No-
 
@@ -964,7 +964,7 @@ County. Name of Trust. No. of Act.
 
 Chester Congleton and Buxton . 3
 
-Derby Haddon and Bentley - - - 2
+Derby Haddon and Bentley - 2
 
 Lancaster - Haslingden and Todmorden " 1
 
@@ -982,7 +982,7 @@ out of the Bakewell turnpike road into the Bentley and Ashbourne turnpike road, 
 
 29 Vict. c. lvi. - 3. An Act to extend the term and amend the provisions of an Act for
 
-repairing, amending, and maintaining the road from Congleton, in the connty of Chester, to a branch of the Leek turnpike road at Thatchmarsh Bottom, in the parish of Harrington, in the county of Derby, and from the Lowe to the Havannah Mills, in the said count y of Chester.
+repairing, amending, and maintaining the road from Congleton, in the county of Chester, to a branch of the Leek turnpike road at Thatchmarsh Bottom, in the parish of Harrington, in the county of Derby, and from the Lowe to the Havannah Mills, in the said count y of Chester.
 
 22
 
@@ -994,7 +994,7 @@ Acts which are to be repealed on and after the 1st of November 1881, unless Parl
 
 County. Name of Trust. No. of Act.
 
-Chester Manchester and Wilmslow - - - - - 1 2
+Chester Manchester and Wilmslow - - - 1 2
 
 Cornwall - Saltash ---- 4
 
@@ -1048,7 +1048,7 @@ given to shall be the duty of the father and mother of the child, and in default
 
 of the father and mother, of the occupier of the house in which to his registrar within knowledge the child is bora, and of each person present at the birth, ort7‘two ^y8-and of the person having charge of the child, to give to the registrar, within forty-two days next after such birth, information of the particulars required to be registered concerning such birth, and in the presence of the registrar to sign the register.
 
-2. Where a birth has, from the default of the parents or other Requisition by persons required to give information concerning it, not been duly registered, the registrar may, at any time after the end of forty-two concerning days from such birth, by notice in writing, require any of the persons birtb fro“ required by this Act to give information concerning such birth to
+2. Where a birth has, from the default of the parents or other Requisition by persons required to give information concerning it, not been duly registered, the registrar may, at any time after the end of forty-two concerning days from such birth, by notice in writing, require any of the persons birth fro“ required by this Act to give information concerning such birth to
 
 attend personally at the registrar's office, or at any other convenient forty-two days.
 
@@ -1584,7 +1584,7 @@ mother of the said child are, that her maiden surname
 
 1880. Births and Deaths Registration Act (Ireland), 1880. Ch. 13. 37
 
-is, and that the rank or profession of the father of the said " guardian, " or
+is, and that the rank or profession of the father of the said " guardian," or
 
 child is that of birth/“icT
 
@@ -4846,7 +4846,7 @@ If the assessment on lands, tenements, and hereditaments exceeds the quota, the 
 
 And the collector must account for any such excess in like manner as for the quota, in order that the excess may be applied as provided by the Taxes Management Act, 1880.
 
-Assessed and exonerated - Assessed and not exonerated - - - - £ s. d. £ s. d.
+Assessed and exonerated - Assessed and not exonerated - - £ s. d. £ s. d.
 
 Total by the assessment -Gross quota or charge on lands, tenements, and heredita- ments, by duplicate of charge under 38 Geo. 3. c. 5. Deduct the amount by which such gross quota has been' reduced by the application of surplus land tax - \ \
 
@@ -5714,15 +5714,15 @@ Cider ” includes perry:
 
 Dutj.
 
-On a licence to be taken out by a person for the selling £ s. d, of cider by retail in England - - - 1 5 0
+On a licence to be taken out by a person for the selling £ s. d, of cider by retail in England - 1 5 0
 
 On a licence to be taken out by a retailer of sweets in
 
-the United Kingdom - - - - 1 5 0
+the United Kingdom - - 1 5 0
 
-On a licence to be taken out by a person for the selling by retail in the United Kingdom of beer to be consumed on the premises - - - -3100
+On a licence to be taken out by a person for the selling by retail in the United Kingdom of beer to be consumed on the premises - -3100
 
-On a licence to be taken out by a person for the selling by retail in England of beer not to be consumed on the premises - - - 1 5 0
+On a licence to be taken out by a person for the selling by retail in England of beer not to be consumed on the premises - 1 5 0
 
 1880. Inland Revenue Act, 1880. Ch. 2Q. 131
 
@@ -5730,11 +5730,11 @@ Doty.
 
 8. d.
 
-On a licence (additional) to be taken out by a licensed dealer in beer in England or Ireland authorising him to sell by retail beer not to be consumed on the premises - - - - -150
+On a licence (additional) to be taken out by a licensed dealer in beer in England or Ireland authorising him to sell by retail beer not to be consumed on the premises - - -150
 
 On a licence to be taken out to sell wine by retail
 
-to be consumed on the premises - - - 3 10 0
+to be consumed on the premises - 3 10 0
 
 On a licence to be taken out by any person in England or Ireland for the sale by retail in any shop of wine not to be consumed on the premises - 2 10 0
 
@@ -5748,7 +5748,7 @@ Duty.
 
 On a licence for the sale by retail of beer and wine
 
-to be consumed on the premises - - - 4 0 0
+to be consumed on the premises - 4 0 0
 
 On a licence for the sale by retail of beer and wine
 
@@ -5762,7 +5762,7 @@ Duty.
 
 If the annual value of the dwelling-house in which the retailer shall reside or retail spirits, together with the offices, courts, yards, and gardens therewith occupied, is under 10/. ...
 
-Is 10?. and under 15/. - - -
+Is 10?. and under 15/. -
 
 £ 8. d.
 
@@ -5770,31 +5770,31 @@ Is 10?. and under 15/. - - -
 
 6 0 0
 
-1 bl. 77 20/. - - - - - 8 0 0
+1 bl. 77 20/. - - - 8 0 0
 
-20/. D 25/. - - - - - 11 0 0
+20/. D 25/. - - - 11 0 0
 
 25/. 99 30/. - _ - - 14 0 0
 
-30/. 7} 40/. - - - - 17 0 0
+30/. 7} 40/. - - 17 0 0
 
-40/, 99 50/. - - - - 20 0 0
+40/, 99 50/. - - 20 0 0
 
-50/. 99 100/. - - - - 25 0 0
+50/. 99 100/. - - 25 0 0
 
-100/. 99 200/. - - - 30 0 0
+100/. 99 200/. - 30 0 0
 
-200/. 99 300/. - - - - 35 0 0
+200/. 99 300/. - - 35 0 0
 
-300/. 97 400/. - - - - 40 0 0
+300/. 97 400/. - - 40 0 0
 
-400/. 79 500/. - - - - 45 0 0
+400/. 79 500/. - - 45 0 0
 
-500/. 97 COO/. - - - - 50 0 0
+500/. 97 COO/. - - 50 0 0
 
-600/. 99 700/. - - - 55 0 0
+600/. 99 700/. - 55 0 0
 
-700/. or above . - - - 60 0 0
+700/. or above . - 60 0 0
 
 I 2
 
@@ -5832,7 +5832,7 @@ Duty.
 
 8. d.
 
-If the licence is to be in force from the day of the date thereof until the thirty-first day of March next ensuing - - - 5 0 0
+If the licence is to be in force from the day of the date thereof until the thirty-first day of March next ensuing - 5 0 0
 
 If the licence is to be in force for one day only 10 0
 
@@ -8340,7 +8340,7 @@ Low wines or feints ---- blue.
 
 Spirits ---- black.
 
-Water - - - - - - - - white.
+Water - - - - white.
 
 3. Every cock and valve kept or used by the distiller must be constructed in the prescribed or approved manner.
 
@@ -9384,7 +9384,7 @@ Section of Act. Purpose. Amount.
 
 Supplemental up to 31st Dec. 1880. £ s. d.
 
-4 Fire Brigade - - - 10,000 0 0
+4 Fire Brigade - 10,000 0 0
 
 5 Parks, commons, and open spaces - - 30,000 0 0
 
@@ -9402,7 +9402,7 @@ Parks, commons, and open spaces - - 25,000 0 0
 
 Obelisk on Victoria Embankment . - 7,000 0 0
 
-Toll Bridges - - - -- j .£62, 551 6 £50,000 Os. 0 112, 551 2 6
+Toll Bridges - -- j .£62, 551 6 £50,000 Os. 0 112, 551 2 6
 
 7 Fire Brigade - - 30,000 0 0
 
@@ -9434,7 +9434,7 @@ Street Improvements Act, 18/2 - 42, 028 3 5
 
 Obelisk on Victoria Embankment 7,000 0 0
 
-Toll Bridges - - - 62, 551 2 6
+Toll Bridges - 62, 551 2 6
 
 Fire Brigade - ... 13, 061 19 11
 
@@ -9886,19 +9886,19 @@ One shilling and sixpence - - One halfpenny.
 
 Half-a-crown ..... One penny.
 
-Five shillings - - - - One penny.
+Five shillings - - One penny.
 
 Seven shillings and sixpence - One penny.
 
-Ten shillings - - - - Twopence.
+Ten shillings - - Twopence.
 
 Twelve shillings and sixpence Twopence.
 
-Fifteen shillings - - - - Twopence.
+Fifteen shillings - - Twopence.
 
 Seventeen shillings and sixpence Twopence.
 
-Twenty shillings - - - T wopence.
+Twenty shillings - T wopence.
 
 216
 
@@ -10516,7 +10516,7 @@ The expression “trustees ” includes managers.
 
 A savings bank year shall be reckoned as the twelve months ending, in the case of a trustee savings bank, on the twentieth day of November, and in the case of a Post Office Savings Bank, on the thirty-first day of December.
 
-In computing time for the purposes of this Act there shall be excluded every Sunday and every day Avhich is a holiday within the meauing of the Bank Holidays Act, 1871, and the Holidays Extension Act, 1873.
+In computing time for the purposes of this Act there shall be excluded every Sunday and every day Avhich is a holiday within the meaning of the Bank Holidays Act, 1871, and the Holidays Extension Act, 1873.
 
 0. Nothing in section twenty-nine of the Trustee Savings Banks Act, 1803, shall require the trustees of any trustee savings bank to ascertain, certify, and pay over annually to the National Debt Commissioners the amount of any increased stock and property, except when they are required so to do by the said Commissioners, and any amount so paid over shall carry interest at the same rate as any other sums standing to the credit of the said trustee saviugs bank.
 
@@ -11078,13 +11078,13 @@ Grants out of the Consolidated Fund.
 
 For the service of the year ending 3lBt March 1881; viz.
 
-Under Act 43 & 44 Vict cap. 3. - - - 4, 925, 320
+Under Act 43 & 44 Vict cap. 3. - 4, 925, 320
 
-Under Act 43 & 44 Vict. cap. 3a - - - 10, 818, 274
+Under Act 43 & 44 Vict. cap. 3a - 10, 818, 274
 
 Under this Act - 13, 614, 207
 
-Total - - - 29, 357, 801
+Total - 29, 357, 801
 
 SCHEDULE (B.) — Part 1.
 
@@ -11100,17 +11100,17 @@ No.
 
 2. For victuals and clothing for seamen and marines -
 
-3. For the expenses of the Admiralty Office - - -
+3. For the expenses of the Admiralty Office -
 
 4. For the expense of the coast guard service, the royal naval reserve,
 
-and seamen and marine pensioners reserve, and royal naval artillery volunteers - - - -
+and seamen and marine pensioners reserve, and royal naval artillery volunteers - -
 
 5. For the expense of the several scientific departments of the navy
 
 6. For the expense of the dockyards and naval yards at home and
 
-abroad - - - - -
+abroad -
 
 7. For the expense of the victualling yards at home and abroad
 
@@ -11128,7 +11128,7 @@ abroad - - - - -
 
 14. For the expense of various miscellaneous services - -
 
-15. For half pay, reserved half pay, and retired pay to officers of the navy and marines - - -
+15. For half pay, reserved half pay, and retired pay to officers of the navy and marines -
 
 f 16. Sect. 1. For military pensions and allowances -
 
@@ -11204,7 +11204,7 @@ Appropriation Act, 1880 (Session 2). 43 & 44 Vict.
 
 4. For the buildings of the Houses of Parliament (including a supple-
 
-mentary sum of 3001.) - - - - -
+mentary sum of 3001.) -
 
 5. For the maintenance and repair of public buildings in Great
 
@@ -11232,7 +11232,7 @@ or offices for the sheriff courts in Scotland, and the expense of maintaining th
 
 11. For the purchase of a site, erection of building, and other expenses
 
-for new courts of justice and offices belonging thereto -11a. For the purchase of the Union Bank Premises in Parliament Square, Edinburgh - - - -
+for new courts of justice and offices belonging thereto -11a. For the purchase of the Union Bank Premises in Parliament Square, Edinburgh - -
 
 12. For the survey of the United Kingdom, including the revision
 
@@ -11252,25 +11252,25 @@ the Trustees of the British Museum, for rents of premises, supply of water, fuel
 
 16. For a grant in aid of the new buildings for the University of
 
-Edinburgh - - -
+Edinburgh -
 
 17. For maintaining certain harbours, &c. under the Board of Trade -
 
 18. For rates and contributions in lieu of rates in respect of Govern-
 
-ment property, and for salaries and expenses of the rating of Government property department - - -
+ment property, and for salaries and expenses of the rating of Government property department -
 
 19. For contribution to the funds for the establishment and main-
 
-tenance of a fire brigade in the metropolis - - -
+tenance of a fire brigade in the metropolis -
 
 20. For erection, repairs, and maintenance of the several public build-
 
-ings under the department of the Commissioners of Public Works in Ireland, and for the erection of fishery piers, and the maintenance of certain parks, harbours, and navigations (including a supplementary sum of 19, 885/.) - - -
+ings under the department of the Commissioners of Public Works in Ireland, and for the erection of fishery piers, and the maintenance of certain parks, harbours, and navigations (including a supplementary sum of 19, 885/.) -
 
 21. For expenses preparatory to the erection of the Museum of Science
 
-and Art in Dublin - - - - - -
+and Art in Dublin - -
 
 22. For works to regulate the flood waters of the River Shannon
 
@@ -11398,7 +11398,7 @@ For salaries and expenses of the office of Her Majesty's Secretary of State for 
 
 For salaries and expenses of the department of Her Majesty's Secretary of State for the Colonies, including certain expenses connected with Emigration ...
 
-For salaries and expenses of the department of Her Majesty's Most Honourable Privy Council and subordinate departments For salaries and expenses of the office of the Lora Privy Seal For salaries and expenses of the office of the Committee of Privy Council for Trade, and subordinate departments For salaries and expenses of the Charity Commission for England and Wales - - - - -
+For salaries and expenses of the department of Her Majesty's Most Honourable Privy Council and subordinate departments For salaries and expenses of the office of the Lora Privy Seal For salaries and expenses of the office of the Committee of Privy Council for Trade, and subordinate departments For salaries and expenses of the Charity Commission for England and Wales -
 
 For salaries and expenses of the Civil Service Commission For salaries and expenses of the office of the Copyhold, Inclosure, and Tithe Commission - .....
 
@@ -11510,7 +11510,7 @@ Majesty's Works and Public Buildings ...
 
 29. For salaries and expenses of the department of the Queen's
 
-and Lord Treasurer's Remembrancer in Exchequer, Scotland, of certain officers in Scotland, and other charges formerly on the hereditary revenue - - - -
+and Lord Treasurer's Remembrancer in Exchequer, Scotland, of certain officers in Scotland, and other charges formerly on the hereditary revenue - -
 
 30. For salaries and expenses of the Fishery Board in Scotland and for
 
@@ -12028,7 +12028,7 @@ including a supplementary sum of 55,0001. ...
 
 For salaries and expenses of the Post Office services, the expenses of Post Office savings banks, and Government annuities and insurances, and the collection of the Post Office revenue
 
-4. For the Post Office packet service - - -
+4. For the Post Office packet service -
 
 5. For salaries and expenses of the Post Office telegraph service
 
@@ -12998,7 +12998,7 @@ lxvii. An Act for incorporating and conferring Powers on the Malton Gas Company.
 
 lxviii. An Act to amend, vary, and extend the Powers of the Caledonian Insurance Company, and for other purposes relating thereto. lyir. An Act to enable tho London, Tilbury, and Southend Railway Company to improve and extend the West Street Pier at Gravesend, and to construct a Wharf at Thames Haven, lxx. An Act to authorise the Wrexham Waterworks Company to make new Service Reservoirs and Filter Beds; to further extend their Limits of Supply; to raise additional Capital; and for other purposes.
 
-Ixxi.An Act to confer further Powers upon the London, Brighton, and South Coast Railway Company.
+lxxi.An Act to confer further Powers upon the London, Brighton, and South Coast Railway Company.
 
 Imrii. An Act to authorise the Wandsworth and Putney Gaslight and Coke Company to raise further Capital; and for other purposes, lxxiii. An Act for empowering the Corporation of the Borough of Stafford to acquire certain rights in Coton Field in the said borough, and to authorise the formation of allotment gardens for the Freemen of the borough, and of public pleasure grounds in Coton Field, and for conferring on the Corporation further powers in relation to their water undertaking and street improvements, and further sanitary and other powers; and for other purposes, lxxiv. An Act for extending the time for making and completing the Mersey Railway.
 
@@ -13778,7 +13778,7 @@ c. 58. Duties and drawbacks on Beer and Repealed 20
 
 Malt, &c.
 
-, c. SO. s. 145., c. 81. ss. 2, 20. in part Spirit Duties - - - ] Repealed 24
+, c. SO. s. 145., c. 81. ss. 2, 20. in part Spirit Duties - ] Repealed 24
 
 7 & 8 Geo. 4. c. 52. -11 Geo. 4. & 1 Will.. 4. c. 17. - 9/ 31., , c. 51. in part. 1 & 2 Will. 4. c. 18. - I Malt Duties - J Repealed 20
 
@@ -13848,7 +13848,7 @@ c. 80. ss. 2, 4. -20 & 21 Vict. c. 28. s. 2. j- Income Tax, &c. - Repealed 19
 
 23 & 24 Vict. c. 59. -! Universities and College Estates Amended 46
 
-e. 113. in part Malt Duty - - - Repealed 20
+e. 113. in part Malt Duty - Repealed 20
 
 c. 114. - Malt Duty and Excise Regulations Repealed 20 and 24
 
@@ -13864,7 +13864,7 @@ c. 91. in part - Inland Revenue - Repealed 19, 20, and 24. 19 and 20
 
 c. 63. - Merchant Shipping ... Amended 22
 
-c. 103. - Union Assessment - - - Amended 7
+c. 103. - Union Assessment - Amended 7
 
 26 & 27 Vict. c. 3. - Malt Duty - Repealed 20
 
@@ -13888,7 +13888,7 @@ c. 88. - Drainage and Improvement of Lands Amended 27
 
 (Ireland).
 
-27 & 28 Vict. c. 9. - Malt Duty - - - . - Repealed 20
+27 & 28 Vict. c. 9. - Malt Duty - . - Repealed 20
 
 c. 12. in part Warehousing of British Spirits . Repealed 24
 
@@ -13902,7 +13902,7 @@ c. 121. - Railways Construction Facilities - Amended 31 .
 
 , o. 48. - Courts of Justice Building - - Amended 29
 
-c. 66. _ - Malt Duty - - - - Repealed 20
+c. 66. _ - Malt Duty - - Repealed 20
 
 c. 96. in part, c. 98. in part j- Spirit Duties - Repealed 24
 

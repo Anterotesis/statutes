@@ -2206,7 +2206,7 @@ committed to Confinement Day of as a
 
 Regiment of
 
-Age - - -
+Age -
 
 Height .... Feet. Inches.
 
@@ -3740,7 +3740,7 @@ Names of the Rate-payers. Residence. Under Rate dated the 1849. Arrears due unde
 
 A.B. (here state it) 1 7 0 1 7 0 2 14 0
 
-I.K. - 0 13 0 - - - 0 13 0
+I.K. - 0 13 0 - 0 13 0
 
 L.M. - 0 18 6 0 18 6
 
@@ -3800,7 +3800,7 @@ Clerk to the Justices -
 
 Overseer [or Surveyor], for obtaining the Summons -
 
-Constable, for serving ditto - - - 1 0
+Constable, for serving ditto - 1 0
 
 Ditto, travelling Expenses at Three-pence per Mile -
 
@@ -3902,7 +3902,7 @@ A.B. - (here state it) £ S. d. 1 7 0 £ S. d. 1 7 0 £ s. d.\ 0 6 0 \£ t 3 0 0
 
 I.K. - - 0 13 0 0 2 0 0 IS 0
 
-L.M. - - - 0 18 6 0 3 0 116
+L.M. - 0 18 6 0 3 0 116
 
 N.P. - - 0 14 3 0 14 3 0 5 0 1 13 6
 
@@ -4800,7 +4800,7 @@ For any Cart used by any Person for the like Purpose, for each Market Day or oth
 
 If drawn by One Horse or other Animal,
 
-the Sum of - - - 0 0 9
+the Sum of - 0 0 9
 
 If drawn by Two or more Horses or other Animals, the Sum of - - 0 10
 
@@ -4840,7 +4840,7 @@ Goog
 
 Cap. 28. Greenwich Markets Regulation. 12 & 13 VICT.
 
-From any Person exposing for Sale any Article, Matter, or Thing not nerein specifically charged, and not occupying any Stall, Bulk, Block, Tressel, or Station, nor any defined Compartment or Space on the Surface of the Ground:— If the Spot on which such Person shall stand be within the covered Market:— £ 8. d.
+From any Person exposing for Sale any Article, Matter, or Thing not herein specifically charged, and not occupying any Stall, Bulk, Block, Tressel, or Station, nor any defined Compartment or Space on the Surface of the Ground:— If the Spot on which such Person shall stand be within the covered Market:— £ 8. d.
 
 For any Basket, Hamper, Parcel, or Quantity of such Article, Matter, or Thing, for each Market Day or other Day, the Sum of -If the Spot be not situate within the covered Market o o li
 
@@ -4854,7 +4854,7 @@ the Sum of - For every Head of Swine, the Sum of For Poultry and Game, including
 
 Not more than Half a Dozen, the Sum of For each additional Half Dozen, the 0 0 1
 
-Sum of - - - 0 0 1
+Sum of - 0 0 1
 
 Weighing or Measuring. For every Hide, the Sum of For every Lot of Tallow, the Sum of For every Flitch of Bacon, the Sum of For every Skin, the Sum of - For every Sheep, Lamb, or Calf, the Sum of - For every Bull, Ox, Steer, Cow, or Heifer, the o o o o o O O O O O
 
@@ -4962,7 +4962,7 @@ No Ship British unless registered and navigated as such.
 
 IV. And be it enacted, That no Goods or Passengers shall be carried from one Part of any British Possession in Asia, Africa, or America to another Part of the same Possession, except in British Ships.
 
-V. 'Provided always, and be it enacted, That if the Legist latnre or proper legislative Authority of any such British Possession shall present an Address to Her Majesty, praying Her Majesty to authorize or permit the Conveyance of Goals or Passengers from one Part of such Possession to another Part thereof in other than British Ships, or if the Legislatures of any Two or more Possessions, which for the Purposes of this Act Her Majesty in Council shall declare to be neighbouring Possessions, shall present Addresses or a joint Address to Her Majesty, praying Her Majesty to place the Trade between them on the Footing of a Coasting Trade, or of otherwise regulating the same, so far as relates to the Vessels in which it is to be carried on, it shall thereupon be lawful for Her Majesty, by Order in Council, so to authorize the Conveyance of such Goods or Passengers, or so to regulate the Trade between such neighbouring Possessions, as the Case may be, in such Terms and under such Conditions, in either Case, as to Her Majesty may seem good.
+V. 'Provided always, and be it enacted, That if the Legist lature or proper legislative Authority of any such British Possession shall present an Address to Her Majesty, praying Her Majesty to authorize or permit the Conveyance of Goals or Passengers from one Part of such Possession to another Part thereof in other than British Ships, or if the Legislatures of any Two or more Possessions, which for the Purposes of this Act Her Majesty in Council shall declare to be neighbouring Possessions, shall present Addresses or a joint Address to Her Majesty, praying Her Majesty to place the Trade between them on the Footing of a Coasting Trade, or of otherwise regulating the same, so far as relates to the Vessels in which it is to be carried on, it shall thereupon be lawful for Her Majesty, by Order in Council, so to authorize the Conveyance of such Goods or Passengers, or so to regulate the Trade between such neighbouring Possessions, as the Case may be, in such Terms and under such Conditions, in either Case, as to Her Majesty may seem good.
 
 VL And with regard to the Coasting Trade of India, be it enacted, That it shall be lawful for the Governor General of India in Council to make any Regulations authorizing or permitting the Conveyance of Goods or Passengers from one Part of the Possessions of the East India Company to another Part thereof in other than British Ships, subject to such Restrictions or Regulations as he may think necessary; and such Regulations shall be of equal Force and Effect with any Laws and Regulations which the said Governor General in Council is now or may hereafter be authorized to make, and shall be subject to Disallowance and Repeal in like Manner as any other Laws or Regulations made by the said Governor General in Council under the Laws from Time to Time in force for the Government of the British Territories in India, and shall be transmitted to England, and be laid before both Houses of Parliament, in the same Manner as any other Laws or Regulations whibh the Governor General in Council is now or may hereafter be empowered to make.
 
@@ -5088,7 +5088,7 @@ And on the Back of such Certificate of Registry there shall be an Account of the
 
 Names of the several Owners within mentioned. Number of Sixty-fourth Shares held by each Owner.
 
-Name Name - - - Thirty-two. Sixteen.
+Name Name - Thirty-two. Sixteen.
 
 Name Eight
 
@@ -5610,7 +5610,7 @@ XXVHL And be it enacted, That in every “ Passenger Ship ” there shall be fur
 
 XXIX. And be it enacted, That, except as herein-after
 
-Erovided, no "Passenger Ship” shall clear out or proceed oh cr Voyage until some Medical Practitioner, to be appointed by the Emigration Officer at the Port of Clearance, shall have in-
+Provided, no "Passenger Ship” shall clear out or proceed oh cr Voyage until some Medical Practitioner, to be appointed by the Emigration Officer at the Port of Clearance, shall have in-
 
 Ked the Medicine Chest of the said Ship, and also all the rngers about to proceed in her, and shall certify to the said Emigration Officer that the said Ship contains a sufficient Supply of Medicines, disinfecting Fluid or Agent, Instruments, and other Things requisite for the Medical Treatment of the Passengers during the intended Voyage, and that none of the Passengers appear to euch Medical Practitioner likely, by reason of being
 
@@ -5784,7 +5784,7 @@ annexed, which Licence shall continue and be In force until the Thirty-first Day
 
 in place of to such Justices of the Peace as aforesaid, the Forms given in the said Schedule shall still be adhered to with such Alterations as may be necessary.
 
-Licences taken XL YI. And be it enacted, That every Licence to carry on anceo/firT" the Business of a Passenger Broker or Passage Dealer that may recited Act, " have been taken out in pursuance of the Provisions of the first-uniess forfeited, mentioned Act, herein-before repealed, shall, unless adjudged to forw^tSVst footed, as herein-before mentioned, continue and be in February 1850. force until the First Day of February One thousand eight hundred and fifty, but no longer, and that all Acts that may be done under and by virtue of any such Licence while in force shall be as valid and effectual as if done under and by virtue of any Licence granted in pursuance of the Provisions of this Act, anything herein-before contained to the contrary notwithstanding.
+Licences taken XL YI. And be it enacted, That every Licence to carry on anceo/firT" the Business of a Passenger Broker or Passage Dealer that may recited Act," have been taken out in pursuance of the Provisions of the first-uniess forfeited, mentioned Act, herein-before repealed, shall, unless adjudged to forw^tSVst footed, as herein-before mentioned, continue and be in February 1850. force until the First Day of February One thousand eight hundred and fifty, but no longer, and that all Acts that may be done under and by virtue of any such Licence while in force shall be as valid and effectual as if done under and by virtue of any Licence granted in pursuance of the Provisions of this Act, anything herein-before contained to the contrary notwithstanding.
 
 Contract Tick- XLYIL And be it enacted, That if any Owner, Charterer, in*re*pec?of*n or ^aster a Ship, or any Passage Broker or Passage Dealer, Passage to Agent, or other Person, shall receive any Money from any North America. Person for or in respect of a Passage or intended Passage from the United Kingdom to any Port or Place in the Person so receiving such Money shall give to the Party
 
@@ -6636,7 +6636,7 @@ County Cess (Ireland).
 
 Cap. 36. 233
 
-Person or Persons upon Oath relating to the same, which Oath any such Justice shall be empowered to administer, such Justices and Cess-payers shall determine and ascertain the Amount of the Sums which such High Constable or Collector shall have received or without Neglect or wilful Default might have received and collected of the Amount of the Grand Jury Cess required to be collected by him since the then last Assizes, and shall cause the Chairman of such Special Sessions to certify under his Hand the Amount thereof which without Neglect or wilful Default might have been so collected, and also the Amount actually collected, together with a List of the Persons and Lands, from whom or which such Cess has not been collected, and also a List of the Persons and Lands, if any, from whom or which the same might have been so collected and lias not been collected; and Certificate and such Certificate and Lists shall by the Secretary of the Grand before Gran^ Jury be laid before the Grand Jury at the then next Assizes, jury, and if who shall take the same into their Consideration; and if they approved and shall pass a Resolution approving of such Certificate, or approv- ^CoUeetor ing thereof subject to any Modification, and if such High Con- to be entitled stable or Collector shall duly pay or shall have paid over to the to.Poundage, respective Treasurer of the County the whole Amount which it shall appear by such Certificate, so approved or modified, might without Neglect or wilful Default have been collected, such High Constable or Collector in such Case shall receive and be paid his Poundage as in the said first-recited Act, or any Act amending the same, and this Act, provided, upon the Amount so collected and *d over to the Treasurer.
+Person or Persons upon Oath relating to the same, which Oath any such Justice shall be empowered to administer, such Justices and Cess-payers shall determine and ascertain the Amount of the Sums which such High Constable or Collector shall have received or without Neglect or wilful Default might have received and collected of the Amount of the Grand Jury Cess required to be collected by him since the then last Assizes, and shall cause the Chairman of such Special Sessions to certify under his Hand the Amount thereof which without Neglect or wilful Default might have been so collected, and also the Amount actually collected, together with a List of the Persons and Lands, from whom or which such Cess has not been collected, and also a List of the Persons and Lands, if any, from whom or which the same might have been so collected and lias not been collected; and Certificate and such Certificate and Lists shall by the Secretary of the Grand before Gran^ Jury be laid before the Grand Jury at the then next Assizes, jury, and if who shall take the same into their Consideration; and if they approved and shall pass a Resolution approving of such Certificate, or approv- ^Collector ing thereof subject to any Modification, and if such High Con- to be entitled stable or Collector shall duly pay or shall have paid over to the to.Poundage, respective Treasurer of the County the whole Amount which it shall appear by such Certificate, so approved or modified, might without Neglect or wilful Default have been collected, such High Constable or Collector in such Case shall receive and be paid his Poundage as in the said first-recited Act, or any Act amending the same, and this Act, provided, upon the Amount so collected and *d over to the Treasurer.
 
 HL Provi always, and be it enacted, That as regards Provision for any such County or Barony specified in such Order as aforesaid, where a Collector has not yet been appointed for any Barony mny County or to collect the County Cess payable before the Summer Assizes Barony «p«-of this Year, in such Case, at any Time previous to the Summer Assizes* of this Year, the Appointment of any such High Con- the Summer stable or Collector may be made for such Barony by the Trea- Ami*e« of this surer of such respective County, and such Security as aforesaid Y*r* may be given before such Treasurer, and such Appointment and Security so made and given shall be as valid and effectual to all Intents and Purposes, and subject to like Provisions and Powers, as if such High Constable or Collector had been duly appointed by the Grand Jury or any Quarter Sessions or Special Sessions, and such Security had been duly given in the Manner in the said recited Act or any Act amending the same directed: Provided always, that in such last-mentioned Case the Examination of the Accounts, Books, and Vouchers of the High Constable or Collector, instead of being held and had before a Special Session as herein-before provided, shall be held and had before any Three Members of the Grand Jury of such County at the said Summer Assizes, in like Manner and with like Powers, who may grant a like Certificate, which shall be laid before the said Grand Jury and shall be dealt with in like Manner and deemed and taken as if the same had been made and given at a Special Session as herein-before mentioned.
 
@@ -9258,7 +9258,7 @@ balancing such Accounts as aforesaid, and as to the Monies or Proportion of Moni
 
 XII. And be it enacted, That such Auditor or Auditors shall on the Completion of every half-yearly Audit, and so long as any Monies advanced to the said Railway Company as aforesaid shall remain unpaid, ascertain and determine whether the said Railway Company have, by themselves or otherwise, for the preceding Half Year made such half-yearly Payments as by virtue of the Security or Securities for any such Loan or Loans they shall be liable to pay, and also after the said Railway from Athlone to Galway, or any Part thereof, shall have been completed and open to the Public, (from a Profit and Loss Account of the Income and Expenditure of the said Railway from Athlone to Galway,) ascertain and determine the Amount, if any, of Profit which shall appear on such Account to have been made during such Half Year.
 
-XJlI. And be it enacted, That when such Auditor or Auditors shall find that the said Railway Company have made such Payments as aforesaid for the preceding Half Year; and not before, then he or they shall by a Certificate under his or their Hand or Hands certify the same, and also the Amount of Profit (if any) , after the said Railway between Athlone and Galway, or any Part thereof, shall have been opened, appearing on such Account as aforesaid, and (after deducting such Profit (if any) from the Amount of the said half-yearly Payments of One Pound Fifteen Shillings per Centum secured to be paid by such Baronies and Half Baronies and County of the Town of Galway as aforesaid) the said Auditor or Auditors shall in such Certificate ascertain and state the Balance remaining to be paid to make up* such half-yearly Payments of One Pound Fifteen Shillings per Centum as aforesaid, and the proportionate Part of such Balance which is to be raised and levied in each such Barony and Half Barony and County of the Town of Galway, such proportionate Parts to be ascertained and determined according to the several Proportions to be specified and set forth in the herein-before mentioned Award: Provided nevertheless, that after the said Railway between Athlone and Galway, or any Part thereof, shall have been completed and opened to the Public, and when and so often as the Profit on such Account as aforesaid shall equal or exceed the said half-yearly Payments of One Pound Fifteen Shillings per Centum, secured to be paid by such Baronies and Half Baronies and County of the Town of Galway, then such Auditor or Auditors shall state the same in such Certificate, and that consequently for such Half Year no Payment is to be made in respect of such half-yearly Payments secured to be made by the said Baronies and Half Baronies and County of the Town of Galway, and every such Certificate shall be final and binding on all Parties.
+XIII. And be it enacted, That when such Auditor or Auditors shall find that the said Railway Company have made such Payments as aforesaid for the preceding Half Year; and not before, then he or they shall by a Certificate under his or their Hand or Hands certify the same, and also the Amount of Profit (if any) , after the said Railway between Athlone and Galway, or any Part thereof, shall have been opened, appearing on such Account as aforesaid, and (after deducting such Profit (if any) from the Amount of the said half-yearly Payments of One Pound Fifteen Shillings per Centum secured to be paid by such Baronies and Half Baronies and County of the Town of Galway as aforesaid) the said Auditor or Auditors shall in such Certificate ascertain and state the Balance remaining to be paid to make up* such half-yearly Payments of One Pound Fifteen Shillings per Centum as aforesaid, and the proportionate Part of such Balance which is to be raised and levied in each such Barony and Half Barony and County of the Town of Galway, such proportionate Parts to be ascertained and determined according to the several Proportions to be specified and set forth in the herein-before mentioned Award: Provided nevertheless, that after the said Railway between Athlone and Galway, or any Part thereof, shall have been completed and opened to the Public, and when and so often as the Profit on such Account as aforesaid shall equal or exceed the said half-yearly Payments of One Pound Fifteen Shillings per Centum, secured to be paid by such Baronies and Half Baronies and County of the Town of Galway, then such Auditor or Auditors shall state the same in such Certificate, and that consequently for such Half Year no Payment is to be made in respect of such half-yearly Payments secured to be made by the said Baronies and Half Baronies and County of the Town of Galway, and every such Certificate shall be final and binding on all Parties.
 
 Auditor shall, on Completion of each Audit, ascertain if Company have made Payments as by Security for Loans they are liable to, and also Amount of Profits.
 
@@ -13472,15 +13472,15 @@ Circular Letters or Advertisements (no separate Charge being made for writing th
 
 2. For attending General Meetings at which the
 
-Statutory Quorum of Lieutenancy shall be present, each - - -550
+Statutory Quorum of Lieutenancy shall be present, each -550
 
-For each Meeting which shall be necessarily adjourned by the Clerk in consequence of the Absence of the Lord Lieutenant or Deputy Lieutenants - - - 1 11 6
+For each Meeting which shall be necessarily adjourned by the Clerk in consequence of the Absence of the Lord Lieutenant or Deputy Lieutenants - 1 11 6
 
 Which Allowances are to be in full for engrossing Minutes, &c.
 
 3. For filling up printed Precepts to the High or
 
-Chief Constable of each Subdivision, Hundred, Lathe, Rape, or Wapentake in England and Wales, including the Tower Hamlets, and the Stannaries of Cornwall and Devon, to return Lists, each - - - 0 0 6
+Chief Constable of each Subdivision, Hundred, Lathe, Rape, or Wapentake in England and Wales, including the Tower Hamlets, and the Stannaries of Cornwall and Devon, to return Lists, each - 0 0 6
 
 [No. 30. Price 2d.j G g
 
@@ -13504,7 +13504,7 @@ Abstracts thereof, Schedule (DA for the Privy Council, the Secretary of State, a
 
 In Counties furnishing a Quota of 200 Men or under in the original Number of the Militia - -
 
-In Counties furnishing from 201 to 400 Men - - - -
+In Counties furnishing from 201 to 400 Men - -
 
 Ditto - - from 401 to 600
 
@@ -13512,7 +13512,7 @@ Men -
 
 Ditto - - from 601 to 800
 
-Men - - - -
+Men - -
 
 Ditto - - from 801 Men
 
@@ -13524,11 +13524,11 @@ In Counties furnishing a Quota of 200 Men or under ..
 
 Ditto - - from 201 to 400
 
-Men - - - - -
+Men -
 
 Ditto - - from 401 to 600
 
-Men - - - -
+Men - -
 
 Ditto - - from 601 to 800
 
@@ -13582,7 +13582,7 @@ Rank of the Officers, and the Number of the Non-commissioned Officers, Drummers,
 
 In Counties furnishing One Regiment *
 
-' Battalion, or Corps - - - 0 15 0
+' Battalion, or Corps - 0 15 0
 
 Ditto - Two # Ditto - 1 10 0
 
@@ -13604,7 +13604,7 @@ Ditto from 601 to 900 Men - 4 0 0
 
 Ditto - from 901 Men and
 
-(- upwards - - - *
+(- upwards - *
 
 10. For Copyings, Correspondence, &c. &c.:
 
@@ -13612,7 +13612,7 @@ To the Clerk of the General Meetings in a County where the Number of the origina
 
 In a County furnishing from 201 to 400 Men - Ditto - - from 401 to 600
 
-Men - - -
+Men -
 
 Ditto «• - from 601 to 800
 
@@ -13652,13 +13652,13 @@ Training and Exercise.
 
 12. For filling up printed Notices to the Clerks of £ s. I
 
-Subdivision Meetings of the Time and Place fixed by the Lord Lieutenant or Deputy Lieutenants for assembling the Militia to be trained and exercised, each Notice - - - - -008
+Subdivision Meetings of the Time and Place fixed by the Lord Lieutenant or Deputy Lieutenants for assembling the Militia to be trained and exercised, each Notice - - -008
 
 13. For making out correct Abstracts from the
 
-Adjutant’s or other Commanding Officer’s Returns, Schedule (F.) , in the Form Sche- dule (G.) , for Her Majesty’s Secretary of State for the Home Department in Counties in England and Scotland furnishing a Quota towards the Formation of an entire Regiment or Battalion - - - 1 0 0
+Adjutant’s or other Commanding Officer’s Returns, Schedule (F.) , in the Form Sche- dule (G.) , for Her Majesty’s Secretary of State for the Home Department in Counties in England and Scotland furnishing a Quota towards the Formation of an entire Regiment or Battalion - 1 0 0
 
-In Counties in England, Wales, and Scotland furnishing One Regiment, Battalion, or Corps - - - 2 0 0
+In Counties in England, Wales, and Scotland furnishing One Regiment, Battalion, or Corps - 2 0 0
 
 Ditto - Two Ditto - 3 0 0
 
@@ -13668,7 +13668,7 @@ ALLOWANCES to CLERKS of SUBDIVISION MEETINGS.
 
 14. For Trouble in calling a Subdivision Meeting
 
-by Advertisement, no separate Charge being made for writing Letters or framing Advertisement - - - - 0 5 0
+by Advertisement, no separate Charge being made for writing Letters or framing Advertisement - - 0 5 0
 
 Or for calling a Meeting by Circular Letters to the Deputy Lieutenants, the Adjutant, or other Commanding Officer, (no Charge being made for the Draft,) for each Letter - 0 1 0
 
@@ -13722,7 +13722,7 @@ Ditto from 51 to 150 Men Ditto from 151 to 250 Men Ditto from 251 Men and upward
 
 19. For making out fair and true Copies of Lists of Men enrolled for each Subdivision of a County in Great Britain, including the Tower Hamlets and the Stannaries of Cornwall and Devon, for the Use of the Clerk of General Meetings, Schedule (E.) , and the Colonel or Commandant of the Regiment of the County; (videlicet,
 
-For a Roll containing 50 Names and under - - - 0 5 0
+For a Roll containing 50 Names and under - 0 5 0
 
 Ditto from 51 to 150 Names - 0 10 0
 
@@ -13738,7 +13738,7 @@ nishing Men towards the Quota of a County in the following Proportions; (videlic
 
 For a Subdivision furnishing 50 Men and
 
-under - - - 1 10 0
+under - 1 10 0
 
 Ditto from 51 to 150 Men 2 0 0;
 
@@ -13754,13 +13754,13 @@ the Clerk of a Subdivision furnishing Men towards the Quota of a County in the f
 
 For a Subdivision furnishing 50 Men and
 
-under - - - - 2 0 0
+under - - 2 0 0
 
 Ditto from 51 to 150 Men 3 0 0
 
 Ditto from 151 to 250 Men 4 0 0
 
-Ditto from 251 Men and upwards - - - 5 0 0
+Ditto from 251 Men and upwards - 5 0 0
 
 22. The actual Amount expended for printing and
 
@@ -13822,7 +13822,7 @@ Ditto from 100 upwards 0 10 0
 
 For a Boll containing 20 Names and
 
-under - - - - 0 2 0
+under - - 0 2 0
 
 Ditto from 21 to 50 Names 0 5 0
 
@@ -13834,7 +13834,7 @@ Ditto from 251 and upwards 10 0
 
 26. For correcting the Books of Enrolment of the Subdivision so as to correspond accurately with the Extracts from the Adjutant’s or other Commanding Officer’s Return, Schedule (F.) , of the state of the Classes of the Men forming the Quota or Apportionment serving in the Regiment, Battalion, or Corps of Militia of any County, Stewartry, City, or Place in Great Britain:
 
-For a Subdivision furnishing 50 Men and under - - - - 0 5 0
+For a Subdivision furnishing 50 Men and under - - 0 5 0
 
 Ditto from 51 to 150 Men - 0 10 O
 
@@ -13854,19 +13854,19 @@ ALLOWANCES to SCHOOLMASTERS in SCOTLAND.
 
 27. For filling up and delivering Notices to House- £ s. <L
 
-holders, for each Day consisting of Eight Hours - - - 0 5 0
+holders, for each Day consisting of Eight Hours - 0 5 0
 
 28. For making out Lists, for each Folio consisting
 
-of Sixty Lines - - - 0 1 0
+of Sixty Lines - 0 1 0
 
 29. For attending Meetings of Lieutenancy, each
 
-Meeting - - - - - 0 10 0
+Meeting - - - 0 10 0
 
 30. For filling up and delivering Notices to balloted
 
-Men, per Day - - - - 0 5 0
+Men, per Day - - 0 5 0
 
 31. For Stationery, per Annum - - 0 5 0
 
@@ -13874,15 +13874,15 @@ ALLOWANCES to CONSTABLES in SCOTLAND.
 
 32. For filling up and delivering Notices to House-
 
-holders, for each Day consisting of Eight Hours - - - - 0 4 0
+holders, for each Day consisting of Eight Hours - - 0 4 0
 
 33. For making out Lists, for each Folio consisting
 
-of Sixty Lines - - -010
+of Sixty Lines -010
 
 34. For attending each Meeting of Lieutenancy, per
 
-Day - - - - - 040
+Day - - - 040
 
 35. For filling up and delivering Notices to balloted
 
@@ -15782,7 +15782,7 @@ fi44 Cap. 87, 88. Turnpike Acts Continuance. 12 & 13 VICT.
 
 7&8G.4.C xiii. An Act passed in the Eighth Year of King George the Fourth, intituled “ An Act for more effectually repairing and w maintaining the Road from Foxlepr Hatch in the Parish “ of Croydon into the Town of Reigate in the County of “ Surrey.”
 
-7&8G.4.c.l&iii. An Act passed in the Eighth Year of the Reign of King George the Fourth, intituled “An Act for more effectually “ repairing the Road from Rochdale, through Bamford and “ Birtle, to Bury, and several other Roads therein mentioned, " all in the County Palatine of Lancaster.”
+7&8G.4.c.l&iii. An Act passed in the Eighth Year of the Reign of King George the Fourth, intituled “An Act for more effectually “ repairing the Road from Rochdale, through Bamford and “ Birtle, to Bury, and several other Roads therein mentioned," all in the County Palatine of Lancaster.”
 
 55G.3.c.xc. An Act passed in the Fifty-fifth Year of the Reign of King George the Third, intituled “ An Act for continuing and amending an Act of His present Majesty, for repairing several Roads “ leading from Shenfield to Harwich and Rocbford and other “ Places in the County of Essex, and for extending the said “ Act to the Road from Great Hallingbury to Hockerill in the “ County of Hertford.”
 
@@ -16268,7 +16268,7 @@ A Table of Fees referred to in the foregoing Act.
 
 In Cases summarily disposed of by One Justice. Convening Justices in One or more Detention Cases £ s.
 
-on the same Day - - - - 0 2
+on the same Day - - 0 2
 
 Attendance in each Case of Detention for the same Offence:
 
@@ -16282,7 +16282,7 @@ In Cases of Detention and Remand.
 
 Convening Justice in One or more Detention Cases
 
-on the same Day - - - 0 2
+on the same Day - 0 2
 
 Taking Information of Officer to ground Warrant of Detention against One or more Persons for the same Offence, and Oath - 0 2
 
@@ -16292,7 +16292,7 @@ For each additional Defendant 0 0
 
 Convening Justice to hear One or more Cases on
 
-same Day - - - - 0 5
+same Day - - 0 5
 
 For every Summons to Witnesses when required - 0 2
 
@@ -16346,33 +16346,33 @@ Recording Conviction or Acquittal n ' - 0 2 6
 
 Warrant of Commitment, and Copy for Revenue
 
-Solicitor - - - - 040
+Solicitor - - 040
 
 Drawing and engrossing Conviction on Parchment to file, and transmitting same to Clerk of Peace - 0 6 0
 
 In Cases where the Parties are proceeded against by Summons.
 
-Convening Justices to receive Information in One or more Cases for same Day when required by Complainant - - - - 0 2 6
+Convening Justices to receive Information in One or more Cases for same Day when required by Complainant - - 0 2 6
 
 For each Information exhibited - - 0 2 6
 
-Summons for Defendant’s Appearance, and Duplicate - - - - -030
+Summons for Defendant’s Appearance, and Duplicate - - -030
 
 Convening Justices in One or more Cases on same Day, when required by Complainant - - 0 5 0
 
-Each Summons for Witnesses (when required) , and Duplicate - - - 0 2 0
+Each Summons for Witnesses (when required) , and Duplicate - 0 2 0
 
 For each Witness examined, where Examination does not exceed Two Folios, and Oath - 0 1 0
 
 For every additional Folio after the Two first - 0 0 8
 
-Taking Statement of* Party accused, when in Writing - - - - - 010
+Taking Statement of* Party accused, when in Writing - - - 010
 
 Recording Conviction or Acquittal - - 0 2 6
 
 Warrant of Commitment, and Copy for Revenue
 
-Solicitor - - - - - 040
+Solicitor - - - 040
 
 Drawing and engrossing Conviction on Parchment to file, and transmitting same to Clerk of Peace 0 6 0
 
@@ -16382,9 +16382,9 @@ In Cases where Parties are brought before Justices for Offences determinable at 
 
 Convening Justices when required - - 0 2 6
 
-Information and Oath to ground Warrant or Summons - - - 0 2 6
+Information and Oath to ground Warrant or Summons - 0 2 6
 
-Summons to compel Party’s Appearance, and Duplicate - - - - -030
+Summons to compel Party’s Appearance, and Duplicate - - -030
 
 Warrant for Apprehension of Offender - - 0 3 0
 
@@ -16392,13 +16392,13 @@ Taking Depositions of Witnesses, per Folio - -008
 
 Copies ditto for Revenue Solicitor when required,
 
-Wper Folio - - - - -004
+Wper Folio - - -004
 
-arrant of Commitment - - - - O 2 6
+arrant of Commitment - - O 2 6
 
 Recognizance to prosecute and give Evidence -026 Recognizance to give Evidence, whatever the Number of Witnesses included therein - -026
 
-For each Notice of Recognizance to prosecute or give Evidence - - - - O 1 0
+For each Notice of Recognizance to prosecute or give Evidence - - O 1 0
 
 1849.
 
@@ -16468,7 +16468,7 @@ III. And be it enacted, That upon the Death, Resignation, or Removal of any Coll
 
 Upon IV. And be it enacted, That if any Person, having resigned
 
-CoUector^Gene- or ^ving been removed from the Office of Collector General, ral HU Succes- shall neglect, within Twenty-one Days after Notice for such sor may sue for Purpose, to account for and pay to any succeeding Collector remaining^a General all such Sums of Money as shall remain in his Hands his Hands. applicable to the Purposes of this Act, it shall be lawful for the Collector General for the Time being, in his own proper Name only, or by his Name and Description of Office, to sue for and recover the same from such Person, with Costs of Suit, in any of Her Majesty’s Courts of Record at Dublin, by Action of
+Collector^Gene- or ^ving been removed from the Office of Collector General, ral HU Succes- shall neglect, within Twenty-one Days after Notice for such sor may sue for Purpose, to account for and pay to any succeeding Collector remaining^a General all such Sums of Money as shall remain in his Hands his Hands. applicable to the Purposes of this Act, it shall be lawful for the Collector General for the Time being, in his own proper Name only, or by his Name and Description of Office, to sue for and recover the same from such Person, with Costs of Suit, in any of Her Majesty’s Courts of Record at Dublin, by Action of
 
 Debt,
 
@@ -18434,7 +18434,7 @@ R r 3 Cesses
 
 Cesses within the Borough of Dublin, and such Applications shall be made in like Form as the same are now authorized to be made iu Cases of Applications for Presentments; and immediately after the Day so fixed for receiving such Applications the Council shall proceed to investigate such Applications, and decide upon them at an open Meeting of the said Council, or of a Committee thereof authorized in that Behalf.
 
-Schedule of XLIII. And be it enacted, That a Schedule of such Appli-Appiications to cations as may be agreed to with respect to the said Grand clerk of Crown Jury Cess shall be made out by the Town Clerk, who shall and Clerk of lodge the same, Two clear Days before the First Day of Hilary the Peace. Term in the Year One thousand eight hundred and fifty-one, and Two clear Days before the First Day of Michaelmas Term in the said Year One thousand eight hundred and fifty-one, and Two clear Days before the First Day of Michaelmas Term in every succeeding Year, with the Clerk of the Crown of the Court Y)f Queen’s Bench; and a Schedule of such Applications as may be agreed to with respect to the said Sessions Grand Jury Cess shall be made by the said Town Clerk, who shall lodge the same, Two clear Days before the First Day of the January Quarter Sessions of the Peace held for the City of Dublin in the Year One thousand eight hundred and fifty-one, and Two clear Days before the First Day of the October Quarter Sessions of the Peace held for the City of Dublin in the said Year One thousand eight hundred and fifty-one, and Two clear Days before the First Day of the October Quarter Sessions in every succeeding Year, with the Clerk of the Peace for the City of Dublin; and thereupon it shall be lawful for the said Court of Queen’s Bench, or any Judge of the said Court, and the Recorder of the City of Dublin respectively, to fix Days for the Consideration of the said Presentments, and on such Days at least Twenty Members of the said Council shall attend the said Court or Judge or Recorder respectively, and the said Court or Judge or Recorder respectively, after hearing all Parties affected by or interested in such Presentments, shall make such Orders therein, and shall allow or disallow the same or any of them, or any Portions thereof, as to the said Court or Judge or Recorder respectively shall seem fit, and shall fiat the same or any Portions thereof, according as the same shall be allowed, either by the full Court or by One of the Judges thereof or the Presentments Recorder respectively: Provided always, that it shall be lawful made by Town for any Rate-payer to traverse any Presentment made by the traverscd.may bC Councillor to object to the same being fiated, and such Traverse or Objection shall be heard and determined by the said Court or Judge or Recorder respectively on a Day to be fixed for considering and fiating the same; and it shall be lawful for the said Court of Queen’s Bench and Recorder respectively to make Orders from Time to Time to regulate the Reception of the said Traverses, and the Mode of Procedure thereupon, and to order Juries to be impannelled for the Trial thereof, as they are now in such Cases authorized: Provided also, that in case Twenty Members- of the said Council shall
+Schedule of XLIII. And be it enacted, That a Schedule of such Appli-Appiications to cations as may be agreed to with respect to the said Grand clerk of Crown Jury Cess shall be made out by the Town Clerk, who shall and Clerk of lodge the same, Two clear Days before the First Day of Hilary the Peace. Term in the Year One thousand eight hundred and fifty-one, and Two clear Days before the First Day of Michaelmas Term in the said Year One thousand eight hundred and fifty-one, and Two clear Days before the First Day of Michaelmas Term in every succeeding Year, with the Clerk of the Crown of the Court Y)f Queen’s Bench; and a Schedule of such Applications as may be agreed to with respect to the said Sessions Grand Jury Cess shall be made by the said Town Clerk, who shall lodge the same, Two clear Days before the First Day of the January Quarter Sessions of the Peace held for the City of Dublin in the Year One thousand eight hundred and fifty-one, and Two clear Days before the First Day of the October Quarter Sessions of the Peace held for the City of Dublin in the said Year One thousand eight hundred and fifty-one, and Two clear Days before the First Day of the October Quarter Sessions in every succeeding Year, with the Clerk of the Peace for the City of Dublin; and thereupon it shall be lawful for the said Court of Queen’s Bench, or any Judge of the said Court, and the Recorder of the City of Dublin respectively, to fix Days for the Consideration of the said Presentments, and on such Days at least Twenty Members of the said Council shall attend the said Court or Judge or Recorder respectively, and the said Court or Judge or Recorder respectively, after hearing all Parties affected by or interested in such Presentments, shall make such Orders therein, and shall allow or disallow the same or any of them, or any Portions thereof, as to the said Court or Judge or Recorder respectively shall seem fit, and shall fiat the same or any Portions thereof, according as the same shall be allowed, either by the full Court or by One of the Judges thereof or the Presentments Recorder respectively: Provided always, that it shall be lawful made by Town for any Rate-payer to traverse any Presentment made by the traversed.may bC Councillor to object to the same being fiated, and such Traverse or Objection shall be heard and determined by the said Court or Judge or Recorder respectively on a Day to be fixed for considering and fiating the same; and it shall be lawful for the said Court of Queen’s Bench and Recorder respectively to make Orders from Time to Time to regulate the Reception of the said Traverses, and the Mode of Procedure thereupon, and to order Juries to be impannelled for the Trial thereof, as they are now in such Cases authorized: Provided also, that in case Twenty Members- of the said Council shall
 
 not
 
@@ -19026,7 +19026,7 @@ Dublin, in case the some shall pass into a Law, shall be entitled to receive Com
 
 CXXII. And be it enacted, That the Compensation payable to any such Person aforesaid shall be secured to such Person by Bond or Obligation under the Common Seal of the said Lord Mayor, Aldermen, and Burgesses of Dublin, in a sufficient Penalty, conditioned for the Payment to such Person, his Executors, Administrators, or Assigns, of such Compensation, with all Arrears thereof (if any) which shall have accrued due before the Date of such Bond; and such Bond or Obligation shall be prepared and executed at the Expense of the Fund by this Act made chargeable with such Compensation, and delivered to the Person entitled to such Compensation, as soon as conveniently may be after the Amount thereof shall have been admitted as aforesaid by the Council of the Borough, or shall have been determined, in the event of such Appeal as aforesaid, by Order of the said Commissioners of Her Majesty’s Treasury.
 
-CXXIIL And whereas under the said recited Acts relate c ing to the Turnpike Roads in the City of Dublin some Debts ‘ may be due and owing, and some Claims may arise for which
+And whereas under the said recited Acts relate c ing to the Turnpike Roads in the City of Dublin some Debts ‘ may be due and owing, and some Claims may arise for which
 
 * it is just and proper that due Compensation should be made ‘ to all Persons having such Rights and Claims, according to
 
@@ -22012,7 +22012,7 @@ LV. That if at any Time it shall appear that the whole of the Money laid out on 
 
 And with respect to the Payment of Salaries, Compensations, and Retiring Annuities, and of Travelling and other Expenses, be it enacted,
 
-LVI. That the Salaries now paid to the Commissioners, the Lord Chancellor's Secretary of Bankrupts, the Chief and every other Registrar, the Accountant, the Master, and the Clerks to such Secretary, Chief Registrar, Accountant, Master, and Clerk of Enrolments respectively, and the Ushers of the Court, and the Registrar of Meetings, and the Clerk and Trainbearer, Ushers and Assistant Usher, of his Honour the Vice Chancellor sitting in Bankruptcy, shall be paid out of the Account inti* tilled “ The Chief Registrar's Account, " and the same shall be paid quarterly, free and clear from all Taxes and Deductions whatsoever, except the Tax on Income, on the Eleventh Day of January, the Eleventh Day of April, the Eleventh Day of July, and the Eleventh Day of October in every Year, by equal Portions, the first Payment to be made on the Eleventh Day of January next; and if any Person for the Time being holding either of the said Offices shall die, resign, or be removed from the same, the Executor or Administrator of the Person so dying, or the Person so resigning or being removed, shall be entitled to receive such proportionable Part of his Salary as shall have accrued during the Time that such Person shall have executed his Office since the last Payment.
+LVI. That the Salaries now paid to the Commissioners, the Lord Chancellor's Secretary of Bankrupts, the Chief and every other Registrar, the Accountant, the Master, and the Clerks to such Secretary, Chief Registrar, Accountant, Master, and Clerk of Enrolments respectively, and the Ushers of the Court, and the Registrar of Meetings, and the Clerk and Trainbearer, Ushers and Assistant Usher, of his Honour the Vice Chancellor sitting in Bankruptcy, shall be paid out of the Account inti* tilled “ The Chief Registrar's Account," and the same shall be paid quarterly, free and clear from all Taxes and Deductions whatsoever, except the Tax on Income, on the Eleventh Day of January, the Eleventh Day of April, the Eleventh Day of July, and the Eleventh Day of October in every Year, by equal Portions, the first Payment to be made on the Eleventh Day of January next; and if any Person for the Time being holding either of the said Offices shall die, resign, or be removed from the same, the Executor or Administrator of the Person so dying, or the Person so resigning or being removed, shall be entitled to receive such proportionable Part of his Salary as shall have accrued during the Time that such Person shall have executed his Office since the last Payment.
 
 LVII. That
 
@@ -22050,7 +22050,7 @@ Of An Buildingt for holding iho Court
 
 Court of Bankruptcy in Ba-ftinghall Street to rest in London Commissioners.
 
-Building to continue to be called “Tbe Court of Bankruptcy, " &c.
+Building to continue to be called “Tbe Court of Bankruptcy," &c.
 
 Such Building to be under the Direction of London Commissioners.
 
@@ -22594,7 +22594,7 @@ CXXI. That where it shall be shown by Affidavit to the Satisfaction of the Court
 
 CXXII. That upon the Appearance of any Person summoned or brought before the Court upon any Warrant as aforesaid, or if any Person be present at any Sitting of the Court, it shall be lawful for the Court to examine every such Person upon Oath either by Word of Mouth or by Interrogatories in Writing, concerning the Person, Trade, Dealings, or Estate of any Bankrupt, or concerning any Act or Acts of Bankruptcy by any Bankrupt committed, and to reduce into Writing the Answers of every such Person, and such Answers so reduced into Writing such Person examined is hereby required to sign and subscribe.
 
-CXXIIL That if any such Person examined as last aforesaid shall, in and by his Examination, signed and subscribed as afore-
+That if any such Person examined as last aforesaid shall, in and by his Examination, signed and subscribed as afore-
 
 3 D 2 said,
 
@@ -25308,7 +25308,7 @@ Cap. 107 *
 
 Bankruptcy (Ireland).
 
-12 & 13 VlCI.
+12 & 13 VICT.
 
 in the Name of such Assignee and of the remaining Partner or Partners, against any Debtor of the Partnership; and snek Judgment, Decree, or Order may be obtained therein as if such Action or Suit bad been instituted with the Consent of such Partner; and if such Partner or Partners shall execute any Release of the Debt or Demand for which such Action or Suit is instituted, such Release shall be void; provided that every such Partner shall have Notice given him of such Application, and be at liberty to show Cause against it, and if no Benefit is claimed by him by virtue of the said Pro* ceedings shall be indemnified against the Payment of any Costs in respect of such Action or Suit, in such Manner as such Commissioners or Commissioner, upon his Application, shall direct; and that it shall be lawful for such Commissioners or Commissioner, upon the Application of such Partner, to direct that he may receive so much of the Proceeds of such Action or Suit as such Commissioners or Commissioner shall direct.
 
@@ -26956,7 +26956,7 @@ Saving the Jurisdiction of Lord Chancellor and Master of the Rolls.
 
 Forms of Writ* to be settled and approved by Lord Chan* cellor, &c.
 
-Courts of Common Law to take cognizanco of Writs.
+Courts of Common Law to take cognizance of Writs.
 
 932
 

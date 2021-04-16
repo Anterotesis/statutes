@@ -170,7 +170,7 @@ The Titles of the Public General Acts passed in the Fourth Session of the Twenty
 
 58. An Act to amend the Coinage Act, 1870, as respects Light Gold Coins. (Coinage.) 303
 
-59. An Act to amend "The Land Law (Ireland) Act, 1888, " with regard to Leaseholders. (Land Law (Ireland) Act, 1888, Amendment) 304
+59. An Act to amend "The Land Law (Ireland) Act, 1888," with regard to Leaseholders. (Land Law (Ireland) Act, 1888, Amendment) 304
 
 60. An Act to amend the Law with respect to Preferential Payments in Bankruptcy in the Administration of Insolvent Estates, and in the winding-up of Companies in Ireland. (Preferential Payments in Bankruptcy (Ireland).) 305
 
@@ -2172,7 +2172,7 @@ Ch. 17. London Coal Duties Abolition, 1889. 52 & 53 Vict.
 
 same manner as if the term of fourteen years had been inserted in the Coal Duties Act, 1831, instead of the term of seven years:
 
-And whereas by an Act of Parliament passed in the eighth and ninth years of the reign of Her present Majesty, chapter one hundred and one, intituled “ An Act to continue until fifth day " of July one thousand eight hundred and sixty-two the Acts for “ regulating the vend and delivery of coals in London and “ Westminster, and in certain parts of the adjacent counties, and to “ alter and amend the said Acts, " after reciting the Coal Duties Act, 1831, and the Coal Duties Act, 1838, and reciting that the extended term of seven years would expire on the thirty-first day of December one thousand eight hundred and forty-five, it was enacted that the Coal Duties Act, 1831, and the Coal Duties Act, 1838, should be continued until the fifth day of July one thousand eight hundred and sixty-two, and that all the provisions, regulations, clauses, matters, and things in the Coal Duties Act, 1831, contained to take effect at the end of the term of seven years therein mentioned, or at any other time, should take effect in the same manner as if the fifth day of July one thousand eight hundred and sixty-two had been inserted in the Coal Duties Act, 1831, instead of the term of seven years:
+And whereas by an Act of Parliament passed in the eighth and ninth years of the reign of Her present Majesty, chapter one hundred and one, intituled “ An Act to continue until fifth day " of July one thousand eight hundred and sixty-two the Acts for “ regulating the vend and delivery of coals in London and “ Westminster, and in certain parts of the adjacent counties, and to “ alter and amend the said Acts," after reciting the Coal Duties Act, 1831, and the Coal Duties Act, 1838, and reciting that the extended term of seven years would expire on the thirty-first day of December one thousand eight hundred and forty-five, it was enacted that the Coal Duties Act, 1831, and the Coal Duties Act, 1838, should be continued until the fifth day of July one thousand eight hundred and sixty-two, and that all the provisions, regulations, clauses, matters, and things in the Coal Duties Act, 1831, contained to take effect at the end of the term of seven years therein mentioned, or at any other time, should take effect in the same manner as if the fifth day of July one thousand eight hundred and sixty-two had been inserted in the Coal Duties Act, 1831, instead of the term of seven years:
 
 And whereas by. an Act of Parliament passed in the twenty-fourth and twenty-fifth years of the reign of Her present Majesty, chapter forty-two, intituled “ An Act to continue the duties levied “ on coal and wine by the Corporation of London, ” after reciting that by the Acts of Parliament herein-before recited, and which are therein collectively referred to as the “ Coal Duties Acts, ” the two several duties of one penny and twelve pence were authorised to be levied, and reciting that it was apprehended that the duty of eightpence, part of the duty of twelve pence, would expire in the year one thousand eight hundred and sixty-one, and that the duty of one penny would expire in July one thousand eight hundred and sixty-two unless continued by Parliament, and that it was expedient that the duties of twelve pence and one penny should continue for ten years; it was provided that all duties authorised by the “ Coal Duties Acts” should be levied in the same manner as they were then leviable until fifth day of July one thousand eight hundred and seventy-two; and it was also provided that the Coal Duties Acts should be continued until fifth day of July one thousand eight hundred and seventy-two, and that all the provisions contained in the Coal Duties Act, 1831, to take effect at the end of seven years mentioned in that Act should take effect as if the fifth day of July one thousand eight hundred and seventy-two had been inserted in the Act instead of the term of seven years:
 
@@ -2862,7 +2862,7 @@ Dry and liquid measures:
 
 Each measure of bushels (32 gallons) and 1 bushel (8
 
-gallons) - - - - 0 6
+gallons) - - 0 6
 
 , , from 5 gallons to 2 gallons (peck), inclusive - 0 3
 
@@ -2870,39 +2870,39 @@ gallons) - - - - 0 6
 
 Apothecaries:
 
-Each subdivided measure containing not more than twelve subdivisions - - - 0 1
+Each subdivided measure containing not more than twelve subdivisions - 0 1
 
 , , , containing more than twelve sub-
 
 divisions but not more than fifteen 0 1$, , , containing more than fifteen subdivisions but not more than
 
-eighteen - - - - 0 H
+eighteen - - 0 H
 
 n v »containing more than eighteen subdivisions but not more than
 
-twenty-one - - - 0 If
+twenty-one - 0 If
 
 ntf n containing more than twenty-one
 
-subdivisions but not more than twenty-four - - - 0 2
+subdivisions but not more than twenty-four - 0 2
 
 , , , containing more than twenty-four
 
-subdivisions but not more than thirty - - - -0 2
+subdivisions but not more than thirty - -0 2
 
 , , , containing more than thirty subdivisions but not more than
 
-thirty-six - - - 0 3
+thirty-six - 0 3
 
 , , , containing more than thirty-six
 
-subdivisions but not more than forty-two - - - 0 3
+subdivisions but not more than forty-two - 0 3
 
 , , , containing more than forty-two sub-
 
 divisions but not more than filly - 0 4, , , containing more than fifty subdivisions but not more than one
 
-hundred - - - 0 6
+hundred - 0 6
 
 , , , containing more than one hundred
 
@@ -2910,9 +2910,9 @@ subdivisions but not morn than one hundred and fifty - .09
 
 , », , containing more than one hundred
 
-and fifty - - - 1 0
+and fifty - 1 0
 
-Each separate measure from 40 fluid oz. to 10 fluid oz. inclusive - - - 0 2
+Each separate measure from 40 fluid oz. to 10 fluid oz. inclusive - 0 2
 
 n tftt ft 10 fluid oz. - - 0 0|
 
@@ -2922,23 +2922,23 @@ Weighing Instruments.
 
 s» d.
 
-For 10 tons and above - - - - - 10 0
+For 10 tons and above - - - 10 0
 
-For under 10 tons and above 1 ton - - - - 5 0
+For under 10 tons and above 1 ton - - 5 0
 
-For 1 ton and above 5 cwt. - - - - - 2 0
+For 1 ton and above 5 cwt. - - - 2 0
 
-For 5 cwt and above 1 cwt. - - - - - 1 6
+For 5 cwt and above 1 cwt. - - - 1 6
 
-For 1 cwt. and above 56 lbs. - - - - - 1 0
+For 1 cwt. and above 56 lbs. - - - 1 0
 
 exclusive of cost of cartage and lifting of standards in each of the above cases.
 
-For 56 lb. and above 14 lb. - - - - - 0 6
+For 56 lb. and above 14 lb. - - - 0 6
 
-For 14 lbs. and above lib. - - - - -03
+For 14 lbs. and above lib. - - -03
 
-For 1 lb. or under - - - - - -02
+For 1 lb. or under - -02
 
 SECOND SCHEDULE. Section 19.
 
@@ -7058,11 +7058,11 @@ may be liable, incur a fine of one hundred pounds.
 
 27. — (1.) There shall continue to be paid for the use of Her Consolidation Majesty, her heirs and successors, upon the licences herein-after hcencel^of mentioned to be taken out annually in the United Kingdom the the manufac-following duties of excise:
 
-Upon a licence to be taken out by a maker of methylated spirits (other than a distiller or rectifier of spirits) - - - -10100
+Upon a licence to be taken out by a maker of methylated spirits (other than a distiller or rectifier of spirits) - -10100
 
 Upon a licence to be taken out by a retailer of
 
-methylated spirits - - - 0 10 0
+methylated spirits - 0 10 0
 
 (2.) Every such licence shall be in such form as the Commissioners of Inland Revenue may direct, and shall expire on the thirtieth day of September in each year.
 
@@ -7070,7 +7070,7 @@ methylated spirits - - - 0 10 0
 
 (4.) A licence to retail methylated spirits shall not be granted to a distiller or rectifier, or to a person licensed to retail beer, spirits, wine, or sweets for consumption upon his premises.
 
-28. In the construction of any enactment relating to the revenue Meauing of of excise the expression “sweets or made wines ” shall mean any wines ” liquor which is made from fruit and sugar or from fruit or sugar
+28. In the construction of any enactment relating to the revenue Meaning of of excise the expression “sweets or made wines ” shall mean any wines ” liquor which is made from fruit and sugar or from fruit or sugar
 
 mixed with any other material, and which has undergone a process of fermentation in the manufacture thereof.
 
@@ -11632,13 +11632,13 @@ Provided that in respect of any money paid under any such charge the landlord or
 
 (8.) This section shall apply in the case of a deceased person who dies insolvent after the commencement of this Act, as if he were a bankrupt, and as if the date of his death were substituted for the date of the order of adjudication in bankruptcy.
 
-5. The word “ dividend, " wherever it occurs in section two No action for
+5. The word “ dividend," wherever it occurs in section two No action for
 
 hundred and ninety-three of the Irish Bankrupt and Insolvent Act, P^erential 1857, or in section one hundred and twelve of the Bankruptcy 20 & 21 Vict. (Ireland) Amendment Act, 1872, shall include the amount of any c. 60. debt to which priority is given by this Act. 55*86 Vict '
 
 6. Nothing in this Act shall alter the effect of the Act of the Savings,
 
-session of the twenty-eighth and twenty-ninth years of the reign 28 & 29 vicL of Her present Majesty, chapter eighty-six, intituled “ An Act to c‘ amend the law of partnership, " or shall prejudice the provisions of 38 & 3g vict the Friendly Societies Act, 1875. c. «o.
+session of the twenty-eighth and twenty-ninth years of the reign 28 & 29 vicL of Her present Majesty, chapter eighty-six, intituled “ An Act to c‘ amend the law of partnership," or shall prejudice the provisions of 38 & 3g vict the Friendly Societies Act, 1875. c. «o.
 
 7. — (1.) The Judges of the Court of Bankruptcy in Ireland as General orders regards the said Court may, at any time after the passing of this m bankruPtc3'-Act, and from time to time, make such general orders as they may
 
@@ -12176,7 +12176,7 @@ Various Powers Act, 1887 -
 
 Various Powers Act, 1888
 
-Brixton Park - - - - -
+Brixton Park -
 
 Main Drainage (including Precipitation Works)
 
@@ -12236,7 +12236,7 @@ Sec. 9.
 
 Loans to guardians ...
 
-Loans to managers of Metropolitan Asylum District Loans to School Board for London Loans to Receiver of the Metropolitan Police District - - -
+Loans to managers of Metropolitan Asylum District Loans to School Board for London Loans to Receiver of the Metropolitan Police District -
 
 Loans to vestry of St. Pancras ...
 
@@ -13136,7 +13136,7 @@ The expression “Lands Clauses Acts ” shall mean —
 
 27. In every Act passed after the commencement of this Act, the expression “committed for trial ” used in relation to any person shall,
 
-Meauing of “ statutory declaration ” in past and future Acts.
+Meaning of “ statutory declaration ” in past and future Acts.
 
 5 & 6 Will. 4. c. 62.
 
@@ -13168,7 +13168,7 @@ c. 18. ~
 
 31*& 32 Vict. c. 70.
 
-Meauing of Irish Valuation Acts,
+Meaning of Irish Valuation Acts,
 
 Meaning of “ ordnance map.”
 
@@ -14122,7 +14122,7 @@ CIVIL SERVICES.
 
 Class III. £ 8. d.
 
-County Courts . - - - - . . 10, 426 18 8
+County Courts . - - . . 10, 426 18 8
 
 County Court Officers, Ac., Ireland - 336 12 6
 
@@ -14140,7 +14140,7 @@ Part 1. Civil Service Deficiencies, 1887-88.
 
 362
 
-Schxd. (B.) Pabt 2. Civil Services (Supplementary), 1888-89.
+Sched. (B.) Pabt 2. Civil Services (Supplementary), 1888-89.
 
 Ch. 70. Appropriation Act, 1889. 52 & 53 Vier.
 
@@ -14156,9 +14156,9 @@ Class II. £
 
 House of Lords Offices . - 909
 
-Land Commission for England - - - 3, 290
+Land Commission for England - 3, 290
 
-Stationery and Printing - - - - 8,000
+Stationery and Printing - - 8,000
 
 Charitable Donations and Bequests, Ireland - 292
 
@@ -14176,11 +14176,11 @@ Courts of Law and Justice, Scotland - - 200
 
 Class IV.
 
-Public Education, England and Wales - - - 21, 690
+Public Education, England and Wales - 21, 690
 
 Class V.
 
-South Africa and St. Helena - - - 23, 310
+South Africa and St. Helena - 23, 310
 
 Class VI.
 
@@ -14192,7 +14192,7 @@ Class VII.
 
 Crofters* Colonisation m 10, 500
 
-Egyptian Accounts Adjustment - - - 39, 766
+Egyptian Accounts Adjustment - 39, 766
 
 Total - 165, 180
 
@@ -14240,11 +14240,11 @@ r 8. Sect. 1. For the expense of the personnel for shipbuilding, repairs, and ma
 
 l(b For works, buildings, and repairs at home and abroad, including the cost of superintendence, purchase of sites, grants in aid, and other charges connected therewith - 451,000
 
-11, For miscellaneous effective services - - - 128, 800
+11, For miscellaneous effective services - 128, 800
 
 12. For Bcientifio services ..... 57, 900
 
-13. For the expense of the Admiralty Office - - - 217, 400
+13. For the expense of the Admiralty Office - 217, 400
 
 14 For half-pay to officers of the navy and marines - 78, 900
 
@@ -14292,7 +14292,7 @@ military law ----
 
 4. For medical establishments and services and cost of
 
-medicines - - - - -
+medicines -
 
 5. For the pay and allowances of the militia (exclusive of com-
 
@@ -14364,7 +14364,7 @@ and retired officers, including payments awarded by Army Purchase Commissioners,
 
 20. For widows' pensions and gratuities, for allowances on the
 
-compassionate list, and for the relief fund, Ac., exclusive of charges on India-- - - - - -
+compassionate list, and for the relief fund, Ac., exclusive of charges on India-- -
 
 21. For pensions and gratuities to officers for wounds -
 
@@ -14450,7 +14450,7 @@ No.
 
 2. For the maintenance and repair of Marltx>rough House
 
-3. For the royal parks and pleasure gardens - - -
+3. For the royal parks and pleasure gardens -
 
 4. For the buildings of the Houses of Parliament
 
@@ -14474,7 +14474,7 @@ of courts, supply of furniture, fuel, Ac., and for charges attendant thereon ---
 
 10. For charges connected with Metropolitan Police Court
 
-Buildings - - - - - -
+Buildings - -
 
 11. For one half of the expense of erecting or improving court
 
@@ -14566,7 +14566,7 @@ public works and buildings under the department of the Commissioners of Public W
 
 23. For expenses preparatory to, and of the erection of the
 
-Museum of Science and Art National Library, and of the School of Art in Dublin - - - -
+Museum of Science and Art National Library, and of the School of Art in Dublin - -
 
 Sums not exceeding
 
@@ -14722,7 +14722,7 @@ For the salaries and expenses of the office of the Land Commissioners for Englan
 
 For salaries and expenses of the Local Government Board - For salaries and expenses of the office of the Commissioners in Lunacy in England .....
 
-For salaries and expenses of the Mint, including the expenses of the coinage (including a supplementary sum of 50,0001.) For salaries and expenses of the National Debt Office For charges connected with the Patents, Designs, and Trade Marks Acts - - - - - -
+For salaries and expenses of the Mint, including the expenses of the coinage (including a supplementary sum of 50,0001.) For salaries and expenses of the National Debt Office For charges connected with the Patents, Designs, and Trade Marks Acts - -
 
 For salaries and expenses of the department of Her Majesty's Paymaster General in London and Dublin For salaries and expenses of the establishment under the Publio Works Loan Commissioners - For salaries and expenses of the Public Record Office in England .....
 
@@ -14784,7 +14784,7 @@ For salaries and expenses of the office of Woods, Forests, and Land Revenues, an
 
 29, 464
 
-Schxd. (B.) Past 6. Civil Services. Class H.
+Sched. (B.) Past 6. Civil Services. Class H.
 
 368
 
@@ -14936,7 +14936,7 @@ industrial, and day industrial schools in Great Britain, and for the salaries an
 
 13. For the maintenance of criminal lunatics in Broadmoor
 
-Criminal Lunatic Asylum - - - - -
+Criminal Lunatic Asylum -
 
 14. For salaries and expenses of the Lord Advocate's depart-
 
@@ -14944,7 +14944,7 @@ ment in Scotland, and other law charges -
 
 15. For salaries and expenses of the Courts of Law and Justice
 
-in Scotland, and other legal charges - - -
+in Scotland, and other legal charges -
 
 16. For salaries and expenses of the offices in Her Majesty's
 
@@ -14982,11 +14982,11 @@ of Deeds in Ireland -
 
 25. For salaries and expenses in the Office for the Registration
 
-of Judgments in Ireland - - - - -
+of Judgments in Ireland -
 
 26. For the salaries and expenses of the office of the Irish Land
 
-Commission - - - - -
+Commission -
 
 27. For the salaries, allowances, expenses, and pensions of various
 
@@ -14994,7 +14994,7 @@ county court officers, divisional commissioners, and of magistrates in Ireland, 
 
 28. For salaries and expenses of the Commissioners of Police,
 
-of the police courts and of the metropolitan police establishment of Dublin - - - - -
+of the police courts and of the metropolitan police establishment of Dublin -
 
 29. For the expenses of the Royal Irish Constabulary -
 
@@ -15118,9 +15118,9 @@ societies in Great Britain and Ireland (including a supplementary sum of 1, 6001
 
 in Great Britain ----
 
-9. For public education in Scotland - - - -
+9. For public education in Scotland - -
 
-10. For grants to Scottish Universities - - - -
+10. For grants to Scottish Universities - -
 
 11. For the annuity to the Board of Trustees of manufactures in
 
@@ -15134,7 +15134,7 @@ Teachers' Superannuation Office, Dublin -
 
 14. For the salary and expenses of the Office of the Commissioners
 
-of Education in Ireland appointed for the regulation of endowed schools - - - -
+of Education in Ireland appointed for the regulation of endowed schools - -
 
 15. For salaries and expenses of the National Gallery of Ireland,
 
@@ -15208,7 +15208,7 @@ ture chargeable on the Consular Vote -
 
 3. For the expenses of various services (other than Consular) in
 
-connection with the suppression of the slave trade, and the expenses of the Liberated African Department, (including a supplementary sum of 6,0001.) - - -
+connection with the suppression of the slave trade, and the expenses of the Liberated African Department, (including a supplementary sum of 6,0001.) -
 
 4. For salaries and expenses of the three representatives of Her
 
@@ -17102,7 +17102,7 @@ Statute and Chapter. Subject-matter or Short Title. How affected. Chapter of 52 
 
 c. 89 Exchequer and Audit Departments. S. 17 repealed 53t s. 2.
 
-c. 62 Crown lands - - - S. 15 amended - 42, s. 84.
+c. 62 Crown lands - S. 15 amended - 42, s. 84.
 
 c. 90 Public Health - S. 52 extended 64.
 
@@ -17114,7 +17114,7 @@ c. 6 Metropolitan Poor S. 6 (2) amended - 56, s» 3.
 
 C. 90 Inland Revenue S. 18 repealed 42, s. 36.
 
-c. 182 Investment of trust funds Repealed - - - 82, s. 8.
+c. 182 Investment of trust funds Repealed - 82, s. 8.
 
 31 & 32 Vict.:
 
@@ -17134,7 +17134,7 @@ e. 102 Metropolitan Board of Works (Loans). S. 28 repealed 61, 6. 15.
 
 o. 10 Coinage - Amended 58.
 
-e. 71 National Debt - - - Ss. 20, 21 repealed 6, s. 6.
+e. 71 National Debt - Ss. 20, 21 repealed 6, s. 6.
 
 c. 97 Stamp Duties - - S. 117 explained; Sch. “ Bill of Exchange ” am. 42, ss. 16, 20.
 

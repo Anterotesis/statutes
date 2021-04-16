@@ -1648,9 +1648,9 @@ Government of the United Kingdom - 80
 
 Government of the Dominion of Canada - 80
 
-Government of Trinidad * - - - 30
+Government of Trinidad * - 30
 
-Government of ’British Guiana - - - 30
+Government of ’British Guiana - 30
 
 Government of Barbados .... 15
 
@@ -2706,7 +2706,7 @@ Cocoa.the cwt. 14 0
 
 Cocoa (husks and shells) - the cwt. 2 0
 
-Cocoa-butter . - - - the lb. 0' 14
+Cocoa-butter . - the lb. 0' 14
 
 Provided that, in the application of this section to any duty charged on manufactured or prepared goods under section, seven of the Finance Act, 1901, the first day of July, nineteen hundred and twenty-four, shall be substituted for the thirtieth day of April, nineteen hundred and twenty-four.
 
@@ -4094,7 +4094,7 @@ Britain or Northern Ireland any used, or, in the case of duty-paid article has b
 
 refiner on molasses produced in
 
-Great Britain or Northern Ireland from duty-paid sugar and delivered to a licensed distiller for use in the manufacture of spirits - - - the cwt. 2s. Id.
+Great Britain or Northern Ireland from duty-paid sugar and delivered to a licensed distiller for use in the manufacture of spirits - the cwt. 2s. Id.
 
 B .—Excise Drawbacks.
 
@@ -4152,7 +4152,7 @@ Nature of Allowance. Rate of Allowance.
 
 (1) Allowance on molasses produced from s. d.
 
-sugar on which duty has been paid on importation - - - the cwt. 2 7
+sugar on which duty has been paid on importation - the cwt. 2 7
 
 (2) Allowance on molasses produced from sugar on which the excise duty has been paid ---- the cwt. 2 11
 
@@ -9082,9 +9082,9 @@ Men.18 0
 
 Women - -- -- -- -- 15 0
 
-Boys who have attained the age of sixteen years, but are under the age of eighteen years - - - - 7 6
+Boys who have attained the age of sixteen years, but are under the age of eighteen years - - 7 6
 
-Girls who have attained the age of sixteen years, but are under the age of eighteen years - - - - 6 0
+Girls who have attained the age of sixteen years, but are under the age of eighteen years - - 6 0
 
 SECOND SCHEDULE. Section 15.
 
@@ -9792,21 +9792,21 @@ For the service of the year ended on the
 
 31st day of March 1923 :— £ s. d.
 
-Under Act 14 Geo. 5. o. 4 - - - 10 0 0
+Under Act 14 Geo. 5. o. 4 - 10 0 0
 
 For the service of the year ending on the
 
 31st day of March 1924 :—
 
-Under Act 14 Geo. 5. c. 2 - - - 2, 958, 020 0 0
+Under Act 14 Geo. 5. c. 2 - 2, 958, 020 0 0
 
-Under Act 14 Geo. 5. c. 4 - - - 5, 765, 729 0 0
+Under Act 14 Geo. 5. c. 4 - 5, 765, 729 0 0
 
 For the service of the year ending on the
 
 31st dav of March 1925 :—
 
-Under Act 14 Geo. 5. c. 4 - - - 162, 278,000 0 0
+Under Act 14 Geo. 5. c. 4 - 162, 278,000 0 0
 
 Under this Act ---- 246, 640, 519 0 0
 
@@ -9840,7 +9840,7 @@ Grants. in Aid.
 
 Sum granted to make good an excess on the grant for the Bankruptcy
 
-Department of the Board of Trade for the year ended on the 31st day of March 1923 - - - - 10 0 0 1, 840 10 8
+Department of the Board of Trade for the year ended on the 31st day of March 1923 - - 10 0 0 1, 840 10 8
 
 SCHEDULE (B.)— Paet 1.
 
@@ -10342,7 +10342,7 @@ For medical services, including the cost of medical establishments
 
 919, 026
 
-at home and abroad - - -
+at home and abroad -
 
 For civilians employed on fleet ser-
 
@@ -10450,7 +10450,7 @@ No.
 
 10. For works, buildings, and repairs at home and abroad, including the cost of superintendence, purchase of sites, grants in aid, and other charges connected therewith . 3, 080,000 150,000
 
-11. For various miscellaneous effective services - - - - - 856, 1.00 j 68, 990
+11. For various miscellaneous effective services - - - 856, 1.00 j 68, 990
 
 12. For the Admiralty Office - - 1, 229, 500 | 5, 776
 
@@ -10636,7 +10636,7 @@ For the Ordnance Factories, the cost of the production of which will be
 
 •charged to the Army, Navy, Air
 
-Force, <xc. - - - - - !
+Force, <xc. - - - !
 
 100
 
@@ -10754,7 +10754,7 @@ For technical and warlike stores of the Air Force (including experimental and re
 
 1, 655,000
 
-For works, buildings, repairs, and lands of the Air Force, including civilian staff, and other charges connected therewith - - -
+For works, buildings, repairs, and lands of the Air Force, including civilian staff, and other charges connected therewith -
 
 2, 127,000
 
@@ -10776,7 +10776,7 @@ Air Force.
 
 17, 500 '
 
-For auxiliary and reserve forces of the Air Force - - - -
+For auxiliary and reserve forces of the Air Force - -
 
 284,000
 
@@ -10868,7 +10868,7 @@ palaces, including a grant in aid 106, 685
 
 2. For expenditure in respect of
 
-Osborne - - - - - 15, 795
+Osborne - - - 15, 795
 
 I
 
@@ -10974,7 +10974,7 @@ of Works on behalf of Local
 
 Authorities proceeding with assisted Housing Schemes approved by the Ministry of Health in accordance with the provisions of the Housing, Town Planning, i
 
-Ac. Act, 1919 - - - - ] 10
+Ac. Act, 1919 - - ] 10
 
 i I
 
@@ -10986,7 +10986,7 @@ j 1
 
 Housing schemes under the management of the Office of j
 
-Works - - - - - 105, 110 j
+Works - - - 105, 110 j
 
 - £ j 4, 662, 620
 
@@ -11138,7 +11138,7 @@ Constabulary and extra-statutory contributions towards the expenses of a system 
 
 Secretary of State for Foreign
 
-Affairs, including the News Department - - - - -
+Affairs, including the News Department -
 
 6. For the salaries and expenses of the department of His Majesty’s
 
@@ -11640,7 +11640,7 @@ and for grants in aid of piers or quays and of marine superintendence (including
 
 39. For the salaries and expenses of the department of the Registrar
 
-General of Births, &c., in Scotland - - - - - 15, 379 1, 600
+General of Births, &c., in Scotland - - - 15, 379 1, 600
 
 40. For certain Northern Ireland services, including expenditure in connection with ex-service officers and men in Northern
 
@@ -11696,7 +11696,7 @@ Majesty’s Procurator - General,
 
 and of the Solicitor for the Affairs of His Majesty’s Treasury, and of the department of the Director of
 
-Public Prosecutions, for the costs of prosecutions, of other legal proceedings, and of Parliamentary Agency - - -
+Public Prosecutions, for the costs of prosecutions, of other legal proceedings, and of Parliamentary Agency -
 
 237, 237
 
@@ -11978,7 +11978,7 @@ in Scotland, including the ex- i
 
 penses of collection of parental I
 
-contributions - - - - 1 83, 119, 3, 500
+contributions - - 1 83, 119, 3, 500
 
 17. For such of the salaries and expenses of the Supreme Court of Judicature of Northern i
 
@@ -12154,7 +12154,7 @@ Medical Schools, &c., in Great
 
 Britain, and of the expenses under the Welsh Intermediate
 
-Education Act, 1889 - - -
+Education Act, 1889 -
 
 1, 272, 970
 
@@ -12178,7 +12178,7 @@ Antiquities, including certain grants in aid -
 
 Total Civil Services, Class)
 
-IV. - - - £)
+IV. - £)
 
 10, 896
 
@@ -12222,13 +12222,13 @@ East, and certain special grants
 
 2. For sundry colonial services,
 
-including expenditure in connection with ex-service men in the Irish Free State and certain grants in aid - - -
+including expenditure in connection with ex-service men in the Irish Free State and certain grants in aid -
 
 3. For the expenses connected with
 
 Oversea Settlement, including certain grants in aid and expenses arising out of the Empire Settlement Act, 1922, and the Free
 
-Passage Scheme for ex-service men and women - - -
+Passage Scheme for ex-service men and women -
 
 4. For sundry Middle Eastern services under His Majesty’s Secretary of
 
@@ -12264,7 +12264,7 @@ Grants. ! in Aid.
 
 Total Civil Services, Class
 
-V. - - - - £
+V. - - £
 
 } 9, 143, 091 | 749, 170
 
@@ -12406,7 +12406,7 @@ to merchant seamen and fishermen and their dependants, and the administrative ex
 
 6. For certain miscellaneous expenses,
 
-including certain grants in aid and bonus on certain statutory salaries - - - - -
+including certain grants in aid and bonus on certain statutory salaries -
 
 8, 593
 
@@ -12428,7 +12428,7 @@ a grant in aid of the Imperial
 
 War Graves Commission Fund formed under Royal Charter,
 
-10th May 1917 - - - . 1 954, 500 —
+10th May 1917 - . 1 954, 500 —
 
 Carried forward - £ i96, 827, 066; 2, 271, 741
 
@@ -12822,7 +12822,7 @@ Grants. in Aid.
 
 No.
 
-1. For the salaries and expenses of the Customs and Excise Department - - - -
+1. For the salaries and expenses of the Customs and Excise Department - -
 
 £
 
@@ -12870,7 +12870,7 @@ Maintenance, &c.
 
 11. Various Miscellaneous Effective
 
-Services - - -
+Services -
 
 13. Non-Effective Services (Naval and Marine) Officers
 
@@ -16014,7 +16014,7 @@ War'Obligations Act, 1915, are incurred, then as from the prescribed date that p
 
 17.—(1) No payment —
 
-(a) on account of sickness or disablement benefit in respect of any period when the insured person is an inmate of any workhouse, hospital, asvlum. convalescent home or infirmary.
+(a) on account of sickness or disablement benefit in respect of any period when the insured person is an inmate of any workhouse, hospital, asylum. convalescent home or infirmary.
 
 4 & 5 Geo. 5
 
@@ -20508,7 +20508,7 @@ To be paid by the employer^ WQmen . Qd a week .
 
 (2) Where the rate of remuneration exceeds 3s. bpt does not exceed 4s. a working day—
 
-To be paid by the employer - - - - 6d. a week.
+To be paid by the employer - - 6d. a week.
 
 men - - id. a week.
 
@@ -20524,9 +20524,9 @@ Part II.
 
 Northern Ireland.
 
-In the case of men - - - - S d. a week.
+In the case of men - - S d. a week.
 
-In the case of women - - - - - Id. a week.
+In the case of women - - - Id. a week.
 
 1924.
 
@@ -20562,7 +20562,7 @@ r (for women 7 d. a week.
 
 (2) Where the rate of remuneration exceeds 3s. but does not exceed 4.s. a working day—
 
-To be paid by the employer - - - 54. a week.
+To be paid by the employer - 54. a week.
 
 To be paid by the contributor ' men " f'i' a wee ! i ‘
 
@@ -23104,7 +23104,7 @@ c. 32
 
 Finance
 
-S. 7 repealed - - - !
+S. 7 repealed - !
 
 21, s. 41, Sch. 3.
 
@@ -23388,7 +23388,7 @@ c. 58
 
 Trusts (Scotland) - |
 
-S. 9 am. - - -
+S. 9 am. -
 
 c. 64
 

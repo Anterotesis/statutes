@@ -3144,9 +3144,9 @@ Cavendish or negrohead -, j 10 8 9 4
 
 Cavendish or negrohead manufactured in bond -, 9 4 8 2
 
-Other manufactured tobacco, (viz.: — Cigarettes - - -, 11 4 9 11
+Other manufactured tobacco, (viz.: — Cigarettes -, 11 4 9 11
 
-Other sorts - - -, 9 4 8 2
+Other sorts -, 9 4 8 2
 
 Snuff, containing more than i 13 lbs. of moisture in every 100 lbs. weight thereof -, Snuff, not containing more than 13 lbs. of moisture in every 100 lbs. weight thereof - -, 1 8 10 7 8|
 
@@ -3156,7 +3156,7 @@ Tobacco, unmanufactured: — Containing 10 lbs. or more of moisture in every 100
 
 If stemmed or stripped -, 7 H 1 6 bk
 
-Containing less than 10 lbs. of moisture in every 100 lbs.: If unstemmed or un-stripped - - -, 8 2 1 7 14
+Containing less than 10 lbs. of moisture in every 100 lbs.: If unstemmed or un-stripped -, 8 2 1 7 14
 
 If stemmed or stripped -, 8 2A j 7 2
 
@@ -5912,7 +5912,7 @@ it 20. Revenue Departments, &c. £ 31, 229, 053 0 0 682, 665 0 0
 
 Operations, Ac. (Vote f £ 350,000,000 0 0 __
 
-of Credit) - - - J
+of Credit) - J
 
 , 22. Naval and Military!
 
@@ -5932,7 +5932,7 @@ For the service of the year ended on the 31st day of £ 9. d.
 
 March, 1916:—
 
-Under Act 7 & 8 Geo. 5. c. 49 - - - 20 0 0
+Under Act 7 & 8 Geo. 5. c. 49 - 20 0 0
 
 For the service of the year ended on the 31st day of
 
@@ -5940,7 +5940,7 @@ March 1917: —
 
 Under Act 7 Geo. 5. c. 1 . . - 200,000,000 0 0
 
-Under Act 7 Geo. 5. c. 7 - - - 60, 423, 575 0 0
+Under Act 7 Geo. 5. c. 7 - 60, 423, 575 0 0
 
 For the service of the year ending on the 31st day of
 
@@ -5950,13 +5950,13 @@ Under Act 7 Geo. 5. c. 1 - - 350,000,000 0 0
 
 Under Act 7 Geo. 5. c. 7 - - 38, 025,000 0 0
 
-Under Act 7 & 8 Geo. 5. c. 17 - - - - 500, 033, 230 0 0
+Under Act 7 & 8 Geo. 5. c. 17 - - 500, 033, 230 0 0
 
-Under Act 7 A 8 Geo. 5. c. 33 - - - - 664, 265, 560 0 0
+Under Act 7 A 8 Geo. 5. c. 33 - - 664, 265, 560 0 0
 
-Under Act 7 A 8 Geo. 5. c. 49 - - - - 441, 501, 923 0 0
+Under Act 7 A 8 Geo. 5. c. 49 - - 441, 501, 923 0 0
 
-Under this Act - - - 550, 004, 495 0 0
+Under this Act - 550, 004, 495 0 0
 
 Total - £2, 804, 253, 803 0 0
 
@@ -6082,7 +6082,7 @@ For His Majesty’s Foreign and other Secret Services 120,000 —
 
 For the Salaries and Expenses of the Department of the Registrar-General of Births, Ac. - 250 —
 
-Class III. For the Salaries and Expenses connected with County Courts - - - - - - | 13, 366 -*13, 366
+Class III. For the Salaries and Expenses connected with County Courts - - | 13, 366 -*13, 366
 
 For the Salaries of the Commissioner and Assistant Commissioners of the Metropolitan Police, and of the Receiver for the Metropolitan Police District, the Contribution towards the Expenses of the Metropolitan Police, Repayments to the Metropolitan Police Fund, the Salaries and Expenses of the Inspectors of Constabulary, and Expenses in connection with Special Constables and the | l’olice Reserve - 1, 191
 
@@ -6206,7 +6206,7 @@ No.
 
 1,000 100
 
-2. For victualling and clothing for the navy, including the cost of victualling establishments at home and abroad - - - 1,000 100
+2. For victualling and clothing for the navy, including the cost of victualling establishments at home and abroad - 1,000 100
 
 3. For medical services, including the cost of medical establishments at home and abroad - 1,000 100
 
@@ -6512,13 +6512,13 @@ No.
 
 16. For the salaries and expenses of the Registry of Friendly Societies - 23, 244 1, 100
 
-17. For the salaries and expenses of the Local Government Board - - - - 657, 271 2, 700
+17. For the salaries and expenses of the Local Government Board - - 657, 271 2, 700
 
 18. For the salaries and expenses of the Board of Control (Lunacy and Mental Deficiency), England ---- 133, 342 1, 435
 
 19. For the salaries and expenses of the Mint, including the expenses of coinage, and for the expenses of the preparation of medals, dies for postage and other stamps, and His Majesty’s seals - 50 151, 950
 
-20. For the salaries and expenses of the National Debt Office - - - - - 13, 371 2, 474
+20. For the salaries and expenses of the National Debt Office - - - 13, 371 2, 474
 
 21. For the salaries and expenses of the Public Record Office and of the Office of Land Revenue Records and Inrolments 21, 995
 
@@ -6804,7 +6804,7 @@ purchases 7. For sundry grants in aid of scientific investiga- 21,000 —
 
 tion, &c., and other grants -8. For the salaries and expenses of the Department of Scientific and Industrial Research 100, 006
 
-(including a grant in aid) - - -9. For grants in aid of the expenses of certain Universities and Colleges in Great Britain and of the expenses under the Welsh Inter- 1, 058, 050
+(including a grant in aid) -9. For grants in aid of the expenses of certain Universities and Colleges in Great Britain and of the expenses under the Welsh Inter- 1, 058, 050
 
 mediate Education Act, 1889 -10. For public education in Scotland, and for Science and Art in Scotland (including a sup- 321, 200
 
@@ -6926,7 +6926,7 @@ laneous charitable and other allowances in Ireland, including sundry grants in a
 
 4. For the salaries and other expenses of
 
-Temporary Commissions, Committees, and Special Inquiries - - - -
+Temporary Commissions, Committees, and Special Inquiries - -
 
 5. For making good certain sums written off from
 
@@ -7094,11 +7094,11 @@ For the salaries and expenses of the Ministry of Food
 
 For the salaries and expenses of the Ministry of Shipping ----
 
-For the salaries and expenses of the Air Board For the salaries and expenses of the Ministry of National Service - - -
+For the salaries and expenses of the Air Board For the salaries and expenses of the Ministry of National Service -
 
 For the expenses of the National War Aims Committee - -
 
-Total - - - - £
+Total - - £
 
 Sums not exceeding
 
@@ -7504,7 +7504,7 @@ The President of the Board of Agriculture and Fisheries for the time being
 
 The First Lord of the Admiralty for the time being The Secretary of State for War for the time being The Speaker of the House of Commons for the time being The Lord Chief Justice of England for the time being or to the respective persons for the time being holding similar positions to the above:
 
-Provided that it shall be lawful for the Prime Minister at. any time (notwithstanding that he may have declined to avail himself of the rights hereby conferred upon him) to occupy use and enjoy the said mansion house and premises on his giving to the Administrative Trustees three calendar months’ notice in writing of his iutention so to do.
+Provided that it shall be lawful for the Prime Minister at. any time (notwithstanding that he may have declined to avail himself of the rights hereby conferred upon him) to occupy use and enjoy the said mansion house and premises on his giving to the Administrative Trustees three calendar months’ notice in writing of his intentions so to do.
 
 (c) As to the Chequers Farms the Administrative Trustees shall permit and suffer the same or such of them as may be mutually agreed upon to be occupied and carried ou as model farms by
 
@@ -9612,7 +9612,7 @@ The amounts to be carried to the several funds shall be calculated as follows:�
 
 of a sum representing in
 
-J the case of men £tlis and in the case of women fths vGuu at i u..u - - - g, of a penny for each weekly
+J the case of men £tlis and in the case of women fths vGuu at i u..u - g, of a penny for each weekly
 
 I contribution paid in respect I of a member of a society.
 
@@ -11078,7 +11078,7 @@ Objections.
 
 14. It shall be the duty of the registration officer to publish a list of the names of persons to whose registration notice of objection has been given not later thaij the twenty-first day of February in the caso of the spring register and not later than the twenty-first day of August in the case of the autumn register.
 
-15. It shall be the duty of the registration officer to publish a list of the names of persons included in the list of claimants to whose registration notice of objection has been given as soon as practicable after the seveuth day of March in the case of the spring register and the fourth day of September in the case of the autumn register.
+15. It shall be the duty of the registration officer to publish a list of the names of persons included in the list of claimants to whose registration notice of objection has been given as soon as practicable after the seventh day of March in the case of the spring register and the fourth day of September in the case of the autumn register.
 
 Absent Voters List.
 
@@ -14972,7 +14972,7 @@ The rural districts of Castle Don-ingtou and Loughborough, the part of the rural
 
 387
 
-Name of Parliamentary Connty.
+Name of Parliamentary County.
 
 Leicester — continued.
 
@@ -15160,7 +15160,7 @@ The rural districts of Brackley, Crick, Daventry, Hardingstone, Middleton Cheney
 
 The rural districts of Brixworth, Kettering, and Oxendon, the part of the rural district of Northampton which consists of the civil parishes of Great Billing, Little Billing, and Weston Favell, and the urban districts of Desborough, Kettering, and Roth-well.
 
-The administrative connty of the soke of Peterborough, the rural districts of Easton - on - the - Hill and Gretton, the part of the rural district of Oundle which is within the administrative county of Northampton, that 1 part of the rural district of Thrapston which is within the administrative county of Northampton and is not included in the Wellingborough Division, and the urban district of 1 Oundle.
+The administrative county of the soke of Peterborough, the rural districts of Easton - on - the - Hill and Gretton, the part of the rural district of Oundle which is within the administrative county of Northampton, that 1 part of the rural district of Thrapston which is within the administrative county of Northampton and is not included in the Wellingborough Division, and the urban district of 1 Oundle.
 
 ! The rural district of Wellingborough, the part of the rural district of Thrapston which consists of the i civil parishes of Chelveston-cum-! Caldecott, Hargrave, and Stanwick, the municipal borough of Higham j Ferrers, and the urban districts of Finedon, Irthlingborough, Raunds,
 
@@ -15494,7 +15494,7 @@ The rural districts of Dorking and Reigate, the municipal borough of Reigate, an
 
 The rural district of Eastbourne, the part of the rural district of Hailsham which consists of the civil parishes of Arlington, Chalvington, Chiddingly, Hailsham, Hellingly, Laughton, and Ripe, and the county borough of Eastbourne.
 
-The rural districts of Quckfield, East Grinstead, and Uckfield, and the urban districts of Burgess Hill, Cuck-field, East Grinstead, Hayward’s Heath, and Uckfield.
+The rural districts of Quckfield, East Grinstead, and Uckfield, and the urban districts of Burgess Hill, Cuckfield, East Grinstead, Hayward’s Heath, and Uckfield.
 
 The rural districts of Chailey, New-haven, and Steyning East, the municipal borough of Lewes, and the urban districts of Newhaven, Portslade-by-Sea, and Seaford.
 
@@ -15808,7 +15808,7 @@ The rural district of Keighley, the municipal borough of Keighley, and the urban
 
 The urban districts of Altofts, Cas-tleford, Featlierstone, Methlev, Normanton, and Whitwood.
 
-The rural districts of Penistone and Wort ley, and the urban districts of Clayton West, Denby and Cum-berworth, Gunthwaite and Ingbirch-worth. Hoy land Swaiue, Kirkburton,
+The rural districts of Penistone and Wort ley, and the urban districts of Clayton West, Denby and Cumberworth, Gunthwaite and Ingbirch-worth. Hoy land Swaiue, Kirkburton,
 
 1918.
 
@@ -16408,7 +16408,7 @@ The University of Oxford -
 
 The University of Cambridge - The University of London -
 
-The University of Wales - - -
+The University of Wales -
 
 The University of Durham, the Victoria University of Manchester, the University of Liverpool, the University of Leeds, the University of Sheffield, the University of Birmingham, and the University of Bristol *
 
@@ -18190,7 +18190,7 @@ e. 49 Returning Officers (S.) retrosp.; s. 81 rep. retrosp. S. 3, 8eh. repealed 
 
 c. 68 County Courts (Elections) - VIII. 64, s. 47, Sch.
 
-56 k 67 Vict.:c. 66 Rules Publication S. 2 repealed - - - S. 1 restricted - - - j VIII. 66, s. 2 (5).
+56 k 67 Vict.:c. 66 Rules Publication S. 2 repealed - S. 1 restricted - j VIII. 66, s. 2 (5).
 
 c. 73 Local Government Ss. 43, 44 repealed - - i 64, s. 47, Sch.
 
@@ -18202,9 +18202,9 @@ c. 73 Local Government Ss. 43, 44 repealed - - i 64, s. 47, Sch.
 
 e. 1 Local Government (Elections) Act uuule permanent - 64, s. 36.
 
-c. 17 Glasgow Parliamentary Di- Repealed - - - - i 64. s. 47, Sch.
+c. 17 Glasgow Parliamentary Di- Repealed - - i 64. s. 47, Sch.
 
-c. 28 visions. Finance - 1 S. 5. am. - - - - j VIII. 31, s. 6.
+c. 28 visions. Finance - 1 S. 5. am. - - j VIII. 31, s. 6.
 
 60 61 Vict. c. 51 Public Works Loans 8. 1 virt. am. 32, s. 4.
 
@@ -18304,7 +18304,7 @@ e. 83 Naval and Military War S. 1 (5) am.: s. 2 (1) restr. - 14, ss. 2, 3.
 
 Pensions. Ss. 1, 2 (6), 3 (1) (i) (3)-(5) (7), 6 (3) rep. S. 2 virt. am. 37, s. 5 (2), Sch. 54, s. 1.
 
-e. 89 Finance - - - 1 Ss. 1, 8, 10 (1) (2), 11, 12 cont.:ss. 9 (1) (2), 38, 43, Sch. II. (Part III.) am.; s. 17 rep. [but see Terms]; s. 42 restr.; s. 46 ext. to sailors and seamen killed in war; effect of repeal by 8. 18 of s. 2 of 2 k3 Geo. 5 c. 8 explained. ! i 31, ss. 1, 2, 4, 5, 7 (2), 25, 29.
+e. 89 Finance - 1 Ss. 1, 8, 10 (1) (2), 11, 12 cont.:ss. 9 (1) (2), 38, 43, Sch. II. (Part III.) am.; s. 17 rep. [but see Terms]; s. 42 restr.; s. 46 ext. to sailors and seamen killed in war; effect of repeal by 8. 18 of s. 2 of 2 k3 Geo. 5 c. 8 explained. ! i 31, ss. 1, 2, 4, 5, 7 (2), 25, 29.
 
 448
 

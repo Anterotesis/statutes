@@ -7132,7 +7132,7 @@ Class V. Vote. 14. Supplementary Pensions - £ s. d\ 22,728 5 6 1 s- d. 40,471 1
 
 Class X.
 
-11. Ministry of Supply - - - 10 0 0 9,792,197 4 6
+11. Ministry of Supply - 10 0 0 9,792,197 4 6
 
 Total, Civil (Excesses), 1942 - 22,738 5 6 9,832,669 3 7
 
@@ -7268,7 +7268,7 @@ Department of His Majesty’s Secretary of State for Foreign Affairs and the sal
 
 2. For the expenses in connection with
 
-His Majesty's Embassies, Missions and Consular Establishments Abroad, and other expenditure chargeable to the Consular Vote ; .certain special grants and payments, including grants in aid ; and sundry other services - - -
+His Majesty's Embassies, Missions and Consular Establishments Abroad, and other expenditure chargeable to the Consular Vote ; .certain special grants and payments, including grants in aid ; and sundry other services -
 
 5. For sundry Dominion services, including certain grants in aid, and for expenditure in connection with Ex-Service Men in Eire, and for a grant in aid to Eire in respect of compensation to transferred officers
 
@@ -7312,7 +7312,7 @@ Class V. 6. For the payment of Old Age Pensions, pensions to blind persons, and 
 
 Class VI. 6. For the salaries and expenses of the Ministry of Agriculture and Fisheries, and of the Royal Botanic Gardens, Kew, including grants, grants in aid and expenses in respect of agricultural education and research, eradication of diseases of animals, and improvement of breeding, &c., of live stock, land‘settlement, improvement of cultivation, drainage, &c., regulation of agricultural wages, agricultural credits, and marketing; fishery organisation, research and development, control of diseases of fish, &c.; and sundry other services including certain remanet subsidy payments 10 1,000
 
-14. For the salaries and expenses of the State Management Districts, including the salaries of the central office, and the cost of provision and management of licensed premises - - - - 10 59,990
+14. For the salaries and expenses of the State Management Districts, including the salaries of the central office, and the cost of provision and management of licensed premises - - 10 59,990
 
 Carried forward 3.437.074 80,990
 
@@ -7400,7 +7400,7 @@ Department of Agriculture for Scotland
 
 Total, Civil (Supplementary),
 
-1943 - - - - -
+1943 -
 
 3.437.074
 
@@ -7522,7 +7522,7 @@ fleet reserve and the royal naval volunteer reserve, &c.
 
 8. Section I. For the personnel for ship-
 
-building, repairs, maintenance, &c., at dockyards and naval.yards at home and abroad -, Section II. For the materiel for shipbuilding, repairs, maintenance, &c., at dockyards and naval yards at home and abroad - - - -
+building, repairs, maintenance, &c., at dockyards and naval.yards at home and abroad -, Section II. For the materiel for shipbuilding, repairs, maintenance, &c., at dockyards and naval yards at home and abroad - -
 
 , Section III. For contract work for shipbuilding, repairs, &c.
 
@@ -8044,7 +8044,7 @@ Brought forward Vote. 5. For grants in respect of the expenses of the managers o
 
 remand homes 6. For such of the salaries, and expenses of the Supreme Court of Judicature and Court of Criminal Appeal as are not charged on the Consolidated Fund, and a grant in aid ; and the salaries and expenses of Pensions 596,900 30.100
 
-Appeal Tribunals - - - 7. For the salaries and expenses in connection with the County Courts and 100 750.899
+Appeal Tribunals - 7. For the salaries and expenses in connection with the County Courts and 100 750.899
 
 the Liabilities Adjustment Offices -8. For the salaries and expenses of the 484,938 327,600
 
@@ -8136,7 +8136,7 @@ I
 
 18. For the cost of certain Northern Ireland
 
-services - - - - - 6,377 4,600
+services - - - 6,377 4,600
 
 19. For such of the salaries and expenses of the Supreme Court of Judicature and Court of Criminal Appeal of Northern Ireland, and of the Land Registry of Northern Ireland, as are not charged on the Consolidated Fund, and other expenses (including certain expenses in connection with land purchase in Northern Ireland); and the salaries and expenses of the Pensions Appeal Tribunal in Northern Ireland -
 
@@ -8268,7 +8268,7 @@ Supply Grants. Appropriations in Aid.
 
 Vote. £ £
 
-I. For the salaries and expenses of the Ministry of Health, including grants and other expenses in connection with housing, certain grants to local authorities, &c., a grant in aid to the National Radium Trust, grants in aid in respect of national health insurance benefits, &c., certain expenses in connection with widows’, orphans’ and old age contributory pensions; a grant in aid of the Civil Service Sports Council; and other services - - - - 27,293,203 1,416,800
+I. For the salaries and expenses of the Ministry of Health, including grants and other expenses in connection with housing, certain grants to local authorities, &c., a grant in aid to the National Radium Trust, grants in aid in respect of national health insurance benefits, &c., certain expenses in connection with widows’, orphans’ and old age contributory pensions; a grant in aid of the Civil Service Sports Council; and other services - - 27,293,203 1,416,800
 
 2. For the salaries and expenses of the Board of Control and grants in respect of the maintenance of certain , ex-service mental patients- 239.734 14.425
 
@@ -8340,7 +8340,7 @@ Brought forward J 151.645.512 £ 4,110,505
 
 Vote. 13. For financial assistance to new industrial undertakings in the Special and Other Areas 25,800
 
-14. For the payment of Supplementary Pensions to certain persons in receipt of Old Age Pensions or Widows’ Pensions - - - - - 54,930,000 70,000
+14. For the payment of Supplementary Pensions to certain persons in receipt of Old Age Pensions or Widows’ Pensions - - - 54,930,000 70,000
 
 15. For the salaries and expenses of the Department of Health for Scotland; including grants and other expenses in connection with housing, certain grants to local authorities, &c., a grant in aid of the Highlands and Islands medical service, grants in aid in respect of national health insurance benefits, &c. ; certain expenses in connection with widows’, orphans’ and old age contributory pensions; and other services - 4,801,823 181,000
 
@@ -8468,7 +8468,7 @@ Vote. 12. For grants to public utility undertakings in Great Britain - 434,000 �
 
 15. For the salaries and expenses of the
 
-Anglo-Spanish, Anglo-Roumanian, Anglo-Italian and Anglo-Turkish Clearing Offices - - - - 100 33.500
+Anglo-Spanish, Anglo-Roumanian, Anglo-Italian and Anglo-Turkish Clearing Offices - - 100 33.500
 
 16. For the salaries and expenses of the Department of Agriculture for Scotland, including grants for land improvement, agricultural education, research and marketing, expenses in respect of regulation of agricultural wages; certain grants in aid, and remanet subsidy payments 801,560 163,388
 
@@ -8580,7 +8580,7 @@ expenses connected therewith -2. For the salaries and expenses of the Ministry o
 
 in respect thereof and other services 3. For the expenses of pensions, compensation allowances and gratuities awarded to retired and disbanded members and staff of the Royal Irish Constabulary, and to widows of such members, including annuities - to the National Debt Commissioners in respect of commutation of compensation allowances and certain extra- 35,561,000 30,000
 
-statutory payments - - -4. For superannuation and other non-effective annual allowances, additional allowances, gratuities, compassionate allowances and supplementary pensions in respect of civil employment (including a Supple- 1,130,000
+statutory payments -4. For superannuation and other non-effective annual allowances, additional allowances, gratuities, compassionate allowances and supplementary pensions in respect of civil employment (including a Supple- 1,130,000
 
 mentary sum of £10) - . .. 2,600,010 40,243
 
@@ -8694,7 +8694,7 @@ Department IOO 10
 
 11. For the salaries and expenses of the
 
-Ministry of Production - - - IOO- 10
+Ministry of Production - IOO- 10
 
 Carried forward £ 1,100 no
 
@@ -19712,7 +19712,7 @@ Session and Chapter. Short Title. How far Continued. Amending Acts.
 
 (4) 9& 10 Geo. 5. c. 97- The Land Settlement (Scotland) Act, 1919. Section two - - 12 & 13 Geo. 5. c. 52.
 
-(5) 20 & 21 Geo. 5. c. 34. The Coal Mines Act, 1930. Part I - - - 1 & 2 Geo. 6. c. 52.
+(5) 20 & 21 Geo. 5. c. 34. The Coal Mines Act, 1930. Part I - 1 & 2 Geo. 6. c. 52.
 
 2 L
 

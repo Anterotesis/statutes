@@ -1018,9 +1018,9 @@ Bryan Keogh - 50 0 0 18 2 48 11 10
 
 Patrick Murray - 150 0 0 28 6 7 121 13 5
 
-Thos. Gannon - - - | 50 0 0 6 12 2 43 7 10
+Thos. Gannon - | 50 0 0 6 12 2 43 7 10
 
-J. M. L. Tew - - - 1 190 0 0 1 163 13 7 26 6 5
+J. M. L. Tew - 1 190 0 0 1 163 13 7 26 6 5
 
 PART II.
 
@@ -2852,11 +2852,11 @@ For every thirty-six gallons of beer where the worts thereof are or were before 
 
 Not exceeding one thousand two hundred and
 
-fifteen degrees - - - - 0 2 0
+fifteen degrees - - 0 2 0
 
 Exceeding one thousand two hundred and
 
-fifteen degrees - - - - 0 2 4
+fifteen degrees - - 0 2 4
 
 This section shall extend to Berlin white beer, and other preparations, whether fermented or not fermented, of a character similar to mum, spruce, or black beer. 27
 
@@ -2884,7 +2884,7 @@ and there shall be allowed and paid in and for the same period in respect of all
 
 £ . d.
 
-For every gallon, computed at proof, of spirits of any description (except perfumed spirits) including naphtha or methylic alcohol, purified so as to be potable, and mixtures and preparations containing spirits - - - - - -006
+For every gallon, computed at proof, of spirits of any description (except perfumed spirits) including naphtha or methylic alcohol, purified so as to be potable, and mixtures and preparations containing spirits - -006
 
 For every gallon of perfumed spirits - - 0 0 10
 
@@ -7320,7 +7320,7 @@ WHEREAS it is expedient that certain enactments which may be regarded as spent, 
 
 Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. The enactments described in the First Schedule to this Act are hereby repealed, subject to the provisions of this Act and subject to the exceptions and qualifications in that schedule mentioned; and every part of a title, preamble, or recital specified after the words “in part, namely, " in connexion with an Act mentioned in the said schedule may be omitted from any revised edition of the statutes published by authority after the passing of this Act, and there may be added in the said edition such brief statement of the Acts, officers, persons, and things mentioned in the title, preamble, or recital, as may in consequence of such omission appear necessary.
+1. The enactments described in the First Schedule to this Act are hereby repealed, subject to the provisions of this Act and subject to the exceptions and qualifications in that schedule mentioned; and every part of a title, preamble, or recital specified after the words “in part, namely," in connexion with an Act mentioned in the said schedule may be omitted from any revised edition of the statutes published by authority after the passing of this Act, and there may be added in the said edition such brief statement of the Acts, officers, persons, and things mentioned in the title, preamble, or recital, as may in consequence of such omission appear necessary.
 
 Provided as follows:
 
@@ -7366,7 +7366,7 @@ and this Act shall not extend to repeal any enactment so far as the same may be 
 
 3. The Second Schedule to this Act shall be substituted for so much of the Statute Law Revision (No. 2) Act, 1888, and the Statute Law Revision Act, 1892, as relates to the Acts mentioned in that schedule, and the said Statute Law Revision Acts shall be read and construed accordingly.
 
-4. In any revised edition of the statutes published by authority the words “ Be it enacted by the Queen’s most Excellent Majesty, " by and with the advice and consent of the Lords Spiritual and “ Temporal, and Commons, in this present Parliament assembled, “ and by the authority of the same, as follows, ” or any words to the same effect occurring in any Act, may be omitted.
+4. In any revised edition of the statutes published by authority the words “ Be it enacted by the Queen’s most Excellent Majesty," by and with the advice and consent of the Lords Spiritual and “ Temporal, and Commons, in this present Parliament assembled, “ and by the authority of the same, as follows, ” or any words to the same effect occurring in any Act, may be omitted.
 
 5. This Act may be cited as the Statute Law Revision Act 1894,
 
@@ -7988,7 +7988,7 @@ Reign and Chapter. Title.
 
 40 & 41 Vict. c. 11. - An Act to make provision with respect to Judicial Proceedings in certain cases relating to Rating. In part; namely, — Section one, from whether commenced ” to Act.” Section three, from or of any” to justice.”
 
-40 &41 Vict. c. 13. - The Customs, Inland Revenue, and Savings Banks Act, 1877. In part; namely, — Preamble. Section twelve, to next, ” and from instead, " where it secondly occurs, to Controller, ” where it next occurs. Section fourteen, to as follows, ” and the words 4< Commissioners of Her Majesty's.” Section fifteen, to44 as follows, ” and the words Commissioners of Her Majesty's.” Section sixteen, to as follows, ” and the words Commissioners of Her Majesty's.”
+40 &41 Vict. c. 13. - The Customs, Inland Revenue, and Savings Banks Act, 1877. In part; namely, — Preamble. Section twelve, to next, ” and from instead," where it secondly occurs, to Controller, ” where it next occurs. Section fourteen, to as follows, ” and the words 4< Commissioners of Her Majesty's.” Section fifteen, to44 as follows, ” and the words Commissioners of Her Majesty's.” Section sixteen, to as follows, ” and the words Commissioners of Her Majesty's.”
 
 40& 41 Vict. c. 14. - The Evidence Act, 1877. In part; namely, — Preamble.
 
@@ -11578,7 +11578,7 @@ Footpavement This Act
 
 the Burgh Police (Scotluud) Act, 1892.
 
-Inspector of cleansing Magistrate - - -
+Inspector of cleansing Magistrate -
 
 Burgh general assessment -By special order as herein defined -
 
@@ -11876,7 +11876,7 @@ for the year mided 31st March 1894, viz.: — £ 1893-94.
 
 Militia: Pay and Allowances ---- 26,000
 
-Provisions, Forage, and other Supplies - - - 109,000
+Provisions, Forage, and other Supplies - 109,000
 
 Works, Buildings, and Repairs ---- 60,000
 
@@ -11902,7 +11902,7 @@ Home Office and Subordinate Departments
 
 Colonial Office -
 
-Local Government Board - - -
+Local Government Board -
 
 Class III.
 
@@ -11988,7 +11988,7 @@ No.
 
 For wages, Ac. to 83, 400 officers, seamen, and boys, coastguard, and Royal marines - For the expense of victualling and clothing for the navy, including the cost of victualling establishments at home and abroad - For medical services, including the cost of medical establishments at home and abroad For martial law, Ac., including the cost of naval prisons at home and abroad - For educational services - For scientific services - For the expense of the royal naval reserve, reserve of retired officers, seamen and marine pensioners, and royal naval artillery volunteers -Sect. 1. For the expense of the personnel for shipbuilding, repairs, and maintenance, including the cost of establishments of dockyards and naval yards at home and
 
-abroad - - - -
+abroad - -
 
 Sect. 2. For the expense of the materiel for shipbuilding, repairs, and maintenance, including the cost of establishments of dockyards and naval yards at home and
 
@@ -12090,7 +12090,7 @@ and expenditure for Royal Engineer works, buildings, and repairs at home and abr
 
 13. For the salaries and miscellaneous charges of
 
-the War Office - - - -
+the War Office - -
 
 14. For retired pay, half-pay, and other non-
 
@@ -12194,7 +12194,7 @@ For the expense of the ordnance factories, the cost of productions of which is c
 
 Total Ahmt Services (including Ordnance! 18, 081,000 5, 080, 690
 
-Factories) - - - £ J
+Factories) - £ J
 
 SCHEDULE (B.) — Part 7. CIVIL SERVICES. — Class I.
 
@@ -12440,7 +12440,7 @@ and printed books, for the public service, and for the salaries and expenses of 
 
 24. For salaries and expenses of the office of
 
-Her Majesty’s Woods, Forests, and Land Revenues, and of the office of Land Revenue Records and Inrolments - - -
+Her Majesty’s Woods, Forests, and Land Revenues, and of the office of Land Revenue Records and Inrolments -
 
 Sums not exceeding
 
@@ -12764,7 +12764,7 @@ including the expenses of the Education Office in London -
 
 2. For salaries and expenses of the Department of
 
-Science and Art, and of the establishments connected therewith - - - -
+Science and Art, and of the establishments connected therewith - -
 
 3. For salaries and expenses of the British
 
@@ -12820,7 +12820,7 @@ Supply Appropriations Grants. in Aid.
 
 Gallery (including a supplementary sum of 1 5,0001.) 18, 368 1,000
 
-5. For salaries and expenses of the National Portrait Gallery - - - 1, 825
+5. For salaries and expenses of the National Portrait Gallery - 1, 825
 
 6. For eundry grants in aid of scientific investigation, Sc. in the United Kingdom - 26, 247
 
@@ -12990,7 +12990,7 @@ Department -
 
 3. For salaries and expenses of the Post Office
 
-services, the expenses of Post Office savings banks, and Government annuities and insurances, and the collection of the Post Office revenue - - - -
+services, the expenses of Post Office savings banks, and Government annuities and insurances, and the collection of the Post Office revenue - -
 
 4. For the Post Office packet service
 
@@ -22494,7 +22494,7 @@ No. of Decks No. of Masts Eigged- -Stem -BnUd - -
 
 Galleries -
 
-Head - - -
+Head -
 
 Framework and description of vessel No. of Bulkheads No. of water ballast tanks and their capacity in tons
 
@@ -22506,7 +22506,7 @@ Main breadth to outside of Plank Depth in Hold from Tonnage Deck to Ceiling at M
 
 Depth in Hold from Upper Deck to Ceiling at Midships in the case of three Decks and upwards - -
 
-Depth from top of Beam amidships to top of Keel - - -
+Depth from top of Beam amidships to top of Keel -
 
 Depth from top of Deck at side amidships to bottom of Keel ...
 
@@ -22526,7 +22526,7 @@ Merchant Shipping Act, 1804. 57 & 58 .Vic*.
 
 PARTICULARS OP DISPLACEMENT.
 
-Total to quarter the depth from weather deck I Ditto per inch immersion at — me at aide amidships to bottom of keel - tons. | depth - - - - tons.
+Total to quarter the depth from weather deck I Ditto per inch immersion at — me at aide amidships to bottom of keel - tons. | depth - - tons.
 
 PARTICULARS OP ENGINES (if any).
 
@@ -23220,7 +23220,7 @@ Maximum Fees for Survey of Emigrant Ships.
 
 s. d.
 
-For an ordinary survey of the ship, and of her equipments, accommodation, stores, light, ventilation, sanitary arrangements, and medical stores - - - - - 10 0 0
+For an ordinary survey of the ship, and of her equipments, accommodation, stores, light, ventilation, sanitary arrangements, and medical stores - - - 10 0 0
 
 For a special survey ---- -15 00
 
@@ -23332,11 +23332,11 @@ lbs. ozs. lb*. o*s.
 
 Bread or biscuit, not inferior to navy biscuit ., « 8 3 8
 
-Wheaten flour - - - 1 0 2 O
+Wheaten flour - 1 0 2 O
 
 Oatmeal - - 1 8 1 0
 
-Rice - - - 1 8 0 8
+Rice - 1 8 0 8
 
 Peas - - 1 8 1 8
 
@@ -23352,7 +23352,7 @@ Sugar - 1 0 1 0
 
 Tea .... - 0 2 0 2
 
-Salt - - - 0 2 0 2
+Salt - 0 2 0 2
 
 Mustard - - 0 Oi 0 °<
 
@@ -23398,7 +23398,7 @@ f lb. of sugar.
 
 1 lb. of flour or of bread or biscuit, 1 « f or £ lb. of beef or of pork •] or|
 
-1 lb. of rice - - - - for
+1 lb. of rice - - for
 
 £ lb. of preserved potatoes - for 10 oz. of currants - for
 
@@ -23542,7 +23542,7 @@ Adults of 12 Years of Age and upwards. Children between j Ini, nlji land 12 Year
 
 Married. Single.
 
-English Scotch - - -Irish - Foreigners - -Total - M. F. M. F. M. 1 F. i 1 1 i M. i F. i
+English Scotch -Irish - Foreigners - -Total - M. F. M. F. M. 1 F. i 1 1 i M. i F. i
 
 1 1
 
@@ -23822,11 +23822,11 @@ Tons. Tons. 1 Ft. ! Ft. In. Ft. In. Ft. | Ft. In. Ft. In. Ft. Ft. In. j Ft. In. 
 
 400 and upwards 240 and upwards - l 16, 5 « 2 3 1 22 6 6 2 5 i 22 6 6 3 3 *1 !22 5 G 2 6 3 3 or 4, as the case may be.
 
-200 to 400 120 to 240 - - l I 14 5 0 2 2 - - - - l ! 20 1 6 0 I 3 0 2 22 5 6 2 6 2 2 or 3
+200 to 400 120 to 240 - - l I 14 5 0 2 2 - - l ! 20 1 6 0 I 3 0 2 22 5 6 2 6 2 2 or 3
 
-z nbo to 200 - i; o to 120 l 14 6 0 2 2 - - - - i 16 .56 2 0 2 1 18 5 6 2 4 2 2 or 3, ,
+z nbo to 200 - i; o to 120 l 14 6 0 2 2 - - i 16 .56 2 0 2 1 18 5 6 2 4 2 2 or 3, ,
 
-Under 100 U nder 60 - - i 14 i 5 0 2 2 - - - - - - - 1 _ j 1 - — 1 1
+Under 100 U nder 60 - - i 14 i 5 0 2 2 - - - 1 _ j 1 - — 1 1
 
 Sole. — In sailin'? boats e irrying the number of Inats above peri llod. and steam boats carrying the larger of the two numbers above specified, the boats are to be considered sufficient, 1/ their aggregate cubic contents am equal to the aggregate cubic contents of the boats specified.
 
@@ -23854,7 +23854,7 @@ Maximum Fees for Inspection of Lights and Fog Signals.
 
 For ea-'h visit made to a ship on the application of the owner Section 420
 
-and for each visit made where the lights or fittings are found defective - - - - - - -0 10 0
+and for each visit made where the lights or fittings are found defective - - -0 10 0
 
 Provided that the aggregate amount of fees for any such inspection shall not exceed one pound whatever may be the number of separate visits.
 
@@ -23980,11 +23980,11 @@ TWENTIETH SCHEDULE.
 
 Maximum Fees and Remuneration of Receivers.
 
-For every examination on oath instituted by a receiver with £ s. d. respect to any vessel which may be or may have been in distress, a fee not exceeding - - - - 1 0 0
+For every examination on oath instituted by a receiver with £ s. d. respect to any vessel which may be or may have been in distress, a fee not exceeding - - 1 0 0
 
 But so that in no case shall a larger fee than two pounds be charged for examinations taken in respect of the same vessel and the same occurrence, whatever may be the number of the deponents.
 
-For every report required to be sent by the receiver to the secretary of Lloyd’s in London, the sum of - - - 0 10 C
+For every report required to be sent by the receiver to the secretary of Lloyd’s in London, the sum of - 0 10 C
 
 For wreck taken by the receiver into his custody, a percentage of five per cent, upon the value thereof.
 
@@ -24252,7 +24252,7 @@ I 3 15 O 4 2 1> 4 10 3 6 1 3 5 16 0 j 6 8 » 7 14 0 8 14 0 9 13 3 10 12 G
 
 5 1 3 R 10 1 fi 5 19 0 G 8 G IK 1 0 7 7 3 7 1G 5 ! - -
 
-5 10 6 5 IP G G 8 9 G 18 0 i ! 7 7 3:1 7 16 1 3 1 8 5 G - - -
+5 10 6 5 IP G G 8 9 G 18 0 i ! 7 7 3:1 7 16 1 3 1 8 5 G -
 
 3 4 0 3 13 6 4 2 9 4 12 0 5 3 6 5 10 0 6 8 9 8 5 G . 9 4 0 —
 
@@ -25224,7 +25224,7 @@ Actions against Canal Companies, &c.
 
 Trade with the East Indies Unlawful Oaths (Ireland)
 
-Excise Licenses Universities (England) -Crown Lands - - -
+Excise Licenses Universities (England) -Crown Lands -
 
 Beerhouses, England
 
@@ -25320,7 +25320,7 @@ o. 82 Building Societies Be pealed (but see date and 47, s. 25.
 
 terms).
 
-e. 87 Bread - - - S. 29 repealed - 1 56 (Stat. Law j* Rev.)
+e. 87 Bread - S. 29 repealed - 1 56 (Stat. Law j* Rev.)
 
 7 Will. 4. and Small Debts (Scotland) Ss. 13, 36, Schs. (A.) (D.)
 
@@ -25354,7 +25354,7 @@ c. 24 Dublin Police - - Ss. 74, 75, repealed 56 (Stat. Law
 
 Rev.)
 
-c. 35 Income Tax - - - S. 163 amended - 30, s. 84.
+c. 35 Income Tax - S. 163 amended - 30, s. 84.
 
 c. 89 Drainage (Ireland) Ss. 140, 141 repealed S. 110 repealed 1 56 (Stat. Law j Rev.)
 
@@ -25388,7 +25388,7 @@ c. 83 Poor Law (Scotland) Ss. 2, 3, 6, 7, 18-29, 31, 58, s. 55.
 
 c. 86 Customs - S. 139 repealed clxxxvii. (Local).
 
-c. 109 Gaming - - - Ss. 22, 23 repealed
+c. 109 Gaming - Ss. 22, 23 repealed
 
 9& 10 Vict. c. 3.-10 & 11 Vict.: Sea Fisheries, &c. (Ireland) Ss. 80, 81 repealed
 
@@ -25518,7 +25518,7 @@ c. 62 c. 63
 
 Foreign Deserters Commissioners of Works -Turnpike Trusts
 
-Copyhold - - - -
+Copyhold - -
 
 Election Commissioners
 
@@ -25562,7 +25562,7 @@ Turnpike Trusts
 
 Amendment of Passengers Act -Dublin Carriage
 
-Betting - - - -
+Betting - -
 
 Charitable Trusts - -
 
@@ -25622,7 +25622,7 @@ c. 122
 
 Public Libraries, Ireland -Places of Worship Registration -Merchant Shipping - -1
 
-Passengers - - - J
+Passengers - J
 
 Metropolis Management -
 
@@ -25784,7 +25784,7 @@ e. 69 Statute Law Revision - Schedule repealed J Rev.)
 
 c. 95 Passengers Act (Amendment) -City of Dublin (Drainage) Repealed 60, a 745.
 
-e. 106 Repealed - - - 56 (Stat. Law
+e. 106 Repealed - 56 (Stat. Law
 
 84 & 85 Vict.: Rev.)
 
@@ -26000,7 +26000,7 @@ S. 84 applied - - 2,
 
 Repealed - - 1
 
-Repealed - - - J
+Repealed - J
 
 S. 61 repealed - - 1 *
 
@@ -26288,7 +26288,7 @@ c. 31 Railways Construction (Ireland)
 
 c. 35 Wild Birds Protection - Amended 24.
 
-S. 7 repealed - - -
+S. 7 repealed -
 
 e. 36 Savings Banks - - S. 7, schedule repealed -
 
@@ -26372,7 +26372,7 @@ o. 56 Appropriation - - J
 
 c. 57 Regulation of the Forces S. 52, Schedule repealed -
 
-c. 58 Army - - - Ss. 44, 91, 129, 170 am. -Schedule repealed 3, ss. 4-7.
+c. 58 Army - Ss. 44, 91, 129, 170 am. -Schedule repealed 3, ss. 4-7.
 
 c. 59 Statute Law Revision and Civil Procedure.
 
@@ -26576,7 +26576,7 @@ Fisheries (Thames and Medway)
 
 4 & 5 Will. IV. c. 32 8 & 9 Vict c. 86 12 & 13 Vict. c. 90 14 Geo. III. c. 91 17 Geo. III. c. 18 48 & 49 Vict. c. 76
 
-Tonnage Bates (Port of London) I Customs - - -
+Tonnage Bates (Port of London) I Customs -
 
 [•Thames Navigation Thames Preservation
 

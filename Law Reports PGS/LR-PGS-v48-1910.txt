@@ -438,13 +438,13 @@ Fourpence each.
 
 Elevenpence halfpenny each.
 
-Supper as so specified - - - - - - Twopence halfpenny each.
+Supper as so specified - - Twopence halfpenny each.
 
 Where no meals furnished, lodging and attend- I Sixpence per day. a nee, and candles, vinegar, salt, and the use of i fire, and the necessary utensils for dressing I and eating his meat.
 
 Stable room and ten pounds of oats, twelve pounds One shilling and nine-of hay, and eight pounds of straw per day for pence per day. each horse. 1
 
-Lodging and attendance for officer - - - Two shillings per night.
+Lodging and attendance for officer - Two shillings per night.
 
 Note. — An officer shall pay for his food.
 
@@ -2156,9 +2156,9 @@ double the duties which would have been chargeable immediately before the passin
 
 Where the value of the stock or marketable security —
 
-is 51. and does not exceed 100Z. exceeds 100Z. and does not exceed 500Z. - - -
+is 51. and does not exceed 100Z. exceeds 100Z. and does not exceed 500Z. -
 
-exceeds 500Z. and does not exceed 1,000Z. - - -
+exceeds 500Z. and does not exceed 1,000Z. -
 
 exceeds 1,000Z. and does not exceed 1, 500Z.
 
@@ -2166,13 +2166,13 @@ exceeds 1, 500Z. and does not exceed 2, 500Z. ....
 
 exceeds 2, 500Z. and does not exceed 5,000Zl
 
-exceeds 5,000Z. and does not exceed 7, 500Z. - - -
+exceeds 5,000Z. and does not exceed 7, 500Z. -
 
 exceeds 7, 500Z. and does not exceed 10,000Z. ....
 
 exceeds 10,000Z. and does not exceed 12, 500Z.
 
-exceeds 12, 500Z. and does not exceed 15,000Z. - - -
+exceeds 12, 500Z. and does not exceed 15,000Z. -
 
 exceeds 15,000Z. and does not exceed 17, 500Z.
 
@@ -2286,11 +2286,11 @@ For every thirty-six gallons thereof, where the worts thereof are or were before
 
 Not exceeding one thousand two hundred and
 
-fifteen degrees - - - - - - 010
+fifteen degrees - - 010
 
 Exceeding one thousand two hundred and
 
-fifteen degrees - - - - - - 012
+fifteen degrees - - 012
 
 (2) In addition to the duties of Customs payable on any description of beer other than that specified in the preceding subsection imported into Great Britain or Ireland, there shall, as from the twelfth day of May nineteen hundred and nine, be charged, levied, and paid the following duty (that is to say): —
 
@@ -2302,7 +2302,7 @@ And so, as to both duty and drawback, in proportion for any difference in gravit
 
 (3) In addition to the drawback of Excise payable in respect of beer exported from the United Kingdom as merchandise or shipped for use as ship’s stores, there shall be allowed and paid in respect of beer brewed in the United Kingdom, as from the first day of November nineteen hundred and nine —
 
-For every thirty-six gallons of beer of an original £ s. d. gravity of one thousand and fifty-five degrees, an allowance of- - - - -003
+For every thirty-six gallons of beer of an original £ s. d. gravity of one thousand and fifty-five degrees, an allowance of- - -003
 
 and so in proportion for any difference in quantity or gravity.
 
@@ -2664,11 +2664,11 @@ Duty.
 
 Number of barrels brewed during the preceding year — £ s. d.
 
-Not exceeding 100 barrels - - - - - -100
+Not exceeding 100 barrels - -100
 
 Exceeding 100 barrels —
 
-For the first 100 barrels - - - - - -100
+For the first 100 barrels - -100
 
 . For every further 50 barrels or fraction of 50 barrels - 0 12 0
 
@@ -2832,11 +2832,11 @@ Annual value of licensed premises — £ d.
 
 Under 3d/...........................................4 10 0
 
-30/. and under 50/. - - - - - - - 600
+30/. and under 50/. - - - 600
 
 50/., 100/.................................. 9 0 0
 
-100/. and over - - - - - - -1200
+100/. and over - - -1200
 
 II. — Off-Licences.
 
@@ -2894,7 +2894,7 @@ Spirit Retailer’s Off-Licence. Duty.
 
 Annual value of licensed premises — £ s. d.
 
-Not exceeding 10/. - - - - 10 0 0
+Not exceeding 10/. - - 10 0 0
 
 Exceeding 10/. and not exceeding 20/. - - 11 10 0
 
@@ -2918,7 +2918,7 @@ Beer Retailer’s Off-Licence. Duty.
 
 Annual value of licensed premises — £ s. d.
 
-Not exceeding 10/.- - - - 1 10 0
+Not exceeding 10/.- - 1 10 0
 
 Exceeding 10/. and not exceeding 20/. - - 2 0 0
 
@@ -2934,7 +2934,7 @@ ti 75/. ., , 100/. - - 4 0 0
 
 It 250/., , 500/. - - 7 0 0
 
-It 5001. - - - 10 0 0
+It 5001. - 10 0 0
 
 1910.
 
@@ -3206,21 +3206,21 @@ Customs Duties on Special Articles.
 
 Chloral hydrate - the pound £ 0
 
-Chloroform - - - - the pound 0
+Chloroform - - the pound 0
 
-Collodion - - - the gallon 1
+Collodion - the gallon 1
 
-Ether, acetic - - - the pound 0
+Ether, acetic - the pound 0
 
-Ether, butyric - - - the gallon 1
+Ether, butyric - the gallon 1
 
-Ether, sulphuric - - - the gallon 1
+Ether, sulphuric - the gallon 1
 
-Ethyl, iodide of - - - the gallon 0
+Ethyl, iodide of - the gallon 0
 
-Ethyl bromide - - - the pound 0
+Ethyl bromide - the pound 0
 
-Ethyl chloride - - - the gallon 1
+Ethyl chloride - the gallon 1
 
 FOURTH SCHEDULE. TOBACCO.
 
@@ -3252,7 +3252,7 @@ Cavendish or Negrohead - the lb.
 
 Cavendish or Negrohead manufactured in bond - the lb. Other manufactured tobacco ... the lb. Snuff containing more than 13 lhs. of moisture in
 
-every 100 lbs. weight thereof - - - the lb.
+every 100 lbs. weight thereof - the lb.
 
 Snuff not containing more than 13 lbs. of moisture
 
@@ -3376,11 +3376,11 @@ in every 100 lbs. weight thereof ... the lb. 3 6
 
 Tobacco containing less than 10 lbs. of moisture
 
-in every 100 lbs. weight thereof - - - the lb. 3 11
+in every 100 lbs. weight thereof - the lb. 3 11
 
 Upon tobacco manufactured, viz.: —
 
-Cavendish or Negroliead manufactured in bond - the lb. 4 8
+Cavendish or Negrohead manufactured in bond - the lb. 4 8
 
 Part III.
 
@@ -4126,7 +4126,7 @@ SCHEDULE (A.)
 
 £ s.
 
-Grants out of the Consolidated Fund - - - 136, 182, 556 0 0
+Grants out of the Consolidated Fund - 136, 182, 556 0 0
 
 SCHEDULE (B.) — Appropriation of Grants.
 
@@ -4276,9 +4276,9 @@ Sum granted to meet additional Expenditure on Navy Services for the year ended o
 
 Vote 8. Shipbuilding, repairs, maintenance, Ac.,
 
-Section III., Contract Work - - - 830,000 0 0
+Section III., Contract Work - 830,000 0 0
 
-Vote 9. Naval Armaments - - - 86,000 0 0
+Vote 9. Naval Armaments - 86,000 0 0
 
 Vote 10. Works, Buildings, and Repairs, Ac. - 100 0 0
 
@@ -4342,7 +4342,7 @@ Class VII.
 
 For expenses in connection with International Exhibitions ----
 
-Total - - - £
+Total - £
 
 Supply Grants. | Appropriations in Aid.
 
@@ -4426,13 +4426,13 @@ J, Sect. 2. For the materiel for shipbuilding, | repairs, maintenance, &c., incl
 
 , Sect. 3. For contract work for shipbuilding, . repairs, &c. ---- 12, 395, 400 168, 100
 
-9. For naval armaments - - - 2, 781,000 125,000
+9. For naval armaments - 2, 781,000 125,000
 
 10. For works, buildings, and repairs at home and abroad, including the cost of superintendence, purchase of sites, grants in aid, < and other charges connected therewith 2, 995, 300 30,000
 
 11. For various miscellaneous effective services - | 459,000 13, 327
 
-12. For the Admiralty Office - - - t 388, 800 8, 785
+12. For the Admiralty Office - t 388, 800 8, 785
 
 13. For half-pay, and retired pay to officers of the navy and marines 924, 500 15, 012
 
@@ -4464,7 +4464,7 @@ No. Grants. tions in Aid.
 
 1. For the pay, &c. of His Majesty’s Army (including Army Reserve to a number not exceeding 138,000) at home and abroad (ex- £ £
 
-clusive of India) - - -2. For the pay, &c. of the medical establishments 8, 733,000 1, 258, 800
+clusive of India) -2. For the pay, &c. of the medical establishments 8, 733,000 1, 258, 800
 
 and for medicines, &c. -3. For the pay, bounty, &c. of the Special Reserves and the Reserve Division of the Militia (to a number not exceeding 91, 739, including 4, 500 militia and 700 militia reserve) and of 452,000 2, 200
 
@@ -4490,7 +4490,7 @@ staff in connection therewith - 2, 598,000 186,000
 
 12. For the War Office - 13. For rewards; half-pay; retired pay; widows’ pensions; and other non-effective charges for 429,000 250
 
-officers - - - 1, 789,000 504, 750
+officers - 1, 789,000 504, 750
 
 14. For Chelsea and Kilmainham hospitals; for out-pensions; for rewards for distinguished services; for widows’ pensions; and for other non-effective charges for warrant officers,
 
@@ -4548,7 +4548,7 @@ No.
 
 1. For expenditure in respect of royal palaces,
 
-including a grant in aid (including a supplementary sum of 64, 335/.) - - - ,
+including a grant in aid (including a supplementary sum of 64, 335/.) - ,
 
 2. For expenditure in respect of Osborne -
 
@@ -4558,11 +4558,11 @@ including a grant in aid (including a supplementary sum of 64, 335/.) - - - ,
 
 Parliament buildings ...
 
-4a. For the execution and erection of a monument | in the Collegiate Church of St. Peter, West- | minster, to the memory of the late Right Honourable Sir Henry Campbell-Bannerman, G.C.B., M.P. - - - - - ,
+4a. For the execution and erection of a monument | in the Collegiate Church of St. Peter, West- | minster, to the memory of the late Right Honourable Sir Henry Campbell-Bannerman, G.C.B., M.P. - - - ,
 
 5. For expenditure in respect of miscellaneous |
 
-legal buildings, Great Britain - - -
+legal buildings, Great Britain -
 
 6. For expenditure in respect of Art and Science
 
@@ -4570,7 +4570,7 @@ buildings, Great Britain
 
 7. For expenditure in respect of diplomatic and '
 
-consular buildings, and for the maintenance | of certain cemeteries abroad - - - ,
+consular buildings, and for the maintenance | of certain cemeteries abroad - ,
 
 8. For the Customs and Excise, Inland Revenue,:
 
@@ -4580,7 +4580,7 @@ Post Office and Telegraph buildings in Great I Britain, and certain Post Offices
 
 10. For expenditure in respect of sundry public
 
-buildings in Great Britain not provided for on other votes - - - -
+buildings in Great Britain not provided for on other votes - -
 
 11. For the survey of the United Kingdom, and
 
@@ -4632,7 +4632,7 @@ Board of Trade and for grants in aid of harbours - 83, 280 2, 600
 
 14. For rates and contributions in lieu of rates, &c. in respect of Government property, and for rates on houses occupied by representatives of Foreign Powers, and for salaries and expenses of the Rating of Government property department, and for a contribution towards the expenses of the London Fire Brigade 675, 700 28, 451
 
-16. For the erection, repairs, and maintenance of public buildings m Ireland, for the maintenance of certain parks and public works, and for the maintenance of drainage works on the River Shannon - - - 259, 804 7, 070
+16. For the erection, repairs, and maintenance of public buildings m Ireland, for the maintenance of certain parks and public works, and for the maintenance of drainage works on the River Shannon - 259, 804 7, 070
 
 16. For payments under the Tramways and Public Companies (Ireland) Act, 1883, &c., the Tramways (Ireland) Act, 1895, the Railways (Ireland) Act, ‘ 1896, and the Marine Works (Ireland) Act, 1902, and for other purposes connected with Irish Railways 87, 114
 
@@ -4736,7 +4736,7 @@ Commission for England and Wales
 
 13. For the salaries ana expenses of the Civil
 
-Service Commission - - -
+Service Commission -
 
 14. For the salaries and expenses of the department
 
@@ -4744,7 +4744,7 @@ of the Comptroller and Auditor General
 
 15. For the salaries and expenses of the Registry
 
-of Friendly Societies - - -
+of Friendly Societies -
 
 16. For the salaries and expenses of the Local
 
@@ -4866,13 +4866,13 @@ No.
 
 For the salaries and expenses in the office of His Majesty’s Woods, Forests, and Land Revenues - For the salaries and expenses of the office of the Commissioners of His Majesty’s Works and Public Buildings
 
-For His Majesty’s foreign and other secret services - - - -
+For His Majesty’s foreign and other secret services - -
 
 For the salaries and expenses of the office of His Majesty’s Secretary for Scotland and subordinate office, expenses under the Inebriates Acts, 1879 to 1900, and expenses under the Private Legislation Procedure (Scotland) Act, 1899, including a grant in aid of the Congested Districts (Scotland) Fund ----
 
-For the salaries and expenses of the Fishery Board for Scotland, and for grants in aid of piers or quays - For the salaries and expenses of the Board of Lunacy in Scotland - For the salaries and expenses of the department of the Registrar General of Births, &c. in Scotland - For the salaries and expenses of the Local Government Board for Scotland For the salaries and expenses of the household of the Lord Lieutenant of Ireland For the salaries and expenses of the offices of the Chief Secretary to the Lord Lieutenant of Ireland, in Dublin and London, and of the Inspectors of Lunatic Asylums, and expenses under the Inebriates Acts - For the salaries and expenses of the department of agriculture and other industries, and technical instruction for Ireland, and of the services administered by that department, including sundry grants in aid For the salaries and expenses of the office of the Commissioners of Charitable Donations and Bequests for Ireland - - -
+For the salaries and expenses of the Fishery Board for Scotland, and for grants in aid of piers or quays - For the salaries and expenses of the Board of Lunacy in Scotland - For the salaries and expenses of the department of the Registrar General of Births, &c. in Scotland - For the salaries and expenses of the Local Government Board for Scotland For the salaries and expenses of the household of the Lord Lieutenant of Ireland For the salaries and expenses of the offices of the Chief Secretary to the Lord Lieutenant of Ireland, in Dublin and London, and of the Inspectors of Lunatic Asylums, and expenses under the Inebriates Acts - For the salaries and expenses of the department of agriculture and other industries, and technical instruction for Ireland, and of the services administered by that department, including sundry grants in aid For the salaries and expenses of the office of the Commissioners of Charitable Donations and Bequests for Ireland -
 
-For the salaries and expenses of the Local Government Board in Ireland For the salaries and expenses of the Public Record Office in Ireland and of the Keeper of State Papers in Dublin For the salaries and expenses of the Office of Public Works in Ireland For the salaries and expenses of the department of the Registrar General of Births, &c., and for the expenses of collecting emigration statistics in Ireland - - -
+For the salaries and expenses of the Local Government Board in Ireland For the salaries and expenses of the Public Record Office in Ireland and of the Keeper of State Papers in Dublin For the salaries and expenses of the Office of Public Works in Ireland For the salaries and expenses of the department of the Registrar General of Births, &c., and for the expenses of collecting emigration statistics in Ireland -
 
 For the salaries and expenses of the general valuation and boundary survey of Ireland -
 
@@ -5000,7 +5000,7 @@ No. 12. For the salaries and expenses of the offices in His Majesty’s General 
 
 16. For such of the salaries and expenses of the Supreme Court of Judicature and of certain other legal departments in Ireland as are not charged ou the Consolidated Fund - - 1 109, 860 4, 900
 
-17. For the salaries and expenses of the office of the Irish Land Commission - - - 455, 166 31, 500
+17. For the salaries and expenses of the office of the Irish Land Commission - 455, 166 31, 500
 
 18. For the salaries, allowances, and expenses of i various county court officers, and of magistrates in Ireland, and the expenses of revision 110, 625 5,000
 
@@ -5056,7 +5056,7 @@ British Museum, and of the Natural History J Museum, including certain grants in
 
 3. For the salaries and expenses of the National
 
-Gallery, and of the National Gallery of I British Art, Millbank - - -
+Gallery, and of the National Gallery of I British Art, Millbank -
 
 4. For the salaries and expenses of the National
 
@@ -5088,11 +5088,11 @@ National Education in Ireland, including a, grant in aid of the Teachers Pension
 
 11. For the expenses of the Office of the Commis- ,
 
-sioners for managing certain school endowments in Ireland - - - - |
+sioners for managing certain school endowments in Ireland - - |
 
 12. For the salaries and expenses of the National t
 
-Gallery of Ireland, including a grant in aid for the purchase of pictures - - - -;
+Gallery of Ireland, including a grant in aid for the purchase of pictures - -;
 
 13. For grants under the Irish Universities Act, 1908
 
@@ -5154,11 +5154,11 @@ No.
 
 chargeable to the Consular Vote 2. For sundry colonial services, including certain grants in aid (including a Supplementary sum 613, 184 99, 620
 
-of 130,000l.) - - - - " -3. For the subsidies to certain Telegraph Companies, and a grant in aid of the annual 1, 277, 759
+of 130,000l.) - - " -3. For the subsidies to certain Telegraph Companies, and a grant in aid of the annual 1, 277, 759
 
 expenses of the Pacific Cable -4. For a grant in aid of the Revenue of the Island 61, 247 51, 104
 
-of Cyprus - - - 40,000
+of Cyprus - 40,000
 
 Total Civil Services, Class V. - £ 1, 992, 190 150, 724
 
@@ -5328,11 +5328,11 @@ Number of Vote. NAVY SERVICES, 1908-9. VOTES. Surpluses. i (Deficits made good f
 
 3 Medical establishments and services - 4, 897 5 1 —
 
-4 Martial law - - - 1, 379 1 3 —
+4 Martial law - 1, 379 1 3 —
 
 5 Educational services 8, 630 10 4 —
 
-6 Scientific services - - - — 836 9 5
+6 Scientific services - — 836 9 5
 
 7 Royal Naval Reserves 2, 331 7 8 —
 
@@ -5358,7 +5358,7 @@ III. Contract work 46, 236 1 1 —
 
 — Amount written off as irrecoverable - — 10, 017 2 11
 
-Total - - - 376, 328 18 3 | 238, 138 0 10
+Total - 376, 328 18 3 | 238, 138 0 10
 
 Net Surplus - £138, 190 17 5
 
@@ -5384,7 +5384,7 @@ Number of Vote. ARMY SERVICES, 1908-9. VOTES. 1 Surpluses. Deficits made good fr
 
 5 Establishments for military education - 7, 053 15 11
 
-6 Quartering, transport, and remounts - - - 172, 789 14 8
+6 Quartering, transport, and remounts - 172, 789 14 8
 
 7 Supplies and clothing 106, 283 15 3 —
 
@@ -7916,7 +7916,7 @@ Maximum Rate of Charge.
 
 800, 99 900 - - 90 0 0
 
-900 and over - - - 100 0 0
+900 and over - 100 0 0
 
 The rate of charge in the case o
 

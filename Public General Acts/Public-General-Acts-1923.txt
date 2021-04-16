@@ -1316,13 +1316,13 @@ Measurement of Merchant Ships.
 
 £ s. d .
 
-Vessels of 50 tons gross and under - - -200
+Vessels of 50 tons gross and under -200
 
 Vessels of over 60 tons gross and under 100 tons - 4 0 0
 
 For each additional 100 tons or part of 100 tons above 100 up to 1,000 -- - -'-200
 
-For each additional 100 tons or part of 100 tons above 1,000 up to 10,000 - - - - 1 0 0
+For each additional 100 tons or part of 100 tons above 1,000 up to 10,000 - - 1 0 0
 
 For each additional 100 tons or part of 100 tons above 10,000 . 0 10 0
 
@@ -1338,19 +1338,19 @@ For a steamer not exceeding 50 ton gross - 4 0 0
 
 For a steamer exceeding 50 and not exceeding
 
-100 tons gross - - - - - - 800
+100 tons gross - - 800
 
 For a steamer exceeding 100 and not exceeding
 
-300 tons gross - - - - - -12 00
+300 tons gross - -12 00
 
 For a steamer exceeding 300 and not exceeding
 
-600 tons gross - - - - - -15 00
+600 tons gross - -15 00
 
 And for every additional 300 tons or part of
 
-300 tons above 600 an additional - - -300
+300 tons above 600 an additional -300
 
 Part II.
 
@@ -1360,9 +1360,9 @@ Maximum Fees to be Paid for Survey of Emigrant Ships.
 
 (a) For ships holding valid passenger certificates:
 
-For an ordinary survey of the ship and of her equipment, stores, &c. - - -12 0 0
+For an ordinary survey of the ship and of her equipment, stores, &c. -12 0 0
 
-For a special survey - - - - 20 0 0
+For a special survey - - 20 0 0
 
 (b) For ships not holding valid passenger certificates an additional fee not exceeding that specified in the scale in Part I. of this Schedule ----
 
@@ -1392,11 +1392,11 @@ Vessels not exceeding 25 tons gross - -200
 
 Vessels exceeding 25 and not exceeding
 
-50 tons gross - - - - - - 2 10 0
+50 tons gross - - 2 10 0
 
 Vessels exceeding 50 and not exceeding
 
-100 tons gross - - - - -300
+100 tons gross - - -300
 
 Vessels exceeding 100 and not exceeding
 
@@ -1584,7 +1584,7 @@ Certificates and Records.
 
 £ s. d.
 
-For endorsing and signing on the certificate of registry of a ship a memorandum of the change of the master - - - - - - 0 10 0
+For endorsing and signing on the certificate of registry of a ship a memorandum of the change of the master - - 0 10 0
 
 For a certificate of service granted in pursuance of section 99 of the Merchant Shipping Act,
 
@@ -1598,7 +1598,7 @@ Engagement and Discharge of Seamen.
 
 For every seaman engaged before a superintendent 0 16
 
-For every seaman discharged before a superintendent - - - - - - - 016
+For every seaman discharged before a superintendent - - - 016
 
 Part III.
 
@@ -1608,7 +1608,7 @@ Wireless Telegraphy Equipment,
 
 For inspection of life-saving appliances on a vessel on or before first registry or re-registry 21. for each lifeboat.
 
-For subsequent inspection at the request of the master or owner or in the case of a vessel f ound to have defective or deficient life-saving appliances - - - 11. per visit with a maximum of 41.
+For subsequent inspection at the request of the master or owner or in the case of a vessel f ound to have defective or deficient life-saving appliances - 11. per visit with a maximum of 41.
 
 For inspection of a vessel which is found to be not properly provided with wireless telegraphy installation or with certified wireless operators and watchers - - 11. per visit with a maximum of 41.
 
@@ -1618,9 +1618,9 @@ Inspection of Provisions.
 
 The following percentage of the market value of the provisions inspected:—
 
-If the provisions are inspected in bulk at a warehouse - - - - - - - - -2 per cent.
+If the provisions are inspected in bulk at a warehouse - - -2 per cent.
 
-If the provisions are inspected on a ship or alongside a ship - - - - - - 4 per cent.
+If the provisions are inspected on a ship or alongside a ship - - 4 per cent.
 
 Section 2.
 
@@ -12910,19 +12910,19 @@ If the depth of the seam exceeds
 
 200 yards, hut does not exceed
 
-210 yards - - - - - 7 yards.
+210 yards - - - 7 yards.
 
 If the depth of the seam exceeds
 
 210 yards, hut does not exceed
 
-220 yards - - - 8 yards.
+220 yards - 8 yards.
 
 If the depth of the seam exceeds
 
 220 yards, hut does not exceed
 
-230 yards - - - - - 9 yards.
+230 yards - - - 9 yards.
 
 If the depth of the seam exceeds
 
@@ -12938,7 +12938,7 @@ If the depth of the seam exceeds
 
 If the depth of the seam exceeds
 
-250 yards - - - - - To a line descending outwards from the railway or works at an angle of one horizontal to five vertical from a point on the boundary of the railway or works at rail level until the depth of 650 yards is reached and thence descending vertically.
+250 yards - - - To a line descending outwards from the railway or works at an angle of one horizontal to five vertical from a point on the boundary of the railway or works at rail level until the depth of 650 yards is reached and thence descending vertically.
 
 2. The area shall extend longitudinally for a distance coextensive with the part of the railway or works upon which expenditure has been incurred in making good the damage,
 
@@ -17514,13 +17514,13 @@ For the service of the year ended on the
 
 31st day of March 1923 :— £ s. d.
 
-Under Act 13 Geo. 5. c. 1 - - - 1, 209, 098 0 0
+Under Act 13 Geo. 5. c. 1 - 1, 209, 098 0 0
 
 For the service of the year ending on the
 
 31st day of March 1924:—
 
-Under Act 13 Geo. 5. c. 1 - - - 171, 183, 700 0 0
+Under Act 13 Geo. 5. c. 1 - 171, 183, 700 0 0
 
 Under this Act. 269, 381, 292 0 0
 
@@ -17848,7 +17848,7 @@ No.
 
 10. For works, buildings, and repairs at home and abroad, including the cost of superintendence, purchase of sites, grants in aid, and other charges connected therewith -
 
-11. For various miscellaneous effective services - - ' - - - I 1, 059, 600 72,000
+11. For various miscellaneous effective services - - ' - I 1, 059, 600 72,000
 
 12. For the Admiralty Office - - 1, 280, 400 3, 010
 
@@ -17948,7 +17948,7 @@ IV. War Office, Staff of Commands,
 
 2, 691,000
 
-V. Capital Accounts - - -
+V. Capital Accounts -
 
 Cr.292, 250
 
@@ -18326,7 +18326,7 @@ Customs and Excise, Inland Revenue, Post Office and Telegraph buildings in Great
 
 For expenditure in respect of Employment Exchange, and Insurance buildings, Great Britain 1
 
-(including Ministries of Labour and Health) - - - -
+(including Ministries of Labour and Health) - -
 
 617, 575
 
@@ -18372,7 +18372,7 @@ Supnly Appropriations
 
 <»r; uUs. in Aid.
 
-Brought forward - - - | 5, 129, 050
+Brought forward - | 5, 129, 050
 
 No.
 
@@ -18872,7 +18872,7 @@ Woods, Forests, and Land Revenues, including bonus to Commissioner ---- 32, 075 
 
 Public Buildings - 557, 080 43,000
 
-33. For His Majesty’s foreign and other secret services - - - - 200,000 —
+33. For His Majesty’s foreign and other secret services - - 200,000 —
 
 34. For the salaries and expenses of the office of His Majesty’s Secretary for Scotland and subordinate offices, expenses under the Inebriates Acts, 1879 to 1900,
 
@@ -18880,7 +18880,7 @@ expenses under the Private
 
 Legislation Procedure (Scotland)
 
-Act, 1899; a subsidy for steamer services to the Hebrides; and grants in respect of unemployment schemes - - - -
+Act, 1899; a subsidy for steamer services to the Hebrides; and grants in respect of unemployment schemes - -
 
 166, 821
 
@@ -18896,7 +18896,7 @@ Scotland, including grants for agricultural education and training, certain gran
 
 36. For the salaries and expenses of the Fishery Board for Scotland,
 
-and for a grant in aid of piers or quays - - - - -
+and for a grant in aid of piers or quays -
 
 46, 679
 
@@ -19104,7 +19104,7 @@ Expenditure, including places of detention and a grant in aid of the Police Fede
 
 England and Wales, including a grant in aid of certain expenses connected with Discharged
 
-Prisoners - - - - -
+Prisoners -
 
 9. For the salaries and expenses of the office of the Inspector of Reformatories and for grants in respect of the maintenance of juvenile offenders in reformatory,
 
@@ -19214,7 +19214,7 @@ Scotland -
 
 15. For the salaries and expenses of the Prison Commissioners for
 
-Scotland, and of the prisons under their control, including the mainteilance of criminal lunatics, defectives, and inmates of the State inebriate reformatory, and the preparation of judicial statistics, and including a grant in aid of certain expenses connected with discharged prisoners - - - -
+Scotland, and of the prisons under their control, including the mainteilance of criminal lunatics, defectives, and inmates of the State inebriate reformatory, and the preparation of judicial statistics, and including a grant in aid of certain expenses connected with discharged prisoners - -
 
 Sums not exceeding
 
@@ -19552,7 +19552,7 @@ Class IV.
 
 Total Civil Services, Class
 
-IV. - - - - £
+IV. - - £
 
 424 Ch. 35. Appropriation Act, 1923. 13 & 14 Geo. 5.
 
@@ -19596,7 +19596,7 @@ certain special grants - - 1, 231, 905 596, 030
 
 including certain grants in aid 1
 
-(including a supplementary sum of 3, 750,0001.; - - - - 5, 294, 223 —
+(including a supplementary sum of 3, 750,0001.; - - 5, 294, 223 —
 
 3. For the expenses connected with
 
@@ -19986,7 +19986,7 @@ aid . 16, 187, 005 4, 176, 634
 
 4. For the salaries and expenses of the audit staff under the National
 
-Insurance Act, 1911 - - - 171, 590 3, 025
+Insurance Act, 1911 - 171, 590 3, 025
 
 5. For making good the deficiency on the Income Account of the
 
@@ -20060,7 +20060,7 @@ ment, including a grant-in-aid -
 
 M
 
-therewith - - - - -
+therewith -
 
 4. For compensation for criminal injuries, including advances on account of prospective awards,
 
@@ -20112,7 +20112,7 @@ No.
 
 6. For the salaries and expenses of the Disposal and Liquidation
 
-Commission - - - -
+Commission - -
 
 Supply
 
@@ -20174,7 +20174,7 @@ Coal Mines (Decontrol) Act, 1921
 
 _
 
-12. For grants in respect of compensation for suffering and damage by enemy action - - -
+12. For grants in respect of compensation for suffering and damage by enemy action -
 
 2, 600,000
 
@@ -20238,7 +20238,7 @@ Appropriations in Aid.
 
 No.
 
-1. For the salaries and expenses of the Customs and Excise Department - - - - - |
+1. For the salaries and expenses of the Customs and Excise Department - - - |
 
 1
 
@@ -20312,7 +20312,7 @@ Seamen, and Boys, Coast
 
 Guard, and Royal
 
-Marines - - -
+Marines -
 
 —
 
@@ -20456,7 +20456,7 @@ Abroad -
 
 Miscellaneous Effective
 
-Services - - -
+Services -
 
 —
 
@@ -23494,7 +23494,7 @@ xxviii. s. 63:
 
 xxx. s. 55:
 
-Ixxxii. s. 41:
+lxxxii. s. 41:
 
 lxxxiii. s. 91:
 
@@ -23758,7 +23758,7 @@ c. 49.
 
 Weights and Measures.
 
-S. 37 am. - - - j
+S. 37 am. - j
 
 4, ss. 6, 10, Sch.
 
@@ -23806,7 +23806,7 @@ Thornton U.D.C.
 
 Repealed -
 
-Ixxiv. s. 69 (3).
+lxxiv. s. 69 (3).
 
 16, s. 93, Sch. 5.
 
@@ -24350,7 +24350,7 @@ Morley, Macclesfield, and
 
 Stoke-on-Trent.
 
-Ixxxi., s. 7 (1):
+lxxxi., s. 7 (1):
 
 xcii., s. 19 (2):
 
@@ -25138,7 +25138,7 @@ Acquisition of Land
 
 Compensation).
 
-Applied - - -
+Applied -
 
 24, s. 18.
 
@@ -25174,7 +25174,7 @@ Agric. Land Sales
 
 Notice to Quit).
 
-Repealed - - - -
+Repealed - -
 
 (E. and W.) 9,
 
@@ -25610,7 +25610,7 @@ c. 22
 
 Summer Time
 
-S. 3 (3) am. by continuunce of Act.
+S. 3 (3) am. by continuance of Act.
 
 37, s. 1(1), Sch.
 
