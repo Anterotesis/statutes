@@ -1500,7 +1500,7 @@ War Damage Act, 1941.
 
 Part L consisting of or including such fishing rights as are mentioned —coni‘ in section six of the Rating Act, 1874.
 
-37 3®
+37 3
 
 Vict. c. 54. (2) The amount on which the contribution is to be calculated
 
@@ -2056,7 +2056,7 @@ References in this Part of this Act and the Fourth Schedule thereto to any indem
 
 (b) that the land, as distinct from rents and profits thereof, is used in any manner (including use in a manner involving the beneficial occupation of the land by any person) for or in connection with the carrying out of the purposes for which that interest is held, and not otherwise,
 
-the Commissioners of Inland Revenue shall give such relief, by repayment or otherwise, to the owner of the said proprietary interest as is necessary to reduce his net liability in respect of that interest to nil, or, if the purposes for which the said interest is held are the advancement of education, learning, science or research only, or, if they include such purposes and the use of the land is solely or mainly for or in connection with the carrying out of such purposes, to one-third of its amount. 2 * (б)
+the Commissioners of Inland Revenue shall give such relief, by repayment or otherwise, to the owner of the said proprietary interest as is necessary to reduce his net liability in respect of that interest to nil, or, if the purposes for which the said interest is held are the advancement of education, learning, science or research only, or, if they include such purposes and the use of the land is solely or mainly for or in connection with the carrying out of such purposes, to one-third of its amount. 2 (б)
 
 (2) The charitable purposes to which this section applies are
 
@@ -2174,7 +2174,7 @@ undertakings in question payments towards the cost of works certified by the app
 
 (a) public utility undertakings;
 
-( b)except in so far as Parliament may hereafter determine, any undertaking of such a character that the valuation for rating purposes of hereditaments in which the undertaking is carried on is made by reference to the accounts, receipts, profits or output of the undertaking;
+(b) except in so far as Parliament may hereafter determine, any undertaking of such a character that the valuation for rating purposes of hereditaments in which the undertaking is carried on is made by reference to the accounts, receipts, profits or output of the undertaking;
 
 (c) any other undertaking to which Parliament may hereafter determine that this section shall apply.
 
@@ -2758,7 +2758,7 @@ The Insurance Schemes.
 
 (a) a scheme, in this Part of this Act referred to as " the business scheme”, whereby the Board undertake the liability of insuring persons carrying on business against war damage to the goods specified in the next succeeding section as being goods which, in relation to those persons respectively, are insurable under the business scheme;
 
-( b) a scheme, in this Part of this Act referred to as " the private chattels scheme”, whereby the Board undertake the liability of insuring any persons (whether carrying on business or not) against war damage to the goods specified in the said section as being goods which, in relation to those persons respectively, are insurable under the private chattels scheme.
+(b) a scheme, in this Part of this Act referred to as " the private chattels scheme”, whereby the Board undertake the liability of insuring any persons (whether carrying on business or not) against war damage to the goods specified in the said section as being goods which, in relation to those persons respectively, are insurable under the private chattels scheme.
 
 (2) Each of the schemes shall be such as to secure that, subject to the provisions of this Act—
 
@@ -3758,8 +3758,6 @@ Part IV.
 
 " proper cost ” has the meaning assigned to it by subsection (3) of section three of this Act;
 
-+
-
 “ proprietary interest ” means, in relation to any hereditament or property—
 
 (a) the fee simple in the land comprised therein or in any part of that land; and
@@ -4044,7 +4042,7 @@ Act, 1941.
 
 (4) The reference in subsection (3) of section nine to the Landlord and Tenant (War Damage) Act, 1939, shall be construed as a reference to any corresponding enactment of the Parliament of Northern Ireland for the time being in force.
 
-(5) Section eleven shall have effect as if, in subsection (1) thereof, for the word " area ” in the fir$t place in which that word occurs there were substituted the word “ district”, and as if for the words “ In this subsection the expression ‘ area ’ means the area of a local authority for the purposes of Part II of the Housing Act, 1936,” there were substituted the words “ In this subsection the expression ' district * means the district of a local authority for the purposes of Part II of the Housing Act (Northern Ireland), 1939”.
+(5) Section eleven shall have effect as if, in subsection (1) thereof, for the word " area ” in the fir$t place in which that word occurs there were substituted the word “ district”, and as if for the words “ In this subsection the expression ‘ area ’ means the area of a local authority for the purposes of Part II of the Housing Act, 1936,” there were substituted the words “ In this subsection the expression ' district means the district of a local authority for the purposes of Part II of the Housing Act (Northern Ireland), 1939”.
 
 (6) Section nineteen shall have effect as if, in the proviso to subsection (1), the words from “ so, however,” to the end of the proviso, and the pro'risoto subsection (2^. were omitted.
 
@@ -4096,7 +4094,7 @@ twenty-six shall have effect as if for the reference to the rating authority for
 
 /undertaking, the Ministry’ of 'Commerce for Northern
 
-V V: /‘Ireland:;:. * ‘ '• *•
+V V: /‘Ireland:;:. ‘ '• *•
 
 (c) in relation to any lighthouse undertaking, the Minister of Shipping;
 
@@ -5366,9 +5364,9 @@ Ch. 15.
 
 (a) section three shall have effect as if, for the definition of “ local authority ” in subsection (6), the following definition were substituted—
 
-“ ‘ local authority * means a county or town council or any authority or person for the time being exercising any of the functions of such a council; ”
+“ ‘ local authority means a county or town council or any authority or person for the time being exercising any of the functions of such a council; ”
 
-( b)section five shall have effect as if for subsection (5), the
+(b) section five shall have effect as if for subsection (5), the
 
 following subsection were substituted:—
 
@@ -6148,7 +6146,7 @@ and such rules may direct that any provisions of any Act, regulation, rule, or o
 
 Provided that, where the application is proposed to be made on the ground that the person convicted or punished was a British subject, leave shall not be given by the High Court unless it appears to that Court that, by reason of some cause other than the neglect or default of that person, the question of his nationality has not been determined by a local tribunal.
 
-(3) In any proceedings in the High Court upon an application ®ade to that Court under this section—
+(3) In any proceedings in the High Court upon an application ade to that Court under this section—
 
 (a) no determination made by the Maritime Court shall be called in question except so far as may be necessary for the determination of the question whether the jurisdiction of that court has bqen exceeded; and
 
@@ -6206,7 +6204,7 @@ Ch. 21.
 
 16. — (1) Any Order in Council or order made under the fore- Provisions
 
-going provisions of this Act may be revoked by a subsequent * *° Orders Order in Council or order, as the case may be: ordersnC *
+going provisions of this Act may be revoked by a subsequent *° Orders Order in Council or order, as the case may be: ordersnC *
 
 Provided that, on the revocation of any such Order in Council rules, and or order, section thirty-eight of the Interpretation Act, 1889 re£ulatioas-(which relates to the effect of repeals) shall apply with respect 52 & 53 Vict, to the effect of the revocation of the Order in Council or order c' 3‘ in like manner as it applies with respect to the effect of the repeal ,
 
@@ -8158,7 +8156,7 @@ words " one-sixth and
 
 (b) the words " one hundred and fifty pounds " were substituted for the words " two hundred and fifty pounds ",
 
-and subsection (2) of the said section fifteen (which, as amended by subsequent enactments, provides, in a case where an individual or nis wife is of the age of sixty-five or upwards and his total income does not exceed five hundred pounds, for a deduction of tax on an amount equal to one-sixth of his income) shall have effect as if the words " one-tenth " were substituted for the words " one-sixth ". 3 * (б)
+and subsection (2) of the said section fifteen (which, as amended by subsequent enactments, provides, in a case where an individual or nis wife is of the age of sixty-five or upwards and his total income does not exceed five hundred pounds, for a deduction of tax on an amount equal to one-sixth of his income) shall have effect as if the words " one-tenth " were substituted for the words " one-sixth ". 3 (б)
 
 (3) Section eighteen of the Finance Act, 1920 (which, as amended by subsequent enactments, provides, in the case of married persons, for a deduction of tax on one hundred and seventy pounds, increased, in a case where the total income of the claimant includes earned income of his wife, by an amount equal to five-sixths of that earned income, and, in the case of single persons, for a deduction of tax on one hundred pounds) shall have effect as if—
 
@@ -8280,7 +8278,7 @@ Finance Act, 1941.
 
 (b) income tax shall not be charged under Schedule B in respect of the occupation of any farm land or market garden land:
 
-Provided that where land is farm land or market garden land for part only of the year of assessment, tax shall be charged under Schedule B on that land for that year on so much of the assessable value of that land as is apportionable to the remainder of that year, and any such apportionment shall be made by reference to the number of months or parts of a month in the said remainder of the year. 2 * *
+Provided that where land is farm land or market garden land for part only of the year of assessment, tax shall be charged under Schedule B on that land for that year on so much of the assessable value of that land as is apportionable to the remainder of that year, and any such apportionment shall be made by reference to the number of months or parts of a month in the said remainder of the year. 2 *
 
 (2) For the purposes of this and the next succeeding section the following expressions have the meanings hereby respectively
 
@@ -8454,7 +8452,7 @@ Provisions as to ' Schedule A tax on land sustaining war
 
 damage.
 
-4 3 * & 5 Geo. 6, c. 12.
+4 3 & 5 Geo. 6, c. 12.
 
 Finance A, 1941.
 
@@ -8518,7 +8516,7 @@ made under an established practice which was such Part 11. that the same or a gr
 
 (6) In this section the expression " war injuries " has the
 
-meaning assigned to it by the Personal Injuries (Emergency 2 & 3 Provisions) Act, 1939. Geo- 3 * 6
+meaning assigned to it by the Personal Injuries (Emergency 2 & 3 Provisions) Act, 1939. Geo- 3 6
 
 18. — (1) This section applies to any arrangements made with Trades a view to the concentration of industry or business in the hands affected of fewer persons, being arrangements certified by or on behalf !j^m of the Board of Trade to be approved by them and to be in their ments for opinion in the national interest, having regard to the exigencies concentra-of the present war. tion of
 
@@ -8632,7 +8630,7 @@ year of assessment, a notice of his request that he may Part it. be assessed and
 
 he shall be assessed and charged accordingly instead of in the parish in which he would have been assessable and chargeable if this subsection had not been passed:
 
-Provided that, in relation to the year 1941-42, paragraph (a) of this subsection shall have effect as if for the word * June " there were substituted the word “ August
+Provided that, in relation to the year 1941-42, paragraph (a) of this subsection shall have effect as if for the word June " there were substituted the word “ August
 
 (2) Where, owing to circumstances directly or indirectly connected with the present war, it is in the opinion of the Commissioners of Inland Revenue expedient that a person assessable under Schedule E should be assessed and charged under that Schedule in some parish other than that in which he would be assessed and charged but for the provisions of this section, he shall be assessed and charged accordingly:
 
@@ -8696,7 +8694,7 @@ income tax, or free of income tax other than surtax, shall be entitled to the fo
 
 (a) the rates of surtax in force for the year 1937-38 had applied also to the years 1938-39,1939-40 and 1940-41; and
 
-( b) the 1938-39 rates of income-tax, other than surtax, had applied also to the years 1939-40 and 1940-41; and
+(b) the 1938-39 rates of income-tax, other than surtax, had applied also to the years 1939-40 and 1940-41; and
 
 (c) the rights and liabilities of the persons concerned had been modified accordingly.
 
@@ -8708,7 +8706,7 @@ income tax, or free of income tax other than surtax, shall be entitled to the fo
 
 (i) the gross sum represented by the payment were what it would have been if the 1938-39 rates of income tax, other than surtax, had applied to the year of assessment in which the payment falls to be made, and the foregoing provisions of this section had not passed; and
 
-(ii) that gross sum had borne income tax at ten * shillings in the pound.
+(ii) that gross sum had borne income tax at ten shillings in the pound.
 
 (5) This section shalT not—
 
@@ -8742,7 +8740,7 @@ Modification of provisions for tax-free salaries, pensions, &c.
 
 (a) some provision which is contained in a contract (whether oral or in writing) made before the third day of September, nineteen hundred and thirty-nine, and which has not been varied on or after that date; or
 
-( b) some provision which is contained in an enactment passed before the said third day of September and which has not been amended on or after that date.
+(b) some provision which is contained in an enactment passed before the said third day of September and which has not been amended on or after that date.
 
 the emoluments include a payment to or for the benefit of the recipient of the emoluments in respect of his income tax.
 
@@ -8836,7 +8834,7 @@ Ch. 30.
 
 (a) an amount equal to interest for the standard period at the said average rate, as so increased, on the average amount of the borrowed money employed in the trade or business in the standard period; and
 
-( b) an amount equal to interest on that average amount for that period at the rate applicable under the said section twenty-seven.
+(b) an amount equal to interest on that average amount for that period at the rate applicable under the said section twenty-seven.
 
 In this subsection, references to the rate applicable under the said section twenty-seven shall be construed as references to the rate per cent, per annum which, apart from the provisions of this subsection, would be applicable under the proviso to subsection (2) of that section to the average amount of the borrowed money employed in the trade or business in the standard period; and the reference to the limits under subsections (2), (3) and (5) of that section shall be construed as a reference to the amounts fixed by the proviso to the said subsection (2), by the proviso to the said subsection (3) and by the said subsection (5), as the maximum amounts which, in the cases to which those provisions respectively apply, may, by virtue of that section, be treated in ascertaining the standard profits for a full year as being the profits of the standard period.
 
@@ -9122,7 +9120,7 @@ Erofits tax, but the following provisions of this section shall ave effect for t
 
 (a) be allowed as a deduction in computing the profits of the trade or business of the person by whom the said sum becomes payable; and
 
-( b)be treated as a trading receipt of the person to whom the said sum becomes payable and be taken into account accordingly in computing the profits of the trade or business of that person.
+(b) be treated as a trading receipt of the person to whom the said sum becomes payable and be taken into account accordingly in computing the profits of the trade or business of that person.
 
 1941. Finance Act, 1941. Ch. 30.
 
@@ -9488,7 +9486,7 @@ The reference in this sub-paragraph to deductions for wear and tear shall be con
 
 2. For sub-paragraph (3) there shall be substituted the following sub-paragraph—
 
-“ (3) In this paragraph, the expression * net cost * means, in relation to any buildings, plant or machinery, the cost of the provision thereof (being cost of a capital nature) less any sum provided, or to be provided, directly or indirectly by the Crown or by any government or public or local authority, whether in the United Kingdom or elsewhere, or by any other person other than the person or persons carrying on the trade or business, towards the cost of the provision of the buildings, plant or machinery, or towards any wear and tear or depreciation thereof, not being a sum provided, or to be provided, either by way of loan or under Part I or Part II of the War Damage Act, 1941; and references to Part I of the War Damage Act, 1941, shall be construed as including references to any similar Act relating to war damage to which the said Part I does not apply.*
+“ (3) In this paragraph, the expression net cost means, in relation to any buildings, plant or machinery, the cost of the provision thereof (being cost of a capital nature) less any sum provided, or to be provided, directly or indirectly by the Crown or by any government or public or local authority, whether in the United Kingdom or elsewhere, or by any other person other than the person or persons carrying on the trade or business, towards the cost of the provision of the buildings, plant or machinery, or towards any wear and tear or depreciation thereof, not being a sum provided, or to be provided, either by way of loan or under Part I or Part II of the War Damage Act, 1941; and references to Part I of the War Damage Act, 1941, shall be construed as including references to any similar Act relating to war damage to which the said Part I does not apply.*
 
 Section 42.
 
@@ -10638,7 +10636,7 @@ section eighty of the War Damage Act, 1941. J *25 Geo* 4 5 6'
 
 4. Subsection (5) of section three of the Essential Build- Loans
 
-ings and Plant (Repair of War Damage) Act, 1939 (which under s. 2 of provides for charges to secure loans under section two of that * ^Ac) 6* Act to persons other than companies or certain local authorities) certain shall not apply to a loan under the said section two to any authorities, authority which is a local authority for the purposes of the Local Loans Act, 1875. 38 & 39 Vict.
+ings and Plant (Repair of War Damage) Act, 1939 (which under s. 2 of provides for charges to secure loans under section two of that ^Ac) 6* Act to persons other than companies or certain local authorities) certain shall not apply to a loan under the said section two to any authorities, authority which is a local authority for the purposes of the Local Loans Act, 1875. 38 & 39 Vict.
 
 c. 83.
 
@@ -10672,9 +10670,9 @@ Section 6.
 
 7. — (1) At the end of subsection (1) of section four of the Housing (Emergency Powers) Act, 1939, there shall be added the following words—
 
-“ and as if in subsection (ia) of section three for the words from * the councils of county boroughs * to the end of the subsection there were substituted the words * county and town councils
+“ and as if in subsection (ia) of section three for the words from the councils of county boroughs to the end of the subsection there were substituted the words county and town councils
 
-(2) In the subsection directed by paragraph (d) of section five of the Essential Buildings and Plant (Repair of War Damage) Act, 1939, to be substituted for subsections (4) and (5) of section three of that Act, after the words “ other than a local authority ” there shall be inserted the words “ or any other authority which is a local authority within the meaning of the Local Authorities Loans (Scotland) Act, 1891”; and in the definition of “ local authority ” directed by paragraph (e) of the said section five to be substituted for the definition of “ local authority ” in subsection (1) of section four of the said Act, after the words “ ‘ local authority * means ” there shall be inserted the words “ (except where the context otherwise requires)
+(2) In the subsection directed by paragraph (d) of section five of the Essential Buildings and Plant (Repair of War Damage) Act, 1939, to be substituted for subsections (4) and (5) of section three of that Act, after the words “ other than a local authority ” there shall be inserted the words “ or any other authority which is a local authority within the meaning of the Local Authorities Loans (Scotland) Act, 1891”; and in the definition of “ local authority ” directed by paragraph (e) of the said section five to be substituted for the definition of “ local authority ” in subsection (1) of section four of the said Act, after the words “ ‘ local authority means ” there shall be inserted the words “ (except where the context otherwise requires)
 
 8. — (1) This Act may be cited as the Repair of War Damage Act, 1941.
 
@@ -10714,7 +10712,7 @@ Consequential amendments of Essential Buildings and Plant ( Repair of War Damage
 
 1875.”
 
-5. In subsection (1) of section four after the words “ ‘ local authority * means ” there shall be inserted the words “ (except where the context otherwise requires).”
+5. In subsection (1) of section four after the words “ ‘ local authority means ” there shall be inserted the words “ (except where the context otherwise requires).”
 
 272
 
@@ -11354,7 +11352,7 @@ CIVIL. Class I. Vote. 2. For the salaries and expenses of the House of Commons, 
 
 in aid to the Kitchen Committee 5. For the salaries and expenses of the Department of His Majesty’s most 2,200
 
-Honourable Privy Council -Class II. 2,775 *—1,000 * 3 !
+Honourable Privy Council -Class II. 2,775 *—1,000 3 !
 
 1. For the salaries and expenses of the Department of His Majesty’s Secretary of State for Foreign Affairs and grants in aid of the Royal Institute of International Affairs and the British Association for International Under- 1 1 i 1 1 l
 
@@ -11364,7 +11362,6 @@ and sundry other services - 291,000 —
 
 Carried forward • Deficit* 315.225 *—1,000
 
-^Ic
 
 SCHED. (B).
 
@@ -11420,7 +11417,7 @@ Islamic Cultural Centre in London Class IV. 12. For a grant in aid of the Britis
 
 Broadcasting Corporation /- 200,000
 
-Carried forward * Deficit. 1,227,745 * —I'OOOO
+Carried forward Deficit. 1,227,745 —I'OOOO
 
 1941.
 
@@ -12184,7 +12181,7 @@ Vote. 11. For the salaries and expenses of the Department of His Majesty’s Sec
 
 12. For certain salaries and expenses of the Imperial War Graves Commission, including purchase of land in the United Kingdom - 1,780 1,220
 
-Total, Civil, Class II 12,411,931 337.86®
+Total, Civil, Class II 12,411,931 337.86
 
 Appropriation
 
@@ -12432,7 +12429,6 @@ IL243 —
 
 55,287,616 • 5.744.695
 
-^Ic
 
 SCHED. (B). Part 12., Civil. Class IV.
 
@@ -13010,7 +13006,7 @@ Class IX.
 
 CIVIL.—Class IX.
 
-Schedule of Sums granted, and of the sums * which may be applied as appropriations in aid in addition thereto, to defray the charges of the several Civil Services herein particularly mentioned, which will come in course of payment during the year ending on the 31st day of March 1942, viz.:—
+Schedule of Sums granted, and of the sums which may be applied as appropriations in aid in addition thereto, to defray the charges of the several Civil Services herein particularly mentioned, which will come in course of payment during the year ending on the 31st day of March 1942, viz.:—
 
 Sums not exceeding
 
@@ -13542,7 +13538,7 @@ Net Deficit met from Vote of Credit £39,141,289 125. I0d.
 
 boog le
 
-1941. National Health ,Ch. 39.
+1941. National Health , Ch. 39.
 
 Contributory Pensions and Workmen's Compensation Act, 1941.
 
@@ -13746,7 +13742,7 @@ be wound up, and the balance standing to the credit of that fund
 
 shall be transferred to the Reserve Suspense Fund. Fund.
 
-(2) There shall be debited to the Reserve Suspense Fund instead 3 *4 Geo- 2 * 6* of the Special Suspense Fund any expenditure required to be 3’
+(2) There shall be debited to the Reserve Suspense Fund instead 3 *4 Geo- 2 6* of the Special Suspense Fund any expenditure required to be 3’
 
 debited to the last mentioned fund by subsection (4) of the said
 
@@ -13790,7 +13786,7 @@ and where a society or branch having amongst its members both men and women is t
 
 7. — (1) The sum which, under subsection (3) of section one hundred and fifty-seven of the Insurance Act, is to be credited to an approved society out of the Unemployment Arrears Fund in respect of arrears of contributions of its members, other than
 
-I941- National Health Insuranc,Ch. 39. 333
+I941- National Health Insuranc, Ch. 39. 333
 
 Contributory Pensions and Workmen's Compensation Act, 1941.
 
@@ -13854,7 +13850,7 @@ expenditure. this Act in expenditure which is authorised to be so defrayed
 
 Interpretation., 10. In this Part of this Act the following expressions have the 26 Geo. 5. & meanings hereby respectively assigned to them :—
 
-1 Edw. 8. c. 32. “ insurance Act * means the National Health Insurance
+1 Edw. 8. c. 32. “ insurance Act means the National Health Insurance
 
 Act, 1936, as amended by any subsequent enactment; “ Insurance Acts ’* means the National Health Insurance Acts, 1936 to 1939;
 
@@ -13864,7 +13860,7 @@ Act, 1936, as amended by any subsequent enactment; “ Insurance Acts ’* means
 
 subsequent enactment;
 
-“ Pensions Acts * means the Widows*, Orphans* and Old Age Contributory Pensions Acts, 1936 to 1940.
+“ Pensions Acts means the Widows*, Orphans* and Old Age Contributory Pensions Acts, 1936 to 1940.
 
 11. — (1) This Part of this Act, so far as it relates to matters with respect to which the Parliament of Northern Ireland has power to make laws, shall not extend to Northern Ireland unless and until provision to that effect is made either—
 
@@ -13928,7 +13924,7 @@ Rates of sickness and disablement benefit. Rates of Benefit. Part I. Section For
 
 ligitized
 
-1941- National Health ,Ch. 39.
+1941- National Health , Ch. 39.
 
 Contributory Pensions and Workmen's Compensation Act, 1941.
 
@@ -14014,7 +14010,7 @@ Part II.
 
 Adjustment of Miscellaneous Prc ' to Contributions.
 
-1. The rate of the contributions payable under section sixteen of the Insurance Act in respect of an exempt * person, not being a master or seaman serving on a foreign-going ship, shall be fivepence halfpenny (instead of fourpence halfpenny) per week.
+1. The rate of the contributions payable under section sixteen of the Insurance Act in respect of an exempt person, not being a master or seaman serving on a foreign-going ship, shall be fivepence halfpenny (instead of fourpence halfpenny) per week.
 
 2. The maximum rate of contributions for which provision may be made by order under section twenty-eight of the Insurance Act (which relates to casual or intermittent employment) shall be tenpence (instead of eightpence) in the case of the employer's contribution, fivepence halfpenny (instead of fouipence halfpenny) in the case of the contribution of an employed contributor being a man, and fivepence (instead of fourpence) in the case of the contribution of an employed contributor being a woman.
 
@@ -14050,7 +14046,7 @@ of the forces who is not a member of an approved society, and is to be treated a
 
 6. The rate of the contribution payable under paragraph (a) of section one hundred and thirty-nine of the Insurance Act in respect of a constable of the metropolitan police force shall be fourpence (instead of threepence) a week; and the sum which, under paragraph (c) of that section, is to be credited to an approved society of which he is a member, and to be treated as having been expended on benefits, shall be a sum equal to sevenpence (instead of sixpence) a week.
 
-7. The weekly rates of the contributions payable in respect of persons engaged in certain war occupations under the following provisions of the National Health Insurance and Contributory Pensions 2 * 3~Geo. 6. (Emergency Provisions) Act, 1939, namely paragraph (a) of subsection c- 84-
+7. The weekly rates of the contributions payable in respect of persons engaged in certain war occupations under the following provisions of the National Health Insurance and Contributory Pensions 2 3~Geo. 6. (Emergency Provisions) Act, 1939, namely paragraph (a) of subsection c- 84-
 
 (2) of section one and sub-paragraph (i) of paragraph (c) of subsection (1) of section two, shall be fourpence (instead of threepence) in the case of a man and threepence halfpenny (instead of twopence halfpenny) in the case of a woman; and the sum which, under section three of that Act, is to be credited to an approved society and to be treated as having been expended on benefits shall be a sum equal to sevenpence (instead of sixpence) for each weekly contribution paid.
 
@@ -14084,7 +14080,7 @@ Session and Chapter. Short Title. Extent of Repeal
 
 26 Geo. 5 ft The National Health In subsection (2) of section
 
-1 Edw. 8. c. 32. Insurance Act, 1936. one hundred and eighteen, the words from “ and not exceeding " to “ number aforesaid" where they first occur. Paragraph ( b) of subsection (1) of section one hundred and fifty-four, and in subsection (2) of that section, the words from “in the repayment ” to “ shall be applied '' where they secondly occur and the words from * In this subsection ’’ to the end of the section. Paragraph (6) of subsection (4) of section one hundred and ninety-two.
+1 Edw. 8. c. 32. Insurance Act, 1936. one hundred and eighteen, the words from “ and not exceeding " to “ number aforesaid" where they first occur. Paragraph ( b) of subsection (1) of section one hundred and fifty-four, and in subsection (2) of that section, the words from “in the repayment ” to “ shall be applied '' where they secondly occur and the words from In this subsection ’’ to the end of the section. Paragraph (6) of subsection (4) of section one hundred and ninety-two.
 
 26 Geo. 5 ft The Widows', Orphans’ In subsection (7) of section
 
@@ -14200,7 +14196,7 @@ Any such appointment made by the Secretary of State may be revoked by him,
 
 4. Where the Landlord of a dwelling house to which the Relief from House Letting and Rating (Scodand) Act, 1911, applies has, occupier’s id pursuance of the Rating (War Damage) (Scodand) Act, 1941,
 
-been granted relief from any proportion of the occupier’s rates of small payable in respect of the dwelling house, the tenant of the dwelling house dwelling house during a period in which the house was wholly to be passed or to a substantial extent incapable of beneficial occupation shall, on to tenant. unless no rent or only a reduced rent was payable in respect of 1 & 2 Geo* 5-that period in pursuance of subsection (1) or subsection (2) of c,j>3, 6 section one of this Act, be entided to recover from the landlord * such proportion of any rent paid by the tenant in respect of that period as may, failing agreement between the landlord and the tenant, be determined by the rating authority.
+been granted relief from any proportion of the occupier’s rates of small payable in respect of the dwelling house, the tenant of the dwelling house dwelling house during a period in which the house was wholly to be passed or to a substantial extent incapable of beneficial occupation shall, on to tenant. unless no rent or only a reduced rent was payable in respect of 1 & 2 Geo* 5-that period in pursuance of subsection (1) or subsection (2) of c,j>3, 6 section one of this Act, be entided to recover from the landlord such proportion of any rent paid by the tenant in respect of that period as may, failing agreement between the landlord and the tenant, be determined by the rating authority.
 
 5. Any express obligation to insure lands and heritages Relief from against war damage shall be void and be deemed always to have obligation to been void and any obligation to insure lands and heritages against l^d^m!^
 
@@ -14216,7 +14212,7 @@ _ _ ^Ic __
 
 1941- War Damage to Land Ch. 40,41.
 
-(,Scotland)Act, 1941.
+(, Scotland) Act, 1941.
 
 (2) In this Act and in the War Damage to Land (Scotland) Act, 1939, the expression " war damage ” shall have the meaning assigned to it by subsections (1) and (2) of section eighty of the War Damage Act, 1941, and subsection (3) of that section shall apply for the purposes of this Act and of the War Damage to Land (Scotland) Act, 1939, as it applies for the purposes of the War Damage Act, 1941, and the definition of the said expression in the War Damage to Land (Scotland) Act, 1939, shall accordingly cease to have effect.
 
@@ -14462,7 +14458,7 @@ and any question arising under section ten of the principal Act as to whether th
 
 (War Damage) (Amendment) Act, 1941.
 
-the * tenant in rendering the land fit shall be determined accordingly.
+the tenant in rendering the land fit shall be determined accordingly.
 
 (5) Section six of the principal Act (which relates to the determination of disputes as to the unfitness of premises) shall have effect subject to the modifications specified in the Schedule to this Act, and section fifteen of the principal Act (which contains provisions as to leases comprising two or more tenements) shall have effect as set out with modifications in the said Schedule.
 
@@ -14822,7 +14818,7 @@ Ch. 41.
 
 Section 15 of the principal Act as modified.
 
-15. — (1) In relation to a multiple lease section six of this Act shall Provisions as to not apply and the other provisions of this Part of this Act shall have °?™‘ effect subject to the modifications specified in this section. moi^se^rate
+15. — (1) In relation to a multiple lease section six of this Act shall Provisions as to not apply and the other provisions of this Part of this Act shall have °?‘ effect subject to the modifications specified in this section. moi^se^rate
 
 (2) Where a notice of disclaimer, a notice of retention or a notice to tenements, elect is served with respect to the lease—
 
@@ -16006,7 +16002,7 @@ Provided that—
 
 (2) The Compensation Fund shall be held by the Society in bust for the purposes provided for in this section and the First Schedule to this Act and any rules made under this section.
 
-39®
+39
 
 Ch. 46.
 
@@ -17544,7 +17540,7 @@ shall be substituted a reference to the Secretary of State, and in the said' sec
 
 (4) For section three there shall be substituted the following section—
 
-“ 3. Section sixteen of the Agriculture Act, 1937, (which authorises Exchequer grants towards expenditure on the drainage of agricultural land in Scotland) shall have effect as if after the words * the drainage thereof * there were inserted the words ‘ or on the supply of water thereto
+“ 3. Section sixteen of the Agriculture Act, 1937, (which authorises Exchequer grants towards expenditure on the drainage of agricultural land in Scotland) shall have effect as if after the words the drainage thereof there were inserted the words ‘ or on the supply of water thereto
 
 (5) Section nine shall in relation to any land, which, at the time possession was taken, was kept or preserved mainly or exclusively for purposes of sport or recreation, have effect as if in paragraphs (b) and (c) of subsection (1) the words " on the advice of the Committee ” were omitted.
 
@@ -17970,7 +17966,6 @@ Continuance of Acts in Schedule. CHAPTER 3. An Act to continue certain expiring 
 
 Short title and application to Northern Ireland. 2. — (1) This Act may be cited as the Expiring Laws Continuance Act, 1941. (2) This Act shall apply to Northern Ireland in so far as it deals with any enactment relating to a subject with respect to which the Parliament of Northern Ireland has not power to make laws, but, save as hereinbefore provided, shall not apply to Northern Ireland.
 
-^Ic
 
 1941.
 
@@ -18122,7 +18117,7 @@ Extension of Acts to women.
 
 '446
 
-16 & 17 Geo. 5. * c. 29.
+16 & 17 Geo. 5. c. 29.
 
 20 & 21 Geo. 5. c. 37-
 
@@ -18610,13 +18605,13 @@ c. 63 Interpretation Act, S. 38 (2) (effect of repeal) 8, s. 2 (2); 21,
 
 &c. (2)-
 
-53 * 54 Vict.:
+53 54 Vict.:
 
 c. 39 Partnership Act, S. 3 applicable by rules... 24, ss. 16 (2) (e).
 
 1890. 29 (2).
 
-54 * 55 Vict.:
+54 55 Vict.:
 
 c. 24 Public Accounts S. 2 extended 38, s. 3, sch. (B).
 
@@ -18780,7 +18775,7 @@ chapter. subject. 1941 Act.
 
 19 & 20 Geo. 5:
 
-C. 21 Finance Act, 1929 S. 4 (1) proviso continued 3®. s- 1 (2).
+C. 21 Finance Act, 1929 S. 4 (1) proviso continued 3. s- 1 (2).
 
 (hop oil).
 
@@ -18818,7 +18813,7 @@ c- 44 Land Drainage Ss. 24 (2) excluded, 46, 75 50, ss. 5 (5) (6).
 
 Act, 1930. extended, 7 saved. 6, schs. 2, 3 para. 7.
 
-22 & 23,Geo. 5:
+22 & 23, Geo. 5:
 
 c. 22 Army and Air S. 15 (1) excluded, (2) (3) 17, ss. 2 (2), 8.
 
@@ -19000,7 +18995,7 @@ Session and chapter. Short title or subject. How affected. Chapter of 1941 Act
 
 26 Geo. 5 & 1 Edw. 8:
 
-c. 35 Solicitors Act, 1936. Ss. 10-1 superseded (new ss- 37 (x). 3® substituted), 1 (2). 2 (3), 6 (4), 7 (3) (6) amended, 2 (2) excluded. 46, ss. 5 (1). 10, 14 (1). 15. 26 (1) ( b)(5) (6) (ii). 29, 30 (2), sch. 3.
+c. 35 Solicitors Act, 1936. Ss. 10-1 superseded (new ss- 37 (x). 3 substituted), 1 (2). 2 (3), 6 (4), 7 (3) (6) amended, 2 (2) excluded. 46, ss. 5 (1). 10, 14 (1). 15. 26 (1) ( b)(5) (6) (ii). 29, 30 (2), sch. 3.
 
 c. 43 Tithe Act, 1936... Ss. 13 (6), 47, &c., effect of War Damage Act. 12, ss. 19 (5), 48 (5) (&). 62 (10).
 
@@ -19258,7 +19253,7 @@ Ss. 5 (6), 6, 7 (2), 8 (3) (7). 11-3, 16 (1) (2), 19 (4). 20, 21 (a) repealed; s
 
 31, ss. I (5) (S)-(il). 2 (5). 3
 
-(2) . 5-7. * (3)-10 (4), ii ID
+(2) . 5-7. (3)-10 (4), ii ID
 
 (3) , 12-4,16(4) (5). 17-8. » (1) (4). 23 (2) (3), schs. x-3-
 
