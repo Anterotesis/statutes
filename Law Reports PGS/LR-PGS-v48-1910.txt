@@ -234,7 +234,7 @@ The Bank shall treat any such consolidated stock as subject to the same charges,
 
 (9) The redemption of War bonds shall be carried out by the payment through the Bank to every person, who on or after the fifth day of April nineteen hundred and ten lodges with the Bank War bonds, of the principal sum of one hundred pounds sterling for every hundred pounds of bonds, together with all arrears of interest thereon.
 
-(10) In this schedule the expression “the Bank ” means the Bank of England or the Bank of Ireland, as the case may require.
+(10) In this schedule the expression “the Bank” means the Bank of England or the Bank of Ireland, as the case may require.
 
 CHAPTER 3.
 
@@ -1068,11 +1068,11 @@ Where any rent is paid or rendered otherwise than in money or money’s worth, t
 
 The expression “mining lease” means a lease for mining purposes, that is, for searching for, winning, working, getting, making merchantable, carrying away, or disposing of, mines and minerals, or purposes connected therewith, and includes an agreement for such lease, or any tenancy or licence, whether by deed, parol, or otherwise for mining purposes, and the expressions “ lessor ” and “ lessee ” shall in addition to the meaning assigned to them for the general purposes of this Part of this Act be construed so as to include respectively a licensor and a licensee;
 
-The expression “working lessee ” means as respects the right to work minerals the lessee who is actually working the minerals, or who would have the right actually to work the minerals if the minerals were worked, and as respects mineral way-leaves the lessee who is in actual enjoyment of the way-leave, and the expression “immediate lessor ” shall be construed accordingly;
+The expression “working lessee” means as respects the right to work minerals the lessee who is actually working the minerals, or who would have the right actually to work the minerals if the minerals were worked, and as respects mineral way-leaves the lessee who is in actual enjoyment of the way-leave, and the expression “immediate lessor ” shall be construed accordingly;
 
-The expression “working year ” means the year ending the thirtieth day of September, or such other day as may in any case be approved by the Commissioners; and the expression “last working year” means the working year completed immediately before the first day of January in any financial year for which the duty is paid;
+The expression “working year” means the year ending the thirtieth day of September, or such other day as may in any case be approved by the Commissioners; and the expression “last working year” means the working year completed immediately before the first day of January in any financial year for which the duty is paid;
 
-The expression “mineral way-leave ” means any way-leave, air-leave, water-leave, or right to use a shaft granted to or enjoyed by a working lessee, whether above or under ground, for the purpose of access to or the conveyance of the minerals, or the ventilation or drainage of his mine or otherwise in connexion with the working of the minerals.
+The expression “mineral way-leave” means any way-leave, air-leave, water-leave, or right to use a shaft granted to or enjoyed by a working lessee, whether above or under ground, for the purpose of access to or the conveyance of the minerals, or the ventilation or drainage of his mine or otherwise in connexion with the working of the minerals.
 
 1910.
 
@@ -1320,7 +1320,7 @@ Supplemental.
 
 on behalf of a rating authority, or any statutory combination authorities, representative of two or more local or rating authorities, and any increment value duty in respect of any such land which would have been collected from the authority (whether on the occasion of the transfer on sale of the land, or any interest in the land, or the grant of a lease of the land, or on the periodical occasions provided in this Act) shall, for the purposes of the provisions of this Act as to the collection of increment value duty, be deemed to have been paid.
 
-(2) For the purposes of this section the expression “rating authority ” means any body who have power to raise a rate or administer money raised by a rate; and the expression “rate ” means a rate the proceeds of which are applicable to public local purposes, and which is leviable on the basis of an assessment in respect of the yearly value of property, and includes any sum which, though obtained in the first instance by a precept, certificate, or other instrument, requiring payment from some authority or officer, is or can be ultimately raised out of a rate as before defined.
+(2) For the purposes of this section the expression “rating authority” means any body who have power to raise a rate or administer money raised by a rate; and the expression “rate” means a rate the proceeds of which are applicable to public local purposes, and which is leviable on the basis of an assessment in respect of the yearly value of property, and includes any sum which, though obtained in the first instance by a precept, certificate, or other instrument, requiring payment from some authority or officer, is or can be ultimately raised out of a rate as before defined.
 
 36. Where in pursuance of any public general or local Deduction Act any capital sum or any instalment of a capital sum has been paid to any rating authority in respect of the increased 8um paid to or enhanced value of any land due to any improvements made rating au-or other action taken by the authority, the amount of that Jespect«of capital sum or instalment shall be deducted from any increment increase in value of the land for the purposes of the collection of increment value* value duty and from the site value of the land for the purposes of the collection of undeveloped land duty, and from the value of the benefit accruing to the lessor for the purposes of reversion duty, and in the case of increment value duty the duty on the amount deducted shall be deemed to have been paid.
 
@@ -1346,7 +1346,7 @@ property appropriated for the purpose of any of the naval or military forces of 
 
 (2) This section shall apply to the fee simple of, or any interest in, any land held by a registered society or by a com-. pany within the meaning of the Companies (Consolidation) Act, 1908, or any body of persons incorporated by special Act, if that company or body are by their memorandum or Act precluded from dividing any profit amongst their members, as if the purposes of the society, company, or body of persons were charitable purposes.
 
-In this provision the expression “registered society ” means any society or body of persons who are registered, or whose rules are certified or registered, by a registrar of friendly societies in pursuance of any Act of Parliament, and who by their rules make provision for the benefits set out in section eight, subsection one, of the Friendly Societies Act, 1896, and where the contract between the society and the member is of a permanent character.
+In this provision the expression “registered society” means any society or body of persons who are registered, or whose rules are certified or registered, by a registrar of friendly societies in pursuance of any Act of Parliament, and who by their rules make provision for the benefits set out in section eight, subsection one, of the Friendly Societies Act, 1896, and where the contract between the society and the member is of a permanent character.
 
 38. — (1) Neither increment value duty, reversion duty, nor undeveloped land duty shall be charged in respect of any land whilst it is held by a statutory company for the purposes of their undertaking and cannot be appropriated by the company except to those purposes; but nothing in this provision shall prevent the collection of increment value duty when any such land is sold or ceases to be so held.
 
@@ -1408,7 +1408,7 @@ Definitions.
 
 The expression “land ” does not include any incorporeal hereditament issuing or granted out of the land;
 
-The expression “rentcharge ” means tithe or tithe rentcharge, or other periodical payment or rendering in lieu of or in the nature of tithe, or any fee farm rent, rent seek, quit rent, chief rent, rent of assize, or any other perpetual rent or annuity granted out of land;
+The expression “rentcharge” means tithe or tithe rentcharge, or other periodical payment or rendering in lieu of or in the nature of tithe, or any fee farm rent, rent seek, quit rent, chief rent, rent of assize, or any other perpetual rent or annuity granted out of land;
 
 The expression “rent ” has the same meaning as in the Conveyancing and Law of Property Act, 1881, and does not include a rentcharge;
 
@@ -1430,11 +1430,11 @@ is deemed to be, subject to statutory conditions under the Land Law (Ireland) Ac
 
 The expression “incumbrance ” includes a mortgage in fee or for a less estate, and a trust for securing money, and a lien, and a charge of a portion, annuity, or any capital or annual sum, but does not include a fixed charge as defined by this Act;
 
-The expression “fixed charge ” means any rentcharge as defined by this Act, and any burden or charge (other than rates or taxes) arising by operation of law or imposed by any Act of Parliament, or imposed in pursuance of the exercise of any powers or the performance of any duties under any such Act, otherwise than by a person interested in the land or in consideration of any advance to any person interested in the land;
+The expression “fixed charge” means any rentcharge as defined by this Act, and any burden or charge (other than rates or taxes) arising by operation of law or imposed by any Act of Parliament, or imposed in pursuance of the exercise of any powers or the performance of any duties under any such Act, otherwise than by a person interested in the land or in consideration of any advance to any person interested in the land;
 
 The expression “fee simple” means the fee simple in possession not subject to any lease, ‘but does not include an undivided share in a fee simple in possession;
 
-The expression “owner ” means the person entitled in possession to the rents and profits of the land in virtue of any estate of freehold, except that where land is let on lease for a term of which more than fifty years are unexpired, the lessee under the lease or if there are two or more such leases the lessee under the last created under-lease shall be deemed to be the owner instead of the person entitled to the rents and profits as aforesaid;
+The expression “owner” means the person entitled in possession to the rents and profits of the land in virtue of any estate of freehold, except that where land is let on lease for a term of which more than fifty years are unexpired, the lessee under the lease or if there are two or more such leases the lessee under the last created under-lease shall be deemed to be the owner instead of the person entitled to the rents and profits as aforesaid;
 
 The expressions “lessor’’and “lessee” include an underlessor and under-lessee; and the expression “lessor ” includes the person for the time being entitled to the reversion, whether freehold or leasehold, expectant on the determination of the lease; and the expression “lessee” includes executors, administrators, and assigns of the lessee;
 
@@ -1462,7 +1462,7 @@ The expression “rent charge ” includes feu duty and ground annual;
 
 The expression “interest ” in relation to land includes the landlord’s right of reversion to the subjects let on the determination of the lease, but does not include teinds, servitudes, superiorities, any interest in expectancy, whether vested or not, heritable securities, bonds of provision, jointures, annuities, or other capital or annual sums, or other debts secured upon heritage, or any sporting right, or any lease thereof;
 
-The expression “owner ” means the fiar of the land, except that where land is let on lease for a term of which more than fifty years are unexpired, the tenant under the lease shall be deemed to be the owner, and includes an institute or heir of entail in possession;
+The expression “owner” means the fiar of the land, except that where land is let on lease for a term of which more than fifty years are unexpired, the tenant under the lease shall be deemed to be the owner, and includes an institute or heir of entail in possession;
 
 The expression “freeholder ” includes “ fiar, ” “ life-renter “ of land settled within the meaning of the Finance “ Act, 1894, ” and “institute or heir of entail in possession, ” and the expression “freehold ” shall be construed accordingly;
 
@@ -1472,7 +1472,7 @@ The expression “incumbrance ” includes any heritable security, or other debt
 
 “ Ijocal Government Board for Scotland ” shall be substituted for “ Local Government Board ”;
 
-The expression “borough or urban district ” means a royal, parliamentary or police burgh;
+The expression “borough or urban district” means a royal, parliamentary or police burgh;
 
 A reference to an appeal to quarter sessions shall not apply;
 
@@ -1688,7 +1688,7 @@ Definitions
 
 The expression “beer” includes ale, porter, spruce beer, black beer, and any other description of beer, and any liquor which is made or sold as a description of beer or as a substitute for beer, and which on analysis of a sample thereof at any time is found to contain more than two per cent, of proof spirit;
 
-The expression “wine ” means wine imported into Great Britain or Ireland;
+The expression “wine” means wine imported into Great Britain or Ireland;
 
 The expression “sweets” means any liquor which is made from fruit and sugar, or from fruit or sugar mixed with any other material, and which has undergone a process of fermentation in the manufacture thereof, and includes British wines, made wines, mead, and metheglin;
 
@@ -1696,15 +1696,15 @@ Any reference to cider shall include a reference to perry;
 
 The expression “registered club” means a club for the time being registered under the Licensing Act, 1902, and in Scotland and Ireland a registered club within the meaning of the Licensing (Scotland) Act, 1903, and the Registration of Clubs (Ireland) Act, 1904, respectively;
 
-The expression “passenger vessel ” means a vessel of any description employed for the carriage and conveyance of passengers which goes from any place in the United Kingdom to any other place in the United Kingdom, or goes from and returns to the same place in the United Kingdom on the same day;
+The expression “passenger vessel” means a vessel of any description employed for the carriage and conveyance of passengers which goes from any place in the United Kingdom to any other place in the United Kingdom, or goes from and returns to the same place in the United Kingdom on the same day;
 
-The expression “publican’s licence ” means the on-licence to be taken out by a retailer of spirits, and the expression “beerhouse licence ” means the on-licence to be taken out by a retailer of beer;
+The expression “publican’s licence” means the on-licence to be taken out by a retailer of spirits, and the expression “beerhouse licence” means the on-licence to be taken out by a retailer of beer;
 
-The expression “fully licensed premises ” means premises to which a publican’s licence is attached, and the expression “beerhouse ” means premises to which a beerhouse licence is attached;
+The expression “fully licensed premises” means premises to which a publican’s licence is attached, and the expression “beerhouse” means premises to which a beerhouse licence is attached;
 
 The expression “premises ” in relation to the value of licensed premises includes any offices, courts, yards, and gardens occupied together with the house in which the liquor is sold, except any such offices, courts, yards, or gardens as are proved to the satisfaction of the Commissioners to be used for any trade or business distinct from any trade or business carried on upon the premises by the licence holder;
 
-The expression “full duty ” means the duty which would be charged under the First Schedule to this Act without taking into consideration any reduction or allowance or, in cases where duty may be charged under that schedule by reference to annual value, any alternative mode of charging the duty.
+The expression “full duty” means the duty which would be charged under the First Schedule to this Act without taking into consideration any reduction or allowance or, in cases where duty may be charged under that schedule by reference to annual value, any alternative mode of charging the duty.
 
 1910.
 
@@ -2220,7 +2220,7 @@ Obligation to execute contract note.
 
 if different rates of duty are chargeable in respect of those transactions, to that one of those transactions which would render the contract note chargeable at the highest rate.
 
-(3) For the purposes of this Part of this Act, the expression “contract note ” means the note seijt by a broker or agent to his principal, or by any person who by way of business deals, or holds himself out as dealing, as a principal in any stock or marketable securities, advising the principal, or the vendor or* purchaser, as the case may be, of the sale or purchase of any stock or marketable security, but does not include a note sent by a broker or agent to his principal where the principal is himself acting as broker or agent for a principal, and is himself either a member of a stock exchange in the United Kingdom or a person who bona fide carries on the business of a stockbroker in the United Kingdom, and is registered as such in the list of stockbrokers kept by the Commissioners.
+(3) For the purposes of this Part of this Act, the expression “contract note” means the note seijt by a broker or agent to his principal, or by any person who by way of business deals, or holds himself out as dealing, as a principal in any stock or marketable securities, advising the principal, or the vendor or* purchaser, as the case may be, of the sale or purchase of any stock or marketable security, but does not include a note sent by a broker or agent to his principal where the principal is himself acting as broker or agent for a principal, and is himself either a member of a stock exchange in the United Kingdom or a person who bona fide carries on the business of a stockbroker in the United Kingdom, and is registered as such in the list of stockbrokers kept by the Commissioners.
 
 (4) Where a contract note advises the sale or purchase of more than one description of stock or marketable security, the note shall be deemed to be as many contract notes as there are descriptions of stocks or securities sold or purchased.
 
@@ -2358,7 +2358,7 @@ Exemptions and allowances in respect of the duty on motor spirit.
 
 (6) Sections eight and nine of the Finance Act, 1901, as amended by section two of the Revenue Act, 1903, shall apply with respect to the manufacture of and dealing in motor spirit as they apply with respect to the manufacture of saccharin, and any provisions of the Spirits Act, 1880, or any Acts amending that Act, may be applied by regulations made in pursuance of this subsection to motor spirit, and the regulations may provide for the sale and delivery by duly licensed persons of motor spirit from vans at the premises of persons who are dealers therein, and buy it to sell again.
 
-(7) In this Part of this Act, the expression “motor spirit ” means any inflammable hydrocarbon (including any mixture of hydrocarbons and any liquid containing hydrocarbon) which is capable of being used for providing reasonably efficient motive power for a motor car, and the expression “manufacturer of motor spirit ” includes a refiner of motor spirit and a person otherwise preparing motor spirit.
+(7) In this Part of this Act, the expression “motor spirit” means any inflammable hydrocarbon (including any mixture of hydrocarbons and any liquid containing hydrocarbon) which is capable of being used for providing reasonably efficient motive power for a motor car, and the expression “manufacturer of motor spirit ” includes a refiner of motor spirit and a person otherwise preparing motor spirit.
 
 (8) The Commissioners may by regulations prescribe tests for the purpose of determining whether any inflammable hydrocarbon or mixture of hydrocarbons, or liquid containing hydrocarbon, is motor spirit within the meaning of this provision.
 
@@ -2480,7 +2480,7 @@ shall be charged on and paid out of the Consolidated Fund or the growing produce
 
 (2) The road improvement grant shall be carried to a separate account to be established under regulations made by the Treasury for the purpose, and, subject to such regulations as may be made by the Treasury with respect to accounts and accumulation of moneys standing to the account, be administered and applied in manner provided by the Development and Road Improvement Funds Act, 1909.
 
-(3) The expression “the net proceeds of the duties ” means the amount of those duties paid into the Exchequer, after deducting such sums as are certified by the Commissioners to be the cost of collecting the duties, and after deducting in the case of duties payable on licences for motor cars any sum which is payable to any local taxation account in respect of the proceeds of those duties, or to any council in respect of any deficiency in the proceeds of those duties.
+(3) The expression “the net proceeds of the duties” means the amount of those duties paid into the Exchequer, after deducting such sums as are certified by the Commissioners to be the cost of collecting the duties, and after deducting in the case of duties payable on licences for motor cars any sum which is payable to any local taxation account in respect of the proceeds of those duties, or to any council in respect of any deficiency in the proceeds of those duties.
 
 91. — (1) There shall be charged on and paid out of the Consolidated Fund or the growing produce thereof a sum equal to one-half of the net proceeds of the duties on land values under Part I. of this Act (including mineral rights duties).
 
@@ -3136,7 +3136,7 @@ Duties:—
 
 (a) Sale of any intoxicating liquor — per day, 10*.
 
-(b)Sale of beer or wine only — per day, 5s.
+(b) Sale of beer or wine only — per day, 5s.
 
 Provisions applicable to Occasional Licences.
 
@@ -3522,7 +3522,7 @@ The Excise Act, 1834
 
 In section fifteen, so far as it applies to objects which appear to the Treasury to be of national, scientific, historic, or artistic interest, the words from “ and given to” to “persons in succession ”; the word “ so, ” where it secondly occurs; the words from “not having any power” to “ property yielding an income ”; the words from “or shall come” to “having an absolute interest therein ”; the word “ same, ” where it fifthly occurs; the words from “ as if the same had been ” to “ or dispose thereof ”; and the words from “ or who shall have ” to “ an absolute interest therein.”
 
-Section two, from “Beer. — Every “ person not being a brewer of “ beer ” to “ or upwards 3Z. 3*. 0d.”; from “ Every distiller ” ' to “ retailer thereof 10Z. 0s. Od.”; from “Every retailer of spirits (except ” to “ 13Z. 13s. 0d.”; and from “ Wine ” to “ 10Z. Os. Od.”; section sixteen, down to “ as last aforesaid (except as aforesaid) shall expire and”; section twenty-six, from “ Every distiller ” to “ five hundred pounds ”; from “ Every person not being a brewer of beer” to “and sell coffee, tea, cocoa nuts, chocolate or pepper ”; the words “ Every dealer in foreign wine so offending respectively, ” and the word “ respectively ” where it next occurs; and from “ Every person who shall sell ” to “ metheglin.”
+Section two, from “Beer. — Every “ person not being a brewer of “ beer ” to “ or upwards 3Z. 3*. 0d.”; from “ Every distiller ” ' to “ retailer thereof 10Z. 0s. Od.”; from “Every retailer of spirits (except ” to “ 13Z. 13s. 0d.”; and from “ Wine ” to “ 10Z. Os. Od.”; section sixteen, down to “ as last aforesaid (except as aforesaid) shall expire and”; section twenty-six, from “ Every distiller ” to “ five hundred pounds ”; from “ Every person not being a brewer of beer” to “and sell coffee, tea, cocoa nuts, chocolate or pepper ”; the words “Every dealer in foreign wine so offending respectively, ” and the word “ respectively ” where it next occurs; and from “ Every person who shall sell ” to “ metheglin.”
 
 The whole Act.
 
@@ -3546,7 +3546,7 @@ c. 85. 1834. teen, and twenty.
 
 3 A 4 Vict. c. 17. The Excise Act, 1840 Section one, so far as relates to duties on licences for the manufacture or sale of intoxicating liquor.
 
-8 A 9 Vict. c. 64. The Spirits (Ireland) Act, 1845. In section one, the words “ spirits “ in any greater quantity at one “ time than two quarts or, ” and the words “ and at the same rates of duty respectively. *
+8 A 9 Vict. c. 64. The Spirits (Ireland) Act, 1845. In section one, the words “spirits “ in any greater quantity at one “ time than two quarts or, ” and the words “and at the same rates of duty respectively. *
 
 11 A 12 Vict. c. 121. The Liqueur Act, 1848. Sections nine to eleven.
 
@@ -3562,11 +3562,11 @@ c. 51. Act, 1853. respects persons dying before the passing of this Act.
 
 23 A 24 Vict. The Refreshment Section one, from “and for every
 
-c. 27. Houses Act, 1860. licence to be granted ” to the end of the section; sections three, four, and seven; the words “ under this Act ” in section eight; section nineteen; in section twenty-one, the words “ whether licensed under this Act or not”; the words “under this Act” wherever they occur in sections twenty-two, twenty-three, and twenty-five; and in section forty-four, the words “under the provisions of this Act.”
+c. 27. Houses Act, 1860. licence to be granted ” to the end of the section; sections three, four, and seven; the words “under this Act ” in section eight; section nineteen; in section twenty-one, the words “whether licensed under this Act or not”; the words “under this Act” wherever they occur in sections twenty-two, twenty-three, and twenty-five; and in section forty-four, the words “under the provisions of this Act.”
 
 23 A 24 Vict. The Refreshment Section one, from “ and for every
 
-c. 107. Houses (Ireland) Act, 1860. licence to be granted” to the end of the section; sections three, four, and seven; the words “ under this Act” in section eight; in section ten, the words “ No. 2, or No. 3 ”; sections twenty-one and twenty-two; in section twenty-three, the words “ whether licensed under this Act or not ”; the words “ under this Act ” wherever they occur in sections twenty-four, twenty-five, and twenty-seven to thirty-one; in section forty-six, the words “under the provisions of this Act, ” and No. 2 and No. 3 in the Schedule.
+c. 107. Houses (Ireland) Act, 1860. licence to be granted” to the end of the section; sections three, four, and seven; the words “under this Act” in section eight; in section ten, the words “No. 2, or No. 3 ”; sections twenty-one and twenty-two; in section twenty-three, the words “whether licensed under this Act or not ”; the words “under this Act ” wherever they occur in sections twenty-four, twenty-five, and twenty-seven to thirty-one; in section forty-six, the words “under the provisions of this Act, ” and No. 2 and No. 3 in the Schedule.
 
 94
 
@@ -3592,7 +3592,7 @@ Session and Chapter. Title or Short Title. Extent of Repeal.
 
 8 Edw. 7. c. 10. The Tobacco Growing (Scotland) Act, 1908. The whole Act.
 
-8 Edw. 7. c. 16. The Finance Act, 1908. Subsection (1) of section three down to “ the lb. - - 3*. 2d. and, ” and the words “ on and after the same date " in that subsection.
+8 Edw. 7. c. 16. The Finance Act, 1908. Subsection (1) of section three down to “ the lb. - - 3*. 2d. and, ” and the words “on and after the same date " in that subsection.
 
 1910.
 
@@ -3604,7 +3604,7 @@ Ch. 8.
 
 Session and Chapter. Title or Short Title. Extent of Repeal.
 
-49 & 50 Vict. The Customs and In section three, the words “ no
+49 & 50 Vict. The Customs and In section three, the words “no
 
 c. 18. Inland Revenue Act, 1886. licence shall be required, and.”
 
@@ -3622,7 +3622,7 @@ c. 42. 1889. to licences for the sale of intoxicating liquor, and section twenty
 
 59 & 60 Vict. The Finance Act, In section twenty, the words from
 
-c. 28. 1896. “ and is settled ” to “ by different persons ”; the words “ by a person “ not competent to dispose of the “ same ”; the words “ or is in the “ possession of some person who “ is then competent to dispose of the same ”; the words “ and “ also the person being in possession and competent to dispose “ of the same ”; and the words from “and in the case” to the end of the section, except as respects persons dying before the thirtieth day of April nineteen hundred and nine.
+c. 28. 1896. “ and is settled ” to “ by different persons ”; the words “by a person “ not competent to dispose of the “ same ”; the words “or is in the “ possession of some person who “ is then competent to dispose of the same ”; the words “and “ also the person being in possession and competent to dispose “ of the same ”; and the words from “and in the case” to the end of the section, except as respects persons dying before the thirtieth day of April nineteen hundred and nine.
 
 59 & 60 Vict. The Locomotives on Section eight, so far as relates to
 
@@ -3664,7 +3664,7 @@ Session and Chapter. Title or Short Title. Extent of Repeal.
 
 8 Edw. 7. c. 10. The Tobacco Growing (Scotland) Act, 1908. The whole Act.
 
-$ Edw. 7. c. 16. The Finance Act, 1908. Subsection (1) of section three down to “ the lb. - - 3*. and, ” and [the words “ on and after the same [date ” in that subsection.
+$ Edw. 7. c. 16. The Finance Act, 1908. Subsection (1) of section three down to “ the lb. - - 3*. and, ” and [the words “on and after the same [date ” in that subsection.
 
 CHAPTER 9.
 
@@ -3830,9 +3830,9 @@ or
 
 (g) if the grantee enters into or continues in any business, occupation, or employment as a private detective, after being prohibited to do so by the police authority on any reasonable ground.
 
-11. — (1) The word “thirty” occurring in subsection (2) of section twenty-five of the principal Act shall be deleted and the words “ forty-five ” shall be inserted in lieu thereof: Provided that the said subsection shall not apply to the case of a person transferred or appointed to the post of chief constable.
+11. — (1) The word “thirty” occurring in subsection (2) of section twenty-five of the principal Act shall be deleted and the words “forty-five ” shall be inserted in lieu thereof: Provided that the said subsection shall not apply to the case of a person transferred or appointed to the post of chief constable.
 
-(2) The words “ Great Britain ” occurring in subsection (4) of section four and in subsection (6) of section twenty-seven of the principal Act shall be deleted and the words “ the United Kingdom ” shall be inserted in lieu thereof.
+(2) The words “ Great Britain ” occurring in subsection (4) of section four and in subsection (6) of section twenty-seven of the principal Act shall be deleted and the words “the United Kingdom ” shall be inserted in lieu thereof.
 
 (3) Subsection (3) of section twenty-five of the principal Act shall no longer have effect, and in lieu thereof the following provision shall be inserted:—
 
@@ -3850,7 +3850,7 @@ any Act of Parliament or any Provisional Order confirmed by Act of Parliament pa
 
 (2) Where a constable is compelled to retire under this section, and is not entitled without a medical certificate to retire and receive his pension, he shall be entitled to receive such a pension or may be granted such a gratuity as he would have been entitled to receive, or as might have been granted to him, had he then retired on a medical certificate.
 
-14. In subsection (1) of section four of the principal Act, after the words “ constable belongs” there shall be inserted the words “ not exceeding the period of the sickness, misconduct, or “ neglect of duty, or the period during which he is suspended “ from duty on account thereof.”
+14. In subsection (1) of section four of the principal Act, after the words “constable belongs” there shall be inserted the words “not exceeding the period of the sickness, misconduct, or “ neglect of duty, or the period during which he is suspended “ from duty on account thereof.”
 
 SCHEDULE.
 
@@ -5462,7 +5462,7 @@ If on any such reference the referee considers that the draft order should be va
 
 (5) If the Secretary of State considers that any objection, though not a general objection, is of such a character that it is desirable to refer it to a referee, he may so refer it, and in that case the foregoing provisions shall apply as in the case of a general objection.
 
-(6) For the purposes of this section a “ general objection ” means an objection made either by or on behalf of owners of mines employing not less than one-third of the total number of men employed at the mines affected by the proposed order, or, if the order contains different provisions for different classes of mines, of the total number of men employed in any such class of mines, or by or on behalf of not less than one-third of the total number of men so employed.
+(6) For the purposes of this section a “ general objection” means an objection made either by or on behalf of owners of mines employing not less than one-third of the total number of men employed at the mines affected by the proposed order, or, if the order contains different provisions for different classes of mines, of the total number of men employed in any such class of mines, or by or on behalf of not less than one-third of the total number of men so employed.
 
 The number of men employed shall be calculated in accordance with the returns for the last preceding year sent by owners of mines to the inspectors in pursuance of section thirty-three of the Coal Mines Regulation Act, 1887, and section one of the 50 & 51 Vict. Metalliferous Mines Regulation Act, 1875. 385& 39 Vict
 
@@ -5472,7 +5472,7 @@ procedure and costs on a reference under this section, and those regulations sha
 
 (8) An order under this Act may be revoked, altered, or added to by an order made in like manner and subject to the same provisions as the original order.
 
-3. — (1) The expression “mine ” means any mine to which Application-the Coal Mines Regulation Acts, 1887 to 1908, or the Metalli- and Short title* ferous Mines Regulation Acts, 1872 and 1875, apply.
+3. — (1) The expression “mine” means any mine to which Application-the Coal Mines Regulation Acts, 1887 to 1908, or the Metalli- and Short title* ferous Mines Regulation Acts, 1872 and 1875, apply.
 
 (2) This Act may be cited as the Mines Accidents (Rescue and Aid) Act, 1910.
 
@@ -6530,7 +6530,7 @@ of the premises (being persons neither of whom held a justices’ licence in res
 
 be granted in respect of those premises.
 
-1910. Licensing (Con)Ch. 24.
+1910. Licensing (Con) Ch. 24.
 
 Act, 1910.
 
@@ -7050,7 +7050,7 @@ at the residence or working place of the purchaser, any description children^ of
 
 (5) For the purposes of this section —
 
-The expression “corked ” means closed with a plug or stopper, whether it is made of cork or wood, or glass, or some other material; and The expression “sealed ” means secured with any substance without the destruction of which the cork, plug, or stopper cannot be withdrawn.
+The expression “corked” means closed with a plug or stopper, whether it is made of cork or wood, or glass, or some other material; and The expression “sealed” means secured with any substance without the destruction of which the cork, plug, or stopper cannot be withdrawn.
 
 69. — (1) All intoxicating liquor which is sold by retail and obligation to not in cask or bottle, and is not sold in a quantity less than
 
@@ -7610,13 +7610,13 @@ Provided that the copy of the notice of an application for an ordinary removal t
 
 beer, porter, cider, perry, and sweets, and any fermented, distilled, or spirituous liquor which cannot, according to any law for the time being in force, be legally sold without an excise licence:
 
-The expression “justices’ licence ” means a justices’ licence for the sale of any intoxicating liquor granted in accordance with this Act:
+The expression “justices’ licence” means a justices’ licence for the sale of any intoxicating liquor granted in accordance with this Act:
 
 The expression “justices’ on-licence” means a justices’ licence for the sale of any intoxicating liquor for consumption on the premises:
 
 The expression “justices’ off-licence” means a justices’ licence for the sale of any intoxicating liquor not to be consumed on the premises:
 
-' The expression “licensed premises ” means premises in respect of which a justices’ licence has been granted and is in force:
+' The expression “licensed premises” means premises in respect of which a justices’ licence has been granted and is in force:
 
 The expression “sale by retail” in respect of any intoxicating liquor means the sale of that liquor in such quantities as is declared to be sale by retail by any Acts relating to the sale of intoxicating liquors, and any expression referring to sale by retail shall be construed accordingly:
 
@@ -7636,11 +7636,11 @@ For the purpose of the provisions of this Act as to appeals from die refusal of 
 
 For the purpose of this provision, the expression “borough ” includes boroughs which are counties of cities or towns:
 
-The expression “quarter sessions ” means court of quarter sessions:
+The expression “quarter sessions” means court of quarter sessions:
 
 The expression “secretary ” in relation to a club includes any officer of the club or other person performing the duties of a secretary, and, in the case of a proprietary club where there is no secretary, the proprietor of the club:
 
-The expression “unregistered club ” means a club which requires to be registered under this Act, but is not so registered, or which has been struck off the register of clubs.
+The expression “unregistered club” means a club which requires to be registered under this Act, but is not so registered, or which has been struck off the register of clubs.
 
 Exemptions and Savings.
 
@@ -8190,11 +8190,11 @@ Special Provisions.
 
 2. For the purposes of this Schedule —
 
-(a) “ The metropolis ” means the administrative county of London,
+(a) “ The metropolis” means the administrative county of London,
 
 with the addition of any area which, though not within the administrative county of London, is within the four-mile radius from Charing Cross:
 
-(b) 44 Town ” means a borough or urban district, and any collec-
+(b) 44 Town” means a borough or urban district, and any collec-
 
 tion of houses adjacent to a town as so defined shall be deemed to be part of the town after it has been declared so to be by an order of the confirming authority having jurisdiction in the place where the houses are situated:Provided that no borough or urban district, whether including any such adjacent houses or not, shall be deemed a town, unless it contains one thousand inhabitants:
 
@@ -8330,7 +8330,7 @@ An Act to amend sections seventeen and eighteen of the Children Act, 1908. [3rd 
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. Subsections (1) and (2) of section seventeen of the Children Act, 1908, shall be read as if in each of these subsections the words “ or unlawful carnal knowledge ” were inserted after the words “ seduction or prostitution, ” and as if the words “ or been unlawfully carnally known ” were inserted after the words “ become a prostitute, ” and section eighteen of the same Act shall be read as if the words “ or of being unlawfully carnally known ” were inserted after the words “ seduction or prostitution.”
+1. Subsections (1) and (2) of section seventeen of the Children Act, 1908, shall be read as if in each of these subsections the words “or unlawful carnal knowledge ” were inserted after the words “seduction or prostitution, ” and as if the words “or been unlawfully carnally known ” were inserted after the words “become a prostitute, ” and section eighteen of the same Act shall be read as if the words “or of being unlawfully carnally known ” were inserted after the words “seduction or prostitution.”
 
 2. This Act may be cited as the Children Act (1908) Amendment Act, 1910, and shall be construed as one with the Children Act, 1908.
 
