@@ -2176,7 +2176,7 @@ and Name of Child. Birth of the Child. Proprietor. Mother’s Registry.
 
 K0 i.—Certificate of Original Enregistration of a Domestic Male Slave, on Register ----- Letter
 
-Name of Proprietor - -----
+Name of Proprietor ——
 
 Name and Age of Slave
 
@@ -2188,9 +2188,9 @@ G 4
 
 N° a.—Certificate of Original Enregistration of a Domestic Female Slave.
 
-N° on Register - -- -- -- Letter - -
+N° on Register - -- Letter - -
 
-Name of Proprietor - -- -- -- -
+Name of Proprietor - -- -
 
 Name of Slave and Age. Names of Children. Age and Sex of Children. Whether Free or not.
 
@@ -2228,7 +2228,7 @@ Date of Death, and Place of Registry - - - - Signature
 
 N0 6.—Certificate of Enregistration of Death of a Child of a Female Slave. N° and District of Register of Mother - - - - Letter - -
 
-Name of Child - -- -- -- --Name of Proprietor - -- -- -- Date of Death, and Place of Registry - - - - Signature -
+Name of Child - -- --Name of Proprietor - -- Date of Death, and Place of Registry - - - - Signature -
 
 N° 7.—Certificate of Registration of acquisition of a Domestic Slave. N° and District of Original Register ----- Letter - -
 
@@ -2242,13 +2242,13 @@ Date and Place of Registry -----
 
 New Number and Letter of Registry ----- Signature -
 
-N* 8.—Certificate of Enregistration of a Covia Male Slave. District - -- -- -- -- - Parish - -
+N* 8.—Certificate of Enregistration of a Covia Male Slave. District - -- -- - Parish - -
 
-N° on.Register - -- -- -- Letter - -
+N° on.Register - -- Letter - -
 
 Name and Cast of Proprietor -----
 
-Name and Age of Slave - -- -- --
+Name and Age of Slave ——
 
 Place and Date of Enregistration Signature -
 
@@ -2258,7 +2258,7 @@ FOR REGISTRY OF SLAVES.
 
 N° 9.—Certificate of Enregistration of a Covia Female Slave.
 
-District - - - - - - ......  Parish - -
+District - - ......  Parish - -
 
 N* on Register - - ----- Letter - -
 
@@ -2272,7 +2272,7 @@ Signature
 
 N° 10.—Certificate of Enregistration of a Free Bom Child of a Covia Slave.
 
-District - -- -- -- ......  Parish -
+District - -- ......  Parish -
 
 N# and District of Mother’s Register ----- Letter - -
 
@@ -2296,13 +2296,13 @@ Name of Proprietor -
 
 Date of Birth, Name and Sex of Child - -
 
-N° of Child’s Register - -- -- -- Letter - -
+N° of Child’s Register - -- Letter - -
 
 Place and Date of Registration - - - -. - - Signature -
 
 N° 12. Certificate of Enregistration of Death of a Covia Slave.
 
-District: - -- -- -- -- - Pariah - -
+District: - -- -- - Pariah - -
 
 N° and District of Register ----- Letter - -
 
@@ -2320,15 +2320,15 @@ N° 13.—Certificate of Enregistration of a Child of a Female Covia Slave.
 
 ---
 
-District - -- -- -- -- - Parish - -
+District - -- -- - Parish - -
 
 N° and District of Register of Mother - - - - Letter -
 
-Name of Child - -- -- -- --Name of Proprietor ..
+Name of Child - -- --Name of Proprietor ..
 
 Date of Death, and Place of Registry - - - - Signature -
 
-N° 14.—Certificate of Registration of acquisition of a Covia Slave. District - -- -- -- -- - Parish - -
+N° 14.—Certificate of Registration of acquisition of a Covia Slave. District - -- -- - Parish - -
 
 N° and District of Original Register ----- Letter -.
 
