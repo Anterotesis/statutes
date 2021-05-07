@@ -2178,7 +2178,7 @@ undertakings in question payments towards the cost of works certified by the app
 
 (c) any other undertaking to which Parliament may hereafter determine that this section shall apply.
 
-(5) In this section the expression " public utility undertaking " means any of the following undertakings the carrying on of which is authorised by any enactment, scheme or order, that is to say any railway, light railway, tramway, trolley-vehicle, canal, inland navigation, dock, harbour, quay, pier, lighthouse, gas, electricity, hydraulic power, sewerage, sewage disposal, refuse disposal or water undertaking in the United Kingdom, and the undertaking of any drainage authority, except that any undertaking carried on by undertakers who carry on a railway undertaking being a public utility undertaking shall be deemed for the purposes of this section to be part of their railway undertaking.
+(5) In this section the expression " public utility undertaking" means any of the following undertakings the carrying on of which is authorised by any enactment, scheme or order, that is to say any railway, light railway, tramway, trolley-vehicle, canal, inland navigation, dock, harbour, quay, pier, lighthouse, gas, electricity, hydraulic power, sewerage, sewage disposal, refuse disposal or water undertaking in the United Kingdom, and the undertaking of any drainage authority, except that any undertaking carried on by undertakers who carry on a railway undertaking being a public utility undertaking shall be deemed for the purposes of this section to be part of their railway undertaking.
 
 (6) In this section, the expression “ appropriate department ” means—
 
@@ -2266,7 +2266,7 @@ Any grants paid by the Minister of Transport under any provision made by the sch
 
 the expression “ highway authority ” does not include the Minister of Transport;
 
-the expression “ highway maintainable at the public expense " means a highway repairable by the inhabitants at large or by a highway authority, and includes any bridge, viaduct or tunnel carrying a highway, and any pedestrian subway or pipe subway, being a bridge, viaduct, tunnel or subway which is repairable by the council of a county, county borough, metropolitan borough or county district, by the Common Council of the City of London, by the
+the expression “ highway maintainable at the public expense" means a highway repairable by the inhabitants at large or by a highway authority, and includes any bridge, viaduct or tunnel carrying a highway, and any pedestrian subway or pipe subway, being a bridge, viaduct, tunnel or subway which is repairable by the council of a county, county borough, metropolitan borough or county district, by the Common Council of the City of London, by the
 
 .
 
@@ -2290,7 +2290,7 @@ the expression “ tunnel ” includes the approaches thereto and the abutments 
 
 the expression “ pedestrian subway " includes the stairways thereof, the approaches thereto, any public convenience constructed therein, and any works connected with or ancillary to the subway;
 
-the expression “ pipe subway " means any passage or covered way under a road constructed or adapted for the reception of, and affording convenient access to, any mains, pipes, tubes, cables, wires or apparatus, and includes any works connected with or ancillary to the subway.
+the expression “ pipe subway" means any passage or covered way under a road constructed or adapted for the reception of, and affording convenient access to, any mains, pipes, tubes, cables, wires or apparatus, and includes any works connected with or ancillary to the subway.
 
 (12) For the purposes of this section—
 
@@ -2474,7 +2474,6 @@ Part I.
 
 Definition of “ owner in relation to proprietary interests.
 
-v^.
 
 6o
 
@@ -3188,13 +3187,13 @@ section twenty-one of the Hire Purchase Act, 1938, or a contract to which the Hi
 
 “ (2A) The prescribed form of policy may be such as to limit the extent and nature of the indemnity provided by the Board of Trade and to impose conditions subject to which the indemnity is provided ”,
 
-and in subsection (3) of that section for the words “ the last preceding subsection”, there shall be substituted the words “subsection (2) of this section”.
+and in subsection (3) of that section for the words “the last preceding subsection”, there shall be substituted the words “subsection (2) of this section”.
 
 (2) After subsection (iA) of section nine there shall be inserted the following subsection :—
 
 “ (iB) Where under any form of policy prescribed under this Part of this Act the maximum amount recoverable in respect of any goods is, irrespective of the sum insured, less than the value of those goods, any reference in the foregoing provisions of this section to the value of goods shall be construed, in relation to those goods; as a reference to that maximum amount ”,
 
-(3) At the end of subsection (1) of section eleven A there shall be added the words “ and the maximum amount which " would be recoverable in respect of any such goods under a “ policy issued under this Part of this Act”.
+(3) At the end of subsection (1) of section eleven A there shall be added the words “and the maximum amount which " would be recoverable in respect of any such goods under a “ policy issued under this Part of this Act”.
 
 (4) The said section seven, section nine and section eleven A shall be deemed always to have had effect subject to the amendments made therein respectively by the foregoing provisions of this section, and any reference to the value of goods in any compulsory insurance order made under the said section nine before the commencement of this Act shall be construed in like maimer as any such reference in subsection (1) or subsection (iA) of the said section nine.
 
@@ -3266,7 +3265,7 @@ and any reference to goods owned by any person shall be construed accordingly
 
 (2) Nothing in subsection (1) of this section shall be construed as limiting the power of the Board of Trade under subsection (4) of the said section eleven by order to direct that goods of any description specified in the order shall be deemed not to be goods insurable under Part II of the War Risks Insurance Act, 1939.
 
-78. — (1) Subsection (3) of section eleven shall have effect, Miscellan©-and be deemed always to have had effect, as if after the word ous amend-“ insured ” there were inserted the words “ or re-insured ments.
+78. — (1) Subsection (3) of section eleven shall have effect, Miscellan©-and be deemed always to have had effect, as if after the word ous amend-“ insured ” there were inserted the words “or re-insured ments.
 
 (2) For paragraph (a) of subsection (1) of section fifteen there shall be substituted the following paragraph :—
 
@@ -3868,9 +3867,9 @@ Registration of Leases (Scotland) Act, 1857;
 
 and the expressions " mortgagee ” “ mortgagor ” and “ mortgaged interest ” shall be construed accordingly.
 
-(6) The expressions “ fee simple ” and “ fee simple absolute in possession ” mean the estate or interest of the proprietor of the dominium utile, or, in the case of property, other than feudal property, of the owner, the expression “ easement " means servitude, and the expression “ under-lease” means sub-lease.
+(6) The expressions “ fee simple ” and “ fee simple absolute in possession ” mean the estate or interest of the proprietor of the dominium utile, or, in the case of property, other than feudal property, of the owner, the expression “ easement" means servitude, and the expression “ under-lease” means sub-lease.
 
-(7) The expression “ rating authority " means (a) in section thirty-nine a county or town council, and (b) elsewhere a county or town council charged with the duty of causing a valuation roll to be made up.
+(7) The expression “ rating authority" means (a) in section thirty-nine a county or town council, and (b) elsewhere a county or town council charged with the duty of causing a valuation roll to be made up.
 
 (8) The expression " agricultural land” means any agricultural lands and heritages (other than buildings) within the meaning of the Rating and Valuation (Apportionment) Act, 1928, and the expression “ agricultural buildings” means buildings occupied together with agricultural land or being or forming part of a market garden, and in either case used solely in connection with agricultural operations thereon, exclusive of any dwelling-house not being either a farmhouse occupied in connection with any agricultural land or an agricultural cottage so occupied which is on or contiguous to that land.
 
@@ -4042,7 +4041,7 @@ Act, 1941.
 
 (4) The reference in subsection (3) of section nine to the Landlord and Tenant (War Damage) Act, 1939, shall be construed as a reference to any corresponding enactment of the Parliament of Northern Ireland for the time being in force.
 
-(5) Section eleven shall have effect as if, in subsection (1) thereof, for the word " area ” in the fir$t place in which that word occurs there were substituted the word “ district”, and as if for the words “ In this subsection the expression ‘ area ’ means the area of a local authority for the purposes of Part II of the Housing Act, 1936,” there were substituted the words “ In this subsection the expression ' district means the district of a local authority for the purposes of Part II of the Housing Act (Northern Ireland), 1939”.
+(5) Section eleven shall have effect as if, in subsection (1) thereof, for the word " area ” in the fir$t place in which that word occurs there were substituted the word “ district”, and as if for the words “In this subsection the expression ‘ area ’ means the area of a local authority for the purposes of Part II of the Housing Act, 1936,” there were substituted the words “In this subsection the expression ' district means the district of a local authority for the purposes of Part II of the Housing Act (Northern Ireland), 1939”.
 
 (6) Section nineteen shall have effect as if, in the proviso to subsection (1), the words from “ so, however,” to the end of the proviso, and the pro'risoto subsection (2^. were omitted.
 
@@ -5270,7 +5269,7 @@ effect, and be deemed always to have had effect, as if the following paragraph w
 
 “ It shall be the duty of the employer by whom any person was last employed during the period of fourteen days immediately preceding the day on which he was called up or called out (whether before or after the commencement of this Act) to reinstate him in his employment at the termination of his service as a person called up or called out.”
 
-(2) In the said section fourteen, for the words “ called from his civil employment for service connected with the present emergency " and “ called from their civil employment for service connected with the present emergency " wherever they occur, there shall be substituted the words “ called up or called out”, and in subsection (2) of the said section for the words " that service ” there shall be substituted the words “ the service of the employees as persons called up or called out."
+(2) In the said section fourteen, for the words “called from his civil employment for service connected with the present emergency " and “ called from their civil employment for service connected with the present emergency " wherever they occur, there shall be substituted the words “called up or called out”, and in subsection (2) of the said section for the words " that service ” there shall be substituted the words “the service of the employees as persons called up or called out."
 
 (3) Where, by virtue of any provision of the Naval and Marine Forces (Temporary Release from Service) Act, 1940, or the Armed Forces (Conditions of Service) Act, 1939, a person called up or called out has, at any time (whether before or after the commencement of this Act) before such date as His Majesty may by Order in Council appoint, been released from service in the Royal Navy or the Royal Marines, or from army service or air force service, or from obligations which he is under by reason of the embodiment of any part of the territorial army or the auxiliary air force, his service in the royal navy, royal marines, army, air force, territorial army or auxiliary air force shall not, for the purposes of the said section fourteen, be deemed to have terminated by reason only of his release as aforesaid.
 
@@ -5296,7 +5295,7 @@ An Order in Council under this subsection may appoint different dates in relatio
 
 under the Reserve and Auxiliary Forces Act, 1939, or called into service under the enactments (including any proclamation. Order in Council, regulation, warrant or other instrument) mentioned in subsection (3) of section one of that Act;
 
-and for the purpose of paragraph (b) of this subsection, the expression “ called into service " means called into actiial service, ordered to join the Royal Navy, ordered to serve in the Royal Marine forces, called to army service, called out on permanent service, embodied, called out on service, or called out for service.
+and for the purpose of paragraph (b) of this subsection, the expression “ called into service" means called into actiial service, ordered to join the Royal Navy, ordered to serve in the Royal Marine forces, called to army service, called out on permanent service, embodied, called out on service, or called out for service.
 
 11. — (1) Where for the purposes of the prosecution of any person for an offence under the principal Act by reason of his failure to comply—
 
@@ -5408,9 +5407,9 @@ Section 16. SCHEDULE
 
 Provisions of Principal Act Repealed. Section of principal Act. Extent of Repeal.
 
-Section five - In subsection (6), the words “ that his
+Section five - In subsection (6), the words “that his
 
-name shall be removed from the register of conscientious objectors and ” and the words “ without qualification”; subsection (8); in subsection (9) the words " remove his name from the register of conscientious objectors and ”
+name shall be removed from the register of conscientious objectors and ” and the words “without qualification”; subsection (8); in subsection (9) the words " remove his name from the register of conscientious objectors and ”
 
 Section fourteen - Subsection (5).
 
@@ -5544,15 +5543,15 @@ inserted the following proviso:
 
 4. In subsection (1) of section forty-seven of the Army Act Amendment (which specifies the authorities who have power to deal summarily s* 47 with charges against officers and warrant officers), for the words Army c ' “any officer (not under the rank of major-general) appointed
 
-for the purpose by the Army Council ” there shall be substituted the words “ any such officer (not under the rank of major-general) as may be prescribed or as may be appointed for the purpose by the Army Council”.
+for the purpose by the Army Council ” there shall be substituted the words “any such officer (not under the rank of major-general) as may be prescribed or as may be appointed for the purpose by the Army Council”.
 
 5. The proviso to paragraph (d) of subsection (1) of section Amendment fifty-four of the Army Act (which prohibits the carrying into o£ s* 54 of effect of a sentence of death or penal servitude awarded by a Army c • field general court-martial unless confirmed by the authority
 
 therein specified) shall have effect subject to the following amendments:—
 
-(a) for the words “ the general or field officer ” there shall be substituted the words " the officer, not being below the rank of field officer, flag officer or squadron leader”; and
+(a) for the words “the general or field officer ” there shall be substituted the words " the officer, not being below the rank of field officer, flag officer or squadron leader”; and
 
-(b) at the end there shall be added the words “ whether such officer is an officer of the army, navy or air force”.
+(b) at the end there shall be added the words “whether such officer is an officer of the army, navy or air force”.
 
 140
 
@@ -6228,7 +6227,7 @@ this Act.
 
 " Detention " includes any form of imprisonment or detention;
 
-“ Gazettes " means the London, Edinburgh, and Belfast Gazettes;
+“ Gazettes" means the London, Edinburgh, and Belfast Gazettes;
 
 " Mercantile marine conscription law ", in relation to any Power, includes any law imposing compulsory service on nationals of that Power in so far as it relates to such service in merchant ships of that Power or in merchant ships which by virtue of any order made under this Act are to be treated as if they were ships of that Power;
 
@@ -6296,7 +6295,7 @@ word “ summarily ” were omitted; and
 
 (h) paragraph 1 of the Schedule shall have effect as if for
 
-the words “ be a court of record " there were substituted the words “ have for the purpose aforesaid the like powers regarding punishment for contempt of court, award of expenses and the issue of extracts, as a sheriff court”.
+the words “be a court of record " there were substituted the words “have for the purpose aforesaid the like powers regarding punishment for contempt of court, award of expenses and the issue of extracts, as a sheriff court”.
 
 19. This Act shall in its application to Northern Ireland have effect subject to the following modifications :—
 
@@ -7662,7 +7661,7 @@ Relief from rates in respect of war damage.
 
 44 net annual value/' in relation to any mortgaged property, means the net annual profits which, in the opinion of the court, the property could reasonably be expected to produce;
 
-" prescribed " means prescribed by rules made under Part I of this Act;
+" prescribed" means prescribed by rules made under Part I of this Act;
 
 “ proceedings " includes the issue of execution;
 
@@ -8146,7 +8145,7 @@ excess of their total incomes over that sum; and the said rates shall be rates i
 
 6.— (1)Subsection (2) of section forty of the Finance Act,
 
-1927 (which, as amended by subsequent enactments, provides for the reduction of the tax remaining chargeable after the allowance of other reliefs by a sum equal to seven-seventeenths of the amount so remaining chargeable or seven-seventeenths of the tax on one hundred and sixty-five pounds, whichever is the less) shall have effect as if the words “ seven-twentieths " were substituted for the words “ seven-seventeenths ", in both places where they occur.
+1927 (which, as amended by subsequent enactments, provides for the reduction of the tax remaining chargeable after the allowance of other reliefs by a sum equal to seven-seventeenths of the amount so remaining chargeable or seven-seventeenths of the tax on one hundred and sixty-five pounds, whichever is the less) shall have effect as if the words “seven-twentieths " were substituted for the words “seven-seventeenths ", in both places where they occur.
 
 (2) Subsection \i) of section fifteen of the Finance Act, 1925 (which, as amended by subsequent enactments, provides for a deduction of tax on an amount equal to one-sixth of the amount of earned income, but not exceeding two hundred and fifty pounds) shall have effect as if—
 
@@ -8196,11 +8195,11 @@ Provision for the crediting of certain amounts of income tax.
 
 (4) Section nineteen of the Finance Act, 1935 (which, as amended by subsequent enactments, exempts from tax incomes not exceeding one hundred and twenty pounds and limits the tax on incomes exceeding one hundred and twenty pounds but less than one hundred and forty pounds to one-half of the excess) shall have effect as if—
 
-(a) the words " one hundred and ten pounds " were substituted for the words “ one hundred and twenty pounds " in both places where they occur; and
+(a) the words " one hundred and ten pounds " were substituted for the words “one hundred and twenty pounds " in both places where they occur; and
 
-(b) the words “ one hundred and thirty-three pounds " were substituted for the words “ one hundred and forty pounds and
+(b) the words “one hundred and thirty-three pounds " were substituted for the words “one hundred and forty pounds and
 
-(c) the words “ three-quarters " were substituted for the words “ one-half
+(c) the words “three-quarters " were substituted for the words “one-half
 
 7. — (1) Subject, as respects married persons, to the provisions of subsection (2) of this section, for every year of assessment for which subsections (2), (3) and (4) of the last preceding section are in force, there shall be ascertained and recorded, in relation to every individual who is entitled to any relief under subsection
 
@@ -8294,9 +8293,9 @@ Ch. 30.
 
 207
 
-“ farm land " means land wholly or mainly occupied for the purposes of husbandry, not being market garden land, and includes the farm house and farm buildings, if any, and “ farming " shall be construed accordingly;
+“ farm land" means land wholly or mainly occupied for the purposes of husbandry, not being market garden land, and includes the farm house and farm buildings, if any, and “ farming " shall be construed accordingly;
 
-“ land " means land in the United Kingdom;
+“ land" means land in the United Kingdom;
 
 “ period of computation ” means, in relation to a year of assessment, the period by reference to the profits or gains of which the profits or gains arising or accruing from farming are to be computed for that year.
 
@@ -8638,7 +8637,7 @@ Provided that a person assessed and charged in accordance with this subsection s
 
 22. In section one hundred and five of the Income Tax Act, Information 1918 (which requires employers to give particulars of payments 33 to made to certain employees), for the words " except persons who employees ° are not employed in any other employment and whose remuneration in the employment for the year does not exceed one hundred
 
-and twenty pounds ” there shall be substituted the words “ except persons who are not employed in any other employment and whose remuneration in the employment for the year does not exceed one hundred and ten pounds or, if the employment is for less than the year, a proportionately reduced amount/'
+and twenty pounds ” there shall be substituted the words “except persons who are not employed in any other employment and whose remuneration in the employment for the year does not exceed one hundred and ten pounds or, if the employment is for less than the year, a proportionately reduced amount/'
 
 23. If it is shown in the case of a weekly wage earner assessed Expenses to income tax in accordance with Rule 2 of the rules applicable of
 
@@ -8824,11 +8823,11 @@ Ch. 30.
 
 (6) subsection (3) shall have effect as if—
 
-(i) after the words “ the paid-up share capital of the body corporate in the standard period " there were inserted the words “ together with any borrowed money employed in the trade or business in that period ana
+(i) after the words “the paid-up share capital of the body corporate in the standard period " there were inserted the words “together with any borrowed money employed in the trade or business in that period ana
 
-(ii) in paragraph (a) of the proviso, for the words from “ and deducting borrowed money and debts " to the end of that paragraph, there were substituted the words “ and deducting debts, other than debts for borrowed money ”;
+(ii) in paragraph (a) of the proviso, for the words from “ and deducting borrowed money and debts " to the end of that paragraph, there were substituted the words “and deducting debts, other than debts for borrowed money ”;
 
-(c) subsection (4) shall have effect as if after the words “ the paid-up share capital in the standard period ” there were inserted the words “ together with any borrowed money employed in the trade or business in that period”.
+(c) subsection (4) shall have effect as if after the words “the paid-up share capital in the standard period ” there were inserted the words “together with any borrowed money employed in the trade or business in that period”.
 
 (4) Without prejudice to the generality of any of the foregoing provisions of this section, if the average rate of interest per cent, per annum actually payable in respect of the borrowed money employed in a trade or business in the standard period, increased by two per cent., is greater than the rate applicable under section twenty-seven of the Finance Act, 1940, the limits under subsections (2), (3) and (5) of the said section twenty-seven shall be raised in the case of that trade or business by the difference between—
 
@@ -9008,7 +9007,7 @@ Ch. 30.
 
 (b) the expression “ excess profits” means the amount by which the profits for any period exceed the standard profits therefor;
 
-(c) the expression “ the amending provisions " means the provisions of sections twenty-nine, thirty and thirty-one of this Act.
+(c) the expression “ the amending provisions" means the provisions of sections twenty-nine, thirty and thirty-one of this Act.
 
 (2) The profits or loss of, and the standard profits for, the whole period shall be computed, first on the basis that the amending provisions do not apply to the period and secondly on the basis that the said provisions do apply to the period, and it shall then be ascertained, on each basis, whether there are excess profits or a deficiency of profits for the whole period, and if so what is the amount thereof.
 
@@ -9270,7 +9269,7 @@ Ch. 30.
 
 1941.
 
-of Session within seven days after receiving it) shall, in relation to cases to which this section applies, have effect, and be deemed always to have had effect, as if for the words “ seven days " there were substituted the words “ twenty-one days
+of Session within seven days after receiving it) shall, in relation to cases to which this section applies, have effect, and be deemed always to have had effect, as if for the words “seven days " there were substituted the words “twenty-one days
 
 (2) This section applies to every case stated and signed under the said section one hundred and forty-nine, whether as originally enacted or as applied by any other enactment, being a case which was received not earlier than twenty-one days before the passing of this Act by the party who required it.
 
@@ -9540,7 +9539,7 @@ I Q 2
 
 Schedule to that Act, shall, in relation to any trade or business affected by any provision of this Act amending the said section, include power to proceed as if the provisions of the said Fifth Schedule so applying the said section were adapted and modified to such extent, if any, as they may think necessary in order to enable effect to be given to that amending provision.
 
-6. — (1) In sub-paragraph (5) of paragraph 3 of Part III of the Fifth Schedule to the Finance Act, 1940, for the words ” the Board of Referees ” (in both places where those words occur) there shall be substituted the words “ the Commissioners”, and at the end of that sub-paragraph the following words shall be inserted—
+6. — (1) In sub-paragraph (5) of paragraph 3 of Part III of the Fifth Schedule to the Finance Act, 1940, for the words ” the Board of Referees ” (in both places where those words occur) there shall be substituted the words “the Commissioners”, and at the end of that sub-paragraph the following words shall be inserted—
 
 “If the principal company is dissatisfied with any determination of the Commissioners under this sub-paragraph, it may appeal to the Board of Referees.”
 
@@ -9582,7 +9581,7 @@ Session and Chapter. Short Title. Extent of Repeal.
 
 3 & 4 Geo. 6. c. 29 - The Finance Act, Subsection (2) of section four-
 
-1940. teen; subsection (3) of section twenty-six; and in subsection (2) of section twenty-seven, the words “ If the person carrying on the trade or business is dissat-
+1940. teen; subsection (3) of section twenty-six; and in subsection (2) of section twenty-seven, the words “If the person carrying on the trade or business is dissat-
 
 isfied with any determination of the Commissioners under this subsection he may appeal to the Board of Referees/*
 
@@ -9872,7 +9871,7 @@ be amended by omitting or altering any of the matters specified therein or addin
 
 (a) after the word “ export ” where it first occurs, there
 
-were inserted the words “ otherwise than as packing materials for, or containers of, other goods intended for export”; and
+were inserted the words “otherwise than as packing materials for, or containers of, other goods intended for export”; and
 
 (b) at the end of the subsection there were inserted the
 
@@ -10420,7 +10419,7 @@ Section twenty-one ... Paragraph (a).
 
 The First Schedule ... The words “Any other matter specified in an order made by the Board of Trade under this Schedule”.
 
-The Second Schedule ... In sub-paragraph (1) of paragraph 1, the words “ or six *\
+The Second Schedule ... In sub-paragraph (1) of paragraph 1, the words “or six *\
 
 CHAPTER 32.
 
@@ -10434,7 +10433,7 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 1. — (1) Subject to the provisions of this section, the duties of customs imposed on goods removed or imported into the Isle of Man, being goods of the descriptions set out in the first column of the following Table, by the respective enactments set out in
 
-1941- Isle of Man ( Customs)Ch. 32. 265
+1941- Isle of Man ( Customs) Ch. 32. 265
 
 Act, 1941.
 
@@ -10672,7 +10671,7 @@ Section 6.
 
 “ and as if in subsection (ia) of section three for the words from the councils of county boroughs to the end of the subsection there were substituted the words county and town councils
 
-(2) In the subsection directed by paragraph (d) of section five of the Essential Buildings and Plant (Repair of War Damage) Act, 1939, to be substituted for subsections (4) and (5) of section three of that Act, after the words “ other than a local authority ” there shall be inserted the words “ or any other authority which is a local authority within the meaning of the Local Authorities Loans (Scotland) Act, 1891”; and in the definition of “ local authority ” directed by paragraph (e) of the said section five to be substituted for the definition of “ local authority ” in subsection (1) of section four of the said Act, after the words “ ‘ local authority means ” there shall be inserted the words “ (except where the context otherwise requires)
+(2) In the subsection directed by paragraph (d) of section five of the Essential Buildings and Plant (Repair of War Damage) Act, 1939, to be substituted for subsections (4) and (5) of section three of that Act, after the words “other than a local authority ” there shall be inserted the words “or any other authority which is a local authority within the meaning of the Local Authorities Loans (Scotland) Act, 1891”; and in the definition of “ local authority ” directed by paragraph (e) of the said section five to be substituted for the definition of “ local authority ” in subsection (1) of section four of the said Act, after the words “‘ local authority means ” there shall be inserted the words “(except where the context otherwise requires)
 
 8. — (1) This Act may be cited as the Repair of War Damage Act, 1941.
 
@@ -10700,7 +10699,7 @@ execute those works, and any person authorised by the local authority may, for t
 
 (iii) in any other case the local authority shall, at or after the expiration of the period specified in the notice served by them, consider any representations made within that period by the person having control of the building, and if they are satisfied that the said person is able and willing to carry out the works necessary to render the building fit for housing purposes, shall withdraw the notice, but if they do not so withdraw the notice, may execute the works specified in the notice, or such other works, being works which in the opinion of the authority will render the building fit as aforesaid, as may be agreed between the authority and the person having control of the building, and any person authorised by the local authority may enter upon the building for the purpose of executing the works in question.”
 
-2. In paragraph (i) of section one for the words “ with the consent of the Minister of Health " there shall be substituted the words “ if authorised by the Minister of Health to exercise in relation to that building the powers conferred by this subsection”.
+2. In paragraph (i) of section one for the words “with the consent of the Minister of Health " there shall be substituted the words “if authorised by the Minister of Health to exercise in relation to that building the powers conferred by this subsection”.
 
 3. At the end of section two there shall be added the following subsection—
 
@@ -10708,11 +10707,11 @@ execute those works, and any person authorised by the local authority may, for t
 
 Consequential amendments of Essential Buildings and Plant ( Repair of War Damage) Act, 1939.
 
-4. In subsection (5) of section three after the words “ or a local authority ” there shall be inserted the words “ or any other authority which is a local authority for the purposes of the Local Loans Act,
+4. In subsection (5) of section three after the words “or a local authority ” there shall be inserted the words “or any other authority which is a local authority for the purposes of the Local Loans Act,
 
 1875.”
 
-5. In subsection (1) of section four after the words “ ‘ local authority means ” there shall be inserted the words “ (except where the context otherwise requires).”
+5. In subsection (1) of section four after the words “‘ local authority means ” there shall be inserted the words “(except where the context otherwise requires).”
 
 272
 
@@ -11361,7 +11360,6 @@ standing - 2. For the expenses in connection with His Majesty's Embassies, Missi
 and sundry other services - 291,000 —
 
 Carried forward • Deficit* 315.225 *—1,000
-
 
 SCHED. (B).
 
@@ -12428,7 +12426,6 @@ Il8,9I3 1,160
 IL243 —
 
 55,287,616 • 5.744.695
-
 
 SCHED. (B). Part 12., Civil. Class IV.
 
@@ -13642,7 +13639,7 @@ the rate of the contributions payable by their employers shall be increased in e
 
 Acts mentioned in Part II of the Second Schedule to this Act, being provisions relating to contributions, shall be adjusted in the manner provided in that Part of that Schedule.
 
-3. — (1) The following provisions of the Insurance Act shall have effect as if for the words “ two hundred and fifty pounds " in each place where they occur, there were substituted the words “ four hundred and twenty pounds " namely—
+3. — (1) The following provisions of the Insurance Act shall have effect as if for the words “two hundred and fifty pounds " in each place where they occur, there were substituted the words “four hundred and twenty pounds " namely—
 
 (a) paragraph (A) of Part II of the First Schedule (which includes among excepted employments employment otherwise than by way of manual labour at a rate of remuneration exceeding two hundred and fifty pounds a year);
 
@@ -13652,7 +13649,7 @@ a voluntary contributor whose total income exceeds two hundred and fifty pounds 
 
 (c) proviso (6) to subsection (3) of section thirty-four (which requires an exempt person whose total income exceeds two hundred and fifty pounds a year to make his own arrangements for receiving medical treatment and attendance).
 
-(2) In the following provisions of the Pensions Act (which are related to the said paragraph (k) of Part II of the First Schedule to the Insurance Act), namely subsections (4) and (5) of section seventeen and the Second Schedule, for the words “ two hundred and fifty pounds a year " in each place where they occur there shall be substituted the words “ the amount of the health insurance limit for non-manual workers ", and for the purpose of the said provisions the expression “ the amount of the health insurance limit for non-manual workers ” shall mean—
+(2) In the following provisions of the Pensions Act (which are related to the said paragraph (k) of Part II of the First Schedule to the Insurance Act), namely subsections (4) and (5) of section seventeen and the Second Schedule, for the words “two hundred and fifty pounds a year " in each place where they occur there shall be substituted the words “the amount of the health insurance limit for non-manual workers ", and for the purpose of the said provisions the expression “ the amount of the health insurance limit for non-manual workers ” shall mean—
 
 (a) in the application of the said provisions to any period before the thirtieth day of June, nineteen hundred and nineteen, one hundred and sixty pounds a year;
 
@@ -13682,15 +13679,15 @@ Contributory Pensions and Workmen's Compensation Act, 1941.
 
 (c) in the application of the said provisions to any period after the fourth day of January, nineteen hundred and forty-two, four hundred and twenty pounds a year.
 
-(3) If any question arises under sub-paragraph (a) of paragraph 1 of the Fourth Schedule to the Pensions Act (which relates to persons who died before the fourth day of January, nineteen hundred and twenty-six) whether contributions would have been payable under that Act if that Act had been in force before that date, that question shall be determined as if for the words “ four hundred and twenty pounds”, wherever they occur in the said paragraph (k) of Part II of the First Schedule to the Insurance Act as amended by this Act, there were substituted—
+(3) If any question arises under sub-paragraph (a) of paragraph 1 of the Fourth Schedule to the Pensions Act (which relates to persons who died before the fourth day of January, nineteen hundred and twenty-six) whether contributions would have been payable under that Act if that Act had been in force before that date, that question shall be determined as if for the words “four hundred and twenty pounds”, wherever they occur in the said paragraph (k) of Part II of the First Schedule to the Insurance Act as amended by this Act, there were substituted—
 
 (a) in a case where the question arises as respects a period
 
-before the thirtieth day of June, nineteen hundred and nineteen, the words “ one hundred and sixty pounds"; and
+before the thirtieth day of June, nineteen hundred and nineteen, the words “one hundred and sixty pounds"; and
 
 (b) in a case where the question arises with respect to a
 
-subsequent period, the words “ two hundred and fifty pounds
+subsequent period, the words “two hundred and fifty pounds
 
 (4) Where—
 
@@ -13892,7 +13889,7 @@ Part II.
 
 Workmen’s Compensation.
 
-13. — (1) Paragraph (a) of subsection (2) of section three of the Workmen’s Compensation Act, 1925 (which excepts from the definition of the expression “ workman ” in that Act persons employed otherwise than by way of manual labour whose remuneration exceeds three hundred and fifty pounds a year) shall have effect as if for the words “ three hundred and fifty pounds ” there were substituted the words “ four hundred and twenty pounds”.
+13. — (1) Paragraph (a) of subsection (2) of section three of the Workmen’s Compensation Act, 1925 (which excepts from the definition of the expression “ workman ” in that Act persons employed otherwise than by way of manual labour whose remuneration exceeds three hundred and fifty pounds a year) shall have effect as if for the words “three hundred and fifty pounds ” there were substituted the words “four hundred and twenty pounds”.
 
 (2) This section shall come into operation on the first day of January, nineteen hundred and forty-two.
 
@@ -14764,7 +14761,7 @@ the first-mentioned person shall be entitled to recover from his said landlord o
 
 16. Where any proceedings under this Act or under the principal Act are transferred into the High Court, they shall, so far as is practicable and subject to rules of court and to any power of transfer from one judge to another, be heard and determined in the first instance by one of the judges nominated under section ninety-four of the War Damage Act, 1941.
 
-17. — (1) In this Act the expression “ the principal Act " means the Landlord and Tenant (War Damage) Act, 1939.
+17. — (1) In this Act the expression “ the principal Act" means the Landlord and Tenant (War Damage) Act, 1939.
 
 (2) In this Act and in the principal Act the expression “ war damage " shall have the meaning assigned to it by subsections (1) and (2) of section eighty of the War Damage Act, 1941, and subsection (3) of that section shall apply for the purposes of this Act and the principal Act as it applies for the purposes of the War Damage Act, 1941; and the definition of the said expression in the principal Act shall cease to have effect.
 
@@ -14782,7 +14779,7 @@ Interpretation.
 
 ( War Damage) (Amendment) Act, 1941.
 
-(4) In subsection (2) of section ten of the principal Act (which defines the expression " rent ”), for the words “ any periodical sum payable by the tenant in connection with the occupation of the land comprised in the lease ” there shall be substituted the words " any periodical sum payable by the tenant to the landlord in connection with his tenancy”, and the references to the definition of the said expression in sections eleven and twelve of the principal Act shall be construed accordingly.
+(4) In subsection (2) of section ten of the principal Act (which defines the expression " rent ”), for the words “any periodical sum payable by the tenant in connection with the occupation of the land comprised in the lease ” there shall be substituted the words " any periodical sum payable by the tenant to the landlord in connection with his tenancy”, and the references to the definition of the said expression in sections eleven and twelve of the principal Act shall be construed accordingly.
 
 (5) Where the land comprised in a lease as respects which a conditional notice of retention is served is part of a hereditament within the meaning of Part I of the War Damage Act, 1941, any reference in this Act to a payment made under Part I of that Act in respect of the war damage to the land shall be construed as a reference to so much of any payment made in respect of the war damage to the hereditament as is attributable to the war damage to the land.
 
@@ -14800,11 +14797,11 @@ SCHEDULE.
 
 Modifications of section 6 of the principal Act.
 
-In subsection (1), after the words “ notice of disclaimer " there shall be inserted the words “ or a notice of retention ".
+In subsection (1), after the words “notice of disclaimer " there shall be inserted the words “or a notice of retention ".
 
-In subsection (4), after the word “ section ” there shall be inserted the words “ in respect of a notice of disclaimer or a notice to elect".
+In subsection (4), after the word “ section ” there shall be inserted the words “in respect of a notice of disclaimer or a notice to elect".
 
-In subsection (5), after the words “ notice of disclaimer ” there shall be inserted the words “ a notice of retention”.
+In subsection (5), after the words “notice of disclaimer ” there shall be inserted the words “a notice of retention”.
 
 1941.
 
@@ -15568,9 +15565,9 @@ Session and Chapter Short Title Extent of Repeal
 
 38 & 39 Vict. c. 23 - The Customs and Inland Revenue Act, 1875. Section eight.
 
-54 & 55 Vict. c. 38 - The Stamp Duties Management Act, 1891. In proviso (c) to section nine and in section twenty-six, the words “ medicines or”, wherever they occur.
+54 & 55 Vict. c. 38 - The Stamp Duties Management Act, 1891. In proviso (c) to section nine and in section twenty-six, the words “medicines or”, wherever they occur.
 
-8 Edw. 7. c. 16 The Finance Act, 1908 - In subsection (4) of section four, the words “ medicines and”.
+8 Edw. 7. c. 16 The Finance Act, 1908 - In subsection (4) of section four, the words “medicines and”.
 
 5 & 6 Geo. 5. c. 89 - The Finance (No. 2) Act, 1915- Section eleven.
 
@@ -16288,7 +16285,7 @@ Rolls who may either affirm the decision of the Registrar or by order vary any t
 
 (5) When the suspension of the practising certificate of a solicitor has been terminated by annulment of the adjudication in bankruptcy of the solicitor and service upon the Registrar of an office copy of the Order annulling the adjudication or by order of the Registrar or the Master of the Rolls under this section, the Registrar shall forthwith cause a note of the termination of the suspension to be entered against the name of such solicitor in the Roll, and, if so requested in writing by such solicitor, cause a notice thereof to be published in the London Gazette.
 
-13. In subsection (4) of section forty-one of the principal Act (which relates to the date and period of validity of practising certificates) there shall be inserted after the word “ following ” the words “ the date of issue thereof ” and accordingly the said subsection (4) of section forty-one shall have effect as set out in the Third Schedule to this Act.
+13. In subsection (4) of section forty-one of the principal Act (which relates to the date and period of validity of practising certificates) there shall be inserted after the word “ following ” the words “the date of issue thereof ” and accordingly the said subsection (4) of section forty-one shall have effect as set out in the Third Schedule to this Act.
 
 14. — (1) In any case in which the Registrar has power in his discretion to refuse the application of a solicitor for a practising certificate, the Society, notwithstanding anything contained in subsection (2) of section two of the Solicitors Act, 1936, may in their discretion by notice in writing to such solicitor prohibit him from taking any articled clerk and thereupon it shall not be lawful for such solicitor to take any articled clerk unless and until such prohibition shall have been withdrawn by the Society.
 
@@ -16306,7 +16303,7 @@ Ch. 46.
 
 (4) In any case where under this section the Society prohibit a solicitor from taking any articled clerk, they may, if they think fit, of their own motion discharge the articles of any clerk then already articled to such solicitor upon such terms, including terms as to return of premium, as they think fit, and determine what period (if any) of service by such clerk under his then existing articles shall be deemed to be good service.
 
-15. In subsection (3) of section two* of the Solicitors Act 1936, the words “ of the production ” are hereby repealed and accordingly the said subsection shall have effect as set out in the Third Schedule to this Act.
+15. In subsection (3) of section two* of the Solicitors Act 1936, the words “of the production ” are hereby repealed and accordingly the said subsection shall have effect as set out in the Third Schedule to this Act.
 
 16—(i)
 
@@ -16406,7 +16403,7 @@ office to which section five of that Act applies; or
 
 local authority as defined by section six of that Act acting as such officer.
 
-19. In subsection (2) of section five of the principal Act (which relates to the powers of the Disciplinary Committee) there shall be inserted after the word “ practice " the words “ as to payment by him of a penalty not exceeding five hundred pounds (which shall be forfeit to His Majesty) ” and after the word " costs " the words “ or of such sum as they may consider a reasonable contribution towards costs" and accordingly the said subsection (2) of section five shall have effect as set out in the Third Schedule to this Act.
+19. In subsection (2) of section five of the principal Act (which relates to the powers of the Disciplinary Committee) there shall be inserted after the word “ practice " the words “as to payment by him of a penalty not exceeding five hundred pounds (which shall be forfeit to His Majesty) ” and after the word " costs " the words “or of such sum as they may consider a reasonable contribution towards costs" and accordingly the said subsection (2) of section five shall have effect as set out in the Third Schedule to this Act.
 
 20. Section six of the principal Act (which relates to the procedure of the Disciplinary Committee) shall have effect as if it contained an enactment that the rules therein referred to may provide that, where in the opinion of the Disciplinary Committee no prima facie case is shown in favour of an application to the Committee under the disciplinary enactments, the Committee may refuse such application without requiring the solicitor to whom the application relates to answer the allegations and without hearing the applicant.
 
@@ -16422,9 +16419,9 @@ Ch. 46.
 
 403
 
-23. — (1) In subsection (1) of section forty-seven and in sections forty-eight and forty-nine of the principal Act (which penalise certain acts when done by persons not duly qualified) before the words “ for or in expectation of any fee, gain or reward ” there shall be inserted the words “ unless he proves that the act was not done”.
+23. — (1) In subsection (1) of section forty-seven and in sections forty-eight and forty-nine of the principal Act (which penalise certain acts when done by persons not duly qualified) before the words “for or in expectation of any fee, gain or reward ” there shall be inserted the words “unless he proves that the act was not done”.
 
-(2) In section forty-eight of the principal Act there shall be inserted after the figures “ 1925 ” the words “ or any statutory modification or re-enactment thereof”.
+(2) In section forty-eight of the principal Act there shall be inserted after the figures “ 1925 ” the words “or any statutory modification or re-enactment thereof”.
 
 (3) Accordingly subsection (1) of section forty-seven and sections forty-eight and forty-nine of the principal Act shall have effect as set out in the Third Schedule to this Act.
 
@@ -16478,7 +16475,7 @@ mentioned in place of the Master of the Rolls or a judge of th< High Court.
 
 (6) (i) Proviso (b) to subsection (1) of section thirty-two of the principal Act (which relates to the conditions of admission to the final examination) is hereby repealed.
 
-(ii) the words “ or on appeal to the satisfaction of the Master of the Rolls" contained in paragraph (b) of subsection (3) of section seven of the Solicitors Act, 1936 (which provides fof amendments of section thirty-two of the principal Act as to attendance at a law school before final examination) are herebj repealed.
+(ii) the words “or on appeal to the satisfaction of the Master of the Rolls" contained in paragraph (b) of subsection (3) of section seven of the Solicitors Act, 1936 (which provides fof amendments of section thirty-two of the principal Act as to attendance at a law school before final examination) are herebj repealed.
 
 (7) Section thirty-three of the principal Act (which provide for appeal to the Master of the Rolls in cases of failure to pass an intermediate or final examination) is hereby repealed.
 
@@ -16508,7 +16505,7 @@ Ch. 46.
 
 “ The Society”, “ the Council", “ the Disciplinary Committee ” and “ costs" have the respective meanings given to those expressions by section eighty-one of the principal Act;
 
-“ The Solicitors' Accounts Rules " means the Solicitors'
+“ The Solicitors' Accounts Rules" means the Solicitors'
 
 Accounts Rules, 1935, or other the rules for the time being made and in force under paragraphs (a), (6) and (c) of section one of the Solicitors Act, 1933;
 
@@ -16518,7 +16515,7 @@ Accounts Rules, 1935, or other the rules for the time being made and in force un
 
 “ Practice year ’* means the period of twelve months ending on the fifteenth day of November;
 
-“ The Secretary " means the Secretary of the Society and includes any deputy or person appointed temporarily to perform the duties of the office;
+“ The Secretary" means the Secretary of the Society and includes any deputy or person appointed temporarily to perform the duties of the office;
 
 “ National service ” has the meaning given to that expression
 
@@ -16622,7 +16619,7 @@ Solicitors Act, 1941.
 
 (6) If no application shall be made to a judge of the High Court in accordance with the last preceding sub-paragraph or if the judge to whom such an application is made shall direct that the deeds, wills, securities, papers, books of account, records, vouchers or documents shall remain in the custody or control of the Council, the Council may make inquiries to ascertain the person or persons to whom the same belong and may deal with the same in accordance with the directions of such person or persons.
 
-(7) In this paragraph the expression “ securities " means documents constituting or evidencing the title to any property.
+(7) In this paragraph the expression “ securities" means documents constituting or evidencing the title to any property.
 
 5. If the Council are satisfied that a solicitor or his clerk or servant has been guilty of any such dishonesty as is mentioned in section two of this Act, they may apply to the High Court or a judge thereof for an order, and the Court or a judge thereof may on such application make an order, that no payment shall be made without the leave of the Court or a judge thereof by any banker named in the order out of any banking account in the name of such solicitor or his firm.
 
@@ -17228,7 +17225,7 @@ to postpone the date for not more than two successive periods of one year), ther
 
 (2) This section shall be deemed to have come into operation on the first day of August, nineteen hundred and forty-one.
 
-3. Section fifteen of the Agriculture (Miscellaneous War Provisions) Act, 1940, as amended by section one of the Agriculture (Miscellaneous War Provisions) (No. 2) Act, 1940 (which authorises Exchequer grants towards expenditure on the field drainage of agricultural land and the improvement of ditches on any such land), shall have effect as if after the words “ improvement of ditches on any such land ” there were inserted the words “ or for the supply of water to any such land.”
+3. Section fifteen of the Agriculture (Miscellaneous War Provisions) Act, 1940, as amended by section one of the Agriculture (Miscellaneous War Provisions) (No. 2) Act, 1940 (which authorises Exchequer grants towards expenditure on the field drainage of agricultural land and the improvement of ditches on any such land), shall have effect as if after the words “improvement of ditches on any such land ” there were inserted the words “or for the supply of water to any such land.”
 
 4. The Minister may, out of moneys provided by Parliament, make advances of such amounts and subject to such conditions as may be approved by the Treasuty to any drainage authority towards expenditure to be incurred by the authority in carrying out any drainage scheme or in preparing or carrying out any scheme approved by him under section fourteen of the
 
@@ -17244,11 +17241,11 @@ Cii. 50.
 
 Agriculture (Miscellaneous War Provisions) Act,. 1940, being expenditure towards which it appears to the Minister that a grant will be made under section fifteen of the Agriculture Act, 1937, or under the said section fourteen, as the case may be.
 
-5. — (1) Section fourteen of the Agriculture (Miscellaneous War Provisions) Act, 1940 (which enables schemes to be prepared by Catchment Boards for the drainage of certain agricultural land), shall apply in relation to land within a local drainage district as it applies in relation to land not within such a district, and accordingly, in subsection (1) of the said section fourteen, the words “ but not within any drainage district other than a catchment area ” are hereby repealed:
+5. — (1) Section fourteen of the Agriculture (Miscellaneous War Provisions) Act, 1940 (which enables schemes to be prepared by Catchment Boards for the drainage of certain agricultural land), shall apply in relation to land within a local drainage district as it applies in relation to land not within such a district, and accordingly, in subsection (1) of the said section fourteen, the words “but not within any drainage district other than a catchment area ” are hereby repealed:
 
 Provided that no scheme prepared by a Catchment Board under the said section fourteen shall provide for the drainage of land within a local drainage district except with the consent of the drainage board for that district or of the Minister.
 
-(2) A scheme may be prepared under the said section fourteen by a Catchment Board for draining' any land notwithstanding that they are of opinion that the cost of preparing and carrying out the scheme will exceed an amount equal to five pounds for each acre of the land, so long as they are of opinion that the said cost will not exceed an amount equal to ten pounds for each acre thereof, and accordingly in paragraph (a) of subsection (2) of the said section fourteen for the words “ five pounds ” there shall be substituted the words “ ten pounds.”
+(2) A scheme may be prepared under the said section fourteen by a Catchment Board for draining' any land notwithstanding that they are of opinion that the cost of preparing and carrying out the scheme will exceed an amount equal to five pounds for each acre of the land, so long as they are of opinion that the said cost will not exceed an amount equal to ten pounds for each acre thereof, and accordingly in paragraph (a) of subsection (2) of the said section fourteen for the words “five pounds ” there shall be substituted the words “ten pounds.”
 
 (3) Any increase in any grant payable under subsection (7) of the said section fourteen which is ascribable to the foregoing provisions of this section shall be paid out of moneys provided by Parliament.
 
@@ -17536,7 +17533,7 @@ N any reference to the Minister of Agriculture and Fisheries there
 
 shall be substituted a reference to the Secretary of State, and in the said' sections the expression “ the Committee” means the Agricultural Executive Committee referred to in subsection (1) of section thirty-one of the Agriculture (Miscellaneous War Provisions) Act, 1940.
 
-(3) “ Easement " means servitude; “ own in fee simple” means be the proprietor of the dominium utile; " mortgage” means heritable security; “ arbitrator " means arbiter; “ sell ” includes feu; and “ tenant for life" means liferenter.
+(3) “ Easement" means servitude; “ own in fee simple” means be the proprietor of the dominium utile; " mortgage” means heritable security; “ arbitrator" means arbiter; “ sell ” includes feu; and “ tenant for life" means liferenter.
 
 (4) For section three there shall be substituted the following section—
 
@@ -17584,7 +17581,7 @@ shall not apply”; and
 
 13. — (1) Section seventeen of the Improvement of Land Act, 1864 (which relates to the advertisements and notices preliminary to sanction of improvements), shall, in so far as it requires notice of an application to be given by advertisement in any newspaper, cease to have effect.
 
-(2) Section twenty-nine of the Agriculture (Miscellaneous War Provisions) Act, 1940 (as amended by section seven of the Agriculture (Miscellaneous War Provisions) (No. 2) Act, 1940) shall have effect as if in paragraph (a) of subsection (1) thereof there were inserted after the words “ any other land " the words “ (whether or not the owner or occupier of that other land is also the owner or occupier of the first-mentioned land)”.
+(2) Section twenty-nine of the Agriculture (Miscellaneous War Provisions) Act, 1940 (as amended by section seven of the Agriculture (Miscellaneous War Provisions) (No. 2) Act, 1940) shall have effect as if in paragraph (a) of subsection (1) thereof there were inserted after the words “any other land " the words “(whether or not the owner or occupier of that other land is also the owner or occupier of the first-mentioned land)”.
 
 14. Section one of this Act shall extend to Northern Ireland but the remainder of this Act shall not extend to Northern Ireland.
 
@@ -17592,7 +17589,7 @@ shall not apply”; and
 
 “ the Minister” means the Minister of Agriculture and Fisheries;
 
-“ the Committee " means the War Agricultural Executive Committee as defined by section thirty of the Agriculture (Miscellaneous War Provisions) Act, 1940;
+“ the Committee" means the War Agricultural Executive Committee as defined by section thirty of the Agriculture (Miscellaneous War Provisions) Act, 1940;
 
 " Defence Regulations” means Regulations made under the Emergency Powers (Defence) Acts, 1939 and 1940;
 
@@ -17966,7 +17963,6 @@ Continuance of Acts in Schedule. CHAPTER 3. An Act to continue certain expiring 
 
 Short title and application to Northern Ireland. 2. — (1) This Act may be cited as the Expiring Laws Continuance Act, 1941. (2) This Act shall apply to Northern Ireland in so far as it deals with any enactment relating to a subject with respect to which the Parliament of Northern Ireland has not power to make laws, but, save as hereinbefore provided, shall not apply to Northern Ireland.
 
-
 1941.
 
 Expiring Laws Continuance
@@ -18007,7 +18003,7 @@ c. 24. (2) graphy Act, 1904. 15 A 16 Geo. 5. c. 67. 16 A 17 Geo. 5. c. 54-
 
 (6)
 
-20 A 21 Geo. 5- c. 50. The Public Works Facilities Act, 1930. The following provisions, that is to say, section two, except the words “ or statutory undertakers”, wherever those words occur; in section three, the words from the beginning of the section to' the word ” under-taking"; section j five; subsections 1 (1) and (2) of section six; sections seven and eight; and the First Schedule except paragraph 2 of Part I.
+20 A 21 Geo. 5- c. 50. The Public Works Facilities Act, 1930. The following provisions, that is to say, section two, except the words “or statutory undertakers”, wherever those words occur; in section three, the words from the beginning of the section to' the word ” under-taking"; section j five; subsections 1 (1) and (2) of section six; sections seven and eight; and the First Schedule except paragraph 2 of Part I.
 
 (7)
 
@@ -18091,7 +18087,7 @@ Ch. 4.
 
 Amendments of National Service Acts, 1939 to 1941.
 
-2. — (1) In section one of the National Service (Armed Forces) Act, 1939 (hereinafter referred to as the “ principal Act ”), for the words •“ forty-one years," wherever those words occur, there shall be substituted the words “ fifty-one years
+2. — (1) In section one of the National Service (Armed Forces) Act, 1939 (hereinafter referred to as the “ principal Act ”), for the words •“ forty-one years," wherever those words occur, there shall be substituted the words “fifty-one years
 
 (2) Where a person who becomes liable to be called up by virtue of this section had, before the passing of this Act, become liable to be called up but had ceased to be so liable on attaining the age of forty-one years—
 

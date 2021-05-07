@@ -382,7 +382,7 @@ The expression “Judicial Factor ” shall mean factor loco tutoris and curator
 
 The expressions “Accountant of the Court of Session” or “ Accountant, ” shall mean the Accountant of the Court of Session appointed under the recited Act:
 
-The expression “prescribed ” means prescribed by the regulations which the Court of Session are by this Act authorised to make from time to time by act of sederunt:
+The expression “prescribed” means prescribed by the regulations which the Court of Session are by this Act authorised to make from time to time by act of sederunt:
 
 The expression “Lord Ordinary ” shall mean the Lord Ordinary in the Court of Session dischanging the duties of Junior Lord
 
@@ -770,7 +770,7 @@ L This Act may be cited as the Universities of Oxford and Cambridge (Limited Ten
 
 “ The Commissioners ” mean the Commissioners acting under the Universities of Oxford and Cambridge Act, 1877, and the provisions of this Act shall apply to each of the two bodies of Commissioners separately;
 
-“ The University ” means the University of Oxford or that of Cambridge, as the case shall require;
+“ The University” means the University of Oxford or that of Cambridge, as the case shall require;
 
 17
 
@@ -1388,9 +1388,9 @@ Repeal.
 
 38. In this Act, if not inconsistent with the context, —
 
-The term “ principal Act ” means the Act of the session of the twenty-sixth year of the reign of Her Majesty, chapter eleven:
+The term “ principal Act” means the Act of the session of the twenty-sixth year of the reign of Her Majesty, chapter eleven:
 
-The term “ public institution ” means a prison, lock-up, work-house, barracks, lunatic asylum, hospital, and any prescribed public, religious, or charitable institution:
+The term “ public institution” means a prison, lock-up, work-house, barracks, lunatic asylum, hospital, and any prescribed public, religious, or charitable institution:
 
 The term “ house ” includes a public institution as above defined:
 
@@ -1398,7 +1398,7 @@ The term “ occupier ” includes the governor, keeper, master, matron, superin
 
 The term “ relative ” includes a relative by marriage:
 
-The term “ prescribed ” means prescribed by regulations made from time to time in pursuance of section eleven of the principal Act or of this Act:
+The term “ prescribed” means prescribed by regulations made from time to time in pursuance of section eleven of the principal Act or of this Act:
 
 The term “appointed fee” means the fee specified in the Second Schedule to this Act:
 
@@ -1706,7 +1706,7 @@ A description or citation of a portion of an Act is inclusive of the words, sect
 
 Session and Chapter. 1 Title or abbreviated Title. Extent of Repeal.
 
-26 Vict. c. 11. - An Act for the Registration of Births and Deaths in Ireland. (20th April 1863.) Preliminary to Act, from the words “ general search ” to “ stating objects of search.” Section twenty-six, from the words “ in case of the death ” to end of section. Sections thirty-one, thirty-two, thirty-three, thirty-four, thirty-five, thirty-six, thirty-seven, thirty-eight, forty-four, forty-six, fifty-one, and fifty-five.
+26 Vict. c. 11. - An Act for the Registration of Births and Deaths in Ireland. (20th April 1863.) Preliminary to Act, from the words “general search ” to “ stating objects of search.” Section twenty-six, from the words “in case of the death ” to end of section. Sections thirty-one, thirty-two, thirty-three, thirty-four, thirty-five, thirty-six, thirty-seven, thirty-eight, forty-four, forty-six, fifty-one, and fifty-five.
 
 CHAPTER 14.
 
@@ -1878,11 +1878,11 @@ Supplementary provisions as to presentments.
 
 44 Ch. 14. Relief of Distress (I.) AmendmerU Act, 1880. 43 & 44 Vict.
 
-have the force of a presentment. The amounts raised under such presentment shall be paid to the Commissioners of Public Works in such manner as the Treasury shall direct Interpretation. 10. In this Act the term “ the Fishery Piers Act ” means the Act passed in the session of Parliament held in the ninth and tenth years of the reign of Her present Majesty, chapter three, as altered or amended by any Act or Acts.
+have the force of a presentment. The amounts raised under such presentment shall be paid to the Commissioners of Public Works in such manner as the Treasury shall direct Interpretation. 10. In this Act the term “ the Fishery Piers Act” means the Act passed in the session of Parliament held in the ninth and tenth years of the reign of Her present Majesty, chapter three, as altered or amended by any Act or Acts.
 
 The term “ Commissioners of Public Works *' means the Com* missioners of Public Works in Ireland.
 
-The term “ the Lord Lieutenant ” means the Lord Lieutenant or other Chief Governor or Governors of Ireland for the time being.
+The term “ the Lord Lieutenant” means the Lord Lieutenant or other Chief Governor or Governors of Ireland for the time being.
 
 The term “the Treasury” means the Commissioners of Her Majesty's Treasury.
 
@@ -2046,7 +2046,7 @@ account of a seaman's wages conditionally on his going to sea from any port in t
 
 (4.) A payment under an allotment note shall begin at the expiration of one month, or, if the allotment is in favour of a savings bank, of three months, from the date of the agreement, or at such later date as may be fixed by the agreement, and shall be paid at the expiration of every subsequent month, or of such other periods as may be fixed by the agreement, and shall be paid only in respect of wages earned before the date of payment.
 
-(5.) For the purposes of this section “ savings bank ” means a savings bank established under one of the Acts mentioned in the First Schedule to this Act.
+(5.) For the purposes of this section “ savings bank” means a savings bank established under one of the Acts mentioned in the First Schedule to this Act.
 
 4. In the case of foreign-going ships —
 
@@ -2178,13 +2178,13 @@ SECOND SCHEDULE.
 
 The Merchant Shipping Act, 1854, in part: namely,
 
-In section two hundred and forty-three, sub-section (1), the words “ to “ imprisonment for any period not exceeding twelve weeks with or “ without hard labour; and also.”
+In section two hundred and forty-three, sub-section (1), the words “to “ imprisonment for any period not exceeding twelve weeks with or “ without hard labour; and also.”
 
 In section two hundred and forty-three, sub-section (2), the words a to u imprisonment for any period not exceeding ten weeks with or “ without hard labour, and also at the discretion of the court.”
 
 Section two hundred and forty-six.
 
-In section two hundred and forty-seven the words “ instead of committing the offender to prison; ”
+In section two hundred and forty-seven the words “instead of committing the offender to prison; ”
 
 And section two hundred and forty-eight.
 
@@ -2316,45 +2316,45 @@ Part VIII. — Proceedings against collectors.
 
 5. (1.) In this Act —
 
-“ Additional Commissioners ” means the Additional Commissioners of the Property and Income Tax, or any two of them, appointed under the provisions of the Income Tax Act, 1842:
+“ Additional Commissioners” means the Additional Commissioners of the Property and Income Tax, or any two of them, appointed under the provisions of the Income Tax Act, 1842:
 
-“ Assessor ” means the person or persons appointed to be assessor or assessors respectively of income tax and inhabited house duties for any parish in conformity with the rules and directions of this Act or the Tax Acts, and includes the surveyor of taxes acting as assessor when required so to act:
+“ Assessor” means the person or persons appointed to be assessor or assessors respectively of income tax and inhabited house duties for any parish in conformity with the rules and directions of this Act or the Tax Acts, and includes the surveyor of taxes acting as assessor when required so to act:
 
-“ Board ” means the Commissioners of Inland Revenue for the time being, or any two of them:u Clerk ” means the clerk to the General Commissioners or to the Land Tax Commissioners respectively appointed in accordance with the directions of this Act: w< Collector ” means the person or persons appointed to be collector or collectors respectively of the land tax, the income tax, and the inhabited house duties in conformity with this Act for a parish or group, or union, electoral district, or county or part of a county:
+“ Board” means the Commissioners of Inland Revenue for the time being, or any two of them:u Clerk” means the clerk to the General Commissioners or to the Land Tax Commissioners respectively appointed in accordance with the directions of this Act: w< Collector” means the person or persons appointed to be collector or collectors respectively of the land tax, the income tax, and the inhabited house duties in conformity with this Act for a parish or group, or union, electoral district, or county or part of a county:
 
-“ Collector of Inland Revenue ” means a person appointed by the Board to be a collector and officer for the collection and receipt of the several revenues and duties of excise stamps and taxes, or as his deputy:
+“ Collector of Inland Revenue” means a person appointed by the Board to be a collector and officer for the collection and receipt of the several revenues and duties of excise stamps and taxes, or as his deputy:
 
 53
 
 1880. . Taxes Management Act, 1880. . Ch. 19.
 
-“ Division ” means and includes any hundred, rape, lathe, stewartry, or district, or any place of separate jurisdiction under the Land Tax Acts:
+“ Division” means and includes any hundred, rape, lathe, stewartry, or district, or any place of separate jurisdiction under the Land Tax Acts:
 
 “General Commissioners” means the Commissioners for the general purposes of the income tax and inhabited house duties, or any two or more of them acting in or for any division under and in the execution of this Act or the Tax Acts:
 
-“ Group ” means any parishes united or grouped for the purposes of the collection of the duties and the land tax:
+“ Group” means any parishes united or grouped for the purposes of the collection of the duties and the land tax:
 
-“ High Court ” means Her Majesty's High Court of Justice:
+“ High Court” means Her Majesty's High Court of Justice:
 
-“ Land Tax Acts ” means and includes any Act, or part of any Act, relating in any way to the assessment or redemption of the land tax:
+“ Land Tax Acts” means and includes any Act, or part of any Act, relating in any way to the assessment or redemption of the land tax:
 
-“ Land Tax Commissioners ” means the persons appointed under authority of Parliament for executing the Acts granting a land tax, or any two or more of them:
+“ Land Tax Commissioners” means the persons appointed under authority of Parliament for executing the Acts granting a land tax, or any two or more of them:
 
-“ Parish ” means and includes any town, ward, township, tithing, parish, place, or precinct for which a separate assessment of the duties or the land tax may be made, or for which any assessor or collector may be lawfully appointed for the purpose of assessing or collecting the duties or the land tax:“ Part ” means part of this Act:
+“ Parish” means and includes any town, ward, township, tithing, parish, place, or precinct for which a separate assessment of the duties or the land tax may be made, or for which any assessor or collector may be lawfully appointed for the purpose of assessing or collecting the duties or the land tax:“ Part” means part of this Act:
 
-“ Prescribed ” means prescribed or provided by this Act or the Tax Acts, or by the Board where the Board have power to prescribe:
+“ Prescribed” means prescribed or provided by this Act or the Tax Acts, or by the Board where the Board have power to prescribe:
 
 “Return” includes any list, statement, declaration, account, schedule, or estimate in writing by whomsoever made or from whomsoever required in conformity with the directions of this Act or the Tax Acts:
 
-“ Special Commissioners ” means the Commissioners for the special purposes of the Income Tax Acts appointed by the Treasury under the provisions of the Income Tax Act, 1842: “Surveyor” means an inspector of taxes or surveyor of taxes appointed by the Treasury or Board for the purposes of this Act, the Tax Acts, and Land Tax Acts, and acting under the authority of the Board:
+“ Special Commissioners” means the Commissioners for the special purposes of the Income Tax Acts appointed by the Treasury under the provisions of the Income Tax Act, 1842: “Surveyor” means an inspector of taxes or surveyor of taxes appointed by the Treasury or Board for the purposes of this Act, the Tax Acts, and Land Tax Acts, and acting under the authority of the Board:
 
-“ Tax Acts ” means and includes any Act or part of any Act relating to the assessment of any person, land, tenement, heritage, property, or profits whatever to the income tax or to the inhabited house duties:
+“ Tax Acts” means and includes any Act or part of any Act relating to the assessment of any person, land, tenement, heritage, property, or profits whatever to the income tax or to the inhabited house duties:
 
 “ The duties, ” except where expressly limited, means and includes, the duties on inhabited houses and the duties of income tax or any of them assessed or to be assessed under this Act or under the Tax Acts:
 
-“ The Income Tax Act, 1842, ” means the Act of the session of the fifth and sixth years of the reign of Her present Majesty, chapter thirty-five, intituled “ An Act for granting to Her “ Majesty the duties on profits arising from property, professions, trades, and offices, until the sixth day of April one “ thousand eight hundred and forty-five ”:
+“ The Income Tax Act, 1842,” means the Act of the session of the fifth and sixth years of the reign of Her present Majesty, chapter thirty-five, intituled “ An Act for granting to Her “ Majesty the duties on profits arising from property, professions, trades, and offices, until the sixth day of April one “ thousand eight hundred and forty-five ”:
 
-“ The Income Tax Act, 1853, ” means the Act of the session of the sixteenth and seventeenth years of the reign of Her present Majesty, chapter thirty-four, intituled “ An Act for granting
+“ The Income Tax Act, 1853,” means the Act of the session of the sixteenth and seventeenth years of the reign of Her present Majesty, chapter thirty-four, intituled “ An Act for granting
 
 5 & 6 Vice, c. 35.
 
@@ -2388,7 +2388,7 @@ Taxes Management Act, 1880.
 
 “ to Her Majesty duties on profits arising from property, professions, trades, and offices
 
-“ Treasury ” means the Commissioners of Her Majesty's Treasury.
+“ Treasury” means the Commissioners of Her Majesty's Treasury.
 
 (2.) The Schedules to this Act shall be read and have effect as if they were part of this Act.
 
@@ -5286,19 +5286,19 @@ o terms. ing assigned to it by this section, unless it is otherwise expressly pr
 
 “ Person ” includes a body of persons, whether corporate or unincorporate.
 
-“ Malt trader ” means and includes a maltster or maker of malt, a dealer in malt, a roaster of malt, a brewer of beer for sale, and a vinegar maker.
+“ Malt trader” means and includes a maltster or maker of malt, a dealer in malt, a roaster of malt, a brewer of beer for sale, and a vinegar maker.
 
 “ Beer ” includes ale, porter, spruce beer, and black beer, and any other description of beer.
 
-“ Brewer ” means a brewer of beer.
+“ Brewer” means a brewer of beer.
 
-“ Sugar ” means any saccharine substance, extract, or syrup, and includes any material capable of being used in brewing except malt or corn.
+“ Sugar” means any saccharine substance, extract, or syrup, and includes any material capable of being used in brewing except malt or corn.
 
-“ Commissioners ” means Commissioners of Inland Revenue.
+“ Commissioners” means Commissioners of Inland Revenue.
 
-“ Collector ” means the collector of Inland Revenue for the collection in which the premises of a brewer are situate, and includes a person acting as such collector.
+“ Collector” means the collector of Inland Revenue for the collection in which the premises of a brewer are situate, and includes a person acting as such collector.
 
-“ Officer ” means officer of Inland Revenue.
+“ Officer” means officer of Inland Revenue.
 
 “Proper officer” means the officer of the division or ride in which the premises of a brewer are situate, and includes a person acting as such officer, and also any officer superior in matters of excise to such officer.
 
@@ -6474,7 +6474,7 @@ Enactments repealed.
 
 Session and Chapter. Short Title. Extent of Repeal.
 
-39 & 40 Vict. c. 79. The Elementary In section twenty-one, the words “ msy if they think fit ” and the words “ on
+39 & 40 Vict. c. 79. The Elementary In section twenty-one, the words “msy if they think fit ” and the words “on
 
 Education Act,
 
@@ -6502,27 +6502,27 @@ L This Act may be cited as the Spirits Act, 1880.
 
 3. In this Act each of the following terms shall have the meaning Definitions, assigned to it by this section, unless it is otherwise expressly provided, or there is something in the subject or context inconsistent with such meaning, —
 
-“ Spirits ” means spirits of any description, and includes all liquors mixed with spirits, and all mixtures, compounds, or preparations made with spirits:
+“ Spirits” means spirits of any description, and includes all liquors mixed with spirits, and all mixtures, compounds, or preparations made with spirits:
 
-44 Low wines ” means spirits of the first extraction conveyed into a low wines receiver:
+44 Low wines” means spirits of the first extraction conveyed into a low wines receiver:
 
-“ Feints ” means spirits conveyed into a feints receiver:
+“ Feints” means spirits conveyed into a feints receiver:
 
-44 British spirits ” means spirits liable to a duty of Excise:
+44 British spirits” means spirits liable to a duty of Excise:
 
-“ Plain spirits ” means any British spirits, (except low wines and feints,) which have not had any flavour communicated thereto or ingredient or material mixed therewith:
+“ Plain spirits” means any British spirits, (except low wines and feints,) which have not had any flavour communicated thereto or ingredient or material mixed therewith:
 
-“ Spirits of wine ” means rectified spirits of the strength of not less than forty-three degrees above proof:
+“ Spirits of wine” means rectified spirits of the strength of not less than forty-three degrees above proof:
 
-“ British compounds ” means spirits redistilled or which have had any flavour communicated thereto, or ingredient or material mixed therewith:
+“ British compounds” means spirits redistilled or which have had any flavour communicated thereto, or ingredient or material mixed therewith:
 
-“ Foreign spirits " means all spirits and strong waters liable to a duty of Customs:
+“ Foreign spirits" means all spirits and strong waters liable to a duty of Customs:
 
 “ Sugar ” includes any saccharine substance or syrup manufactured from any material from which sugar can be manufactured:
 
-44 Commissioners ” means the Commissioners of Inland Revenue:
+44 Commissioners” means the Commissioners of Inland Revenue:
 
-“ Methylate " means to mix spirits with some substance in such manner as to render the mixture unfit for use ns a beverage, and “ methylated spirits ” means spirits so mixed to the satisfaction of the Commissioners:
+“ Methylate" means to mix spirits with some substance in such manner as to render the mixture unfit for use ns a beverage, and “ methylated spirits” means spirits so mixed to the satisfaction of the Commissioners:
 
 “Proof” means the strength of proof as ascertained by Sykes's hydrometer:
 
@@ -6530,15 +6530,15 @@ L This Act may be cited as the Spirits Act, 1880.
 
 44 Distiller, ” “ rectifier, ” “ dealer, ” and “ retailer ” mean respectively a person who distils, rectifies, or compounds, deals in, or retails spirits:
 
-“ Excise trader ” means any person carrying on a business subject to any of the regulations of this Act, and includes a maltster who makes malt duty free for distillation and any proprietor or occupier of an excise warehouse:
+“ Excise trader” means any person carrying on a business subject to any of the regulations of this Act, and includes a maltster who makes malt duty free for distillation and any proprietor or occupier of an excise warehouse:
 
-“ Licence ” means a licence granted by the Commissioners or by an officer duly authorised by them; and “ licensed, ” as applied to an Excise trader, means a person holding a licence so granted for the purpose of his business:
+“ Licence” means a licence granted by the Commissioners or by an officer duly authorised by them; and “ licensed, ” as applied to an Excise trader, means a person holding a licence so granted for the purpose of his business:
 
 44 Premises, ” when used with reference to an Excise trader, means any building or place used by him in the course of his business, and of which entry is required to be made:
 
 44 Prescribed ” and “ approved ” mean respectively prescribed or approved by the Commissioners:
 
-“ Warehouse ” means any warehouse approved or provided for the deposit of spirits:
+“ Warehouse” means any warehouse approved or provided for the deposit of spirits:
 
 44 Distiller's warehouse” means an approved warehouse on the premises of a distiller:
 
@@ -6554,23 +6554,23 @@ As to capacity, &c. of still in England.
 
 Ch. 24. Spirits Act, 1880. 43 & 44 Vict.
 
-“ Excise warehouse ” means a warehouse approved or provided by the Commissioners as a general warehouse for the deposit of spirits:
+“ Excise warehouse” means a warehouse approved or provided by the Commissioners as a general warehouse for the deposit of spirits:
 
-“ Customs warehouse ” means a warehouse approved or provided by the Commissioners of Customs for the deposit of spirits:
+“ Customs warehouse” means a warehouse approved or provided by the Commissioners of Customs for the deposit of spirits:
 
-“ Collector ” means the collector of Inland Revenue, and in connexion with the business of an Excise trader means the collector for the collection in which the premises of the trader are situate, and includes a person acting as such collector:
+“ Collector” means the collector of Inland Revenue, and in connexion with the business of an Excise trader means the collector for the collection in which the premises of the trader are situate, and includes a person acting as such collector:
 
-“ Officer " means officer of Inland Revenue:
+“ Officer" means officer of Inland Revenue:
 
-<l Proper officer ” means the officer of the division or ride in which the business of an Excise trader is carried on, or in which anything is by this Act required to be done by, or any notice to be given to, such officer, and includes a person acting as such officer, and also any officer superior in matters of Excise to such officer:
+<l Proper officer” means the officer of the division or ride in which the business of an Excise trader is carried on, or in which anything is by this Act required to be done by, or any notice to be given to, such officer, and includes a person acting as such officer, and also any officer superior in matters of Excise to such officer:
 
 “ Writing ” includes print, and “ written ” includes printed:
 
-“ Justice ” means a justice of the peace or a magistrate having jurisdiction for the county or place where any offence is committed or suspected to have been committed, or any offender is apprehended or found, or any goods or commodities are seized or liable to seizure or suspected to be so liable:
+“ Justice” means a justice of the peace or a magistrate having jurisdiction for the county or place where any offence is committed or suspected to have been committed, or any offender is apprehended or found, or any goods or commodities are seized or liable to seizure or suspected to be so liable:
 
 “ County or place ” includes a city, county of a city, county of a town, borough, liberty, division, franchise, or other place of magisterial jurisdiction:
 
-* Schedule ” means schedule to this Act.
+* Schedule” means schedule to this Act.
 
 4. This Act is divided into Parts, as follows:—
 
@@ -8988,7 +8988,7 @@ Session and Chapter. Title of Act. Extent of Repeal.
 
 free in the arts and manufactures of the United Kingdom. section three.
 
-18 & 19 Vict. c. 94. - An Act to impose increased rates of duty of Excise on spirits distilled in the United Kingdom, to allow malt, sugar, and molasses to be used duty free in the distilling of spirits, in lieu of allowances and drawbacks on such spirits, sugar, and molasses respectively; and to amend the laws relating to the duties of excise. Section fourteen in part, namely, the words “ and all malt “ to be used in the “ distillery shall be “ ground by metal “ rollers only.”
+18 & 19 Vict. c. 94. - An Act to impose increased rates of duty of Excise on spirits distilled in the United Kingdom, to allow malt, sugar, and molasses to be used duty free in the distilling of spirits, in lieu of allowances and drawbacks on such spirits, sugar, and molasses respectively; and to amend the laws relating to the duties of excise. Section fourteen in part, namely, the words “and all malt “ to be used in the “ distillery shall be “ ground by metal “ rollers only.”
 
 23&24 Vict. c. 114. - An Act to reduce into one Act and to amend the excise regulations relating to the distilling, rectifying, and dealing in spirits. The whole Act.
 
@@ -9066,7 +9066,7 @@ An Act to grant certain duties of Customs and Inland Revenue, and to amend the l
 
 Section three.
 
-Section three in part, namely, the words “ or Inland Revenue, ” “ or Excise, ” “ respectively, ” and “ or Inland Revenue respectively, ” Section four in part, namely, the words “ or Inland Revenue ” and “ or Inland Revenue respectively.” Section eleven.
+Section three in part, namely, the words “or Inland Revenue, ” “ or Excise, ” “ respectively, ” and “ or Inland Revenue respectively, ” Section four in part, namely, the words “or Inland Revenue ” and “ or Inland Revenue respectively.” Section eleven.
 
 and savings banks.
 
@@ -9458,7 +9458,6 @@ New borrowing power for Board 485, 372 2 10 } 853, 472
 
 For loans to other bodies 368, 100 0 0 2 10
 
-(^.
 
 205
 
@@ -9844,7 +9843,7 @@ An Act to render valid certain Orders in Bastardy.
 
 Vl^ HERE AS by the Bastardy Laws Amendment Act, 1873, it was enacted that the Local Government Board might issue such new or altered forms of proceedings in matters of bastardy as they should deem necessary or expedient for giving effect to the provisions of that Act and the Bastardy Laws Amendment Act, 1872; and the said Board issued certain forms accordingly:
 
-And whereas many orders in bastardy have been made which are not in accordance with the forms so issued, or to the like tenor or effect, and in particular the words “ for the maintenance and education of the said child " have been omitted from the said orders, and questions have in consequence arisen as to the validity of the same:
+And whereas many orders in bastardy have been made which are not in accordance with the forms so issued, or to the like tenor or effect, and in particular the words “for the maintenance and education of the said child " have been omitted from the said orders, and questions have in consequence arisen as to the validity of the same:
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -9854,7 +9853,7 @@ Be it therefore enacted by the Queen's most Excellent Majesty, by and with the a
 
 215
 
-Bastardy Orders Act, 1880. Ch. 32, 33. omission from such order of the words “ for the maintenance and education of the said child, ” or words to the like tenor or effect.
+Bastardy Orders Act, 1880. Ch. 32, 33. omission from such order of the words “for the maintenance and education of the said child, ” or words to the like tenor or effect.
 
 2. This Act may be cited as the Bastardy Orders Act, 1880. Short title.
 
@@ -9942,7 +9941,7 @@ The expression “Post Office regulations” means regulations or
 
 restrictions from time to time made in pursuance of the Post n & 12 Vict. Office (Money Orders) Act, 1848, as amended by this Act: c. 88.
 
-The expression “prescribed ” means prescribed by the Post Office
+The expression “prescribed” means prescribed by the Post Office
 
 regulations for the time being in force. Extension of
 
@@ -10498,11 +10497,11 @@ All regulations so made shall come into operation at the time therein mentioned,
 
 5. In this Act, unless the context otherwise requires —
 
-The expression “Postmaster General ” means Her Majesty's Postmaster General for the time being.
+The expression “Postmaster General” means Her Majesty's Postmaster General for the time being.
 
-The expression “Treasury ” means the Commissioners of Her Majesty's Treasury.
+The expression “Treasury” means the Commissioners of Her Majesty's Treasury.
 
-The expression “Government stock ” means Consolidated Three Per Cent. Bank Annuities, Reduced Three Per Cent. Bank Annuities, and New Three Per Cent Bank Annuities.
+The expression “Government stock” means Consolidated Three Per Cent. Bank Annuities, Reduced Three Per Cent. Bank Annuities, and New Three Per Cent Bank Annuities.
 
 The expression “National Debt Commissioners ” meiins the Commissioners for the Reduction of the National Debt.
 
@@ -10510,7 +10509,7 @@ The expression “prescribed” means prescribed by the regulations made under t
 
 The expression “trustee savings bank” means a savings bank to which the Trustee Savings Banks Act, 1863, extends.
 
-The expression “savings bank authority ” means as regards any trustee savings bank the trustees of that bank, and as regards the Post Office Savings Banks the Postmaster General.
+The expression “savings bank authority” means as regards any trustee savings bank the trustees of that bank, and as regards the Post Office Savings Banks the Postmaster General.
 
 The expression “trustees ” includes managers.
 
@@ -10664,7 +10663,7 @@ Provided that no such payment shall be made to any enumerator or other person wh
 
 19. In this Act —
 
-The expression “civil parish ” means a place for which a separate poor rate is or can be made, and has in the metropolis the same meaning as in the Metropolis Management Act, 1855.
+The expression “civil parish” means a place for which a separate poor rate is or can be made, and has in the metropolis the same meaning as in the Metropolis Management Act, 1855.
 
 The expression “dwelling-house ” shall include all buildings and tenements of which the whole or any part shall be used for the purpose of human habitation.
 
@@ -12294,7 +12293,7 @@ A notice under this section shall not be deemed invalid by reason of any defect 
 
 8. For the purposes of this Act, unless the context otherwise requires, —
 
-The expression “person who has superintendence entrusted to him ” means a person whose sole or principal duty is that of superintendence, and who is not ordinarily engaged in labour:
+The expression “person who has superintendence entrusted to him” means a person whose sole or principal duty is that of superintendence, and who is not ordinarily engaged in labour:
 
 261
 
@@ -12302,7 +12301,7 @@ The expression “person who has superintendence entrusted to him ” means a pe
 
 The expression “employer ” includes a body of persons corporate or unincorporate:
 
-The expression “workman ” means a railway servant and any
+The expression “workman” means a railway servant and any
 
 person to whom the Employers and Workmen Act, 1875, 38 & 39 vict-applies. c*90 *
 
@@ -12404,7 +12403,7 @@ under the Merchant Shipping Act, 1854, and the Acts amending 17 & is Vict. the s
 
 10. For the purposes of this Act — Definitions.
 
-The expression “grain ” means any corn, rice, paddy, pulse, seeds, nuts, or nut kernels.
+The expression “grain” means any corn, rice, paddy, pulse, seeds, nuts, or nut kernels.
 
 The expression “ship laden with a grain cargo” means a ship carrying a cargo of which the portion consisting of grain is more than one-third of the registered tonnage of the ship, and such third shall be computed, where the grain is reckoned in measures of
 

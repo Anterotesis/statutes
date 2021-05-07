@@ -360,7 +360,7 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) Any expenses incurred by the Minister of Pensions by reason of the addition made by this section to the classes of children for the care of whom it is his duty to make provision or of the extension made by this section in the period for which his duty is to continue in the case of any child shall be defrayed out of moneys provided by Parliament.
 
-(4) In this section, the expression “child ” means a person to or in respect of whom a pension is being paid as being, within the meaning of the instrument under which the pension is being paid, the child or dependent child or eligible child of any other
+(4) In this section, the expression “child” means a person to or in respect of whom a pension is being paid as being, within the meaning of the instrument under which the pension is being paid, the child or dependent child or eligible child of any other
 
 Short, title.
 
@@ -376,7 +376,7 @@ War Orphans Act, 1942.
 
 5 & 6 Geo. 6.
 
-person, and the expression “parent ” shall be construed accordingly; and the expression “pension ” means any pension or allowance paid by the Minister of Pensions under any Royal Warrant, Order in Council or Order relating to members of His Majesty’s Naval, Military or Air Forces or to persons employed in the Nursing Service or other Auxiliary Service of any of His Majesty’s said forces, or under any scheme made under the a &3 g«o. 6. c 83. Pensions (Navy, Army, Air Force and Mercantile Marine) Act, a & 3 Geo. 6. c. 8a. 1939, or the Personal Injuries (Emergency Provisions) Act, 1939-
+person, and the expression “parent ” shall be construed accordingly; and the expression “pension” means any pension or allowance paid by the Minister of Pensions under any Royal Warrant, Order in Council or Order relating to members of His Majesty’s Naval, Military or Air Forces or to persons employed in the Nursing Service or other Auxiliary Service of any of His Majesty’s said forces, or under any scheme made under the a &3 g«o. 6. c 83. Pensions (Navy, Army, Air Force and Mercantile Marine) Act, a & 3 Geo. 6. c. 8a. 1939, or the Personal Injuries (Emergency Provisions) Act, 1939-
 
 Short title 2. — (1) This Act may be cited as the War Orphans Act, 1942.
 
@@ -606,13 +606,13 @@ which is attributable to the passing of this Act.
 
 “ employer ”, in relation to an undertaking, means the employer of persons employed in the undertaking;
 
-" Industrial Court ” means the court constituted by section
+" Industrial Court” means the court constituted by section
 
 one of the Industrial Courts Act, 1919; 9 & 10 Geo. 5.
 
-" local authority ” means the council of a county, county c’ 69’ borough, county district or metropolitan borough or the Common Council of the City of London or a joint board or joint committee constituted under any enactment to discharge the functions of two or more such councils;
+" local authority” means the council of a county, county c’ 69’ borough, county district or metropolitan borough or the Common Council of the City of London or a joint board or joint committee constituted under any enactment to discharge the functions of two or more such councils;
 
-“ the Minister ” means the Minister of Labour and National Service;
+“ the Minister” means the Minister of Labour and National Service;
 
 i6
 
@@ -638,9 +638,9 @@ Application to Northern Ireland.
 
 ” trade practice ”, in relation to an undertaking or branch of an undertaking, means any rule, practice or custom (whether obtaining by virtue of contracts of employment or otherwise) observed in the undertaking or branch with respect to the class or classes of persons to be or not to be employed therein, or with respect to the conditions of employment, hours of work or working conditions of the persons or any class of the persons so employed;
 
-“ trade union ” means any combination which is by virtue of section two of the Trade Union Act, 1913, a trade union for the purpose of the Trade Union Acts, 1871 to 1927; and, except in section two of this Act, includes an association of two or more such combinations.
+“ trade union” means any combination which is by virtue of section two of the Trade Union Act, 1913, a trade union for the purpose of the Trade Union Acts, 1871 to 1927; and, except in section two of this Act, includes an association of two or more such combinations.
 
-“ war period ” means the period beginning with the third day of September, nineteen hundred and thirty-nine and ending with such date as the Minister notay by order appoint, not being later than the date on which the Emergency Powers (Defence) Act, 1939, expires.
+“ war period” means the period beginning with the third day of September, nineteen hundred and thirty-nine and ending with such date as the Minister notay by order appoint, not being later than the date on which the Emergency Powers (Defence) Act, 1939, expires.
 
 (2) Subject to the provisions of this Act relating to the Crown and local authorities, this Act shall not apply to an undertaking which is not carried on by way of trade or business.
 
@@ -654,7 +654,7 @@ shall be omitted;
 
 (c) for the definition of the expression ” local authority ” in subsection (1) of the last foregoing section there shall be substituted the following definition:—
 
-“ local authority ” means a local authority as defined in the Local Authorities Loans (Scotland) Act, 1891, or a joint committee of any two or more such authorities constituted under any enactment.
+“ local authority” means a local authority as defined in the Local Authorities Loans (Scotland) Act, 1891, or a joint committee of any two or more such authorities constituted under any enactment.
 
 13. This Act, in its application to Northern Ireland, shall have effect subject to the following modifications:—
 
@@ -686,11 +686,11 @@ there shall be substituted a reference to the Arbitration Act (Northern Ireland)
 
 and to any enactment of those Acts, there shall be substituted references to the Trade Union Acts (Northern Ireland), 1871 to 1927, and to the corresponding enactment thereof;
 
-(e) the expression 41 local authority ” means the council of
+(e) the expression 41 local authority” means the council of
 
 any county, county or other borough, urban or rural district, a board of guardians, the commissioners of a town, an education authority and any committee or board appointed wholly or partly by a county or district council or board of guardians or by several such councils or boards jointly;
 
-(f) the expression " summary conviction " means conviction subject to, and in accordance with, the Petty Sessions (Ireland) Act, 1851, and any Act (including an Act of the Parliament of Northern Ireland) amending that Act.
+(f) the expression " summary conviction" means conviction subject to, and in accordance with, the Petty Sessions (Ireland) Act, 1851, and any Act (including an Act of the Parliament of Northern Ireland) amending that Act.
 
 14. This Act may be cited as the Restoration of Pre-War Trade Practices Act, 1942.
 
@@ -1230,7 +1230,7 @@ term created thereby will expire, or may be determined, at the end, or not later
 
 “ landlord ”, in relation to a lease, means the person who under the lease is, as between himself and the tenant, for the time being entitled to the rents and profits of the demised premises payable under the lease, and, in a case where the reversion immediately expectant on the lease is mortgaged and the mortgagee is in possession thereof or has appointed a receiver of the rents and profits thereof, means that mortgagee;
 
-“ lease ” means a lease, under-lease or other tenancy, assignment operating as a lease or under-lease, or an agreement for such lease, under-lease, tenancy or assignment;
+“ lease” means a lease, under-lease or other tenancy, assignment operating as a lease or under-lease, or an agreement for such lease, under-lease, tenancy or assignment;
 
 C
 
@@ -1264,7 +1264,7 @@ fa) where the occasion was before the passing of this Act, the date of the passi
 
 “ member of the family ”, in relation to any tenant, means the wife or husband of the tenant, or any parent or child of the tenant as defined by section five of the Fatal Accidents Act, 1846, and extended by section two of the Law Reform (Miscellaneous Provisions) Act, 1934, and also includes any other relative who is being wholly or mainly maintained by the tenant;
 
-“multiple lease ” means a lease comprising land which, at the date when possession thereof was taken on behalf of His Majesty in the exercise of emergency powers, was used or adapted for use as two or more separate tenements;
+“multiple lease” means a lease comprising land which, at the date when possession thereof was taken on behalf of His Majesty in the exercise of emergency powers, was used or adapted for use as two or more separate tenements;
 
 “ rent ” includes any periodical sum payable by the tenant to the landlord in connection with his tenancy (whether under the lease or otherwise) in respect of lighting, heating, board, furniture or other services; and any reference to the rent payable under a lease shall be construed as including a reference to any such sum as aforesaid;
 
@@ -1664,12 +1664,11 @@ Suspension of miscellaneous functions of Sugar Commission. of the Corporation wi
 
 Interpretation. 9. In this Act the following expressions have the meanings
 
-26 Geo. 5 & 1 Edw. 8. c. 18. hereby respectively assigned to them— “ the principal Act ” means the Sugar Industry (Reorganization) Act, 1936; " the year 1939-40 " means the twelve months beginning on the first day of April, nineteen hundred and thirty-nine, and any corresponding expression in which two years are similarly mentioned means the twelve months beginning on the first day of April in the first mentioned of those years; “ war period ” means the period beginning at the commencement of this Act and ending at the expiration of the last war year;
+26 Geo. 5 & 1 Edw. 8. c. 18. hereby respectively assigned to them— “ the principal Act” means the Sugar Industry (Reorganization) Act, 1936; " the year 1939-40" means the twelve months beginning on the first day of April, nineteen hundred and thirty-nine, and any corresponding expression in which two years are similarly mentioned means the twelve months beginning on the first day of April in the first mentioned of those years; “ war period” means the period beginning at the commencement of this Act and ending at the expiration of the last war year;
 
-2 & 3 Geo. 6. c. 62. “ war year ” means the year 1939-40 and any subsequent year during the whole or any part of which the Emergency Powers (Defence) Act, 1939, is in force; and other expressions have the same meaning as in the principal Act.
+2 & 3 Geo. 6. c. 62. “ war year” means the year 1939-40 and any subsequent year during the whole or any part of which the Emergency Powers (Defence) Act, 1939, is in force; and other expressions have the same meaning as in the principal Act.
 
 Short title, citation and extent. 10. — (1) This Act may be dted as the Sugar Industry Act, 1942. (2) This Act and the principal Act may be dted together as the Sugar Industry Acts, 1936 and 1942. (3) Except in so far as it affects provisions of the prindpal Act which extend to the United Kingdom, this Act shall not extend to Northern Ireland.
-
 
 1942.
 
@@ -2423,7 +2422,7 @@ thereafter, if the purchase is an importer's purchase.
 
 19. — (1) In an order made under section twenty of the Finance (No. 2) Act, 1940, directing that purchase tax shall cease to be chargeable, or that a lower rate shall be substituted for a greater rate, the definition of the class of goods in respect of which the order is to have effect may be limited by reference to use of the utility mark, notwithstanding that the effect of the order as respects any particular goods may be thereby rendered dependent on the operation for the time being of any provision made by or under the Apparel and Textiles Order, 1942, or by or under any other order made by the Board of Trade for regulating the use of the said mark in relation to goods of any kind.
 
-(2) In this section the expression “the utility mark ” means the mark shown in the Third Schedule to the Apparel and Textiles Order, 1942.
+(2) In this section the expression “the utility mark” means the mark shown in the Third Schedule to the Apparel and Textiles Order, 1942.
 
 (3) This section shall be deemed to have come into operation on the first day of June, nineteen hundred and forty-two, being the date of the coming into operation of the said Order.
 
@@ -2651,7 +2650,7 @@ encashed certificates as is equal to the amount by which the said total holding,
 
 In this subsection the expression " the total savings certificate holding 0 means, in relation to a person, his total holding of such certificates as are mentioned in subsection (2) of this section and savings certificates issued by the Treasury through the Post Office.
 
-(5) This section shall apply in relation to any protectorate or protected state or any territory in respect of which a mandate from the League of Nations has been accepted by His Majesty and is being exercised by His Majesty's Government in the United Kingdom as it applies in relation to a colony; and in this section the expression “prescribed ” means prescribed by regulations made by the Treasury.
+(5) This section shall apply in relation to any protectorate or protected state or any territory in respect of which a mandate from the League of Nations has been accepted by His Majesty and is being exercised by His Majesty's Government in the United Kingdom as it applies in relation to a colony; and in this section the expression “prescribed” means prescribed by regulations made by the Treasury.
 
 (6) Nothing in this section shall deprive any person of any exemption from income tax under subsection (2) of section twenty-eight of the Finance Act, 1922 (which exempts from income tax interest on Ulster savings certificates held by a person resident and domiciled in Northern Ireland).
 
@@ -2739,7 +2738,7 @@ EXCESS PROFITS TAX AND NATIONAL DEFENCE CONTRIBUTION.
 
 36. —(1) The national defence contribution shall continue to be charged until such date as Parliament may hereafter determine, and accordingly the enactments referred to in the Ninth Schedule to this Act shall be amended in the manner specified in that Schedule.
 
-(2) In this and in any other Act, the expression " the years of charge to the national defence contribution ” means the period beginning with the first day of April, nineteen hundred and thirty-seven, and ending with the date determined by Parliament which is referred to in subsection (1) of this section.
+(2) In this and in any other Act, the expression " the years of charge to the national defence contribution” means the period beginning with the first day of April, nineteen hundred and thirty-seven, and ending with the date determined by Parliament which is referred to in subsection (1) of this section.
 
 37. The following subsection shall be substituted for subsection (1) of section twenty-eight of the Finance Act, 1941:—
 
@@ -2957,7 +2956,7 @@ of the Bank, and as if the references to the secretary or deputy or assistant se
 
 (6) so far as it relates to duties of excise, shall be construed as one with the Acts which relate to the duties of excise and to the management of those duties.
 
-and in the said Part I the expression “the Commissioners ” means the Commissioners of Customs and Excise.
+and in the said Part I the expression “the Commissioners” means the Commissioners of Customs and Excise.
 
 (3) Part II of this Act shall be construed as one with Part V of the Finance (No. 2) Act, 1940.
 
@@ -3503,7 +3502,7 @@ General.
 
 15. The Secretary of State may make such rules, prescribe such forms and generally do such things as he thinks expedient for regulating the practice under this Schedule (including the service of documents), and, without prejudice to the generality of this paragraph, rules made thereunder may provide for the payment in respect of such matters as may be specified therein of such fees as may be thereby prescribed.
 
-16. In this Part of this Schedule the expression “the Licensing Act ” means the Licensing (Consolidation) Act, 1910, and expressions in this Part of this Schedule which are used in that Act have the same meaning as in that Act, and the expression “licence ” means a justices' licence.
+16. In this Part of this Schedule the expression “the Licensing Act” means the Licensing (Consolidation) Act, 1910, and expressions in this Part of this Schedule which are used in that Act have the same meaning as in that Act, and the expression “licence” means a justices' licence.
 
 Part II.
 
@@ -3589,7 +3588,7 @@ General.
 
 Interpretation.
 
-13. In this Part of this Schedule the expression “the Licensing Acts ” means the Licensing (Scotland) Acts, 1903 to 1934, and expressions used in this Part of this Schedule and in those Acts have the same meaning as in those Acts, and the expression “certificate ” means a certificate as defined in Part VII of the Licensing (Scotland) Act, 1903.
+13. In this Part of this Schedule the expression “the Licensing Acts” means the Licensing (Scotland) Acts, 1903 to 1934, and expressions used in this Part of this Schedule and in those Acts have the same meaning as in those Acts, and the expression “certificate” means a certificate as defined in Part VII of the Licensing (Scotland) Act, 1903.
 
 SEVENTH SCHEDULE.
 
@@ -4627,7 +4626,7 @@ and
 
 shillings for every gallon.
 
-(2) In this section the expression “sweets ” means any liquor which is made in Great Britain or Northern Ireland from fruit and sugar, or from fruit or sugar mixed with any other material, and which has undergone a process of fermentation in the manufacture thereof, and includes British wines, made wines, mead and metheglin.
+(2) In this section the expression “sweets” means any liquor which is made in Great Britain or Northern Ireland from fruit and sugar, or from fruit or sugar mixed with any other material, and which has undergone a process of fermentation in the manufacture thereof, and includes British wines, made wines, mead and metheglin.
 
 (3) This section shall be deemed to have come into operation on the twenty-second day of April, nineteen hundred and forty-two.
 
@@ -4641,7 +4640,7 @@ duties at the rates respectively specified in the second column of that Schedule
 
 at the rates respectively specified in the third column of that Schedule.
 
-(2) In the said Schedule the expression “stripped tobacco ” means tobacco of which the leaf is not complete by reason of the removal of the stalk or midrib or of some portion thereof, but tobacco shall not be deemed to be stripped tobacco solely by reason of its having been subjected to such process of butting as the Commissioners may allow.
+(2) In the said Schedule the expression “stripped tobacco” means tobacco of which the leaf is not complete by reason of the removal of the stalk or midrib or of some portion thereof, but tobacco shall not be deemed to be stripped tobacco solely by reason of its having been subjected to such process of butting as the Commissioners may allow.
 
 (3) This section shall be deemed to have come into operation on the twenty-second day of April, nineteen hundred and forty-two.
 
@@ -4909,7 +4908,7 @@ Provided that in relation to injuries, loss or damage sustained in the waters of
 
 (3) For the purposes of this section an injury or any loss or damage shall be treated as being attributable to the matters specified in paragraph (a), in paragraph (6), in paragraph (c), or in paragraph (d) of the last preceding subsection if, but only if, they substantially increased the risk of the peril occurring which caused the injury, loss or damage.
 
-(4) In this section the expression “navigational fight " means a light displayed, whether on a ship or otherwise, as an aid to navigation for ships or as a warning of danger to ships.
+(4) In this section the expression “navigational fight" means a light displayed, whether on a ship or otherwise, as an aid to navigation for ships or as a warning of danger to ships.
 
 2. — (1) For subsections (1) and (2) of section three of the Mariners, principal Act (which authorises the making of a scheme for awards to or for the benefit of mariners and their dependants in cases where mariners have sustained war injuries, or been detained, by reason of their service in British ships) there shall be substituted the following subsections:—
 
@@ -5049,9 +5048,9 @@ Pensions
 
 (2) In this Act the following expressions have the meanings iereby respectively assigned to them, that is to say—
 
-“ harbour ” means any harbour, whether natural or artificial, and any port, dock, haven, estuary, tidal or other river, canal or inland navigation to which sea-going ships have access;
+“ harbour” means any harbour, whether natural or artificial, and any port, dock, haven, estuary, tidal or other river, canal or inland navigation to which sea-going ships have access;
 
-“ salvage ” means the preservation or recovery of vessels wrecked, stranded or in distress, or their cargo or apparel, or the recovery of any other property from the water and includes the removal of wrecks, and “ salvage operations ” and “ salvage purposes ” shall be construed accordingly;
+“ salvage” means the preservation or recovery of vessels wrecked, stranded or in distress, or their cargo or apparel, or the recovery of any other property from the water and includes the removal of wrecks, and “ salvage operations ” and “ salvage purposes ” shall be construed accordingly;
 
 Consequential extension of s. 3 of 2 & 3 Geo. 6. c. 82.
 
@@ -5075,7 +5074,7 @@ Section 6.
 
 57 & 58 Vict, c. 60.
 
-“ tidal water ” means any part of the sea, and any part of i river within the ebb and flow of the tide at ordinary spring tides and not being a harbour.
+“ tidal water” means any part of the sea, and any part of i river within the ebb and flow of the tide at ordinary spring tides and not being a harbour.
 
 (3) Expressions used in this Act and in the principal Act a amended by this Act have, save where this Act otherwis expressly provides, the meaning assigned thereto by the principa Act as so amended.
 
@@ -5633,7 +5632,6 @@ mentary),
 
 1941.
 
-v^»
 
 136
 
@@ -7683,7 +7681,7 @@ Act, 1942. Ch. 28.
 
 (6) As regards cases in which the title to a rentcharge, or to land subject thereto, is registered under the Land Registration Act, 1925, such provision may, without prejudice to the generality of section one hundred and forty-four of that Act, be made by rules under that section as may be expedient in consequence of the provisions of this paragraph, and in particular for securing (by the imposition of conditions as to the exercise of the said right or otherwise) that the extinguishment of any of a rentcharge by virtue of this paragraph shall not take effect without notice thereof being entered on the register.
 
-(7) In this Act the expression “rentcharge ” means a rentcharge (including a fee farm rent) subsisting at law or capable of subsisting at law, and not being an interest or charge arising under a settlement within the meaning of the Settled Land Act, 1925, and means, where an apportionment of a rentcharge binding on the owner thereof has been made, each of the apportioned parts and not the entire rentcharge.
+(7) In this Act the expression “rentcharge” means a rentcharge (including a fee farm rent) subsisting at law or capable of subsisting at law, and not being an interest or charge arising under a settlement within the meaning of the Settled Land Act, 1925, and means, where an apportionment of a rentcharge binding on the owner thereof has been made, each of the apportioned parts and not the entire rentcharge.
 
 (8) For the purposes of this paragraph, the “ capital equivalent ” of the excess referred to in head (a) of sub-paragraph (1) shall be taken to be that excess multiplied by the number of years purchase which the rentcharge might have been expected to realise on a sale thereof in the open market on the thirty-first day of March, nineteen hundred and thirty-nine, if it had been subsisting on that day with the like incidents in all respects as it had at the material date, and the hereditament had been in the state in which it was immediately before the occurrence of the damage thereto, and the annual value of any land outside the hereditament subject to the rentcharge had been its annual value apart from any war damage.
 
@@ -8385,7 +8383,7 @@ tenancy of the land and at the rent aforesaid, and having still to run at the re
 
 (b) If the reversionary tenancy extends to a part only of the contributory property, the references in heads (a) and (6) of sub-paragraph (2) of this paragraph to the instalment shall be construed as references to the fraction of the instalment attributable to that part of the property.
 
-(c)If the rent reserved by the reversionary tenancy is not constant throughout the term, the references in sub-paragraph (2) of this paragraph to that rent shall be construed as references to a yearly rent equal to the aggregate of the rent reserved over the whole of the term divided by the number of years in the term.-
+(c) If the rent reserved by the reversionary tenancy is not constant throughout the term, the references in sub-paragraph (2) of this paragraph to that rent shall be construed as references to a yearly rent equal to the aggregate of the rent reserved over the whole of the term divided by the number of years in the term.-
 
 (d) If the period between the relevant date and the date on which the term of the reversionary tenancy is to end is a hundred years or more, the proportion mentioned in head (a) of the said sub-paragraph (2) shall be taken to be nil.
 
@@ -8901,7 +8899,7 @@ In reckoning any such period of forty days as aforesaid, no account shall be tak
 
 " Foreign country ” does not include any British protectorate or any territory in respect of which a mandate on behalf of the League of Nations has been accepted by His Majesty, or any other country or territory being a country or territory under His Majesty’s protection or suzerainty;
 
-“ Dominion ” means any Dominion within the meaning of the Statute of Westminster, 1931, except Newfoundland, and includes any territory administered by His Majesty’s Government in such a Dominion;
+“ Dominion” means any Dominion within the meaning of the Statute of Westminster, 1931, except Newfoundland, and includes any territory administered by His Majesty’s Government in such a Dominion;
 
 “ His Majesty’s forces ” includes the Women's Royal Naval Service, the Auxiliary Territorial Service and the Women’s Auxiliary Air Force.
 
@@ -9491,7 +9489,7 @@ words “ or for the recovery of possession of land other than a dwelling-house 
 
 (2) This section shall not apply to any proceedings instituted before the passing of this Act.
 
-3. In the Courts (Emergency Powers) Acts, 1939 to 1941, and this Act, the expression “mortgage " includes any charge, and the expressions “ mortgagor " and “ mortgagee " shah be construed accordingly, and in this Act the expression “mortgage money " includes any part of the mortgage money and any interest thereon, and the expression “mortgage obligation " means any obligation arising under or by virtue of the mortgage, other than an obligation to pay the mortgage money.
+3. In the Courts (Emergency Powers) Acts, 1939 to 1941, and this Act, the expression “mortgage " includes any charge, and the expressions “ mortgagor " and “ mortgagee " shah be construed accordingly, and in this Act the expression “mortgage money " includes any part of the mortgage money and any interest thereon, and the expression “mortgage obligation" means any obligation arising under or by virtue of the mortgage, other than an obligation to pay the mortgage money.
 
 4. This Act may be cited as the Courts (Emergency Powers) Amendment Act, 1942, and shall be construed as one with the Courts (Emergency Powers) Acts, 1939 to 1941, and this Act and those Acts may be cited together as the Courts (Emergency Powers) Acts, 1939 to 1942.
 
@@ -9583,7 +9581,7 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 2. — (1) No application made after the passing of this Act for special leave to appeal to His Majesty in Council from any sentence passed in India during the war period by an emergency court shall be entertained if the sentence of the court has been reviewed and confirmed by a High Court or by a person holding office as a judge of a High Court.
 
-(2) In this section, the expression “emergency court ” means a court declared by an ordinance to have been constituted to meet conditions of grave emergency and to be a court to which it is expedient that this section shall for the time being apply; and the expression “ordinance ” means an ordinance under section seventy-two of the Government of India Act, as set out in the Ninth Schedule to the Government of India Act, 1935.
+(2) In this section, the expression “emergency court” means a court declared by an ordinance to have been constituted to meet conditions of grave emergency and to be a court to which it is expedient that this section shall for the time being apply; and the expression “ordinance” means an ordinance under section seventy-two of the Government of India Act, as set out in the Ninth Schedule to the Government of India Act, 1935.
 
 (3) Section four of the India and Burma (Emergency Provisions) Act, 1940 (which requires prior reference to be made to the Secretary of State in certain cases) shall apply to the making
 
@@ -9651,7 +9649,7 @@ Provided that the jurisdiction of any court in India under the Indian and Coloni
 
 In this subsection the expression " Acts of the Governor of Burma ” includes any Acts or ordinances which the Governor of Burma is authorised to make by or under the Government of Burma Act, 1935.
 
-6. — (1) In this Act, the expression “the war period ” means the period beginning with the twenty-fourth day of August, nineteen hundred and thirty-nine, and ending when the Emergency Powers (Defence) Act, 1939, ceases to be in force.
+6. — (1) In this Act, the expression “the war period” means the period beginning with the twenty-fourth day of August, nineteen hundred and thirty-nine, and ending when the Emergency Powers (Defence) Act, 1939, ceases to be in force.
 
 (2) The amendments made by sections three and four of this Act in the Government of India Act, 1935, shall be deemed to have been made therein immediately before the passing thereof.
 
@@ -9859,7 +9857,7 @@ Amendments as to rules of court, &c.
 
 (b) the reference in section forty-five of that Act to the jurisdiction conferred upon the Lord Chief Justice of Northern Ireland by the said Part of that Act shall be construed as including a reference to the jurisdiction conferred upon him by section forty-three of that Act as amended by the foregoing provisions of this subsection.
 
-In this subsection the expression “provision conferring equity jurisdiction on a county court ” means any provision of the said Part II which confers jurisdiction on a county court and any provision of any subsequent enactment which confers jurisdiction on a county court and applies to that jurisdiction the provisions of the said Part II.
+In this subsection the expression “provision conferring equity jurisdiction on a county court” means any provision of the said Part II which confers jurisdiction on a county court and any provision of any subsequent enactment which confers jurisdiction on a county court and applies to that jurisdiction the provisions of the said Part II.
 
 (4) No amendment made in any enactment by the foregoing provisions of this section shall affect any proceedings taken or had in any court before that amendment comes into operation, and any such proceedings may be continued as if the amendment had not been made.
 
@@ -10119,7 +10117,7 @@ To give Queen Anne’s Bounty power during a period of emergency to postpone the
 
 [6th August 1942.]
 
-1. In this Measure the expression “period of emergency ” means a period during which a state of war may exist between His Majesty and any foreign power and a period of two years thereafter.
+1. In this Measure the expression “period of emergency” means a period during which a state of war may exist between His Majesty and any foreign power and a period of two years thereafter.
 
 2. —(1) During the present period of emergency Queen Anne’s Bounty may, by resolution passed at a board meeting and on the application of the incumbent of a benefice to whom, or to whose predecessor, a loan has been or shall be made by Queen Anne’s Bounty under the provisions of the Acts and Measures specified in the Schedule hereto, or any one or more of them, postpone from time to time the repayment of annual instalments of principal money for a period (hereinafter called a " period of
 
