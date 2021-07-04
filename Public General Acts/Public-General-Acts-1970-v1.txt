@@ -2952,13 +2952,13 @@ the preceding provisions of this section shall have effect as if, at the date of
 
 55.—(1) This section applies to an appeal to the Commissioners against—
 
-to) an assessment under Schedule A or Schedule D,
+(a) an assessment under Schedule A or Schedule D,
 
-(6) an assessment to surtax,
+(b) an assessment to surtax,
 
 (c) an assessment to capital gains tax,
 
-() an assessment to corporation tax,
+(d) an assessment to corporation tax,
 
 to) an assessment made by virtue of Schedule 9 to the principal Act (income tax on company distributions, etc.).
 
@@ -3078,11 +3078,11 @@ entitled apart from the regulations, to appear on such appeals,
 
 may be brought or made,
 
-id) where the market value of an asset on a particular date, or an apportionment or any other matter, may affect the liability to capital gains tax of two or more persons, enabling any such person to have the matter determined by the tribunal having jurisdiction to determine that matter if arising on an appeal against an assessment, and prescribing a procedure by which the matter is not determined differently on different occasions,
+(d) where the market value of an asset on a particular date, or an apportionment or any other matter, may affect the liability to capital gains tax of two or more persons, enabling any such person to have the matter determined by the tribunal having jurisdiction to determine that matter if arising on an appeal against an assessment, and prescribing a procedure by which the matter is not determined differently on different occasions,
 
 (e) authorising an inspector or other officer of the Board, notwithstanding the obligation as to secrecy imposed by virtue of this or any other Act, to disclose to a person entitled to appear on such an appeal the market value of an asset as determined by an assessment or decision on a claim, or to disclose to a person whose liability to tax may be affected by the determination of the market value of an asset on a particular date, or an apportionment or any other matter, any decision on the matter made by an inspector or other officer of the Board.
 
-(2) In paragraphs () and (e) of subsection (1) above references to market value shall, in relation to land in Great Britain, include references to current use value; and the Capital Gains
+(2) In paragraphs (d) and (e) of subsection (1) above references to market value shall, in relation to land in Great Britain, include references to current use value; and the Capital Gains
 
 Taxes Management Act 1970
 
@@ -3720,11 +3720,9 @@ assessment for which the tax is charged, but subject to paragraphs (b) and (c) b
 
 section 4(2) of the principal Act, the following 1st July,
 
-(c) in the case of surtax, 1st January in the year of assess-
+(c) in the case of surtax, 1st January in the year of assessment next following the year for which the tax is charged,
 
-ment next following the year for which the tax is charged,
-
-() in the case of capital gains tax, 6th July in the year of
+(d) in the case of capital gains tax, 6th July in the year of
 
 assessment next following the year for which the tax is charged,
 
@@ -5532,7 +5530,7 @@ of the Crown, or who is employed in the service of any missionary society or in 
 
 or
 
-() has previously resided within the United Kingdom,
+(d) has previously resided within the United Kingdom,
 
 and is resident abroad for the sake of his or her health, or the health of a member of his or her family resident with him or her, or
 
@@ -5910,11 +5908,11 @@ c. 10
 
 (relief for life insurance premiums and other payments), to the husband or the wife according as he or she made the payment giving rise to the relief,
 
-() so far as it flows from relief in respect of a child under
+(d) so far as it flows from relief in respect of a child under
 
 section 10(1)(Z>), or relief in respect of a dependent relative under section 16, or relief in respect of a daughter under section 17, to the husband or the wife according as he or she maintains the child, relative or daughter, and
 
-(<?) as to the balance, in proportion to the amounts of tax which would have been payable by them respectively if the only personal reliefs allowable had been the reliefs referred to in paragraphs (a) and ( )above:
+(<?) as to the balance, in proportion to the amounts of tax which would have been payable by them respectively if the only personal reliefs allowable had been the reliefs referred to in paragraphs (a) and ( ) above:
 
 Provided that, subject to subsection (2) below, the account of reduction of tax allocated to the wife by virtue of paragraphs (a) to (e) above shall not be less than the minimum amount which, if no application under the said section 38(1) had had effect for that year, would under section 37(3) above have had to go to reduce the tax chargeable in respect of her earned income, and the amount of reduction of tax allocated to the husband shall be correspondingly reduced.
 
@@ -6462,7 +6460,7 @@ c. 10
 
 the seller is the settlor, or the wife or husband of the settlor, and it appears that the main purpose of the purchase is to obtain relief in respect of interest on the loan, or
 
-() where the purchaser is directly or indirectly purchasing
+(d) where the purchaser is directly or indirectly purchasing
 
 from a person who is within the terms of section 533 of this Act connected with him, and the price substantially exceeds the value of what is acquired; and subsection (l)(h) above shall not apply where the person spending the money is within the terms of the said section 533 connected with the person who, directly or indirectly, receives the money, and the money substantially exceeds the value of the work done.
 
@@ -6804,7 +6802,7 @@ of those sections a6 the making of a loan to defray money applied by the purchas
 
 claim is made, and
 
-() the name and address of the debtor:
+(d) the name and address of the debtor:
 
 Provided that if the claim relates to interest on an overdraft the statement shall show, instead of the particulars in paragraphs (a) to () above—
 
@@ -7100,7 +7098,7 @@ than by way of maintenance or repairs, being services which he was obliged to pr
 
 which the person chargeable was obliged to defray,
 
-() in respect of any rent, rentcharge, ground annual, feu
+(d) in respect of any rent, rentcharge, ground annual, feu
 
 duty or other periodical payment reserved in respect of, or charged on or issuing out of, land:
 
@@ -7236,7 +7234,7 @@ duty or other periodical payment made by that person as was reserved in respect 
 
 as constituted an expense of that transaction, not being an expense of a capital nature, and
 
-() where, in or before the chargeable period, that person
+(d) where, in or before the chargeable period, that person
 
 entered into any like transaction, any amount which, under paragraphs (a) to (c) above, is deductible from a sum to which he is entitled under that like transaction in the period, or was deductible from a sum to which he was so entitled in a previous chargeable period but has not been deducted.
 
@@ -8156,7 +8154,7 @@ c. 10
 
 205
 
-() fishings. Part VI
+(d) fishings. Part VI
 
 (e) rights of markets and fairs, tolls, bridges and ferries. Chapter I (/) railways and other ways, and
 
@@ -8734,7 +8732,7 @@ a person residing in the United Kingdom, and
 
 (ii) the interest is payable in the currency of a territory outside the scheduled territories, and
 
-() that, under the terms of the contract under which the
+(d) that, under the terms of the contract under which the
 
 interest is payable, the interest is to be paid, or may be required to be paid, outside the United Kingdom, and
 
@@ -10176,7 +10174,7 @@ charges for a year of assessment shall be construed as a reference to those fall
 
 effective in a year shall be construed as referring to the amount to which, by reason of an insufficiency of profits or gains, effect cannot be given in taxing the trade for the year, and
 
-() effect shall be deemed to be given in taxing the trade to
+(d) effect shall be deemed to be given in taxing the trade to
 
 allowances carried forward from an earlier year before it is given to allowances arising in a later year.
 
@@ -10428,7 +10426,7 @@ ment,
 
 vocation in the part of the preceding year of assessment beginning twelve months before the date of the discontinuance, and
 
-() the same fraction of the relevant capital allowances for
+(d) the same fraction of the relevant capital allowances for
 
 that preceding year of assessment as the part thereof beginning twelve months before the discontinuance is of a year.
 
@@ -10994,15 +10992,11 @@ Part VIII Chapter I
 
 Payments on retirement or removal from office or employment.
 
-(b) any question whether a person is connected with another
+(b) any question whether a person is connected with another shall be determined in accordance with section 533 of this Act,
 
-shall be determined in accordance with section 533 of this Act,
+(c) “ director ” and “ employee ” have the meanings given by section 224(1) of this Act, and
 
-(c) “ director ” and “ employee ” have the meanings given
-
-by section 224(1) of this Act, and
-
-() in so far as the context permits, “shares” includes stock,
+(d) in so far as the context permits, “shares” includes stock,
 
 and this section shall apply in relation to any securities (as defined in section 237(5) of this Act) issued by a body corporate as it applies to shares in that body corporate.
 
@@ -11068,15 +11062,13 @@ this Act (consideration for certain restrictive covenants),
 
 or agreement as is referred to in section 220 of this Act (retirement benefits etc. for directors and employees of bodies corporate), where the holder of the office or employment was chargeable to tax in respect of sums paid, or treated as paid, with a view to the provision of the benefit,
 
-() a benefit paid in pursuance of any such scheme or
+(d) a benefit paid in pursuance of any such scheme or
 
 fund as is described in subsections (1) and (2) of section 221 of this Act (exemptions from charge to tax under the said section 220),
 
-(e) any terminal grant, gratuity or other lump sum paid
+(e) any terminal grant, gratuity or other lump sum paid under any Royal Warrant, Queen’s Order, or Order in Council relating to members of Her Majesty’s forces, and any payment made in commutation of annual or other periodical payments authorised by any such Warrant or Order,
 
-under any Royal Warrant, Queen’s Order, or Order in Council relating to members of Her Majesty’s forces, and any payment made in commutation of annual or other periodical payments authorised by any such Warrant or Order,
-
-(/) a payment of benefit under any superannuation scheme administered by the government of an overseas territory within the Commonwealth, or of compensation for loss of career, interruption of service or disturbance made in connection with any change in the constitution of any such overseas territory to persons who, before the change, were employed in the public services of that territory,
+(f) a payment of benefit under any superannuation scheme administered by the government of an overseas territory within the Commonwealth, or of compensation for loss of career, interruption of service or disturbance made in connection with any change in the constitution of any such overseas territory to persons who, before the change, were employed in the public services of that territory,
 
 and references in paragraph (/) above to an overseas territory, to the government of such a territory, and to employment in the public services of such a territory shall be construed as if they occurred in the Overseas Service Act 1958, and subsections
 
@@ -11580,7 +11572,7 @@ Assessment, Collection, Recovery and Appeals
 
 from any such income paid in any later year or otherwise, of income tax in respect of any such income which has not been deducted or otherwise recovered during the year,
 
-() for the assessment and charge of income tax
+(d) for the assessment and charge of income tax
 
 by the inspector in respect of income to which this section applies, and
 
@@ -11714,7 +11706,7 @@ annuities for all or any of the following persons in the events respectively spe
 
 tributor to the fund, and
 
-() the fund is recognised by the employer and employed persons in the trade or undertaking:
+(d) the fund is recognised by the employer and employed persons in the trade or undertaking:
 
 Provided that the Board may, if they think fit. and subject to such conditions, if any, as they think proper to attach to the approval, approve a fund, or any part of a fund, as a superannuation fund for the purposes of this section—
 
@@ -11744,7 +11736,7 @@ and without prejudice to the generality of the preceding provision, may by such 
 
 approval of a superannuation fund are to be made,
 
-() provide for the withdrawal of approval in the case of
+(d) provide for the withdrawal of approval in the case of
 
 a fund which ceases to satisfy the requirements of this section,
 
@@ -12186,7 +12178,7 @@ Aggregation and severance of schemes.
 
 c. 10
 
-() that the aggregate value of the benefits, of whatever nature, afforded by the scheme is reasonably comparable to the aggregate value of the benefits usually afforded by statutory superannuation schemes in like circumstances,
+(d) that the aggregate value of the benefits, of whatever nature, afforded by the scheme is reasonably comparable to the aggregate value of the benefits usually afforded by statutory superannuation schemes in like circumstances,
 
 {e) that the pensions or annuities provided for by the scheme are not assignable, either in whole or in part, and
 
@@ -12354,7 +12346,7 @@ c. 10
 
 sums except sums payable by way of annuity to the individual’s widow or widower and any sums which, in the event of no annuity becoming payable either to the individual or to a widow or widower, are payable to the individual’s personal representatives by way of return of premiums, by way of reasonable interest on premiums or by way of bonuses out of profits, or
 
-() provide for the annuity, if any, payable to a widow
+(d) provide for the annuity, if any, payable to a widow
 
 or widower of the individual to be of a greater annual amount than that paid or payable to the individual, or
 
@@ -12438,7 +12430,7 @@ part of the emoluments of any such office or employment held by him, or
 
 Schedule B or Schedule D and is immediately derived by him from the carrying on or exercise by ham of his trade, profession or vocation either as an individual or, in the case of a partnership, as a partner personally acting therein, or
 
-() income treated as earned income by virtue of section
+(d) income treated as earned income by virtue of section
 
 383 of this Act (patent rights),
 
@@ -12654,7 +12646,7 @@ payment bears to the total amount of that payment shall be constant for all paym
 
 of any annuity payment depends on any contingency other than the duration of a human life or lives, that proportion shall be the same proportion which the total amount or value of the consideration for the grant of the annuity bears to the actuarial value of the annuity payments as determined in accordance with the next following subsection, and
 
-() where paragraph (c) above does not apply, the said
+(d) where paragraph (c) above does not apply, the said
 
 proportion shall be such as may be just, having regard to that paragraph and to the contingencies affecting the annuity.
 
@@ -12718,7 +12710,7 @@ Supple-
 
 mcntary.
 
-() to any annuity purchased under or for the purposes of any sponsored superannuation scheme (as defined in section 226(11) above) or any scheme approved under that section or in pursuance of any obligation imposed, or offer or invitation made, under or in connection with any such scheme or to any other annuity purchased by any person in recognition of another’s services (or past services) in any office or employment.
+(d) to any annuity purchased under or for the purposes of any sponsored superannuation scheme (as defined in section 226(11) above) or any scheme approved under that section or in pursuance of any obligation imposed, or offer or invitation made, under or in connection with any such scheme or to any other annuity purchased by any person in recognition of another’s services (or past services) in any office or employment.
 
 231.—(1) Any question whether an annuity is a purchased life annuity to which section 230 above applies, or what is the capital element in such an annuity, shall be determined by the inspector; but a person aggrieved by the inspector’s decision on any such question may appeal within the prescribed time to the Special Commissioners.
 
@@ -12794,7 +12786,7 @@ ib) any other distribution out of assets of the company (whether in cash or othe
 
 the company in respect of shares in the company otherwise than wholly for new consideration, or such part of any redeemable share capital or any security so issued as is not properly referable to new consideration ;
 
-() any interest or other distribution out of assets of the company in respect of securities of the company (except so much, if any, of any such distribution as represents the principal thereby secured), where the securities are either—
+(d) any interest or other distribution out of assets of the company in respect of securities of the company (except so much, if any, of any such distribution as represents the principal thereby secured), where the securities are either—
 
 (i) securities issued as mentioned in paragraph (c) above, but excluding securities issued before 6th April 1965; or
 
@@ -13188,7 +13180,7 @@ period for which the company does not make up accounts, the end of that period;
 
 or to be, in respect of a trade, within the charge to corporation tax;
 
-() the company beginning or ceasing to be resident in the
+(d) the company beginning or ceasing to be resident in the
 
 United Kingdom;
 
@@ -13270,7 +13262,7 @@ carrying on a trade, or
 
 section 304(5) of this Act, and including an authorised unit trust scheme), or
 
-() the payment of interest would be eligible for relief under section 57 or section 62 of this Act (loans for purchase or improvement of land and certain pre-1970 loans) if it were made by an individual.
+(d) the payment of interest would be eligible for relief under section 57 or section 62 of this Act (loans for purchase or improvement of land and certain pre-1970 loans) if it were made by an individual.
 
 Income and Corporation Taxes Act 1970
 
@@ -13530,7 +13522,7 @@ owned by a second company through another company or other companies, or partly 
 
 (10) of section 532 of this Act; and
 
-() where any company is a subsidiary of another com-
+(d) where any company is a subsidiary of another com-
 
 pany, that other company shall be considered as its parent company unless both are subsidiaries of a third company.
 
@@ -13556,7 +13548,7 @@ section 177(2) of this Act;
 
 304 or 305 of this Act;
 
-() the setting of certain capital allowances against total
+(d) the setting of certain capital allowances against total
 
 1968 c. 3. profits under section 74(3) of the Capital Allowances
 
@@ -13912,7 +13904,7 @@ ib) relief under section 74(3) of the Capital Allowances Act 1968 in respect of 
 
 (transitional relief on cessation of trade etc.) where the company ceases to possess the source of income in question at a time after the end of the accounting period the profits of which are being computed, and
 
-() relief under section 178 of this Act in respect of a loss incurred in an accounting period after the end of the accounting period the profits of which are being computed. 4
+(d) relief under section 178 of this Act in respect of a loss incurred in an accounting period after the end of the accounting period the profits of which are being computed. 4
 
 (4) The reductions to be made in total profits of an accounting period against which any relief derived from a subsequent
 
@@ -14230,7 +14222,7 @@ shares or loan stock issued in exchange by the transferee company, or
 
 the transfer, or
 
-() the passing of a resolution or the making of an order,
+(d) the passing of a resolution or the making of an order,
 
 or any other act, for the winding up of the transferor company (unless that company is not in fact wound up or dissolved),
 
@@ -14730,7 +14722,7 @@ relation to the holding,
 
 April 1969 to the first company in respect of the holding, and
 
-() that the effect of the distribution is that the value of the holding is or has been materially reduced.
+(d) that the effect of the distribution is that the value of the holding is or has been materially reduced.
 
 (2) Where this section applies in relation to a holding section 280 above shall apply in relation to any disposal of any shares or securities comprised in the holding, whether the disposal is by the first company or by any other company to which the holding is transferred by a transfer to which section 273 above applies, as if the distribution were a depreciatory transaction and, if the companies concerned are not members of a group of companies, as if they were:
 
@@ -14780,7 +14772,7 @@ CHAPTER III Close Companies Meaning of close company
 
 and not otherwise a close company, or
 
-() to a company falling within subsection (4) or section
+(d) to a company falling within subsection (4) or section
 
 283 below.
 
@@ -14862,7 +14854,7 @@ director or associate, or of two or more persons each of whom is such a director
 
 (c) by any associated company of the company, or
 
-() as part of any fund the capital or income of which is
+(d) as part of any fund the capital or income of which is
 
 applicable or applied wholly or mainly for the benefit of, or of the dependants of, the employees or directors, or past employees or directors, of the company, or of any company within paragraph (b) or (c) above.
 
@@ -15740,7 +15732,7 @@ c. 10
 
 to loan creditors by way of premium on redemption, and
 
-() any person who is entitled to secure that income or assets (whether present or future) of the company will be applied directly or indirectly for his benefit
+(d) any person who is entitled to secure that income or assets (whether present or future) of the company will be applied directly or indirectly for his benefit
 
 In this subsection references to being entitled to do anything apply where a person is presently entitled to do it at a future date, or will at a future date be entitled to do it.
 
@@ -17080,7 +17072,7 @@ Disposals of land between the Housing Corporation and housing societies.
 
 specified in subsection (6)(i) and (ii) above and has complied with the conditions prescribed under subsection (6)(iii) above for the time being in force; and
 
-() any covenants required to be included in grants of
+(d) any covenants required to be included in grants of
 
 tenancies by those conditions have been observed :
 
@@ -17416,7 +17408,7 @@ arrangements approved by or made with a Minister of the Crown or Government depa
 
 includes a Minister of the Crown or Government department in Northern Ireland,
 
-() “ producer ” includes a person who produces one type
+(d) “ producer ” includes a person who produces one type
 
 or quality of the commodity from another and (except in so far as the context otherwise requires) a penson who has been a producer and the personal representatives of a producer who has died.
 
@@ -17524,7 +17516,7 @@ and set off against the profits or gains of the trade of the Gas Council as if i
 
 the Authority or Board, and
 
-() in respect of chargeable gains.
+(d) in respect of chargeable gains.
 
 (2) Income arising from investments or deposits held for the purposes of any pension scheme provided and maintained by the said Atomic Energy Authority shall be treated for the purposes of this section as if that income and the source thereof belonged to the Authority, and similarly with chargeable gains (the exemptions from corporation tax conferred on the Authority having effect as exemptions from income tax or capital gains tax).
 
@@ -17842,7 +17834,7 @@ c. 10
 
 where the income in question forms part of the income of a charity, or is, according to rides or regulations established by Act of Parliament, charter, decree, deed of trust or will, applicable to charitable purposes only, and so far as it is applied to charitable purposes only,
 
-() exemption from tax under Schedule C in respect of any
+(d) exemption from tax under Schedule C in respect of any
 
 interest, annuities, dividends or shares of annuities which are in the names of trustees and are applicable solely towards the repairs of any cathedral, college, church or chapel, or of any building used solely for the purpose of divine worship, so far as the same are applied to those purposes,
 
@@ -19262,7 +19254,7 @@ payment of premiums which—
 
 except so far as such interest exceeds in the year of assessment £100 in all, or
 
-() interest on borrowed money applied to or towards the
+(d) interest on borrowed money applied to or towards the
 
 payment of any premium under a contract of assurance entered into before 15th April 1930 which assures a fixed capital sum payable either—
 
@@ -20078,7 +20070,7 @@ same or any other deed, instrument, will, codicil, order, local or personal Act 
 
 annuity, pension or stipend taxed under Schedule E; or
 
-() apply to any dividends or shares of profits:
+(d) apply to any dividends or shares of profits:
 
 Provided that the reference in this subsection to any annuity taxed under Schedule E shall not include a reference to any annuity so taxed by virtue of section 208(3) of this Act (approved superannuation funds).
 
@@ -20580,7 +20572,7 @@ The general rule.
 
 both property provided as aforesaid and other property as, on a just apportionment, represents the property so provided; and
 
-() income provided directly or indirectly by that person.
+(d) income provided directly or indirectly by that person.
 
 (3) In this section references to property which represents other property include references to property which represents accumulated income from that other property.
 
@@ -21112,7 +21104,7 @@ c. 10
 
 573
 
-() any sums paid by virtue or in consequence of the settlement, to the extent that they are not allowable, by virtue of section 450 above, as deductions in computing the settlor’s income for that year or any previous relevant year, and
+(d) any sums paid by virtue or in consequence of the settlement, to the extent that they are not allowable, by virtue of section 450 above, as deductions in computing the settlor’s income for that year or any previous relevant year, and
 
 (e) an amount equal to tax at the standard rate on—
 
@@ -21308,7 +21300,7 @@ agreement to or for the benefit of a former member, or the widow or dependants o
 
 to a marriage by way of provision for the other after the dissolution or annulment of the marriage, or while they are separated under an order of a court or under a separation agreement or in such circumstances that the separation is likely to be permanent, being income payable to or applicable for the benefit of that other party, or
 
-() is income from property of which the settlor has divested himself absolutely by the settlement, or
+(d) is income from property of which the settlor has divested himself absolutely by the settlement, or
 
 (e) is income which, by virtue of some provision of the
 
@@ -21378,7 +21370,7 @@ income being made or given by some such person; or
 
 parties to the marriage and of all or any of the children of the marriage; or
 
-() the death under the age of twenty-five or some lower
+(d) the death under the age of twenty-five or some lower
 
 age of some person who would be beneficially entitled to that property or income on attaining that age.
 
@@ -21394,7 +21386,7 @@ that behalf in the settlement or of two or more individuals named in that behalf
 
 individual named in that behalf in the settlement, or
 
-() is income from property of which the settlor has divested himself absolutely by the settlement, or
+(d) is income from property of which the settlor has divested himself absolutely by the settlement, or
 
 (e) is income which, by virtue of some provision of the
 
@@ -22332,7 +22324,7 @@ c. 10
 
 tune, any benefit provided or to be provided out of that income or out of moneys which are or will be available for the purpose by reason of (he effect or successive effects of the associated operations on that income and on any assets which directly or indirectly represent that income, or
 
-() the individual has power, by means of the exercise of
+(d) the individual has power, by means of the exercise of
 
 any power of appointment or power of revocation or otherwise, to obtain for himself, whether with or without the consent of any other person, the beneficial enjoyment of the income, or may, in the event of the exercise of any power vested in any other person, become entitled to the beneficial enjoyment of the income, or
 
@@ -22354,7 +22346,7 @@ the wife or husband of the individual,
 
 (c)“ benefit ” includes a payment of any kind,
 
-() references to income of a person resident or domiciled out of the United Kingdom shall, where the amount of the income of a company for any year or period has been apportioned under section 296 of this Act, include references to so much of the income of the company for that year or period as is equal to the amount so apportioned to that person.
+(d) references to income of a person resident or domiciled out of the United Kingdom shall, where the amount of the income of a company for any year or period has been apportioned under section 296 of this Act, include references to so much of the income of the company for that year or period as is equal to the amount so apportioned to that person.
 
 Part XVII Chapter III
 
@@ -22498,7 +22490,7 @@ and
 
 (c) may in any case be absolute or conditional; and
 
-() shall be published in such a way as to give any person
+(d) shall be published in such a way as to give any person
 
 entitled to the benefit of it an adequate opportunity of getting to know of it, unless in the opinion of the Treasury publication is not necessary for that purpose.
 
@@ -22664,7 +22656,7 @@ of capital, the comparison may be made in terms of percentage holdings of the to
 
 above if any person has acquired a holding of at least 5 per cent., or a holding which makes at least 5 per cent, when added to an existing holding, acquisitions by, and holdings of, two or more persons who are connected persons within the meaning of section 533 of this Act shall be aggregated as if they were acquisitions by, and holdings of, one and the same person,
 
-() any acquisition of shares under the will or on the
+(d) any acquisition of shares under the will or on the
 
 intestacy of a deceased person and, if it is shown that the gift is unsolicited and made without regard to the provisions of the principal section, any gift of shares, shall be left out of account.
 
@@ -22794,7 +22786,7 @@ securities, land or buildings and includes any company whose profits on the sale
 
 companies if one has control of the other or others, or any person has control of both or all of them,
 
-() references to a company having control of another com-
+(d) references to a company having control of another com-
 
 pany shall be construed as references to its having control thereof either by itself or in conjunction with any person having control over the first-mentioned company, and “ control ” has the meaning given by section 534 of this Act,
 
@@ -23054,7 +23046,7 @@ control of any property or right, is transferred or transmitted by assigning sha
 
 affecting the disposition of any property or right, and to the consideration given for the option, or for the giving of the consent or the release of the embargo, and
 
-() to the disposal of any property or right on the winding
+(d) to the disposal of any property or right on the winding
 
 up, dissolution or termination of any company, partnership or trust.
 
@@ -23208,7 +23200,7 @@ payments shall be apportioned, and the apportioned payments which belong to the 
 
 to parts of payments which under subsection (5) of this section are treated as if made at a time subsequent to that at which they were made, and to the extent that a part of a payment so carried forward under subsection (5) of this section is not so allowable as a deduction by way of tax relief, it may again be carried forward under subsection (5) of this section,
 
-() so much of any payment as is in respect of services
+(d) so much of any payment as is in respect of services
 
 or the use of assets or rates usually borne by the tenant shall be excluded, and in determining the amount to be so excluded provisions in any lease or agreement fixing the payments or parts of payments which are in respect of services or the use of assets may be overridden.
 
@@ -23298,7 +23290,7 @@ c. 10
 
 631
 
-() allowance of a payment under section 304 or 305 of this Act (management expenses),
+(d) allowance of a payment under section 304 or 305 of this Act (management expenses),
 
 (e) a deduction from emoluments to be assessed under
 
@@ -23346,7 +23338,7 @@ Part XVII Chapter IV
 
 this Act (management expenses),
 
-() a deduction from emoluments to be assessed under
+(d) a deduction from emoluments to be assessed under
 
 Schedule E made in pursuance of section 189(1) of this Act (necessary expenses), or allowable in computing losses in an employment for tax purposes,
 
@@ -23524,7 +23516,7 @@ and any individual who in relation to the settlement is a settlor, and any perso
 
 or persons associated with him, or that person and persons associated with him, has or have control;
 
-() any two or more bodies of persons associated with the
+(d) any two or more bodies of persons associated with the
 
 same person by virtue of paragraph (c) above;
 
@@ -24278,7 +24270,7 @@ section 391 of this Act (copyrights owned by persons whose usual place of abode 
 
 a patent, and
 
-() any rent, royalty or other payment which by section
+(d) any rent, royalty or other payment which by section
 
 156 or 157 of this Act (mining etc. rents and royalties) is declared to be subject to deduction of tax under Part II of this Act as if it were a royalty or other sum paid in respect of the user of a patent,
 
@@ -24588,7 +24580,7 @@ tion 113(2) or section 182 of this Act (voluntary pensions) applies, and
 
 E by virtue of section 219(1) of this Act (family allowances and other social security benefits), and
 
-() any sum payable by way of annuity to an individual
+(d) any sum payable by way of annuity to an individual
 
 by virtue of a scheme under section 27 of the Agriculture Act 1967 (grants for relinquishing occupation of uncommercial agricultural units), unless the annuity was granted to the individual by reason of his having relinquished occupation before attaining the age of fifty-five.
 
@@ -24658,7 +24650,7 @@ Part XIX corporate through another body corporate or other bodies corporate, or 
 
 ordinary share capital of another body corporate in the series is referred to as an “ owner ”;
 
-() any two bodies corporate in a series of which one
+(d) any two bodies corporate in a series of which one
 
 owns ordinary share capital of the other directly, and not through one or more of the other bodies corporate in the series, are referred to as being directly related to one another.
 
@@ -24816,7 +24808,7 @@ making of a return, the furnishing of a certificate or the giving of any other i
 
 penalty,
 
-() except where the tax concerned is all tax for years of
+(d) except where the tax concerned is all tax for years of
 
 assessment before the year 1970-71 or accounting periods ending before 6th April 1970, so much of any other provision of this Act as confers any power or imposes any duty the exercise or performance of which operates or may operate in relation to tax for more than one chargeable period,
 
@@ -25006,7 +24998,7 @@ of twelve months must not exceed—
 
 (ii) one-eighth of the total premiums which would be payable if the policy were to run for the specified term,
 
-() the policy—
+(d) the policy—
 
 (i) must guarantee that the capital sum payable on death, or on death occurring after the attainment of a specified age not exceeding sixteen, will, whenever that event may happen, be equal to three-quarters at least of the total premiums which would be payable if the policy were to run for that term, disregarding any amounts included in those premiums by reason of their being payable otherwise than annually, and
 
@@ -25050,7 +25042,7 @@ Special types of policy
 
 than one falling within paragraph () below can become payable under the policy earlier than ten years after the making of the assurance, and
 
-() where the policy provides for the making of a series of payments during its term—
+(d) where the policy provides for the making of a series of payments during its term—
 
 (i) the first such payment is due not earlier than five years after the making of the assurance, and the others, except the final payment, at intervals of not less than five years, and
 
@@ -25524,7 +25516,7 @@ dividends on the securities of the United Kingdom Govern- Sch. 5 ment entered in
 
 residue of the moneys so issued and paid to them, to be applied by the Bank of Ireland to the payment of the dividends, and
 
-() the retaining of the amount shall be deemed to be a payment of the income tax by the persons entitled to the dividends, and shall be allowed by them on the receipt of the residue thereof, and the Bank of England and the Bank of Ireland shall be acquitted and discharged of a sum equal to the amount retained as though that sum had been actually paid.
+(d) the retaining of the amount shall be deemed to be a payment of the income tax by the persons entitled to the dividends, and shall be allowed by them on the receipt of the residue thereof, and the Bank of England and the Bank of Ireland shall be acquitted and discharged of a sum equal to the amount retained as though that sum had been actually paid.
 
 3. Money set apart or retained under paragraph 2 above, and the amount of any tax charged on the trading profits of the Bank of England or the Bank of Ireland, shall be paid into the general account of the Board at the Bank of England or the Bank of Ireland.
 
@@ -26082,7 +26074,7 @@ one re-acquisition of the same share, nor be by the same acquisition of a share 
 
 to a previous disposal, shares acquired on an earlier date shall be treated in relation to that disposal as the shares re-acquired rather than shares acquired on a later date, and, as between shares acquired on any one date, those subsequently disposed of on an earlier date shall be so treated rather than those subsequently disposed of on a later date, and those subsequently disposed of on any one day shall be so treated in as nearly as may be equal proportions, and
 
-() where a person disposes of shares in one capacity, shares which he acquires in some other capacity shall be disregarded.
+(d) where a person disposes of shares in one capacity, shares which he acquires in some other capacity shall be disregarded.
 
 Z 3
 
@@ -26838,7 +26830,7 @@ Sch. 10
 
 representatives, the inspector shall not without the consent of the underwriter or his personal representatives give any certificate until after the hearing of the appeal; and
 
-() on the hearing of the appeal, the Special Commissioners may direct the inspector not to give a certificate or to give it with such an amount specified therein as the amount of the loss as may be specified m the direction.
+(d) on the hearing of the appeal, the Special Commissioners may direct the inspector not to give a certificate or to give it with such an amount specified therein as the amount of the loss as may be specified m the direction.
 
 9. —(1) The arrangements may authorise the making of payments pursuant to paragraph 8(1) above on a provisional basis before the amount of the loss has been finally ascertained and certified by the inspector.
 
@@ -27098,7 +27090,7 @@ could be made; or
 
 to be written off the expenditure incurred on the asset for the purpose of determining whether any and if so what allowance may be given by reason of the event; or
 
-() that account is required to be taken of any sum falling to be taken into account as sale, insurance, salvage or compensation moneys,
+(d) that account is required to be taken of any sum falling to be taken into account as sale, insurance, salvage or compensation moneys,
 
 the like consequences shall ensue under this Schedule as if an allowance had fallen to be made by reason of that event
 
@@ -27756,7 +27748,7 @@ of six year time limit on carry forward of trading losses),
 
 as in force by virtue of the saving in Part IV of Schedule 22 to the Finance Act 1965, and section 80(8) of the Finance Act 1965 (which amends the said Schedule 3),
 
-() section 82(4) of the Finance Act 1965 (losses allowable against chargeable gains),
+(d) section 82(4) of the Finance Act 1965 (losses allowable against chargeable gains),
 
 (e) section 85 of the Finance Act 1965 (carry forward of surplus
 
@@ -28798,7 +28790,7 @@ Act 1952 (capital allowances)*’ substitute “the Capital Allowances Act 1968 
 
 Tax Act 1952 ” substitute “ the Capital Allowances Act 1968 (including the provisions of the Income and Corporation Taxes Act 1970 which under that Act are to be treated as contained in the said Act of 1968) ”, and
 
-() in paragraph 6(6), for “ section 296 of the Income Tax Act
+(d) in paragraph 6(6), for “ section 296 of the Income Tax Act
 
 1952 ” substitute “ section 40 of the Capital Allowances Act 1968 ”.
 
@@ -29256,7 +29248,7 @@ to make voluntary arrangements on a co-operative basis for the selling of white 
 
 <c) to undertake as agents, in any locality in which the Authority think it necessary so as to secure proper provision for the needs of the fishing industry, the first sale of white fish landed in Great Britain and, where it appears to the Authority likely to promote efficiency and economy, to undertake as principals the buying and selling of such materials and requisites as aforesaid;
 
-() to promote the export of white fish by establishing, or by encouraging and giving financial or other assistance
+(d) to promote the export of white fish by establishing, or by encouraging and giving financial or other assistance
 
 2 B* 4
 
@@ -31012,7 +31004,7 @@ c. 13
 
 (iii) “or found in his house, shop, possession or control
 
-() in section 4, after the words “ any bird of game ”, in both places where those words occur in the section as amended as above, there shall be inserted the words “(except live birds for rearing or exhibition purposes or for sale alive)”.
+(d) in section 4, after the words “ any bird of game ”, in both places where those words occur in the section as amended as above, there shall be inserted the words “(except live birds for rearing or exhibition purposes or for sale alive)”.
 
 (2) Section 10 of the Revenue Act 1911 is hereby repealed. 1911 c. 2.
 
@@ -31962,7 +31954,7 @@ or maximum weight borne by any wheel or axle;
 
 (c) the maximum speed of any such appliances or vehicles;
 
-() the hours during which the appliances or vehicles may
+(d) the hours during which the appliances or vehicles may
 
 be used; and
 
@@ -32178,7 +32170,7 @@ of the survey or removing the apparatus;
 
 or the presence of minerals for the purpose of the survey;
 
-() searching or boring to ascertain the nature of any activity
+(d) searching or boring to ascertain the nature of any activity
 
 taking place beneath the surface of the land which may affect the stability of a highway for the purpose of the survey;
 
@@ -33552,7 +33544,7 @@ c. 24
 
 of employees’ contributions, or
 
-() which relates to a trade or undertaking carried on only
+(d) which relates to a trade or undertaking carried on only
 
 partly in the United Kingdom, and by a person not resident in the United Kingdom.
 
@@ -34140,7 +34132,7 @@ may relate to more than one such instrument) to the effect that stamp duty to th
 
 of the stock exchange, of periodical accounts in respect of instruments to which the agreement relates, giving such particulars with respect thereto as may be specified in the agreement, and
 
-() for the payment to the Commissioners, by or on behalf
+(d) for the payment to the Commissioners, by or on behalf
 
 of the stock exchange and on the delivery of any such account, of the aggregate amount of the stamp duty chargeable as mentioned in subsection (1) above on instruments to which the agreement relates during the period to which the account relates;
 
@@ -34414,7 +34406,7 @@ manner of such information or records as the regulations may require by persons 
 
 ments of persons engaging or suspected of engaging in any such activity, and of premises or equipment used or suspected of being used by such persons for or in connection with any such activity and of any other premises where any such activity is carried on ;
 
-() for requiring the licence to be displayed on the premises, and the production of the licence for inspection by the proper officer;
+(d) for requiring the licence to be displayed on the premises, and the production of the licence for inspection by the proper officer;
 
 (e) for requiring gaming tables to be labelled or marked in the
 
@@ -34726,7 +34718,7 @@ Finance Act 1970
 
 Sch. 4
 
-() treat income tax set against other tax in pursuance of subparagraph (2)(Z>) above as paid or repaid, as the case may be, and preclude the same tax being taken into account both under the regulations and under section 240(5) of the Taxes Act,
+(d) treat income tax set against other tax in pursuance of subparagraph (2)(Z>) above as paid or repaid, as the case may be, and preclude the same tax being taken into account both under the regulations and under section 240(5) of the Taxes Act,
 
 (e) make different provision for different descriptions of com-
 
@@ -34864,7 +34856,7 @@ c. 24
 
 months shall be the amount at ( ) above reduced, or as the case may be increased, in the same proportion as the length of that period bears to a period of twelve months,
 
-() subsection (2) above shall not apply, but paragraphs (a) and ( b)of subsection (3) below shall apply as they apply to that subsection,
+(d) subsection (2) above shall not apply, but paragraphs (a) and ( b)of subsection (3) below shall apply as they apply to that subsection,
 
 and in applying subsection (2Xd) above where both the amount and the term of the annuity depend on any contingency other than the duration of a human life or lives, regard shall be had to this subsection (and not to subsection (2)(c) above) as well as to the contingencies affecting the annuity.*
 
@@ -35408,7 +35400,7 @@ for an alkali or other works by section 9(6) of the Alkali, 1906 c. 14.
 
 of the Finance Act 1922 ; and 1922 c. 17.
 
-() the duty of 10s. imposed on the memorandum and on the
+(d) the duty of 10s. imposed on the memorandum and on the
 
 articles of association of a company by virtue of section 3
 
