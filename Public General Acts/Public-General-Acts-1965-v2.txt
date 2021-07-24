@@ -2040,7 +2040,7 @@ redemption has given six months notice of his intention to redeem, then at the e
 
 (c) whether or not the mortgagee is in possession of the land, and
 
-id) whether or not the mortgage includes other land in addition to the land subject to compulsory purchase.
+(d) whether or not the mortgage includes other land in addition to the land subject to compulsory purchase.
 
 15.—(1) If the value of any such mortgaged land is less than the principal, interest and costs secured on the land, the value of the land, or the compensation to be paid by the acquiring authority in respect of the land, shall be settled by agreement between the mortgagee and the person entitled to the equity of redemption on the one part, and the acquiring authority on the other part, or, if they fail to agree, shall be determined by the Lands Tribunal.
 
@@ -2316,7 +2316,7 @@ to destroy all estates, rights, titles, remainders, reversions. Parti limitation
 
 (a) a person having an estate in fee simple in the land, or roraideration entitled to dispose absolutely for his own benefit of of a rent-the land, or charge.
 
-(b)a person who would have no power to sell or convey but for the provisions of Schedule 1 to this Act,
+(b) a person who would have no power to sell or convey but for the provisions of Schedule 1 to this Act,
 
 to sell and convey any of the land subject to compulsory purchase to the acquiring authority in consideration of an annual rentcharge payable by the acquiring authority.
 
@@ -2506,7 +2506,7 @@ Part II
 
 1945 c. 42.
 
-(b)in relation to a compulsory purchase order made and confirmed under section 24(4) of that Act (that is, where a compulsory purchase under that subsection is not by a local authority and is not effected under the Act of 1946),
+(b) in relation to a compulsory purchase order made and confirmed under section 24(4) of that Act (that is, where a compulsory purchase under that subsection is not by a local authority and is not effected under the Act of 1946),
 
 as it applies in relation to a compulsory purchase order under the Act of 1946, and in the said Part I as so applied the “special Act” means the said Act of 1945 together with the order.
 
@@ -3666,7 +3666,7 @@ and any person who without reasonable cause pulls down, injures or defaces any n
 
 (a) no nuclear site licence is for the time being in force; and
 
-(b)thirty years have elapsed since the expiration of the last licensee’s period of responsibility.
+(b) thirty years have elapsed since the expiration of the last licensee’s period of responsibility.
 
 Nuclear Installations Act 1965
 
@@ -3742,7 +3742,7 @@ Authority. Authority—
 
 (a) as if any premises which are or have been occupied by the Authority were a site in respect of which a nuclear site licence has been granted to the Authority; and
 
-(b)as if in relation to any such premises any reference to the period of the licensee’s responsibility were a reference to any period during which the Authority is in occupation of those premises.
+(b) as if in relation to any such premises any reference to the period of the licensee’s responsibility were a reference to any period during which the Authority is in occupation of those premises.
 
 Duty of Crown 9. if a government department uses any site for any purpose
 
@@ -3936,7 +3936,7 @@ Ch. 57
 
 {a) if he would not have been required to make that payment if the occurrence had taken place in his home territory and the claim had been made by virtue of the relevant foreign law made for purposes corresponding to those of section 7, 8 or 9 of this Act; or
 
-ib) to the extent that the amount required for the satisfaction of the claim is not required to be available by the relevant foreign law made for purposes corresponding to those of section 19(1) of this Act and has not been made available under section 18 of this Act or by means of a relevant foreign contribution.
+(b) to the extent that the amount required for the satisfaction of the claim is not required to be available by the relevant foreign law made for purposes corresponding to those of section 19(1) of this Act and has not been made available under section 18 of this Act or by means of a relevant foreign contribution.
 
 (3) Any claim by virtue of a duty imposed on any person by section 7, 8, 9 or 10 of this Act—
 
@@ -4006,7 +4006,7 @@ judgment registered under the Foreign Judgments (Reciprocal 1933 c. 13. Enforcem
 
 (a) both or all of those persons shall be treated as jointly and severally liable in respect of that injury or damage; and
 
-ib) until claims against each of those persons in respect of the occurrence by virtue of which the person in question is liable for that injury or damage have been satisfied—
+(b) until claims against each of those persons in respect of the occurrence by virtue of which the person in question is liable for that injury or damage have been satisfied—
 
 (i) in the case of a licensee, the Authority or the Crown, up to an aggregate amount of five million pounds; or
 
@@ -4290,7 +4290,7 @@ to provide the inspector with such information, or to permit him to inspect such
 
 (c) enter any place, vehicle, vessel or aircraft involved in any such occurrence as is mentioned in section 22(1) of this Act with such equipment, and carry out such tests and inspections, as he may consider necessary or expedient;
 
-id) require the licensee or other person referred to in the said section 22(1) concerned in any such occurrence and any other person with duties concerning the nuclear matter involved in the occurrence to provide him with such information, or to permit him to inspect such documents, relating to the nuclear matter as the inspector may specify.
+(d) require the licensee or other person referred to in the said section 22(1) concerned in any such occurrence and any other person with duties concerning the nuclear matter involved in the occurrence to provide him with such information, or to permit him to inspect such documents, relating to the nuclear matter as the inspector may specify.
 
 (3) Before carrying out any test in pursuance of his powers under subsection (2) (a) of this section, die inspector shall consult with such persons having duties upon the site as may appear to him appropriate in order to secure that the carrying out of the test does not create any danger.
 
@@ -4440,9 +4440,9 @@ Nuclear Installations Act 1965
 
 (c) a government department for the purposes of such use of a site by that department as is mentioned in section 9 of this Act; or
 
-id) a relevant foreign operator; or
+(d) a relevant foreign operator; or
 
-(e)a person authorised to operate a nuclear reactor which is comprised in a means of transport and in which the nuclear matter in question is intended to be used;
+(e) a person authorised to operate a nuclear reactor which is comprised in a means of transport and in which the nuclear matter in question is intended to be used;
 
 44 relevant foreign contribution ”, in relation to any claim, means any sums falling by virtue of any relevant international agreement to be paid by the government of any relevant territory other than the United Kingdom towards the satisfaction of that claim;
 
@@ -4466,11 +4466,11 @@ Ch. 57
 
 (a) a licensed site at any time during the period of the licensee’s responsibility;
 
-(b)any premises at any time when they are occupied by the Authority;
+(b) any premises at any time when they are occupied by the Authority;
 
 (c) any site at any time when it is occupied by a government department, if that site is being or has been used by that department as mentioned in section 9 of this Act;
 
-id) any site in a relevant territory other than the United Kingdom at any time when that site is being used for the operation of a relevant installation by a relevant foreign operator;
+(d) any site in a relevant territory other than the United Kingdom at any time when that site is being used for the operation of a relevant installation by a relevant foreign operator;
 
 “relevant territory” means a country for the time being bound by a relevant international agreement;
 
@@ -4514,7 +4514,7 @@ Ireland.
 
 (c) any reference to the Treasury shall be construed as a reference to the Ministry of Finance for Northern Ireland;
 
-(d)any reference to Parliament shall be construed as a reference to the Parliament of Northern Ireland;
+(d) any reference to Parliament shall be construed as a reference to the Parliament of Northern Ireland;
 
 (e) for section 3 (3) (ft) and (c) there shall be substituted the following, that is to say—
 
@@ -5136,7 +5136,7 @@ Ch. 59
 
 (c) to provide water, electricity, gas, sewerage and other services;
 
-id) to carry on any business or undertaking in or for the purposes of the new town,
+(d) to carry on any business or undertaking in or for the purposes of the new town,
 
 and generally to do anything necessary or expedient for the purposes of the new town or for purposes incidental thereto.
 
@@ -5434,7 +5434,7 @@ ment of rights completion by the acquiring authority of a compulsory acquisi-°V
 
 (3) In respect of any right or apparatus not falling within subsection (2) above, subsection (1) above shall have effect subject—
 
-( a)to any direction given by the acquiring authority before the completion of the acquisition that the said subsection (1) shall not apply to any right or apparatus specified in the direction, and
+(a) to any direction given by the acquiring authority before the completion of the acquisition that the said subsection (1) shall not apply to any right or apparatus specified in the direction, and
 
 (b) to any agreement which may be made (whether before or after the completion of the acquisition) between the acquiring authority and the person in or to whom the right or apparatus in question is vested or belongs.
 
@@ -5902,7 +5902,7 @@ Ch. 59
 
 New Towns Act 1965
 
-ib) there is on, under or over the land apparatus vested in or belonging to statutory undertakers for the purpose of the carrying on of their undertaking, the acquiring authority may serve on the statutory undertakers a notice stating that, at the end of such period as may be specified in the notice, the right will be extinguished, or requiring that, before the end of such period as may be so specified, the apparatus shall be removed.
+(b) there is on, under or over the land apparatus vested in or belonging to statutory undertakers for the purpose of the carrying on of their undertaking, the acquiring authority may serve on the statutory undertakers a notice stating that, at the end of such period as may be specified in the notice, the right will be extinguished, or requiring that, before the end of such period as may be so specified, the apparatus shall be removed.
 
 (3) The statutory undertakers on whom a notice is served under subsection (2) above may, before the end of the period of twenty-eight days from the service of the notice, serve a counter-notice on the acquiring authority stating that they object to all or any of the provisions of the notice, and specifying the grounds of their objection.
 
@@ -6152,7 +6152,7 @@ currence of the Treasury, to make contributions towards the cost of providing am
 
 by making advances towards the cost of purchasing land, or of erecting, extending, improving or adapting buildings or works, the setting up or extension of businesses in the town ;
 
-id) to dispose of any property for such purposes and in such manner as they think fit.
+(d) to dispose of any property for such purposes and in such manner as they think fit.
 
 (4) A transaction between a person and the Commission shall not be invalidated by reason of any non-compliance by the Commission with subsection (2) above; nor shall any such transaction be invalidated by reason of any non-compliance by the Commission with the requirement of subsection (3) above that they shall exercise the powers conferred by that subsection with the view there mentioned.
 
@@ -6810,7 +6810,7 @@ town, and in appointing members of the corporation the Minister shall have regar
 
 5. If the Minister is satisfied that a member of the corporation—
 
-(a)has become bankrupt or made an arrangement with his creditors; or
+(a) has become bankrupt or made an arrangement with his creditors; or
 
 (b) is incapacitated by physical or mental illness ; or
 
@@ -7266,7 +7266,7 @@ Compulsory Purchase Act 1965
 
 (a) this Act or, in relation to a compulsory acquisition, this Act and the compulsory purchase order, shall be deemed to be the special Act;
 
-( b) “ the acquiring authority ” shall have the meaning given by this Act;
+(b) “ the acquiring authority ” shall have the meaning given by this Act;
 
 (c) “subject to compulsory purchase” in relation to a com-
 
@@ -8052,7 +8052,7 @@ Part I Redundancy Payments
 
 (a) is dismissed by his employer by reason of redundancy, or
 
-(b)is laid off or kept on short-time to the extent specified in subsection (1) of section 6 of this Act and complies with the requirements of that section, then, subject to the following provisions of this Part of this Act, the employer shall be liable to pay to him a sum (in this
+(b) is laid off or kept on short-time to the extent specified in subsection (1) of section 6 of this Act and complies with the requirements of that section, then, subject to the following provisions of this Part of this Act, the employer shall be liable to pay to him a sum (in this
 
 2X*3
 
@@ -8248,7 +8248,7 @@ Right to redundancy payment by reason of lay-off or short-time.
 
 of any enactment or otherwise) is required to be given by the employer to terminate the contract of employment, “the obligatory period”, in relation to that notice, means the actual period of the notice ;
 
-(b)in any other case, “ the obligatory period ”, in relation to an employer’s notice, means that period which, being equal to the minimum period referred to in the preceding paragraph, expires at the time when the employer’s notice expires.
+(b) in any other case, “ the obligatory period ”, in relation to an employer’s notice, means that period which, being equal to the minimum period referred to in the preceding paragraph, expires at the time when the employer’s notice expires.
 
 5. —(1) Where an employee is employed under a contract on such terms and conditions that his remuneration thereunder depends on his being provided by the employer with work of the kind which he is employed to do, he shall for the purposes of this Part of this Act be taken to be laid off for any week in respect of which, by reason that the employer does not provide such work for him, he is not entitled to any remuneration under the contract.
 
@@ -8324,7 +8324,7 @@ it shall be conclusively presumed that the condition specified in subsection (4)
 
 (a) if the employer does not give a counter-notice within seven days after the service of the notice of intention to claim, that period is three weeks after the end of those seven days;
 
-( b)if the employer gives a counter-notice within those seven days, but withdraws it by a subsequent notice in writing, that period is three weeks after the service of the notice of withdrawal;
+(b) if the employer gives a counter-notice within those seven days, but withdraws it by a subsequent notice in writing, that period is three weeks after the service of the notice of withdrawal;
 
 (c) if the employer gives a counter-notice within those seven days and does not so withdraw it, and a question as to the right of the employee to a redundancy payment in pursuance of the notice of intention to claim is referral to a tribunal, that period is three weeks after the tribunal has notified to the employee its decision on that reference.
 
@@ -8550,7 +8550,7 @@ Schedule 3 to this Act.
 
 (a) to provide that any enactment contained in this Part of this Act which is specified in the order shall not apply to persons or to employments of such classes as may be prescribed by the order, or shall apply to persons or employments of such classes as may be prescribed by the order subject to such exceptions and modifications as may be so prescribed ;
 
-(b)to vary or revoke any of the provisions of subsections
+(b) to vary or revoke any of the provisions of subsections
 
 (1) to (5) of this section, or to add to, delete or vary any of the provisions of Schedule 3 to this Act.
 
@@ -8784,7 +8784,7 @@ Part II
 
 1959 c. 47.
 
-(b)as if the whole of the combined contribution in question were payable into the National Insurance Fund ;
+(b) as if the whole of the combined contribution in question were payable into the National Insurance Fund ;
 
 and in the National Insurance Acts “ contribution ” shall be construed accordingly.
 
@@ -9078,7 +9078,7 @@ and any question referred to a tribunal by virtue of this subsection shall be de
 
 (a) in a case where the rebate was withheld, that it should be paid in full, or should be reduced instead of being withheld, or
 
-ib) in a case where the rebate was reduced, that it should not be reduced, or should be reduced by a smaller or larger proportion than that which the Minister has applied,
+(b) in a case where the rebate was reduced, that it should not be reduced, or should be reduced by a smaller or larger proportion than that which the Minister has applied,
 
 the tribunal shall determine accordingly, and the Minister shall comply with any such determination of a tribunal.
 
@@ -9370,7 +9370,7 @@ the Minister shall pay the appropriate sum out of the Redundancy Fund to the app
 
 (a) in circumstances which in the opinion of the Treasury correspond (subject to the appropriate modifications) to those in which a right to a redundancy payment would have accrued if section 1 of this Act had applied, and
 
-ib) on a scale which in the opinion of the Treasury, taking into account any sums which are payable in accordance with the Superannuation Acts to or in respect of the person losing the employment in question, corresponds (subject to the appropriate modifications) to that on which a redundancy payment would have been payable if section 1 of this Act had applied.
+(b) on a scale which in the opinion of the Treasury, taking into account any sums which are payable in accordance with the Superannuation Acts to or in respect of the person losing the employment in question, corresponds (subject to the appropriate modifications) to that on which a redundancy payment would have been payable if section 1 of this Act had applied.
 
 (4) For the purposes of subsection (2) of this section the appropriate sum is the sum appearing to the Minister to be equal to the amount of the rebate which would have been payable under Part II of this Act if such a right as is mentioned in paragraph (a) of the last preceding subsection had accrued, and such a redundancy payment as is mentioned in paragraph (b) of the last preceding subsection had been payable and had been paid.
 
@@ -9402,7 +9402,7 @@ Government of overseas territory.
 
 (c) in relation to any employment remunerated out of the revenues of the Duchy of Lancaster, means the Chancellor of the Duchy, and, in relation to any employment remunerated out of the revenues of the Duchy of Cornwall, means such person as the Duke of Cornwall, or the possessor for the time being of the Duchy of Cornwall, appoints;
 
-id) in relation to any employment remunerated out of the Queen’s Civil List or out of Her Majesty’s Privy Purse, means the Civil List or the Privy Purse, as the case may be; and
+(d) in relation to any employment remunerated out of the Queen’s Civil List or out of Her Majesty’s Privy Purse, means the Civil List or the Privy Purse, as the case may be; and
 
 (e) in any other case, means the Exchequer.
 
@@ -9524,7 +9524,7 @@ as a party to any such proceedings, where he would not otherwise be a party to t
 
 (c) for requiring persons to attend to give evidence and produce documents, and for authorising the administration of oaths to witnesses;
 
-(d)for granting to any person such discovery or inspection of documents as might be granted by a county court in England or Wales, or, in Scotland, for granting to any person such recovery or inspection of documents as might be granted by the sheriff;
+(d) for granting to any person such discovery or inspection of documents as might be granted by a county court in England or Wales, or, in Scotland, for granting to any person such recovery or inspection of documents as might be granted by the sheriff;
 
 (e) for prescribing the procedure to be followed on any appeal or reference or other proceedings before a tribunal;
 
@@ -9788,7 +9788,7 @@ Ch. 62 Redundancy Payments Act 1965
 
 (a) any expenses incurred in paying redundancy fund contributions, and
 
-(b)any such expenses as are mentioned in section 29(1) of this Act
+(b) any such expenses as are mentioned in section 29(1) of this Act
 
 56.—(1) In this Act, except in so far as the context otherwise requires, the following expressions have the meanings hereby assigned to them respectively, that is to say: —
 
@@ -9882,7 +9882,7 @@ Provided that—
 
 (a) the repeal in section 5 of the Contracts of Employment Act 1963 shall have effect subject to die exceptions specified in subsection (1) of section 38 of this Act;
 
-ib) the repeal in Schedule 1 to that Act shall have effect subject to subsection (3) of section 37 of this Act as if the repeal were contained in that section; and
+(b) the repeal in Schedule 1 to that Act shall have effect subject to subsection (3) of section 37 of this Act as if the repeal were contained in that section; and
 
 (c) the repeal in section 12(1) of the Industrial Training
 
@@ -10124,7 +10124,7 @@ Lay-off and short-time
 
 7. Where the employee has before the death of the deceased employer been laid off or kept on short-time for one or more weeks, but has not given to the deceased employer notice of intention to claim, then if after the death of the deceased employer—
 
-(a)his contract of employment is renewed, or he is re-engaged under a new contract, as mentioned in sub-paragraphs (a) and ( b) of paragraph 3 of this Schedule, and
+(a) his contract of employment is renewed, or he is re-engaged under a new contract, as mentioned in sub-paragraphs (a) and ( b) of paragraph 3 of this Schedule, and
 
 (b) after the renewal or re-engagement, he is laid off or kept
 
@@ -10146,7 +10146,7 @@ Redundancy Payments Act
 
 Ch. 62
 
-( b)the employee had terminated the contract of employment by a week’s notice (or, if under the contract he is required to give more than a week’s notice to terminate the contract, he had terminated it by the minimum notice which he is so required to give) expiring at the end of those four weeks,
+(b) the employee had terminated the contract of employment by a week’s notice (or, if under the contract he is required to give more than a week’s notice to terminate the contract, he had terminated it by the minimum notice which he is so required to give) expiring at the end of those four weeks,
 
 but subsections (4) and (5) of section 6 and subsections (1) and (4) of section 7 of this Act shall not apply.
 
@@ -10206,7 +10206,7 @@ Supplementary provisions
 
 (a) any reference in this Act to the doing of anything by, or in relation to, an employer shall be construed as including a reference to the doing of that thing by, or in relation to, any personal representative of the deceased employer, and
 
-( b)any reference in this Act to a thing required or authorised to be done by, or in relation to, an employer shall be construed as including a reference to anything which, in accordance with any provision of this Act as modified by this Part of this Schedule (including the preceding sub-paragraph), is required or authorised to be done by, or in relation to, any personal representative of his.
+(b) any reference in this Act to a thing required or authorised to be done by, or in relation to, an employer shall be construed as including a reference to anything which, in accordance with any provision of this Act as modified by this Part of this Schedule (including the preceding sub-paragraph), is required or authorised to be done by, or in relation to, any personal representative of his.
 
 15. Where by virtue of any provision of this Act, as modified by this Part of this Schedule, a personal representative of the deceased employer is liable to pay a redundancy payment, or part of a redundancy payment, and that liability had not accrued before the death of the deceased employer, it shall be treated for all purposes as if it were a liability of the deceased employer which had accrued immediately before his death.
 
@@ -10230,7 +10230,7 @@ contract of employment, or to re-engage him under a new contract, then if—
 
 (a) the employee dies without having either accepted or refused the offer, and
 
-( b)the offer has not been withdrawn before his death,
+(b) the offer has not been withdrawn before his death,
 
 subsection (3) or (as the case may be) subsection (4) of section 2 of this Act shall apply as if, for the words “the employee has unreasonably refused ”, there were substituted the words “ it would have been unreasonable on the part of the employee to refuse”.
 
@@ -10288,7 +10288,7 @@ Rebates in Respect of Redundancy Payments
 
 (a) one and one-sixth weeks’ pay for each year of employment falling within sub-paragraph {a) of paragraph 2 of that Schedule;
 
-( b)two-thirds of one week’s pay for each year of employment falling within sub-paragraph ( of that paragraph ; and
+(b) two-thirds of one week’s pay for each year of employment falling within sub-paragraph ( of that paragraph ; and
 
 Redundancy Payments Act 1965
 
@@ -10346,7 +10346,7 @@ Act by reference to which that payment is payable; “ the relevant provisions o
 
 (a) the circumstances in which the continuity of an employee’s period of employment is to be treated as broken, and
 
-( b)the weeks which are to count in computing a period of
+(b) the weeks which are to count in computing a period of
 
 employment;
 
@@ -10372,7 +10372,7 @@ Method of calculation
 
 {a) one and one-sixth weeks’ pay for each such year of employment falling within sub-paragraph (a) of paragraph 2 of that Schedule;
 
-( b)two-thirds of one week’s pay for each such year of employ-
+(b) two-thirds of one week’s pay for each such year of employ-
 
 ment falling within sub-paragraph ( )of that paragraph ; and
 
@@ -10740,7 +10740,7 @@ to an agreement to which section 2 of this Act applies;
 
 (c) the reference in subsection (2) to the date of a mortgage shall be construed as including a reference to the date of any such agreement; and
 
-( d)subsections (3) and (5) shall not apply in relation to any automatic charge.
+(d) subsections (3) and (5) shall not apply in relation to any automatic charge.
 
 Section 2 (5).
 
@@ -10916,7 +10916,7 @@ be prescribed to the person (if any) on whose application the registration was m
 
 (a) if no appeal is brought against the confirmation or refusal, at the end of the period during which such an appeal could have been brought;
 
-( b) if such an appeal is brought, when it is finally disposed of.
+(b) if such an appeal is brought, when it is finally disposed of.
 
 (2) On being informed in the prescribed manner that a registration has become final (with or without modifications) or has become void a registration authority shall indicate that fact in the prescribed manner in the register and, if it has become void, cancel the registration.
 
@@ -12156,7 +12156,7 @@ Supplementary provisions Part n
 
 {a) the service of a notice of cancellation, or
 
-ib) the termination of an agreement under section 27 of this Act, or by the exercise of a right or power in that behalf expressly conferred by the agreement.
+(b) the termination of an agreement under section 27 of this Act, or by the exercise of a right or power in that behalf expressly conferred by the agreement.
 
 (4) The preceding provisions of this section shall have effect without prejudice to the operation of section 12(3) of this Act.
 
@@ -13044,7 +13044,7 @@ Action for possession, and money claims, by seller
 
 (a) any reference to an action to which section 35 of this Act applies shall include a reference to any action to which sub-paragraph (2) of this paragraph applies, and
 
-( b)any reference to an action to enforce a right to recover possession of protected goods from the buyer shall include a reference to an action to enforce a right to recover possession of protected goods from the person in possession in the circumstances specified in paragraph 2 of this Schedule.
+(b) any reference to an action to enforce a right to recover possession of protected goods from the buyer shall include a reference to an action to enforce a right to recover possession of protected goods from the person in possession in the circumstances specified in paragraph 2 of this Schedule.
 
 (2) This sub-paragraph applies to any action brought by the seller, in the circumstances specified in paragraph 2 of this Schedule, to enforce a right to recover possession of protected goods from the person in possession, where the seller has not previously, in contravention of section 34(1) of this Act or of paragraph 4 of this Schedule, recovered possession of part of the goods agreed to be sold under the agreement.
 
@@ -13300,7 +13300,7 @@ of any power of the court under section 10 of this Act) the requirements, owner 
 
 or on behalf of all other parties to the agreement, and
 
-( b)the requirements of sections 6 and 7 of this Act, and
+(b) the requirements of sections 6 and 7 of this Act, and
 
 the requirements of section 8 or (as the case may be) section 9 of this Act, are complied with.
 
@@ -13332,7 +13332,7 @@ Part II
 
 Requirements as to contents and form of agreements.
 
-(b)if the hirer or buyer has inspected the goods or like goods, then, at the time of his inspection, tickets or labels were attached to or displayed with the goods clearly stating the cash price, either of the goods as a whole or of all the different articles or sets of articles comprised therein, or
+(b) if the hirer or buyer has inspected the goods or like goods, then, at the time of his inspection, tickets or labels were attached to or displayed with the goods clearly stating the cash price, either of the goods as a whole or of all the different articles or sets of articles comprised therein, or
 
 (c) the hirer or buyer has selected the goods by reference to a catalogue, price list or advertisement which clearly stated the cash price, either of the goods as a whole or of all the different articles or sets of articles comprised therein.
 
@@ -14966,7 +14966,7 @@ Transitional Provisions Applicable to Orders in Council under Section 3
 
 7. Notwithstanding anything in the last preceding paragraph, in relation to any hire-purchase agreement or conditional sale agreement made before the operative date which (not being excluded by section 4) is by virtue of the Order included in references to which section 2(2) applies, but would not be so included apart from the Order,—
 
-( a)sections 25 and 26 shall apply, except in die case of a default committed before the operative date;
+(a) sections 25 and 26 shall apply, except in die case of a default committed before the operative date;
 
 (b) section 30 shall apply where the hirer or buyer dies on or after that date;
 
@@ -15286,7 +15286,7 @@ Provided that a warrant shall not be issued under this subsection in the case of
 
 (a) in any case, cause to be served on him a notice requiring him to attend the court forthwith or at such time as may be specified in the notice;
 
-( b) if the court is satisfied that there are reasonable grounds for believing that he has failed to attend without just excuse, or if he has failed to comply with a notice under paragraph (a) above, issue a warrant to arrest him and bring him before the court.
+(b) if the court is satisfied that there are reasonable grounds for believing that he has failed to attend without just excuse, or if he has failed to comply with a notice under paragraph (a) above, issue a warrant to arrest him and bring him before the court.
 
 (3) A witness brought before a court in pursuance of a warrant under this section may be remanded by that court in custody or on bail (with or without sureties) until such time as the court may appoint for receiving his evidence or dealing with him under section 3 of this Act; and where a witness attends a court in pursuance of a notice under this section the court may direct that the notice shall have effect as if it required him to attend at any later time appointed by the court for receiving his evidence or dealing with him as aforesaid.
 
@@ -15754,7 +15754,7 @@ Part I
 
 Ch. 72 Matrimonial Causes Act 1965
 
-( b)by the wife on the ground that her husband has since die celebration of the marriage been guilty of rape, sodomy or bestiality.
+(b) by the wife on the ground that her husband has since die celebration of the marriage been guilty of rape, sodomy or bestiality.
 
 (2) In calculating for the purposes of subsection (l)(a)(ii) of this section the period for which the respondent has deserted the petitioner without cause, and in considering whether the desertion has been continuous, no account shall be taken of any one period (not exceeding three months) during which the parties resumed cohabitation with a view to reconciliation; and, for the purposes of a petition for divorce, the court may treat a period of desertion as having continued at a time when the deserting party was incapable of continuing the necessary intention if the evidence before the court is such that, had that party not been so incapable, the court would have inferred that that intention continued at that time.
 
@@ -15934,7 +15934,7 @@ make the decree absolute; or
 
 (c) require further inquiry; or
 
-id) otherwise deal with the case as it thinks fit.
+(d) otherwise deal with the case as it thinks fit.
 
 (2) Where a decree nisi of divorce has been granted and no application for it to be made absolute has been made by the party to whom it was granted, then, at any time after the expiration of three months from the'earliest date on which that party could have made such an application, the party against whom it was granted may make an application to the court, and on that application the court may exercise any of the powers mentioned in paragraphs (a) to (d) of the foregoing subsection.
 
@@ -16242,7 +16242,7 @@ shall, if she dies intestate, devolve as if her husband had then been dead.
 
 (a) make such order as it thinks just for the payment of alimony to the wife;
 
-(b)on making the decree or at any time thereafter, order the husband to pay to the wife, if the decree is not complied with within the time specified by the court, such periodical payments as the court thinks just.
+(b) on making the decree or at any time thereafter, order the husband to pay to the wife, if the decree is not complied with within the time specified by the court, such periodical payments as the court thinks just.
 
 Matrimonial Causes Act 1965
 
@@ -16422,7 +16422,7 @@ apply to the court for an order under this section on the ground that the deceas
 
 (a) that it would have been reasonable for the deceased to make provision for the survivor’s maintenance; and
 
-ib) that the deceased has made no provision, or has not made reasonable provision, for the survivor’s maintenance,
+(b) that the deceased has made no provision, or has not made reasonable provision, for the survivor’s maintenance,
 
 the court may order that such reasonable provision for the survivor’s maintenance as the court thinks fit shall be made out of the net estate of the deceased, subject to such conditions or restrictions (if any) as the court may impose.
 
@@ -16474,7 +16474,7 @@ Discharge and variation of orders under s. 26.
 
 and to the order (if any) made on any such application, or (if no such application was made by the survivor, or such an application was made by the survivor and no order was made on the application) to the circumstances appearing to the court to be the reasons why no such application was made, or no such order was made, as the case may be; and
 
-id) to any other matter or thing which, in the circumstances of the case, the court may consider relevant or material in relation to the survivor, to persons interested in the estate of the deceased, or otherwise.
+(d) to any other matter or thing which, in the circumstances of the case, the court may consider relevant or material in relation to the survivor, to persons interested in the estate of the deceased, or otherwise.
 
 (5) In determining whether, and in what way, and as from what date, provision for maintenance ought to be made by an order under this section, the court shall have regard to the nature of the property representing the net estate of the deceased and shall not order any such provision to be made as would necessitate a realisation that would be imprudent having regard to the interests of the dependants of the deceased, of the survivor, and of the persons who apart from the order would be entitled to that property.
 
@@ -16506,7 +16506,7 @@ order was made;
 
 (c) any dependant of the deceased;
 
-id) the trustees of any relevant property;
+(d) the trustees of any relevant property;
 
 (e) any person who, under the will or codicil of the deceased or under the law relating to intestacy, is beneficially interested in any relevant property.
 
@@ -17080,7 +17080,7 @@ Discrimination
 
 (a) any hotel, and any restaurant, cafe, public house or other place where food or drink is supplied for consumption by the public therein;
 
-( b) any theatre, cinema, dance hall, sports ground, swimming pool or other place of public entertainment or recreation;
+(b) any theatre, cinema, dance hall, sports ground, swimming pool or other place of public entertainment or recreation;
 
 (c) any premises, vehicle, vessel or aircraft used for the purposes of a regular service of public transport;
 
@@ -17096,7 +17096,7 @@ Race Relations Act 1965
 
 The Race Relations Board and conciliation committees.
 
-id) any place of public resort maintained by a local authority or other public authority.
+(d) any place of public resort maintained by a local authority or other public authority.
 
 (3) For the purposes of this section a person discriminates against another person if he refuses or neglects to afford him access to the place in question, or any facilities or services available there, in the like manner and on the like terms in and on which such access, facilities or services are available to other members of the public resorting thereto.
 
@@ -17436,7 +17436,7 @@ any superannuation allowance or additional allowance which may be granted to him
 
 (2) The said allowances shall be computed—
 
-(a)upon the amount of salary and emoluments upon which they would have fallen to be computed if he had retired as soon as the said two conditions were satisfied in relation to him, or
+(a) upon the amount of salary and emoluments upon which they would have fallen to be computed if he had retired as soon as the said two conditions were satisfied in relation to him, or
 
 (b) upon the amount of salary and emoluments upon which they would fall to be computed apart from this section,
 
@@ -17484,7 +17484,7 @@ they may grant to him such retiring allowance as they think just and proper, but
 
 the age of fifty years is terminated before the retiring retirement age, and in interests of
 
-( b)the appropriate Minister certifies that the termination effic*ency. of his employment is desirable in the interests of efficiency,
+(b) the appropriate Minister certifies that the termination effic*ency. of his employment is desirable in the interests of efficiency,
 
 the same superannuation allowance and additional allowance, if any, may be granted to him as might have been granted to him if he had retired on a medical certificate.
 
@@ -17632,7 +17632,7 @@ Provided that—
 
 (a) if the pay for the part-time service covers expenses, the rate thereof shall be treated for the purposes of this subsection as reduced to such extent as the Treasury may think fit;
 
-(b)if the pay for the part-time service is computed by reference to a weekly rate based on full-time service and varies according to the number of hours actually worked in the week, the rate thereof shall be taken for the purposes of this subsection to be one half of that weekly rate.
+(b) if the pay for the part-time service is computed by reference to a weekly rate based on full-time service and varies according to the number of hours actually worked in the week, the rate thereof shall be taken for the purposes of this subsection to be one half of that weekly rate.
 
 17. —(1) Section 15(1) and (2) of this Act and those sub- Gratuities for sections, as applied by section 16(2) of this Act, shall have effect JjJJ^blished as if the references in those subsections to continuous service in ^ part-time an unestablished capacity or, as the case may be, in part-time service, service to which the said section 16 applies included references
 
@@ -17776,7 +17776,7 @@ be reckoned for the purposes of this Act as service in the capacity of a civil s
 
 21. —(1) The Treasury may direct—
 
-(a)that, subject to such conditions as they may determine, the service of any person in an unestablished capacity for two or more periods shall, for the purpose of determining whether or not his service in such a capacity is to be reckoned under section 20(1) of this Act, be treated as if it were continuous service beginning
+(a) that, subject to such conditions as they may determine, the service of any person in an unestablished capacity for two or more periods shall, for the purpose of determining whether or not his service in such a capacity is to be reckoned under section 20(1) of this Act, be treated as if it were continuous service beginning
 
 Part I
 
@@ -17940,7 +17940,7 @@ Provided that, for the purpose of the computation of service required to be made
 
 27.—(1) The Treasury may order that for the purpose of section 26(3) of this Act there shall be treated as employment to which that section applies employment of any kind specified in the order, being employment otherwise than in the civil service—
 
-( a)which, by virtue of regulations under section 67 of the
+(a) which, by virtue of regulations under section 67 of the
 
 National Health Service Act 1946 or section 66 of the
 
@@ -18190,7 +18190,7 @@ Mines Research Board, or by a War Agricultural Executive Committee within the me
 
 at the time when it ceased to exist, was known as “ K ” Signals Company of the Royal Corps of Signals, became, before such date, being a date before 28th May 1948, as may be specified in the rules, civil servants employed in the Post Office; and
 
-id) persons who, having been employed by the body known as the Meteorological Committee, became at any time before 28th May 1948 civil servants in the Meteorological Office of the Secretary of State, not being civil servants subject to a superannuation scheme to which section 89 of this Act applies;
+(d) persons who, having been employed by the body known as the Meteorological Committee, became at any time before 28th May 1948 civil servants in the Meteorological Office of the Secretary of State, not being civil servants subject to a superannuation scheme to which section 89 of this Act applies;
 
 and any such rules may provide for service in any such employment as aforesaid being reckoned, in such manner and to such extent as may be specified in the rules, as service to the State for the purposes of this Act.
 
@@ -18356,7 +18356,7 @@ Ch. 74
 
 1653
 
-id) define the kinds of public offices which are to be treated Part l for the purposes of the rules as different public offices,
+(d) define the kinds of public offices which are to be treated Part l for the purposes of the rules as different public offices,
 
 and rules under this section may include such supplemental and incidental provisions as appear to the Treasury to be expedient.
 
@@ -18922,7 +18922,7 @@ Superannuation Act 1965
 
 Part III
 
-(b)while the said persons are two in number, may amount to one-quarter of the rate of the superannuation allowance of the deceased, or to £19 and 10s. per annum, whichever is the higher;
+(b) while the said persons are two in number, may amount to one-quarter of the rate of the superannuation allowance of the deceased, or to £19 and 10s. per annum, whichever is the higher;
 
 (c) while there is only one such person, may amount to one-sixth of the rate of the superannuation allowance of the deceased or to £13 per annum, whichever is the higher.
 
@@ -20012,7 +20012,7 @@ Modification of sections 1, 3, 4, 6 and 13 in relation to certain Female Persons
 
 (a) duly elected that Part I of the Superannuation Act 1949 1949 c. 44. should apply to her or duly elects that Part ID of this Act shall apply to her, or
 
-(b)duly made a nomination within the meaning of Part II of the said Act of 1949 or duly makes a nomination within the meaning of Part IV of this Act.
+(b) duly made a nomination within the meaning of Part II of the said Act of 1949 or duly makes a nomination within the meaning of Part IV of this Act.
 
 2. —(1) The proportion of the average annual amount of the salary and emoluments of her office during the last three years of her service on which the superannuation allowance which may be granted to a person to whom this Part of this Schedule applies is to be computed shall be one-sixtieth instead of one-eightieth and sections 1(1), 6(3) and 13(3) of this Act shall accordingly have effect in relation to such a person as if for the words “ one-eightieth ” there were substituted the words “ one-sixtieth ”.
 
@@ -20056,7 +20056,7 @@ other Persons who were Civil Servants on 27th June 1935
 
 (a) any person to whom Part I of the Superannuation Act 1949 became, or Part III of this Act becomes, applicable, or
 
-( b) any person who duly made a nomination within the meaning of Part II of the said Act of 1949 or duly makes a nomination within the meaning of Part IV of this Act
+(b) any person who duly made a nomination within the meaning of Part II of the said Act of 1949 or duly makes a nomination within the meaning of Part IV of this Act
 
 6. Subject to paragraph 7 of this Schedule, any superannuation allowance, additional allowance or gratuity under section 4 of this Act which may be granted to, or in respect of, a person to whom this Part of this Schedule applies shall be computed on the annual salary and emoluments of his office and accordingly sections 1, 3 and 4 of this Act shall have effect in relation to any such person as if for the words “ the average annual amount of the salary and emoluments of his office during the last three years of his service”, wherever those words occur in the said sections, there were substituted the words “the annual salary and emoluments of his office” and as if for the words “that amount” in the said section 3 there were substituted the words “ the amount of such salary and emoluments ”.
 
@@ -21222,7 +21222,7 @@ rent officer except by the clerk to the local authority on the direction or with
 
 officers office accommodation and clerical and other assistance;
 
-id) shall allocate, or confer on the clerk to the local authority the duty of allocating, work as between the rent officers and shall confer on the clerk the duty of supervising the conduct of rent officers and deputy rent officers.
+(d) shall allocate, or confer on the clerk to the local authority the duty of allocating, work as between the rent officers and shall confer on the clerk the duty of supervising the conduct of rent officers and deputy rent officers.
 
 31*4
 
@@ -21500,7 +21500,7 @@ Act 1954 applies;
 
 Wales;
 
-id) a tenancy to which any of the following Acts apply—
+(d) a tenancy to which any of the following Acts apply—
 
 (i) the Small Landholders (Scotland) Acts 1886 to 1931;
 
@@ -21636,7 +21636,7 @@ the Minister to be desirable;
 
 (c) shall be made by statutory instrument;
 
-id) shall not have effect unless it is approved by a resolution of each House of Parliament.
+(d) shall not have effect unless it is approved by a resolution of each House of Parliament.
 
 (5) The following provisions shall have effect with respect to contracts relating to dwellings situated in an area in which Part II of this Act is in force, that is to say,—
 
@@ -22166,7 +22166,7 @@ revise a panel of persons to act as chairmen and other members of rent assessmen
 
 the Secretary of State, and, if the Secretary of State thinks fit, a number of persons appointed to act only in case of absence or incapacity of other members of the panel;
 
-id) the Secretary of State shall nominate two of the persons on the panel to act as president and vice-president of the panel;
+(d) the Secretary of State shall nominate two of the persons on the panel to act as president and vice-president of the panel;
 
 (e) subject to the following provisions of this Schedule, the number of assessment committees to act for any registration area and the constitution of those committees shall be determined by the president of the panel or, in the case of the president’s absence or incapacity, by the vice-president ;
 
@@ -22332,7 +22332,7 @@ rent in accordance with the certificate;
 
 (a) if he is notified as mentioned in that sub-paragraph that the regulated tenancy has been granted he shall indicate that fact in the register;
 
-(b)if he is not so notified he shall delete the registration.
+(b) if he is not so notified he shall delete the registration.
 
 Dwelling-houses improved, with assistance of local authorities
 
@@ -22398,7 +22398,7 @@ assessment committee so direct, the rent officer shall refer the application to 
 
 8. —(1) If such a request is made, then—
 
-(a)if it is made within the said fourteen days or a rent assessment committee so direct, the rent officer shall refer the application to a rent assessment committee;
+(a) if it is made within the said fourteen days or a rent assessment committee so direct, the rent officer shall refer the application to a rent assessment committee;
 
 (b) if it is made after the said fourteen days, the rent officer may either refer the application to a rent assessment committee or seek the directions of a rent assessment committee whether so to refer it.
 
@@ -22914,7 +22914,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 if)if the pension began after 1st April 1961 but not later than 1st April 1962, six per cent.;
 
-(g)if the pension began after 1st April 1962 but not later than 1st April 1963, four per cent.;
+(g) if the pension began after 1st April 1962 but not later than 1st April 1963, four per cent.;
 
 (h) if the pension began after 1st April 1963, two per cent.
 
@@ -22970,7 +22970,7 @@ the reassessed or, as the case may be, derived pension may be further increased 
 
 (a) the expression “ basic rate ”, in relation to any pension, means the annual rate of that pension apart from any relevant increase thereof or any increase thereof under this section;
 
-( b) the expression “ reassessment ”, in relation to a pension which was not assessed before the rendering of the further service but which in consequence of the rendering of that service has or would have fallen to be assessed on a different basis, includes the assessment on that basis, and the expression “ reassessed ” shall be construed accordingly;
+(b) the expression “ reassessment ”, in relation to a pension which was not assessed before the rendering of the further service but which in consequence of the rendering of that service has or would have fallen to be assessed on a different basis, includes the assessment on that basis, and the expression “ reassessed ” shall be construed accordingly;
 
 (c) any reference to another pension derived from a reassessed pension shall be construed as a reference to another pension the basic rate of which falls to be computed by reference to (or to what, if the further service had been terminated by retirement, would have been) the basic rate of the reassessed pension, not being such another pension granted in consideration of the surrender of part of the reassessed pension.
 
@@ -23060,7 +23060,7 @@ who are or have been employed in the civil service of the State but who were rec
 
 (a) the Superannuation Act 1946, except for sections 6 and 1946 c. 60. 10(2);
 
-(b)section 3(l)(a) of the Act of 1952;
+(b) section 3(l)(a) of the Act of 1952;
 
 (c) section 8(l)(f>) of the Act of 1956 ;
 
@@ -23186,7 +23186,7 @@ ia) any expenditure incurred by a government department
 
 under or by virtue of this Act;
 
-ib) any increase attributable to any provision of this Act in the sums payable out of moneys so provided under any other enactment.
+(b) any increase attributable to any provision of this Act in the sums payable out of moneys so provided under any other enactment.
 
 7. —(1) In this Act, unless the context otherwise requires, the following expressions have the following meanings respectively, that is to say—
 
@@ -23486,13 +23486,13 @@ Injuries Fund shall include any person who is or has since the 1 c' * commenceme
 
 (a) arose in consequence of an accident happening after 31st December 1923; and
 
-(b)ceased before 5th July 1956.
+(b) ceased before 5th July 1956.
 
 (2) The allowances for the payment of which a scheme under the Supplementation Act may make provision shall be—
 
 (a) where the relevant accident happened before 1st January 1924, an allowance (hereafter in this section referred to as a “ basic allowance ”) in respect of any period such as is mentioned in subsection (6) of this section;
 
-(b)an allowance in respect of any period such as is mentioned in paragraph (a) of the said subsection (6)
+(b) an allowance in respect of any period such as is mentioned in paragraph (a) of the said subsection (6)
 
 3 L 4
 
@@ -23690,7 +23690,7 @@ be or have been entitled to weekly payments by way of workmen’s compensation a
 
 (a) the amount of any payment, allowance or benefit received by him otherwise than by way of workmen’s compensation; or
 
-(b)where the relevant accident happened before 1st January 1924, either the said amount, or the amount he is earning or able to earn in some suitable employment or business, or both those amounts,
+(b) where the relevant accident happened before 1st January 1924, either the said amount, or the amount he is earning or able to earn in some suitable employment or business, or both those amounts,
 
 were sufficiently reduced.
 
@@ -23872,7 +23872,7 @@ Housing ( Slum Clearance Compensation) Act 1965 Ch. 81
 
 1793
 
-( b)in the case of any other order, the date of vacation of the house in pursuance of the order,
+(b) in the case of any other order, the date of vacation of the house in pursuance of the order,
 
 or, if the owner of the interest died before the date specified in paragraph (a) or ( b) of this subsection, to the date of death.
 
@@ -24238,7 +24238,7 @@ to the Secretary of State of a single contribution, by or in respect of a teache
 
 representatives, in such cases and on such conditions as may be prescribed, of contributions paid by him as mentioned in paragraph (a) of this subsection, and for determining die method by which the amount to be repaid in respect of those contributions and of interest thereon is to be ascertained;
 
-id) provide for the establishment of a fund out of which shall be paid the pensions referred to in the preceding subsection and any sums required to be repaid as mentioned in the last preceding paragraph and into which shall be paid all contributions received by the Secretary of State as mentioned in paragraph (a) or paragraph (b) of this subsection;
+(d) provide for the establishment of a fund out of which shall be paid the pensions referred to in the preceding subsection and any sums required to be repaid as mentioned in the last preceding paragraph and into which shall be paid all contributions received by the Secretary of State as mentioned in paragraph (a) or paragraph (b) of this subsection;
 
 (e) provide for the establishment of a board of management to undertake the management of the fund and to exercise such other powers and functions in relation to the pensions referred to in the preceding subsection as may be determined in accordance with the regulations; and
 
@@ -24464,7 +24464,7 @@ Ch. 83
 
 (5) Where a teacher becomes entitled to allowances under this paragraph in a case falling within sub-paragraph (1X6) thereof, then if the teacher—
 
-( a)is under the age of sixty-five when he becomes so entitled, and
+(a) is under the age of sixty-five when he becomes so entitled, and
 
 (6) has not then completed twenty years of reckonable service, those allowances shall be calculated as if the teacher had completed such period of reckonable service, not exceeding twenty years, as may be prescribed.
 
@@ -24556,7 +24556,7 @@ tions, whether he will be subject to the scheme or wiU be liable to pay superann
 
 (a) to any superannuation scheme (including a scheme established by or under any enactment or under a provisional order confirmed by Parliament) other than the scheme established by the enactments referred to in paragraph 7(1) of this Schedule and by superannuation regulations, being a scheme which provides forthe payment of contributions by any local authority or the persons responsible for the management of any educational establishment and for the payment, in respect of service rendered to the authority or to those persons, of benefits on disablement, retirement, attainment of any specified age or death, and
 
-( b)to any system of superannuation (not being a system established by or under any enactment or under any provisional order confirmed by Parliament) operated jointly by a number of educational establishments for the purpose of providing any such benefits in respect of the service of persons employed by them.
+(b) to any system of superannuation (not being a system established by or under any enactment or under any provisional order confirmed by Parliament) operated jointly by a number of educational establishments for the purpose of providing any such benefits in respect of the service of persons employed by them.
 
 12. Provision whereby, in their application to teachers who are not full-time teachers, the provisions of the enactments referred to in paragraph 7(1) of this Schedule and of superannuation regulations shall have effect subject to such modifications and exceptions as may be specified in the regulations.
 
@@ -24590,7 +24590,7 @@ Section 2. 1925 c. 59.
 
 21. Provision extending, in any case specified in the regulations,—
 
-( a)any reference in any enactment to recognised service or contributory service so as to include a reference to reckonable service; and
+(a) any reference in any enactment to recognised service or contributory service so as to include a reference to reckonable service; and
 
 (6) any reference in any enactment to benefits of any description, or to sums paid or payable, under the Teachers (Superannuation) Acts 1918 to 1956, or any of those Acts, so as to include a reference to benefits of a prescribed description, or, as the case may be, to sums paid or payable, under superannuation regulations.
 

@@ -652,7 +652,7 @@ are hereby transferred to the local authorities of those areas.
 
 (2) Except as otherwise expressly provided, all matters relating to the performance of their functions under the following enactments—
 
-(a)this Act
+(a) this Act
 
 (b) Part IV of the Children and Young Persons (Scotland)
 
@@ -954,7 +954,7 @@ Special provisions as to the care of children in need
 
 (a) that he has neither parent nor guardian or has been and remains abandoned by his parent or guardian or is lost; or
 
-(b)that his parent or guardian is, for the time being or permanently, prevented by reason of illness or mental disorder or bodily disease or infirmity or other incapacity or any other circumstances from providing for his proper accommodation, maintenance and upbringing ; and
+(b) that his parent or guardian is, for the time being or permanently, prevented by reason of illness or mental disorder or bodily disease or infirmity or other incapacity or any other circumstances from providing for his proper accommodation, maintenance and upbringing ; and
 
 (c) in either case, that the intervention of the local authority under this section is necessary in the interests of the welfare of the child,
 
@@ -974,7 +974,7 @@ Part of this Act, be their duty to keep the child in their care so Part II long 
 
 (a) by a parent or guardian of his, or
 
-ib) by a relative or friend of his, being, where possible, a person of the same religious persuasion as the child or who gives an undertaking that the child will be brought up in that religious persuasion.
+(b) by a relative or friend of his, being, where possible, a person of the same religious persuasion as the child or who gives an undertaking that the child will be brought up in that religious persuasion.
 
 (4) Where a local authority receive a child into their care under this section who is then ordinarily resident in the area of another local authority, that other local authority may within three months after the determination (whether by agreement between the authorities or under section 86 of this Act) of the ordinary residence of the child, or with the concurrence of the first-mentioned authority at any subsequent time, take over the care of the child; and a local authority shall not exercise their right to take over the care of a child under this subsection unless they are satisfied that the taking-over will not be detrimental to his welfare.
 
@@ -1432,7 +1432,7 @@ to a children’s hearing and the rights of the child and
 
 a children's hearing and the notification of the procedure before him:
 
-id) the right of the child and his parent to be represented at the children's hearing;
+(d) the right of the child and his parent to be represented at the children's hearing;
 
 Social Work ( ScotlaAct 1968
 
@@ -2348,7 +2348,7 @@ to as the44 maintainable child ’*) shall be payable— Part VI
 
 (a) while the maintainable child is under sixteen years of age, by his father and mother;
 
-(b)if he is over sixteen years of age and is engaged in remunerative employment, by the maintainable child himself.
+(b) if he is over sixteen years of age and is engaged in remunerative employment, by the maintainable child himself.
 
 (2) Supervision requirements to which this Part of this Act applies are requirements made under paragraph (a) of section 44(1) of this Act which impose a condition of residence on a child, other than a condition that he resides at his own home, and requirements made under paragraph (b) of the said section 44(1).
 
@@ -3124,7 +3124,7 @@ fees and allowances as he may with the consent of the Treasury determine,
 
 (a) as to the tenure of office of members of the panel,
 
-( b) as to the procedure of tribunals and the procedure in connection with the bringing of matters before a tribunal, and as to the time within which matters may be brought before tribunals,
+(b) as to the procedure of tribunals and the procedure in connection with the bringing of matters before a tribunal, and as to the time within which matters may be brought before tribunals,
 
 (c) as to the payment by the Secretary of State to persons attending proceedings before tribunals of travelling and other allowances (including compensation for loss of remunerative time).
 
@@ -3478,7 +3478,7 @@ to the local authority in whose area the court is situated, and the authority sh
 
 (4) Where any person has been committed to a local authority under any provision of this Act, the court by which he was committed, if the person so committed is not less than fourteen years of age and it appears to the court that he is unruly or depraved, may revoke the commitment and commit the said person—
 
-(a)if the court has been notified that a remand centre is available for the reception from that court of persons of his class or description, to a remand centre; and
+(a) if the court has been notified that a remand centre is available for the reception from that court of persons of his class or description, to a remand centre; and
 
 (b) if the court has not been so notified, to a prison ”.
 
@@ -4192,7 +4192,7 @@ Ch. 50
 
 to act as a dispenser of hearing aids;
 
-( b) any person whose name is not for the time being entered in the register maintained pursuant to section 2(1 )(6) of this Act to employ any person to act as a dispenser of hearing aids; or
+(b) any person whose name is not for the time being entered in the register maintained pursuant to section 2(1 )(6) of this Act to employ any person to act as a dispenser of hearing aids; or
 
 1356
 
@@ -4384,7 +4384,7 @@ Provided that where the Lord Chancellor proposes to approve any such rules subje
 
 (a) that where an assessor advises the Disciplinary Committee on any question of law as to evidence, procedure or any other matters specified in the rules, he shall do so in the presence of every party, or person representing a party, to the proceedings who appears thereat or, if the advice is tendered after the Disciplinary Committee have begun to deliberate as to their findings, that every such party or person as aforesaid shall be informed what advice the assessor has tendered;
 
-( b)that every such party or person as aforesaid shall be informed if in any case the Committee do not accept the advice of the assessor on any such question as aforesaid,
+(b) that every such party or person as aforesaid shall be informed if in any case the Committee do not accept the advice of the assessor on any such question as aforesaid,
 
 and such incidental and supplementary provisions, as appear to the Lord Chancellor expedient.
 
@@ -4680,7 +4680,7 @@ the Act of 1958 there shall be substituted respectively references to section 23
 
 headed '* there shall be substituted the words “ item 6 were entitled ”; and
 
-id) in subsection (4), for the reference to section 14 of the Births and Deaths Registration Act 1953 there shall be substituted a reference to section 20(l)(c) of the Registration of Births, Deaths and Marriages (Scotland) Act 1965.
+(d) in subsection (4), for the reference to section 14 of the Births and Deaths Registration Act 1953 there shall be substituted a reference to section 20(l)(c) of the Registration of Births, Deaths and Marriages (Scotland) Act 1965.
 
 9.—(1) If the Secretary of State by order declares that a description of persons specified in the order has, in pursuance of the Convention, been notified to the Government of the United Kingdom as the description of persons who are deemed to possess the nationality of a particular convention country, persons of that description shall, subject to the following provisions of this section, be treated for the purposes of this Act as nationals of that country.
 
@@ -4700,7 +4700,7 @@ countries is or was then a convention country, he shall be treated for those pur
 
 (c) if, in a case not falling within paragraph (a) above, it appears to the said court that two or more of those countries are or were then convention countries, he shall be treated for those purposes as if he were or had then been a national of such one only of those convention countries as the said court considers is the country with which he is or was then most closely connected;
 
-id) in any other case, he shall be treated for those purposes as if he were or had then been a national of such one only of those countries as the said court considers is the country with which he is or was then most closely connected.
+(d) in any other case, he shall be treated for those purposes as if he were or had then been a national of such one only of those countries as the said court considers is the country with which he is or was then most closely connected.
 
 (3) A court in which proceedings are brought in pursuance of section 6 of this Act shall be entitled to disregard the provisions of subsection (2) of this section in so far as it appears to that court appropriate to do so for the purposes of those proceedings; but nothing in this subsection shall be construed as prejudicing die provisions of section 7(3) of this Act
 
@@ -5590,7 +5590,7 @@ The Greater London
 
 or*; and paragraph 19(1)
 
-(a)Cii).
+(a) Cii).
 
 In Schedule 3, in column 1 of Part n, paragraph 6.
 
@@ -5706,7 +5706,7 @@ Ch. 55
 
 (a) with the provision of subsection (1) or subsection (4) of this section which is applicable in that case, or
 
-ib) in a case falling within subsection (2)(b) of this section, with subsection (3) of this section,
+(b) in a case falling within subsection (2)(b) of this section, with subsection (3) of this section,
 
 he shall be guilty of an offence under the appropriate registration Act, unless he proves that he had reasonable grounds to believe, and did believe, that a competent and reliable person was charged with the duty of seeing that the relevant provision was complied with and was in a position to discharge that duty.
 
@@ -5876,7 +5876,7 @@ Ch.55
 
 (a) notify the society that he intends to make such representations, and
 
-ib) request that notice of his intention, or of any such representations made by him and received by the society before notice of the intended resolution is given to its members, shall be given to members of the society.
+(b) request that notice of his intention, or of any such representations made by him and received by the society before notice of the intended resolution is given to its members, shall be given to members of the society.
 
 (7) Subject to the next following subsection, a society which receives representations or a notification of intended representations under the last preceding subsection before the date when notice of the intended resolution is required by subsection (2) or subsection (3) of this section (as the case may be) to be given to its members shall—
 
@@ -5914,7 +5914,7 @@ Provident Societies Act 1968
 
 (c) the Association of Certified and Corporate Accountants;
 
-id) the Institute of Chartered Accountants in Ireland;
+(d) the Institute of Chartered Accountants in Ireland;
 
 (e) any other body of accountants established in the United Kingdom and for the time being recognised for the purposes of section 161(l)(a) of the Companies Act 1948 by the Board of Trade,
 
@@ -7714,7 +7714,7 @@ Ch. 60
 
 1471
 
-( b)“ owner ”, in relation to a conveyance which is the subject of a hiring agreement or hire-purchase agreement, means the person in possession of the conveyance under that agreement
+(b)“ owner ”, in relation to a conveyance which is the subject of a hiring agreement or hire-purchase agreement, means the person in possession of the conveyance under that agreement
 
 13. A person who dishonestly uses without due authority, or Abstracting dishonestly causes to be wasted or diverted, any electricity shallof electricity, on conviction on indictment be liable to imprisonment for a term not exceeding five years.
 
@@ -7912,7 +7912,7 @@ Enforcement and procedure
 
 (a) if the person in occupation of the premises has been convicted within the preceding five years of handling stolen goods or of any offence involving dishonesty and punishable with imprisonment; or
 
-ib) if a person who has been convicted within the preceding five years of handling stolen goods has within the preceding twelve months been in occupation of the premises.
+(b) if a person who has been convicted within the preceding five years of handling stolen goods has within the preceding twelve months been in occupation of the premises.
 
 (3) Where under this section a person is authorised to search premises for stolen goods, he may enter and search the premises accordingly, and may seize any goods he believes to be stolen goods.
 
@@ -9294,7 +9294,7 @@ the powers of the Minister of Transport under section 12(2) of the Airports Auth
 
 (a) section 20 of the Civic Amenities Act 1967;
 
-( b) section 20 or 52 of the Road Traffic Regulation Act 1967; or
+(b) section 20 or 52 of the Road Traffic Regulation Act 1967; or
 
 (c) any regulations for the time being in force under any of
 
@@ -9364,7 +9364,7 @@ Ch. 61
 
 1509
 
-( b) include power, not only to board and search an aircraft, but also to stop and detain it.
+(b) include power, not only to board and search an aircraft, but also to stop and detain it.
 
 (5) Any order under this section shall be made by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament, and may be varied or revoked by a subsequent order under this section.
 
@@ -9418,7 +9418,7 @@ shall not apply.
 
 (a) sections 19 and 20 (local authority aerodromes) shall cease to extend to Northern Ireland; and
 
-( b)section 22 (aerodromes of other statutory bodies in Northern Ireland), in Schedule 9 (provisions which may be adapted for Northern Ireland) the words “ Sections nineteen to twenty-two ”, Schedule 10 (compulsory purchase of land in Northern Ireland) and paragraph 1(4) of Schedule 11 (application of section 143 of the Public Health Act 1936 to Board of Trade aerodromes in Northern Ireland) are hereby repealed;
+(b) section 22 (aerodromes of other statutory bodies in Northern Ireland), in Schedule 9 (provisions which may be adapted for Northern Ireland) the words “ Sections nineteen to twenty-two ”, Schedule 10 (compulsory purchase of land in Northern Ireland) and paragraph 1(4) of Schedule 11 (application of section 143 of the Public Health Act 1936 to Board of Trade aerodromes in Northern Ireland) are hereby repealed;
 
 but this subsection shall not have effect until such date as may be appointed by the Board of Trade by an order made by statutory instrument.
 
@@ -9446,7 +9446,7 @@ Ch. 61
 
 (a) disputes that the charges, or any of them, are due or, if the aircraft is detained under subsection (l)(a)(i) of this section, that the charges in question were incurred in respect of that aircraft; and
 
-( b) gives to the authority, pending the determination of the dispute, sufficient security for the payment of the charges which are alleged to be due.
+(b) gives to the authority, pending the determination of the dispute, sufficient security for the payment of the charges which are alleged to be due.
 
 (3) An aerodrome authority shall not sell an aircraft under this section without the leave of the court; and the court shall not give leave except on proof that a sum is due to the authority for airport charges, that default has been made in the payment thereof and that the aircraft which the authority seek leave to sell is liable to sale under this section by reason of the default.
 
@@ -9726,7 +9726,7 @@ amendments relating to British Airports Authority, B.E.A. and B.O.A.C. 1965 c. 1
 
 (a) in the said Act of 1965 “pension*, in relation to a person, means a pension, whether contributory or not, of any kind whatsoever payable to or in respect of him, and includes a gratuity so payable and a return of contributions to a pension fund, with or without interest thereon or any other addition thereto, and any sums payable on or in respect of the death of that person; and
 
-( b) for the purpose of making any provision required or authorised to be made by regulations under section 24 of the said Act of 1967 (pensions and similar benefits for employees of B.E.A., B.O.A.C. and certain other undertakings and bodies) regulations under that section may incorporate and give effect to provisions contained in any trust deed entered into by any employing authority within the meaning of that section.
+(b) for the purpose of making any provision required or authorised to be made by regulations under section 24 of the said Act of 1967 (pensions and similar benefits for employees of B.E.A., B.O.A.C. and certain other undertakings and bodies) regulations under that section may incorporate and give effect to provisions contained in any trust deed entered into by any employing authority within the meaning of that section.
 
 Inoperative 26. The following provisions of the Civil Aviation Act 1949
 
@@ -9748,7 +9748,7 @@ Ch. 61
 
 bring the foregoing provisions into operation);
 
-id) in Part I of Schedule 9 the words “ Sections forty-two to fifty ”.
+(d) in Part I of Schedule 9 the words “ Sections forty-two to fifty ”.
 
 Supplementary
 
@@ -10534,7 +10534,7 @@ record compiled by a person acting under a duty from information which was suppl
 
 (a) shall not be given in evidence by virtue of this section on behalf of that party without the leave of the court; and
 
-( b)without prejudice to paragraph (a) above, shall not without the leave of the court be given in evidence by virtue of this section on behalf of that party before the conclusion of the examination-in-chief of the person who originally supplied the said information.
+(b) without prejudice to paragraph (a) above, shall not without the leave of the court be given in evidence by virtue of this section on behalf of that party before the conclusion of the examination-in-chief of the person who originally supplied the said information.
 
 (3) Any reference in this section to a person acting under a duty includes a reference to a person acting in the course of any trade, business, profession or other occupation in which he is engaged or employed or for the purposes of any paid or unpaid office held by him.
 
@@ -10760,7 +10760,7 @@ with matters of a public nature (for example, histories, scientific works, dicti
 
 example, public registers, and returns made under public authority with respect to matters of public interest) are admissible as evidence of facts stated therein; or
 
-id) whereby in any civil proceedings records (for example, the records of certain courts, treaties, Crown grants, pardons and commissions) are admissible as evidence of facts stated therein.
+(d) whereby in any civil proceedings records (for example, the records of certain courts, treaties, Crown grants, pardons and commissions) are admissible as evidence of facts stated therein.
 
 In this subsection “ admission ” includes any representation of fact, whether made in words or otherwise.
 
@@ -10806,13 +10806,13 @@ or family tradition is admissible for the purpose of proving or disproving the e
 
 44 document * includes, in addition to a document inetc* writing—
 
-(a)any map, plan, graph or drawing;
+(a) any map, plan, graph or drawing;
 
 (b) any photograph;
 
 (c) any disc, tape, sound track or other device in which sounds or other data (not being visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced therefrom; and
 
-id) any film, negative, tape or other device in which one or more visual images are embodied so as to be capable (as aforesaid) of being reproduced therefrom;
+(d) any film, negative, tape or other device in which one or more visual images are embodied so as to be capable (as aforesaid) of being reproduced therefrom;
 
 3 D 2
 
@@ -11004,7 +11004,7 @@ further provides (in whatever words) that any answer or evidence given by a pers
 
 15.—(1) This section applies to any communication made for Privilege for the purpose of any pending or contemplated proceedings under cert^in ®om’ the Patents Act 1949 before the comptroller or the Appeal Tribunal, being either— patent8
 
-id) a communication between the patent agent of a party proceedings, to those proceedings and that party or any other1949 c*87-person; or
+(d) a communication between the patent agent of a party proceedings, to those proceedings and that party or any other1949 c*87-person; or
 
 (b) a communication between a party to those proceedings and a person other than his patent agent made for the purpose of obtaining, or in response to a request for, information which that party is seeking for the purpose of submitting it to his patent agent.
 
@@ -11048,7 +11048,7 @@ Abolition of certain privileges.
 
 16.—(1) The following rules of law are hereby abrogated except in relation to criminal proceedings, that is to say—
 
-(a)the rule whereby, in any legal proceedings, a person cannot be compelled to answer any question or produce any document or thing if to do so would tend to expose him to a forfeiture; and
+(a) the rule whereby, in any legal proceedings, a person cannot be compelled to answer any question or produce any document or thing if to do so would tend to expose him to a forfeiture; and
 
 (b) the rule whereby, in any legal proceedings, a person other than a party to the proceedings cannot be compelled to produce any deed or other document relating to his title to any land.
 
@@ -11588,7 +11588,7 @@ shall be taken not to be a bona fide guest if he himself makes any payment requi
 
 (a) he takes part in the gaming as a player, or
 
-ib) where the game involves playing or staking against a bank, he holds the bank or has a share or interest in it.
+(b) where the game involves playing or staking against a bank, he holds the bank or has a share or interest in it.
 
 (8) The preceding provisions of this section shall have effect subject to section 20 of this Act.
 
@@ -11712,7 +11712,7 @@ apparatus, cards, tokens or other articles used in the gaming, or
 
 the gaming or cheques given in respect of any such cash or tokens or in respect of sums won or lost in the gaming, or
 
-id) watching (otherwise than as manager, organiser or supervisor) the gaming or the performance by any
+(d) watching (otherwise than as manager, organiser or supervisor) the gaming or the performance by any
 
 Gaming Act 1968
 
@@ -11850,7 +11850,7 @@ a licence under this Act is a bingo club licence.
 
 22.—(1) The Secretary of State may make regulations requiring the holder of a licence under this Act in respect of any premises—
 
-(a)to display, in such manner and in such position on those premises as may be prescribed by the regulations, the rules in accordance with which any game is to be
+(a) to display, in such manner and in such position on those premises as may be prescribed by the regulations, the rules in accordance with which any game is to be
 
 Gaming Act 1968
 
@@ -11876,7 +11876,7 @@ anything which, if done directly, would be a contravention of this Part of this 
 
 (a) shall refuse to grant or renew a licence under this Act in such circumstances as may be prescribed by the regulations, or
 
-ib) may refuse to grant or renew such a licence in such circumstances as may be so prescribed, without prejudice to any other grounds on which the grant or renewal could be refused apart from the regulations, or
+(b) may refuse to grant or renew such a licence in such circumstances as may be so prescribed, without prejudice to any other grounds on which the grant or renewal could be refused apart from the regulations, or
 
 (c) shall, in such circumstances as may be so prescribed,
 
@@ -12040,7 +12040,7 @@ or agent of another person, that other person is the holder of such a certificat
 
 (i a)to the sale of machines of any description to a person who carries on a business which consists of or includes selling or supplying machines of that description;
 
-( b) to the sale or supply of a machine to a person buying or agreeing or proposing to buy it under a credit-sale agreement, or to the supply of a machine to a person as being a person hiring or agreeing or proposing to hire it under a hire-purchase agreement, where (in any such case) the person who is or is to be the seller or owner in relation to the agreement has at no time had possession of the machine and became or becomes the owner of it only for the purpose of entering into the agreement;
+(b) to the sale or supply of a machine to a person buying or agreeing or proposing to buy it under a credit-sale agreement, or to the supply of a machine to a person as being a person hiring or agreeing or proposing to hire it under a hire-purchase agreement, where (in any such case) the person who is or is to be the seller or owner in relation to the agreement has at no time had possession of the machine and became or becomes the owner of it only for the purpose of entering into the agreement;
 
 (c) to the sale or supply of a machine as scrap; or
 
@@ -12180,7 +12180,7 @@ Ch. 65
 
 1591
 
-ib) a club or a miners* welfare institute is for the time being registered under Part II or under this Part of this Act,
+(b) a club or a miners* welfare institute is for the time being registered under Part II or under this Part of this Act,
 
 and which is an entertainment of any of the following kinds, that is to say, bazaars, sales of work, fStes, dinners, dances, sporting or athletic events and other entertainments of a similar character, whether limited to one day or extending over two or more days.
 
@@ -12244,7 +12244,7 @@ this Act and a direction given under section 32 of this Act are for the time bei
 
 of a pleasure fair consisting wholly or mainly of amusements provided otherwise than by means of machines to which this Part of this Act applies, being premises in respect of which a permit granted under section 49 of the Act of 1963 is for the time being in force, or
 
-id) at a travelling showmen's pleasure fair.
+(d) at a travelling showmen's pleasure fair.
 
 (2) The charge for play for playing a game once by means of the machine shall be one or more coins or tokens inserted in the machine of an amount or value not exceeding (or, if more than one, not in the aggregate exceeding) one shilling.
 
@@ -13314,7 +13314,7 @@ Sch. 2 (6) to all the persons and bodies specified in paragraph 5(3) of
 
 this Schedule; and
 
-(c)if the clerk has received from any other person an objection in writing which has not been withdrawn and the address of that person is known to the clerk, to that person.
+(c) if the clerk has received from any other person an objection in writing which has not been withdrawn and the address of that person is known to the clerk, to that person.
 
 (3) The clerk to the licensing authority shall also cause notice of that meeting to be displayed at the place where the meeting is to be held in a position where the notice may conveniently be read by members of the public.
 
@@ -14144,7 +14144,7 @@ on the relevant premises has been dishonestly conducted;
 
 (d) that, while the club or institute has been so registered, the relevant premises have been used for an unlawful purpose or as a resort of criminals or prostitutes ;
 
-( e)that any duty payable in respect of the premises under section 13 or section 14 of the Finance Act 1966 remains unpaid.
+(e) that any duty payable in respect of the premises under section 13 or section 14 of the Finance Act 1966 remains unpaid.
 
 10. The licensing authority shall refuse to renew the registration of a club under Part II of this Act if they are satisfied that, while the club has been registered thereunder, the relevant premises have been habitually used for an unlawful purpose or as a resort of criminals or prostitutes.
 
@@ -15014,7 +15014,7 @@ shall send the notice to the clerk of the peace together with a statement of the
 
 (2) Where the appeal is against a decision of a local authority to grant or renew a permit subject to a condition, and the court of quarter sessions is satisfied that by virtue of paragraph 9 of this Schedule, it was the duty of the authority to grant or renew the permit subject to such a condition as is mentioned in that paragraph, the court shall not reverse or vary the decision so as—
 
-(a)to grant or renew the permit unconditionally, or (b) to grant or renew the permit subject to a condition limiting the number of machines to which Part in of this Act applies which may be made available for gaming on the premises to a number exceeding the number specified in the resolution of the local authority.
+(a) to grant or renew the permit unconditionally, or (b) to grant or renew the permit subject to a condition limiting the number of machines to which Part in of this Act applies which may be made available for gaming on the premises to a number exceeding the number specified in the resolution of the local authority.
 
 13. Subject to paragraph 12 of this Schedule, on any appeal under paragraph 11 of this Schedule the court of quarter sessions may by its order allow or dismiss the appeal, or reverse or vary any part of the decision of the appropriate authority, and may deal with the application as if it had been made to the court of quarter sessions in the first instance; and the judgment of the court of quarter sessions on the appeal shall be final.
 
@@ -15088,7 +15088,7 @@ Ch.65
 
 (a) in the case of premises falling within sub-paragraph (a) or sub-paragraph (c) of paragraph 1 of this Schedule, the holder of the permit (not being the Secretary of State) ceases to be the holder of the licence or certificate in respect of the premises, or
 
-( b) in the case of any other premises, the holder of the permit ceases to be the occupier of the premises.
+(b) in the case of any other premises, the holder of the permit ceases to be the occupier of the premises.
 
 (2) If the holder of a permit (not being the Secretary of State) dies while the permit is in force—
 
@@ -15172,7 +15172,7 @@ Section 49 ... In subsection (1), for the words from the beginning
 
 of paragraph (a) to “ (b) ” there shall be substituted the words “where those amusements constitute a lottery or gaming or both but do not constitute gaming to which Part II of the Gaming Act 1968 applies or gaming by means of a machine to which Part IQ of that Act applies, and they are provided—
 
-(a)on any premises in respect of which a permit under this section has been granted in accordance with Schedule 6 to this Act and is for the time being in force, or
+(a) on any premises in respect of which a permit under this section has been granted in accordance with Schedule 6 to this Act and is for the time being in force, or
 
 (b) on any premises used mainly for the pur-
 
@@ -15530,7 +15530,7 @@ Ch .66
 
 1677
 
-ib) arrangements as to the provision of information or advice to purchasers, consumers or users,
+(b) arrangements as to the provision of information or advice to purchasers, consumers or users,
 
 being either standards or arrangements for the time being approved by the British Standards Institution or standards or arrangements prescribed or adopted by any trade association or other body and for the time being approved by order of the Board of Trade.”
 
@@ -15622,7 +15622,7 @@ section 1 or section 2 of this Act which becomes subject to registration by virt
 
 registration by virtue of an order under section 5 of this Act coming into force after the making of the agreement, within three months from the day on which the agreement becomes so subject;
 
-id) in the case of an agreement (whether made before or after the commencement of this Act) which becomes subject to registration by virtue of a variation after the commencement of this Act, within the time which would apply under paragraph (a) above if the agreement were made on the day on which it becomes so subject;
+(d) in the case of an agreement (whether made before or after the commencement of this Act) which becomes subject to registration by virtue of a variation after the commencement of this Act, within the time which would apply under paragraph (a) above if the agreement were made on the day on which it becomes so subject;
 
 (e) in the case of a variation after the commencement of this Act of an agreement (whether made before or after the commencement of this Act), being a variation which extends or adds to the restrictions accepted under the agreement, within the time which would apply under paragraph (a) above in the case of an agreement made on the day of the variation;
 
@@ -16070,7 +16070,7 @@ cine) ;
 
 (c) the practice of pharmacy;
 
-id) chemistry other than pharmaceutical chemistry;
+(d) chemistry other than pharmaceutical chemistry;
 
 (e) the pharmaceutical industry.
 
@@ -16172,7 +16172,7 @@ poses connected with medicinal products or related matters, or
 
 by or under this Act, or
 
-id) vary any such function, so however as not to confer on the Commission any new function which could not be conferred on them in accordance with paragraph ( b)of this subsection.
+(d) vary any such function, so however as not to confer on the Commission any new function which could not be conferred on them in accordance with paragraph ( b)of this subsection.
 
 (5) No order shall be made under this section unless a draft of the order has been laid before Parliament and approved by a resolution of each House of Parliament.
 
@@ -16686,7 +16686,7 @@ Part n applicant an opportunity of appearing before, and being heard by, a perso
 
 (5) of this section—
 
-(a)in a case falling within paragraph (<) or paragraph (b) of that subsection, shall state the advice of the Commission or of the appropriate committee and the reasons stated by the Commission or the committee for giving that advice, or
+(a) in a case falling within paragraph (<) or paragraph (b) of that subsection, shall state the advice of the Commission or of the appropriate committee and the reasons stated by the Commission or the committee for giving that advice, or
 
 (b) in a case falling within paragraph (c) of that subsection, shall state the advice given by the appropriate committee or the Commission and the reasons stated by the committee or the Commission for giving that advice,
 
@@ -16828,13 +16828,13 @@ Scope of licence of right in different cases.
 
 26.—(1) Where a person is entitled to the grant of a licence of right by reason that subsection (2) or subsection (3) of section 16 of this Act has effect in relation to him, he shall be entitled to the grant of a product licence; but, subject to the following provisions of this section,—
 
-(a)the licence shall be granted so as not to extend to medicinal products of any description other than those in respect of which the conditions specified in the subsection in question are proved to have been fulfilled, and
+(a) the licence shall be granted so as not to extend to medicinal products of any description other than those in respect of which the conditions specified in the subsection in question are proved to have been fulfilled, and
 
 (b) where the conditions specified in subsection (3) (but not those specified in subsection (2)) of that section are proved to have been fulfilled, then, without prejudice to the preceding paragraph, the licence granted shall be limited to the importation of medicinal products.
 
 (2) Where a person is entitled to the grant of a licence of right by reason that subsection (4) of section 16 of this Act has effect in relation to him, he shall be entitled to the grant of a manufacturer’s licence; but, subject to the following provisions of this section, the licence shall be granted so as not to extend—
 
-(a)to medicinal products of any description, unless it is proved that medicinal products of that description were being manufactured or assembled in the course of the business in question during the period mentioned in that subsection, or
+(a) to medicinal products of any description, unless it is proved that medicinal products of that description were being manufactured or assembled in the course of the business in question during the period mentioned in that subsection, or
 
 (b) to operations of any kind other than those in relation to which that subsection has been proved to have effect
 
@@ -16930,7 +16930,7 @@ of this Act with respect to that decision can be made expires without its having
 
 made, the proceedings on the application under that section are finally determined or abandoned or otherwise disposed of;
 
-id) if there is an appeal against the decision in any such proceedings as are mentioned in paragraph (c) of this subsection, or an appeal against the decision on such an appeal, the proceedings on that appeal are finally determined or abandoned or otherwise disposed of;
+(d) if there is an appeal against the decision in any such proceedings as are mentioned in paragraph (c) of this subsection, or an appeal against the decision on such an appeal, the proceedings on that appeal are finally determined or abandoned or otherwise disposed of;
 
 (e) the time for bringing any such appeal as is mentioned in paragraph (d) of (his subsection expires without its having been brought.
 
@@ -17246,7 +17246,7 @@ Ch. <57
 
 (a) in relation to a vaccine specially prepared for administration to poultry, or
 
-( b)in relation to any other vaccine, unless the vaccine is
+(b) in relation to any other vaccine, unless the vaccine is
 
 specially prepared for administration to the animal from which it is derived, or
 
@@ -17360,7 +17360,7 @@ ments to which he is not a party, and
 
 (a) that subsection (2) or subsection (4) of section 31 of this Act shall have effect subject to such exemptions (other than those for the time being having effect by virtue of subsections (5) to (8) of that section and subsection (4) of this section) as may be specified in the order;
 
-( b)that section 32 of this Act shall have effect subject to such exemptions (other than those for the time being having effect by virtue of section 33 of this Act and subsection
+(b) that section 32 of this Act shall have effect subject to such exemptions (other than those for the time being having effect by virtue of section 33 of this Act and subsection
 
 (4) of this section) as may be so specified.
 
@@ -17764,7 +17764,7 @@ Medicines Act 1968
 
 Part II (3) Where a person is charged with an offence under the last preceding section in respect of a contravention of any provision of section 40 of this Act. in a case where he is not the holder of such a product licence or animal test certificate as is mentioned in subsection (l)(a) or subsection (3)(a) of the said section 40. it shall be a defence for him to prove that he believed, and had reasonable grounds for believing,—
 
-(a)that another person was the holder of such a licence or certificate, and
+(a) that another person was the holder of such a licence or certificate, and
 
 (b) that the substance or article to which the contravention relates was incorporated in the animal feeding stuff in accordance with that licence or certificate.
 
@@ -18070,7 +18070,7 @@ Exemptions from sections 52 and 53
 
 55.—(1) The restrictions imposed by sections 52 and 53 of this Act do not apply to the sale, offer for sale, or supply of a medicinal product—
 
-(a)by a doctor or dentist to a patient of his or to a person under whose care such a patient is, or
+(a) by a doctor or dentist to a patient of his or to a person under whose care such a patient is, or
 
 (b) in the course of the business of a hospital or health centre, where the product is sold, offered for sale or supplied for the purpose of being administered (whether in the hospital or health centre or elsewhere) in accordance with die directions of a doctor or dentist.
 
@@ -18122,7 +18122,7 @@ Additional provisions
 
 58.—(1) The appropriate Ministers may by order specify descriptions or classes of medicinal products for the purposes of this section; and, in relation to any description or class so specified, the order shall state which of the following, that is to say—
 
-(a)doctors,
+(a) doctors,
 
 (b) dentists, and
 
@@ -18276,7 +18276,7 @@ Prohibition of sale or supply, or importation, of medicinal products of specifie
 
 medicinal products of any description, or falling within any class, specified in the order, or (in such manner as may appear to them to be sufficient to identify the products in question) designate particular medicinal products and prohibit the sale or supply, or the importation, of those particular products;
 
-(b)prohibit the sale or supply, or the importation, of animal feeding stuffs in which medicinal products of any description, or falling within any class, specified in the order have been incorporated, or (in such manner as may appear to them to be sufficient to identify the feeding stuffs in question) designate particular animal feeding stuffs in which medicinal products have been incorporated and prohibit the sale or supply, or the importation, of those particular feeding stuffs.
+(b) prohibit the sale or supply, or the importation, of animal feeding stuffs in which medicinal products of any description, or falling within any class, specified in the order have been incorporated, or (in such manner as may appear to them to be sufficient to identify the feeding stuffs in question) designate particular animal feeding stuffs in which medicinal products have been incorporated and prohibit the sale or supply, or the importation, of those particular feeding stuffs.
 
 (2) A prohibition imposed by order under this section may be a total prohibition or may be imposed subject to such exceptions as may be specified in the order.
 
@@ -18378,7 +18378,7 @@ Ch. <57
 
 (4) Subject to subsection (7) of this section, in this section “ publication ” means one of the following, that is to say, the British Pharmacopoeia, the British Pharmaceutical Codex, the British Veterinary Codex and any compendium published under Part VII of this Act; “ the relevant monograph ”, in relation to the sale or supply of a medicinal product which has been demanded, described in a prescription, or offered or exposed for sale, by or by express reference to a particular name,—
 
-(a)if, together with that name, there was specified a particular edition of a particular publication, means the monograph (if any) headed by that name in that edition of that publication, or, if there is no such monograph in that edition, means the appropriate current monograph (if any) headed by that name;
+(a) if, together with that name, there was specified a particular edition of a particular publication, means the monograph (if any) headed by that name in that edition of that publication, or, if there is no such monograph in that edition, means the appropriate current monograph (if any) headed by that name;
 
 (b) if, together with that name, there was specified a par-
 
@@ -18464,7 +18464,7 @@ for persons preparing or dispensing medicinal products, the separation of any su
 
 for the sale or supply of medicinal products;
 
-id) the accommodation (including the amount of space) to be provided in any premises for members of the public to whom medicinal products are sold or supplied or for whom medicinal products are being prepared or assembled;
+(d) the accommodation (including the amount of space) to be provided in any premises for members of the public to whom medicinal products are sold or supplied or for whom medicinal products are being prepared or assembled;
 
 (e) the amount of space to be provided in any premises for the storage of medicinal products;
 
@@ -18830,7 +18830,7 @@ Ch.67
 
 before determining whether to issue a certificate under this section Part IV in respect of the premises,—
 
-( a)if the applicant has given notice of his desire to be heard, the appropriate Minister shall afford to him an opportunity of appearing before, and being heard by, a person appointed by that Minister for the purpose, or
+(a) if the applicant has given notice of his desire to be heard, the appropriate Minister shall afford to him an opportunity of appearing before, and being heard by, a person appointed by that Minister for the purpose, or
 
 (b) if he has made representations in writing, that Minister shall consider those representations.
 
@@ -18902,7 +18902,7 @@ period of twenty-eight days from the date on which the change occurs.
 
 (4) Where section 74(2) of this Act has effect in relation to any premises, an application for the premises to be entered in the register may be made in the prescribed manner at any time before the end of the year which includes the appointed day; and where such an application is made by virtue of this subsection—
 
-( a)the provisions of section 75 of this Act shall not apply, and
+(a) the provisions of section 75 of this Act shall not apply, and
 
 (b) on payment of a fee equal to a retention fee, the registrar shall enter the premises in the register.
 
@@ -19116,7 +19116,7 @@ board, or an officer of or person employed by the body corporate, had, at some t
 
 employed by him had, at some time within twelve months before the date on which the offence or misconduct in question occurred, been guilty of a similar offence or similar misconduct and (where it was a similar offence or similar misconduct on the part of an employee) that the representative had, or with the exercise of reasonable care would have had, knowledge of that previous offence or misconduct;
 
-id) if the offence or misconduct in question is a continuing offence or continuing misconduct, that the board, or the representative, had, or with the exercise of reasonable care would have had, knowledge of its continuance;
+(d) if the offence or misconduct in question is a continuing offence or continuing misconduct, that the board, or the representative, had, or with the exercise of reasonable care would have had, knowledge of its continuance;
 
 (e) in the case of an offence in respect of a contravention of an enactment contained in any of the relevant Acts, that the board, or the representative, had not exercised reasonable care to secure that the enactment was complied with.
 
@@ -19452,7 +19452,7 @@ Ch.67
 
 of the issue of an advertisement, it shall be a defence for him to prove that he is a person whose business it is to issue or arrange for the issue of advertisements, and that either—
 
-(a)he received the advertisement for issue in the ordinary course of business and issued it, or arranged for it to be issued, either unaltered or without any alteration except in respect of lettering or lay-out, or
+(a) he received the advertisement for issue in the ordinary course of business and issued it, or arranged for it to be issued, either unaltered or without any alteration except in respect of lettering or lay-out, or
 
 (b) not being a commercially interested party, he received from a commercially interested party the information on which the advertisement was based and in the ordinary course of business prepared the advertisement in accordance with that information for issue at the request of that party,
 
@@ -19538,7 +19538,7 @@ for sale or supply, of a medicinal product or other substance or article to whic
 
 purchase such a medicinal product, substance or article from a person selling by retail medicinal products or other substances or articles to which the regulations apply, or
 
-(c)in the case of medicinal products of a description to which the regulations apply, is made to a practitioner for the purpose of inducing him to prescribe or supply medicinal products of that description or is made to a patient or client of a practitioner for the purpose of inducing him to request the practitioner to prescribe medicinal products of that description.
+(c) in the case of medicinal products of a description to which the regulations apply, is made to a practitioner for the purpose of inducing him to prescribe or supply medicinal products of that description or is made to a patient or client of a practitioner for the purpose of inducing him to request the practitioner to prescribe medicinal products of that description.
 
 (3) Without prejudice to the preceding provisions of this section, the appropriate Ministers may by regulations impose such requirements as, for any of the purposes specified in the next following subsection, they consider necessary or expedient with respect to any one or more of the following matters, that is to say—
 
@@ -19700,7 +19700,7 @@ Ch. 67
 
 cause to be prepared any such compendium or edition as is mentioned in either of the following paragraphs, that is to say—
 
-( a) a compendium (other than the British Pharmacopoeia) containing such relevant information relating to substances and articles to which subsection (1) of this section applies, or any class of such substances and articles, as may be so determined, or, where such a compendium has been published under this section, a new edition of that compendium;
+(a) a compendium (other than the British Pharmacopoeia) containing such relevant information relating to substances and articles to which subsection (1) of this section applies, or any class of such substances and articles, as may be so determined, or, where such a compendium has been published under this section, a new edition of that compendium;
 
 (b) a compendium containing such relevant information relating to substances and articles to which this paragraph applies, or any class of such substances and articles, as may be so determined, or, where such a compendium has been published under this section, a new edition of that compendium.
 
@@ -19846,7 +19846,7 @@ Construction of references to specified publications.
 
 (c) the British Pharmaceutical Codex ;
 
-( d)the British Veterinary Codex ;
+(d) the British Veterinary Codex ;
 
 (< e)the British National Formulary;
 
@@ -20260,7 +20260,7 @@ sample of any substance or article appearing to him to be—
 
 (a) a medicinal product sold or supplied or intended to be sold or supplied, or
 
-ib) a substance or article used or intended to be used in the manufacture of a medicinal product,
+(b) a substance or article used or intended to be used in the manufacture of a medicinal product,
 
 he shall (if he does not obtain the sample by purchase) have a right to take a sample of that substance or article.
 
@@ -20324,7 +20324,7 @@ nature will permit, and shall supply one part of it to the person Part vm who ma
 
 (c) any reference to the preceding provisions of that Schedule were a reference to the preceding provisions of this section; and
 
-id) any reference to the relevant enforcement authority were a reference to the authority by whom the authorised officer is authorised for the purposes of section 112 of this Act,
+(d) any reference to the relevant enforcement authority were a reference to the authority by whom the authorised officer is authorised for the purposes of section 112 of this Act,
 
 and as if in paragraph 24(1) of that Schedule the reference to a substance or article obtained as mentioned in paragraph 1 of that Schedule were a reference to a substance or article of which a sample has been set aside, or which has been treated as a sample, in accordance with subsection (2) of this section.
 
@@ -20832,7 +20832,7 @@ Ch.67
 
 (c) contraception;
 
-id) inducing anaesthesia;
+(d) inducing anaesthesia;
 
 (e) otherwise preventing or interfering with the normal operation of a physiological function, whether permanently or temporarily, and whether by way of terminating, reducing or postponing, or increasing or accelerating, the operation of that function or in any other way.
 
@@ -21726,7 +21726,7 @@ at the end of section 29 there shall be inserted the following subsection: —
 
 (a) a medicinal product as defined by section 130 of the Medicines Act 1968, nor
 
-( b) a substance in relation to which, by virtue of an order under section 104 or section 105 of that Act for the time being in force (and whether, in the case of an order under section 104 of that Act, it is referred to in the order as a substance or as an article), the provisions of sections 51 to 54 and sections 69 to 77 of that Act (whether subject to exceptions and modifications or not and with or without other provisions of that Act) have effect as they have effect in relation to medicinal products as so defined.”
+(b) a substance in relation to which, by virtue of an order under section 104 or section 105 of that Act for the time being in force (and whether, in the case of an order under section 104 of that Act, it is referred to in the order as a substance or as an article), the provisions of sections 51 to 54 and sections 69 to 77 of that Act (whether subject to exceptions and modifications or not and with or without other provisions of that Act) have effect as they have effect in relation to medicinal products as so defined.”
 
 The Cancer Act 1939 (c. 13)
 
@@ -21790,7 +21790,7 @@ Section 135(2).
 
 omitted; and at the end of paragraph (c) there shall be inserted the words “and
 
-(d)in relation to the said Act of 1968, so much of Schedule 3 to that Act as is applicable to the circumstances in which the sample was procured ”,
+(d) in relation to the said Act of 1968, so much of Schedule 3 to that Act as is applicable to the circumstances in which the sample was procured ”,
 
 and at the end of the subsection there shall be inserted the words “ or paragraph 27 of Schedule 3 to the said Act of 1968
 
@@ -22288,7 +22288,7 @@ Be rr enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (a) subsection (1) shall be omitted;
 
-( b) (i) in subsection (2)(6) after the words “ offered for sale or hire ” there shall be inserted the words “ whether in the United Kingdom or elsewhere
+(b) (i) in subsection (2)(6) after the words “ offered for sale or hire ” there shall be inserted the words “ whether in the United Kingdom or elsewhere
 
 (ii) subsection (2)(c) shall be omitted;
 
@@ -22306,7 +22306,7 @@ Design Copyright Act 1968
 
 Short title.
 
-( b)of the last preceding subsection, were first sold, let for hire or offered for sale or hire, whether in the United Kingdom or elsewhere.”
+(b) of the last preceding subsection, were first sold, let for hire or offered for sale or hire, whether in the United Kingdom or elsewhere.”
 
 (2) Schedule 1 to that Act (False Registration of Industrial Designs) shall continue to have effect subject to the following amendments—
 
@@ -22338,7 +22338,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (a) he is appointed by name (and not by office) to be a etc. justice for the area by a commission of the peace for the area; or
 
-(b)he is made a justice of the peace for the area by or under any of the enactments mentioned in Schedule 1 to this Act (which relate to the offices specified in column 2 of the Schedule), and the area is one specified in relation to the enactment in column 3 (which excludes county court judges in London from being justices ex officio unless appointed deputy chairmen of quarter sessions for a period, but otherwise reproduces the effect of those enactments).
+(b) he is made a justice of the peace for the area by or under any of the enactments mentioned in Schedule 1 to this Act (which relate to the offices specified in column 2 of the Schedule), and the area is one specified in relation to the enactment in column 3 (which excludes county court judges in London from being justices ex officio unless appointed deputy chairmen of quarter sessions for a period, but otherwise reproduces the effect of those enactments).
 
 (2) The Lord Mayor and aldermen of the City of London shall by virtue of the charter granted by His late Majesty King
 
@@ -23786,7 +23786,7 @@ Statements produced by computers as evidence in civil proceedings
 
 (c) that throughout the material part of that period, the computer was operating properly or, if not, that any respect in which it was not operating properly or was out of operation during that part of that period was not such as to affect the production of the document or the accuracy of its contents ; and
 
-id) that the information contained in the statement reproduces or is derived from information supplied to the computer in the ordinary course of those activities.
+(d) that the information contained in the statement reproduces or is derived from information supplied to the computer in the ordinary course of those activities.
 
 1893
 
@@ -24002,7 +24002,7 @@ Ch. 70 Law Reform ( Miscellaneou Provisions)
 
 (c) any disc, tape, sound track or other device in which sounds or other data (not being visual images) are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced therefrom; and
 
-id) any film, negative, tape or other device in which one or more visual images are embodied so as to be capable (as aforesaid) of being reproduced therefrom ;
+(d) any film, negative, tape or other device in which one or more visual images are embodied so as to be capable (as aforesaid) of being reproduced therefrom ;
 
 “ film ” includes a microfilm;
 
@@ -24238,7 +24238,7 @@ bequeath the tenancy of the croft in favour of a person not being a member of th
 
 (b) where the deceased crofter has otherwise failed to bequeath the tenancy, from the date of death of the deceased crofter;
 
-(c)where the deceased crofter has bequeathed the tenancy and the bequest has become null and void under section 10(2) of this Act, from the date on which the bequest became null and void as aforesaid;
+(c) where the deceased crofter has bequeathed the tenancy and the bequest has become null and void under section 10(2) of this Act, from the date on which the bequest became null and void as aforesaid;
 
 3 P
 
@@ -24424,7 +24424,7 @@ The Crofters (Scotland) Act 1961 (9 & 10 Eliz. 2. c. 58)
 
 (a) after the words “this Act* there shall be inserted the words “, or to the executor of a deceased crofter,*’;
 
-( b) for the words “ on his croft * there shall be substituted the words “ on the croft ’*;
+(b) for the words “ on his croft * there shall be substituted the words “ on the croft ’*;
 
 (c) for the words from “ (a) the value * to “ as the case may
 
@@ -24568,7 +24568,7 @@ requiring them if they desire to have the tenancy of the croft transferred to th
 
 (a) that that person is a person entitled to succeed to the intestate estate of the deceased crofter, or to claim legal rights or the prior rights of a surviving spouse out of that estate, and
 
-( b) that adequate provision is being, or will be, made for the settlement of the entitlement or claim in the said intestate estate of any other person who is known to them to be entitled to succeed to, or to claim any such rights out of, that estate.
+(b) that adequate provision is being, or will be, made for the settlement of the entitlement or claim in the said intestate estate of any other person who is known to them to be entitled to succeed to, or to claim any such rights out of, that estate.
 
 (4B) The Commission shall give notice to the landlord of any person nominated by them in pursuance of subsection (4) of this section, and the landlord shall accept that person as successor to the tenancy of the croft.
 
@@ -24662,7 +24662,7 @@ Ch. 70
 
 (2) Where—
 
-(a)a person on becoming the tenant of a croft has with the consent of the landlord paid to the outgoing tenant any compensation due to him in respect of any permanent improvement and has agreed with the Secretary of State to assume any outstanding liability to the Secretary of State of the outgoing tenant in respect of any loan made to him; or
+(a) a person on becoming the tenant of a croft has with the consent of the landlord paid to the outgoing tenant any compensation due to him in respect of any permanent improvement and has agreed with the Secretary of State to assume any outstanding liability to the Secretary of State of the outgoing tenant in respect of any loan made to him; or
 
 (b) on a person becoming the tenant of a croft the Secretary of State on his behalf has paid to the landlord a sum representing the value to such person of an existing improvement on the croft;
 
@@ -25382,7 +25382,7 @@ Scotland.
 
 (c) may be made for such an order and such damages; or
 
-id) may be made for declarator that that act is unlawful by virtue of that provision or any other provision of the said Part I;
+(d) may be made for declarator that that act is unlawful by virtue of that provision or any other provision of the said Part I;
 
 and in those proceedings, whether or not such an application or claim is made, an application may be made in accordance with section 23 below for revision of any contract or term in a contract alleged to contravene any such provision.
 
@@ -25444,7 +25444,7 @@ unlawful by virtue of any provision of Part I of this Act, the sheriff, if satis
 
 {a) that the act was done by any person and was unlawful as aforesaid;
 
-(b)that that person had previously engaged in conduct which was of the same kind as, or a similar kind to, that act and was unlawful as aforesaid; and
+(b) that that person had previously engaged in conduct which was of the same kind as, or a similar kind to, that act and was unlawful as aforesaid; and
 
 (c) that he is likely, unless prohibited by an order of the court, to engage in the future in such conduct;
 
@@ -25598,9 +25598,9 @@ Part in
 
 (6) Where by virtue of subsection (4) or (5) above a chief officer of police is treated as if he were the employer of any constable or police cadet there shall be paid out of the police fund or, in Scotland, by the police authority—
 
-(a)any damages, costs or expenses awarded against the chief officer of police in any proceedings brought against him under Part II of this Act and any costs or expenses incurred by him in any such proceedings so far as not recovered by him in the proceedings; and
+(a) any damages, costs or expenses awarded against the chief officer of police in any proceedings brought against him under Part II of this Act and any costs or expenses incurred by him in any such proceedings so far as not recovered by him in the proceedings; and
 
-ib) any sum required by him in connection with the settlement of any claim made against him by virtue of this section, including any settlement made under Part II of this Act, if the settlement is approved by the police authority.
+(b) any sum required by him in connection with the settlement of any claim made against him by virtue of this section, including any settlement made under Part II of this Act, if the settlement is approved by the police authority.
 
 (7) Any proceedings under Part II of this Act which by virtue of subsection (4) or (5) above and apart from this subsection would lie against a chief officer of police shall be brought against the chief officer of police for the time being or, in the case of a vacancy in that office, against the person for the time being performing the functions of the chief officer of police; and references in subsection (6) above to the chief officer of police shall be construed accordingly.
 
@@ -25940,7 +25940,7 @@ Investigation of Matters Relating to Employment, Trade Unions and Organisations 
 
 (a) if satisfied that there is a body of persons suitable to consider any matter referred to him under this paragraph, refer it to that body for investigation by them ;
 
-( b)if not, refer it to the Board for investigation by them or by a conciliation committee.
+(b) if not, refer it to the Board for investigation by them or by a conciliation committee.
 
 8. A body of persons investigating any matter referred to them under this Part of this Schedule—
 
@@ -26592,7 +26592,7 @@ a breach of planning control;
 
 above, may be served only within the period of four years from the date of the breach of planning control to which the notice relates, that that period has elapsed at the date of service;
 
-id) in the case of a notice not falling within paragraph (c) above, that the breach of planning control alleged by the notice occurred before the beginning of 1964;
+(d) in the case of a notice not falling within paragraph (c) above, that the breach of planning control alleged by the notice occurred before the beginning of 1964;
 
 (e) that the enforcement notice was not served as required by section 15(4) of this Act;
 
@@ -26784,7 +26784,7 @@ to have effect when the enforcement notice takes effect or is withdrawn or quash
 
 (at) a stop notice takes effect (whether in relation to the developer or the contractor, or both) prohibiting the carrying out or continuance of those operations; and
 
-(b)the operations are countermanded or discontinued by the contractor accordingly,
+(b) the operations are countermanded or discontinued by the contractor accordingly,
 
 then, unless and in so far as the contract makes provision explicitly to the contrary of this subsection, the developer shall be under the same liability in contract as if the operations had been countermanded or discontinued on instructions given by him in breach of the contract.
 
@@ -26810,7 +26810,7 @@ prohibition in the stop notice is dependent is not upheld by reason that the enf
 
 ning authority otherwise than in consequence of the grant by them of planning permission for the development to which the notice relates or for its retention or continuance without compliance with a condition or limitation subject to which a previous planning permission was granted;
 
-id) the stop notice is withdrawn.
+(d) the stop notice is withdrawn.
 
 (3) A prohibition in a stop notice shall be treated for the purposes of subsection (2) above as dependent on an allegation in an enforcement notice if and to the extent that the operations to which the prohibition in the stop notice relates are the same as those alleged in the enforcement notice to constitute a breach of planning control or are so closely associated therewith as to constitute substantially the same operations.
 
@@ -27008,7 +27008,7 @@ Repeal of existing provisions for compulsory acquisition of land.
 
 directions given under that order, planning permission for that development—
 
-(a)could not have been granted by the local planning authority; or
+(a) could not have been granted by the local planning authority; or
 
 (b) could not have been granted by them otherwise than subject to the conditions imposed by them,
 
@@ -27056,7 +27056,7 @@ should be held together with land so required; or
 
 ment, or both, as a whole for the purpose of providing for the relocation of population or industry or the replacement of open space in the course of the redevelopment or improvement, or both, of another area as a whole; or
 
-id) that it is expedient to acquire the land immediately for a purpose which it is necessary to achieve in the interests of the proper planning of an area in which the land is situated.
+(d) that it is expedient to acquire the land immediately for a purpose which it is necessary to achieve in the interests of the proper planning of an area in which the land is situated.
 
 (2) Where under subsection (1) above the Minister has power to authorise a local authority to whom this section applies to acquire any land compulsorily he may, after the requisite consultation, authorise the land to be so acquired by another authority, being a local authority within the meaning of the principal Act
 
@@ -27286,7 +27286,7 @@ Town and Country Planning Act 1968 Ch. 72
 
 1987
 
-id) that (for reasons specified in the counter-notice) neither Part IV of the conditions specified in subsection (4) above was, on the date of service of the notice under this section, satisfied with regard to the interest referred to in that subsection.
+(d) that (for reasons specified in the counter-notice) neither Part IV of the conditions specified in subsection (4) above was, on the date of service of the notice under this section, satisfied with regard to the interest referred to in that subsection.
 
 35.—(1) Where a blight notice is served under section 139 Extension of of the principal Act or section 34 above, then in the case of land blight notice.
 
@@ -27560,7 +27560,7 @@ building and that it ought to be treated, together with the building, as a singl
 
 (a) either the works do not constitute development or they do so but the development is such that planning permission therefor is granted by a development order; and
 
-( b)the Minister, either on appeal or on the reference of the application to him, refuses such consent or grants it subject to conditions.
+(b) the Minister, either on appeal or on the reference of the application to him, refuses such consent or grants it subject to conditions.
 
 (2) If, on a claim made to the local planning authority within the prescribed time and manner, it is shown that the value of the interest of any person in the land is less than it would have been if listed building consent had been granted, or had been granted unconditionally, as the case may be, the local planning authority shall pay to that person compensation of an amount equal to the difference.
 
@@ -27978,11 +27978,11 @@ the United Kingdom, the following entry shall be inserted at the Part VI appropr
 
 (a) an application for planning permission which the Minister has under section 22 of the principal Act directed to be referred to him instead of being dealt with by a local planning authority;
 
-ib) an appeal under section 23 of that Act (appeals to the Minister against planning decisions) as originally enacted or as applied by or under any other provision of that Act;
+(b) an appeal under section 23 of that Act (appeals to the Minister against planning decisions) as originally enacted or as applied by or under any other provision of that Act;
 
 (c) a proposal that a government department should give a direction under section 41 of that Act that planning permission shall be deemed to be granted for development by a local authority or by statutory undertakers which is required by any enactment to be authorised by that department;
 
-id) a proposal that development should be carried out by or on behalf of a government department.
+(d) a proposal that development should be carried out by or on behalf of a government department.
 
 (2) Any of the matters mentioned in subsection (1) above may be referred to any such commission under this section if it appears expedient to the responsible Minister or Ministers that the question whether the proposed development should be permitted to be carried out should be the subject of a special inquiry on either or both of the following grounds: —
 
@@ -28088,7 +28088,7 @@ of the principal Act;
 
 section 34 of that Act to the display of advertisements;
 
-id) an application for a determination under section 43 of that Act of the questions whether the carrying out of operations on land or the making of any change in the use of land constitutes or involves development of the land and, if so, whether an application for planning permission in respect thereof is required having regard to the provisions of the development order;
+(d) an application for a determination under section 43 of that Act of the questions whether the carrying out of operations on land or the making of any change in the use of land constitutes or involves development of the land and, if so, whether an application for planning permission in respect thereof is required having regard to the provisions of the development order;
 
 Town and Country Planning Act 1968 Ch.72
 
@@ -28178,7 +28178,7 @@ Town and Country Planning Act 1968 Ch.72
 
 (c) to any planning permission which was granted or deemed Part VI to be granted, before the commencement of this section, subject to an express condition that the development to which it relates should be begun, or be completed, not later than a specified date or within a specified period;
 
-id) to any planning permission granted for a limited period (within the meaning of section 18 of the principal Act); or
+(d) to any planning permission granted for a limited period (within the meaning of section 18 of the principal Act); or
 
 (e) to any planning permission granted under section 20 of the principal Act on an application relating to buildings or works completed, or a use of land instituted, before the date of the application.
 
@@ -28316,7 +28316,7 @@ ana— land ” of
 
 (a) the interest was acquired by them after the commence- statutory ment of this section ; or undertakers.
 
-(b)it was held by them immediately before that commencement, but the circumstances were then such that the land did not fall to be treated as operational land for the purposes of the principal Act,
+(b) it was held by them immediately before that commencement, but the circumstances were then such that the land did not fall to be treated as operational land for the purposes of the principal Act,
 
 then the following subsection shall have effect for the purpose of determining whether the land is to be so treated and shall so have effect notwithstanding the definition of “ operational land ” in section 221(1) of the principal Act.
 
@@ -28390,7 +28390,7 @@ refusing, or attaching conditions to, statutory authorisation for development), 
 
 permission in respect of operational land), except as respects an order of which notice has been given under that subsection before that commencement;
 
-id) section 162(2) (order requiring discontinuance of use etc. of operational land), except as respects an order of which notice has been given under that subsection before that commencement;
+(d) section 162(2) (order requiring discontinuance of use etc. of operational land), except as respects an order of which notice has been given under that subsection before that commencement;
 
 (e) section 163(3)(h) (compulsory purchase order with respect to land acquired by statutory undertakers for the purpose of their undertaking), except as respects an order made or confirmed before that commencement; and
 
@@ -28794,7 +28794,7 @@ Act 1966;
 
 planning permission, has the meaning given to it by section 7(5) of the Act of 1965 in relation to planning permission granted as mentioned in subsection (1 of that section (restrictions on office development to be attached to planning permission not requiring office development permit); and
 
-id) "wholly residential” in relation to a building, means for use exclusively as a dwelling-house or comprising only units of accommodation for such use.
+(d) "wholly residential” in relation to a building, means for use exclusively as a dwelling-house or comprising only units of accommodation for such use.
 
 88. —(1) The functions of the Minister under the Location Transferof
 
@@ -29076,7 +29076,7 @@ Town and Country Planning Act 1968 Ch.72
 
 (c) for the preservation of any rights of statutory under- Part VI takers in respect of apparatus of theirs which immediately before the date of the order is under, in, on, over, along or across any such footpath or bridleway;
 
-id) for requiring any person named in the order to pay, or make contributions in respect of, the cost of carrying out any such works.
+(d) for requiring any person named in the order to pay, or make contributions in respect of, the cost of carrying out any such works.
 
 (4) The powers of a competent authority under this section shall include power to make an order authorising the stopping-up or diversion of a footpath or bridleway which is temporarily stopped up or diverted under any other enactment.
 
@@ -29486,7 +29486,7 @@ Effect of general vesting declaration
 
 (a) the right of entry conferred by paragraph 7 above shall not be exercisable in respect of that land unless, after serving a notice to treat in respect of that tenancy, the acquiring authority have served upon every occupier of any of the land in which the tenancy subsists a notice stating that, at the end of such period as is specified in the notice (not being less than fourteen days) from the date on which the notice is served, they intend to enter upon and take possession of such land as is specified in the notice, and that period has expired ; and
 
-( b) the vesting of the land in the acquiring authority shall be subject to the tenancy until that period expires, or the tenancy comes to an end, whichever first occurs.
+(b) the vesting of the land in the acquiring authority shall be subject to the tenancy until that period expires, or the tenancy comes to an end, whichever first occurs.
 
 9. —(1) Subject to the following sub-paragraph, the supplementary provisions contained in Schedule 3 to the Land Commission Act 1967 (being provisions as to exclusion of power of entry, objections to severance, compensation and other miscellaneous matters arising on the making of a general vesting declaration under Part II of that Act) shall have effect for the purposes of paragraphs 6 to 8 above as they have effect for the purposes of section 10 of that Act.
 
@@ -29810,7 +29810,7 @@ Minister to make such an order by virtue of this paragraph, in relation to the m
 
 11. —(1) Where listed building consent is revoked or modified by an order under this Part of this Schedule, then if on a claim made to the local planning authority in the time and in the manner prescribed by regulations under this Act, it is shown that a person interested in the building—
 
-(a)has incurred expenditure in carrying out works which are rendered abortive by the revocation or modification, or
+(a) has incurred expenditure in carrying out works which are rendered abortive by the revocation or modification, or
 
 (b) has otherwise sustained loss or damage which is directly attributable to the revocation or modification, the authority shall pay to that person compensation in respect of that expenditure, loss or damage.
 
@@ -29962,7 +29962,7 @@ safety or health, or for the preservation of the building;
 
 {d) that listed building consent ought to be granted for the works, or that any relevant condition of such consent which has been granted ought to be discharged, or different conditions substituted;
 
-(e)that the notice was not served as required by paragraph 17 of this Schedule;
+(e) that the notice was not served as required by paragraph 17 of this Schedule;
 
 (/) that the requirements of the notice exceed what is necessary for restoring the building to its condition before the works were carried out;
 
@@ -30034,7 +30034,7 @@ SCHEDULE 6 Construction of References in Sections 62 and 63 to
 
 (c) or (d) of section 62(1) above as one which may be referred to a Planning Inquiry Commission under that section) “ the responsible Minister or Ministers ” for the purposes of sections 62 and 63 of this Act—
 
-( a) in the case of a matter affecting England only, are those specified opposite in the second column of the Table;
+(a) in the case of a matter affecting England only, are those specified opposite in the second column of the Table;
 
 (b) in the case of a matter affecting Wales only, are those specified opposite in the third column of the Table; and
 
@@ -30290,7 +30290,7 @@ context requires), references to the acquisition of land under any Sch. 9 provis
 
 (a) any such references in sections 82, 83 and 164 to 169 of that Act (ancillary provisions as to the acquisition of land) shall be respectively construed as also including references to the compulsory acquisition of land under any enactment other than the principal Act and this Act and to land compulsorily acquired undo* any such enactment, and
 
-( b) in section 130(2) (effect of purchase notice accepted by local planning authority or statutory undertakers) and section 133(1) (confirmation of purchase notice by Minister) of that Act, references to compulsory acquisition shall, in the case of statutory undertakers, be construed as references to any statutory provision (however expressed) under which the undertakers have power, or may be authorised, to purchase land compulsorily for the purposes of their undertaking.
+(b) in section 130(2) (effect of purchase notice accepted by local planning authority or statutory undertakers) and section 133(1) (confirmation of purchase notice by Minister) of that Act, references to compulsory acquisition shall, in the case of statutory undertakers, be construed as references to any statutory provision (however expressed) under which the undertakers have power, or may be authorised, to purchase land compulsorily for the purposes of their undertaking.
 
 7. Any reference in the Land Compensation Act 1961 to an area 1961 c. 33. defined in the current development plan as an area of comprehensive development shall be construed as a reference to an action area for
 
@@ -30340,9 +30340,9 @@ The Town and Country Planning Act 1962 (c. 38)
 
 15. In section 17 (determination of planning applications),—
 
-(a)at the beginning of subsection (lX<z) there shall be inserted the words “Subject to sections 65 and 66 of the Act of 1968 ”; and
+(a) at the beginning of subsection (lX<z) there shall be inserted the words “Subject to sections 65 and 66 of the Act of 1968 ”; and
 
-( b) in subsection (2), for the words from “ appearing from the evidence” onwards there shall be substituted the words “of the application”.
+(b) in subsection (2), for the words from “ appearing from the evidence” onwards there shall be substituted the words “of the application”.
 
 16. In section 19 (provision which can be made by regulations or a development order with respect to the manner in which planning applications are to be dealt with), in subsection (2X«)» after the word “authority” there shall be inserted the words “either indefinitely or”.
 
@@ -30616,7 +30616,7 @@ by or on behalf of the Crown in respect of a building which was Crown land at th
 
 “ (a) an enforcement notice under section 15 of the Act of 1968 or under the provisions of that section as applied by regulations made under section 34 of this Act; or
 
-( b)a notice under section 36 of this Act; or
+(b) a notice under section 36 of this Act; or
 
 (c) a stop notice under section 19 of the Act of 1968; or
 
@@ -30990,7 +30990,7 @@ confirmed by a Minister or, as the case may be, had been prepared in Sen. 10 dra
 
 (a) allocating any land in the district for the purposes of such functions as are mentioned in section 33(1 Xa) of this Act; or
 
-( b)defining any land in the district as the site of proposed development for the purposes of any such functions.
+(b) defining any land in the district as the site of proposed development for the purposes of any such functions.
 
 (3) To the extent that section 138(1X6) of the principal Act survives by virtue of this paragraph and for so long as it does so, the amendment by this Act of section 139(3Xfl) of that Act (definition of “relevant date” by reference to section 138(1X6)) shall be treated as not displacing the reference in that paragraph to section 138(1X6).
 
@@ -32000,7 +32000,7 @@ liability assumed by or transferred to the Executive in pursuance of this Part o
 
 in pursuance of the powers conferred by section lOQXxviii) of this Act;
 
-(j)for any purpose for which capital moneys are properly applicable, whether or not specified in the foregoing paragraphs of this subsection ;
+(j) for any purpose for which capital moneys are properly applicable, whether or not specified in the foregoing paragraphs of this subsection ;
 
 and the Executive shall exercise their control over any subsidiary of theirs so as to ensure that the subsidiary does not borrow
 
@@ -32544,7 +32544,7 @@ National Bus Company and Scottish Transport Group
 
 (a) a public authority to be called the National Bus Company (hereafter in this Act referred to as “the Bus Company ”); and
 
-ib) a public authority to be called the Scottish Transport Group (hereafter in this Act referred to as “ the Scottish Group”).
+(b) a public authority to be called the Scottish Transport Group (hereafter in this Act referred to as “ the Scottish Group”).
 
 (2) Where any area has been designated under section 9(1) of this Act, it shall be the duty—
 
@@ -32588,7 +32588,7 @@ carriage forms part of a passenger transport service which includes the carriage
 
 passengers in pursuance of paragraph (a) or (b) of this section, to carry also luggage or other goods in that vehicle or a trailer drawn thereby or in that vessel;
 
-id) to store goods which have been or are to be carried by the Company in pursuance of paragraph (c) of this section or by a subsidiary of the Company, and, so far as any premises provided for the purposes of that or any other part of their business are not required for those purposes, to use them to provide facilities for the storage of other goods;
+(d) to store goods which have been or are to be carried by the Company in pursuance of paragraph (c) of this section or by a subsidiary of the Company, and, so far as any premises provided for the purposes of that or any other part of their business are not required for those purposes, to use them to provide facilities for the storage of other goods;
 
 (e) to let passenger vehicles for hire with or without trailers for the carriage of goods;
 
@@ -33104,7 +33104,7 @@ or, so long as it remains in force, section 73 of the Act of 1960 is complied wi
 
 vehicle or vehicles in question in a fit and serviceable condition;
 
-id) the manner in which the vehicle in question is proposed to be used or, as the case may be, in which the vehicle or vehicles in question have been used;
+(d) the manner in which the vehicle in question is proposed to be used or, as the case may be, in which the vehicle or vehicles in question have been used;
 
 (e) the financial resources of the person in question.
 
@@ -33210,7 +33210,7 @@ authority to make such modifications in their method of carrying Part in on thos
 
 of the Road Traffic Act 1930 and the expression “ contract 1930 c. 43. carriage” the same meaning as for the purposes of the Act of 1960; and any reference to the said Part V in any of the following provisions, namely—
 
-(a)sections 103,104, 106 and 107 of the said Act of 1930;
+(a) sections 103,104, 106 and 107 of the said Act of 1930;
 
 (b) the definition of “ sanctioning authority ” in section 218
 
@@ -33438,7 +33438,7 @@ expedient to take account of any interest underpaid or overpaid on the commencin
 
 (6) As from 1st January 1969, the aggregate amount outstanding in respect of—
 
-( a) the principal of any money borrowed by the Board under section 19 of the Act of 1962; and
+(a) the principal of any money borrowed by the Board under section 19 of the Act of 1962; and
 
 (b) the Board’s commencing capital debt,
 
@@ -33862,7 +33862,7 @@ any of those authorities not to do, and
 
 money from any person other than those authorities, and
 
-id) does not, except with the consent of the Minister, raise money by the issue of shares or stock to any person other than those authorities;
+(d) does not, except with the consent of the Minister, raise money by the issue of shares or stock to any person other than those authorities;
 
 and the Minister may give to those authorities such directions as appear to him appropriate for ensuring that they carry out the duty imposed on them by this subsection.
 
@@ -33990,7 +33990,7 @@ services
 
 (a) unless he is satisfied that a reasonable opportunity has been afforded for the making to the Minister of representations with respect to the closure by or on behalf of persons who are employed by the Board concerned for the purposes of, or in connection with, the services in question and who appear to the Minister to be likely to be directly affected by the closure; or
 
-(b)before he has considered any representations made while that opportunity remains available which he is satisfied are either made by such persons as aforesaid or made on behalf of such persons by an organisation appearing to him to represent such persons.
+(b) before he has considered any representations made while that opportunity remains available which he is satisfied are either made by such persons as aforesaid or made on behalf of such persons by an organisation appearing to him to represent such persons.
 
 (2) In the case of a proposed closure of a station from which, or of a line on the whole or part of which, railway passenger services fall to be provided by the Railways Board in pursuance of an agreement under section 20(2 )(bof this Act with the Executive for an area designated under section 9(1) thereof, the Board shall not publish a notice of that closure in pursuance of subsection (7) of the said section 56 without the consent of that Executive to its publication ; and if the Board publish the notice before obtaining that consent, the notice shall be of no effect unless before the expiration of the period fixed by the notice for objecting to the closure either—
 
@@ -34146,7 +34146,7 @@ London;
 
 (c) the Council of the Isles of Stilly; or
 
-id) any county, town or district council in Scotland; and in the application of this section to Scodand or Wales any reference to die Minister shall be construed as a reference to the Secretary of State.
+(d) any county, town or district council in Scotland; and in the application of this section to Scodand or Wales any reference to die Minister shall be construed as a reference to the Secretary of State.
 
 Grants for research or development in connection with transport services, etc.
 
@@ -34332,7 +34332,7 @@ VI of this Act (or, so long as those sections remain in force, sections 73 and 1
 
 that those vehicles will be maintained in a fit and serviceable condition;
 
-id) particulars of any activities carried on, at any time before the making of the application, by—
+(d) particulars of any activities carried on, at any time before the making of the application, by—
 
 (i) the applicant,
 
@@ -34576,7 +34576,7 @@ one of the specified dates which occurs next before the expiration of the period
 
 (ii) if the application is made by a person who does not hold an operator’s licence when the application is made;
 
-( b)shall be a period longer or shorter than five years if the licensing authority is of opinion that it is desirable so to direct in order to arrange a suitable and convenient programme of work for the licensing authority.
+(b) shall be a period longer or shorter than five years if the licensing authority is of opinion that it is desirable so to direct in order to arrange a suitable and convenient programme of work for the licensing authority.
 
 (4) If, at the date on which an operator’s licence is due to expire, proceedings are pending before the licensing authority on an application by the holder of that licence for the grant to him of a new licence in substitution therefor, the existing licence shall continue in force until—
 
@@ -34620,7 +34620,7 @@ that any such maximum as is mentioned in paragraph (a) of this subsection be red
 
 the matters specified in the licence for the purposes of section 65 of this Act; or
 
-(d)that an alteration be made in any condition attached to the licence under section 66 of this Act or that any such condition be removed.
+(d) that an alteration be made in any condition attached to the licence under section 66 of this Act or that any such condition be removed.
 
 (2) A person applying for a direction under this section shall give to the licensing authority such information as he may reasonably require for the discharge of his duties in relation to the application.
 
@@ -34654,7 +34654,7 @@ the licensing authority shall publish notice of any application under this secti
 
 (a) that the holder of the licence has contravened section 65 of this Act or any condition attached to his licence under section 66 of this Act;
 
-ib) that during the five years ending with the date on which the direction is given there has been (whether before or after the day on which this section comes into force)—
+(b) that during the five years ending with the date on which the direction is given there has been (whether before or after the day on which this section comes into force)—
 
 (i) any such conviction as is mentioned in paragraphs (a) to (/) of subsection (4) of this section or any such prohibition as is mentioned in paragraph
 
@@ -34678,7 +34678,7 @@ PartV
 
 (c) that the holder of the licence made or procured to be made for the purposes of his application for the licence, or for the purposes of an application for the variation of the licence, a statement of fact which (whether to his knowledge or not) was false, or a statement of intention or expectation which has not been fulfilled;
 
-id) that the holder of the licence has been adjudicated bankrupt or, where the holder is a company, has gone into liquidation (not being a voluntary liquidation for the purpose of reconstruction);
+(d) that the holder of the licence has been adjudicated bankrupt or, where the holder is a company, has gone into liquidation (not being a voluntary liquidation for the purpose of reconstruction);
 
 (e) that there has been since the licence was granted or varied a material change in any of the circumstances of the holder of the licence which were relevant to the grant or variation of his licence;
 
@@ -35048,7 +35048,7 @@ authorisations. ,U1 ' *v““
 
 special authonsation, and may attach thereto such other conditions as he thinks fit, including in particular conditions—
 
-(a)as to the vehicles which may be used under the special authorisation;
+(a) as to the vehicles which may be used under the special authorisation;
 
 (b) requiring the holder of the authorisation to make and preserve records as to his operations in pursuance of the authorisation;
 
@@ -35142,7 +35142,7 @@ Act by using a large goods vehicle otherwise than as permitted by the authorisat
 
 to be made for the purposes of his application for the authorisation, or for the purposes of an application for the variation of the authorisation, a statement of fact which (whether to his knowledge or not) was false, or a statement of intention or expectation which has not been fulfilled; or
 
-id) that there has been since the authorisation was granted or varied a material change in any of the circumstances of the holder of the authorisation which were relevant to the grant or variation of the authorisation;
+(d) that there has been since the authorisation was granted or varied a material change in any of the circumstances of the holder of the authorisation which were relevant to the grant or variation of the authorisation;
 
 and during any time of suspension the authorisation shall be of no effect.
 
@@ -35330,7 +35330,7 @@ Supplementary
 
 (a) an operator’s licence under which the authorised vehicles consist of or include vehicles belonging to or in the possession of any of its subsidiaries;
 
-ib) a special authorisation under which the transport service to which it relates may be provided by any of its subsidiaries.
+(b) a special authorisation under which the transport service to which it relates may be provided by any of its subsidiaries.
 
 (2) Regulations under this section may modify or supplement any of the provisions of this Part of this Act or Schedules 9 and 10 thereto so far as appears to the Minister to be necessary or
 
@@ -35362,7 +35362,7 @@ he thinks necessary for the proper exercise of his functions under this Part of 
 
 ia)with the consent of the person for the time being carrying on that trade or business; or
 
-( b)for the purpose of the discharge by any person of his functions under this Part of this Act or Schedule 9 thereto; or
+(b) for the purpose of the discharge by any person of his functions under this Part of this Act or Schedule 9 thereto; or
 
 (c) with a view to the institution of, or otherwise for the purposes of, any legal proceedings pursuant to or arising out of this Part of this Act or Schedule 9
 
@@ -35636,7 +35636,7 @@ PartV
 
 (6) Where a carrier’s licence granted by the licensing authority for any area expires by virtue of a direction given under subsection (5)(a) of this section, then, if on an application for a special authorisation made to the licensing authority for that area by the person who was the holder of the licence, it appears to the licensing authority—
 
-(a)that the application could not be granted, or could not be granted in full, if it were determined in accordance with section 74 of this Act; but
+(a) that the application could not be granted, or could not be granted in full, if it were determined in accordance with section 74 of this Act; but
 
 (b) that the applicant would suffer financial hardship if the powers of the authority under this subsection were not exercised,
 
@@ -35800,7 +35800,7 @@ Part VI (9) For the purposes of subsections (1) and (7) of this section no accou
 
 (a) create exemptions from all or any of the requirements of subsections (1) to (6) of this section in such cases and subject to such conditions as may be specified in the regulations;
 
-(b)empower the traffic commissioners or licensing authority for any area, subject to the provisions of the regulations—
+(b) empower the traffic commissioners or licensing authority for any area, subject to the provisions of the regulations—
 
 (i) to dispense with the observance of all or any of those requirements (either generally or in such circumstances or to such extent as the commissioners or authority think fit) in any particular case for which provision is not made under paragraph (a) of this subsection;
 
@@ -35922,7 +35922,7 @@ employee-drivers to maintain such registers as may be so specified with respect 
 
 (a) specifying the person or persons from whom books and registers required for the purposes of the regulations are to be obtained and, if provision is made for them to be obtained from the Minister, charging a fee for their issue by him (which shall be payable into the Consolidated Fund);
 
-ib) as to the form and manner of making of entries in such books and registers;
+(b) as to the form and manner of making of entries in such books and registers;
 
 (c) as to the issue by and return to the employers of
 
@@ -36108,7 +36108,7 @@ Interpretation, supplementary provisions, etc. for Part VI.
 
 “ working day ”, in relation to any driver, means—
 
-(a)any period during which he is on duty and which does not fall to be aggregated with any other such period by virtue of paragraph (b) of this definition; and (b) where a period during which he is on duty is not followed by an interval for rest of not less than eleven hours or (where permitted by virtue of section 96(4)(h) of this Act) of not less than nine and a half hours, the aggregate of that period and each successive such period until there is such an interval as aforesaid, together with any interval or intervals between periods so aggregated;
+(a) any period during which he is on duty and which does not fall to be aggregated with any other such period by virtue of paragraph (b) of this definition; and (b) where a period during which he is on duty is not followed by an interval for rest of not less than eleven hours or (where permitted by virtue of section 96(4)(h) of this Act) of not less than nine and a half hours, the aggregate of that period and each successive such period until there is such an interval as aforesaid, together with any interval or intervals between periods so aggregated;
 
 “ working week ” means, subject to subsection (5) of this section, a week beginning at midnight between Saturday and Sunday;
 
@@ -36496,7 +36496,7 @@ to authorise any use of the canal which would have been authorised by a statutor
 
 works connected therewith, for purposes corresponding to those of section 109 of this Act; and
 
-id) may include such incidental or supplementary provisions as the Minister thinks fit, including provisions for applying section 259 of the Public Health Act 1936 1936 c. 49. and section 36 of the Town and Country Planning 1962 c. 38. Act 1962, or, as the case may be, section 16 of the Public Health (Scotland) Act 1897 and section 31 of 1897 c. 38. the Town and Country Planning (Scotland) Act 1947, 1947 c. 53. to the canal.
+(d) may include such incidental or supplementary provisions as the Minister thinks fit, including provisions for applying section 259 of the Public Health Act 1936 1936 c. 49. and section 36 of the Town and Country Planning 1962 c. 38. Act 1962, or, as the case may be, section 16 of the Public Health (Scotland) Act 1897 and section 31 of 1897 c. 38. the Town and Country Planning (Scotland) Act 1947, 1947 c. 53. to the canal.
 
 (4) Any person who suffers loss by reason of the extinguishment by virtue of an order under this section of any private right shall be entitled to be paid by the person specified in that
 
@@ -36588,7 +36588,7 @@ waterways, etc.
 
 (3) In sections 109, 112, 113 and 114 of this Act, “local “ authority ” means—
 
-(a)as respects England and Wales, the council of a county, county borough, county district or London borough, the Greater London Council and the Common Council of the City of London;
+(a) as respects England and Wales, the council of a county, county borough, county district or London borough, the Greater London Council and the Common Council of the City of London;
 
 (b) as respects Scotland, a county council and a town council.
 
@@ -36786,7 +36786,7 @@ Transport Act 1968 Ch. 73
 
 them as he may reasonably require for maintaining the bridge in, or restoring it to, the condition mentioned in subsection (2) of this section, except that the Board shall not be obliged to afford access for any works the carrying out of which would, in the opinion of the Board, involve danger to or interference with, or require any restriction to be placed on, traffic using the railway or inland waterway crossed by the bridge, and where the Board refuse access as aforesaid—
 
-(a)the owner of the bridge shall not by virtue of subsection (2) of this section be under any duty to carry out those works; but
+(a) the owner of the bridge shall not by virtue of subsection (2) of this section be under any duty to carry out those works; but
 
 (b) the Board may themselves carry out those works and, subject to subsection (5) of this section, recover the reasonable expenses of so doing from the owner.
 
@@ -36944,7 +36944,7 @@ and regulations under this subsection may enable any dispensation under paragrap
 
 (11) If any of the requirements of subsections (1) to (6) of this section, or any condition having effect by virtue of regulations made under subsection (10) thereof, is contravened in the case of any driver—
 
-(a)that driver; and
+(a) that driver; and
 
 (b) any other person (being that driver’s employer or a person to whose orders that driver was subject) who caused or permitted the contravention,
 
@@ -37054,7 +37054,7 @@ employee-drivers to maintain such registers as may be so specified with respect 
 
 (a) specifying the person or persons from whom books and registers required for the purposes of the regulations are to be obtained and, if provision is made for them to be obtained from the Minister, charging a fee for their issue by him (which shall be payable into the Consolidated Fund);
 
-ib) as to the form and manner of making of entries in such books and registers;
+(b) as to the form and manner of making of entries in such books and registers;
 
 (c) as to the issue by and return to the employers of
 
@@ -37432,7 +37432,7 @@ to this Act, during any further period until the order is made or the Minister n
 
 (2) It shall be the duty of the Board—
 
-(a)to secure that each of the inland waterways comprised in their undertaking which is not a commercial waterway or cruising waterway is dealt with in the most economical manner possible (consistent, in the case of a waterway which is retained, with the requirements of public health and the preservation of amenity and safety), whether by retaining and managing the waterway, by developing or eliminating it, or by disposing of it; and
+(a) to secure that each of the inland waterways comprised in their undertaking which is not a commercial waterway or cruising waterway is dealt with in the most economical manner possible (consistent, in the case of a waterway which is retained, with the requirements of public health and the preservation of amenity and safety), whether by retaining and managing the waterway, by developing or eliminating it, or by disposing of it; and
 
 (b) to secure that the best possible financial return is obtained from any asset of the Board which is not an inland waterway or harbour and is not required in connection with the provision of services and facilities by the Board, whether by exploiting it, by developing it, or by disposing of it.
 
@@ -37518,7 +37518,7 @@ Part VII
 
 (3) Subject to subsection (5) of this section, no such agreement or transfer as is mentioned in subsection (1) of this section shall be made with or to—
 
-(a)any local authority unless what is to be maintained or transferred—
+(a) any local authority unless what is to be maintained or transferred—
 
 (i) is situated in the area of the authority; or
 
@@ -37954,7 +37954,7 @@ Part vm owner to maintain the bridge which arises under any other enactment or a
 
 (a) shall be without prejudice to any provision of this section whereby any matter is to be determined by the opinion of a Board; and
 
-(b)shall not preclude the carrying out by a Board of any works pending the determination of any arbitration proceedings.
+(b) shall not preclude the carrying out by a Board of any works pending the determination of any arbitration proceedings.
 
 (10) The provisions of this section shall have effect in relation to any bridge subject to any agreement made between the owner of the bridge and the relevant Board after the date on which those provisions became applicable to the bridge.
 
@@ -38272,7 +38272,7 @@ Part IX
 
 (c)”, there shall in each case be inserted the words “ or (3a) ” ;
 
-id) at the end of subsection (3) there shall be added the words “ but no such order or notice shall be made or issued with respect to any road which would have the effect of preventing at any time access for foot pas* sengers to any premises situated on or adjacent to the road, or any other premises accessible for foot passengers from, and only from, the road ” ;
+(d) at the end of subsection (3) there shall be added the words “ but no such order or notice shall be made or issued with respect to any road which would have the effect of preventing at any time access for foot pas* sengers to any premises situated on or adjacent to the road, or any other premises accessible for foot passengers from, and only from, the road ” ;
 
 (e) in subsection (9) (which imposes penalties on a person who uses or permits the use of a vehicle in contravention of such a prohibition or restriction) after the word “person” there shall be inserted the words “who contravenes or ”;
 
@@ -38682,7 +38682,7 @@ a road during the hours of darkness without the lights or reflectors required by
 
 (b) at the end of paragraph (c) there shall be inserted the words “ or
 
-id) by its being used in contravention of any provision of an order made or having effect as if made under section 1, 6 or 9, or of regulations made or having effect as if made under section 11, of this Act, being a provision—
+(d) by its being used in contravention of any provision of an order made or having effect as if made under section 1, 6 or 9, or of regulations made or having effect as if made under section 11, of this Act, being a provision—
 
 (i) as to the route to be followed by vehicles of
 
@@ -38744,7 +38744,7 @@ Application of principal Act to Isles of Stilly.
 
 (v) section 242 (which relates to the giving of certain evidence by certificate);
 
-id) section 89 of this Act.
+(d) section 89 of this Act.
 
 (4B) Any power of a constable for the purposes of the following provisions of the Road Traffic Act I960, namely, sections 223, 225(1) and (4) and 226, shall be exercisable by a traffic warden under an order made by virtue of subsection (4A) above only where—
 
@@ -38952,7 +38952,7 @@ Transport Act 1968
 
 Part X machinery for operation at national level or local level or a level falling between those levels and appearing to the authority to be appropriate, it shall be the duty of the authority, either directly, or indirectly by exercising control over subsidiaries, to seek consultation with any organisation appearing to them to be appropriate with a view to the conclusion between the authority and that organisation or, if the authority so decide, between subsidiaries of theirs and that organisation, of such agreements as appear to the parties to be desirable with respect to the establishment and maintenance, for operation at any such level as aforesaid, of machinery for—
 
-(a)the settlement by negotiation of terms and conditions of employment of persons employed by the authority and by their subsidiaries with provision for reference to arbitration in default of such settlement in such cases as may be determined by or under the agreements ;
+(a) the settlement by negotiation of terms and conditions of employment of persons employed by the authority and by their subsidiaries with provision for reference to arbitration in default of such settlement in such cases as may be determined by or under the agreements ;
 
 (b) the promotion and encouragement of measures affecting
 
@@ -39122,7 +39122,7 @@ a county, county borough or county district in England or Wales or a county, tow
 
 includes a tramcar or trolley vehicle undertaking, and “tramcar” and “trolley vehicle” have the same meanings respectively as in the Act of 1960;
 
-id) the expression “travel concession” means the reduction or waiver of a fare or charge either absolutely or subject to terms, limitations, or conditions.
+(d) the expression “travel concession” means the reduction or waiver of a fare or charge either absolutely or subject to terms, limitations, or conditions.
 
 139.—(1) Where land is compulsorily acquired—
 
@@ -39188,7 +39188,7 @@ Application Town and Country Planning Acts.
 
 (a) the company is a wholly-owned subsidiary of one of the following bodies, namely, a board, a new authority, or such an Executive as aforesaid; or
 
-( b)two or more such bodies as aforesaid are members of the company and, if those bodies were a single body corporate, the company would be a wholly-owned subsidiary of that body corporate,
+(b) two or more such bodies as aforesaid are members of the company and, if those bodies were a single body corporate, the company would be a wholly-owned subsidiary of that body corporate,
 
 the said section 86 shall have effect as if the expression “ Board ” therein included that company and, so far as the activities of the company consist of the carrying on of any such undertaking
 
@@ -39484,7 +39484,7 @@ Ch. 73
 
 and if any question arises under this paragraph as to what authority is the appropriate Crown authority in relation to any Crown road, that question shall be referred to the Treasury, whose decision shall be final;
 
-( b)the expression “ Crown road ” means a road, other than
+(b) the expression “ Crown road ” means a road, other than
 
 a highway, to which the public has access by permission granted by the appropriate Crown authority, or otherwise granted by or on behalf of the Crown ;
 
@@ -39510,7 +39510,7 @@ PartX
 
 Minister may refer to the committee for consideration; and
 
-ib) dealing with any complaint as to the charges for the carriage of goods by rail made or quoted by the Railways Board in competition with coastal shipping, being a complaint which is made to the committee, or made to the Minister and referred by him to the committee, and which is so made by or on behalf of a body appearing to the committee or, as the case may be, to the Minister to be representative of the interests of persons engaged in coastal shipping.
+(b) dealing with any complaint as to the charges for the carriage of goods by rail made or quoted by the Railways Board in competition with coastal shipping, being a complaint which is made to the committee, or made to the Minister and referred by him to the committee, and which is so made by or on behalf of a body appearing to the committee or, as the case may be, to the Minister to be representative of the interests of persons engaged in coastal shipping.
 
 (2) The committee shall consist of—
 
@@ -40040,7 +40040,7 @@ there shall be substituted a reference to section 66(3) of the Act of 1962.
 
 163. There shall be paid out of moneys provided by Parliament—
 
-( a) any expenses incurred by any Minister under or in consequence of the provisions of this Act;
+(a) any expenses incurred by any Minister under or in consequence of the provisions of this Act;
 
 (b) any increase attributable to any of the provisions of this Act in the sums so payable under any other Act.
 
@@ -40604,7 +40604,7 @@ Variation of conditions
 
 5. The Executive—
 
-( a) shall not unreasonably refuse any application by an existing operator for the variation of a condition attached to a consent granted under this Schedule ; and
+(a) shall not unreasonably refuse any application by an existing operator for the variation of a condition attached to a consent granted under this Schedule ; and
 
 (b) may at any time without any such application by notice in writing to the operator make any reasonable variation of any such condition;
 
@@ -40926,7 +40926,7 @@ service, addressed to that person at his usual or last known place of abode; or
 
 (a) on summary conviction to a fine not exceeding £400; or
 
-(b)on conviction on indictment to a fine, or to imprisonment for a term not exceeding two years, or to both.
+(b) on conviction on indictment to a fine, or to imprisonment for a term not exceeding two years, or to both.
 
 6. Any person who without reasonable excuse fails to comply with a notice under paragraph 2 of this Schedule shall be guilty of an offence and liable on summary conviction to a fine not exceeding £100 or, on a second or subsequent conviction, £400.
 
@@ -41086,9 +41086,9 @@ Rights of appeal
 
 5. A person who—
 
-(a)being an applicant for a transport manager’s licence, is aggrieved by the refusal of the application ; or
+(a) being an applicant for a transport manager’s licence, is aggrieved by the refusal of the application ; or
 
-( b) being the holder of such a licence, is aggrieved by any direction or order of a licensing authority under paragraph 4(1) or (3) of this Schedule,
+(b) being the holder of such a licence, is aggrieved by any direction or order of a licensing authority under paragraph 4(1) or (3) of this Schedule,
 
 may appeal to the Transport Tribunal.
 
@@ -41548,7 +41548,7 @@ the Minister shall consult with the Inland Waterways Amenity Advisory Council, c
 
 3. In the case of a proposed order under section 105(3)—
 
-( a) in respect of a commercial waterway or any part thereof, the Minister shall consult—
+(a) in respect of a commercial waterway or any part thereof, the Minister shall consult—
 
 (i) with any organisation appearing to him to represent persons operating commercial freight-carrying vessels on that waterway or part; and
 
@@ -41688,7 +41688,7 @@ Ch. 73
 
 2349
 
-(b)as respects any other area, the local authority with Sch. 14 the consent, if they are not the highway authority for the highway in question, of that highway authority, may by order designate parking places on highways in the local authority's area for vehicles or vehicles of any class specified in the order, and the local authority may make charges for vehicles left in any parking place so designated of such amount as is prescribed under section 36 of this Act*
+(b) as respects any other area, the local authority with Sch. 14 the consent, if they are not the highway authority for the highway in question, of that highway authority, may by order designate parking places on highways in the local authority's area for vehicles or vehicles of any class specified in the order, and the local authority may make charges for vehicles left in any parking place so designated of such amount as is prescribed under section 36 of this Act*
 
 2. In section 35(2), for the words “ the Minister " there shall be substituted the words “ the authority concerned" and for the word “ he " there shall be substituted the words “ that authority
 
@@ -41734,7 +41734,7 @@ had been designated by order made on the application of the local authority.
 
 (a) for the words from the beginning to "Minister* there shall be substituted the words "Subject to sections 84A, 84B and 84C of this Act, the authority by whom a parking place is designated under section 35 of this Act*';
 
-( b) for the words "a parking place designated under section 35 of this Act ” and for the words " such a parking place * in both places where they occur there shall in each case be substituted the words " the parking place *'.
+(b) for the words "a parking place designated under section 35 of this Act ” and for the words " such a parking place * in both places where they occur there shall in each case be substituted the words " the parking place *'.
 
 10. In section 37(5), at the end there shall be added the words “and in this subsection the expression ‘prescribed* means prescribed by order of the appropriate Minister made by statutory instrument, which shall be subject to annulment in pursuance of
 
@@ -42392,7 +42392,7 @@ for such period, to such extent and on such terms as may be specified in the agr
 
 7. —(1) The references to be substituted—
 
-(a)as mentioned in Part I of Schedule 2 to the Act of 1962 in the provisions specified in sub-paragraph (2) of this paragraph; or
+(a) as mentioned in Part I of Schedule 2 to the Act of 1962 in the provisions specified in sub-paragraph (2) of this paragraph; or
 
 (b) as mentioned in Part III of that Schedule in the provisions specified in sub-paragraph (3) of this paragraph,
 
@@ -42448,7 +42448,7 @@ the following: —
 
 shall be substituted the words 44 the British Transport Docks Board, the British Railways Board or the British Waterways Board”;
 
-id) in section 57(1)—
+(d) in section 57(1)—
 
 (i) at the end of the definition of 44 the Boards ” there shall be added the words 44 and includes the National Freight Corporation, the Scottish Transport Group and any subsidiary within the meaning of the Transport Act 1968 of any of those Boards or of that Corporation or Group ”;
 
@@ -43972,7 +43972,7 @@ Ch.77
 
 craft of the Royal Navy, the Army or the Royal Air Force;
 
-id) officers of the fishery protection service of the Secretary of State holding the rank of commander, first officer or second officer;
+(d) officers of the fishery protection service of the Secretary of State holding the rank of commander, first officer or second officer;
 
 (e) officers of Customs and Excise;
 
@@ -44124,11 +44124,11 @@ shall apply to a warrant of distress issued under this section in England and Wa
 
 (a) any person who considers that personal injury to him or damage to his property has been caused by the offence may, at any time before the commencement of the trial, give notice in writing to the accused person and the sheriff clerk that at the trial of the offence the sheriff shall be called upon to make an award of compensation in respect of that injury or damage;
 
-ib) if notice has been given as aforesaid and the accused is convicted of the offence the sheriff shall thereupon dispose of the question of compensation, but shall not order payment of a sum by way of compensation exceeding £400;
+(b) if notice has been given as aforesaid and the accused is convicted of the offence the sheriff shall thereupon dispose of the question of compensation, but shall not order payment of a sum by way of compensation exceeding £400;
 
 <c) any evidence led at the trial shall be admissible as evidence in the disposal of the question of compensation, and if the compensation claimed is in respect of damage to property and a report of a British sea-fishery officer relating to the damage is produced as evidence, that report shall, unless the sheriff considers that it is necessary in the interests of justice to allow additional evidence, be sufficient evidence for the disposal of the question of compensation; and
 
-id) in disposing of the question of compensation the sheriff may, subject to paragraph (b) above, give decree as in any ordinary action brought before hun. 3
+(d) in disposing of the question of compensation the sheriff may, subject to paragraph (b) above, give decree as in any ordinary action brought before hun. 3
 
 (3) Section 12 of this Act shall apply in relation to compensation adjudged or ordered to be paid under this section
 
@@ -44332,7 +44332,7 @@ be substituted the words “similar officer of the body corporate, or any person
 
 (i a)any reference to the products of the herring industry shall be construed as a reference to herring and their products;
 
-( b) in section 9(6) of the said Act of 1931 as set out in the said Schedule the words “ or commodities produced wholly or partly therefrom ” and the words “ or such commodities as aforesaid ” shall cease to have effect;
+(b) in section 9(6) of the said Act of 1931 as set out in the said Schedule the words “ or commodities produced wholly or partly therefrom ” and the words “ or such commodities as aforesaid ” shall cease to have effect;
 
 (c) at the end of the said section 9, as so set out, there shall be inserted the following subsection—
 
@@ -44952,7 +44952,7 @@ Part I scheme) confirmed under and in accordance with the foregoing provisions o
 
 (a) before ascertaining the views of any of the persons who would be interested parties as a result of the recommendations affecting the other diocese, the Pastoral Committee shall obtain the consent of the bishop of that other diocese to the consideration of those recommendations, and he shall, before giving his consent, consult the Pastoral Committee of his diocese;
 
-ib) the bishop of the first-mentioned diocese shall not submit any draft proposals formulating such recommendations to the Commissioners under section 3(6) of this Measure without the consent of the bishop of the other diocese and, if both the dioceses concerned are in the same province, of the archbishop of that province, or if they are in different provinces, of both archbishops.
+(b) the bishop of the first-mentioned diocese shall not submit any draft proposals formulating such recommendations to the Commissioners under section 3(6) of this Measure without the consent of the bishop of the other diocese and, if both the dioceses concerned are in the same province, of the archbishop of that province, or if they are in different provinces, of both archbishops.
 
 (2) The powers conferred by the foregoing subsection may be used to include recommendations affecting more than one other diocese, and in that case the conditions aforesaid shall be complied with in relation to each of the other dioceses.
 
@@ -45132,7 +45132,7 @@ vicar and a status equal to that of an incumbent of a benefice.
 
 (a) the rector shall be presented or collated to the benefice in accordance with paragraph 1 of Schedule 3 to this Measure and the provisions of the scheme made thereunder ;
 
-( b) the vicar or vicars shall be chosen by the bishop and the rector jointly and shall be appointed to the office by licence of the bishop under seal and publicly admitted in a church in the area;
+(b) the vicar or vicars shall be chosen by the bishop and the rector jointly and shall be appointed to the office by licence of the bishop under seal and publicly admitted in a church in the area;
 
 (c) before a vicar is chosen to whom a special cure of souls
 
@@ -45266,7 +45266,7 @@ Other provisions as to clergy and ministry
 
 22. —(1) Where a pastoral scheme provides— Status and^
 
-(a)for the union of two or more benefices one of which is benefices, a rectory, or
+(a) for the union of two or more benefices one of which is benefices, a rectory, or
 
 (b) for the dissolution of a rectory, otherwise than as a result of a union of benefices,
 
@@ -46126,7 +46126,7 @@ conditions prescribed by the scheme, to sell, give or exchange the property conc
 
 (c) for specifying the use or uses for which any land sold, given, exchanged or let by the Commissioners as aforesaid is to be used, or allowing it to be used without limitation;
 
-( d)for appropriating the said site or any part thereof for
+(d) for appropriating the said site or any part thereof for
 
 use as part of the churchyard or burial ground or for other ecclesiastical purposes of the parish.
 
@@ -46374,7 +46374,7 @@ Removal of legal effects of consecration of buildings and land.
 
 (a) to enable any property so vesting to be used for a use or uses specified or described in the redundancy scheme or pastoral scheme, or to facilitate such use;
 
-( b)to enable any property so vesting which is to be sold,
+(b) to enable any property so vesting which is to be sold,
 
 given, exchanged or let by the Commissioners (otherwise than for such use as aforesaid), to be used for such purposes as appear to the Commissioners to be reasonable, or to facilitate such use; or
 
@@ -46626,7 +46626,7 @@ Restrictions on presentation pending the making of pastoral schemes and orders.
 
 (a) the relevant recommendations are implemented by a pastoral scheme or order and come into operation, in which case the right of presentation shall be subject to the provisions of the scheme or order; or
 
-(b)the proposals are withdrawn or the draft scheme or order prepared in pursuance thereof is withdrawn, or the scheme made in pursuance thereof is disallowed or withdrawn; or
+(b) the proposals are withdrawn or the draft scheme or order prepared in pursuance thereof is withdrawn, or the scheme made in pursuance thereof is disallowed or withdrawn; or
 
 (c) the relevant recommendations are omitted from the pro-
 
@@ -47598,7 +47598,7 @@ Provisions relating only to pastoral schemes affecting diocesan boundaries
 
 16.—(1) Where a benefice or parish or extra-parochial place is transferred from one diocese to another by a pastoral scheme,—
 
-( a) any property vested in the Diocesan Board of Finance of the old diocese and held for ecclesiastical purposes relating solely to the benefice or parish or place transferred shall vest in the Diocesan Board of Finance of the new diocese and be held for those purposes;
+(a) any property vested in the Diocesan Board of Finance of the old diocese and held for ecclesiastical purposes relating solely to the benefice or parish or place transferred shall vest in the Diocesan Board of Finance of the new diocese and be held for those purposes;
 
 (b) all documents and maps in the custody of the registrar or other officer of the old diocese and relating solely to the benefice or parish or place transferred shall be transferred to the registrar or corresponding officer of the new diocese;
 
@@ -47838,7 +47838,7 @@ Disposal of Human Remains
 
 (c) serve a like notice on the bishop; and
 
-id) if the remains were interred within twenty-five years before the date of the first publication of the notice, serve a like notice on the personal representatives or next of kin (or, in the event of their being untraceable, any known relative) of the deceased person.
+(d) if the remains were interred within twenty-five years before the date of the first publication of the notice, serve a like notice on the personal representatives or next of kin (or, in the event of their being untraceable, any known relative) of the deceased person.
 
 2. Any notice required to be published and served as aforesaid shall contain—
 
@@ -47912,7 +47912,7 @@ Period
 
 (a) in payment to the bishop of all expenses incurred by him under sections 67 and 68 of this Measure;
 
-(b)in payment of all expenses properly incurred in the collection of the income of the benefice;
+(b) in payment of all expenses properly incurred in the collection of the income of the benefice;
 
 (c) in payment of all expenses incurred in making provision for the performance of the ecclesiastical duties of the benefice, including that of accommodation;
 
