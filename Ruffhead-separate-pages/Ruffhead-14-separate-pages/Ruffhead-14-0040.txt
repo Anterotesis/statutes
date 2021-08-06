@@ -20,7 +20,7 @@ Fools Cap - 0 6 0 13z 1(i 0 . 1
 
 Littris Fools Cap - 0 6 0 1 3 x I i 0 10
 
-Pott ----- 0 4 0 I ‘ z 1 ^ c 8
+Pott ----- 0 4 0 I ‘ z 1 c 8
 
 Grand Eagle, or Double Elephant 4 0 0 2<< 40 11 c
 
@@ -66,7 +66,7 @@ Printing. Bundle.
 
 Double Demy - - 1 18 0 2? 8! 5 6
 
-f ^ f 1 1 2 ‘U ]
+f f 1 1 2 ‘U ]
 
 Royal - - - “,) i 4 0 j or \ - 3 6
 
@@ -90,7 +90,7 @@ Single Crown Inferior - - 0 8 0 Is 20 «1 t 3
 
 Demy TifTue - - 0 8 , 0 I'T 22 j 1 3
 
-CiownTilTue - 0 5 0 ^ 2°t 01 JO
+CiownTilTue - 0 5 0 2°t 01 JO
 
 Double Pott - - - 0 9 0 17 2Si 11 6
 
@@ -112,7 +112,7 @@ Sun*]-R5u’» SmiilcrSfze - 1 i 27 1 6
 
 Suga^ Blue, D r y Size - - - 17i 22 1 3
 
-Sugar Blue, Crown Size - j ^ 20 1 5
+Sugar Blue, Crown Size - j 20 1 5
 
 Purple Roy a I ... '<j£ 241 1 0
 
