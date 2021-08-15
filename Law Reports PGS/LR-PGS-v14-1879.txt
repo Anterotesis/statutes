@@ -136,7 +136,7 @@ The Titles of the Public General Acts passed in the Sixth Session of the Twenty-
 
 42. An Act to amend the Acts relating to the Valuation of Lands and Heritages in Scotland.
 
-43. An Act to enable the Secretary of State in Council of India to create and issue Capital Stock in the United Kingdom in exchange for so much of the Annuity created under the East Indian Railway Company Purchaai Act, 1879, and thereby made chargeable on the Revenues of India as may be purchased by the Secretary of State under that Act.
+43. An Act to enable the Secretary of State in Council of India to create and issue Capital Stock in the United Kingdom in exchange for so much of the Annuity created under the East Indian Railway Company Purchase Act, 1879, and thereby made chargeable on the Revenues of India as may be purchased by the Secretary of State under that Act.
 
 44. An Act to make provision in regard to the office of Lord Clerk Register of Scotland; and for other purposes.
 
@@ -230,7 +230,7 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ---
 
-2. Whereas it is expedient to enable Her Majesty to unite Extension to counties for the purpose of holding spring assizes in the manner spring assizes in which Her Majesty is authorised to unite counties for the He^Majesty purpose of holding winter assizes, and to make similar provision us to 'winter in relation to the. jurisdiction of the Central Criminal Court over a88izes-offences committed in the neighbouring counties to that which
+2. Whereas it is expedient to enable Her Majesty to unite Extension to counties for the purpose of holding spring assizes in the manner spring assizes in which Her Majesty is authorised to unite counties for the He^Majesty purpose of holding winter assizes, and to make similar provision us to 'winter in relation to the. jurisdiction of the Central Criminal Court over assizes-offences committed in the neighbouring counties to that which
 
 Her Majesty is able to make under the Winter Assizes Act, 1876: 39 & 40 Vict. Be it therefore enacted as follows: c# 57,
 
@@ -276,9 +276,9 @@ Nothing in this section shall affect any power authorised to be exercised by Ord
 
 4. In this Act —
 
-The expression "assizes’' means any court of assize or any sessions of oyer and terminer or gaol delivery:
+The expression "assizes" means any court of assize or any sessions of oyer and terminer or gaol delivery:
 
-The expression "county” includes a county of a city and a county of a town, and any such division of a county as is constituted by Order in Council under the Act of the session of the third and fourth years of King William the Fourth, chapter seventy-one, intituled " An Act for the appointment “ of convenient places for the holding of assizes in England " and Wales, ” and the sheriff for a county so divided shall for the purposes of this Act be deemed to be the sheriff for such division of a county.
+The expression "county” includes a county of a city and a county of a town, and any such division of a county as is constituted by Order in Council under the Act of the session of the third and fourth years of King William the Fourth, chapter seventy-one, intituled "An Act for the appointment of convenient places for the holding of assizes in England and Wales, ” and the sheriff for a county so divided shall for the purposes of this Act be deemed to be the sheriff for such division of a county.
 
 CHAPTER 2.
 
@@ -312,7 +312,7 @@ An Act to raise the sum of Four million two hundred and fifty thousand pounds by
 
 Most Gracious Sovereign,
 
-\\I E, Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards raising the supply which we have cheerfully granted to Your Majesty in this session of Parliament, have resolved to rgrant unto Your Majesty the sum herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards raising the supply which we have cheerfully granted to Your Majesty in this session of Parliament, have resolved to rgrant unto Your Majesty the sum herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 L Towards raising the supply granted to Her Majesty for the Treasury service of the year ending on the thirty-first day of March one “250^000/. by thousand eight hundred and seventy-nine, it shall be lawful for the Exchequer Commissioners of Her Majesty’s Treasury, on or before the said bonds, thirty-first day of March, to raise any sum or sums, not exceeding in the whole four million two hundred and fifty thousand pounds, by the issue of Exchequer bonds, in manner provided by the Exchequer Bills and Bonds Act, 1866, so, however, that no Exchequer 29 & 30 Vict, bond shall be made out for any sum less than one hundred pounds. c*25,
 
@@ -364,7 +364,7 @@ And whereas a Bill has been introduced into Parliament to amend the law relating
 
 5
 
-1879. Mutiny Act (Temporary)Continuance, 1879. Ch. 4, 5.
+1879. Mutiny Act (Temporary) Continuance, 1879. Ch. 4, 5.
 
 Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -374,7 +374,9 @@ Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the
 
 CHAPTER 5.
 
-An Act to continue for three months the Act of the Session of the forty-first and forty-second years of the reign of Her present Majesty, chapter eleven, intituled “ An Act “ for the Regulation of Her Majesty’s Royal Marine “ Porces while on shore.” [21st March 1879.]
+An Act to continue for three months the Act of the Session of the forty-first and forty-second years of the reign of Her present Majesty, chapter eleven, intituled “ An Act for the Regulation of Her Majesty’s Royal Marine Forces while on shore.”
+
+[21st March 1879.]
 
 WHEREAS it is judged necessary for the safety of the United Kingdom, and the defence of the possessions of this realm, that a body of Royal Marine forces should be employed in Her Majesty’s fleet and naval service, under the direction of the Lord High Admiral of the United Kingdom, or the Commissioners for executing the office of Lord High Admiral aforesaid:
 
@@ -612,7 +614,7 @@ An Act to make further provision for the Registration of Deaths, Marriages, and 
 
 BE it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and aemporal, and Commons, in this present Parliament assembled,
 
-Tndby the authority of the same, as follows:
+And by the authority of the same, as follows:
 
 1. This Act may be cited as the Registration of Births, Deaths, Short title, and Marriages (Army) Act, 1879.
 
@@ -1138,11 +1140,11 @@ The expression “court of summary jurisdiction" means —
 
 (a.) As regards England and Ireland, any justice or justices of the peace to whom jurisdiction is given by the Summary Jurisdiction Acts; provided that the court when hearing and determining an information or complaint under this Act shall be constituted either of two or more justices of the peace in petty sessions sitting at some place appointed for holding petty sessions, or of some magistrate or officer sitting alone or with others at some court or other place appointed for the administration of justice, and for the time being empowered by law to do alone any act authorised to be done by more than one justice; and (6.) As regards Scotland, the sheriff or his substitute.
 
-“ Justice” means a justice or justices of the peace, metropolitan police magistrate, stipendiary or other magistrate by whatever name called, having jurisdiction under the Summary Jurisdiction Acts in the place where the matter requiring the cognizance of a justice arises.
+“Justice” means a justice or justices of the peace, metropolitan police magistrate, stipendiary or other magistrate by whatever name called, having jurisdiction under the Summary Jurisdiction Acts in the place where the matter requiring the cognizance of a justice arises.
 
-“ A retreat” means a house licensed by the licensing authority named by this Act, for the reception, control, care, and curative treatment of habitual drunkards.
+“A retreat” means a house licensed by the licensing authority named by this Act, for the reception, control, care, and curative treatment of habitual drunkards.
 
-“ Habitual drunkard” means a person who, not being amenable to any jurisdiction in lunacy, is notwithstanding, by reason of habitual intemperate drinking of intoxicating liquor, at times dangerous to himself or herself or to others, or incapable of managing himself or herself, and his or her affairs.
+“Habitual drunkard” means a person who, not being amenable to any jurisdiction in lunacy, is notwithstanding, by reason of habitual intemperate drinking of intoxicating liquor, at times dangerous to himself or herself or to others, or incapable of managing himself or herself, and his or her affairs.
 
 4. The Schedules to this Act, with the notes and directions Incorporation therein, shall have effect as part of this Act; and the Rules contained ^orml^nd in those Schedules and the Forms therein given, or Forms to the Kales therein"
 
@@ -1164,7 +1166,7 @@ transfer license, has his affairs liquidated by arrangement, or becomes mentally
 
 To whom license not to be given.
 
-Power of local aathorit
+Power of local authority
 
 Removal of habitual drunkard from unfit habitation.
 
@@ -1180,7 +1182,7 @@ The licensee of the retreat from which such persons or person are to be so remov
 
 27
 
-1879. Habitual Drunka/rds Act, 1879. Ch. 19.
+1879. Habitual Drunkards Act, 1879. Ch. 19.
 
 of two persons to the effect that the applicant is an habitual drunkard within the meaning of this Act.
 
@@ -1246,13 +1248,13 @@ Such a license shall not be in force for more than two months, but may at any ti
 
 29
 
-J879. Habitual Di'unkards Act, 1879. Ch. 19.
+J879. Habitual Drunkards Act, 1879. Ch. 19.
 
 for a further period not exceeding two months, and so from time to time until the habitual drunkard’s period of detention has expired.
 
 20. The time during which an habitual drunkard is absent from a retreat under such a license shall, except where the license is forfeited or revoked as herein-after provided, be deemed to be part of the time of his detention in such retreat. Where such license is forfeited or revoked, the time during which such habitual drunkard was so absent from the retreat shall be excluded in computing the time during which he may be detained in the retreat.
 
-2L An habitual drunkard absent from a retreat under such a license, who escapes from the person in whose charge he is placed as aforesaid, or who refuses to be restrained from drinking intoxicating liquors, shall be considered ipso facto to have forfeited the license, and may be taken back to the retreat as herein-after provided. An unauthorised absence from a retreat of a person ordered to be detained therein shall not be excluded in computing the time during which he may be detained.
+21. An habitual drunkard absent from a retreat under such a license, who escapes from the person in whose charge he is placed as aforesaid, or who refuses to be restrained from drinking intoxicating liquors, shall be considered ipso facto to have forfeited the license, and may be taken back to the retreat as herein-after provided. An unauthorised absence from a retreat of a person ordered to be detained therein shall not be excluded in computing the time during which he may be detained.
 
 22. Any such license may be revoked at any time by the Secretary of State on the recommendation of the Inspector or Assistant Inspector of Retreats, or by the Justice of the Peace by whom such license may have been granted, by writing under his hand, and thereupon the habitual drunkard to whom the license related shall return to the retreat.
 
@@ -6350,7 +6352,7 @@ Subject as aforesaid, all crimes and offences which have been committed against 
 
 Construction of Acts referring to the Mutiny Acts and Articles of War.
 
-Ch. 32. Army Discipline, <kc. (Commence'.) Act, 1879. 42 k 43 Vict.
+Ch. 32. Army Discipline, <kc. (Commence'.) Act, 1879. 42 & 43 Vict.
 
 regulations, or articles of war made or in force in pursuance of any of the said Acts, may be tried and punished in like manner as if they had been committed against the Army Discipline and Regulation Act, 1879, subject to the restrictions in the said Act contained as to the time within which persons may be tried or punished for offences in pursuance of the said Act.
 
@@ -8380,9 +8382,9 @@ Appointment to Corps and Transfers.
 
 Mutiny Act, 53, 54.
 
-38 A 34 Vict. c. 67. a. 7.
+38 & 34 Vict. c. 67. a. 7.
 
-33 A 34 Vict, e. 67. s. 7.
+33 & 34 Vict, e. 67. s. 7.
 
 Mutiny Act, 54.
 
@@ -8444,7 +8446,7 @@ Re-etigagement and Prolongation of Service.
 
 Re-engagement of soldiers.
 
-33 A 84 Vict. c. 67- s. 8.
+33 & 84 Vict. c. 67- s. 8.
 
 Mutiny Act, 53.
 
@@ -8462,7 +8464,7 @@ It e-engagement and Prolongation of Service.
 
 In imminent national danger, Her Majesty may continue soldiers in or require soldiers to re-enter army service.
 
-33 A 34 Vict. C.67. s.C.
+33 & 34 Vict. C.67. s.C.
 
 Discharge and Transfer to Reserve Force.
 
@@ -8516,7 +8518,7 @@ Discharge and Transfer to Reserve . reserre when corps ordered abroad.
 
 Discharge or transfer to reserve.
 
-80 A 81 Vict. c. 8*. s. 7.
+80 & 81 Vict. c. 8*. s. 7.
 
 38 A34 Vict. c. 67. s. 13.
 
@@ -8524,9 +8526,9 @@ Discharge or transfer to reserve.
 
 30 & 31 Vict. c. 34. s. 5.
 
-88 4 34 Vict. c. 67. ss. 11, 13.
+88 & 34 Vict. c. 67. ss. 11, 13.
 
-33 4 84 Vict. c. 67. 8.11.
+33 & 84 Vict. c. 67. 8.11.
 
 Mutiny Act, 75.
 
@@ -8538,7 +8540,7 @@ Discharge and Transfer to Reserve Force.
 
 16 17 Vict. c. 97. s. 72.
 
-20 A 21 Vict. C. 71.8. 85.
+20 & 21 Vict. C. 71.8. 85.
 
 SO St31 Vict. c. 118. 8.10.
 
@@ -11424,7 +11426,7 @@ An Act to enable the Secretary of State in Council of India to create and issue 
 
 [11th August 1879.]
 
-\\f HERE AS by a Bill now before Parliament for an Act the short title of which is the East Indian Railway Company Purchase Act, 1879, provision is proposed to be made for transferring to and vesting in the Secretary of State in Council of India, herein-after called the Secretary of State, the undertaking of the East Indian Railway Company, herein-after called the Company, and all other the property of the Company, gave and except as therein mentioned, and for the creation of an annuity of one million four hundred and seventy-three thousand seven hundred and fifty pounds to be charged on the revenues of India, and to be paid to the Company as therein mentioned for the purpose of being distributed among the proprietors of stock of the Company:
+WHEREAS by a Bill now before Parliament for an Act the short title of which is the East Indian Railway Company Purchase Act, 1879, provision is proposed to be made for transferring to and vesting in the Secretary of State in Council of India, herein-after called the Secretary of State, the undertaking of the East Indian Railway Company, herein-after called the Company, and all other the property of the Company, gave and except as therein mentioned, and for the creation of an annuity of one million four hundred and seventy-three thousand seven hundred and fifty pounds to be charged on the revenues of India, and to be paid to the Company as therein mentioned for the purpose of being distributed among the proprietors of stock of the Company:
 
 And whereas by the said Bill (section forty-six) it is proposed to be enacted that the Secretary of State may purchase by agreement, from any proprietor of stock of the Company, the amount of annuity to which such proprietor is entitled, or any portion thereof, paying in exchange for the same as thereby provided, to any such pro-
 
@@ -11442,7 +11444,7 @@ Farther alterations of day of annual statutory meetings of commissioners of supp
 
 42 & 43 Vict. c. ccvi.
 
-, When Act to come into operation. Power to the Secretary of State in Council of India to create and issue so much capital stock as may be required for the purposes of 42 A 48 Vict, e. ccvi.
+, When Act to come into operation. Power to the Secretary of State in Council of India to create and issue so much capital stock as may be required for the purposes of 42 & 48 Vict, e. ccvi.
 
 As to terms of issue and date of payment off.
 
@@ -14760,11 +14762,11 @@ WHEREAS an Act was passed iD the seventh and eighth years of the reign of His Ma
 
 16Al7 Vict. c. 111. ... ... ~ - — J
 
-20 A 21 Vict. c. 46.
+20 & 21 Vict. c. 46.
 
 26 A 27Viot. C. 101.
 
-29 A 80 Vict. c. 89.
+29 & 80 Vict. c. 89.
 
 7 & 8 G. 4. c. 78. 9 G. 4.C.88.
 
@@ -16708,9 +16710,9 @@ Part L
 
 1. Original Acts. 2. How far continued. 8. Amending Acts.
 
-(1) 5 & 6 Will. 4. c. 27. Linen, Hempen, Cotton, and other Manufactures (Ireland). (2) 3 & 4 Vict. c. 89. Poor Rates, 8tock in Trade Exemption. The whole Act so far as it is not repealed. The whole Act. 3 & 4 Vict. c. 91. (except 88.18 and 23). 5 & 6 Vict. c. 68. 7 & 8 Vict. c. 47. 30 k 31 Vict. c. 60.
+(1) 5 & 6 Will. 4. c. 27. Linen, Hempen, Cotton, and other Manufactures (Ireland). (2) 3 & 4 Vict. c. 89. Poor Rates, 8tock in Trade Exemption. The whole Act so far as it is not repealed. The whole Act. 3 & 4 Vict. c. 91. (except 88.18 and 23). 5 & 6 Vict. c. 68. 7 & 8 Vict. c. 47. 30 & 31 Vict. c. 60.
 
-(3) 4 & 5 Vict. c. 35. Copyhold, Inclosure, and Tithe Commissioners. (4) & 5 Vict. c. 59. Application of Highway Rates to Turnpike Roads. So much as relates to the appointment of and the period for holding office by Commissioners and other officers. 14 & 15 Vict. c. 53. 25 k 26 Vict. o. 73.
+(3) 4 & 5 Vict. c. 35. Copyhold, Inclosure, and Tithe Commissioners. (4) & 5 Vict. c. 59. Application of Highway Rates to Turnpike Roads. So much as relates to the appointment of and the period for holding office by Commissioners and other officers. 14 & 15 Vict. c. 53. 25 & 26 Vict. o. 73.
 
 The whole Act. —
 
@@ -17022,13 +17024,13 @@ Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the
 
 Construction of Act.
 
-82 ft 83 Vict. c.l02. 88 A 34 Vict. c. 24. 84 A 35 Vict. c. 47.
+82 ft 83 Vict. c.l02. 88 & 34 Vict. c. 24. 84 & 35 Vict. c. 47.
 
-88 A 80 Vict. c. 65.
+88 & 80 Vict. c. 65.
 
-89 A 40 Vict. c. 55.
+89 & 40 Vict. c. 55.
 
-40 A 41 Vict. c. 52. 41A 42 Vict. c. 37.
+40 & 41 Vict. c. 52. 41A 42 Vict. c. 37.
 
 Amendment of b. 5. of
 
@@ -18308,7 +18310,7 @@ Grant of 850.0001. for loan by Commissioners of Public Works in Ireland during t
 
 Construction and short title of Aet.
 
-36 A 37 Vict c. 66. 38 A SO Vict. C. 77. 40 A 41 Vict. c. 9.
+36 & 37 Vict c. 66. 38 A SO Vict. C. 77. 40 & 41 Vict. c. 9.
 
 362
 

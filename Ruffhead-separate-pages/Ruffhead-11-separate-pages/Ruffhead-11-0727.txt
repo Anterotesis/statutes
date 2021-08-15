@@ -12,7 +12,7 @@ pi:bt Ship* or
 
 Lighters with-
 
-. put Licence 5
+put Licence 5
 
 Penalty,
 
