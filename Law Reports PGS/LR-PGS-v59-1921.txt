@@ -504,7 +504,7 @@ the Scottish Education Department, or is in accordance with the rules so sanctio
 
 SCHEDULE.
 
-Sections of the Principal Act. Extent of Repeal.
+Sections of the Principal Act. - Extent of Repeal.
 
 Section 73 - The proviso to that section.
 
@@ -5934,15 +5934,13 @@ Ch. 42.
 
 Provided that —
 
-(a) subject as hereinafter provided, any orders made
-
-by the Board under the Defence of the Realm (Liquor Control) Regulations, 1915, and in force at the date of the passing of this Act, shall cease to have effect as from the commencement of Part I. of this Act; and
+(a) subject as hereinafter provided, any orders made by the Board under the Defence of the Realm (Liquor Control) Regulations, 1915, and in force at the date of the passing of this Act, shall cease to have effect as from the commencement of Part I. of this Act; and
 
 (b) the Defence of the Realm (Liquor Control)
 
 Regulations, 1915, shall continue in force until the expiration of the said two months whether or not the war previously terminates; and
 
-(<?) any order made by the Board under which the sale or supply of intoxicating liquor in any licensed premises or club in any area is permitted at hours other than those applicable to licensed premises and clubs generally in that area shall continue in force until the expiration of the said period of two months; and
+(c) any order made by the Board under which the sale or supply of intoxicating liquor in any licensed premises or club in any area is permitted at hours other than those applicable to licensed premises and clubs generally in that area shall continue in force until the expiration of the said period of two months; and
 
 Commencement of Part II.
 
@@ -5966,9 +5964,9 @@ General.
 
 18. The provisions of this Act with respect to licensed premises apply to any premises or place where intoxicating liquors are sold by retail under a licence, and apply to any premises where the Secretary of State or Secretary for Scotland carries on business as the successor of the Board as though such premises were licensed premises.
 
-10. In section thirteen of the Gaming Act, 1845 (which relates to the time when billiard playing is allowed), the following words shall be repealed, that is to say, “ and every person holding a victualler’s licence who “ shall allow any person to play at such table, board, or “ instrument kept on the premises specified in such “ victualler’s licence at any time when such premises “ are not by law allowed to be open for the sale of wine, “ spirits, or beer, or other fermented or distilled liquors.”
+19. In section thirteen of the Gaming Act, 1845 (which relates to the time when billiard playing is allowed), the following words shall be repealed, that is to say, “ and every person holding a victualler’s licence who “ shall allow any person to play at such table, board, or “ instrument kept on the premises specified in such “ victualler’s licence at any time when such premises “ are not by law allowed to be open for the sale of wine, “ spirits, or beer, or other fermented or distilled liquors.”
 
-20. Por the purposes of this Act —
+20. For the purposes of this Act —
 
 The expression “club” means registered club;
 
@@ -5982,9 +5980,7 @@ The expression “conclusion of the permitted hours” means the end of the peri
 
 Licensing, 1921.
 
-Ch. 42.
-
-203
+Ch. 42. 203
 
 21. — (1) This Act shall apply to Scotland subject to the'following modifications: —
 
@@ -5992,11 +5988,9 @@ Ch. 42.
 
 (b) The section of this Act whereof the marginal note is “ Permitted hours on Sundays ” shall not apply except as regards clubs;
 
-(c) The sections of this Act whereof the marginal
+(c) The sections of this Act whereof the marginal notes are “ Application and adaptation of Licensing Act *, “ Statement to be included in club rules ”, and “Penalties”, shall not apply;
 
-notes are “ Application and adaptation of Licensing Act *, “ Statement to be included in club rules ”, and “ Penalties ”, shall not apply;
-
-(d) The provisions of this Act as to the hours duriDg which exciseable liquor may be sold, supplied or consumed in licensed premises on week days shall be substituted for the provisions of the Licensing (Scotland) Acts, 1903 to 1913, as to the hours during which such sale, supply or consumption is permitted on week days, provided that the hour which the licensing court may direct to be substituted for eleven in the morning shall be not earlier than ten; and any reference in the said Acts to the hours when such sale, supply, or consumption is lawful or unlawful, or to hours of opening or closing, shall be construed accordingly;
+(d) The provisions of this Act as to the hours during which exciseable liquor may be sold, supplied or consumed in licensed premises on week days shall be substituted for the provisions of the Licensing (Scotland) Acts, 1903 to 1913, as to the hours during which such sale, supply or consumption is permitted on week days, provided that the hour which the licensing court may direct to be substituted for eleven in the morning shall be not earlier than ten; and any reference in the said Acts to the hours when such sale, supply, or consumption is lawful or unlawful, or to hours of opening or closing, shall be construed accordingly;
 
 (e) Subject to the provisions of sections forty and fifty-five of the Licensing (Scotland) Act, 1903, as amended by any subsequent enactment, it
 
@@ -7236,7 +7230,7 @@ Ch. 46.
 
 Appropriation Act, 1921. 11 & 12 Geo. 6.
 
-SCHID. (B.) Paht 11.
+SCHED. (B.) Paht 11.
 
 Civil Service*. 01am n.
 
@@ -7472,7 +7466,7 @@ Ch. 46.
 
 Appropriation Act, 1921. 11 & 12 Geo. 5.
 
-SCHID. (B.)
+SCHED. (B.)
 
 Past 11.
 
@@ -8312,7 +8306,7 @@ Liquidation - 5, 445, 600 8, 390,000
 
 Carried forward - £ 13, 045, 600 9, 423,000
 
-SCHID. (B.)
+SCHED. (B.)
 
 Part 16. OirilServioee. Glass VEL
 
@@ -15768,7 +15762,7 @@ SCHEDULES.
 
 EIRST SCHEDULE.
 
-Paet L
+Part L
 
 Offices to which Sections One and Two apply.
 
@@ -16208,11 +16202,9 @@ Powers of investment in trust deeds not to be restricted.
 
 Trusts (Scotland) 1921.
 
-Ch. 58.
+Ch. 58. 525
 
-525
-
-in a fiduciary capacity, and the expressions “ trust ” and “ trust deed ” shall be construed accordingly.
+in a fiduciary capacity, and the expressions “trust” and “trust deed” shall be construed accordingly.
 
 15. — (1) A trustee, unless authorised by the terms of his trust, shall not apply for purchase, acquire, or hold beyond a reasonable time for realisation or conversion into registered or inscribed stock any certificate to bearer or debenture or other bond or document payable to bearer.
 
@@ -16236,7 +16228,7 @@ Discharge of trustees resigning and heirs of trustees dying during the subsisten
 
 Form of resignation of trustees.
 
-Effect of' resignation.
+Effect of resignation.
 
 18. When a trustee who resigns or the representatives of a trustee who has died or resigned cannot obtain a discharge of his acts and intromissions from the remaining trustees, and when the beneficiaries of the trust refuse or are unable from absence, incapacity or otherwise to grant a discharge, the court may, oh petition to that effect' at the instance of such trustee or representative and after such intimation and inquiry as may be thought necessary, grant such discharge.
 
@@ -17096,7 +17088,7 @@ mentary),
 
 Ch. 63.
 
-SCHID. (B.) Past S.
+SCHED. (B.) Past S.
 
 Civil Services (Supplementary), 1021-1922.
 
