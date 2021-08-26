@@ -680,7 +680,7 @@ Legislative authority, shall be framed under sanctions that may secure its accur
 
 t For Mr. Bentham's remarks upon the propriety of converting the Common Law to Statute Law, we must refer the reader to his papers on Codification.— The following reidarks are from the Review of the French Code d’ Instr. Crim.
 
-“ The first peculiarity'that strikes us in this French System, is, that every part of the procedure is regulated by precise written authority: and this we cannot help regarding as a very considerable advantage. Nothing is of to much importance to a people, in regard to their laws, as that they should be indisputable, unvarying, and notorious. But the great use and advantage of writing is, that it imparts those qualities to whatever has been committed to It; and fines » rule admitting of no doubt, or variation, or concealment When a man wishes to fix steadily one of his own thoughts, and for the use of his own mind, he writes it down; —much more a thought which he wants to present steadily to the mind of any other person. How strange is it then, that nations, far advanced in civilisation, should qHow any important part of their laws to remain unwritten! Yet such, with exceptions almost incredibly small, is the account which is truly to be rendered of the practical state of the Law, not only as it has been, but as it now is, all over the world.
+“ The first peculiarity'that strikes us in this French System, is, that every part of the procedure is regulated by precise written authority: and this we cannot help regarding as a very considerable advantage. Nothing is of to much importance to a people, in regard to their laws, as that they should be indisputable, unvarying, and notorious. But the great use and advantage of writing is, that it imparts those qualities to whatever has been committed to It; and fines rule admitting of no doubt, or variation, or concealment When a man wishes to fix steadily one of his own thoughts, and for the use of his own mind, he writes it down; —much more a thought which he wants to present steadily to the mind of any other person. How strange is it then, that nations, far advanced in civilisation, should qHow any important part of their laws to remain unwritten! Yet such, with exceptions almost incredibly small, is the account which is truly to be rendered of the practical state of the Law, not only as it has been, but as it now is, all over the world.
 
 “ Not but that there are certain rules that in the coarse of time have acquired a technical notoriety, and a sort of traditionary authority. Without something of this sort, society could not have existed: hut still the roles are not absolutely certain; they are known only to practitioners in the law; and they may be violated or transgressed by rash or corrupt [to which we may add, or improved by enlightened] judges.
 
@@ -950,7 +950,7 @@ No less fortunate are the other auspices under which a measure for the Reduction
 
 d 2
 
-(^
+(
 
 Reduction to Writing
 
@@ -1398,7 +1398,7 @@ his country. But, viewed in the other relation—as an attempt, likewise, to ren
 
 It has been explained already, that laws are certain, when they define the exact nature of the thinge which are the subjects of their provisions; and when .they decree, that such, and none besides, shall be the meaning of the toords which they employ. And that laws are complete.
 
-mtniere qu’un arret qui y serait contrevenu aurait 6tait ciss£, dn moms l’autorite de la raison Norite. Sons ce rapport il etiit la regie de tous lea tribunaux, et remplissait lea lactmes de notre legislation formelle, qui s’etait peu occuple des conventions, de leurs accessoires et de leurs suites. Ensuite, venaient les lois da prince, e’est-a-dire, les ordonnonces, les edits, les declarations. Loin d’6tablir nn syst£me com pie t de legislation civile, quelques-unes, teUes que les ordonnances de Blois, de Moulins, se com-posaient de dispositions incohlrentes qui ne pr&entaient que quelques regies d6tacb6es snr une infinite de matieres; d’autres, telles que l’ordonnance des testamens, des donations, etc., ne se rSpportaient il est vrai qu’a une seule matiere, et etaient disposes snr un plan tres-r£gulier; mais eUes n’6puisaient pas leur sujet; elles se bornaient, ou » prescire des formalins, on a lever des doutes. Du reste, elles n’embrassaieut pas leur matiere en entier, ii’en posaient pas les bases, ne la suivaient pas dans sea d£vel-loppemens. Sur toutes ces ohoses elles se rlflraient aux principes 6tab!is par 1? droit 6crit ou par les coutumes, et se bornaient a organiser leB usages refus. Ainsi, les lois du prince faisaient partie de la legislation, sans neanmoins la constituer. Les psrle-mens, pronon^ant par voie de dispositions g6n6rales et r6giementaires, avaient aussi, sur des points tres-importuns, rempli les vides de la legislation, et cr£e des principes chacun pour son ressort. Les diverses cod trees, successivement iucorporees a la France, svaient apport6 avec eUes leur usages et leur lois. Elles tenaient k ces institutions comma a des privileges; la faculte de les conserver leur psraissait un droit, quelquefois m£me la condition de leur reunion, et quelques-unes pouvaient appuyer cette pretention par des traites *, leurs patlemens regardaient comme un prerogative et comme un devoir de Tepousser jusqu’ a l’apparence de l’innovation. On se rappelle que l'ordonusuce de 1667 ne ftit pas reyue en Lorraine, et qu’ on y suivait enoore, svant le Code destruction civile, la procedure eiablie parun des anciens souverains de cette province. On se souvient aussi que, sous Tassemblee coustituante, le parle-mente de Rennes et celui de llouen vinrent redomer centre les decrets qui modifiaient les usages de la Bretagne et de la Normandie.—Paiilict.
+mtniere qu’un arret qui y serait contrevenu aurait 6tait ciss£, dn moms l’autorite de la raison Norite. Sons ce rapport il etiit la regie de tous lea tribunaux, et remplissait lea lactmes de notre legislation formelle, qui s’etait peu occuple des conventions, de leurs accessoires et de leurs suites. Ensuite, venaient les lois da prince, e’est-a-dire, les ordonnonces, les edits, les declarations. Loin d’6tablir nn syst£me com pie t de legislation civile, quelques-unes, teUes que les ordonnances de Blois, de Moulins, se com-posaient de dispositions incohlrentes qui ne pr&entaient que quelques regies d6tacb6es snr une infinite de matieres; d’autres, telles que l’ordonnance des testamens, des donations, etc., ne se rSpportaient il est vrai qu’a une seule matiere, et etaient disposes snr un plan tres-r£gulier; mais eUes n’6puisaient pas leur sujet; elles se bornaient, ou prescire des formalins, on a lever des doutes. Du reste, elles n’embrassaieut pas leur matiere en entier, ii’en posaient pas les bases, ne la suivaient pas dans sea d£vel-loppemens. Sur toutes ces ohoses elles se rlflraient aux principes 6tab!is par 1? droit 6crit ou par les coutumes, et se bornaient a organiser leB usages refus. Ainsi, les lois du prince faisaient partie de la legislation, sans neanmoins la constituer. Les psrle-mens, pronon^ant par voie de dispositions g6n6rales et r6giementaires, avaient aussi, sur des points tres-importuns, rempli les vides de la legislation, et cr£e des principes chacun pour son ressort. Les diverses cod trees, successivement iucorporees a la France, svaient apport6 avec eUes leur usages et leur lois. Elles tenaient k ces institutions comma a des privileges; la faculte de les conserver leur psraissait un droit, quelquefois m£me la condition de leur reunion, et quelques-unes pouvaient appuyer cette pretention par des traites *, leurs patlemens regardaient comme un prerogative et comme un devoir de Tepousser jusqu’ a l’apparence de l’innovation. On se rappelle que l'ordonusuce de 1667 ne ftit pas reyue en Lorraine, et qu’ on y suivait enoore, svant le Code destruction civile, la procedure eiablie parun des anciens souverains de cette province. On se souvient aussi que, sous Tassemblee coustituante, le parle-mente de Rennes et celui de llouen vinrent redomer centre les decrets qui modifiaient les usages de la Bretagne et de la Normandie.—Paiilict.
 
 And see Uie Pteface to the Fa ins rician Code, sections 17—J7.
 
@@ -1456,7 +1456,7 @@ lxxxiv
 
 Reduction to Writing
 
-^ he 2. The first argument specifically advanced against the
+he 2. The first argument specifically advanced against the
 
 from the ex- codification or reduction of our laws to writing, may be
 
@@ -1804,7 +1804,7 @@ cip. 1 Costs iii 203
 
 nc 12C Real Actions* iv 136
 
-rii 13) St. 1 Riots »tt»' » v 218
+rii 13) St. 1 Riots »tt»' v 218
 
 St. 2 Mortmain 317
 
@@ -4188,7 +4188,7 @@ Recoveries - -
 
 Julies -
 
-Leases - » -
+Leases - -
 
 Same -
 
@@ -5250,7 +5250,7 @@ Posthumous Children .1 i
 
 XI. XII. - Papists \\ V 87
 
-6 Descent - f - » i 228
+6 Descent - f - i 228
 
 7 Piracy vi 126 '67
 
@@ -7526,7 +7526,7 @@ XLIfl.
 
 XLIVa .
 
-XLV » i
+XLV i
 
 XLVI.
 
@@ -8752,7 +8752,7 @@ X. OEO.4. cap. 8 Trade 11 101
 
 102 Larceny, Ac.c. •« -, vi 48
 
-108 Trade » ii 105
+108 Trade ii 105
 
 107 Ri 23
 
@@ -10672,7 +10672,7 @@ c. 35 -
 
 Ca 41a Ca 127a a aa a.a a
 
-C. 27a •«• »tM » a
+C. 27a •«• »tM a
 
 c. 48. (in part).
 
@@ -11074,7 +11074,7 @@ OUT
 
 STATUTES EBPEALED.
 
-4 G. 4. c. 70* *» •%• •»• 3 G.4. c. 75. s. 8-26 - » 3 G. 4. c«85. *.
+4 G. 4. c. 70* *» •%• •»• 3 G.4. c. 75. s. 8-26 - 3 G. 4. c«85. *.
 
 3 G. 4. c. 85 -
 
@@ -11134,7 +11134,7 @@ i Promissory Notes A \ Bills of Exchange / aniages /Challenge of Jurors 1 \ lu S
 
 t Fuud -
 
-Coroners In Ireland, » - Insolvent Debtors . .mi Turnpike Roads
+Coroners In Ireland, - Insolvent Debtors . .mi Turnpike Roads
 
 Marriages - »
 
@@ -11728,7 +11728,7 @@ IX. Savings' Banks—Repealed by 9 Ge% IV. c. 92. s. 1.
 
 57 G. 3. c. 105; c. 130. j 1 G. 4. c. 83. |5 G.4. c. 62.
 
-58 G. 3. c. 48. » 1
+58 G. 3. c. 48. 1
 
 REPEALED STATUTES.
 
@@ -14976,7 +14976,7 @@ tfylass I.] 0/ Aliens, Denizens, and NaluraUzatioiU
 
 ' ^or5tfjudged and taken to be, and are hereby declared and enacted to be, ; ‘s(. Atural-born subjects of the Crown of Great Britain, to all intents, rfourostniction9 and purposes whatsoever, as if he and they had been or
 
-^ ^\ferc k°m *n kingdom any thing contained in an Act of the
+\ferc k°m *n kingdom any thing contained in an Act of the
 
 g(
 
@@ -15154,7 +15154,7 @@ Penalty for not having Certificate, or residing elsewhere.
 
 Alien on departure may have his passport sent to the port, and delivered to him on making Declaration.
 
-Of Aliens, Denizens, and Naturalization. » Part I.
+Of Aliens, Denizens, and Naturalization. Part I.
 
 respective days, make a declaration in writing of his or her jlace of residence, and therein state at what place he or she intends in future to reside, and shall within the same week transmit such declaration by the post, if in Great Britain, to one of his Majesty’s principal Secretaries of Stale at the Alien Office in Westminster, and if in Ireland, to the chief Secretary for Ireland, and if any Alien shall neglect or refuse to make or transmit such declaration as last aforesaid, or shall wilfully make or transmit any false declaration, he or she shall be punished in the manner herein-after mentioned.
 
@@ -16634,7 +16634,7 @@ VII. Provided always, That in case the person or persons entitled to nominate in
 
 * himself contributes to augment; ’ Be it therefore further enacted, 'That all agreements which such benefactor or benefactors, with the consent and approbation of the said Governors, touching the patronage or right of presentation or nomination to any such augmented Cure, made or to be made for the benefit of such benefactor and benefactors, his her or their heirs or successors, by the Kingts most excellent Majesty, his heirs and successors, under his and their Sign Manual, or by any bodies politick or corporate, or by* any person or persons being of the full age of twenty-one years, having an estate of inheritance either in fee-simple or fee-tail, in their own right, or in the right of their churches or wives, or jointly with their wives, made before coverture or after, or having an estate for life, or for years determinable upon his and their own life and lives, with remainder in fee-simple or fee-tail to any issue of his or their own bodies in such patronage, or right of presentation or nomination in possession reversion or remainder, snail be respectively good and effectual in the law against his Majesty, his heirs and successors, or against all and every such bodies politick and corporate, or against the persons so agreeing, their wives heirs gnd successors respectively, and every of them, ana against all and every their issue, and against evety other person and persons claiming in remainder and reversion after such estate-tail as aforesaid, according to the form of such agreement; and the advowson patronage and right of presentation and nomination to such augmented churches and chapels shall be vested in such^ benefactors.
 
-^ iC
+iC
 
 Class II.] Statutes relating to the Clergy. 73
 
@@ -17110,7 +17110,7 @@ Statutes relating to the Clergy•
 
 4 received taken or recovered the same, if these presents bad not been made:.
 
-^ [And the said A. B. for himself, In cases where the mortgage by I his heirs, executors, and ad minis- this Act directed is to be made by I trators, doth hereby covenant, pro- the Ordinary and Patron alone, 1 mise, and agree, to and with the said
+[And the said A. B. for himself, In cases where the mortgage by I his heirs, executors, and ad minis- this Act directed is to be made by I trators, doth hereby covenant, pro- the Ordinary and Patron alone, 1 mise, and agree, to and with the said
 
 without the Incumbent, this cove-7
 
@@ -17126,7 +17126,7 @@ his executors,
 
 4 sary. I of the said parish and parish church,
 
-^ shall and will well and truly pay or cause to be paid unto the said his
+shall and will well and truly pay or cause to be paid unto the said his
 
 1 executors administrators or assigns, interest of the said sum of
 
@@ -17294,7 +17294,7 @@ No. XXIII.
 
 17 Geo. III. c. 53.
 
-90 Statutes relating to the Clergy. » [Part I.
+90 Statutes relating to the Clergy. [Part I.
 
 No. XXIII. cularly the lands purchased) lying near and convenient to the parsonage r -1T house belonging to the said rectory, &c. (or, if the house be lately pur-l7Ueo. ill. t of, ased) [lying near a certain messuage house or tenement and buildings c. 53. < lately purchased for the habitation of the minister of the said rectory, * '
 
@@ -18140,7 +18140,7 @@ Class II.] .
 
 Statutes relating to the Clergy.
 
-^ No.
+No.
 
 [No. XXXVIII.] 56 Geo. III. c. 147.—An Act for ena- XXXVIII. bling Spiritual Persons to exchange the Parsonage or 55Geo. III. Glebe Houses or Glebe Lands, belonging to their c. 147. Benefices, for others of greater Value, or more conveniently situated for their Residence and Occupation; and for annexing such Houses and Lands, so taken in Exchange, to such Benefices as Parsonage or Glebe Houses and Glebe Lands, and for purchasing and annexing Lands to become Glebe in certain cases, and for other Purposes. — [6th July 1815].
 
@@ -19730,7 +19730,7 @@ may be made to the Archbishop.
 
 Class II.] Statute* relating to the Clergy. 160//
 
-improvement of any of the glebe or demesne lands thereof or 4o order No. L. ana direct the same or any portion thereof to be paid to the Trustees and » iy Commiaaioaera of the first-fruits in Ireland for the augmentation of the ' *
+improvement of any of the glebe or demesne lands thereof or 4o order No. L. ana direct the same or any portion thereof to be paid to the Trustees and iy Commiaaioaera of the first-fruits in Ireland for the augmentation of the ' *
 
 maintenance of the poor Clergy, to be applied for the purposes of such c* 8, 1 augmentation as such Bishop shall, in his discretion, under all circumstances think fit and expedient; and it shall also be lawful for any such Bishop within six months after such order for sequestration, or within six months after any money shall have been actually levied for such sequestration, to remit to any such spiritual person any part or proportion of such sequestered profits, or cause the same or any part thereof that shall have been paid or directed to be paid to the said Trustees and Commissioners, to be repaid to such spiritual person, which repayment the said Trustees and Commissioners are hereby authorised and required, upon an order under the head of any such Bishop, to make out of any money then in their hands, or if no money shall then be in their hands, out of the next money that shall oome to their haods, in any case which by reason of the subsequent obedience of any such spiritual person to any such monition or order, or the stating and proving such sufficient reasons a» aforesaid, such Bishop shall think the tame proper: Provided Appeal against always, that when any such spiritual person shall think himself aggrieved . Sequ“t”ti^n by reason of any such sequestration issued by any Bishop, it shall be lawful for such spiritual person, within one month after the making any order for nay soon sequestration as aforesaid, to appeal to the Archbishop of the province to which such Bishop shall belong, who shall forthwith, either by himself or some Commissioner or Commissioners appointed from among the Bishops of his province for that purpose, under nix hand and seal, make or cause to be made due inquiry into the same, and make such order therein or relating thereto, or to the profits that shall be so sequestered as aforesaid, for the return to such spiritual person of the same or any part thereof, or otherwise, as shall, under all the circumstances of the case, appear to such Archbishop (after such inquiry made by himself or by his Commissioner or Commissioners, and in the latter ease, after the substance of such inquiry shall have been returned in writing to the said Archbishop) to be just and proper: Provided always, that the party so appealing shall give security to the Bishop for the payment of such reasonable expenees occasioned by the appeal, as the Archbishop or his Commissioner or Commissioners shall award: Provided also, that no such order for any sequestration shall be put in force during such appeal as aforesaid, and until the same shall be determined
 
@@ -20104,7 +20104,7 @@ LXxXIV. And be it further enacted, That this Act shall extend and be construed t
 
 [No. LI.] 6 Geo. IV. c. 8.—An Act to amend and render more effectual an Act passed in the fifty-fifth year of the reign of His late Majesty, for enabling Spiritual Persons to exchange their Parsonage Houses or Glebe. Lands; and for other purposes therein mentioned. — [23dMarch 1826.]
 
-^ WHEREAS an Act was passed in the fifty-fifth year of the reign of His late Majesty King George the Third, intituled An Act for enabling 55 G.3, c. 147. Spiritual Persons to exchange the Parsonage or Glebe Houses, or Glebe Lands, belonging to their Benefices, for others oj greater value, or more conveniently situated for their Residence and Occupation; and for annexing such Houses and Lands, to taken in Exchange, to such Benefices or Parsonage or Glebe Houses and Glebe Lands; and for purchasing and annexing Lands to become Glebe in certain cases; and for other purposes: And whereas it is by the said recited Act enacted, that the Bishop shall, in cases of exchange and purchase under the said Act, issue a commission of inquiry, for the purposes therein mentioned, to be directed to such persons as are therein described, and of whom one shall be a barrister of three years* standing at the least, to be named by the senior Judge of Nisi Prius for the county in which the benefice perpetual curacy or parochial chapelry whereto it shall be proposed to annex any buildings or land by exchange or purchase under the said Act shall be situate; but inasmuch as the nomination of such Barrister by a Judge of Nisi Prius is not applicable to the counties palatineof Ijincaster and Durham; be it therefore enacted by the King’s most excellent Majesty, by and with the advice andcoh^tit ofihe Lords Spiritual
+WHEREAS an Act was passed in the fifty-fifth year of the reign of His late Majesty King George the Third, intituled An Act for enabling 55 G.3, c. 147. Spiritual Persons to exchange the Parsonage or Glebe Houses, or Glebe Lands, belonging to their Benefices, for others oj greater value, or more conveniently situated for their Residence and Occupation; and for annexing such Houses and Lands, to taken in Exchange, to such Benefices or Parsonage or Glebe Houses and Glebe Lands; and for purchasing and annexing Lands to become Glebe in certain cases; and for other purposes: And whereas it is by the said recited Act enacted, that the Bishop shall, in cases of exchange and purchase under the said Act, issue a commission of inquiry, for the purposes therein mentioned, to be directed to such persons as are therein described, and of whom one shall be a barrister of three years* standing at the least, to be named by the senior Judge of Nisi Prius for the county in which the benefice perpetual curacy or parochial chapelry whereto it shall be proposed to annex any buildings or land by exchange or purchase under the said Act shall be situate; but inasmuch as the nomination of such Barrister by a Judge of Nisi Prius is not applicable to the counties palatineof Ijincaster and Durham; be it therefore enacted by the King’s most excellent Majesty, by and with the advice andcoh^tit ofihe Lords Spiritual
 
 Class II.] Statutes relating to the Clergy. 150 u a
 
@@ -20818,7 +20818,7 @@ M 2
 
 Parish Churches adjoining
 
-^ 154 Marriage. [Part I.
+154 Marriage. [Part I.
 
 No VII. be situated, and in case such chapel shall be situated in an extra-parochial - place, then to the parish church next adjoining to such extra-parochial 44 GeO. III. piace> to be kept with the marriage registers of* such parish, and in like c. 71. mnnnar oc naruh pptTKtprc atp Hirpptwl to he kent. hv the said Act of the
 
@@ -20880,7 +20880,7 @@ shall be had and solemnized within the British territories in India by or- betwe
 
 Miniates diaU cettifythe Mar-wget an *
 
-shaHdefiver » Duplicate of the Certificate to the Partjr, nd transmit another to the Ssctauncf the liwrfnsy.
+shaHdefiver Duplicate of the Certificate to the Partjr, nd transmit another to the Ssctauncf the liwrfnsy.
 
 Marriage. [fturi 1.
 
@@ -21018,13 +21018,13 @@ XII. And be it further enacted, That in every licence for the solemnization of a
 
 Class III.] Marriage. 167 d
 
-XIII. And be it further enacted, That if any officer of any person No. XIII. authorized by law to grant any such licence shall not duly observe » qco jy all the provisions contained in this Act respecting such licence, such *
+XIII. And be it further enacted, That if any officer of any person No. XIII. authorized by law to grant any such licence shall not duly observe qco jy all the provisions contained in this Act respecting such licence, such *
 
 officer shall be deemed guilty of a misdemeanor, and being thereof c *
 
 duly convicted, shall suffer all 'the penalties and punishment which may be inflicted by law on a person guilty of a misdemeanor. Officer granting
 
-Licences, not duly observing the Provisions of this Act, guilty of » Misdemeanor.
+Licences, not duly observing the Provisions of this Act, guilty of Misdemeanor.
 
 XIV; And be it further enacted, That no person shall, from and after With whom the passing of this Act, be deemed authorized by law to grant any the Power of licence for the solemuization of any Marriage, except the Archbishops granting Li-of Canterbury and York, according to the rights now vested in them cences lies, respectively, and except the several other Bishops within their respective dioceses, for the Marriage of persons one of whom shall be resiaent at the time within the diocese of the Bishop in whose name such licence shall be granted, such residence to be proved in manner herein-before directed; and such Archbishops and Bishops shall make such orders and regulations for the observance of their respective officers within their respective jurisdictions, as they shall deem necessary for the more effectual performance of the duties of their several officers within the true intent and meaning of this Act; and if any such officer shall not duly observe all such orders and regulations, such officer shall be deemed guilty of a misdemeanor, and being thereof duly convicted, shall be subject to punishment as guilty of a misdemeanor.
 
@@ -21350,7 +21350,7 @@ IL Provided always, and be it further enacted, That nothing in this Not to affec
 
 WHEREAS by an Act, passed in the fourth year of the reign of (its present Majesty, intituled An Act for amending the Laws respecting 4 G, 4. t. 76. the SoUrqnizaHon of Marriages in England, it is provided, that if the church of any parish, or chapel of any ehapelry, wherein Marriages have been usually solemnized, be demolished in order to be rebuilt, or be under repair, and on such account be disused for publie service, it shall be lawful for the banns to be proclaimed in a church or chapel of any adjoining parish or ehapelry in which banns are usually proclaimed, or in any place within die limits of the parish or ehapelry which shall be licensed by the Bishop of the diocese for the performance of divine service during the repair or. rebuilding of the church as aforesaid; but it is not provided that Marriages may be solemnized in such place so licensed:
 
-And whereas it is further provided, that where no such place shall be so licensed# then during such period as aforesaid the Marriage may be solemnized in the adjoining church or chapel wherein the banns have been proclaimed; but it is not provided that Marriages may be solemnized by licence in such adjoining church or chapel as aforesaid: And whereas it is provided that all Marriages theretofore, but it is not provided that Marriages thereafter solemnized in other places within the said parishes or chapelries than the said churches or chapels, on account of their being under repair, or taken down in order to be rebuilt, shall not be liable to have their validity questioned 0n that account: And whereas it » pro167 P
+And whereas it is further provided, that where no such place shall be so licensed# then during such period as aforesaid the Marriage may be solemnized in the adjoining church or chapel wherein the banns have been proclaimed; but it is not provided that Marriages may be solemnized by licence in such adjoining church or chapel as aforesaid: And whereas it is provided that all Marriages theretofore, but it is not provided that Marriages thereafter solemnized in other places within the said parishes or chapelries than the said churches or chapels, on account of their being under repair, or taken down in order to be rebuilt, shall not be liable to have their validity questioned 0n that account: And whereas it pro167 P
 
 No. XIX. 6 Geo. IV. c. 68.
 
@@ -21722,7 +21722,7 @@ Act against the Corporation itself as a body.— Rex r. Corporation of Carmarthe
 
 Nd. M, court where such information shall be filed shall give further time to such 9 Anne P*rson or persons against whom such information shall be exhibited to
 
-^ plead; and such person or persons, who shall sue or prosecute such infor»
+plead; and such person or persons, who shall sue or prosecute such infor»
 
 c. 20. mation or informations in the nature of a Quo Warranto, shall proceed thereupon with the most convenient speed that may be; any law or usage to the contrary thereof in any wise notwithstanding.
 
@@ -23760,7 +23760,7 @@ POE the amendment of the law in* several 'particulars, and for the easier 4XXAnn
 
 {?) and therefore and after the said first day of Trinity Term no*ad- Exception *
 
-^ triage or exception shall be taken of or for an immaterial traverse; or 2T Elis; «. 5»
+triage or exception shall be taken of or for an immaterial traverse; or 2T Elis; «. 5»
 
 * Called ft 5 Anne, c. 16, in VoL If. p. 930, soft hr Bird on Wills, ftc. pt 2#.
 
@@ -24198,7 +24198,7 @@ III. Provided always, That this Act, or any thing herein contained, shall not ex
 
 (1) This order can only be made upon ad- ter cannot examine evidence.—Ibenon v. Iberaoo, turnon of the sum claimed ai due, and the mas- 4 Vesey, 105. An order cannot be made under
 
-^ iC
+iC
 
 Class I.] Miscellaneous Statutes concerning Real Estates. 245
 
@@ -24342,7 +24342,7 @@ Purchaser to be eeised of landa on payment of the
 
 s
 
-^ fe»
+fe»
 
 ic v.
 
@@ -24570,7 +24570,7 @@ enter the Mme, all other memorials are registered and entered by him, without th
 
 h 11 kTlfiCate Registrar or Deputy Registrar, or the stamps therein examined by him;
 
-J* re‘ any thing whatsoever in an Act passed in the fifty-sixih year of the reign » Tonfin X *ate Majesty King George the Third, intituled An Act to repeal the
+J* re‘ any thing whatsoever in an Act passed in the fifty-sixih year of the reign Tonfin X *ate Majesty King George the Third, intituled An Act to repeal the
 
 Comniniomr several Stamp Duties in Ireland, and algo general Acts for the Collection and
 
@@ -25434,7 +25434,7 @@ This Act, ai to the Affirmation, to extend to Scotland for
 
 [No. XL] 53 George III. c. 127.—An Act for the better Regulation, of Ecclesiastical .Courts in England; and for the more easy Recovery of . Church Rates and Tithes.
 
-^ Inserted post Part IV. Title Ecclesiastical Courts.]
+Inserted post Part IV. Title Ecclesiastical Courts.]
 
 [No. XII.] 1 Geo. IV. c. 40.—An Act to amend and
 
@@ -27058,7 +27058,7 @@ IV. And be it further enacted, That a true exact and particular survey c* 1 adme
 
 suages cottages orchards gardens homesteads ancient enclosed lands and metgur2nent~ grounds within any such parish or manor, shall be made and reduced ip^n & into writing by such commissioner or commissioners, or by such other person or persons as he or they shall nominate and appoint, as soon as Lands, &c. to conveniently may be, tor the purposes of such Act; and the number of be inclosed dull acres and decimal parts of an acre, in statute measure, contained in all be made, and the lands and mounds directed or authorised to be divided allotted and kept by the inclosed, and also in all the ancient inclosed lands grounds and home- Commissioners, steads aforesaid, and of each and every proprietor’s distinct property in which shall be the same respectively, at the time of making such survey and admeasure- verified by the ment, shall be therein set forth and specified; and that the said survey P*1*00* admeasurement plan and valuation shall be kept by such commissioner them# or commissioners; and the person or persons who snail make such survey admeasurement plan and valuation shall verify the same upon oath or affirmation at any meeting to be held after the making thereof (which oath or affirmation the commissioners or any one of mem, are and is hereby empowered and required to administer; ) and the proprietors Proprietors may and their respective agents, and all persons interested therein, shall at inspect Admea-all seasonable times have liberty to peruse and inspect such admeasure- snrements and ment and plan only, and to take copies thereof and extracts therefrom Plan *, *nd take respectively. Copies.
 
-v. And be it further enacted, That for surveying admeasuring and Until the Devaluing all the said lands and grounds, and for other the purposes of such non shall be Act, it shall be lawful for sush'commissioner or commissioners, every or completed the any of them, or the person or persons to be appointed by him or them, to Lands may be make such survey admeasurement plan and valuation, together with their entered by the and every of their assistants and servants, at any time or times whatso- Commissioner *, ever, until such division shall be completed, to enter view and examine °* “7 persons survey and admeasure all and every part of the lands and grounds in- .7 "“7 aP“ tended to be divided and allotted, and also all the ancient inclosed lands £°mt’to grounds and homesteads directed to be surveyed, and to do or cause to he urre7, » c
+v. And be it further enacted, That for surveying admeasuring and Until the Devaluing all the said lands and grounds, and for other the purposes of such non shall be Act, it shall be lawful for sush'commissioner or commissioners, every or completed the any of them, or the person or persons to be appointed by him or them, to Lands may be make such survey admeasurement plan and valuation, together with their entered by the and every of their assistants and servants, at any time or times whatso- Commissioner *, ever, until such division shall be completed, to enter view and examine °* “7 persons survey and admeasure all and every part of the lands and grounds in- .7 "“7 aP“ tended to be divided and allotted, and also all the ancient inclosed lands £°mt’to grounds and homesteads directed to be surveyed, and to do or cause to he urre7, c
 
 Map* made ft, the time of
 
@@ -27534,7 +27534,7 @@ III. Provided always. That nothing in this Act contained shall prevent or be con
 
 IV. Provided always, and be it further enacted, That whenever any lease or leases to be granted by any rector vicar or other incumbent under the powers or provisions of an Act passed in the forty-first year of the reign of his late Majesty King George the Third, intituled An Act for consolidating in one Act certain Provisions usually inserted in Acts of Incite sure, andfur facilitating the'Mode (f proving'the several Facts usually restored on the passing of such Acts, shall by any means become forfeited or void, or be surrendered before the expiration by effluxion of time of foe term or terms thereby granted, then and in such case, and as often as the same shall so happen, it shall and may be lawful for the rector vicar or cither incumbent for the time being of the same rectory vicarage-or parish, by and with the previous consent of the ordinary and patron, to
 
-^ 1C
+1C
 
 «Uss ID.] .^pproeemtrtf and Inclosure of Commons. £IT
 
@@ -27886,7 +27886,7 @@ E No.VL] 18 Edward III. rt. *
 
 pmM for puvebaslag Lands
 
-«. %—Prehte» » Ifcrtmaw,
+«. %—Prehte» Ifcrtmaw,
 
 n»No. VI.
 
@@ -28148,7 +28148,7 @@ Where there there is a discretion to invest money in land or in a manner not pro
 
 be fraudulent and void.—Attorney-General v. Tyndall, Amb. 614.
 
-Where a disposition of land for charitable purposes is void by the statute, a personal funa attached to it is void also—as » gft of houses, as alms-houses for certain poor objects, and an annual sum to each house.—-Attorney-General v. Goulding, 2 Bro. Ch. 428, confirmed under circumstances similar in effect, Attorney-General v. Whitchurch, 8 Vesey, 141. So a bequest of a residue to purchase or build a chapel, where the executors might think it most wanted, and any overplus to go to the support of a minister, not exceeding 201. a year, and any further overplus to such charitable purposes as the executors might think proper—the purchasing or buildings chapel, (which according to the cases above cited could not be supported,) being the primary object, the whole was void. See also, to the same effect, Attorney-General v. Davies, 9 Vesey, 535. As to the case of the object of building a chapel being left vague in respect of the requisite amount.— Chapman v. Brown, 6 Vesey, 404.
+Where a disposition of land for charitable purposes is void by the statute, a personal funa attached to it is void also—as gft of houses, as alms-houses for certain poor objects, and an annual sum to each house.—-Attorney-General v. Goulding, 2 Bro. Ch. 428, confirmed under circumstances similar in effect, Attorney-General v. Whitchurch, 8 Vesey, 141. So a bequest of a residue to purchase or build a chapel, where the executors might think it most wanted, and any overplus to go to the support of a minister, not exceeding 201. a year, and any further overplus to such charitable purposes as the executors might think proper—the purchasing or buildings chapel, (which according to the cases above cited could not be supported,) being the primary object, the whole was void. See also, to the same effect, Attorney-General v. Davies, 9 Vesey, 535. As to the case of the object of building a chapel being left vague in respect of the requisite amount.— Chapman v. Brown, 6 Vesey, 404.
 
 But a disposition may be partly good and partly void when the purposes are distinguishable—ax where a person having founded alms-houses by a valid deed, bequeathed a sum of money in trust, to apply the surplus interettin rebuilding repairing altering adding to or improving the messuages or tenements ground and appurtenances before conveyed, the disposition was declared valid, so far as the money was to be applied in rebuilding repairing altering or improving the premises, and so far aa the additions should be made upon the land before conveyed—but bad so far as any addition should be made, by acquiring other land. Attorney-General v. Parsons, 8 Vesey, 186, Note. The discretionary power of the trustees seems not to have been adverted to Where a testatrix gave a house upon trust, to deposit ink the books thereafter given and purchased—and gave to trustees all the religious books which she might leave at her death, and her personal estate upon trust, to apply the residue of her estate for the use of the Welch circulating schools—and for the increase and improvement of Christian knowledge, and promoting religion as the trustees should think proper—and to purchase new Bibles, Ac.c. for such pious uses as were intended concerning those already bought—and, in the mean time, to deposit the said Bibles, &c. in the said house. The disposition as to the personal estate was sustained, the Lord Chancellor being of opinion that the charity ' wis not so engrafted into, connected with, and placed upon an establishment in real property, that the charity coald not subsist, as the realestate was so given-that the house was meant to be subservient to the distribution of books, but not necessarily connected with that purpose.—Attorney-General v. Stepney, 10 Vesey, 22, Vide 2 Mars. 61. 6 Taunt. 359.
 
@@ -28482,7 +28482,7 @@ under the same rules and regulations as are hereby vested in the said
 
 cLQU
 
-^ wv.1^ « - «.i papers' ana documents, 'bem> parts
+wv.1^ « - «.i papers' ana documents, 'bem> parts
 
 efrn&Mtioft, to be fronr tittre td timte transmitted t6 the ftctttkty xn the said commission* rtatthe hr office ib Westminster aforesaid. r '»^ '
 
@@ -28684,13 +28684,13 @@ Commissioners to examine on Oath, and may require production of deeds, and direc
 
 whom at thejleast shall be benefioed clergymen, and one ofwhpm toll he a barrister at law of at least qF five year? standingsaudby such (^ihouasioo the co^inissipnersthereinyarned or any threeof them, onq.of whpm . shall be a, beneficqd clergyman and one.such barrister as aforesaid, .shall be authorised and required to inquire whether such (proposed exchange will be beneficial to the objects , of the trust pp‘which, to pharity lands tenements or .hereditaments, so proposed to be exchanged shall , oe sub-jpet, and for what reason or reasons such exchange .will he beneficial tp , the charity ^and for to .Purpose, of such, inquiry ? .such conuiiissiqneip.
 
-^ shall examine upon oath (which .oath they are hereby empowered to ad-’ xyintori) all persons who may be brolight before them for-that purpose, jand shall require the parties applying tor such .exchange^ to bring before them.ayy other persons to be examined upon.oath touching any matters which such commissioners may deem necessary for their mfo rotation; and such qqmmissiqners shall al$o require all deeds papers and writings ‘Ayhicb they may deem necessary for their m for matron, to he also lard .before tom, .and shall direct such surveys maps and plans tobeoiade of the lands proposed to be given and taken in exchange as they may think prooer; and shall cause such lands tenements and hereditaments respectively, and the Umber and trees oa s^chnaiids’fe’spectively, rights of bdmtribft and'all other rights-bdonging thereto^ to bt valued; 4a as d&rty, to ascertain whether thepmpoaed exchange wfill be permanently bailoficial Jo:to charity pr not, and if permanently bene£q4 foi w^peason it will be so beneficial* apd w^iether such exonangei? proposed for the^convenience of the charity or for the convenience ofany other person or persons body politick dr corporate, and whether the terms upon which the exchriMfe is'proposed to be made are tho best which can reasonably be obtained for the benefit of the charity; ' and such commissioners shah also enquire iata 'the tide to the lands tenements or hereditaments proposed to be givcpiifa exchange for the benefit of such.charity, -so as to enable the bishop, oaths Tetnm of such commission, to judge or the propriety of allowing such exchange to take place \ and such commissioners shall thereupon certify tothe
+shall examine upon oath (which .oath they are hereby empowered to ad-’ xyintori) all persons who may be brolight before them for-that purpose, jand shall require the parties applying tor such .exchange^ to bring before them.ayy other persons to be examined upon.oath touching any matters which such commissioners may deem necessary for their mfo rotation; and such qqmmissiqners shall al$o require all deeds papers and writings ‘Ayhicb they may deem necessary for their m for matron, to he also lard .before tom, .and shall direct such surveys maps and plans tobeoiade of the lands proposed to be given and taken in exchange as they may think prooer; and shall cause such lands tenements and hereditaments respectively, and the Umber and trees oa s^chnaiids’fe’spectively, rights of bdmtribft and'all other rights-bdonging thereto^ to bt valued; 4a as d&rty, to ascertain whether thepmpoaed exchange wfill be permanently bailoficial Jo:to charity pr not, and if permanently bene£q4 foi w^peason it will be so beneficial* apd w^iether such exonangei? proposed for the^convenience of the charity or for the convenience ofany other person or persons body politick dr corporate, and whether the terms upon which the exchriMfe is'proposed to be made are tho best which can reasonably be obtained for the benefit of the charity; ' and such commissioners shah also enquire iata 'the tide to the lands tenements or hereditaments proposed to be givcpiifa exchange for the benefit of such.charity, -so as to enable the bishop, oaths Tetnm of such commission, to judge or the propriety of allowing such exchange to take place \ and such commissioners shall thereupon certify tothe
 
 Commkrfdnets to take theM* lowing Oath#
 
 i shall be deposited with the registrar*!
 
-III. And bek fuller enacted, That before inch1 com miss tones* < proceed to execute such commission they shall respectively take the.foU towing Oath: » I
+III. And bek fuller enacted, That before inch1 com miss tones* < proceed to execute such commission they shall respectively take the.foU towing Oath: I
 
 « T A. Ik.one of the commissioners named in a commission [HcscribuiM
 
@@ -28740,7 +28740,7 @@ XX. Provided always, and be it further enacted, That in case the title of Evicti
 
 X. And be it further enacted, That no part of the expences attending Expence tt-any exchange to be made in pursuance of this Act, shall be borne by or tending ex-paid out of the funds of any charity, Unless it shall he made appear to the changes how to bishop of the diocese, upon application for such exchange as aforesaid, be paid, that such exchange is solely intended for the benefit of such charity, and not for any other purpose, and is in respect of such convenience advantageous to the charity, notwithstanding any expence which may be incurred in effecting the same; and then so much of such expences only shall be borne by and discharged out of the funds of such charity as such bishop shall find to be just and reasonable, and shall, by instrument under his hand, allow and declare to be in his opinion an expence incurred for the benefit of the charity, and such as ougtit to be discharged out of the funds of such charity.
 
-^ M8 ^MdrMakk mid EkturitoU&fMs.
+M8 ^MdrMakk mid EkturitoU&fMs.
 
 , 35Wi XL.And whereas eharity4ands tenements:dr heoedifcameMs1 iria^ be
 
@@ -28772,7 +28772,7 @@ V.
 
 X
 
-VI *1, » *, « *
+VI *1, *, « *
 
 /' *4 *• ' •1V.
 
@@ -28796,7 +28796,7 @@ tx:
 
 » .? /"• i v.l* u:
 
-- tv. >. (t, m; » *
+- tv. >. (t, m; *
 
 • ' -f ’• , i, : '
 
@@ -28816,7 +28816,7 @@ M q . v i. )/s -1
 
 • . <-j, *- , 1:
 
-I 1 j’J » ih . jt
+I 1 j’J ih . jt
 
 Mortmain and Charitable Usee,
 
@@ -28834,7 +28834,7 @@ Vol. I. Z
 
 348 »
 
-No. XX. » Geo. IV. c. 85.
+No. XX. Geo. IV. c. 85.
 
 Act not to extend to Deeds avoided by Sui:t at Law.
 
@@ -28856,7 +28856,7 @@ jBUwTIO
 
 PART It.
 
-^ 3* .
+3* .
 
 ACTS FOR CONVEYANCES BY INFANTS, LUNATICS, &c.
 
@@ -28944,9 +28944,9 @@ f AMHtttEAS do im# *nky aribe liyveaaen^MUt
 
 * 71 ptroarabamgMtleo* 'limattoorsio* riwfpes mentis, 'having states in elands‘tnaoiiienta or hereditaments, only for- others orW way of
 
-^ «WMrttgagVy 'Cawnfit (though by Ae -direction of the *or
+«WMrttgagVy 'Cawnfit (though by Ae -direction of the *or
 
-^ mdrtgagoryeoiiv^yony sure estate'in orff hftfh lanflfr tenements Or%er
+mdrtgagoryeoiiv^yony sure estate'in orff hftfh lanflfr tenements Or%er
 
 4 ditameW»taanystlierpw«onjor persons :, JFor iCtnedy thereof? e *it eraetedtiy‘tJw-Kmg’s mast BxceHent Wfijosty, byand^fth the*8vltt sad donaertt of theLords Spiritual and[Tefhperail ‘and CcKUrndnsItf Ads pMscmvftaftittmett^ and'by theatithofitydT!he i|Fhat
 
@@ -29284,7 +29284,7 @@ VII. And be it further enacted, That when and so often as any stocks, Where TYim
 
 person or personsshall refuse to transfer such stocks, funds, annuities, or trl^f9t Stocks securities, or receive and pay ov&r the dividends thereof, to the person or or jr ^, persons entitled thereto, or as he she or they shall direct, or to a new cotlrt of Chao* trustee or trustees, duly appointed by virtue of some power or authority, cery or Etent < or by the Court of Chancery or Exchequer, cither alone or together with qUer may ap* any continuing trustee or trustees (as occasion shall require), (hen and point a Person in every such case it shall be lawful for the Court of Chancery or Exchc* to transfer quer to appoint such person or persons as to the said Court shall seem them, meet, being an officer of such company or society, to transfer or join with the other trustee or trustees, representative or representatives (if any), in transferring such stocks, funds, annuities, or securities, to, or into the name or names of such person or persons, and in such manner as such Court of Chancery or Exchequer shall think proper and direct, and also to order any person or persons appointed as aforesaid, to receive and pay over the interest dividends or annual produce of such stocks, funds, annuities, and securities, in such manner as the said Court of Chancery or Exchequer .shall direct; and every such transfer receipt and payment shill be as valid and effectual as if the trustee or trustees, representative or representatives, had by himself herself and themselves transferred received and paid such stocks, funds, auuuities or securities, or interest, dividends, and annual produce.
 
-ViII. And be it funner enacted, That every direction order or appoiut- Ertiy direction ment to be made iu pursuance of this Act, by the Court of Chancery or or order of the Exchequer, or by any other Court herein-before mentioned, or by the Court of Chen* Lord Chancellor Lord Kce|>er or Commissioners of the Great Seal of eery, Jbche-Grent Britain, intrusted as aforesaid, shall be signified by an order to be quer, nc^orby made upon the petition of such person or persons as herein-after is men- the chan-tioned; (that is to say), if the same shall relate to a conveyance or other ce*or» *•» assurance, or transfer to any person or persons beneficially entitled, then JV* l"£ upon the petition of the person or persons beneficially entitled to the lands, tenements, hereditaments, stocks, funds, annuities, securities, or mwj# w pfa property, or estate, or interest, to be conveyed assured or transferred; tition, ana if the same shall relate to a conveyance or other assurance or transfer, in order to vest any lands, rents, hereditaments, property, stocks, funds, annuities, or securities, in a new trustee or trustees duly appointed by virtue of some power or authority, or by the Court of Chancery or Exchequer, either alone or together with any continuing trustee or trustees, then upon the petition of the trustee or trustees in whom the same shall be proposed to be vested, or some or one of them; and if the same shall relate to the conveyance or other assurance of an estate in in* rt-gage, then u|K>n the petition of the person or persons entitled to the equity of redemption thereof, or some or one of the person or persons entitled to the monies thereby secured, or some or one of the guardian or guardians of the person or persons entitled to such monies, if an infant or^ infants, or the committee or committees of such person or persons?(bC idiot lunatic or of unsound mind.
+ViII. And be it funner enacted, That every direction order or appoiut- Ertiy direction ment to be made iu pursuance of this Act, by the Court of Chancery or or order of the Exchequer, or by any other Court herein-before mentioned, or by the Court of Chen* Lord Chancellor Lord Kce|>er or Commissioners of the Great Seal of eery, Jbche-Great Britain, intrusted as aforesaid, shall be signified by an order to be quer, nc^orby made upon the petition of such person or persons as herein-after is men- the chan-tioned; (that is to say), if the same shall relate to a conveyance or other ce*or» *•» assurance, or transfer to any person or persons beneficially entitled, then JV* l"£ upon the petition of the person or persons beneficially entitled to the lands, tenements, hereditaments, stocks, funds, annuities, securities, or mwj# w pfa property, or estate, or interest, to be conveyed assured or transferred; tition, ana if the same shall relate to a conveyance or other assurance or transfer, in order to vest any lands, rents, hereditaments, property, stocks, funds, annuities, or securities, in a new trustee or trustees duly appointed by virtue of some power or authority, or by the Court of Chancery or Exchequer, either alone or together with any continuing trustee or trustees, then upon the petition of the trustee or trustees in whom the same shall be proposed to be vested, or some or one of them; and if the same shall relate to the conveyance or other assurance of an estate in in* rt-gage, then u|K>n the petition of the person or persons entitled to the equity of redemption thereof, or some or one of the person or persons entitled to the monies thereby secured, or some or one of the guardian or guardians of the person or persons entitled to such monies, if an infant or^ infants, or the committee or committees of such person or persons?(bC idiot lunatic or of unsound mind.
 
 358/
 
@@ -29506,7 +29506,7 @@ the church.]
 
 4 Tf*0& the avoiding and abolishing of feigned covinous and fraudulent 13 Efu. c# 5,
 
-4 A feoffments gifts grants alienations conveyances bonds suits judg- » u 7 *
+4 A feoffments gifts grants alienations conveyances bonds suits judg- u 7 *
 
 4 ments and executions, as well of lands and tenements as of goods and chattels more commonly used and practised in these days man hath TTssdim^ to been seen or heard of heretofore: which feoffments gifts grants aliens- aroy
 
@@ -29570,7 +29570,7 @@ said, That whereas sundry common recoveries of lands tenements and jg jg|«z her
 
 other person or persons; that every such common recovery heretofore Common Reco* had and hereafter to be had, of any lands tenements or hereditaments, reries against shall, as touching such person and persons which then had any remainder Tenants of or reversion, or right or remainder or reversion, and against the heirs of freehold, every of them, stand remain and be of such like force and effect, and of none other, as the same should have been if this Act had never been had ne made.
 
-V. Provided always, and be it further enacted by the authority afore- Making an E#-said. That this Act or any thing therein contained shall not extend to tate whereby » make void any estate or conveyance, by reason whereof any person or voucher may persons shall use any voucher m any writ of Formedon, now depending be used in % or hereafter to be depending, but that all and every such vouchers in any Fanned *, writ of Formedon shall stand and be in like force and effect as if this Act
+V. Provided always, and be it further enacted by the authority afore- Making an E#-said. That this Act or any thing therein contained shall not extend to tate whereby make void any estate or conveyance, by reason whereof any person or voucher may persons shall use any voucher m any writ of Formedon, now depending be used in % or hereafter to be depending, but that all and every such vouchers in any Fanned *, writ of Formedon shall stand and be in like force and effect as if this Act
 
 had never been had ne made; any thing before in this Act contained to the contrary notwithstanding.
 
@@ -29716,7 +29716,7 @@ The statute 27 Elis, is for the protection of purchasers whose rights hare a dir
 
 965
 
-^2. In the following view of the subject, 1 shall first endeavour to trace the Division of the
+2. In the following view of the subject, 1 shall first endeavour to trace the Division of the
 
 operation of the statutes as they affect real estates, or real and personal estates Subject, equally, reserving the consideration of the law peculiarly affecting the disposition of personal property for a distinct and subsequent examination. In this distribution, real estates are adverted to generally, as comprising all rights in land, although constituting personal property only, in respect to the degree of interest—the substantial distinction between the respective kinds of property, as connected with the present discussion, being, that all interests in real estates, although only amounting to chattels in regard to property, are regulated by actual title, whereas the operation of the law, upon mere personal or moveable property, is more particularly determined by the apparent and oetensible possession.
 
@@ -31072,7 +31072,7 @@ FORM of a DECREE, where the Civil Bill is grounded on the over* holding of the T
 
 County of *1 BY the Assistant Barrister at die Sessions for the Division of J County of
 
-^ JT appearing to die court that the jriaintiff caused
+JT appearing to die court that the jriaintiff caused
 
 Plaintiff
 
@@ -31188,7 +31188,7 @@ and county of in the possession of
 
 as tenant thereof, containing acres roods and
 
-^ perches, or thereabouts, on the day of between the hours
+perches, or thereabouts, on the day of between the hours
 
 of ten o’clock in the forenoon and four o’clock in the afternoon of the said day, do certify, That the premises aforesaid then appeared to us to be deserted and left unoccupiea by the said . and that
 
@@ -31196,7 +31196,7 @@ there is not apy distress on the same sufficient to countervail the arrear of re
 
 (Seal.) (Seal.)
 
-^ our hands and seals this To the Assistant Barrister) for the county of f
+our hands and seals this To the Assistant Barrister) for the county of f
 
 Witness present,
 
@@ -31350,7 +31350,7 @@ Law of Ireland respecting the Assignment and Subletting of Lands and Tenements. 
 
 Class VI1L] Leaset. 407
 
-this Act, or which shall be made or entered into at any time on or be- No. XIX. fore the first day of June one thousand eight hundred and twenty-six, » Geo. IV. which lease agreement or instrument shall contain any condition or covenant prohibiting controlling or regulating the assignment or subletting of the lands or tenements demised or agreed to be demised thereby, or of any part thereof, no Act matter or thing whatever to be done or acquiesced in by the lessor or person contracting to lease by such deed or instrument, or by his or their heirs, executors, administrators, or assigns, shall be deemed taken or construed in any court of law or equity, to be or to amount to a waiver of the benefit of any such condition or covenant; and that in any action or actions for the breach of any condition or covenant, committed at any time after the said first day of June one thousand eight hundred and twenty-six, such lessor or contracting party, and his and their heirs, executors, administrators, and assigns, shall be entitled to recover the possession of such lands or tenements by virtue of any such condition, or any penalty for the breach of any such covenant, according to the provisions of any such condition or covenant respectively, unless it shall be expressly proved that such assignment or sub-letting was made with the consent of such lessor or contracting party, his or their heirs, executors, administrators, or assigns, testified, where such assignment or sub* letting shall be by deed or written instrument, by his or their being a party to and signing and sealing such deed or written instrument, or where such assignment or sub-letting shall not be by deed or written instrument, testified by his or their consent in writing, or unless the benefit of such condition or covenant shall have been expressly waived by some writing signed by the party entitled to the benefit thereof.
+this Act, or which shall be made or entered into at any time on or be- No. XIX. fore the first day of June one thousand eight hundred and twenty-six, Geo. IV. which lease agreement or instrument shall contain any condition or covenant prohibiting controlling or regulating the assignment or subletting of the lands or tenements demised or agreed to be demised thereby, or of any part thereof, no Act matter or thing whatever to be done or acquiesced in by the lessor or person contracting to lease by such deed or instrument, or by his or their heirs, executors, administrators, or assigns, shall be deemed taken or construed in any court of law or equity, to be or to amount to a waiver of the benefit of any such condition or covenant; and that in any action or actions for the breach of any condition or covenant, committed at any time after the said first day of June one thousand eight hundred and twenty-six, such lessor or contracting party, and his and their heirs, executors, administrators, and assigns, shall be entitled to recover the possession of such lands or tenements by virtue of any such condition, or any penalty for the breach of any such covenant, according to the provisions of any such condition or covenant respectively, unless it shall be expressly proved that such assignment or sub-letting was made with the consent of such lessor or contracting party, his or their heirs, executors, administrators, or assigns, testified, where such assignment or sub* letting shall be by deed or written instrument, by his or their being a party to and signing and sealing such deed or written instrument, or where such assignment or sub-letting shall not be by deed or written instrument, testified by his or their consent in writing, or unless the benefit of such condition or covenant shall have been expressly waived by some writing signed by the party entitled to the benefit thereof.
 
 II. And be it further enacted, That in all cases the person assigning Lessee Sub-or sub-letting contrary to this Act, without such consent, signified as letting without herein-before directed, shall not have or be entitled to any remedy by Consent, shall distress or otherwise for recovery of any rent or sum reserved in ana by J *
 
@@ -31718,7 +31718,7 @@ to fre *
 
 ni rbf >»;
 
-* 'in » *
+* 'in *
 
 Of l-ft si*1 'sjj'ih'iA .lerijrfst :et:.oenris .Ur ot hito Intake hi
 
@@ -31726,7 +31726,7 @@ ni!TSC4lb, l
 
 r husbiad vi nr ikse fc
 
-^ ifenMOfr
+ifenMOfr
 
 TID CWflflP
 
@@ -31772,7 +31772,7 @@ Xvil. Provided also and be it enacted by the authority aforesaid, Recognisances 
 
 XVIII. Provided also, That this Act nor any thing therein contained, Estates ofLandt be in.any wise prejudicial or hurtful to any person "or persons bom in executed to Wales or the marches of the same, which shall have any estate to them Pen»m bom he
 
-^ Waits.
+Waits.
 
 416
 
@@ -32286,7 +32286,7 @@ be levied, of any lordships manors lands tenements or other heredita- u restrain
 
 Parliament shall be void. Keilw. 210.
 
-^ 1) By virtue of this enactment and the preceding statute, 4 Henry VII. the fine of a party who is entitled to the premises as tenant in tail, ban the right of all who must necessarily convey their descent through the cognizor before they can make out their title to the estate -and the fine of tenant in tail in remainder, is equally a bar to the issue in tail, as' the fine of a tenant in tail in possession. So the possibility of an estate tail in the ancestor is sufficient to bar the issue, as where the issue in tail levied s fine in the life of his ancestor. See Archer’s case, 3 Rep. 90. The fine of a party who is heir in tail in possession, bars the collateral heirs claiming under the same descent, and who must necessarily claim through the cognizor, as if lands be given to die father and the heirs of his body, and the eldest son after the death of the father levies a fine, it is. a bar to the younger; hut a fine levied by the daughter being issue in tail, is no bar to a son afterwards bom; nor will a fine levied by issue in tail who dies in the life of the ancestor be a bar to the collateral issue. (Me. Williams* case. Hob. 332. . C. Sir Wm. Jones, by the name of Godfrey tu Wade.) See the above points more folly stated, with the authorities, in Mr. Cruise's Treatise on Fines, ch. 9.
+1) By virtue of this enactment and the preceding statute, 4 Henry VII. the fine of a party who is entitled to the premises as tenant in tail, ban the right of all who must necessarily convey their descent through the cognizor before they can make out their title to the estate -and the fine of tenant in tail in remainder, is equally a bar to the issue in tail, as' the fine of a tenant in tail in possession. So the possibility of an estate tail in the ancestor is sufficient to bar the issue, as where the issue in tail levied s fine in the life of his ancestor. See Archer’s case, 3 Rep. 90. The fine of a party who is heir in tail in possession, bars the collateral heirs claiming under the same descent, and who must necessarily claim through the cognizor, as if lands be given to die father and the heirs of his body, and the eldest son after the death of the father levies a fine, it is. a bar to the younger; hut a fine levied by the daughter being issue in tail, is no bar to a son afterwards bom; nor will a fine levied by issue in tail who dies in the life of the ancestor be a bar to the collateral issue. (Me. Williams* case. Hob. 332. . C. Sir Wm. Jones, by the name of Godfrey tu Wade.) See the above points more folly stated, with the authorities, in Mr. Cruise's Treatise on Fines, ch. 9.
 
 Although a fine is not, like a recovery, a bar to the parties in remainder or reversion; yet if the party in remainder be collateral heir to die tenant in tail in possession levying the fine, he is bound by the warranty, which is always contained in the fine as the statute 4 & 5 Anne, c. 16. (ante Cfcaa L No. 23.) only makes void warranties by tenants for life, and collateral warranties by any
 
@@ -33628,7 +33628,7 @@ XI. Provided always, That as to cases arising in any of the sakf colonies or pla
 
 [No. IX.] 55 George III. c* 192.—An Aafc to remove certain Difficulties in the Disposition of Copyhold Estates by Will.*—[12tfc July 1815.]
 
-^ OTIEREAS by the customs of certain manors, copyhold estates of such 55 G. IIL manors pass by the last will and testament of the copyhold tenants c. 192.
+OTIEREAS by the customs of certain manors, copyhold estates of such 55 G. IIL manors pass by the last will and testament of the copyhold tenants c. 192.
 
 * A friend, to whom I had some time ago communicated my ideas upon the subjects mentioned in the preliminary note to the present title, applied to me to draw the present Act on behalf of the gentleman who had agreed to bring it forward. I wished the opportunity not to be lost of submitb| tot he attention of the legislature the other
 
@@ -34572,7 +34572,7 @@ VI. Provided also, and be it enacted, That where any fee-farm rent or All Rents 
 
 King’s Majesty, his heirs and successors, shall from henceforth ever
 
-The King's title required by this Act to be within sixty Yean, ought to accrue upon » Verdict or Demurrer, &c.
+The King's title required by this Act to be within sixty Yean, ought to accrue upon Verdict or Demurrer, &c.
 
 and not upon a bare putting in charge or standing insuper.
 
@@ -34764,7 +34764,7 @@ XIV. Provided'alway, and be it enacted by the authority aforesaid, That such and
 
 [No. XXVI.] *22 & 23 Charles II. c. 24.—An Act for vesting certain Fee-farm Rents and other small Rents in Trustees.
 
-^ 623 Car.IL c. 24. 22Car. 2. c. 26.
+623 Car.IL c. 24. 22Car. 2. c. 26.
 
 INHERE AS his Majesty, in pursuance of a late Act, intituled An Act " for advancing the Sale of Fee farm Rents, and other Rents, bath by several letters patents (one bearing date the thirteenth day of June in the two and twentieth year of his reign, and the other bearing date the eleventh day of November in the two And twentieth year of his reign) granted and conveyed divers fee-farm rents, and other rents, unto Francis Lord HawUy Sir Charles Harbord Knt. Sir William Howard Knt. Sir John Talbot Knt. Sir Robert Steward Knt and William Harbord Esq. and their heirs, as trustees for sale thereof, most of which rents are of *he yearly value of forty shillings per annum and upwards;
 
@@ -35208,7 +35208,7 @@ VIII. And be it further enacted by the authority aforesaid, That be- No". XXXV.
 
 .Exchequer of any manors messuages lands tenements rents tithes 'jreo‘ A11’ •woods or other hereditaments now belonging or hereafter to belong to c* 75.
 
-his Majesty his heirs or successors, within the ordering and survey aforesaid, a survey of the premises, where the same shall he capable of such Before any survey, and an estimate of the improved annual value thereof, shall be Grant ia made had and made by such able and practical surveyors of land or of houses a survey of the (according to the nature of the case) as shall be named for that purpose, Premises, and by or under the order and direction of the Lord High Treasurer or Com- an estimate of xnissiouers of the Treasury, or of the Surveyor General of the Land Re- the improved venires of the Crown for the time being, which said surveyors of land Annual Value, or of houses shall certify by their reports in writing, under their hands, to what in their judgment is or are the true and fair improved annual certified by the worth or value of the respective estates so by them surveyed and valued, 5unre7or* c" clear of all taxes assessments and reprizes whatever; and where the greatest part of the value thereof shall consist of the building or buildings thereon, or of ground set apart and appropriated for building, the said surveyor or surveyors shall certify the true and fair annual worth or value of the respective buildings land or ground, clear of all contributions for the expences of building of party walls or repairing the same, and of » repairing and keeping in repair the respective buildings, (as the case may be,) and also of all taxes assessments and reprizes whatever, and also what is or shall then appear to be the true state and condition of such buildings in point of their repair strength and durability; and also for what term of years it shall appear to him or them to be most beneficial for the interest of the crown to grant such buildings or ground respectively, regard being had to the quality and condition of the buildings then standing upon such ground, and of the buildings proposed to be erected thereon; and every person who shall be employed to make sur- Qath to be veys and estimates or valuations of any such manors messuages lands azwexed to tenements rents tithes woods or other hereditaments as aforesaid, in ^ch Survey, consequence of applications for grants or renewals of leases thereof, iiall annex to each survey and estimate or valuation, an oath (or being of the people called Quaker* an affirmation) taken and subscribed by him before a justice of the peace in any county city or liberty within this kingdom, the tenor whereof shall be as follows:
+his Majesty his heirs or successors, within the ordering and survey aforesaid, a survey of the premises, where the same shall he capable of such Before any survey, and an estimate of the improved annual value thereof, shall be Grant ia made had and made by such able and practical surveyors of land or of houses a survey of the (according to the nature of the case) as shall be named for that purpose, Premises, and by or under the order and direction of the Lord High Treasurer or Com- an estimate of xnissiouers of the Treasury, or of the Surveyor General of the Land Re- the improved venires of the Crown for the time being, which said surveyors of land Annual Value, or of houses shall certify by their reports in writing, under their hands, to what in their judgment is or are the true and fair improved annual certified by the worth or value of the respective estates so by them surveyed and valued, 5unre7or* c" clear of all taxes assessments and reprizes whatever; and where the greatest part of the value thereof shall consist of the building or buildings thereon, or of ground set apart and appropriated for building, the said surveyor or surveyors shall certify the true and fair annual worth or value of the respective buildings land or ground, clear of all contributions for the expences of building of party walls or repairing the same, and of repairing and keeping in repair the respective buildings, (as the case may be,) and also of all taxes assessments and reprizes whatever, and also what is or shall then appear to be the true state and condition of such buildings in point of their repair strength and durability; and also for what term of years it shall appear to him or them to be most beneficial for the interest of the crown to grant such buildings or ground respectively, regard being had to the quality and condition of the buildings then standing upon such ground, and of the buildings proposed to be erected thereon; and every person who shall be employed to make sur- Qath to be veys and estimates or valuations of any such manors messuages lands azwexed to tenements rents tithes woods or other hereditaments as aforesaid, in ^ch Survey, consequence of applications for grants or renewals of leases thereof, iiall annex to each survey and estimate or valuation, an oath (or being of the people called Quaker* an affirmation) taken and subscribed by him before a justice of the peace in any county city or liberty within this kingdom, the tenor whereof shall be as follows:
 
 a J A.B. do swear [or-being a Quaker do solemnly affirm] That the Fonn of Oath.
 
@@ -36448,7 +36448,7 @@ FORM OF DEED FOR AN EXCHANGE OF LEASEHOLD PREMISES.
 
 DG it known, That the Right Honourable A. fi. and C.
 
-^ Commissioners of his Majesty’s woods forests and land revenues, being duly authorised by the Lords Commissioners of his Majesty’s Treasury, in exercise of the powers vested in them by an Act, [insert the Title of this Act], do by these presents on behalf of his Majesty his heirs and successors give grant and demise unto X. F. his executors administrators and assigns for the term of years, commencing from the day
+Commissioners of his Majesty’s woods forests and land revenues, being duly authorised by the Lords Commissioners of his Majesty’s Treasury, in exercise of the powers vested in them by an Act, [insert the Title of this Act], do by these presents on behalf of his Majesty his heirs and successors give grant and demise unto X. F. his executors administrators and assigns for the term of years, commencing from the day
 
 next before the day of the date of these presents, all that piece or parcel of land coloured in the map or plan annexed to these presents,
 
@@ -36750,7 +36750,7 @@ XVIII. Saving always to the King’s most excellent Majesty his heirs and succes
 
 [No. XLIV.] 58 George III. c. 100.—An Act for vesting in his Majesty certain Parte of the Hayes of Bvrk-land and BilSiagh, and of certain Commonable Lands and Open Uninclosed Grounds id the Township of Edwinstowe within the Forest of Sherwood, in the County of Nottingham. — [lOtA June 1818.]
 
-^ HlIEREAS the King's most excellent Majesty mdrf »t of n crotrn, is seised to himself hie heirs and successors and < " itled to the soil
+HlIEREAS the King's most excellent Majesty mdrf »t of n crotrn, is seised to himself hie heirs and successors and < " itled to the soil
 
 Class XII.] Land Revenue of the Crown. 553
 
@@ -36814,9 +36814,9 @@ Ml JUmdBmtmut qfths Qrwmk. ' fAstJH
 
 VI. And be it further enotad, That tire arid Iwmbwmmp afadi and IIL «*• h y authorised and empowered to appoint & clerk to aaae itf) them in the execution of the said recited Act and this Act, and shell and
 
-^ c*, may remove such clerk and appoint another in his room, as to then, shall
+c*, may remove such clerk and appoint another in his room, as to then, shall
 
-^ ' seem meet; and in case of the death incapacity neglect or dedmhig to
+' seem meet; and in case of the death incapacity neglect or dedmhig to
 
 IWerfbrCom- act of an such clerk, then and in any sen case the said commiasioneo mokamto shall and may appoint any other person they may think proper to be appoint Clerks, their deck.
 
@@ -36916,7 +36916,7 @@ Other Notice* -flow to be three.
 
 Cfanuof light to be produced.
 
-^ omubnonen •nay settle Migrates ss to Hfthtt ot In* teiests
+omubnonen •nay settle Migrates ss to Hfthtt ot In* teiests
 
 Power to Costs relative fa disputed
 
@@ -37142,7 +37142,7 @@ m
 
 mxLiv.
 
-^ 8 Geo. III. 100.
+8 Geo. III. 100.
 
 •land Revenue of the Crown. [Part IIporate or collegiate making such exchanges or partitions in such manner and in such proportions as the said commissioners shall order and direct, and to De recovered and recoverable in the same manner ms any other expences ordered to be paid by the said commissioners are recoverable.
 
