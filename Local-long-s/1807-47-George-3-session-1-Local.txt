@@ -664,7 +664,7 @@ Regulations as to Officers, Fees.
 
 contained, shall, so far as the same are not varied, altered, or repealed, or otherwise provided for, by this present Act, be as good, valid, and effectual, for carrying this Act into Execution, as if the fame had been repeated and re-enacted in this Act.
 
-XXIV. Provided always, and be it enacted, That nothing herein contained shall extend, or be construed to extend, so as to prevent or restrain any Person or Persons from levying Plaints in the Court of the King’s Palace of Westminster, of all and all Manner of Trespasses vi et armis, Trespaifes upon the Cafe, Debt, Account, Detinue of Goods and Chatties, Deceits and Contracts, and all other personal causes, Plaints, and Pleas, or from bringing any Action or Actions whatsoever for Rent, in the same Manner as he or they might have done in case this Act had not been passed, but subject nevertheless and without Prejudice to so much and such Part or Parts of the said recited Acts, as relate to or concern the suing for and Recovery of any Debt or Debts, Sum or Sums of Money not amounting to the Sum of Forty Shillings, in any of His Majesty’s Courts of Record at Westminster, ar elsewhere, out of the said Court of Requests; any Thing in this Act contained to the contrary thereof notwithstanding.
+XXIV. Provided always, and be it enacted, That nothing herein contained shall extend, or be construed to extend, so as to prevent or restrain any Person or Persons from levying Plaints in the Court of the King’s Palace of Westminster, of all and all Manner of Trespasses vi et armis, Trespaifes upon the Cafe, Debt, Account, Detinue of Goods and Chattles, Deceits and Contracts, and all other personal causes, Plaints, and Pleas, or from bringing any Action or Actions whatsoever for Rent, in the same Manner as he or they might have done in case this Act had not been passed, but subject nevertheless and without Prejudice to so much and such Part or Parts of the said recited Acts, as relate to or concern the suing for and Recovery of any Debt or Debts, Sum or Sums of Money not amounting to the Sum of Forty Shillings, in any of His Majesty’s Courts of Record at Westminster, ar elsewhere, out of the said Court of Requests; any Thing in this Act contained to the contrary thereof notwithstanding.
 
 XXV. And be it further enacted, That this Act shall commence and take effect from and after the said Twenty-fourth Day of March One thousand eight hundred and seven; and be deemed and taken to be a Publick Act't, and shall be judicially taken Notice of as such by all Judges, Justices and others, without being specially pleaded.
 
@@ -6412,7 +6412,7 @@ peie
 
 : ?
 
-i, ' ;
+i, ';
 
 ?.
 
@@ -6838,7 +6838,7 @@ II. Provided always, That nothing herein contained shall extend or he , deemed, 
 
 »: ‘ '
 
-ii ;
+ii;
 
 t
 

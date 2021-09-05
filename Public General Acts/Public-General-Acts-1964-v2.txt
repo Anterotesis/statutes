@@ -1526,7 +1526,7 @@ guarantee, being a note or memorandum signed by the guarantor or by a person aut
 
 (a) a copy of the hire-purchase agreement or credit-sale
 
-agreement or, in the case of a credit-sale agreement under which the total purchase price does not exceed £30, a copy of any note or memorandum of the agreement ; and
+agreement or, in the case of a credit-sale agreement under which the total purchase price does not exceed £30, a copy of any note or memorandum of the agreement; and
 
 (b) a copy of a note or memorandum of the contract of
 
@@ -1746,7 +1746,7 @@ said Schedule, being provisions corresponding to the provisions enacted for Engl
 
 (4) The following provisions of this subsection shall have effect for the purpose of the construction of any reference (however expressed) in any enactment passed before this Act to a contract to which the Hire Purchase and Small Debt (Scotland) Act 1932 applied or would in certain circumstances have applied: —
 
-(a) if the reference is a reference to a contract to which paragraph (a) of section 1 of that Act applied or would have applied, it shall be construed as a reference to a hire-purchase agreement within the meaning assigned to that expression by section 21(1) of the Act of 1938 ;
+(a) if the reference is a reference to a contract to which paragraph (a) of section 1 of that Act applied or would have applied, it shall be construed as a reference to a hire-purchase agreement within the meaning assigned to that expression by section 21(1) of the Act of 1938;
 
 (b) if the reference is a reference to a contract to which paragraph (b) of the said section 1 applied or would have applied, it shall be construed as a reference to a conditional sale agreement within the meaning assigned to that expression by section 21(5) of this Act;
 
@@ -1802,7 +1802,7 @@ Schedule 1.
 
 (h) any reference to the Hire-Purchase Act 1954 or any provision thereof shall be omitted;
 
-(c) any reference to the bailment of goods shall be omitted ;
+(c) any reference to the bailment of goods shall be omitted;
 
 (d) for any reference to a personal representative there
 
@@ -1830,7 +1830,7 @@ section (7) shall be omitted;
 
 (iv) in subsection (4), the words from “ and in relation to” to the end of the subsection shall be omitted;
 
-(v) in subsection (7), for the words “ by an application for the issue of a warrant of delivery ” there shall be substituted the words “ by an application for the grant of a warrant to officers of court to search such premises in the occupation of that person as may be specified in the warrant and to take possession of the goods or any of them which may be found in such premises ” ; and at the end of the said subsection there shall be added the words “ Any warrant granted in pursuance of an application under this subsection shall be deemed to include authority to open, if need be, shut and lockfast places for the purpose of carrying the warrant into lawful execution ”; and
+(v) in subsection (7), for the words “ by an application for the issue of a warrant of delivery ” there shall be substituted the words “ by an application for the grant of a warrant to officers of court to search such premises in the occupation of that person as may be specified in the warrant and to take possession of the goods or any of them which may be found in such premises ”; and at the end of the said subsection there shall be added the words “ Any warrant granted in pursuance of an application under this subsection shall be deemed to include authority to open, if need be, shut and lockfast places for the purpose of carrying the warrant into lawful execution ”; and
 
 (vi) subsection (8) shall be omitted;
 
@@ -2222,7 +2222,7 @@ Exceptions and Modifications Referrbd to in Section 21(3)
 
 total purchase price;
 
-(d) any reference to hire-rent were a reference to instalments of the purchase price ; and
+(d) any reference to hire-rent were a reference to instalments of the purchase price; and
 
 (e) any reference to goods let under a hire-purchase agreement
 
@@ -2262,7 +2262,7 @@ Provided that if the previous owner has died, or any other event has occurred wh
 
 (2) In this Part of this Schedule—
 
-“ buyer ”, in relation to a conditional sale agreement, means the person who agrees to purchase goods under the agreement and includes a person to whom the rights or liabilities of that person under the agreement have passed by assignment or by operation of law ;
+“ buyer ”, in relation to a conditional sale agreement, means the person who agrees to purchase goods under the agreement and includes a person to whom the rights or liabilities of that person under the agreement have passed by assignment or by operation of law;
 
 “ seller ”, in relation to a conditional sale agreement, means the person who agrees to sell goods under the agreement and includes a person (other than the buyer) to whom that person’s property in the goods or any of that person’s rights or liabilities under the agreement has passed by assignment or by operation of law.
 
@@ -2340,7 +2340,7 @@ subsections—
 
 “(1) The following provisions of this section shall apply, in a case to which the last foregoing section applies, where the owner commences an action to enforce a right to recover possession of any of the goods from the hirer after one-third of the hire-purchase price has been paid or tendered as aforesaid.
 
-(1A) After such an action has been commenced the owner shall not take any steps to enforce payment of any sum due under the hire-purchase agreement or under any contract of guarantee relating thereto, except by claiming the said sum in the said action ” ; and
+(1A) After such an action has been commenced the owner shall not take any steps to enforce payment of any sum due under the hire-purchase agreement or under any contract of guarantee relating thereto, except by claiming the said sum in the said action ”; and
 
 (b) for any reference to the county court there shall be substituted
 
@@ -2384,7 +2384,7 @@ Ch. 53
 
 (a) in the second paragraph 1, the words from the beginning to
 
-“ has been paid, then] ” shall be omitted ; and
+“ has been paid, then] ” shall be omitted; and
 
 (b) in the second paragraph 2, after the word “If ”, in the first
 
@@ -2420,7 +2420,7 @@ Council direct that the foregoing subsection shall be amended so as to substitut
 
 “ (3) The Board of Trade may by regulations provide that in any document which on being signed as mentioned in subsection (2Xa) of this section constitutes a hire-purchase agreement to which this Act applies, the signature of the hirer shall be inserted in a space marked in such manner and accompanied in the document by such words, as may be specified in the regulations; and the regulations may include provision as to the location of those words in relation to the space in which the signature is inserted and may prescribe such other requirements (whether as to type, size, colour or disposition of lettering or otherwise) as the Board may consider appropriate for securing that the words come to the attention of the hirer at the time when he is about to sign the document.
 
-(4) A document to which any regulations made under the last foregoing subsection apply shall not be invalid by reason only that the regulations are not complied with ; but subsection (2) of this section shall have effect in relation to compliance with the requirements of any such regulations as it has effect in relation to compliance with the requirements specified in paragraphs ( b) to (e) of the said subsection.”
+(4) A document to which any regulations made under the last foregoing subsection apply shall not be invalid by reason only that the regulations are not complied with; but subsection (2) of this section shall have effect in relation to compliance with the requirements of any such regulations as it has effect in relation to compliance with the requirements specified in paragraphs ( b) to (e) of the said subsection.”
 
 16. In section 3 of the Act of 1938 there shall be added the following subsection: —
 
@@ -2440,11 +2440,11 @@ Ch. 53
 
 ance with a warrant issued in pursuance of the order; and where such a warrant has been issued the court shall—
 
-(a) if the court varies the conditions of the post-* ponement under the said paragraph (a), suspend the warrant on the like conditions ;
+(a) if the court varies the conditions of the post-* ponement under the said paragraph (a), suspend the warrant on the like conditions;
 
 (b) if the court makes an order under the said paragraph (c) for the specific delivery of a part of the goods to the owner and for the transfer to the hirer of the owner’s title to the remaining part thereof, cancel the warrant so far as it provides for the delivery of the last mentioned part of the goods.
 
-(2) At any time before the delivery of goods to the owner in accordance with a warrant issued as aforesaid, the warrant may, so far as it provides for the delivery of the goods, be discharged by the payment to the owner by the hirer or any guarantor of the whole of the unpaid balance of the hire-purchase price ; and in any such case the owner’s title to the goods shall vest in the hirer.
+(2) At any time before the delivery of goods to the owner in accordance with a warrant issued as aforesaid, the warrant may, so far as it provides for the delivery of the goods, be discharged by the payment to the owner by the hirer or any guarantor of the whole of the unpaid balance of the hire-purchase price; and in any such case the owner’s title to the goods shall vest in the hirer.
 
 (3) If, in an action to which the said section 12 applies, an offer as to conditions for the postponement of the operation of an order under paragraph ( ) of subsection
 
@@ -2454,7 +2454,7 @@ Provided that where a guarantor is a party to the action, no such order shall be
 
 18. In section 21(1) of the Act of 1938—
 
-(a) in the definition of “ hire-purchase price ”, after the words “ to which the agreement relates ” there shall be inserted the words “ inclusive of any sum so payable by way of a deposit or other initial payment, or credited or to be credited to the hirer under such an agreement on account of any such deposit or payment, whether that sum is to be or has been paid to the owner or to any other person or is to be or has been discharged by a payment of money or by the transfer or delivery of goods or by any other means ; but ” ; and
+(a) in the definition of “ hire-purchase price ”, after the words “ to which the agreement relates ” there shall be inserted the words “ inclusive of any sum so payable by way of a deposit or other initial payment, or credited or to be credited to the hirer under such an agreement on account of any such deposit or payment, whether that sum is to be or has been paid to the owner or to any other person or is to be or has been discharged by a payment of money or by the transfer or delivery of goods or by any other means; but ”; and
 
 (b) at the end of the subsection there shall be added the following words: —
 
@@ -2476,7 +2476,7 @@ Application of 1.—(1) This Act shall (except as provided by section 2 of the
 
 Act* Hire-Purchase Act 1964) apply in relation to all hire-purchase
 
-agreements and credit-sale agreements under which the hire-purchase price or total purchase price, as the case may be, does not exceed £2000 ; and the expressions “ hire-purchase agreement ” and “ credit-sale agreement ” shall be construed accordingly.
+agreements and credit-sale agreements under which the hire-purchase price or total purchase price, as the case may be, does not exceed £2000; and the expressions “ hire-purchase agreement ” and “ credit-sale agreement ” shall be construed accordingly.
 
 (2) If at any time after the commencement of the Hire-Purchase Act 1964 it appears to Her Majesty in Council that the limit specified in the foregoing subsection (whether by virtue of that subsection or of a previous Order in Council under this subsection) should be further raised. Her Majesty may by Order in Council direct that the foregoing subsection shall be amended so as to substitute, for the sum specified in that subsection, such larger sum as may be specified in the Order.
 
@@ -2654,9 +2654,9 @@ ment, and the date or the mode of determining the date upon which each future in
 
 (a) an implied stipulation that the hirer shall have and enjoy
 
-quiet possession of the goods ;
+quiet possession of the goods;
 
-(b) an implied stipulation on the part of the owner that he shall have a right to sell the goods at the time when the property is to pass ;
+(b) an implied stipulation on the part of the owner that he shall have a right to sell the goods at the time when the property is to pass;
 
 (c) an implied stipulation that the goods shall be free from
 
@@ -2892,15 +2892,15 @@ Ch. 53 Hire-Purchase Act 1964
 
 “ action ”, “ buyer ”, “ delivery ”, “ goods ”, “ property ”,
 
-“ sale ”, “ seller ”, have the meanings respectively assigned to them by the Sale of Goods Act 1893 ;
+“ sale ”, “ seller ”, have the meanings respectively assigned to them by the Sale of Goods Act 1893;
 
-“ hire-purchase agreement ” means any contract, in whatsoever terms it may be expressed and whether it be truly one of sale or hire, whereby goods are taken on hire by one person from another person in consideration of periodical payments to be made by the first mentioned person to the other person, with an option to the first mentioned person to become the buyer of the goods ;
+“ hire-purchase agreement ” means any contract, in whatsoever terms it may be expressed and whether it be truly one of sale or hire, whereby goods are taken on hire by one person from another person in consideration of periodical payments to be made by the first mentioned person to the other person, with an option to the first mentioned person to become the buyer of the goods;
 
 “credit-sale agreement” means an agreement for the sale of goods under which the purchase price is payable by five or more instalments, not being a conditional sale agreement;
 
 “conditional sale agreement” has the meaning assigned to it by section 21(5) of the Hire-Purchase Act 1964;
 
-“ hire-purchase price ” means the total sum payable by the hirer under a hire-purchase agreement in order to complete the purchase of goods to which the agreement relates, inclusive of any sum so payable by way of a deposit or other initial payment, or credited or to be credited to the hirer under such an agreement on account of any such deposit or payment, whether that sum is to be or has been paid to the owner or to any other person or is to be or has been discharged by a payment of money or by the transfer or delivery of goods or by any other means ; but exclusive of any sum payable as a penalty or as compensation or damages for a breach of the agreement;
+“ hire-purchase price ” means the total sum payable by the hirer under a hire-purchase agreement in order to complete the purchase of goods to which the agreement relates, inclusive of any sum so payable by way of a deposit or other initial payment, or credited or to be credited to the hirer under such an agreement on account of any such deposit or payment, whether that sum is to be or has been paid to the owner or to any other person or is to be or has been discharged by a payment of money or by the transfer or delivery of goods or by any other means; but exclusive of any sum payable as a penalty or as compensation or damages for a breach of the agreement;
 
 “ owner ” means the person who lets or has let goods to a hirer under a hire-purchase agreement and includes a person to whom the owner’s property in the goods or any of the owner’s rights or liabilities under the agreement has passed by assignation or by operation of law;
 
@@ -2912,7 +2912,7 @@ Ch. 53
 
 agreement have passed by assignation or by operation of Sch. 2 law;
 
-“ contract of guarantee ” means, in relation to any hire-purchase agreement or credit-sale agreement, a contract, made at the request express or implied of the hirer or buyer, to guarantee the performance of the hirer’s or buyer’s obligations under the hire-purchase agreement or credit-sale agreement, or to indemnify the owner or the seller against any loss which he may incur in respect of the hire-purchase agreement or credit-sale agreement; and the expression “ guarantor ” shall be construed accordingly ;
+“ contract of guarantee ” means, in relation to any hire-purchase agreement or credit-sale agreement, a contract, made at the request express or implied of the hirer or buyer, to guarantee the performance of the hirer’s or buyer’s obligations under the hire-purchase agreement or credit-sale agreement, or to indemnify the owner or the seller against any loss which he may incur in respect of the hire-purchase agreement or credit-sale agreement; and the expression “ guarantor ” shall be construed accordingly;
 
 “ total purchase price ” means the total sum payable by the buyer under a credit-sale agreement, exclusive of any sum payable as a penalty or as compensation or damages for a breach of the agreement; and any reference in this Act to a document which constitutes a hire-purchase agreement or a credit-sale agreement shall be construed as including a reference to a document which together with one or more other documents constitutes such an agreement, and any reference to a document which, if executed by or on behalf of another person, would constitute such an agreement shall be construed accordingly.
 
@@ -3066,7 +3066,7 @@ Enactments repealed
 
 Chapter Short Title Extent of Repeal
 
-22&23 Geo. 5. The Hire Purchase Sections 1 to 5.
+22 & 23 Geo. 5. The Hire Purchase Sections 1 to 5.
 
 c. 38. and Small Debt Sections 8 and 9.
 
@@ -3124,7 +3124,7 @@ after the commencement of this Act.
 
 (2) In relation to any such agreement as is mentioned in the preceding sub-paragraph, whether made before, on or after the date on which the Order comes into operation,—
 
-(a) section 15 of this Act shall apply, except in the case of a default committed before that date ;
+(a) section 15 of this Act shall apply, except in the case of a default committed before that date;
 
 2 E 3
 
@@ -3542,7 +3542,7 @@ was made, that is to say—
 
 (iii) in the case of a special power of appointment exercisable in favour of members of a class, any member or potential member of the class;
 
-(iv) in the case of a special power of appointment exercisable in favour of one person only, that person or, where the object of the power is ascertainable only on certain conditions being satisfied, any person as to whom some of the conditions are satisfied and the remainder may in time be satisfied ;
+(iv) in the case of a special power of appointment exercisable in favour of one person only, that person or, where the object of the power is ascertainable only on certain conditions being satisfied, any person as to whom some of the conditions are satisfied and the remainder may in time be satisfied;
 
 (v) in the case of any power, option or other right, the person on whom the right is conferred;
 
@@ -3780,7 +3780,7 @@ Ch. 56
 
 (a) which is registered under the Industrial and Provident
 
-Societies Act 1893 ; and
+Societies Act 1893; and
 
 (b) which does not trade for profit; and
 
@@ -3912,7 +3912,7 @@ housing accommodation on any land which it has housing acquired or in managing h
 
 (b) that there is no other housing society, whether in
 
-existence or about to be formed, to which the society’s interest in the land in question can suitably be transferred ; and
+existence or about to be formed, to which the society’s interest in the land in question can suitably be transferred; and
 
 (c) that the land is capable of being, or continuing to be,
 
@@ -4212,7 +4212,7 @@ action under this Part of this Act as appears to them appropriate as respects th
 
 (a) in relation to the passing by a local authority of a
 
-resolution under subsection (1) of this section in respect of any area every dwelling in which is comprised in a tenement, that subsection shall have effect as if for the references to improvement to the full standard there were substituted references to improvement to the full or to the reduced standard ;
+resolution under subsection (1) of this section in respect of any area every dwelling in which is comprised in a tenement, that subsection shall have effect as if for the references to improvement to the full standard there were substituted references to improvement to the full or to the reduced standard;
 
 (b) subsection (3) shall have effect as if the words from
 
@@ -4732,7 +4732,7 @@ ment notice under section 22 of this Act and while an undertaking given under se
 
 (d) in subsection (2), the words “or decision” shall be omitted;
 
-(e) in subsection (4), the words from “ If the improvement notice ” to the end shall be omitted ;
+(e) in subsection (4), the words from “ If the improvement notice ” to the end shall be omitted;
 
 (/) as soon as practicable after service of a withdrawal notice under this section the local authority shall cause to be recorded in the General Register of Sasines a certificate in the prescribed form stating that the said notice has been served as aforesaid.
 
@@ -5228,7 +5228,7 @@ to cany out any survey or examination required with a view to Part U providing t
 
 (a) in subsections (1) and (2), the references to a tenement
 
-block shall be omitted ;
+block shall be omitted;
 
 (b) in subsection (3), for the reference to the Act of 1957
 
@@ -5354,11 +5354,11 @@ but does not include the Receiver for the Metropolitan Police District;
 
 of this section, is to be in a bathroom;
 
-(b) a wash-hand basin ;
+(b) a wash-hand basin;
 
 (c) a hot and cold water supply at a fixed bath or shower,
 
-which, if reasonably practicable, is to be in a bathroom ;
+which, if reasonably practicable, is to be in a bathroom;
 
 (d) a hot and cold water supply at a wash-hand basin;
 
@@ -6720,7 +6720,7 @@ Part IV (4) Except where the control order is revoked by the county court on an 
 
 (6) The power of appointing a receiver under the last foregoing subsection shall be exercisable at any time after the expiration of one month from the date when the charge takes effect.
 
-(7) For the purposes of this section references to the provisions of the scheme include references to those provisions as varied under this Part of this Act and if, when the control order ceases to have effect, proceedings under the following provisions of this Part of this Act are pending which may result in a variation of the scheme, those proceedings may be continued until finally determined ; and if the charge under this section is enforced before the final determination of those proceedings, the local authority shall be liable to account for any money recovered by enforcing the charge which, having regard to the decision in the proceedings as finally determined, they ought not to have recovered.
+(7) For the purposes of this section references to the provisions of the scheme include references to those provisions as varied under this Part of this Act and if, when the control order ceases to have effect, proceedings under the following provisions of this Part of this Act are pending which may result in a variation of the scheme, those proceedings may be continued until finally determined; and if the charge under this section is enforced before the final determination of those proceedings, the local authority shall be liable to account for any money recovered by enforcing the charge which, having regard to the decision in the proceedings as finally determined, they ought not to have recovered.
 
 (8) In the application of this section to Scotland—
 
@@ -6846,7 +6846,7 @@ ought to be regarded as capital expenditure;
 
 (c) that the number of individuals or households living in
 
-the house, as specified by the local authority in the scheme, is unreasonably low ;
+the house, as specified by the local authority in the scheme, is unreasonably low;
 
 (d) that the estimate of the surpluses on revenue account in
 
@@ -7032,7 +7032,7 @@ the Act of 1961, and no appeal against any order or notice so approved shall lie
 
 (11) in the application of this section to Scotland—
 
-(a) where a control order is revoked by a local authority under subsection (2), or by the sheriff on an appeal under subsection (4), of this section, the local authority shall as soon as practicable thereafter cause to be recorded in the General Register of Sasines the revocation order made by them or, as the case may be, a notice stating that the said order has been revoked by the sheriff as aforesaid ;
+(a) where a control order is revoked by a local authority under subsection (2), or by the sheriff on an appeal under subsection (4), of this section, the local authority shall as soon as practicable thereafter cause to be recorded in the General Register of Sasines the revocation order made by them or, as the case may be, a notice stating that the said order has been revoked by the sheriff as aforesaid;
 
 (b) subsection (8) shall not apply;
 
@@ -7426,7 +7426,7 @@ purposes of the application of that paragraph to expenses incurred before the co
 
 (9) In section 14(1) of the said Act of 1956 (which specifies, by reference to a list of works, the kinds of adaptations of fireplaces to which sections 12 and 13 of that Act apply) after paragraph (c) there shall be added the following paragraph—
 
-“ (cc) providing gas ignition, electric ignition or any other special means of ignition; or ” ; and for the purposes of the said section 14(1) the provision of any igniting apparatus or appliance (whether fixed or not) operating by means of gas, electricity or any other special means shall be deemed to be the execution of works.
+“ (cc) providing gas ignition, electric ignition or any other special means of ignition; or ”; and for the purposes of the said section 14(1) the provision of any igniting apparatus or appliance (whether fixed or not) operating by means of gas, electricity or any other special means shall be deemed to be the execution of works.
 
 (10) In the application of this section to Scotland—
 
@@ -7640,7 +7640,7 @@ tenancy, and any agreement for a lease, underlease, sublease or tenancy, and “
 
 “ the Act of 1957 ” means the Housing Act 1957;
 
-“ the Scottish Act of 1957 ” means the Housing and Town Development (Scotland) Act 1957 ;
+“ the Scottish Act of 1957 ” means the Housing and Town Development (Scotland) Act 1957;
 
 “ the Act of 1958 ” means the Housing (Financial Provisions) Act 1958;
 
@@ -7850,7 +7850,7 @@ Adaptations of Part II of Act of 1961
 
 2. (a) Any provision for an application to a county court shall be construed as a provision for an application to the sheriff, and references to a county court shall be construed accordingly; and any such application to the sheriff shall be conducted and disposed of in like maimer as proceedings brought under the Small Debt (Scotland) Acts 1837 to 1889, and the determination of the sheriff on any such application shall be final and conclusive;
 
-(b) Any provision for an appeal to a magistrates* court or to a county court shall be construed as a provision for an appeal to the sheriff, and references to a magistrates’ court or to a county court shall be construed accordingly ; and the provisions of section 166 of the Housing (Scotland) Act 1950 (other than subsection (3) of that section) shall apply to any such appeal to the sheriff as they apply to appeals to the sheriff under that Act.
+(b) Any provision for an appeal to a magistrates* court or to a county court shall be construed as a provision for an appeal to the sheriff, and references to a magistrates’ court or to a county court shall be construed accordingly; and the provisions of section 166 of the Housing (Scotland) Act 1950 (other than subsection (3) of that section) shall apply to any such appeal to the sheriff as they apply to appeals to the sheriff under that Act.
 
 3. For any reference to the Minister there shall be substituted a reference to the Secretary of State.
 
@@ -7928,7 +7928,7 @@ be inserted the words “ages and sex*, and after the words “ individuals and 
 
 (c) in subsection (11), the references to section ninety of the
 
-principal Act, and the words from “ In this subsection * to the end, shall be omitted ; and
+principal Act, and the words from “ In this subsection * to the end, shall be omitted; and
 
 (d) in subsection (12), the words from “ and shall be* to the end shall be omitted.
 
@@ -8466,7 +8466,7 @@ shall be prima facie evidence of the facts stated in the certificate, and withou
 
 (2) If the superior or owner of any lands and heritages gives notice to the local authority of his estate in those lands and heritages, the authority shall give to him notice of any proceedings taken by them in pursuance of the foregoing provisions of this Part of this Act in relation to those lands and heritages or any part thereof.
 
-(3) Nothing in the foregoing provisions of this Part of this Act shall prejudice or interfere with the rights or remedies of any owner for breach, non-observance or non-performance of any agreement or stipulation entered into by a lessee in reference to any house in respect of which a notice requiring the execution of works is served by a local authority under the foregoing provisions of this Part of this Act, or as respects which regulations made under section 13 of this Act are for the time being in force ; and if any owner is obliged to take possession of a house in order to comply with any such notice, the taking possession shall not affect his right to avail himself of any such breach, non-observance or non-performance which has occurred before he so took possession.
+(3) Nothing in the foregoing provisions of this Part of this Act shall prejudice or interfere with the rights or remedies of any owner for breach, non-observance or non-performance of any agreement or stipulation entered into by a lessee in reference to any house in respect of which a notice requiring the execution of works is served by a local authority under the foregoing provisions of this Part of this Act, or as respects which regulations made under section 13 of this Act are for the time being in force; and if any owner is obliged to take possession of a house in order to comply with any such notice, the taking possession shall not affect his right to avail himself of any such breach, non-observance or non-performance which has occurred before he so took possession.
 
 1024
 
@@ -9516,7 +9516,7 @@ under this Part of this Act, and to be signed by or on behalf of that Minister, 
 
 (b) any country outside Her Majesty’s dominions in which for the time being Her Majesty has jurisdiction;
 
-(c) any country consisting partly of one or more colonies and partly of one or more such countries as are mentioned in the last foregoing sub-paragraph ;
+(c) any country consisting partly of one or more colonies and partly of one or more such countries as are mentioned in the last foregoing sub-paragraph;
 
 “British protected person” has the same meaning as in the British Nationality Acts 1948 to 1964;
 
@@ -9686,7 +9686,7 @@ Part n (3) Those repeals shall not affect any order, direction or other thing do
 
 (5) The expiration of any provision of this Act shall, for all purposes, and in particular for the purposes of section 38 of the Interpretation Act 1889, have the same effect as if that provision had then been repealed by Act of Parliament.
 
-Emergency Laws (.Re-enactments and Ch. 60
+Emergency Laws (Re-enactments and Ch. 60
 
 Repeals) Act 1964
 
@@ -9746,7 +9746,7 @@ Sch. 1 information (using such force as is reasonably necessary for the purpose)
 
 3. In this Schedule—
 
-“ competent authority ” means a Minister of the Crown, and any authority or person on whom by virtue of the relevant section of this Act powers have been conferred by order of any such competent authority as aforesaid ;
+“ competent authority ” means a Minister of the Crown, and any authority or person on whom by virtue of the relevant section of this Act powers have been conferred by order of any such competent authority as aforesaid;
 
 “the relevant section of this Act* means any section of this Act applying this Schedule.
 
@@ -10486,7 +10486,7 @@ ment of Her Majesty's Secretary of State for the Colonies; for sundry services; 
 
 subscriptions to certain international organisations and certain grants in aid
 
-9. For the salaries and expenses of the Department of the Secretary for Technical Cooperation ; for sundry foreign, Commonwealth and Colonial services; for subscriptions to certain international organisations; for certain grants in aid; and for certain expenditure on schemes made under the Colonial Development and Welfare Acts, 1959 and 1963 -10. For the salaries and expenses of the Central African Office; for sundry services, loans, and a grant in aid 12. For a grant in aid of the Commonwealth War Graves Commission and certain other expenses
+9. For the salaries and expenses of the Department of the Secretary for Technical Cooperation; for sundry foreign, Commonwealth and Colonial services; for subscriptions to certain international organisations; for certain grants in aid; and for certain expenditure on schemes made under the Colonial Development and Welfare Acts, 1959 and 1963 -10. For the salaries and expenses of the Central African Office; for sundry services, loans, and a grant in aid 12. For a grant in aid of the Commonwealth War Graves Commission and certain other expenses
 
 Sums not exceeding
 
@@ -12694,7 +12694,7 @@ of a substance for the time being specified in the Schedule to this Act provided
 
 (5) The Secretary of State shall have power, in his discretion, to refuse to register a person in a register kept for the purposes of subsection (l)(c) above if, in the Secretary of State’s opinion.
 
-Drugs (.Prevention of Misuse) Act 1964
+Drugs (Prevention of Misuse) Act 1964
 
 Ch. 64
 
@@ -13534,7 +13534,7 @@ Supplementary 6.—(1) A local authority may make contributions towards provisio
 
 Local Government {Development and Finance) Ch. 67 1141
 
-(.Scotland) Act 1964
+(Scotland) Act 1964
 
 authority or by any voluntary organisation in the doing of Part! anything which could have been done under this Part of this Act by the first-mentioned local authority; and a local authority may receive from any other person contributions towards expenditure incurred or to be incurred by them under this Part of this Act.
 
@@ -13708,7 +13708,7 @@ Interpretation.
 
 Short title and extent.
 
-Ch. 67 Local Government (.Develop and Finance)
+Ch. 67 Local Government (Develop and Finance)
 
 (Scotland) Act 1964
 
@@ -13754,7 +13754,7 @@ Local Authority Bonds
 
 1. —Local authority bonds issued by a local authority shall, subject to the next following paragraph,—
 
-(a) bear interest at such rate as the local authority may determine at the time of the issue of the bonds ;
+(a) bear interest at such rate as the local authority may determine at the time of the issue of the bonds;
 
 (b) be issued in denominations of five pounds and multiples of five pounds;
 
@@ -13766,7 +13766,7 @@ Local Authority Bonds
 
 4. Local authority bonds may be issued by a local authority at such price as the authority may from time to time determine, but not, without the consent of the Secretary of State, at a discount.
 
-5. —(1) Local authority bonds shall, without prejudice to the foregoing provisions of this Schedule, be issued, transferred, dealt with and redeemed upon such terms and in accordance with such provisions as may be prescribed by regulations made by the Secretary of State with the approval of the Treasury ; and any such regulations may, in relation to any local authority bonds, apply (with or without modifications) any provisions of any enactments relating to stock or debentures issued by or mortgages created by a local authority.
+5. —(1) Local authority bonds shall, without prejudice to the foregoing provisions of this Schedule, be issued, transferred, dealt with and redeemed upon such terms and in accordance with such provisions as may be prescribed by regulations made by the Secretary of State with the approval of the Treasury; and any such regulations may, in relation to any local authority bonds, apply (with or without modifications) any provisions of any enactments relating to stock or debentures issued by or mortgages created by a local authority.
 
 (2) The power to make regulations under the foregoing sub-paragraph shall be exercisable by statutory instrument; and an instrument containing such regulations shall be subject to annulment in pursuance of a resolution of either House of Parliament
 
@@ -13826,7 +13826,7 @@ An Act to amend the law relating to dealers in scrap metal and similar goods, an
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-Registration of 1.—(1) Every local authority shall maintain a register of per-scrap metal sons carrying on business in their area as scrap metal dealers ;
+Registration of 1.—(1) Every local authority shall maintain a register of per-scrap metal sons carrying on business in their area as scrap metal dealers;
 
 dealers. and, after the expiration of three months beginning with the
 
@@ -14226,7 +14226,7 @@ Local Enactments
 
 Chapter Short Title Extent of Repeal
 
-7 A 8 Vict. c. xl The Manchester Police In section 181, the words 44 or
+7 & 8 Vict. c. xl The Manchester Police In section 181, the words 44 or
 
 Act 1844. I Marine Stores In section 182, the words 44or the Business of a Dealer in Marine Stores ”, and the words 4 44 Licensed Dealer in Marine Stores4* or, as the case may be ’. In section 188, the words 44 a Dealer in Marine Stores, or ”. In section 189, the words 44 Dealer in Marine Stores, or” and the words 4 44 Licensed Dealer in Marine Stores * or.
 
@@ -15926,7 +15926,7 @@ such authority (being one of the authorities which on the dissolution of the boa
 
 5. In this Schedule—
 
-“ pensions ” includes lump sums and gratuities ;
+“ pensions ” includes lump sums and gratuities;
 
 “pensions provision” means a provision relating to pensions contained in or made under a general or local Act.
 
@@ -19578,7 +19578,7 @@ of the diplomatic staff, of the administrative and technical staff and of the se
 
 (g) the “ members of the service staff *' are the members of the
 
-staff of the mission in the domestic service of the mission ;
+staff of the mission in the domestic service of the mission;
 
 (h) a “private servant* is a person who is in the domestic service of a member of the mission and who is not an employee of the sending State;
 
@@ -19654,7 +19654,7 @@ Article 31
 
 1. A diplomatic agent shall enjoy immunity from the criminal jurisdiction of the receiving State. He shall also enjoy immunity from its civil and administrative jurisdiction, except in the case of:
 
-(a) a real action relating to private immovable property situated in the territory of the receiving State, unless he holds it on behalf of the sending State for the purposes of the mission ;
+(a) a real action relating to private immovable property situated in the territory of the receiving State, unless he holds it on behalf of the sending State for the purposes of the mission;
 
 (b) an action relating to succession in wMch the diplomatic agent is involved as executor, administrator, heir or legatee as a private person and not on behalf of the sending State;
 
@@ -19694,7 +19694,7 @@ Articlb 33
 
 2. The exemption provided for in paragraph 1 of this Article shall also apply to private servants who are in the sole employ of a diplomatic agent, on condition:
 
-(a) that they are not nationals of or permanently resident in the receiving State ; and
+(a) that they are not nationals of or permanently resident in the receiving State; and
 
 (b) that they are covered by the social security provisions which may be in force in the sending State or a third State.
 
@@ -20262,7 +20262,7 @@ Criminal Procedure (Insanity) Act 1964
 
 1964 CHAPTER 84
 
-An Act to amend the form of the special verdict required by section 2 of the Trial of Lunatics Act 1883 and the procedure for determining whether an accused person is under a disability such as to constitute a bar to his being tried; to provide for an appeal against such a special verdict or a finding that the accused is under such a disability; to confer on the court of trial and the Court of Criminal Appeal further powers of making orders for admission to hospital; to empower the prosecution to put forward evidence of insanity or diminished responsibility ; and for purposes connected with the matters aforesaid.
+An Act to amend the form of the special verdict required by section 2 of the Trial of Lunatics Act 1883 and the procedure for determining whether an accused person is under a disability such as to constitute a bar to his being tried; to provide for an appeal against such a special verdict or a finding that the accused is under such a disability; to confer on the court of trial and the Court of Criminal Appeal further powers of making orders for admission to hospital; to empower the prosecution to put forward evidence of insanity or diminished responsibility; and for purposes connected with the matters aforesaid.
 
 [31st July 1964]
 
@@ -21506,9 +21506,9 @@ Consequential Amendments of Refreshment Houses Act 1860 and Licensing Act 1964
 
 1. In the Refreshment Houses Act 1860 the words “ shall be guilty of an offence” shall (except in relation to offences committed before the commencement of this Act) be substituted—
 
-{a) in section 9 for the words following the words “under the authority of this Act ” ; and
+{a) in section 9 for the words following the words “under the authority of this Act ”; and
 
-(b) in section 18 for the words following the words “ the person so licensed ” ; and
+(b) in section 18 for the words following the words “ the person so licensed ”; and
 
 (c) in section 32 for the words following the words “in or
 
@@ -21672,7 +21672,7 @@ duty of considering and determining any case referred to it by the investigating
 
 (a) a person who is registered by the Hairdressing CouncilreSterfor*
 
-is convicted by any court in the United Kingdom of a crime, etc. criminal offence which, in the opinion of the disciplinary committee, renders him unfit to be registered ; or
+is convicted by any court in the United Kingdom of a crime, etc. criminal offence which, in the opinion of the disciplinary committee, renders him unfit to be registered; or
 
 (b) such a person is judged by the disciplinary committee
 
@@ -21802,7 +21802,7 @@ of this Schedule) shall be registered persons and who shall be employees engaged
 
 (3) one person appointed by the President of the British Medical Association;
 
-(4) one person appointed by the President of the Royal College of Physicians of London ;
+(4) one person appointed by the President of the Royal College of Physicians of London;
 
 (5) five persons appointed (subject to the provisions of paragraph 2 of this Schedule) by the members of the Council appointed under sub-paragraphs (1) and (2) of this paragraph from among persons appearing to them to have had wide experience of, and shown capacity in, industry, commerce, administration, finance, or the practice of the law, or to have, in some other respect, special knowledge or experience that would be of value to the Council in the exercise and performance of its functions.
 
@@ -21848,7 +21848,7 @@ Council
 
 (2) The Council shall, in particular, have power: —
 
-(a) to appoint, in addition to a registrar, such officers and servants as the Council may determine ;
+(a) to appoint, in addition to a registrar, such officers and servants as the Council may determine;
 
 2 T 4*
 
@@ -21862,11 +21862,11 @@ Hairdressers ( RegistratiAct 1964
 
 Sch. 1 ( b) to pay to the members of the Council or their committees
 
-such fees for attendance at meetings of the Council or their committees and such travelling and subsistence allowances while attending such meetings or while on any other business of the Council as the Council may determine ;
+such fees for attendance at meetings of the Council or their committees and such travelling and subsistence allowances while attending such meetings or while on any other business of the Council as the Council may determine;
 
 (c) to pay to their officers and servants such remuneration as
 
-the Council may determine ;
+the Council may determine;
 
 (d) as regards any officers or servants in whose case they may
 
@@ -21886,7 +21886,7 @@ The Investigating and Disciplinary Committee Part I
 
 Constitution of the Committees
 
-1.—(1) The Council shall make rules regulating the membership of each of the committees, and the times and places of the meetings, quorum and mode of summoning members of the disciplinary committee ; but a person shall not be eligible for membership of either committee unless he is a member of the Council.
+1.—(1) The Council shall make rules regulating the membership of each of the committees, and the times and places of the meetings, quorum and mode of summoning members of the disciplinary committee; but a person shall not be eligible for membership of either committee unless he is a member of the Council.
 
 (2) Such rules shall secure that no person who acted as a member of the investigating committee with respect to any case shall act as a member of the disciplinary committee with respect to that case.
 
@@ -21952,7 +21952,7 @@ The Investigating and Disciplinary Committee Part I
 
 Constitution of thb Committees
 
-1.—(1) The Council shall make rules regulating the membership of each of the committees, and the times and places of the meetings, quorum and mode of summoning members of the disciplinary committee ; but a person shall not be eligible for membership of either committee unless he is a member of the Council.
+1.—(1) The Council shall make rules regulating the membership of each of the committees, and the times and places of the meetings, quorum and mode of summoning members of the disciplinary committee; but a person shall not be eligible for membership of either committee unless he is a member of the Council.
 
 (2) Such rules shall secure that no person who acted as a member of the investigating committee with respect to any case shall act as a member of the disciplinary committee with respect to that case.
 
@@ -21964,7 +21964,7 @@ Procedure of Disciplinary Committee
 
 {a) for securing that notice that the proceedings are to be brought shall be given, at such time and in such manner as may be specified by the rules, to the person alleged to be liable to have his name removed from the register;
 
-Hairdressers (.RegistratiAct 1964
+Hairdressers (RegistratiAct 1964
 
 Ch. 89
 
@@ -22210,7 +22210,7 @@ order sought by the application would relate and all such other relevant informa
 
 2. On making an application for a control order the river purification board concerned shalL in two successive weeks publish in at least one local newspaper circulating in their area and in the area to which the control order would relate, and in the Edinburgh Gazette, a notice—
 
-(a) stating the general effect of the application ;
+(a) stating the general effect of the application;
 
 (b) specifying a place in the said area where a copy of the application and of any relevant map or plan may be inspected by any person free of charge at all reasonable hours during a period of 28 days from the date of the first publication of the notice; and
 
@@ -22224,11 +22224,11 @@ notice in writing to the Secretary of State object to the application.
 
 partly in the proposed control area;
 
-(b) any statutory body the exercise of whose functions may be affected by the control order if made ;
+(b) any statutory body the exercise of whose functions may be affected by the control order if made;
 
 (c) any body or association appearing to the river purifi-
 
-cation board to represent persons who in their opinion may be affected by the control order if made ; and
+cation board to represent persons who in their opinion may be affected by the control order if made; and
 
 (d) every person known to the river purification board to have any interest in any land to which the control order applied for would relate:
 
@@ -22686,7 +22686,7 @@ tioned in paragraphs (a), and id) of subsection (2) of that section are satisfie
 
 (b) that there are reasonable grounds for believing that
 
-the condition mentioned in paragraph (c) of that subsection will, within a reasonable time, be satisfied on the sale or hiring out of those goods for any consideration ;
+the condition mentioned in paragraph (c) of that subsection will, within a reasonable time, be satisfied on the sale or hiring out of those goods for any consideration;
 
 the Commissioners may pay the rebate notwithstanding that that condition has not then been satisfied, but subject to such conditions as they think necessary for securing the repayment of the whole or any part of the rebate if the goods are not sold or hired out for that consideration within such time as they may determine.
 
@@ -22834,7 +22834,7 @@ Coffee, tea, matd and spices.
 
 Cereals.
 
-Products of the milling industry; malt and starches; gluten ; inulin.
+Products of the milling industry; malt and starches; gluten; inulin.
 
 Oil seeds and oleaginous fruit; miscellaneous grains, seeds and fruit; industrial and medical plants; straw and fodder.
 
@@ -22962,9 +22962,9 @@ Tall oil.
 
 Concentrated sulphite-lye.
 
-Spirits of turpentine and other terpenic solvents ; crude dipentene; sulphite turpentine ; pine oil.
+Spirits of turpentine and other terpenic solvents; crude dipentene; sulphite turpentine; pine oil.
 
-Rosin and resin acids and derivatives ; rosin spirit and rosin oils.
+Rosin and resin acids and derivatives; rosin spirit and rosin oils.
 
 Natural rubber.
 
@@ -23120,7 +23120,7 @@ Unwrought aluminium and waste and scrap.
 
 Unwrought magnesium and waste and scrap.
 
-Unwrought lead ; lead waste and scrap. Unwrought zinc ; zinc waste and scrap. Unwrought tin ; tin waste and scrap. Certain base metals employed in metallurgy and articles thereof.
+Unwrought lead; lead waste and scrap. Unwrought zinc; zinc waste and scrap. Unwrought tin; tin waste and scrap. Certain base metals employed in metallurgy and articles thereof.
 
 Finance {No. 2) Act 1964
 
@@ -23208,7 +23208,7 @@ Goods exported or intended for export
 
 (a) are being warehoused for the purpose of exportation or
 
-use as stores, or use in a way qualifying for remission or repayment of duty under paragraph 1 or paragraph 2 of this Schedule ; or
+use as stores, or use in a way qualifying for remission or repayment of duty under paragraph 1 or paragraph 2 of this Schedule; or
 
 (b) are goods which are being warehoused in the course of a trade or business in which the major part of the goods of the kind in question which are imported in the course of the trade or business are re-exported.
 
@@ -23642,7 +23642,7 @@ The Gambia.
 
 (a) sections 735 and 736 of the Merchant Shipping Act 1894 1894 c. 60.
 
-shall be construed as if references therein to the legislature of a British possession did not include references to the legislature of The Gambia ; and
+shall be construed as if references therein to the legislature of a British possession did not include references to the legislature of The Gambia; and
 
 (b) section 4 of the Colonial Courts of Admiralty Act 1890 1890 c. 27. (which requires certain laws to be reserved for the signification of Her Majesty's pleasure or to contain a suspending clause) and so much of section 7 of that Act
 
@@ -24474,7 +24474,7 @@ the Family Allowances and National Insurance Act 1964, for 1964 c. 10. subsectio
 
 13. In section 29—
 
-(a) in subsection (lXd). for the words from “exceeding” onwards there shall be substituted the words “ exceeding the appropriate amount specified in paragraph 12 of Schedule 4 to the National Insurance &c. Act 1964 ” ;
+(a) in subsection (lXd). for the words from “exceeding” onwards there shall be substituted the words “ exceeding the appropriate amount specified in paragraph 12 of Schedule 4 to the National Insurance &c. Act 1964 ”;
 
 <^oo£le
 
@@ -24512,9 +24512,9 @@ The National Assistance Act 1948 (11 & 12 Geo. 6. c. 29)
 
 (a) in sub-paragraphs (e)(i) and (ii) and (/Xi). for the words
 
-44 Part IA ” there shall be substituted the words 44 Part I ” ;
+44 Part IA ” there shall be substituted the words 44 Part I ”;
 
-(b) in sub-paragraph (c)(iii), for the words from “under” onwards there shall be substituted the words “under sub-paragraph (i) or (ii) of paragraph 11(6) of Schedule 4 to the National Insurance &c. Act 1964 ;
+(b) in sub-paragraph (c)(iii), for the words from “under” onwards there shall be substituted the words “under sub-paragraph (i) or (ii) of paragraph 11(6) of Schedule 4 to the National Insurance &c. Act 1964;
 
 (c) in sub-paragraph (/)(ii), for the words from 44 under ” onwards
 
@@ -24536,7 +24536,7 @@ The National Insurance Act 1953 Sch. 5
 
 to the National Insurance Act 1960— (9 & limiz 2)
 
-(a) in paragraph (a), for the words from “ such amount in respect of that child” onwards there shall be substituted the words “ the appropriate amount in respect of that child or each respectively of those children specified in relation to maternity allowance in column 3, 4 or 5 of Part I of Schedule 2 to the principal Act ” ;
+(a) in paragraph (a), for the words from “ such amount in respect of that child” onwards there shall be substituted the words “ the appropriate amount in respect of that child or each respectively of those children specified in relation to maternity allowance in column 3, 4 or 5 of Part I of Schedule 2 to the principal Act ”;
 
 (3) in paragraph (3), for the words “ the fifth column ” there shall be substituted the words “ column 6
 
@@ -24558,9 +24558,9 @@ Minor Amendments Preparatory to Consolidation Introductory
 
 1. In this Schedule—
 
-“ the Act of 1945 ” means the Family Allowances Act 1945 ; 1945 c. 41.
+“ the Act of 1945 ” means the Family Allowances Act 1945; 1945 c. 41.
 
-“ the Act of 1957 ” means the National Insurance Act 1957 ; i957 c>
+“ the Act of 1957 ” means the National Insurance Act 1957; i957 c>
 
 “ the Act of 1961 ” means the Family Allowances and National 1961 c 6
 
@@ -24644,7 +24644,7 @@ Other provisions as to benefit
 
 11. In section 21(5) of the Insurance Act (which provides that a woman who on attaining pensionable age is married shall not be entitled to a retirement pension by virtue of her own insurance unless the number of contributions paid by or credited to her in respect of the period between the date of the marriage and her attaining that age is not less than one half of the number of complete contribution weeks in the period)—
 
-(a) after the word “unless” there shall be inserted the word “either ” ; and
+(a) after the word “unless” there shall be inserted the word “either ”; and
 
 (b) at the end there shall be added the words “or the said period is less than three years ”.
 
@@ -24670,7 +24670,7 @@ Disqualification for, and interim payment of, benefit
 
 (i) for the words “ the forfeiture of injury benefit by a claimant or beneficiary ” there shall be substituted the words 44 disqualifying a claimant or beneficiary for the receipt of injury benefit ”;
 
-(ii) for the words “the forfeiture of benefit by a claimant or beneficiary ” there shall be substituted the words 44 disqualifying a claimant or beneficiary for the receipt of benefit ” ;
+(ii) for the words “the forfeiture of benefit by a claimant or beneficiary ” there shall be substituted the words 44 disqualifying a claimant or beneficiary for the receipt of benefit ”;
 
 (b) in the proviso to section 32(2)—
 
@@ -24684,7 +24684,7 @@ respect of pneumoconiosis by any person ” there shall be substituted the words
 
 (d) in sections 32(2) and 57(l)(e) and (/)(ii), for the words
 
-44 reasonable cause ” wherever they occur there shall be substituted the words “ good cause ” ;
+44 reasonable cause ” wherever they occur there shall be substituted the words “ good cause ”;
 
 and any reference in any regulations made by virtue of the said section 32(2) or 57(l)(e) or (/)(ii) and in force at the commencement of this paragraph shall be construed as if amendments corresponding to those made by this paragraph in the said sections 32(2) and 57(1 ){e) and (/)(ii) had been made in those regulations.
 
@@ -24732,7 +24732,7 @@ Miscellaneous amendments
 
 24. In section 34(2) of the Industrial Injuries Act (which defines approved hospital treatment) the words “ with the approval of the Minister ” shall cease to have effect.
 
-25. Regulations under section 59 of the Insurance Act shall no longer be required to provide for excepting a woman from insurance during any period during which she is married and is a non-employed person, but shall continue to provide for excepting a woman from liability to pay ungiaduated contributions as an insured person during any period during which she is married ; and accordingly, in subsection (2)(a) of the said section 59, sub-paragraph (i) and in sub-paragraph (ii) the words “ and is not excepted from insurance ” shall cease to have effect
+25. Regulations under section 59 of the Insurance Act shall no longer be required to provide for excepting a woman from insurance during any period during which she is married and is a non-employed person, but shall continue to provide for excepting a woman from liability to pay ungiaduated contributions as an insured person during any period during which she is married; and accordingly, in subsection (2)(a) of the said section 59, sub-paragraph (i) and in sub-paragraph (ii) the words “ and is not excepted from insurance ” shall cease to have effect
 
 26. For the avoidance of doubt, it is hereby declared that the power conferred by section 78(5) of the Insurance Act to prescribe the basis of the calculation or estimation for the purposes of that Act of a person's earnings or the rate of a person's remuneration includes power to prescribe that payments of a particular class or description made or falling to be made to or by that person shall, to such extent as may be prescribed, be disregarded or, as the case may be, be deducted from the amount of his earnings or remuneration.
 
@@ -25528,7 +25528,7 @@ A MEASURE passed by the National Assembly of the Church of England to enable the
 
 1, The Church Commissioners (hereinafter referred to as “ the Commissioners ”) may from time to time, on the application of the Central Board of Finance of the Church of England: —
 
-{a) lend to the Central Board of Finance such sums as the Commissioners may think fit for the purpose of defraying expenditure upon lands or buildings of any tenure vested in or held in trust for (or proposed to be vested in or held in trust for) any existing or proposed college or establishment mentioned in the succeeding section or for the purpose of any other capital expenditure in connection with any college or establishment upon such terms and conditions as to interest and repayment of principal as may be agreed ;
+{a) lend to the Central Board of Finance such sums as the Commissioners may think fit for the purpose of defraying expenditure upon lands or buildings of any tenure vested in or held in trust for (or proposed to be vested in or held in trust for) any existing or proposed college or establishment mentioned in the succeeding section or for the purpose of any other capital expenditure in connection with any college or establishment upon such terms and conditions as to interest and repayment of principal as may be agreed;
 
 Power to make or guarantee loans for expenditure in connection with theological colleges and other establishments.
 
@@ -25622,7 +25622,7 @@ representatives of a sole surviving trustee) is or has been any person other tha
 
 (i) an incumbent or churchwardens; or
 
-(ii) an ecclesiastical corporation sole acting as a joint trustee with an incumbent or churchwardens ; or
+(ii) an ecclesiastical corporation sole acting as a joint trustee with an incumbent or churchwardens; or
 
 (b) the presently acting trustees (whether or not validly
 
@@ -25866,7 +25866,7 @@ Guild
 
 Churches.
 
-No. 3 Churchwardens (.Appointme and Resignation)
+No. 3 Churchwardens (Appointme and Resignation)
 
 Measure 1964
 
@@ -25944,7 +25944,7 @@ Repeal,
 
 Short title, extent and commencement.
 
-No. 3 Churchwardens (.Appointm and Resignation)
+No. 3 Churchwardens (Appointm and Resignation)
 
 Measure 1964
 
@@ -26396,9 +26396,9 @@ SCHEDULE
 
 (b) The vicars-general of the provinces of Canterbury and York;
 
-The chancellor of the diocese of London ;
+The chancellor of the diocese of London;
 
-The registrars of the provinces of Canterbury and York ;
+The registrars of the provinces of Canterbury and York;
 
 One diocesan registrar, not being a provincial registrar, nominated by the Archbishops of Canterbury and York.
 
@@ -26448,9 +26448,9 @@ SCHEDULE
 
 (b) The vicars-general of the provinces of Canterbury and York;
 
-The chancellor of the diocese of London ;
+The chancellor of the diocese of London;
 
-The registrars of the provinces of Canterbury and York ;
+The registrars of the provinces of Canterbury and York;
 
 One diocesan registrar, not being a provincial registrar, nominated by the Archbishops of Canterbury and York.
 
@@ -26558,7 +26558,7 @@ General
 
 12. During a vacancy of the see of a bishop: —
 
-(a) any reference to the bishop in sub-section (2) of section four, in sub-section (1) of section ten or in section eleven of this Measure shall be deemed to be a reference to the archbishop of the province in which the diocese of the bishop is situate ; and
+(a) any reference to the bishop in sub-section (2) of section four, in sub-section (1) of section ten or in section eleven of this Measure shall be deemed to be a reference to the archbishop of the province in which the diocese of the bishop is situate; and
 
 (b) sub-section (2) of section ten and the proviso to subsection (2) of section eleven of this Measure shall not apply.
 
@@ -26726,7 +26726,7 @@ missioners in any matters which in the opinion of the Committee are urgent, othe
 
 (3) The Assets Committee shall, subject to any general rules made by the Board, have the following functions: —
 
-(a) an exclusive power and duty to act on behalf of and in the name of the Commissioners in all matters relating to the management of those assets of the Commissioners the income of which is carried into their general fund, including power to sell, purchase, exchange and let land and make, realise and change investments ;
+(a) an exclusive power and duty to act on behalf of and in the name of the Commissioners in all matters relating to the management of those assets of the Commissioners the income of which is carried into their general fund, including power to sell, purchase, exchange and let land and make, realise and change investments;
 
 (b) a duty to recommend to the Board from time to time what sums are available for application or distribution by the Commissioners, and what sums should be appropriated to reserve and for reinvestment.
 
@@ -27360,7 +27360,7 @@ Effect of Legislation
 
 Session and Chap, or No. of Measure Short title or Subject How affected Chapter of 1964 Art or number of Measure or Statutory Instrument
 
-34&35 Vict —cont.
+34 & 35 Vict —cont.
 
 c. 87 Sunday Observance Act . 2, sch. rep 48, s. 64(3), sch.
 
@@ -27422,7 +27422,7 @@ c. 89 Public Works Loans Act 1875. . 9 rep. in pt am. (E.) (.) . 10 rep. Ss. 11 
 
 39 & 40 Vict.: c. 22 c. 46 Trade Union Act Amendment Act 1876. Slave Trade Act 1876 ... Ss. 11-13 rep. (E.)(.)... Rep 24, s. 11(2), sch. 3. 79, .L.R.
 
-40&41 Vict.: c. 2 c. 65 Treasury Bills Act 1877... Fisheries (Dynamite) Act 1877. . 6excl. ... . 3am.(N.I.) 1, s. 2(2). 17, s. 2(2). 62, s. 2(2). 72, s. 3(3), sch. 1.
+40 & 41 Vict.: c. 2 c. 65 Treasury Bills Act 1877... Fisheries (Dynamite) Act 1877. . 6excl. ... . 3am.(N.I.) 1, s. 2(2). 17, s. 2(2). 62, s. 2(2). 72, s. 3(3), sch. 1.
 
 41 & 42 Vict.: c. 17 c. 18 Adulteration of Seeds Act 1878. Public Works Loans Act 1878. Public Health (Ireland) Act 1878. Telegraph Act 1878 Rep. (E.) (.) (prosp.) ... . 4 rep 14, s. 31(1), sch. 6. 9, s. 9(2), sch. 3.
 
@@ -30516,7 +30516,7 @@ ure) (Scotland) Act 1947. Sch. 2 paras. 2, 3 appl.... 3 Pt. II. 56, s. 59 (3) (5
 
 c. 43 Local Government (Scot- . 191(3) appl. in pt. 67, s. 5(4).
 
-land) Act 1947. (mod.). . 226 prov. expld. Pt. XII (ss. 258-296) expld. . 260 expld ; ^Ic 67, s. 6(3). 67, s. 11(4). 67, s. 11(4). 3 B 4
+land) Act 1947. (mod.). . 226 prov. expld. Pt. XII (ss. 258-296) expld. . 260 expld; ^Ic 67, s. 6(3). 67, s. 11(4). 67, s. 11(4). 3 B 4
 
 xl
 
@@ -33056,7 +33056,7 @@ Chap, or No. of Measure Short title or Subject How affected of Measure or Statut
 
 Instrument
 
-15&16Geo. 6.
+15 & 16Geo. 6.
 
 &1 Eliz.2: c. 55—cont. Magistrates* Courts Act . 118 mod 42,s. 39(2), sch. 3
 
@@ -35364,7 +35364,7 @@ c. 52 1961. Army and Air Force Act . 1 restr. 10 Pt. II. 86, s. 4(3).
 
 1961. . 2 excl 11, s. 2(4).
 
-c. 56 ; Credit-Sale Agreements . 3(1) am . 8 excl Ss. 13(4), 17(1) am., 17(2) rep. in pt., 28(1) am., 28(2) rep. in pt., sch. 1 paras. 1,3,6 rep. Rep 5.1. No. 488, art. 2. 11, s. 2(4). 5.1. No. 488, art. 2. 53, ss. 25(3), 34
+c. 56; Credit-Sale Agreements . 3(1) am . 8 excl Ss. 13(4), 17(1) am., 17(2) rep. in pt., 28(1) am., 28(2) rep. in pt., sch. 1 paras. 1,3,6 rep. Rep 5.1. No. 488, art. 2. 11, s. 2(4). 5.1. No. 488, art. 2. 53, ss. 25(3), 34
 
 c. 57 (Scotland) Act 1961. i Trusts (Scotland) Act . 6(1) am. so far as (2), sch. 5. 41, s. 20.
 
