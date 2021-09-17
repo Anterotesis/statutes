@@ -856,7 +856,7 @@ CHAPTER 3.
 
 An Act for further promoting the Revision of the Statute Law by repealing superfluous expressions of enactment, and enactments which have ceased to be in force or have become unnecessary. [27th March 1888.]
 
-IX^HEREAS in numerous statutes the expression “be it further » “ enacted by the authority aforesaid,” or similar expressions
+IX WHEREAS in numerous statutes the expression “be it further » “ enacted by the authority aforesaid,” or similar expressions
 
 of enactment, are frequently repeated, and it is expedient, with a view to the revision of the Statute Law, and particularly to the improvement of the Revised Edition of the Statutes, to repeal these expressions, which are superfluous;
 
@@ -932,7 +932,7 @@ CHAPTER 3.
 
 An Act for further promoting the Revision of the Statute Law by repealing superfluous expressions of enactment, and enactments which have ceased to be in force or have become unnecessary. [27th March 1888.]
 
-IX^HEREAS in numerous statutes the expression “be it further » “ enacted by the authority aforesaid,” or similar expressions
+IX WHEREAS in numerous statutes the expression “be it further » “ enacted by the authority aforesaid,” or similar expressions
 
 of enactment, are frequently repeated, and it is expedient, with a view to the revision of the Statute Law, and particularly to the improvement of the Revised Edition of the Statutes, to repeal these expressions, which are superfluous;
 
@@ -2166,7 +2166,7 @@ Reign and Chapter,
 
 , c. 19. - ! An Act the title of which begins with the words “ An Act” and ends with the words “ and Scotland respectively.” In part; namely — Sections fifteen, eighteen, from “ it is ” to “ aforesaid that ”
 
-11 Geo. 1. c. 9. - j An Act the title of which begins with the words “ An I Act for continuing ” and ends with the words “ by Parliament.” In part; namely — Section two, from “ and it is ” to “ enacted ”; four, from “ it is ” to “ aforesaid that ”; five, from “ be it ” to “ aforesaid that,” and the word “ that ” before “ the said ”
+11 Geo. 1. c. 9. - j An Act the title of which begins with the words “ An Act for continuing ” and ends with the words “ by Parliament.” In part; namely — Section two, from “ and it is ” to “ enacted ”; four, from “ it is ” to “ aforesaid that ”; five, from “ be it ” to “ aforesaid that,” and the word “ that ” before “ the said ”
 
 , c. 30. - An Act for more effectual preventing frauds and abuses in the public revenues. In part; namely — Sections five, thirty-nine, from “ And be it ” to “ aforesaid that ”; and in thirty-nine, the word “ that ” before “ one moiety ”
 
@@ -2216,7 +2216,7 @@ Reign and Chapter,
 
 , c. 19. - ! An Act the title of which begins with the words “ An Act” and ends with the words “ and Scotland respectively.” In part; namely — Sections fifteen, eighteen, from “ it is ” to “ aforesaid that ”
 
-11 Geo. 1. c. 9. - j An Act the title of which begins with the words “ An I Act for continuing ” and ends with the words “ by Parliament.” In part; namely — Section two, from “ and it is ” to “ enacted ”; four, from “ it is ” to “ aforesaid that ”; five, from “ be it ” to “ aforesaid that,” and the word “ that ” before “ the said ”
+11 Geo. 1. c. 9. - j An Act the title of which begins with the words “ An Act for continuing ” and ends with the words “ by Parliament.” In part; namely — Section two, from “ and it is ” to “ enacted ”; four, from “ it is ” to “ aforesaid that ”; five, from “ be it ” to “ aforesaid that,” and the word “ that ” before “ the said ”
 
 , c. 30. - An Act for more effectual preventing frauds and abuses in the public revenues. In part; namely — Sections five, thirty-nine, from “ And be it ” to “ aforesaid that ”; and in thirty-nine, the word “ that ” before “ one moiety ”
 
@@ -4360,7 +4360,7 @@ In part; namely —
 
 In sections two, four, five, the words “and be it enacted ”: six, from “ be it ” to “ enacted that”, and the word “that” before “ no distress.”
 
-An Act the title of which begins with the words “ An | Act for amending,” and ends with the words “ the [ King.”
+An Act the title of which begins with the words “ An Act for amending,” and ends with the words “ the [ King.”
 
 In part; namely —
 
@@ -4448,7 +4448,7 @@ In part; namely —
 
 In sections two, four, five, the words “and be it enacted ”: six, from “ be it ” to “ enacted that”, and the word “that” before “ no distress.”
 
-An Act the title of which begins with the words “ An | Act for amending,” and ends with the words “ the [ King.”
+An Act the title of which begins with the words “ An Act for amending,” and ends with the words “ the [ King.”
 
 In part; namely —
 
@@ -6320,7 +6320,7 @@ In part; namely —
 
 Sections twenty-eight, twenty-nine, from “be it ” to “ enacted that ”
 
-An Act, the title of which begins with the words “ An . Act to enable,” and ends with the word “ assizes.”
+An Act, the title of which begins with the words “ An Act to enable,” and ends with the word “ assizes.”
 
 In part; namely —
 
@@ -6448,7 +6448,7 @@ In part; namely —
 
 Sections twenty-eight, twenty-nine, from “be it ” to “ enacted that ”
 
-An Act, the title of which begins with the words “ An . Act to enable,” and ends with the word “ assizes.”
+An Act, the title of which begins with the words “ An Act to enable,” and ends with the word “ assizes.”
 
 In part; namely —
 
@@ -6544,7 +6544,7 @@ In part; namely —
 
 Section two, from “ be it ” to “ enacted that ”; three, six, seven, from “and be it” to “ enacted
 
-, c. 79. - | An Act, the title of which begins with the words “ An I Act to amend ” and ends with the word “ Ireland.” In part; namely —
+, c. 79. - | An Act, the title of which begins with the words “ An Act to amend ” and ends with the word “ Ireland.” In part; namely —
 
 Sections two, four, seven, nine, twelve, from “ be it ” to “ enacted that ”
 
@@ -6630,7 +6630,7 @@ In part; namely —
 
 Section two, from “ be it ” to “ enacted that ”; three, six, seven, from “and be it” to “ enacted
 
-, c. 79. - | An Act, the title of which begins with the words “ An I Act to amend ” and ends with the word “ Ireland.” In part; namely —
+, c. 79. - | An Act, the title of which begins with the words “ An Act to amend ” and ends with the word “ Ireland.” In part; namely —
 
 Sections two, four, seven, nine, twelve, from “ be it ” to “ enacted that ”
 
@@ -6812,7 +6812,7 @@ In part; namely —
 
 Section two from “ and be it ” to “ enacted ”
 
-An Act the title of which begins with the words “ An I Act to explain,” and ends with the word “ England.” In part; namely —
+An Act the title of which begins with the words “ An Act to explain,” and ends with the word “ England.” In part; namely —
 
 Sections two, five, six, ten, thirteen, sixteen, seventeen, nineteen, twenty, twenty - one, twenty - three, twenty - four, twenty - eight, thirty, thirty-one, thirty-two, thirty-three, thirty-nine, forty-one, forty-three, forty-five, forty-seven, forty-nine, fifty-two, fifty-three, fifty-five, fifty-seven, fifty-eight, fifty-nine, sixty, sixty-three, sixty-five, sixty-six, sixty-seven, sixty-nine, seventy-one, seventy-two, seventy-three, seventy-six, seventy-eight, eighty, eighty - eight, from “ be it ” to “ enacted that ”; in ten, the word “ that ” before * the tolls ”; in thirty-one, the word “ that ” before “ no tolls,”; in thirty-nine, the word * that ” before “ no order ” (twice), and before “ all acts ” (twice), and before “ a chairman ”; in fifty-two, the word “ that ” before “ in case,” and in seventy-eight, the word “ that ” before “ actions ”; twenty-six, thirty-four, thirty-six, forty-four, fifty, fifty-six, sixty-one, eighty-seven, ninety-one, ninety-two, ninety-three, from “ and be it ” to “ enacted ”
 
@@ -6870,7 +6870,7 @@ In part; namely —
 
 Section two from “ and be it ” to “ enacted ”
 
-An Act the title of which begins with the words “ An I Act to explain,” and ends with the word “ England.” In part; namely —
+An Act the title of which begins with the words “ An Act to explain,” and ends with the word “ England.” In part; namely —
 
 Sections two, five, six, ten, thirteen, sixteen, seventeen, nineteen, twenty, twenty - one, twenty - three, twenty - four, twenty - eight, thirty, thirty-one, thirty-two, thirty-three, thirty-nine, forty-one, forty-three, forty-five, forty-seven, forty-nine, fifty-two, fifty-three, fifty-five, fifty-seven, fifty-eight, fifty-nine, sixty, sixty-three, sixty-five, sixty-six, sixty-seven, sixty-nine, seventy-one, seventy-two, seventy-three, seventy-six, seventy-eight, eighty, eighty - eight, from “ be it ” to “ enacted that ”; in ten, the word “ that ” before * the tolls ”; in thirty-one, the word “ that ” before “ no tolls,”; in thirty-nine, the word * that ” before “ no order ” (twice), and before “ all acts ” (twice), and before “ a chairman ”; in fifty-two, the word “ that ” before “ in case,” and in seventy-eight, the word “ that ” before “ actions ”; twenty-six, thirty-four, thirty-six, forty-four, fifty, fifty-six, sixty-one, eighty-seven, ninety-one, ninety-two, ninety-three, from “ and be it ” to “ enacted ”
 
@@ -17082,7 +17082,7 @@ CHAPTER 40.
 
 Air Act to further amend the Acts relating to the raising of Money by the Metropolitan Board of Works, and for other purposes. [13th August 1888.]
 
-38 & 39 Vict. "\\rHEREAS by the Metropolitan Board of Works (Loans) Act, e.65. W 1875 (in this Act referred to as “the Act of 1875”), the
+38 & 39 Vict. "\\ WHEREAS by the Metropolitan Board of Works (Loans) Act, e.65. W 1875 (in this Act referred to as “the Act of 1875”), the
 
 raising of money by the Metropolitan Board of Works (in this Act referred to as “ the Board ”) for the purposes therein specified was regulated, and provision was made requiring that the borrowing powers granted to the Board by Parliament for the purposes therein named should for the future be limited both in time and amount: so & 51 Vict. And whereas by the Metropolitan Board of Works (Money) c.31. Act, 1887 (in this Act referred to as “the Act of 1887”),
 
@@ -17142,7 +17142,7 @@ CHAPTER 40.
 
 Air Act to further amend the Acts relating to the raising of Money by the Metropolitan Board of Works, and for other purposes. [13th August 1888.]
 
-38 & 39 Vict. "\\rHEREAS by the Metropolitan Board of Works (Loans) Act, e.65. W 1875 (in this Act referred to as “the Act of 1875”), the
+38 & 39 Vict. "\\ WHEREAS by the Metropolitan Board of Works (Loans) Act, e.65. W 1875 (in this Act referred to as “the Act of 1875”), the
 
 raising of money by the Metropolitan Board of Works (in this Act referred to as “ the Board ”) for the purposes therein specified was regulated, and provision was made requiring that the borrowing powers granted to the Board by Parliament for the purposes therein named should for the future be limited both in time and amount: so & 51 Vict. And whereas by the Metropolitan Board of Works (Money) c.31. Act, 1887 (in this Act referred to as “the Act of 1887”),
 
@@ -31902,7 +31902,7 @@ CHAPTER 60.
 
 An Act for assigning to Scotland and Ireland respectively certain shares of the Probate Duties; and for providing for the application of such shares.
 
-[24th December 1888.] VXJ HEREAS it has been determined by Parliament to grant in ' T relief of local taxation the following portions of the proceeds of the sums collected in respect of the probate duties; namely,
+[24th December 1888.] VXJ WHEREAS it has been determined by Parliament to grant in ' T relief of local taxation the following portions of the proceeds of the sums collected in respect of the probate duties; namely,
 
 (a.) During the financial year ending the thirty-first of March one thousand eight hundred and eighty-nine, one-third of the said proceeds; and (b.) During every subsequent financial year, one half of the said proceeds,
 
@@ -33584,7 +33584,7 @@ An Act to amend the twenty-third section of “ The Crofter^! Holdings (Scotland
 
 [24th December 1888.]!
 
-AYTHEREAS it is expedient to amend the law relating to the ' delegation of powers by the Crofters Commission to one or J more of their nnmber:
+AY WHEREAS it is expedient to amend the law relating to the ' delegation of powers by the Crofters Commission to one or J more of their nnmber:
 
 Be it therefove enacted by the Queen's most Excellent Majesty,.j by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
