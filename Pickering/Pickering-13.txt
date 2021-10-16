@@ -50,7 +50,7 @@ Cap. 8. For raising the militia for the year 1713, although the month's pay form
 
 Cap. 9. For continuing an act made in the third and fourth years of the reign of her present Majesty, intituled, An act for encouraging the importation of naval stores from her Majesty's plantations in America; and for encouraging the importation of naval stores from that part of Great Britain called Scotland, to that part of Great Britain called England.
 
-Cap. 10. For continuing the acts therein mentioned, for preventing the ft and rapine upon the northern borders of England.
+Cap. 10. For continuing the acts therein mentioned, for preventing theft and rapine upon the northern borders of England.
 
 Cap. 11. To raise 1,200,000l. for publick uses, by circulating a further sum in Exchequer-bills; and for enabling her Majesty to raise 500,000l. on the revenues appointed for the uses of her civil government, to be applied for or towards payment of such debts and arrears owing to her servants, tradesmen and others, as are therein mentioned.
 
@@ -292,105 +292,95 @@ Cap. 16. For the attainder of Henry viscount Bolingbroke of high treason, unless
 
 Cap. 17. For the attainder of James duke of Ormond of high treason, unless he shall render himself to justice by a day certain therein mentioned.
 
+Cap. 18. For the better preventing fresh fish taken by foreigners being imported into this kingdom; and for the preservation of the fry of fish; and for the giving leave to import lobsters and turbets in foreign bottoms; and for the better preservation of salmon within several rivers in that part of this kingdom called England.
+
+Cap. 19. For raising nine hundred and ten thousand pounds for publick services, by sale of annuities, after the rate of five pounds per centum per annum, redeemable by parliament; and to authorize a treaty concerning private rights claimed by the proprietors of the sugar-houses in Scotland.
+
+Cap. 20. For encouraging all superiors, vassals, landlords and tenants in Scotland, who do and shall continue in their duty and loyalty to his majesty King George; and for discouraging all superiors, vassals, landlords and tenants there, who have been or shall be guilty of rebellious practices against his said Majesty; and for making void all fraudulent entails, tailzies and conveyances made there, for barring or excluding the effect of forfeitures that may have been, or shall be incurred there on any such account; as also for calling any suspected person or persons, whose estates or principal residence are in Scotland, to appear at Edinburgh, or where it shall be judged expedient, to find bail for their good behaviour; and for the better disarming disaffected persons in Scotland.
+
+Cap. 21. For enlarging the capital stock and yearly fund of the South-Sea Company, and for supplying thereby eight hundred twenty-two thousand thirty-two pounds four shillings and eight pence, to publick uses; and for raising one hundred and sixty-nine thousand pounds for the like uses, by sale of annuities upon divers encouragements therein mentioned; and for appropriating several supplies granted to his Majesty.
+
+Cap. 22. For enabling his Majesty to settle a Revenue for supporting the Dignity of her Royal Highness the Princess, in case she shall survive his Royal Highness the Prince of Wales.
+
+Cap. 23. For making Provision for the Ministers of the fifty new Churches, which are to be built in and about the Cities of London and Westminster, and Suburbs thereof; and for rebuilding and finishing the Parish Church of Saint Mary Woolnoth in the said City of London.
+
+Cap. 24. For appointing Commissioners to take, examine and state the Debts due to the Army.
+
+Cap. 25. To prevent Disturbances by Seamen, and others; and to preserve the Stores belonging to his Majesty's Navy Royal; and also for explaining an Act for the better preventing the Imbezilment of his Majesty's Stores of War; and preventing Cheats, Frauds and Abuses in paying Seamens Wages; and reviving and continuing an Act for the more effectual Suppression of Piracy.
+
+Cap. 26. For continuing several Laws therein mentioned, relating to Coals, Hemp and Flax, Irish and Scotch Linen, and the Assize of Bread; and for giving Power to adjourn the Quarter-Sessions for the County of Anglesea, for the Purposes therein mentioned.
+
+Cap. 27. For taking and stating the Debts due and growing due to Scotland by way of Equivalent in the Terms of the Union; and for Relief of the Creditors of the Publick in Scotland, and the Commissioners of the Equivalent.
+
+Cap. 28. For repealing an Act, intituled, An Act for repealing Part of an Act passed in the Parliament of Scotland, intituled, Act for discharging the Yule-Vacance.
+
+Cap. 29. For allowing a Time for two hundred and thirteen Families of Protestant Palatines, now settled in Ireland, to take the Oaths, in order to intitle them to all the Benefits intended them by the Act of the seventh Year of her late Majesty's Reign, for naturalizing foreign Protestants.
+
+Cap. 30. For continuing an Act of this present Session of Parliament, intituled, An Act to impower his Majesty to secure and detain such Persons as his Majesty shall suspect are conspiring against his Person and Government.
+
+Cap. 31. For granting an Aid to his Majesty by a Land Tax in Great Britain, for the Service of the Year 1716.
+
+Cap. 32. To attaint John Earl of Marr, William Murray, Esq; commonly called Marquiss of Tullibardine, James Earl of Linlithgow, and James Drummond, Esq; commonly called Lord Drummond, of High Treason.
+
+Cap. 33. For the more easy and speedy Trial of such Persons as have levied or shall levy War against his Majesty.
+
+Cap. 34. For preventing Mutiny and Desertion, and for the better Payment of the Army and their Quarters.
+
+Cap. 35. To appoint a Commissioner for taking, examining and stating the Debts due to the Army, in the Room of Thomas Smith, Esq; deceased; and for continuing the former Act until the tenth Day of March 1716.
+
+Cap. 36. For charging and continuing the Duties on Malt, Mum, Cyder and Perry, for the Service of the Year 1716. and for compelling several Receivers to finish and clear their Accounts; and for making Duplicates of Exchequer- Bills, Lottery-Tickets and Orders, lost, burnt, or destroyed; and for enlarging the Time for adjusting Claims to certain Benefit Tickets; and for allowing the Charge of executing the Lottery Act, for the Service of the Year 1710; and for recovering Monies of several Land-Taxes, resting in the Hands of Collectors or Constables at St. Albans; and for preventing Frauds in the Duties upon Sope; and for limiting a Time for Persons who have certain Annuities for Life or Lives, to demand the Payments thereupon at the Exchequer; and for preventing Frauds in the Duties relating to printed and painted Paper, Callicoes and other Things therein mentioned.
+
+Cap. 37. To enable his Majesty to grant the Regalities and Lands now remaining in the Crown in North Wales, and South Wales, and County of Chester, to his Royal Highness the Prince of Wales, in such Manner and Form as the Principality of Wales and Earldom of Chester have formerly been granted to the Princes of Wales; and also to enable his said Royal Highness to make Leases of Lands, Parcel of his Royal Highness's Dutchy of Cornwall, or annexed to the same.
+
+Cap. 38. For enlarging the Time of Continuance of Parliaments, appointed by an Act made in the sixth Year of the Reign of King William and Queen Mary, intituled, An Act for the frequent Meeting and calling of Parliaments.
+
+Cap. 39. To indemnify such Persons, who have acted in Defence of his Majesty's Person and Government, and for the Preservation of the publick Peace of this Kingdom, in and about the Time of the late unnatural Rebellion, from vexatious Suits and Prosecutions.
+
+Cap. 40. For the free Importation of Cochineal, during the Time therein limited.
+
+Cap. 41. For giving Liberty to Persons, who have served their Apprenticeships to any Part of the Woollen Manufacture in Colchester, to work at their said Trades, and at the making Bays within the said Town.
+
+Cap. 42. For the Attainder of George Earl of Marischall, William Earl of Seaforth, James Earl of Southesque, James Earl of Panmuir, and others, of High Treason, unless they shall render themselves to Justice by a Day certain therein mentioned.
+
+Cap. 43. To continue Duties for encouraging the Coinage of Money, and to charge the Duties on Senna as a medicinal Drug; and for the appropriating several Supplies granted to his Majesty.
+
+Cap. 44. For the continuing the Duty of two Pennies Scots, or one sixth of a Penny Sterling, on every Pint of Ale and Beer that shall be vended or sold within the City of Glasgow and Privileges thereof, for the Benefit of the said City.
+
+Cap. 45. For holding the Assise for the County of Cornwall, at a convenient Place within the said County.
+
+Cap. 46. To prevent the Mischiefs by manufacturing Leaves or other Things to resemble Tobacco, and the Abuses in making and mixing of Snuff.
+
+Cap. 47. For the more effectual and exemplary Punishment of such Persons as shall seduce Soldiers to desert, or who, being Papists, shall inlist themselves in his Majesty's Service in Great Britain or Ireland, or in the Islands of Jersey or Guernsey.
+
+Cap. 48. To encourage the Planting of Timber-Trees, Fruit-Trees and other Trees, for Ornament, Shelter or Profit, and for the better Preservation of the same; and for the preventing the Burning of Woods.
+
+Cap. 49. To revive and continue an Act of the eighth and ninth Years of the Reign of his late Majesty King William, for Repair of the Piers of Bridlington, alias Burlington, in the East-Riding of the County of York.
+
+Cap. 50. For appointing Commissioners to esquire of the Estates of certain Traitors, and of Popish Recusants, and of Estates given to superstitious Uses, in order to raise Money out of them severally for the Use of the Publick.
+
+Cap. 51. For repealing so much of the Act of the twelfth and thirteenth Years of the Reign of King William the Third, intituled, An Act for the farther Limitation of the Crown, and better securing the Rights and Liberties of the Subjects, as enacts, That no Person, who should come to the Possession of the Crown, shall go out of the Dominions of England, Scotland or Ireland, without Consent of Parliament.
+
+Cap. 52. For making the Laws for repairing the Highways more effectual.
+
+Cap. 53. For the Attainder of Thomas Forster junior, Esq; and William Mackintosh, Esq; (commonly called Brigadier Mackintosh) of High Treason.
+
+Cap. 54. For the more effectual securing the Peace of the Highlands in Scotland.
+
+Cap. 55. To oblige Papists to register their Names and real Estates.
+
+Cap. 56. To disable any Person from being chose a Member of, or from sitting and voting in the House of Commons, who has any Pension for any Number of Years from the Crown.
+
+Cap. 57. For better regulating Hackney-Coaches, Carts, Drays, Carrs and Waggons, within the Cities of London and Westminster, and the Weekly Bills of Mortality; and for preventing Mischiefs occasioned by the Drivers riding upon such Carts, Drays, Cans and Waggons.
+
 ---
-
-Cap. 18. For the better preventing fresh fish taken by foreigner* being imported into this kingdom; and for the preservation of the tty of iifh; and for the giving leave to import lobsters and turbets in so-reign bottoms; and for the better preservation of salmon within several rivers in that part of this kingdom called England.
-
-Cap. 19. For raising nine hundred and ten thousand pounds for publick Cervices, by sale of annuities, after the rate of five pounds per centum per annum* redeemable by parliament $ and to authorize a treaty concerning private rights claimed by the proprietors of the fogar-houses in Scotland.
-
-Cap. 20. For encouraging, all superiors, vassals, landlords and tenants in Scotland, who do and shall continue in their duty and loyalty to his majesty King George; and for discouraging all superiors, vaflols, landlord* and tenants there, who have been or shall be guilty of rebellious practices against his said Majesty; and for making void all fraudulent entails, tailzies and conveyances made there, for barring or excluding the effect of forfeitures that may have been, or shall he incurred tfiere on any such account; as also for calling any suspeded person or persons, whose ritafos Of principal residence are in Scotland* to appear at Edinburgh* or where it shall be judged expedient, to find bail for their good behaviour % and for the better disarming disaffected persons in Scotland;
-
-Cap. 21. For enlarging the capital stock and yearly fond of the South-Sea company, and for supplying the reby eight hundred twenty two thousand thirty two pounds four shillings and eight pence, to publick uses; and fee* raising one hundred and sixty nine thousand pounds for the like uses, by sale of annuities upon divers encouragements therein mentioned; and for appropriating several supplies granted to his Majesty.
-
-Cap. 22. For enabling his Majesty to settle a revenue for supporting the dignity of her royal highness the princess, in case (he shall uirvive his royal highness the prince of Wales.
-
-Cap. 23. For making provision for the miniften of die fifty new churches, which are to be built in and about the cities of London and Westminster* and suburbs thereof; and for rebuilding and finUhing the parish church of Saint Mary WoAmth in the city of London.
-
-Cap. 24. For appointing the of to take, examine and (late the debts due to the army.
-
-Cap. 25. To prevent disturbances by seamen, and others; and to preserve the stores belonging to his Majesty's navy royal; and also for explaining an act for the better preventing the imbezHment of his Majesty's stores of war; and preventing cheats, frauds and tbufcs in paying seamens wages; and for reviving and continuing an act for the more effectual supprdhon of piracy.
-
-Cap. 26. For continuing several laws therein mentioned, relating to coals, hemp and flax, Irish and Scotch linen, and the assize of bread; and for givipg ppwer to adjourn the quarter sessions for the county of Jaglasea, for the purposes there -m mentioned,
-
-Cap. 27. For taking and dating the debts doe and growing due to land , by, way of equivalent in the.the terms or the union; and for relief of the creditors of the pufaJick in Sttiiand, and the of.of the equivalent.
-
-Cap. 28. For repealing an act, intituled, An act for reputing part tf an
-
-affpgfidin the pa Scotland, intituled Act for discharging
-
-fayulcevacance.
-
-Cap. 29. For allowing a time for two hNMtred and thirteen families of protestant Palatines, now settled in Ireland, to take the oaths, in order to intitle them to all the benefits intended them by the ad of die Seventh year of her late Majesty's reign, for naturalizing foreign pro-
-
-Cap. 30. For continuing an act of tbk present fefiaon of parliament, intituled, An act t Ma-
-
-jefoSofeaere and as his Mqefly shall Jufpeft art
-
-jpiring agatnjibis persan and government.
-
-Cap. 31. For granting an aid to his.jigeftyby a. land-tax in Great Britain, for the Service of the year 1716.
-
-Cap. 32. To attaint ^ithrearl of Marr, William Murray, esq; commonly catted.roarquifs of fames earl of Linlithg, and James
-
-Dnmmoad, esq; commonly called lord Drummond> of high treason.
-
-Cap. 33. For the more easy and speedty trial of stich persons as have levied or shall levy war against his Majesty,
-
-Cap. 34. For preventing mutiny and (motion, and for the better payment of the army and their quarters. Cap. 33. To appoint a commissioner fan taking, examining and dating fa d?bt» due to the qrmy, in the
-
-room of Thomas Smith esq; deceased; and for continuing the former act until the tenth day of Marth 1716.
-
-Cap. 36. For charging and continuing the duties on malt, mum, eyder and perry, for the service of the year 1716. and for compelling several receivers to finish and dear their accounts; and for making du-- plicates of Exchequer-bills, Ipttery-tickets and orders, lost, burnt or destroyed; and for enlarging the time for adjusting claims to certain benefit tickets) and for allowing the Charge of executing the lottery ad, for the service of the year 1710; and for recovering monies of several land-taxes, retting in the hands.of collectors or constables at St. Albans; and for preventing frauds in the duties upon soap; and for litnit-. ing a timefor persons who have certain annuities for life or lives, to demand the payments thereupon.at the Exchequer; and for preventing frauds in the duties relating to printed and painted paper, callicoes and other things therein mentioned.
-
-Cap. 37. To enable his Majesty to grant the regalities and lands now remaining in the crOwo in North Wales, and South Wales, and county of Chester, to his royal' highness the prince of Wales in such manner and form as the principality of Wales and earldom of Ch/Jler have formerly been granted to the princes of Wales; and also to emMe his said royal htgh-nefe to make leases of lands, partel of his royal high nett's dutchy of Cornwall, or annexed to the same.
-
-Cap. 38. For enlarging the time of continuance of parliaments, appointed by an act made in the sixth year of the reign of King William and Queen Mary, intituled, An act for the frequent meeting and calling of parliaments.
-
-Cap. 39. To indemnify such persons, who bave acted in defence of his Majesty's person and government and for the preservation of the publick peace of this kingdom, in and about the time of the late unnatural rebellion, from vexatious (hits and prosecutions.
-
-Cap. 40. For the free importation of cochineal, during the time therein limited.
-
-Cap. 41. For giving liberty to persons who have served their apprenticeships to any part of the woollen manufacture in Cokbester, to work at their trades, and at the making bays within the said town.
-
-Cap. 42. For the attainder of George earl of Marijcball, William earl of Seaforth, James earl of Smthefque, James earl of Panmmr, and others, of high treason, unless they shall render themselves to justice by a day certain therein mentioned.
-
-Cap. 43. To continue duties for encouraging the coinage of money, and to charge the duties on senna as a medicinal drug; and for the appropriating several supplies granted to his Majesty.
-
-Cap. 44. For the continuing the duty of two pennies Scots, or one sixth of a, penny sterling, on ever pint of ale and beer that mall be vended or sold within the city of Glasgo/w and privileges thereof, for the benefit of the said city.
-
-Cap. 45. For holding the affile for foe county of Cornwall, at a convenient place within the said county.
-
-Cap. 46. To prevent the mischiefs by manufacturing leaves or other things to resemble tobacco, and the abuses in making and mixing of fnnff.
-
-Cap. 47. For the more effectual and exemplary punishment of such persons as shall seduce soldiers to desert, or who, being papists, shall inlist themselves in his Majesty's service in Great Britain or Ireland, or in the islands of Jersey or Guernsey.
-
-Cap. 48. To encourage the planting of timber-trees, fruit-trees and other trees, for ornament, shelter or profit, and for the better preservation of the same; and for the preventing the burning of woods.
-
-Cap. 49. To revive and continue an act of the eighth and ninth years of the reign of his late majesty King William, for repair of the piers of Bridlington, alias Burlington, in the east-riding of the county of York.
-
-Cap. 50. For appointing of to esquire of the estates of certain traitors, and of popish recusants, and of estates given to superstitious uses, in order to raise money out of them severally for the use of the publick.
-
-Cap. 51. For repealing so much of the act of the twelfth and thirteenth years of the reign of King William the Third, intituled, An act for the farther limitation of the crown, and better securing the rights and liberties of the subjects, as enacts, That no person, who should come to the possession of the crown, shall go out of the dominions of England, Scotland or Ireland, without consent of parliament.
-
-Cap. 52. For making the laws for repairing the highways more effectual.
-
-Cap. 53. For the attainder of Thomas Forster junior, esq; and William Mackintosh, esq; (commonly called brigadier Mackintosh) of high treason.
-
-Cap. 54. For the more effectual securing the peace of the highlands in Scotland.
-
-Cap. 55. To oblige papists to register their names and real estates.
-
-Cap. 56. To disable any person from being chose a member of, or from sitting and voting in this house of commons, who has any pension for any number of years from the crown.
-
-Cap. 57. For better regulating hackney-coaches, carts, drays, carrs and waggons, within the cities of London and Westminster, and the weekly bills of mortality; and for preventing mischiefs occasioned by the drivers riding upon such carts, drays, carrs and waggons.
 
 Private Acts.
 
 Anno 1 Georgii.
 
-1. An act to impower the barons of the court of Exchequer in Ireland, to grant a commission to some per-ioos in England, to administer to Henry Temple, esq; and Luke King, gentleman, the usual oaths for the due execution of their office of remembrancer of the court of Exchequer in Ireland.
+1. An act to impower the barons of the court of Exchequer in Ireland, to grant a commission to some persons in England, to administer to Henry Temple, esq; and Luke King, gentleman, the usual oaths for the due execution of their office of remembrancer of the court of Exchequer in Ireland.
 
-2. An act to impower the barons of the court of Exchequer in Ireland, to grant a commission to some of the barons of the court of Exchequer in England[, to administer to Thomas Hopkins, esq; the usual oaths for the due execution of the office or offices of featelier, packer and gauger in the port of Dublin.
+2. An act to impower the barons of the court of Exchequer in Ireland, to grant a commission to some of the barons of the court of Exchequer in England, to administer to Thomas Hopkins, esq; the usual oaths for the due execution of the office or offices of featelier, packer and gauger in the port of Dublin.
 
 3. An act for settling the precedency of Robert marquiss of Lindsey, great chamberlainot England, when created a duke of Great Britain, and of such as shall succeed to the said honour.
 
@@ -402,13 +392,13 @@ Anno 1 Georgii.
 
 STATUTES/
 
-to gram a commission to some ptr- fons in Great Britain, to administer to Henry Temple, esq; the usual oaths for due execution of the office of chief remembrancer of the court of Exchequer in Ireland.
+to gram a commission to some persons in Great Britain, to administer to Henry Temple, esq; the usual oaths for due execution of the office of chief remembrancer of the court of Exchequer in Ireland.
 
 7. An act for sale of part of the estate late of William Betts, gentleman, deceased, for discharging incumbrances thereupon; and for making good a settlement by him made of other part of his estate.
 
 8. An act to enable trustees to grant leases of part of the lands devised by the last will and testament of Thomas Trenchard, esq; deceased.
 
-9. An act for relieving William Paterson, esq; out of the equivalent-mc*-ney, for what is due to him.
+9. An act for relieving William Paterson, esq; out of the equivalent-mconey, for what is due to him.
 
 10. An act to naturalize Florian Gee-bell, merchant.
 
@@ -420,7 +410,7 @@ to gram a commission to some ptr- fons in Great Britain, to administer to Henry 
 
 14. An act for vesting in trustees part of the estate of Nicholas Fryjcfq; deceased, for payment of his debts.
 
-15. An act to enable the right honourable Henry earl of Rochester, and William lord viscount Mount-joy in the kingdom of Ireland, to take the oaths of office for their re-spective offices in the said kingdom of Ireland, and to qualify themselves in England for the legal enjoyment of their said offices.
+15. An act to enable the right honourable Henry earl of Rochester, and William lord viscount Mount-joy in the kingdom of Ireland, to take the oaths of office for their respective offices in the said kingdom of Ireland, and to qualify themselves in England for the legal enjoyment of their said offices.
 
 16. An act for explaining an act made in the ninth year of the reign of King William the Third, intituled, An atl for vesting part of the estate of Thomas Panton, esqt in
 
@@ -428,7 +418,7 @@ A TAftUE of the STATUTES,
 
 trustees to be sold for payment of debts, and securing a jointure to Mary his now wife; and for other purposes therein mentioned.
 
-17. An act for vesting certain manors and lands in the counties of Devon and Kent) the estate of Sir William Courtenay, baronet, in trustees, and their heirs, to be sold, and with the money arising the reby to purchase other lands in the county of De-voO) contiguous to the feat of his family, to be settled to the same ufqes.
+17. An act for vesting certain manors and lands in the counties of Devon and Kent) the estate of Sir William Courtenay, baronet, in trustees, and their heirs, to be sold, and with the money arising thereby to purchase other lands in the county of Devon) contiguous to the feat of his family, to be settled to the same ufqes.
 
 18. An act to enable Sir Richard Wynche^ baronet, and Humphrey Wynche, esq; only son and heir apparent of the said Sir Richard Wynche, to settle a jointure upon such woman as the said Humphrey Wynche shall marry.
 
@@ -456,25 +446,25 @@ be sold for the payment of his debts; and for settling the remaining part thereo
 
 29. An act to enable Robert Cope, esq; to settle an additional jointure out of his estate on Elizabeth his now wife; and also to raise por^ tions and maintenances for his daughters and younger children by her; and to enable those in remainder to do the same.
 
-30. An act for sale of part of the manor of Low-Laiton, in the county of Essex, and other lands there; and for laying out the money arising the reby in the purchase of other lands in the county of Lincoln, to be settled to the same ufei as the
+30. An act for sale of part of the manor of Low-Laiton, in the county of Essex, and other lands there; and for laying out the money arising thereby in the purchase of other lands in the county of Lincoln, to be settled to the same ufei as the
 
 A TABLE of the
 
 laid part of the manor of Low-Laiton is settled.
 
-31. An act to naturalize Frederica counteCs of Holderneft*Peter Gra-vier> Theodore Bouchur and Francis Moffett.
+31. An act to naturalize Frederica countess of Holderneft*Peter Gra-vier> Theodore Bouchur and Francis Moffett.
 
 32. An act to naturalize Robert de Vlteger, George Chrijium Luders, and others.
 
 33. An act for naturalizing Henry Cornelifen.
 
-34. Ari act for vesting the honour and estate of John duke of Athol in James Murray, esq; commonly called lord James Murray, after the death of the said duke.
+34. An act for vesting the honour and estate of John duke of Athol in James Murray, esq; commonly called lord James Murray, after the death of the said duke.
 
 35. An act for the naturalization of Frederick Guliker.
 
 36. An act for naturalizing Gerrard Rotters.
 
-37. An act for continuing and making more effectual an act passed in the twelfth year of her late Majors reign, intituled, An act for repairing the highway or road from the Stones-End in the parish of St. Leonard Shoreditch, in the county f/'Middlesex, to the farthermof part of the northern road in the parish of Endfield, in the same county, next to the parish of Che (hunt in the county #/Hertford.
+37. An act for continuing and making more effectual an act passed in the twelfth year of her late Majors reign, intituled, An act for repairing the highway or road from the Stones-End in the parish of St. Leonard Shoreditch, in the county f/'Middlesex, to the farthermost part of the northern road in the parish of Endfield, in the same county, next to the parish of Che (hunt in the county of Hertford.
 
 38. An act to enable his royal highness George prince of Wales y to qualify himself in Great Britain for the legal enjoyment of the office of chancellor of the university of Dublin in the kingdom of Ireland.
 
@@ -502,6 +492,8 @@ qualify himself here in England for the legal enjoyment of the said of* ike.
 
 48. An act for naturalizing Erengird Melofine, baroness of Schuienburg*
 
+---
+
 Anno 3 Georgii I.
 
 Cap. 1. To enable his Majesty effectually to prohibit or restrain commerce with Sweden.
@@ -526,7 +518,7 @@ Cap. 10. For the better collecting and levying the revenue of the tenths of the 
 
 Cap. 11. To explain and amend several laws therein mentioned for the better preservation of the game.
 
-Cap. 12. To impower of in commissions of bankrupts, issued since the four and twentieth day of June 1706, and on or before the six and twentieth day of June 1716, to make certificates for bankrupts, and the lord chancellor, lord keeper, of of the great seal, or two judges, to confirm the same, notwithstanding the acts of the fourth and fifth, and the fifth of Queen Anne, are expired; and for continuing a clause in a former act for adjusting accounts between bankrupts and their debtors.
+Cap. 12. To impower commissioners in commissions of bankrupts, issued since the four and twentieth day of June 1706, and on or before the six and twentieth day of June 1716, to make certificates for bankrupts, and the lord chancellor, lord keeper, of of the great seal, or two judges, to confirm the same, notwithstanding the acts of the fourth and fifth, and the fifth of Queen Anne, are expired; and for continuing a clause in a former act for adjusting accounts between bankrupts and their debtors.
 
 Cap. 13. For the better regulating of pilots for conducting of ships and vessels from Dover, Deal, and the isle of Thanet, up the rivers of Thames and Medway.
 
@@ -550,13 +542,15 @@ Private Acts.
 
 Anno 3 Georgii. I.
 
+---
+
 1. An act for enlarging the time granted by an act passed in the eighth year of the reign of her late majesty Queen Anne^ intituled, An act for making a convenient dock or bason at Liverpool, security of all ships trading to and from the said port of Liverpool.
 
 2. An act for naturalizing Isaac Kuyci van Mierop.
 
-3. An act for the preservation and improvement of the river Weary and port and haven of Sunderland^ in the county of Durham.
+3. An act for the preservation and improvement of the river Wear, and port and haven of Sunderland^ in the county of Durham.
 
-4. An act for repairing the highways from several places therein mentioned, leading towards Highgate Gate-house and Hampflcady in the county of Middlesex \ and for electing trustees for keeping up a sufficient number for the repairing the highways upon the roads from Highgate Gate-kouse to Barnet Block-house; and also of the highways between Kilburne Bridge and Sparrows Herne, in the county of Hertford.
+4. An act for repairing the highways from several places therein mentioned, leading towards Highgate Gate-house and Hampflcady in the county of Middlesex \ and for electing trustees for keeping up a sufficient number for the repairing the highways upon the roads from Highgate Gate-house to Barnet Block-house; and also of the highways between Kilburne Bridge and Sparrows Herne, in the county of Hertford.
 
 5. An act to enable the parithioners of the parish of St. Mary Rother-bith in the county of Surrey (by certain funeral rates therein mentioned) to finish the said parish church.
 
@@ -738,7 +732,7 @@ MOST gracious sovereign, we your Majesty's most dutiful and loyal subjects, the 
 
 J
 
-2 Anno duodecimo Anna.. c. 2. £171 y,
+2 Anno duodecimo Anna.. c. 2. [171 y,
 
 may be necessary to defray ybur Majesty's publick expencesr do humbly present your Majesty with the gift of the several rates, duties, and impofitiorfs herein after mentioned} and do be- feech your Majesty that it may be enacted: and be it enaAerf by the Queen's most excellent Majesty, by and with the advice and consent of the lords spiritual and temporal, and commons, in this present parliament assembled, and by the authority of the3 June 1713, same, That there shall be raised^ levied, collected, paid, and ° viz! satisfied, unto and for the use of her Majesty, her heirs and fac* cessors, for and upon, all malt, mum, cyder and perry, the several and respective rates, duties and impositions herein after mentioned; (that is to say) for every bushel of malt which at any time or times, from Smd after the twenty-third day of Malt made in one thousand seven hundred and thirteen, and before the
 
@@ -1252,7 +1246,7 @@ Anno duodecimo Ankm. c. 8f 9.$
 
 II. Provided always, That nothiag in this act shall extend Not to extend to mrentioes under the age of fifteen years, who shall robto apprentices thdraaflei*, as aforesaid. unto15 yean
 
-III. And whereas there has been same doubt, wJxther the tntrikg Entririz i, to bur the manfwi-bwfe §f another, without breaking the same, with* house wither intent to amrndt same felony, and breaking the said house in the out breaking mgbtA'mrto get out, & burglary; be it declared and enacted by*»or bcin£.'the authority afbrefak), That if any person shall enter into the mansion or dwelling-hotile of another, by day or by night, and breaking without breaking the same, with an intent to commit felony, ortbe house in being in such house shall commit any felony, and shall in thetbc "gb* -flight-time break the said hoijife to get out of the same, such per- ^burabuY, fori is and shall be adjudged and taken to be guilty of burglary, and (halt be ousted of the benefit of his and her clergy, in the same manner as if such person had broke and entred the ft id house in the night-time, with an intent to commit felony there.
+III. And whereas there has been same doubt, wJxther the tntrikg Entririz i, to bur the manfwi-bwfe §f another, without breaking the same, with* house wither intent to amrndt same felony, and breaking the said house in the out breaking mgbtA'mrto get out, & burglary; be it declared and enacted by*»or bcin£.'the authority afbrefak), That if any person shall enter into the mansion or dwelling-hotile of another, by day or by night, and breaking without breaking the same, with an intent to commit felony, ortbe house in being in such house shall commit any felony, and shall in thetbc "gb* -flight-time break the said hoijife to get out of the same, such per- ^burabuY, fori is and shall be adjudged and taken to be guilty of burglary, and (halt be ousted of the benefit of his and her clergy, in the same manner as if such person had broke and entred the said* house in the night-time, with an intent to commit felony there.
 
 CAP. VIII.
 
@@ -1282,11 +1276,11 @@ excellent msuelly, by and with the advice and consent of the Ann. c. 10.*lords s
 
 C jesty's The premium
 
-a4 Anno duodecimo Annae. c, £1713.
+a4 Anno duodecimo Annae. c, [1713.
 
-fbrbompmmn jdty*» feign, intituled, An act for encouraging the importationof wed for msva^ ft1 fr*m plantation*'in America, and every
+fbrbompmmn jdty*» feign, intituled, An act for encouraging the importation of wed for msva^ ft1 fr*m plantation*'in America, and every
 
-Prt thereof, shaft be and is hereby continued fromthetime'of
+Prt thereof, shaft be and is hereby continued from the time of
 
 1. c. 1. f. 1. the expiration of the Tame; for and during the (pace and term of eleven years, and from thence to the end of the mstfefton of parliament.
 
@@ -1304,7 +1298,7 @@ f. 4. /*certificate
 
 1713*1 Anno duodecimo Annae. c.g. 35
 
-esrtifkateor certificates to beproducedto. the chief qffipoi! orof-fkessctfsbe aaAtmss where hack, stores (haUbeiraported; which And on certi-ei'*ifie*t«ior certificate* shall, be under thobands and'deals of /kite from U>« dubcMaptmUer and colkCkor of her Majesty's custootvand comptroller fahjiawd officer as: hex Majesty shall think fit to appoint, or any two of them, residing at any such port or ports mNertb Britain where Bnt#, darker Majesty, under the great.leal.of Great Aich storee
+esrtifkateor certificates to be produced to the chief qffipoi! orof-fkessctfsbe aaAtmss where hack, stores (haUbeiraported; which And on certi-ei'*ifie*t«ior certificate* shall, be under thobands and'deals of /kite from U>« dubcMaptmUer and colkCkor of her Majesty's custootvand comptroller fahjiawd officer as: hex Majesty shall think fit to appoint, or any two of them, residing at any such port or ports mNertb Britain where Bnt#, darker Majesty, under the great.leal.of Great Aich storee
 
 JNl think dit to appoint; where such naval stores shall be ern- shall be im-'baked or shipped, m order for importing the same into any pert of SotUhBritain, That before the departure qS such ship storel were gf or vefel» ships or vessels, the persons, traders or factors con* the growth of twed or iroployed in the preparingor manufacturing such Scotland, &c. aaral dorrs, 'or any two of them, had made affidavit in writing befwefuth comptroller and collector-of her Majesty's custome in NettbBritain, and such naval, officer as her Majesty shall think fit to appoint, or any.two of them. That such naval stores lo brought-to such port of North Britain, were truly, and bona ]&, of the growtli and produce of North Britain aforesaid; in which affidavit the particular quantities and qualities of such naval stores, together with the time when such naval stores were prepared ana manufactured, the names of - the proprietors thereof, and the place or places where the same grew, were prepared and manufactured, shall be fully and plainly specified sad contained; which, affidavits the said comptroller and col- - -k&Wcf her Majesty's customs in Nerth Britain, and such na-
 
@@ -1346,9 +1340,9 @@ imparting so- jf my master or owner of any ship or veffid (nail fraudulently ici
 
 CAP. X.
 
-An act for continuing the a fts therein mentioned, } for preventing the ft and rapine upon the Northern borders of England.
+An act for continuing the acts therein mentioned, } for preventing theft and rapine upon the Northern borders of England.
 
-WHEREAS in the session of parliament holden in the Mr* teenth and fourteenth years of the reign of our late fhvtreigu King Charles the Second, an act was made, intituled, An act for preventing the ft and rapine upon the Northern borders of England \ which was thereby io continue in force for and during the term sSCar. 2. c. 3. of five years: and whereas another act was made in the eighteenth year of the fold late King, intituled, An act to continue a former act to prevent theft and rapine upon the Northern borders of England; both which a fts were revived and continued by another act made in the twenty-ninth and thirtieth years of the reign of the fail late King, intituled, An act for continuing two former acts, for presenting of theft and rapine upon the Northern borders of
+WHEREAS in the session of parliament holden in the Mr* teenth and fourteenth years of the reign of our late fhvtreigu King Charles the Second, an act was made, intituled, An act for preventing theft and rapine upon the Northern borders of England \ which was thereby io continue in force for and during the term sSCar. 2. c. 3. of five years: and whereas another act was made in the eighteenth year of the fold late King, intituled, An act to continue a former act to prevent theft and rapine upon the Northern borders of England; both which a fts were revived and continued by another act made in the twenty-ninth and thirtieth years of the reign of the fail late King, intituled, An act for continuing two former acts, for presenting of theft and rapine upon the Northern borders of
 
 England,
 
@@ -1364,7 +1358,7 @@ C. 2.
 
 17*31) Anno duodecimo Annae. c. rd if
 
-England, fir end during the /pace and term of seven years, and aljh from time until the end of the fitjl fefftoh of the then next parlia- mai\ which three aforementioned alls, by bn all made in the fikft year of the reign of King James the Second, intituled, An act for continuance of three former acts, for preventing of theft and rapine upon the Northern borders of England, were continued fat i Jac.*.c.i4. ini during the space and term of eleven years, and from thence unto ibelndoftheftrjfJession of the then next parliament; and were fur- tier, continued by^au ail made m theseventhand eighth years of the reign of the late King William the Third, intituled, An act to con- 7 be z Wj, am* four former acts for preventing the ft and rapine upon the c* Northern borders of England, for and during the Jbace and term sfpveyears, and from thence unto the end of thefrjl session of the nxt parliament y all which acts and every of them, by an act made h the twelfth and thirteenth years of the hid late King William, so- is k 15W. j titulfd, An act for continuing the acts therein mentioned^ for c*preventing the ft and rapine upon the Northern borders of Eng- tend -, and all and every matter, clause and clauses therein contained said all and every the powers and authorities' thereby given, were en- dfledto continue and be in full force from and after the expiration of the therein last mentioned ail, for and during the space and term of deven years, and from thence to the end of the furjl session of the next farlioment: and it was also by the Iqfi herein mentioned all provided end enabled. That thi fata alls shall be accepted, taken and reputed M be general and publici alls of parliament, of which all and every tbg judge and judges of this kingdom, in all courts, shall take notue on all Kcofmt wkatfoeveTy as if they were pubUck alls of parliament re± hstwg to the whole kingdom: all which alls have been found necessarp for the preservation ofthfe places from that great number of lewd and liforier!) per fins that usually frequented and inf fled tboft parts, and art new near expiring; be. it therefore enacted by the Queen's most excellent njajesty, by and with the advice and consent of the lords spiritual^ and temporal arid commons, in this present - n\ parliament adembled, and by the authority of the Came, That all the said acts, and every of them, and all and every matter, clause and clauses in them or any of them contained, and all and every the powers and authorities thereby given, shall continue and oe in full force from and after the expiration of the said act| madfcin the twelfth and thirteenth years of the said late King Wi$am, for and during the space and term of eleven years, and from thence to the end of the first session of the next parliament, tad no longer. Farther continued by 24 Geo. 2. f.57. to 1 Sept*
+England, fir end during the /pace and term of seven years, and aljh from time until the end of the fitjl fefftoh of the then next parlia- mai\ which three aforementioned alls, by bn all made in the fikft year of the reign of King James the Second, intituled, An act for continuance of three former acts, for preventing of theft and rapine upon the Northern borders of England, were continued fat i Jac.*.c.i4. ini during the space and term of eleven years, and from thence unto ibelndoftheftrjfJession of the then next parliament; and were fur- tier, continued by^au ail made m theseventhand eighth years of the reign of the late King William the Third, intituled, An act to con- 7 be z Wj, am* four former acts for preventing theft and rapine upon the c* Northern borders of England, for and during the Jbace and term sfpveyears, and from thence unto the end of thefrjl session of the nxt parliament y all which acts and every of them, by an act made h the twelfth and thirteenth years of the hid late King William, so- is k 15W. j titulfd, An act for continuing the acts therein mentioned^ for c*preventing theft and rapine upon the Northern borders of Eng- tend -, and all and every matter, clause and clauses therein contained said all and every the powers and authorities' thereby given, were en- dfledto continue and be in full force from and after the expiration of the therein last mentioned ail, for and during the space and term of deven years, and from thence to the end of the furjl session of the next farlioment: and it was also by the Iqfi herein mentioned all provided end enabled. That thi fata alls shall be accepted, taken and reputed M be general and publici alls of parliament, of which all and every tbg judge and judges of this kingdom, in all courts, shall take notue on all Kcofmt wkatfoeveTy as if they were pubUck alls of parliament re± hstwg to the whole kingdom: all which alls have been found necessarp for the preservation ofthfe places from that great number of lewd and liforier!) per fins that usually frequented and inf fled tboft parts, and art new near expiring; be. it therefore enacted by the Queen's most excellent majesty, by and with the advice and consent of the lords spiritual^ and temporal arid commons, in this present - n\ parliament adembled, and by the authority of the Came, That all the said acts, and every of them, and all and every matter, clause and clauses in them or any of them contained, and all and every the powers and authorities thereby given, shall continue and oe in full force from and after the expiration of the said act| madfcin the twelfth and thirteenth years of the said late King Wi$am, for and during the space and term of eleven years, and from thence to the end of the first session of the next parliament, tad no longer. Farther continued by 24 Geo. 2. f.57. to 1 Sept*
 
 1757. See 6 Geo. 2. c. 37.
 
@@ -1474,7 +1468,7 @@ three pounds per centum per annum, then the monies which, allowance of from time
 
 VIII. Provided always, and be it enacted by the authority a- Remainder forefiid, That after paying, or reserving sufficient to pay so appropriated much as shall, from time to time, be incurred and grown due for or upon the said interest after the rate of two pence per cen- ingExchequer turn per diem, and the said several allowances after the rate of bills. three pounds per centum per annum, and eight thousand pounds See 1 Geo.i. ter annum, and forty five thousand pounds per annum, which c, ia* are always to be preferred, as aforesaid, the full and entire year-1IS' ly sum of two hundred and seventy thousand nine hundred ninety rune pounds and seven shillings (in which the abovesaid yearly fam of two hundred thousand pounds, is and shall always be undastood to be comprehended and included) or so much of the said yearly sum ot two hundred and seventy thousand nine hundred ninety nine pounds and seven shillings, as the remainder of the said fund, mall, from time to time, produce for that purpose, shall be and is by this act appropriated for paying off ill the principal money contained or to be contained in all and Yoi. 20Ii. D every
 
-Anno duodecimo Annae. c. n. £1713.
+Anno duodecimo Annae. c. n. [1713.
 
 every the Exchequer bilk made forth and to be made forth, by or in pursuance of this and the said former acts, or any of them, and for cancelling the same, until all the said bills (halt be, discharged and cancelled, and shall be issued and applied to and for that use and purpose, in such manner as the lord treasurer, or any three or more of the commissioners of the treasury for the time being, shall, from time to time, direct and appoint in that behalf; and that the issues thereof shall be made weekly, or as fast as the fund hereby established shall produce money into the Exchequer for the time, so as by such weekly or other payments in any quarter, the fourth part of the yearly sum lad mentioned for that quarter be not exceeded.
 
@@ -2272,7 +2266,7 @@ to all and every other person or persons whatsoever, all such e-ttate, right, ti
 
 F3 CAP;
 
-7+ Aono duodecimo Ann-. Sut. 2. c. jn £1713*
+7+ Aono duodecimo Ann-. Sut. 2. c. jn [1713*
 
 CAP. VII.
 
@@ -2384,7 +2378,7 @@ an allowance of eight pounds per cent. the merchant's entouragement, in cotfiidt
 
 federation of wafie or Jhrinhage, as and it
 
-that the manner of colleffing the several duties upon tobacco be in one uniform method, and that the same allowance for wafie and Jbrinkage en the consumption here, should be granted to the ,
+that the manner of collecting the several duties upon tobacco be in one uniform method, and that the same allowance for wafie and Jbrinkage en the consumption here, should be granted to the ,
 
 fortbepreservationandimprovement of beneficial trade, which,
 
@@ -3678,7 +3672,7 @@ ragnjeent and reward far apprehending the , whenever he*
 
 Jboteld land, or attempt to land, in any of her late Majesty's 5
 
-now to the end that the encouragement and reward for a service so important may be rendred Jure mid effectual, be it further enacted by the authority aforesaid, That the lord high treasurer of Great Britain, or the commrffioners of the treasury for the time being fh*U, and are hereby authorized and required, out of the monies granted, or to be granted by parliament for the use of the publick, forthwith to issue and pay the sum of one hundred thousand pounds to any person or persons who shall seize and lecture the person of the pretender, whenever he shall land or attempt to land, in any or his Majesty's dominions.
+now to the end that the encouragement and reward for a service so important may be rendred Jure mid effectual, be it further enacted by the authority aforesaid, That the lord high treasurer of Great Britain, or the commissioners of the treasury for the time being fh*U, and are hereby authorized and required, out of the monies granted, or to be granted by parliament for the use of the publick, forthwith to issue and pay the sum of one hundred thousand pounds to any person or persons who shall seize and lecture the person of the pretender, whenever he shall land or attempt to land, in any or his Majesty's dominions.
 
 CAP. II.
 
@@ -4700,7 +4694,7 @@ So help me God.
 
 1 - I A. B.
 
-Vp. Anno primo Georgii I. Stat.2. c.i£. £1714;
+Vp. Anno primo Georgii I. Stat.2. c.i£. [1714;
 
 I A. B. do truly and sincerely acknowledge, prof eft, testify and declare, in my conscience, before God and the world, Thai okf fovere'tgn Lord King George /V lawful and rightful King of this realm, and all other his Majesty's dominions and countries thereunto belongings And I do solemnly and sincerely declare. That I do believe in my conscience, that the person pretended to be prime^Wales, during the life of the late King James, and finte his decedfe pro-tending to be, and taking upon himself the file and title of King of England, by the name of Tames the Third, or of Scotland, by the nme$f]*mcs the Eighth, or the file and title of Kirlgof Great Britain, hath not any right or title whatsoever to the crown of ibis realtn, or any other the dominions thereunto belonging; ana I do renounce, refuse, and abjure any allegiance or obedience to him. And I do swear, That / will bear faith and true allegiance to his majesty King George, and him will defend to the utmof of my power, against all traiterous conspirades and attempts whatsoever, which fhatt be made against his person, crown or dignity, And twill do my utmof endeavour to dxfclofe and make known to his Majesty, and his successors, all treasons and traiterous conspirades which I shall know to be againf him, or any of them. And 1 do faithfully protnife, to the utmof of my power to support, maintain and defend the succession of the crown against him the said James, and all other persons what-t* &13 W. 3 -fever, which Jwuffon, by an act, intituled, An a<£t for the further* a# limitation of the crown, and better securing the rights and li-
 
@@ -4864,7 +4858,7 @@ Persons oblig- XXII. Provided always, and be it declared and enacted, That ed by
 
 1714\l Anno primo Georgii I. Stat. 2. c. 13.
 
-ftantiation or either of them, on any occasion whatsoever, shall continue obliged, in all such case?, to receive the said sacrament, and make and subscribe the said declaration, together with the oaths appointed by this act, in such manner, and under such penalties in case of neglect, as is required by any former law.
+stantiation or either of them, on any occasion whatsoever, shall continue obliged, in all such case?, to receive the said sacrament, and make and subscribe the said declaration, together with the oaths appointed by this act, in such manner, and under such penalties in case of neglect, as is required by any former law.
 
 XXIII. Provided always, and be it enacted by the author Persons taking rity aforesaid, That all and every person or persons, who shall, the oaths, &c. on or berore the first of December next, take and subscribe the b^re Dec 1. oaths in such manner as is appointed in this act, and also re- from^llpenaL. ceive the sacrament of the Lord's supper according to the usage ties, Scc.
 
@@ -5396,7 +5390,7 @@ four thonfaul six hundred pounds, for answering the said anfiu-
 
 Vot.XUl. " tries - -
 
-Anno pruno Georgii i. Stat. 2. C. 19.. £1714!
+Anno pruno Georgii i. Stat. 2. C. 19.. [1714!
 
 Uks Ip, he purchasedupon this act, as shall hear afyll proportion tp-the whole hup, which shall be advanced or contributed Upon this act, after the said rate of dye pounds centum
 
@@ -5412,7 +5406,7 @@ XI. And be it further eroded by the authority alpresaid,
 
 Anno primo Georgii I. Stata. c. i^. iuf
 
-TTli* M Aw monies to be advanced orcontributed upon tWs^uft Allthe monies wf Orto*aids the said Tom, not exceeding nine hundred and ttjf advanced to AbtAm!'pounds, shall be deemed, reputed and taken to be one &c. capital o/^ifrt-stock, on which the said annuities, after thereto nGco.i.c. u qt five pounds fer centum per annum, shall be attending; and that aH and every person and performs and corporations whatsoever, ih proportion to the money by him, her or them advanced upon this act, shall have and be deemed to have an interest or ihare in the said stock, and in the proportional annuity at- tending the famd, at the rate aforesaid, for the monies To by him, her or them advancedand that the said capital or joints flock, or any share or interest therein, and the proportional an-nutty attending the same, shall be assignable and transferable a# this act dtrests, and not otherwise; and that there shall be con-ftandy kept at all reasonable times in the office of the said chief a transfer accountant for the time being, within the city of Lwdcny a book book to be or bobfcs^ therein all assignments or transfers of the said stock* kept by the or any part thereof, and the proportional annuity attending the
+TTli* M Aw monies to be advanced orcontributed upon tWs^uft Allthe monies wf Orto*aids the said Tom, not exceeding nine hundred and ttjf advanced to AbtAm!'pounds, shall be deemed, reputed and taken to be one &c. capital o/^ifrt-stock, on which the said annuities, after thereto nGco.i.c. u qt five pounds fer centum per annum, shall be attending; and that aH and every person and performs and corporations whatsoever, ih proportion to the money by him, her or them advanced upon this act, shall have and be deemed to have an interest or ihare in the said stock, and in the proportional annuity at- tending the famd, at the rate aforesaid, for the monies To by him, her or them advancedand that the said capital or joints flock, or any share or interest therein, and the proportional an-nutty attending the same, shall be assignable and transferable a# this act dtrests, and not otherwise; and that there shall be con-standy kept at all reasonable times in the office of the said chief a transfer accountant for the time being, within the city of Lwdcny a book book to be or bobfcs^ therein all assignments or transfers of the said stock* kept by the or any part thereof, and the proportional annuity attending the
 
 chief account* ant. &c«
 
@@ -5522,7 +5516,7 @@ holdings from waird to taxed waird, according to the rules now1 observed in the 
 
 Anno primo Georgii I. Stit. a1
 
-of the superi-ftallbd thereof duly comrifled and attainted, shall be fiabie*> r*' G the pains, penalties aVid forfrfAiw'for; Ki^h treason, ahtfhis c^i52. f. io! kdds or tenements held of any subject fupenor in Scotland^OxM fitperiors\ &'e. reri^ofce ind reborn into the hands of the faperOT, ^i«d- the are to pay a property shall be and is hereby consolidated with the superioritjr^ propoi ttonabU so the same manner as if the same lands or tenements nad been &bu of at- the vassal resigned into the hands of hrs superiorvri* petfe*
+of the superi-stallbd thereof duly comrifled and attainted, shall be fiabie*> r*' G the pains, penalties aVid forfrfAiw'for; Ki^h treason, ahtfhis c^i52. f. io! kdds or tenements held of any subject fupenor in Scotland^OxM fitperiors\ &'e. reri^ofce ind reborn into the hands of the faperOT, ^i«d- the are to pay a property shall be and is hereby consolidated with the superioritjr^ propoi ttonabU so the same manner as if the same lands or tenements nad been &bu of at- the vassal resigned into the hands of hrs superiorvri* petfe*
 
 tainted per fans, tuamremanentiam; and in case any tenant or tenant8, ta*mair or taxmen, bruicking and occupying any lands, mines, miln, woods, fishingS or^tenements, being guilty'of such high treafocr of treasons, as aforesaid, and shall be thereof duly cbftvicted and attainted, the title by which all and every such tenant jot tenants, taxman or taxmen, does bruick or occupy, as aforesaid, shall cease and become void; and the lands, mmesr, endns/ woods, fishings and tenements so bruicked or occupied, tbge* flier with the single and life-rent escheat of such tenant or tenants, taxman or taxmen, shall return to and be enjoyed and
 
@@ -5574,7 +5568,7 @@ Undsare'held bravery m his Majesty's and the country's, the /aid
 
 vraird of the pretended and his aaherektt i be it also'.fuftber «n*6ted by the jtu-
 
-crown, and thority aforesaid, That if it ihail happen any subjecfc of Gnat !* Britain having lands* or estate in Scotland held vraird of the Ihr's service'a- crown» or of any subject superior there, as weH vassal as fab-gainst the pre- vassal, to be killed in his Majesty's service against the £aid poo-tender, fhatf tender and his adherents, or to receive wounds whereof any fce.fr5e?L such person or persons shall afterwards die, the heir of every BuuheKing Person or persons shall be and is hereby cruCted and'or* or superior*dained to be frie of the duties and cafuakics of wail'd, relief may appoint and marriage, for and on account of such lands or eftstc; q*-foph warn), oepting only. That it shall and may be lawful to hi? vi£on°fer the*s heirsnd succesloTs, where (he hinds of such per flat or pw-» wife. An. Ions hold immediately of the crown, and to the immediate so-oOeo.sx.jo. perior, where such fends bold of a subject, to appoint the fiud cafuslties of waird, relief and marriage, to be.applied for pre* vision of the wife, or younger child or children unprovided for* or not competently provided: for, due confidential* being always had to the condition of the heir.
+crown, and thority aforesaid, That if it ihail happen any subjecfc of Gnat !* Britain having lands* or estate in Scotland held vraird of the Ihr's service'a- crown» or of any subject superior there, as weH vassal as fab-gainst the pre- vassal, to be killed in his Majesty's service against the £aid poo-tender, fhatf tender and his adherents, or to receive wounds whereof any fce.fr5e?L such person or persons shall afterwards die, the heir of every BuuheKing Person or persons shall be and is hereby cructed and'or* or superior*dained to be frie of the duties and cafuakics of wail'd, relief may appoint and marriage, for and on account of such lands or eftstc; q*-foph warn), oepting only. That it shall and may be lawful to hi? vi£on°fer the*s heirsnd succesloTs, where (he hinds of such per flat or pw-» wife. An. Ions hold immediately of the crown, and to the immediate so-oOeo.sx.jo. perior, where such fends bold of a subject, to appoint the fiud cafuslties of waird, relief and marriage, to be.applied for pre* vision of the wife, or younger child or children unprovided for* or not competently provided: for, due confidential* being always had to the condition of the heir.
 
 No attainder.VIII. And btcanfe it is hard that any creditor, remaining in shall exclude pgacetobU Ond dutiful allegiance his heirs and fmctejfr
 
@@ -5646,7 +5640,7 @@ meotioned in the said act, the oaths of allegiance and abjura-t don shall be tak
 
 venting the growth of popery, shall be likpwife made apd fulm feribed; and also that the counties, ridings, and divisiona.men* tioned in the aforesaid act, shall be construed and underftoqd.ia Scotland to be shires or stewfutries i and nothing in the said act contained shall be construed to establish any office which is not now in being i
 
-An act for enlarging the capital flo fund of fit South-Sea company, and for supplying the reby tight bftsh dredtwenty-two thousand thirty-two pounds four JhiUHgt and eight pence to publick uf, and dred sixty-nine thousand pounds for the tike uses,
+An act for enlarging the capital flo fund of fit South-Sea company, and for supplying thereby tight bftsh dredtwenty-two thousand thirty-two pounds four JhiUHgt and eight pence to publick uf, and dred sixty-nine thousand pounds for the tike uses,
 
 annuitier upon diver's encouragements therein mentioned $ and for appropriating feveredfupplies granted to his Majesty.
 
@@ -5810,7 +5804,7 @@ Fund to take place at Mich
 
 1715*
 
-244 Anno primo Georgii I. Stat.2. c. 2fJ £1714;
+244 Anno primo Georgii I. Stat.2. c. 2fJ [1714;
 
 6Gco.i.c 4-for answering and paying the annuities, after the rate of firedftbye % £ pounds per centum per annum, to be purchased upon this act, x.c!e.ioG«o! <|uai: terly payments, until the redemption thereof by parKa- ment according to the proviso herein after specified, and under the same penalties, forfeitures and disabilities, for any offence or neglect touching the said fund of eight thousand four hundred and fifty pounds per annum, or the payments to be' made out of the same, as are by the said a6fc to be incurred for die like offence or neglecft, in relation to the said yearly fund' of forty-five thousand five hundred pounds, or to the payments charged thereupon; any thing in this or the said recited adk, or in any other law or statute to the contrary in any wise notwithstanding.
 
@@ -6000,7 +5994,7 @@ so Ann. c. n
 
 9 Ann* c. %
 
-Anno primo Georgii I. $m* % c.ag. £1714.
+Anno primo Georgii I. $m* % c.ag. [1714.
 
 <W inform themselves, in what payijbes the said new churches (Except that for Greenwich) were mo/l necessary to be built, and of proper places for the files of the find respective new churches, and also a cemetery or church-yard for each of the find churches, for the burred of christian people, to be purchased; and also which of the find chapelt were fit to be made parish-churches and to ascertain the fevered houses, lands, tenements and hereditaments, and the bounds and limits which in their judgments or opinion might be fit to be made distiuft % parishes; and to esquire and inform themselves, by the befi means they could, of the value of such houses, lands, tenements and hereditaments, and of the respective efiates and interefis therein, which they should think necessary to be purchased for the said sites and cemeteries, and for houses for the habitations of the respective ministers $ and the said of were by the said act required, on or before the four* and twentieth day of December one thousand seven hundred end eleven, to report or certify to her said late Majesty in writing, usoder their hands, and seals, such matter \ and things as should appear Jo them upon their enquiries aforesaid, with their opinions thereupon* md* present a duplicate of such report or certificate to each of the two houses of parliament, to the end such further dire ft ions might be given thereupon, as might be pursuant to her said late Majestyjs pious intentions in the premijfis: ana whereas by one other act of parlia^ nunt, made in the tenth year of her said late Majesty's reign, intituled, An act for enlarging the time given to the of appointed by her Majesty, pursuant to an act for granting to her Majesty several duties on, coals, for building fifty new churches in and about the cities of London and Westminster, and suburbs thereof, and other purposes therein mentioned; and also for giving the said of further powers for the better effecting the same; and for appointing monies for re- building the parish-church of Saint Mary ffoobtoth in the city of London; reciting therein in part the said recited act, and that in pursuance thereof her said late Majesty, by letters patent under the great seal of Great Britain, did nominate, constitute and appoint several of for the purposes in the said first recited act mentioned, with such powers and authorities as in the same act are expressid; and further reciting, that the said of did apply themselves to the execution of the powers therein mentioned, but could not perfect within the time limited what was by the said act intended; it was therefore enacted by the said act of the tenth year of the reign of her said late Majesty, That notwithstanding the time limited by the fad litters patent was expired, it should and might be lawful, to and for the said of so appointed by the said letters patent, or any five or more of them, and they were thereby authorized and required to meet, from time to time, as often as there should he occasion, either: with or without adjournments, and to esquire and inform themselves of all and every the matters and things therein committed to them, or any five or more of them, in or by the said first recited act, qr by that present act intended to be by them performed, until they should have completed and finished the same: and it was thereby further provided
 
@@ -6026,7 +6020,7 @@ xninifters. receipt of Exchequer, and by force and virtue of this act, ai* Part 
 
 Not to extend
 
-III. Provided, That this act, or any thing therein contained to coals for the shall not extend, or bfc construed to extend to charge or ky any use of Chelfea- of the duties or impositions hereby imposed upon such to^| Wpital. (not exceeding one hundred chalders by the Year) as shall k brought into the port of London from NevmftU upon fim* cr any other place, for tWe only use and service of the royal Hospital at Chelsea-, any thing herein contained to the contrary Mi. withstanding.
+III. Provided, That this act, or any thing therein contained to coals for the shall not extend, or bfc construed to extend to charge or ky any use of Chelsea- of the duties or impositions hereby imposed upon such to^| Wpital. (not exceeding one hundred chalders by the Year) as shall k brought into the port of London from NevmftU upon fim* cr any other place, for tWe only use and service of the royal Hospital at Chelsea-, any thing herein contained to the contrary Mi. withstanding.
 
 The King may
 
@@ -6048,7 +6042,7 @@ An act 4br appointing commissionere to take, examine and ftite the debts due to 
 
 s
 
-i6o> Anno primo Georgii I. Stat.2.0, 25. £1714.*
+i6o> Anno primo Georgii I. Stat.2.0, 25. [1714.*
 
 CAP. XXV.
 
@@ -6484,7 +6478,7 @@ Cattles, See. belonging to the crown, in Wales, Monmouth, and the county palatin
 
 All leases and grants made by his royal highness, of any manors, See. in thedutchy of Cornwall shall he good. Proviso) that such leases, Sec. be made only for 31 years or three lives, and not difpunifiiable of waste, and that the usual rent be reserved, and where there has been no such rent, foe soth part of the value shall be reserved. EXP.
 
-ft. Anno primo Georgii I. Sul. c.38, 39. £1714.
+ft. Anno primo Georgii I. Sul. c.38, 39. [1714.
 
 CAP. XXXVIII.
 
@@ -6548,7 +6542,7 @@ CAP. XLIL
 
 An act for the attainder of George earl of Marifthall, William sari of Seafoitb, James earl of Southesaue, James earl of Panmuir, and others* of high treason, unless they shall render thenUelyes tQ ioffice by a day ftftam therein mentioned.
 
-184 Anno primo Georgii I. Stafc tl c. 43. £1714.
+184 Anno primo Georgii I. Stafc tl c. 43. [1714.
 
 CAP. XLIII.
 
@@ -6564,7 +6558,7 @@ Goc 2
 
 *7^4*0 -Anno primo Georgii I. Stat z.c.43.85
 
-duly put in execution, for and during all such term and time as' are before-mentioned, as folly and effectually as if the same were particularly repeated and re-enacted in the body of this presentaft.
+duly put in execution, for and during all such term and time as' are before-mentioned, as folly and effectually as if the same were particularly repeated and re-enacted in the body of this present act.
 
 II. And U the end the importers of grid and fiber into she mints Deficiency in of England and Scotland respectively, may not be discouraged by any the coinage-deficiency of the revenue by this act settled for defraying the coinage
 
@@ -6670,7 +6664,7 @@ III. And lastly, Whereas the building of a key upon the river mam "I?e* of Clyde
 
 U a monies
 
-2Q2 Anno primo Georgii I. Stat. 2. 0.45, 46. £1715.
+2Q2 Anno primo Georgii I. Stat. 2. 0.45, 46. [1715.
 
 A key to be monies arising by the said impositions, the magistrates of the built ci dT and successors in office, shall be, and
 
@@ -6714,7 +6708,7 @@ order of the Justices.
 
 The cause of seizure to be
 
-Anno prirao Georgii I. Seat. 2. c. 4$* £1715*
+Anno prirao Georgii I. Seat. 2. c. 4$* [1715*
 
 ing, curing or (nanufacturing the same, 6r prepared far such use, shall and may be searched for and feizqi by any officer of the customs, or by any person or persons thereunto speciallyao-thorized by writing under the hands and seals of the commissioners of the treasury, or any three or more of them, or of the lord treasurer for the time being, or of the coramiffiotiers of the curtoms in England or Scotland respectively, or any three or more of them for the time being,
 
@@ -6736,7 +6730,7 @@ An act for the more effectual and exemplary punishment of.jucbpersons as shall s
 
 WHEREAS a pernicious and dangerous praflice has been industriously carried on in these kingdoms of Great Britain and id, by papijis and other evil-disposed persons, difajfefled to his jiffs title and government, under false and grounalefs pretences, to delude his good subjects, who had engaged themselves as soldiers in, the service of his Majesty and their country, and to prevail with them by corrupt and direst means to desert the same, oftentimes in order to procure their ajfiftance for a popish pretender, the avowed enemy of the protefant religion, and the laws and liberties of these kingdoms; for which wicked purposes the said papijis and other evil-disposed persons have with great diligence frequented the publick-houses* and other pieces where the said soldiers used to resort, or are quartered, and by entertainments, seditious speeches and vain promises, have often fe-ducedhis Majesty's said subjects from their duty and allegiance; for remedy whereof for the future, and for the more effectual and After June i exemplary punishment of all offenders in that behalf, be it en- 17*6. Persons acted by the King's most excellent majesty, by and with the ad-yice and consent of the lords spiritual and'temporal and com- defertfoaHfor^ mons, in this present parliament assembled, and by the authority fcit 40I. of the same. That if any person or persons whatsoever (other'U 4 than
 
-296 Anno primo Georgii I. Stat. 2. G.47. £1715.'
+296 Anno primo Georgii I. Stat. 2. G.47. [1715.'
 
 than such as are or shall be inlisted as soldiers, against whom Sufficient remedy is already provided by law) shall, from the first day of June in the year of our Lord one thousand seven hundred and Sixteen, in Great Britain or Ireland, or the isles of Jersey or Guernsey, by words or other means whatsoever, directly or indirectly, perswade or procure any soldier or Soldiers in the Service of his Majesty, his heirs or successors, todefert or leave fbgh Service, or shall go about and endeavour in manner aforesaid, \o perswade, prevail on or procure Such soldier or Soldiers to desert or leave such Service as, aforesaid, every such person or persons so bffending as aforesaid, and being thereof lawfully convicted, shall, for every such offence, forfeit to his Majesty, his heirs or successors, or to any other person or persons who mall Sue for the same, the sum of forty pounds, to be recovered by bill, plaint or information, in any of his Majesty's courts of record at Westminster, wherein no essoin, protection, or wager of law. shall be in" sufficieruto a^owe^ > an<^ lt shall happen that any Such offender, so con-pay it to be victed as aforesaid, hath not any goods and chattels, lands or nnpritoned fix tenements, to the value of forty pounds, to pay and Satisfy the months with- same, or that from the circumstances and hainoufnefc of the Sandlu the* cr*me lt^bought proper and convenient, the court, bc-pillory. fore which the said conviction shall be made, as aforesaid, shall award the said offender to prison, there to remain for any time not exceeding (ix months, without bail pr mainprize, and also0 (land in the pillory for the Space of one hour, infome market-town next adjoining to the place where the offence was committed, in open market there, or in the market-town itfdf where the said offence was committed.
 
@@ -6872,7 +6866,7 @@ settling the rates and carriage of goods, shall within fourteen days after the a
 
 thereof, Sec. to and of the negleas of labourers, and of those that are obliged the special fcf- to find labourers or teams for the repair of the highways, as
 
-required by law, to the justices at their next special sessions to be holden for the amendment of the highways, according to the 3&4.W.&M. said recited aeft, to the end that the said accounts may be carefully preferred, and that at all future sessions the justices of the said division may have full information of, and may be able to examine into the particular state and condition of all the roads, bridges, causways, pavements, hedges, ditches, and water-courses, as aforesaid, and may the better execute the powers in the laws relating to highways 5 and all surveyors neglecting to give such account, as aforesaid, shall suffer the same penalty as if they refused to execute the said office, to be levied and disposed of as by the aforesaid act Is directed, unless they shall have some reasonable excuse for omitting the same, to be allowed by the justices of the peace of the same division at such their special sessions. justices to ap- III. And it is hereby further enacted and declared, That the point the re- justices of the peace at such their special sessions, by writing parations. under their hands and seals, may order and appoint the reparation of those great roads which do most want repair within the hundred or division where such session is held, to be first amended, and at what time or in what manner the same shall be performed, according to which order, if such there be, all and fmgular the respective surveyors of the said highways are hereby required to proceed within their respective liberties.
+required by law, to the justices at their next special sessions to be holden for the amendment of the highways, according to the 3&4.W.&M. said recited aeft, to the end that the said accounts may be carefully preferred, and that at all future sessions the justices of the said division may have full information of, and may be able to examine into the particular state and condition of all the roads, bridges, causways, pavements, hedges, ditches, and water-courses, as aforesaid, and may the better execute the powers in the laws relating to highways 5 and all surveyors neglecting to give such account, as aforesaid, shall suffer the same penalty as if they refused to execute the said office, to be levied and disposed of as by the aforesaid act Is directed, unless they shall have some reasonable excuse for omitting the same, to be allowed by the justices of the peace of the same division at such their special sessions. justices to ap- III. And it is hereby further enacted and declared, That the point the re- justices of the peace at such their special sessions, by writing parations. under their hands and seals, may order and appoint the reparation of those great roads which do most want repair within the hundred or division where such session is held, to be first amended, and at what time or in what manner the same shall be performed, according to which order, if such there be, all and singular the respective surveyors of the said highways are hereby required to proceed within their respective liberties.
 
 The highways IV. And it is hereby further enacted and declared, That ail to be repaired surveyors of highways shall take the first most convenient ana before harvest. seasonable time of the year, for repairing and amending the highways 'withUi their respective liberties, and take care as far as
 
@@ -7292,7 +7286,7 @@ II. And be it further enacted by the authority aforesaid, That Penalty for re-if
 
 heshall for every such offence forfeit a sum at the discretion of cording totht the commiflidtiers authorized to put the said act in execution, or said act. the major'part of them, not exceeding three pounds nor under ten shillings, the said offence or offences to be determined, and the said penalties1 and" forfeitures to be recovered, levied andap-9 Ann. c,3. plied,s\in and by the said recited act is directed concerning the forty fhitlings penalty for the offences aforesaid.
 
-'III.: And be it further enacted by the authority aforesaid, That Nonebutper-firom and after the said twenty fourth day of June, no person or fons liccnied.persons shall presume to ftana, ply or drive for hire, with any p^*0^c* coach whatsoever, hearse or coach-horses, or shall let to hire Jfcc.0°n tortcU any mourning-coach or coach-horses, to wait or attend on any ture of 5 1. funeral within the cities of London and Westminster, or suburbs of the same, or within the parishes or places comprized within the weekly bills of mortality, except such person or persons who are or (harl be licensed by the said commissiotvers, pursuant to the before-mentioned act. That every person and persons so offending shall for every such offence forfeit the (urn olf five pounds, the said offence to be determined, and the said penalty to be recovered, levied and applied, as in and by the said recited act is directed concerning the penalty for driving an hackney-coach for hire Without licence within the places aforesaid.
+'III.: And be it further enacted by the authority aforesaid, That Nonebutper-firom and after the said twenty fourth day of June, no person or fons liccnied.persons shall presume to stana, ply or drive for hire, with any p^*0^c* coach whatsoever, hearse or coach-horses, or shall let to hire Jfcc.0°n tortcU any mourning-coach or coach-horses, to wait or attend on any ture of 5 1. funeral within the cities of London and Westminster, or suburbs of the same, or within the parishes or places comprized within the weekly bills of mortality, except such person or persons who are or (harl be licensed by the said commissiotvers, pursuant to the before-mentioned act. That every person and persons so offending shall for every such offence forfeit the (urn olf five pounds, the said offence to be determined, and the said penalty to be recovered, levied and applied, as in and by the said recited act is directed concerning the penalty for driving an hackney-coach for hire Without licence within the places aforesaid.
 
 IV. And whereas of late it has been the common practice of under-triers of funerals to hire gentlemen's coaches and korfes of their fer-wnts, without the knowledge and consent of their masters, to wait and attend on funerals, to the prejudice of the owners of such coa< hes and horses, and greatly to the detriment of the persons licensed to keep coaches and horses to let to hire within the places aforesaid: and whereat 'tis difficult to prove any such hiring of such persons by the undertakers, for that9tis a matter privately transacted between thcmselyes, and a certain common price (known between the parties) is constantly paid though no agreement made: be it therefore further enacted by the authority aforesaid, That if any person shall drive a mourn- Mourning ing^oach to any funeral, except the same shall have a number coaches matt fitted on the fore-standard of such coach or hearse, or in some no* driven other convenient place to be appointed by the of, ^xcem^hey shewing it to be a licensed coach or hearse to be let to hire, orf have a mim- except the same shall be the coach of some person of quality or ber, or genrie-gemleman's coach attending the master or mistress, or any of mens coaches, his, her of their family; and if information shall be given the said of of such fad* it shall and may be lawful for*c J u Vol. XIII. Y the
 
@@ -7382,17 +7376,15 @@ charges have not been made to them: be it therefore enabled. That so much as the
 
 shall judge reasonable upon such report or reports, as aforesaid, to be allowed to such receivers as have already cleared their accounts, shall and may be paid to them respectively out of any arrears of any land-tax or land-taxes which are or may be recovered and brought into the Exchequer, and shall there remain after all loans registred thereupon, and the interest thereof shall be fati&fied or transferred for satisfaction; any other law pr statute to the contrary notwithstanding.
 
-V. And whereas the inhabitants of the islands of Jersey, Guernsey, Sark, and Alderney, have always been permitted and allowed to import into'England, any goods, wares, and merchandizes of the growth, produce, or manufacture of those respective ifes, upon certificates from the respective governors, lieutenant or deputy governors, or commanders in chief, for the time being, and oaths before the magistrates of the said islands of Jersey and Guernsey r'efpcftively, that the same were of the growth, produce, or manufacture of the said iflauds? or either cf them, without paying any customs, subsidies,
-
-Y 3 or
+V. And whereas the inhabitants of the islands of Jersey, Guernsey, Sark, and Alderney, have always been permitted and allowed to import into England, any goods, wares, and merchandizes of the growth, produce, or manufacture of those respective ifes, upon certificates from the respective governors, lieutenant or deputy governors, or commanders in chief, for the time being, and oaths before the magistrates of the said islands of Jersey and Guernsey r'efpcftively, that the same were of the growth, produce, or manufacture of the said iflauds? or either cf them, without paying any customs, subsidies,
 
 Gooch of the produce of lerfey, &c. to be imported duty free.
 
 By 5 Geo. i. c. iS. fe&. ir. Salt imported from theft islands shall pay as other jortign salt.
 
-Bonds and fc-curities discharged;
+Bonds and securities discharged;
 
-326 Anno tertio GEORGII I. C.4. £1716,
+326 Anno tertio Georgii I. C.4. [1716.
 
 or duties for or in respetl thereof: and whereas same doubt bath of fate arisen, whether, according to same fate laws now in force, the same may be JiiH continued: now for removing the said dowbt, and encouraging the said inhabitants to continue that steady and firm loyalty and fidelity to the crown of Great Britain, which they have formerly and constantly shewn to the crown of England, and for their better support; be it declared and enacted by the authority aforesaid, That the said inhabitants shall and may (with and under such certificates and oaths, as aforesaid) import into any lawful port of Great Britain, any goods, wares, and merchandizes of the growth, produce, and manufacture of the said islands, or either of them, without paying any cutfoms, subsidies or duties, for or in respect thereof (except fetch totak or other duty as is now, or shall hereafter, for the time being, be due and payable for the like goods of the growth, produce and manufacture of Great Britain); any law or ftatatc to the contrary in any wise notwithstanding[.
 
@@ -7412,7 +7404,7 @@ things or five farthings for every pound weight thereof: it is hereby enaifted a
 
 or
 
-r^i&] Annoterdo Georgii I, c.4* $iy
+r^i&] Anno tertio Georgii I. c.4* $iy
 
 or Idler quantity, although such (beep skins and lamb skins fa tawed and dressed, or mack into leather, in allom and salt, or meal, may have been or shall be dipped or deeped in the tanner's,
 
@@ -7536,7 +7528,7 @@ Anno tertio Georgii I. c. 7. [*7»<
 
 acts of parliament in that behalf doth amount to the sum of Urn. mal-lim i and in respect thereof a yearly fund of fox hundred thousand pounds hath been and is payable to the said governor and company after the rate offix pounds per centum per annum, besides a yearly Jim of eight thousand pounds for or towards the charges of the food governor and company for management, subject nevertheless ta m prevtfe i Geo. 1. flat, contained in one a ft of parliament of the first year of your Mejefifs a#L'1, r reign) intituled, An act for enlarging the capital Hock and yearly
 
-fund of the South-Sea company, and for supplying the reby eight hundred twenty two thousand thirty two pounds four £biQings and eight pence to oublick uses; and for raising one hundred sixty nine thousand pounds for the like uses, by sale of an* nuities upon divers encouragements therein mentioned; and for appropriating several supplies granted to his Majesty, whereby the said yearly sums of six hundred thousand pounds* and eight thousand pounds were redeemable upon one year's notice, which was to be given after the twenty fifth day <?/* December one thousand seven hundred and sixteen, and upon payment as well of the said sum of ten millions, as of all arrears of the said yearly sums, in such manner and form as in the said provijo of redemption are prescribed: and whereas the j'aid governor and company of merchants of Great Britain er* willing and contented, in regard the common rate of intertfo for money is very much lessened under your Majesofs mof auspicious government, to accept from and after the feast of the nativity of Saint John Jfdp-tift one thousand seven hundred and eighteen, one annuity or yearly fund of five hundred thousand pounds, being after the rate of five
+fund of the South-Sea company, and for supplying thereby eight hundred twenty two thousand thirty two pounds four £biQings and eight pence to oublick uses; and for raising one hundred sixty nine thousand pounds for the like uses, by sale of an* nuities upon divers encouragements therein mentioned; and for appropriating several supplies granted to his Majesty, whereby the said yearly sums of six hundred thousand pounds* and eight thousand pounds were redeemable upon one year's notice, which was to be given after the twenty fifth day <?/* December one thousand seven hundred and sixteen, and upon payment as well of the said sum of ten millions, as of all arrears of the said yearly sums, in such manner and form as in the said provijo of redemption are prescribed: and whereas the j'aid governor and company of merchants of Great Britain er* willing and contented, in regard the common rate of intertfo for money is very much lessened under your Majesofs mof auspicious government, to accept from and after the feast of the nativity of Saint John Jfdp-tift one thousand seven hundred and eighteen, one annuity or yearly fund of five hundred thousand pounds, being after the rate of five
 
 pounds per centum per annum for the said ten millions* together with the said yearly sum of eight thousand pounds to be continued to them for management, so as they may be satisfied the said yearly foamy of six hundred thousand pounds and eight thousand pounds, until and for the quarter to end at the said feast of the nativity of Saint John Baptist one thousand seven hundred and eighteen % and Jo as the future payments of the said yearly sums of five hundred thousandpoi^nas*, find*eight thousand pounds, may be secured to them from the said feast day*
 
@@ -7644,7 +7636,7 @@ fee
 
 Jbe liable to'pay double the value of any sum or sums of money lo delayed to be paid, or so diverted or misapplied as aforesaid, to the said governor and company of merchants of Great Britain, and their successors^to be recovered by action of debt, bill, suit or information in any of his Majesty's courts of record at Westminster, wherein no essoin, protection or wager of law, or more than one imparlance shall be granted or allowed.
 
-XII. And be it further enacted by the authority aforesaid, Deficiency of That if at any time or, times the produce of the said rates, sub- one quarter to iidles, impositions, duties and revenues and proportional paFts be supplied of them, or any of them, hereby appropriated as aforesaid, shall ^cn^quar-be so low or deficient, as that the money arising the reby at the tcq q Exchequer shall not extend orbe sufficient, according to this act,
+XII. And be it further enacted by the authority aforesaid, Deficiency of That if at any time or, times the produce of the said rates, sub- one quarter to iidles, impositions, duties and revenues and proportional paFts be supplied of them, or any of them, hereby appropriated as aforesaid, shall ^cn^quar-be so low or deficient, as that the money arising thereby at the tcq q Exchequer shall not extend orbe sufficient, according to this act,
 
 to pay and discharge, or to complete the payment at the end of may quarter of a year of all the money which shall be then due, as weH for or upon the said yearly fund of five hundred thousand pounds, and the said yearly sum of eight thousand pounds, (be-(ides any arrearages which mall be then due for or upon the said former yearly sums of six hundred thousand pounds, and eight thousand pounds) then and so osten, and in every such case, the deficiency of any such quarter shall and may be supplied out of the overplus monies of the said duties ana revenues arising in any subsequent quarter; and in default thereof by the space of and in default half a year, then all and every such deficiency and deficienciesor shall he supplied and made good, from time to time, by or out thento^efup-of.the general yearly fund by another ad of this session of parli- plied out of the ament established or intended to be established for redeeming the general fund duties and revenues now charged or chargeable in and by several lottery-acts of the ninth and tenth, years of her said late Maje-ion*
 
@@ -7690,7 +7682,7 @@ and enjoy their annuities, Sec. till redeemedj
 
 and their fac tones, trades and acquifj-tions.
 
-Anno tertio Georgii I. c. 7. £1716.
+Anno tertio Georgii I. c. 7. [1716.
 
 and that ftsch contracts* bills, bonds, obligations oc ferarides shall not be chargeable with any the duties upon (larapt veHom, parchment or paper; any former law, statute, prohibition, re-flridion or other matter or thing whatsoever 10 the contrary in any wise notwithstanding.
 
@@ -8686,7 +8678,7 @@ XIX. And whereat the sum of sixty-one thousand seven hundred and seven pounds th
 
 therein mentioned, which expired on or about the twenty-fourth day 3 & 4 Aim# of June one thousand seven hundred and fourteen, carrying interest c. 4. after the rate of six pounds per centum per annum: now in order to put an end to the same high interest, it is hereby further enacted by the authority aforesaid, That it shall and may be Voi. XIII. D d lawful
 
-39? Anno teitio Georgii I.£171$,
+39? Anno teitio Georgii I.[171$,
 
 Treasury may lawful to and for the said of of the treasury, or any Smsban^ree or re of them, and to and for the high treasurer of nuitics a^i. Qrtat Britain for the time being, to iflae their respectiYe warper cent, to rant or warrants to the proper offifcers in the receipt of the Expay off 6x7071 chequer, for receiving and taking in at the said receipt such fur-
 
@@ -8812,7 +8804,7 @@ deeming the yearly fund of the governor and company tf merchants of Great Britai
 
 be sufficiept to make good the same, and so much of the same
 
-406 Anno tertio Georgii I. c. tfl £1716.
+406 Anno tertio Georgii I. c. tfl [1716.
 
 general yearly fund as at the end of any quarter of a year, m aforesaid, shall remain in the receipt or the Exchequer, over and above all the monies then due or payable, to difehorge the said several annuities and other payments by this act directed to be satisfied out of the same, and all arrears thereof (if any such be) shall likewise, from time to time, attend the disposition-of parliament, and be applied according to act or acts of parliament, and not otherwise.
 
@@ -8888,7 +8880,7 @@ intent company.
 
 intent or purpose whatsoever, other than towards the nfes and purposes afore-mentioned.
 
-XLII. Provided always, and it is hereby enacted and declared, That no appropriation, or other matter or thing in this act contained, shall obstruct or hinder any payment or payments which, by and in pursuance of an act made in the first year of his Majest/s reign, intituled, An act for enlarging the capital stock and yearly fund of the South-Sea company; and for Supplying the reby eight hutidrei twenty-two thousand thirty-two pounds four Shillings and eight pence to publick uses; and for raising one hundred sixty-nine thousand pounds for the like uses, by sale of annuities upon divers encouragements therein mentioned; and for appropriating Jc-Proviso for veral supplies granted to his Majesty, are or shall he required and the South-Sea authorized to be made by the treasurer or paymaster of the navy ^or the ^me being, or by any other persons to be intruded with c. 21. the publick monies for the service of the navy, out of such pub-
+XLII. Provided always, and it is hereby enacted and declared, That no appropriation, or other matter or thing in this act contained, shall obstruct or hinder any payment or payments which, by and in pursuance of an act made in the first year of his Majest/s reign, intituled, An act for enlarging the capital stock and yearly fund of the South-Sea company; and for Supplying thereby eight hutidrei twenty-two thousand thirty-two pounds four Shillings and eight pence to publick uses; and for raising one hundred sixty-nine thousand pounds for the like uses, by sale of annuities upon divers encouragements therein mentioned; and for appropriating Jc-Proviso for veral supplies granted to his Majesty, are or shall he required and the South-Sea authorized to be made by the treasurer or paymaster of the navy ^or the ^me being, or by any other persons to be intruded with c. 21. the publick monies for the service of the navy, out of such pub-
 
 lick monies, tallies, orders or parliamentary securities in their hands or power respectively, as are or shall thereby be charged Or chargeable to make good any deficiency or deficiencies to the governor and company of merchants of Great Britain trading to the South-Seas, and other parts of America, and for encouraging the fishery, or to their treasurer for their use $ any thing herein Contained to the contrary notwithstanding. and for the XLIII. Provided also, That such sums as by any other act of of this session of parliament shall be payable to any commi(Eoner$ o£accounts. for taking, examining and dating the debts due to the army, for their Talaries, or for their clerks or other incident charges, shall and may be paid out of the aids or supplies aforesaid, orny of them; any thing herein contained to the contrary not* withdanding.
 
@@ -9262,7 +9254,7 @@ v other person, for or upon pretence of such levying or col- ly for an acting, e
 
 such sum as shall be so levied or collected; which acquit-ice such officer is hereby required to give and deliver to the rfon upon or from whom such debt shall be levied, collected received; and the bailiff or other person receiving such debt sum of money shall, from time to time, answer and account Vol. XIII. Ff for
 
-430 Amw tertio 0J*oroix t C# 15* £171$.
+430 Amw tertio 0J*oroix t C# 15* [171$.
 
 Ami rh«t* for the foroe-to the sheriff or his deputy, and may feqiwre an ao
 
@@ -11254,7 +11246,7 @@ to Ireland, and tbf same should perish by sinking of the ship or vessel fordifch
 
 45*
 
-Anno tertio Georgii I. £1716.
+Anno tertio Georgii I. [1716.
 
 fourth and fifth of her late Majesty's reign: be it therefore enacted by the authority aforesaid, That on proof made by the oath of two or more credible witnesses on or before the twenty fifth day of* December one thousand seven hundred and seventeen, as the fcid act directs, and upon producing a certificate to the officer of the place where the duty on such salt shall have been paid or secured, such security shall be discharged, and so much money*
 
