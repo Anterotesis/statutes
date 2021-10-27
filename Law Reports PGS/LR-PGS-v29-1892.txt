@@ -956,7 +956,7 @@ Session and Chapter. Title. Short Title.
 
 24 Geo. 3. Sess. 2. c. 25. An Act for the better Regulation and Management of the Affairs of the East India Company and of the British Possessions in India, and for establishing a Court of Judicature for the more speedy and effectual Trial of Persons accused of Offences committed in the East Indies. The East India Company Act, 1784.
 
-26 Geo. 3. c. 57. An Act for the further Regulation of the Trial of Persons accused of certain Offences committed in the East Indies; . . . . and for the more easy Proof, in certain Cases, of Deeds and Writings executed in Great Britain or India. The East India Company Act, 1786.
+26 Geo. 3. c. 57. An Act for the further Regulation of the Trial of Persons accused of certain Offences committed in the East Indies; . . and for the more easy Proof, in certain Cases, of Deeds and Writings executed in Great Britain or India. The East India Company Act, 1786.
 
 26 Geo. 3. c. 71. An Act for regulating Houses and other Places kept for the Purpose of slaughtering Horses. The Knackers Act, 1786.
 
@@ -1172,7 +1172,7 @@ Session and Chapter. | Title. Short Title.
 
 50 Geo. 3. c. 58. t An Act to amend several Acts for the redemption and sale of the Land Tax. The Land Tax Redemption Act, 1810.
 
-50 Geo. 3. c. 84. An Act for augmenting Parochial Stipends in certain cases in Scot-, land. The Teinds Act, 1810.
+50 Geo. 3. c. 84. An Act for augmenting Parochial Stipends in certain cases in Scotland. The Teinds Act, 1810.
 
 50 Geo. 3. c. 85. An Act to regulate the taking of securities in all offices in respect of which security ought to be 1 given, and for avoiding the grant of all such offices in the event of such security not being given within a time to be limited after i the grant of such office. The Government Offices Security Act, 1810.
 
@@ -1632,7 +1632,7 @@ Session and Chapter. Title. Short Title.
 
 2 A 3 Will. 4. c. 61. - An Act to render more effectual an Act passed in the fifty-ninth year of His late Majesty King George the Third, intituled “ An Act to “ amend and render more effectual nn Act passed in the last “ Session of Parliament, for building and promoting the building “ of additional Churches in populous Parishes.” The Church Building Act, 1832.
 
-2 & 3 Will. 4. c. 64. - An Act to settle and describo . . . . . the Limits of Cities and Boroughs, in England and Wales, in so far as respects the Election of Members to serve in Parliament. ! The Parliamentary Boundaries Act, 1832.
+2 & 3 Will. 4. c. 64. - An Act to settle and describo . the Limits of Cities and Boroughs, in England and Wales, in so far as respects the Election of Members to serve in Parliament. ! The Parliamentary Boundaries Act, 1832.
 
 2 A 3 Will. 4. c. 65. - An Act to amend the Representation of the People in Scotland. The Representation of the People (Scotland) Act, 1832.
 
@@ -1673,8 +1673,6 @@ An Act for regulating Schools of i Anatomy. j
 An Act to regulate the Office for 1 registering Deeds, Conveyances, j and Wills in Ireland. j
 
 An Act to amend the Representa- J tion of the People of Ireland. j
-
-\
 
 An Act to settle and describe the Limits of Cities, Towns, and Boroughs in Ireland, in so far as ' respects the Election of Members i to serve in Parliament.
 
@@ -2282,7 +2280,7 @@ Session and Chapter. Title. Short Title.
 
 3 & 4 Vict. c. 97. i An Act for regulating Railways - The Railway Regulation Act, 1840.
 
-3 & 4 Vict. c. 105. - | An Act . . . for extending the Remedies of Creditors against the Property of Debtors; and for the further Amendment of the Law and the better Advancement of Justice, in Ireland. The Debtors (Ireland) Act, 1840.
+3 & 4 Vict. c. 105. - | An Act . for extending the Remedies of Creditors against the Property of Debtors; and for the further Amendment of the Law and the better Advancement of Justice, in Ireland. The Debtors (Ireland) Act, 1840.
 
 3 & 4 Vict. c. 108. - An Act for the Regulation of Municipal Corporations in Ireland. i The Municipal Corporations (Ireland) Act, 1840.
 
@@ -2906,8 +2904,6 @@ Session and Chapter. Title. Short Title.
 
 15 & 16 Vict. c. 56. - An Act for regulating the Qualifications of Pharmaceutical Chemists. The Pharmacy Act, 1852.
 
-[
-
 68
 
 Ch. 10.
@@ -3276,7 +3272,7 @@ Session and Chapter. Title. Short Title.
 
 21 & 22 Vict. c. 25. - An Act to amend the Act concerning Non-parochial Registers, and the Acts for Marriages, and for registering Births, Deaths, and Marriages in England, and concerning Vaccination. The Births and Deaths Registration Act, 1858.
 
-21 & 22 Vict. c. 56. - An Act to amend the Law relating to the Confirmation of Executors in Scotland, and to extend over all Parts of the United Kingdom the Effect of such Confirmation, and of Grants of Probate and Administration. The Confirmation of Executors (Scot* land) Act, 1858.
+21 & 22 Vict. c. 56. - An Act to amend the Law relating to the Confirmation of Executors in Scotland, and to extend over all Parts of the United Kingdom the Effect of such Confirmation, and of Grants of Probate and Administration. The Confirmation of Executors (Scotland) Act, 1858.
 
 21 & 22 Vict. c. 65. - An Act to amend an Act of the last Session, to render more effectual the Police in Counties and Burghs in Scotland. The Police (Scotland) Act, 1858.
 
@@ -4510,8 +4506,6 @@ The Friendly Societies Act, 1875
 
 The Friendly Societies Act, 1887
 
-\
-
 The Friendly Societies Act, 1889
 
 The Friendly Societies y Acts, 1875 to 1889.
@@ -4720,7 +4714,7 @@ The Publicans* Certificates (Scotland) Act (1876) Amendment Act, 1877.
 
 The Public Houses, Hours of Closing (Scotland) Act, 1887.
 
-The Licensing (Scot- land) Acts, 1828 to 1887.
+The Licensing (Scotland) Acts, 1828 to 1887.
 
 The Lunacy (Scotland) Act, 1857 - The Lunacy (Scotland) Act, 1862 - The Lunacy (Scotland) Act, 1866 - The Criminal and Dangerous Lunatics (Scotland) Amendment Act, 1871.
 
@@ -7108,7 +7102,7 @@ Ch. 19.
 
 Reign and Chapter. Tide.
 
-3 & 4 Vict. c. 108. — cont. Section one hundred and ninety-eight, from “ and . . . where any person” to end of section. Section one hundred and ninety-nine, to “ shall seem meet; . . . and.” Sections two hundred and two hundred and one. Section two hundred and two, the words “of the peace ” where first occurring. Section two hundred and four, from “or if a sufficient ” to end of section. Section two hundred and fifteen, from “and in all cases where an oath ” to end of section. Schedule C., No. 3, from “ To be divided ” to end of No. 3; No. 5, from “To be divided” to end of No. 5; No. 8, from “ To be divided ” to end of No. 8; No. 10, to “ first described, ” where those words first occur, the words “according to the following boundaries, ” and the rest of No. 10, except the words “No. 1, Northern Ward, ” “ No. 2, Eastern Ward, ” “ No. 3, Western Ward.”
+3 & 4 Vict. c. 108. — cont. Section one hundred and ninety-eight, from “ and . where any person” to end of section. Section one hundred and ninety-nine, to “ shall seem meet; . and.” Sections two hundred and two hundred and one. Section two hundred and two, the words “of the peace ” where first occurring. Section two hundred and four, from “or if a sufficient ” to end of section. Section two hundred and fifteen, from “and in all cases where an oath ” to end of section. Schedule C., No. 3, from “ To be divided ” to end of No. 3; No. 5, from “To be divided” to end of No. 5; No. 8, from “ To be divided ” to end of No. 8; No. 10, to “ first described, ” where those words first occur, the words “according to the following boundaries, ” and the rest of No. 10, except the words “No. 1, Northern Ward, ” “ No. 2, Eastern Ward, ” “ No. 3, Western Ward.”
 
 4 & 5 Vict. c. 30. - An Act to authorize and facilitate the Completion of a Survey of Great Britain, Berwick-upon-Tweed, and the Isle of Man. In part; namely, — Section seven, from “ and not less than ” to the end of the section. Section eight, from “ and not less than ” to the end of the section. Section eleven, from “and not less than ” to the end of the section. Section thirteen, from “ to them for that ” to “ paid and satisfied.”
 
@@ -7262,7 +7256,7 @@ Reign and Chapter. Title.
 
 8 & 9 Vict. c. 75. An Act the title of which begins with the words “An Act to amend, ” and ends with the word “Libel.” In part; namely, — Section one.
 
-8 & 9 Vict. c. 77. An Act the title of which begins with the words “An Act to make ” and ends with the words “Hosiery in certain Cases.” In part; namely, — Section five. Section six. Section seven, to “ convicted and, ” and as to Ireland from “ the said penalty ” to the end of the section. Section eight, from “ and . . . when any ” to the end of the section, except as to Ireland.
+8 & 9 Vict. c. 77. An Act the title of which begins with the words “An Act to make ” and ends with the words “Hosiery in certain Cases.” In part; namely, — Section five. Section six. Section seven, to “ convicted and, ” and as to Ireland from “ the said penalty ” to the end of the section. Section eight, from “ and . when any ” to the end of the section, except as to Ireland.
 
 8 & 9 Vict. c. 83. An Act for the Amendment and better Administration of the Laws relating to the Relief of the Poor in Scotland. In part; namely, — Section seventy-seven, from “ and they are hereby ” to “hereunto annexed, ” from “Provided always” to “ of such removal, ” and the word “also.” Section eighty-one, from “ and on such complaint ” to “ has proceeded, ” from “ either by ” to “ upon such conviction, ” and from “ Provided always ” to the eud of the section.
 
@@ -7286,7 +7280,7 @@ lleign and Chapter. Title.
 
 8 & 9 Vict. c. 118. - The Inclosure Act, 1845. In part; namely, — Section one hundred and sixty-five, from “ and every such action ” to “ other county or place, ” from “or such action” to “as aforesaid, ” and from “ a verdict ” to “ action or suit ” where those words last occur.
 
-8&9 Vict. c. 128. - An Act to make further Regulations respecting the Tickets of Work to be delivered to Silk Weavers in certain cases. In part; namely, — Section four. Section five. Section six, to “ convicted:and; ” and the whole section as to Ireland. Section eight, from “ und . . . when any ” to the end of section.
+8&9 Vict. c. 128. - An Act to make further Regulations respecting the Tickets of Work to be delivered to Silk Weavers in certain cases. In part; namely, — Section four. Section five. Section six, to “ convicted:and; ” and the whole section as to Ireland. Section eight, from “ und . when any ” to the end of section.
 
 9 & 10 Vict. c. 2. An Act the title of which begins with the words “An Act to authorise Grand Juries” and ends with the words “in Ireland.” In part; namely, — Section twenty, from “ and the sum ” to end of section.
 
@@ -11434,7 +11428,7 @@ Schedule of Sums granted to make good deficiencies on the several grants herein 
 
 CIVIL SERVICES. Class II. Colonial Office ..... £ 8. 11 17 d. 8
 
-Class III. Police Courts, London and Sheerness . . 6 7 11
+Class III. Police Courts, London and Sheerness 6 7 11
 
 Class Y. Slave Trade Services - . 888 16 8
 
@@ -13916,7 +13910,7 @@ pneumonia shall be applicable in cases of foot-and-mouth disease, disease of
 
 and any powers exerciseable under that Act with respect to pleuro- crtam P
 
-J K, . . ..., , /, , r, visions relating
+J K, ..., , /, , r, visions relating
 
 pneumonia may be exercised with respect to toot-and-mouth to plcuro-
 
@@ -14159,8 +14153,6 @@ Section three; section five; section eight; sections thirteon anil fourteen.
 The whole Act, except section eight.
 
 The whole Act, except sections eight and fourteen.
-
-(
 
 r
 
@@ -19462,8 +19454,6 @@ Ch. 55.
 
 541
 
-)
-
 Burgh Police (<Scotlan) Act, 1892.
 
 respective periods herein-after specified from the time of incarceration, and after such imprisonment no further procedure against the cautioner shall be competent on the bond; and when any money or other article shall be deposited by any person as a security for his appearance, and such person shall fail to appear, it shall be competent to the magistrate to declare such deposit to be forfeited; and if it be money, it shall be forthwith ordered by the magistrate to be paid to the clerk; and if it be not money; such article so deposited shall be ordered by the magistrate to be sold by public auction then or at some periodical sale, and the free proceeds shall be paid to the clerk, and in both cases accounted for by him, along with the forfeitures, penalties, and fines, to the collector, and applied in the same manner as forfeitures, penalties, and fines are by the provisions of this Act directed to be applied.
@@ -20973,8 +20963,6 @@ Words referring to “ paving, metalling, and flagging ” shall be construed as
 Local Government Board may extend Act to rural districts.
 
 Interpretation.
-
-/
 
 574
 
@@ -22745,8 +22733,6 @@ P. xlvi. An Act to confirm a Provisional Order made by the Board of Trade under 
 P. xlvii. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Rates and Charges applicable thereto, of the Isle of Wight Railway Company, and certain other Railway Companies. (Railway Rates and Charges, No. 9 (Isle of Wight Railway, &c.) Order Confirmation.)
 
 P. xlviii. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule q£ Maximum Rates and Charges applicable thereto, of the ^j^ashire and Yorkshire Railway Company, and
-
-(
 
 610
 

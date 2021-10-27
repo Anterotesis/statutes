@@ -736,7 +736,7 @@ An Act to continue the Duty of Customs on Tea, to re-impose Income Tax and Super
 
 Most Gracious Sovereign,
 
-\\f E, Your Majesty’s most dutiful and loyal subjects the Commons of the United Kingdom of Great Britain and Ireland in Parliament assembled, towards raising the necessary supplies to defray Your Majesty’s public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+WE, Your Majesty’s most dutiful and loyal subjects the Commons of the United Kingdom of Great Britain and Ireland in Parliament assembled, towards raising the necessary supplies to defray Your Majesty’s public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 Part I.
 
@@ -1889,8 +1889,6 @@ An Act to extend the Qualification for Membership of County and Borough Councils
 [7th August 1914.]
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
-
-/
 
 44
 
@@ -17104,7 +17102,7 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (ii) so much of the duties leviable in respect of the remainder as exceeds the sum which, if accumulated at compound interest at the rate of three per centum per annum from the date of death with half-yearly rests would, at the expiration of the period of the normal expectation of life of a person of the age of the deceased at the time of death (calculated in accordance with the Tables of Mortality of Government Life Annuitants, 1912), amount to the whole of the duties so leviable.
 
-$) The benefits of the relief given by this section as respects the first five thousand pounds shall be apportioned rateably among the several persons who would otherwise bear the duties remitted or repaid according to the amounts which they would so bear and without regard to their respective rights of priority.
+) The benefits of the relief given by this section as respects the first five thousand pounds shall be apportioned rateably among the several persons who would otherwise bear the duties remitted or repaid according to the amounts which they would so bear and without regard to their respective rights of priority.
 
 [Short title.]
 
@@ -18126,7 +18124,7 @@ The sum by which the Transferred Sum is to be increased in pursuance of this pro
 
 18. — (1) The charge on the Guarantee Fund under the Irish charge on Land Purchase Acts in respect of — Transferred
 
-... . . _ _ ., - T 1 T 1 ^Um 8UmS
+... _ _ ., - T 1 T 1 ^Um 8UmS
 
 (a) sums which owing to the deficiency of the Irish Land charged on the Purchase Account, are paid out of the Consolidated p“*ntee Fund on account of the dividends and sinking fund
 
@@ -18672,7 +18670,7 @@ Dublin: —
 
 College Green . - 3
 
-Harbour - . . 3
+Harbour - 3
 
 St. Stephen’s Green St. Patrick’s . - 2
 
@@ -18680,9 +18678,9 @@ St. Stephen’s Green St. Patrick’s . - 2
 
 Belfast: —
 
-East . . 5
+East 5
 
-South . . 3
+South 3
 
 West . - 2
 
@@ -18716,7 +18714,7 @@ Antrim County:
 
 North Antrim _ 2
 
-Mid Antrim .... . . 2
+Mid Antrim .... 2
 
 East Antrim .... - . i 2
 
@@ -19132,10 +19130,6 @@ Kilkenny (including Borough of Kilkenny) f Longford -I Westmeath
 
 (Louth Meath
 
-}
-
-}
-
 2
 
 1
@@ -19248,7 +19242,7 @@ The Province of Ulster - . 1 14
 
 , , Connaught - k 6
 
-Total - . . 40
+Total - 40
 
 1914.
 

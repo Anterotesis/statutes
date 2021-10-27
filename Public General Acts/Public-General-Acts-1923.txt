@@ -1418,12 +1418,6 @@ According to the gross tonnage represented by the ships or shares of ships trans
 
 Not exceeding 10 tons -
 
--
-
--
-
--
-
 0
 
 5
@@ -1431,8 +1425,6 @@ Not exceeding 10 tons -
 0
 
 10 tons and not exceeding 20 tons
-
-■
 
 0
 
@@ -1452,8 +1444,6 @@ Not exceeding 10 tons -
 
 11
 
--
-
 0
 
 15
@@ -1462,8 +1452,6 @@ Not exceeding 10 tons -
 
 30
 
-»
-
 If
 
 11
@@ -1471,8 +1459,6 @@ If
 40
 
 11
-
--
 
 1
 
@@ -1492,8 +1478,6 @@ n /
 
 11
 
--
-
 1
 
 5
@@ -1512,8 +1496,6 @@ n /
 
 If
 
--
-
 1
 
 10
@@ -1531,8 +1513,6 @@ If
 100
 
 11
-
--
 
 1
 
@@ -6776,7 +6756,7 @@ SCHEDULES.
 
 Sections 1, 2, FIRST SCHEDULE.
 
-3, 4, 6, 9, 21, . . .
+3, 4, 6, 9, 21, .
 
 35, 40, 42, 49.
 
@@ -9284,7 +9264,7 @@ Miuisfer.
 
 Penalty for injuring or obstructing fish pass or free gap.
 
-$18 Cfl. 1G. Salmon and Freshwater 13 & 11 Geo. 5.
+18 Cfl. 1G. Salmon and Freshwater 13 & 11 Geo. 5.
 
 Fisheries Act, 1923.
 
@@ -15190,13 +15170,7 @@ Loan.
 
 Amount to be written off.
 
-£
-
-£
-
 Eyemouth Harbour Trustees
-
-“
 
 10,000
 
@@ -17102,13 +17076,9 @@ Appropriations in Aid.
 
 Fart 1. Civil Services (Supple—
 
-£
-
 8.
 
 d.
-
-£
 
 s.
 
@@ -17188,8 +17158,6 @@ Army (Ordnance Factories) -
 
 0
 
-£
-
 122, 011, 100
 
 0
@@ -17218,8 +17186,6 @@ Fart 5. Civil Services, Class I.
 
 0
 
->>
-
 6. Civil Services, Class II. -
 
 10, 824, 477
@@ -17235,8 +17201,6 @@ Fart 5. Civil Services, Class I.
 0
 
 0
-
->>
 
 7. Civil Services, Class III. -
 
@@ -17314,13 +17278,9 @@ Appropriations in Aid.
 
 1
 
-£
-
 s.
 
 d.
-
-£
 
 s.
 
@@ -17486,10 +17446,6 @@ in Aid.
 
 Class I.
 
-£
-
-£
-
 For expenditure in respect of the royal parks and pleasure gardens -
 
 25,000
@@ -17497,8 +17453,6 @@ For expenditure in respect of the royal parks and pleasure gardens -
 For expenditure in respect of sundry public buildings in Great Britain not provided for on other votes
 
 10
-
-—
 
 Class II.
 
@@ -17588,10 +17542,6 @@ in Aid.
 
 CIVIL SERVICES—conf.
 
-£
-
-£
-
 Brought forward -
 
 875, 270
@@ -17622,8 +17572,6 @@ For certain expenses incurred in connection with the purchase and importation of
 
 9,000
 
-—
-
 Unclassified Services.
 
 For claims in connection with ships or cargoes condemned as Naval Prize i or detained ----
@@ -17635,8 +17583,6 @@ For the cost of certain Miscellaneous
 War Services -
 
 107,000
-
-—
 
 Total Civil Services
 
@@ -17675,10 +17621,6 @@ seamen, and boys, coastguard,
 and royal marines -
 
 2. For victualling and clothing for the navy, including the cost of victualling establishments at
-
-£
-
-£
 
 14, 055, 700
 
@@ -17834,15 +17776,9 @@ Head.
 
 I. Maintenance of Standing Army -
 
-£
-
 28, 301, 600
 
-£
-
 229, 600
-
-£
 
 28, 132,000
 
@@ -17916,8 +17852,6 @@ Repayment by the Colonial Office for expenditure (included above) in the
 
 Middle East ----
 
--
-
 553,000
 
 Cr. 553,000
@@ -17962,8 +17896,6 @@ Estimated Cash required for Army-
 
 Services in 1923-24 ... 52,000,000
 
-£
-
 Estimated Receipts to be appropriated in Aid of Army Services in
 
 1923-24
@@ -18001,10 +17933,6 @@ Grants.
 Appropriations in Aid.
 
 1. For the pay, &c. of 33,000 of all
-
-£
-
-£
 
 ranks of the Air Force
 
@@ -18050,13 +17978,9 @@ Grant 8.
 
 — t—
 
-£
-
 8, 729, 00U
 
 Appropriations in Aid.
-
-£
 
 5, 149,000
 
@@ -18132,10 +18056,6 @@ No.
 
 1. For expenditure in respect of royal
 
-£
-
-£
-
 palaces, including a grant in aid
 
 108, 965
@@ -18195,10 +18115,6 @@ Appropriations
 Grunts.
 
 in Aid.
-
-£
-
-£
 
 Brought forward
 
@@ -18342,8 +18258,6 @@ London Fire Brigade - - 1, 703, 785
 
 Ireland ..... 195, 880
 
-£
-
 013, 740
 
 210,000
@@ -18410,8 +18324,6 @@ Department and subordinate I
 
 offices ---- 365, 969 50, 135
 
-!
-
 5. For the salaries and expenses of the department of His Majesty’s
 
 Secretary of State for Foreign
@@ -18446,10 +18358,6 @@ Grauts.
 
 in Aid.
 
-£
-
-£
-
 Brought forward
 
 No.
@@ -18465,8 +18373,6 @@ Secretary of State for India in
 Council, including a grant in aid
 
 120,000
-
-“
 
 8. For the salaries and expenses of the department of His Majesty’s most Honourable Privy Council - 11, 297 4, 500
 
@@ -18559,10 +18465,6 @@ Appropriations
 Grants.
 
 in Aid.
-
-£
-
-£
 
 Brought forward -
 
@@ -18704,11 +18606,7 @@ Grunts.
 
 Appropriations in Aid.
 
-£
-
 5, 984, 447
-
-£
 
 3, 904, 489
 
@@ -18717,8 +18615,6 @@ Appropriations in Aid.
 479, 393
 
 8, 001
-
-|
 
 950,000
 
@@ -18729,8 +18625,6 @@ Appropriations in Aid.
 14, 640
 
 38, 001
-
-—
 
 10
 
@@ -18755,8 +18649,6 @@ CivilServices.
 Class II.
 
 Carried forward
-
-£
 
 1, 044, 592
 
@@ -18854,13 +18746,9 @@ Supply
 
 Grants.
 
-£
-
 10, 656, 083
 
 Appropriations in Aid.
-
-£
 
 15, 116, 373
 
@@ -18888,13 +18776,9 @@ Irish Department (Home Office and Colonial Office); certain outstanding expenses
 
 1
 
-—
-
 41. For the salaries and expenses of the office of the Lord Privy Seal
 
 2, 728
-
-—
 
 Total Civil Services, Class IL - £
 
@@ -18974,17 +18858,11 @@ Grant!.
 
 in Aid.
 
-£
-
-£
-
 249, 798
 
 45,000
 
 63, 098
-
-—
 
 537, 534
 
@@ -19044,11 +18922,7 @@ Sums not exceeding
 
 Appropriations in Aid.
 
-£
-
 850, 430
-
-£
 
 170, 960
 
@@ -19144,11 +19018,7 @@ Grants.
 
 Appr< >priations in Aid.
 
-£
-
 8, 727, 769
-
-£
 
 1, 374, 680
 
@@ -19162,15 +19032,9 @@ Appr< >priations in Aid.
 
 11, 099
 
-—
-
 75, 745
 
-—
-
 750, 200
-
-—
 
 182, 173
 
@@ -19183,8 +19047,6 @@ Appr< >priations in Aid.
 1, 513, 946
 
 Carried forward
-
-£
 
 1923.
 
@@ -19204,15 +19066,11 @@ Supply
 
 Grants.
 
-£
-
 9, 943, 616
 
 Appropriation!
 
 in Aid.
-
-£
 
 1, 513, 940
 
@@ -19229,8 +19087,6 @@ Ireland, and of the Land
 Registry of Northern Ireland, as are not charged on the Consolidated Fund, and other expenses
 
 45, 804
-
-■
 
 1
 
@@ -19298,10 +19154,6 @@ No.
 
 Board of Education, and of the various establishments connected therewith, including sundry
 
-£
-
-£
-
 grants in aid -
 
 2. For the salaries and other expenses of the British Museum, and of the
@@ -19327,8 +19179,6 @@ Millbank, including a grant in
 18, 425
 
 aid for the purchase of pictures -
-
-|
 
 4. For the salaries and expenses of the
 
@@ -19394,10 +19244,6 @@ Appropriations
 
 Grants. j in Aid.
 
-£
-
-£
-
 Brought forward
 
 42, 296, 057
@@ -19409,8 +19255,6 @@ No.
 8. For sundry grants in aid of scientific investigation, &c., and other grants ----
 
 196, 471
-
-—
 
 9. For the salaries and expenses of the Department of Scientific and Industrial Research, the
 
@@ -19506,10 +19350,6 @@ missions, and consular establishments abroad, and other expenditure chargeable t
 
 Vote, including a grant in aid of the British School in Cairo and
 
-£
-
-£
-
 certain special grants - - 1, 231, 905 596, 030
 
 2. For sundry colonial services,
@@ -19588,13 +19428,9 @@ including annuities to the
 
 National Debt Commissioners in respect of commutation of compensation allowances and certain extra statutory payments -
 
-£
-
 1, 427, 297
 
 922, 424
-
-£
 
 112, 233
 
@@ -19668,10 +19504,6 @@ Grants.
 
 in Aid.
 
-£
-
-£
-
 Brought forward
 
 25, 549, 721
@@ -19713,8 +19545,6 @@ including provision for Shorthand
 For the salaries and expenses of the National Savings Committee
 
 82, 550
-
-_
 
 For certain salaries and expenses of the Imperial War Graves Commission, including purchase of land in the United Kingdom, and a grant in aid of the Imperial
 
@@ -19776,35 +19606,19 @@ Grants.
 
 Appropriations in Aid.
 
-£
-
-£
-
 100, 748, 714
 
 1, 259, 783
 
 315,000
 
-—
-
 20,000
-
-—
 
 250,000
 
-—
-
-|
-
 1, 203, 772
 
-—
-
 141, 400
-
-—
 
 102, 078, 886
 
@@ -19849,8 +19663,6 @@ Health Insurance Acts, 1911 to
 1922, certain grants in aid, and certain special services arising out of the war -
 
 19, 504, 210
-
-£
 
 295, 095
 
@@ -19956,10 +19768,6 @@ No.
 
 in Great Britain for assistance in carrying out approved schemes of useful work to relieve un-
 
-£
-
-£
-
 employment -
 
 2. For relief arising out of unemploy-
@@ -20002,8 +19810,6 @@ disturbed condition of Ireland -
 
 2, 450,000
 
-—
-
 • Carried forward - £
 
 8, 375, 010
@@ -20032,13 +19838,9 @@ Supply
 
 Grants.
 
-£
-
 8, 375, 010
 
 Appropriations in Aid.
-
-£
 
 200, 010
 
@@ -20086,8 +19888,6 @@ Coal Mines (Decontrol) Act, 1921
 
 2, 500
 
-_
-
 12. For grants in respect of compensation for suffering and damage by enemy action -
 
 2, 600,000
@@ -20105,8 +19905,6 @@ Credits ----
 I
 
 500,000
-
-—
 
 Total Unclassified Civil Services £
 
@@ -20156,11 +19954,7 @@ No.
 
 1
 
-£
-
 5, 009,000
-
-£
 
 203,000
 
@@ -20210,8 +20004,6 @@ Siv. pluses,
 
 from Surpluses.
 
-£
-
 S.
 
 d
@@ -20228,8 +20020,6 @@ Guard, and Royal
 
 Marines -
 
-—
-
 161, 859 3 7
 
 2
@@ -20241,8 +20031,6 @@ Victualling and Clothing for the Navy -
 2
 
 9
-
-—
 
 r»
 
@@ -20256,15 +20044,11 @@ Medical Establishments and Services -
 
 9
 
-—
-
 4
 
 Civilians employed on
 
 Fleet Services
-
-—
 
 91, 243 7 4
 
@@ -20278,8 +20062,6 @@ Educational Services - ,
 
 0
 
-—
-
 6
 
 Scientific Services
@@ -20287,8 +20069,6 @@ Scientific Services
 89, 424 16
 
 2
-
-—
 
 7
 
@@ -20299,8 +20079,6 @@ Royal Naval Reserves
 5
 
 2
-
-—
 
 8
 
@@ -20316,8 +20094,6 @@ I. Personnel - - 1
 
 7
 
-—
-
 II. Materiel
 
 3, 247, 729
@@ -20326,8 +20102,6 @@ II. Materiel
 
 7
 
-—
-
 III. Contract Work -
 
 811, 863
@@ -20335,8 +20109,6 @@ III. Contract Work -
 10
 
 3
-
-—
 
 9
 
@@ -20347,8 +20119,6 @@ Naval Armaments
 6
 
 11
-
-—
 
 10
 
@@ -20364,23 +20134,17 @@ Abroad -
 
 7
 
-—
-
 11
 
 Miscellaneous Effective
 
 Services -
 
-—
-
 713, 513 18 4
 
 12
 
 Admiralty Office
-
-—
 
 27, 841 6 4
 
@@ -20393,8 +20157,6 @@ Half Pay and Retired Pay
 7
 
 1
-
-—
 
 14
 
@@ -20410,8 +20172,6 @@ sionate Allowances
 
 6
 
-—
-
 15
 
 Civil Superannuation,
@@ -20424,15 +20184,11 @@ I —
 
 203, 993 8 0
 
-—
-
 Amount written off as
 
 1
 
 irrecoverable
-
-—
 
 69, 934 19 11
 
@@ -20712,8 +20468,6 @@ The Seal Fisheries
 
 Act, 1895.
 
-;
-
 i I
 
 The whole Act.
@@ -20726,8 +20480,6 @@ The Wireless Telegraphy Act, 1904.
 
 The whole Act.
 
-!
-
 (4)
 
 7 Ed w. 7. c. 55.
@@ -20739,8 +20491,6 @@ Stage Carriage
 Act, .1907.
 
 As to the abolition of the privileged cab system, section two.
-
-—
 
 (5)
 
@@ -20786,11 +20536,7 @@ Act, 1912.
 
 i The whole Act.
 
-|
-
 i 1
-
-—
 
 (7)
 
@@ -21047,8 +20793,6 @@ The Unemployment
 Act, 1920.
 
 The whole Act.
-
-—
 
 (19)
 
@@ -23906,8 +23650,6 @@ Chapter of
 
 53 & 54 VictJ
 
-!
-
 e. 70 -
 
 Housing of the
@@ -24546,8 +24288,6 @@ am.; 44 substit.
 
 j
 
-!
-
 e. 47
 
 Development and
@@ -24991,8 +24731,6 @@ Schs. 2, 3.
 xxxi. s. 106 (2).
 
 c. 38 -
-
-!
 
 Merchant Shipping
 

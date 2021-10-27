@@ -10338,7 +10338,7 @@ PartofLuffield Abbey, ! an Extra-parochial > Place -J
 
 Part of Disley Town\ ship, situate on the I Derbyshire Side of the River Goyt - J A small Part of the Parish of St. by Saltash,
 
-Eastern Side River Tamar Part of North Tamer-"] ton Parish, East of the Tamar - -J A Portion of Derbyshire, consistingof the Parishes and Places following; ue,
+Eastern Side River Tamar Part of North Tamer-"] ton Parish, East of the Tamar - -J A Portion of Derbyshire, consisting of the Parishes and Places following; ue,
 
 Measham -Stretton in the Fields - Willesley Part of Appleby Oakthorpe Chilcote Part of Donisthorpe Part of the Parish of l Ravenstone - - J
 
@@ -10420,7 +10420,7 @@ Derbyshire, Northern Division.
 
 Dorsetshire.
 
-$21
+21
 
 Cl 64.
 
@@ -10464,7 +10464,7 @@ I
 
 Durham The Parish of Bedling-") ton or Bedlington- V shire -J Northum- *) berland J Northumberland, Northern Division.
 
-Durham -1 The Parish of Craike f or Craikeshire - | North Rid-"| ingofYork- > shire - -J North Riding of Yorkshire.
+Durham -1 The Parish of Craike f or Craikeshire - | North Rid-"| ing ofYork- > shire - -J North Riding of Yorkshire.
 
 Gloucestershire - / Minety Parish Wiltshire - j Wiltshire, Northern Division.
 
@@ -10498,8 +10498,6 @@ shire
 
 Herefordshire
 
--}
-
 Herefordshire Hertfordshire Hertfordshire Huntingdon- 1 shire - J
 
 Huntingdon- 1 shire - J
@@ -10508,8 +10506,6 @@ Huntingdon- shire - J
 
 Kent
 
--{
-
 Monmouth- 1 shire -J Oxfordshire
 
 Oxfordshire
@@ -10517,8 +10513,6 @@ Oxfordshire
 Oxfordshire |
 
 Oxfordshire
-
-{
 
 Shropshire
 
@@ -10531,8 +10525,6 @@ shire
 ire
 
 Parishes, Townships, &c. of which, or of Parts of which, the isolated Parts consist.
-
-{
 
 Rochford Parish
 
@@ -10555,8 +10547,6 @@ Swineshead Parish
 Part of Everton Parish
 
 ish
-
-}
 
 Part of Woolwich Parish, North of the Thames
 
@@ -10644,8 +10634,6 @@ Buckinghamshire.
 
 Gloucestershire, Eastern Division.
 
-}
-
 Worcestershire, Eastern Division.
 
 Dorsetshire.
@@ -10732,8 +10720,6 @@ Worcestershire -Worcestershire -Worcestershire -Worcestershire -
 
 Worcestershire
 
-.}
-
 r--}
 
 Iccomb Parish
@@ -10819,8 +10805,6 @@ Parts of Marford and 1 Hoseley Townships - / Part of Hawarden Township
 Flat Holmes Barry Island -
 
 Part of Glasbury Parish
-
-{
 
 Counties
 
@@ -11038,8 +11022,6 @@ Essex
 
 Gloucestershire
 
--<
-
 Northern Division
 
 Southern Division<
@@ -11188,8 +11170,6 @@ Hertfordshire -
 
 Huntingdonshire
 
--{
-
 Hertford.
 
 Stevenage.
@@ -11336,8 +11316,6 @@ Northamptonshire
 
 Southern Division
 
-{
-
 Northampton.
 
 Daventry.
@@ -11349,8 +11327,6 @@ Brackley.
 Northamptonshire
 
 Northern Division
-
-{
 
 Northumberland
 
@@ -11385,8 +11361,6 @@ Southwell.
 Oxfordshire -Rutlandshire Shropshire
 
 Shropshire
-
-{
 
 Northern Division
 
@@ -11428,11 +11402,7 @@ Eastern Division
 
 Western Division
 
-{
-
 Northern Division
-
-{
 
 Wells.
 
@@ -11604,8 +11574,6 @@ Yorkshire
 
 Yorkshire
 
-{
-
 Northern Division^ Southern Division^ Eastern Division
 
 ivision
@@ -11708,7 +11676,7 @@ Keighley.
 
 Settle.
 
-Knaresborough. . . Skipton.
+Knaresborough. Skipton.
 
 Pately Bridge. Dent.
 
@@ -11745,8 +11713,6 @@ r Beaumaris, -< Holyhead. I Llangefni,
 * {
 
 * {
-
--<
 
 Llandilo Vawr.
 
@@ -13710,8 +13676,6 @@ Peterhead
 
 Jointly.
 
-=}
-
 Jointly.
 
 3.
@@ -15016,7 +14980,7 @@ any other Materials whatsoever, such Distiller shall forfeit the Sum of Two hund
 
 of Excise: And whereas by the same recited Act any licensed Distiller in Scotland or Ireland was authorized to make or brew ' any Wort or Wash and to make or distil Spirits from Sugar or ' from Potatoes: And whereas it is expedient to allow Spirits ' to be distilled from Mangel'Wurzel, as well as from Malt, Corn,
 
-or Grain, Sugar or Potatoesbe it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That it shall be lawful for any licensed Distiller in Eng» land, Scotland, or Ireland to make or brew any Wort or Wash and to make or distil Spirits from Mangel Wurzel only, any thing in any Act or Acts to the contrary notwithstanding: Provided always, that whenever Mangel Wurzel is used for that Purpose, the same shall be done under the like Rules, Regulations, Penalties, Forfeitures, and Provisions as are contained in the said recited Act, and in an Act made in the Fourth Year of His said late Majesty's Reign, for granting certain Duties of Excise upon Spirits distilled from Corn or Grain in Scotland and Ireland, and upon Licences for Stills for making such Spirits, and to provide for the better collecting and securing such Duties, and for ware* housing of such Spirits without Payment of Duty, for making and brewing Wort or Wash, and making and distilling Spirits from Potatoes only; and all Spirits made or distilled from Mangel Wurzel shall be charged with the same Duties as Spirits made or distilled from Potatoes in England, Scotland, or Ireland respectively.
+or Grain, Sugar or Potatoesbe it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That it shall be lawful for any licensed Distiller in England, Scotland, or Ireland to make or brew any Wort or Wash and to make or distil Spirits from Mangel Wurzel only, any thing in any Act or Acts to the contrary notwithstanding: Provided always, that whenever Mangel Wurzel is used for that Purpose, the same shall be done under the like Rules, Regulations, Penalties, Forfeitures, and Provisions as are contained in the said recited Act, and in an Act made in the Fourth Year of His said late Majesty's Reign, for granting certain Duties of Excise upon Spirits distilled from Corn or Grain in Scotland and Ireland, and upon Licences for Stills for making such Spirits, and to provide for the better collecting and securing such Duties, and for ware* housing of such Spirits without Payment of Duty, for making and brewing Wort or Wash, and making and distilling Spirits from Potatoes only; and all Spirits made or distilled from Mangel Wurzel shall be charged with the same Duties as Spirits made or distilled from Potatoes in England, Scotland, or Ireland respectively.
 
 ---
 
@@ -19144,7 +19108,7 @@ Authority of the King's Commission in such Manner and Form as was in the said Ac
 
 passed in the Eighth Year of the Reign of Queen Elizabethy
 
-$ Eliz. c. 5. ' and intituled For the avoiding of tedious Suits in Civil and
+ Eliz. c. 5. ' and intituled For the avoiding of tedious Suits in Civil and
 
 4 Marine Causes, it is provided that every such Judgment and
 
@@ -19630,7 +19594,7 @@ present Sheriff.
 
 [9th August 1832.]
 
-WHEREAS the Sheriff of the County of Selkirk in Scot Y land i8 incapacitated by Disease from performing any
+WHEREAS the Sheriff of the County of Selkirk in Scotland i8 incapacitated by Disease from performing any
 
 4 of the Functions of his Office, or appointing any Substitute for their due Performance: And whereas divers important and urgent Duties are now and will speedily be required from such Sheriff, for which it is expedient that Provision should be madebe it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That it shall be lawful for His Majesty, His Heirs and Successors, to nominate and appoint, by Warrant under His or Their Sign Manual, some Advocate, of not less than Five Years Standing at the Scottish Bar, to perform all the Functions and Duties that are now by Law competent to or may be required from the said Sheriff of Selkirkshire, but only during the Period of the Incapacity or Non-resignation of the said Sheriff; and all Acts done by the Person so nominated and appointed in virtue of and under Authority of such Appointment shall be as valid and effectual in all respects, and shall be received and dealt with by all Persons in the same Manner, as if the same had been severally performed by the said Sheriff in his State of Capacity; any Law or Statute to the contrary notwithstanding: Provided always, that such Appointment shall only subsist during the Period of the Incapacity or Non-resignation of the said Sheriff, and until the Appointment of a Successor to the said Sheriff shall be made known to the said Person, or till the End of the next ensuing Session of Parliament; any thing herein contained to the contrary thereof notwithstanding.
 
@@ -26508,7 +26472,7 @@ An Act for establishing a Floating Bridge over the River Tamar at or near Saltas
 
 [24th March 1832.]
 
-I His Majesty and Royal Family and Their Attendants exempted from Toll, and also the Inhabitants of Saltash, except for Horses drawing, and for Wheels, § 50. Saving the Rights of His Majesty as Duke of Cornwall, the Corporation of Saltash, and Owners of Manors on the Sides of the River, § 105.J
+I His Majesty and Royal Family and Their Attendants exempted from Toll, and also the Inhabitants of Saltash, except for Horses drawing, and for Wheels, § 50. Saving the Rights of His Majesty as Duke of Cornwall, the Corporation of Saltash, and Owners of Manors on the Sides of the River, § 105.]
 
 Cap. viii.
 
@@ -27012,7 +26976,7 @@ An Act for making a Turnpike Road from the Parish of Cann Saint Rumboldy near Sh
 
 [Three full Tolls only to be taken on same Day for parsing and repassing once through all the Gates on the Roads, $ 14. Horses drawing different Carriages to pay each Time of passing, § 15. Lime or Chalk for Manure, Furze, Peat, Turf or Heath, exempt from Toll, § 18. Money not to be laid out in repairing Streets,
 
-$270
+270
 
 Cap. lxv.
 

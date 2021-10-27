@@ -3228,7 +3228,7 @@ nothing herein contained shall be construed to exempt any Soldier from Trial and
 
 H 2 Summons,
 
-$8
+8
 
 30/. or for not
 
@@ -3962,8 +3962,6 @@ this
 
 One thousand eight
 
-}
-
 Fobm of Justice's Certificate to be given to the Master of an Apprentice.
 
 * \ T One of Her Majesty's Justices of the
@@ -4064,8 +4062,6 @@ Declared before me at this Day of
 
 18
 
-}
-
 Magistrate for
 
 Fork of Declaration of Attestation of a Barrack Master's Accounts.
@@ -4141,8 +4137,6 @@ the Peace for
 Justice of
 
 Witnesses
-
-(
 
 Commanding Officer. Adjutant.
 
@@ -5076,8 +5070,6 @@ You are hereby also warned that you will be liable to the same Punishment if you
 
 Signature of the Non-commissioned Officer serving the Notice.
 
-}
-
 At A.M. or P.M. as the Case may be.
 
 Declaration to be made by Recruit on Attestation.
@@ -5182,8 +5174,6 @@ this
 
 One thousand
 
-}
-
 Form of Justice's Certificate to be given to the Master of an Apprentice.
 
 1 F One of Her Majesty's Justices of the
@@ -5234,8 +5224,6 @@ i
 
 i
 
-(
-
 Feet
 
 Probable Date of Enlistment, and where
@@ -5243,8 +5231,6 @@ Probable Date of Enlistment, and where
 Probable Date of Desertion, and from 1 what Place - ]
 
 Name and Occupation and Address of the Person by whom or through t whose Means the Deserter wag f apprehended and secured -
-
-)
 
 Particulars of the Evidence on which the Prisoner is committed, and showing whether he surrendered or was apprehended, and in what Manner, and upon what Grounds -
 
@@ -13882,7 +13868,7 @@ Office - 204 Sir John Selwin, Bart. Thomas Adam and Charles Emmet.
 
 Office - 205 Sir John Selwin, Bart. Thomas Pickard and
 
-$06 Edward Stocks.
+06 Edward Stocks.
 
 Yard Sir John Selwin, Bart. Thomas Pickard.
 
@@ -16666,7 +16652,7 @@ Recovery of Assessments and Rates.
 
 Cap. 58. Edinburgh Prov. Order C<mfirm<riion. 30 fc 31 < Vict.
 
-Roll aforesaid, showing the yearly Rent or Value of the Lands or Premises in the Burgh liable to be assessed for the Assessments and Rates authorized to be levied under the Provisions hereof, and of the several Acte of Parliament following; viz., — the Act 17th & 18th Victoria, Op. 80, intituled " An Act to provide for the better Registration of " Births, Deaths, and Marriages in Scotland [7th August " 1854] the Act 17th & 18th Victoria, Cap. 91, intituled " An Act for the Valuation of Lands and Heritages in Scotland [10th August 1854] the Act 17th & 18th Victoria, Cap. 106, intituled " The Militia (Scotland) Act, 1854the Act 19th & 20th Victoria, Cap. 58, intituled " An Act to amend " the Law for the Registration of Persons entitled to vote in the Election of Members to serve in Parliament for Burghs " in Scotland [21st July 1856] the Act 19th & 20th Victoria, Cap. 103, intituled "The Nuisance Removal (Scot- land) Act, 1856 the Act 23rd & 24th Victoria, Cap. 79, intituled "The Sheriff Court Houses Act, 1860;" the Act 23rd & 24th Victoria, Cap. 105, intituled "The Prisons " (Scotland) Administration Act, 1860 the Act 29th Victoria, Cap. 2, intituled " The Cattle Diseases Prevention Act, 1866," or any Amendments of the said Acts, or for any other Assessments or Rates leviable by the Magistrates and Council, and which they may direct, or which may be directed by any Act of Parliament, to be levied along with the Police Assessment, or with the Assessment for Prison Purposes, and according to which Roll or Book such Assessments or Rates, or any of them, are intended to be levied; and in such Roll or Book of Assessment there shall in no Case be entered any fractional Part of a Pound of the assessable yearly Rent or Value aforesaid; and when such fractional Part shall not amount to Ten Shillings the Sum shall not be entered at all in such yearly Rent or Value; and when such fractional Part shall amount to or exceed Ten Shillings the Sum shall be entered as One Pound of such yearly Rent or Value, in addition to the actual Number of Pounds of such Rent or Value, and shall be assessed accordingly; and such Roll or Book of Assessment shall be open to Inspection by all Ratepayers, in the Hands of the Collector or other Officers appointed by the Magistrates and Council for that Purpose; and the Magistrates and Council shall have Power to rectify any Error which may be found in such Roll or Book.
+Roll aforesaid, showing the yearly Rent or Value of the Lands or Premises in the Burgh liable to be assessed for the Assessments and Rates authorized to be levied under the Provisions hereof, and of the several Acte of Parliament following; viz., — the Act 17th & 18th Victoria, Op. 80, intituled " An Act to provide for the better Registration of " Births, Deaths, and Marriages in Scotland [7th August " 1854] the Act 17th & 18th Victoria, Cap. 91, intituled " An Act for the Valuation of Lands and Heritages in Scotland [10th August 1854] the Act 17th & 18th Victoria, Cap. 106, intituled " The Militia (Scotland) Act, 1854the Act 19th & 20th Victoria, Cap. 58, intituled " An Act to amend " the Law for the Registration of Persons entitled to vote in the Election of Members to serve in Parliament for Burghs " in Scotland [21st July 1856] the Act 19th & 20th Victoria, Cap. 103, intituled "The Nuisance Removal (Scotland) Act, 1856 the Act 23rd & 24th Victoria, Cap. 79, intituled "The Sheriff Court Houses Act, 1860;" the Act 23rd & 24th Victoria, Cap. 105, intituled "The Prisons " (Scotland) Administration Act, 1860 the Act 29th Victoria, Cap. 2, intituled " The Cattle Diseases Prevention Act, 1866," or any Amendments of the said Acts, or for any other Assessments or Rates leviable by the Magistrates and Council, and which they may direct, or which may be directed by any Act of Parliament, to be levied along with the Police Assessment, or with the Assessment for Prison Purposes, and according to which Roll or Book such Assessments or Rates, or any of them, are intended to be levied; and in such Roll or Book of Assessment there shall in no Case be entered any fractional Part of a Pound of the assessable yearly Rent or Value aforesaid; and when such fractional Part shall not amount to Ten Shillings the Sum shall not be entered at all in such yearly Rent or Value; and when such fractional Part shall amount to or exceed Ten Shillings the Sum shall be entered as One Pound of such yearly Rent or Value, in addition to the actual Number of Pounds of such Rent or Value, and shall be assessed accordingly; and such Roll or Book of Assessment shall be open to Inspection by all Ratepayers, in the Hands of the Collector or other Officers appointed by the Magistrates and Council for that Purpose; and the Magistrates and Council shall have Power to rectify any Error which may be found in such Roll or Book.
 
 12. If any Person assessed under the Provisions hereof, or of any of the Acts before recited or referred to, shall refuse or neglect to pay any Assessment or Rate authorized to be levied hereby, or by any of the said Acts, or any other Assessment or Rate leviable by the Magistrates and Council, and which they may direct, or which may be directed by any Act of Parliament, to be levied along with the Police Assessment, or with the Assessment for Prison Purposes, or any Portion
 
@@ -18676,7 +18662,7 @@ An Act for granting to his Majestie an Aide of Four shilling^ in the Pound for O
 
 An Act for exempting Apothecaries from"
 
-serving the offices of Constable'Scaven- I. . . j___
+serving the offices of Constable'Scaven- I. j___
 
 ger and other Parish and Ward Offices j 9
 
@@ -18812,7 +18798,7 @@ An Act requireing the Practicers of Law to take the Oaths and subscribe the Decl
 
 1867. Statute Law Revision. Cap. 59. 549
 
-c. 25. in part. An Act for the further regulating ElecO tionsof Members to serve in Parliament I and for the preventing irregular Pro- \ . . . ceedings of Sheriffs and other Officers ^in Part 5 namely, in the electing and returning such Mem- I bers -J Section One from " and shall forthwith " to end of that Section, Section Three from " and shall there proceed to Election" to "Place of Election," Section Six (J) to " Mortgage or Trust," and the last Section.
+c. 25. in part. An Act for the further regulating ElecO tionsof Members to serve in Parliament I and for the preventing irregular Pro- \ . ceedings of Sheriffs and other Officers ^in Part 5 namely, in the electing and returning such Mem- I bers -J Section One from " and shall forthwith " to end of that Section, Section Three from " and shall there proceed to Election" to "Place of Election," Section Six (J) to " Mortgage or Trust," and the last Section.
 
 c. 27. An Act for the better Security of His Majtles. Royal Person and Government.
 
@@ -18912,7 +18898,7 @@ An Act for granting to His Majesty a further Subsidy of Tunnage and Poundage upo
 
 c. 25. An Act for licensing Hawkers and Pedlars for a further pvision for the Payment of the In?est of the Transport Debt for the reducing of Ireland.
 
-c. 27. in part. An Act for the more effectual Relief of"| Creditors in Cases of Escapes & for 1 . . . ^venting Abuses in Prisons and pre- j n ^ar ' name tended priveledged Places - J Sections One, Three, Five, Ten to Fifteen, and Section Eighteen to end of Act.
+c. 27. in part. An Act for the more effectual Relief of"| Creditors in Cases of Escapes & for 1 . ^venting Abuses in Prisons and pre- j n ^ar ' name tended priveledged Places - J Sections One, Three, Five, Ten to Fifteen, and Section Eighteen to end of Act.
 
 c. 30. in part. An Act for supplying some Defectf in the 1 Laws for the Relief of the Poor of this >in part; namely, — Kingdome - - - J Sections One, Four and Seven.
 
@@ -19512,7 +19498,7 @@ An Act for continuing Duties upon Low Wines and upon Coffee Tea Chocolate Spices
 
 An Act for granting an Aid to Her Majesty by a Land Tax [to be] raised in the Year One thousand seven hundred and six.
 
-An Act for the Amendment of the Law 1 . . # nom , v
+An Act for the Amendment of the Law 1 # nom , v
 
 and the better Advancement of Justice j 1 P '
 
@@ -19772,7 +19758,7 @@ c. 74. (i«) An Act for continuing an Act made in the Third Year of Her Majestie
 
 1867. c. 75. C1) in part. Statute Law Revision. Cap. 59. 567 An Act for the avoiding of Doubts and] Questions touching the Statutes of divers >in part; namely, — Cathedral and Collegiate Churches - J The last two Sections.
 
-c. 78. (a) in part. An Act to make further Provision for-] electing and summoning Sixteen Peers 1 of Scotland to sit in the [House of Peers] | in the Parliament of Great Britain and J. . . for trying Peers for Offences committed f m ' name in Scotland and for the further regulat- 1 ing of Voters in Elections of Members 1 to serve in Parliament -J Section Three as to the Forms of the Oaths therein mentioned and as to the Declaration thereby required, and the last two Sections.
+c. 78. (a) in part. An Act to make further Provision for-] electing and summoning Sixteen Peers 1 of Scotland to sit in the [House of Peers] | in the Parliament of Great Britain and J. for trying Peers for Offences committed f m ' name in Scotland and for the further regulat- 1 ing of Voters in Elections of Members 1 to serve in Parliament -J Section Three as to the Forms of the Oaths therein mentioned and as to the Declaration thereby required, and the last two Sections.
 
 7 Ann, c. 1. An Act for granting an Aid to Her Majesty to be raised by a Land Tax in Great Britain for the Service of the Year One thousand seven hundred and nine.
 
@@ -19800,7 +19786,7 @@ Section 2. in Ruffhead's Edition. (4) Section 4. in Ruffhead's Edition.
 
 3 B 2
 
-$G8 Cap. 59. Statute Law Revision. 30 & 31 Vict.
+G8 Cap. 59. Statute Law Revision. 30 & 31 Vict.
 
 c. 22. An Act for the Queens most gracious general and free Pardon.
 
@@ -20536,7 +20522,7 @@ An Act to continue an Act of the First Year of His Majesty's Reign, intituled An
 
 An Act for the better regulating the Office
 
-of Sheriffs, and for ascertaining their I . . nflmplv_
+of Sheriffs, and for ascertaining their I nflmplv_
 
 Fees and the Fees for suing out their |
 
@@ -21790,7 +21776,7 @@ An Act to continue an Act made in the Fifth Year of the Reign of His present Maj
 
 An Act the title of which begins with the words, — An Act to indemnify Persons who have omitted to qualify themselves, — and ends with the words9 — the Time for receiving the Sacrament of the Lord's Supper now limited by the said Act.
 
-1867. c. 81. in part. Statute Law Revision. Cap. 59. 609 An Act for the further Punishment ofl Persons who shall aid or assist Prisoners 1 . . . to attempt to escape out of lawful rlia; namev> Custody - J The last Section.
+1867. c. 81. in part. Statute Law Revision. Cap. 59. 609 An Act for the further Punishment ofl Persons who shall aid or assist Prisoners 1 . to attempt to escape out of lawful rlia; namev> Custody - J The last Section.
 
 c. 32. An Act for allowing further Time for Enrolment of Deeds and Wills made by Papists, and for Relief of Protestant Purchasers, Devisees, and Lessees.
 
@@ -21980,7 +21966,7 @@ c. 37. in part. An Act to regulate Insurance on Ships 1 belonging to the Subject
 
 c. 38. An Act more effectually to prohibit and prevent Pastors or Ministers from officiating in Episcopal Meeting Houses in Scotland, without duly qualifying themselves according to Law; and to punish Persons for resorting to any Meeting-Houses where such unqualified Pastors or Ministers shall officiate.
 
-c. 39. in part. An Act the title of which begins with Me"] words, — An Act for the more effectual [disarming the Highlands in Scotland, — J . . . and ends with the words, — to take the / in Par^ ' namev> Oaths to His Majesty, His Heirs and 1 Successors, and to register the same - J Sections One to Twenty.
+c. 39. in part. An Act the title of which begins with Me"] words, — An Act for the more effectual [disarming the Highlands in Scotland, — J . and ends with the words, — to take the / in Par^ ' namev> Oaths to His Majesty, His Heirs and 1 Successors, and to register the same - J Sections One to Twenty.
 
 20 Geo. 2. c. 1. An Act for the further continuing an Act made in the last Session of Parliament, intituled An Act to empower His Majesty to secure and detain such Persons as His Majesty shall suspect are conspiring against His Person and Government.
 
@@ -22094,7 +22080,7 @@ An Act the title of which begins with the words, — An Act to continue and amen
 
 An Act the title of which begins with the-\ words, — An Act to amend and enforce so I
 
-much of an Act made in the Nineteenth I . . ___,
+much of an Act made in the Nineteenth I ___,
 
 Year of His Majesty's Reign, -W ends >m P"4' namel7. — with the words, — and for other Purposes I therein mentioned -J
 
@@ -23896,7 +23882,7 @@ c. 40. An Act the title of which begins with the words, — An Act for appropria
 
 c. 42. An Act the title of which begins with the words, — An Act to indemnify such Persons in Great Britain and Ireland as have omitted to qualify themselves, — and ends with the words, — Indentures of Clerks to Attornies and Solicitors.
 
-c. 44. in part. An Act for more effectually preventing^ Traders in Exciseable Commodities from 1 using false Weights and Scales, and for ' . . . . _ explaining and amending several Acts I of Parliament relating to Hackney 1 Coaches and Chairs - J Section Four to end of Act.
+c. 44. in part. An Act for more effectually preventing^ Traders in Exciseable Commodities from 1 using false Weights and Scales, and for ' . . _ explaining and amending several Acts I of Parliament relating to Hackney 1 Coaches and Chairs - J Section Four to end of Act.
 
 c. 52* An Act for granting to His Majesty a certain Sum of Money out of the Sinking Fund, and for applying certain Monies therein mentioned, for the Service of the Year One thousand seven hundred and seventy; and for further appropriating the Supplies granted in this Session of Parliament.
 
@@ -24584,7 +24570,7 @@ O 0i
 
 0 2
 
-Wood:, . . 8- d. Cieethorpes.
+Wood:, 8- d. Cieethorpes.
 
 Fir, pine, and other descriptions not enumerated, ----
 
@@ -25684,7 +25670,7 @@ and Pond. Dorset. two roods and nine perches or thereabouts, being at the north-
 
 3 ' Garden ground. Sherborne, Dorset. A piece of garden ground on the north side of the before-mentioned pond, and dividing it from the turnpike road, containing by admeasurement ten perches or thereabouts. The same 1 William Coles.
 
-4 Turnpike road. Sherborne, Dorset. Turnpike road - 3 L 3 The trustees of the Sherborne Turnpike Roads, John Young Melmoth, clerk. . . . 1 i i The public.
+4 Turnpike road. Sherborne, Dorset. Turnpike road - 3 L 3 The trustees of the Sherborne Turnpike Roads, John Young Melmoth, clerk. . 1 i i The public.
 
 678 Cap. 65. Local Government Supplemental (No. 2). 80& 31 Vict.
 
@@ -30082,7 +30068,7 @@ An Act to include the whole of the Burgh of Galashiels within the County, Sherif
 
 WHEREAS the Town or Burgh of Galashiels is situated ' partly within the Jurisdiction of the Sheriff of Selkirk- shire and partly within the Jurisdiction of the Sheriff of 1 Roxburghshire, and great Inconvenience has thence arisen Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
-1. The whole Territory contained within the Boundaries of the Town or Burgh of Galashiels, as the same have been fixed and defined under the General Police and Improvement (Scot-land) Act, 1862, or as the same may be hereafter fixed and defined under the said Act, or by or under any other Act, and whether the said Territory shall heretofore have been locally situated within the County of Selkirk or the County of Roxburgh, shall from and after the First Day of October One thousand eight hundred and sixty-seven be held to be, and be for all Purposes whatsoever, except in so far as herein-after provided. Part of the County, Sheriffdom, and Commissariot of Selkirk.
+1. The whole Territory contained within the Boundaries of the Town or Burgh of Galashiels, as the same have been fixed and defined under the General Police and Improvement (Scotland) Act, 1862, or as the same may be hereafter fixed and defined under the said Act, or by or under any other Act, and whether the said Territory shall heretofore have been locally situated within the County of Selkirk or the County of Roxburgh, shall from and after the First Day of October One thousand eight hundred and sixty-seven be held to be, and be for all Purposes whatsoever, except in so far as herein-after provided. Part of the County, Sheriffdom, and Commissariot of Selkirk.
 
 2. For all Purposes of the Acts regulating the Valuation of Lands and Heritages and the Registration of Voters the Lands and Heritages within the Territory specified in the First Section hereof shall continue to be and shall be deemed to be within the County or Sheriffdom in which they were severally locally situated before the passing of this Act, and nothing herein contained shall affect any Right or the Mode of levying and recovering, or any Obligation to pay, any Tax, Rate, or Impost, except any Rate levied under the Authority of the recited Act, or the Right of being registered as a Voter or of voting for a Representative in Parliament.
 
@@ -32144,7 +32130,7 @@ followed, One Half of the above, both with respect to the maximum and minimum Fe
 
 19. An exact Copy of the immediately preceding Section Table of Fees of this Act shall be at all Times hung up in every Sheriff
 
-$$(> Cap. 96. Recovery of certain Debts (<Scotland). 30 & 31 Vict.
+$(> Cap. 96. Recovery of certain Debts (<Scotland). 30 & 31 Vict.
 
 Clerk's Office and in every Sheriff Court Place during the holding of any Court for the Trial of Causes under the Authority of this Act; and any Sheriff Clerk at any Time omitting to have such Copy hung up in his Office or in the Sheriff Court Place as aforesaid, or not causing the Boll of Causes each Court Day to be publicly exhibited, or not causing the Number and Names of the Parties in suoh Roll to be called in their Order as aforesaid, except with Leave of the Sheriff, upon Cause shown in open Court, shall be liable in a Penalty not exceeding Forty Shillings, to be recovered at the Instance of any Person who shall prosecute for the same, and to be disposed of as the Sheriff shall direct: Provided always, that the Sheriff Clerk shall be bound to account for the Fees drawn by him under the Authority of this Act in the same Manner as he is now by Law bound to account for the Fees drawn by him under the Authority of the first-recited Act, but no farther or otherwise.
 
@@ -35778,7 +35764,7 @@ Sect 28. of 10 & 11 Vict c. 109. repealed.
 
 Local Acts relating to the Poor in Places out of the Metropolis may be altered by a Provisional Orderof the
 
-$88
+88
 
 Poor Law Board, to be confirmed by Parliament.
 
@@ -37210,8 +37196,6 @@ Granting or refusing new Trials Matter of Appeal.
 
 , 65. The
 
-)
-
 1867. Admiralty Court (Ireland). Cap. 114. 1037
 
 65. The Record of each such Issue and of the Verdict Record of the
@@ -37258,7 +37242,7 @@ nected therewith, or in respect of the Proceeds or Value of any such Goods or Ch
 
 As to the 72. The Court of Admiralty may, on the Application of the
 
-Hearingof Defendant in any Cause of Damage, and on his instituting a crasTcaTises. 03:088 Cause for the Damage sustained by him in respect of the same Collision, direct that the principal Cause and the cross Cause be heard at the same Time and upon the same Evidence; and if in the principal Cause the Ship of the Defendant has
+Hearing of Defendant in any Cause of Damage, and on his instituting a crasTcaTises. 03:088 Cause for the Damage sustained by him in respect of the same Collision, direct that the principal Cause and the cross Cause be heard at the same Time and upon the same Evidence; and if in the principal Cause the Ship of the Defendant has
 
 been
 
@@ -40796,7 +40780,7 @@ Sects. 224,
 
 227, and 231 of 17 & 18 Vict c. 104. repealed. Lime or Lemon Juice and other Anti-scorbutics to be provided and kept on board certain Ships.
 
-Cap. 124. . . Merchant Shipping. 30 & 3lYlcr.
+Cap. 124. Merchant Shipping. 30 & 3lYlcr.
 
 3. The Two hundred and twenty-fourth. Two hundred and twenty-seventh, and Two hundred and thirty-first Sections of the Principal Act are hereby repealed.
 

@@ -2592,8 +2592,6 @@ c Drainage, Navigation and Water Power, in Ireland, 5 and 6 Victoria, c. 89, 8 a
 
 c. 69, and 9 Victoria, c.
 
-}
-
 No.
 
 ' District
@@ -7120,7 +7118,7 @@ Settlement of Disputes between Managers and Members, &c. may be referred to Regi
 
 9° & 10° VICTORIAE, c.27.
 
-XII. And be it enacted, That so much of the said Afctof King George the Fourth As requires that a Transcript of the Rules of any Society established under that Act, or to which the Provisions of that Act have been extended and made applicable, shall be deposited with or filed by the Clerk of the Peace of any County, Riding, or Division of a County in Eng± land, and a Certificate thereof returned to the Society, and that the same shall be laid before and allowed and confirmed by the Justices at any Session of the Peace, shall be repealed; and that all Transcripts of such Rules which are now filed with the Rolls of the Sessions of the Peace in any County, Riding, or Division of a County shall be taken off the File, and returned to the said Registrar of Friendly Societies in England, Ireland, and Scotland respectively; and that after the passing of this Act each of the said Registrars shall keep one of the Transcripts of all Rules of any such Society certified by hun, and all the Transcripts of Rules which shall be so returned to him, in such Manner as shall be from Time to Time directed by One of Her Majesty's Principal Secretaries of State; and that all Rules certified by any such Registrar shall be of the same Force, and all the Provisions of the said Act of His Majesty King George the Fourth shall apply to them, as if they had been confirmed by the said Justices, and filed with the Rolls of the Sessions of the Peace.
+XII. And be it enacted, That so much of the said Afctof King George the Fourth As requires that a Transcript of the Rules of any Society established under that Act, or to which the Provisions of that Act have been extended and made applicable, shall be deposited with or filed by the Clerk of the Peace of any County, Riding, or Division of a County in England, and a Certificate thereof returned to the Society, and that the same shall be laid before and allowed and confirmed by the Justices at any Session of the Peace, shall be repealed; and that all Transcripts of such Rules which are now filed with the Rolls of the Sessions of the Peace in any County, Riding, or Division of a County shall be taken off the File, and returned to the said Registrar of Friendly Societies in England, Ireland, and Scotland respectively; and that after the passing of this Act each of the said Registrars shall keep one of the Transcripts of all Rules of any such Society certified by hun, and all the Transcripts of Rules which shall be so returned to him, in such Manner as shall be from Time to Time directed by One of Her Majesty's Principal Secretaries of State; and that all Rules certified by any such Registrar shall be of the same Force, and all the Provisions of the said Act of His Majesty King George the Fourth shall apply to them, as if they had been confirmed by the said Justices, and filed with the Rolls of the Sessions of the Peace.
 
 XIII. And be it enacted, That after the passing of this Act the Registrar of Friendly Societies in England, Scotland, or Ireland shall not certify the Rules of any Friendly Society established after the passing of this Act for the Purpose of securing any Benefit depending on the Laws of Sickness or Mortality, unless such Society shall adopt a Table which shall have been certified to be a Table which may be safely and fairly adopted for such Purpose under the Hand of the Actuary to the Commissioners for the Reduction of the National Debt, or of some Person who shall have been for at least Five Years an Actuary to some Life Insurance Company in London, Edinburgh, or Dublin; and the Name of the Actuary by whom any such Table shall have been certified shall be set forth in the Rules, and printed at the Foot of all Copies of such Table printed for the Use of the Society.
 
@@ -7890,7 +7888,7 @@ John Gregory, Richard Sheffield, and
 
 Robert Green.
 
-19 Ditto Ditto . . Robert Broeking-
+19 Ditto Ditto Robert Broeking-
 
 ton.
 
@@ -7918,7 +7916,7 @@ N° of House. Situation. Freeholders. Leaseholders. 1 | Occupiers.
 
 17 Ditto _ Ditto - - Ditto.
 
-18 Ditto - Ditto . . Ditto.
+18 Ditto - Ditto Ditto.
 
 1 Lamb's Place Alexander Thomas La Porte, George Gow, CharlesRing, Mrs G. Gregory, John Gregory, Richard Sheffield, and Robert Green. Henry James Tolley and his weekly Tenants.
 
@@ -10404,7 +10402,7 @@ N° on Plan. Description of Property. Owners. Lessees. Occupiers.
 
 211 Open Field, Marsh Land Edward Pain Edward Pain.
 
-212 Open Field, Marsh Land Edward Pain . . Edward Pain.
+212 Open Field, Marsh Land Edward Pain Edward Pain.
 
 213 Open Field, Marsh Land Thomas Cubitt ... John Taylor.
 
@@ -10418,7 +10416,7 @@ N° on Plan. Description of Property. Owners. Lessees. Occupiers.
 
 218 Open Field, Marsh Land Meadow Thomas Cubitt ... John Taylor.
 
-218a John Chancellor - . . . John Ambrose.
+218a John Chancellor - . John Ambrose.
 
 219 Meadow Land - John Cornelius Park ... John Cornelius Park.
 
@@ -10442,11 +10440,11 @@ N° on Plan. Description of Property. Owners. Lessees. Occupiers.
 
 229 Open Field, arable Edward Pain . Edward Pain.
 
-230 Open Field, arable Edward Pain . . - Edward Pain.
+230 Open Field, arable Edward Pain - Edward Pain.
 
 231 Open Field, arable Rev. Thomas John Wyld. - Mary Gaines.
 
-232 Open Field, arable Edward Pain . . . Edward Pain.
+232 Open Field, arable Edward Pain . Edward Pain.
 
 233 House and Garden William Hewen - Richard Giblett - Richard Giblett.
 
@@ -10470,7 +10468,7 @@ N° on Plan. Description of Property. Owners. Lessees. Occupiers.
 
 243 Arable Land Eliza Steadman - - William Waterhouse Smith.
 
-244 Arable Land - Andrew Duncan M'Kellar. . . . Samuel Poupart.
+244 Arable Land - Andrew Duncan M'Kellar. . Samuel Poupart.
 
 245 Arable Land Andrew Duncan M'Kellar. - Samuel Poupart.
 
@@ -10542,7 +10540,7 @@ N° on Flan. Description of Property. Owners. Lessees. Occupiers.
 
 277 Arable Land - - Richard Southby - Edward Matson Thomas Carter.
 
-278 Arable Land . . Edward Pain . Edward Pain.
+278 Arable Land Edward Pain . Edward Pain.
 
 279 Arable Land - - Eliza Carter - Thomas Carter.
 
@@ -10556,7 +10554,7 @@ N° on Flan. Description of Property. Owners. Lessees. Occupiers.
 
 284 Arable Land - Edward Pain - Edward Pain.
 
-285 Arable Land . . Edward Pain - Edward Pain.
+285 Arable Land Edward Pain - Edward Pain.
 
 286 Cottage and Garden - Edward Pain . Edward Pain.
 
@@ -11942,7 +11940,7 @@ Causeway to Old Swan Public House. Company. pany.
 
 Malthouse. ' ward Lambert, Thomas Battcock & Son.
 
-$8 Public Draw-dock, East - - The Public.
+8 Public Draw-dock, East - - The Public.
 
 End of Cheyne Walk.
 
@@ -12228,7 +12226,7 @@ of Chelsea Hospital. Chelsea Hospital.
 
 of Chelsea Hospital. Chelsea Hospital.
 
-28 Land - The Marquis of . . . The Marquis of West-
+28 Land - The Marquis of . The Marquis of West-
 
 Westminster. minster.
 
@@ -24782,8 +24780,6 @@ Statement and Description of Buildings, if any, now existing on the said demised
 
 Statement and Description of Buildings allowed by the said Lessor to be erected on the said demised Premises.
 
-}
-
 (Witnesses.)
 
 [Here state and describe the Buildings, if any.]
@@ -25074,7 +25070,7 @@ An Act to apply the Sum of Eight millions three hundred fifty-six thousand one h
 
 Most Gracious Sovereign,
 
-WE, Your Majesty's most dutiful and loyal Subjects, the Commons of the United King dom of Great Britain and Ireland, in Parliament assembled, towards making good the Supply which we have cheerfully granted to Your Majesty in this Session of Parliament, have resolved to grant unto Your Majesty the Sums herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, m this present Parliament assembled, and by the Authority of the same, That there shall and may be issued and applied, for or towards making good the Supply granted to Her Majesty for the Service of the Year One thousand eight hundred and forty-six, the Sum of Eight millions three hundred fifty-six thousand one hundred and seventy-three Pounds Seventeen Shillings and Eleven-pence out of the Consolidated Fund of the United Kingdom of Great Britain and Ireland, and the Commissioners of Her Majesty's Treasury of the United Kingdom of Great Britain and Ireland, or any Three or more of them, or the Lord High Treasurer of the United Kingdom of Great Britain and Ireland for the Time being, are or is hereby authorized and empowered to issue and apply the same accordingly.
+WE, Your Majesty's most dutiful and loyal Subjects, the Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards making good the Supply which we have cheerfully granted to Your Majesty in this Session of Parliament, have resolved to grant unto Your Majesty the Sums herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, m this present Parliament assembled, and by the Authority of the same, That there shall and may be issued and applied, for or towards making good the Supply granted to Her Majesty for the Service of the Year One thousand eight hundred and forty-six, the Sum of Eight millions three hundred fifty-six thousand one hundred and seventy-three Pounds Seventeen Shillings and Eleven-pence out of the Consolidated Fund of the United Kingdom of Great Britain and Ireland, and the Commissioners of Her Majesty's Treasury of the United Kingdom of Great Britain and Ireland, or any Three or more of them, or the Lord High Treasurer of the United Kingdom of Great Britain and Ireland for the Time being, are or is hereby authorized and empowered to issue and apply the same accordingly.
 
 II. And be it enacted, That it shall be lawful for the said Commissioners of Her Majesty's Treasury, or any Three or more of them, from Time to Time, by Warrant under their Hands, to cause or direct any Number of Exchequer Bills to be made out at the Receipt of .Her Majesty's Exchequer at Westminster for any Sum or Sums of Money not exceeding in the whole the Sum of Eight millions three hundred fifty-six thousand one hundred and seventy-three Pounds Seventeen Shillings and Eleven-pence; and such Exchequer Bills shall be made out in the same or like Manner, Form, and Order, and according to the same or like Rules and Directions, as are directed and prescribed in an Act passed in the Forty-eighth Year of the Reign of His Majesty King George the Third, intituled An Act for regulating the issuing and gaging off of Exchequer Bills, and in another Act passed in the Session of Parliament holden in the Fourth and Fifth Years of the Reign of His late Majesty King William the Fourth, intituled An Act to regulate the Office of the Receipt of His Majesty's Exchequer at Westminster, and in another Act passed in the Session of Parliament holden in the Fifth and Sixth Years of the Reign of Her present Majesty, intituled An Act for further regulating the Preparation and Issue of Exchequer Bills.
 
@@ -25581,8 +25577,6 @@ Declarations to be made as specified in 5&6W.4. c. 62.
 c Year One thousand eight hundred and forty-five, subject nevertheless to such Rules to be ' observed in the Application of the said Half Pay as in and by the aforesaid*'Act were c prescribed in that Behalf:' Now it is hereby provided, enacted, and declared, That so much of the said Sum of Four hundred and forty-one thousand Pounds as is or shall be more than sufficient to satisfy the said reduced Officers according to the Rules to be observed in the Application thereof, or any Part of such Overplus, shall and may be disposed of to such Officers who are maimed or have lost their Limbs in the late War, or such others as by reason of their long Service, or otherwise, Her Majesty shall judge to be proper Objects of Charity, or to the Widows or Children of such Officers, according to such Warrant or Warrants* under Her Majesty's Royal Sign Manual, as shall be signed in that Behalf; any thing in this Act or the said Act to the contrary notwithstanding.
 
 XXXI. And as to the Sum of One hundred and four thousand two hundred Pounds by this Act appropriated for defraying the Charge of Pensions to be paid to the Widows of Officers of Her Majesty's Land Forces as aforesaid, and as to the Sum of Eighty-two thousand Pounds by this Act appropriated for defraying the Charge of Allowances on the Compassionate List of Allowances as of Her Majesty's Royal Bounty, and of Pensions to Officers for Wounds as aforesaid, it is hereby enacted and declared, That no Widow of an Officer of the Land Forces, and no Person claiming an Allowance on the Compassionate List, or of Allowances as of Her Majesty's Royal Bounty, shall have or receive any Part of the same without making and subscribing a Declaration to such Purport and Effect as shall be required in that Behalf by Her Majesty's Warrant directing the Issue of such Pensions and -Allowances so to be received.
-
-[
 
 ---
 

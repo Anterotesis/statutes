@@ -1710,10 +1710,6 @@ Probable Date of Desertion, and from what Place - - *
 
 Name and Occupation and Address of the Person by whom apprehended -
 
-}
-
-(
-
 Particulars of the Evidence on which the Prisoner is committed, and showing whether he surrendered or was apprehended, and in what Manner, and upon what Grounds
 
 It is important for the Public Service, and for the Interest of the Deserter, that this Part of the Return should be accurately filled up, and the Details should be inserted by the Magistrate in his own Handwriting, or, under his Direction, by his Clerk.
@@ -3031,8 +3027,6 @@ Sworn before me at this
 Day of One thousand eight
 
 hundred and
-
-}
 
 to wit.
 
@@ -4720,11 +4714,11 @@ _ _ . 20 _ _ 1 0 0
 
 - _ . 20 _ _ - 1 0 0
 
-- . . 50 _ . 2 10 0
+- 50 _ . 2 10 0
 
 . 30 _ . - 1 10 0
 
-- . . 10 - 0 10 0
+- 10 - 0 10 0
 
 - - - 20 - 1 0 0
 
@@ -5375,8 +5369,6 @@ Cl
 a
 
 o
-
-<&
 
 ft
 
@@ -7168,7 +7160,7 @@ XIV. Where a Company is being wound up altogether voluntarily, the Liquidators m
 
 XV. Where anj Company is being wound up altogether voluntarily, or is being wound up subject to the Provisions of the said Nineteenth Section, the Company in General Meeting may fill up any Vacancy occasioned by the Death or Resignation of any Liquidator or Liquidators appointed by the Company.
 
-XVI. In case of any Company being wound up compulsorily, the Liquidators may invest any Moneys for the Time being in their Hands, or standing to their Credit in the Bank of JEng- land, arising from such Winding-up, in Government Securities, including Exchequer Bills.
+XVI. In case of any Company being wound up compulsorily, the Liquidators may invest any Moneys for the Time being in their Hands, or standing to their Credit in the Bank of JEngland, arising from such Winding-up, in Government Securities, including Exchequer Bills.
 
 XVII. In fixing the Amount payable by any Contributory, in pursuance of the Joint Stock Companies Acts or any of them, he shall be debited with the Amount of all Debts due from him to the Company, including the Amount of the Call, and shall be credited with all Sums due to him from the Company on any independent Contract or Dealing between him and the Company, and the Balance, after making such Debit and Credit as aforesaid, shall be deemed to be the Sum due.
 
@@ -7588,7 +7580,7 @@ L From and after the passing of this Act the following Enactments requiring Retu
 
 King George the Fourth, Chapter Sixty-four, for con- *24-
 
-soliciting and amending the Laws relating to the, . . P, , c. 56.8. 10.
+soliciting and amending the Laws relating to the, P, , c. 56.8. 10.
 
 building, repairing, and regulating of certain Gaols
 
@@ -7868,7 +7860,7 @@ bliMdet Trustee of or invested with any .Power of Nomination or
 
 Bishop of One Control or other Power in relation to any charitable Foundation Diocese to act or other Trust for public Purposes within, or in favour of the ^towitoin Clergy, Parishioners, or other Persons or Objects of or
 
-$3, belonging to, any Place which at the Time when such Bishop
+3, belonging to, any Place which at the Time when such Bishop
 
 or his Predecessor was first invested with such Trust or Power was within that Diocese, or concerning any Church or Chapel in any such Place, and by reason of an Alteration of the Limits of the Diocese such Place is transferred to and included in some other Diocese, it shall be lawful for the Charity Commissioners for England and Wales, if it appear to them that such Trust or Power was first so vested in the Bishop or his Predecessor by reason of the Place being then within his Diocese, and may be conveniently vested in the Bishop in
 

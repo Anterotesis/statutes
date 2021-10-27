@@ -798,8 +798,6 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ---
 
-[
-
 and the said Part Three and the sections of the Public Health 41 & 42 Vict. (Ireland) Act, 1878, applied for the purpose of that Part, shall apply c*52' accordingly as if such town commissioners were a sanitary authority; and if such town commissioners ore not already a body corporate, they shall, for the purpose of holding such land, and of suing and being sued in respect thereof, be nevertheless deemed a body corporate with perpetual succession.
 
 (2.) Any instrument relating to such land shall be duly executed by such town commissioners if executed in manner provided by section fifty-nine of the Commissioners Clauses Act, 1847, with lo&it Vict. respect to conveyances by commissioners who are not a body c‘16* corporate.
@@ -1074,7 +1072,7 @@ sand seven hundred and ten.
 
 8 Anne, c. 18. - An Act for the better Security of Bents, and to prevent Frauds committed by Tenants. The Landlord and Tenaut Act, 1709.
 
-9 Anne, c. 6. An Act ... for suppressing such unlawful Lotteiies . . . as are therein mentioned. The Lotteries Act, 1710.
+9 Anne, c. 6. An Act ... for suppressing such unlawful Lotteiies . as are therein mentioned. The Lotteries Act, 1710.
 
 9 Anne, c. 11. An Act for establishing a General Post Office for all Her Majesties Dominions, and for settling a weekly Sum out of the Revenues thereof for the Service of the War and other Her Majesties Occasions. | The Post Office (Revenues) Act, 1710. by
 
@@ -1096,7 +1094,7 @@ Session and Chapter. Title. Short Title.
 
 10 Anne, e. 31. An Act for the more effectual preventing fraudulent Conveyances in order to multiply Votes for electing Knights of Shires to serve in Parliament. The Elections (Fraudulent Conveyances) Act, 1711.
 
-13 Anne, c. 6. An Act for taking away Mortuaries within the Dioceses of Bangor, Landaff, St. David's, and St. Asaph, and giving a Recompense therefore to the Bishops of the said respective Dioceses. . . . The Mortuaries (Bangor, Ac.) Abolition Act, 1713.
+13 Anne, c. 6. An Act for taking away Mortuaries within the Dioceses of Bangor, Landaff, St. David's, and St. Asaph, and giving a Recompense therefore to the Bishops of the said respective Dioceses. . The Mortuaries (Bangor, Ac.) Abolition Act, 1713.
 
 18 Anne, c. 11. An Act for the better Maintenance of Curates within the Church of England, and for preventing any Ecclesiastical Persons from buying the next Avoidance of any Church Preferment. The Simony Act, 1713,
 
@@ -1158,7 +1156,7 @@ Sewicn and Chapter. Title. Short Title.
 
 9 Geo. 1 c. . An Act for amending the Laws relating to the Settlement, Imployment, and Belief of the Poor. The Poor Belief Act, 1722.
 
-9 Geo. 1. c. 19. An Act . . . to prevent Foreign Lotteries being carried on in this Kingdom . . . and for limiting the Times of Continuance of Commissioners for forfeited Estates in England and Scotland respectively. The Lotteries Act, 1722. by
+9 Geo. 1. c. 19. An Act . to prevent Foreign Lotteries being carried on in this Kingdom . and for limiting the Times of Continuance of Commissioners for forfeited Estates in England and Scotland respectively. The Lotteries Act, 1722. by
 
 1896. Short Titles Act, 1896.
 
@@ -1180,7 +1178,7 @@ i 10 Geo. 1. c. 19. An Act for explaining the Law concerning the Tryal and Admis
 
 13 Geo. 1. c. 30. An Act for encouraging and promoting Fisheries, and other Manufactures and Improvements in that part of Great Britain called Scotland. The Fisheries (Scotland) Act, 1726.
 
-1 Geo. 2. Stat. 1. c. 5. - An Act the title of which begins with the words “An Act . . . for altering and explaining, *' and ends with the words “Demise of “ his late Majesty, his Heirs and “ Successors . . . .” The Demise of the Crown Act, 1727.
+1 Geo. 2. Stat. 1. c. 5. - An Act the title of which begins with the words “An Act . for altering and explaining, *' and ends with the words “Demise of “ his late Majesty, his Heirs and “ Successors . .” The Demise of the Crown Act, 1727.
 
 1 Geo. 2. Stat. 2. c. 8. - An Act for granting an Aid to his Majesty by Sale of Annuities to the Bank of England, at Four Pounds per Centum, redeemable by Parliament, and charged upon the Duties on Coals and Culm. The Bank of England Act, 1727.
 
@@ -1196,7 +1194,7 @@ Short Titles, 1896.
 
 Srssfon and Chapter. Title. Short TMe.
 
-2 Geo. 2. c. 28. An Act . . . for more effectual debarring of nnlawfnl Games. The Unlawful Games Act, 1728.
+2 Geo. 2. c. 28. An Act . for more effectual debarring of nnlawfnl Games. The Unlawful Games Act, 1728.
 
 3 Geo. 2. o. 32. An Act the title of which begins with the words “An Act for enabling the Judges, ” and ends with the words u in that Part of the Kingdom.” The Execution of Sentences (Scotland) Act, 1729.
 
@@ -1212,7 +1210,7 @@ Srssfon and Chapter. Title. Short TMe.
 
 5 Geo. 2. c. 19. An Act the title of which begins with the words “An Act to oblige the Justices, and ends with the words “to prosecute the same with Effect.* The Quarter Sessions Appeal Act, 1731.
 
-6 Geo. 2. e. 86. An Act ... for enforcing the Laws made against foreign Lotteries. . . . The Lotteries Act, 1732.
+6 Geo. 2. e. 86. An Act ... for enforcing the Laws made against foreign Lotteries. . The Lotteries Act, 1732.
 
 7 Geo. 2. c. 16. An Act the title of which begins with the words “An Act for the better regulating, ” and ends with the words “as Members of the House of Commons.* The Parliamentary Elections (Scotland) Act, 1733.
 
@@ -1230,13 +1228,13 @@ gages.
 
 8 Geo. 2. c. 13. An Act for the Encouragement of the Arts of designing, engraving, and etching historical and other Prints, by vesting the Properties thereof in the Inventors and Engravers during the time therein mentioned. The Engraving Copyright Act, 1734.
 
-9 Geo. 2. c. 5. An Act . . . foi* punishing such Persons as pretend to exercise or use any kind of Witchcraft, Sorcery, Inchantment, or Conjuration. The Witchcraft Act, 1735.
+9 Geo. 2. c. 5. An Act . foi* punishing such Persons as pretend to exercise or use any kind of Witchcraft, Sorcery, Inchantment, or Conjuration. The Witchcraft Act, 1735.
 
 9 Geo. 2. c. 33. An Act ... for the better Preservation of the Fry of Lobsters on the Coasts of Scotland. The Lobsters (Scotland j Act, 1735.
 
 9 Geo. 2. c. 86. An Act to restrain the Disposition of Lands, whereby the same become inalienable. The Charitable Uses Act, 1735.
 
-11 Geo. 2. c. 17. An Act . . . for rendering more effectual the several Acts of Parliament made for vesting in the two Universities in that part of Great Britain called England, the Presentations of Benefices belonging to Papists. The Church Patronage Act, 1737.
+11 Geo. 2. c. 17. An Act . for rendering more effectual the several Acts of Parliament made for vesting in the two Universities in that part of Great Britain called England, the Presentations of Benefices belonging to Papists. The Church Patronage Act, 1737.
 
 11 Geo. 2. c. 19. An Act for the more effectual securing the Payment of Rents, and preventing Frauds by Tenants. The Distress for Rent Act, 1737.
 
@@ -1468,7 +1466,7 @@ Session and Chapter. Title. Short Title.
 
 21 Geo. 2. c. 19. An Act ..... for abrogating the Practice of taking down the Evidence in Writing in certain Criminal Prosecutions; and for making some further Regulations relating to Sheriffs Depute and Stewarts Depute and their Substitutes; and for other purposes . therein mentioned. The Sheriffs (Scotland) Act, 1747.
 
-21 Geo. 2. c. 34. An Act to amend and enforce so much of an Act made in the Nineteenth Tear of His Majesty's Reign as relates to the more effectual disarming the Highlands in Scotland . . . .; and for other purposes therein mentioned. The Cattle Theft (Scotland) Act, l747.
+21 Geo. 2. c. 34. An Act to amend and enforce so much of an Act made in the Nineteenth Tear of His Majesty's Reign as relates to the more effectual disarming the Highlands in Scotland . .; and for other purposes therein mentioned. The Cattle Theft (Scotland) Act, l747.
 
 22 Geo. 2. c. 27. An Act the title of which begins with the words “An Act for the more effectual” and ends with the words “Payment of their Wages.” The Frauds by Workmen Act, 1748.
 
@@ -1518,7 +1516,7 @@ Season and Chapter. Tide. Short Tide.
 
 27 Geo. 2. e. 3. An Act for the better securing to Constables and others the expences of conveying offenders to Gaol; and for allowing the charges of poor persons bound to give Evidence against Felons. The Offenders (Con- veyance) Act, 1754.
 
-27 Geo. 2. c. 16. An Act, the title of which begins with the words “An Act . . . that all Acts”, and ends with the words M County of Middlesex 1) The Justices' Clerks'" Fees (Middlesex}* Act, 1754.
+27 Geo. 2. c. 16. An Act, the title of which begins with the words “An Act . that all Acts”, and ends with the words M County of Middlesex 1) The Justices' Clerks'" Fees (Middlesex}* Act, 1754.
 
 28 Geo. 2. e. 6. An Act for taking away Mortuaries in the Archdeaconry of Chester, and giving a Becom pence therefore to the Bishop of Chester as Archdeacon of Chester, who holds and enjoys the said Archdeaconry in right of his See. The Mortuarie* (Chester) Act, 1756.
 
@@ -1644,7 +1642,7 @@ Session and Chapter. Title. Short Tide.
 
 14 Geo. 3. c. 48. An Act for regulating Insurances upon Lives, and for prohibiting all such Insurances except in cases where the Persons insuiing shall have an Interest in the Life or Death of tho Persons insured. The Life Assurance Act, 1774.
 
-14 Geo. 3. c. 78. An Act the title of which begins with the words “An Act . . . for the more effectually ” and ends with the words “in the County of y i idle sex . . .” The Fires Prevention (Metropolis) Act, 1774.
+14 Geo. 3. c. 78. An Act the title of which begins with the words “An Act . for the more effectually ” and ends with the words “in the County of y i idle sex .” The Fires Prevention (Metropolis) Act, 1774.
 
 14 Geo. 3. c. 83. An Act fer making more effectual Provision for the Government of the Province of Quebec in North America. The British North America (Quebec) Act, 1774.
 
@@ -1814,7 +1812,7 @@ An Act the title of which begins with the words “An Act to ini-power the Justi
 
 An Act for the more easy and effectual Sale of Lands, Tenements, and Hereditaments of Crown Debtors or of their Sureties.
 
-An Act the title of which begins with the words “An Act to amend so much of an Act* and ends with the words “that Part “ of Great Britain called England. . . . *
+An Act the title of which begins with the words “An Act to amend so much of an Act* and ends with the words “that Part “ of Great Britain called England. . *
 
 An Act the title of which begins with the words “An Act to limit the Duration/* and ends with the words “to serve in Parliament. *
 
@@ -1838,7 +1836,7 @@ Session and Chapter. Title. Short Tide.
 
 26 Geo. 3. c. 40. An Act for regulating the Production of Manifests, and for more effectually preventing fraudulent Practices in obtaining Bounties and Drawbacks, and in the clandestine Relanding of Goods. The Exports Act. 1786.
 
-26 Geo. 3. c. 57. An Act for the further Regulation of the Trial of Persons accused of certain Offences committed in the East Indies; . . . . and for the more easy Pi oof, in certain Cases, of Deeds and Writings executed in Great Britain or India. The East India Company Act, 1786.
+26 Geo. 3. c. 57. An Act for the further Regulation of the Trial of Persons accused of certain Offences committed in the East Indies; . . and for the more easy Pi oof, in certain Cases, of Deeds and Writings executed in Great Britain or India. The East India Company Act, 1786.
 
 26 Geo. 3. c. 62. An Act to enable the East India Company to raise Money by a Sale of Annuities, and by increasing their Capital Stock. The East India Company (Money) Act, 1786.
 
@@ -2052,7 +2050,7 @@ Short Titles 1896.
 
 Session and Chapter. Title. Short Title.
 
-39 Geo. 8. c. 78. An Act for exempting certain specifick Legacies which shall be given to Bodies Corporate or other Publick Bodies from the Payment of Duty. . . . The Legacy Duty Act, 1799.
+39 Geo. 8. c. 78. An Act for exempting certain specifick Legacies which shall be given to Bodies Corporate or other Publick Bodies from the Payment of Duty. . The Legacy Duty Act, 1799.
 
 89 Geo. 8. c. 79. An Act for the more effectual Suppression of Societies established for seditious and treasonable pur* poses and for better preventing treasonable and seditious practices. The Unlawful Societies Act, 1799.
 
@@ -2248,7 +2246,7 @@ Session and Chapter. Title. Short Title.
 
 46 Geo. 3. o. 71. An Act to amend several Acts for the Encouragement of finding and working Mines and Minerals within Ireland. The Mines (Ireland) Act, 1806.
 
-46 Geo. 3. c. 106. An Act to provide for the better Execution of the several Acts relating to the Revenues, Matters, and Things under the Management of the Commissioners of Customs and Port Dutica, and of the Commissioners of Inland Excise and Taxes in Ireland. The Revenue (Ire land) Act, 1806.
+46 Geo. 3. c. 106. An Act to provide for the better Execution of the several Acts relating to the Revenues, Matters, and Things under the Management of the Commissioners of Customs and Port Dutica, and of the Commissioners of Inland Excise and Taxes in Ireland. The Revenue (Ireland) Act, 1806.
 
 46 Geo. 3. C..J48. An Act for granting to His Majesty a Sum-of Money to be raised- by Lotteries- . The Lotteries Act, 1806.
 
@@ -2624,7 +2622,7 @@ Session and Chapter. Title. Short Title.
 
 55 Geo. 3. c. 194. An Act for better regulating the Practice of Apothecaries throughout England and Wales. The Apothecaries Act, 1815.
 
-56 Geo. 3. c. 39. An Act to reduce the Number of Days of Muster or Exercise of Yeomanry . . . The Yeomanry (Training) Act, 1816.
+56 Geo. 3. c. 39. An Act to reduce the Number of Days of Muster or Exercise of Yeomanry . The Yeomanry (Training) Act, 1816.
 
 56 Geo. 3. c. 46. An Act for the better Regulation of the Civil List. The Civil List Audit Act, 1816.
 
@@ -2784,7 +2782,7 @@ relating to the Office of the Agent; General, and for transferring the Duties of
 
 - An Act to allow Corps of Yeomanry
 
-. . . when assembled for the
+. when assembled for the
 
 Suppression of Riots or Tumnlta, to be quartered and billetted .
 
@@ -2876,7 +2874,7 @@ Session and Chapter. Title. Short Title.
 
 58 Geo. 3. e. 70. An Act for facilitating the Means of prosecuting Persons accused of Felony and other Offences. The Disorderly Houses Act, 1818.
 
-58 Geo. 3. c. 81. An Act for extending to that Part of the United Kingdom called Ireland certain Provisions of the Parliament of Great Britain in relation to executors under the Age of Twenty-one Years . . . The Infant Executors (Ireland) Act, 1818.
+58 Geo. 3. c. 81. An Act for extending to that Part of the United Kingdom called Ireland certain Provisions of the Parliament of Great Britain in relation to executors under the Age of Twenty-one Years . The Infant Executors (Ireland) Act, 1818.
 
 1896. Short Titles Act, 1896.
 
@@ -2916,7 +2914,7 @@ Session and Chapter. Title. Short Title.
 
 69 Geo. 3. c. 92. An Act to enable Justices of the Peace in Ireland to act as each in certain Cases ont of the Limits of the Counties in which they actually are ..... The Conveyance, of Offenders (Ireland) Act, 1819.
 
-59 Geo. 3. c. 94. An Act to explain and amend Two Acts passed in the Thirty-ninth and Fortieth and Forty-seventh Years of His present Majesty, concerning the Disposition of certain Beal and Personal Property of His Majesty . . . The Crown . Land Act, 1819.
+59 Geo. 3. c. 94. An Act to explain and amend Two Acts passed in the Thirty-ninth and Fortieth and Forty-seventh Years of His present Majesty, concerning the Disposition of certain Beal and Personal Property of His Majesty . The Crown . Land Act, 1819.
 
 59 Geo. 3. c. 95. An Act for confirming ancient Separations of Towns Corporate from Parishes, in regard to the Maintenance of the Poor. The Poor Relief (No. 2) Act, 1819.
 
@@ -2955,8 +2953,6 @@ Ca 14. 71
 1 Geo. 4. c. 101.
 
 1 & 2 Geo. 4. e. 23.
-
-('
 
 An Act to amend and render more effectual an Act passed in the Fifty-fifth Year of His late Majesty's Reign, for enabling Spiritual Persons to exchange their Parsonage Houses or Glebe Lands, and for other Purposes therein mentioned.
 
@@ -3076,7 +3072,7 @@ The Stamp Duties in Law Proceedings (Ireland) Act, 1821.
 
 1 & 2 Geo. 4. c. 121.
 
-An Act to . . . amend an Act The Commissariat Ac-
+An Act to . amend an Act The Commissariat Ac-
 
 passed in the Fifty-fourth Year counts Act, 1821. of His late Majesty, for the effectual Examination of the Accounts of certain Colonial Revenues.
 
@@ -3146,7 +3142,7 @@ Provinces.
 
 An Act to amend the general Laws now in being for regulating Turnpike Roads in that Part of Great Britain called England.
 
-An Act to regulate the Appointment . . . of the Chancellor of the
+An Act to regulate the Appointment . of the Chancellor of the
 
 Exchequer of Ireland.
 
@@ -3210,7 +3206,7 @@ Session and Chapter. Title. Short Title.
 
 4 Geo. 4. c. 76. An Act for amending the Laws respecting the Solemnization of Marriages in England. The Marriage Act, 1823.
 
-4 Geo. 4. c. 80. An Act to consolidate and amend the several Laws now in force with respect to Trade from and to Places within the Limits of the Charter of the East India Company, and to make further Provisions with respect to such Trade . . . The Lascars Act, 1823.
+4 Geo. 4. c. 80. An Act to consolidate and amend the several Laws now in force with respect to Trade from and to Places within the Limits of the Charter of the East India Company, and to make further Provisions with respect to such Trade . The Lascars Act, 1823.
 
 4 Geo. 4. c. 87. An Act to amend and render more effectual the Provisions of an Act made in the Fiftieth Year of His late Majesty's Reign, for preventing the administering and taking unlawful Oaths in Ireland. The Unlawful Oaths (Ireland) Act, 1823.
 
@@ -3228,7 +3224,7 @@ I 4 Geo. 4. c. 98. An Act for the better granting of confirmations in Scotland. 
 
 5 Geo. 4. c. 12. An Act the title of which begins with the words “An Act to facilitate, ” and ends with the words *in England and Wales.” The Gaol Sessions Act, 1824.
 
-5 Geo. 4. c. 25. i An Act to repeal so much of an Act passed in the Ninth Year of the Reign of King William the Third as relates to Burials in suppressed Monasteries, Abbeys, or Convents in Ireland . . . The Burial (Ireland) Act, 1824.
+5 Geo. 4. c. 25. i An Act to repeal so much of an Act passed in the Ninth Year of the Reign of King William the Third as relates to Burials in suppressed Monasteries, Abbeys, or Convents in Ireland . The Burial (Ireland) Act, 1824.
 
 5 Geo. 4. c. 82. An Act to amend an Act passed in the last Session of Parliament intituled An Act for amending “ the Laws respecting the Solem- nization of Marriages in Eng- laud.” The Marriage Act, 1824.
 
@@ -3240,7 +3236,7 @@ I 4 Geo. 4. c. 98. An Act for the better granting of confirmations in Scotland. 
 
 5 Geo. 4. c. 74. An Act for ascertaining and establishing Uniformity of Weights and Measures. The Weights and Measures Act, 1824.
 
-5 Geo. 4. c. 78. An Act to amend an Act of the Third Year of His present Majesty for enabling His Majesty to lease Lands belonging to the Duchy of Cornwall . . . The Duchy of Cornwall Act, 1824.
+5 Geo. 4. c. 78. An Act to amend an Act of the Third Year of His present Majesty for enabling His Majesty to lease Lands belonging to the Duchy of Cornwall . The Duchy of Cornwall Act, 1824.
 
 5 Geo. 4. c. 82. An Act for better regulating the Office of Clerk of the Parliaments. The Clerk of Parliaments Act, 1824.
 
@@ -3322,7 +3318,7 @@ The House Tax Act, 1825.
 
 An Act to amend and render more effectual an Act passed in the fifty-fifth Year of the Reign of His late Majesty, for enabling Spiritual Persons to exchange their Parsonage Houses or Glebe Lands; and for other purposes therein mentioned.
 
-- An Act for continuing to His Majesty for One Year certain Duties j on . . . Offices and Pensions
+- An Act for continuing to His Majesty for One Year certain Duties j on . Offices and Pensions
 
 in England ., ,
 
@@ -3336,7 +3332,7 @@ Ch. 14. 79
 
 Session and Chapter. Title. Short Title.
 
-<> Geo. 4. c. 17. - An Act to extend the Provisions of an Act of the Fifty-ninth Year of His late Majesty, concerning the Disposition of certain Heal and Personal Property of His Majesty . . . The Crown Lands j Act, 1825.
+<> Geo. 4. c. 17. - An Act to extend the Provisions of an Act of the Fifty-ninth Year of His late Majesty, concerning the Disposition of certain Heal and Personal Property of His Majesty . The Crown Lands j Act, 1825.
 
 6 Geo. 4. c. 22. An Act to regulate the Qualification and the Manner of enrolling Jurors in Scotland, and of choosing Jurors on Criminal Trials there; and to unite Counties for the purposes of Trial in Cases of High Treason in Scotland. j The Jurors (Scotland) Act, 1825.
 
@@ -3567,8 +3563,6 @@ An Act to amend the Laws 4or the Regulation of the Butter Trade in Ireland.
 7 A 8 Geo. 4. c. 72.
 
 An Act to prevent Arrests upon i Mesne Process, where the Debt (or Cause of Action is under j Twenty Pounds; and to regulate 1 the Practice of Arrests.
-
-\
 
 i An Act to amend the Acta for i building and promoting the building of additional Churches in populous Parishes.
 
@@ -3838,7 +3832,7 @@ Persons of Unsound Mind. |
 
 11 Geo. 4. & 1 Will. 4. c. 66.
 
-An Act for . . . amending the
+An Act for . amending the
 
 Laws relative to Forgery.
 
@@ -4050,7 +4044,7 @@ Session and Chapter. Title. Short Tide.
 
 2 & 3 Will. 4. c. 53. - An Act for consolidating and amending the Laws relating to the Payment of Army Prize Money. The Army Prize Money Act, 1832.
 
-2 & 3 Will. 4. Cr 67. - An Act . . . for makiDg certain Provisions respecting Estates or Funds belonging to Charities. The Charities Procedure Act, 1832.
+2 & 3 Will. 4. Cr 67. - An Act . for makiDg certain Provisions respecting Estates or Funds belonging to Charities. The Charities Procedure Act, 1832.
 
 2 &3 Will. 4. c. 58. - An Act to extend the Provisions of an Act of the First Year of the Reign of His present Majesty, for altering and amending the Law regarding Commitments by Courts of Equity for Contempts, and the taking Bills pro Confesso; and to explain certain Parts thereof. The Contempt of Court Act, 1832.
 
@@ -4060,7 +4054,7 @@ Session and Chapter. Title. Short Tide.
 
 2 A 3 Will. 4. c. 61. - An Act to render more effectual an Act passed in the fifty-ninth year of His late Majesty King George the Third, intituled “ An Act to “ amend and render more effectual an Act passed in the last “ session of Parliament, forbuild- ing and promoting the building “ of additional Churches in populous Parishes.” The Church Building Act, 1832.
 
-2 A 3 Will. 4. c. 64. - An Act to settle and describe . . . . . the Limits of Cities and Boroughs, in England and Wales, in so far as respects the Election of Members to serre in Parliament. The Parliamentary Boundaries Act, 1832.)by
+2 A 3 Will. 4. c. 64. - An Act to settle and describe . the Limits of Cities and Boroughs, in England and Wales, in so far as respects the Election of Members to serre in Parliament. The Parliamentary Boundaries Act, 1832.)by
 
 18y6.
 
@@ -4080,7 +4074,7 @@ Session and Chapter. Title. Short Title.
 
 2 &3 Will. 4. c. 75. - An Act for regulating Schools of Anatomy. The Anatomy Act, 1832.
 
-2 & 3 Will. 4. c. 78. - An Act to continue certain Acts relating to the Island of Newfoundland . . . The Newfoundland Act, 1832.
+2 & 3 Will. 4. c. 78. - An Act to continue certain Acts relating to the Island of Newfoundland . The Newfoundland Act, 1832.
 
 2 & 3 WiU. 4. c. 80. - An Act to anthorise the identifying of Lands and other Possessions of certain Ecclesiastical and Collegiate Corporations. The Ecclesiastical Corporations Act, 1832.
 
@@ -4404,7 +4398,7 @@ The Beerhouse Act, 1834.
 
 The Fines and Recoveries (Ireland) Act, 1834.
 
-The Chancery (Ire* land) Act, 1835.
+The Chancery (Ireland) Act, 1835.
 
 The Infants' Property (Ireland) Act, 1835.
 
@@ -4924,7 +4918,7 @@ Ch. 14. 113
 
 Session and Chapter. Title. Short Title.
 
-1 & 2 Vict. c. 116. - An Act to facilitate Advances ont of County Monies for the Support of County . . . Institutions in Ireland. The County Institutions (Ireland) Act, 1838.
+1 & 2 Vict. c. 116. - An Act to facilitate Advances ont of County Monies for the Support of County . Institutions in Ireland. The County Institutions (Ireland) Act, 1838.
 
 1 & 2 Vict. c. 118. - An Act the title of which begins with the words “An Act to “ make certain Alterations in, ” and ends with the words “payable in those Courts.” The Court of Session (No. 2) Act, 1888.
 
@@ -5118,7 +5112,7 @@ Session and Chapter. Title. Short Title.
 
 3 A 4 ' Vict. c. 90. An Act for the Care and Education of Infants who may be convicted of Felony. The Infant Felons Act, 1840.
 
-8 & 4 Vict. c. 91. An Act the title of which begins with the words “An Act for the more effectual, ” and ends with the words Payment of their Wages. . . The Textile Manufactures (Ireland) Act, 1840.
+8 & 4 Vict. c. 91. An Act the title of which begins with the words “An Act for the more effectual, ” and ends with the words Payment of their Wages. The Textile Manufactures (Ireland) Act, 1840.
 
 3 & 4 Vict. c. 92. An Act for enabling Courts of Justice to admit if on-parochial Registers as evidence of Births or Baptisms, Deaths or Burials, and Marriages. The Non-parochial Registers Act, 1840.
 
@@ -5144,7 +5138,7 @@ Session and Chapter. Title. Short Title.
 
 3 & 4 Vict c. 108. An Act for the Regulation of Municipal Corporations in Ireland. The Municipal Corporations (Ireland) Act, 1840.
 
-3 & 4 Vict. c. 109. An Act to annex certain Parts of certain Counties of Cities to adjoining Counties ... to limit the Borough Rate. . . . The Counties and Boroughs (Ireland) Act, 1840.
+3 & 4 Vict. c. 109. An Act to annex certain Parts of certain Counties of Cities to adjoining Counties ... to limit the Borough Rate. . The Counties and Boroughs (Ireland) Act, 1840.
 
 3 & 4 Vict c. 110. An Act to amend the Laws relating to Loan Societies. The Loan Societies Act, 1840.
 
@@ -5364,7 +5358,7 @@ Session and Chapter. Title. Short Title.
 
 6 & 7 Vict c. 30. An Act to amend the Law relating to Pound'breach and Rescue in certain Cases. The Pound - breach Act, 1843.
 
-6 & 7 Vict. c. 32. An Act to amend the Laws in force relating to Grand Jury Presentments in Counties of Cities and Towns in Ireland. The Grand Juries (Ire* land) Act, 1843.
+6 & 7 Vict. c. 32. An Act to amend the Laws in force relating to Grand Jury Presentments in Counties of Cities and Towns in Ireland. The Grand Juries (Ireland) Act, 1843.
 
 6 & 7 Vict. c. 36w An Act to exempt from County, Borough, Parochial, and other local Rates, Land and Buildings occupied by Scientific or Literary Societies. The Scientific Societies Act, 1843.
 
@@ -5426,7 +5420,7 @@ Session and Chapter. Title. 8bott Title.
 
 7 & 8 Vict. c. 22. An Act to amend the Laws now in force for preventing Frauds and Abuses in the marking of Gold and Silver Wares in England. The Gold and Silver Wares Act, 1844.
 
-7 & 8 Vict. c. 25. An Act to repeal the Duty of Excise on Vinegar. . . . The Vinegar Act, 1844.
+7 & 8 Vict. c. 25. An Act to repeal the Duty of Excise on Vinegar. . The Vinegar Act, 1844.
 
 7 & 8 Vict. c. 29. - An Act to extend an Act of the Ninth Tear of King George the Fourth, for the more effectual Prevention of Persons going armed by night for the Destruction of Game. The Night Poaching Act, 1844.
 
@@ -5474,7 +5468,7 @@ Session and Chapter. Title. Short Tide.
 
 7 & 8 Vict. c. 61. An Act to annex detached Parts of Counties to the counties in which they are situated. The Counties (De-. tached Parts) Act, 1844.
 
-7 & 8 Vict. c. 68. An Act to suspend . . . the Operation of the new Arrangement of Dioceses, so far as it affects the existing Ecclesiastical Jurisdictions, and for obtaining Returns from and the Inspection of the Registries of such Jurisdictions. The Ecclesiastical Courts Act, 1844.
+7 & 8 Vict. c. 68. An Act to suspend . the Operation of the new Arrangement of Dioceses, so far as it affects the existing Ecclesiastical Jurisdictions, and for obtaining Returns from and the Inspection of the Registries of such Jurisdictions. The Ecclesiastical Courts Act, 1844.
 
 7 & 8 Vict c. 69. An Act for amending an Act passed in the Fourth Year of the Reign of His late Majesty, intituled t(An Act for the better Adminis-utration of Justice in His Majesty's Privy Council ”; and to extend its Jurisdiction and Powers. The Judicial Committee Act, 1844.
 
@@ -5512,7 +5506,7 @@ An Act to attach certain Conditions to the Construction of future Railways autho
 
 An Act for the Relief of Clerks to AttornieR and Solicitors,
 
-and for amending the Law relating . . . to the Disabilities of
+and for amending the Law relating . to the Disabilities of
 
 such Clerks, in certain Cases.
 
@@ -5554,7 +5548,7 @@ Act for making better Provision for the Spiritual Cure of populous Parishes.
 
 . An Act to amend an Act of the Ninth Year of King George the Fourth for the Preservation of the Salmon Fisheries in Scotland.
 
-. An Act to amend the Law of . . . Execution.
+. An Act to amend the Law of . Execution.
 
 An Act for the more effectual Application of Charitable Donations and Bequests in Ireland.
 
@@ -5620,7 +5614,7 @@ Ch. 14 181
 
 Session and Chapter. Tide. Short
 
-8 & 9 Vict. 46. An Act for/.the^appeinm^qtt of additional Constable *, for Ceding the Peace new Public Works in Ireland^ w.. .h , .. . . The $^lCppa*#» (Ireland; Act, 1845.
+8 & 9 Vict. 46. An Act for/.the^appeinm^qtt of additional Constable *, for Ceding the Peace new Public Works in Ireland^ w.. .h , .. The $^lCppa*#» (Ireland; Act, 1845.
 
 8 & 9 Vict. c. 56. An Act to alter* fchd iftoeirtf an Act passed in the Third and Fourth Year of the lteign of Her present Majesty Queen Victoria, intituled “ An Act to enable the Ownfcnr “ of Settled Estates t:> dfefray the “ Expences of draining the same " by wayof Mortgage.” The Land Drainage Act, 1845.
 
@@ -5646,7 +5640,7 @@ Short Titles Act, 1896. 59 & 60 Vict.
 
 Session and Chapter. Title. Short Title.
 
-8 & 9 Vict. c. 76. An Act to increase the Stamp Duty on Licences to Appraisers; . . . to amend the Lair relating to the Duties on Legacies; and also to amend an Act of the last Session of Parliament, for regulating the Issue of Bank Notes in England. The Revenue Act, 1845.
+8 & 9 Vict. c. 76. An Act to increase the Stamp Duty on Licences to Appraisers; . to amend the Lair relating to the Duties on Legacies; and also to amend an Act of the last Session of Parliament, for regulating the Issue of Bank Notes in England. The Revenue Act, 1845.
 
 8 & 9 Vict. c. 77. An Act to make further Regulations respecting the Tickets of Work to be delivered to Persons employed in the Manufacture of Hosiery in certain Cases. The Hosiery Act, 1845.
 
@@ -5824,7 +5818,7 @@ The Central Criminal Court Act, 1846.
 
 The Seditious Meeting Act, 1846.
 
-The Coroners (Ire* land) Act, 1846.
+The Coroners (Ireland) Act, 1846.
 
 The Art Unions Act, 1846.
 
@@ -6222,7 +6216,7 @@ Session and Chapter. Title. 1 Short Title.
 
 12 & 13 Vict. c. 1. - j j An Act to consolidate the Boards ' of Excise and Stamps and Taxes | into One Board of Commissioners 1 of Inland Revenue, and to make 1 Provision for the Collection of such Revenue. The Inland Revenue Board Act, 1849.
 
-i 12 & 13 Vict. c. 4. - ! An Act to amend the Laws relating to the Appointment of Vice-Guardians of Unions in Ireland. The Guardians (Ire* land) Act, 1849.
+i 12 & 13 Vict. c. 4. - ! An Act to amend the Laws relating to the Appointment of Vice-Guardians of Unions in Ireland. The Guardians (Ireland) Act, 1849.
 
 12 & 13 Vict. c. 8. An Act to remove Doubts as to | the Appointment of Overseers in 1 Cities and Boroughs. The Poor Law (Overseers) Act, 1849.
 
@@ -6351,8 +6345,6 @@ Session and Chapter. Title. Short Title.
 59 & 60 Vict.
 
 Short Tides Act, 1896.
-
-—
 
 Swoon and Chapter. Title. Short Title.
 
@@ -8182,7 +8174,7 @@ Session and Chapter. Title. Short Title.
 
 27 & 28 Vict. c. 95, - An Act to Amend the Act Ninth and Tenth Victoria, chapter Ninety-three, for compensating the Families of Persons killed by Accident. The Fatal Accidents Act, 1864.
 
-27 & 28 Vict. c. 96. - 1 An Act the title of which begins with the words “An Act to enable, ” and ends with the words “for regulating the Sale of Gras.” The Sale of Gas (Scot-land) Act, 1864.
+27 & 28 Vict. c. 96. - 1 An Act the title of which begins with the words “An Act to enable, ” and ends with the words “for regulating the Sale of Gras.” The Sale of Gas (Scotland) Act, 1864.
 
 27 & 28 Vict. c. 105. - An Act to explain the Statutes of Her present Majesty for amending the Laws relating to the 1 Removal of the Poor. | The Poor Removal Act, 1864.
 
@@ -9412,8 +9404,6 @@ The Poor Persons Burial (Ireland) Act, 1866.
 
 The Burial (Ireland) Act, 1863
 
-}
-
 The Burial (Ireland) Acts, 1824 to 1863 .
 
 16 & 17 Vict. c. 137. -18 & 19 Vict. c. 124.
@@ -9618,7 +9608,7 @@ I The Purchase of Land (Ireland)')
 
 I Act, 1891.
 
-The Public Works Loans Act, 1892 | The Congested Districts Board (Ire-)land) Act, 1893.
+The Public Works Loans Act, 1892 | The Congested Districts Board (Ireland) Act, 1893.
 
 The Congested Districts Board (Ireland) Act, 1894.
 
@@ -11390,8 +11380,6 @@ The Medical Act, 1876 The Medical Act, 1886 -
 
 The Merchandise Marks Act, 1887 The Merchandise Marks Act, 1891 The Merchandise Marks (Prosecutions) Act, 1894.
 
-}
-
 The Merchandise Marks Acts, 1887 to 1894.
 
 The Metropolis Management Act, *l 1855.
@@ -11677,8 +11665,6 @@ Short Title.
 The Penal Servitude Act, 1853 The Peual Servitude Act, 1857 The Penal Servitude Act, 1864 The Peual Servitude Act, 1891 The Petroleum Act, 1871 - The Petroleum Act, 1879 -
 
 The Petroleum (Hawkers) Act, 1881
-
-}
 
 Collective Title.
 
@@ -14849,8 +14835,6 @@ Ch. 25.
 303
 
 L‘
-
->.
 
 I.
 
@@ -19236,8 +19220,6 @@ section fifteen of the Land Law (Ireland) Act, 1881, without 44 & 45 Vict. preju
 
 (6.) A person shall be a lessee or a grantee under a fee farm grant within the meaning of the said Acts, notwithstanding that the instrument under which he holds, though purporting
 
-(
-
 Ui
 
 Paht I.
@@ -20249,8 +20231,6 @@ Ch. 48.
 Clauses Acts, any matter which under those Acts may be deter- money
 
 mined by the verdict of a jury, by arbitration, or by two justices, andcompen-shall for the purposes of the order be referred to and determined by a single arbitrator appointed by the parties, or if the parties ° do not concur in the appointment of a single arbitrator then by the Board of Trade, and the provisions of this Act shall apply with respect to the determination of any such matter in lieu of those of the Lands Clauses Acts relating thereto. Provided that in determining the amount of compensation, the arbitrator shall have regard to the extent to which the remaining and contiguous lands
-
-/
 
 420
 

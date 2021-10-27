@@ -7782,8 +7782,6 @@ Plaoes
 
 at which Circuits are to be held.
 
--{
-
 Kirkintullock
 
 Helensburgh
@@ -7806,13 +7804,9 @@ r Mid Calder J Dalkeith " j Musselburgh \ Stowe
 
 Four Times. Six Times. Six Times. Two Times.
 
-{
-
 Fochabers Gran town Forres
 
 Three Times--Three Times. Six Times.
-
-{
 
 * {
 
@@ -7851,8 +7845,6 @@ r New Galloway J Maxwelltown j Castle Douglas V. Creetown
 - Four Times.
 
 - Three Times.
-
--{
 
 Biggar
 
@@ -11494,7 +11486,7 @@ C.79,
 
 343
 
-$XI.
+XI.
 
 j£S59, 827 0 0 109, 195 0 0
 
@@ -11613,8 +11605,6 @@ Allowances in ditto For disembodied Militia - For Ordnance Services for the Year
 For Salaries to the Civil Establishments of the Ordnance at the Totoer, Pall Mall, and Dublin.
 
 For the Civil Establishments at Woolwich, Out Stations in Ireland, and Foreign Stations, and Salaries to Barrack Masters in the United Kingdom and the Colonies.
-
-*)
 
 To
 
@@ -13062,7 +13052,7 @@ C.91.
 
 7° GUL. IV. & 1° VICT. A.D. 1837.
 
-$9 G. 8. e. 188. v 17.
+9 G. 8. e. 188. v 17.
 
 5 G. 4» c. 118.
 
@@ -13718,7 +13708,7 @@ An Act to enable the Durham and Sunderland Railway Company to alter a Part of th
 
 [Potcers of 5 W. 4. c. xcvi. (except as altered) extended to this Act,
 
-$10
+10
 
 Cap. lxviii.
 
@@ -14121,8 +14111,6 @@ An Act to alter and amend an Act of the Fourth Year of the Reign of His late Maj
 [12th July 1837.]
 
 [Potoers of 4 W. 4. c. xlv. (<except as altered) extended to this Act,
-
-!]
 
 Cap. cxv.
 
