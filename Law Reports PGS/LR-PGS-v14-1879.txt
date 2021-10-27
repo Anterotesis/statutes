@@ -2308,7 +2308,7 @@ c. 9. in part. An Act for continuing and amending several Laws heretofore made r
 
 c. 10. An Act the title of which begins with the words, — An Act for amending an Act intituled An Act for encouragement of Tillage, — and ends with the words, — out of this Kingdom for England.
 
-c. 12. in part. An Act for the more effectual Execution of Orders of the Courts of Justice for giving and quieting Possessions; and also for the more effectual bringing to Justice such Persons as shall enlist His Majesty’s Subjects to serve as Soldiers in Foreign Service without Licence. Except Section Four to “ Majesty’s courts.”
+c. 12. in part. An Act for the more effectual Execution of Orders of the Courts of Justice for giving and quieting Possessions; and also for the more effectual bringing to Justice such Persons as shall enlist His Majesty’s Subjects to serve as Soldiers in Foreign Service without Licence. Except Section Four toMajesty’s courts.”
 
 c. 14. An Act the title of which begins with the words, — An Act to explain and amend an Act passed in the Ninth Year of the Reign of His present Majesty, — and ends with the words, — Clerks of the Crown and Peace.
 
@@ -9740,7 +9740,7 @@ Evidence.
 
 156. The following enactments shall be made with respect to evidence in proceedings under this Act, whether before a civil court or a court-martial; that is to say,
 
-(a.) The attestation paper purporting to be signed by a person on his being attested as a soldier, or the declaration purporting to be made by any person upon his re-engage-ment in any of Her Majesty’s regular forces, or upon any enrolment in any branch of Her 'Majesty’s service, shall be evidence of such person having given the answers to questions which he is therein represented as having given:
+(a.) The attestation paper purporting to be signed by a person on his being attested as a soldier, or the declaration purporting to be made by any person upon his re-engage-ment in any of Her Majesty’s regular forces, or upon any enrolment in any branch of HerMajesty’s service, shall be evidence of such person having given the answers to questions which he is therein represented as having given:
 
 The enlistment of a person in Her Majesty’s service may be proved by the production of a copy of his attestation paper purporting to be certified to be a true copy by the officer having the custody of the attestation paper without proof of the handwriting of such officer, or of his having the custody of the paper:
 

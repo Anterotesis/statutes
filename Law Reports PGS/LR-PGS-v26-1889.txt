@@ -12846,9 +12846,9 @@ room or factory. room or factory.
 
 The general state of the temperature is
 
-, , humidity, ,
+, , humidity,
 
-, , ventilation, ,
+, , ventilation,
 
 The temperature was in excess of the prescribed maximum temperature on__________occasions.
 
