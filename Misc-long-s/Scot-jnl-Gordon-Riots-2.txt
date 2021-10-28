@@ -2146,25 +2146,25 @@ Age. N°
 
 Under a 8
 
-a 8c S 4
+a & S 4
 
 S & so 3
 
 10 & xo a
 
-so 8c 3° a
+so & 3° a
 
 30 & 40 X
 
-40 8c So 4
+40 & So 4
 
-50 8c 60 a
+50 & 60 a
 
-60 8c 70 3
+60 & 70 3
 
-70 8c 80 7
+70 & 80 7
 
-80 8c 90 I
+80 & 90 I
 
 ,90 & 100 I
 
@@ -4262,9 +4262,9 @@ Female* Ag e. Under 2 Sc S Sc so Sc xo
 
 30
 
-40 8c ‘jo
+40 & ‘jo
 
-60 Sc to 8c 80 8c
+60 Sc to & 80 8c
 
 2
 
@@ -5592,7 +5592,7 @@ rR. Ad. Roddam Capt. Orrok
 
 kR. A. Gambier Plymouth Capt. Milligen R Ad. Drake Downs Capt. Dennc ROYAL, YACHTS in commission. Tubbs 8 Hon. T. Percivai
 
-Will. 8c Mary 8 George Young
+Will. & Mary 8 George Young
 
 Dorict 8 Sir A. Schomberg
 
@@ -5668,7 +5668,7 @@ Store^ship
 
 ditto
 
-Royal Sovereign too Atlas Glory 8c George Warrior Bombay Caftk Ganges Carnatic IrreGAibie Goliah Caesar Bulwark Polyphennis>
+Royal Sovereign too Atlas Glory & George Warrior Bombay Caftk Ganges Carnatic IrreGAibie Goliah Caesar Bulwark Polyphennis>
 
 Diadem AnfoA Magnanime Standard Sampson Sceptre Crown Africa Dictator Stately Repulse Agamemnon Scipio Ardent
 
@@ -7194,7 +7194,7 @@ Then hot or cold, or black ot bright.
 
 Or fair or foul, hail, goddess Night;
 
-With this falutc 1*11 dole my lay.
+With this falute 1*11 dole my lay.
 
 For yonder dawns the blush of Day.
 
