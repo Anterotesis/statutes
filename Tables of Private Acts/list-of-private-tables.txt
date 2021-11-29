@@ -18,7 +18,7 @@
 1678-30-Charles-2-sess-1-Private.txt
 1679-31-Charles-2-Private.txt
 1680-32-Charles-2-Private.txt
-1685-1-James-2-Private
+1685-1-James-2-Private.txt
 1688-1-William-Mary-sess-1-Private.txt
 1688-1-William-Mary-sess-2-Private.txt
 1689-2-William-Mary-sess-1-Private.txt
@@ -33,6 +33,7 @@
 1726-13-George-1-Private.txt
 1728-1-George-2-Private.txt
 1730-3-George-2-Private.txt
+1736-9-George-2-Private.txt
 1738-11-George-2-Private.txt
 1739-12-George-2-Private.txt
 1740-13-George-2-Private.txt
@@ -65,6 +66,7 @@
 1841-4-5-Victoria-Private.txt
 1841-5-Victoria-Private.txt
 1850-13-14-Victoria-Private.txt
+1863-26-27-Victoria-Private.txt
 1864-27-28-Victoria-Private.txt
 1870-33-34-Victoria-Private.txt
 1880-43-Victoria-Private.txt
