@@ -186,7 +186,7 @@ An Act to authorise the appropriation of the surplus funds derived from Batterse
 
 [14 & 15 Vict. c. 77.]
 
-WHEREAS under section sixteen of an Act passed in the fourteenth and fifteenth years of the reign of Her late Majesty, chapter seventy-seven, intituled “An Act to alter and extend the powers of an Act of the ninth and tenth years of Her Majesty’s reign, intituled 'An Act to empower the Commissioners of Her Majesty’s Woods to form a Royal Park in Battersea Fields, in the county of Surrey, '” provision was made for the Creation of a surplus fund, derived from moneys payable under that Act, and for the accumulation of the said fund until it should be required for, and appropriated by Parliament to, the execution of improvements in the metropolis or its neighbourhood, and it is expedient to authorise the appropriation of that fund:
+WHEREAS under section sixteen of an Act passed in the fourteenth and fifteenth years of the reign of Her late Majesty, chapter seventy-seven, intituled “An Act to alter and extend the powers of an Act of the ninth and tenth years of Her Majesty’s reign, intituled 'An Act to empower the Commissioners of Her Majesty’s Woods to form a Royal Park in Battersea Fields, in the county of Surrey,'” provision was made for the Creation of a surplus fund, derived from moneys payable under that Act, and for the accumulation of the said fund until it should be required for, and appropriated by Parliament to, the execution of improvements in the metropolis or its neighbourhood, and it is expedient to authorise the appropriation of that fund:
 
 Be it therefore enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -656,7 +656,7 @@ allowance increased by* an amount which represents a yearly allowance equivalent
 
 1904. Savings Banks Act, 1904. Ch. 8. 15
 
-6. — (1) Notwithstanding anything in paragraph (i)' of section ten of the Savings Banks Act, 1891 (which limits the/ power of Trustee' Savings Banks to make special investments), the- Trustees of a Trustee Savings Bank may, on the recommendation of the Inspection Committee, and if authorised by the National Debt Commissioners, make special investments.
+6. — (1) Notwithstanding anything in paragraph (i) of section ten of the Savings Banks Act, 1891 (which limits the power of Trustee' Savings Banks to make special investments), the Trustees of a Trustee Savings Bank may, on the recommendation of the Inspection Committee, and if authorised by the National Debt Commissioners, make special investments.
 
 Before giving their authority under this section, the National Debt Commissioners shall be satisfied that the Bank is open daily and has an aggregate cash liability to its depositors, irrespective of the amount of any special investments, of not less than two hundred thousand pounds, and the National Debt Commissioners may withdraw their authority if at any time in their opinion either of these conditions is not for the time being complied with.
 
@@ -758,9 +758,9 @@ the same. Isle of Man.
 
 15. The enactments mentioned in the schedule to this Act are Repeal-hereby repealed to the extent specified in the third column of that scheuule.
 
-16. — (1) This Act may be cited as the Savings Banks Short title.
+[Short title.]
 
-Act, 1904.
+16. — (1) This Act may be cited as the Savings Banks Act, 1904.
 
 (2) This Act, so far as it relates to the Post Office Savings Bank, may be cited with the Post Office Swings Bank Acts,
 
@@ -1076,7 +1076,7 @@ Registrar of .
 
 CHAPTER 10.
 
-An Act to extend the provisions of the Wild Birds Protection Acts to the- Island of St. Kilda, excepting as regards certain Birds required for the support of the Inhabitants of the Island.
+An Act to extend the provisions of the Wild Birds Protection Acts to the Island of St. Kilda, excepting as regards certain Birds required for the support of the Inhabitants of the Island.
 
 [15th August 1904.]
 
@@ -1110,7 +1110,9 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 Victoria University of Manchester, or wherever any privilege or Eve^ool ° exemption has been or shall be given by any Act of Parliament or University, regulation of any public authority to graduates of the Universities of Oxford, Cambridge and London and the Victoria University of Manchester, graduates of the University of Liverpool, having the degree which would be a qualification if it had been granted by the University of Oxford, Cambridge or London or the Victoria University of Manchester, may become candidates for and may hold any such office and shall be entitled to all such privileges as fully as graduates of any of the last-mentioned universities.
 
-2. This Act may be cited as the University of Liverpool Short title. Act, 1904.
+[Short title.]
+
+2. This Act may be cited as the University of Liverpool Act, 1904.
 
 CHAPTER 12.
 
@@ -1132,11 +1134,13 @@ Ch. 12, 13.
 
 Cambridge and London and the Victoria University of Manchester, graduates of the University of Leeds, having the degree which would be a qualification if it had been granted by the University of Oxford, Cambridge or London or the Victoria University of Manchester, may become candidates for and may hold any such office and shall be entitled to all such privileges as fully as graduates of any of the last-mentioned universities.
 
-Short title. 2. This Act may be cited as the Leeds University Act, 1904.
+[Short title.]
+
+2. This Act may be cited as the Leeds University Act, 1904.
 
 CHAPTER 13.
 
-.An Act to provide for the Adjustment, in accordance with changes of boundary effected under the London Government Act, 1899, of the Areas within w iich Local Authorities and Companies are authorised to supply Electricity.
+An Act to provide for the Adjustment, in accordance with changes of boundary effected under the London Government Act, 1899, of the Areas within which Local Authorities and Companies are authorised to supply Electricity.
 
 [15th August 1904.]
 
@@ -1152,7 +1156,7 @@ Adjustment of L Where by reason of any alteration of boundary under the area of 
 
 to and become part of the area of supply of the council of the borough in which the transferred area has become situated, if that council are authorised to supply electricity within the borough, or, if that council are not so authorised, of any company so authorised, but only if the area of supply of that council or company adjoins the transferred area.
 
-Adjustment of 2. Where by reason of any alteration of boundary under the area of supply London Government Act, 1899, any area, being part of the area compete?, &C. of supply of a company authorised to supply electricity, or being and localautho- an area in which no authority or company are authorised to rities. supply electricity, has become situate within a borough in which.
+Adjustment of 2. Where by reason of any alteration of boundary under the area of supply London Government Act, 1899, any area, being part of the area compete?, &C. of supply of a company authorised to supply electricity, or being and local autho- an area in which no authority or company are authorised to rities. supply electricity, has become situate within a borough in which.
 
 1904.
 
@@ -1272,11 +1276,7 @@ Abolition of cumulative commissions on money orders.
 
 43 & 44 Vict. c. 33.
 
-Use of
-
-embossed
-
-stamps.
+Use of embossed stamps.
 
 33 & 34 Vict. c. 79.
 
@@ -1338,7 +1338,7 @@ Restrictions on Employment of Children.
 
 (a) causes or procures any child, being a boy under the age of fourteen years, or being a girl under the age of sixteen years, or, having the custody, charge or care of any such child, allows that child to be in any street, premises or place for the purpose of begging or receiving alms, or of inducing the giving of alms, whether under the pretence of singing, playing, performing, offering anything for sale, or otherwise; or
 
-(h) causes or procures any child, being a boy under the age of fourteen years, or being a girl under the age of sixteen years, or, having the custody, charge or care of any such child, allows that child to be in any street or in any premises licensed for the sale of
+(b) causes or procures any child, being a boy under the age of fourteen years, or being a girl under the age of sixteen years, or, having the custody, charge or care of any such child, allows that child to be in any street or in any premises licensed for the sale of
 
 C
 
@@ -1432,13 +1432,9 @@ Arrest of Offender and Provision for Safely of Children.
 
 4. — (1) Any constable may take into custody, without warrant, any person —
 
-(a) who within view of such constable commits an offence
+(a) who within view of such constable commits an offence under this Act, or any of the offences mentioned in the First Schedule to this Act, where the name and residence of such person are unknown to such constable and cannot be ascertained by such constable; or
 
-under this Act, or any of the offences mentioned in the First Schedule to this Act, where the name and residence of such person are unknown to such constable and cannot be ascertained by such constable; or
-
-(b) who has committed, or who he has reason to believe has
-
-committed, any offence of cruelty within the meaning of this Act, or any of the offences mentioned in the First Schedule to this Act, if he has reasonable ground for believing that such person will abscond, or if the name and address of such person are unknown to and cannot be ascertained by the constable.
+(b) who has committed, or who he has reason to believe has committed, any offence of cruelty within the meaning of this Act, or any of the offences mentioned in the First Schedule to this Act, if he has reasonable ground for believing that such person will abscond, or if the name and address of such person are unknown to and cannot be ascertained by the constable.
 
 (2) Where a constable arrests any person without warrant in pursuance of this section, the inspector or constable in charge of the station to which such person is conveyed shall, unless in his belief the release of such person on bail would tend to defeat the ends of justice, or to cause injury or danger to the child against whom the offence is alleged to have been committed, release the person arrested on his entering into such a recognizance, with or without sureties, as may in his judgment be required to secure the attendance of such person upon the hearing of the charge.
 
@@ -1474,7 +1470,7 @@ of chi!d "ken under this Act shall, whilst the order is in force, have the like 
 
 person under responsible for its maintenance, and the child shall continue in order of court, the custody of such person, notwithstanding that it is claimed by its parent.
 
-85 & 36 Vict, e, 65.
+35 & 36 Vict, e, 65.
 
 (2) Any court having power so to commit a child shall have power to make the like orders on the parent of the child to contribute to its maintenance during such period as aforesaid as if the child were detained under the Industrial Schools Acts; but the limit on the amount of the weekly sum which the parent of a child may be required, under this section, to contribute to its maintenance shall be one pound a week, instead of the limit fixed by the Industrial Schools Acts.
 
@@ -1486,7 +1482,7 @@ person under responsible for its maintenance, and the child shall continue in or
 
 (6) Any court making an order under this section for contribution by a parent may, in any case where there is any pension or income payable to such parent and capable of being attached, after giving the person by whom the pension or income is payable an opportunity of being heard, further order that such part, as the
 
-1904. Prevention of Cruelly to Children Act, 1904. Ch. 15. 39
+1904. Prevention of Cruelty to Children Act, 1904. Ch. 15. 39
 
 court may see fit, of the pension or income be attached and be paid to the person named by the court. Such further order shall be an ' authority to the person, authority or body, by whom such pension or other income is payable, to make the payment herein stated, and the receipt of the payee shall be a good discharge to such person, authority or body.
 
@@ -1514,11 +1510,7 @@ Prevention of Cruelty to Children Act, 1904. 4 Edw. 7.
 
 Warrant to search for or remove a child.
 
-Power as to
-
-habitual
-
-drunkards.
+Power as to habitual drunkards.
 
 10. — (1) If it appears to any stipendiary magistrate or to any two justices of the peace, on information made before him or them on oath by any person who, in the opinion of the magistrate or justices, is bona fide acting in the interests of a child under the age of sixteen years, that there is reasonable cause to suspect that such a child has been or is being assaulted, ill-treated or neglected in any place within the jurisdiction of such magistrate or justices, in a manner likely to cause the child unnecessary suffering or to be injurious to its health, or that any offence mentioned in the First Schedule to this Act has been or is being committed in respect of such a child, such magistrate or justices may issue a warrant authorising any person named therein to search for such child and, if it is found to have been or to be assaulted, ill-treated or neglected in manner aforesaid, or that any such offence as aforesaid has been or is being committed in respect of the child, to take it to and detain it in a place of safety, until it can be brought before a court of summary jurisdiction, or authorising any person to remove the child with or without search to a place of safety and detain it there until it can be brought before a court of summary jurisdiction; and the court before whom the child is brought may cause it to be dealt with in the manner provided by section five of this Act:
 
@@ -1538,27 +1530,15 @@ Power as to Habitual Drunkards.
 
 11. Where it appears to the court by or before which any person is convicted of the offence of cruelty within the meaning of
 
-1904.
-
-Prevention of Cruelty to Children Act, 1904.
-
-Ch. 15.
-
-41
+1904. Prevention of Cruelty to Children Act, 1904. Ch. 15. 41
 
 this Act, or of any of the offences mentioned in the First Schedule to this Act, that that person is a parent of the child in respect of whom the offence was committed, or is living with the parent of the child, and is an habitual drunkard within the meaning of the Inebriates Acts, 1879 and 1888, the court, in lieu of sentencing such person to imprisonment, may, if it thinks fit, make an order for his detention for any period named in the order, not exceeding twelve months, in a retreat under the said Acts, the licensee of which is willing to receive him, and the said order shall have the like effect, and copies thereof shall be sent to the local authority and Secretary of State in like manner, as if it were an application duly made by such person and duly attested by two justices under the said Acts; and the court may order an officer of the court or constable to remove such person to the retreat, and on his reception the said Acts shall have effect as if he had been admitted in pursuance of an application so made and attested as aforesaid:Provided that —
 
-(a) an order for the detention of a person in a retreat shall not
+(a) an order for the detention of a person in a retreat shall not be made under this section unless that person, having had such notice as the court deems sufficient of the intention to allege habitual drunkenness, consents to the order being made; and
 
-be made under this section unless that person, having had such notice as the court deems sufficient of the intention to allege habitual drunkenness, consents to the order being made; and
+(b) if the wife or husband of such person, being present at the hearing of the charge, objects to the order being made, the court shall, before making the order, take into consideration any representation made to it by the wife or husband; and
 
-(b) if the wife or husband of such person, being present at the
-
-hearing of the charge, objects to the order being made, the court shall, before making the order, take into consideration any representation made to it by the wife or husband; and
-
-(c) before making the order the court shall, to such extent as
-
-it may deem reasonably sufficient, be satisfied that provision will be made for defraying the expenses of such person during detention in a retreat.
+(c) before making the order the court shall, to such extent as it may deem reasonably sufficient, be satisfied that provision will be made for defraying the expenses of such person during detention in a retreat.
 
 Evidence and Procedure.
 
@@ -1598,7 +1578,7 @@ Evidence of child of tender years..
 
 (b)in any other case to the clerk of the peace of the county or borough in which the deposition has been taken;
 
-and the clerk of the peace to whom any such deposition is trans -mitted shall preserve, file and record the same.
+and the clerk of the peace to whom any such deposition is transmitted shall preserve, file and record the same.
 
 14. Where, on the trial of any person on indictment for any offence of cruelty within the meaning of this Act, or any of the offences mentioned in the First Schedule to this Act, the court is satisfied by the evidence of a registered medical practitioner that the attendance before the court of any child in respect of whom the offence is alleged to have been committed would involve serious danger to its life or health, any deposition of the child taken under the Indictable Offences Aet, 1848, or the Petty Sessions (Ireland) Act, 1851, or this Act, shall be admissible in evidence either for or against the accused person without further proof thereof —
 
@@ -3050,7 +3030,9 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 1. This Act may be cited as the Railways (Private Sidings) Act, 1904.
 
-Facilities with . 2. The reasonable facilities which every railway company is
+Facilities with
+
+2. The reasonable facilities which every railway company is
 
 vate^din s"' re<lu^red to afford under section two of the Railway and Canal 17 a/isVict. Traffic Act, 1854, as amended or explained by any other Act, shall c. 3i. include reasonable facilities for the junction of private sidings
 
@@ -3058,13 +3040,13 @@ or private branch railways with any railway belonging to or worked by any such c
 
 border under 3. The Railway and Canal Commissioners: may at any time the°Act.U er review and rescind or vary any order made by them under this Act on the application of any party to the order, but, before such an application is entertained by the Commissioners, the applicant shall show to the Commissioners, in manner provided by rules to 5125 52 Vict‘ he made for the purpose under, section twenty of the Railway and c’ Canal Traffic Act, 1888, that there is a prima facie case for the
 
-application. - .
+application.
 
 1904
 
-Poor Law Authorities (Tram/er of Ch. 2(X C7
+Ch. 2(X C7
 
-Property) Act, 1904.
+Poor Law Authorities (Transfer of Property) Act, 1904.
 
 CHAPTER 20.
 
@@ -3076,7 +3058,9 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 1. The board of guardians of any poor law union, which has Dissolution been dissolved or added to another poor law union, and the board authorities^ of management, acting for any school district or asylum district dissolution of which has been dissolved or the component parts of which have districts, been formed into one poor law union, shall, by virtue of this Act, be dissolved, or, in the case of poor law unions or districts so dealt with before the passing of this Act, shall be deemed -to have been so dissolved as from the date of such dissolution, addition or formation.
 
-2. — (1) Where any board of guardians or board of manage- Transfer of ment have been, or, by virtue of this Act, are to be deemed to have been, so dissolved, their property and liabilities shall vest in the authority. successors of that board or shall be deemed to have so vested as from the date of the dissolution, and no deed, conveyance or other instrument and no authority of any court shall be, or shall be deemed to have been, requisite for the purpose.
+[Transfer of 
+
+2. — (1) Where any board of guardians or board of management have been, or, by virtue of this Act, are to be deemed to have been, so dissolved, their property and liabilities shall vest in the authority. successors of that board or shall be deemed to have so vested as from the date of the dissolution, and no deed, conveyance or other instrument and no authority of any court shall be, or shall be deemed to have been, requisite for the purpose.
 
 (2) Where at the date of any such dissolution any stock is standing in the books of any company in the name of the board of guardians or board of management, then, upon the request of the successors of that board and the production of a statutory declaration verifying the stock and the identity of the persons making the request, together with a certificate by the Local Government Board, verifying the succession, the company shall enter the stock as occasion requires in the names of the persons specified in that behalf in the statutory declaration, in like manner as if the stock had been transferred to them, and pay to them all dividends accrued and to accrue due thereon and do all things necessary for effecting the purposes of this section.
 
@@ -3104,9 +3088,9 @@ may by a general or a particular order make such provision as the Local Governme
 
 “The successors of the board” means the persons or the survivors of the persons acting as members of the board at the time of the dissolution and any persons who may be added to or substituted for those persons by an order of the Local Government Board:
 
-“ Company ” includes the Bank of England and any company or person keeping books in which stock is registered:
+“Company” includes the Bank of England and any company or person keeping books in which stock is registered:
 
-“ Stock ” includes any share, annuity or other security.
+“Stock” includes any share, annuity or other security.
 
 5. — (1) This Act shall not extend to Ireland.
 
@@ -3130,7 +3114,9 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 Consolidated Fund of the United Kingdom or the growing produce thereof.
 
-2. This Act uiav be cited as the Capital Expenditure (Money) Short title. Act, 1904.
+[Short title.]
+
+2. This Act may be cited as the Capital Expenditure (Money) Act, 1904.
 
 CHAPTER 22.
 
@@ -3154,9 +3140,9 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 trust deed or other security executed or given in accordance with that agreement for the repayment of the Cunard loan, or on any instrument executed for the purpose of carrying out any provision of that agreement, nor shall any fees be payable under section three of the Merchant Shipping (Mercantile Marine Fund) Act, 1898, in respect of the mortgage or transfer of the mortgage of any ships for the purposes of the Cunard Agreement.
 
-Short title. 3. This Act may be cited as the Cunard Agreement (Money)
+[Short title.]
 
-Act, 1904.
+3. This Act may be cited as the Cunard Agreement (Money) Act, 1904.
 
 CHAPTER 23.
 
@@ -3190,7 +3176,7 @@ C e. 23.
 
 1904.
 
-2. — (1) Where quairter sessions refuse the renewal of an existing on licence und^r this Act, a sura equal to the difference - between the value of the licensed premises (calculated as if the licence were subject to the same conditions of renewal as were applicable immediately before the passing of this Act and including in that value the amount of any depreciation of trade fixtures arising by reason of the refusal to renew the licence) and the value which those premises would bear if they were not licensed premises, shall be paid as compensation to the persons interested in the licensed premises.
+2. — (1) Where quarter sessions refuse the renewal of an existing on licence under this Act, a sum equal to the difference between the value of the licensed premises (calculated as if the licence were subject to the same conditions of renewal as were applicable immediately before the passing of this Act and including in that value the amount of any depreciation of trade fixtures arising by reason of the refusal to renew the licence) and the value which those premises would bear if they were not licensed premises, shall be paid as compensation to the persons interested in the licensed premises.
 
 (2) The amount to be so paid shall, if an amount is agreed upon by the persons appearing to quarter sessions to be interested in the licensed premises and is approved by quarter sessions, be that amount, and in default of such agreement and approval shall be determined by the Commissioners of Inland Revenue in the same manner and subject to the like appeal to the High Court as on the valuation of an estate for the purpose of estate duty, and in any event the amount shall be divided amongst the persons interested in the licensed premises (including the holder of the licence) in such shares as may be determined by quarter sessions:
 
@@ -3232,9 +3218,7 @@ new licences, confirm new licences, and any other power of that committee shall 
 
 regard to proper provision for suitable premises and good management, the justices think best adapted for securing to the public any monopoly value which is represented by the difference between the value which the premises will bear, in the opinion of the justices, when licensed and the value of the same premises if they were not licensed: Provided that, in estimating the value as licensed premises of hotels or other premises where the profits are not wholly derived from the sale of intoxicating liquor, no increased value arising from profits not so derived shall be taken into consideration:
 
-(b) The amount of any payments imposed under conditions
-
-attached in pursuance of this section shall not exceed the amount thus required to secure the monopoly value.
+(b) The amount of any payments imposed under conditions attached in pursuance of this section shall not exceed the amount thus required to secure the monopoly value.
 
 (3) The justices may, if they think fit, instead of granting a new on licence as an annual licence, grant the licence for a term
 
@@ -3276,7 +3260,7 @@ Licensing Act, 1904
 
 4 Edw. 7.
 
-35 & 36 Vict. <; . 94.
+35 & 36 Vict. c. 94.
 
 Bales.
 
@@ -3350,7 +3334,7 @@ Licensing Act, 1904. 4 Edw. 7.
 
 9 Geo. 4. c. 61.
 
-Short title, con* struction and commencement.
+Short title, construction and commencement.
 
 Section 3.
 
@@ -3554,7 +3538,9 @@ rent or royalty.
 
 (3) It shall be lawful for the Postmaster-General, due regard being had to the maintenance and exercise of effective control over wireless telegraphy, to grant special licences at reduced terms for the establishment and working, of wireless telegraph stations, to be used exclusively for the transmission within the United Kingdom of news to public registered newspapers. A schedule of all reduced rents or royalties imposed by any special licences shall be laid before both Houses of Parliament Within fourteen days of the commencement of the session next1 succeeding the grant of any such licences.
 
-3. — (1) This Act may be cited as the Wireless Telegraphy Short title and Act, 1904, and may be cited with the Telegraph Acts, 1863 to extent.
+[Short title. and *]
+
+3. — (1) This Act may be cited as the Wireless Telegraphy Act, 1904, and may be cited with the Telegraph Acts, 1863 to extent.
 
 1904.
 
@@ -3564,7 +3550,7 @@ rent or royalty.
 
 (4) A person shall not work any apparatus for wireless
 
-telegraphy installed on a foreign ship whilst -that ship is in territorial waters, otherwise than in accordance with regulations made in that behalf by the Postmaster-General, and the Postmaster-General may, by any such regulations, impose penalties recoverable summarily for the breach of any such regulations, not exceeding ten pounds for each offence, and may provide fot* the forfeiture on any such breach of any apparatus for Wireless telegraphy installed or worked on such ship. Save as afdi^said, nothing in this Act shall apply to the working of apparkttfs fot wirfeless telegraphy installed oh any foreign ship. < < 0
+telegraphy installed on a foreign ship whilst -that ship is in territorial waters, otherwise than in accordance with regulations made in that behalf by the Postmaster-General, and the Postmaster-General may, by any such regulations, impose penalties recoverable summarily for the breach of any such regulations, not exceeding ten pounds for each offence, and may provide fot* the forfeiture on any such breach of any apparatus for Wireless telegraphy installed or worked on such ship. Save as afdi^said, nothing in this Act shall apply to the working of apparkttfs fot wirfeless telegraphy installed oh any foreign ship.
 
 80 Ch. 24, 25. Wireless Telegraphy Act, 1904. 4 Edw. 7.
 
@@ -3614,7 +3600,9 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 nineteen hundred and four, until the first day of August, nineteen hundred and five.
 
-3. This Act may be cited as the Isle of Man (Customs) Short title. Act, 1904.
+[Short title.]
+
+3. This Act may be cited as the Isle of Man (Customs) Act, 1904.
 
 CHAPTER 26.
 
@@ -3626,7 +3614,9 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 1. In section one of the Indian Councils Act, 1874, the Repeal of words “who shall be called the member of council for public works purposes” and in section two of the same Act the words 91> lc' “ for public works purposes ” are hereby repealed.
 
-2. This Act may be cited as the Indian Councils Act, 1904. Short title.
+[Short title.]
+
+2. This Act may be cited as the Indian Councils Act, 1904.
 
 CHAPTER 27.
 
@@ -3634,25 +3624,25 @@ An Act to authorise the transfer to the Secretary for Scotland of certain powers
 
 [15th August 1904.]
 
-BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and ' Temporal, and Commons, in this present Parliament assembled and by the authority of the same, as follows:
+BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled and by the authority of the same, as follows:
 
 1. — (1) The Secretary of State may, with the concurrence of Oners tot the Treasury and the Secretary for Scotland, make orders transferring to, or making exerciseable by, the Secretary for Scotland Scotland all or any of the powers and duties of the Secretary of State certain powers under any of the Acts, general or local, relating to reformatory ^JnStoL and industrial schools, so far as those powers and duties relate and industrial to or are exerciseable in Scotland. schools.
 
-(2) Orders made under this section shall be forthwith laid before Parliament, and the Rules Publication Act, 1893, shall, not- 56 & 57 Vict, withstanding subsection five of section one of that Act, apply to 66* them as statutory rules, and publication in the Eiinburgh Gazette of the notice required by the said section one shall be requisite In addition to publication in the London Gazette.
+(2) Orders made under this section shall be forthwith laid before Parliament, and the Rules Publication Act, 1893, shall, not- 56 & 57 Vict, withstanding subsection five of section one of that Act, apply to 66* them as statutory rules, and publication in the Edinburgh Gazette of the notice required by the said section one shall be requisite In addition to publication in the London Gazette.
 
-2. This Act may be cited as the Secretary for Scotland Act, Short titia-1904, and may be cited with the Secretary for Scotland Acts,
+[Short title.]
 
-, 1885 to 1889.
+2. This Act may be cited as the Secretary for Scotland Act, 1904, and may be cited with the Secretary for Scotland Acts, 1885 to 1889.
 
 F
 
 Weights and Measures, 1904.
 
-4 Ei>w. 7.
+4 Edw. 7.
 
 82
 
-Cff. 28.
+Ch. 28.
 
 CHAPTER 28.
 
@@ -3664,19 +3654,19 @@ WHEREAS it is expedient to amend the Weights and Measures Acts, 1878 and 1889:
 
 Be it therefore enacted by the King’s most Excellent Majesty", by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-short title. 1. This Act may be cited as the Weights and Measures
+[Short title.]
 
-Act, 1904.
+1. This Act may be cited as the Weights and Measures Act, 1904.
 
 Construction. 2. This Act shall be construed as one with the Weights and
 
-4i & 42 Vict. Measures Acts, 1878 and 1889, and the Weights and Measures-c. 49. Acts, 1878 to 1897, and this Act may be cited collectively as the
+41 & 42 Vict. Measures Acts, 1878 and 1889, and the Weights and Measures-c. 49. Acts, 1878 to 1897, and this Act may be cited collectively as the
 
 c22L.5 Vict Weights and Measures Acts, 1878 to 1904.
 
 Definitions. 3. In this Act, unless the context otherwise requires —
 
-. ' The expression “the Weights and Measures Acts” means
+The expression “the Weights and Measures Acts” means
 
 the Weights and Measures Acts, 1878 and 1889, and this Act:
 
@@ -3684,9 +3674,9 @@ The expression "the principal Act” means the Weights and Measures Act, 1878:
 
 The expression “the Act of 1889” means the Weights and Measures Act, 1889.
 
-Commence- 4* This Act shall come into operation on the first day of
+[Commencement.]
 
-ment* January one thousand nine hundred and five.
+4* This Act shall come into operation on the first day of January one thousand nine hundred and five.
 
 Powers of 5. — (1) The Board of Trade may make general regulations
 
@@ -3842,7 +3832,9 @@ Be it therefore enacted by the King’s most Excellent Majesty, by and with the 
 
 (2) Any unrepealed enactments amending or affecting the enactments continued by this Act shall, in so far as they are temporary in their duration, be continued in like manner, whether they are mentioned in the Schedule to this Act or not.
 
-2. This Act may be cited as the Expiring Laws Continuance Short title. Act, 1904.
+[Short title.]
+
+2. This Act may be cited as the Expiring Laws Continuance Act, 1904.
 
 SCHEDULE.
 
@@ -4348,9 +4340,11 @@ Be it therefore enacted by the King’s most Excellent Majesty, by and with the 
 
 to His Majesty necessary or proper for carrying into effect that Convention.
 
-. .(2) Any sums payable by way of . indemnity under the said Convention and any expenses to be incurred in carrying it into effect shall be defrayed out of moneys provided by Parliament
+(2) Any sums payable by way of . indemnity under the said Convention and any expenses to be incurred in carrying it into effect shall be defrayed out of moneys provided by Parliament
 
-2. This Act may be cited as the Anglo-French Convention Short title. Act, 1904.
+[Short title.]
+
+2. This Act may be cited as the Anglo-French Convention Act, 1904.
 
 Anglo-French Convention , 1904. 4 Edw. 7.
 
@@ -4546,7 +4540,9 @@ section twenty-three of the Peterhead Harbour of Refuge Act, 49 & 50 Vict.
 
 1886, are hereby repealed. c- 49-
 
-2. This Act may be cited as the Prisons (Scotland) Act, 1904, Short title, and this Act and the Prisons (Scotland) Acts, 1860 to 1887, may be cited as the Prisons (Scotland) Acts, 1860 to 1904.
+[Short title.]
+
+2. This Act may be cited as the Prisons (Scotland) Act, 1904, and this Act and the Prisons (Scotland) Acts, 1860 to 1887, may be cited as the Prisons (Scotland) Acts, 1860 to 1904.
 
 CHAPTER 36.
 
