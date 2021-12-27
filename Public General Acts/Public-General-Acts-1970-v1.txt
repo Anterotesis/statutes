@@ -3660,7 +3660,7 @@ and
 
 so, however, that in the case of tax becoming due and payable before 19th April 1967, paragraph (b) above has effect with die substitution of “ £1 ” for “ £5
 
-(4) Interest shall not be deemed to have begun to run under this seotion from any date before 1st January 1948.
+(4) Interest shall not be deemed to have begun to run under this section from any date before 1st January 1948.
 
 87. —(1) Any tax assessable in accordance with Schedule 9 to the principal Act shall carry interest at the prescribed rate from the date when the tax becomes due and payable until payment 2
 
@@ -5582,7 +5582,7 @@ and accordingly, where this subsection applies, the amount of the tax chargeable
 
 Provided that this subsection shall not operate so as to make the tax payable by an individual for a year of assessment higher than it would have been if the double taxation relief had not been available.
 
-(4) In subsection (3) above “ income eligible for double taxation relief” means any dividends, interest, royalties or other profits which are chargeable to income tax but in respect of which relief (other than credit) is available under an Order in Council under section 497 of this Act (double taxation agreements), or under seotion 31 of the Finance Act 1966 (Iran- 1966 c. 18. sitory provisions for company dividends paid to non-residents),
+(4) In subsection (3) above “ income eligible for double taxation relief” means any dividends, interest, royalties or other profits which are chargeable to income tax but in respect of which relief (other than credit) is available under an Order in Council under section 497 of this Act (double taxation agreements), or under section 31 of the Finance Act 1966 (Iran- 1966 c. 18. sitory provisions for company dividends paid to non-residents),
 
 so as to limit the rate of income tax so chargeable (but not so as to confer an exemption and make it income which is not subject to income tax charged in the United Kingdom). 5
 
@@ -9916,7 +9916,7 @@ deriving from an acquisition if, without that acquisition, the whole interest co
 
 165,—(1) There shall be exempt from tax chargeable under Exemption Case VII a gain accruing from the acquisition and disposal of for chattels an asset which is tangible movable property if the amount or I?1™?* lesa value of the consideration for the disposal does not exceed marginal’ £1,000; and the amount of income tax (including surtax) charge- relief, able under that Case in respect of a gain accruing from the acquisition and disposal of any such asset for a consideration exceeding £1,000 shall not exceed half the difference between that consideration and £1,000.
 
-Subject to seotion 529 of this Act, the amount of the gain on which income tax is so chargeable shall be deemed for the purposes of this subsection to be the highest part of the income of the person charged for the year of assessment in question.
+Subject to section 529 of this Act, the amount of the gain on which income tax is so chargeable shall be deemed for the purposes of this subsection to be the highest part of the income of the person charged for the year of assessment in question.
 
 (2) Subsection (1) above shall not affect subsection (4) of section 160 of this Act (Case VII losses), but, for the purposes of the said subsection (4), the consideration for the disposal of any asset which is tangible movable property shall, if less than £1,000 be deemed to be £1,000, and losses allowable under that subsection shall be restricted accordingly.
 
@@ -15796,7 +15796,7 @@ Provided that there shall be deducted from the amount treated as expenses of man
 
 (1) above, together with any charges on income paid in the accounting period wholly and exclusively for purposes of the company's business, exceed the amount of the profits from which they are deductible, the excess shall be carried forward to the succeeding accounting period; and the amount so carried forward shall be treated for purposes of this section, including any further application of this subsection, as if it had been disbursed as expenses of management for that accounting period.
 
-(3) For the purposes of subsections (1) and (2) above, there shall be added to a company's expenses of management in any accounting period the amount of any allowances falling to be made to the company for that period by virtue of section 306 below, in so far as effect cannot be given to diem under subsection (2) of that seotion.
+(3) For the purposes of subsections (1) and (2) above, there shall be added to a company's expenses of management in any accounting period the amount of any allowances falling to be made to the company for that period by virtue of section 306 below, in so far as effect cannot be given to diem under subsection (2) of that section.
 
 (4) Where an appeal against an assessment to corporation tax or against a decision on a claim under section 254 of this Act (set off of losses etc. against franked investment income) relates exclusively to the relief to be given under subsection (1) above, the appeal shall lie to the Special Commissioners, and if and so far as the question in dispute on any such appeal which does not lie to die Special Commissioners relates to that relief, that question shall, instead of being determined on the appeal,
 
@@ -15812,7 +15812,7 @@ Part XII be referred to and determined by the Special Commissioners, Chapter I a
 
 1970 c. 9. reference were an appeal. (5) In this section “ investment company ” means any company whose business consists wholly or mainly in the making of investments and the principal part of whose income is derived therefrom, but includes any savings bank or other bank for savings.
 
-Expenses of management of insurance companies. 305.—(1) Subject to the provisions of this seotion and of section 307 below, section 304 above shall apply for computing the profits of a company carrying on life assurance business, whether mutual or proprietary, (and not charged to corporation tax in respect of it under Case I of Schedule D), whether or not the company is resident in the United Kingdom, as that section applies in relation to an investment company except that— (a) there shall be deducted from the amount treated as expenses of management for any accounting period the amount of any fines, fees or profits arising from reversions, and (b) no deduction shall be made under the proviso to subsection (1) of section 304 above.
+Expenses of management of insurance companies. 305.—(1) Subject to the provisions of this section and of section 307 below, section 304 above shall apply for computing the profits of a company carrying on life assurance business, whether mutual or proprietary, (and not charged to corporation tax in respect of it under Case I of Schedule D), whether or not the company is resident in the United Kingdom, as that section applies in relation to an investment company except that— (a) there shall be deducted from the amount treated as expenses of management for any accounting period the amount of any fines, fees or profits arising from reversions, and (b) no deduction shall be made under the proviso to subsection (1) of section 304 above.
 
 1965 c. 25. (2) Relief in respect of management expenses shall not be given to any such company, whether under section 254 of this Act or under subsection (1) above, so far as it would, if given in addition to all other reliefs to which the company is entitled, reduce the income tax and corporation tax borne by the company on the income and gains of its life assurance business for any accounting period to less than would have been paid if the company had been charged to tax in respect of that business under Case I of Schedule D; and where relief has been withheld in respect of any accounting period by virtue of this subsection, the excess to be carried forward by virtue of section 304(2) above shall be increased accordingly. The reference in paragraph 2(1) of Schedule 6 to the Finance Act 1965 (computation of chargeable gains: exclusion of sums taken into account in computing income) to computing income or profits or gains or losses shall not be taken as applying to a computation of a company’s income for the purposes of this subsection. (3) In subsection (2) above “ life assurance business ” includes the business of granting annuities on human life.
 
@@ -23180,7 +23180,7 @@ purposes of this section as made for that period of one year beginning with the 
 
 (b) where that period is less than 200 years, a lease which is of the same duration as that period.
 
-(10) In this section references to rent under a lease include references to rent which the person entitled to the lease is under subsection (2) or (3) of seotion 83, or under section 134, of this Act (allowance to person paying a premium taxed as income) treated, for any purpose, as paying in respect of land comprised in the lease, and such rent shall be treated for the purposes of this section as having been paid from day to day as it has become due.
+(10) In this section references to rent under a lease include references to rent which the person entitled to the lease is under subsection (2) or (3) of section 83, or under section 134, of this Act (allowance to person paying a premium taxed as income) treated, for any purpose, as paying in respect of land comprised in the lease, and such rent shall be treated for the purposes of this section as having been paid from day to day as it has become due.
 
 Part XVII
 

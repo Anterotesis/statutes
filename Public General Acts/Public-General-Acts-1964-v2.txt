@@ -820,9 +820,9 @@ subsection) should be further raised. Her Majesty may by Order in Council direct
 
 2. The principal Act shall not apply to any hire-purchase agreement or credit-sale agreement which is made by or on behalf of a body corporate (whether incorporated in the United Kingdom or elsewhere) as the hirer or buyer of the goods to which the agreement relates.
 
-3. —(1) The requirements specified in seotion 2(2) of the principal Act (which specifies requirements relating to hire-purchase agreements) and the requirements specified in section 3(2) of that Act (which specifies requirements relating to credit-sale agreements) shall apply to the hire-purchase agreement or credit-sale agreement, as the case may be, and not to a note or memorandum of such an agreement; and accordingly—
+3. —(1) The requirements specified in section 2(2) of the principal Act (which specifies requirements relating to hire-purchase agreements) and the requirements specified in section 3(2) of that Act (which specifies requirements relating to credit-sale agreements) shall apply to the hire-purchase agreement or credit-sale agreement, as the case may be, and not to a note or memorandum of such an agreement; and accordingly—
 
-ia) in paragraph (a) of the said section 2(2) and in paragraph (a) of the said seotion 3(2) (which in each case requires that a note or memorandum of the agreement shall be made and signed by the hirer or buyer, as the case may be, and by or on behalf of all other parties to the agreement), for the words “a note or memorandum of the agreement is made and ”, there shall be substituted the words “ the agreement is ”, and
+ia) in paragraph (a) of the said section 2(2) and in paragraph (a) of the said section 3(2) (which in each case requires that a note or memorandum of the agreement shall be made and signed by the hirer or buyer, as the case may be, and by or on behalf of all other parties to the agreement), for the words “a note or memorandum of the agreement is made and ”, there shall be substituted the words “ the agreement is ”, and
 
 (b) in paragraphs ib) to id) of the said section 2(2) and in paragraphs (b) and (c) of the said section 3(2), for the words “ note or memorandum ”, in each place where they occur, there shall be substituted the word “agreement ”
 
@@ -5026,7 +5026,7 @@ Provided that where the tenant has contributed to the cost incurred by the landl
 
 Provided that where the tenant has contributed to the cost incurred by the landlord in carrying out the improvement, the increase in rent provided for by the said section 8 shall be reduced proportionately.
 
-(2) Any works carried out in compliance with an immediate improvement notice or a final improvement notice or an undertaking accepted under this Part of this Act shall be included among the improvements specified in paragraph 18 of Schedule 1 to the Agricultural Holdings (Scotland) Act 1949 (tenant’s right to compensation for erection, alteration or enlargement of buildings), but subject to the power conferred by seotion 79 of that Act to vary the said Schedule 1; and sections 51 and 52
+(2) Any works carried out in compliance with an immediate improvement notice or a final improvement notice or an undertaking accepted under this Part of this Act shall be included among the improvements specified in paragraph 18 of Schedule 1 to the Agricultural Holdings (Scotland) Act 1949 (tenant’s right to compensation for erection, alteration or enlargement of buildings), but subject to the power conferred by section 79 of that Act to vary the said Schedule 1; and sections 51 and 52
 
 2 G
 
@@ -5960,7 +5960,7 @@ Ch. 56
 
 (8) The local authority’s offer may in particular include any such terms as are described in section 43(3)(c) of the Act of 1958 (repayment of principal and interest), and provision for the advance being made by instalments from time to time as the works of improvement progress.
 
-(9) An application under this seotion must be made in writing within three months of the date when the improvement notice becomes operative or the undertaking is accepted or the payment is to be made as directed by the court, as the case may be, or such longer period as the local authority by permission given in writing may allow.
+(9) An application under this section must be made in writing within three months of the date when the improvement notice becomes operative or the undertaking is accepted or the payment is to be made as directed by the court, as the case may be, or such longer period as the local authority by permission given in writing may allow.
 
 (10) References in this section to the dwelling are references to the dwelling to which the improvement notice or undertaking relates, or in respect of which the payment is to be made, hnd the reference to the improvement of the dwelling to the full standard or the reduced standard shall be construed as if contained in Part II of this Act.
 
@@ -5970,7 +5970,7 @@ Ch. 56
 
 58.—(1) Any person who is liable to incur expenditure in complying with an immediate improvement notice or a final improvement notice served, or an undertaking accepted, under Part II of this Act in Scotland, or who is liable to make a payment as directed by the sheriff under section 27(8) of this Act, may apply to the local authority for a loan.
 
-(2) Subject to this section, if the local authority are satisfied that the applicant can reasonably be expected to meet obligations assumed by him in pursuance of this seotion in respect of a loan of the amount of the expenditure or payment to which the application relates, the local authority shall offer to make a loan of that amount to the applicant, the loan to be secured to the local authority by a bond and disposition in security of the premises consisting of or comprising the dwelling, or by a bond and assignation in security of a lease of those premises, or by a bond and such other deed of security over the applicant’s estate or interest in the said premises as may be agreed between the local authority and the applicant.
+(2) Subject to this section, if the local authority are satisfied that the applicant can reasonably be expected to meet obligations assumed by him in pursuance of this section in respect of a loan of the amount of the expenditure or payment to which the application relates, the local authority shall offer to make a loan of that amount to the applicant, the loan to be secured to the local authority by a bond and disposition in security of the premises consisting of or comprising the dwelling, or by a bond and assignation in security of a lease of those premises, or by a bond and such other deed of security over the applicant’s estate or interest in the said premises as may be agreed between the local authority and the applicant.
 
 Part III
 
@@ -25052,7 +25052,7 @@ and if any person contravenes the provisions of this subsection he shall, withou
 
 (5) Where an offence under this section committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-(6) For the purposes of this Act a person who, whilst employed in agriculture (as defined in seotion 17(1) of the Agricultural Wages Act 1948 or seotion 17 of the Agricultural 1948 c. 47. Wages (Scotland) Act 1949) occupied any premises or part 1949 c. 30. thereof under the terms of his employment shall be deemed
+(6) For the purposes of this Act a person who, whilst employed in agriculture (as defined in section 17(1) of the Agricultural Wages Act 1948 or section 17 of the Agricultural 1948 c. 47. Wages (Scotland) Act 1949) occupied any premises or part 1949 c. 30. thereof under the terms of his employment shall be deemed
 
 to have been a tenant and the expressions “ let ” and “ tenancy ” shall be construed accordingly.
 
