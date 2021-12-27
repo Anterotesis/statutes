@@ -3276,7 +3276,7 @@ let to C.D.
 
 [Register, and Date of recording], and to which E.F.
 
-[Designation] has made up Title by Service as [specify Relationship], and Heir of the said C.D., dated the [insert Date of Sei'vice], before the [specify the Court before which the Heir has been served], and duly retoured to Chancery [or, as the Case may be, as General Disponee of the said C.D., or as Heir (or General Disponee) of L.M. in an Assignation
+[Designation] has made up Title by Service as [specify Relationship], and Heir of the said C.D., dated the [insert Date of Service], before the [specify the Court before which the Heir has been served], and duly retoured to Chancery [or, as the Case may be, as General Disponee of the said C.D., or as Heir (or General Disponee) of L.M. in an Assignation
 
 by the said C.D. of Date, or as Trustee confirmed
 

@@ -3798,9 +3798,7 @@ were references to the period of six months.
 
 2. An invention covered by any patent granted on an application Limitation as to which section one of this Act applies shall not be deemed to to “tfopation.
 
-have been anticipated by reason only of its publication in a speci- ----
-
-fication deposited pursuant to an application made in the United Kingdom not less than fifty years before the date of the application for a patent therefor, or of its publication in a provisional specification of any date not followed by a complete specification.
+have been anticipated by reason only of its publication in a specification deposited pursuant to an application made in the United Kingdom not less than fifty years before the date of the application for a patent therefor, or of its publication in a provisional specification of any date not followed by a complete specification.
 
 3. Section twenty*two of the principal Act (relating to the Amendment of grant of compulsory licences by the Board of Trade) is hereby law relatmg40 repealed, and the following provisions shall be substituted Ucences.°ry J therefor: —
 
@@ -3832,11 +3830,7 @@ Provided that no order of revocation shall be made before the expiration of thre
 
 (11) This section shall apply to patents granted before, as well as after, the commencement of this Act.
 
-Performance of
-
-comptroller’s
-
-duties.
+Performance of comptroller’s duties.
 
 4. In subsection four of section eighty-two of the principal Act (which relates to the performance of the duties of the comptroller
 
@@ -5356,7 +5350,7 @@ committees.
 
 county governing body constituted under the Welsh Intermediate 52 & 53 Vict. Education Act, 1889, for any such county or county borough shall c*40, cease to exist, and shall make such provision as appears necessary or expedient for the transfer of the powers, duties, property and liabilities of any such body to the local education authority under this Act, and for making the provisions of this section applicable to the exercise by the local education authority of the powers so transferred.
 
-18. — (1) The expenses of a council under this Act shall, Expenses, so far as not otherwise provided for, be paid, in the case of the council of a county, out of the county fund and, in the case of the council of a borough, out of the borough fund or rate, or, if no borough rate is levied, out of a separate rate to be made, assessed and levied in like manner as the borough rate, and, in the case of the council of an urban district other than a borough, in manner provided by section thii*ty-three of the Elementary 39 & 40 Vict. Education Act, 1876, as respects the expenses mentioned in that c• 79, section:Provided that —
+18. — (1) The expenses of a council under this Act shall, Expenses, so far as not otherwise provided for, be paid, in the case of the council of a county, out of the county fund and, in the case of the council of a borough, out of the borough fund or rate, or, if no borough rate is levied, out of a separate rate to be made, assessed and levied in like manner as the borough rate, and, in the case of the council of an urban district other than a borough, in manner provided by section thirty-three of the Elementary 39 & 40 Vict. Education Act, 1876, as respects the expenses mentioned in that c• 79, section:Provided that —
 
 (a) the county council may, if they think fit (after giving reasonable notice to the overseers of the parish or parishes concerned), charge any expenses incurred by them under this Act, with respect to education other than elementary, on any parish or parishes which, in the opinion of the council, are served by the school or college in connexion with which the expenses have been incurred; and
 
@@ -5446,7 +5440,7 @@ Interpretation.
 
 (4) The amount which would be produced by any rate in the pound shall be estimated, for the purposes of this Act, in accordance with regulations made by the Local Government Board.
 
-(5) The Mortmain and Charitable Uses Act, 1888, and so much of the Mortmain and Charitable Uses Act, 1891, as requires that land assured by will shall be sold within one year from the death of the testator, shall not apply to any assurance, within the meaniDg of the said Act of 1888, of land for the purpose of a school house for an elementary school.
+(5) The Mortmain and Charitable Uses Act, 1888, and so much of the Mortmain and Charitable Uses Act, 1891, as requires that land assured by will shall be sold within one year from the death of the testator, shall not apply to any assurance, within the meaning of the said Act of 1888, of land for the purpose of a school house for an elementary school.
 
 (6) A woman is not disqualified, either by sex or marriage, for being on any body of managers or education committee under this Act.
 
@@ -5460,7 +5454,7 @@ Interpretation.
 
 24. — (1) Unless the context otherwise requires, any expression to which a special meaning is attached in the Elementary Education Acts, 1870 to 1900, shall have the same meaning in this Act.
 
-(2) In this Act the expression “minor local authority ” means,
+(2) In this Act the expression “minor local authority” means,
 
 as respects any school, the council of any borough or urban district
 
@@ -5468,7 +5462,7 @@ as respects any school, the council of any borough or urban district
 
 or the parish council or (where there is no parish council) the parish meeting of any parish which appears to the county council to be served by the school. Where the school appears to the county council to serve the area of more than one minor local authority, the county council shall make such provision as they think proper for joint appointment of managers by the authorities concerned.
 
-(3) In this Act the expressions “ powers/’ “ duties, ” “ property ” and “ liabilities ” shall, unless the context otherwise requires, have
+(3) In this Act the expressions “powers,” “duties,” “property” and “liabilities” shall, unless the context otherwise requires, have
 
 the same meanings as in the Local Government Act, 1888. 51 & 52 Vict.
 
@@ -5516,9 +5510,7 @@ Provision as to Education Committees and Managers.
 
 (4) Minutes of the proceedings of an education committee shall be kept in a book provided for that purpose, and a minute of those proceedings, signed at the same or next ensuing meeting by a person describing himself as, or appearing to be, chairman of the meeting of the committee at which the minute is signed, shall be received in evidence without further proof.
 
-(5) Until the contrary is proved, an education committee shall be
-
-deemed to have been duly constituted and to have power to deal with any matters referred to in its minutes.
+(5) Until the contrary is proved, an education committee shall be deemed to have been duly constituted and to have power to deal with any matters referred to in its minutes.
 
 (6) An education committee may, subject to any directions of the council, appoint such and so many sub-committees, consisting either wholly or partly of members of the committee, as the committee thinks fit.
 
@@ -6420,21 +6412,21 @@ Western Railway Order Confirmation.)
 
 P. cCVi. An Act to confirm certain Provisional Orders made by the Board of Trade under the Electric Lighting Acts 1882 and 1888 relating to Bedlingtonshire Chepstow (Urban and Rural) Cowes Hitchin Morpeth Ashington Newbiggin-by-the-Sea and Morpeth (Rural; Pokesdown Slough and Datchet Stevenage Tadcaster and District Trefriw and certain districts and parishes in the West Riding of the county of York. (Electric Lighting Orders Confirmation (No. 7).)
 
+---
+
 P. ccvii. An Act to confirm certain Provisional Orders made by the Board of Trade under the Electric Lighting Acts 1882 and 1888 relating to Bermondsey (Extension) Stoke Newington and Woolwich. (Electric Lighting Orders Confirmation (No. 8).)
 
 P. ccviii. An Act to confirm certain Provisional Orders made by the Board of Trade under the Gas and Water Works Facilities Act 1870 relating to Knutsford Gas and Water Staines and Egham Gas Syston and Thurmaston Gas Uckfield Water and Worksop Water. (Gas and Water Orders Confirmation (No. 2).)
 
-P. ccix. An Act to confirm certain Provisional Orders of 'the Local Government Board relating to Arundel Liverpool and Worthing and the counties of Cornwall Dorset and the West Riding of Yorkshire. (Local Government Board’s Provisional Orders Confirmation (No. 7).)
+P. ccix. An Act to confirm certain Provisional Orders of the Local Government Board relating to Arundel Liverpool and Worthing and the counties of Cornwall Dorset and the West Riding of Yorkshire. (Local Government Board’s Provisional Orders Confirmation (No. 7).)
 
-P. cCX. An Act to confirm certain Provisional Orders of the Local Government Board relating to Rotherham and West Hartlepool. (Local Government Board’s Provisional Orders Confirmation (No. 12).)
+P. ccx. An Act to confirm certain Provisional Orders of the Local Government Board relating to Rotherham and West Hartlepool. (Local Government Board’s Provisional Orders Confirmation (No. 12).)
 
-P. cCXi. An Act to confirm a Provisional Order made by the Board of Education under the Elementary Education Acts, 1870 to 1900 to enable the School Board for London to put in force the Lands Clauses Acts. (Education Board Provisional Order Confirmation (London).)
+P. ccxi. An Act to confirm a Provisional Order made by the Board of Education under the Elementary Education Acts, 1870 to 1900 to enable the School Board for London to put in force the Lands Clauses Acts. (Education Board Provisional Order Confirmation (London).)
 
-P. ccxii. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to Greenock and Port Glasgow Tramways. (Greenock and Port Glasgow Tramways (Extension) Order Confirmation?)
+P. ccxii. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to Greenock and Port Glasgow Tramways. (Greenock and Port Glasgow Tramways (Extension) Order Confirmation.)
 
 P. ccxiii. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to Edinburgh and Leith Corporations Gas. (Edinburgh and Leith Corporations Gas Order Confirmation.)
-
----
 
 P. ccxiv. An Act to confirm a Scheme of the Charity Commissioners for the management of the Charity or Foundation called the Yardley Charity Estates in the parish of Yardley in the county of Worcester. (Yardley Charity Estates Scheme Confirmation.)
 
