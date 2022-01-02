@@ -944,7 +944,7 @@ Appointment of Commissioners of Income Tax in Scotland.
 
 7. Commissioners for the general purposes of the income tax in Scotland may be appointed by the Commissioners of Supply at the meeting to be held annually in pursuance of subsection two of section twelve of the Local Government (Scotland) Act, 1889, as well as at any meeting convened for the purpose in conformity with the Income Tax Act, 1842.
 
-Short Title.
+[Short Title.]
 
 8. This Act may be cited as the Customs and Inland Revenue Act, 1893.
 
@@ -1572,7 +1572,7 @@ Reign and Chapter. Title.
 
 5 & 6 Vict. c. 7. 1 An Act to explain the Acts for the belter Regulation | of certain Apprentices. In part; namely, — From “ Be it declared ” to “ of the same, that.”
 
-5 & 6 Vict. c. 29, An Act for establishing a Prison at Pentonville. I In part f namely, — i From “ Be it enacted by ” to “ of the same, that.”
+5 & 6 Vict. c. 29. An Act for establishing a Prison at Pentonville. I In part f namely, — i From “ Be it enacted by ” to “ of the same, that.”
 
 5 & 6 Vict. c. 45. | The Copyright Act, 1842. In part; namely, — ! Section fourteen, from “Court of Common” to i “ vacation, ” from “ by a motion ” to “ as aforesaid, ” 1 and the words “or judge ” occurring twice. Section fifteen, the words “after the passing of this 1 Act.”
 
@@ -15178,7 +15178,7 @@ P. CXXVi. An Act to confirm certain Provisional Orders made by the Education Dep
 
 P. CXXvii. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Urban Sanitary Districts of Bradford (Yorks), Buckingham (two), Clitheroe, Dewsbury, Hastings, Lancaster, and Mountain Ash, and to the Rural Sanitary Districts of the Hunslet and Ludlow Unions. (Local Government Board's Provisional Orders Confirmation (No. 6).)
 
-P# CXXViil. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Haslingden and Raw-tenstall Outfall Sewerage District, the Urban Sanitary Districts of Manchester and Plymouth, the Stourbridge Main Drainage District wd the Upper Stour Valley Main Sewerage District. (Local Government Board's Provisional Orders
+P. CXXViil. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Haslingden and Raw-tenstall Outfall Sewerage District, the Urban Sanitary Districts of Manchester and Plymouth, the Stourbridge Main Drainage District wd the Upper Stour Valley Main Sewerage District. (Local Government Board's Provisional Orders
 
 /* i / IT \
 
@@ -15372,7 +15372,7 @@ P, CXCii. An Act to confirm a Provisional Order made by the Education Department
 
 p# cxciii. An Act to confirm certain Provisional Orders made by the Board of Trade under the Tramways Act, 1870, relating to Blackpool Corporation Tramways, Manchester Corporation Tramways, and PI)'mouth Corporation Tramways. (Tramways Orders Confirmation.)
 
-CXC£v. An Act to confer further powers on the Lord Provost Magistrates and Town Council of the City and Royal Burgh of Aberdeen with reference to their Gas and Water Undertakings to make more effectual provision for the prevention of the pollution of the River Dee and for ether purposes. (Aberdeen Corporation (Gas and Water).)
+CXC£v. An Act to confer further powers on the Lord Provost Magistrates and Town Council of the City and Royal Burgh of Aberdeen with reference to their Gas and Water Undertakings to make more effectual provision for the prevention of the pollution of the River Dee and for other purposes. (Aberdeen Corporation (Gas and Water).)
 
 CXCV. An Act to authorise the construction of new sewers and to make better provision in relation to the health local government and improvement of the borough of Ashton-under-Lyne and fer other purposes. (Ashton-under-Lyne Corporation.)
 
@@ -15410,7 +15410,7 @@ ocix. An Act to place the Stray under the control and management of the Corporat
 
 OCX. An Act to make further provision for the Local Government of the City of Leeds to authorise certain Street Improvements and for other purposes. (Leeds Improvement.)
 
-CCXi. An Act to regulate the expenditure of Money by the London County Council on Capital Account during the current Financial Period and the raising of Money to meet such Expenditure. (London County Council (Money).)
+ccxi. An Act to regulate the expenditure of Money by the London County Council on Capital Account during the current Financial Period and the raising of Money to meet such Expenditure. (London County Council (Money).)
 
 GCXii. An Act to extend the time for the completion of certain authorised Tramways of the London Deptford and Greenwich Tramways Company to authorise the use of mechanical power on the Tramways of the Company and for other purposes.
 
@@ -15426,7 +15426,7 @@ COXiii. An Act to revive the powers and extend the time for the compulsory purch
 
 1889. (Brean Down Harbour and Railway.)
 
-CCXiv. An Act for incorporating the Charing Cross Euston and Hampstead Railway Company and for empowering them to construct underground Railways from Charing Cross to Hampstead with a branch to Euston Station and for other purposes. (Charing Cross, Eusto, and Hampstead Railway.)
+ccxiv. An Act for incorporating the Charing Cross Euston and Hampstead Railway Company and for empowering them to construct underground Railways from Charing Cross to Hampstead with a branch to Euston Station and for other purposes. (Charing Cross, Eusto, and Hampstead Railway.)
 
 CCXV. An Act to extend the boundaries of the borough oi Saint Helens in the county of Lancaster to consolidate the townships within the borough to dissolve the Burial Board and to make better provision for the health local government and improvement of the borough and for other purposes. (St. Helens Corporation.)
 
@@ -15438,7 +15438,7 @@ CCXViii. An Act to provide for the abandonment of the undertaking authorised by 
 
 1890. (Game and Ullapool Railway (Abandonment).)
 
-CCXix. An Act for incorporating the South Leeds Junction Railway Company and for other purposes. (South Leeds Junction Railway.)
+ccxix. An Act for incorporating the South Leeds Junction Railway Company and for other purposes. (South Leeds Junction Railway.)
 
 CCXX. An Act to authorise the use of mechanical power upon the undertaking of the Dublin Southern District Tramways Company to enable that company to acquire the undertaking of the Blackrock and Kingstown Tramways Company and for other purposes. (Dublin Southern District Tramways.)
 

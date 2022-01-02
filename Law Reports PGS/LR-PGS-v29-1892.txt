@@ -806,7 +806,7 @@ Session and Chapter.
 
 Title.
 
-Short Title.
+[Short Title.]
 
 20 Geo. 2. c. 43.
 
@@ -872,7 +872,7 @@ Session and Chapter.
 
 Title.
 
-Short Title.
+[Short Title.]
 
 7 Geo. 3. c. 38.
 
@@ -1248,7 +1248,7 @@ Session and Chapter.
 
 Title.
 
-Short Title.
+[Short Title.]
 
 55 Geo. 3, c. 42.
 
@@ -1736,7 +1736,7 @@ Ch. 10.
 
 Session and Chapter. . Title.
 
-Short Title.
+[Short Title.]
 
 3 & 4 Will. 4. c. 24.
 
@@ -1940,7 +1940,7 @@ An Act the title of which begins ! with the words “An Act to m ake, “ Provis
 
 6 & 7 Will. 4. c. 108. -; An Act to amend an Act passed in the First and Second Years of | His present Majesty, for the ! Extension and Promotion of Public Works in Ireland. i
 
-Short Title.
+[Short Title.]
 
 The Licensing (Ireland) Act, 1836.
 
@@ -2020,7 +2020,7 @@ An Act for the Management of the Post Office.
 
 An Act for consolidating the Laws relative to Offences against the Post Office of the United Kingdom, and for regulating the judicial Administration of the Post Office Laws, and for explaining certain Terms and Expressions employed in those Laws.
 
-Short Title.
+[Short Title.]
 
 The Copyright Act, 1836.
 
@@ -2224,7 +2224,7 @@ the Acts for the Commutation of Tithes in England and Wales.
 
 Entailed Estates in Scotland to Feu or Lease on long Leases Portions of the same for the building of Churches and Schools, and for Dwelling Houses and Gardens for the Ministers and Masters thereof.
 
-Short Title.
+[Short Title.]
 
 The Public Works (Ireland) Act, 1839.
 
@@ -2424,7 +2424,7 @@ Session and Chapter.
 
 Tide.
 
-Short Title.
+[Short Title.]
 
 7 & 8 Vict. c. 29.
 
@@ -3162,7 +3162,7 @@ Marriage in Scotland.
 
 Session of Parliament, Chapter One hundred and twenty, for the better Local Management of the 1 Metropolis,
 
-Short Title.
+[Short Title.]
 
 , The Justices (Scotland) Act, 1856.
 
@@ -3650,7 +3650,7 @@ Session and Chapter.
 
 Title.
 
-Short Title.
+[Short Title.]
 
 27 & 28 Vict. c. 118.
 
@@ -3832,7 +3832,7 @@ Session and Chapter.
 
 Title.
 
-Short Title.
+[Short Title.]
 
 40 & 41 Vict. c. 40.
 
@@ -3872,7 +3872,7 @@ Collective Titles.
 
 Session and Chapter.
 
-Short Title.
+[Short Title.]
 
 Collective Title.
 
@@ -4206,7 +4206,7 @@ Session and Chapter.
 
 The Crown The Crown The Crown 1832. The Crown 1883. The Crown 1835. The Crown The Crown The Crown The Crown The Crown The Crown The Crown The Crown
 
-Short Title.
+[Short Title.]
 
 Lands Act, 1829 Lands Act, 1832 Lands (Scotland) Act,
 
@@ -4282,7 +4282,7 @@ Ch. 10.
 
 Sea non and Chapter.
 
-Short Title.
+[Short Title.]
 
 Collective Title.
 
@@ -4454,7 +4454,7 @@ o4 & 55 Vict. c. 74.
 
 52 & 53 Vict. i c. 22.
 
-Short Title.
+[Short Title.]
 
 Collective Title.
 
@@ -4548,7 +4548,7 @@ Short Titles Act, 1892.
 
 Session and Chapter.
 
-Short Title.
+[Short Title.]
 
 Collective Title.
 
@@ -4632,7 +4632,7 @@ Ch. 10.
 
 Session and Chapter.
 
-Short Title.
+[Short Title.]
 
 Collective Title.
 
@@ -4780,7 +4780,7 @@ Ch. 10.
 
 Session and Chapter.
 
-Short Title.
+[Short Title.]
 
 Collective Title.
 
@@ -4890,7 +4890,7 @@ Short Titles, 1892.
 
 Session and Chapter.
 
-Short Title.
+[Short Title.]
 
 Collective Title.
 
@@ -4974,7 +4974,7 @@ Ch. 10.
 
 Session and Chapter.
 
-Short Title.
+[Short Title.]
 
 Collective Title.
 
@@ -5096,7 +5096,7 @@ Short Titles Act, 1892.
 
 Session and Chapter.
 
-Short Title.
+[Short Title.]
 
 33 & 34 Vict. c. 71. 38 & 39 Vict. c. 45.
 
@@ -5244,7 +5244,7 @@ Short Titles Act, 1892.
 
 Session and Chapter.
 
-Short Title.
+[Short Title.]
 
 Will. 4. & 1 Vict. c. 33.
 
@@ -5444,7 +5444,7 @@ Session and Chapter.
 
 53 & 54 Vict. c. 68.
 
-Short Title.
+[Short Title.]
 
 The Prison Act, 1865 The Prison Act, 1866 The Prison Officers Compensation Act, 1868.
 
@@ -5528,7 +5528,7 @@ Ch. 10. Short Titles Act, 1892. 55 Vict.
 
 Session and Chapter.
 
-Short Title.
+[Short Title.]
 
 Collective Title.
 
@@ -5668,7 +5668,7 @@ Short Title'fi Act, 1892.
 
 Session and Chapter.
 
-Short Title.
+[Short Title.]
 
 Collective Title.
 
@@ -5748,7 +5748,7 @@ Ch. 10.
 
 Session and Chapter.
 
-Short Title.
+[Short Title.]
 
 Collective Title.
 
@@ -6166,7 +6166,7 @@ hundred and ninety-two (except section three of the Customs and 54 & 55 Vict. In
 
 (3.) The inspectors or surveyors of taxes shall be the assessors of the said duties of income tax under Schedules (A) and (B.) and of the said duties on inhabited houses.
 
-Short Title.
+[Short Title.]
 
 5. This Act may be cited as the Customs and Inland Revenue Short title. Act, 1892.
 
