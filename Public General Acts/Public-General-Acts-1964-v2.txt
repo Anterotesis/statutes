@@ -1718,7 +1718,7 @@ In this subsection “ representations ” has the same meaning as in section 10
 
 (6) Section 21(1) of the principal Act (which defines certain expressions used in that Act) and section 3(1) of the Hire-Purchase Act 1954 (which provides that any deposit shall form part of the hire-purchase price) shall have effect for the purposes of this Part of this Act as they have effect for the purposes of the principal Act; and section 21(2) of the principal Act (which relates to the discharge of part of the hire-purchase price otherwise than by the payment of money) shall apply for the purposes of sections 18 and 19 of this Act
 
-(7) Without prejudice to the application, by virtue of the last preceding subsection, of the definition of “ hire-purchase agreement ” in section 21(1) of the principal Act any reference in this Part of this Act to a document which constitutes a hire-purchase agreement or a credit-sale agreement shall be construed as including a- reference to a document which together with one or more other documents constitutes such an agreement, and any reference to a document which, if executed by or on behalf of another person, would constitute such an agreement shall be construed accordingly.
+(7) Without prejudice to the application, by virtue of the last preceding subsection, of the definition of “hire-purchase agreement ” in section 21(1) of the principal Act any reference in this Part of this Act to a document which constitutes a hire-purchase agreement or a credit-sale agreement shall be construed as including a- reference to a document which together with one or more other documents constitutes such an agreement, and any reference to a document which, if executed by or on behalf of another person, would constitute such an agreement shall be construed accordingly.
 
 Part II
 
@@ -2130,7 +2130,7 @@ Ch. 53
 
 (2) The enactments specified in Schedule 5 to this Act are hereby repealed to the extent specified in relation thereto in the third column of that Schedule.
 
-(3) For the removal of doubt it is hereby declared that no account is to be taken of section 1 of the principal Act, or of section 2 of this Act, for the purpose of construing any enactment whereby (however the enactment is expressed) it is provided that in the enactment (or, if the enactment extends to Scotland, in the enactment in its application to England and Wales) “ hire-purchase agreement ”, or any similar expression, has the same meaning as “ hire-purchase agreement ” has in the principal Act or the definition of “ hire-purchase agreement ” in the principal Act is otherwise applied for the purposes of the enactment:
+(3) For the removal of doubt it is hereby declared that no account is to be taken of section 1 of the principal Act, or of section 2 of this Act, for the purpose of construing any enactment whereby (however the enactment is expressed) it is provided that in the enactment (or, if the enactment extends to Scotland, in the enactment in its application to England and Wales) “ hire-purchase agreement ”, or any similar expression, has the same meaning as “ hire-purchase agreement ” has in the principal Act or the definition of “hire-purchase agreement ” in the principal Act is otherwise applied for the purposes of the enactment:
 
 Provided that this subsection shall not affect the construction of—
 
@@ -2372,7 +2372,7 @@ Ch. 53
 
 10. Section 20 of the Act of 1938 shall be omitted.
 
-11. In subsection (1) of section 21 of the Act of 1938, the definition of “warranty” shall be omitted and for the definition of “ hire-purchase agreement ” there shall be substituted the following definition, that is to say—
+11. In subsection (1) of section 21 of the Act of 1938, the definition of “warranty” shall be omitted and for the definition of “hire-purchase agreement ” there shall be substituted the following definition, that is to say—
 
 “ hire-purchase agreement ” means any contract, in whatsoever terms it may be expressed and whether it be truly one of sale or hire, whereby goods are taken on hire by one person from another person in consideration of periodical payments to be made by the first mentioned person to the other person, with an option to the first mentioned person to become the buyer of the goods.
 
@@ -2452,7 +2452,7 @@ Provided that where a guarantor is a party to the action, no such order shall be
 
 18. In section 21(1) of the Act of 1938—
 
-(a) in the definition of “ hire-purchase price ”, after the words “ to which the agreement relates ” there shall be inserted the words “ inclusive of any sum so payable by way of a deposit or other initial payment, or credited or to be credited to the hirer under such an agreement on account of any such deposit or payment, whether that sum is to be or has been paid to the owner or to any other person or is to be or has been discharged by a payment of money or by the transfer or delivery of goods or by any other means; but ”; and
+(a) in the definition of “hire-purchase price ”, after the words “ to which the agreement relates ” there shall be inserted the words “ inclusive of any sum so payable by way of a deposit or other initial payment, or credited or to be credited to the hirer under such an agreement on account of any such deposit or payment, whether that sum is to be or has been paid to the owner or to any other person or is to be or has been discharged by a payment of money or by the transfer or delivery of goods or by any other means; but ”; and
 
 (b) at the end of the subsection there shall be added the following words: —
 
@@ -14886,7 +14886,7 @@ Fishery Limits Act 1964
 
 1964 CHAPTER 72
 
-An Act to extend the British fishery limits and amend the definition of “ sea-fishing ” in the Sea Fisheries Act 1883.
+An Act to extend the British fishery limits and amend the definition of “sea-fishing ” in the Sea Fisheries Act 1883.
 
 [31st July 1964]
 
@@ -15094,7 +15094,7 @@ c. 45. 1868. In section 5, the definition of
 
 c. 22. 1883. sive ”.
 
-48 & 49 Vict. The Sea Fisheries In section 5, the word “exclusive In section 18, the word “exclusive Section 24. In section 25, the word “exclusive”, the words from “the North Sea ” to “ or within ” and the words from “ the Convention ” to “ or by In section 28, the definition of “ exclusive fishery limits of the British Islands”, and in the definition of “ sea-fishing ” the words from “ shall not ” to “ aforesaid ”. Section 30. In section 31, the word “exclusive ”. Schedule 2. In section 4, the word “exclu-
+48 & 49 Vict. The Sea Fisheries In section 5, the word “exclusive In section 18, the word “exclusive Section 24. In section 25, the word “exclusive”, the words from “the North Sea ” to “ or within ” and the words from “ the Convention ” to “ or by In section 28, the definition of “exclusive fishery limits of the British Islands”, and in the definition of “sea-fishing ” the words from “ shall not ” to “ aforesaid ”. Section 30. In section 31, the word “exclusive ”. Schedule 2. In section 4, the word “exclu-
 
 c. 70. (Scotland) Amend- sive ”.
 
@@ -20264,7 +20264,7 @@ question of the insanity of the accused, the Court of Criminal Appeal may dismis
 
 (a) references in sections 7, 8, 15(2), 18(1), 19, and 20(2)
 
-of that Act, and in the definition of “ appellant ” in section 21 thereof, to a person’s being convicted shall include references to his being the subject of a special . verdict;
+of that Act, and in the definition of “appellant ” in section 21 thereof, to a person’s being convicted shall include references to his being the subject of a special . verdict;
 
 (b) the reference in section 11 of that Act to a person’s being
 
@@ -20988,7 +20988,7 @@ Force Act 1955 and the Naval Discipline Act 1957 shall not include Malta; and
 
 (b) in the definitions of “ Commonwealth force ” in sections
 
-225(1) and 223(1) respectively of the said Acts of 1955, and in the definition of “ Commonwealth country ” in section 135(1) of the said Act of 1957, at the end there shall be added the words “ or Malta
+225(1) and 223(1) respectively of the said Acts of 1955, and in the definition of “Commonwealth country ” in section 135(1) of the said Act of 1957, at the end there shall be added the words “ or Malta
 
 (3) No Order in Council made on or after the appointed day under section 1 of the Army and Air Force Act 1961 shall operate to continue either of the said Acts of 1955 in force as part of the law of Malta.
 
@@ -21098,7 +21098,7 @@ Ships and aircraft
 
 8. In the proviso to section 6(2) of the Merchant Shipping Act 1948, at the end there shall be added the words “ or Malta
 
-9. In the definition of “ excepted ship or aircraft ” in paragraph 3 of Schedule 3 to the Emergency Laws (Repeal) Act 1959, before the words “ or in any ” there shall be inserted the words * or Malta ”.
+9. In the definition of “excepted ship or aircraft ” in paragraph 3 of Schedule 3 to the Emergency Laws (Repeal) Act 1959, before the words “ or in any ” there shall be inserted the words * or Malta ”.
 
 Malta Independence Act 1964
 
@@ -23504,7 +23504,7 @@ enactments. not include The Gambia or any part thereof.
 
 and
 
-(b) in the definitions of “ Commonwealth force ” in sections 225(1) and 223(1) respectively of the said Acts of 1955, and in the definition of “ Commonwealth country ” in section 135(1) of the said Act of 1957, at the end there shall be added the words “or The Gambia ”.
+(b) in the definitions of “ Commonwealth force ” in sections 225(1) and 223(1) respectively of the said Acts of 1955, and in the definition of “Commonwealth country ” in section 135(1) of the said Act of 1957, at the end there shall be added the words “or The Gambia ”.
 
 (3) No Order in Council made on or after the appointed day 1961 c. 52. under section 1 of the Army and Air Force Act 1961 shall
 
@@ -25254,7 +25254,7 @@ Crown within the meaning of that Act shall be exercisable concurrently with anot
 
 (2) Subsection (2) of section 5 of the House of Commons Disqualification Act 1957 (reprinting of Schedule 1 as from time to time amended) shall apply to provisions of that Act other than Schedule 1 as it applies to that Schedule.
 
-(3) In section 13(1) of the said Act, in the definition of “ Minister of State ”, the words “ appointed at a salary ” shall be omitted, and at the end there shall be added the words “ or any office in respect of which a salary is payable out of moneys provided by Parliament under section 2 of the Ministerial Salaries 1946 c. 55. Act 1946 ”.
+(3) In section 13(1) of the said Act, in the definition of “Minister of State ”, the words “ appointed at a salary ” shall be omitted, and at the end there shall be added the words “ or any office in respect of which a salary is payable out of moneys provided by Parliament under section 2 of the Ministerial Salaries 1946 c. 55. Act 1946 ”.
 
 (4) The enactments described in Schedule 3 to this Act are hereby repealed to the extent specified in column 3 of that Schedule.
 
@@ -27490,7 +27490,7 @@ excl.
 
 . 25 rep. in pt
 
-. 28 rep. in pt. (definition of ‘‘exclusive fishery limits of the British Islands ”). rep. in pt. (in pt., the definition of “ sea-fishing ”)• Ss. 30 rep., 31 rep. inpt., sch. 2 rep.
+. 28 rep. in pt. (definition of ‘‘exclusive fishery limits of the British Islands ”). rep. in pt. (in pt., the definition of “sea-fishing ”)• Ss. 30 rep., 31 rep. inpt., sch. 2 rep.
 
 . 8 rep
 
@@ -28578,7 +28578,7 @@ c. 58 Trusts (Scotland) Act 1921. . 2 am. so far as defining “ trustee ”. 41
 
 12 & 13 Geo. 5:
 
-c. 11 Juries Act 1922 Expld. (London) . 1 mod. (London) ... . 7 am. so far as defining " overseers ”. rep. in pt. (in pt., definition of “ clerk of the county council”). 42, s. 21(1H3). 42, s. 21(6). 42,s. 39(2), sch. 3 Pt. H para. 13. 42^ s. 41(8), sch.
+c. 11 Juries Act 1922 Expld. (London) . 1 mod. (London) ... . 7 am. so far as defining " overseers ”. rep. in pt. (in pt., definition of “clerk of the county council”). 42, s. 21(1H3). 42, s. 21(6). 42,s. 39(2), sch. 3 Pt. H para. 13. 42^ s. 41(8), sch.
 
 c. 17 Finance Act 1922 Pt. HI (ss. 34-37) rep. ... 79, .L.R.
 
@@ -29888,7 +29888,7 @@ Indian and Colonial Divorce Jurisdiction Act 1940.
 
 Law Reform (Miscellaneous Provisions (Scotland) Act 1940.
 
-Ss. 6 rep. (saving), 10(1) rep. (saving) so far as defining * trade union ” and, in pt., the definition of “ Society ”, Restr
+Ss. 6 rep. (saving), 10(1) rep. (saving) so far as defining * trade union ” and, in pt., the definition of “Society ”, Restr
 
 24, s. 11(2X3)* sch. 3.
 
@@ -31634,7 +31634,7 @@ c. 65 Reserve and Auxiliary . 23(1) rep. (E.) so far as defining “ police forc
 
 Forces (Protection of 10 Pt. I.
 
-Civil Interests) Act 1951. and definition of “ relevant police authority ” rep. in pt. (E.). . 60OM3), (6) am. ... .I. No. 488, art.
+Civil Interests) Act 1951. and definition of “relevant police authority ” rep. in pt. (E.). . 60OM3), (6) am. ... .I. No. 488, art.
 
 2, sch. 1 Pt. I.
 

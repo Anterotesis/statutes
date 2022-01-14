@@ -488,7 +488,7 @@ P. lxxxiii. An Act to confirm two Provisional Orders made by the Local Governmen
 
 P. lxxxiv. An Act to confirm a Provisional Certificate made by the Board of Trade under The Railways Construction Facilities Act, 1864, and The Railways (Powers and Construction) Acts, 1864, Amendment Act, 1870, for the incorporation of the Widnes Railway Company, and for the construction of the Widnes Railway.
 
-P. lxxxV. An Act for confirming certain Provisional Orders made by the Board of Trade under the Tramways Act, 1870, for the construction of the Common Road Conveyance Tramway, Kew and Richmond Tramway, Southall, Ealing, and Shepherd's Bush Tramway, and Uxbridge and Southall and Ealing and Brentford Tramway.
+P. lxxxv. An Act for confirming certain Provisional Orders made by the Board of Trade under the Tramways Act, 1870, for the construction of the Common Road Conveyance Tramway, Kew and Richmond Tramway, Southall, Ealing, and Shepherd's Bush Tramway, and Uxbridge and Southall and Ealing and Brentford Tramway.
 
 P. lxxxvL An Act to confirm a Scheme under " The Metropolitan Commons Act, 1866," relating to Tooting Beck Common.
 
@@ -604,7 +604,7 @@ CXXXVl An Act for the making of Railways from Freshwater to Yarmouth and Newport
 
 P, cxxxviL An Act to confirm a Provisional Order made by the Education Department under " The Elementary Education Act, 1870/' to enable the School Board for the parish of Llanrwst to put in force " The Lands Clauses Consolidation Act, 1845," and the Acts amending the same.
 
-P. CXXXVlii. An Act to confirm a Provisional Order made by the Education Department under " The Elementary Education Act, 1870," to enable the School Board for the parish of Llanelly, Carmarthen, to put in force " The Lands Clauses Consolidation Act, 1845," and the Acts amending the same.
+P. cxxxvlii. An Act to confirm a Provisional Order made by the Education Department under " The Elementary Education Act, 1870," to enable the School Board for the parish of Llanelly, Carmarthen, to put in force " The Lands Clauses Consolidation Act, 1845," and the Acts amending the same.
 
 p# CXXXix. An Act to confirm a Provisional Order made by the Education Department under " The Elementary Education Act, 1870," to enable the School Board for the parish of Merthyr Tydfil to put in force " The Lands Clauses Consolidation Act, 1845," and the Acts amending the same.
 
@@ -772,9 +772,9 @@ ccxiii. An Act for embanking and for dividing, allotting, and enclosing Lands in
 
 P. ccxiv. An Act to confirm a Provisional Order made by the Education Department under " The Elementary Education Act, 1870, to enable the School Board for London to put in force "The Lands Clauses Consolidation Act, 1845," and the Acts amending the same.
 
-P. ccxV. An Act for confirming certain Provisional Orders made by the Board of Trade under the Tramways Act, 1870, for the construction of the London Street Tramways (Saint Pancras Lines), Metropolitan Street Tramways (Extensions), Pimlico, Peckham, and Greenwich Street Tramways (Extensions), and West London Tramways.
+P. ccxv. An Act for confirming certain Provisional Orders made by the Board of Trade under the Tramways Act, 1870, for the construction of the London Street Tramways (Saint Pancras Lines), Metropolitan Street Tramways (Extensions), Pimlico, Peckham, and Greenwich Street Tramways (Extensions), and West London Tramways.
 
-P. ccxVI. An Act to confirm certain Provisional Orders of the Local Government Board relating to the districts of Ashbourne, Bury St. Edmunds, Epping, Fenton, Richmond (Surrey), Shipley, Stoke, Tong Street, and Ventnor.
+P. ccxvi. An Act to confirm certain Provisional Orders of the Local Government Board relating to the districts of Ashbourne, Bury St. Edmunds, Epping, Fenton, Richmond (Surrey), Shipley, Stoke, Tong Street, and Ventnor.
 
 CCXViL An Act to extend the powers of the Royal Bank of Scotland, and to alter and enlarge the provisions of the Charters relating thereto.
 
@@ -6122,7 +6122,7 @@ Customs and Inland Revenue.
 
 supplies to defray Your Majesty's public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties herein-after mentioned, and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-Short title. 1. This Act may be cited as "The Customs and Inland
+[Short title.] 1. This Act may be cited as "The Customs and Inland
 
 Revenue Act, 1873."
 
@@ -7700,7 +7700,7 @@ WHEREAS it is expedient to facilitate the proof of the byelaws and proceedings o
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-Short title. 1. This Act may be cited for all purposes as the " Municipal Corporations Evidence Act, 1873/ '
+[Short title.] 1. This Act may be cited for all purposes as the " Municipal Corporations Evidence Act, 1873/ '
 
 Proof of bye- 2. The production of a written or printed copy of any bye-law*. laws made by the council of a borough, either under the
 
@@ -9154,7 +9154,7 @@ And whereas it is expedient to authorise such advances as herein-after mentioned
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows; (that is to say,)
 
-Short title. L This Act may be cited for all purposes as the Public Works Loan Act, 1872."
+[Short title.] L This Act may be cited for all purposes as the Public Works Loan Act, 1872."
 
 Tower to issue 2. The Treasury may from time to time cause to be charged of the^onsoS- upon issued out of the Consolidated Fund of the United dated Fund for Kingdom, or of the growing produce thereof, any sums of school and money not exceeding in the whole one million five hundred
 
@@ -9262,7 +9262,7 @@ Ecclesiastical 5. The persons herein-before specified may convey, by way ^ioners
 
 Extent of Act. 6. The provisions of this Act shall not extend to Scotland or Ireland.
 
-Short title. 7. This Act may be cited as The Places of Worship Sites Act, 1873."
+[Short title.] 7. This Act may be cited as The Places of Worship Sites Act, 1873."
 
 may accept trusts.
 
@@ -9514,7 +9514,7 @@ supply which we have cheerfully granted to Your Majesty in this session of Parli
 
 Preliminary.
 
-Short title. L This Act may be cited as the Exchequer Bonds Act, 1873.
+[Short title.] L This Act may be cited as the Exchequer Bonds Act, 1873.
 
 Exchequer Bonds.
 
@@ -14206,7 +14206,7 @@ And whereas it is expedient to amend the said section so far as it relates to Ir
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the'same, as follows; that is to say,
 
-Short title. 1. This Act may be cited for all purposes as " The Sanitary Act, 1866, Ireland, Amendment Act, 1873."
+[Short title.] 1. This Act may be cited for all purposes as " The Sanitary Act, 1866, Ireland, Amendment Act, 1873."
 
 Extent of Act. 2. This Act shall extend to Ireland only.
 
@@ -16284,7 +16284,7 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 Preliminary.
 
-Short title. 1. This Act may be cited as the Elementary Education 33 & 34 Vict. Act, 1873; and this Act and the Elementary Education Act, c. 75. 1870 (in this Act referred to as the principal Act), may be
+[Short title.] 1. This Act may be cited as the Elementary Education 33 & 34 Vict. Act, 1873; and this Act and the Elementary Education Act, c. 75. 1870 (in this Act referred to as the principal Act), may be
 
 cited together as the Elementary Education Acts, 1870 and 1873.
 
@@ -16796,7 +16796,7 @@ Any scheme to which this section applies and which is not approved by Her Majest
 
 488
 
-Short title. Interpretation.
+[Short title.] Interpretation.
 
 Ch. 87, 88. Endowed Schools Act (1869) Amendt. 36 & 37 Vict. SCHEDULE.
 
@@ -17756,7 +17756,7 @@ Htion^of tolis>0- cluence any such order as aforesaid, shall in the case of a
 
 highway district be deemed to be an improvement of highways within the meaning of sections forty-seven, forty-eight, and fifty of "The Highway Act, 1864," and for such purpose the highway board may borrow money in accordance with the provisions of those sections, subject to the following provisions, viz .: That the improvement shall be deemed to be on behalf of all the parishes within the district, and each parish shall contribute thereto in the same proportion as it contributes to the district fund.
 
-Short title. 17. This Act may be cited for all purposes as " The Annual Turnpike Acts Continuance Act, 1873."
+[Short title.] 17. This Act may be cited for all purposes as " The Annual Turnpike Acts Continuance Act, 1873."
 
 SCHEDULES.
 
