@@ -4012,7 +4012,6 @@ O
 
 cq'
 
-O 2
 
 w
 
@@ -16278,13 +16277,11 @@ pv cn H- n
 
 fs N NO CO M
 
-I 1
 
 I I
 
 O O ~ I G\
 
-J 4
 
 1
 

@@ -2768,7 +2768,6 @@ I
 
 o 0 0 0
 
-O 2
 
 81
 
@@ -3288,7 +3287,6 @@ o 4 o 4
 
 o 3
 
-O 2
 
 0 0 2
 
@@ -3920,7 +3918,6 @@ nux indica, each
 
 Nut vomica the pound r —
 
-G 4
 
 £ /. j. £ X d.
 
@@ -5338,7 +5335,6 @@ o
 
 0 0
 
-O 2
 
 ° 5
 
@@ -6214,7 +6210,6 @@ o o P O
 
 o 8
 
-O 2
 
 O II
 
@@ -6328,7 +6323,6 @@ o i j
 
 a.
 
-S 3
 
 o 15 5
 
@@ -7052,7 +7046,6 @@ d.
 
 O O O II O 2
 
-O 2
 
 *9 3 492 9
 
@@ -8174,7 +8167,6 @@ I 10 O
 
 o o
 
-O 3
 
 Oil o
 
@@ -9872,7 +9864,6 @@ For every barrel of beer or ale of six shillings the barrel or under (ex dufive 
 
 \0 be paid by such common brewer or by such ocher perum or per
 
-L 4
 
 d.
 
@@ -10058,7 +10049,6 @@ o i 6
 
 00 1
 
-O 3
 
 O L
 
@@ -10386,7 +10376,6 @@ For every ream of brown paper which shall be made in Great Britain, called haven
 
 forevety ream of brown paper which shall be made in Great Britain, called bag cap. not exceeding the dirnenfions of twenty-three inches and an half by nineteen inches, eleven pence halfpenny. —
 
-M 2
 
 *63
 
@@ -10460,7 +10449,6 @@ o 0
 
 i
 
-O 1
 
 i
 
@@ -10508,7 +10496,6 @@ For every pound weight avoirdupois of hard cake soap, or ball soap, which shall 
 
 For every pound weight avoirdupois of soft soap which shall be made in Great Britain, and foin proportion for a greater or lesser quantity; to be paid by the maker thereof, one penny three fasthings.
 
-M 3
 
 I
 
@@ -10866,7 +10853,6 @@ o
 
 1
 
-H 7
 
 5 J
 
@@ -13122,7 +13108,6 @@ IX Provided always, and be it further enacted, That the rates Tenants to
 
 or sums of money to be assessed, rated, and charged by the said pay the taxes, of of sewers, or any six or more of them, by virtue and deduct of this act, shall be paid by the respective tenants or occupiersoftheirrents
 
-T 2
 
 of
 

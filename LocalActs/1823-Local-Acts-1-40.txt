@@ -9628,13 +9628,10 @@ o I
 
 o 2
 
-I 6
 
-I 6
 
 o 2
 
-I 6
 
 o 2
 
@@ -9668,7 +9665,6 @@ o 4
 
 o 2
 
-I 6
 
 o I
 
@@ -10060,7 +10056,6 @@ H
 
 o
 
-O 2
 
 0 3 o 6
 
@@ -10086,7 +10081,6 @@ Sand taken within the Boundary of the Harbour for Ballast or other Purposes
 
 x. d.
 
-O 2
 
 0 3
 

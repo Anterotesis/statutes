@@ -2778,7 +2778,6 @@ o
 
 0
 
-O 5
 
 O II
 
@@ -3660,7 +3659,6 @@ Drawbacks.
 
 33
 
-O 1
 
 10
 
@@ -4200,7 +4198,6 @@ uo 29 8 0
 
 20 5 4 16 13 4
 
-V 1
 
 002
 
@@ -5348,13 +5345,11 @@ Duties.
 
 5 10
 
-I 2
 
 8 6
 
 o 10
 
-O 2
 
 o o 7'
 
@@ -5380,7 +5375,6 @@ o
 
 o
 
-O 5
 
 o 10
 
@@ -7314,9 +7308,7 @@ O
 
 077 067
 
-O 0
 
-O 0
 
 Oil 0 on
 
@@ -9058,7 +9050,6 @@ o ioi O lit
 
 0 3 4
 
-I 2
 
 8 8 11 5
 
@@ -11848,7 +11839,6 @@ The said duty to be charged annually on the person or persons having the custody
 
 LEATHER.
 
-I 1
 
 For and upon all hides and ikins, and pieces of hides and skins herein-after mentioned, which shall be tanned in Ireland, the respective rates and duties following j that is to say,
 
