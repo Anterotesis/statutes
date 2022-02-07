@@ -5806,7 +5806,6 @@ O 3 28
 
 5 34
 
-I 3
 
 I 1 16
 
@@ -18754,7 +18753,6 @@ To Five Pounds inclusive.
 
 /. d.
 
-I 4
 
 0 8
 

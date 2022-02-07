@@ -4438,7 +4438,6 @@ si
 
 12.
 
-O 3
 
 a
 
@@ -41816,7 +41815,6 @@ Gi99
 
 13 11
 
-G 4
 
 10 3
 
@@ -45224,7 +45222,6 @@ D t-i
 
 as o S' n a
 
-I 3
 
 An ACCOUNT of the Net Produce of the Duties, after deducting Drawbacks of Customs and Excise, arising upon Tobacco in Great Britain, in the Years 1786, 1787, and 1788, compared with
 
@@ -46344,7 +46341,6 @@ ft -1 5 - r»
 
 2 O
 
-Z 3
 
 O ft
 
@@ -50732,7 +50728,6 @@ Ways and Means, 1790 - - -Deduct Surplus of Consolidated Fund on the 5th Day of 
 
 £ 62,519,440
 
-J 1
 
 1
 
@@ -64510,7 +64505,6 @@ s a.
 
 o a
 
-F 6
 
 Grants by Parliament, and Sums reserved. Charge of the Office of Ordnance. Such oiMCpeodtd. Exceedings.
 
