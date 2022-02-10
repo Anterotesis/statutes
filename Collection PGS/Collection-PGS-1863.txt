@@ -804,7 +804,7 @@ Most Gracious Sovereign,
 
 WE, Your Majesty's most dutiful and loyal Subjects, the Commons of the United Kingdom of Great Britain and Ireland in Parliament assembled, having taken into consideration Your Majesty's most Gracious Message that Your Majesty has agreed to a Marriage proposed between His Royal Highness Albert Edward Prince of Wales and Her Royal Highness the Princess Alexandra Caroline Maria Charlotte Louisa Julia of Denmark, do most humbly beseech Your Majesty that it may be enacted; and be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
-L It shall be lawful for Her Majesty, in order to provide for the Establishment of His Power to Her Royal Highness the Prince of Wales and Her said Royal Highness the Princess Alexandra, to
+1. It shall be lawful for Her Majesty, in order to provide for the Establishment of His Power to Her Royal Highness the Prince of Wales and Her said Royal Highness the Princess Alexandra, to
 
 by Letters Patent under the Great Seal of the United Kingdom of Great Britain and Annuity of Ireland, to grant to His said Royal Highness or to such Persons as Her Majesty may think 40, oooo/. for the fit to name in the said Letters Patent, in trust for His said Royal Highness, an Annuity of Forty thousand Pounds, to commence from the Day of the Marriage of His said Royal Wales and Highness with Her said Royal Highness, and to continue during the joint Lives of Her Princes* Aiex- Majesty and His said Royal Highness, to be paid quarterly on the Fifth Day of January, tiwIr
 
@@ -839,8 +839,6 @@ WHEREAS it is intended that Her Royal Highness the Princess Alexandra of Denmark
 with the Transaction of Business:* Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same:
 
 1. All the Provisions of an Act passed in the Session holden in the Seventh and Eighth Years of King George the Fourth, intituled An Act for declaring the Law in relation to
-
-Bills
 
 26° VICTORIAE, c.2, 3.
 
@@ -1102,9 +1100,7 @@ otherwise, And shall a&dmay require such Security by Bonder otherwise as they sh
 
 the Commissioners of Customs shall direct, not exceeding One Pound nor less than One Ounce each:
 
-2. Each such Packet shall be enclosed by or at the Expense of the Importer or Manu-
-
-facturer in a Wrapper approved by the Commissioners of Customs:
+2. Each such Packet shall be enclosed by or at the Expense of the Importer or Manufacturer in a Wrapper approved by the Commissioners of Customs:
 
 3. Each such Wrapper shall be securely fastened by a Label, to be provided by the
 
@@ -1114,7 +1110,7 @@ Commissioners of Customs, and pasted on such Wrapper by such Importer or Manufac
 
 5. When any unmanufactured Tobacco shall have been manufactured or converted into
 
-Cavendish or Negrohead in the Warehouse the same shall be duly entered for Home Consumption, and the full Duties of pustoms shall be paid upon the Tobacco so manufactured before the same is madpmjpPackets:
+Cavendish or Negrohead in the Warehouse the same shall be duly entered for Home Consumption, and the full Duties of pustoms shall be paid upon the Tobacco so manufactured before the same is madpmjp Packets:
 
 .Tobapco so ^aniifactu^ Ware^i^.^ll.ppt W Wfo Packets fqr
 
@@ -1186,13 +1182,11 @@ Cavendish or Negrohead Tobacco be imported into Great Britain and Ireland, excep
 
 10. All manufactured Tobacco (other than Cavendish or Negrohead) imported into or found in Great Britain and Ireland containing or having mixed therewith any Material or Ingredient prohibited by any Act in force to be used in the Manufacture in the United Kingdom of Tobacco shall be forfeited; and the Importer thereof and any Dealer or other Person concerned in the Importation, harbouring, or concealing thereof, or to whose Hands the same may come, shall forfeit either the treble Value thereof or the Penalty of One hundred Pounds, at the Election of the Commissioners of Customs.
 
-1L It shall be lawful for the Commissioners of Customs from Time to Time to make such Rules and Regulations as shall appear to them to be necessary or proper for regulating the safe Removal of any Tobacco, or of any Surplus, or Stalks, Waste, or Refuse thereof, to any Warehouse, Part or Division of any Warehouse, or from any such Warehouse, Part or Division of a Warehouse, to another for the Purposes of this Act, and for securing the same against fraudulent Abstraction, and also for regulating the Times of opening and closing any such Warehouses or Parts or Divisions of a Warehouse, and the Admission of Workmen for the Purpose of manufacturing and packing, wrapping, and labelling the Tobacco therein, and also to make all such other Rules and Regulations as they shall think fit for the Purpose of carrying out the Object and Intention of this Act in all Cases not herein expressly provided for, and to require such Security by Bond or otherwise for the Purposes above mentioned, and for Security of the Duties on Tobacco, as they shall see fit.
+11. It shall be lawful for the Commissioners of Customs from Time to Time to make such Rules and Regulations as shall appear to them to be necessary or proper for regulating the safe Removal of any Tobacco, or of any Surplus, or Stalks, Waste, or Refuse thereof, to any Warehouse, Part or Division of any Warehouse, or from any such Warehouse, Part or Division of a Warehouse, to another for the Purposes of this Act, and for securing the same against fraudulent Abstraction, and also for regulating the Times of opening and closing any such Warehouses or Parts or Divisions of a Warehouse, and the Admission of Workmen for the Purpose of manufacturing and packing, wrapping, and labelling the Tobacco therein, and also to make all such other Rules and Regulations as they shall think fit for the Purpose of carrying out the Object and Intention of this Act in all Cases not herein expressly provided for, and to require such Security by Bond or otherwise for the Purposes above mentioned, and for Security of the Duties on Tobacco, as they shall see fit.
 
 12. Any Duty or Service required by this Act to be done or performed by any Officer of Customs may be done by any Officer of Customs or Inland Revenue or Excise, or other Person appointed for that Duty or Service by the Commissioners of Customs or the Commissioners of Inland Revenue respectively, and every such Officer or other Person shall be deemed to be the proper Officer for such Duty or Service.
 
 13. All Penalties and Forfeitures which may be incurred under this Act may be prosecuted, sued for, and recovered by Order of the Commissioners of Custom* or the
-
-B 2 Commissioners
 
 Labels to be provided, and Forgery thereof punishable by Imprisonment with Hard Labour.
 
@@ -1218,15 +1212,13 @@ Commencement of Act.
 
 26° VICTORIA, c.7, 8.
 
-(^nmissitmers of Inland Revenue under this or any other Act. or Acts relating to the Customs, Inland Revenue, or Excise respectively..
+Commissioners of Inland Revenue under this or any other Act. or Acts relating to the Customs, Inland Revenue, or Excise respectively.
 
-14r In any Suit or Prosecution for the Recovery of any Penalty or.Forfeiture under this or any other Act relating to the Customs in respect of any manufactured Tobacco, whether the same shall consist of Cigars, Snuff, Tobacco Stalky Tobacco Stalk Flour, Snuff Work, or other Article manufactured wholly or in part from Tobacco, it shall be sufficient to describe the same in any Information or other Proceeding had thereon as manufactured Tobacco, and it shall be so deemed for the Purpose of such Suit or Prosecution; and in estimating the Amount of any Penalty determinable by the Value of. the Article with the Duty of importation chargeable thereon, the same shall be ascertained, as to the Tobacco, at the Market Price in London^ at or about the- Time of the Offenpp^ of Tobaccp of the like Sort or Denomination of the best Quality; and, ns to the Duty* at the Rate then chargeable on the Importation of Tobaeco of the like Sort or Denomination; but if the Tobacco, the Subject of such Prosecution, be of a Kind prohibited to be imported, a Sum equal to the highest Rate of Duty then chargeable on the Importation of any Sort of manufactured Tobacco shall be added to the Price of the Tobacco: And as to any unmanufactured Tobacco, in estimating the Amount of any Penalty in respect thereof for the Purpose of any Suit or Prosecution, the same shall be determined by the Market Price in London, at or about the Time of the Offence, of unmanufactured Tobacco of the best Quality, with the highest Rate of Duty then chargeable on the Importation of unmanufactured Tobacco added thereto.
+14. In any Suit or Prosecution for the Recovery of any Penalty or.Forfeiture under this or any other Act relating to the Customs in respect of any manufactured Tobacco, whether the same shall consist of Cigars, Snuff, Tobacco Stalky Tobacco Stalk Flour, Snuff Work, or other Article manufactured wholly or in part from Tobacco, it shall be sufficient to describe the same in any Information or other Proceeding had thereon as manufactured Tobacco, and it shall be so deemed for the Purpose of such Suit or Prosecution; and in estimating the Amount of any Penalty determinable by the Value of. the Article with the Duty of importation chargeable thereon, the same shall be ascertained, as to the Tobacco, at the Market Price in London^ at or about the- Time of the Offenpp^ of Tobaccp of the like Sort or Denomination of the best Quality; and, ns to the Duty* at the Rate then chargeable on the Importation of Tobaeco of the like Sort or Denomination; but if the Tobacco, the Subject of such Prosecution, be of a Kind prohibited to be imported, a Sum equal to the highest Rate of Duty then chargeable on the Importation of any Sort of manufactured Tobacco shall be added to the Price of the Tobacco: And as to any unmanufactured Tobacco, in estimating the Amount of any Penalty in respect thereof for the Purpose of any Suit or Prosecution, the same shall be determined by the Market Price in London, at or about the Time of the Offence, of unmanufactured Tobacco of the best Quality, with the highest Rate of Duty then chargeable on the Importation of unmanufactured Tobacco added thereto.
 
 15. Provided always, That nothing in this Act contained shall be construed, deemed, or taken to repeal, alter, or affect any of the Provisions contained in an Act passed in the Third and Fourth Years of Her Majesty's Reign, Chapter Eighteen, intituled An Act to discontinue the Excise Survey on Tobacco, and to provide other Regulations in lieu thereof; and an Act passed in the Fifth and Sixth Years of Her Majesty's Reign, Chapter Ninety-three, to amend the last-mentioned Act, save and except so far as the same are altered or varied by this Act.
 
-' - . j r
-
-, 16, This Act shall come into operation on the Day of the passing thereof; and in citing it ip other. Acts, of Parliament and in legal Instruments it shall be sufficient to use the Expression " The Manufactured Tobacco Act, 1863."
+16, This Act shall come into operation on the Day of the passing thereof; and in citing it ip other. Acts, of Parliament and in legal Instruments it shall be sufficient to use the Expression " The Manufactured Tobacco Act, 1863."
 
 Number of Men to consist of 148, 242, in- c eluding those employed at Depots of Uegi*', 4 ments serving in India, but exclusive of ' those actually serving in p
 
@@ -5268,9 +5260,7 @@ Prij^isione and Clauses, and be conBtrtied in connexion therewith. '
 
 ii ^18 Act 'shall* come into operation on the First Day of August One thousand eight, linnti^tjf hyd^ sixty^hree, and none of the Provisions thereof shall takej effect previous to)
 
-v '/: ,
-
-18. Ihj^Actsball not apply to England or Scotland. k i i
+18. Ihj^Act shall not apply to England or Scotland. k i i
 
 Penalty on making false Declaration, or giving false Notice.
 
@@ -5286,9 +5276,7 @@ f MS
 
 -y SCHEDULE (A.)
 
-id .'7!- A; .i U ..I*: \,) V ,
-
-j/, i; , : ... i, .i i .1 Nqjscb OF Manage, . f
+Nqjscb OF Manage, . f
 
 uii i f d Registrar [or Deputy Registrar] of the District of in the County of 4
 
@@ -5370,7 +5358,7 @@ Primitive Wesleyan Methodist Chapel, Great George Street.
 
 Sion Chapel, Maryljorouf/h.
 
-Church, Chapel, Place of Pulilic Worship, or Building in which the Marriage is to be solemnized.
+Church, Chapel, Place of Public Worship, or Building in which the Marriage is to be solemnized.
 
 District and Couuly in which the Parties resp dwell.
 
@@ -5510,7 +5498,7 @@ Nomineeina } j 7* tTbe in a Nominal Stock Certificate shall not be entitled to h
 
 renewed as Nominal* but fie shall, on Delivery up to the Bank of his Certificate, andall tit^d tohave" iti )UPP^>d (Cpupons, bqlqnging thereto, and on compliance, with any Regulation made in renewed as t; of t^is Act, be. entitled to receive, in exchange from the Bank a Stock Certificate
 
-Nominal., jp Reaper: t, . ., ': >;
+Nominal., jp Reaper: t,
 
 /fV6 ANomipcliStock, Certificate, and the, Bearer of sa Stock Certificate, to
 
@@ -5548,17 +5536,15 @@ registering in their Books the Holders of Stock Certificates, or taking any othe
 
 I ni'5. Wit^e^ct'to any other Matter necessary to carry this Act into effect:
 
-, r, Apel any Jtpgulatio^ so made shall be deemed to be Part of thtp Apfdn, thp same; M^?nper as herein enacted. ..... -i, \. ....., ..... < *
+, r, Apel any Jtpgulatio^ so made shall be deemed to be Part of thtp Apfdn, thp same; M^?nper as herein enacted.
 
 " '11 Jl ', Ihp Thcome Th!± shall be d^ducted fr^ln any Coupons payable under pins Ac{ in the "bame' Mariner and subject to the same Regulations m and subject to which it may, in |phrsuan6e of any Law for the Time being in force, be deducted from the Dividends payable at the Bank in respect of the Stock of Proprietors inscribed in the Books of the Bank.
 
 12, All Sums due and not demanded on any Coupons issued under this Act shall for all Purposes be dealt with as if they were Dividends due and not demanded in respect of the Stock of Proprietors inscribed in the Books of the Bank.
 
-* i # # ', ' . t -; > .i *, > '
-
 13. When any Certificate of Title issued under this Act in respect of any Share: in the PuUyr Stocks is outstanding* the Stock represented thereby jcpqqc tOjbp tijan^erable
 
-, inRooks of the BanH*:, .. - . :; .; ., i ,
+, inRooks of the BanH*:,
 
 . M j Saye ini so far as relates to the Mode of Transfer and Payment of .Dividends apy
 
@@ -5574,7 +5560,7 @@ in ^urfenahee' w the Act passed in the Fifty-sixth Year of the Reign 6f King iGf
 
 lyThbjfoeVeR'shall forgc: or alter, or ' offer, utter, dispose off, 1 oyput off? Knowing the same tO We forged 6raltered, any Stock Certificate or Coupon pr hny Document purporting to be a Stock Certificate or Coupon issued in pursuance of this Act, or shall demand or endeavour to obtain or receive any Share or Interest of or in the Public Stocks, or to receive any Dividend or Money payable in respect thereof, by virtue of any such forged or altered Certificate or Coupon or Document purporting as aforesaid, knowing the same to be forged or altered, with Intent in any of the Cases aforesaid to defraud, shall be guilty of Felony, and bfcing pQnviptpd: thereof shall be liable, at the Discretion of the Court*, to be kept in Penal Servitude for Life or for any Term not Jess than Three Years, or :to be imprisoned for \my i exceeding Two Years, with or without Hard labour afcd with or without
 
-§obt°aTy Congnemewt. .< / *< I *-fr V.
+§obt°aTy Congnemewt.
 
 15. Whosoever shall falsely and deceitfully personate any Owner of anyShare or Inierest of or In any of the Public' Stocks, or of hnyi Stbck Certificate ior Codpoti«issued in pursuance of this Act* and shall thereby obtain or endeavour to* obtain ariy such Stock Certificate or Goupoti, or receive or ehdeavour to receive any Money duo to any such Owner, as if such Offender were the true and lawful Owner, shall be guilty of Felony, and being convicted thereof shall be liable, at the Discretion of the Court, to be kept in
 
@@ -5587,16 +5573,6 @@ Unclaimed
 Dividends.
 
 Provisions as to Public Stocks outstanding.
-
-n :i -1>'..1 vf
-
-r 1 - 4 t, i! i r.../ *p j< n *. it
-
-".I I)-//
-
-11 -:n, n/;
-
-ynf< i'r ij: - > *1 .'i.i^ij; >' i 1..
 
 PqpaUwtm , Persons committing Forgery.
 
@@ -5702,8 +5678,6 @@ been guilty of Bribery or Treating at such Election, his Vote shall be void, and
 
 Practices have been committed at any Election, the Committee to whose Determination such Petition is referred shall report to the House of Commons whether or not Corrupt Practices have, or whether there is reason to believe Corrupt Practices have, extensively prevailed at such Election in the Place to which the Petition refers.
 
-9. Where
-
 26° VICTORIA, c. 29.
 
 9. Where an Election Committee has reported to the House of Commons that certain Persons named by them have been guilty of Bribery or Treating, and where it appears by the Report of any Commission of Inquiry into Corrupt Practices at any Election made to Her Majesty and laid before Parliament that certain Persons named by them have been guilty of the Offences of Bribery or Treating, and have not been furnished by them with Certificates of Indemnity, such Report, with the Evidence taken by the Commission, shall be laid before the Attorney General, with a view to his instituting a Prosecution against such Persons if the Evidence should, in his Opinion, be sufficient to support a Prosecution.
@@ -5714,7 +5688,7 @@ Repeal.
 
 hereto to the Extent specified in the Third Column of the said Schedule, but such Repeal shall not affect the Punishment of any Offence or the Recovery of any Penalty or Forfeiture incurred under any of the Provisions hereby repealed.
 
-1L The Corrupt Practices Prevention Acts shall continue in force for a Period of Five Years from this Date of the passing of this Act, and from thenceforth until the End of the then next Session of Parliament.
+11. The Corrupt Practices Prevention Acts shall continue in force for a Period of Five Years from this Date of the passing of this Act, and from thenceforth until the End of the then next Session of Parliament.
 
 The SCHEDULE.
 
@@ -11884,8 +11858,6 @@ The warden shall reside in the house in Kuthin known as " The Cloisters," which,
 
 22. The Hospital Building shall be appropriated and used for the occupation of the almspeople, in such a manner and subject to such reasonable regulations as the Governors may frqmthne; totime prescribe* consistently with the provisions of this scheme-
 
-23. The
-
 202
 
 26° & 27° VICTORIAE, c. 59.
@@ -12456,8 +12428,6 @@ Provisional Order putting in force the Lands Clauses Consolidation Act, 1845, wi
 
 And whereas the said Petition duly set forth in the Schedule annexed thereto the several pieces of land and the several buildings and premises intended to be taken by such Local Board for such purpose, and the names of the owners, lessees, and occupiers of the aforesaid lands, buildings, and premises who have assented, dissented, and are neuter in respect of the taking thereof, or who have returned no answer to the notices issued by such Board; and such Petition prayed that the said Board might, with reference to suon lands, buildings, and premises, be allowed to put in force the powers of the Lands Clauses Consolidation Act aforesaid, with respect to the purchase and taking of lpn4s otherwise than by agreement; and on the receipt of such Petition, Her Majesty V Principal Secretary of State for the Home Department directed William Ranger, Esquire, the Inspector appointed for the purpose, to visit the said District, and the said Inspector has now inquired in the District aforesaid }nto the subject matter of such Petition, and hafi duly reported thereon.
 
-Now,
-
 26° & 27° VICTORIA c. 64.
 
 Now, therefore, I, as one of Her Majesty's Principal Secretaries of State, do hereby, in pursuance of the powers vested in me by the Local Government Act, 1868, make Order and direct.
@@ -12662,35 +12632,9 @@ William Pierce, Richard Williams* Edwarids and Roberts.
 
 Lord Feilding.
 
-i >
-
-- i-i.'A 9; ir
-
-(i*1 i; ij - , "
-
-liil> toil i<.; rlrii). > *; ilu
-
-A '
-
-' s-f
-
-; t r; I >'(m\
-
-* . '[,; . A i n tnH'I *l.-J -LiLH-
-
 Viscount Feilding.
 
 Viscount Feilding. 0-
-
-l V\ Uo^A A
-
-a o'A v '>T irA*:
-
-' lAoo J *j.s; h"-nriii ff
-
-T <j v Or) !:/'*' I >; t S a a 1 >j. i *; /. bit., 'ul; *> non:3
-
-Otfl lo liiori 'Jill 'fob mi f; b v .* m n i f» 'o! f-ot j a1' 7 u
 
 LLANELLY.
 
@@ -12832,8 +12776,6 @@ Given under my hand this 9th day of Jane 180S.
 
 (Signed) G. Grey.
 
-. , . - f .
-
 The Schedule referred to in the foregoing Order.
 
 The Lands, Houses, Buildings, Hereditaments, and Premises proposed to be t»ben for the Purposes set forth in the preceding Order are the following; — i
@@ -12843,8 +12785,6 @@ A vacant piece of land whereon formerly stood three houses fronting the Broadway
 belonging
 
 described
-
-'; \ > iU
 
 WEST HAM.
 
@@ -12856,7 +12796,7 @@ And whereas, by such Provisional Order as aforesaid, the number of ihembere ofio
 
 * 1 l time
 
-6° & 27° VIOTORI, 64.
+26° & 27° VIOTORI, 64.
 
 time to time be delegated by the Court of Conmriesioners of Sewers for the Dagenham and Havering Levels; and the twelve remaining members of the said Board should be elected for the whole of the said District of West Ham by the owners of and ratepayers I in respect of property in the said District
 
@@ -12891,10 +12831,6 @@ Government Act, 1868, and of the Public Health Act, 1848.
 Given under my hand this 9th day 9f June 1863.
 
 (Signed) G. Gbey.
-
-. i ? i
-
-..... A-
 
 Worthing.
 
@@ -12956,8 +12892,6 @@ And whereas, in pursuance of the said Local Government Act, inquiry has been mad
 
 And whereas it appears expedient to issue a Provisional Order in relation to the said matters, but no such Order can be valid without the confirmation of Parliament.
 
-N n 2 Now,
-
 26°& 27P VIOTORI^E, - c. 64.
 
 Now, therefore, in pursuance of the powers vested in me by the said Local Government Act, I, as one of Her Majesty's Principal Secretaries of State, do, by this Provisional Order under my hand, direct that from and after the passing of any Act of Parliament confirming, this Order — ,
@@ -12968,13 +12902,13 @@ Given under my hand this 9th day of June 1863.
 
 (Signed) G. Grey.
 
-WALLASEY .; , , /, ? j
+WALLASEY .
 
 Provisional Order for extending the Borrowing Powers of the Wallasey Local Board of Health. — Local Government Act, 1858.
 
-Whereas the Local Board of Health for the District of Wallasey in the County of Chester (now called " The Wallasey Local Board") have duly borrowed under the Provisions of the Public Health Act, 1848, the Wallasey Improvement Act, 1858, the Wallasey Improvement Act, 1861, and of the Local Government Act, 1858; smris amounting altogether to Forty-eight thousand Pounds, to defray the expense of works fin: the Sewerage of and Supply of Water to the said District, being works of a permanent nature under the aforesaid Acte; and whereas there isnoW owing of that amount a sum of Forty ^two thousand five hundred and twenty-five Pounds, and a further sum will be required to carry <*ut and complete the said works, but such further sum, with the herein-before mentioned 42, 5251. will exceed the assessable value for one year of the premises assessable under the said Acts within such District, constituted as aforesaid. ';
+Whereas the Local Board of Health for the District of Wallasey in the County of Chester (now called " The Wallasey Local Board") have duly borrowed under the Provisions of the Public Health Act, 1848, the Wallasey Improvement Act, 1858, the Wallasey Improvement Act, 1861, and of the Local Government Act, 1858; smris amounting altogether to Forty-eight thousand Pounds, to defray the expense of works fin: the Sewerage of and Supply of Water to the said District, being works of a permanent nature under the aforesaid Acte; and whereas there isnoW owing of that amount a sum of Forty ^two thousand five hundred and twenty-five Pounds, and a further sum will be required to carry <*ut and complete the said works, but such further sum, with the herein-before mentioned 42, 5251. will exceed the assessable value for one year of the premises assessable under the said Acts within such District, constituted as aforesaid.
 
-And whereas the said Board have now, under the authority of the 78th Section of the .Local Government Act, 1858, petitioned me, as one of Her Majesty's Principal Secretaries1 of State, for powers to borrow for such works, on mortgage of the rates leviable by the aforesaid Local Board of Health under the Powers of the aforesaid Acts, a Bum or stitns which, with the amount already borrowed, shall not exceed in the whole two years" assessable value of the premises assessable within the District in respect of which such sum or stuns may be borrowed. >: >
+And whereas the said Board have now, under the authority of the 78th Section of the .Local Government Act, 1858, petitioned me, as one of Her Majesty's Principal Secretaries1 of State, for powers to borrow for such works, on mortgage of the rates leviable by the aforesaid Local Board of Health under the Powers of the aforesaid Acts, a Bum or stitns which, with the amount already borrowed, shall not exceed in the whole two years" assessable value of the premises assessable within the District in respect of which such sum or stuns may be borrowed.
 
 And whereas after due inquiry and report by William Ranger, Esquire, the Injector appointed by me For the purpose, I am of opinion that the prayer of such Petition should bef granted; but the same cannot be done without the consent of Parliament. !:
 
@@ -20244,23 +20178,9 @@ An Act to appoint additional Commissioners for executing the Acts for granting a
 
 [28th July 1863.]
 
-WHEREAS an Act was passed in the Seventh and Eighth Years of the Reign of His
+WHEREAS an Act was passed in the Seventh and Eighth Years of the Reign of His Majesty King George the Fourth, Chapter Seventy-five: And whereas another Act was passed in the Ninth Year of the Reign of His said Majesty, Chapter Thirty-eight: And whereas another Act was passed in the Second and Third Years of His Majesty King William the Fourth, Chapter One hundred and twenty-seven: And whereas another Act was passed in the Third and Fourth Years of the Reign of His said Majesty, Chapter Ninety-five: And whereas another Act was passed in the Sixth and Seventh Years of His said Majesty, Chapter Eighty: And whereas another Act was passed in the First and Second Years of the Reign of Her present Majesty, Chapter Fifty-seven: And whereas another Act was passed in the Seventh and Eighth Years of Her present Majesty, Chapter Seventy-nine: And whereas another Act was passed in the Eleventh and Twelfth Years of Her present Majesty, Chapter Sixty-two: And whereas another Act was passed in the Sixteenth and Seventeenth Years of Her present Majesty, Chapter One hundred and eleven: And whereas another Act was passed in the Twentieth and Twenty-first Years of Her present Majesty, Chapter Forty-six: And whereas it is expedient to appoint additional Persons to put in execution the several Acts for granting an Aid to Her Majesty by a Land Tax in Great Britain, and several other Acts for continuing or granting to Her Majesty Rates and Taxes: Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in the present Parliament assembled, and by the Authority of the same, as follows:
 
-' Majesty King George the Fourth, Chapter Seventy-five: And whereas another
-
-' Act was passed in the Ninth Year of the Reign of His said Majesty, Chapter Thirty- eight: And whereas another Act was passed in the Second and Third Years of His Majesty King William the Fourth, Chapter One hundred and twenty-seven: And whereas another Act was passed in the Third and Fourth Years of the Reign of His said Majesty, Chapter Ninety-five: And whereas another Act was passed in the Sixth and ' Seventh Years of His said Majesty, Chapter Eighty: And whereas another Act was c passed in the First and Second Years of the Reign of Her present Majesty, Chapter f Fifty-seven: And whereas another Act was passed in the Seventh and Eighth Years of ' Her present Majesty, Chapter Seventy-nine: And whereas another Act was passed in
-
-the Eleventh and Twelfth Years of Her present Majesty, Chapter Sixty-two: And
-
-whereas another Act was passed in the Sixteenth and Seventeeth Years of Her present
-
-Majesty, Chapter One hundred and eleven: And whereas another Act was passed in the ' Twentieth and Twenty-first Years of Her present Majesty, Chapter Forty-six: And whereas it is expedient to appoint additional Persons to put in execution the several Acts
-
-for granting an Aid to Her Majesty by a Land Tax in Great Britain, and several other f Acts for continuing or granting to Her Majesty Rates and Taxes: ' Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in the present Parliament assembled, and by the Authority of the same, as follows:
-
-1. The several and respective Persons herein-after named shall and may, and are hereby empowered and authorized (being duly qualified) to put in execution the said Acts, and all the Clauses, Powers, Matters, and Things whatsoever therein contained, as Commissioners in and for the several and respective Counties, Shires, and Places ip England and Wales
-
-herein-
+1. The several and respective Persons herein-after named shall and may, and are hereby empowered and authorized (being duly qualified) to put in execution the said Acts, and all the Clauses, Powers, Matters, and Things whatsoever therein contained, as Commissioners in and for the several and respective Counties, Shires, and Places in England and Wales
 
 469
 
@@ -20274,19 +20194,19 @@ Brooks, John Hatfield, Esquire, Flitwich; Brooks, Thomas William Dell, Clerk, Fl
 
 For the County of Berks.
 
-John Spearman Wasey Clerk, Compton, Edward Morland Chaplin Clerk, Chilton, William Rowles West Tlsley, John Peesley Gegg East Usley, William Dowell Wasbrough The Priory, Wantage, Henry Denis De Vetrd Charlton House, Wantage, John Hammond Brooks Stirlings, Wantage, Reverend Ralph Barnes Ar ding ton, Edward Ormond Wantage, John Allen Downs House, West Hendred, Thomas Brown Wantage, John Aldridge Esquire, Inholmes near Lamborne, Reverend Henry Barter Lamborne, Reverend Robert Gregson Gorton Up-Lamborne, Berks.
+John Spearman Wasey Clerk, Compton, Edward Morland Chaplin Clerk, Chilton, William Rowles West Tlsley, John Peesley Gegg East Usley, William Dowell Wasbrough The Priory, Wantage, Henry Denis De Vetrd Charlton House, Wantage, John Hammond Brooks Stirlings, Wantage, Reverend Ralph Barnes Ardington, Edward Ormond Wantage, John Allen Downs House, West Hendred, Thomas Brown Wantage, John Aldridge Esquire, Inholmes near Lamborne, Reverend Henry Barter Lamborne, Reverend Robert Gregson Gorton Up-Lamborne, Berks.
 
 For the Borough of Chipping Wycombe.
 
 Thomas GriflSts, George Powlesland, William Vincent Baines, James Thurlow, Ralph Lansdale, Benjamin Lucas.
 
-For Jtatf o/* the County of Bucks.
+For Jtatf of the County of Bucks.
 
-Thomas Griffits, George Powlesland, William Vincent Baines, James Thurlow, Ralph Lansdale, Benjamin Lucas, Reverend Randolphe Henry Pigott o/* Grendon Underwood, Bucks, Rector of that Parish, Reverend J ohn Holford Risley Akcly, Samuel Mail Allen Esquire, Buckingham, Richard Chandler Esquire, Buckingham, George Nelson Esquire, Buckingham, Frederick Edward Bartlett Esquire, Buckingham, William Henley Hands-combe Esquire, Padbury, Reverend Cadwalledar Coker Skalstone, Charles Higgins Esquire, Stowe.
+Thomas Griffits, George Powlesland, William Vincent Baines, James Thurlow, Ralph Lansdale, Benjamin Lucas, Reverend Randolphe Henry Pigott of Grendon Underwood, Bucks, Rector of that Parish, Reverend J ohn Holford Risley Akcly, Samuel Mail Allen Esquire, Buckingham, Richard Chandler Esquire, Buckingham, George Nelson Esquire, Buckingham, Frederick Edward Bartlett Esquire, Buckingham, William Henley Hands-combe Esquire, Padbury, Reverend Cadwalledar Coker Skalstone, Charles Higgins Esquire, Stowe.
 
 For the County of Cambridge.
 
-Joseph Ingle Ellis Thriplow, Reverend Charles Fitzgerald Gambier Jenyns Melbourne, William Linton Mcldrcsh, Arthur Nash Knees worth, William Thomas Nash Roys ton,
+Joseph Ingle Ellis Thriplow, Reverend Charles Fitzgerald Gambier Jenyns Melbourne, William Linton Mcldrcsh, Arthur Nash Knees worth, William Thomas Nash Royston,
 
 George ---- Pigott Alnngton Pigotts, Henry Perkins Thriplow, Thomas Russell Lislington,
 
@@ -20295,8 +20215,6 @@ Reverend William Selwyn Foxton, Honourable and Reverend Arthur Savile Foulmire, 
 For the County of Chester.
 
 William Barnston Crao 77*7/, Farndon in the County of Chester Esquire, Thomas Aldersey Aldersley Hall, Handley in the County of Chester Esquire, Arthur Potts Hoole Hall, Chester Esquire, George Barbour Bolesworth Castle, Tattenhall\ in the County of
-
-Chester,
 
 26° & 27° VICTORIAE, c. 101.
 
@@ -20318,7 +20236,7 @@ Bank, William Stamper Brigham, William Thornburn Papcastle, John Wilson Lorton, 
 
 For the County of Derby.
 
-Satnuel Wood Glossop, Daniel Wood Glossop, James Shepley Glossop, Frederick Buckley The Hurst, Glossop, John Shepley Brookfield, Glossop, George Eastham Waterside, Glossop, Thomas Marriott Haufield, Samuel Ratciff Holley Vale, Mellor, Robert Broom Bii8bage Buston, Captain Edward L. Darwin The Park, Buston, Reverend Augustus BagshaW Womshill, John Heathcote Blackwell, John Sleigh Thornbridge, John OUivent Openshaw Burre House, Robert Thornhill Great Longstone, George Newdigate Darwent Hall, Joseph Bright Nether Hall, Hathersage, Major Henry Wilmot of Chaddesden Hall, Edward Wilmot of Chaddesden Hall, Arthur Wilmot of Chaddesden Hall, Reginald Wakelyne Chandos Pole of Radbourne, John Chandos Pole of Radbourne, Francis Bradshaw junior, of Barton Hall, Henry Holden Bradshaw of Barton Hall, Robert Wilmot Bradshaw of Barton Hall, Rowland Smith of Derby, William Thomas Edwards Cox of Spandon Hall, Arthur Cox of Spondon Hall, Samuel Richardson Cox of Spondon, Francis Walker Cox of Spondon, Lucius Mann of Hadebrow, Frank N. Smith of Derby, John Tempest Morley of Littleover, Sacheverel Sitwell of Morley, William Grimwood Taylor of Litchurch, Alfred Robert Simpson of Derby, John Mozley of Derby, Thomas Bateman of Morley, T. C. Turner of Litchurch, Sir Matthew Blakiston Sandy Brook, Ashbourne, Derbyshire, John Wright Yeldusley, Ashbourne, Derbyshire, John Smedley Riber, Matlock, Derbyshire, Phillip Hubbersty Wirksworth, Derbyshire, Henry Walthall Walthall Alton Manor near Wirksworth, Albert Francis Hurt Alderwasley, Wtrskworth.
+Samuel Wood Glossop, Daniel Wood Glossop, James Shepley Glossop, Frederick Buckley The Hurst, Glossop, John Shepley Brookfield, Glossop, George Eastham Waterside, Glossop, Thomas Marriott Haufield, Samuel Ratciff Holley Vale, Mellor, Robert Broom Bii8bage Buston, Captain Edward L. Darwin The Park, Buston, Reverend Augustus BagshaW Womshill, John Heathcote Blackwell, John Sleigh Thornbridge, John OUivent Openshaw Burre House, Robert Thornhill Great Longstone, George Newdigate Darwent Hall, Joseph Bright Nether Hall, Hathersage, Major Henry Wilmot of Chaddesden Hall, Edward Wilmot of Chaddesden Hall, Arthur Wilmot of Chaddesden Hall, Reginald Wakelyne Chandos Pole of Radbourne, John Chandos Pole of Radbourne, Francis Bradshaw junior, of Barton Hall, Henry Holden Bradshaw of Barton Hall, Robert Wilmot Bradshaw of Barton Hall, Rowland Smith of Derby, William Thomas Edwards Cox of Spandon Hall, Arthur Cox of Spondon Hall, Samuel Richardson Cox of Spondon, Francis Walker Cox of Spondon, Lucius Mann of Hadebrow, Frank N. Smith of Derby, John Tempest Morley of Littleover, Sacheverel Sitwell of Morley, William Grimwood Taylor of Litchurch, Alfred Robert Simpson of Derby, John Mozley of Derby, Thomas Bateman of Morley, T. C. Turner of Litchurch, Sir Matthew Blakiston Sandy Brook, Ashbourne, Derbyshire, John Wright Yeldusley, Ashbourne, Derbyshire, John Smedley Riber, Matlock, Derbyshire, Phillip Hubbersty Wirksworth, Derbyshire, Henry Walthall Walthall Alton Manor near Wirksworth, Albert Francis Hurt Alderwasley, Wtrskworth.
 
 For the City and County of the City of Exeter.
 
@@ -20328,9 +20246,7 @@ For the Pest of the County of Devon.
 
 James Melhuish Tanner of Kingsnympton, Devon, Gentleman, Reverend George Porter of Rackenford, Devon, Clerk, Reverend Prockter Melhuish Benson of Basford, Nottinghamshire, Clerk, George James Cruwys of Cruwys Morchard, Devon, Gentleman, Reverend Walter Meddon Bruton of West Worlington, Devon, Clerk, Reverend Samuel Hosegood of Thelbridge, Devon, Clerk, Reverend John Eldon Hole of Washford Pyne, Devon, Clerk, Reverend George C Bethune of Ckumleiah, Devon, Clerk, Henry Charles Devon of Rackenford, Devon, Gentleman, Robert Hall Gentleman, Bradworthy, Devon, George Braginton Esquire, Great Torrington, Richard Bremridge Esquire, Barnstaple, John Roberts
 
-Chanter
-
-26° & 27° VICTORIAE, c, 101.
+26° & 27° VICTORIAE, c. 101.
 
 Chanter Esquire, Barnstaple, Henry Day Esquire, Ilfracombe, Walter Fursdon Clerk, Berrynarbor, John Guard Clerk, Langtree, Thomas William Matthew Wilks Guppey Esquire, Barnstaple, James Gay Hiern Esquire, Barnstaple, John Harris Esquire^ Tmc Vale Terrace, Barnstaple, John Mackrell Esquire, Barnstaple, William Clarke Moore C?erA, Ilfracombe, John Tayleur Pigot Clerk, Fremington, Charles William Lillifant Clerk, Wear Gifford, Philip Stoneham Esquire, Ilfracombe, Thomas Stabb Esquire, Ilfracombe, William Thorne Esquire, Barnstaple, Gilbert Innes Wallas Clerk, Barnstaple, John Willis Esquire, Barnstaple, Reverend Edward Henry Quicke Clerk, Newtov$ Saint Cgres, Reverend Robert Henry Fortescue Clerk, Stockleigh Pomeroy, Henry North cote Esquire, Crediton, William Pope Esquire, Crediton, Robert Baker Carew of Bickleigh in the County of Devon, Clerk, Edward William Tanner Chaye of Cullompton in the County of Devon, Clerk, William Hornsey Gamlen of Tiverton in the County of Devon, Esquire, John New of TJffculm in the County of Devon, Esquire, William North Row of Tiverton in the County of Devon, Esquire, Sir Henry Farrington Baronet, Ottery St. Mary, Reverend William Routledge Clerk, D.D., Cotleigh, Reverend Mamerto Gueritz Clerk, Colyton, Reverend Marwooa Tucker Clerk, Widwortliy, Reverend Joseph Gattey Clerk, Harpford, Reverend Richard Kirwan Clerk, Gittisham, Reverend Henry Beaumont Burlton Clerk, Farway, Reverend John Selwood Clerk, Shute, Frederick Abraham Smith Ottery St Mary, John Collin Ottery St. Mary, Colin Newbery Ottery St Mary, Robert Warren Ottery St. Mary, John Cutler Sidmouth, John Henry Copleston Offwell, Robert George Abraham of Ashburton, Peter Fabyan Sparke Amery of Ashburton, Henry Bickford of Ilsington, Thomas Allcard of Hermosa, Teignmouth, Reginald William Templer of Teignmouth, John Yicary of Highwick, Robert Vicary of Highwick, John. Pidsley of Highwick, Reverend Edward Fursdon of Dawtish, Reverend John Manley Hawker of Ideford, Thomas Yarde of Culver House, Chudleigh, John Whidborne Teignmouth, Robert Moir Teignmouth, Thomas Atkinson Ilsington, William Roope Tlbert Bowring Leigh, West Alvington, Reverend William Daykin Rectory, Stoke firming, Thomas Wyse Weymouth Slade, Charleton, John Maye Totness, Reverend George Terry Car-, withen Rectory, Ashprington, Henry Chilcote Ash, Stokejleming, Robert Farquharson Dundridge, Harberton, Reverend John Fielder Mackamess, George Neumann Esquire Reverend Henry Edwards, Edmund Newman Snow Esquire, John Hutchings Jerrard Esquire, M.D., Daniel Gould Esquire, Reverend Edwin Ellis Gentleman, Richard P Newbery Esquire, Reverend George Lowe, George Frederick Tweed Esquire, Spencer Murch Cox Esquire, Reverend George Barons Northcote, John Pynsenfc Mathew Esquire, John Bridgman Smith Esquire, John Seagar Gundry Esquire, Charles William Bond Esquire, William Henry Kitson Torquay, Gentleman, Richard Robbins Wolfe Torquay, Clerk, Alfred Byard Sheppard Torquay, Gentleman, Charles Kitson Torquay, Gentleman, John Kitson Torquay, Gentleman, William Bartlett (the younger) Saint Mary Church, Gentleman, James Salter Bartlett Saint Mary Church, Gentleman, Richard Wilham Beachey Highweek, Newton Busk ell, Gentleman, William Creed Abbotsherswell\ Gentlemanj John Creed (the younger) Abbotskerswell Gentleman, Thomas Wills East Wrey, Lusdeigk, Gentleman, John Barratt Wolborough, Newton Abbott, Gentleman, William Harris Ffandeif Bovey Tracey, Gentleman, Harry Martin Coombemteignhead, Clerk, J. H Ha^keiM Ideford, Clerk, William R. Mortimer Kingstcigntan, Gentleman, John Whidborne Ehsf\ Teignmouth, Gentleman, Robert Moir West Teignmouth, Gentleman, John Pidsley High*' week, Gentleman, Robert Hall Gentleman, Bradworthy, Devon.
 
@@ -20338,11 +20254,9 @@ County of Dorset,
 
 The Honourable Aubrey Spring Rice Clerk, Netherbury, William Edmund Craufurd Austin Clerk, Stoke Abbott, Robert Keddle Clerk, Netherbury, Shering Keddle Netherbury, William James Daniel Beaminster, Thomas Palmer Daniel Beaminster, John Palmer Dowdeswell Beaminster, John Roberts Furmedge Langdon, Beaminster, Alfred Codd Clerk, Beaminster, James Rawlins Beaminster, John Russell Beaminster, Richard Groves Botcood, Netherbury, William Pope Toller Whelme, Cdrscombe, William Parmiter Melpla.fi, Netherbury, Frederick Walter Gundry Bridport, John Knight Bridport, John Barnicott, Symondsbury, Heniy Augustus Templer Btadpole, Paulet Mildmay Compton Clerk,
 
-j Mapperton,
-
 473
 
-Mapper ton, Joseph Stone Studley \6roarfiwVz^r, ^IelviIle Lauriston Lee Clerk, Bridport, Thomas Browne Ewens Aldington; Allford, Reverend William; Batten, John; Littler hales, Bendall; Lyon, Reverend William Hector; Nathaniel Bond Hofme, Charles Oldfield Bartlett Wareham, Reverend Samuel Richard Capel Clerk, Wareham, William Joseph Pike Wareham, John William Pike Wareham, James Panton Wareham, James Albert Panton Wareham, Clavell Filliter Wareham, Freeland Filliter Wareham, Henry Filliter Wareham, Daniel Sturdy Trigon Hill, John Hales Montagu Calcraft Rempstone, William Montagu Calcraft Rempstone, William Voss Church Knowle, William James Voss Church Knowle, Robert Taylor Corfc* Castle, Reverend Thomas Pearce C/erA, Mardert, Richard Burdon Hazelburu Bryan, Clerk, Robert Bruce Kennard Mamhull, Clerk, John Martyn Rherton, Clerk, Frederick Webster Maunsell lucerne Courtney, C/tfrA, William Stuckey Wood Fifehead Magdalen, Esquire, John Octavius Goodridge Child . Qkeford* Esquire, Francis Bissett Hawkins 0/* Lewell Lodge, Esquire, Reverend, Reginald Smith of Stafford, Clerk, George Warry of JJpway, Esquire, Waring Alexander Biddle Long* ham, Dorset, Esquire, Alfred Gilliat Longham, Dorset, Gentleman, William Wylde-Browno Alder holt, Dorset, Esquire. \ .
+Mapperton, Joseph Stone Studley \6roarfiwVz^r, ^IelviIle Lauriston Lee Clerk, Bridport, Thomas Browne Ewens Aldington; Allford, Reverend William; Batten, John; Littler hales, Bendall; Lyon, Reverend William Hector; Nathaniel Bond Hofme, Charles Oldfield Bartlett Wareham, Reverend Samuel Richard Capel Clerk, Wareham, William Joseph Pike Wareham, John William Pike Wareham, James Panton Wareham, James Albert Panton Wareham, Clavell Filliter Wareham, Freeland Filliter Wareham, Henry Filliter Wareham, Daniel Sturdy Trigon Hill, John Hales Montagu Calcraft Rempstone, William Montagu Calcraft Rempstone, William Voss Church Knowle, William James Voss Church Knowle, Robert Taylor Corfc* Castle, Reverend Thomas Pearce C/erA, Mardert, Richard Burdon Hazelburu Bryan, Clerk, Robert Bruce Kennard Mamhull, Clerk, John Martyn Rherton, Clerk, Frederick Webster Maunsell lucerne Courtney, C/tfrA, William Stuckey Wood Fifehead Magdalen, Esquire, John Octavius Goodridge Child . Qkeford* Esquire, Francis Bissett Hawkins 0/* Lewell Lodge, Esquire, Reverend, Reginald Smith of Stafford, Clerk, George Warry of JJpway, Esquire, Waring Alexander Biddle Long* ham, Dorset, Esquire, Alfred Gilliat Longham, Dorset, Gentleman, William Wylde-Browno Alder holt, Dorset, Esquire.
 
 For the County of Durham.
 
@@ -20375,8 +20289,6 @@ Thomas Collet Yeld Esquire, Henry James Esquire, Francis Davis Esquire, Henry He
 For the Rest of the County of Hereford.
 
 Captain Edward Nicholas Heygate R.E., Buckland, James Gregg Esquire, Fencote Dochlow, Walter S. Broadwood Esquire, Highwood House, Yarpole, Thomas Burl ton Esquire, Leominster, Edward William Coleman Esquire, Hill Top Dilwyn, James Withington Esquire, Rosedale, Laisters, Tenbury, John Griffiths Alford Birley, Richard Brooke Norton
-
-Canon,
 
 26° & 27° VICTORIAE, c. 101. 475
 
