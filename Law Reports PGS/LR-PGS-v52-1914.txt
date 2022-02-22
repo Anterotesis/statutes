@@ -1418,7 +1418,7 @@ Provided that the child of a British subject, whether that child was bom before 
 
 (3) Nothing in this section shall, except as otherwise expressly provided, affect the status of any person bom before the commencement of this Act.
 
-Part II. *
+Part II.
 
 Naturalization of Aliens.
 
@@ -2378,7 +2378,7 @@ Sums not exceeding
 
 Supply Grants. Appropriations in Aid.
 
-Vote 1. Pay, Ac. of the Army £ 30,000 £
+Vote 1. Pay, &c. of the Army £ 30,000 £
 
 , 6. Quartering, Transport, and Remounts 35,000
 
@@ -2608,7 +2608,7 @@ No. 1. For the pay, Ac., of His Majesty’s Army (including Army Reserve to a nu
 
 clusive of India) -2. For the pay, Ac., of the medical establishments 8, 705,000 1, 445,000
 
-and for medicines, Ac. 3. For the pay, bounty, Ac., of the Special Reserve (to a number not exceeding 80, 200, including 80 militia and militia reserve) and of the 437,000 1, 600
+and for medicines, &c. 3. For the pay, bounty, Ac., of the Special Reserve (to a number not exceeding 80, 200, including 80 militia and militia reserve) and of the 437,000 1, 600
 
 Officers’ Training Corps 4. For grants, pay, allowances, training, and miscellaneous charges of the Territorial Force and Channel Islands and Colonial Militia, in- 724,000 9,000
 
@@ -2632,9 +2632,9 @@ staff in connection therewith - 2, 791,000 153, 980
 
 officers - -14. For Chelsea and Kilmainham hospitals; for out pensions; for rewards for distinguished services; for widows’ pensions; and for other non-effective charges for warrant officers, 1, 846,000 504, 870
 
-non-commissioned officers, and men, Ac. 15. For civil superannuation, compensation, and additional allowances, gratuities, injury 1, 977,000 538,000
+non-commissioned officers, and men, &c. 15. For civil superannuation, compensation, and additional allowances, gratuities, injury 1, 977,000 538,000
 
-grants. Ac. - 134,000 80
+grants. &c. - 134,000 80
 
 Total Army Services - £ 28, 845,000 3, 668, 200
 
@@ -3540,7 +3540,7 @@ For defraying Expenses which may be incurred during the year ending on the 31st 
 
 Industry, Business and Communications, whether by means of insurance or indemnity against risk or otherwise; for Relief of Distress; and generally for all expenses arising out of the existence of a state of war - £100,000,000
 
-Naval and Military Operations, Ac. (Vote of Credit.)
+Naval and Military Operations, &c. (Vote of Credit.)
 
 70
 
@@ -3634,7 +3634,7 @@ Number of Vote. ARMY SERVICES, 1912-13. VOTES. Surpluses. Deficits made good 1 f
 
 1 Pay, Ac., of the Army 16, 949 16 11 1 —
 
-2 Medical establishment: Pay, Ac. — 363 0 11
+2 Medical establishment: Pay, &c. — 363 0 11
 
 3 Special Reserve - 18, 243 12 10 —
 
@@ -3668,7 +3668,7 @@ stores - — 84, 664 14 1
 
 Ac. 24, 190 6 7 —
 
-14 Non-effective charges for men, Ac. — 1, 809 7 3
+14 Non-effective charges for men, &c. — 1, 809 7 3
 
 15 Civil superannuation, compensa-
 
@@ -6198,7 +6198,7 @@ Years of Age of such Person. Years of Expectancy of his Life. Years of Age of su
 
 75 7 101 o
 
-76 77 7 | 102 and I upwards }. *
+76 77 7 | 102 and I upwards }.
 
 W here such person is a female the expectancy of life shall, between the ages of twenty-five and seventy years inclusive, be deemed to be two years more, and shall, between the ages of seventy-one and eighty-five years inclusive, be deemed to be one year more than the expectancy set forth in the foregoing table, and at all other ages that table shall apply without any qualification.
 
@@ -6976,7 +6976,7 @@ pounds, and subsections (2) and (3) of section four hundred and thirty of the pr
 
 (3) A seaman or apprentice to the sea service shall, during the period for which he is entitled to receive wages, take part, in accordance with any requirements of the master, in any muster or drill required by rules under this section, and wilful failure or refusal on the part of any such seaman or apprentice so to take part in a muster or drill shall be regarded as wilful disobedience of a lawful command within the meaning of paragraph (b) of subsection (1) of section two hundred and twenty-five of the principal Act; but a seaman or apprentice to the sea service shall not be compelled to take part in a muster or drill at the end of a voyage.
 
-13. Any passenger steamer proceeding on a voyage within the home trade limits shall be exempt from the provisions of this Part of this Act, and the Board of Trade may by order exempt any passenger steamers proceeding on any other voyage specified in the order from all or any of the provisions of this Part of this Act according to the voyage on which they are proceeding, if the Board are of opinion that, having regard to the nature of the voyage, it is unnecessary or unreasonable that the- provisions from which the steamers are exempted should be applied to the steamers during the voyage; but no such exemption shall be given in relation to any voyage in the course of which the steamer goes more than two hundred sea miles from the nearest coast. *
+13. Any passenger steamer proceeding on a voyage within the home trade limits shall be exempt from the provisions of this Part of this Act, and the Board of Trade may by order exempt any passenger steamers proceeding on any other voyage specified in the order from all or any of the provisions of this Part of this Act according to the voyage on which they are proceeding, if the Board are of opinion that, having regard to the nature of the voyage, it is unnecessary or unreasonable that the- provisions from which the steamers are exempted should be applied to the steamers during the voyage; but no such exemption shall be given in relation to any voyage in the course of which the steamer goes more than two hundred sea miles from the nearest coast.
 
 14. For the purposes of this Part of this Act —
 
@@ -7900,7 +7900,7 @@ Every master of a ship, who receives a call for assistance from a vessel in dist
 
 Every master of a vessel in distress has the right to requisition from among the ships which answer his call for assistance the ship or ships which he considers best able to render him assistance, but he must exercise this right only after consultation, so far as may he possible, with the masters of those ships. Such ships are then bound to comply immediately with the requisition by proceeding with all speed to the assistance of the persons in distress.
 
-The masters of the ships which are required to render assistance are released from this obligation as soon as the master or masters requisitioned have made known that they will comply with the requisition, or us soon as the master of one of the ships which has reached the scene of the casualty has made known to them that their assistance is no longer necessary. *
+The masters of the ships which are required to render assistance are released from this obligation as soon as the master or masters requisitioned have made known that they will comply with the requisition, or us soon as the master of one of the ships which has reached the scene of the casualty has made known to them that their assistance is no longer necessary.
 
 If the master of a ship is unable, or considers it unreasonable or unnecessary, in the special circumstances of the case, to go to the
 
@@ -8550,7 +8550,7 @@ Meteorological Information.
 
 Information respecting weather, &c., is given by four groups of five figures each. These groups are preceded by the word “weather.”
 
-First Group (DDPPP) . *
+First Group (DDPPP) .
 
 The day of the month:two figures according to Code I.
 
@@ -11914,7 +11914,7 @@ twelve months unemployment benefit for more than fifteen or cipai Act. such othe
 
 Acts, 1911 and 1913, and this Act may be cited together as the National Insurance Acts, 1911 to 1914.
 
-(2) For the purposes of this Act the expression “insurance year” means such period of not less than fifty-two nor more than fifty-three weeks as may be prescribed. *
+(2) For the purposes of this Act the expression “insurance year” means such period of not less than fifty-two nor more than fifty-three weeks as may be prescribed.
 
 CHAPTER 58.
 
@@ -16492,7 +16492,7 @@ Superannuation), 1914.
 
 4 & 5 Geo. 5.
 
-CHAPTER 67. *
+CHAPTER 67.
 
 An Act to authorise an amendment of the Superannuation Scheme for Teachers in Scotland for the purpose of enabling service in connection with the present War to be reckoned as recorded service under the Scheme.
 
@@ -16506,7 +16506,7 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) For the purposes of the scheme the Department may
 
-record such service as aforesaid. *
+record such service as aforesaid.
 
 (4) For the purposes of the scheme, as regards any period of service as aforesaid, salary shall mean such sum as the Department may determine to be the equivalent of the salary in respect of which deductions from grants payable to managers would have been made in terms of the scheme had the teacher continued his ordinary employment as teacher.
 
@@ -20746,7 +20746,7 @@ TABLE III
 
 Showing the Effect of the Year’s Legislation.
 
-ACTS OF FORMER SESSIONS (IN CHRONOLOGICAL ORDER) REPEALED OR AMENDED BY ACTS OF 4 & 5 GEO. 5. *
+ACTS OF FORMER SESSIONS (IN CHRONOLOGICAL ORDER) REPEALED OR AMENDED BY ACTS OF 4 & 5 GEO. 5.
 
 Statute and Chapter. Subject-matter or Short Title. How affected. Chapter of 4 & 5 Geo. 5.
 
