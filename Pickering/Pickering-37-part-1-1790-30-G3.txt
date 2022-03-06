@@ -142,7 +142,7 @@ Cap. 41. For laying a duty on the importation from any of the provinces in North
 
 Cap. 42. To continue, for a limited time, certain provisions contained in an act made in this present session of parliament, intituled, An act for indemnifying all persons who have been concerned in advising or carrying into execution certain orders of council respecting the importation and exportation of corn and grain, and also certain orders issued by the governor-general of his Majesty's colonies in America; and for preventing suits in consequence of the same; and for making further provisions relative thereto, relating to the importation and exportation of corn and grain; and to authorise his Majesty to permit the exportation of corn, grain, meal, or flour; and to prohibit the importation thereof on the low duties.
 
-Cap. 43. To authorise the of of the customs to defray charges on seizures, out of his majesty's share of seizures in general.
+Cap. 43. To authorise the commissioners of the customs to defray charges on seizures, out of his majesty's share of seizures in general.
 
 Cap. 44. To enable his Majesty to settle a certain annuity on the reverend Francis Willis doctor of physic.
 
@@ -542,11 +542,11 @@ CAP. II.
 
 An act for granting an aid to his Majesty by a land tax, to be raised in Great Britain, for the service of the year one thousand seven hundred and ninety. — 4s. in the pound in England, to raise 1)989, 6731. 7s. lod. iq. in Scotland, 47, 954!. is. ad. — Total 2, 037, 627!. 9s. od. iq.
 
-CAP. III
+CAP. III.
 
 An act for continuing and granting to his Majesty certain duties upon malt, mum, cyder, and perry, for the service of the year one thousand seven hundred and ninety. — 1 Geo. 3. C 3. continued till June 24, 1791.
 
-CAP. IV
+CAP. IV.
 
 An act for taking off the duties upon unwrought tin exported to any of the countries beyond the Cape of Good Hope.
 
@@ -556,15 +556,15 @@ CAP. V
 
 An act: for continuing the term of so much of an act, made in the twenty-third year of the reign of his present Majesty, (chap. 18.) as relates to the rendering the payment of creditors more equal and expeditious in that part of Great Britain called Scotland. — Continued till May 15, 1792*
 
-CAP. VI
+CAP. VI.
 
 An act for punishing mutiny and desertion; for the better payment of the army and their quarters. — Number of forces 17, 448, including; 1, 620 invalids.
 
-CAP. VII
+CAP. VII.
 
 An act for the regulation of his Majesty marine forces while on Shore.
 
-CAP. VIII
+CAP. VIII.
 
 An act to amend two acts, made in the twenty-eighth year of the reign of his present Majesty; the one intituled, An act for regulating the trade between the subjects of his Majesty's colonies and plantations in North America, and in the West-india islands, and the countries belonging to the united states of America; and between his Majesty's said subjects and the foreign islands in the West Indies; and the other intituled, An act to allow the importation of rum, or other spirits, from his Majesty's colonies or plantations in the West Indies, into the province of Quebec, without payment of duty, under certain conditions and restrictions.
 
@@ -576,7 +576,7 @@ It
 
 of the king's ships, or any officer specially authorised by them $ to be recovered and applied to the customs, either in this kingdom, or in North America, or the West Indies, as the case may happen. Commencement of aft May 1, 1790.
 
-CAP. IX
+CAP. IX.
 
 An act for defraying the charge of pay and clothing of the militia, in that part of Great Britain called England, for one year, beginning the twenty-fifth day of March one thousand seven hundred and ninety. — Continued annually.
 
@@ -636,21 +636,21 @@ VII. And be it enacted by the authority aforesaid, That the speaker of the house
 
 Speaker not to hold any
 
-CAP. XI
+CAP. XI.
 
 An act to continue the laws now in force for regulating the trade between the subjects of his majesty's dominions and the inhabitants of the territories belonging to the united states of America, so far as the same relate to the trade and commerce carried on between this kingdom and the inhabitants of the countries belonging to the said united states.
 
 33 Geo. 3. C 39. 34 Geo. 3. C 45. 33 Geo. 3. fe. 39. so far as relates to the commerce between this kingdom and the united states of America, and 34 Geo. 3. C 49. to continue in force till April 5, 179!. Articles from any place bordering on the Baltic, which may be exported from this kingdom, if exported contrary to law, and goods imported from the united states of America, and not permitted by law, and also goods imported from these states contrary to law, to be forfeited. How forfeitures are to be recovered and applied. Act to continue in force till April 5, 1791; but may be repealed this session.
 
-CAP. XII
+CAP. XII.
 
 Art act to indemnify such persons as have omitted to qualify themselves for offices and employments; and to indemnify justices of the peace, or others, who have omitted to register or deliver in their qualifications within the time limited by law, and for giving further time for those purposes; and to indemnify members and officers, in cities, corporations, and borough towns, whose admissions have been omitted to be stamped according to law, or, having been stamped, have been lost or mislaid, and for allowing them time to provide admissions duly stamped; to give further time to such persons as have omitted to make and fild affidavits of the execution of indentures of clerks to attorneys and solicitors; for indemnifying deputy lieutenants and officers of the militia, who have neglected to transmit descriptions of their qualifications to the clerks of the peace within the time limited by law; and for giving further time for that purpose.
 
-CAP. XIII
+CAP. XIII.
 
 An act for appointing of to put in execution an act of this session of parliament, (intituled, An act for granting an aid to his majesty by a land tax, to be raised in Great Britain, for the service of the year one thousand seven hundred and ninety), together with those named in two former acts foj; appointing of of the land tax.
 
-CAP. XIV
+CAP. XIV.
 
 An act for continuing the encouragement and reward of persons making certain discoveries for finding the longitude at sea, or making other useful discoveries and improvements in navigation, and for making experiments relating thereto; and for adding a commissioner to execute the several acts for the discovery of the longitude at sea.
 
@@ -674,7 +674,7 @@ nes, C ing lester discoveries for finding the longitude at sea, or any other
 
 discoveries and improvements useful to navigation, out of any moneys which shall be in his the said treasurer's hands unapplied to the use of the navy.
 
-Sums paid by JJ provided always, and be it enacted, That all such sum or a<^not°mex ^lirns money as shah be Pa by the treasurer of the navy, by ceed 5, cool, virtue of this act, for the purposes of making such experiments as aforesaid, and in rewarding in a lester degree lester discoveries for finding the longitude at sea, and also other discoveries and improvements useful to navigation, do not all together exceed the sum of five thousand pounds; provided also that such sum or sum shall be certified, and such bills shall be made out, and payment thereof made in such manner, and under the same regulations and provisions as are in and by the said act, of the fourteenth year of his present Majesty, prescribed with regard to the sum of five thousand pounds by the said act made applicable to the encouragement and reward of such person or persons as Should make letter discoveries for finding the longitude at sea, or make other useful disco ries and improvements in navigation, and to the better making of experiments relating thereto. a6geo.a. c.25. HI. And whereas by an act passed in the twenty ft xth year of the reign of his late majesty King George the Second, entitled An act to render more effectual an act made in the twelfth year of the reign of her late majesty Queen Anne intituled, An act for providing a public k reward for such person or perfotis as flmll discover the longitude at sea, with regard to the making experiments of proposals made for discovering the longitude, and to enlarge the number of com missoners for putting in execution the said act, the secretary of the ad miralty for the tune being is appointed one of the commissioners for pvt ting in execution the said acts: and whereas face the passing thereof an Secretaries of additional secretary to the adtniralty has been appointed; be it there the admiralty fore enacted, That the secretaries of the admiralty for the time to be commit being shall be, and they are hereby appointed com rnilti oners for gitude.° n" putt*ng e salt and also an act passed in the fifth year of his
+Sums paid by JJ provided always, and be it enacted, That all such sum or a<^not°mex ^lirns money as shah be Pa by the treasurer of the navy, by ceed 5, cool, virtue of this act, for the purposes of making such experiments as aforesaid, and in rewarding in a lester degree lester discoveries for finding the longitude at sea, and also other discoveries and improvements useful to navigation, do not all together exceed the sum of five thousand pounds; provided also that such sum or sum shall be certified, and such bills shall be made out, and payment thereof made in such manner, and under the same regulations and provisions as are in and by the said act, of the fourteenth year of his present Majesty, prescribed with regard to the sum of five thousand pounds by the said act made applicable to the encouragement and reward of such person or persons as Should make letter discoveries for finding the longitude at sea, or make other useful disco ries and improvements in navigation, and to the better making of experiments relating thereto. a6geo.a. c.25. HI. And whereas by an act passed in the twenty ft xth year of the reign of his late majesty King George the Second, intituled An act to render more effectual an act made in the twelfth year of the reign of her late majesty Queen Anne intituled, An act for providing a public k reward for such person or perfotis as flmll discover the longitude at sea, with regard to the making experiments of proposals made for discovering the longitude, and to enlarge the number of com missoners for putting in execution the said act, the secretary of the ad miralty for the tune being is appointed one of the commissioners for pvt ting in execution the said acts: and whereas face the passing thereof an Secretaries of additional secretary to the adtniralty has been appointed; be it there the admiralty fore enacted, That the secretaries of the admiralty for the time to be commit being shall be, and they are hereby appointed com rnilti oners for gitude.° n" putt*ng e salt and also an act passed in the fifth year of his
 
 *7
 
@@ -682,25 +682,25 @@ Sums paid by JJ provided always, and be it enacted, That all such sum or a<^not�
 
 present majesty's reign, for explaining and rendering more effectual the said acts, into execution, as fully and effectually as if they had been appointed commioioners of the said acts of the twelfth year of Queen Anne, of the twenty sixth year of the reign of King George the Second, and of the fifth year of the reign of his present Majesty, or any or either of them.
 
-CAP. XV
+CAP. XV.
 
 An act for raising a certain sum of money by loans or exchequer bills, for the service of the year one thousand seven hundred and ninety.
 
 Commissioners of the treasury may raise 3, 500, 000!. by loans and exchequer bills, before Jan. 5, 1791, in like manner as is preicribed by the malt ad of this session, concerning loans, See. The clauses, See. in the said act relating to loans or exchequer bills, (exception) extended to this act. Exchequer bills so issued not to be received again in payment of any taxes, nor exchanged before April 6, 1791. Action not to lie for such refufab Principal and interest, with charges, to be repaid out of the next supplies; and if sufficient supplies be not granted before July 5, 1791, to be charged on the consolidated fund. Moneys so issued to be replaced out of the first supplies. Bank of England authorised to advance the said sum on the credit of this act; an act 5 and 6 Gul. & Marias notwithstanding.
 
-CAP. XVI
+CAP. XVI.
 
 An act for raising a further sum of money by loans or exchequer bills, for the service of the year one thousand seven hundred and ninety.
 
 Commissioners of the treasury may raise a, oooo, ooool. by loans and exchequer bills, before Jan. 5, 1791, in manner as by the malt ad of this session is prescribed, C The clauses in the said act relating to loans or bills, (exception) extended to this act. Exchequer bills so lltued not to be received again in payment of any taxes, nor exchanged before April 6, 17-91. Action not to lie for such refusal. Money so raised to be repaid out of the next parliamentary aid; and if sufficient supplies be not granted before July 5, 1791, to be charged on the consolidated fund. Moneys so issued to be replaced out of the first supplies. Bank of England authorised to advance the said sum on the credit of this act; an act 5 and 6 Gul. Sc Mai'iae notwithstanding.
 
-CAP. XVII
+CAP. XVII.
 
 An act for altering the time appointed for holding the summer session in the court of session in Scotland; and for altering Whitsuntide and Lammas terms in the court of exchequer in Scotland.
 
 The summer session in the court of session to begin upon May 12, and end July 11. Whitsuntide term in the exchequer to begin upon May 12, and end June a; and Lammas term to begin upon June 17, and end July 5, Spring circuits to be held between March ia, and May 12. 16 Geo. a. C II recited. Complaint to the lord ordinary, on the bills in time of vacation, to be equivalent to complaint to the court of session as directed by the recited act. Writs already issued from the exchequer, returnable on June ia, 1790, may be proceeded on, as if they had been returnable on the first day of Lammas term.
 
-CAP. XVIII
+CAP. XVIII.
 
 An act to continue the several laws therein mentioned, relating to encouraging the manufacture of leather by lowering the duty payable upon the importation of oak bark, when the price of such bark shall exceed a certain rate; to the prohibiting the exportation of tools and utensils made use of in the iron and steel manufactures of this kingdom, and to VOL. XXXVII C prevent
 
@@ -710,13 +710,13 @@ prevent the seducing of artificers and workmen, employed in those manufactures, 
 
 ia Geo. 3. C 50, for encouraging the manufacture of leather, continued for 5 years. 26 Geo. 3. c.89, to extend to other tools and utensils, 25 Geo.3. C &7, continued to the end of the next session. So much of 27 Geo. 3. C 31, as directs that all spirits shall be deemed of the strength denoted by clarke's hydrometer, continued to the end of the next session.
 
-CAP. XIX
+CAP. XIX.
 
 An act for allowing further time for inrollment of deeds and wills made by Papists, and for relief of Protestant purchasers.
 
 Act 3 Geo. 1, recited. Deeds and wills of Papists, C made since Sept. 39, 1717, to be good in law, if enrolled before Sept. 1, 1790. This act not to extend to deeds, C the validity whereof has been brought in question before Jan. i, 1790. Purchases made not to be avoided, on account of the title deeds not having been enrolled, C This act not to make good any grant of the right of presentation to any benefice, C in trust for any Papist.
 
-CAP. XX
+CAP. XX.
 
 An act for rebuilding the parish church and tower of Saint Thomas, within the city of Bristol.
 
@@ -728,13 +728,13 @@ raise 4001. Other trustees to sell stock. Commissioners to raise money on the ra
 
 30 days notice. General issue. Treble costs. Public act.
 
-CAP. XXI
+CAP. XXI.
 
 An act for better supplying the city of Norwich, and the parts adjacent, with water.
 
 Corporation empowered to make proper works for supplying the city, and parts adjacent, with water from the river Wenfon; making satisfaction for damages. If parties disagree, damages to be settled by a jury. verdict of jury, C to be binding. Penalty on interrupting or damaging the works, 101.5 and on annoying the water, within 600 yards above the new mills, penalty of 40s. Inhabitants empowered to set pipes from their houses, to communicate with those belonging to the corporation. Ground, where broke up for laying or repairing pipes, to be made good as soon as may be. Recovery of penalties, by distress and sale, and commitment for .3 months. Appeal, to the general quarter sessions, in months. Limitation of actions to six months. General issue. Treble costs. No lease of the present waterworks to be affected. Public act.
 
-CAP. XXII
+CAP. XXII.
 
 An act for the better relief and employment of the poor, within the hundreds of Colneis and Carlford, in the county of Suffolk.
 
@@ -746,13 +746,13 @@ without consent of directors, C Children already bound to continue the remainder
 
 1790.] Anno regni tricesimo Georgii III. C 23. tx
 
-CAP. XXIII
+CAP. XXIII.
 
 An act to continue, for a limited time, an act made in the twenty seventh year of the reign of his present Majesty, intituled, An act to enable the lord high treasurer, or of of the treasury for the time being, to let to farm the duties, granted by an act made in the twenty-fifth year of his present majesty's reign, on horses Jet to hire for travelling post, and by time, to such persons as Should be willing to contrail for the same.
 
 WHEREAS by an act, made and passed in the twenty seventh Preamble.
 
-year of his present Majesty's reign, intituled, An act to enable a7geo.3. c. 26, the lord high treafuier, or of of the treafur}: for the recited, time being, to let to farm the duties, granted by an act made in the twenty-fifth year of his present majesty's reign, on horses lit to hire for travelling post, and by time, to such persons as Should be willing to contrail for the same; the lord high treasurer, or commissioners of the treasury, or any three or jnore of them for the time being, were empowered, either by themselves, or by his Majesty s com missioners for managing the duties on stamped vellum, parchment, and paper, thereunto duly authorised, to let to farm the several therein recited rates and duties, to such persons as Should be willing to farm the same, for any term not exceeding three years, at a relit not less than the gross amount which the same Should appear to have produced within the year ending on the first day of August one thousand seven hundred and eighty six, under certain rules, directions, regulations, and re jlriftions, expressed in the said act: and whereas the said of for managing the duties on stamped vellum, parchment, and paper, being duly authorised by the lords of of his majesty' s treasury for that purpose, did, pursuant thereto, let to farm, separately in disirifts, the respective rates and duties arising within each difirift, for the respective terms of three years, in the manner directed by the said act, which terms will expire on or before the first day February one thousand seven hundred and ninety one: and whereas it appears to be expedient that the provisions and powers of the said act Should he continued for a limited time; may it therefore please your Majesty that it may be enacted; and be it enailed by the king's most ex V cellent majesty, by and with the advice and consent of the lords spiritual and temporal, and commons, in this present parliament assembled, and by the authority of the same, That it shall and may From Aug. X be lawful, from and after the first day of August one thousand 1790, the seven hundred and ninety, to and for the lord high treasurer, or tr^atury may the of of the treasury, or any three or more of them [^vdutks1 for the time being, and they are hereby empowered, from time to grantedbythe time, as it shall and may be necessary, either by themselves, or by recited act, his majesty's of for managing the duties on stamped vellum, parchment, and paper, thereunto authorised for that purpose, under the hand and seal of the lord high treasurer, or under the hands and seals of the commissioners of the treasury, or any three or more of them for the time being, to let to farm, separately in districts, the said rates and duties arising within each
+year of his present Majesty's reign, intituled, An act to enable a7geo.3. c. 26, the lord high treafuier, or of of the treafur}: for the recited, time being, to let to farm the duties, granted by an act made in the twenty-fifth year of his present majesty's reign, on horses lit to hire for travelling post, and by time, to such persons as Should be willing to contrail for the same; the lord high treasurer, or commissioners of the treasury, or any three or jnore of them for the time being, were empowered, either by themselves, or by his Majesty s com missioners for managing the duties on stamped vellum, parchment, and paper, thereunto duly authorised, to let to farm the several therein recited rates and duties, to such persons as Should be willing to farm the same, for any term not exceeding three years, at a relit not less than the gross amount which the same Should appear to have produced within the year ending on the first day of August one thousand seven hundred and eighty six, under certain rules, directions, regulations, and re jlriftions, expressed in the said act: and whereas the said of for managing the duties on stamped vellum, parchment, and paper, being duly authorised by the lords of of his majesty' s treasury for that purpose, did, pursuant thereto, let to farm, separately in disirifts, the respective rates and duties arising within each difirift, for the respective terms of three years, in the manner directed by the said act, which terms will expire on or before the first day February one thousand seven hundred and ninety one: and whereas it appears to be expedient that the provisions and powers of the said act Should he continued for a limited time; may it therefore please your Majesty that it may be enacted; and be it enacted by the king's most ex V cellent majesty, by and with the advice and consent of the lords spiritual and temporal, and commons, in this present parliament assembled, and by the authority of the same, That it shall and may From Aug. X be lawful, from and after the first day of August one thousand 1790, the seven hundred and ninety, to and for the lord high treasurer, or tr^atury may the of of the treasury, or any three or more of them [^vdutks1 for the time being, and they are hereby empowered, from time to grantedbythe time, as it shall and may be necessary, either by themselves, or by recited act, his majesty's of for managing the duties on stamped vellum, parchment, and paper, thereunto authorised for that purpose, under the hand and seal of the lord high treasurer, or under the hands and seals of the commissioners of the treasury, or any three or more of them for the time being, to let to farm, separately in districts, the said rates and duties arising within each
 
 22
 
@@ -768,13 +768,13 @@ II Provided always, and be it enacted, That no such contrast or agreement, for l
 
 III. And be it further enacted, That all the powers, provisions, articles, clauses, penalties, and forfeitures, and ail other directions, matters, and things prescribed or appointed by the said recited act, not altered by or repugnant to this act, shall be in full force and effect, as fully, to all intents and purposes, as if the same, and every of them, had severally been re enacted in this act.
 
-CAP. XXIV
+CAP. XXIV.
 
 An act for enabling his Majesty to raise the sum of one million, for the uses and purposes therein mentioned.
 
 His Majesty by sign manual may authorise the treasury to direct loans to be received, and exchequer bills to be made out for i, oooo, ooool. agreeable to the rules of the malt ad. Clauses of the malt act to extend to this act, except those charging the loans on the malt tax, and limiting the rate of interest. Loans, Sec. to be charged upon the first supplies of next session, or the next consolidated fund. Moneys issued out of the consolidated fund to be replaced out of the first supplies. Bank of England may advance money upon the credit of this act.
 
-CAP. XXV
+CAP. XXV.
 
 An act for paving and otherwise improving the town of Honiton in the county of Devon.
 
@@ -802,7 +802,7 @@ Proceedings to be entered. Recovery of penalties, proved before a justice of pea
 
 Appeal against rates to quarter sessions. Limitation of actions to 31 days notice, and not after 3 months. General issue. Treble costs. Public act.
 
-CAP. XXVI
+CAP. XXVI.
 
 An act to exempt goods and chattels imported from the settlement of Y ucatan in South America, and sold by auction in Great Britain, from the duty hnposed on fuel? sales; and for allowing a drawback of the duties on goods exported to Yucatan.
 
@@ -818,7 +818,7 @@ months after such goods shall be imported, and by some person duly licensed to e
 
 II And whereas drawbacks of the whole or part of duties paid upon certain goods aid commodities, are allowed to the exporter on the due exportation thereof into the British colonies in America: and whereas it is expedient that the like drawbacks Should be allowed on the exportation of such goods and commodities to the said settlement at Y ucatan; and exporters be it therefore further enacted, That, from and after the said fifth of goods today of July one thousand seven hundred and ninety, there shall be paid or allowed to the exporter or exporters of any goods or commodities which shall be exported to the said settlement of Yucatan, the like drawback of the duties of customs and excise as is now allowed on the exportation of such goods or commodities to the British colonies or plantations in America, on condition that the same shall be exported in such and the like manner, and under such and the like rules, regulations, provisions, reflections, penalties, and forfeitures, as such goods or commodities are now subjecf and liable to, upon the exportation thereof, for a drawback to the British colonies or plantations in America: provided also, that the like bond shall be given for the due exportation thereof, with further condition that the exporter thereof shall produce a certificate under the hands and seals of two British merchants, within the space of twelve calendar months from the exportation thereof, that the same have been duly landed there.
 
-CAP. XXVII
+CAP. XXVII.
 
 An act for encouraging new settlers in his Majesty s colonies and plantations in America.
 
@@ -842,7 +842,7 @@ II. And be it further enacted, That all sales or bargains for the sale of any ne
 
 III. And be it further enacted, That every white person so coming to reside, if above the age of fourteen years, shall, and he is hereby required, immediately after his arrival, to take and subscribe the oath of allegiance to his Majesty, his heirs and successors, before the governor, lieutenant governor, or chief magistrate of the place where such person shall arrive, and at the same time swear that it is his intention to reside and settle in such island or province; for which oaths such governor, lieutenant governor, or chief magistrate, shall receive the same see, and no more, as is payable by law on administering the oath of allegiance in cases where the same is now by law required.
 
-CAP. XXVIII
+CAP. XXVIII.
 
 An act for permitting the importation of Cashew gum from his Ala jessy's West-india islands, upon payment of the like duty as is paid upon the importation of gum Arabic, or gum Senega.
 
@@ -862,7 +862,7 @@ Anno regni tricesimo Georgii III. C 29. [1790.
 
 duty than gum ntzdoxc and gum Senega is now allowed to be imported', be it therefore enabled by the king's most excellent majesty, by and with the advice and consent of the lords spiritual and temporal, and commons, in this present parliament assembled, and by the authority of the same, That, from and after the fifth day of July one thousand seven hundred and ninety, Cashew gum the growth or production of any of his majesty's West-india islands, (Tn which the Bahama and Bermuda or Somers islands are included), shall and may be imported into any port of Great Britain, in British ships, owned by his majesty's subjects, and navigated according to law, on payment of the same duty, and no other, as is now paid upon the importation of gum Arabic, or gum Senega, into any port of Great Britain; and such duty hall be raised, levied, collected, paid, recovered, and applied, in the same manner as the said duty upon gum Arabic, or gum Senega, is raised, levied, collected, paid, recovered, and applied.
 
-CAP. XXIX
+CAP. XXIX.
 
 An act for amending an act, passed in the twenty seventh year of the reign of his present Majesty, intituled, An act for allowing the importation and exportation of certain goods, wares, and merchandise, in the ports of Kingson, Savannah la Mar, Montego Bay, and Santa Lucea in the island of Jamaica, in the port of Saint George in the island of Grenada, in the port of Roseau in the island of Dominica, and in the port of Nassau in the island of" New Providenceone of the Bahama islands, under certain regulations and restrictions; and for regulating the duties on the iinportation of goods and commodities the growth and production of the countries bordering on the province Quebec.
 
@@ -878,7 +878,7 @@ II And whereas it is expedient that goods or commodities the growth or productio
 
 Anno regni tricesimo Georgii III. C 30. [1790.
 
-CAP. XXX
+CAP. XXX.
 
 An act for granting to his Majesty a certain sum of money, to be raised by a lottery.
 
@@ -908,7 +908,7 @@ such beneficial chance as shall belong to the ticket numbered as above, in the l
 
 Persons counterfeiting shares: &: guilty of felony, and suffer as such. General issue. Treble costs.
 
-CAP. XXXI
+CAP. XXXI.
 
 An act to alter so much of an act, made in the twelfth year of the reign of his late majesty King George the Second intituled, An act for the better preventing frauds and abuses in gold and silver wares; and also so tnuch of another ast, made in the twenty-fourth year of the reign of his present Majesty, intituled, An act for granting to his Majesty certain duties on all gold and silver plate imported, and also certain duties on all gold and silver wrought plate made in Great Britain, as relates to the marking of silver wares.
 
@@ -968,7 +968,7 @@ coliars, and tops for castors, cruets, or glasses appertaining to any sort of Ha
 
 VI. And be it further enacted by the authority aforesaid, That Public act this act shall be deemed and taken to be a public ad; and shall be judicially taken notice of as such, by, all judges, justices, and other persons, without specially pleading the same.
 
-CAP. XXXII
+CAP. XXXII.
 
 An act for granting to his Majesty a certain sum of money out of the consolidated fund; for applying certain moneys therein mentioned for the service of the year one thousand seven hundred and ninety; and for further appropriating the supplies granted in this session of parliament.
 
@@ -1006,7 +1006,7 @@ forts in Africa. 4, 859b is. 8d, for roads and bridges in the highlands of North
 
 the secretary to the commissioners for inquiring into Losses in East Florida. 1, 900b issued to the secretary of the commissioners for inquiring into Losses of American loyalists. 2, 951b is. xod. expenses of trial of W. Hastings esq. 1, ooool. issued for expenses of inquiring into the emoluments of the officers of the customs i, jab 6s. 3d. q. issued to T. Cotton esq. to pay bills of exchange, by direction of the treasury. 3, 162b 5s. 6d. paid to T. Dundas and J. Pemberton esqrs. of to inquire, in America, into Losses, C 30, 520b 17s. id. for extraordinary expense of the mint in 1788. 51, 638b 6s. 1 id. for provisions, e. sent to settlements in South Wales. 910b for printing reports on the African trade. 35, 785b 15s. 6d. for relief of American sufferers. 49, 556b 17s. 6d. for lands in Georgia ceded to the Americans, interest at percent, from July 5, 1788, to July 5, 1790. 231, 517b 12s. 2d. iq. for deficiency of grants, 1789. Supplies to be applied for the purposes before mentioned, C Rules to be observed in the application of the sum granted for half pay. By 29 Geo. 3. C 61. a sum not exceeding 172, 787b 5s. 5d. was appropriated to be paid to reduced offfeers for 1789. The overplus of which sum to be disposed of to officers maimed, cor to their widows and children as his Majesty ill all direct.
 
-CAP. XXXIII
+CAP. XXXIII.
 
 An act to amend and continue, for a limited time, several acts of parliament for regulating the shipping and carrying slaves in british vessels from the coast of Africa.
 
@@ -1104,7 +1104,7 @@ rival the voyage
 
 Anno regni tricesimo Georgii III. C 33. [1790.
 
-rival of such ship or vessel on the coast of Africa to the time of her arrival at her port of discharge in any of the islands of the West Indies, belonging to or under the dominion of his Majesty, his heirs or successors, in such case the collector or other principal officer hall, and he is hereby authorised and required to make out certificates, specifying the number of Haves that appear to the^of^'cfth11 ave een ta^eri on hoard the said ship or vessel, and the number commission 6 have died within the period abovementioned, one of which ers of the certificates shall be delivered to the mailer, and the other to the customs, they surgeon of such hip or vessel, and on production of such certificates? tjje of of his majesty's customs in England and Scotland respectively shall, and they are hereby authorised and required to direct the sum of one hundred pounds to be paid to the master, and the sum of fifty pounds to be paid to the surgeon, of such hip or vessel, out of any money that shall be in the hands of the receiver-general of the customs of England and Scotland respectively j or if it shall be made appear to the collector or other principal officer as aforesaid, that there shall not have died more than in the proportion of three slaves in the hundred, from the time of the arrival of such ship or vessel on the coast oi Africa to the time of her arrival at her port of discharge in any of the said ivejl India islands, in such case the collector or principal officer as aforesaid shall, and he is hereby required and authorised to make out like certificates, and to deliver one to the master and the other to the surgeon of such ship or vessel, and the of of the customs in England and Scotland respectively shall, and they are hereby authorised and required, on production of such certificates, to direct the sum of fifty pounds to be paid to the master, and the sum of twenty-five pounds to be paid to the surgeon of such ship or vessel.
+rival of such ship or vessel on the coast of Africa to the time of her arrival at her port of discharge in any of the islands of the West Indies, belonging to or under the dominion of his Majesty, his heirs or successors, in such case the collector or other principal officer hall, and he is hereby authorised and required to make out certificates, specifying the number of Haves that appear to the^of^'cfth11 ave een ta^eri on hoard the said ship or vessel, and the number commission 6 have died within the period abovementioned, one of which ers of the certificates shall be delivered to the mailer, and the other to the customs, they surgeon of such hip or vessel, and on production of such certificates? tjje of of his majesty's customs in England and Scotland respectively shall, and they are hereby authorised and required to direct the sum of one hundred pounds to be paid to the master, and the sum of fifty pounds to be paid to the surgeon, of such hip or vessel, out of any money that shall be in the hands of the receiver-general of the customs of England and Scotland respectively j or if it shall be made appear to the collector or other principal officer as aforesaid, that there shall not have died more than in the proportion of three slaves in the hundred, from the time of the arrival of such ship or vessel on the coast oi Africa to the time of her arrival at her port of discharge in any of the said ivejl India islands, in such case the collector or principal officer as aforesaid shall, and he is hereby required and authorised to make out like certificates, and to deliver one to the master and the other to the surgeon of such ship or vessel, and the commissioners of the customs in England and Scotland respectively shall, and they are hereby authorised and required, on production of such certificates, to direct the sum of fifty pounds to be paid to the master, and the sum of twenty-five pounds to be paid to the surgeon of such ship or vessel.
 
 XI And whereas it is just and warrantable that compensation Should be made to individuals who may have fujlained Losses in confer quence of the act made in the twenty eighth year of the reign of his present Majesty, intituled, An act to regulate, for a limited time,the shipping and carrying slaves in british vessels from the coast
 
@@ -1306,7 +1306,7 @@ Customhouse,
 
 dated the of
 
-CAP. XXXIV
+CAP. XXXIV.
 
 An act for giving relief to such persons as have suffered in their rights and properties, during the late unhappy dissentions in America, in cojifequence of their loyalty to his Majesty'snd attachment to the British government; for making compensation to persons who furnished provisions, or other necessary articles, to the army or navy in America during the wai\ or whose property was used, feizeef or defrayed for the carrying on the public service there; and afo for making compensation to such persons as have suffered in their properties, in consequence of the cejfwn of the province of East Florida to the king of Spain.
 
@@ -1404,7 +1404,7 @@ X Provided always, and be it enacted by the authority aforesaid, That whatever m
 
 XI And it is hereby enacted by the authority aforesaid, That if any person or persons shall forge or counterfeit. any order, which shall have been made forth by virtue of this act, before the same shall have been paid off and cancelled, or any order to be renewed or made forth in pursuance of this actor any endorsement or writing thereupon or therein, or tender in payment any such forged or counterfeit order, with intent to defraud his majesty, his heirs and successors, or the person or persons to be appointed to pay off the same, or to pay any interest thereupon, or any of them, then every such person or persons so offending, being thereof lawfully convicted, shall be adjudged a felon, and shall suffer death as in cases of felony, without benefit of clergy.
 
-CAP. XXXV
+CAP. XXXV.
 
 An act to explain and amend an act, passed in the twentieth year of the reign of his present Majesty, touching the election for knights of the Shire to serve in parliament for that part of Great Britain called England.
 
@@ -1420,7 +1420,7 @@ Anno regni tricesimo Georgii III. C 36. [1790.
 
 II. And be it further enacted by the authority aforesaid, That nothing in the said acts contained shall extend, or be construed to extend, to prevent any person from voting at any such election of a knight or knights of any Shire, or of a burgess or burgeltes for the said borough of Cricklade, for or in respect of any me ffu ages, lands, or tenements, which have been charged or aneiled, for six calendar months next before such election, towards some aid granted, or to be granted to his Majesty, his heirs or successors, by a land tax, in the name of a tenant or tenants actually occupying the same at the time of such assessment being made, although the name of the person so claiming to vote, or the person or persons by or through whom such person so claiming to vote derives his title, or of the predecessor of the person so claiming to vote, shall not be inserted in the assessment, according to the form of the assessment to the said first recited act annexed.
 
-CAP. XXXVI
+CAP. XXXVI.
 
 An act to alter, explain, and amend an act ? made in the twenty-eighth year of the reign of his present Majesty, intituled, An act' for limiting the number of persons to be carried on the outside of stage coaches, or other carriages, and for regulating the conduct of the drivers and guards thereof
 
@@ -1480,7 +1480,7 @@ V And be it further enacted, That if any person going or travelling as a guard t
 
 VII. And be it further enacted, That this act be deemed a public ad; and half be judicially taken notice of as such, by all judges, justices, and other performs whomsoever, without specially pleading the same.
 
-CAP. XXXVII
+CAP. XXXVII.
 
 An act to continue two als, made in the twenty-eighth and twenty-ninth years of the reign of his present Majesty, "for discontinuing, for a limited time, the several duties payable in Scotland upon low zuines and spirits, and upon worts, wash, and other liquors, there tfed in the distillation of spirits, and for granting to his Mctjejly other duties in lieu thereof \ and for better regulating the exportation of british made spirits from England to Scotland, and froin Scotland to England; and to continue, for a limited time, an act made in the twenty sixth year of the reign of his present Majesty, " to discontinue, for a limited time, the payment of the duties upon low wines and spirits for home coyfumption; and for granting and securing the due payment of other duties in lieu thereof; and for the better regulation of the making and vending British spirits; and for di[continuing, for a limited time, certain impofis and duties'upon rum and spirits imported from the West Indies and for amending
 
@@ -1566,7 +1566,7 @@ IX. And be it further enacted by the authority aforesaid, That 29 Geo. 3. so muc
 
 such parts thereof as are repugnant to the said made in the twenty-eighth year of the reign of his present Majesty and also so much thereof as enacts, That the said act made in the twenty-eighth year of the reign of his said Majesty, except such parts thereof as are expressly repealed by the said af made in the twenty-ninth year of the reign of his present Majesty, shall, from and immediately after the fifth day of July one thousand seven hundred and eighty nine, be revived, and continued until and upon the fifth day of July one thousand seven hundred and ninety, shall, from a id immediately after the said fifth day of July one thousand seven hundred and ninety, continue in full force and effect until and upon the fifth day of July one thousand seven hundred and ninety one.
 
-CAP. XXXVIII
+CAP. XXXVIII.
 
 An affi for repealing the duties upon licences for retailing wine and sweets, and upon licences for retailing distilled spirituous liquors 7 and for granting other duties in lieu thereof
 
@@ -1622,7 +1622,7 @@ of the said respectively recited duties which may, on the said tenth day of Octo
 
 IV. And be it further enacted by the authority aforesaid, That, fromost. 10, from and after the said tenth day of October one thousand seven
 
-hundred and ninety, all licences which, before the said tenth day gr}nted°to fell of October one thousand seven hundred and ninety, shall have been wine orspirits granted by the said of of stamps, or any of them, to by retail, to any person or persons whatsoever, to sell wine by retail, or to be void, fell by retail british made wines or sweets, and which shall be then unexpired; and also all licences which, before the said tenth day of October one thousand seven hundred and ninety, shall have been granted by the said of of excise in England and Scotland respectively, or any of them, or by the collectors and supervisors of excise, or any of them, in England and Scotland respectively,
+hundred and ninety, all licences which, before the said tenth day gr}nted°to fell of October one thousand seven hundred and ninety, shall have been wine orspirits granted by the said of of stamps, or any of them, to by retail, to any person or persons whatsoever, to sell wine by retail, or to be void, fell by retail british made wines or sweets, and which shall be then unexpired; and also all licences which, before the said tenth day of October one thousand seven hundred and ninety, shall have been granted by the said commissioners of excise in England and Scotland respectively, or any of them, or by the collectors and supervisors of excise, or any of them, in England and Scotland respectively,
 
 Persons whose licences shall be so voided, to be allowed a rateable proportion for the time unexpired, on taking out new Jictnces.
 
@@ -1632,11 +1632,11 @@ Manner of granting such licences.
 
 Anno regni tricesimo Georgii III. C 38. [1790.
 
-or by any persons appointed by the aid of of excise in England and Scotland respectively, or the major part of them respectively, to any person or persons whatsoever, to retail distilled spirituous liquors or strong waters, and which shall be then unexpired, shall, on the said tenth day of October one thousand seven hundred and ninety, become and be null and void to all intents and purposes whatsoever; anything in the said licences expressed, or in any act or acts of parliament contained, to the contrary thereof in anywise notwithstanding.
+or by any persons appointed by the aid commissioners of excise in England and Scotland respectively, or the major part of them respectively, to any person or persons whatsoever, to retail distilled spirituous liquors or strong waters, and which shall be then unexpired, shall, on the said tenth day of October one thousand seven hundred and ninety, become and be null and void to all intents and purposes whatsoever; anything in the said licences expressed, or in any act or acts of parliament contained, to the contrary thereof in anywise notwithstanding.
 
 V And be it further enacted by the authority aforesaid, That all and every person or persons whose licence for retailing of wine, or for selling by retail british made wines or sweets, or to retail distilled spirituous liquors or strong waters, shall be or become null and void under and by virtue of this act, shall, on his, her, or their taking out a licence of the same kind as his, her, or their licence so become null and void for the year ending on the tenth day of October one thousand seven hundred and ninety, under and by virtue of this act, be allowed to deduct, out of the money by this act directed to be paid for such last mentioned licence, a rateable proportion according to the sum or sums of money by him, her, or them paid for such his, her, or their licence so become null and void, and the portion of time for which such licence was granted to be In force which shall be unexpired at the time of such licence so becoming null and void.
 
-VI. And be it further enacted by the authority aforesaid, That, from and after the said tenth day of October one thousand seven hundred and ninety, all and every person or persons who shall retail foreign wine, or british made wines, or sweets, or distilled spirituous liquors or strong waters, shall, before he, she, or they shall retail any foreign wine, or any british made wines or sweets, or any distilled spirituous liquors or strong waters, take out such licence herein after mentioned, as the case may require, authorising such person or persons to retail foreign wine, or britifo made wines or sweets, or distilled spirituous liquors or strong waters, as the case may require; which licences respectively shall be granted in manner herein after mentioned; that is to say, If any such licence shall be taken out within the limits of the chief office of excise in London, the same shall be granted under the hands and seals of two or more of the commissioners of excise in England for the time being, or of such persons as they the said of of excise, or the major part of them for the time being, shall from time to time appoint for that purpose; but if any such licence shall be taken out in any part of the kingdom of England not within the said limits, the same shall be granted under the respective hands and seals of the several collectors and supervisors of excise within their respective collections and districts; and in case any such licence shall be taken out within the limits of the city of Edinburgh, the same shall be granted under the hands and seals of two or more of the commissioners of excise in Scotland for the time being: or if any such licence shall be taken out in that part of Great Britain galled Scotland out of tlje said limits of the city of Edinburgh, then
+VI. And be it further enacted by the authority aforesaid, That, from and after the said tenth day of October one thousand seven hundred and ninety, all and every person or persons who shall retail foreign wine, or british made wines, or sweets, or distilled spirituous liquors or strong waters, shall, before he, she, or they shall retail any foreign wine, or any british made wines or sweets, or any distilled spirituous liquors or strong waters, take out such licence herein after mentioned, as the case may require, authorising such person or persons to retail foreign wine, or britifo made wines or sweets, or distilled spirituous liquors or strong waters, as the case may require; which licences respectively shall be granted in manner herein after mentioned; that is to say, If any such licence shall be taken out within the limits of the chief office of excise in London, the same shall be granted under the hands and seals of two or more of the commissioners of excise in England for the time being, or of such persons as they the said commissioners of excise, or the major part of them for the time being, shall from time to time appoint for that purpose; but if any such licence shall be taken out in any part of the kingdom of England not within the said limits, the same shall be granted under the respective hands and seals of the several collectors and supervisors of excise within their respective collections and districts; and in case any such licence shall be taken out within the limits of the city of Edinburgh, the same shall be granted under the hands and seals of two or more of the commissioners of excise in Scotland for the time being: or if any such licence shall be taken out in that part of Great Britain galled Scotland out of tlje said limits of the city of Edinburgh, then
 
 179a] Anno regni tricesimo Georgii III. C 38. 73
 
@@ -1880,7 +1880,7 @@ XX. And be it further enacted by the authority aforesaid, That Powers of all and
 
 hall be practised, used, and put in execution, in and for the managing, raising, levying, collecting, mitigating, recovering, and paying the duties by this act imposed, and for preventing, detect ing, and punishing frauds relating thereto, as fully and effectually, to all intents and purposes, as if all and every the said powers, rules, directions, penalties, forfeitures, clauses, matters, and things, were particularly repeated and reenacted in this present act.
 
-CAP. XXXIX
+CAP. XXXIX.
 
 An act for making allowances to distillers of low wines and spirits from malt, corn, or grain, in Scotland, in respect of the duties imposed by an act made in the twenty-fourth year of the reign of his present Majesty.
 
@@ -1918,7 +1918,7 @@ any money arifine; from the duties of excise in the hands of them had in their
 
 J m J^O t rr r 1
 
-the said of of excise in Scotland unto such distiller or distillers, any sum or films of money not exceeding eight thou a^nov. sand two hundred pounds sterling for such spirits, upon proof be 1784., spirits ing made, to the satisfaction of them the said lords of which had of his majesty's treasury, that such spirits had been so permitted been regularly from that part of Great Britain called Scotland, to that part of l^ndorf ° Great Britain called England: provided always nevertheless, That g, aool. if ap no such allowance shall be made, unless the same hall be applied plication be for by memorial in writing to the said lords of of his made to the majesty's treasury, before the fifth day of July one thousand seven July $1 hundred and ninety 1790.
+the said commissioners of excise in Scotland unto such distiller or distillers, any sum or films of money not exceeding eight thou a^nov. sand two hundred pounds sterling for such spirits, upon proof be 1784., spirits ing made, to the satisfaction of them the said lords of which had of his majesty's treasury, that such spirits had been so permitted been regularly from that part of Great Britain called Scotland, to that part of l^ndorf ° Great Britain called England: provided always nevertheless, That g, aool. if ap no such allowance shall be made, unless the same hall be applied plication be for by memorial in writing to the said lords of of his made to the majesty's treasury, before the fifth day of July one thousand seven July $1 hundred and ninety 1790.
 
 CAP. XL
 
@@ -1948,7 +1948,7 @@ Tobacco imported on or before oct.' 10, 1789, and remaining in
 
 ing.
 
-IV. And be it further enaised by the authority aforesaid, That no tobacco (except tobacco of the growth, production, or manufacture of the plantations of Spain or Portugal, and also except snuff) shall be imported or brought into Great Britain from foreign parts, either wholly or in part manufactured, or in any state or degree of manufacture, on pain of forfeiting all such tobacco, with the hogsheads, casks, chests, cases, and other packages re spectively containing the same, and also the ship, vessel, or boat, in or on board which the same shall be so imported or brought, with her guns, furniture, ammunition, tackle, and apparel; and such tobacco, hogsheads, casks, chests, cases, and other packages respectively, and also such ship, vessel, or boat, guns, furniture, ammunition, tackle, and apparel, shall and may be seized by any officer or officers of the customs or excise.
+IV. And be it further enacted by the authority aforesaid, That no tobacco (except tobacco of the growth, production, or manufacture of the plantations of Spain or Portugal, and also except snuff) shall be imported or brought into Great Britain from foreign parts, either wholly or in part manufactured, or in any state or degree of manufacture, on pain of forfeiting all such tobacco, with the hogsheads, casks, chests, cases, and other packages re spectively containing the same, and also the ship, vessel, or boat, in or on board which the same shall be so imported or brought, with her guns, furniture, ammunition, tackle, and apparel; and such tobacco, hogsheads, casks, chests, cases, and other packages respectively, and also such ship, vessel, or boat, guns, furniture, ammunition, tackle, and apparel, shall and may be seized by any officer or officers of the customs or excise.
 
 V And be it further enacted, That in case any tobacco, which shall have been imported into Great Britain on or before the tenth day of October one thousand seven hundred and eighty nine, shall, on the fifth day of July one thousand seven hundred and ninety,
 
@@ -2022,7 +2022,7 @@ immediately after the same respectively shall have been weighed, and an account 
 
 XIII. And be it further enacted, That it shall and may be lawful for any manufacturer or manufacturers of snuff, who shall have laid down snuff work in cure in several pareels, or at different times, to mix, mingle, and lay together, whilst the same shall so remain in cure, the whole of any one parcel of snuff work of one laying down, with the whole of any other parcel of snuff work of any other laying down, and from thenceforth to proceed in the
 
-manufacturing thereof as if the whole of such snuff work, so mixed together, had been laid down in one pareel, and at one and the same time: provided alwa/s, That such parcels of snuff work 1 shall be mixed together in the presence of the proper officer of excise, upon a like notice, in writing, to such officer in that respect given, by such manufacturer or manufacturers, as by this act is directed, specifying therein the particular cask and calks, or bin and bins, and the number and numbers thereof respectively, in which the same shall then be, and the time or times when such parcels respectively were, or any part thereof was, laid down in lnuff work, and such officer hall and may take an account of the same, according to the true intent and meaning of this and the said recited act; and every such manufacturer or manufacturers respectively shall, immediately after the same shall have been so mixed together, deliver to such officer a declaration in writing, specifying the weights of the tobacco stalks and returns respec tively laid down in each parcel of such snuff work, and the time or times when such tobacco, tobacco stalks, and returns, respectively, or any part thereof, were or was so laid down in cure; anything in the said act contained to the contrary thereof notwithstanding.
+manufacturing thereof as if the whole of such snuff work, so mixed together, had been laid down in one pareel, and at one and the same time: provided alwa/s, That such parcels of snuff work 1 shall be mixed together in the presence of the proper officer of excise, upon a like notice, in writing, to such officer in that respect given, by such manufacturer or manufacturers, as by this act is directed, specifying therein the particular cask and calks, or bin and bins, and the number and numbers thereof respectively, in which the same shall then be, and the time or times when such parcels respectively were, or any part thereof was, laid down in lnuff work, and such officer hall and may take an account of the same, according to the true intent and meaning of this and the said recited act; and every such manufacturer or manufacturers respectively shall, immediately after the same shall have been so mixed together, deliver to such officer a declaration in writing, specifying the weights of the tobacco stalks and returns respectively laid down in each parcel of such snuff work, and the time or times when such tobacco, tobacco stalks, and returns, respectively, or any part thereof, were or was so laid down in cure; anything in the said act contained to the contrary thereof notwithstanding.
 
 XIV. And be it further enacted, That when any manufacturer or manufacturers of tobacco or snuff shall have occasion to supply; the demands of his, her, or their customer or customers with manufactured
 
@@ -2148,7 +2148,7 @@ XXXI. And be it further enacted, That all penalties and forfeitures imposed or c
 
 XXXII. And be it further enacted, That this at shall commence and take efiet from and immediately after the fifth day of July one thousand seven hundred and ninety.
 
-CAP. XLI
+CAP. XLI.
 
 An act for laying a duty on the importation, from any of the provinces in North America, of rape seed, and all other seeds used for extracting oil; and for allowing the importation from the said provinces of rape cakes, or cakes made of rape seed used for manure duty free.
 
@@ -2182,13 +2182,13 @@ II. And be it further enacted by the authority aforesaid, That before which at a
 
 peas, or beans, contrary to such permission or prohibition of his Majesty, by and with the advice of his privy council, the person so exporting or importing the same hall be subject and liable to the like forfeitures and penalties; and the said wheat, wheat flour, rye, rye meal, barley, barley meal, oats, oatmeal, peas, or beans, and the hip or vessel in which the same hall be exported or imported, hall be subjedf and liable to the like forfeitures, as if the said wheat, wheat flour, rye, rye meal, barley, barley meal, oats, oatmeal, peas, or beans, were exported or imported contrary to the provisions of any af or acts of parliament now in force.,
 
-CAP. XLIII
+CAP. XLIII.
 
-An act to authorise the of of the customs to defray charges on seizures out of his Majesty's fare of seizures in general.
+An act to authorise the commissioners of the customs to defray charges on seizures out of his Majesty's fare of seizures in general.
 
 [Preamble.]
 
-WHEREAS, by several acts of parliament now in force, the of of his Majestfs cufoms are impowerecl to cause all hips, vessels, and boats, and all goods, of what kind soever they may be, which hall be seized by any officer of the cufoms for any cause of forfeiture, and condemned according to law to be sold, or burnt or otherwise destroyed., in the manner in the said alls mentioned: and whereas the respective officers seizing such goods are entitled to certain allowances arising out of the net produce of such seizures as hall be sold, after dedulling the charges of condemnation and sale from the whole, and to certain other allowa?ices where such seizures are burnt or otherwise destroyed, pursuant to the directions of the said alls: and whereas, in cases where any ftp., veffiel, boat, or goods fall be seized by any officer or officers of his Majesty's cufoms, which are by law liable on condemnation to be burnt or otherwise destroyed, or where the produce arising from the sale of any particular seizure fall not be sufficient to answer the expenses of seizing, prosecuting, or condemning the same; or if, upon any trial a verdict fall be given for the claimant, or the sip, vefel, boat, or goods seized, fall not he condemned, the said of of his Majesfs cufoms are by law empowered, if they think proper, to order the charges arising by the condemnation and sale, and by the seizure and prosecution of such sips, vefels, and boats or goods, whether they fall be condemned or not, and all manner of law bills, and other charges of management, to be paid out of his Majesty's fare of the produce arising by the sale of any goods, which had been or might be seized and condemned: and whereas, in order to encourage the officers of the cufoms to be vigilant in the exertion of their duty, it is expedient to extend the provisions of the said laws, by authorising the of of his Majesfs cufoms, in all cases where they in their discretion and judgement fall think proper, to pay out of his Majesfs fare of the produce arising by the sale of goods seized and condemned, the whole or any part of the charges and expenses that may arise from the seizure and detention of any goods whatsoever, or from the prosecution, condemnation, or sale thereof, whether the goods so seized fall be condemned or not, or whether the produce arising from the sale of any seizure fall be sufficient to answer the said charges and expenses or not, and in all such cases to allow to the officer or officers
+WHEREAS, by several acts of parliament now in force, the Commissioners of his Majestfs cufoms are impowerecl to cause all hips, vessels, and boats, and all goods, of what kind soever they may be, which hall be seized by any officer of the cufoms for any cause of forfeiture, and condemned according to law to be sold, or burnt or otherwise destroyed., in the manner in the said alls mentioned: and whereas the respective officers seizing such goods are entitled to certain allowances arising out of the net produce of such seizures as hall be sold, after dedulling the charges of condemnation and sale from the whole, and to certain other allowa?ices where such seizures are burnt or otherwise destroyed, pursuant to the directions of the said alls: and whereas, in cases where any ftp., veffiel, boat, or goods fall be seized by any officer or officers of his Majesty's cufoms, which are by law liable on condemnation to be burnt or otherwise destroyed, or where the produce arising from the sale of any particular seizure fall not be sufficient to answer the expenses of seizing, prosecuting, or condemning the same; or if, upon any trial a verdict fall be given for the claimant, or the sip, vefel, boat, or goods seized, fall not he condemned, the said of of his Majesfs cufoms are by law empowered, if they think proper, to order the charges arising by the condemnation and sale, and by the seizure and prosecution of such sips, vefels, and boats or goods, whether they fall be condemned or not, and all manner of law bills, and other charges of management, to be paid out of his Majesty's fare of the produce arising by the sale of any goods, which had been or might be seized and condemned: and whereas, in order to encourage the officers of the cufoms to be vigilant in the exertion of their duty, it is expedient to extend the provisions of the said laws, by authorising the Commissioners of his Majesfs cufoms, in all cases where they in their discretion and judgement fall think proper, to pay out of his Majesfs fare of the produce arising by the sale of goods seized and condemned, the whole or any part of the charges and expenses that may arise from the seizure and detention of any goods whatsoever, or from the prosecution, condemnation, or sale thereof, whether the goods so seized fall be condemned or not, or whether the produce arising from the sale of any seizure fall be sufficient to answer the said charges and expenses or not, and in all such cases to allow to the officer or officers
 
 1790.] Anno regni tricesimo Georgii III. C 44/ gf
 
@@ -2196,7 +2196,7 @@ who shall seize any such goods, his or their full hare or proportion of the net 
 
 they may be, hall be seized by any officer or officers of his Ma orderthjex jesty's customs, it shall and may be lawful for the said commis pences of sioners of his majesty's customs, if they shall think proper, to seizure, corder the whole or any part of the charges and expenses arising belaid either from the seizure, custody, removal, - detention, or prose of his majes cutioti of any such goods whatsoever, whether such goods shall ty's share of be condemned or not, and also of the charges and expenses aris any seizure, ing from the condemnation and sale, or other disposal of any such goods, - whether the produce arising from the sale or other disposal cejve ^ls thereof shall be sufficient to answer the said charges and expenses share of the or not, to be paid out of his majesty's share of the produce net produce arising by the sale of seizures which have been or shall and may be seized and condemned; and all and every officer and officers, who shall have made any such seizure, shall, in every such case, be allowed by the said of such his or their respective share and proportion of the net produce arising by the sale, or Other disposal thereof, in full, without deducing therefrom the said charges and expenses, or such part thereof as aforesaid, as such officer or officers respectively was or were by law entitled tffrto before the making of this af, and the residue of such produce the said of shall cause to be paid and applied to' such uses and purposes as his majesty's share of the produce of such seizures is by law applicable unto.
 
-CAP. XLIV
+CAP. XLIV.
 
 An act to enable his majesty to settle a certain annuity on the reverend Francis Willis doctor of physic.
 
@@ -2222,7 +2222,7 @@ present parliament assembled, and by the authority of the same, That it shall an
 
 II. And be it further enacted, That the said annuity or yearly sum of one thousand pounds, so to be granted to the said reverend Francis Willis, shall not be charged with the payment of, or be subject to any tax, rate, or assessment, imposed or to be imposed on pensions paid out of his majesty's civil list revenues, by authority of parliament, or otherwise howsoever, nor to any fees usually paid on the payment of such pensions, nor to any other charges whatsoever; any law, custom, or usage, to the contrary thereof in anywise notwithstanding.
 
-CAP. XLV
+CAP. XLV.
 
 An act for convening certain annuitiesy to be attended with the benefit of survivorship in claffesy established by an act of the last session of parliament, into certain annuities for an absolute term of years; and for enabling the of of the treasury to nominate lives for the shares so converted.
 
@@ -2300,7 +2300,7 @@ chargeable with stamps. Annuities, from ct. io, 1790, to be added to the joint s
 
 ijgo.] Anno regni tricesimo Georgii III. C 45. 163
 
-the bank of England, for the respective terms of ninety-nine years, and ninety-eight years, from the fifth day of January one thousand seven hundred and sixty two, and then to cease; and which said respective annuities were, together with fun dry other annuities, consolidated and made one joint stock of annuities by several acts of parliament made in the fourth, twentieth, twenty second, twenty-third, and twenty-fourth years of the reign of his ptefent Majesty, and to be paid, payable, and transferrable, at the same time and times, and in like manner, with the said annuities granted by the said acts; and so much money shall, from time to time, continue to be set apart and issued at the receipt of the exchequer, to the said cashier or cashiers of the bank of England, as shall be sufficient to satisfy and pay the annuities hereby granted, to continue for a certain term of sixty nine years and one quarter of a year, from the said tenth day of October one thousand seven hundred and ninety, and then to cease, together with the charges attending the same, out of the consolidated fund 3 anything herein contained to the contrary notwithstanding.
+the bank of England, for the respective terms of ninety-nine years, and ninety-eight years, from the fifth day of January one thousand seven hundred and sixty two, and then to cease; and which said respective annuities were, together with fun dry other annuities, consolidated and made one joint stock of annuities by several acts of parliament made in the fourth, twentieth, twenty second, twenty-third, and twenty-fourth years of the reign of his present Majesty, and to be paid, payable, and transferrable, at the same time and times, and in like manner, with the said annuities granted by the said acts; and so much money shall, from time to time, continue to be set apart and issued at the receipt of the exchequer, to the said cashier or cashiers of the bank of England, as shall be sufficient to satisfy and pay the annuities hereby granted, to continue for a certain term of sixty nine years and one quarter of a year, from the said tenth day of October one thousand seven hundred and ninety, and then to cease, together with the charges attending the same, out of the consolidated fund 3 anything herein contained to the contrary notwithstanding.
 
 XII. And be it further enacted by the authority aforesaid, That Immediately the said auditor of the receipt of the exchequer shall, on or im ater Sept. 20, mediately after the twentieth day of September one thousand seven the exche* hundred and ninety, certify to the of of his majesty's quer to cer treasury, or the lord high treasurer for the time being, the number tify to the of certificates which shall be filed as aforesaid in the office of the treasury the said auditor, endorsed in the manner herein directed; and also the ^rbficates number of such ffiares of and in the life annuities, with benefit fned. See. and of survivorship, which shall have been converted into annuities for the treasury such terms of years as aforesaid depending thereon; and the said may, for every of of the treasury, or any three or more of them, or /ertifi the lord high treasurer for the time being respectively, shall and cates, name may for and in respect of each and every such sum of one hun the life of dred pounds and five shillings, contained in such certificates, be f°me perfoq, at liberty to name, in the manner herein directed, the life of some one person, at any time or times on or before the tenth day of October one thousand seven hundred and ninety, in the manner herein after directed; during which life and lives respectively, to be appointed as aforesaid, there shall be reserved at the said receipt of exchequer, to the use of the public, at the respective days of payment in the said act mentioned, such and the like annuity and annuities respectively, with the like benefit of survivorship in clafies, as any contributor or contributors in the same clafies respectively would be entitled unto by the said act in respect of an equal number of shares thereof, and which annuity or annuities so reserved at the said receipt, to the use of the public, shall from time to time, as they respectively grow due and arise, be carried to and made part of the consolidated fund, towards satisfying and replacing the annuities at and after the rate of four pounds and five shillings granted under this act, and charged thereon as aforesaid.
 
@@ -2400,7 +2400,7 @@ no Anno regni tricesimo Georgii III. C 46, 47. [1790.
 
 or defendants, or the plaintiff or plaintiffs hall discontinue his, her, or their action or prosecution, or be nonsuited, or judgement shall be given against him, her, or them, upon demurrer or other treble costs, wise, then such defendant or defendants shall have treble costs awarded to him, her, or them, against any such plaintiff or plaintiffs.
 
-CAP. XLVI
+CAP. XLVI.
 
 An act for settling and securing a certain annuity for the use of the heirs and defendants of William Penn esquire, the original proprietor of the province of Pennsylvania, in consideration of the meritorious services of the said William Penn, and of the Losses which his family have sustained in consequence of the unhappy difientions in America.
 
@@ -2410,7 +2410,7 @@ Receipt of the trustees, C to be a sufficient discharge for the annuity, which i
 
 ---
 
-CAP. XLVII
+CAP. XLVII.
 
 An act for enabling his Majesty to authorise his governor or lieutenant governor of such places beyond the seas, to which felons or other of fenders may be transported, to remit the sentences of such offenders.
 
@@ -2460,7 +2460,7 @@ IV. And be it further enacted by the authority aforesaid That whenever any woman
 
 1790.] Anno regni tricesimo Georgii III. C 49. 113
 
-CAP. XLIX
+CAP. XLIX.
 
 An act to impower justices, and other persons, to visit parish workhouses or poorhouses, and examine and certify the state and condition of the poor therein to the quarter sessions.
 
@@ -2500,7 +2500,7 @@ fury may order a, ooool. to be issued to the of His Majesty may appoint of to su
 
 Continuance of this act to the end of the next session of parliament.
 
-CAP. LI
+CAP. LI.
 
 An act for diverting out of the crown the reversion in fee of and in certain hereditaments, heretofore the estate of sir Roger Strickland knight, deceased, in Catterick and Tunstall, in the county of York; and for vesting the same in the several persons entitled to the said hereditaments; and for extinguishing and destroying a certain term of one hundred years, for which the said hereditaments were limited in trust for his late majesty King George the First, his heirs and successors.
 
@@ -2562,7 +2562,7 @@ Distress not unlawful. General power of appeal against penalties. Actions not tg
 
 C to be paid out of money raised by this or former acts.
 
-CAP. LIV
+CAP. LIV.
 
 An ab for vejling the estate and property of the trustees of Westminster fish market in the marine society, for the purposes therein mentioned; and for discontinuing the powers of the said trustees.
 
@@ -2602,7 +2602,7 @@ IV. And be it further enacted, That this act shall be deemed Public at. and take
 
 of as such, by all judges, justices, and all other persons, without specially pleading the same.
 
-CAP. LV
+CAP. LV.
 
 An act to enable sir William Hamilton, knight of the moult honourable order of the bath, his heirs and assigns, to make and provide quays, docks, piers, and other erections; and to establish a market, with proper roads and avenues thereto respectively, within the manor or lordship of hub berfton and Pill in the county of Pembroke,
 
@@ -2614,7 +2614,7 @@ Sir William Hamilton empowered to erect quays and buildings, and execute other w
 
 payments on butchers meat to be made to sir William Hamilton, for cattle 8d. calyes, sheep, C 2d. Certain market payments on butter to be paid to sir William Hamilton, for every firkin, or less, one halfpenny. Penalty on sale of butter in firkins, C without its being searched and marked, 3s. 4d. Penalties in 13 and 14 Car. 2. C 26, on defective weight and false package of butter, extended to this market. This act not to extend to quantities of butter under four pound weight. For appointing a clerk of the market. For appointing a public weighing house in the market. For making bylaws respecting the markets and works to be made and established by virtue of this as. bylaws not to have effet till approved by the judges of assize or great sessions for the county of Pembroke. For setting out roads and ways. Treasury empowered to lease certain lands to sir William Hamilton. For recovery and application of penalties and forfeitures. Persons aggrieved may appeal to the cfuarter sessions. Proceedings not to be quashed for want of form. Limitation of actions. General issue. Treble costs. General saving.
 
-CAP. LVI
+CAP. LVI.
 
 An act to alter and amend an act, passed in the last session of parliament, for making and maintaining a navigable canal from or from near to Cromford Bridge, in the coninty of Derby, to join and communicate with the Erewash Canal, at or near Langley Bridge; and also a collateral cut from the said intended canal, at or near Codnor Park Mill, to or near Pinxton Mill, in the said county.
 
@@ -2640,7 +2640,7 @@ Rates not to be altered until after three months notice. Rates not to be leased.
 
 ing weight, collectors may weigh vessels. Weight of the lading to be marked on the vessels. Navigation to be free, upon payment of the rates Power to compel payment of money subscribed to be lent. Rates to be assigned for securing such money. Power to raise a further sum of 14, 3001. at interest, or by granting annuities. Securities may be transferred. If the trustees borrow a further sum than subscribed, a preference shall be given to the subscribers. Application of the money, to pay annuities, principal and interest. Mortgages may be paid off by lot, if the trustees think, fit. If more money be borrowed than the sum subscribed, the subscribers not to be paid off till the other money be discharged, unless they deftre it. When mortgages and annuities are paid oft', rates to be reduced. Lords of manors and land owners may ered warehouses, con their lands; and may take the like rates as taken by the trustees. Commissioners im powered to fix the rates of freight and porterage. Trustees, in their private capacity, not to be concerned in carrying goods for hire, without content of of Trustees may, with content of the of, carry goods for hire. Boats to be gauged. Penalty on floating timber, overloading boats, or not ihutting drawbridges; or throwing ballast into the river, 40s. and on obstructing the navigation, 5 s. an hour. Penalty on opening locks, See. 5i. and not lets than 40 s. Damage done by the boats or crews to be made good. Punishing persons wilfully de itroying works, guilty of petty larceny. Trustees may make rules for regulating the navigation. Millers authorised to let off the water for repairing their flood gates or sluices. Rivers not to be under the power of of of sewers. Right of lords of manors to fisheries reserved. Penalty on carrying fishing tackle on board any boats, 5i. Land owners may uie boats free of the rates, in certain cases. If boats laden, to pay for ten tonne. Trustees empowered to extend the navigation above stow upland Bridge. Appointment of trustees upon vacancies by the of Meeting of the trustees within live miles of the navigation. Trustees may appoint officers; and shall take security from their treasurer and collectors. Victuallers not to hold places of profit under the act. Officers to account. Penalty on refusal, may be committed to gaol. Accounts and proceedings of trustees to be entered, and accounts to be annually audited by the of In whose name actions may be brought. Trustees in their private capacities, not liable to any debts, Sec. Commissioners to take an oath. Meetings of the of of may hold meetings upon emergencies. Meetings to determine disputes, C Commissioners to appoint a clerk. Proceedings of the of to be entered. Commissioners may act as justices. No justice or commissioner to act where interested, or holding a place of profit under the act. Penalty on trustees and of acting, not being qualified. Recovery of forfeitures. Distress not deemed unlawful for want of form. Persons aggrieved may appeal to the quarter sessions, Limitation of actions. General issue. Treble costs. Rights of the corpo* tien of Ipswich saved.
 
-CAP. LVIII
+CAP. LVIII.
 
 An act for draining, dividing, and enclosing certain moors, commons, or waste lands, called Edington, otherwise Burtle Moor, East Heath, West Heath, and Clyde Batch, within the hamlet of Edington, and parish of Moorlinch, in the county of Somerset.
 
@@ -2650,19 +2650,19 @@ Commissioners, Thomas Davies, Samuel Kingdon, and John Silke. New of, in the roo
 
 Penalty on witnesses not attending, commitment to gaol for 6 months. Penalty for giving false evidence, same as perjury. Draining powers into the river Brue, in S'omersetshire. Satisfaction for damages done to private property. Survey to be made. Roads 40 feet broad. Appointment of surveyor to repair roads. Parish roads, Sec. to continue. For enabling of to borrow money. Allotments for sale to defray expenses. Application of overplus moneys, to be laid out in lasting improvements. Commissioners to account. Allotment in lieu of soil equal to one twentieth part of the lands undisposed of Allotment of residue of moor equally. Allotment for turbary rights on West Heath to be adequate to right. Allotments to be in bar of right of common. Regulation of the life of copyhold or leasehold allotments. Repair of rhines, ditches, and other fences. Power to exchange mefluagee, farms, Sec. Wills, Sec, not to be prejudiced. Leases at rack relit, Sec. to be vacated. Award. Appeal to sessions. Saving rights of lords of manors. General saving. pub lick act.
 
-CAP. LIX
+CAP. LIX.
 
 An act for more effectually embanking the marsh called Malldraeth and Corfddaugau, in the county of Anglesey, and draining and preserving the same, and the enclosed lowlands contiguous thereto. — See 28 Geo. 3. C 71.
 
 Preamble recites act 28 Geo. 3. Power to make a further rate upon the marsh, and also a rate upon such enclosed lands as will be benefited by the embankment and drainage of the marsh. Commissioners empowered to enter upon the enclosed lands, to ascertain improved value. Expenses of the act. Public act.
 
-CAP. LX
+CAP. LX.
 
 An act for effectually carrying into execution two acts, of the sixteenth and twenty-fifth years of his present Majesty, for making and maintaining a navigable canal from the Stourbridge navigation to the Birmingham and Birmingham and Fazeley canal navigations, in the counties of Worcester and Stafford.
 
 16 Geo. 3. C 66. 25 Geo. 3. C 87. Power to raise io, iool. upon the new proprietors. Power to recover subscriptions by action at law. Proprietors may hold 35 hares. If fractions of shares be assigned to trustees, they may act as proprietors. Interest to be paid to the new proprietor? at 5 percent. When the extension is complete, a further sum may be borrowed, and the rates assigned as a security. Form of assignment. Assignments may be transferred. Form of transfer. Interest to be paid prior to dividends. Power to open communications with coal and other mines near the canal. Clause in the 16 Geo. 3. restraining the making reservoirs on Penlent Chase, or on the louth east side of a boundary leading from Knowle Brook House, in the parish of Dudley, repealed. Expenses of the act. Public act.
 
-CAP. LXI
+CAP. LXI.
 
 An act for authorising and enabling the right honourable George earl of Mount Edgcumbe, and Reginald Pole Carew esquire, to establish and maintain a common ferry over and across the river Tamer, between a certain place north of Plymouth Dock, in the parish of Stoke Damarel, in the county of Devon, and Torpoint, in the parish of Antony Saint Jacob, otherwise Antony in the East, in the county of Cornwall.
 
@@ -2672,7 +2672,7 @@ The earl of Mount Edgcumbe and Reginald Pole Carew esq; authorised to establish 
 
 — For a calf, and do, ad. — For a hog do, ad. — For a score fhcep, rid. — For a score hounds, 5d. — An hogshead of beer, or other liquor, 6d. — Other goods, per tonne, 6d. — Corn and grain, per bag, 1-2d. — Hampers, pots, or crooks, per pair 1-2 d. — To pay double on Sunday. Power of distress. Ferry not to ply before four in the morning, and after ten at night, between March 24, and Sept. 29; and before six in the morning, and eight in the evening, between Sept. 28, and March 25. Penalty for defrauding the ferry, 20s. Exception in favour of the office of ordnance. Penalty on sinking or damaging any boat or veffiel, C besides damage, 5i. and not less than 20s. Matters and owners answerable for damage done to ships, casts to be deemed wilful and negligent injuring ferry boat. Persons not to obstruct the ferry. No person liable to damages for landing at other than the regular landing places. Ferry boats may ply at' North Corner. Property, cof the ferry veiled in the earl of Mount Edgcumbe and Mr. Carew. Ferry not to be rated. Distress not to be deemed unlawful for want of form, C Persons aggrieved may appeal to the quarter sessions. Saving the rights of the prince of Wales. Limitation of actions. General issue. Treble costs. Public act.
 
-CAP. LXII
+CAP. LXII.
 
 An act for paving, cleaning, lighting, and widening the streets, lanes, and passages; for removing and preventing encroachments, nuisances, and annoyances; and for regulating the porters and drivers of carts, within the borough of Truro, and part of the adjoining parishes in the county of Cornwall.
 
@@ -2684,13 +2684,13 @@ Coitt
 
 Commissioners not personally answerable for contracts, C The ad: not to discharge the of from payment of the rates. No action to be discontinued on account of the death of the treasurer. Directing the recovery and application of penalties. Inhabitants may give evidence. Inhabitants discharged from Statute work when streets are new paved. Jurisdiction of the mayor, Sec. extended to Kenwyn, Calenick, and Clement Streets. May treat for the purchase of houses, See. Incapacitated persons empowered to sell and convey. If such persons refuse to treat, See. a jury to be summoned. Jurors may be challenged. Verdict of jury, Sec. to be binding, and to be registered. Sheriff, Sec. neglecting his duty, may be fined iol. Compensation for premises held for life or long terms of years. On payment of purchase money, premises to be conveyed; on default thereof, or if any dispute in the title, the purchase money to be placed out for the use of the persons entitled thereto. Purchase money for premises in settlement to be laid out to the like uses. Market house and Middle Row to be pulled down, and laid into Fore Street. Market that may be built to be considered as a public market. County rates to continue to be raised in Kenwyn, Calenick, and Clement Streets. Right of the corporation to hold fairs reserved. Appeal to the quarter sessions. Persons distraining not to be deemed trespassers on account of defect in proceedings. No plaintiff to recover after tender of amends. Proceedings not to be removed by Certiorari. Limitation of actions. General issue. Treble costs. Public act.
 
-CAP. LXIII
+CAP. LXIII.
 
 An act for preserving the works made for supplying the town of Bradford, in the county of York, and part of the township of Horton, in the parish of Bradford aforesaid, with water; and for the more easy recovery of the rents for the said water, and to enable the proprietors thereof to borrow money for the improving such works.
 
 From the spring at North Bierley. Proprietors incorporated by the name of The Company of Proprietors of Bradford Works. For laying the water into houses in Bradford and Horton. Pavement injured by laying down pipes, to be made good. No pipe to be affixed, Sec. without the consent of the proprietors. For ascertaining the rents to be paid for water. Houses under 3i. per ann. as. — above 3i. and not 61. per aim. 6s. — of iol. per ann. los. — under 15i. per ann. 15s. — above 15i. and not more than 20i. per ann. il. — above aol. per ann. il. 5s. — Inn of iol. per ann. il — do of 15i. per ann. il. 10s. — do of aol. per ann. al. — above aol. per ann. 3i. Brewers and other trades to be charged additional rents for water. Occupiers of houses under 3i. to pay no more than as. Persons paying water rents. Sec. not to gain settlements. Penalty on persons taking water, not having agreed with the proprietors for it. Pipes may be taken away from persons not paying the relit, or letting the water run waste. In case of lire, water may be taken without making any fati stuff ion. For recovery of water rents not paid when due and demanded. Water rents exempt from all taxes or rates. Rents to be divided among proprietors, Sec. Punishing persons damaging or destroying works, to forfeit 20s. and not under 5s. Informations, Sec. to be before one justice. Distress not unlawful for want of form. Form of conviction. Appeal to quarter sessions. Proceedings not to be quashed for want of form. Abt not to affedf agreements made with owners of lands through which the water is conveyed. The proprietors empowered to borrow 2, 000k; and to assign the waterworks as a security. Form of assignment. Grants and assignments to be entered with the clerk; and may be transferred. Form of transfer. Interest to be paid, half yearly. General saving. Public act
 
-CAP. LXIV
+CAP. LXIV.
 
 An act for establishing a chapel at Ramsgate, in the parish of Saint Laurence, in the Isle of Thanet, in the county of Kent, aa a chapel of ease to the church of the same parish.
 
@@ -2698,7 +2698,7 @@ Anno regni tricesimo georg II III C 65. [1796.
 
 Ground and chapel veiled in Mr. Harvey, Mr. Fagg, and Mr. Holman $ upon trust to be used as a chapel of eaie to the church of St. Laurence. Chapel to be for ever a chapel of ease to the church of St. Laurence. A curate to be licensed to officiate in the chapel. Trustees to nominate a temporary curate during a vacancy in the curacy of the chapel. Curate made liable to the penalties of non rdidence. His duty described, to read, prayers twice every Sunday, and to administer the faerament as the law requires, and read prayers every Wednesday and Friday from Lent to Michaelmas, and all saints days, and preach twice every Sunday, except on sacrament days. Trustees to make allowance to the curate out of the profits to be made by letting out pews. Clerk, and servants of the chapel, to be appointed. Trustees to make profit by letting out the pews, and to keep the chapel in repair. Trustees to receive the rents of pews, upon trust to keep the chapel in repair, and to divide the remainder in stated proportions. New trustees to be elected, in case of vacancy by death, or otherwise. Trustees to be answerable for their own acts. Exemption from parochial rates Legal estate of the ground and chapel to defeend to heirs, according to common-law. Saving the rights of the archbishop and archdeacon of Canterbury, and of the vicar and parish clerk of St. Laurence. General saying. Public act.
 
-CAP. LXV
+CAP. LXV.
 
 An act to enable the company of proprietors of the canal navigation from Leeds to Liverpool, to vary the line of the said canal navigation; and tq raise a further sum of money for the purpose of com pleating the said canal navigation; and for other purposes.
 
@@ -2708,13 +2708,13 @@ Act 10 Geo. 3. C 114. for making the Leeds and Liverpool canal from Leeds Bridge
 
 take any water that flows to Martholme mill. The company to make and repair bridges, See. The company liable to be indicted at common-law, for not making (tone bridges over the canal; or for not keeping bridges, 8zc. in repair. The justices at sessions, in certain cases, to determine what bridge shall be made. Liberty to place trunks and tunnels in Rufford. Company not to be liable to damage, after trunks placed between Sollom and rufford locks, in case flood gates are kept shut. Directions relative to laying tunnels. Power for the company to raise a further sum of aoo, ooool. for completing the canal, and to assign tolls as a security. No preference to be given in respect of the priority of any money lent. Securities to be entered in books, and may be transferred. Interest shall be paid half yearly. Limitation of the sum to be raised in ad 23 Geo. 3. repealed. Directing what shall be done on alienation of shares by marriage or death, to pass by will or ad ministration. When and where the general assembly of the proprietors shall be held in Lancashire, the third Friday in September yearly. So much of a clause in 23 Geo. 3. as relates to the advertising the letting or altering the tolls, repealed; and another notice thereof to be given. Tonnage per mile on coals got in Lancashire and brought into Yorkshire, to be the same as upon those which come down the Bradford navigation. Appointment of a committee clerk on the Lancashire side; reservation of rights of the corporation of Liverpool. Public act.
 
-CAP. LXVI
+CAP. LXVI.
 
 An act for paving, and otherwise improving, the city and towrdhip of Peterborough.
 
 Commissioners. Penalty for acting not being qualified. Power to provide lamps. Proviso for holding fairs and markets. Not to extend to Minder Close, nor to pave Boongate, See. Trustees of certain estates liable to pave and light certain parts of the city, to pay a composition in lieu thereof, oif 5 ool. Turnpikes maybe erected. One across the road from Stilton to Peterborough Bridge, over the river Nene, at the junction 'with the road from Oundle to the said bridge; another turnpike across the road from Lincoln to Peterborough, at the north end of Boroughbury Lane, with a side bar across the lane, leading to Crawthorn Hill; another across Westgate, near the workhouse; another across Cowgate, and another in Peterborough, across Boongate, between Swan (pool and the common pound. Tolls; coaches drawn by 3 or more horses, pd. — % horses, 6d. — 1 horse, 3d. — wagons by 6 or more horses, 8d. — under 6 horses, 3d. — carts, ad. — horses laden, id. — not laden, aq. — oxen, C per score, 5d. — sheep, See. ad. Recovery of tolls. Tolls payable once a clay. Persons changing horses, cor flopping all night, not subject to pay toll a second time. Exemption, going to or returning" from fairs in the city, or at Fletton, inhabitants of the parish of St. John Baptist, Peterborough, or of Minfler Close, or for carriages in husbandry, cor poor, or army on march, or mail carriages, or expresses. Power to compound for the tolls.
 
-CAP. LXVII
+CAP. LXVII.
 
 An act for paving, cleansing, lighting, watching, and regulating the streets, lanes, ways, and public passages and places, within the city of Durham, and borough of Framwelgate, and the suburbs thereof, and streets thereto adjoining; for removing and preventing nuisances, annoyances, encroachments, and obfirudions therein; for widening and rendering more commodious several of the said streets, lanes, ways, and public passages and places; and for regulating and improving the markets within the said city and suburbs.
 
@@ -2728,7 +2728,7 @@ elected annually: to have a calling vote. For eleding another chairman when requ
 
 ments not to be altered without consent of of Branches into drains not to be made without leave. Private drains to be repaired. Sec. under the inspection of the surveyor, at owner's expense. Persons liable to repair any part of the said streets to remain so. Commissioners may compound with persons for work to be by them done. Differences about repairs to be settled at the session. Foot pavements to be fvvept 3 times a week, feet from the house, (Sundays excepted) on penalty of 5s. for every neglect. Contractors to cleanse the other parts of streets, Sec. No person to carry away soil but contractor. Persons at liberty to keep or dispose of dung made or kept in their houses, yards, Sec. Penalty not to extend to rubbish, C occasioned by building. Penalty on breaking lamps, not above 20s. nor under 10s. To prevent nuisances, not to kill or cut up beasts or swine in the streets, on penalty of 10s. bdides other penalties by law. Commissioners may take down signs. Penalty for making certain nuisances, 5i. and power to remove the same. For preventing carts, C Handing irt the streets, Sec. No wheelbarrow to be rolled on the foot pavements C To prevent accidents by driving carriages, penalty ios. Power to compound penalties by 7 of Power to appoint watchmen. Sec. who may act as constables. Watchmen not to gain settlements by appointment. General power to levy penalties. Application. Limitation of recovering penalties, one calendar month. of may sue or be sued in the name of their clerk. No action to be brought but by order of ten of For regulating the sale of corn, not to be sold five in the market place, or in houses or shops of dealers. Act not to prejudice the right of any person to demand toll cn corn, Sec. within the limits thereof. Inhabitants may be witnesses. Appeal against rates and penalties to the sessions. Distress not to be deemed unlawful for want of form. Notice to be given before commencing actions. Proceedings not to be quashed for want of form. Limitation of actions. General issue. Treble costs. Public act.
 
-CAP. LXVIII
+CAP. LXVIII.
 
 An act for the better supplying the town and neighbourhood of Leeds, in the county of York, with water; and for more effectually lighting and cleansing the streets and other places within the said town and neighbourhood, and removing and preventing nuisances, annoyances, encroachments, and obstructions therein.
 
@@ -2740,7 +2740,7 @@ Anno regni tricesimo Georgii III. C 69. [1790.
 
 laid by the of Such perform to give 2 days previous notice to surveyors of the highways, and to pay him 4d. per square yard broken up, and if no notice given, penalty 5s. Power to take and use the water in cases of fire. Penalty on obstructing the works, 5i. and not less than 5s. one moiety to the treasurer for the works, and the other to the informer. Commissioners may make rates on the second Saturday in May yearly. No ptrfon to be rated, but such as give notice to be supplied with water. Rates to be signed by of, and confirmed by two justices. Recovery of rates after 10 days demand, by warrant of 2 justices, by distress and tale of goods Brewers, distillers, See. to pay an additional rate, to be fixed by the of Poor persons exempt from rates, for relit under 58s. per ann. and may take water from the public cisterns in the town. Power to borrow money, and to assign the works, See. as a security. Securities may be transferred. Application of the money. Rates, Sec. to be made exempt from taxes, C Proceedings of the of to be entered. Accounts of the of to be closed at the end of every year. Commissioners may act as justices. aft 28 Geo. 2. C 41. for lighting the streets, cof the said town, recited. Provisions of that act extended to such parts of the town as are not comprised therein, and to the neighbourhood. Signs, Sec. projecting into the streets, to be removed. Penalty on occasioning annoyances in the streets, or within 1,000 yards of the bars, 20s. for every offence. Water spouts regulated, to come within 6 inches of the ground, penalty 5s. per week. Power to cause the streets to be ckanfed. Recovery of penalties by distress, to be redeemed in 5 days, or sold, and if not sufficient distress, 2 justices to commit offenders. Penalties to go one moiety to the informer, and the other to the poor of Leeds. Inhabitants deemed competent witnesses. Appeal to the quarter sessions. Limitation of actions on 30 days notice, and within months to be laid in the county of York. General issue. Treble costs. Rights of the corporation saved. Pxpences of the act to be paid out of constables rate. Public act.
 
-CAP. LXIX
+CAP. LXIX.
 
 An act for amending and enlarging the powers of, and rendering more effectual, an act made in the twenty-eighth year of the reign cf his present Majesty, intituled, An act for pulling down the church of Saint James at Clerkenwell, in the county of Middlesex, and for building a new church, and making a new church yard, or cemetry, in the said parish, with convenient avenues and passages thereto; and for purchasing Pentonville chapel, and making the same a chapel of ease to the said church.
 
@@ -2750,13 +2750,13 @@ An act for amending and enlarging the powers of, and rendering more effectual, a
 
 and to collector iol. Trustees to pay balances due to the churchwardens. Legal estates of premises left in trust for the parish to be diverted out of the heirs at law, Sec. and verted in the trustees. Powers of the former at (not altered by this act) extended to this act. Expenses of the act to be paid. Public at.
 
-CAP. LXX
+CAP. LXX.
 
 An act to amend an act of the last session of parliament, for providing an additional burial ground for the parish of Saint james/jwestminster, and erecting a chapel adjoining thereto, and also a house for the residence of a clergyman to officiate in burying the dead.
 
 129 Geo. 3. C 47. Trustees may remove the reader, preacher, and officers. Additional trustees. Bishop of London, visitor. If the money to be raised by the former act is inefficient, the deficiency to be made up out of the church rate. Trustees impowered to charge the church rates and the pews with the money to be borrowed. Power to raise all or part of the money by granting annuities at iol. percent. Annuities may be transferred. The manner of disposing of the overplus, varied as the vestry shall direct. How the chapel, cis to be built, according to a plan. Expenses of the ad. Public act.
 
-CAP. LXXI
+CAP. LXXI.
 
 An act for taking down the church and tower belonging to the parish of Saint John at Hackney, in the county of Middlesex, and for building another church and tower for the use of the said parish, and for making an additional cemetry or church yard.
 
@@ -2766,7 +2766,7 @@ Trustees. If trustees die, or refuse, or become disabled to ad, new trustees to 
 
 of the relit. Rates how to be levied where houses are let to several families, Scc. to he paid by the landlord. Saving to landlords. Persons to pay only for the time occupying. Empty houses not to be rated. Not to affect agreements between landlords ami tenants. Payment of the rate not to gain a settlement Money lost by insolvency or otherwise, new rate to be made. Recovery of rates. Summons by a justice, and on nonpayment to be levied with costs by distress and sale. For recovery of rates from persons quitting the premises, rated on the parish. Power to sue for rates, penalties, and fines. Persons aggrieved by the rate may appeal to the trustees. Money to be raised by annuities, or at 5 percent, interest. Trustees to raise any fiun not exceeding 12, 5001. Money to be raised on the credit of the act. Annuities how charged and paid, out of the rates. Receipts and orders for payment of annuities to be given. Annuities al signable. Annuities how recoverable, in 3 months, with interest and costs; and if not paid in 20 days, annuitant to have the same power as the trustees. Books to be kept of annuities, See. Separate account to be kept of rates. All receipts, payments, and minutes of contracts, See. to be entered in a book. See. Collectors to account; and pay the money in their hands over to the trustees. Collectors, See. neglecting to account, may be committed. Treasurer, collector, C dying or becoming a bankrupt, executors or assignees to pay the money. Costs of this act to be paid. Distress not to be deemed unlawful for want of form. Penalties and forfeitures to be recovered and applied to the purposes of this act. Proceedings not to be vacated for want of form. General appeal to quarter sessions. Limitation of actions, after 21 days notice, within three months, and to be tried in Middlesex. General issue. Treble costs. Public act.
 
-CAP. LXXII
+CAP. LXXII.
 
 An act for taking down the church, chanoel, and tower belonging to the parish of Banbury, in the county of Oxford, and for rebuilding the same.
 
@@ -2776,7 +2776,7 @@ Trustees, the mayor, aldermen, capital burgess, assistant, and town clerk of Ban
 
 and the town clerk and their sergeants at mace, and also to the bishop of Oxford, or his lessees, and the vicar of the said parish; and for women coming to be churched, and for schools, and for persons repairing the church, and those subscribing iol. or upwards, for taking down and rebuilding the church, chanoel, and tower; and the trustees may sell the rest, or let them, and the rents to go towards defraying the expense, and in aid of the rates. Allotments to subscribers to be in daffies. Pews to be numbered. Subscriptions to be transferrable. Banns may be publiftied, C previous to building the church, by the vicar or curate, to be in any place appointed (with approbation of the vicar) for public worship, till the church is finished. Remedy for recovery of subscriptions as trustees shall direct, by action in courts at Westminster. Application of moneys raised, first to charges of this act, and after in taking down the present church, C and in erecting a new one, and paying debt and interest, and for an allowance to the organist, clerk, and sexton, as trustees think fit. Appeal to quarter sessions. Limitation of actions after 14 days notice, in 6 months in the county where the cause of action shall arise. General issue. Treble costs. Public act.
 
-CAP. LXXIII
+CAP. LXXIII.
 
 An act for forming a junction between the Forth and Clyde navigation and the Monkland navigation; and for altering, enlarging, and explaining several former acts patted for making and maintaining the said navigations.
 
@@ -2786,13 +2786,13 @@ Act 8 Geo. 3. C 63. Act 10 Geo. 3. C 105. Powers to form a junction between the 
 
 Anno regni tricesimo Georgii III. C 74, 75. [1790.
 
-CAP. LXXIV
+CAP. LXXIV.
 
 An act to alter and amend an act, made in the fourteenth year of the reign of his late majesty King George the Second, intituled, An act for the effectual draining and preservation of Waterbeach Level, in the county of Cambridge; and to establish an agreement made between the lord of the manor of Waterbeach cum Denny, and the commoners within the said manor.
 
 Ad 14 Geo. 2. C 24. Agreement that Joyft Fen fhoul 1 be cleared of cattle from Candlemas day to March 25, yearly, hories excepted; mid lott, or Midload fen, from Candlemas to my 1; for each common the owner might feed 15 milched cows, or dry neat cattle, and 8 sheep, or 10 cows, and 5 mares or geldings, and to abate a cow for every colt of one year old, and 3 weanling calves of the ift year deemed as one cow; and for every commons to be kept one bull, from May 1, to October 10; and for every beast fed contrary, the owner to forfeit 10 s. to the lord of the manor, for every offence, to be levied by distress and sale, and the agreement to be valid. New regulations as to the (locking of Joyft Fen and Midlott. Joyft Fen to be cleared of all cattle (except horses) from candlemas day old style, to April 20, yearly, and of sheep from candlemas day old style, to November 20; and Midlott cleared of cattle from candlemas day old style, to May 12, and of all dry cattle (except weanling calves under one year old) from candlemas day old style, to Aug. 12, and sheep from candlemas day old style, to December 31. New regular tien as to the (locking of commonable lands, to feed 12 milched cows or dry neat cattle, and mares or geldings, and 8 sheep, and one cow for every yearling colt or silly, and 3 weanling calves of the ift year deemed as a cow, and one yearling neat beast the like; for every 8 commons to be kept one bull, from May 11, to November 10. Regulations for mowing all the bouts and little hollows of the commonable or fen grounds, and the management of the other parts. For scouring ditches and mowing thirties on the residue of the commons (except The Back Ditch). That four fifths of the occupiers of the commons may, from time to time, make regulations for the ute of and enjoyment thereof. Every occupier of a common to have a vote. Penalty on persons depasturing cattle contrary to the regulation, instead of penalty by former act, to pay 20 s. for each bead fed thereon, and may distrain such cattle, and detain them 5 days; and if such penalty and costs be not then paid, to sell, and one moiety of penalty to go to the lord of the manor, for his own use, and the other moiety to he retained by the ftnreeves, and applied towards expenses of the annual drift. Payment for cattle beyond the allowed (lint, without wikul default of the owner, to pay the fenreeves 4d. per head. For driving the commonable waste and fen grounds. Account of the number of cattle found on the drift to be given annually to the vicar of Waterbeach. Occupiers of commons depasturing other people's cattle shall be deemed the owners, C For paying the expenses of the ad. Where owners reside out of the pariftt of Waterbeach, their proportion to be paid by the tenants, who shall dedud it out of their relit. Powers of former act, unless where altered by this act, confirmed. Public act.
 
-CAP. LXXV
+CAP. LXXV.
 
 An act to enable the company of proprietors of the Staffordshire and Worcestershire canal navigation to improve the navigation of the river Severn, from Stourport, in the county of Worcester, to a place called Disglis, near the city of Worcester.
 
@@ -2804,7 +2804,7 @@ l37
 
 not to make locks or weirs. Paying the expenses of passing the act, and carrying the same into execution. Power for company to raise a further sum of x2, ooool. by alignment of their rates. Form of alignment. Afr signments may be transferred. Form of transfer. Interest to be paid half yearly. For making satisfaction for damage done in improving the river. The company to maintain the works, so that they shall not be a prejudice to navigation. If satisfaction for damages not paid, of to levy it and, costs, by distress and sale. Penalty on persons obstructing works, to forfeit 20s. at discretion of the j office. River not to be under the of of fevvers. Recovery of penalties, offenders may be committed to common gaol for 3 months, if penalty not paid, to go to the company of proprietors for the purpofts of the act. Distress not unlawful for want of form. Form of conviction. Appeal to quarter fdlions. Limitation of actions, 3 months. General issue. Double costs. Public act.
 
-CAP. LXXVI
+CAP. LXXVI.
 
 An act for forming and keeping in repair the streets, and other public passages and places, within a certain district in the parish of Saint Luke Chelsea, in the county of Middlesex, called Hans Town, and for otherwise improving the same.
 
@@ -2814,7 +2814,7 @@ Anno regni tricesimo Georgii III. C 77. [1790.
 
 rant, to commit to gaol for three months. Inhabitants may give evidence. Appeal to general or quarter sessions on 5 days notice, in months. Limitation of actions, on 31 days notice, in 3 months. General issue. Treble costs. Public act.
 
-CAP. LXXVII
+CAP. LXXVII.
 
 An act for the better paving, cleansing, lighting, and watching the city of Coventry, and the suburbs thereof, and removing and preventing nuisances and annoyances therein; and for regulating the public wells and pumps within the said city and suburbs
 
@@ -2826,7 +2826,7 @@ assignment. Money may be raised by annuities at 10i. percent. Form of grant. Not
 
 Affirmation of Quakers to be admitted. Penalties and forfeitures how to be recovered and applied, by distress and sale, and if not paid, may be committed for 3 months. Commissioners may compound for penalties. General appeal to the quarter sessions. Inhabitants may be witnesses. Justices may mitigate penalties. Limitation of actions. General issue. Treble costs. Public act.
 
-CAP. LXXVIII
+CAP. LXXVIII.
 
 An act to continue an act made in the sixth year of his present majesty's reign, intituled, An act to regulate the loading of ships with coals, in the ports of Newcastle and Sunderland.
 
@@ -2834,7 +2834,7 @@ An act to continue an act made in the sixth year of his present majesty's reign,
 
 WHEREAS an act was made, in the sixth year of his present Majesty, intituled, An act to regulate the loading of ships 6 geo.3 ca, with coals, in the ports of Newcastle and Sunderland \ which said recited. aft was continued, and the term thereof enlarged, by another at, passed in the thirteenth year of his present Majesty entitled., An act to con i3geo.3. c. 22. tinue an act, made in the sixth year of his present Majesty, intituled, An act to regulate the loading of Ships with coals, in the ports of Newcastle and Sunderland: and whereas by another act, passed in the twenty feeond year of the reign of his said Majesty, intituled, An act aageo.3 0.34, to revive and continue an act, passed in the sixth year of the reign of his present Majesty, intituled, An act to regulate the loading of Ships with coals in the ports of Newcastle and Sunderland; the said act of the sixth year of his said Majesty s reign was revived, and continued in full force and effet, until the twenty-fifth day of March one thousand seven hundred and eighty nine, and from thence to the end of the then nextfejfon of parliament: and whereas the further continuance of the said act of the sixth year of his said Majesty will be of great public utility; be it therefore enacted by the king's most excellent majesty, by and with the advice and consent of the lords spiritual and temporal, and commons, in this present parliament assembled, and by the authority of the same, That the said act of The said act the sixth year of his present majesty's reign shall be, and is hereof the ttl. by continued in full force and effect until the twenty-fifth day of 3^contl' March one thousand feyea hundred and ninety seven, and from March 35, thence to the end of the then next session of parliament, 1797,
 
-CAP. LXXIX
+CAP. LXXIX.
 
 An act for rebuilding the parish church of East Grinstead, in the county of Sussex.
 
@@ -2844,7 +2844,7 @@ Anno regni tricesimo Georgii III. C 80. [1790.
 
 rates, not above is. in the pound. Rates to be paid by landlord and tenant. Tenants paying rates for landlords may deduct the same out of the relit. Collectors to account. Rates to be levied in case of refusal or neglect to pay them, by dicti efs and sale. Persons quitting their houses without paying the rates may be followed. Persons aggrieved may appeal to the quarter sessions. Collectors may inspect poor rates, and land tax assessments. Trustees may raise money by sale of annuities, or by mortgaging the rates, not to exceed 4, 000!. Names of annuitants and of lenders of money upon the rates to be entered in books. Annuities exempt from taxes. Annuities may be assigned. Rates may be assigned for money borrowed. Form of alignment. Old materials veiled in the trustees, to be disposed of for the purposes of the act. Accounts to be kept. Election of new trustees, by the remaining trustees. Trustees having any contract disabled from acting. Expenses of the act to be paid out of the money arising. Distress not unlawful for want of form. Tender of amends may be made for any trespass. Proceedings not to be removed by Certiorari. Limitation of actions. General issue. Treble costs. Public act.
 
-CAP. LXXX
+CAP. LXXX.
 
 An act for providing a workhouse for, and for the better relief and employment of the poor of, the parish of Streatham, in the county of Surrey; and for appointing an additional overseer for the better government of the poor of the said parish.
 
@@ -2854,7 +2854,7 @@ An act for providing a workhouse for, and for the better relief and employment o
 
 apprenticed Children may be discharged or hired out. Poor may be employed in harvest work. Inhabitants may be witnesses. Recovery and application of penalties, by distress and sale of goods, by warrant gratis, and oaths gratis, and in default of distress, imprisonment, with an appeal to the quarter sessions. Proceedings not to be quashed for want of form. Form of conviction. Paying expenses of the act. Limitation of actions. General issue. Treble costs. Public act.
 
-CAP. LXXXI
+CAP. LXXXI.
 
 An act for providing a new poor house for, and for the better relief and government of the poor of, the township of Manchester, in the county of Lancaster.
 
@@ -2862,7 +2862,7 @@ Churchwardens and overseers to put the act in execution. First meeting. Adjournm
 
 Anno regni tricesimo Georgii III. C 82. [1790.
 
-CAP. LXXXII
+CAP. LXXXII.
 
 An act for making and maintaining a navigable canal from Merthyr tid vile, to and through a place called The Bank, near the town of Cardiff", in the county of Glamorgan.
 
@@ -2872,7 +2872,7 @@ Company of proprietors, 73. Their powers, to make a canal, from Merthyr Tidvile 
 
 ing paths, and making bridges, Sec. In case company do not fence off the towing paths, and make bridges, Sec. land owners may do it at the company's expense. If bridges, See. made by the company are inefficient, land owners may make others. Company may cleanle the adjoining watercourse at the land owners expense. Power to make rail ways. Cuts may be made to communicate with the canal and collateral cuts. Such cuts not to be made without consent of owners of lands. Lords of manors and land owners may ere warehouses, Sec. on their lands. If lords of manors neglect to ere warehouses, See. the of may do it. Regulations as to private wharves, to pay id. per tonne. Committee to regulate the navigation. Penalty on persons overloading and obstructing the navigation. Penalty on opening locks, See. Punishing persons wilfully destroying works, as felons guilty of petit larceny. Canal not to be subje# to of of sewers. How proprietors shall be taxed for purchased lands. Rights of lords of manors and land owners to fishery reserved. Penalty on unqualified persons on board having nets. Owners and occupiers of lands may use pleasure and husbandry boats free of the rates. Commissioners to be sworn. The oath. Commissioners may a as justices; not where interested, Sec. Notice of of meeting. General meeting of of Special meeting of the of No meeting to determine disputes, Sec. but within five miles of the canal. To compel payment of subscriptions. Recovery of forfeitures. Appeal. Limitation of a#ions. General issue. Treble costs. The like rates to be paid for ships coming into the basin, as if they came into the port of Cardiff. Public a.
 
-CAP. LXXXIII
+CAP. LXXXIII.
 
 An act for impowering persons navigating boats, barges, and other vessels, in the river Ouze, in the county of Norfolk, to hale or tow with horses, or other beasts, on the banks or sea walls of the f iidriver; and for making satisfaction to the owners of the said banks or sea walls.
 

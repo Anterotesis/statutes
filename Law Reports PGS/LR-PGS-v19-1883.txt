@@ -194,7 +194,7 @@ An Act to amend the Consolidated Fund (Permanent Charges Redemption) Act, 1873.
 
 WHEREAS by the Consolidated Fund (Permanent Charges Redemption) Act, 1873, the Treasury are authorised, as regards certain annuities as defined by that Act which are charged on the Consolidated Fund, or moneys provided by Parliament, to contract for their redemption by payment of a capital sum out of moneys provided by Parliament not exceeding the sum therein mentioned, or by the transfer of Government securities instead of the payment of a sum of money:
 
-And whereas by section twenty-three of the Revenue Friendly Societies and National Debt Act, 1882, the Treasury were authorised, for the purpose of the redemption of such of the said annuities as were payable to ecclesiastical corporations in England, to borrow the required capital sum or annuities from the National Debt Commissioners, and to repay the loan by a terminable annuity:And whereas it is expedient to give the like authority for the purpose of the redemption of others of the said annuities:
+And whereas by section twenty-three of the Revenue Friendly Societies and National Debt Act, 1882, the Treasury were authorised, for the purpose of the redemption of such of the said annuities as were payable to ecclesiastical corporations in England, to borrow the required capital sum or annuities from the National Debt Commissioners, and to repay the loan by a terminable annuity: And whereas it is expedient to give the like authority for the purpose of the redemption of others of the said annuities:
 
 Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -1228,7 +1228,7 @@ Nothing contained in this Act shall affect the pay or classification of the Insp
 
 There shall be deducted from the pay provided by this Act for each member of the Dublin Metropolitan Police below the rank of inspector the sum of one shilling and twopence by the week for every week during which lodging accommodation in any barrack or elsewhere, or an allowance in lieu thereof, is supplied for him out of moneys provided by Parliament or out of local rates; provided that such deduction shall not be made from the pay of any supernumerary constable.
 
-14. The provisions of this Act relative to pensions and gratuities for constables of the Royal Irish Constabulary who became members of that force on or after the tenth day of August one thousand eight hundred and sixty-six, or who shall become members of that force after the passing of this Act, shall apply to the members of the Dublin Metropolitan Police Force, not beiDg of higher rank than chief superintendent, who became members of the force on or after the twelfth day of August one thousand eight hundred and sixty-seven, or who shall become members of the force after the passing of this Act, subject to the following provisions:
+14. The provisions of this Act relative to pensions and gratuities for constables of the Royal Irish Constabulary who became members of that force on or after the tenth day of August one thousand eight hundred and sixty-six, or who shall become members of that force after the passing of this Act, shall apply to the members of the Dublin Metropolitan Police Force, not being of higher rank than chief superintendent, who became members of the force on or after the twelfth day of August one thousand eight hundred and sixty-seven, or who shall become members of the force after the passing of this Act, subject to the following provisions:
 
 (1.) The term “constable*’ shall include every member of the Dublin Metropolitan Police, not being of higher rank than chief superintendent.
 
@@ -4552,7 +4552,7 @@ An Act to make better provision as regards the Metropolis for the isolation and 
 
 [20th August 1883.]
 
-1V WHEREAS it is expedient that further powers be conferred on VT certain local authorities in the metropolis for the provision of hospital accommodation, and the isolation and treatment in suitable hospitals of persons suffering from cholera and other infectious diseases; and that better provision be made respecting the powers of the port sanitary authority of the port of London, and other matters:
+WHEREAS it is expedient that further powers be conferred on VT certain local authorities in the metropolis for the provision of hospital accommodation, and the isolation and treatment in suitable hospitals of persons suffering from cholera and other infectious diseases; and that better provision be made respecting the powers of the port sanitary authority of the port of London, and other matters:
 
 Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -10040,7 +10040,7 @@ Class YL
 
 Superannuations and Retired Allowances Commutation of Annuities -
 
-Class YII.
+Class VII.
 
 Temporary Commissions ...
 
