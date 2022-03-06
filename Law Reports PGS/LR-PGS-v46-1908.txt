@@ -102,7 +102,7 @@ The Titles of the Public General Acts passed in the Third Session of the Twenty-
 
 21. An Act to amend the Law relating to the time for an Appeal from the Decision of a Revising Barrister, and matters consequential thereon. (Registration.)
 
-22. An Act to amend section one of the Evicted Tenants (Ireland) Act, 1907, with respect to the compulsory acquisition of tenanted land. (Evicted Tenants (Ireland).)
+22. An Act to amend section one of the Evicted Tenants (Ireland) Act, 1907, with respect to the compulsory acquisition of tenacted land. (Evicted Tenants (Ireland).)
 
 23. An Act to grant Money for the purpose of certain Local Loans out of the Local Loans Fund, and for other purposes relating to Local Loans. (Public Works Loans.)
 
@@ -2566,7 +2566,7 @@ Registration, 1908.
 
 Repeal and -short title.
 
-Amendment of 7 Edw. 7. c. 56. s. 1. as to tenanted land.
+Amendment of 7 Edw. 7. c. 56. s. 1. as to tenacted land.
 
 Ch. 21, 22.
 
@@ -2600,7 +2600,7 @@ c. 10. 1888.
 
 CHAPTER 22.
 
-An Act to amend section one of the Evicted Tenants (Ireland) Act, 1907, with respect to the compulsory acquisition of tenanted land.
+An Act to amend section one of the Evicted Tenants (Ireland) Act, 1907, with respect to the compulsory acquisition of tenacted land.
 
 [1st August 1908.]
 
@@ -3610,7 +3610,7 @@ in fixtures and buildings shall extend to every fixture or building affixed or e
 
 (iii) It shall be lawful for the tenant to remove all fruit
 
-trees and fruit bushes planted by him on the holding and not permanently set out; but, if the tenant does not remove such fruit trees and fruit bushes before the determination of his tenancy, they shall remain the property of the landlord, and the tenant shall not be entitled to any compensation in respect thereof.
+trees and fruit bushes planted by him on the holding and not permanently set out; but, if the tenactedoes not remove such fruit trees and fruit bushes before the determination of his tenancy, they shall remain the property of the landlord, and the tenant shall not be entitled to any compensation in respect thereof.
 
 (2) Where under a contract of tenancy current on the first day of January eighteen hundred and ninety-six a holding was at that date in use or cultivation as a market garden with the knowledge of the landlord, and the tenant thereof has then executed thereon, without having received previously to the execution thereof any written notice of dissent by the landlord, any improvement comprised in the Third Schedule to this Act, the provisions of this section shall apply, in respect of that holding, as if it had been agreed in writing after that date that the holding should be let or treated as a market garden, so however that the improvements in respect of which compensation is payable under those provisions as so applied shall include improvements executed before as well as improvements executed after that date. Provided that where such a tenancy was a tenancy from year to year, the compensation payable in respect of an improvement comprised in the Third Schedule to this Act shall be such (if any) as could have been claimed if this Act had not been passed.
 
@@ -3658,7 +3658,7 @@ for letting land for a term of years, or for lives, or for lives and years, or f
 
 “ Tenant” means the holder of land under a contract of tenancy, and includes the executors, administrators, assigns, guardian, committee of the estate, or trustee in bankruptcy, of a tenant, or other person deriving title from a tenant;
 
-“ Holding” means any parcel of land held by a tenant, which is either wholly agricultural or wholly pastoral, or in part agricultural and as to the residue pastoral, or in whole or in part cultivated as a market garden, and which is not let to the tenant during his continuance in any office, appointment, or employment held under the landlord;
+“ Holding” means any parcel of land held by a tenant, which is either wholly agricultural or wholly pastoral, or in part agricultural and as to the residue pastoral, or in whole or in part cultivated as a market garden, and which is not let to the tenacteduring his continuance in any office, appointment, or employment held under the landlord;
 
 “Market garden” means a holding cultivated, wholly or mainly, for the purpose of the trade or business of market gardening;
 
@@ -15326,7 +15326,7 @@ in fixtures and buildings shall extend to every fixture or building affixed or e
 
 (iii) It shall be lawful for the tenant to remove all fruit
 
-trees and fruit bushes planted by him on the holding and not permanently set out; but, if the tenant does not remove such fruit trees and fruit bushes before the determination of his tenancy, they shall remain the property of the landlord, and the tenant shall not be entitled to any compensation in respect thereof.
+trees and fruit bushes planted by him on the holding and not permanently set out; but, if the tenactedoes not remove such fruit trees and fruit bushes before the determination of his tenancy, they shall remain the property of the landlord, and the tenant shall not be entitled to any compensation in respect thereof.
 
 (2) Where under a lease current on the first day of January eighteen hundred and ninety-eight a holding was at that date in use or cultivation as a market garden with the knowledge of the landlord, and the tenant thereof has then executed thereon, without having received previously to the execution thereof any written notice of dissent by the landlord, any improvement comprised in the Third Schedule to this Act, the provisions of this section shall apply, in respect of that holding, as if it had been agreed in writing after that date that the holding should be let or treated as a market garden, so however that the improvements in respect of which compensation is payable under those provisions as so applied shall include improvements executed before as well as improvements executed after that date:
 
@@ -15370,7 +15370,7 @@ held under a lease, other than a lease from year to year, current on the first d
 
 “ Absolute owner” means the owner or person capable of disposing by disposition or otherwise of the fee simple or dominium utile of the whole interest of or in land, although the land, or his interest therein, is burdened, charged, or encumbered;
 
-“Holding” means any piece of land held by a tenant, which is either wholly agricultural or wholly pastoral, or in part agricultural and as to the residue pastoral, or in whole or in part cultivated as a market garden, and which is not let to the tenant during his continuance in any office, appointment, or employment held under the landlord;
+“Holding” means any piece of land held by a tenant, which is either wholly agricultural or wholly pastoral, or in part agricultural and as to the residue pastoral, or in whole or in part cultivated as a market garden, and which is not let to the tenacteduring his continuance in any office, appointment, or employment held under the landlord;
 
 “Market garden” means a holding cultivated, wholly or mainly, for the purpose of the trade or business of market gardening;
 
