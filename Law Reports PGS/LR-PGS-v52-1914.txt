@@ -3988,7 +3988,7 @@ i 34 j 35
 
 49 !
 
-50 |
+50 
 
 52 !
 
@@ -10012,7 +10012,7 @@ Depth of Boat. Minimum Freeboard.
 
 Millimetres. Equivalent in Inches to Millimetres. Equivalent in Inches to
 
-310 12 70 2|
+310 12 70 2
 
 460 18 95 3 *
 
@@ -20970,7 +20970,7 @@ c. 62 1 Preferential Payments Bankruptcy. in Rep., so far a* already unrepealed.
 
 62 & 53 Vict. c. 50 Local Government (S.) 8. 7 repealed ... S. 52 (2) (3) applied 39, s. 4, Sch. 46, s. 3 (6).
 
-53 & 54 Vict.:|
+53 & 54 Vict.:
 
 c. 45 | Police - - S. 4 (5) applied - 30, ss. 2 (1), 3.
 

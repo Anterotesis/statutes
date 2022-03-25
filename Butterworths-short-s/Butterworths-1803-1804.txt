@@ -2774,7 +2774,7 @@ S. 1 . 0 18 0 18 0 19 3§ 0 19 8 1 0 °4
 
 18 . 16 14 H 17 0 84 17 7 4 17 13 11 18 0 64
 
-19 . 17 12 H 17 19 74 18 6 7JL '2 18 13 7 19 0 6|
+19 . 17 12 H 17 19 74 18 6 7JL '2 18 13 7 19 0 6
 
 £.i 18 11 3 18 18 7 19 5 11 19 13 3 20 0 7
 
@@ -2814,7 +2814,7 @@ Land Tax to be redeemed, or purchased. 55 and under 56. 56 and under 57. 57 and 
 
 3 4 0 1 34 0 1 34 0 1 34 0 1 4 0 1 44
 
-D. l . 0 1 0 1 84 0 1 94 0 1 94 0 1 9|
+D. l . 0 1 0 1 84 0 1 94 0 1 94 0 1 9
 
 2 . 0 3 0 3 5 77 0 3 64 0 3 7 0 3 74
 
@@ -2844,7 +2844,7 @@ S. 1 1 0 44 1 0 94 1 1 14 1 1 6 1 1 10f
 
 4 4 1 7 4 3 04 4 4 6i 4 5 114 4 7 54
 
-5 5 1 Hi 5 3 94 5 5 74 5 7 54 5 9 3|
+5 5 1 Hi 5 3 94 5 5 74 5 7 54 5 9 3
 
 6 6 2 4i 6 4 7 6 6 94 6 8 H-4 6 11 2
 
@@ -5068,7 +5068,7 @@ For every Gallon of Wort or Wash brewed or made for extracting Spirits, in that 
 
 Corn, Grain or Tilts, or any Mixture with the same 0 Oil For every Gallon of Cyder or Perry, or any other Wash or Liquor brewed or made as aforesaid from any Sort or Kind of British Materials, except such as are before mentioned, or any Mixture therewith, for extracting Spirits for Home Consumption - 0 0 10
 
-For every Gallon of Wort or Wash brewed or made as aforesaid from Melasses or Sugar, or any Mixture therewith, for extracting Spirits for Home Consumption - - 0 1 4|
+For every Gallon of Wort or Wash brewed or made as aforesaid from Melasses or Sugar, or any Mixture therewith, for extracting Spirits for Home Consumption - - 0 1 4
 
 For every Gallon of Wash brewed or made as aforesaid from Foreign refused Wine or Foreign Cyder, or Wash prepared from any other Foreign Materials, except Melasses and Sugar, or any Mixture therewith, for extracting Spirits for Home Consumption 0 1 10
 
@@ -5546,7 +5546,7 @@ s. d. 10 0
 
 4 0
 
-0 1|
+0 1
 
 0 1
 
@@ -10848,7 +10848,7 @@ Pimento
 
 Rum,
 
-1 Not imported by the United Com-> pany of Merchants of England I trading to the East Indies.
+1 Not imported by the United Company of Merchants of England I trading to the East Indies.
 
 Imported from the Indies.
 
@@ -12328,7 +12328,7 @@ Arbitration may proceed in Ab-a sence of Parties.
 
 Meeting to settle such Dispute shall have taken place, and shall state to such Justice or Justices, who may be present, the Points in Difference between them the said Referees, which Points in Difference the said Justice or Justices shall and is and are hereby authorized and required to hear and determine upon the Statement of the Referees, and the said Justice or Justices is and are hereby directed and required to settle and determine the Matter in Dispute with all possible Dispatch, and in all Cases within the Space of Two Days after the Expiration of the Time hereby allowed to the Referees to make and sign their Award; and the Determination of such Justice or Justices shall be final and conclusive between the Parties so differing as aforesaid, without being subject to Review by any Court whatsoever.
 
-VI. Provided always, and be it enacted, That if either of the said Referees thall refuse or delay to go before the said Justice or Justices, such Justice or Justices are hereby empowered and required to determine the Matter in Dispute upon the Statement and Representation of the Referee who shall come before him or them.
+VI. Provided always, and be it enacted, That if either of the said Referees shall refuse or delay to go before the said Justice or Justices, such Justice or Justices are hereby empowered and required to determine the Matter in Dispute upon the Statement and Representation of the Referee who shall come before him or them.
 
 VII. Provided always, and be it enacted, That in case either or both of the said Referees so appointed shall refuse or delay to accept such Reference, or accepting shall not act therein, the Justice shall proceed to name another Person or other Persons of the Descriptions aforesaid, to be Referee or Referees in the Place of such Referee or Referees so refusing or delaying to accept, or who shall not act; and the Party or Parties shall have the same Power of Challenge in the Case of a Second Nomination, as is given by this Act in the Case of a First Nomination, provided always that such Party has not already exercised the same; and in every Case of a Second Nomination, the Referees shall meet within Twenty four Hours after the Application for the same, and at the same Place at which the Meeting of the Referees first named was appointed; and the Expence of every such Application for the Appointment of a Second Referee, shall be borne and defrayed by the Party through whose Default or the Default of whose Referee such Application is rendered necessary.
 
@@ -12566,7 +12566,7 @@ CAP. CLII.
 
 An Act to amend so much of an Act made in the Seventh Year of the Reign of His late Majesty King George the First, intituled An Act for the
 
-Subjects from trading to the East Indies under Foreign -missions, and for encouraging arid further securing the laxful Trade thereto, and for further regulating the Pilots of Dover,
+Subjects from trading to the East Indies under Foreign -missions, and for encouraging and further securing the laxful Trade thereto, and for further regulating the Pilots of Dover,
 
 Deal, and the Isle of Thanet; as relates to the said Pilots.
 
@@ -14096,7 +14096,7 @@ Application, viz.
 
 Men, including > I £.1 17
 
-12,000 Marines ) | g g |
+12,000 Marines ) | g g 
 
 0 0 Their Victualling, at
 
@@ -14324,7 +14324,7 @@ Increased Rates to Innkeepers Small Beer and Allowances on March in Ireland (a)
 
 On Account of reduced Officers'!
 
-of Land Forces and Marines Half Pay and Allowances to reduced Officers of British Ame- J> For the Year 1803. rican Forces - |
+of Land Forces and Marines Half Pay and Allowances to reduced Officers of British Ame- J> For the Year 1803. rican Forces - 
 
 On Account of Officers late Service of States General -Widows’ Pensions Volunteers Corps Barrack Departments -Foreign Corps in His Majesty’s'!
 
@@ -22994,7 +22994,7 @@ Horse, Mare or Gelding, hired by the Mile or Stage, to be used in travel- j£*. 
 
 ling in Great Britain, for every Mile such Horse, Mare or Gelding
 
-shall be hired to travel -Horse, Mare or Gelding, hired for a less Period of Time than Twenty r-& 1 — 1 o o 0 0 1|
+shall be hired to travel -Horse, Mare or Gelding, hired for a less Period of Time than Twenty r-& 1 — 1 o o 0 0 1
 
 624
 
