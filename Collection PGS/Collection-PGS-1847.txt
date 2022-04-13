@@ -2480,7 +2480,7 @@ Height - -j
 
 Complexion --J
 
-Hair ... - j
+Hair ... -
 
 4? s i i i
 
@@ -3052,7 +3052,7 @@ Isles,
 
 Isles, for the full Term of Five Years at the least, (not having been above the Age of Sixteen when so bound,) and, if in Scotland, for the full Term at least of Four Years, by a regular Contract of Indenture of Apprenticeship* duly extended, signed, and tested, and binding on both Parties by the Law of Scotland, prior to the Period of Enlistment, and unless such Contract or Indenture in Scotland shall, within Three Months after the Commencement of the Apprenticeship and before the Period of Enlistment, have been produced to a Justice of the Peace of the County in Scotland wherein the Parties reside, and there shall have been endorsed thereon by such Justice a Certificate or Declaration signed by him, specifying the Date when and the Person by whom such Contract or Indenture shall have been so produced, which Certificate or Declaration such Justice of the Peace is hereby required to endorse and sign; nor unless any such Apprentice shall, when claimed by such Master, be under Twenty-one Years of Age; provided that any Master of an Apprentice indentured for the Sea Service shall be entitled to claim and recover him in the Form and Manner above directed, notwithstanding such Apprentice may have been bound for a less Term than Seven, Five, or Four Years as aforesaid: Pro* vided also, that any such Master who shall give up the Indentures of Apprenticeship within One Month after the enlisting of such Apprentice shall be entitled to receive, to his own Use, so much of the Bounty payable to such Recruit, after deducting therefrom Two Guineas to provide him with Necessaries, as shall not have been paid to such Recruit before Notice given of his being an Apprentice.
 
-LXIV. And be it enacted, That no Apprentice claimed by No Apprentice his Master shall be taken from any Division, Detachment, dmimediiy tiic Recruiting Party, or Ship of Her Majesty, except under a taken^y Warrant of a Justice residing near and within whose Jurisdic- without a War-tion such Apprentice shall then happen to be, and before whom rant-he shall be carried; and such Justice shall inquire into the Matter upon Oath (which Oath he is hereby empowered to administer), and shall require the Production and Proof of the Indenture, and that Notice of the said Warrant has been given to the Commanding Officer, and a Copy thereof left with some Officer or Non-commissioned Officer of the Party, and that such Person so enlisted declared that he was no Apprentice; and Punishment of such Justice, if required by such Officer or Non-commissioned APPrfntices Officer, shall commit the Offender to the Common Gaol of the en *8tlDg* said Place, and shall keep the Indenture to be produced when required, and shall bind over such Person as he may think proper to give Evidence against the Offender, who shall be tried at the next or at the Sessions immediately succeeding the next General or Quarter Sessions of the County, Division, or Place, unless the Court shall on just Cause put off the Trial; and the Production of the Indenture, with the Certificate of the Justices that the same was proved, shall be sufficient Evidence of the said Indenture; and every such Offender in Scotland may be tried by the Judge Ordinary in the County or Stewartry in
+LXIV. And be it enacted, That no Apprentice claimed by No Apprentice his Master shall be taken from any Division, Detachment, dmimediiy tiic Recruiting Party, or Ship of Her Majesty, except under a taken^y Warrant of a Justice residing near and within whose Jurisdic- without a War-tion such Apprentice shall then happen to be, and before whom rant-he shall be carried; and such Justice shall inquire into the Matter upon Oath (which Oath he is hereby empowered to administer), and shall require the Production and Proof of the Indenture, and that Notice of the said Warrant has been given to the Commanding Officer, and a Copy thereof left with some Officer or Non-commissioned Officer of the Party, and that such Person so enlisted declared that he was no Apprentice; and Punishment of such Justice, if required by such Officer or Non-commissioned Apprentices Officer, shall commit the Offender to the Common Gaol of the en *8tlDg* said Place, and shall keep the Indenture to be produced when required, and shall bind over such Person as he may think proper to give Evidence against the Offender, who shall be tried at the next or at the Sessions immediately succeeding the next General or Quarter Sessions of the County, Division, or Place, unless the Court shall on just Cause put off the Trial; and the Production of the Indenture, with the Certificate of the Justices that the same was proved, shall be sufficient Evidence of the said Indenture; and every such Offender in Scotland may be tried by the Judge Ordinary in the County or Stewartry in
 
 Servants enliaU ing to be entitled to a Portion of their Wages.
 
@@ -6622,7 +6622,7 @@ Wares, and Merchandize, when imported into the United King-
 
 dom, the several Duties of Customs as the same are respectively inserted, described, and set forth in Figures in the Table to this Act annexed.
 
-II. And be it enacted, That the Duties imposed by this Act shall be under the Management of the Commissioners of Her nagementof the Majesty's Customs, and shall be ascertained, raised, levied. Commissioners collected, paid, and recovered, and allowed and applied or appro- of Customs, priated, under the Provisions of any Act or Acts now in force
+II. And be it enacted, That the Duties imposed by this Act shall be under the Management of the Commissioners of Her nagement of the Majesty's Customs, and shall be ascertained, raised, levied. Commissioners collected, paid, and recovered, and allowed and applied or appro- of Customs, priated, under the Provisions of any Act or Acts now in force
 
 or hereafter to be made relating to the Customs.
 
@@ -9946,7 +9946,7 @@ Streets may be stopped for Repairs.
 
 1847. Towns Improvement Clauses. Cap. 34.
 
-XXXni. All Sewers and Drains within the Limits of the special Act, whether public or private, shall be provided by the Commissioners or other Persons to whom they severally belong with proper Traps or other Coverings or Means of Ventilation so as toprevent Stench.
+XXXIII. All Sewers and Drains within the Limits of the special Act, whether public or private, shall be provided by the Commissioners or other Persons to whom they severally belong with proper Traps or other Coverings or Means of Ventilation so as toprevent Stench.
 
 XXXIV. Any Person, being the Owner or Occupier of any Lands beyond the Limits of the special Act, and in fespect of which he would not be liable to the Payment of the Rates authorized to be levied under this and the special Act, may, with the Consent of the Commissioners first obtained in Writing, upon Payment to them of a reasonable Sum of Money to be agreed upon between them, at his own Expence, and under the Superintendence of the Surveyor of the Commissioners, cause to branch into and to communicate with any of the Sewers belonging to the Commissioners any Sewer or Drain in respect of the said Property which may be lawfully made therefrom of such Size and in such Manner and Form of Communication as the Commissioners approve of: Provided always, that nothing in this or the special Act contained shall affect any Right theretofore acquired by such Owner or Occupier to use any of the Sewers or Drains belonging to the Commissioners under the Provisions of this or the special Act.
 
@@ -11020,13 +11020,13 @@ CLXXXI. The Owners of all rateable Property, of which 0*m«r* of he full net ann
 
 >r (where no Sum is prescribed) the Sum of Ten Pounds, or m Aon. top»y vhich are let to weekly or monthly Tenants, or in separate R«fe»ind Apartments, shall be rated to and pay the Rates by this or the of special Act directed to be made, instead of the Occupiers hereof.
 
-CLXXXn. Whenever the Name of any Owner liable to Not necemry ie rated under the Provisions of this or the special Act is not MnM the cnown to the Commissioners, or to the Person making the ^JJown?* Elates, it shall be sufficient to rate such Owner in the Bate Book of the Commissioners as the Owner of the Property to be " - ' *
+CLXXXII. Whenever the Name of any Owner liable to Not necemry ie rated under the Provisions of this or the special Act is not MnM the cnown to the Commissioners, or to the Person making the ^JJown?* Elates, it shall be sufficient to rate such Owner in the Bate Book of the Commissioners as the Owner of the Property to be " - ' *
 
 ated by the Designation of the Owner," without stating his '
 
 Name.
 
-CLXXXIn. Provided always. That when any Owner is Tenant* and* -ated in respect of any rateable Property in the Occupation of *i*tioK Lc*"* my Tenant under any Lease or Agreement made prior to the owner* massing of the special Act, such Tenant shall repay to the Owner ill Stuns paid by him during the Continuance of such Lease on iccount of any. Bates under this or the special Act payable by he Occupier, unices it have been agreed that the Owner shall say all Bates |n respect of each .Property; and every Sum so
+CLXXXIII. Provided always. That when any Owner is Tenant* and* -ated in respect of any rateable Property in the Occupation of *i*tioK Lc*"* my Tenant under any Lease or Agreement made prior to the owner* massing of the special Act, such Tenant shall repay to the Owner ill Stuns paid by him during the Continuance of such Lease on iccount of any. Bates under this or the special Act payable by he Occupier, unices it have been agreed that the Owner shall say all Bates |n respect of each .Property; and every Sum so
 
 D d 4 payable
 
@@ -11174,7 +11174,7 @@ CCIII. No such Bye Laws shall be confirmed unless Notice of the Intention to app
 
 CCIV. For One Month at least previous to any such Application for Confirmation of any Bye Law a Copy of the proposed Bye Laws shall be kept at the principal Office of the Commissioners, and all Persons may at all reasonable Times inspect such Copy without Fee or Reward; and the Commissioners shall furnish every Person who applies for the same with a Copy thereof, or of any Part thereof, on Payment of Sixpence for ©rery One hundred Words so to be copied.
 
-CCV. Such Bye Laws, when confirmed, shall be published in the prescribed Manner, and when no Manner of Publication is prescribed they shall be printed, and the Clerk to the Commissioners shall deliver a printed Copy thereof to every Person applying for the same without Charge; and a Copy thereof shall be punted or placed on Boards, which shall be luing up on the Front or in some conspicuous Part of the principal Qffiee of the Commissioners, and also on some conspicuous Part of the Works or Locality to which the same relate; and such Boards, with the Bye Laws thereon, shall be from Time to Time renewed as Occasion requires, and shall be open to Inspection without Fee or Reward; and any such Clerk who does not allow the same to be inspected at all reasonable Times shall for every such Offence be liable to a Penalty not exceeding Five Pounds.
+CCV. Such Bye Laws, when confirmed, shall be published in the prescribed Manner, and when no Manner of Publication is prescribed they shall be printed, and the Clerk to the Commissioners shall deliver a printed Copy thereof to every Person applying for the same without Charge; and a Copy thereof shall be punted or placed on Boards, which shall be luing up on the Front or in some conspicuous Part of the principal Offiee of the Commissioners, and also on some conspicuous Part of the Works or Locality to which the same relate; and such Boards, with the Bye Laws thereon, shall be from Time to Time renewed as Occasion requires, and shall be open to Inspection without Fee or Reward; and any such Clerk who does not allow the same to be inspected at all reasonable Times shall for every such Offence be liable to a Penalty not exceeding Five Pounds.
 
 CCVI. Such Bye Laws, wjicn so confirmed and published, Bye Laws to be shall be binding upon and be observed by all Parties, and shall oa
 
@@ -17794,7 +17794,7 @@ The Crown - 1
 
 j . io >
 
-* .j TheOown .4 | TheiCfeawH
+* .j The Oown .4 | TheiCfeawH
 
 - [The Crown - I
 
@@ -18042,7 +18042,7 @@ And if the said Company be dissolved, or be incorporated by Act of Parliament, o
 
 VI. And be it enacted, That in case of any Alteration being A1*er-madc in any of the Particulars registered by the Promoters of
 
-any Company in pursuance of the said recited Act or of this registered, they Act, such Alteration shall forthwith be returned to the Registrar 811111 be return-of Joint Stock Companies; and if such Return be not made ^r^undeM?^ within One Month after such Alteration has been made and Penalty, decided upon, any Promoter of the Company shall be liable to forfeit for each and every Alteration not returned as aforesaid any Sum not exceeding Twenty Pounds.
+any Company in pursuance of the said recited Act or of this registered, they Act, such Alteration shall forthwith be returned to the Registrar 8  be return-of Joint Stock Companies; and if such Return be not made ^r^undeM?^ within One Month after such Alteration has been made and Penalty, decided upon, any Promoter of the Company shall be liable to forfeit for each and every Alteration not returned as aforesaid any Sum not exceeding Twenty Pounds.
 
 VII. And be it enacted, That it shall not be lawful for the Penalty on Pro-Promoters of any Company, or for any Person connected with
 
@@ -21642,7 +21642,7 @@ XV. And be it enacted, That any Commissioner or Registrar so sitting and acting 
 
 XVI. And be it enacted, That the Forms given in the Schedules to any of the said Acts, or any Forms heretofore used under the said Acts, may be altered so far as to adapt them to the Change of Jurisdiction by this Act directed.
 
-XVn. And be it enacted, That the Office of the first One of the Commissioners of the Court for the Relief of Insolvent Debtors, and of the first Two of the Commissioners of the Court of Bankruptcy in London, which shall become vacant after the passing of this Act, shall not be filled up until after the Termination of the Session of Parliament next after such Vacancies shall have occurred.
+XVII. And be it enacted, That the Office of the first One of the Commissioners of the Court for the Relief of Insolvent Debtors, and of the first Two of the Commissioners of the Court of Bankruptcy in London, which shall become vacant after the passing of this Act, shall not be filled up until after the Termination of the Session of Parliament next after such Vacancies shall have occurred.
 
 Until such Order made Clerks and Bailiffs to receive all Fees as heretofore.
 
@@ -23862,7 +23862,7 @@ recited Act of the Fifth and Sixth Year of Her Majesty's Reign as aforesaid, as 
 
 or by and out of any Monies which might be from Time to
 
-Time borrowed or raised by them the said last-mentioned Commissioners in anticipation and on the Credit of the said Sum of One hundred and eighty-nine thousand Pounds, and 4- the Interest thereof, or any Part thereof; provided always, 4 that the Monies to be paid to the Commissioners under the Act now in recital in respect of the said Sum of Thirty-nine thousand Pounds, and Interest, should not exceed in the whole the Sum of Fifty thousand Pounds, with Interest at the Rate aforesaid upon the Sum of Fifty thousand Pounds, or on so much thereof as should from Time to Time remain unpaid, 4 to be calculated from the Time of the Completion of the new Street and Communication thereby authorized to be made 4 {such Completion to be certified as therein-after mentioned) 4 to the Time when the said Sum of Fifty thousand Pounds should be fully paid; provided also, that the said Sum of Thirty-nine thousand Pounds, and the Interest thereof, should ' not be raised and paid in priority to any other Sums authorized to be appropriated and applied out of the saidSum of One hundred and eighty-nine thousand Pounds, and the Interest thereof, but all the Sums authorized to be appropriated and applied out of the said Sum of One hundred and eighty-nine thousand Pounds, and* the Interest thereof, should be raised and paid in equal Degree and in rateable Proportions; provided also, that no Part of the said Sum of Thirtynine thousand Pounds, or the Interest thereof, should be paid
+Time borrowed or raised by them the said last-mentioned Commissioners in anticipation and on the Credit of the said Sum of One hundred and eighty-nine thousand Pounds, and 4- the Interest thereof, or any Part thereof; provided always, 4 that the Monies to be paid to the Commissioners under the Act now in recital in respect of the said Sum of Thirty-nine thousand Pounds, and Interest, should not exceed in the whole the Sum of Fifty thousand Pounds, with Interest at the Rate aforesaid upon the Sum of Fifty thousand Pounds, or on so much thereof as should from Time to Time remain unpaid, 4 to be calculated from the Time of the Completion of the new Street and Communication thereby authorized to be made 4 {such Completion to be certified as therein-after mentioned) 4 to the Time when the said Sum of Fifty thousand Pounds should be fully paid; provided also, that the said Sum of Thirty-nine thousand Pounds, and the Interest thereof, should ' not be raised and paid in priority to any other Sums authorized to be appropriated and applied out of the said Sum of One hundred and eighty-nine thousand Pounds, and the Interest thereof, but all the Sums authorized to be appropriated and applied out of the said Sum of One hundred and eighty-nine thousand Pounds, and* the Interest thereof, should be raised and paid in equal Degree and in rateable Proportions; provided also, that no Part of the said Sum of Thirtynine thousand Pounds, or the Interest thereof, should be paid
 
 to the Commissioners under the Act now in recital until the new Street and Communication thereby authorized to be made should have been actually made and completed to the Satisfaction of the Lord High Treasurer or the Commissioners of Her Majesty's Treasury for the Time being, to be certified by Warrant under their Hands or the Hands of any Three of them: And whereas by an Act passed in the present Session of Parliament, intituled An Act to amend and enlarge the Powers and Provisions of the Westminster Improvement Act, 1845, and to authorize the Application of certain Rates in aid of the Improvements, it is enacted, that the Proviso in the said lastrecited Act contained, that no Port of the said Sum of Thirtynine thousand Pounds, or the Interest thereof, shall be paid to the Commissioners under the said Act until the new Street
 
@@ -24000,7 +24000,7 @@ of Her Majesty's Woods, Forests, Land Revenues, Works, and act. ° Buildings for
 
 VIII. And be it enacted, That if and when the Commis- ifCommUdon-sioners of Her Majesty's Woods, Forests, Land Revenues,
 
-Works, and Buildings shall have been satisfied that the full Sum to pay the of Seventy-five thousand Pounds has been expended as afore- 50, ooql a* said towards purchasing the Area of and forming the said Street Westmi rater and Works, the said last-named Commissioners shall not have at improvement their Disposal Monies sufficient to pay to the said Westminster Commissioners Improvement Commissioners the said Sum of Fifty thousand Pounds so hereby authorized to be paid to them as aforesaid, terest to run on then and thenceforth Interest after the Rate of Five Pounds per the 50,000l. till Centum per Annum shall be paid by the said Commissioners of Pa>ment *
+Works, and Buildings shall have been satisfied that the full Sum to pay the of Seventy-five thousand Pounds has been expended as afore- 50, ooql a* said towards purchasing the Area of and forming the said Street Westminster and Works, the said last-named Commissioners shall not have at improvement their Disposal Monies sufficient to pay to the said Westminster Commissioners Improvement Commissioners the said Sum of Fifty thousand Pounds so hereby authorized to be paid to them as aforesaid, terest to run on then and thenceforth Interest after the Rate of Five Pounds per the 50,000l. till Centum per Annum shall be paid by the said Commissioners of Pa>ment *
 
 Her Majesty's Woods, Forests, Land Revenues, Works, and Buildings to the Westminster Improvement Commissioners on the said Sum of Fifty thousand Pounds, or on so much as shall remain unpaid, from the Time at which the said Commissioners of Her Majesty's Woods, Forests, Land Revenues, Works, and Buildings were satisfied that the said Sum of Seventy-five thousand Pounds had been expended as aforesaid up to the Time at [No. 53. Price 2c/.] 3 G, which
 
