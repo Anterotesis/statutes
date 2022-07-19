@@ -360,8 +360,6 @@ CHAP. LXXIV.
 
 An Act to amend and render more effectual the Laws now in Force for making and keeping in Repair a Circular Road round the City of Dublin. 851
 
----
-
 CHAP. LXXV.
 
 An Act to amend an Act passed in the Third Year of his present Majesty, King George the Third, Entitled, An Act for the better Discovery of charitable Donations and Bequests. 858
@@ -372,15 +370,11 @@ An Act for amending and continuing an Act, passed in the Thirty-eighth Year of h
 
 CHAP. LXXVII.
 
-An Act to amend and continue an Act, passed in rbe Thirty-seventh Year of his Majesty’s' Reign, Entitled, An Act for regulating and extending the Tobacco Trade, and for securing. the Duties payable, upon the -Import and Manufacture of Tobacco. 86b
+An Act to amend and continue an Act, passed in the Thirty-seventh Year of his Majesty’s Reign, Entitled, An Act for regulating and extending the Tobacco Trade, and for securing the Duties payable, upon the Import and Manufacture of Tobacco. 866
 
 CHAP. LXXVIII.
 
-An Act for amending an Act, passed in the last Session of Parliament, Entitled, An Act to revive and continue the several Laws relating to the curing of Hides, and .. regulating the Sale of Hides and Calf Skins, and pro venting.Frauds in the felling thereof, and for prevent-
-
-of the Twentieth Volume.
-
-ing Frauds in the weighing ?.nd Delivery of Bark imported into this Kingdom. Page 867
+An Act for amending an Act, passed in the last Session of Parliament, Entitled, An Act to revive and continue the several Laws relating to the curing of Hides, and regulating the Sale of Hides and Calf Skins, and preventing Frauds in the selling thereof, and for preventing Frauds in the weighing and Delivery of Bark imported into this Kingdom. Page 867
 
 CHAP. LXXIX.
 
@@ -388,7 +382,9 @@ An Act to oblige Ships more effectually to perform, their Quarantine, and to pre
 
 CHAP. LXXX.
 
-An Act to explain, and amend an Act paffed in the Thirty-fifth Year of his present Majesty's Reign, Entitled, An Act for regulating the Election of Members to serve in Parliament, and for repealing the several Acts therein mentioned, and to explain.and amend an Act passed in the Thirty-feventh Year of said Reign, Entitled, An Act for the further Regulation of the Election of Members to serve in Parliament. 886
+---
+
+An Act to explain, and amend an Act passed in the Thirty-fifth Year of his present Majesty's Reign, Entitled, An Act for regulating the Election of Members to serve in Parliament, and for repealing the several Acts therein mentioned, and to explain.and amend an Act passed in the Thirty-feventh Year of said Reign, Entitled, An Act for the further Regulation of the Election of Members to serve in Parliament. 886
 
 CHAP. LXXXI.
 
@@ -7354,19 +7350,13 @@ black, bohea, or other tea, for every
 
 pound weight thereof Si —
 
-And if the fame shall have been pur-
+And if the fame shall have been purchafed at the East India company’s sale in
 
-chafed at the East India company’s sale in
+London, for an higher price than two fliillings per pound weight, then an additional
 
-London, for an higher price than two fliil-
+duty of two pence for every six pence Britifli per pound weight, that Ihnll be paid for the fame, above the said sum or price of
 
-lings per pound weight, then an additional
-
-duty of two pence for every six pence Bri-
-
-tifli per pound weight, that Ihnll be paid for the fame, above the said sum or price of
-
-two (hillingsBritishi at iiich sale: the price
+two (hillings British at iiich sale: the price
 
 thereof to be inserted in the cocket, and
 
@@ -7428,7 +7418,7 @@ Schedule A.
 
 From Great Britain. BiUillu
 
-I N‘W A R 1) *>.
+INWARDS.
 
 <F, s, d.
 
@@ -7876,7 +7866,7 @@ the hundred, containing fix icors
 
 __________37 inches
 
-____.__________in foreign fifips
+____.__________ in foreign ships
 
 ______ -j 4 inches
 
@@ -7890,7 +7880,7 @@ ___, being 18 feet in length, ami un-
 
 j der 20 feet in length, ami not exceeding in thickness 2l inches
 
-__________ , in foreign fifips
+__________ , in foreign ships
 
 __________k, 3 inches -
 
@@ -7898,7 +7888,7 @@ __________ in foreign fl:ips
 
 _______—, 3r-inchfs
 
-_______——-----, in foreign fifips
+_______——-----, in foreign ships
 
 93
 
@@ -7912,23 +7902,23 @@ f. i. d.
 
 -----, 4 indies
 
------—.-----—-----, in foreign fifips
+-----—.-----—-----, in foreign ships
 
 -----, 44 inches
 
------ , in foreign fifips
+----- , in foreign ships
 
 Deal cmh, the hundred, containing fix \ feore,' being under 5 feet in length, F i and not exceeding in thickness 2; inches
 
 IIL”
 
------,-----, in foreign fifips
+-----,-----, in foreign ships
 
 -----3 indies
 
 ----- , in foreign flips
 
-37 inches - —in foreign fifips
+37 inches - — in foreign ships
 
 -----, 4 inches
 
@@ -7938,7 +7928,7 @@ in foreign flips
 
 ----- j— 2 6'.
 
-in foreign fifips 1-----__________
+in foreign ships 1-----__________
 
 —, being 5 rent in length, anti in: ct-cct-thirt 8 left in length, ami nut ex-cccdiim in tliicbicfs ze inches
 
@@ -8030,7 +8020,7 @@ The Fortieth Year of George III.
 
 Schedule A. From Great Britain.
 
-1N Y.r ARDS.
+INWARDS.
 
 {"Dials, the hundred, containing fix score,
 
@@ -8288,7 +8278,7 @@ for every ten pounds weight thereof, avoirdupois -
 
 And so in proportion for any greater or left quantity.
 
-SKIN S.
+SKINS.
 
 Buck, or deer /Inns in the hair, the Ann
 
@@ -8310,13 +8300,13 @@ pounds weight thereof, avoirdupois
 
 c'Cordovant, of Scotland, the dozen
 
-- -----, but, if tanned, a furtJicr dui,r
+- but if tanned, a further duty for
 
 for every ten pounds weight thereof, avoir dupois
 
 - Dog fiHiihius for tfetchers, the dozen
 
------, but.il tanned, a further duty for
+- but if tanned, a further duty for
 
 every ten pounds weight thereof, avoirdupois -
 
@@ -8330,9 +8320,9 @@ Goat Heins, if raw and undressed, and imported in British or Irish vessels, navi
 
 in the hair, the dozen Heins
 
-— -----, but If tanned, a further duty for
+- but if tanned, a further duty for
 
-every ten p.iuuds weight thereof, avoirdupois
+every ten pounds weight thereof, avoirdupois
 
 From Great Britain. I’From other Bririih.|Foreign. Countries.
 
@@ -8394,7 +8384,7 @@ SKINS.
 
 Goat Heins, of England and Scotland, in the hair, die dozen skins
 
-________, but if tanned, a further, duty for
+- but if tanned, a further duty for
 
 every ten pounds weight thereof, avoirdupois -
 
@@ -8406,7 +8396,7 @@ pounds weight thereof, avoirdupois
 
 Huls tkins for flctchers, the ioo skins
 
-____.___, but if tanned, a further duty for
+- but if tanned, a further duty for
 
 every ten pounds weight thereof, avoirdupois
 
@@ -8416,13 +8406,13 @@ Kill skins, in the lnir, die hundred, containing five fcorc -
 
 five fcorc
 
------.---, hut if tanned, a further duty for
+- but if tanned, a further duty for
 
 every ten pounds weight thereof, avoirdupois -
 
 Portugal (kin?, the dozen skins
 
-—-----, hut if tanned, a further duty for
+- but if tanned, a further duty for
 
 every ten pounds weight thereof, avoirdupois
 
@@ -8430,21 +8420,21 @@ Seal thins, if raw and undressed, and taken by die crews of vessels belonging to
 
 -----} the Jkin
 
------, but if tanned, a further duty for
+- but if tanned, a further duty for
 
 every ten pounds weight thereof, avoirdupois
 
 Shamois Heins, the dozen
 
------, hut if tanned, a further duty for
+- but if tanned, a further duty for
 
 every ten pounds weight thereof, avoirdupois
 
 Sheep thins, in the wool, for every ten Ikins
 
------> hut it tanned, a further duty for
+- but if tanned, a further duty for
 
-e.ery ten pounds weight thereof, avoirdupois
+every ten pounds weight thereof, avoirdupois
 
 £ d.
 
@@ -8510,17 +8500,17 @@ Schedule A.
 
 inwards.
 
-s KINS.
+SKINS.
 
 Spanish, Turkey, East India, Seville, or Cor-dovant iklns, the dozen skins
 
-—.-----, but if tanned, a further duty
+- but if tanned, a further duty
 
 for every ten younds weight thereof, Avoirdupois
 
 Spruce fleins, tawed, tnc dozen
 
------, but if tanned, a further duty
+- but if tanned, a further duty
 
 for every ten pounds weight thereof, Avoirdupois -
 
@@ -8572,11 +8562,11 @@ Goat and beaver ikius, for every p.und weight Avoirdupois
 
 Calve d ins,-for every pound \ve:ght Avoirdupois -
 
-Sheep anil Iamb skins, for every ten pounds weight, Avoirdupois
+Sheep and Lamb skins, for every ten pounds weight, Avoirdupois
 
 And so in proportion for any greater or lef-, quantity.
 
-VELL U M and PARC H M E N T, over and above all other Duties.
+VELLUM and PARCHMENT, over and above all other Duties.
 
 Vellum, for every dozen ikins
 
@@ -13876,7 +13866,7 @@ LVIII. Provided always, That every person receiving money, who shall, upon deman
 
 LIX. Provided also, and be it enacted, That nothing in this act shall charge any receipts given for drawbacks or bounties on the exportation of any goods from this kingdom, or any other bounties payable pursuant to act of parliament on any goods whatsoever, or on any certificate of every entry of any duties of customs, nor to any portage bills allowed to matters of -vessels for making a true report of their cargoes at the custom-house, or promissory notes, for any sum not exceeding two pounds ten drillings, to be passed for tithes.
 
-LX. And be it enacted, That every person who shall write or sign, or cause to be written or signed any bill of exchange, promissory note, draft, or order, or any receipt or other discharge given for the payment of money liable to any stamp duty charged by this act, without being first stamped, or on which there shall not be some stamp refem--bling the fame, he shall for every such bill of exchange, promiffory
+LX. And be it enacted, That every person who shall write or sign, or cause to be written or signed any bill of exchange, promissory note, draft, or order, or any receipt or other discharge given for the payment of money liable to any stamp duty charged by this act, without being first stamped, or on which there shall not be some stamp refem--bling the fame, he shall for every such bill of exchange, promissory
 
 The Fortieth Year of George III.
 
@@ -16906,7 +16896,7 @@ III. And be it further enacted by the authority aforesaid, That any such banker 
 
 fbe Fortieth'Year of George III.
 
-hereafter shall flop payment, ant] hath nr have conformed, or jj,.H conform to the said act, of the thirty-third of George ti.c fc-con I, but who hath not; or have not obtained, or shall not have 0’-' -ine>l a total difcli wet-- from his or their debts arising or accru-previous to such iris or their flopping payment, ior want of I j. cr tl;-ir certiorates, shall have liberty-after the expiration of t'-clvc calendar months, from the day of the dare of every inch iled executed as aforesaid, by such banker or bankers, to apply by petition, verified by adidavir, to ;he lord chancellor, lord keeper, (ir lords commissioners of the great foal of Ireland for the time be-inr, letting for'-h the true ctrcuinfiances of the case relative to fitch (L’pptny el payment and certificate, (havinir previously given notice to the tndlces, or the major part of them, of fitch his or their intended application),"am! the lord chancellor, lord keeper, or lords ceni’iiidinners as aforesaid, limit have power and authority to direit and order the trustees, or the major part of them, to certify upon o:i!i to the ftid lord chancellor, lord keeper, or lords commissioners, the conformity, or non-conformity oi’ such banker or bankets to the fai l act, and such other matters as to them shall seem necessary concerning the lame; the said trullecs being hereby authorised and repaired ib to do, and the said lord chancellor, lord keeper, or lords coinmiiTioners as aforesaid, shall thereupon have power and authority, if he or they Hull think fit, to direct and order an adver-tilcmciit to be inferred in the Dublin Gazette, for the allowance of such banker’s certificate; and in case no suficient cause Hull be (hcu'ii to the contrary, within the time limited by the said advtr-tiicmcnr, the said lord chancellor, lord keeper, or lords commission-evs as aforesaid, shall have power and authority to allow such banker’s certificate in like manner, as if the fame had been signed agreeable to the directions of this act, and to grant or make such order thereupon, for the relief and dildurgc of such hanker or bankers, iroin his or their debts as aforesaid, or otherwise as*to the bril chancellor, lord keeper, or lords coinml/Iioners shall leein proper; such certificate, if lb allowed, shall be as full ami effectual, to all intents and purposes as if the fame had been duly obtained and allowed, agreeable to the directions herein before mentioned, any law or ulage to the contrary notwithstanding.
+hereafter shall flop payment, ant] hath nr have conformed, or jj,.H conform to the said act, of the thirty-third of George ti.c fc-con I, but who hath not; or have not obtained, or shall not have 0’-' -ine>l a total difcli wet-- from his or their debts arising or accru-previous to such iris or their flopping payment, ior want of I j. cr tl;-ir certiorates, shall have liberty-after the expiration of t'-clvc calendar months, from the day of the dare of every inch iled executed as aforesaid, by such banker or bankers, to apply by petition, verified by adidavir, to ;he lord chancellor, lord keeper, (ir lords commissioners of the great foal of Ireland for the time be-inr, letting for'-h the true ctrcuinfiances of the case relative to fitch (L’pptny el payment and certificate, (havinir previously given notice to the tndlces, or the major part of them, of fitch his or their intended application),"am! the lord chancellor, lord keeper, or lords ceni’iiidinners as aforesaid, limit have power and authority to direit and order the trustees, or the major part of them, to certify upon o:i!i to the ftid lord chancellor, lord keeper, or lords commissioners, the conformity, or non-conformity oi’ such banker or bankets to the fai l act, and such other matters as to them shall seem necessary concerning the lame; the said trullecs being hereby authorised and repaired ib to do, and the said lord chancellor, lord keeper, or lords commissioners as aforesaid, shall thereupon have power and authority, if he or they Hull think fit, to direct and order an adver-tilcmciit to be inferred in the Dublin Gazette, for the allowance of such banker’s certificate; and in case no suficient cause Hull be (hcu'ii to the contrary, within the time limited by the said advtr-tiicmcnr, the said lord chancellor, lord keeper, or lords commission-evs as aforesaid, shall have power and authority to allow such banker’s certificate in like manner, as if the fame had been signed agreeable to the directions of this act, and to grant or make such order thereupon, for the relief and dildurgc of such hanker or bankers, iroin his or their debts as aforesaid, or otherwise as*to the bril chancellor, lord keeper, or lords coinml/Iioners shall leein proper; such certificate, if lb allowed, shall be as full ami effectual, to all intents and purposes as if the fame had been duly obtained and allowed, agreeable to the directions herein before mentioned, any law or ulage to the contrary notwithstanding.
 
 337
 
@@ -18598,7 +18588,7 @@ discover on and prosecute to conviction such offender or-offenders, and the othe
 
 The Fortieth Year of George III.
 
-XIV. And be it further enacted by the authority aforesaid, That it shall and may be lawful to and for the surveyor and surveyors to be appointed in manner herein before directed, to survey, view, and insped all and every the works done, or contra died to be done in pursuance of this act; and also to view the general condition of the pavements of the several streets, lanes and places in the said town of Belfast, and to present and report all defective and bad pavements within the said Greets, lanes and places, and thereupon or upon the reasonable complaint and request of any three or more householders in writing under their hands to the said commissioners, fuel) coinmiliioners, or any five or more of them, shall and may cause all and every such defeflive or bad pavements to be well and sufficiently repaired as soon as conveniently may be, the expence whereof lhal! be defrayed by and out of the monies to be raised by any rate or rates hereby directed to’ be made, for the purposes of repairing, cleansing, and lighting the said town* and in case such pavements so presented, reported, or complained of, shall have been paved or repaired, under or by virtue of any contract for paving and repairing the fame, and the paving and repairing thereof shall not have been well and sufficiently performed, according to the intent and meaning of such contract or contracts, or shall not have been finished and compleated at or within the time or times that the fame hath or have been agreed by any such contract to be compleated by the contractor or contradors, such surveyor or surveyors shall' report the fame to the commifTtoners at their next or any, other subsequent meeting, and such commissioners, or any five or more of them, shall and may, by order in writing under their hands, direct an action of debt to be commenced and prosecuted in any of his Majesty's courts of law in Ireland, against any person or persons so contracting and not performing such contract or con-trafls, for all or any of the penalty and penalties imposed by such contract or contracts, within one month next after such report shall be made to the said commissioners, and on proof of the signing the said contract or contracts, and non-performance thereof, at the time or times therein for that purpose mentioned, the plaintiff or plaintiffs in every such action shall be entitled to, and shall recover such penalty or Vot. XX. 5 M penalties,
+XIV. And be it further enacted by the authority aforesaid, That it shall and may be lawful to and for the surveyor and surveyors to be appointed in manner herein before directed, to survey, view, and insped all and every the works done, or contra died to be done in pursuance of this act; and also to view the general condition of the pavements of the several streets, lanes and places in the said town of Belfast, and to present and report all defective and bad pavements within the said Greets, lanes and places, and thereupon or upon the reasonable complaint and request of any three or more householders in writing under their hands to the said commissioners, fuel) commissioners, or any five or more of them, shall and may cause all and every such defeflive or bad pavements to be well and sufficiently repaired as soon as conveniently may be, the expence whereof lhal! be defrayed by and out of the monies to be raised by any rate or rates hereby directed to’ be made, for the purposes of repairing, cleansing, and lighting the said town* and in case such pavements so presented, reported, or complained of, shall have been paved or repaired, under or by virtue of any contract for paving and repairing the fame, and the paving and repairing thereof shall not have been well and sufficiently performed, according to the intent and meaning of such contract or contracts, or shall not have been finished and compleated at or within the time or times that the fame hath or have been agreed by any such contract to be compleated by the contractor or contradors, such surveyor or surveyors shall' report the fame to the commifTtoners at their next or any, other subsequent meeting, and such commissioners, or any five or more of them, shall and may, by order in writing under their hands, direct an action of debt to be commenced and prosecuted in any of his Majesty's courts of law in Ireland, against any person or persons so contracting and not performing such contract or con-trafls, for all or any of the penalty and penalties imposed by such contract or contracts, within one month next after such report shall be made to the said commissioners, and on proof of the signing the said contract or contracts, and non-performance thereof, at the time or times therein for that purpose mentioned, the plaintiff or plaintiffs in every such action shall be entitled to, and shall recover such penalty or Vot. XX. 5 M penalties,
 
 4*3 A.D.
 
@@ -23434,7 +23424,7 @@ The Fortieth Year of George III.
 
 until such necessary repairs and other necessary materials shall be made and provided, and-all other deficiencies supplied and made good and sufficient, to the good liking of the said corporation.
 
-XIV. Provided always, and be it enacted by the authority aforesaid, That if the matter or owner of any such passage boat, ship, or vessel, shall obstruct or prevent the persons so authorized and empowered by the said corporation from viewing and inspecting such ships, boats, or vessels for the purposes aforesaid, the matter or owner of all such ships, boats, and vessels,' shall forfeit and pay unto the said corporation for every such obstruction, the sum of ten pounds sterling, and if any matter or owner of any such ships or vessels shall proceed to sea with such ship, boat, or vessel, with any pafTcnger or passengers on board, after the said corporation shall direct and order the fame to be detain-' cd, and before a license or order shall be obtained or procured from the said corporation for permission and liberty for such failing, the matter or owner of all such ships and vessels shall pay, or cause to be paid unto the said corporation, the full sum of one hundred pounds sterling for every such time such ship or vessel shall proceed to sea or fail with passengers on board after receiving such order as aforesaid'; and in case of non-payment of the said respective fum$ of ten pounds and one hundred pounds herein before mentioned, within ten days after the breach of this act in manner aforesaid, that it shall and may be lawful to and for the said corporation to seize the said ship or vessel, together with all the tackle, rigging, apparel, and furniture thereunto belonging, and to sell and dispose of the fame, or a competent part thereof, for payment and satisfaction of all the said fines or forfeitures, and all costs, charges, and expences attending the seizing, detaining, and felling the fame.
+XIV. Provided always, and be it enacted by the authority aforesaid, That if the matter or owner of any such passage boat, ship, or vessel, shall obstruct or prevent the persons so authorized and empowered by the said corporation from viewing and inspecting such ships, boats, or vessels for the purposes aforesaid, the matter or owner of all such ships, boats, and vessels,' shall forfeit and pay unto the said corporation for every such obstruction, the sum of ten pounds sterling, and if any matter or owner of any such ships or vessels shall proceed to sea with such ship, boat, or vessel, with any passenger or passengers on board, after the said corporation shall direct and order the fame to be detain-' cd, and before a license or order shall be obtained or procured from the said corporation for permission and liberty for such failing, the matter or owner of all such ships and vessels shall pay, or cause to be paid unto the said corporation, the full sum of one hundred pounds sterling for every such time such ship or vessel shall proceed to sea or fail with passengers on board after receiving such order as aforesaid'; and in case of non-payment of the said respective fum$ of ten pounds and one hundred pounds herein before mentioned, within ten days after the breach of this act in manner aforesaid, that it shall and may be lawful to and for the said corporation to seize the said ship or vessel, together with all the tackle, rigging, apparel, and furniture thereunto belonging, and to sell and dispose of the fame, or a competent part thereof, for payment and satisfaction of all the said fines or forfeitures, and all costs, charges, and expences attending the seizing, detaining, and felling the fame.
 
 XV, And be it further enacted by the authority aforesaid, That no ship, boat, or other vessel of letter burden than sixty tons (except his Majesty's yatclit, packets, or other boats, wherries, or vessels conveying his Majesty's mails or fxprefles, or any expresses or dispatcbcs by virtue of such license as aforesaid) ilia! be permitted to act or trade as a passage ship, boat, or vessel, for carrying and conveying piffengers between the said port of Dublin and the different
 
@@ -23632,7 +23622,7 @@ A mar dot - by Kent and Lefavre.
 
 in before imposed on the said ground and premises, on the Xouth fide of the said river Liffey.
 
-XXVfl. And whereas by reason of the said ground on the Couth fide of the said river, lying wafie and unproJadirc for several years last pad, an arrear of the said tax on fi,. several lots in possession of Edward Kent and Nicholas Lefavre, amounting to nine hundred and (ixtv-eiglit p-v.’n,!? is now due and owing to the said corporation: And the 1',:; Edward Kent and Nicholas Lcfavrc have prop -.fed to said corporation to fink or fund the said arrear or f.nf nine hundred and sixty-eight pounds, by an arldki-inJof six pence by the foot on the several lots in their pof f. (ion, which will cffeQually secure the payment of the f.ii-1 arrear, be it therefore enacted by the authority afmefaid, That from and after the passing of this act it shall and may be lawful for the said corporation to (ink or fund the said sum of nine hundred and sixty-eight pounds by an additional foot tax on the said several lots in the polle/lion of the fdid Edward Kent and Nicholas Lefavre, at and after the rate of lix pence ftciiing for each and every foot, and so in propo;tion for less than a foot, which the said several lots, so in their pnffeffioii, shall measure in front to the said river LilTey, and accordingly the said “Edward Kent and Nicholas Lefavre, or fucll oilier perl’on and persons who now is or are, or hereafter shall or may, at any time or times, he the owner or owners, occupier or occupiers ol - the said ground on the south fide of the said river, shall yearly and every year, on every twenty-fourth day of June for ever, pay, or cause to he paid to the said corporation and their Jiiarl-fors, at the ballad office of the port of Lublin for the time being, the said additional tax of six pence per foot for each and every 'foot which said lots on the south fide of the said river shall tnea-fnre or contain in front to the said river,-over and above the aiorc-said tax of one Hulling and six pence per foot, together with fws for receiving and collecting the said additional tax, at tile rate of five pounds per centum, to be computed upon the sum which '(hall be so payable by such person or persons respectively, the first payment of the said last mentioned rates and fees Mpayment to be made on the twenty-fourth day of June, which "'ill be in the year one thousand eight hundred and one, the said 2 additional
+XXVfl. And whereas by reason of the said ground on the Couth fide of the said river, lying wafie and unproJadirc for several years last pad, an arrear of the said tax on fi,. several lots in possession of Edward Kent and Nicholas Lefavre, amounting to nine hundred and (ixtv-eight p-v.’n,!? is now due and owing to the said corporation: And the 1',:; Edward Kent and Nicholas Lcfavrc have prop -.fed to said corporation to fink or fund the said arrear or f.nf nine hundred and sixty-eight pounds, by an arldki-inJof six pence by the foot on the several lots in their pof f. (ion, which will cffeQually secure the payment of the f.ii-1 arrear, be it therefore enacted by the authority afmefaid, That from and after the passing of this act it shall and may be lawful for the said corporation to (ink or fund the said sum of nine hundred and sixty-eight pounds by an additional foot tax on the said several lots in the polle/lion of the fdid Edward Kent and Nicholas Lefavre, at and after the rate of lix pence ftciiing for each and every foot, and so in propo;tion for less than a foot, which the said several lots, so in their pnffeffioii, shall measure in front to the said river LilTey, and accordingly the said “Edward Kent and Nicholas Lefavre, or fucll oilier perl’on and persons who now is or are, or hereafter shall or may, at any time or times, he the owner or owners, occupier or occupiers ol - the said ground on the south fide of the said river, shall yearly and every year, on every twenty-fourth day of June for ever, pay, or cause to he paid to the said corporation and their Jiiarl-fors, at the ballad office of the port of Lublin for the time being, the said additional tax of six pence per foot for each and every 'foot which said lots on the south fide of the said river shall tnea-fnre or contain in front to the said river,-over and above the aiorc-said tax of one Hulling and six pence per foot, together with fws for receiving and collecting the said additional tax, at tile rate of five pounds per centum, to be computed upon the sum which '(hall be so payable by such person or persons respectively, the first payment of the said last mentioned rates and fees Mpayment to be made on the twenty-fourth day of June, which "'ill be in the year one thousand eight hundred and one, the said 2 additional
 
 24jmie, 1801
 
@@ -24172,7 +24162,7 @@ as for executing the office of lord high trenfurer in Ireland, I*1---1-.’v.iff
 
 XIV. And be it enacted, That the said under fccrctirics, Unterfc-or either of them, who shall come to the knowledge of the g.*"”;*’of death of any such person or persons, shall give like notice al,nl;‘'.aiit«. thereof, and that the commissioners of his Majesty's treasury
 
-ifoll have like power to examine them or either of them upon oath, as to the existence of the persons amongst whom the annuity or annuities that shall or may be granted, under or in pursuance of this act, shall be appointed to be paid as by frid act of the thirty-ninth year of his Majesty's reign, tiv f.iirl coinmilTioners have with respect to the existence of die i'cih’r.s amongst whom the annuities therein mentioned Live i con gran red; urovided nevertheless, That no grant or
+ifoll have like power to examine them or either of them upon oath, as to the existence of the persons amongst whom the annuity or annuities that shall or may be granted, under or in pursuance of this act, shall be appointed to be paid as by frid act of the thirty-ninth year of his Majesty's reign, tiv f.iirl commissioners have with respect to the existence of die i'cih’r.s amongst whom the annuities therein mentioned Live i con gran red; urovided nevertheless, That no grant or
 
 o Not to pre.
 
@@ -29714,7 +29704,7 @@ whereof
 
 The Fortieth Year of George III.
 
-rvlicreof, be it enacted, That when any part of Ireland, Great Britain, or ...th e iiles df Guernsey, Jersey, Alderney, Sari, and Man, or any pari of 'France, Spain, Portugal, Italy, or the Low Countries, shall be infected with the plague, it snail and may be lawful to and for th: chief governor or governors of this kingdom, for the time being, by his or their proclamation, to prohibit and rcllrain all finall boats and velfe's, under the harder, cf twenty tons, from failing or passing out of any port or place cf Ireland, ltn'il feenrhy be first given by the mailer cf every such boat or reflcl respectively, to 'the satisfadio:. of the principal efneer of the custonis, or rhe chief ir.agiltra; rf the port or place whence such boat or vdfel shall fail, by bond: when to the king, his heira, nr f-icccfibrs, with fufTicient ftiretics in the penalty of three hundred pounds, with condition that inch boat or veiled shall not go to or touch at any country, port or place to be mentioned for that purpose in such proclamation, and if the mailer or other person having charge of'such boat-or vessel, and all and every mariner and mariners, paiTenger or passengers, going in such boat or vessel, (lull, during the time afcrcfliid, not go on board any ether ship rr vessel at sea, and if such mailer or other person having charge cf any such boat or vessel, snail not permit any person or persons to conic on board such boat or vessel at sea from any other iliip or veil'd, and snail not during the time aforesaid receive any goods raid merchandizes whatsoever out of any other ship or vessel, then inch bond shall be void, and for which bond no fee or reward r.hatlbcver shall be taken: and in case any boat or vessel for which such securiry shall be required by such proclamation, shall set fail t-r pals out of any port or place of this kingdom before such fe-carity be given ns aforesaid, cveiy such boat or vessel so failing or piiiing out of any port or place contrary to the true intent and nearting of this act, together with her tackle, apparel, and fur-. riutre, shall be forfeited to the king, his heirs and successors, and Hull and may be l’eized, Cued for, and recovered in his Majesty's court of exchequer at Dublin, to the use of his Majesty, his heirs, inj fuceclfots, and the matter of and every mariner failing in any llirli boat or vessel, being thereof lawfully convicted upon Ills or their appearance or default, upon the oath or oaths of onc or more credible witness or witnesses, by one or more justice or justices ol‘ the peace where such offender shall be found, which oath such julliee or justices of the peace arc hereby empowered and required to admi-itiilcr, shall forfeit the film cf twenty pounds, one moiety thereof to the informer, and the other moiety to ihc poor of the parish where such offender shall be found, ihc fame to be levied by dillrcfi and file of the offender's goods, by warrant under the hand and leal, or 10 O a hands
+rvlicreof, be it enacted, That when any part of Ireland, Great Britain, or ...th e iiles df Guernsey, Jersey, Alderney, Sari, and Man, or any pari of 'France, Spain, Portugal, Italy, or the Low Countries, shall be infected with the plague, it snail and may be lawful to and for th: chief governor or governors of this kingdom, for the time being, by his or their proclamation, to prohibit and rcllrain all finall boats and velfe's, under the harder, cf twenty tons, from failing or passing out of any port or place cf Ireland, ltn'il feenrhy be first given by the mailer cf every such boat or reflcl respectively, to 'the satisfadio:. of the principal efneer of the custonis, or rhe chief ir.agiltra; rf the port or place whence such boat or vdfel shall fail, by bond: when to the king, his heira, nr f-icccfibrs, with fufTicient ftiretics in the penalty of three hundred pounds, with condition that inch boat or veiled shall not go to or touch at any country, port or place to be mentioned for that purpose in such proclamation, and if the mailer or other person having charge of'such boat-or vessel, and all and every mariner and mariners, passenger or passengers, going in such boat or vessel, (lull, during the time afcrcfliid, not go on board any ether ship rr vessel at sea, and if such mailer or other person having charge cf any such boat or vessel, snail not permit any person or persons to conic on board such boat or vessel at sea from any other iliip or veil'd, and snail not during the time aforesaid receive any goods raid merchandizes whatsoever out of any other ship or vessel, then inch bond shall be void, and for which bond no fee or reward r.hatlbcver shall be taken: and in case any boat or vessel for which such securiry shall be required by such proclamation, shall set fail t-r pals out of any port or place of this kingdom before such fe-carity be given ns aforesaid, cveiy such boat or vessel so failing or piiiing out of any port or place contrary to the true intent and nearting of this act, together with her tackle, apparel, and fur-. riutre, shall be forfeited to the king, his heirs and successors, and Hull and may be l’eized, Cued for, and recovered in his Majesty's court of exchequer at Dublin, to the use of his Majesty, his heirs, inj fuceclfots, and the matter of and every mariner failing in any llirli boat or vessel, being thereof lawfully convicted upon Ills or their appearance or default, upon the oath or oaths of onc or more credible witness or witnesses, by one or more justice or justices ol‘ the peace where such offender shall be found, which oath such julliee or justices of the peace arc hereby empowered and required to admi-itiilcr, shall forfeit the film cf twenty pounds, one moiety thereof to the informer, and the other moiety to ihc poor of the parish where such offender shall be found, ihc fame to be levied by dillrcfi and file of the offender's goods, by warrant under the hand and leal, or 10 O a hands
 
 883
 
@@ -30978,7 +30968,7 @@ III. And be it further enacted, That if any such person so rc-inflated, shall, p
 
 I’uG.ns the end of any war in which this kingdom may be engaged, tifemanratii, at the cxydintion of said term, and for two months after it agremclt'1 have cea^i or shall have signed any agreement to
 
-fing of tf s*1" PurP°^'> or shall have acknowledged by lignature, or
+sing of tf s*1" PurP°^'> or shall have acknowledged by lignature, or
 
 »a, fliaiibc otherwise, the receipt of any money for such purpose, such M" oath or signature, of consent or receipt, shall be as- valid to all intents and purposes, during the period mentioned therein, as the oath prescribed by the said recited act.
 
