@@ -18592,9 +18592,9 @@ Galway).
 
 Leitrim County:
 
-North Leitrim - ...... 1
+North Leitrim - 1
 
-South Leitrim .... 1
+South Leitrim - 1
 
 Mayo County:
 
@@ -18606,9 +18606,9 @@ North Roscommon South Roscommon
 
 Sligo County:
 
-North Sligo......... 2
+North Sligo - 2
 
-South Sligo ...... 1
+South Sligo - 1
 
 Totals (Connaught Counties) -
 
@@ -18652,7 +18652,7 @@ Dublin ...... | 3
 
 Belfast ...... I 4
 
-Cork ...... • 1
+Cork - 1
 
 Totals (Boroughs) .... 8
 
@@ -18888,13 +18888,11 @@ capacity, oi an officer who though not serving in an established capacity devote
 
 2. For the purposes of this Act, the statutory conditions of retirement are that —
 
-(a) Retirement miist. take place within a period of five years from
+(a) Retirement miist take place within a period of five years from
 
 the appointed day (in this Schedule referred to as the transitional period);
 
-(b) Notice of the intention to retire must be given in accordance with
-
-Regulations made by the Civil Service Committee;
+(b) Notice of the intention to retire must be given in accordance with Regulations made by the Civil Service Committee;
 
 (c) The retirement must not take place until at least six months after the notice of retirement has been given, and may be postponed by the Civil Service Committee, if they think fit, to any later date within the transitional period; and
 
@@ -18908,11 +18906,7 @@ Regulations made by the Civil Service Committee;
 
 I. — (1) For the purpose of the provisions of this Act as to existing officers, petty sessions clerks and officers in the Registry of Petty Sessions Clerks shall be deemed to be officers in the civil service of the Crown, and in the case of officers in the Registry of Petty Sessions Clerks to be officers serving in an established capacity.
 
-1914.
-
-Government of Ireland Act, 1914. Ch. 90.
-
-447
+1914. Government of Ireland Act, 1914. Ch. 90. 447
 
 This provision shall apply to the pensionable assistants of the petty sessions clerks at Cork and Belfast as it applies to the petty sessions clerks.
 
@@ -20618,9 +20612,7 @@ clxxxix. An Act to authorise the Corporation of the city of Sheffield to execute
 
 Royal Assent, 28th August, 1914.
 
-P. cxc. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to Blyth Hall (Transfer). (Hall (Transfer) Order
-
-Confirmation.)
+P. cxc. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to Blyth Hall (Transfer). (* Hall (Transfer) Order Confirmation.)
 
 P. cxci. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to Coatbridge Drainage and Burgh Extension. (Coatbridge Drainage and Burgh Extension Order Confirmation.)
 
@@ -20638,9 +20630,7 @@ Royal Assent, 31st July, 1914.
 
 1. An Act to amend the De Trafford Estate Act 1904 and to extend the powers of the Trustees of the will of Sir Humphrey de Trafford and to approve a resettlement of the De Trafford Estates dated the eighth day of May one thousand nine hundred and fourteen and for other purposes. (De Trafford Estate.)
 
-2. An Act to appoint Trustees and confer powers of sale and other powers with reference to the estates of Falkland and Pluscarden and for other purposes. (and
-
-Pluscarden Estates.)
+2. An Act to appoint Trustees and confer powers of sale and other powers with reference to the estates of Falkland and Pluscarden and for other purposes. (Falkland and Pluscarden Estates.)
 
 3. An Act to establish Commissioners to maintain flood defences in the parish of Hesketh-with-Becconsall in the county of Lancaster and to transfer certain lands and works to and to confer powers on such Commissioners and for other purposes. (Hesketh Estate (Defences).)
 
@@ -20702,11 +20692,7 @@ c. 89 Drainage (I.) - Ss. 92, 94, 95 applied with mods. 55, a 2 (2).
 
 * Act* continued annually by the Expiring Laws Continuance Act are not notioed in this Table.
 
-516
-
-Effect of Legislation.
-
-[4 & 5 Geo. 5.
+516 Effect of Legislation. [4 & 5 Geo. 5.
 
 Statute and Chapter. Subject-matter or Short Title. How affected. Chapter of 4 & 5 Geo. 5.
 
@@ -20982,7 +20968,7 @@ c. 32 Public Health - S. 1 extended j S. 2 applied .... 49, s.; 46, s.
 
 c 53 Public Health Acts Amend- S. 53 ext. to London ment. 49, s.
 
-8 Edw. 7.: '
+8 Edw. 7.:
 
 c. 15 Costs in Criminal Cases - Applied prosp. ... 58. s. '
 
