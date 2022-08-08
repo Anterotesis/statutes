@@ -3840,7 +3840,7 @@ The Corrupt Practices Commission Expenses Act, 1869. The whole Act 34 & 35 Vict.
 
 GO 33 & 34 Vict. c. 112. The Glebe Loan (Ireland) Act, 1870. The whole Act 34 & 35 Vict. c. 100. 49 Vict. c. 6.
 
-(15) 34 & 36 Vict. c. 87. The Sunday Observation Prosecution Act, 1871. The whole Aet.
+(15) 34 & 36 Vict. c. 87. The Sunday Observation Prosecution Act, 1871. The whole Act.
 
 (16) 35 & 36 Vict. c. 33. (17) 38 & 39 Vict. c. 84. (18) 39 & 40 Vict, e. 21. (19) 41 & 42 Vict, e. 41. (20) 43 Vict. c. 18. The Ballot Act, 1872 The whole Act 45 & 46 Vict. c. 60. (Municipal Elections).
 
@@ -3848,7 +3848,7 @@ The Parliamentary Elections (Returning Officers) Act, 1876. The whole Act 46 & 4
 
 The Jurors Qualification (Ireland) Act, 1876. The whole Act 57 & 58 Vict. c. 49. 61 & 62 Vict. c. 37. s. 69.
 
-The Parliamentary Elections^Returning Officers Expenses (Scotland) Act, 1878. The whole Act 48 & 49 Vict. c. 62. 49 & 50 Vict. c. 68. 64 & 65 Vict. c. 49.
+The Parliamentary Elections Returning Officers Expenses (Scotland) Act, 1878. The whole Act 48 & 49 Vict. c. 62. 49 & 50 Vict. c. 68. 64 & 65 Vict. c. 49.
 
 The Parliamentary Elections and Corrupt Practices Act, 1880. The whole Act 46 & 47 Vict e. 61.
 
@@ -4758,7 +4758,7 @@ SECOND SCHEDULE.
 
 Enactments Repealed.
 
-Sessiop and Chapter. Short Title. Extent of Repeal.
+Session and Chapter. Short Title. Extent of Repeal.
 
 13 Geo. 3. c. 63. The East India Company Act, 1772. Sections forty-two, forty-three and forty-five.
 
@@ -5220,13 +5220,11 @@ Regulations.
 
 Ch. 43.
 
-War Charities Aet, 1916.
+War Charities Act, 1916.
 
 6 & 7 Geo. 5.
 
-Removal from
-
-the register.
+Removal from the register.
 
 23 & 24 Vict,
 
@@ -5236,7 +5234,7 @@ Powers of Charity Commissioners for purposes of appeals.
 
 (f) providing for the exemption of charities from this Act and prescribing the grounds of exemption;
 
-(g)generally for carrying this Act into effect.
+(g) generally for carrying this Act into effect.
 
 5. — (1) The registration authority, if satisfied that any charity registered under this Act is not being carried on in good faith for charitable purposes, or is not complying with any of the conditions imposed under this Act, or is not being properly administered, may remove the charity from the register, and shall notify such removal to the Charity Commissioners, and if they so remove it shall give public notice, of its removal:
 
@@ -7434,9 +7432,9 @@ Section 3.
 
 Ch. CO.
 
-Sailors and Soldiers (Gifts for 6 A 7 Geo. 5.
+Sailors and Soldiers (Gifts for 6 & 7 Geo. 5.
 
-Land Settlement) Aet, 1916.
+Land Settlement) Act, 1916.
 
 Power to accept and administer gifts for settlement of ex-suilors and soldiers on land.
 
@@ -7472,9 +7470,7 @@ For references to the Board of Agriculture and Fisheries, and to land in England
 
 1916.
 
-Sailors and Soldiers (for
-
-Land Settlement), 1916. Ch. 60, 61.
+Sailors and Soldiers (* for Land Settlement), 1916. Ch. 60, 61.
 
 185
 
@@ -8744,13 +8740,7 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (2) No notice of any trust, express, implied, or constructive, in respect of any securities deposited with the Treasury, given
 
-1916.
-
-Government War Obligations
-
-Act, 1916. Ch. 70, 71.
-
-227
+1916. Government War Obligations Act, 1916. Ch. 70, 71. 227
 
 in exchange for Government securities, or sold to the Treasury shall affect the Treasury or any person holding the securities on behalf of the Treasury, but any rules of the Supreme Court for the time being in force relating to notice in lieu of distringas, shall apply to the Treasury in respect of such security as they apply to a company in respect of stock.
 
@@ -9182,11 +9172,11 @@ Class V.
 
 For sundry Colonial Services, including certain Grants in Aid ....
 
-For making good the net loss on transactions connected with the raising of money for the various Treasury Chests Abroad in the year 1914-1915 ......
+For making good the net loss on transactions connected with the raising of money for the various Treasury Chests Abroad in the year 1914-1915 -
 
 Class VI.
 
-For certain Miscellaneous Expenses, including certain Charitable and other Allowances, Great Britain ......
+For certain Miscellaneous Expenses, including certain Charitable and other Allowances, Great Britain -
 
 For the Salary of the Vice-Chairman of the Statutory Committee of the Royal Patriotic Fund Corporation -
 
@@ -9462,9 +9452,9 @@ No.; 1. For expenditure in respect of royal palaces, including a grant in aid ..
 
 11. For the survey of the United Kingdom, and for minor services connected therewith 56, 030 22,000
 
-12. For maintaining certain harbours under the Board of Trade and for grants in aid of harbours ..... 6, 431 2, 800
+12. For maintaining certain harbours under the Board of Trade and for grants in aid of harbours - 6, 431 2, 800
 
-13. For constructing a new harbour of refuge at Peterhead ---- 22,000 —
+13. For constructing a new harbour of refuge at Peterhead - 22,000 —
 
 SCHED. (B.)
 
@@ -9536,7 +9526,6 @@ Foreign Affairs .... 6. For the salaries and expenses of the department of His M
 
 expenses connected with Emigration 58, 850 —
 
-
 1916.
 
 Appropriation Act, 1916. Ch. 71.
@@ -9545,73 +9534,45 @@ Appropriation Act, 1916. Ch. 71.
 
 No.
 
-7. For the salaries and expenses of the department
+7. For the salaries and expenses of the department of His Majesty’s most Honourable Privy Council -
 
-of His Majesty’s most Honourable Privy Council -
+8. For the salaries and expenses of the office of the Committee of Privy Council for Trade, and subordinate departments -
 
-8. For the salaries and expenses of the office of
+9. For the salaries and expenses of certain services transferred from the Mercantile Marine Fund and other services connected with the Mercantile Marine (including Merchant Seamen’s Fund Pensions) -
 
-the Committee of Privy Council for Trade, and subordinate departments
+10. For meeting the deficiency of income from fees, &c., for the requirements of the Board of Trade, under the Bankruptcy Act, 1914 -
 
-9. For the salaries and expenses of certain services
+11. For the salaries and expenses of the Board of Agriculture and Fisheries and of the Royal Botanic Gardens, Kew, including certain grants in aid -
 
-transferred from the Mercantile Marine Fund and other services connected with the Mercantile Marine (including Merchant Seamen’s Fund Pensions) -
-
-10. For meeting the deficiency of income from
-
-fees, &c., for the requirements of the Board of Trade, under the Bankruptcy Act, 1914 - ......
-
-11. For the salaries and expenses of the Board of
-
-Agriculture and Fisheries and of the Royal Botanic Gardens, Kew, including certain grants in aid -
-
-12. For the salaries and expenses of the Charity
-
-Commission for England and Wales -
+12. For the salaries and expenses of the Charity Commission for England and Wales -
 
 13. For the salaries and expenses of the depart-
 
 ment of the Government Chemist -
 
-14. For the salaries and expenses of the Civil
+14. For the salaries and expenses of the Civil Service Commission -
 
-Service Commission -
+15. For the salaries and expenses of the department of the Comptroller and Auditor General -
 
-15. For the salaries and expenses of the department
+16. For the salaries and expenses of the Registry of Friendly Societies -
 
-of the Comptroller and Auditor General
+17. For the salaries and expenses of the Local Government Board -
 
-16. For the salaries and expenses of the Registry
+18. For the salaries and expenses of the Board of Control (Lunacy and Mental Deficiency), England -
 
-of Friendly Societies -
+19. For the salaries and expenses of the Mint, including the expenses of coinage, and for the expenses of the preparation of medals, dies for postage and other stamps, and His Majesty’s seals -
 
-17. For the salaries and expenses of the Local
+20. For the salaries and expenses of the National Debt Office -
 
-Government Board -
-
-18. For the salaries and expenses of the Board of
-
-Control (Lunacy and Mental Deficiency), England - -
-
-19. For the salaries and expenses of the Mint,
-
-including the expenses of coinage, and for the expenses of the preparation of medals, dies for postage and other stamps, and His Majesty’s seals ....
-
-20. For the salaries and expenses of the National
-
-Debt Office -
-
-21. For the salaries, and expenses of the Public
-
-Record Office and of the Office of Land Revenue Records and Inrolments
+21. For the salaries, and expenses of the Public Record Office and of the Office of Land Revenue Records and Inrolments
 
 22. For the salaries and expenses of the establish-
 
-ment under the Public Works Loon Commissioners .....
+ment under the Public Works Loon Commissioners -
 
 23. For the salaries and expenses of the depart-
 
-ment of the Registrar General of Births, Ac., in England .....
+ment of the Registrar General of Births, Ac., in England -
 
 24. For stationery, printing, paper, binding, and
 
@@ -9691,7 +9652,7 @@ the Commissioners of His Majesty's Works and Public Buildings -
 
 27. For His Majesty’s foreign and other secret
 
-services (including a supplementary sum of 300,000l.) ......
+services (including a supplementary sum of 300,000l.) -
 
 28. For the salaries and expenses of the office of
 
@@ -9699,7 +9660,7 @@ His Majesty's Secretary for Scotland and subordinate offices, expenses under the
 
 29. For the salaries and expenses of the Board of
 
-Agriculture for Scotland, including certain grants in aid ----
+Agriculture for Scotland, including certain grants in aid -
 
 30. For the salaries and expenses of the Fishery
 
@@ -10400,7 +10361,7 @@ Add excess Vote 10 0 0 —
 Net deficit (charged against > v
 
 the Vote of Credit) £211, 867, 541 15 11
-
+---
 A.D. 1916.] Local Acts. 251
 
 TABLE II.
@@ -10421,21 +10382,17 @@ The Tides to which the Letter P. is prefixed are Public Acts of a Local Characte
 
 Royal Assent, 19th April 1916.
 
-P. i. An Act to confirm a Provisional Order under the Private . Legislated Procedure (Scotland) Act 1899 relating to Aberdeen Corporation Water. (Aberdeen Corporation Water Order Confirmation.)
+P. i. An Act to confirm a Provisional Order under the Private Legislated Procedure (Scotland) Act 1899 relating to Aberdeen Corporation Water. (Aberdeen Corporation Water Order Confirmation.)
 
 Royal Assent, 17th May 1916.
 
-p. ii. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to Edinburgh Corporation. (Corporation Order Confirmation.)
+p. ii. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to Edinburgh Corporation. (Edinburgh Corporation Order Confirmation.)
 
 p. iii. An Act to confirm certain Provisional Orders made by the Board of Trade under the Gas and Water Works Facilities Act 1870 relating to Fleetwood Gas and Long Eaton Gas. (Gas Orders Confirmation.)
 
-iv. An Act to extend the time for the construction of certain waterworks authorised by the Burnley Corporation Act 1908 to confer further powers upon the mayor aldermen 'and burgesses of the borough of Burnley in regard to their water undertaking and for other purposes. (Burnley Corporation.)
+iv. An Act to extend the time for the construction of certain waterworks authorised by the Burnley Corporation Act 1908 to confer further powers upon the mayor aldermen and burgesses of the borough of Burnley in regard to their water undertaking and for other purposes. (Burnley Corporation.)
 
-252 Table of the Statutes. [6 & 7 Geo. 5.
-
-v. An Act for conferring power upon the Senior Official Receiver in Companies Liquidation acting as liquidator of the Weston-super-Mare Grand Pier Company to sell by agreement the undertaking of that Company to extend the time for the completion of the authorised pier and works of that Company and for other purposes. (
-
-Mare Grand Pier.)
+v. An Act for conferring power upon the Senior Official Receiver in Companies Liquidation acting as liquidator of the Weston-super-Mare Grand Pier Company to sell by agreement the undertaking of that Company to extend the time for the completion of the authorised pier and works of that Company and for other purposes. (Weston-super-Mare Grand Pier.)
 
 Royal Assent, 25th May 1916.
 
@@ -10449,27 +10406,19 @@ ix. An Act to extend the time limited by the Cardiff Railway Acts for the purcha
 
 Royal Assent, 1st June 1916.
 
-x. An Act to remove doubts as to the power of the Imperial Continental Gas Association to sell or dispose of portions of their undertaking to confer various powers upon the Association and for other purposes. (Continental
-
-Gas Association.)
+x. An Act to remove doubts as to the power of the Imperial Continental Gas Association to sell or dispose of portions of their undertaking to confer various powers upon the Association and for other purposes. (Imperial Continental Gas Association.)
 
 Royal Assent, 19th July 1916.
 
-xi. An Act to authorise the South Metropolitan Gas Company to raise additional capital and for other purposes.. (South Metropolitan Gas.)
+xi. An Act to authorise the South Metropolitan Gas Company to raise additional capital and for other purposes. (South Metropolitan Gas.)
 
 xii. An Act for granting additional powers to the Van Diemen’s Land Company. (Van Diemen's Land Company's.)
 
 xiii. An Act to amend the Alexandra (Newport and South Wales) Docks and Railway Act 1906 and for other purposes. (Alexandra (Newport and South Wales) Docks and Railway.)
 
-A.D. 1916.]
-
-Load Acts.
-
-253
-
 xiv. An Act for staying the winding-up of the Canada Company for enabling the Company to allot and issue further paid-up capital to the existing shareholders for granting additional powers to the Company for providing for a capital recoupment fund for amending the Company’s Charter and for consolidating and amending the Acts relating to the Company and for other purposes. (Canada Company's.)
 
-xv. An Act to extend the times limited by the Metropolitan Electric Tramways Act 1911 and the Metropolitan Electric Tramways (Railless Traction) Act 1913 for the exercise of certain powers by the Metropolitan Electric Tramways Limited and the Middlesex County Council and for other purposes. (Metropolitan Electric Tramways.),
+xv. An Act to extend the times limited by the Metropolitan Electric Tramways Act 1911 and the Metropolitan Electric Tramways (Railless Traction) Act 1913 for the exercise of certain powers by the Metropolitan Electric Tramways Limited and the Middlesex County Council and for other purposes. (Metropolitan Electric Tramways.)
 
 xvi. An Act to confer further powers on the Plymouth and Stonehouse Gas Light and Coke Company to make further provision with reference to the utilisation and conversion of products arising from the manufacture of gas and the distillation of tar and for other purposes. (Plymouth and Stonehouse Gas.)
 
@@ -10483,13 +10432,9 @@ xx. An Act to empower the mayor aldermen and citizens of the city of Wakefield t
 
 xxi. An Act to regulate the expenditure on capital account and lending of money by the London County Council during the financial period from the first day of April one thousand nine hundred and sixteen to the thirtieth day of September one thousand nine hundred and seventeen and for other purposes. (London County Council (Money).)
 
-254 Table of the Statutes. [5 A 7 Geo. 5.
-
 xxii. An Act for conferring further powers upon the North British Railway Company for authorising the construction of a road diversion for empowering the Company and the Haddington County Council to acquire lands and for other purposes. (North British Railway.)
 
-xxiii. An Act to define the boundary between the limits of the Hornsey Gas Company and the Gas Light and Coke Company for the supply of gas and for other purposes.
-
-(Hornsey Gas.)
+xxiii. An Act to define the boundary between the limits of the Hornsey Gas Company and the Gas Light and Coke Company for the supply of gas and for other purposes. (Hornsey Gas.)
 
 P. xxiv. An Act to confirm a Provisional Order made by the Board of Trade under the Electric Lighting Acts 1882 to 1909 relating to Church Stretton. (Electric Lighting Order Confirmation.)
 
@@ -10501,15 +10446,13 @@ P. xxvii. An Act to confirm certain Provisional Orders of the Local Government B
 
 P. xxviii. An Act to confirm certain Provisional Orders of the Local Government Board relating to Margate Newbury Totnes the Middlesex Districts Joint Small-pox Hospital District and the District of the Wath and Bolton Gas Board. (Local Government Board's Provisional Orders Confirmation (No. 2).)
 
-P. xxix. An Act to confirm certain Provisional Orders of the Local Government Board relating to Dover Hedon Scarborough and Sheffield. (L Government Board's Provisional Orders Confirmation (No. 4).)
+P. xxix. An Act to confirm certain Provisional Orders of the Local Government Board relating to Dover Hedon Scarborough and Sheffield. (Local Government Board's Provisional Orders Confirmation (No. 4).)
 
-P. xxx. An Act to confirm a Provisional Order of the Local Government Board relating to Ijancaster. (Local Government Board's Provisional Order Confirmation (No. 6).)
+P. xxx. An Act to confirm a Provisional Order of the Local Government Board relating to Lancaster. (Local Government Board's Provisional Order Confirmation (No. 6).)
 
 p. xxxi. An Act to confirm a Provisional Order made by one of His Majesty’s Principal Secretaries of State under the Provisional Order (Marriages) Act 1905. (Provisional Order (Marriages) Confirmation.)
 
 P. xxxii. An Act to confirm a Provisional Order made by one of His Majesty’s Principal Secretaries of State under the Halifax Corporation Act 1911. (Halifax Corporation Act Provisional Order Confirmation.)
-
-A.D. 1916.] Local Acts. 255
 
 Royal Assent, 3rd August 1916.
 
@@ -10519,21 +10462,19 @@ P. xxxiv. An Act to confirm a Provisional Order of the Local Government Board re
 
 P. xxxv. An Act to confirm certain Provisional Orders of the Local Government Board relating to Carlisle Maidstone Nelson St. Helens and the Wandle Valley Joint Sewerage District. (Local Government Board's Provisional Orders Confirmation (No. 5).)
 
-P. xxxvl. An Act to confirm certain Provisional Orders of the Local Government Board relating to Westhoughton and the District of the Swinton and Mexborough Gas Board. (Local Government Board's Provisional Orders Confirmation (No. 7).)
+P. xxxvi. An Act to confirm certain Provisional Orders of the Local Government Board relating to Westhoughton and the District of the Swinton and Mexborough Gas Board. (Local Government Board's Provisional Orders Confirmation (No. 7).)
 
-P. xxxvil. An Act to confirm certain Provisional Orders made by the Board of Trade under the General Pier and Harbour Act 1861 relating to Ryde and Wicklow. (Pier and Harbour Orders Confirmation.)
+P. xxxvii. An Act to confirm certain Provisional Orders made by the Board of Trade under the General Pier and Harbour Act 1861 relating to Ryde and Wicklow. (Pier and Harbour Orders Confirmation.)
 
 P. xxxviii. An Act to confirm a Provisional Order made by the Board of Agriculture and Fisheries under the Land Drainage Act 1914 relating to Feltwell New Fen District and Feltwell Fen Second District in the County of Norfolk.
 
-(Land Drainage (FeLtioeU) Provisional Order Confirmation.)
+(Land Drainage (Feltwell) Provisional Order Confirmation.)
 
 P. xxxix. An Act to confirm a Provisional Order made by the Board of Agriculture and Fisheries under the Land Drainage Act 1861 relating to a proposed Drainage District in the County of Salop. (Land Drainage (Lilleshall) Provisional Order Confirmation.)
 
 xl. An Act to authorise the Aberdare and Aberaman Consumers Gas Company to raise additional capital to construct new works and for other purposes. (Aberdare and Aberaman Gas.)
 
 xli. An Act to extend the limits for the supply of water by the mayor aldermen and burgesses of the borough of Tynemouth to authorise them to construct additional waterworks and to confer further powers upon them with respect to their water undertaking to make further provision for the health local government and improvement of the borough and for other purposes. (Tynemouth Corporation.)
-
-256 Table of the Statutes. [6 & 7 Geo. 5.
 
 xlii. An Act to confer further powers upon the Colchester Gas Company and to extend their limits of supply and for other purposes. (Colchester Gas.)
 
@@ -10545,9 +10486,7 @@ Royal Assent, 10th August 1916.
 
 xlv. An Act to confer powers upon the Glen Bank Trustees and for other purposes. (River Glen.)
 
-xlvi. An Act to confer further powers upon the Yeadon Waterworks Company and for other purposes.
-
-Waterworks.)
+xlvi. An Act to confer further powers upon the Yeadon Waterworks Company and for other purposes. (Yeadon Waterworks.)
 
 Royal Assent, 17th August 1916.
 
@@ -10561,9 +10500,7 @@ Royal Assent, 23rd August 1916.
 
 P. l. An Act to confirm a Scheme made by a Committee of the Lords of His Majesty’s Privy Council under the Municipal Corporation Acts 1882 and 1885 relating to Buxton. (Municipal Corporations (Buxton Scheme Confirmation).)
 
-li. An Act to confer further powers upon the Shropshire Worcestershire and Staffordshire Electric Power Company and for other purposes. (Shropshire Worcestersh re and Staffordshire Electric Power.)
-
-A.D. 1916.] Local Acts. 257
+li. An Act to confer further powers upon the Shropshire Worcestershire and Staffordshire Electric Power Company and for other purposes. (Shropshire Worcestershire and Staffordshire Electric Power.)
 
 Royal Assent, 18th December 1916.
 
@@ -10571,9 +10508,9 @@ P. lii. An Act to confirm a Scheme of the Charity Commissioners for the applicat
 
 P. liii. An Act to confirm a Scheme of the Charity Commissioners for the application or management of certain Charities in the Parishes of Stony Stratford East and Stony Stratford West constituting and known as the Town of Stony Stratford in the County of Buckingham. (Stony Stratford Charities Scheme Confirmation.)
 
-P. liv. An Act to confirm a Scheme of the Charity Commissioners for the application or management of certain Charities. (BaptistChapels Scheme Confirmation.)
+P. liv. An Act to confirm a Scheme of the Charity Commissioners for the application or management of certain Charities. (Baptist Chapels Scheme Confirmation.)
 
-P. lv. An Act to confirm a Scheme of the Charity Commissioners for the application or management of the Charity consisting of the Protestant Congregational Dissenters’ Chapel in the Parish of Bumham-on-Crouch in the County of Essex. [Burnham-on-Grouch Chapel Scheme Confirmation.)
+P. lv. An Act to confirm a Scheme of the Charity Commissioners for the application or management of the Charity consisting of the Protestant Congregational Dissenters’ Chapel in the Parish of Bumham-on-Crouch in the County of Essex. [Burnham-on-Crouch Chapel Scheme Confirmation.)
 
 P. lvi. An Act to confirm a Scheme of the Charity Commissioners for the application or management of the Charity consisting of the Clear Proceeds of Sale of the Bethel Baptist Chapel and School in Infirmary Street in the City of Bradford. (Bradford (Infirmary Street) Baptist Chapel Scheme Confirmation.)
 
@@ -10585,17 +10522,11 @@ P. lix. An Act to confirm a Scheme of the Charity Commissioners for the applicat
 
 P. lx. An Act to confirm a Scheme of the Charity Commissioners for the application or management of the Charity consisting of Moriah Chapel in the Civil Parish of Broughton in the County of Denbigh. (Moriah Chapel (Broughton) Charity Scheme Confirmation.)
 
-258
+P. lxi. An Act to confirm a Scheme of the Charity Commissioners for the application or management of the Charity consisting of the Bethany Particular Baptist Chapel at West Cross Mumbles in the Parish of Oystermouth in the County of Glamorgan. (Bethany Chapel Charity Scheme Confirmation.)
 
-Table of the Statutes.
+P. lxii. An Act to confirm a Scheme of the Charity Commissioners for the application or management of certain Charities. (Congregational Chapels Scheme Confirmation.)
 
-[6 & 7 Geo. 5.
-
-P. lxi. An Act to confirm a Scheme of the Charity Commissioners for the application or management of the Charity consisting of the Bethany Particular Baptist Chapel at West Cross Mumbles in the Parish of Oystermouth in the County of Glamorgan. (Be Chapel Charity Scheme Confirmation.)
-
-P. lxii. An Act to confirm a Scheme of the Charity Commissioners for the application or management of certain Charities. (Congregational Chapels Scheme
-
-P. lxiii. An Act to confirm a Scheme of the Charity Commissioners for the application or management of the Charities called or known as the Workhouse Charities in the County Borough of Plymouth in the County of Devon. (Workhouse Charities Scheme Confirmation.)
+P. lxiii. An Act to confirm a Scheme of the Charity Commissioners for the application or management of the Charities called or known as the Workhouse Charities in the County Borough of Plymouth in the County of Devon. (Plymouth Workhouse Charities Scheme Confirmation.)
 
 P. lxiv. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to Coatbridge Gas. (Coatbridge Gas Order Confirmation.)
 
@@ -10603,7 +10534,7 @@ lxv. An Act to revoke a Codicil to the Will of the late Right Honourable Cecil J
 
 Royal Assent, 22nd December 1916.
 
-P. lxvi. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to the Gamble Institute .Gourock. (Gamble Institute Gourock Order Confirmation.)
+P. lxvi. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to the Gamble Institute Gourock. (Gamble Institute Gourock Order Confirmation.)
 
 PRIVATE ACTS.
 
@@ -10641,18 +10572,18 @@ TABLE III.
 
 Showing the Effect of the Year’s Legislation.
 
-ACTS OF FORMER SESSIONS ttN CHRONOLOGICAL ORDER) REPEALED OR AMENDED BY ACTS OF 6 & 7 GEO. 5/
+ACTS OF FORMER SESSIONS IN CHRONOLOGICAL ORDER) REPEALED OR AMENDED BY ACTS OF 6 & 7 GEO. 5/
 
-Statute and Chapter. Subject-matter or Short Title. How affected. Chapter of 6 A 7 Geo. 6.
+Statute and Chapter. - Subject-matter or Short Title. - How affected. - Chapter of 6 & 7 Geo. 5.*
 
-33 Hen. 8. c. 12 - Offences within the Court - S. 18 rep. as to E. and I. 50, s. 48 (1), Sch.
+33 Hen. 8. c. 12 - Offences within the Court - S. 18 rep. as to E. and I. - 50, s. 48 (1), Sch.
 
-13 Geo. 3. c. 63 - East India Company - Ss. 42, 43, 45 rep. - 37, *s. 7 (2), Sch. II.
+13 Geo. 3. c. 63 - East India Company - Ss. 42, 43, 45 rep. - 37, s. 7 (2), Sch. II.
 
-24 Geo. 3. (Sees. 2) c. 25. East India Company - Repealed - 37, s. 7 (2), Sch. II.
+24 Geo. 3. (Sess. 2) c. 25. - East India Company - Repealed - 37, s. 7 (2), Sch. II.
 
-26 Geo. 3. c. 57 - East India Company Repealed .... 37, s. 7 (2), Sch. II.
-
+26 Geo. 3. c. 57 - East India Company - Repealed - 37, s. 7 (2), Sch. II.
+---
 9 Geo. 4:
 
 c. 25 Revenue Solicitors Extended .... 38, s. 9.
@@ -10986,18 +10917,6 @@ c. 24 Finance .... 8. 58 am. with respect to certain Exchequer bonds. 36. s. 1.
 c. 26 Output of Beer (Restriction) Ss. 1, 2, 5 am.; s. 6 rep. in part and ext. to Great Britain. 57, ss. 1-4.
 
 268 Classified List of the Local and Private Acts. [6 & 7 Geo. 5.
-
-TABLE IV.
-
-A LIST
-
-OF
-
-THE LOCAL AND PRIVATE ACTS,
-
-(6 & 7 Geo. 5. 1916.)
-
-ARRANGED IN CLASSES.
 
 [List of acts in classes removed.]
 
