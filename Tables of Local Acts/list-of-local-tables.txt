@@ -1,3 +1,4 @@
+1798-39-George-3-Local.txt
 1800-41-George-3-GB-Local.txt
 1819-20-60-George-3-1-George-4-Local.txt
 1820-1-George-4-Local.txt
@@ -23,6 +24,7 @@
 1839-2-3-Victoria-Local.txt
 1840-3-4-Victoria-Local.txt
 1841-4-5-Victoria-Local.txt
+1842-5-6-Victoria-Local.txt
 1843-6-7-Victoria-Local.txt
 1844-7-8-Victoria-Local.txt
 1845-8-9-Victoria-Local.txt
@@ -37,6 +39,9 @@
 1895-59-Victoria-sess-2-Local.txt
 1905-5-Edward-7-Local.txt
 1912-3-2-3-George-5-Local.txt
+1913-3-4-George-5-Local.txt
+1914-4-5-George-5-Local.txt
+1914-6-5-6-George-5-Local.txt
 1916-6-7-George-5-Local.txt
 1917-8-7-8-George-5-Local.txt
 1918-8-9-George-5-Local.txt
