@@ -190,11 +190,13 @@ An Act to apply certain sums out of the Consolidated Fund to the service of the 
 
 Most Gracious Sovereign,
 
----
-
 WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland in Parliament assembled, towards making good the supply which we have cheerfully granted to Your Majesty in this session of Parliament, have resolved to grant unto Your Majesty the sums herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+---
+[Issue of
 
-1. The Treasury may issue out of the Consolidated Fund of jay the United Kingdom of Great Britain and Ireland, and apply out’of t^e towards making good the supply granted to His Majesty for the Consolidated service of the year ending on the thirty-first day of March one ^vice of the thousand nine hundred and six the sum of one hundred and year ending twenty thousand five hundred and eighty pounds. ^ist March
+1. The Treasury may issue out of the Consolidated Fund of jay the United Kingdom of Great Britain and Ireland, and apply out of t^e towards making good the supply granted to His Majesty for the Consolidated service of the year ending on the thirty-first day of March one ^vice of the thousand nine hundred and six the sum of one hundred and year ending twenty thousand five hundred and eighty pounds. ^ist March
+
+[Issue of
 
 2. The Treasury may issue out of the Consolidated Fund of ^sssooooz the United Kingdom of Great Britain and Ireland, and apply Out of the ' towards making good the supply granted to His Majesty for the Consolidated service of the year ending on the thirty-first day of March one Svke of the thousand nine hundred and seven the sum of forty-two million year ending eight hundred and fifty-five thousand nine hundred pounds. 1907 March
 
@@ -208,13 +210,13 @@ Consolidated Fund (No. 1) Act, 1906. 6 Edw. 7.
 
 40 & 41 Vict. c. 2.
 
-[Short title.]
-
 (2) The date of payment of any Treasury Bills issued under this section shall be a date not later than the thirty-first day of March nineteen hundred and seven, and section six of the Treasury Bills Act, 1877 (which relates to the renewal of bills), shall not apply with respect to those bills.
 
 (3) Any money borrowed otherwise than on Treasury Bills shall be repaid, with interest not exceeding five pounds per cent, per annum, out of the growing produce of the Consolidated Fund, at any period not later than the next succeeding quarter to that in which the money was borrowed.
 
 (4) Any money borrowed under this section shall be placed to the credit of the account of the Exchequer, and shall form part of the said Consolidated Fund, and be available in any manner in which such Fund is available.
+
+[Short title.]
 
 4. This Act may be cited as the Consolidated Fund (No. 1) Act, 1906.
 
@@ -478,9 +480,7 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 10
 
-Ch. 4, 5. Post Office (Money Orders) Act, 1906.
-
-6 Edw. 7.
+Ch. 4, 5. Post Office (Money Orders) Act, 1906. 6 Edw. 7.
 
 Extension of 1. The provisions of section four of the Post Office (Money J658 4s7 I^o Orders) Act, 1883, shall extend to any case where an arrange-
 
@@ -668,9 +668,7 @@ An Act to grant certain duties of Customs and Inland Revenue, to alter other dut
 
 Ch. 8.
 
-Finance Act, 1906.
-
-6 Edw. 7.
+Finance Act, 1906. 6 Edw. 7.
 
 16
 
@@ -2290,9 +2288,7 @@ Section 23.
 
 Ch. 26.
 
-Appropriation Act, 1906.
-
-6 Edw. 7.
+Appropriation Act, 1906. 6 Edw. 7.
 
 CHAPTER 26.
 
@@ -2576,9 +2572,7 @@ E
 
 Ch. 26.
 
-Appropriation Act, 1906.
-
-6 Edw. 7.
+Appropriation Act, 1906. 6 Edw. 7.
 
 sched. (B.) SCHEDULE (B.) — Part 3.
 
@@ -3809,10 +3803,8 @@ Norman Beatou, 1 Angus McRae, i Neil McLeod, and Murdo Mclver - J James Williams
 David Davidson, and Alexander Cormack - J John Sutherland, j | Wick - 270 77 15 4
 
 Andrew Sutherland, (James Sutherland, and (Alexander Sutherland - - J f Helmsdale - 312 65 15 3
-
-90 Ch. 30, 31. Colonial Marriages (Deceased Wife’s 6 Edw. 7.
-
-Sister), 1906.
+---
+90 Ch. 30, 31. Colonial Marriages (Deceased Wife’s Sister) Act, 1906. 6 Edw. 7.
 
 CHAPTER 30.
 
@@ -3822,9 +3814,9 @@ An Act to declare the law with respect to a marriage between a man and his decea
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-Legalisation of 1. For removing doubts, it is hereby declared that where a ria^wiSde man ^ias’ whether before or after the passing of this Act, married ceased wife’s6* his deceased wife’s sister, and at the date of the marriage each sister. of the parties was domiciled in a part of the British Possessions
+[Legalisation of colonial marriages with deceased wife's sister.]
 
-in which at that date such a marriage was legal, the marriage if legal in other respects shall be, and shall be deemed always to have been, legal for all purposes, including the right of succession to real property and to honours and dignities, within the United Kingdom, unless either party to the marriage has subsequently, during the life of the other, but before the passing of this Act, lawfully married another:
+1. For removing doubts, it is hereby declared that where a man has, whether before or after the passing of this Act, married his deceased wife’s sister, and at the date of the marriage each of the parties was domiciled in a part of the British Possessions in which at that date such a marriage was legal, the marriage if legal in other respects shall be, and shall be deemed always to have been, legal for all purposes, including the right of succession to real property and to honours and dignities, within the United Kingdom, unless either party to the marriage has subsequently, during the life of the other, but before the passing of this Act, lawfully married another:
 
 Provided that nothing in this Act shall affect any right, interest, or estate to or in any property, dignity, or honour the title to which, whether vested or contingent, and whether in possession, reversion, or remainder, accrued before the passing of this Act, and no claim by the Crown for duties leviable on or with reference to death, and before the passing of this Act due and payable, and no payment, commutation, composition, discharge or settlement of account in respect of any duties leviable on or with reference to death before the passing of this Act duly made or given, shall be prejudicially affected hereby.
 
@@ -3840,17 +3832,19 @@ An Act to amend the Local Government (Ireland) Act, 1898, with respect to Bridge
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1906.
+1906. Local Government (Ireland) Act (1898) Amendment, 1906. Ch. 31, 32. 91
 
-91
-
-Local Government (Act (1898) Ch. 31, 32.
-
-Amendment, 1906.
+[Amendment of law regarding counties of cities and counties of towns.]
 
 1. An urban county district which, before the passing of the Local Government (Ireland) Act, 1898, was a county of a city or a county of a town shall, after the passing of this Act, be deemed to be a county of a city or a county of a town, as the case may be, for the purposes of the Bridges (Ireland) Acts, 1813 to 1875.
 
-2. This Act may be cited as the Local Government (Ireland) Act (1898) Amendment Act, 1906, and shall be read together with the Local Government (Ireland) Act, 1898, and the Acts amending or extending the same.
+[Short title.]
+
+2. This Act may be cited as the Local Government (Ireland) Act (1898) Amendment Act, 1906, and shall be read together with
+
+[61 & 62 Vict. c. 37.]
+
+the Local Government (Ireland) Act, 1898, and the Acts amending or extending the same.
 
 CHAPTER 32.
 
@@ -3860,7 +3854,9 @@ An Act to consolidate and amend the Enactments relating to injury to live stock 
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. — (1) The owner of a dog shall be liable in damages for injury done to any cattle by that dog; and it shall not be necessary for the person seeking such damages to show a previous mischievous propensity in the dog, or the owner’s knowledge-of such previous propensity, or to show that the injury was attributable to neglect on the part of the owner.
+[Liability of owner of dog for injury to cattle.]
+
+1. — (1) The owner of a dog shall be liable in damages for injury done to any cattle by that dog; and it shall not be necessary for the person seeking such damages to show a previous mischievous propensity in the dog, or the owner’s knowledge of such previous propensity, or to show that the injury was attributable to neglect on the part of the owner.
 
 (2) Where any such injury has been done by a dog, the occupier of any house or premises where the dog was kept or permitted to live or remain at the time of the injury shall be presumed to be the owner of the dog, and shall be liable for the injury unless he proves that he was not the owner of the dog at that time:
 
@@ -3868,45 +3864,29 @@ Provided that where there are more occupiers than one in any house or premises l
 
 (3) If the damages claimed under this section do not exceed five pounds they may be recovered under the Summary Jurisdiction Acts as a civil debt.
 
-(4) Where a dog is proved to have injured cattle or chased sheep, it may be dealt with under section two of the Dogs Act, 1871, as a dangerous dog.
+(4) Where a dog is proved to have injured cattle or chased sheep, it may be dealt with under section two of
+
+[34 & 35 Vict. c. 56.]
+
+the Dogs Act, 1871, as a dangerous dog.
+
+[Power of Board of Agriculture to]
 
 2. — (1) The Diseases of Animals Act, 1894, shall have effect as if, amongst the purposes for which the Board of Agriculture
 
-Amendment of law regarding counties of cities and counties of towns.
+92 Ch. 32. Dogs Act, 1906. 6 Edw. 7.
 
-[Short title.]
-
-61 & 62 Vict. c. 37.
-
-Liability of owner of dog for injury to cattle.
-
-34 & 35 Vict. c. 56.
-
-Power of Board of Agriculture to
-
-92
-
-Ch. 32.
-
-Dogs Act, 1906.
-
-6 Edw. 7.
-
-make orders about dogs. 57 & 58 Vict. c. 57.
-
-Seizure of stray dogs.
+[make orders about dogs. 57 & 58 Vict. c. 57.]
 
 and Fisheries may make orders under section twenty-two of that Act, there were included the following purposes:—
 
-(a) for prescribing and regulating the wearing by dogs, while
+(a) for prescribing and regulating the wearing by dogs, while in a highway or in a place of public resort, of a collar with the name and address of the owner inscribed on the collar or on a plate or badge attached thereto:
 
-in a highway or in a place of public resort, of a collar with the name and address of the owner inscribed on the collar or on a plate or badge attached thereto:
-
-(b) with a view to the prevention of worrying of cattle, for
-
-preventing dogs or any class of dogs from straying during all or any of the hours between sunset and sunrise.
+(b) with a view to the prevention of worrying of cattle, for preventing dogs or any class of dogs from straying during all or any of the hours between sunset and sunrise.
 
 (2) Orders under this section may provide that any dog in respect of which an offence is being committed against the orders, may be seized and treated as a stray dog.
+
+[Seizure of stray dogs.]
 
 3. — (1) Where a police officer has reason to believe that any dog found in a highway or place of public resort is a stray dog, he may seize the dog and may detain it until the owner has claimed it and paid all expenses incurred by reason of its detention.
 
@@ -3936,37 +3916,29 @@ and every such, register shall he open to inspection at all reasonable times by 
 
 (9) All expenses incurred by the police under this section shall be defrayed out of the police fund, and any money received by the police under this section shall be paid to the account of the police fund.
 
-(10) In this section the expressions “police area, ” “ chief officer of police, ” and “ police fund ” with respect to the City of London mean respectively the said City, the Commissioner of City Police, and the fund or rate applicable to the maintenance of police in the said City, and with respect to any other place have the meanings respectively assigned to them by the Police Act, 1890.
+(10) In this section the expressions “police area,” “chief officer of police,” and “police fund” with respect to the City of London mean respectively the said City, the Commissioner of City Police, and the fund or rate applicable to the maintenance of police in the said City, and with respect to any other place have the meanings respectively assigned to them by
+
+[53 & 54 Vict. c. 45.]
+
+the Police Act, 1890.
+
+[Notice to police of finding of stray-dogs.]
 
 4. Any person who takes possession of a stray dog shall forthwith either return the dog to its owner or give notice in writing to the chief officer of police of the district where the dog was found containing a description of the dog and stating the place where the dog was found and the place where the dog is being detained, and any person failing to comply with the provisions of this section shall be liable, on conviction under the Summary Jurisdiction Acts, to a fine not exceeding forty shillings.
+
+[Exemption of sheep dogs, &c. from excise licence. 41 & 42 Vict. c. 15.]
 
 5. — (1) The grant of a certificate under section twenty-two of the Customs and Inland Revenue Act, 1878, of exemption from duty in respect of a dog shall require the previous consent in England of a petty sessional court, and in Scotland of the sheriff or sheriff-substitute having jurisdiction in the place where the dog is kept, but such consent shall not be withheld if the Court is of opinion that the conditions for exemption mentioned in the said section apply in the case of the applicant, and the procedure for obtaining that consent shall be regulated in England by rules made by the Lord Chancellor, and in Scotland by acts of sederunt.
 
 (2) The rules and acts of sederunt shall provide for dispensing with the appearance of the applicant for a consent under this section except in cases where the application is opposed and the court sheriff or sheriff-substitute considers the appearance of the applicant to be necessary for the proper consideration of the application. No fee shall be payable in respect of any application or consent under this section.
 
-53 & 54 Vict. c. 45.
+94 Ch. 32. Dogs Act, 1906. 6 Edw. 7.
 
-Notice to police of finding of stray-dogs.
+[Burying of carcases.]
+---
+[Definition of cattle.]
 
-Exemption of sheep dogs, &c. from excise licence.
-
-41 & 42 Vict. c. 15.
-
-94
-
-Ch. 32.
-
-Dogs Act, 1906.
-
-6 Edw. 7.
-
-Burying of
-
-carcases.
-
-Definition of cattle.
-
-Application of Act to Scotland.
+[Application of Act to Scotland.]
 
 53 & 54 Vict. c. 67.
 
@@ -3986,45 +3958,31 @@ Short title and commencement.
 
 6. Any person who shall knowingly and without reasonable excuse permit the carcase of any head of cattle belonging to him to remain unburied in a field or other place to which dogs can gain access shall be liable on conviction under the Summary Jurisdiction Acts to a fine not exceeding forty shillings.
 
-7. In this Act the expression “cattle ” includes horses, mules, asses, sheep, goats, and swine.
+7. In this Act the expression “cattle” includes horses, mules, asses, sheep, goats, and swine.
 
 8. This Act shall apply to Scotland with the following modifications: —
 
 (a) The Police (Scotland) Act, 1890, shall be substituted for the Police Act, 1890:
 
-(b) The expression “police officer ” shall mean a constable within the meaning of the Police (Scotland) Act, 1890:
+(b) The expression “police officer” shall mean a constable within the meaning of the Police (Scotland) Act, 1890:
 
-(c) The provisions of subsection three of section one of this
+(c) The provisions of subsection three of section one of this Act relating to summary proceedings for civil debts, shall not apply to Scotland:
 
-Act relating to summary proceedings for civil debts, shall not apply to Scotland:
-
-(d) Until the first day of January nineteen hundred and
-
-twelve section five shall not apply to any application for the renewal of a certificate of exemption in force at the date of the passing of this Act.
+(d) Until the first day of January nineteen hundred and twelve section five shall not apply to any application for the renewal of a certificate of exemption in force at the date of the passing of this Act.
 
 9. This Act shall apply to Ireland with the following modifications:—
 
-(a) The Department of Agriculture and Technical Instruc-
+(a) The Department of Agriculture and Technical Instruction for Ireland shall be substituted for the Board of Agriculture and Fisheries:
 
-tion for Ireland shall be substituted for the Board of Agriculture and Fisheries:
+(b) The expressions “chief officer of police” and “police area” shall mean, in the police district of Dublin metropolis, either of the commissioners of police for the said district, and the said district, and elsewhere the district inspector of the Royal Irish Constabulary, and the district over which he is appointed:
 
-(b) The expressions “ chief officer of police ” and “ police
-
-area ” shall mean, in the police district of Dublin metropolis, either of the commissioners of police for the said district, and the said district, and elsewhere the district inspector of the Royal Irish Constabulary, and the district over which he is appointed:
-
-(c) The expenses incurred by the police under section three
-
-of this Act shall on demand be paid to the chief officer of police out of the money in the hands of the registrar arising from the sale of licences under the Dogs Regulation (Ireland) Act, 1865, and any money received by the police under the said section shall be paid by the chief officer of police to the registrar, and be applicable as money arising from the sale of licences,
+(c) The expenses incurred by the police under section three of this Act shall on demand be paid to the chief officer of police out of the money in the hands of the registrar arising from the sale of licences under the Dogs Regulation (Ireland) Act, 1865, and any money received by the police under the said section shall be paid by the chief officer of police to the registrar, and be applicable as money arising from the sale of licences,
 
 10. The enactments mentioned in the schedule to this Act are hereby repealed to the extent specified in the third column of that schedule.
 
 11. This Act may be cited as the Dogs Act, 1906, and shall come into operation on the first day of January nineteen hundred and seven.
 
-1906.
-
-Dogs Act, 1906. Ch. 32, 33.
-
-95
+1906. Dogs Act, 1906. Ch. 32, 33. 95
 
 SCHEDULE.
 
@@ -4169,7 +4127,7 @@ Inquiry (Scotland) Act, 1906.
 4. Subsection ten of section four of the Fatal Accidents Inquiry (Scotland) Act, 1895, is hereby repealed, and in lieu thereof be it enacted as follows, namely:—
 
 The jury shall be cited by the sheriff clerk from the sheriff court jury book in the manner provided by statute for the citation of jurors in civil cases in Scotland, and the existing statutory provisions relative to fines for non-attendance of jurors and to the swearing of jurors shall apply to inquiries under this Act; but no person shall be summoned to attend to serve as a juror in any inquiry held under this Act who resides beyond such distances from the court-house or other building at which the inquiry is held as may from time to time be fixed by the several sheriffs of the several counties, with the approbation of the Secretary for Scotland.
-
+---
 CHAPTER 36.
 
 An Act to amend the law relating to Musical Copyright.
@@ -4178,79 +4136,55 @@ An Act to amend the law relating to Musical Copyright.
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-.1906,
+1906. Musical Copyright Act, 1906. Ch. 36. 99
 
-Musical Copyright, 1906.
+[Penalty for being in possession of pirated music.]
 
-Off. 36.
+1. — (1) Every person who prints, reproduces, or sells, or exposes, offers, or has in his possession for sale, any pirated copies of any musical work, or has in his possession any plates for the purpose of printing or reproducing pirated copies of any musical work, shall (unless he proves that he acted innocently) be guilty of an offence punishable on summary conviction, and shall be liable to a fine not exceeding five pounds, and on a second or subsequent conviction to imprisonment with or without hard labour for a term not exceeding two months or to a fine not exceeding ten pounds: Provided that a person convicted of an offence under this Act who has not previously been convicted of such an offence, and who proves that the copies of the musical work in respect of which the offence was committed had printed on the title page thereof a name and address purporting to be that of the printer or publisher, shall not be liable to any penalty under this Act unless it is proved that the copies were to his knowledge pirated copies.
 
-99
-
-iiSl«
-
-MU
-
-A
-
-1. — (1) Every person who prints, reproduces, or sells, or
-
-exposes, offers, or has in his possession ?for sale, any pirated copies of any musical work, or has in his possession any plates for the purpose of printing or reproducing pirated copies of any musical work, shall (unless he proves that he acted innocently) be guilty of an offence punishable on summary conviction, and shall be liable to a fine not exceeding five pounds, and on a second or subsequent conviction to imprisonment with or without hard labour for a term not exceeding two months or to a fine not exceeding ten pounds: Provided that a person convicted of
-
-an offence under this Act who has not previously been convicted of such an offence, and who proves that the copies of the musical work in respect of which the offence was committed had printed on the title page thereof a name and address purporting to be that of the printer or publisher, shall not be liable to any penalty under this Act unless it is proved that the copies were to his knowledge pirated copies.
-
-(2) Any constable may take into custody without warrant any person who in any street or public place sells or exposes, offers, or has in his possession for sale any pirated copies of any such musical work as may be specified in any general written authority addressed to the chief officer of police, and signed by the apparent owner of the copyright in such work or his agent thereto authorised in writing, requesting the arrest, at the risk of such owner, of all persons found committing offences under this section in respect to such work, or who offers for sale any pirated copies of any such specified musical work by personal •canvass or by personally delivering advertisements or circulars.
+(2) Any constable may take into custody without warrant any person who in any street or public place sells or exposes, offers, or has in his possession for sale any pirated copies of any such musical work as may be specified in any general written authority addressed to the chief officer of police, and signed by the apparent owner of the copyright in such work or his agent thereto authorised in writing, requesting the arrest, at the risk of such owner, of all persons found committing offences under this section in respect to such work, or who offers for sale any pirated copies of any such specified musical work by personal canvass or by personally delivering advertisements or circulars.
 
 (3) A copy of every written authority addressed to a chief officer of police under this section shall be open to inspection at all reasonable hours by any person without payment of any fee, and any person may take copies of or make extracts from any such authority.
 
-(4) Any person aggrieved by a summary conviction under this section may in England or Ireland appeal to a court of quarter sessions, and in Scotland under and in terms of the Summary Prosecutions Appeals (Scotland) Act, 1875.
+(4) Any person aggrieved by a summary conviction under this section may in England or Ireland appeal to a court of quarter sessions, and in Scotland under and in terms of
+
+[38 & 39 Vict. c. 62.]
+
+the Summary Prosecutions Appeals (Scotland) Act, 1875.
+
+[Right of entry by police for execution of Act.]
 
 2. — (1) If a court of summary jurisdiction is satisfied by information on oath that there is reasonable ground for suspecting that an offence against this Act is being committed on any premises, the court may grant a search warrant authorising the constable named therein to enter the premises between the hours of six of the clock in the morning and nine of the clock in the evening, and, if necessary, to use force for making such entry, whether by breaking open doors or otherwise, and to seize any copies of any musical work or any plates in respect of which he has reasonable ground for suspecting *ihat an offence against this Act is being committed.
 
 (2) All copies of any musical work and plates seized under this section shall be brought before a court of summary jurisdiction, and if proved to be pirated copies or plates intended
 
-Penalty for being in possession of pirated music.
-
-38 & 39 Vict. c. 62.
-
-Right of entry by police for execution of Act.
-
-100
-
-Ch. 36.
-
-Musical Copyright , 1906.
-
-6 Edw. 7.
-
-Definitions.
-
-6 & 6 Vict. c.45. 7 & 8 Vict. c. 12. 49 & 50 Vict. c. 33.
-
-53 & 54 Vict: c. 45.
-
-53 & 54 Vict. c. 67.
-
-[Short title.]
+100 Ch. 36. Musical Copyright Act, 1906. 6 Edw. 7.
 
 to be used for the printing or reproduction of pirated copies shall be forfeited and destroyed or otherwise dealt with as the court think fit.
+
+[Definitions.]
 
 3. In this Act —
 
 The expression “pirated copies” means any copies of any musical work written, printed, or otherwise reproduced without the consent lawfully given by the owner of the copyright in such musical work:
 
-The expression “musical work” means a musical work in which there is a subsisting copyright, and which has been registered in accordance with the provisions of the Copyright Act, 1842, or of the International Copyright Act, 1844, which registration may be effected notwithstanding anything in the International Copyright Act, 1886:
+The expression “musical work” means a musical work in which there is a subsisting copyright, and which has been registered in accordance with the provisions of
 
-The expression “plates ” includes any stereotype or other plates, stones, matrices, transfers, or negatives used or intended to be used for printing or reproducing copies of any musical work: Provided that the expressions
+[5 & 6 Vict. c. 45. 7 & 8 Vict. c. 12. 49 & 50 Vict. c. 33.]
 
-" “ pirated copies ’’and “ plates ” shall not, for the pur-
+the Copyright Act, 1842, or of the International Copyright Act, 1844, which registration may be effected notwithstanding anything in the International Copyright Act, 1886:
 
-poses of this Act, be deemed to include perforated music rolls used for playing mechanical instruments, or records used for the reproduction of sound waves, or the matrices or other appliances by which such rolls or records respectively are made:
+The expression “plates” includes any stereotype or other plates, stones, matrices, transfers, or negatives used or intended to be used for printing or reproducing copies of any musical work: Provided that the expressions “pirated copies“ and “plates” shall not, for the purposes of this Act, be deemed to include perforated music rolls used for playing mechanical instruments, or records used for the reproduction of sound waves, or the matrices or other appliances by which such rolls or records respectively are made:
 
-The expression “chief officer of police ” —
+The expression “chief officer of police” —
 
 (a) with respect to the City of London, means the Commissioner of City Police;
 
-(h) elsewhere in England has the same meaning as in the Police Act, 1890;
+[53 & 54 Vict: c. 45.]
+
+(b) elsewhere in England has the same meaning as in the Police Act, 1890;
+
+[53 & 54 Vict. c. 67.]
 
 (c) in Scotland has the same meaning as in the Police (Scotland) Act, 1890;
 
@@ -4258,15 +4192,13 @@ The expression “chief officer of police ” —
 
 (e) elsewhere in Ireland means the District Inspector of the Royal Irish Constabulary:
 
-The expression “court of summary jurisdiction ” in Scotland means the sheriff or any magistrate of any royal, parliamentary, or police burgh officiating under the provisions of any local or general police Act.
+The expression “court of summary jurisdiction” in Scotland means the sheriff or any magistrate of any royal, parliamentary, or police burgh officiating under the provisions of any local or general police Act.
+
+[Short title.]
 
 4. This Act may be cited as the Musical Copyright Act, 1906.
 
-1906.
-
-Labourers (Ireland) Act, 1906. Ch. 37.
-
-101
+1906. Labourers (Ireland) Act, 1906. Ch. 37. 101
 
 CHAPTER 37.
 
@@ -4275,7 +4207,7 @@ An Act to amend the Law relating to Labourers in Ireland and to make provision w
 [4th August 1906.]
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
-
+---
 1. — (1) A representation under the Labourers Acts shall be sufficient for all the purposes of those Acts if it represents that the circumstances of the section of the rural district to which it relates are such that it is the duty of the district council to take proceedings under the Labourers Acts therein.
 
 (2) In section ninety-seven of the Irish Land Act, 1903, which provides for the number of persons by whom a representation may be signed, “ three ” shall be substituted for “ six.”
@@ -4416,9 +4348,7 @@ provision of this section, paid purchase money or compensation, not exceeding th
 
 Ch. 37.
 
-Labourers (Ireland) Act, 1906.
-
-6 Edw. 7.
+Labourers (Ireland) Act, 1906. 6 Edw. 7.
 
 8 & 9 Vict. c. 18.
 
@@ -4648,9 +4578,7 @@ Rules and adaptation order.
 
 Ch. 37.
 
-Labourers (Ireland) Act, 1906.
-
-6 Edw. 7.
+Labourers (Ireland) Act, 1906. 6 Edw. 7.
 
 Construction of Labourers Acts.
 
@@ -12298,9 +12226,7 @@ Provided that, where there is no possibility of salvage, a policy may be effecte
 
 Ch. 41.
 
-Marine Insurance Act, 1906.
-
-6 Edw. 7.
+Marine Insurance Act, 1906. 6 Edw. 7.
 
 Defeasible or contingent interest.
 
@@ -12530,9 +12456,7 @@ Valued policy.
 
 Ch. 41.
 
-Marine Insurance Act, 1906.
-
-6 Edw. 7.
+Marine Insurance Act, 1906. 6 Edw. 7.
 
 Unvalued
 
@@ -13004,9 +12928,7 @@ part, other than a loss incurred by a general average sacrifice, unless the cont
 
 Ch. 41.
 
-Marine Insurance Act, 1906.
-
-6 Edw. 7.
+Marine Insurance Act, 1906. 6 Edw. 7.
 
 234
 
@@ -13096,9 +13018,7 @@ on the part of the assured or his agents, the premium is thereupon returnable to
 
 Ch. 41.
 
-Marine Insurance Act, 1906.
-
-6 Edw. 7.
+Marine Insurance Act, 1906. 6 Edw. 7.
 
 Modification of Act in case of mutual insurance.
 
@@ -13192,9 +13112,7 @@ January one thousand nine hundred and seven. ment *
 
 Ch. 41.
 
-Marine Insurance Act, 1906.
-
-6 Edw. 7.
+Marine Insurance Act, 1906. 6 Edw. 7.
 
 Section 30.
 
@@ -13372,9 +13290,7 @@ l. — (l) It is hereby declared that where a power may be justices acting exerc
 
 Ch. 42, 43.
 
-Licensing Act, 1906.
-
-6 Edw. 7.
+Licensing Act, 1906. 6 Edw. 7.
 
 Short title and construction.
 
@@ -13606,9 +13522,7 @@ Safety.
 
 Ch. 48.
 
-Merchant Shipping Act, 1906.
-
-6 Edw. 7.
+Merchant Shipping Act, 1906. 6 Edw. 7.
 
 (h) to any direction of His Majesty in Council given under section four hundred and forty-five of the principal Act in the case of ships of any foreign country in which the regulations in force relating to overloading and improper loading are equally effective with the provisions of the principal Act.
 
@@ -13970,9 +13884,7 @@ The Board may, if and so far as they think fit, meet any claim made by a seaman 
 
 Ch. 48.
 
-Merchant Shipping Act, 1906.
-
-6 Edw. 7.
+Merchant Shipping Act, 1906. 6 Edw. 7.
 
 For the purposes of this subsection, any legal proceedings taken or any claim made by a person in whose favour an allotment note has been made, or who claims reimbursement of expenses on behalf of any union or parish under section one hundred and eighty-two of the principal Act, shall be treated as proceedings taken or a claim made by the seaman.
 
@@ -14186,9 +14098,7 @@ discharged abroad, and the offence and the entry as aforesaid are proved to the 
 
 Cu. 48.
 
-Merchant Shipping Act, 1906.
-
-6 Edw. 7.
+Merchant Shipping Act, 1906. 6 Edw. 7.
 
 Proper return port.
 
@@ -14448,9 +14358,7 @@ other person who, having an interest in the investigation or inquiry, has appear
 
 Cit. 48.
 
-Merchant Shipping Act, 1906.
-
-6 Edw. 7.
+Merchant Shipping Act, 1906. 6 Edw. 7.
 
 Power of naval court to send a person sentenced to imprisonment home to undergo sentence.
 
@@ -14556,9 +14464,7 @@ summary conviction to a fine not exceeding one hundred pounds, and if any cattle
 
 Cii, 48.
 
-Merchant Shipping Act, 1906.
-
-6 Edw. 7.
+Merchant Shipping Act, 1906. 6 Edw. 7.
 
 Application of certain sections of principal Act to Scotland.
 
@@ -14728,9 +14634,7 @@ When fresh potatoes are not so issued, an equal amount of yams, or vegetables pr
 
 Ch. 48.
 
-Merchant Shipping Act, 1906.
-
-6 Edw. 7.
+Merchant Shipping Act, 1906. 6 Edw. 7.
 
 Section 85.
 
@@ -14978,9 +14882,7 @@ Penalty for offences.
 
 290
 
-Ch. 49, 50. Cermt8 o Production Act, 1906.
-
-6 Edw. 7.
+Ch. 49, 50. Cermt8 o Production Act, 1906. 6 Edw. 7.
 
 [Short title.]
 
@@ -15536,9 +15438,7 @@ Repeal, construction, and short title.
 
 Ch. 53, 54.
 
-Notice of Accidents Act, 1906.
-
-6 Edw. 7.
+Notice of Accidents Act, 1906. 6 Edw. 7.
 
 nineteen hundred and seven, but the Secretary of State may appoint a later date (not being later than the first day of January one thousand nine hundred and eight) for any special provision of the Act to come into operation, and, if a later date is so appointed, .that special provision shall not oome into operation until that later date.
 
@@ -15600,9 +15500,7 @@ offer, which in the opinion of the court is reasonable, of a new tenancy or of t
 
 Ch. 54.
 
-, Town Tenants (Ireland) Act, 1906.
-
-6 Edw. 7.
+, Town Tenants (Ireland) Act, 1906. 6 Edw. 7.
 
 Conditions of compensation.
 
@@ -16016,9 +15914,7 @@ this Act.
 
 Ch. 55.
 
-Public Trustee Act, 1906.
-
-6 Edw. 7.
+Public Trustee Act, 1906. 6 Edw. 7.
 
 Application of Act to palatine courts.
 
@@ -16152,9 +16048,7 @@ The arbitrator shall on the application of either party specify the amount award
 
 Cir. 56.
 
-Agricultural Holdings Act, 1906.
-
-6 Edw. 7.
+Agricultural Holdings Act, 1906. 6 Edw. 7.
 
 and the award shall fix a day not sooner than one month or later than two months after the delivery of the award for the payment of the money awarded as compensation, costs, or otherwise, and shall be in such form as may be prescribed by the Board of Agriculture and Fisheries.
 
@@ -16218,9 +16112,7 @@ Compensation for unreasonable disturbance.
 
 Ch. 56.
 
-Agricultural Holdings Act, 1906.
-
-6 Edw. 7.
+Agricultural Holdings Act, 1906. 6 Edw. 7.
 
 notwithstanding any agreement to the contrary, he entitled to compensation for the loss or expense directly attributable to his quitting the holding which the tenant may unavoidably incur upon or in connection with the sale or removal of his household goods, or his implements of husbandry, produce, or farm stock, on or used in connection with the holding.
 
@@ -16498,9 +16390,7 @@ The weekly payment shall not be payable in respect of the period during which th
 
 Cu. 58.
 
-Workmens Compensation Act, 1906.
-
-6 Edw. 7.
+Workmens Compensation Act, 1906. 6 Edw. 7.
 
 (f) Any sum payable by way of compensation by the owner of a ship under this Act shall be paid in full notwithstanding anything in section five hundred and three of the Merchant Shipping Act, 1894 (which relates to the limitation of a shipowner’s liability in certain cases of loss of life, injury, or damage), but the limitation on the owner’s liability imposed by that section shall apply to the amount recoverable by way of indemnity, under the section of this Act relating to remedies both against employer and stranger, as if the indemnity were damages for loss of life or personal injury:
 
@@ -16780,9 +16670,7 @@ Provided that, if so agreed, the payment in case of death shall, if the workman 
 
 Ch. 58.
 
-Workmen's Compensation Act, 1906.
-
-6 Edw. 7.
+Workmen's Compensation Act, 1906. 6 Edw. 7.
 
 (9) Where, on application being made in accordance with rules of court, it appears to a county court that, on account of neglect of children on the part of a widow, or on account of the variation of the circumstances of the various dependants, or for any other sufficient cause, an order of the court or an award as to the apportionment amongst the several dependants of any sum paid as compensation, or as to the manner in which any sum payable to any such dependant is to be invested, applied, or otherwise dealt with, ought to be varied, the court may make such order for the variation of the former order or the award, as in the circumstances of the case the court may think just.
 
@@ -16828,9 +16716,7 @@ Provided that where the workman was at the date of the accident under twenty-one
 
 Ch. 58.
 
-Workmen's Compensation Act, 1906.
-
-6 Edw. 7.
+Workmen's Compensation Act, 1906. 6 Edw. 7.
 
 59 & 60 Vict. c. 25.
 
