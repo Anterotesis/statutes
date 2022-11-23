@@ -9888,7 +9888,7 @@ Record Edition. 12mo Edition. Title of Enactment and Extent of Repeal.
 
 , 157 Ratification in favours of the Royall Burrowes of Scotland.
 
-, 167 I Act anent the poore Schoolers in Argyle.
+, 167 Act anent the poore Schoolers in Argyle.
 
 , 194 Act anent the downsitting of the Session and opening the Signet.
 
@@ -9902,9 +9902,9 @@ Record Edition. 12mo Edition. Title of Enactment and Extent of Repeal.
 
 , 240 99 27 Act for the pardon of penal status.
 
-, 241 %9 28 Act dischargeing the Quota of Testaments.
+, 241 99 28 Act dischargeing the Quota of Testaments.
 
->» 242 99 30 Acti anent the fewars and vassalls of Kirklands.
+, 242 99 30 Acti anent the fewars and vassalls of Kirklands.
 
 , 245 99 33 Act for the right packing of Salmond.
 
@@ -10004,7 +10004,7 @@ Act dischargeing the exportation of lining yearne and regulateing the breadth of
 
 Act for enconrageing of Shiping and Navigation.
 
-, Act dischargeing the exportation of Skines, hyds, Ac.
+Act dischargeing the exportation of Skines, hyds, Ac.
 
 Act for the Fishings and erecting of companies for promoting the same.
 
@@ -10076,7 +10076,7 @@ From “ If either the Shirrcff or Baillie shall ” (p. 307, col. 1) to “ by 
 
 From “ under the degrie of Noblemen ” to “ Colledge of Justice, ” and from “ And as concerning theso ” to “ had been then found.”
 
-From “ The saids Commissioners shall put ” (p. 307, col. 2) to “propper for them to enjoyn” (ibid.).
+From “The saids Commissioners shall put ” (p. 307, col. 2) to “propper for them to enjoyn” (ibid.).
 
 From “The saids Commissioners and Justices” (p. 307, col. 2) to “ as apperteaneth ” (p. 308, col. 1).
 
@@ -10084,11 +10084,11 @@ From “The saids Justices shall put his” (p. 308, col. 1) to “ conform to t
 
 From “It shall not be leisum” (p. 308. col. 2) to “tenor of the saids Acts” (ibid.).
 
-From “ They shall set doun order ” (p. 308, col. 2) to “ qualitie of the delinquent ” (ibid.).
+From “They shall set doun order ” (p. 308, col. 2) to “ qualitie of the delinquent ” (ibid.).
 
-From “ shall appoint at the ” (p. 308, col. 2) to “ fies The saids Justices ” (ibid.); and the words “appointed by their ordinance.”
+From “shall appoint at the ” (p. 308, col. 2) to “ fies The saids Justices ” (ibid.); and the words “appointed by their ordinance.”
 
-From “ The saids Justices shall take *’ (p. 309, col. 1) to “ as the saids Justices shall appoint” (ibid.).
+From “The saids Justices shall take *’ (p. 309, col. 1) to “ as the saids Justices shall appoint” (ibid.).
 
 The words “ Magistrate of. Burghs and ” (p. 309, col. 1); and from “The saids Justices causeing” to “discretion of his Majesties Councill.”
 
@@ -10110,7 +10110,7 @@ From “ That the Justices shall put ” (p. 311, col. 1) to “by the saids Jus
 
 The words “and bind him to prosecute” (p. 311, col. 1, 1. 7 from foot).
 
-From “ And if any Nobleman ” (p. 311, col. 2) to “ may be taken therwith ” (ibid.).
+From “And if any Nobleman” (p. 311, col. 2) to “ may be taken therwith ” (ibid.).
 
 From “ The saids Justices shall tuise ” (p. 311, col. 2) to “ shall see meet to impose ” (p. 312, col. 1).
 
@@ -11132,7 +11132,7 @@ Act concerning Patronages.
 
 In part, namely:
 
-From “considering that” to “continued in thisRealme”; the word “Therefore ” noxt thereafter occurring; from “ Discharge, cass annuli ” to with advyce and consent forsaid ” where these words lastly occur; and the word “said ” twice occurring next thereafter.
+From “considering that” to “continued in this Realme”; the word “Therefore ” noxt thereafter occurring; from “ Discharge, cass annuli ” to with advyce and consent forsaid ” where these words lastly occur; and the word “said ” twice occurring next thereafter.
 
 Act concerning Vacant Stipends in the Synod of Argyle.
 
@@ -16666,7 +16666,7 @@ dependants, has been recorded in the register, order that the ' record be remove
 
 (17) In the application of this Schedule to Scotland —
 
-(«) “ County court judgment ” as used in paragraph (9) of this Schedule means a recorded decree arbitral:
+(a) “County court judgment” as used in paragraph (9) of this Schedule means a recorded decree arbitral:
 
 (b) Any application to the sheriff as arbitrator shall be heard, tried,
 
@@ -16698,7 +16698,7 @@ Arsenic poisoning or its sequelae Any process involving the use of arsenic or. i
 
 Ankylostomiasis Mining.
 
-Where regulations or special rules made under any Act of Parliament for the protection of persons employed in any industry against the risk of contracting lead poisoning require some or all of the persons employed in certain processes specified in the regulations or special rules to be periodically examined by a certifying or other surgeon, then, in the application of this schedule to that industry, the expression “process ” shall, unless the Secretary of State otherwise directs, include only the processes so specified.
+Where regulations or special rules made under any Act of Parliament for the protection of persons employed in any industry against the risk of contracting lead poisoning require some or all of the persons employed in certain processes specified in the regulations or special rules to be periodically examined by a certifying or other surgeon, then, in the application of this schedule to that industry, the expression “process” shall, unless the Secretary of State otherwise directs, include only the processes so specified.
 ---
 349
 
@@ -17023,84 +17023,62 @@ cxlvii. An Act to alter and regulate the capital and borrowing powers of the Der
 cxlviii. An Act to confer further powers upon the Borough of Portsmouth Waterworks Company with respect to the raising of money and for other purposes. (Borough of Portsmouth Waterworks.)
 
 cxlix. An Act to incorporate the West Yorkshire Tramways Company and to empower that Company to make and maintain tramways tramroads and other works and for other purposes. (West Yorkshire Tramways.)
----
-cl. An Act to empower the London County Council to execute works and to acquire lands to make provisions as to the drainage of parts of the borough of Hornsey to confer powers upon the councils of certain metropolitan boroughs and for other purposes. (London County Council y Powers).)
 
-cli. An Act for conferring further powers on the London United Tramways (1901) Limited for widening and altering streets and roads and acquiring lands in the counties of Middlesex and Surrey and for other purposes. (
+cl. An Act to empower the London County Council to execute works and to acquire lands to make provisions as to the drainage of parts of the borough of Hornsey to confer powers upon the councils of certain metropolitan boroughs and for other purposes. (London County Council (General Powers).)
 
-United Tramways.)
+cli. An Act for conferring further powers on the London United Tramways (1901) Limited for widening and altering streets and roads and acquiring lands in the counties of Middlesex and Surrey and for other purposes. (London United Tramways.)
 
-clii. An Act to extend the powers of the Twickenham and Teddington Electric Supply Company Limited with respect to the supply of electricity and for other purposes.
+clii. An Act to extend the powers of the Twickenham and Teddington Electric Supply Company Limited with respect to the supply of electricity and for other purposes. (Twickenham and Teddington Electric Supply Company's.)
 
-(Twickenham and Teddington Electric Supply
-
-V
-
-cliii. An Act to consolidate the capital of the Watford Gas and Coke Company to confer further powers on the Company with respect to the raising of additional capital to authorise the construction and maintenance of additional gasworks and for other purposes. (Wa Gas.)
+cliii. An Act to consolidate the capital of the Watford Gas and Coke Company to confer further powers on the Company with respect to the raising of additional capital to authorise the construction and maintenance of additional gasworks and for other purposes. (Watford Gas.)
 
 cliv. An Act to empower the Alexandra (Newport and South Wales) Docks and Railway Company to make an entrance channel and lock entrance into their existing South Dock and to construct other works and for other purposes. (Alexandra (Newport and South Wales) Docks and Railway.)
 
-v civ. An Act for enabling the Ritz Hotel Limited to rearrange its capital and to provide for the extinction of its deferred shares and for issuing ordinary shares in lieu thereof and for altering the memorandum and articles of association of the Company and for other purposes. (Ritz Hotel Limited.)
+civ. An Act for enabling the Ritz Hotel Limited to rearrange its capital and to provide for the extinction of its deferred shares and for issuing ordinary shares in lieu thereof and for altering the memorandum and articles of association of the Company and for other purposes. (Ritz Hotel Limited.)
 
-* clvi. An Act to revive and extend the powers for the purchase of land and the time limited for the completion of the railway authorised by the Wirral Railway Act 1898 to extend the time for the sale of surplus lands of the Wirral Railway Company and for other purposes. (Wirral Railway.)
+clvi. An Act to revive and extend the powers for the purchase of land and the time limited for the completion of the railway authorised by the Wirral Railway Act 1898 to extend the time for the sale of surplus lands of the Wirral Railway Company and for other purposes. (Wirral Railway.)
 
-Table of the Statutes.
+clvii. An Act for empowering the Cardiff Railway Company to make a deviation of a portion of Railway No. 4 authorised by the Cardiff Railway Act 1897 for extending the time for the purchase of certain lands and for the completion of certain railways and for other purposes. (Cardiff Railway.)
 
-clvii. An Act for empowering the Cardiff Railway Company to make a deviation of a portion of Railway No. 4 authorised by the Cardiff Railway Act 1897 for extending the time for the purchase of certain lands and for the completion of 1 certain railways and for other purposes. (Cardiff Railway.)
+clviii. An Act for transferring to the Newcastle-upon-Tyne Electric Supply Company Limited the undertakings authorised by the Whitley and Monkseaton Electric Lighting Order 1901 and the Seghill Earsdon and Tynemouth (Rural) Electric Lighting Order 1902 and for other purposes. (Newcastle-upon-Tyne Electric Supply Company’s.)
 
-clviii. An Act for transferring to the Newcastle-upon-Tyne Electric Supply Company Limited the undertakings authorised by the Whitley and Monkseaton Electric Lighting Order 1901 and the Seghill Earsdon and Tynemouth (Rural) Electric Lighting Order 1902 and for other purposes.
+clix. An Act to confer further powers on the Baker Street and Waterloo Railway Company. (Baker Street and Waterloo Railway.)
 
-I’(Newcastle-upon-Tyne Electric Supply Company’s.)
+clx. An Act to extend the time for taking certain lands and for the construction of certain authorised works by the Southport and Lytham Tramroad Company and the mayor aldermen and burgesses of the borough of Southport and for other purposes. (Southport and Lytham Tramroad.)
 
-1 clix. An Act to confer further powers on the Baker Street and Waterloo Railway Company. (Baker Street and / Waterloo Railway.)
-
-clXt An Act to extend the time for taking certain lands and for the construction of certain authorised works by the Southport and Lytham Tramroad Company and the mayor aldermen and burgesses of the borough of Southport and for other purposes. (Southport and Lytham Tramroad.)
-
-c]Lxi. An Act to authorise the Wallasey Urban District Council to construct a tramway and promenades and to make further provision in regard to their gas water electricity and tramways undertakings and the health local government and improvement of their district and for other purposes. (Wallasey Tramways and Improvements.)
+clxi. An Act to authorise the Wallasey Urban District Council to construct a tramway and promenades and to make further provision in regard to their gas water electricity and tramways undertakings and the health local government and improvement of their district and for other purposes. (Wallasey Tramways and Improvements.)
 
 clxii. An Act to confer further powers on the Western Valleys (Monmouthshire) Sewerage Board to make the Mynyddislwyn Urban District Council a constituent authority and for other purposes. (Western Valleys (Monmouthshire) Sewerage Board.)
 
-clxiii. An Act to. authorise the Lord Provost magistrates and council of the city and royal burgh of Edinburgh to make and maintain tramways to construct works and acquire lands to incorporate. the Royal (Dick) Veterinary College Edinburgh to provide for the registration of employment agencies to amend the Edinburgh Municipal and Police > Acts and for other purposes. (Edinburgh .)
+clxiii. An Act to authorise the Lord Provost magistrates and council of the city and royal burgh of Edinburgh to make and maintain tramways to construct works and acquire lands to incorporate. the Royal (Dick) Veterinary College Edinburgh to provide for the registration of employment agencies to amend the Edinburgh Municipal and Police Acts and for other purposes. (Edinburgh Corporation.)
 
 clxiv. An Act for incorporating and conferring powers upon the Crediton Gas Company and for other purposes. (Crediton Gas.)
 
 clxv. An Act to authorise the Kent Electric Power Company to construct a pier on the River Medway and to extend their powers with respect to the supply of electricity and for other purposes. (Kent Electric Power.)
 
-1 clxvi. An Act to incorporate and confer powers upon the Truro Gas Company. (Truro Gas.)
+clxvi. An Act to incorporate and confer powers upon the Truro Gas Company. (Truro Gas.)
 
-Local Acts.
-
-367
-
-A.D. 1906.]
-
-clxyii. An Act to provide for an increase of the share capital of-United Railways of the Havana and Regia Warehouses Limited and for other purposes. (Railways of the Havana and Regia Warehouses Limited.)
+clxvii. An Act to provide for an increase of the share capital of United Railways of the Havana and Regla Warehouses Limited and for other purposes. (Railways of the Havana and Regia Warehouses Limited.)
 
 clxviii. An Act to confer further powers upon the Rochester Chatham and Strood Gaslight Company. (Rochester Chatham and Gillingham Gas.)
 
-clxix. An Act to incorporate the Folkestone Sandgate and . Hythe Tramways Company and to empower that Company to make and maintain tramways and other works and for other purposes. (. Folkeston Sandgate and Hythe Tramways.)
+clxix. An Act to incorporate the Folkestone Sandgate and Hythe Tramways Company and to empower that Company to make and maintain tramways and other works and for other purposes. (Folkeston Sandgate and Hythe Tramways.)
 
-clxx. An Act to confer further powers on the South Eastern and London Chatham and Dover Railway Companies anct the South Eastern and Chatham Railway Companies-Managing Committee. (South Eastern and London Chatham and Dover Railways.)
+clxx. An Act to confer further powers on the South Eastern and London Chatham and Dover Railway Companies and the South Eastern and Chatham Railway Companies Managing Committee. (South Eastern and London Chatham and Dover Railways.)
 
-clxxi. An Act to extend the time limited by the Bacup -Corporation Water Act 1898 for the construction of waterworks to confer further powers upon the mayor aldermen and burgesses of the Borough of Bacup in relation to their water and electricity undertakings and to make further provision with regard to the health local government and improvement of the said borough and for other purposes. (Bacup Corporation.)
+clxxi. An Act to extend the time limited by the Bacup Corporation Water Act 1898 for the construction of waterworks to confer further powers upon the mayor aldermen and burgesses of the Borough of Bacup in relation to their water and electricity undertakings and to make further provision with regard to the health local government and improvement of the said borough and for other purposes. (Bacup Corporation.)
 
-clxxii. An Act to incorporate the Cork City Railways Company and to authorise the Company to construct railways and other works in the county borough of Cork and for-other purposes.. (Cork City Railways.)
+clxxii. An Act to incorporate the Cork City Railways Company and to authorise the Company to construct railways and other works in the county borough of Cork and for other purposes. (Cork City Railways.)
 
-clxxiii. An Act for extending the limits of supply of the* Derby Gas Light and Coke Company to enable that Company to acquire the undertakings of the Spondon Ockbrook and Borrowash Gas Light and Coke Company Limited and the Mickleover and Etwall Gas Light and Coke Company Limited and for other purposes. (Derby Gas.)
+clxxiii. An Act for extending the limits of supply of the Derby Gas Light and Coke Company to enable that Company to acquire the undertakings of the Spondon Ockbrook and Borrowash Gas Light and Coke Company Limited and the Mickleover and Etwall Gas Light and Coke Company Limited and for other purposes. (Derby Gas.)
 
-y clxxiv. An Act to make further provision for preventing the pollution and obstruction of streams in the county of Middlesex and to confer further powers on the county council* of Middlesex for that purpose and in relation to the width and maintenance of roads employment agencies ice-cream vendors gipsy encampments recreation grounds Brentford Market and Runnymede Rifle Range and Another purposes. (County Council of Middlesex (General Foicers).)
+clxxiv. An Act to make further provision for preventing the pollution and obstruction of streams in the county of Middlesex and to confer further powers on the county council of Middlesex for that purpose and in relation to the width and maintenance of roads employment agencies ice-cream vendors gipsy encampments recreation grounds Brentford Market and Runnymede Rifle Range and for other purposes. (County Council of Middlesex (General Powers).)
 
-Table of the Statutes.
+clxxv. An Act to authorise the construction of street improvements the rearrangement of buildings and the taking of lands in the parish of St. Margaret and St. John the Evangelist Westminster in the county of London and for other purposes. (St. John's (Westminster) Improvement.)
+---
+clxxvi. An Act to confer further powers upon the mayor aldermen and burgesses of the borough of Todmorden in relation to their water gas and electric lighting undertakings to authorise them to provide and work motor omnibuses and to make further provision with regard to the cleansing and improvement of the River Calder within the borough and with regard to the health improvement and good government of the said borough and for other purposes. (Todmorden Corporation.)
 
-[6 Edw. 7.
-
-clxxv. An Act to authorise the construction of street improvements the rearrangement of buildings and the taking of lands in the parish of St. Margaret and St. John the Evangelist Westminster in the county of London and for other purposes. (StJohn's (Westminster) -
-
-I ment.)
-
-' clxxvi. An Act to confer further powers upon the mayor aldermen and burgesses of the borough of Todmorden in relation to their water gas and electric lighting undertakings to authorise them to provide and work motor omnibuses and to make further provision with regard to the cleansing and improvement of the River Calder within the borough and with regard to the health improvement and good government of the said borough and for other purposes. (Todmorden Corporation.)
-
-A clxxvii. An Act to confer further powers upon the Tottenham and Edmonton Gas Light and Coke Company and for other purposes. (Tottenham and Edmonton Gas.)
+clxxvii. An Act to confer further powers upon the Tottenham and Edmonton Gas Light and Coke Company and for other purposes. (Tottenham and Edmonton Gas.)
 
 clxxviii. An Act to incorporate the Macclesfield and District Tramways Company and to empower that Company to make and maintain tramways and other works in the county of Chester and for other purposes. (Macclesfield and District Tramways.)
 
@@ -17120,25 +17098,23 @@ clxxxiv. An Act to incorporate a body of Conservators for the preservation and m
 
 clxxxv. An Act to confer further powers upon the Shropshire Worcestershire and Staffordshire Electric Power Company and for other purposes. (Shropshire Worcestershire and Staffordshire Electric Power.)
 
-clxxxvi. To extend the Municipal and Police Boundaries-, of the Burgh of Buckhaven Methil and Innerleven to* authorise the Provost Magistrates and Councillors of the Burgh to construct a new street and for other purposes., (Buckhaven Methil and Innerleven Burgh Extension.)
+clxxxvi. To extend the Municipal and Police Boundaries-, of the Burgh of Buckhaven Methil and Innerleven to* authorise the Provost Magistrates and Councillors of the Burgh to construct a new street and for other purposes. (Buckhaven Methil and Innerleven Burgh Extension.)
 
 clxxxvii. An Act for preventing by agreement with ther present owners of certain lands in the administrative county of London the future erection of buildings and structures on such lands and for other purposes. (London Squares and Enclosures (Preservation).)
 
 clxxxviii. An Act for the preservation of the sources of water supply of the Sutton District Water Company and for other purposes. (Sutton District Waterworks.)
 
-clxxxix. An Act to empower the Corporation of Kingston-upon-Hull to lay down additional tramways to execute certain street works and to confer further powers on them in regard to their water and electricity undertakings and the improvement of the city and for other purposes. upon-Hull Corporation.)
+clxxxix. An Act to empower the Corporation of Kingston-upon-Hull to lay down additional tramways to execute certain street works and to confer further powers on them in regard to their water and electricity undertakings and the improvement of the city and for other purposes. (Kingston-upon-Hull Corporation.)
 
-cxc. An Act to vest in the Corporation of Pontefract the' undertakings of the Pontefract Park Trustees and the-Pontefract Gas Company and to make further provision for the local government of the borough and the water supply thereto and for other purposes. (Pontefract Corporation.)
+cxc. An Act to vest in the Corporation of Pontefract the' undertakings of the Pontefract Park Trustees and the Pontefract Gas Company and to make further provision for the local government of the borough and the water supply thereto and for other purposes. (Pontefract Corporation.)
 
 cxci. An Act to make further provision in regard to the* supply of electrical energy by the mayor aldermen and councillors of the metropolitan borough of Hackney and for other purposes. (Hackney Electricity.)
 
-370
-
 Table of the Statutes.
 
-cxcii. An Act to confer powers upon the Hampstead Garden . Suburb Trust Limited for the purpose of enabling'that Company to develop and lay out lands as garden suburbs. (Hampstead Garden Suburb.)
+cxcii. An Act to confer powers upon the Hampstead Garden Suburb Trust Limited for the purpose of enabling that Company to develop and lay out lands as garden suburbs. (Hampstead Garden Suburb.)
 
-cxxiii. An Act to regulate the expenditure of money by the London County Council on capital account during the current financial period and the raising of money to meet . such expenditure and for other purposes. (London County Council (Money).)
+cxxiii. An Act to regulate the expenditure of money by the London County Council on capital account during the current financial period and the raising of money to meet such expenditure and for other purposes. (London County Council (Money).)
 
 cxciv. An Act for empowering the North West London Railway Company to extend their authorised railways and for other purposes. (North West London Railway.)
 
@@ -17146,33 +17122,25 @@ cxcv. An Act to empower the mayor aldermen and councillors of the metropolitan b
 
 cxcvi. An Act to incorporate the South Lincolnshire Water Company with power to supply water within certain parishes in the county of Lincoln and to authorise that Company and the Urban District Council of Spalding to construct works and provide water and for other purposes. f- (South Lincolnshire Water.)
 
-cxcvii. An Act to authorise the South Wales Electrical Power Distribution Company to raise additional capital for -carrying out works within the area transferred to and vested in the Company by the South Wales Electrical Power Distribution Company Act 1905 and for other purposes.
+cxcvii. An Act to authorise the South Wales Electrical Power Distribution Company to raise additional capital for carrying out works within the area transferred to and vested in the Company by the South Wales Electrical Power Distribution Company Act 1905 and for other purposes. (South Wales Electrical Power Distribution Company.)
 
-(South Wales Electrical Power Distribution Company.)
+s cxcviii. An Act to extend the time limited by the Watford and Edgware Railway Act 1903 for the construction of works and the purchase of lands to authorise agreements ^between the Watford and Edgware Railway Company and other companies and for other purposes. (Watford and Edgware Railway.)
 
-s cxcviii. An Act to extend the time limited by the Watford and Edgware Railway Act 1903 for the construction of works and the purchase of lands to authorise agreements ^between the Watford and Edgware Railway Company and other companies and for other purposes. (Watford and Edgicare Railway.)
+cxcix. An Act to enlarge the powers of the Lancashire Electric Power Company and for other purposes. (Lancashire Electric Power.)
 
-cxcix. An Act to enlarge the powers of the Lancashire Electric. Power Company and for other purposes. (-
-
-sliire Electric Power.)
-
-cc. An Act to empower the lord 'mayor aldermen and burgesses of the city of Bristol to acquire lands to alter the wards of the city and for other purposes. (Bristol Corporation.)
+cc. An Act to empower the lord mayor aldermen and burgesses of the city of Bristol to acquire lands to alter the wards of the city and for other purposes. (Bristol Corporation.)
 
 Royal Assent, 29th November 1906.
 
-P. cci. An Act to confirm a Provisional Order under the Private ..
-
-Legislation Procedure (Scotland) Act 1899 relating to c’ Clydebank and District Water and Burgh Extension.
+P. cci. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to c’ Clydebank and District Water and Burgh Extension.
 
 (Clydebank and District Water and Burgh Extension Order Confirmation.)
 
 A.D. 1906.]
 
-Local Acte,
+P. ccii. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to Blairgowrie Rattray and District Water. (Blairgowrie Rattray j and District Water Board Order.)
 
-P. ccii. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to Blairgowrie Rattray and District Water. (Blairgowrie Rattray j and District Water Board Order .)
-
-P. cciii. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to Edinburgh Corporation (Superannuation). (Edinburgh Corporation'(Superannuation) Order ‘
+P. cciii. An Act to confirm a Provisional Order under the Private Legislation Procedure (Scotland) Act 1899 relating to Edinburgh Corporation (Superannuation). (Edinburgh Corporation (Superannuation) Order.)
 
 cciv. An Act to confer further powers on the Metropolitan Electric Supply Company Limited. (Metropolitan Electric Supply Company.)
 
