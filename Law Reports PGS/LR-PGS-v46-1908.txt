@@ -5244,7 +5244,7 @@ Number of Vote. ARMY SERVICES, 1906-7. VOTES. i 1 j Surpluses. ! Deficits made g
 
 1 Pay, &c., of Army - £ *. j 358, 433 12 d. 9 £ 8. d.
 
-. 2 Medical establishment: Pay, &c. 1 44, 876 13 4 —
+2 Medical establishment: Pay, &c. 1 44, 876 13 4 —
 
 3 Militia: Pay, bounty, &c. 41, 127 7 2 —
 
@@ -5316,13 +5316,9 @@ the factory or station erected or proposed to be erected as aforesaid, and no su
 
 (not exceeding three) that may be used or employed by the holder, and no whaling steamer in excess of the number specified in the licence shall be used or employed by die holder:
 
-(5) No licence shall be granted except to a British subject or
+(5) No licence shall be granted except to a British subject or to a company registered in Great Britain or Ireland:
 
-to a company registered in Great Britain or Ireland:
-
-(6) The fishery authority may at any time, on the application
-
-of the holder of a licence, cancel the licence; but it shall not be lawful to transfer or assign any licence without the consent of the fishery authority, and any transfer or assignment shall be endorsed upon the licence:
+(6) The fishery authority may at any time, on the application of the holder of a licence, cancel the licence; but it shall not be lawful to transfer or assign any licence without the consent of the fishery authority, and any transfer or assignment shall be endorsed upon the licence:
 
 110
 
@@ -14894,13 +14890,9 @@ determination of a tenancy, on quitting his holding, to obtain from the landlord
 
 (2) In the ascertainment of the amount of the compensation payable to a tenant under this section there shall be taken into account —
 
-(a) any benefit which the landlord has given or allowed to
+(a) any benefit which the landlord has given or allowed to the tenant in consideration of the tenant executing the improvement; and
 
-the tenant in consideration of the tenant executing the improvement; and
-
-(b) as respects manuring as defined by this Act, the value
-
-of the manure required by the lease or by custom to be returned to the holding in respect of any crops sold off or removed from the holding within the last two years of the tenancy or other less time for which the tenancy has endured, not exceeding the value of the manure which would have been produced by the consumption on the holding of the crops so sold off or removed.
+(b) as respects manuring as defined by this Act, the value of the manure required by the lease or by custom to be returned to the holding in respect of any crops sold off or removed from the holding within the last two years of the tenancy or other less time for which the tenancy has endured, not exceeding the value of the manure which would have been produced by the consumption on the holding of the crops so sold off or removed.
 
 (3) Nothing in this section shall prejudice the right of a tenant to claim any compensation to which he may be entitled under custom, agreement, or otherwise, in lieu of any compensation provided by this section.
 
@@ -15044,19 +15036,13 @@ Procedure in Arbitration.
 
 12. Any award or agreement under this Act as to compensation expenses or otherwise may, if any sum payable thereunder is not paid within one month after it becomes due, be competently recorded for execution in the books of council and session or sheriff court books, and shall be enforceable in like manner as a recorded decree arbitral.
 
-1908.
-
-Agricultural Holdings (Scotland) Act, 1908. Ch. 64.
-
-393
+1908. Agricultural Holdings (Scotland) Act, 1908. Ch. 64. 393
 
 Charge on Holding for Compensation.
 
-13. — (1) A landlord, on paying to the tenant the amount due Power for to him under this Act, or under custom or agreement, or other- paytn0gcom-wise in respect of compensation for an improvement comprised pensationto in the First Schedule hereto, or on his defraying himself the obtain charge, cost of improvements proposed to be executed by the tenant, shall be entitled to obtain from the Board an authority to charge, in favour of himself, his executors, administrators, and assignees, the holding or the estate of which it forms part by executing and registering in the register of sasines, —
+13. — (1) A landlord, on paying to the tenant the amount due Power for to him under this Act, or under custom or agreement, or other- paytn0gcom-wise in respect of compensation for an improvement comprised pensation to in the First Schedule hereto, or on his defraying himself the obtain charge, cost of improvements proposed to be executed by the tenant, shall be entitled to obtain from the Board an authority to charge, in favour of himself, his executors, administrators, and assignees, the holding or the estate of which it forms part by executing and registering in the register of sasines, —
 
-(1) if the landlord has a leasehold interest in the holding, an
-
-assignation of the lease in security and for repayment of the amount paid or any part thereof, with such interest and by such instalments as the Board may determine; and
+(i) if the landlord has a leasehold interest in the holding, an assignation of the lease in security and for repayment of the amount paid or any part thereof, with such interest and by such instalments as the Board may determine; and
 
 (ii) in any other case, a bond and disposition in security over the holding or the estate of which it forms part for repayment of the amount paid or any part thereof, with such interest and by such instalments as the Board may determine.
 
@@ -15136,21 +15122,13 @@ Bequest of Lease.
 
 19. A tenant of a holding may by will or other testamentary Bequest of writing bequeath his lease to any person (in this section referred loa8e-to as the legatee) subject to the following provisions: —
 
-(a) The legatee shall intimate the testamentary bequest to
+(a) The legatee shall intimate the testamentary bequest to the landlord within twenty-one days after the death of the tenant, unless he is prevented by some unavoidable cause from making intimation within that time, and in that event he shall make intimation as soon as possible thereafter:
 
-the landlord within twenty-one days after the death of the tenant, unless he is prevented by some unavoidable cause from making intimation within that time, and in that event he shall make intimation as soon as possible thereafter:
+(b) Intimation to the landlord by the legatee shall import acceptance of the lease by the legatee:
 
-(b) Intimation to the landlord by the legatee shall import
+(c) Within one month after intimation has been made to the landlord he may intimate to the legatee that he objects to receive him as tenant under the lease:
 
-acceptance of the lease by the legatee:
-
-(c) Within one month after intimation has been made to
-
-the landlord he may intimate to the legatee that he objects to receive him as tenant under the lease:
-
-(d) If the landlord makes no such intimation within one
-
-month, the lease shall be binding on the landlord and the legatee respectively, as landlord and tenant, as from the date of the death of the deceased tenant:
+(d) If the landlord makes no such intimation within one month, the lease shall be binding on the landlord and the legatee respectively, as landlord and tenant, as from the date of the death of the deceased tenant:
 
 396
 
@@ -15162,7 +15140,7 @@ Ch. 64. Agricultural Holdings (), 1908. 8 Edw. 7.
 
 (f) The decision of the sheriff under such petition as aforesaid shall be final:
 
-(l g) Pending any proceedings under this section, the legatee shall have possession of the holding, unless the sheriff otherwise directs on cause shown:
+(g) Pending any proceedings under this section, the legatee shall have possession of the holding, unless the sheriff otherwise directs on cause shown:
 
 (h) If the legatee does not accept the bequest, or if the bequest is declared to be null and void as aforesaid, the lease shall descend to the heir of the tenant in the same manner as if the bequest had not been, made.
 
@@ -15172,25 +15150,15 @@ Fixtures and Buildings.
 
 Provided that —
 
-(i) Before the removal of any fixture or building the
+(i) Before the removal of any fixture or building the tenant shall pay all rent owing by him, and shall perform or satisfy all other his obligations to the landlord in respect of the holding:
 
-tenant shall pay all rent owing by him, and shall perform or satisfy all other his obligations to the landlord in respect of the holding:
+(ii) In the removal of any fixture or building the tenant shall not do any avoidable damage to any other building or other part of the holding:
 
-(ii) In the removal of any fixture or building the tenant
+(iii) Immediately after the removal of any fixture or building the tenant shall make good all damage occasioned to any other building or other part of the holding by the removal:
 
-shall not do any avoidable damage to any other building or other part of the holding:
+(iv) The tenant shall not remove any fixture or building without giving one month’s previous notice in writing to the landlord of his intention to remove it:
 
-(iii) Immediately after the removal of any fixture or building
-
-the tenant shall make good all damage occasioned to any other building or other part of the holding by the removal:
-
-(iv) The tenant shall not remove any fixture or building
-
-without giving one month’s previous notice in writing to the landlord of his intention to remove it:
-
-(v) At any time before the expiration of such notice the
-
-landlord, by notice in writing given by him to the
+(v) At any time before the expiration of such notice the landlord, by notice in writing given by him to the
 
 1908. Agricultural Holdings (Scotland) Act, 1908. Ch. 64. 397
 
@@ -15202,7 +15170,7 @@ Miscellaneous Rights of Landlord and Tenant.
 
 21. The landlord of a holding or any person authorised by Power of entry him may at all reasonable times enter on the holding for the la110"1-purpose of viewing the state of the holding.
 
-22. Notwithstanding any provision in a lease making the Penal rents tenant of a holding liable to pay a higher rent or other liquidated *°^j^dated damages in the event of any breach or non-fulfilment of any of
+22. Notwithstanding any provision in a lease making the Penal rents tenant of a holding liable to pay a higher rent or other liquidated *j^dated damages in the event of any breach or non-fulfilment of any of
 
 the terms or conditions in the lease, a landlord shall not be entitled to recover any sum in consequence of any such breach or non-fulfilment in excess of the damage actually suffered by him in consequence of the breach or non-fulfilment:
 
@@ -15288,13 +15256,9 @@ Expenses in sheriff court.
 
 General savings of rights.
 
-(ii) The provisions of this Act relating to tenants’ property
+(ii) The provisions of this Act relating to tenants’ property in fixtures and buildings shall extend to every fixture or building affixed or erected by the tenant to or upon the holding, or acquired by him since the thirty-first day of December nineteen hundred, for the purposes of his trade or business as a market gardener:
 
-in fixtures and buildings shall extend to every fixture or building affixed or erected by the tenant to or upon the holding, or acquired by him since the thirty-first day of December nineteen hundred, for the purposes of his trade or business as a market gardener:
-
-(iii) It shall be lawful for the tenant to remove all fruit
-
-trees and fruit bushes planted by him on the holding and not permanently set out; but, if the tenactedoes not remove such fruit trees and fruit bushes before the determination of his tenancy, they shall remain the property of the landlord, and the tenant shall not be entitled to any compensation in respect thereof.
+(iii) It shall be lawful for the tenant to remove all fruit trees and fruit bushes planted by him on the holding and not permanently set out; but, if the tenacte* does not remove such fruit trees and fruit bushes before the determination of his tenancy, they shall remain the property of the landlord, and the tenant shall not be entitled to any compensation in respect thereof.
 
 (2) Where under a lease current on the first day of January eighteen hundred and ninety-eight a holding was at that date in use or cultivation as a market garden with the knowledge of the landlord, and the tenant thereof has then executed thereon, without having received previously to the execution thereof any written notice of dissent by the landlord, any improvement comprised in the Third Schedule to this Act, the provisions of this section shall apply, in respect of that holding, as if it had been agreed in writing after that date that the holding should be let or treated as a market garden, so however that the improvements in respect of which compensation is payable under those provisions as so applied shall include improvements executed before as well as improvements executed after that date:
 
@@ -27726,7 +27690,7 @@ Part of s. 12.
 
 Power to form
 
-Notwithstanding anything contained in nny Act passed in the session banking part- holden in the seventh and eighth years of Queen Victoria, chapter one persons8 ° tCn hundred and thirteen, and intituled “An Act to regulate Joint Stock Banks in England, ” or in any other Act, it shall be lawful for any number of persons, not exceeding ten, to carry on in partnership the business of banking, in the same manner and upon the same conditions in all respects as any company of not more than six persons could before the passing of the Joint Stock Banking Companies Act, 1857, have carried on such business.
+Notwithstanding anything contained in nny Act passed in the session banking part- holden in the seventh and eighth years of Queen Victoria, chapter one persons8 ° tCn hundred and thirteen, and intituled “An Act to regulate Joint Stock Banks in England,” or in any other Act, it shall be lawful for any number of persons, not exceeding ten, to carry on in partnership the business of banking, in the same manner and upon the same conditions in all respects as any company of not more than six persons could before the passing of the Joint Stock Banking Companies Act, 1857, have carried on such business.
 ---
 A.D. 1908.] Local Acts. 737
 
@@ -27844,7 +27808,7 @@ xliv. An Act to provide for the transfer of the undertaking of the Ocean Marine 
 
 xlv. An Act to provide for the sale of the property of the Upton-upon-Severn Town Hall Trustees and for other purposes. (Upton Town Hall.)
 
-xlvi.. An Act to authorise the sale of the water undertakings of the Blaydon Urban District Council and the Ryton Urban District Council to confer powers upon the Weardale and Consett Water Company and the Newcastle and Gateshead Water Company and for other purpeses. (Blaydon and Ryton Water (Transfer).)
+xlvi. An Act to authorise the sale of the water undertakings of the Blaydon Urban District Council and the Ryton Urban District Council to confer powers upon the Weardale and Consett Water Company and the Newcastle and Gateshead Water Company and for other purpeses. (Blaydon and Ryton Water (Transfer).)
 
 xlvii. An Act to provide for the amalgamation of the Crays Gas Company with the Bromley Gas Consumers Company and for other purposes. (Bromley and Crays Gas.)
 
@@ -27918,7 +27882,7 @@ lxxxi. An Act to appoint Special Trustees in regard to certain land and premises
 
 lxxxii. An Act to authorise the provost magistrates and councillors of the burgh of Leith to construct additional tramways and to execute street improvements and for other purposes. (Leith Burgh.)
 
-lxxxlii. An Act to extend the time for the completion of certain works by the London Brighton and South Coast Railway Company to authorise certain street works in the borough of Worthing and to confer certain powers upon the corporation of Worthing with reference thereto and for other purposes. (London Brighton and South Coast Railway.)
+lxxxiii. An Act to extend the time for the completion of certain works by the London Brighton and South Coast Railway Company to authorise certain street works in the borough of Worthing and to confer certain powers upon the corporation of Worthing with reference thereto and for other purposes. (London Brighton and South Coast Railway.)
 
 lxxxiv. An Act for empowering the Corporation of the city of Liverpool to execute a widening of Hornby Road to construct a tramway in the township of Litherland and to establish a compensation insurance fund in respect of their officers servants and workmen for making further provisions relating to the water undertaking of the Corporation for making further regulations with respect to buildings sewers and sanitary matters for making certain licensing and registration regulations for authorising the Corporation to purchase the undertaking of the Liverpool Crematorium Company Limited and for other purposes. (Liverpool Corporation (General Powers).)
 
@@ -28018,7 +27982,7 @@ P. cxxxi. An Act to confirm a Provisional Order under the Private Legislation Pr
 
 P. cxxxii. An Act to confirm certain Provisional Orders made by the Board of Trade under the Tramways Act 1870 relating to Liverpool Corporation Tramways Extensions and Potteries and North Staffordshire Tramways (Amendment). (Tramways Orders Confirmation (No. 2).)
 
-P, cxxxiii. An Act to confirm certain Provisional Orders made by the Board of Trade under the Gas and Water Works Facilities Act 1870 relating to Brough Water Burgess Hill Water Earby and Thornton Gas East Hull Gas Sevenoaks Water and Stourbridge Water. (Gas and Water Orders Confirmation.)
+P. cxxxiii. An Act to confirm certain Provisional Orders made by the Board of Trade under the Gas and Water Works Facilities Act 1870 relating to Brough Water Burgess Hill Water Earby and Thornton Gas East Hull Gas Sevenoaks Water and Stourbridge Water. (Gas and Water Orders Confirmation.)
 
 P. cxxxiv. An Act to confirm certain Provisional Orders made by the Board of Trade under the Gas and Waterworks Facilities Act 1870 relating to Caldicot and District Gas Rainford Gas Rothwell Gas Tenterden and District Gas and Woolmer and District Gas. (Gas Orders Confirmation.)
 
