@@ -902,13 +902,13 @@ An Act to explain the Act as to Suffragan Bishops.
 
 BE it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. Notwithstanding anything contained in the Act passed in the twenty-sixth year of King Henry the Eighth “ for nomination and consecration of suffragans within this realm, ” it shall be lawful to nominate, present, and appoint as suffragan bishop a person already consecrated as a bishop, and in that case the letters patent presenting him shall not require his consecration.
+1. Notwithstanding anything contained in the Act passed in the twenty-sixth year of King Henry the Eighth “for nomination and consecration of suffragans within this realm,” it shall be lawful to nominate, present, and appoint as suffragan bishop a person already consecrated as a bishop, and in that case the letters patent presenting him shall not require his consecration.
 
 2. This Act may be cited as the Suffragan Bishops Act, 1898, and the said Act of King Henry the Eighth, and the Suffragans Nomination Act, 1888, and this Act may be cited collectively as the Suffragan Bishops Acts, 1534 to 1898.
 
 189a
 
-PMic Record Office Act, 1898. Ch. 12, 13.
+Public Record Office Act, 1898. Ch. 12, 13.
 
 19
 
@@ -992,11 +992,11 @@ Shipowners) Act, 1898.
 
 section two (b) and (c) of the Merchant Shipping Act, 1894, with poses of this regard to foreign ships. Act.
 
-4. For the purposes of this Act “ ship ” shall include every Definition, description of vessel used or intended to be used in navigation not propelled by oars and whether completed or in course of completion
+4. For the purposes of this Act “ship” shall include every Definition, description of vessel used or intended to be used in navigation not propelled by oars and whether completed or in course of completion or construction.
 
-or construction.
+[Short title.]
 
-5. This Act may be cited as the Merchant Shipping (Liability Short title, of Shipowners) Act, 1898.
+5. This Act may be cited as the Merchant Shipping (Liability of Shipowners) Act, 1898.
 
 CHAPTER 15.
 
@@ -1064,9 +1064,9 @@ Canals Protection (London) Act, 1898. Ch. 16, 17.
 
 23
 
-7. This Act shall apply only within the administrative county of Extent of
+[Extent of Act.]
 
-London. Act *
+7. This Act shall apply only within the administrative county of London.
 
 8. In this Act — Interpreta- Canal company” means any company or person owning or in tion.
 
@@ -1074,7 +1074,9 @@ possession of a canal or any part thereof:
 
 “Local authority” means and includes the London County Council, a vestry or district board of works under the Metropolis Management Acts, the Mayor, Commonalty, and citizens of the City of London, or the Woolwich Local Board of Health, as the case may require.
 
-9. This Act may be cited as the Canals Protection (London) Short title. Act, 1898.
+[Short title.]
+
+9. This Act may be cited as the Canals Protection (London) Act, 1898.
 
 CHAPTER 17.
 
@@ -1094,15 +1096,15 @@ L This Act may be cited as the Solicitors (Ireland) Act, 1898. short title.
 
 far as regards the issue of notices and other proceedings preliminary to holding the first examinations hereunder, come into operation on the passing hereof, and for all other purposes shall come into operation on the first day of January one thousand eight hundred and ninety-nine.
 
-4. In this Act “ Lord Chancellor ” includes Lords Commissioners, interpretation and Lord Keeper of the Great Seal of Ireland:°*terms-
+4. In this Act “Lord Chancellor” includes Lords Commissioners, interpretation and Lord Keeper of the Great Seal of Ireland:°*terms-
 
-“ Solicitor” means solicitor of the Supreme Court:
+“Solicitor” means solicitor of the Supreme Court:
 
-“ Registrar” means the registrar of solicitors:
+“Registrar” means the registrar of solicitors:
 
-“ The Incorporated Law Society ” or “ the Society” means “ the Incorporated Law Society of Ireland ” acting under their present or any future charters:
+“The Incorporated Law Society” or “the Society” means “the Incorporated Law Society of Ireland” acting under their present or any future charters:
 
-“ Preliminary examination” means an examination in general knowledge of persons seeking to become bound under indentures of apprenticeship to solicitors:
+“Preliminary examination” means an examination in general knowledge of persons seeking to become bound under indentures of apprenticeship to solicitors:
 
 24
 
@@ -1118,15 +1120,13 @@ No person to act as solicitor unless admitted and enrolled.
 
 Power to Society to provide lectures.
 
-Examinations to be held under management
-
-of Society.
+Examinations to be held under management of Society.
 
 N.
 
-“ Intermediate examination” means an examination of persons bound under indentures of apprenticeship to solicitors in order to ascertain the progress made by such persons during their apprenticeship in acquiring the knowledge necessary for rendering them fit and capable to act as solicitors:
+“Intermediate examination” means an examination of persons bound under indentures of apprenticeship to solicitors in order to ascertain the progress made by such persons during their apprenticeship in acquiring the knowledge necessary for rendering them fit and capable to act as solicitors:
 
-“ Final examination” means an examination of persons applying to be admitted as solicitors as well touching the indentures of apprenticeship and service as the fitness and capacity of such persons to act as solicitors in all business and matters usually transacted by solicitors, and includes, where any allegation is made by the registrar of solicitors as to the moral unfitness of any such person to be an officer of the Supreme Court, an inquiry into the truth of such allegation.
+“Final examination” means an examination of persons applying to be admitted as solicitors as well touching the indentures of apprenticeship and service as the fitness and capacity of such persons to act as solicitors in all business and matters usually transacted by solicitors, and includes, where any allegation is made by the registrar of solicitors as to the moral unfitness of any such person to be an officer of the Supreme Court, an inquiry into the truth of such allegation.
 
 5. There shall be a registrar of solicitors, who shall have the powers and perform the duties by this Act provided, and the office of such registrar shall be vested in the Incorporated Law Society under their present or any future charters of incorporation.
 
@@ -1174,15 +1174,7 @@ Admission of persons having been at the bar after three years service.
 
 Admission of graduates of Irish universities after four years apprenticeship.
 
-Admission of
-
-persons
-
-attending
-
-prescribed
-
-lectures and
+Admission of persons attending prescribed lectures and
 
 passing
 
@@ -1264,7 +1256,7 @@ order and direct the said indentures to be discharged, or assigned to such perso
 
 Solicitors (Ireland) Act, 1898.
 
-Cur. 17.
+Ch. 17.
 
 29
 
