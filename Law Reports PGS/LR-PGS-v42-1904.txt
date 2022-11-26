@@ -2967,7 +2967,7 @@ by reason of the default of the authority, and every such, order shall have effe
 Construction 2. This Act shall be construed as one with the Education Act, and short title. 1902, and may be cited as the Education (Local Authority Default) *
 
 2 Edw.7. c. 42. Act , 1904
-
+---
 CHAPTER 19.
 
 An Act to amend the Law relating to Private Sidings on Railways.
@@ -2979,7 +2979,7 @@ BE it enacted by the King’s most Excellent Majesty, by and with the advice and
 [Short title.]
 
 1. This Act may be cited as the Railways (Private Sidings) Act, 1904.
-
+---
 Facilities with
 
 2. The reasonable facilities which every railway company is
@@ -3108,7 +3108,7 @@ questions as to premises have been ill-conducted or are structurally deficient o
 
 licences in or fitness of the proposed holder of the licence, or the ground
 
-•certain cases. renewal would be void, shall be vested in quarter sessions
+certain cases. renewal would be void, shall be vested in quarter sessions
 
 instead of the justices of the licensing district, but shall only be exercised on a reference from those justices and on payment of compensation in accordance with this Act.
 
@@ -3118,7 +3118,7 @@ In every case of the refusal of the renewal of an existing on licence by the jus
 
 Licensing Act, 1904.
 
-C e. 23.
+Ch. 23.
 
 71
 
@@ -3222,7 +3222,7 @@ committee appointed under section thirty-eight of the Licensing Act, 1872, and s
 
 6. A Secretary of State may make rules for carrying into effect this Act and may by those rules amongst other things —
 
-(ct) provide for the provisional renewal of licences which are included in reports of the justices of a licensing district under this Act, and for consultation with those justices as to their reports, and for the time and manner of the consideration of those reports and of the payment of compensation; and
+(a) provide for the provisional renewal of licences which are included in reports of the justices of a licensing district under this Act, and for consultation with those justices as to their reports, and for the time and manner of the consideration of those reports and of the payment of compensation; and
 
 (b) provide for the enforcement of any security given for
 
@@ -3606,7 +3606,9 @@ Be it therefore enacted by the King’s most Excellent Majesty", by and with the
 
 1. This Act may be cited as the Weights and Measures Act, 1904.
 
-Construction. 2. This Act shall be construed as one with the Weights and
+[Construction.]
+
+2. This Act shall be construed as one with the Weights and
 
 41 & 42 Vict. Measures Acts, 1878 and 1889, and the Weights and Measures-c. 49. Acts, 1878 to 1897, and this Act may be cited collectively as the
 
@@ -3670,7 +3672,7 @@ either party, be determined by the Board of Trade, whose decision shall be final
 
 84
 
-’ Weights and Measures Act, 1904. 4 Edw. 7.
+Weights and Measures Act, 1904. 4 Edw. 7.
 
 Ch. 28.
 
@@ -3714,9 +3716,9 @@ were inserted before the word “capacity.”
 
 (2) Subsection four of section fifty-seven of the principal Act shall have effect as if the words “unless such informer is an inspector of weights and measures ” were inserted after the word ‘ informer.”
 
-(3) In section four of the Act of 1889 the word “any ” shall be substituted for the words “second or subsequent.”
+(3) In section four of the Act of 1889 the word “any” shall be substituted for the words “second or subsequent.”
 
-(4) Section seven of the Act of 1889 shall have effect as if before the words “provide for ” there were inserted the words “and “ if so directed by the Board of Trade shall.”
+(4) Section seven of the Act of 1889 shall have effect as if before the words “provide for” there were inserted the words “and “ if so directed by the Board of Trade shall.”
 
 (5) In section thirteen of the Act of 1889 for the words “no “ discount shall be allowed” there shall be substituted the words “no discount commission or rebate of any kind shall be given nor “ any allowance made by such inspector or by the local authority “ for the use of tools, premises, machinery or instruments or assistance rendered for the purposes of such verification and stamping,
 
@@ -3724,9 +3726,7 @@ were inserted before the word “capacity.”
 
 “ may be made in respect of such use or assistance as aforesaid.”
 
-14. An inspector of weights and measures may, with the con- Power for in-sent of the local authority, prosecute before a court of summary spectors to jurisdiction or justices any information, complaint or proceeding prosecu e* arising under the Weights and Measures Acts or in the discharge
-
-of his duties as such inspector.
+14. An inspector of weights and measures may, with the con- Power for in-sent of the local authority, prosecute before a court of summary spectors to jurisdiction or justices any information, complaint or proceeding prosecu e* arising under the Weights and Measures Acts or in the discharge of his duties as such inspector.
 
 8' Ch. 28, 29. Weights and Measures , . 1904. 4 Edw. 7.
 
