@@ -3566,7 +3566,7 @@ owner, harbour authority, or conservancy authority, performs any duty or exercis
 
 (3.) Section five hundred and four of the Merchant Shipping Act, 1894, shall apply to this section as if the words “owner of a British or foreign ship " included a harbour authority, and a conservancy authority, and the owner of a canal or of a dock.
 
-(4.) For the purpose of this section the term “ dock ” shall include wet docks and basins, tidal docks and basins, locks, cuts, entrances, dry docks, graving docks, gridirons, slips, quays, wharves, piers, stages, landing-places, and jetties.
+(4.) For the purpose of this section the term “dock” shall include wet docks and basins, tidal docks and basins, locks, cuts, entrances, dry docks, graving docks, gridirons, slips, quays, wharves, piers, stages, landing-places, and jetties.
 
 (5.) For the purposes of this section the term “owners of a dock or canal” shall include any person or authority having the control and management of any dock or canal, as the case may be.
 
@@ -3580,7 +3580,7 @@ owner, harbour authority, or conservancy authority, performs any duty or exercis
 
 [Construction.]
 
-5. This Act shall be construed as one with the Merchant Shipping Act, 1894, and that Act and the Merchant Shipping Act, 57 a 53 viet.c. 1897, the Merchant Shipping (Exemption from Pilotage) Act, vice!c! 1897, the Merchant Shipping (Liability of Shipowners) Act, 1898, JSvS'f the Merchant Shipping (Mercantile Marine Fund) Act, 1898, and lc c‘ this Act, may be cited together as the Merchant Shipping Acts, 1894 to 1900.
+5. This Act shall be construed as one with the Merchant Shipping Act, 1894, and that Act and the Merchant Shipping Act, 57 a 53 Vict. c. 1897, the Merchant Shipping (Exemption from Pilotage) Act, vice!c! 1897, the Merchant Shipping (Liability of Shipowners) Act, 1898, JSvS'f the Merchant Shipping (Mercantile Marine Fund) Act, 1898, and lc c‘ this Act, may be cited together as the Merchant Shipping Acts, 1894 to 1900.
 
 ---
 
@@ -3686,11 +3686,13 @@ and definition, structure, erection, or monument of historic or architectural in
 
 (3.) In the application of this Act to Scotland a reference to the council of any county shall be construed as a reference to any 52 & 53 Vict. county council within the meaning of the Local Government c. 50. (Scotland) Act, 1889.
 
-Extent of 7. This Act shall not apply to Ireland.
+[Extent of ACt.]
 
-ct *
+7. This Act shall not apply to Ireland.
 
-[Short title.] 8. This Act may be cited as the Ancient Monuments Protection Act, 1900, and may be cited with the Ancient Monuments Protection Acts, 1882 and 1892.
+[Short title.]
+
+8. This Act may be cited as the Ancient Monuments Protection Act, 1900, and may be cited with the Ancient Monuments Protection Acts, 1882 and 1892.
 
 ---
 
@@ -3724,10 +3726,8 @@ An Act to grant Money for the purpose of certain Local Loans out of the Local Lo
 
 [6th August 1900.]
 
----
-
 BE it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
-
+---
 1. Whereas the term of office of the persons who are, at the passing of this Act, Public Works Loans Commissioners under the Public Works Loans Act, 1875, will expire at the end of a period of five years from the first day of April one thousand eight hundred and ninety-six, and it is expedient to appoint Commissioners for a further period of five years; therefore the following persons, that is to say: —
 
 Sir Herbert Barnard;
@@ -8953,7 +8953,7 @@ xv. An Act to authorise the Kingston-upon-Thames Gas Company to raise additional
 
 xvi. An Act to confer further powers upon the Southampton Harbour Board and for other purposes. (Southampton Harbour.)
 
-xvil. An Act to enable the Wetherby District Water Company to extend their limits of supply construct additional waterworks and for other purposes. (Wetherby District Water.)
+xvii. An Act to enable the Wetherby District Water Company to extend their limits of supply construct additional waterworks and for other purposes. (Wetherby District Water.)
 
 xviii. An Act for authorising the Army and Navy Investment Trust Company Limited to prepare and cany into effect a Scheme or Schemes of Arrangement with its stockholders or with the holders of either class of stock and to reduce its capital and for other purposes. (Army and Navy Investment Trust Company (Limited).)
 
@@ -9067,7 +9067,7 @@ lxx. An Act for enabling the Brewery and Commercial Investment Trust Limited to 
 
 lxxi. An Act to extend the powers of the Bristol Waterworks Company for the protection of the purity of their waters. (Bristol Waterworks.)
 
-lxzii. An Act to remove doubts as to the investment of moneys belonging to the Life Fund of the Commercial Union Assurance Company Limited in the name of the Company and for other purposes. (Commercial Union Assurance Company (Limited).)
+lxxii. An Act to remove doubts as to the investment of moneys belonging to the Life Fund of the Commercial Union Assurance Company Limited in the name of the Company and for other purposes. (Commercial Union Assurance Company (Limited).)
 
 lxxiii. An Act to confer further powers upon the Milford Docks Company and for other purposes. (Milford Docks.)
 
@@ -9205,7 +9205,7 @@ cxxxviii. An Act to provide for the vesting of the railways and other property o
 
 cxxxix. An Act to confer further powers upon the Great Northern Railway Company. (Great Northern Railway.)
 
-cxL An Act to incorporate the Hastings Tramways Company and to empower that Company to make and maintain tramways and other works in the County Borough of Hastings and for other purposes. (Hastings Tramways.)
+cxl. An Act to incorporate the Hastings Tramways Company and to empower that Company to make and maintain tramways and other works in the County Borough of Hastings and for other purposes. (Hastings Tramways.)
 
 cxli. An Act to authorise the Company of Proprietors of Lambeth Waterworks to execute further works to purchase additional lands to take further water from the River Thames and to raise further money and for other purposes. (Lambeth Waterworks.)
 
@@ -9215,7 +9215,7 @@ cxliii. An Act to confer additional powers upon the Midland Railway Company and 
 
 cxliv. An Act to constitute and incorporate a Joint Water Board consisting of representatives from the Councils of the respective Boroughs of Bury Haslingden and Rawtenstall and the Urban Districts of Radcliffe Ramsbottom Little Lever Whitefield and Tottington and the Rural District of Bury all in the County Palatine of Lancaster and to transfer to and vest in such Board the water undertaking of the Bury Corporation and for other purposes. (Bury and District Water (Transfer).)
 
-cxii. An Act to alter the numbers and boundaries of the wards of the Borough of Preston and to enable the Mayor Aldermen and Burgesses of the said borough to reconstruct their existing and to construct additional tramways in and adjacent to the borough and to make further provisions for the good government of the borough. (Preston Corporation.)
+cxlv. An Act to alter the numbers and boundaries of the wards of the Borough of Preston and to enable the Mayor Aldermen and Burgesses of the said borough to reconstruct their existing and to construct additional tramways in and adjacent to the borough and to make further provisions for the good government of the borough. (Preston Corporation.)
 
 cxlvi. An Act to confer further powers on the London Sea Water Supply Company. (London Sea Water Supply.)
 
@@ -9239,7 +9239,7 @@ civ. An Act to empower the Corporation of Barnsley to make deviations in constru
 
 clvi. An Act to confer further powers on the Dublin Wicklow and Wexford Railway Company for making works and acquiring lands and raising and applying capital moneys and other matters relating to their several undertakings and for other purposes. (Dublin Wicklow and Wexford Railway.)
 
-dvii. An Act to confer upon the Corporation of Ramsgate further powers with reference to the local government and improvement of the borough and for other purposes. (Ramsgate Corporation.)
+clvii. An Act to confer upon the Corporation of Ramsgate further powers with reference to the local government and improvement of the borough and for other purposes. (Ramsgate Corporation.)
 
 clviii. An Act to confer powers upon the Corporation of the Borough of South Shields for the construction of street works and improvements and for other purposes. (South Shields Corporation.)
 
