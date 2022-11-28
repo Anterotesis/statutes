@@ -2360,7 +2360,7 @@ Scale.
 
 (i) if the workman leaves any dependants wholly dependent upon his earnings at the time of his death, a sum equal to his earnings in the employment of the same employer during the three years next preceding the injury, or the sum of one hundred and fifty pounds, whichever of those 6ums is the larger, but not exceeding in any case three hundred pounds, provided that the amount of any weekly payments made under this Act shall be deducted from such sum, and if the period of the workman's employment by the said employer has been less than the said three years, then the amount of his earnings during the said three years shall be deemed to be 156 times his average weekly earnings during the period of his actual employment under the said employer;
 
-(ii) if the workman does not leave any such dependants, but leaves any dependants in part dependent upon his earnings at the time of his death, such sum, not exceeding in any case the amount payable under the foregoing provisions, as may be agreed upon, or, hi default of agreement, may be determined, on arbitration under this Act, to be reasonable and proportionate to the injury to the said dependants; and
+(ii) if the workman does not leave any such dependants, but leaves any dependants in part dependent upon his earnings at the time of his death, such sum, not exceeding in any case the amount payable under the foregoing provisions, as may be agreed upon, or, hi* default of agreement, may be determined, on arbitration under this Act, to be reasonable and proportionate to the injury to the said dependants; and
 
 (iii) if he leaves no dependants, the reasonable expenses of his medical attendance and burial, not exceeding ten pounds;
 
@@ -2378,7 +2378,7 @@ Workmens Compensation Act, 1897. 69 & 61 Vict.
 
 representative shall be paid by him to or for the benefit of the dependants or other person entitled thereto under this Act.
 
-* ! (5.) Any question as to who is a dependant, or as to the amount payable to each dependant, shall, in default of agreement, be settled by arbitration under this Act.
+(5.) Any question as to who is a dependant, or as to the amount payable to each dependant, shall, in default of agreement, be settled by arbitration under this Act.
 
 (6.) The sum allotted as compensation to a dependant may be invested or otherwise applied for the benefit of the person entitled thereto, as agreed, or as ordered by the committee or other arbitrator.
 
@@ -2460,7 +2460,7 @@ Workmen's Compensation, 1897. Ch. 37, 38.
 
 63
 
-(ft.) Any award or agreement as to compensation under this Act may be competently recorded for execution in the books of council and session or sheriff court books, and shall be enforceable in like manner as a recorded decree arbitral:
+(b.) Any award or agreement as to compensation under this Act may be competently recorded for execution in the books of council and session or sheriff court books, and shall be enforceable in like manner as a recorded decree arbitral:
 
 (c.) Any application to the sheriff as arbitrator shall be heard, tried, and determined summarily in the manner provided by the fifty-second section of the Sheriff Courts (Scotland) Act, 1876, save only that 89 & 40 Vict. parties may be represented by any person authorised in writing to c. 70. appear for them and subject to the declaration that it shall be competent to either party within the time and in accordance with the conditions prescribed by act of sederunt to require the sheriff to state a case on any question of law determined by him, and his decision thereon in such case may be submitted to either division of the Court of Session, who may hear and determine the same finally, and remit to the sheriff with instruction as to the judgment to be pronounced.
 
@@ -2502,7 +2502,7 @@ The word “Board 1 Scotland:
 
 The word “secretary” includes assistant secretary:
 
-The expressions “medical officer of health” and “ medical officer ”
+The expressions “medical officer of health” and “medical officer”
 
 mean a legally qualified medical practitioner appointed by the 55 & 56 vict> local authority under the Burgh Police (Scotland) Act, 1892, c. 55. or under the Acts repealed by this Act or under this Act:
 
@@ -2732,9 +2732,9 @@ Kotice requiring removal of nuisance.
 
 (2.) The local authority may also by the same or another notice served on such occupier, owner, or person, require him to do what is necessary for preventing the recurrence of the nuisance, and, if
 
-18*7.
+1897.
 
-. Public Health (Scotland), 1897.
+Public Health (Scotland), 1897.
 
 Ch. 38.
 
@@ -2810,7 +2810,7 @@ authority may erect public waterclosets, &c.
 
 Penalty for injuring closet, &c. so as to cause nuisance.
 
-' Waterclosets, &c. used iu common.
+Waterclosets, &c. used iu common.
 
 and empowered to assess the owners of all the premises (according to the yearly value thereof) from which then or at any time thereafter any material other than pure water flows, falls, or is carried into the said sewer or other structure, for payment of all expenses incurred in making and maintaining the same, and that either in one sum or in instalments, as they shall think just and reasonable, and after fourteen days notice at the least left with the said owners, if resident within the district, and if not so resident with the occupiers of the said premises, to levy and collect the sum so assessed, with the same remedies iu case of default in payment thereof as are herein-after provided with reference to the public health general assessment leviable under this Act.
 
@@ -3654,11 +3654,7 @@ in this Act contained shall affect the rights of any person or persona to the pr
 
 103. The local authority shall have power to construct within their district, and also when necessary for the purpose of outfall or distribution or disposal or treatment of sewage, without their district, such sewers as they may think necessary for keeping their district properly cleansed and drained, and may carry such sewers through, across, or under any public or other road, or any street or place, or under any cellar or vault which may be under the foot pavement or carriageway of any street or road, and after reasonable notice in writing (if upon the report of a surveyor it should appear to be necessary), into, through, of under any lands whatsoever, and from time to time to enlarge, lessen, alter, arch over or otherwise improve, or to close up or destroy, all sewers vested in them, provided no nuisance is created by such operations; and if any person is thereby deprived of the lawful use of any sewer, the local authority shall provide another sufficiently effectual for his use. The local authority shall cause their sewers to be so constructed, maintained, kept, and cleansed as not to be a nuisance, and for the purpose of cleansing and emptying them may construct and place, either above or under ground, such reservoirs, sluices, engines, or other works as may be necessary, and may, subject to the provisions of the Rivers Pollution Prevention Acts, cause such sewers to communicate with and be emptied into such places as may be fit and necessary either within their district, or, if necessary for the purpose of outfall or distribution or disposal or treatment of sewage, without their district, and to cause the sewage and refuse therefrom to be collected for sale or for any purpose whatsoever, but so as not to create a nuisance.
 
-1397.
-
-Public Health (Scotland) Act, 1897. Ch. 38.
-
-105
+897. Public Health (Scotland) Act, 1897. Ch. 38. 105
 
 104. A local authority shall, three months at least before Notice to be commencing under the provisions of this Act the construction of given bef?re any sewer or other work for sewage purposes without their district, sewageDCmg give notice of the intended work by advertisement in one or more works without newspapers circulating in the district, or by the posting of district* handbills throughout the district where the work is to be made.
 
@@ -6124,11 +6120,9 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (2.) A local authority may, if it think fit, appoint male or female inspectors to enforce this Act, and, if any such persons retaining or receiving infants as aforesaid are found in its district, it shall either appoint such inspectors or arrange for the infants being visited by women nominated by the local authority and authorised by it in writing to enforce the provisions of^M^AoL
 
-1397.
+1897.
 
-Infant Life Protection Act, 1897. Ch. 57.
-
-175
+Infant Life Protection Act, 1897. Ch. 57. 175
 
 (3.) A local authority may also, if it think fit, appoint or authorise In writing other suitable persons to execute the provisions of this Act, subject to such terms and conditions as may be stated in such appointment or authorisation.
 
@@ -8796,7 +8790,7 @@ P. lxii. An Act to confirm certain Provisional Orders made by the Board of Trade
 
 P. lxiii. An Act to confirm certain Provisional Orders made by the Board of Trade under the Electric Lighting Acts 1882 and 1888 relating to Brighouse Bury St. Edmunds Dudley Farnworth Kearsley Southampton and Watford. (Electric Lighting Orders Confimnation (No. 3).)
 
-P. ixiv. An Act to confirm a Provisional Order made by the Board of Trade under the Electric Lighting Acts 1882 to 1890 relating to Leith. (Electric Lighting Order Confirmation (No. 4).)
+P. lxiv. An Act to confirm a Provisional Order made by the Board of Trade under the Electric Lighting Acts 1882 to 1890 relating to Leith. (Electric Lighting Order Confirmation (No. 4).)
 
 P. lxv. An Act to confirm certain Provisional Orders made by the Board of Trade under the Electric Lighting Acts 1882 and 1888 relating to Ambleside Ballymena Dqrking Llandrindod Wells Redditch and Reigate. (Electric Lighting Orders Confirmation (No. 5).)
 
@@ -8960,7 +8954,7 @@ P. cxliii. An Act to confirm certain Provisional Orders of the Local Government 
 
 P. cxliv. An Act to confirm a Provisional Order of the Local Government Board relating to the Borough of Hastings. (Local Government Board's Provisional Order Confirmation (No. 17).)
 
-P. cviv. An Act to confirm a Provisional Order of the Local Government Board relating to the Borough of Blackburn. (Local Government Board's Provisional Order Confirmation (No. 18).)
+P. cxlv. An Act to confirm a Provisional Order of the Local Government Board relating to the Borough of Blackburn. (Local Government Board's Provisional Order Confirmation (No. 18).)
 
 P. cxlvi. An Act to confirm certain Provisional Orders made by the Education Department under the Elementary Education Acts 1870 to 1893 to enable the School Boards for East Barnet Linthwaite Pembroke Swansea United District and Willesden to put in force the Lands Clauses Acts. (Education Department Provisional Orders Confirmation (East Barnet &c.).)
 
