@@ -680,7 +680,7 @@ And whereas the Army Act will expire in the year one thousand 44 & 45 Vict, eigh
 
 (a.) In the United Kingdom, the Channel Islands, and the Isle of Man, on the thirtieth day of April; and
 
-(6.) Elsewhere in Europe, inclusive of Malta, also in the West Indies and America, on the thirty-first day of July; and
+(b.) Elsewhere in Europe, inclusive of Malta, also in the West Indies and America, on the thirty-first day of July; and
 
 (c.) Elsewhere, whether within or without Her Majesty’s dominions, on the thirty-first day of December:
 
@@ -978,7 +978,7 @@ BE it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (a.) For the purpose of loans by the Public Works Loan Commissioners any sum or sums not exceeding in the whole the sum of two million pounds:
 
-(6.) For the purpose of loans by the Commissioners of Public Works in Ireland any sum or sums not exceeding in the whole the sum of eight hundred thousand pounds.
+(b.) For the purpose of loans by the Commissioners of Public Works in Ireland any sum or sums not exceeding in the whole the sum of eight hundred thousand pounds.
 
 (2.) The sums so issued shall be issued during a period ending on the day on which a further Act granting moneys for the purposes of those loans comes into operation and in accordance with the provisions of the National Debt and Local Loans Act, 1887.
 
@@ -2222,7 +2222,7 @@ be deemed to include the property following, that is to say:— ‘1 deemed to
 
 (a.) Property of which the deceased was at the time of his death P*SS competent to dispose;
 
-(6.) Property in which the deceased or any other person had an interest ceasing on the death of the deceased, to the extent to which a benefit accrues or arises by the cesser of such
+(b.) Property in which the deceased or any other person had an interest ceasing on the death of the deceased, to the extent to which a benefit accrues or arises by the cesser of such
 
 54
 
@@ -2764,7 +2764,9 @@ Finance A, 1894.
 
 57 & 58 Vict.
 
-(4.) The expression “receiver of the property and of the rents and profits thereof,” means a judicial factor upon the property:(5.) The expression “Inland Revenue affidavit,” means the inventory of the personal estate of a deceased now required by law, and includes an additional inventory:
+(4.) The expression “receiver of the property and of the rents and profits thereof,” means a judicial factor upon the property:
+
+(5.) The expression “Inland Revenue affidavit,” means the inventory of the personal estate of a deceased now required by law, and includes an additional inventory:
 
 (6.) The expression “on delivering the Inland Revenue affidavit means on exhibiting and recording a duly stamped inventory as provided by section thirty-eight of the Act of the forty* eighth year of the reign of King George the Third, chapter one hundred and forty-nine:
 
@@ -4182,7 +4184,11 @@ Provision as to byelaws.
 
 22. Every byelaw under this Act shall be subject —
 
-(a.) In England to section one hundred and eighty-four of the Public Health Act, 1875, as if every local authority in England under this Act were a local authority within the meaning of that section, but with the substitution of Secretary of State for the Local Government Board; and (6.) In Scotland to so much of section sixty-two of the Public Health (Scotland) Act, 1867, as provides for the confirmation of rules and regulations and the proceedings preliminary to confirmation as if such rules and regulations included byelaws under this Act, and the local authority under this Act were a local authority within the meaning of that section, but with the substitution of the Secretary for Scotland for the Board of Supervision; and (c.) In Ireland to section two hundred and twenty-one of the Public Health (Ireland) Act, 1878, with the substitution of Lord Lieutenant for the Local Government Board.
+(a.) In England to section one hundred and eighty-four of the Public Health Act, 1875, as if every local authority in England under this Act were a local authority within the meaning of that section, but with the substitution of Secretary of State for the Local Government Board; and
+
+(b.) In Scotland to so much of section sixty-two of the Public Health (Scotland) Act, 1867, as provides for the confirmation of rules and regulations and the proceedings preliminary to confirmation as if such rules and regulations included byelaws under this Act, and the local authority under this Act were a local authority within the meaning of that section, but with the substitution of the Secretary for Scotland for the Board of Supervision; and
+
+(c.) In Ireland to section two hundred and twenty-one of the Public Health (Ireland) Act, 1878, with the substitution of Lord Lieutenant for the Local Government Board.
 
 Provision as to 23. — (1.) The provisions of this Act relating to the parent of a
 
@@ -4330,7 +4336,7 @@ Acts, 1872 and 1875, shall be inspectors of the quarries under this 54 & 55 Vict
 
 1872 and 1875;
 
-(6.) Sections thirty-one and thirty-two of the Factory and Workshop Act, 1878, shall not apply to any such quarry;
+(b.) Sections thirty-one and thirty-two of the Factory and Workshop Act, 1878, shall not apply to any such quarry;
 
 (c.) Nothing in section fifty-eight of the Factory and Workshop Act, 1878, shall prevent the employment in any such quarry of young persons in three shifts for not more than eight hours each.
 
@@ -4854,7 +4860,7 @@ Provided that —
 
 (a.) The lord and the tenant may each appoint one valuer:
 
-(6.) They may appoint one and the same person:
+(b.) They may appoint one and the same person:
 
 (c.) If either the lord or the tenactedoes not appoint a valuer within twenty-eight days after notice has been given to him by the other party to do so, or within such further time, if any, as the Board of Agriculture by c
 
@@ -7474,7 +7480,7 @@ Statute Law Revision Act, 1894. Ch. 50.
 
 Reign and Chapter. Title.
 
-10 & 11 Vict. c.98. - ! An Act to amend the law as to Ecclesiastical Jurisdiction in England. In part; namely, — Section two. Section nine, the words “who shall have been, ” from “ after the passing ” where those words first occur to “of this Act, ” and the word “hereafter” twice occurring.
+10 & 11 Vict. c.98. - An Act to amend the law as to Ecclesiastical Jurisdiction in England. In part; namely, — Section two. Section nine, the words “who shall have been, ” from “ after the passing ” where those words first occur to “of this Act, ” and the word “hereafter” twice occurring.
 
 10 & 11 Vict. c. 100. - An Act the title of which begins with the words “An Act to regulate and ends with the word “Police.” In part; namely, — Section eight, the word “said ” and from “ anything ” to the end of the section.
 
@@ -7738,19 +7744,19 @@ Statute Law Revision, 1894. Ch. 56.
 
 Reign and Chapter. Title.
 
-31 & 32Viet c. 120. - An Act the title of which begins with the words “An Act to relieve and ends with the word “Indies.” In part; namely, — Section one, the words “after the passing of this Act ” twice occurring.
+31 & 32 Vict c. 120. - An Act the title of which begins with the words “An Act to relieve and ends with the word “Indies.” In part; namely, — Section one, the words “after the passing of this Act ” twice occurring.
 
-33 434 Vict. c. 66. - The British Columbia Act, 1870. Repealed as to all Her Majesty's dominions.
+33 & 34 Vict. c. 66. - The British Columbia Act, 1870. Repealed as to all Her Majesty's dominions.
 
-33434 Vict. c. 69. The Statute Law Revision Act, 1870. In part; namely, — Schedule.
+33 & 34 Vict. c. 69. The Statute Law Revision Act, 1870. In part; namely, — Schedule.
 
-334 34 Vict. c. 106. - An Act to amend the Sanitary Act, 1866, so far as relates to the City of Dublin.
+33 & 34 Vict. c. 106. - An Act to amend the Sanitary Act, 1866, so far as relates to the City of Dublin.
 
-34 & 85 Vict. c. 86. The Regulation of the Forces Act, 1871. In part; namely, — Section nineteen, so far as relates to the Secretary of State.
+34 & 35 Vict. c. 86. The Regulation of the Forces Act, 1871. In part; namely, — Section nineteen, so far as relates to the Secretary of State.
 
-34435 Vict. c. 105. - The Petroleum Act, 1871. In part; namely, — Section two, so far as relates to the term Secretary of State.
+34 & 35 Vict. c. 105. - The Petroleum Act, 1871. In part; namely, — Section two, so far as relates to the term Secretary of State.
 
-34435 Vicfc.c. 116. - The Statute Law Revision Act, 1871. In part; namely, — Schedule.
+34 & 35 Vicfc.c. 116. - The Statute Law Revision Act, 1871. In part; namely, — Schedule.
 
 35 & 36 Vict. c. 63. - The Statute Law Revision Act, 1872. In part; namely, — Section two. Schedule.
 
@@ -7758,7 +7764,7 @@ Reign and Chapter. Title.
 
 37 & 38 Vict. c. 35. £ - The Statute Law Revision Act, 1874. In part; namely, — Section two. Schedule.
 
-37 438 Vict.*c.65. - An Act the title of which begins with the words “An Act to enable ” and ends with the words “coming of age.”
+37 & 38 Vict.*c.65. - An Act the title of which begins with the words “An Act to enable ” and ends with the words “coming of age.”
 
 37 & 38 Vict. e. 96. ? - The Statute Law Revision Act, 1874 (No. 2). In part; namely, — Section two. Schedule.
 
@@ -7842,9 +7848,9 @@ Statute Law Revision, 1894. Ch, 56.
 
 203
 
-Bagn and Chapter. Title.
+Reign and Chapter. Title.
 
-89 & 40 Vict. c. 36. — cont. Section one hundred and fifty-one, the words and Her successors.” Section two hundred and thirteen, the words the Lords of.” Section two hundred and fifteen, from “ of the Lord ” to “ Commissioners.” In sections two hundred and seven, two hundred and forty-five, and two hundred and fifty-nine, the words “Exchequer Division of the.” The words “ Her heirs and successors ” wherever they occur in sections two hundred and forty-seven, two hundred and fifty-four, two hundred and seventy-five, and two hundred and seventy-six. Section two hundred and seventy-three, the word “attorney-at-law.” Section two hundred and eighty-four, the definitions of Commissioners of the Treasury and Her Majesty. Section two hundred and eighty-eight. Schedule A.
+39 & 40 Vict. c. 36. — cont. Section one hundred and fifty-one, the words and Her successors.” Section two hundred and thirteen, the words the Lords of.” Section two hundred and fifteen, from “ of the Lord ” to “ Commissioners.” In sections two hundred and seven, two hundred and forty-five, and two hundred and fifty-nine, the words “Exchequer Division of the.” The words “ Her heirs and successors ” wherever they occur in sections two hundred and forty-seven, two hundred and fifty-four, two hundred and seventy-five, and two hundred and seventy-six. Section two hundred and seventy-three, the word “attorney-at-law.” Section two hundred and eighty-four, the definitions of Commissioners of the Treasury and Her Majesty. Section two hundred and eighty-eight. Schedule A.
 
 39 & 40 Vict. c. 37. The Nullum Tempus (Ireland) Act, 1876. In part; namely, — Preamble.
 
@@ -7870,9 +7876,9 @@ Reign and Chapter. Tide. t
 
 39 & 40 Vict 40 Vict. c. 47. - The Saint Vincent, Tobago, and Grenada Constitution Act, 1876. In part; namely, — Title, the word “Tobago.”, Preamble. The Preamble to Part 11. of the Act. Section two, to “ enacted that ” and from “ and shall come ” to the end of the section. Section three, from “ and in construing ” to the end of the section.
 
-39 &4)Vict. e. 50. - Section four, the word “Tobago.” Schedule, the Act relating to Tobago. Repealed as to all Her Majesty’s Dominions. The Poor Law Rating (Ireland) Act, 1876. In part; namely, — Preamble.
+39 & 40 Vict. c. 50. - Section four, the word “Tobago.” Schedule, the Act relating to Tobago. Repealed as to all Her Majesty’s Dominions. The Poor Law Rating (Ireland) Act, 1876. In part; namely, — Preamble.
 
-89 & 40 Vict. c. 52. - The Sayings Banks (Barrister) Act, 1876. In part; namely, — Preamble.
+39 & 40 Vict. c. 52. - The Sayings Banks (Barrister) Act, 1876. In part; namely, — Preamble.
 
 39 & 40 Vict. c. 58. - Section two, from “ Commissioners, ” secondly occurring, to Majesty’s, ” and the words “in this Act referred to as the Treasury.” The Superannuation Act, 1876. In part; namely, — Preamble.
 
@@ -14688,9 +14694,7 @@ wages out of which the allotment is to be paid, recover the sums allotted, when 
 
 (c) by a credible letter from the master of the ship to the same effect, or
 
-[d)by such other evidence as the court in their absolute discretion consider sufficient to show satisfactorily that the seaman has ceased to be entitled to the wages out <>t which the allotment is to be paid.
-
-B b
+(d) by such other evidence as the court in their absolute discretion consider sufficient to show satisfactorily that the seaman has ceased to be entitled to the wages out <>t which the allotment is to be paid.
 
 386
 
@@ -15080,7 +15084,7 @@ Reimbursement of Relief to Seamen's Families.
 
 (a.) If only one of those members is chargeable, one half of the wages:
 
-(6.) If two or more of those members are chargeable, two thirds of the wages.
+(b.) If two or more of those members are chargeable, two thirds of the wages.
 
 (2.) If during the absence of the seaman any sums have been paid by the owner of his ship to or on behalf of aDy such member as aforesaid, under an allotment note made by the seaman in favour of the member, any claim for reimbursement as aforesaid shall be limited to the excess (if any) of the proportion of the wages hereinbefore mentioned over the sums so paid.
 
@@ -17560,7 +17564,7 @@ Exemption from survey of foreign passenger steamer or emigrant ship in certain c
 
 363. Where a foreign ship is a passenger steamer or emigrant ship within the meaning of this Part of this Act, and the Board of Trade are satisfied, by the production of a foreign certificate of survey attested by a British consular officer at a port out of Her Majesty's dominions, that the ship has been officially surveyed at that port, and are satisfied that any requirements of this Act are proved by that survey to have been substantially complied with, the Board may, if they think fit, dispense with any further survey of the ship in respect of any requirement so complied with, and grant or direct one of their officers to grant a certificate, which shall have the same effect as if given upon survey under this Part of this Act:
 
-Provided that Her Majesty in Council may order that' this section shall not apply in the case of an official survey at any^port at which it appears to Her Majesty that corresponding advantages are not extended to British ships.
+Provided that Her Majesty in Council may order that this section shall not apply in the case of an official survey at any^port at which it appears to Her Majesty that corresponding advantages are not extended to British ships.
 
 Application of Part III. as regards Emigrant Ships.
 
@@ -17574,7 +17578,7 @@ Limited application of Part III. of Act to colonial voyage*.
 
 (a) master’s bond;
 
-(h) steerage passengers contract tickets;
+(b) steerage passengers contract tickets;
 
 1894.
 
@@ -17596,9 +17600,7 @@ Merchant Shipping , 1894.
 
 (a) the regulations scheduled to this Act as to the accommodation for steerage passengers;
 
-(b)medical practitioner, stewards, cooks, cooking apparatus, and
-
-manning with an efficient crew; and
+(b)medical practitioner, stewards, cooks, cooking apparatus, and manning with an efficient crew; and
 
 (c) maintenance of steerage passengers after arrival, shall also not apply.
 
@@ -17606,7 +17608,7 @@ manning with an efficient crew; and
 
 366. — (1.) The governor of a British possession may by proclamation —
 
-(a)determine what shall be deemed, for the purposes of this Part of this Act, to be the length of the voyage of any ship carrying steerage passengers from any port in that British possession to any other port; and
+(a) determine what shall be deemed, for the purposes of this Part of this Act, to be the length of the voyage of any ship carrying steerage passengers from any port in that British possession to any other port; and
 
 (b) fix dietary scales for steerage passengers during the voyage; and
 
@@ -17824,7 +17826,7 @@ Discipline.
 
 (a.) For the offence of desertion, — he shall be liable to forfeit all or any part of the effects he leaves on board, and all or any part of the wages which he has then earned, and to satisfy any excess of wages paid by the skipper or owner of the fishing boat from which he deserts to any substitute engaged in his place at a higher rate of wages than the rate stipulated to be paid to him:
 
-(6.) For the offence of absence without leave, that is to say for neglecting or refusing without reasonable cause to join or to proceed to sea in his fishing boat, or for being absent without leave at any time within twenty-four hours of his boat’s sailing from any port, either at the commencement or during the progress of the engagement, or for being absent at any time without leave and without sufficient reason from his boat, — if the offence does not amount to desertion, or is not treated as such by the skipper, he shall be liable to forfeit a sum not exceeding two days wages, and in addition for every twenty-four hours of absence, either a sum not exceeding four days wages, or any expenses properly incurred in respect of a substitute:
+(b.) For the offence of absence without leave, that is to say for neglecting or refusing without reasonable cause to join or to proceed to sea in his fishing boat, or for being absent without leave at any time within twenty-four hours of his boat’s sailing from any port, either at the commencement or during the progress of the engagement, or for being absent at any time without leave and without sufficient reason from his boat, — if the offence does not amount to desertion, or is not treated as such by the skipper, he shall be liable to forfeit a sum not exceeding two days wages, and in addition for every twenty-four hours of absence, either a sum not exceeding four days wages, or any expenses properly incurred in respect of a substitute:
 
 (c.) For the offence of wrongfully quitting the boat, that is to say for quitting the boat without leave after her arrival in
 
@@ -17836,7 +17838,7 @@ port, and before she is placed in security, — he shall be liable to forfeit a 
 
 (e.) For the offence of continued breach of duty, that is to say for continued wilful disobedience to lawful commands during the engagement, or continued wilful omission to do his duty during the engagement, — he shall be liable to imprisonment for any period not exceeding twelve weeks, and also to forfeit for every twenty-four hours continuance of the offence either a sum not exceeding six days wages or any expenses properly incurred in respect of a substitute:
 
-(/.) For the offence of assault, that is to say for assaulting any . skipper or second hand, — he shall be liable to imprisonment for a period not exceeding twelve weeks:
+(f.) For the offence of assault, that is to say for assaulting any . skipper or second hand, — he shall be liable to imprisonment for a period not exceeding twelve weeks:
 
 (g.) For the offence of unlawful combination, that is to say for combining with any one or more of the crew to disobey lawful commands, or to neglect duty, or to impede the navigation of the boat, or the progress of the trip, — he shall be liable to imprisonment for a period not exceeding twelve weeks:
 
@@ -17884,13 +17886,7 @@ may, on the information (made, if the officer so require, on oath) of the owner,
 
 (2.) Such warrant shall be executed by any constable of the county, borough, or place, where the offender may be, and shall continue in force for ninety-six hours from the time endorsed on the warrant by the officer issuing the same.
 
-1894.
-
-Merchant Shipping Act, 1894.
-
-Cm. 60.
-
-473
+1894. Merchant Shipping Act, 1894. Ch. 60. 473
 
 (3.) The seaman or apprentice when apprehended shall be brought by the constable without delay before some officer by whom a warrant may be issued under this section, and that officer shall then and there inquire into the case, and if the explanation of the seaman or apprentice is, in his opinion, sufficient, shall discharge him, but, if not, shall order him to join his boat and resume his duty.
 
@@ -18112,8 +18108,6 @@ Prohibition on taking money for apprenticeships and boys agreements.
 
 that person shall in respect of each offence be guilty of a misdemeanor, whether the apprentice or boy was or was not validly bound *
 
-* - vliOOvLC “
-
 1894.
 
 Ch. 60.
@@ -18122,7 +18116,7 @@ Ch. 60.
 
 Merchant Shipping A 1894.
 
-(hl) Pbovisions applying to TRAWLEB8.
+(hl) Provisions applying to TRAWLERS.
 
 The following sections shall apply only to fishing boats being trawlers and save as otherwise provided only to fishing boats being trawlers of twenty-five tons tonnage and upwards.
 
@@ -18174,7 +18168,7 @@ substitutes, or persons engaged subsequently to the first departuie of the fishi
 
 Agreements by 402. — (1.) Fishing boats agreements may be made by the
 
-owner or for owner (or if there are several owners the registered managing or^iorofishing owner) instead of by the skipper; and the provisions of this Part boats. of this Act with respect to fishing boats agreements shall apply as
+owner or for owner (or if there are several owners the registered managing or^ioro fishing owner) instead of by the skipper; and the provisions of this Part boats. of this Act with respect to fishing boats agreements shall apply as
 
 if the owner were skipper. '
 
@@ -18990,7 +18984,7 @@ inquiry into inquiry may be held respecting the casualty by the following
 
 casualties. persons; namely, —
 
-(a.) Where the shipping casualty occurs on or near the coasts of the United Kingdom, by the inspecting officer of the coastguard or chief officer of customs residing at or near the place at which the casualty occurs; or (6.) Where the shipping casualty occurs elsewhere, by the inspecting officer of the coastguard or chief officer of customs residing at or near any place at which the witnesses with respect to the casualty arrive or are found or can be conveniently examined; or ' (c.) In any case by any person appointed for the purpose by
+(a.) Where the shipping casualty occurs on or near the coasts of the United Kingdom, by the inspecting officer of the coastguard or chief officer of customs residing at or near the place at which the casualty occurs; or (b.) Where the shipping casualty occurs elsewhere, by the inspecting officer of the coastguard or chief officer of customs residing at or near any place at which the witnesses with respect to the casualty arrive or are found or can be conveniently examined; or ' (c.) In any case by any person appointed for the purpose by
 
 the Board of Trade.
 
@@ -19160,7 +19154,7 @@ Re-hearing of Investigations and Inquiries.
 
 (a.) If the decision is given in England or by a naval court, to the High Court:
 
-(6.) If the decision is given in Scotland, to either division of the Court of Session:
+(b.) If the decision is given in Scotland, to either division of the Court of Session:
 
 (c.) If the decision is given in Ireland, to the High Court in Ireland.
 
@@ -19302,7 +19296,7 @@ Merchant Skipping Act, 1891. 57 & 58 Vict.
 
 (a.) A statement of the proceedings of the court, together with the order made by the court, and a report of the evidence;
 
-(6.) An account of the wages of any seaman or apprentice who is discharged from his ship by the court;
+(b.) An account of the wages of any seaman or apprentice who is discharged from his ship by the court;
 
 1894.
 
@@ -20856,7 +20850,7 @@ Ch. 60.
 
 (a.) The expressions “judge of county courts ” and “judge ” shall respectively mean a county court judge and chairman of quarter sessions, and include recorder;
 
-(6.) The expressions “ stipendiary magistrate ” and “ magistrate ” shall respectively mean a magistrate appointed under the Constabulary (Ireland) Act, 1836. *37 WUL 4 *
+(b.) The expressions “ stipendiary magistrate ” and “ magistrate ” shall respectively mean a magistrate appointed under the Constabulary (Ireland) Act, 1836. *37 WUL 4 *
 
 (c.) Rules with respect to the procedure in case of appeals under this section (including costs and the remuneration of assessors) may from time to time be made, as respects county court judges and chairmen of quarter sessions, by the authority having power to make rules and orders for regulating the practice under the County Officers and Courts (Ireland) Act, 40 & 41 Vict. 1877, and as respects stipendiary magistrates, by the Lord c# 56' Lieutenant of Ireland in Council, but in either case with the concurrence of the Treasury as to fees.
 
@@ -20872,7 +20866,7 @@ following characteristics; namely, — o(Pilot boats.
 
 (a.) On her stern the name of her owner and the port to which she belongs, painted in white letters at least one inch broad and three inches long, and on each bow the number of her licence.
 
-(6.) In all other parts a black colour painted or tarred outside, or such other colour or colours as the pilotage authority of the district, with the consent of the Board of Trade, direct.
+(b.) In all other parts a black colour painted or tarred outside, or such other colour or colours as the pilotage authority of the district, with the consent of the Board of Trade, direct.
 
 (c.) When afloat a flag (in this Act called a pilot flag) of large dimensions compared with the size of the pilot boat, and of two colours, the upper horizontal half white, and the lower horizontal half red, to be placed at the mast head, ok on a sprit or staff, or in some equally conspicuous
 
@@ -21446,7 +21440,7 @@ Commissioners of Northern Lightfcomes.
 
 572 Ch. GO. Merchant Shipping, 1894. 57 & 58 VICT.
 
-(6.) The lords provosts of Edinburgh, Glasgow, and Aberdeen, and the provosts of Inverness and Campbeltown;
+(b.) The lords provosts of Edinburgh, Glasgow, and Aberdeen, and the provosts of Inverness and Campbeltown;
 
 (c.) The eldest bailies of Edinburgh and Glasgow;
 
@@ -21552,15 +21546,15 @@ expenses incurred in relation to distressed seamen and apprentices under the Sec
 
 (a.) The salaries and other expenses connected with local marine boards and mercantile marine offices, and with the examinations conducted under the Second and Fourth Parts of this Act:
 
-(6.) The salaries of all surveyors of ships and officers appointed under this Act and all expenses incurred in connexion with the survey and measurement of ships under this Act, and the remunerat:on of medical inspectors of seamen under the Second Part of this Act:
+(b.) The salaries of all surveyors of ships and officers appointed under this Act and all expenses incurred in connexion with the survey and measurement of ships under this Act, and the remunerat:on of medical inspectors of seamen under the Second Part of this Act:
 
 (c.) The salaries and expenses of persons employed under the Third Part of this Act:
 
-((/.) The superannuation allowances, gratuities, pensions, and other allowances granted either before or after the passing of this Act to any of the said surveyors, officers, or persons:
+(d.) The superannuation allowances, gratuities, pensions, and other allowances granted either before or after the passing of this Act to any of the said surveyors, officers, or persons:
 
 (e.) The allowances and expenses paid for the relief of distressed British seamen and apprentices, including the expenses declared under this Act to be payable as such expenses, and any con* ri but ions to seamen’s refuges and hospitals:
 
-(/.) Any sums which the Board of Trade, in their discretion, think fit to pay in resp.ct of claims to moneys carried to
+(f.) Any sums which the Board of Trade, in their discretion, think fit to pay in resp.ct of claims to moneys carried to
 
 1894.
 
@@ -22018,7 +22012,7 @@ their assistant secretaries, or, if a certificate, by one of the officers of the
 
 721. The following instruments shall be exempt from stamp Exemption duty: — from Stamp
 
-(a.) Any instruments used for carrying into effect the First Part duty’ of this Act; and (6.) Any instruments used by or under the direction of the Board of Trade in carrying into effect the Second, Fifth,
+(a.) Any instruments used for carrying into effect the First Part duty’ of this Act; and (b.) Any instruments used by or under the direction of the Board of Trade in carrying into effect the Second, Fifth,
 
 Eleventh, and Twelfth Parts of this Act; and (c.) Any instruments which are by those Parts of this Act required to be in a form approved by the Board of Trade, if made in that form. u
 
@@ -22372,7 +22366,7 @@ Provided that —
 
 (a.) Any Order in Council, licence, certificate, byelaw, rule, or regulation made or granted under any enactment hereby repealed shall continue in force as if it had been made or granted under this Act;
 
-(6.) Any officer appointed, any body elected or constituted, and any savings bank or office established, under any enactment hereby repealed shall continue and be deemed to have been appointed, elected, constituted, or established, as the case may be, under this Act;
+(b.) Any officer appointed, any body elected or constituted, and any savings bank or office established, under any enactment hereby repealed shall continue and be deemed to have been appointed, elected, constituted, or established, as the case may be, under this Act;
 
 (c.) Any document referring to any Act or enactment hereby repealed shall be construed to refer to this Act, or to the corresponding enactment of this Act;
 
@@ -23010,9 +23004,9 @@ Section 244.
 
 1. A local marine board shall consist of the following members; viz., —
 
-(o.) The mayor or provost and the stipendiary magistrate, or such of the mayors or provosts and stipendiary magistrates of the place (if more than one) as the Board of Trade appoint:
+(a.) The mayor or provost and the stipendiary magistrate, or such of the mayors or provosts and stipendiary magistrates of the place (if more than one) as the Board of Trade appoint:
 
-(6.) Four members appointed by the Board of Trade from among persons residing or having places of business at the port or within seven miles thereof:
+(b.) Four members appointed by the Board of Trade from among persons residing or having places of business at the port or within seven miles thereof:
 
 (c.) Six members elected by the owners of such foreign-going ships and home trade passenger ships as are registered at the port.
 
@@ -23038,7 +23032,7 @@ Registry and Votes of.
 
 (a.) In the case of a ship registered in the name of one ]>erson that person shall be deemed the owner:
 
-(6.) In the case of a ship registered in distinct and several shares in the names of more persons than one the tonnage shall be apportioned among them as nearly as may be in proportion to their respective shares, and each of them shall be deemed the owner of the tonnage so apportioned to him:
+(b.) In the case of a ship registered in distinct and several shares in the names of more persons than one the tonnage shall be apportioned among them as nearly as may be in proportion to their respective shares, and each of them shall be deemed the owner of the tonnage so apportioned to him:
 
 (c.) In the case of a ship or shares of a ship registered jointly without severance of interest in the names of more persons than one the tonnage shall, if sufficient either alone or together with other tonnage, if any, owned by the joint owners, to give a qualification to each of them, be apportioned equally between or among the joint owners, and each of them shall be deemed the owner of the equal share so apportioned to him; but if it is not so sufficient the whole of the tonnage shall be deemed to be owned by such one of the joint owners resident or having a place of business at the port or within seven miles thereof as is first named on the register:
 
@@ -23160,7 +23154,7 @@ For a special survey ---- -15 00
 
 TENTH SCHEDULE.
 
-Regulations as to number of Persons cari'ied Emigrant Ships.
+Regulations as to number of Persons carried * Emigrant Ships.
 
 (1.) An emigrant ship shall not carry under the poop or in the round Sections 292, house or deck house or on the upper passenger deck, a greater number of 367. steerage passengers than in the proportion of one statute adult to every fifteen clear superficial feet of deck allotted to their use.
 
@@ -23860,9 +23854,7 @@ other person in charge of the vessel, cargo, or property saved:—
 
 (a.) A copy of the certificate of registry of the said vessel, and of the endorsements thereon, stating any change which (to his knowledge or belief) has occurred in the particulars contained in the certificate; and stating also to the best of his knowledge and belief, the state of the title to the vessel for the time being, and of the incumbrances and certificates of mortgage or sale, if any, affecting the same, and the names and places of business of the owners and incumbrancers:
 
-(b.) The name and place of business or residence of the freighter (if any)
-
-. of the said vessel, and the freight to be paid for the voyage on which she then is:
+(b.) The name and place of business or residence of the freighter (if any) of the said vessel, and the freight to be paid for the voyage on which she then is:
 
 (c.) A general account of the quantity and nature of the cargo at the time the salvage sendees were rendered:
 
@@ -24764,7 +24756,7 @@ P. cxxii. An Act to confirm certain Provisional Orders of the Local Government B
 
 P. cxxiii. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Urban Sanitary Districts of Birmingham, Brighton, Burnley, Darwen, Lancaster, and Sheffield. (local Government Board's Provisional Orders Confirmation (No. 11).)
 
-P. cxxiv. An Act to confirm certain Provisional Orders of the Local Government B >ard relating to the Counties of the Isle of Wight, London, and West Sussex, and to the Boroughs of Margate and Tunbridge Wells. (Local Government Board’s Provisional Orders Confirmation (No. 12).)
+P. cxxiv. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Counties of the Isle of Wight, London, and West Sussex, and to the Boroughs of Margate and Tunbridge Wells. (Local Government Board’s Provisional Orders Confirmation (No. 12).)
 
 P. cxxv. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Isle of 1'hanet and Stone Joint Hospital Districts, and to the Leigh and Atherton and the Stalybridge and Dukinfield Joint Sewerage Districts. (Local Government Board's Provisional Orders Confirmation (No. 13).)
 
@@ -24897,78 +24889,60 @@ clxxxvi. An Act to authorise the North Cornwall Railway Company to deviate certa
 clxxxvii. An Act to amend the constitution of and consolidate amend and extend the Statutory Powers of the Conservators of the River Thames to make further provision for the preservation and improvement of the said River for purposes of Navigation for Profit and Pleasure and as a Source of Water Supply for the Metropolis and the Suburbs thereof and for other purposes. (Thames Conservancy.)
 
 clxxxviii. An Act to revive the Powers and Extend the Time for the Compulsory Purchase of Land and Completion of Works authorised by the Plymouth and Dartmoor Railway Act 1883 the Plymouth and Dartmoor Railway (South Hams Extension) Act 1883 and the Plymouth and Dartmoor Railway Act 1891 and for other purposes. (Plymouth and Dartmoor Railway.)
----
-clxxxix. An Act for vesting in the Great Western and Midland Railway Companies the undertaking of the Severn and Wye and Severn Bridge Railway Company and for other purposes. (Great Western and Midland Railway Companies (; Severn and Wye and Severn Bridge Railway).)
 
-cxc. An Act to revive the Powers and further extend the Time for the compulsory purchase of Lands and to extend the Time limited for the completion of the Exeter Teign Valley and Chagford Railway. (Exet, Teign Valley, and Railway (Extension of Time).)
+clxxxix. An Act for vesting in the Great Western and Midland Railway Companies the undertaking of the Severn and Wye and Severn Bridge Railway Company and for other purposes. (Great Western and Midland Railway Companies (Severn and Wye and Severn Bridge Railway).)
+
+cxc. An Act to revive the Powers and further extend the Time for the compulsory purchase of Lands and to extend the Time limited for the completion of the Exeter Teign Valley and Chagford Railway. (Exeter, Teign Valley, and Chagford Railway (Extension of Time).)
 
 P. cxci. An Act to confirm certain Provisional Orders made by the Board of Trade under the Tramways Act, 1870, relating to Barrow-in-Furness Corporation Tramways, Liverpool and Walton-on the-Hill Tramways, and Liverpool Corporation Tramways (Extensions). (Tramways Orders Confirmation (No. 1).)
 
 P. cxcii. An Act to confirm certain Provisional Orders made by the Board of Trade under the Tramways Act, 1870, relating to Croydon Corporation Tramways, Croydon Tramways (Extensions), and South Staffordshire Tramways. (Tramways Orders Confirmation (No. 2).)
 
-P. cxciii. An Act to confirm certain Provisional Orders of the Local Government B >ard relating to the Urban Sanitary Districts of Bolton and St. Helens, and to the Wisbech and Wa’soken Main S ewe "age District. (Local Government Board's Provisional Orders Confirmation (No. 15).)
+P. cxciii. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Urban Sanitary Districts of Bolton and St. Helens, and to the Wisbech and Walsoken Main Sewerage District. (Local Government Board's Provisional Orders Confirmation (No. 15).)
 
 P. cxciv. An Act to confirm a Provisional Order made by the Education Department under the Elementary Education Act, 1870, to enable the School Board for London to put in force the Lands Clauses Acts. (Education Department Order Confirmation (London).)
 
-P. cxcv. An Act to confirm certain Provisional Orders made by the Education Department under the Elementary Education Act, 1870, to enable the School Boards for Barry United District, Brotherton, Hornsey, Low Leyton, Liverpool, Sutton (Surrey), West Ham, Willesden, and York to put in force the Lands Clauses Acte. (Education Department Provisional Orders Confirmation (Barry, cfcc.).) GoO<
+P. cxcv. An Act to confirm certain Provisional Orders made by the Education Department under the Elementary Education Act, 1870, to enable the School Boards for Barry United District, Brotherton, Hornsey, Low Leyton, Liverpool, Sutton (Surrey), West Ham, Willesden, and York to put in force the Lands Clauses Acts. (Education Department Provisional Orders Confirmation (Barry, &c.).)
 
-Table of the Statutes.
+P. cxcvi. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Tolls and Charges applicable thereto, for the Canals of the Great Northern and certain other Railway Companies. (Canal Tolls and Charges, No. 1 (Canals of the Great Northern and certain other Railway Companies) Order Confirmation.)
 
-P. cxcvi. An Act to confirm a Provisional Order made by the Board of Trade under the Hail way and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Tolls and Charges applicable thereto, for the Canals of the Great Northern and certain other Railway Companies. (Canal Tolls and Charges, No. 1 (Canals of the Great Northern and certain other Railway Companies) Order Confirmation.)
+P. cxcvii. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Rates, Tolls, and Charges applicable thereto, for the Bridgewater Canals Undertaking of the Manchester Ship Canal Company, and for certain other Canals. (Canal Rates, Tolls, and Charges, No. 2 (Bridgewater, &c. Canals) Order Confirmation.)
 
-P. cxcvii. An Act to confirm a Provisional Order made by the Board of Trade under the Railway anti Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Hates, Tolls, and Charges applicable thereto, for the Bridgewater Canals Undertaking of the Manchester Ship Canal Company, and for certain other Canals. (Canal Rates, Tolls, and Charges, No. 2 (Bridgewater, &c. Canals) Order Confirmation.)
-
-P. cxcviii. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Tolls and Charges applicable thereto, for the Aberdare Canal Navigation, and certain other Canals. (Canal Tolls and Charges, No. 3 7 d'c. Canals) Order
-
-Confirmation.)
+P. cxcviii. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Tolls and Charges applicable thereto, for the Aberdare Canal Navigation, and certain other Canals. (Canal Tolls and Charges, No. 3 (Aberdare, &c. Canals) Order Confirmation.)
 
 P. cxcix. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Tolls and Charges applicable thereto, for the Regent’s Canal. (Canal Tolls and Charges, No. 5 (Regent's Canal) Order Confirmation.)
 
-P. cc. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Tolls and Charges applicable thereto, for the River Ancholme Navigation, and certain other Canals. (Canal Tolls and Charges, No. 7. (River Ancholme, dec.) Order Confirmation.)
+P. cc. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Tolls and Charges applicable thereto, for the River Ancholme Navigation, and certain other Canals. (Canal Tolls and Charges, No. 7. (River Ancholme, &c.) Order Confirmation.)
 
 P. cci. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Tolls and Charges applicable thereto for the River Cam Navigation, and certain other Canals, (Canal Tolls and Charges, No. 8 (River Cam, &c.) Order Confirmation.)
 
 P. ccii. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Tolls and Charges applicable thereto, for the Canals of the Caledonian Railway Company and of the North British Railway Company. (Canal Tolls and Charges, No. 9 (Canals of the Caledonian and North British Railway Companies) Order.)
 
-A.D. 1894.]
-
-P. cciii. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Rates, Tolls, and Charges applicable thereto, for the Grand Canal. (Canal Mates, Tolls, and Charges, No. 11 (Grand Canal) Order Confirmation.)
+P. cciii. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Rates, Tolls, and Charges applicable thereto, for the Grand Canal. (Canal Rates, Tolls, and Charges, No. 11 (Grand Canal) Order Confirmation.)
 
 Royal Assent, 25th August 1894.
 
-cciv. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Tolls and Charges applicable thereto, for the Birmingham Canal Navigations. (Canal Tolls and Chafes, No. 4 (Birmingham Canal) Order Confirmation.)
+P. cciv. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Tolls and Charges applicable thereto, for the Birmingham Canal Navigations. (Canal Tolls and Chafes, No. 4 (Birmingham Canal) Order Confirmation.)
 
-P. ccv. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Tolls and Charges applicable thereto, for the River Lee Navigation, and certain other Canals.
+P. ccv. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Tolls and Charges applicable thereto, for the River Lee Navigation, and certain other Canals. (Canal Tolls and Charges, No. 6 (River Lee, &c.) Order Confirmation.)
 
-(Canal Tolls and Charges, No. 6 (River Lee, <&c.) Order Confirmation.)
-
-P. ccvi. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act,
-
-1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Tolls and Charges applicable thereto, for the Lagan Canal, and certain other Canals.
-
-(Canal Tolls and Charges, No. 10 (Lagan, &c. Canals) Order Confirmation.)
+P. ccvi. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, containing the Classification of Merchandise Traffic, and the Schedule of Maximum Tolls and Charges applicable thereto, for the Lagan Canal, and certain other Canals. (Canal Tolls and Charges, No. 10 (Lagan, &c. Canals) Order Confirmation.)
 
 ccvii. An Act for confirming the making by the Furness Railway Company of an outfall sewer and for conferring further powers on the Company for the acquisition of Lands the raising of Capital and otherwise in relation to their Undertaking and for reducing the light duties levied by the Commission era and Trustees of the Port of Lancaster and making further provision for the division between those Commissioners and Trustees and the Company of a portion of the light duties and for other purposes. (Furness Railway.)
 
-ccviii. An Act for confirming an agreement for the acquisition by the Harrow District Gas Company of the undertaking of the Great Stanmore Gas Company Limited to extend the limits of supply of the first-mentioned Company to authorise them to raise additional capital to confer further powers upon them and to alter their name and for other purposes.
-
-(Harrow and Stanmore Gas.)
+ccviii. An Act for confirming an agreement for the acquisition by the Harrow District Gas Company of the undertaking of the Great Stanmore Gas Company Limited to extend the limits of supply of the first-mentioned Company to authorise them to raise additional capital to confer further powers upon them and to alter their name and for other purposes. (Harrow and Stanmore Gas.)
 
 ccix. An Act to confer further Powers upon the Mayor Aldermen and Citizens of the City of Manchester in the County of Lancaster with respect to Street Improvements and other Works and the Acquisition of Lands and for other purposes. (Manchester Corporation.)
 
-Table of the Statutes.
-
-ccx. An Act to confer further Powers on the Plymouth and Stonehouse Gas Light and Coke Company and for other purposes. (Plymouth and Ston Gas.)
+ccx. An Act to confer further Powers on the Plymouth and Stonehouse Gas Light and Coke Company and for other purposes. (Plymouth and Stonehouse Gas.)
 
 ccxi. An Act for making a Railway from Birmingham to Stratford-upon-Avon and for other purposes. (Birmingham, North Warwickshire, and Stratford-upon-Avon Railway.)
 
 ccxii. An Act to make further provisions with respect to the use of Fire Hydrants Byelaws as to conveyance of Explosives over the Ferries of the London County Council enforcement of Ferry Byelaws the protection of Sewers and contribution towards Paddington Recreation Ground. (London County Council (General Powers).)
 
-ccxiii. An Act to consolidate and amend the Enactments relating to Streets and Buildings in London. (London
+ccxiii. An Act to consolidate and amend the Enactments relating to Streets and Buildings in London. (London Building.)
 
-Building.)
-
-ccxiv. For making Railways in the County and County of the City of Dublin and for other purposes. (Dnimcondra and North Dublin Link Railway.)
+ccxiv. For making Railways in the County and County of the City of Dublin and for other purposes. (Drumcondra and North Dublin Link Railway.)
 
 ccxv. An Act for making a Railway between Ealing and South Harrow in the County of Middlesex and for other purposes. (Ealing and South Harrow Railway.)
 
@@ -24984,10 +24958,6 @@ AND WHEREOF THE PRINTED COPIES MAY BE GIVEN IN EVIDENCE.
 
 2. An Act to confer further powers on the Executors and Trustees of the Will of the late Thomas Andrew Walker in relation to his real and personal estate. (Walker's Estate.)
 
-A.D. 1894.]
-
-Local Acts.
-
 PRIVATE ACTS.
 
 NOT PRINTED.
@@ -24996,7 +24966,7 @@ An Act to dissolve the Marriage of John Minchin Whitaker of Cove House Saudycove
 
 An Act to dissolve the Marriage of Arnold Felix Graves of 41 Raglan Road Dublin Barri«ter-at-Law with Constance Louise Graves his present wife and to enable him to Marry again and for other purposes. (Graves' Divorce.)
 
-An Act to restore Justina Clementina Boeheim or Von Roemer to British Nationality and to confer upon her all the rights privileges and capacities of a natural-born subject of Her Majesty the Queen. 'Von Ro Resumption of British Nationality.)
+An Act to restore Justina Clementina Boeheim or Von Roemer to British Nationality and to confer upon her all the rights privileges and capacities of a natural-born subject of Her Majesty the Queen. (Von Roemer's Resumption of British Nationality.)
 
 656 Effect of Legislation. [57 & 58 VICT.
 
@@ -25006,14 +24976,8 @@ Showing the Effect of the Year’s Legislation.
 
 ACTS OF FORMER SESSIONS (IN CHRONOLOGICAL ORDER) REPEALED OR AMENDED BY ACTS OF 57 & 58 VICT.
 
-Statute
-
-and
-
-Chapter.
-
-Subject-matter or Short Title.
-
+Statute and Chapter. - Subject-matter or Short Title. - How affected. - Chapter of 57 & 58 Vict.
+---
 Prerog. Beg. Stat. temp. incert. c. 13.
 
 21 Jas. 1. c. 82 >
