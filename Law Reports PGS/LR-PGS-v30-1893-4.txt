@@ -14618,7 +14618,7 @@ Session and Chapter. Short Title. Extent of Repeal.
 
 39 40 Vict. c. 79. The Elementary Education Act, 1876. In section seven the words “so “ however that in the case of a “ committee appointed by “ guardians one third at least “ shall consist of ex-officio “ guardians, if there are any, “ and sufficient ex-officio “ guardians."
 
-47 & 48 Vict. c. 70. The Municipal Elections (Corrupt and Illegal Practices) Act, 1884. Section thirty-six, from “ (h) The Local Government Board ” to “ validity of any vote."
+47 & 48 Vict. c. 70. The Municipal Elections (Corrupt and Illegal Practices) Act, 1884. Section thirty-six, from “ (h) The Local Government Board” to “validity of any vote."
 
 48 & 49 Vict. c. 53. The Public Health (Members and Officers) Act, 1885. Sections three and four.
 ---
@@ -14742,11 +14742,9 @@ Local Acts.
 
 P. xxxvi. An Act to confirm certain Provisional Orders made by the Board of Trade under the Merchant Shipping (Pilotage) Act, 1889, relating to Liverpool and Newport (Monmouthshire). (Pilotage Orders Confirmation.)
 
-P. xxxvii. An Act to confirm certain Provisional Orders of the Secretary of State under the Military Lands Act, 1892.
+P. xxxvii. An Act to confirm certain Provisional Orders of the Secretary of State under the Military Lands Act, 1892. (Military Lands Provisional Orders Confirmation.)
 
-(Military Lands Provisional Orders Confirmation.)
-
-P. xxxviii. An Act to confirm a Provisional Order made by the Local Government Board for Ireland under the Public Health (Ireland) Act, 1878, relating to the Union of Ballycastle. (Local Government Board (Ireland) Provisional Order -firmation (No, 2).)
+P. xxxviii. An Act to confirm a Provisional Order made by the Local Government Board for Ireland under the Public Health (Ireland) Act, 1878, relating to the Union of Ballycastle. (Local Government Board (Ireland) Provisional Order Confirmation (No. 2).)
 
 P. xxxix. An Act to confirm a Scheme under the Metropolitan Commons Acts, 1866 to 1878, relating to Broom Hill Common, Darrick Common, Gumping Common, and Sparrow Common, in the Parish of Orpington, Kent. (Metropolitan Commons (Orpington) Supplemental.)
 
@@ -14764,7 +14762,7 @@ Society's.)
 
 xliv. An Act to consolidate the bond or other debts of the Belfast Harbour Commissioners and to authorise the issue of consolidated stock. (Belfast Harbour.)
 
-xlv. An Act to vest a portion of the Glebe Lands of the Rectory of Saint Martin in the City of Birmingham in Trustees upon certain trusts for the benefit (at the disci etion of the Trustees) of the Incumbents for the time being of the Ecclesiastical Districts within the area of the ancient parish of Saint Martin Birmingham and for other purposes. (Saint Martin's Rectory (Birmingham).)
+xlv. An Act to vest a portion of the Glebe Lands of the Rectory of Saint Martin in the City of Birmingham in Trustees upon certain trusts for the benefit (at the discretion of the Trustees) of the Incumbents for the time being of the Ecclesiastical Districts within the area of the ancient parish of Saint Martin Birmingham and for other purposes. (Saint Martin's Rectory (Birmingham).)
 
 xlvi. An Act to abandon the Waterford and Wexford section of the undertaking authorised b] ermoy and
 
@@ -14778,9 +14776,9 @@ xlviii. An Act to extend the time for the completion of certain of the Tramways 
 
 xlix. An Act for conferring further powers on the Glasgow and South Western Railway Company for the acquisition of lands and the raising of money for empowering the City of Glasgow Union Railway Company to construct a new Railway and for other purposes. (Glasgow and South Western Railway.)
 
-I. An Act to provide for the Improvement of High Street in the City of Sheffield and for other purposes. (Sheffield Corporation (Street Widenings).)
+l. An Act to provide for the Improvement of High Street in the City of Sheffield and for other purposes. (Sheffield Corporation (Street Widenings).)
 
-ii. An Act for enabling the Ayr Harbour Trustees to convert their Mortgage Debt into Debenture Stock for altering the Constitution of the Trust and for other purposes. (Ayr Harbour.)
+li. An Act for enabling the Ayr Harbour Trustees to convert their Mortgage Debt into Debenture Stock for altering the Constitution of the Trust and for other purposes. (Ayr Harbour.)
 
 lii. An Act for conferring further powers upon the Great Eastern Railway Company for extending the periods limited for the compulsory purchase of certain Lands and for the completion of certain Works for confirming an Agreement for the purchase of the undertaking of the Wivenhoe and Brightlingsea Railway Company for authorising Agreements between the London and Blackwall Railway Company the Company and the Midland Railway Company for amendment of Acts and for other purposes. (Great Eastern Railway (General Powers).)
 
@@ -14794,9 +14792,11 @@ Local Acts.
 
 lvi. An Act to authorise the Edinburgh Street Tramways Company to make and maintain additional Tramways and to confer further powers upon that Company. (Street Tramways.)
 
-lvii. An Act for vesting in the Midland and Great Northern Railway Companies the undertaking and powers of the Eastern and Midlands Railway Company and for other purposes. (Midland and Great Northern Railway Companies (Eastern and Midlands Railway)) lviii. An Act to confer Additional Powers upon the Midland Railway Company for the Construction of Works and the Acquisition of Lands and for other purposes. (Midland Railway)
+lvii. An Act for vesting in the Midland and Great Northern Railway Companies the undertaking and powers of the Eastern and Midlands Railway Company and for other purposes. (Midland and Great Northern Railway Companies (Eastern and Midlands Railway).)
 
-liy. An Act to confer further powers on the Corporation of Plymouth in regard to the construction of additional waterworks and for other purposes. (Plymouth Corporation Wat&\)
+lviii. An Act to confer Additional Powers upon the Midland Railway Company for the Construction of Works and the Acquisition of Lands and for other purposes. (Midland Railway)
+
+lix. An Act to confer further powers on the Corporation of Plymouth in regard to the construction of additional waterworks and for other purposes. (Plymouth Corporation Wat&\)
 
 lx. An Act to empower the London Hydraulic Power Company to raise additional capital and for other purposes. (London Hydraulic Power Company's)
 
@@ -14856,13 +14856,7 @@ lxxxvii. An Act to authorise the London and South Western Railway Company to con
 
 lxxxviii. An Act for the Abandonment of the North West Central Railway. (North West
 
-..... ' ' Gdogle
-
-442
-
 Table of the Statutes.
-
-[56 & 57 Vict.
 
 lxxxix. An Act to extend the time for the Completion of the authorised Railway of the Cheadle Railway Mineral and Land Company Limited and for other purposes. (Railway
 
@@ -14888,7 +14882,7 @@ xcviii. An Act to confer further Powers upon the Great Northern Railway Company 
 
 xcix. An Act to extend the objects and powers of investment of the Law Life Assurance Society to empower the Proprietors of the Society to make Regulations for its government and the management of its affairs and for other purposes. (Law Life Assurance Society's.)
 
-C. An Act to authorise the execution of certain works and to confer further powers on the South Eastern Railway Company
+c. An Act to authorise the execution of certain works and to confer further powers on the South Eastern Railway Company
 
 A.D. 1893-94.] Local Acts. 443
 
@@ -14896,7 +14890,7 @@ in reference to their own undertaking and the undertakings of other companies an
 
 ci. An Act to authorise the Local Board for the district of Pontypridd in the county of Glamorgan to purchase the undertaking of the Pontypridd Gaslight and Coke Company and for other purposes. (Pontypridd Local Board (Gas).)
 
-P. ciL An Act to confirm a Provisional Order of the Board of Agriculture relating to the Regulation of the Commons in the parish of West Tilbury in the county of Essex. (Commons Regulation (West TUbu'ry) Provisional Order Confirmation.)
+P. cii. An Act to confirm a Provisional Order of the Board of Agriculture relating to the Regulation of the Commons in the parish of West Tilbury in the county of Essex. (Commons Regulation (West TUbu'ry) Provisional Order Confirmation.)
 
 P. ciii. An Act to confirm certain Provisional Orders made by the Board of Trade under the General Pier and Harbour Act, 1861, relating to Criccieth, Morecambe, Teignmouth, Tenby, Torquay, and Weymouth. (Pier and Harbour Orders Confirmation (No. 1).)
 
@@ -14914,21 +14908,19 @@ P. cviii. An Act to confirm a Provisional Order of the Local Government Board re
 
 P. cix. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Urban Sanitary Districts of Bradford (Yorks), Brentford, Epsom, New Windsor, Stoke-upon-Trent, and Wigan, and to the Hertford and Ware Joint Hospital District. (Local Government Boards Provisional Orders Confirmation (No. 2).)
 
-P. cx. An Act to confirm a Provisional Order of the Local Government Board relating to the Urban Sanitary Districts of Aberystwith, Bognor, Bridlington, Clifton Dartmouth Hardness, Cockermouth, Kidderminster, Llanelly, Ormskirk, Sheerness, Skipton, Stroud, and Ware. (Local Government Boards Provisional Order Confirmation (No. 3)k)
-
-\J
-
-Tally of the Statutes.
+P. cx. An Act to confirm a Provisional Order of the Local Government Board relating to the Urban Sanitary Districts of Aberystwith, Bognor, Bridlington, Clifton Dartmouth Hardness, Cockermouth, Kidderminster, Llanelly, Ormskirk, Sheerness, Skipton, Stroud, and Ware. (Local Government Boards Provisional Order Confirmation (No. 3).)
 
 [50 & 57 Vict *
 
-p, CXJ* Ap, , Ack, to confirnjj a Provisional Order of the I^cal ^Government Board voider the Housing of the Working Classes Act, 1890, relating to the Urban Sanitary District of Plymouth. (Local Government Board's Provisional Order (Rowing of Working Classes).)
+P. cxi. An Act to confirm a Provisional Order of the I^cal ^Government Board voider the Housing of the Working Classes Act, 1890, relating to the Urban Sanitary District of Plymouth. (Local Government Board's Provisional Order (Rowing of Working Classes).)
 
-P. cayi. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, relating to the Cliassification of Merchandise Traffic, and the Schedule of Maximum Rates and Charges applicable thereto, of the Cranbrook and Paddock Wood Railway Company, the Glyn Valley Tramway Company, the Manchester Ship Canal Company, in respect of the Railways of the said Company, and the Stratford-upon-.Avon, .Towcester, and Midland Junction Railway Company. (Railway Rates ami Charges (Cranbrook and Paddock Wood Railway, &e.) Order *)
+P. cxii. An Act to confirm a Provisional Order made by the Board of Trade under the Railway and Canal Traffic Act, 1888, relating to the Cliassification of Merchandise Traffic, and the Schedule of Maximum Rates and Charges applicable thereto, of the Cranbrook and Paddock Wood Railway Company, the Glyn Valley Tramway Company, the Manchester Ship Canal Company, in respect of the Railways of the said Company, and the Stratford-upon-.Avon, .Towcester, and Midland Junction Railway Company. (Railway Rates ami Charges (Cranbrook and Paddock Wood Railway, &e.) Order *)
 
-P. cxiii. An Act to confirm a Provisional Ordor made by the Secretary for Scotland, under Part I. of the Housing ~6f the Working Classes Act, 1890, relating to the City and Royal Burgh of Edinburgh* (Edinburgh Improvement Scheme Provisional Order Confirmed P. cxiv. An Act to confirm certain Provisional Orders made by the Board of Trade under the Electric Lighting Acts, 1882 and 1888, relating to Altrinch.am and Bowdon, Barnet, Bridgend, and Taunton. (Electric Lighting Orders Confirmation (Jfo.4).) '
+P. cxiii. An Act to confirm a Provisional Ordor made by the Secretary for Scotland, under Part I. of the Housing of the Working Classes Act, 1890, relating to the City and Royal Burgh of Edinburgh* (Edinburgh Improvement Scheme Provisional Order Confirmed P.
 
-P. cxv. An Act to confirm curtain Provisional Orders of the Local Government Board relating to the Urban Sanitary Districts of Barnsley, Carlisle, . Chichester, Neath, Newark, Newbury, and Swansea. (Local Government Board's Provisional Orders Confirmation (No. 4).)
+cxiv. An Act to confirm certain Provisional Orders made by the Board of Trade under the Electric Lighting Acts, 1882 and 1888, relating to Altrinch.am and Bowdon, Barnet, Bridgend, and Taunton. (Electric Lighting Orders Confirmation (No. 4).)
+
+P. cxv. An Act to confirm curtain Provisional Orders of the Local Government Board relating to the Urban Sanitary Districts of Barnsley, Carlisle, Chichester, Neath, Newark, Newbury, and Swansea. (Local Government Board's Provisional Orders Confirmation (No. 4).)
 
 P. cxvi. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Epsom (Rural), Sutton, and Carshalton Joint Hospital District, and the Dewsbury Joint Hospital District. (Local Government Boards Provisional Orders Confirmation (No. 5).)
 
@@ -14940,19 +14932,17 @@ P. cxix. An Act to confirm certain Provisional Orders of the Local Government Bo
 
 Local
 
-445
-
-P. CZX. Ajn Act to confirm certain Provisional Orders of the Local Government Board relating to the Urban Sanitary Districts of Bury, Chard (two), Chorley (two), Darwen, and Leicester, and to the Port of Liverpool (Government Board's Provisioned Orders Confirmation (No. 11).)
+P. cxx. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Urban Sanitary Districts of Bury, Chard (two), Chorley (two), Darwen, and Leicester, and to the Port of Liverpool (Government Board's Provisioned Orders Confirmation (No. 11).)
 
 P. cxxi. An Act to confirm a Provisional Order made by the Local Government Board for Ireland under the Public Health (Ireland) Act, 1878, relating to the Town of Granard. (Local Government Board (Ireland) Provisional Order Confirmation (No. 3).)
 
-P. OXXII. An Act to confirm a Provisional Order made by the Local Government Board for Ireland under the Public Health (Ireland) Act, 1878, relating to the Town of Dungiven. (Local Government Board (Ireland) Provisional Order Confirmation (No. 5).)
+P. cxxii. An Act to confirm a Provisional Order made by the Local Government Board for Ireland under the Public Health (Ireland) Act, 1878, relating to the Town of Dungiven. (Local Government Board (Ireland) Provisional Order Confirmation (No. 5).)
 
 P. cxxiii. An Act to confirm certain Provisional Orders made by the Board of Trade under the Gas and Water Works Facilities Act, 1870, relating to Hoylake and West Kirby Water, Pocklington Water, Poole Water, and South-west Suburban Water. (Water Orders Confirmation (No. 1).)
 
 P. cxxiv. An Act to confirm a Provisional Order made by the Local Government Board for Ireland under the Public Health (Ireland) Act, 1878, relating to the Town of Carlow. (Local Government Board (Ireland) Provisional Order Confirmation (No. 4).)
 
-P. cxxv. An Act to confirm certain Provisional Orders made by the Board of Trade under the Gas and Water Works Facilities Act, 1870, relating to Maidenhead Water and Newington Water., . (Water Orders Confirmation (No. 2).)
+P. cxxv. An Act to confirm certain Provisional Orders made by the Board of Trade under the Gas and Water Works Facilities Act, 1870, relating to Maidenhead Water and Newington Water. (Water Orders Confirmation (No. 2).)
 
 P. cxxvi. An Act to confirm certain Provisional Orders made by the Education Department under the Elementary Education Act, 1870, to enable the School Boards for Chiswick, Haworth, and West Ham to put in force the Lands Clauses Consolidation Act, 1845, and the Acts amending the same. (Education Department provisional Orders Confirmation (Chiswick &c.).)
 
@@ -15066,7 +15056,7 @@ clxviii. An Act to authorise the Crystal Palace District Gas Company to raise ad
 
 clxix. An Act to enable the Trustees of the River Weaver Navigation to construct two opening bridges across their navigation at or near Northwich in the county of Chester and in connexion therewith to make certain new roads and to divert existing lines of water pipes and gas pipes and to lay down other lines of pipes in substitution for or in addition thereto to apply to those purposes the moneys they are authorised to borrow by former Acts and for other purposes. (Weaver Navigation.)
 
-Table of the Stat utes.
+Table of the Statutes.
 
 clxx. An Act to revive and further extend the time for the compulsory purchase of lands and to further extend the time for the completion of the Metropolitan Outer Circle Railway.
 
@@ -15172,8 +15162,6 @@ ccxii. An Act to extend the time for the completion of certain authorised Tramwa
 
 Table of the Statutes.
 
-156 & 67 Vict.
-
 ccxiii. An Act to revive the powers and extend the time for the compulsory purchase of Lands for and to extend the time for the completion of the Pier or Jetty Railway and Works authorised by the Brean Down Harbour and Railway Act
 
 1889. (Brean Down Harbour and Railway.)
@@ -15228,7 +15216,7 @@ PRINTED BY TOE QUEEN'S PRINTER,
 
 AND WHEREOF THE PRINTED COPIES MAT BE GIVEN IN EVIDENCE.
 
-/.AN Act to authorise the payment under certain conditions aj- of a Legacy bequeathed by Louisa Anne Ryland to the General Hospital Birmingham. Estate.)
+1. AN Act to authorise the payment under certain conditions aj- of a Legacy bequeathed by Louisa Anne Ryland to the General Hospital Birmingham. Estate.)
 
 PRIVATE ACTS.
 
