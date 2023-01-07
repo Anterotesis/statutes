@@ -4624,7 +4624,7 @@ J 1 125/. 150/. 0 15 0
 
 ” 2752. 3002. 3002. 1 10 0
 
-For every 50Z., and also for auy fractional part of 50/., of
+For every 50Z., and also for any fractional part of 50/., of
 
 such amount or value • -050
 
@@ -5184,7 +5184,7 @@ Provided that any such amendment shall not apply without his consent to any such
 
 (b.) Where it appears to the Ecclesiastical Commissioners that it is expedient to preserve any portion of any official house as being of historical and antiquarian interest, and that it would be unreasonable to impose the costs of preserving that portion on the occupant of the house, the Ecclesiastical Commissioners may, upon the application of the person for the time being entitled to occupy such official house, by an order in writing declare that the costs of preserving that portion may be defrayed, and the same may accordingly be defrayed, by the Dean and Chapter out of their fabric fund.
 
-(2.) The Ecclesiastical Commissioners may from time to time revoke and vary such order, but a person shall not be thereby made liable to any repairs from which he was exempted by virtue of auy order under this section which was in force at the time of his appointment.
+(2.) The Ecclesiastical Commissioners may from time to time revoke and vary such order, but a person shall not be thereby made liable to any repairs from which he was exempted by virtue of any order under this section which was in force at the time of his appointment.
 
 8. For the purposes of this Act —
 
@@ -7218,7 +7218,7 @@ Lloyd's Signal Stations Act, 1888. 51 & 52 Vict.
 
 power, or authority vested in or enjoyed or exerciseable by Her Majesty, Her heirs or successors, in right of Her said duchy.
 
-15. Nothing contained in this Act shall extend to authorise the Society to take, use, enter upon, or interfere with any land, soil, or water, or auy rights in respect thereof, belonging to Her Majesty, Her heirs or successors, in right of the Duchy of Cornwall without the consent in writing of some two or more of such of the regular officers of the said duchy or of such other persons as may be duly authorised under the provisions of the Duchy of Cornwall Management Act, 1863, section thirty-nine, to exercise all or any of the rights, powers, privileges, and authorities by the said Act made exerciseable or otherwise for the time being exerciseable in relation to the said duchy, or belonging to the Duke of Cornwall for the time being, without the consent of such Duke testified in writing under the seal of the Duchy of Cornwall first had and obtained for that purpose; or to take away, diminish, alter, prejudice, or affect any property, rights, profits, privileges, powers, or authorities vested in or enjoyed by Her Majesty, Her heirs or successors, in right of the Duchy of Cornwall, or in or by the Duke of Cornwall for the time being.
+15. Nothing contained in this Act shall extend to authorise the Society to take, use, enter upon, or interfere with any land, soil, or water, or any rights in respect thereof, belonging to Her Majesty, Her heirs or successors, in right of the Duchy of Cornwall without the consent in writing of some two or more of such of the regular officers of the said duchy or of such other persons as may be duly authorised under the provisions of the Duchy of Cornwall Management Act, 1863, section thirty-nine, to exercise all or any of the rights, powers, privileges, and authorities by the said Act made exerciseable or otherwise for the time being exerciseable in relation to the said duchy, or belonging to the Duke of Cornwall for the time being, without the consent of such Duke testified in writing under the seal of the Duchy of Cornwall first had and obtained for that purpose; or to take away, diminish, alter, prejudice, or affect any property, rights, profits, privileges, powers, or authorities vested in or enjoyed by Her Majesty, Her heirs or successors, in right of the Duchy of Cornwall, or in or by the Duke of Cornwall for the time being.
 
 16. Nothing in this Act shall authorise the Society to take, use, or in any manner interfere with any portion of the shore or bed of the sea, or of any river, channel, creek, bay, or estuary, or any right in respect thereof, belonging to the Queen's most Excellent Majesty in right of Her Crown, and under the management of the Board of Trade, without the previous consent in writing of the Board of Trade on behalf of Her Majesty (which consent the Board of Trade may give); neither shall anything in this Act contained extend to take away, prejudice, diminish, or alter any of the estates, rights, privileges, powers, or authorities vested in or enjoyed or exerciseable by the Queen’s Majesty, Her heirs or successors.
 
@@ -10762,13 +10762,13 @@ Part III. — Boundaries.
 
 (6.) The payment of any capital sum required to be paid for the purposes of the adjustment or of an agreement under this Act, or of any award or order made upon any arbitration under this Act, shall be a purpose for which a council may borrow under this Act, or in the case of a borough council, under the Municipal Corporations Act, 1882, or any local Act, and such sum may be borrowed on the security of all or any of the funds, rates, and revenues of the council, and either by the creation of stock or in any other manner in which they are for the time being authorised to borrow, and such sum may be borrowed without the consent of the Treasury or any other authority, so that it be repaid within such period as the Local Government Board may sanction, by such method as is mentioned in Part Four of this Act for paying off a loan, or, if the sum is raised by stock under a local Act, by such method as is directed by that Act.
 
-(7.) Any capital sum paid to any council for the purpose of any adjustment, or in pursuance of any order or award of an arbitrator under this Act shall be treated as capital, and applied, with the sanction of the Local Government Board, either in the repayment of debt or for auy other purpose for which capital money may be applied.
+(7.) Any capital sum paid to any council for the purpose of any adjustment, or in pursuance of any order or award of an arbitrator under this Act shall be treated as capital, and applied, with the sanction of the Local Government Board, either in the repayment of debt or for any other purpose for which capital money may be applied.
 
 63. Where the Local Government Board are required in pur- Arbitration by suance of this Act to decide any difference or other matter referred to arbitration in pursuance of this Act, the provisions of the Regu- 81 & 32 Vict. lation of Railways Act, 1868, respecting arbitrations by the Board c. 119. of Trade, and the enactments amending those provisions, shall apply as if they were herein re-enacted, and in terms made applicable to the Local Government Board and the decision of differences and matters under this Act.
 
 282 Ch. 41. Local Government, 1888. 51 & 52 VICT.
 
-Part IV, — Finance,
+Part IV. — Finance.
 
 PART IV.
 
@@ -10798,7 +10798,7 @@ Ch. 41.
 
 Local Government Act, 1888.
 
-Part IV, — Finance.
+Part IV. — Finance.
 
 (4.) This section shall apply, with the necessary modifications, to the administrative counties of Sussex and Suffolk.
 
@@ -10870,7 +10870,7 @@ Ch. 41.
 
 Local Government Act, 1888. 51 & 52 Vict.
 
-Pari IV, — Finance.
+Part IV. — Finance.
 
 Government Board, before giving their consent, shall take into consideration any representation made by any ratepayer or owner of property rated to the county fund.
 
@@ -10890,7 +10890,7 @@ Government Board, before giving their consent, shall take into consideration any
 
 1888. Local Government Act, 1888. Ch. 41 287
 
-Part IV, — Finance.
+Part IV. — Finance.
 
 (9.) Provided that where a county council have borrowed by means of stock they shall not borrow by way of mortgage except for a period not exceeding five years.
 
@@ -10952,7 +10952,7 @@ Ch. 41.
 
 1888. Local Government Act, 1888.
 
-Part IV, — Finance,
+Part IV. — Finance.
 
 whether on account of property, contributions, rates, loans, or otherwise.
 
@@ -11006,7 +11006,7 @@ man shall, so far as relates to the election of Any such councillor, be construe
 
 (11.) The hours of the poll shall be those fixed by the Elections (Hours of Poll) Act, 1885.
 
-(12.) Section eleven of the Municipal Corporations Act, 1882, with respect to the qualification of a county councillor by reason of his being entered in the separate non-resident list, shall include, for the purposes of this Act, all persons entered in such separate list in any municipal borough by reason of occupation of property in the borough, and all persons entered in such separate list for any-part of a county not in a municipal borough by reason of the occupation of property in that part.
+(12.) Section eleven of the Municipal Corporations Act, 1882, with respect to the qualification of a county councillor by reason of his being entered in the separate non-resident list, shall include, for the purposes of this Act, all persons entered in such separate list in any municipal borough by reason of occupation of property in the borough, and all persons entered in such separate list for any part of a county not in a municipal borough by reason of the occupation of property in that part.
 
 1888. Local Government Act, 1888. Ch. 41. 291
 
@@ -11110,21 +11110,23 @@ to any joint committee, shall, subject to the provisions of this Act, and so far
 
 294
 
-CH. 41.
+Ch. 41.
 
-Local Government Act, 1888, 51 & 52 Vieiv
+Local Government Act, 1888, 51 & 52 Vict.
 
-Fart V. — Supplemental.
+Part V. — Supplemental.
 
 and all the said enactments shall be construed with such modifications as may be necessary for carrying this Act into effect.
 
 (2.) Provided that the transfer of powers and duties enacted by this Act shall not authorise any county council or any committee or member thereof —
 
-(a.) to exercise any of the powers of a court of record; or (6.) to administer an oath; or
+(a.) to exercise any of the powers of a court of record; or
+
+(b.) to administer an oath; or
 
 (c.) to exercise any jurisdiction under the Summary Jurisdiction Acts, or perform any judicial business, or otherwise act as justices or a justice of the peace; but this enactment shall be without prejudice to the position of the chairman of the county council as justice of the peace during his term of office.
 
-(3.) Where under any such enactment as in this section mentioned, any powers, duties, or liabilities are to be exercised or discharged after any presentment or in any particular manner, or at any particular meeting, or subject to any other conditions, the county council may, by the standing ordeis for the regulation of their proceedings, provide for the exercise and discharge of those powers, duties, and liabilities without any such prior presentment or in a different manner, or at any meeting of the council fixed by the standing orders, or without such other conditions; and until such standing orders take effect shall exercise and discharge them in the like manner, and at the like time, and subject to the like conditions, so nearly as circumstances admit; and a presentment by a grand jury in relation to any such powers, duties, or liabilities, shall cease to be made otherwise than by way of indictment.
+(3.) Where under any such enactment as in this section mentioned, any powers, duties, or liabilities are to be exercised or discharged after any presentment or in any particular manner, or at any particular meeting, or subject to any other conditions, the county council may, by the standing orders for the regulation of their proceedings, provide for the exercise and discharge of those powers, duties, and liabilities without any such prior presentment or in a different manner, or at any meeting of the council fixed by the standing orders, or without such other conditions; and until such standing orders take effect shall exercise and discharge them in the like manner, and at the like time, and subject to the like conditions, so nearly as circumstances admit; and a presentment by a grand jury in relation to any such powers, duties, or liabilities, shall cease to be made otherwise than by way of indictment.
 
 (4.) For the purposes of this section the expression “authority , T means a Secretary of State, the Board of Trade, the Local Government Board, and any Government Department, also any commissioners, conservators, or public body, corporate or unincorporate, specified in a Provisional Order transferring any powers, duties, or liabilities to the county council, also any quarter sessions and any justices, also the Metropolitan Board of Works, or other local authority mentioned in this Act; and the expression “member of an authority ” includes, where the authority are quarter sessions or justices, any justice, and the expression “meeting of an authority ” includes a court of quarter sessions and the assembly of justices in special or petty sessions; and the expression “clerk of an authority ” includes in relation to any quarter sessions or justices, the clerk of the peace or the clerk to a justice as the case requires.
 
@@ -12376,7 +12378,7 @@ Charitable Uses.
 
 (2.) The assurance must be made to take effect in possession for the charitable uses to or for the benefit of which it is made immediately from the making thereof.
 
-(8.) The assurance must, except as provided by this section, be without auy power of revocation, reservation, condition, or provision for the benefit of the assuror or of any person claiming under him.
+(3.) The assurance must, except as provided by this section, be without any power of revocation, reservation, condition, or provision for the benefit of the assuror or of any person claiming under him.
 
 (4.) Provided that the assurance, or any instrument forming part of the same transaction, may contain all or any of the following provisions, so, however, that they reserve the same benefits to persons claiming under the assuror as to the assuror himself; namely,
 
@@ -19680,7 +19682,7 @@ Be it therefore enacted by the Queen's most Excellent Majesty, by and with the a
 
 2. Section two of the Newspaper Libel and Registration Act, 1881, is hereby repealed.
 
-3. A fair and accurate report in auy newspaper of proceedings publicly heard before any court exercising judicial authority shall, if published contemporaneously with such proceedings, be privileged:Provided that nothing in this section shall authorise the publication of any blasphemous or indecent matter.
+3. A fair and accurate report in any newspaper of proceedings publicly heard before any court exercising judicial authority shall, if published contemporaneously with such proceedings, be privileged:Provided that nothing in this section shall authorise the publication of any blasphemous or indecent matter.
 
 4. A fair and accurate report published in any newspaper of the proceedings of a public meeting, or (except wThere neither the public nor any newspaper reporter is admitted) of any meeting of a vestry, town council, school board, board of guardians, board or local authority formed or constituted under the provisions of any Act of Parliament, or of any committee appointed by any of the above-mentioned bodies, or of any meeting of any commissioners authorised to act by letters patent, Act of Parliament, warrant under the Royal Sign Manual, or other lawful warrant or authority, select committees of either House of Parliament, justices of the peace in quarter sessions assembled for administrative or deliberative purposes, and the publication at the request of any Government office or department, officer of state, commissioner of police, or chief constable of any notice or report issued by them for the information of the public, shall be privileged, unless it shall be proved that such report or publication was published or made maliciously: Provided that nothing in this section shall authorise the publication of any blasphemous or indecent matter: Provided also, that the protection intended to be afforded by this section shall not be available as a defence in any proceedings if it shall be proved that the defendant has been requested to insert in the newspaper in which the report or other publication complained of appeared a
 
@@ -19688,7 +19690,7 @@ Be it therefore enacted by the Queen's most Excellent Majesty, by and with the a
 
 reasonable letter or statement by way of contradiction or explanation of such report or other publication, and has refused or neglected to insert the same: Provided further, that nothing in this section contained shall be deemed or construed to limit or abridge any privilege now by law existing, or to protect the publication of any matter not of public concern and the publication of which is not for the public benefit.
 
-For the purposes of this section “ public meeting ” shall mean any meeting bona fide and lawfully held for a lawful purpose, and for the furtherance or discussion of any matter of public concern, whether the admission thereto be general or restricted.
+For the purposes of this section “public meeting” shall mean any meeting bona fide and lawfully held for a lawful purpose, and for the furtherance or discussion of any matter of public concern, whether the admission thereto be general or restricted.
 
 5. It shall be competent for a judge or the court, upon an Consolidation application by or on behalf of two or more defendants in actions of ftctions-in respect to the same, or substantially the same, libel brought by
 
@@ -20010,17 +20012,33 @@ xvii. An Act to confer further powers on the London Brighton and South Coast Rai
 
 xviii. An Act to amend the Buenos Ayres and Ensenada Port Railway Company’s Act 1884 and to make further provision with reference to the Company’s Capital and for other purposes.
 
-tit. An Act for making provision for an additional supply of Water to the City of Perth and the Suburbs thereof and for the acquisition of Lands for the storage of Gas in the said City and for other purposes. tt. An Act to amend the Clyde Navigation Acts, with respect to the Election of Trustees by Shipowners and Ratepayers; and for other purposes. yyi. An Act for amending the Act incorporating the Life Association of Scotland, and the Contract of Copartner, and Royal Charter of that Association; for enlarging their powers of investment; and for other purposes. jgrii. An Act to extend the Powers of the Holsworthy and Bude Railway Company for completion of their authorised railway and for other purposes. wwiii. An Act to confer further powers on the Corporation of Glasgow in relation to their Gas undertaking; their Municipal Buildings; the Barony Church; Cathkin Park; Bazaar and other Markets; and for other purposes, xxiv. An Act to enable the Barnstaple Water Company to construct additional Works and raise additional Capital; and for other purposes.
+xix. An Act for making provision for an additional supply of Water to the City of Perth and the Suburbs thereof and for the acquisition of Lands for the storage of Gas in the said City and for other purposes.
 
-xxv. An Act for the granting of further powers to the Folkestone Waterworks Company. ttvi. An Act to confer further powers upon the Brecon and Merthyr Tydfil Junction Railway Company.
+xx. An Act to amend the Clyde Navigation Acts, with respect to the Election of Trustees by Shipowners and Ratepayers; and for other purposes.
 
-xxvii. An Act to re-incorporate with further powers the Keswick Gaslight and Coke Company Limited, xxviii. An Act to extend the time for completing the Folkestone Sandgate and Hythe Tramways and for other purposes. ttit. An Act to empower the Lanarkshire and Ayrshire Railway Company to raise moneys by the issue of Debenture Stock and to enable the Caledonian Railway Company to make advances
+xxi. An Act for amending the Act incorporating the Life Association of Scotland, and the Contract of Copartner, and Royal Charter of that Association; for enlarging their powers of investment; and for other purposes.
+
+xxii. An Act to extend the Powers of the Holsworthy and Bude Railway Company for completion of their authorised railway and for other purposes.
+
+xxiii. An Act to confer further powers on the Corporation of Glasgow in relation to their Gas undertaking; their Municipal Buildings; the Barony Church; Cathkin Park; Bazaar and other Markets; and for other purposes.
+
+xxiv. An Act to enable the Barnstaple Water Company to construct additional Works and raise additional Capital; and for other purposes.
+
+xxv. An Act for the granting of further powers to the Folkestone Waterworks Company.
+
+xxvi. An Act to confer further powers upon the Brecon and Merthyr Tydfil Junction Railway Company.
+
+xxvii. An Act to re-incorporate with further powers the Keswick Gaslight and Coke Company Limited.
+
+xxviii. An Act to extend the time for completing the Folkestone Sandgate and Hythe Tramways and for other purposes.
+
+xxix. An Act to empower the Lanarkshire and Ayrshire Railway Company to raise moneys by the issue of Debenture Stock and to enable the Caledonian Railway Company to make advances
 
 1888. Local Acts, 555
 
 to the Company by way of Loan or otherwise and for other purposes.
 
-tyt. An Act to empower the Scarborough Bridlington and West Riding Junction Railways Company to abandon a portion of their authorised Railway No. 1 and to construct a new Railway instead thereof in the East Riding of the County of York; to extend the periods for the compulsory purchase of Lands for and for the completion of the remainder of their authorised Railways; to reduce the Capital of the Company, and for other purposes.
+xxx. An Act to empower the Scarborough Bridlington and West Riding Junction Railways Company to abandon a portion of their authorised Railway No. 1 and to construct a new Railway instead thereof in the East Riding of the County of York; to extend the periods for the compulsory purchase of Lands for and for the completion of the remainder of their authorised Railways; to reduce the Capital of the Company, and for other purposes.
 
 P. xxxi. An Act to confirm a Scheme under the Metropolitan Commons Act, 1866, and the Metropolitan Commons Amendment Act, 1869, relating to Farnborough Common, Broadstreet Green, Leach's Green and Green Street Green.
 
@@ -20054,7 +20072,13 @@ P. xli. An Act to confirm certain Orders under the provisions of the Divided Par
 
 P. xlii. An Act to confirm certain Orders of the Local Government Board under the provisions of the Divided Parishes and Poor Law Amendment Act, 1876, as amended and extended by the Poor Law Act, 1879, relating to the Townships of Foston, Hes-lerton West, Ideridgehay-and-Alton, Ireton Wood, Kirk Ireton, Scamston, Thornton-le-Clay, Thorp Bassett, and Yeddingham.
 
-P. xliii. An Act to confirm certain Orders of the Local Government Board under the provisions of the Divided Parishes and Poor Law Amendment Act, 1876, as amended and extended by the Poor Law Act, 1879, relating to the. Parishes of Bamston, Bowers Gifford, Corringham, Downham, Dunton, Fobbing, Great Bardfield, Great Dunmow, High Easter, High Roothing, Laindon (two), Langdon Hills, Lee Chapel, Little Bardfield, Little Warley, Nevendon, Pitsea, Ramsden Bell House, and Vange. xliv. An Act to authorise the Corporation of Halifax to make additional Waterworks and for other purposes, xlv. An Act to authorise the Southampton Tramways Company to construct additional tramways and for other purposes, xlvi. An Act for the division of the Parish of Barking into two distinct Parises for lay and civil purposes.
+P. xliii. An Act to confirm certain Orders of the Local Government Board under the provisions of the Divided Parishes and Poor Law Amendment Act, 1876, as amended and extended by the Poor Law Act, 1879, relating to the. Parishes of Bamston, Bowers Gifford, Corringham, Downham, Dunton, Fobbing, Great Bardfield, Great Dunmow, High Easter, High Roothing, Laindon (two), Langdon Hills, Lee Chapel, Little Bardfield, Little Warley, Nevendon, Pitsea, Ramsden Bell House, and Vange.
+
+xliv. An Act to authorise the Corporation of Halifax to make additional Waterworks and for other purposes.
+
+xlv. An Act to authorise the Southampton Tramways Company to construct additional tramways and for other purposes.
+
+xlvi. An Act for the division of the Parish of Barking into two distinct Parises for lay and civil purposes.
 
 xlvii. An Act to enable the Forth Bridge Railway Company to raise additional Capital and for other purposes.
 
@@ -20066,9 +20090,21 @@ P. 1. An Act to confirm a Scheme under the Metropolitan Commons Act, 1806, and t
 
 1888. Local Acts. 557
 
-P. li. An Act to confirm a Provisional Order under the Public Health (Scotland) Act, 1867, relating to Denny and Dunipace Water, lii. An Act to enable James Lewis & Son’s Liverpool Copper Wharf Company Limited to issue transferable certificates and warrants for the delivery of goods and for other purposes. liii. An Act for conferring further Powers on the Plymouth and Dartmoor Railway Company for the construction of a new railway to Modbury and otherwise in relation to their Undertaking; and for other purposes, liv. An Act to revive and extend the powers of the Porthdinlleyn Railway Company for the acquisition of lands for and the completion of their authorised Railway and for other purposes, lv. An Act to confer further powers on the London Chatham and Dover Railway Company and for other purposes.
+P. li. An Act to confirm a Provisional Order under the Public Health (Scotland) Act, 1867, relating to Denny and Dunipace Water.
 
-P. lvi. An Act to confirm a Provisional Order made by one of Her Majesty’s Principal Secretaries of State under the Metropolitan Police Act, 1886, relating to lands in the Parishes of St. Mary, Newington (Surrey), St. Pancras (Middlesex), St. Dunstan, Stepney (Middlesex), St. Mary Abbotts, Kensington (Middlesex), and Elstree (Hertford), lvii. An Act to authorise the purchase of additional land for the tunnel authorised by the Thames Tunnel (Blackwall) Act 1887 and for other purposes, lviii. An Act for supplying the borough of Helston the parish of Sithney and the town of Porthleven and neighbourhood with water.
+lii. An Act to enable James Lewis & Son’s Liverpool Copper Wharf Company Limited to issue transferable certificates and warrants for the delivery of goods and for other purposes.
+
+liii. An Act for conferring further Powers on the Plymouth and Dartmoor Railway Company for the construction of a new railway to Modbury and otherwise in relation to their Undertaking; and for other purposes.
+
+liv. An Act to revive and extend the powers of the Porthdinlleyn Railway Company for the acquisition of lands for and the completion of their authorised Railway and for other purposes.
+
+lv. An Act to confer further powers on the London Chatham and Dover Railway Company and for other purposes.
+
+P. lvi. An Act to confirm a Provisional Order made by one of Her Majesty’s Principal Secretaries of State under the Metropolitan Police Act, 1886, relating to lands in the Parishes of St. Mary, Newington (Surrey), St. Pancras (Middlesex), St. Dunstan, Stepney (Middlesex), St. Mary Abbotts, Kensington (Middlesex), and Elstree (Hertford).
+
+lvii. An Act to authorise the purchase of additional land for the tunnel authorised by the Thames Tunnel (Blackwall) Act 1887 and for other purposes.
+
+lviii. An Act for supplying the borough of Helston the parish of Sithney and the town of Porthleven and neighbourhood with water.
 
 lix. An Act to incorporate the Riddings District Gas Company to confer powers on them with reference to the acquisition construction and maintenance of works the supply of Gas and for other purposes.
 
@@ -20080,37 +20116,55 @@ P. lxii. An Act to confirm certain Provisional Orders of the Local Government Bo
 
 P. lxiii. An Act to confirm certain Orders of the Local Government Board under the provisions of the Divided Parishes and Poor Law Amendment Act, 1876, as amended ^and extended by the Poor Law Act, 1879, relating to the Parishes of Aldham, Barford-Saint-Michael, Birch, Chappel, Copford, Deddington, East Dony-land, Eastho’rpe, Fingringhoe, Fordham, Freyerning, Great Tey, Great Wigborough, Ingatestone, Inworth, Layer-Breton, Layer-de-la-Hay, Laver-Marney, Little Horksley, Little Tey, Little Wigborough, Marks Tey, Messing, Mount Bures, Peldon, Virley, Wakes Colne, West Bergholt, and Wormingford.
 
-558
-
-51 & 52 Vict.
-
 Table of the Statutes.
 
-P. lxiv. An Act to confirm certain Provisional Orders made by the Board of Trade under the Tramways Act, 1870, relating to Barrow-in-Furness Tramways, Birmingham and Western Districts Tramways, Bradford Corporation Tramways, Leeds Corporation Tramways, Newbury and Lamborne Tramway, Pontypridd and Rhondda Valley Tramways, and Stratford, Ilford, and Romford Tramways, lxv. An Act to enable the Eastern and Midlands Railway Company to make new Railways in the counties of Lincoln and Rutland and for other purposes, lxvi. An Act to enable the Eastern and Midlands Railway Company to abandon certain authorised railways and works to make a new railway and works and for other purposes.
+P. lxiv. An Act to confirm certain Provisional Orders made by the Board of Trade under the Tramways Act, 1870, relating to Barrow-in-Furness Tramways, Birmingham and Western Districts Tramways, Bradford Corporation Tramways, Leeds Corporation Tramways, Newbury and Lamborne Tramway, Pontypridd and Rhondda Valley Tramways, and Stratford, Ilford, and Romford Tramways.
 
-lxvii. An Act to extend the time limited for the completion of the Docks and Works of and to confer further powers upon the Milford Docks Company and for other purposes, lxviii. An Act to extend the times respectively limited for the compulsory purchase of Lands for and for the completion of the works authorised by the London and Black wall Railway Act 1885 and to authorise the raising of additional capital; and for other purposes.
+lxv. An Act to enable the Eastern and Midlands Railway Company to make new Railways in the counties of Lincoln and Rutland and for other purposes.
 
-lyix. An Act to amend the London (City) Tithes (St. Botolph Without Aldgate) Act 1881, and to confer upon the Churchwardens and Tithe Owner respectively additional powers, rights, and privileges; and for other purposes, lxx. An Act for authorising the Hamilton Waterworks Commissioners to make and maintain additional Waterworks and for other purposes.
+lxvi. An Act to enable the Eastern and Midlands Railway Company to abandon certain authorised railways and works to make a new railway and works and for other purposes.
+
+lxvii. An Act to extend the time limited for the completion of the Docks and Works of and to confer further powers upon the Milford Docks Company and for other purposes.
+
+lxviii. An Act to extend the times respectively limited for the compulsory purchase of Lands for and for the completion of the works authorised by the London and Blackwall Railway Act 1885 and to authorise the raising of additional capital; and for other purposes.
+
+lxix. An Act to amend the London (City) Tithes (St. Botolph Without Aldgate) Act 1881, and to confer upon the Churchwardens and Tithe Owner respectively additional powers, rights, and privileges; and for other purposes.
+
+lxx. An Act for authorising the Hamilton Waterworks Commissioners to make and maintain additional Waterworks and for other purposes.
 
 lxxi. An Act for empowering the Midland Great Western Railway of Ireland Company to acquire the Undertakings of the Dublin and Meath Railway Company and of the Navan and Kingscourt Railway Company; and for other purposes.
 
 P. lxxii. An Act to confirm certain Provisional Orders of the Local Government Board under the Highways and Locomotives (Amendment) Act, 1878, relating to the Counties of Durham, Hertford, and Westmorland.
 
-P. lxxiii. An Act to confirm an Order of the Local Government Board under the provisions of the Public Health Act, 1875, as amended by the Public Health (Ships, dec.) Act, 1885, relating to the Port of Dartmouth, lxxiv. An Act to authorise the Hinckley Local Board to construct Waterworks for the supply of Water to their district and to parishes near thereto and for other purposes, lxxv. An Act for incorporating and conferring powers on the Henley-on-Thames Gas Company, lxxvi. An Act to amend the Acts relating to the supply of Water by the Stockton and Middlesbrough Water Board and to confer further powers on the said Board and for other purposes, lxxvii. An Act for conferring further powers on the Wrexham Mold and Connah's Quay Railway Company; and for other purposes.
+P. lxxiii. An Act to confirm an Order of the Local Government Board under the provisions of the Public Health Act, 1875, as amended by the Public Health (Ships, dec.) Act, 1885, relating to the Port of Dartmouth.
 
-1888.
+lxxiv. An Act to authorise the Hinckley Local Board to construct Waterworks for the supply of Water to their district and to parishes near thereto and for other purposes.
 
-559
+lxxv. An Act for incorporating and conferring powers on the Henley-on-Thames Gas Company, lxxvi. An Act to amend the Acts relating to the supply of Water by the Stockton and Middlesbrough Water Board and to confer further powers on the said Board and for other purposes.
+
+lxxvii. An Act for conferring further powers on the Wrexham Mold and Connah's Quay Railway Company; and for other purposes.
 
 Local Acts.
 
-lxxviii. An Act to authorise the London Street Tramways Company to construct additional Tramways and for other purposes. lxTrix. An Act to empower the Belfast Street Tramways Company to construct additional Tramways to raise further Money and for other purposes.
+lxxviii. An Act to authorise the London Street Tramways Company to construct additional Tramways and for other purposes.
 
-Imrir. An Act to confer further powers on the Manchester Sheffield and Lincolnshire Railway Company in connection with their undertaking and for other purposes, lxxxi. An Act to enable the Trustees of the Leeds White Cloth Hall to sell the same and to regulate the application of the purchase moneys:and for other purposes, lxxxii. An Act to authorise the Mayor Aldermen and Burgesses of the borough of Newport in the county of Monmouth to purchase the undertaking of the Newport Waterworks Company and for other purposes.
+lxxix. An Act to empower the Belfast Street Tramways Company to construct additional Tramways to raise further Money and for other purposes.
 
-lxxxiii. An Act for conferring further powers upon the Southeastern Railway Company and for other purposes, lxxxiv. An Act for incorporating the Uckfield Water Company and conferring powers on them for the construction of works the supply of Water and for other purposes.
+lxxx. An Act to confer further powers on the Manchester Sheffield and Lincolnshire Railway Company in connection with their undertaking and for other purposes.
 
-1XXXV. An Act for incorporating the South Lincolnshire Fen Water Company and empowering them to construct Works and supply Water and for other purposes. lXXXVI. An Act for conferring further powers on the Wirral Railway Company and for other purposes, lxxxvii. An Act to authorize the Cork and Bandon Railway Company to construct a Deviation Railway in substitution for a portion of their existing Railway; to raise further Capital by Debenture Stock; to consolidate their Preference Stocks; and for other purposes.
+lxxxi. An Act to enable the Trustees of the Leeds White Cloth Hall to sell the same and to regulate the application of the purchase moneys:and for other purposes.
+
+lxxxii. An Act to authorise the Mayor Aldermen and Burgesses of the borough of Newport in the county of Monmouth to purchase the undertaking of the Newport Waterworks Company and for other purposes.
+
+lxxxiii. An Act for conferring further powers upon the Southeastern Railway Company and for other purposes.
+
+lxxxiv. An Act for incorporating the Uckfield Water Company and conferring powers on them for the construction of works the supply of Water and for other purposes.
+
+lxxxv. An Act for incorporating the South Lincolnshire Fen Water Company and empowering them to construct Works and supply Water and for other purposes.
+
+lxxxvi. An Act for conferring further powers on the Wirral Railway Company and for other purposes.
+
+lxxxvii. An Act to authorize the Cork and Bandon Railway Company to construct a Deviation Railway in substitution for a portion of their existing Railway; to raise further Capital by Debenture Stock; to consolidate their Preference Stocks; and for other purposes.
 
 P. lxxxviii. An Act to confirm a Provisional Order of the Local Government Board for Ireland relating to the providing of a Market Place for Vegetables and Fish, by the Urban Sanitary Authority of the City of Dublin.
 
@@ -20118,13 +20172,11 @@ P. Iyttit. An Act to confirm certain Provisional Orders of the Local Government 
 
 xc. An Act to empower the Owner of the Aberpergwm Estate in the county of Glamorgan to construct Bridges across the Neath Canal and for other purposes.
 
-xci. An Act to revive and extend the time for the compulsory Purchase of Lands for and completion of the Railways authorised by the Seafield Dock and Railway Act 1883 and to alter the provisions of that Act relating to capital to change the name of the Seafield Dock and Railway Company and for other purposes, xcii. An Act for making Lifts between Lynmouth and Lynton in the county of Devon and for other purposes.
+xci. An Act to revive and extend the time for the compulsory Purchase of Lands for and completion of the Railways authorised by the Seafield Dock and Railway Act 1883 and to alter the provisions of that Act relating to capital to change the name of the Seafield Dock and Railway Company and for other purposes.
+
+xcii. An Act for making Lifts between Lynmouth and Lynton in the county of Devon and for other purposes.
 
 xciii. An Act to authorise the North British Railway Company to construct a Railway in the City of Glasgow from the College Station of the Company to Bridgeton Cross; and for other proposes.
-
-560
-
-51 & 52 Vict
 
 Table of the Statutes.
 
@@ -20140,7 +20192,7 @@ xcviii. An Act to empower the Corporation of Lincoln to create and issue Consoli
 
 xcix. An Act to authorise the Aberdeen District Tramways Company to construct additional Tramways; to amend the Aberdeen District Tramways Act, 1872, and the Aberdeen District Tramways Extension Act, 1878; and for other purposes.
 
-C. An Act for dissolving the Frodsham Gas Company, Limited, and for re-incorporating the Members thereof with others, and conferring powers on them for the supply of Gas and Water to the town of Frodsham and neighbourhood; and for other purposes.
+c. An Act for dissolving the Frodsham Gas Company, Limited, and for re-incorporating the Members thereof with others, and conferring powers on them for the supply of Gas and Water to the town of Frodsham and neighbourhood; and for other purposes.
 
 P. ci. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Borough of Brighton and Town of Hove, the Darenth Valley Main Sewerage District, and the Local Government Districts of East Bamet Valley, Friera Barnet, and Herne Bay.
 
@@ -20156,7 +20208,9 @@ cvi. An Act for dissolving the Limpsfield and Oxted Water Company (Limited) for 
 
 1888. Local Act561
 
-others and for conferring powers on the Company so to be incorporated and for other purposes, cvii. An Act to provide for the Administration and Government of the Hospital of Saint Mary the Virgin and of the Free Grammar and other Foundation Schools in Newcastle-upon-Tyne and for extending the objects of those charities.
+others and for conferring powers on the Company so to be incorporated and for other purposes.
+
+cvii. An Act to provide for the Administration and Government of the Hospital of Saint Mary the Virgin and of the Free Grammar and other Foundation Schools in Newcastle-upon-Tyne and for extending the objects of those charities.
 
 P. cviii. An Act to confirm certain Provisional Orders made by the Board of Trade under the Gas and Water Works Facilities Act, 1870, relating to Mansfield Water, Mid-Sussex Water, Wimborne Minster Water, and Worksop Water.
 
@@ -20166,15 +20220,21 @@ cx. An Act to incorporate a Company for the purpose of taking over and exercisin
 
 cxi. An Act to enable the Manchester Ship Canal Company to acquire additional Lands; and for other purposes.
 
-cxii. An Act to extend the powers of the Latimer Road and Acton Railway Company, cxiii. An Act to authorise the Trustees of the Port and Harbours of Greenock to make arrangements with reference to the financial affairs of the Trust; and for other purposes, cxiv. An Act for conferring upon the Bute Docks Company additional powers In connexion with their docks and works at Cardiff for amending the Bute Docks Acts and for other purposes.
+cxii. An Act to extend the powers of the Latimer Road and Acton Railway Company.
 
-cxv. An Act to extend and enlarge the powers of the Liverpool and Birkenhead Subway Company, cxvi. An Act to incorporate a public Trust for better supplying with Water the Burgh of Falkirk, and districts and places adjacent; and to make and maintain new and additional Waterworks; and for other purposes, cxvii. An Act to authorise the Repeal of Rates and Duties now levied in the Port of Limerick and to authorise other Harbour Rates to be levied in lieu thereof and to authorise the Limerick Harbour Commissioners to borrow Money on the security of the said Rates and for other purposes.
+cxiii. An Act to authorise the Trustees of the Port and Harbours of Greenock to make arrangements with reference to the financial affairs of the Trust; and for other purposes.
+
+cxiv. An Act for conferring upon the Bute Docks Company additional powers In connexion with their docks and works at Cardiff for amending the Bute Docks Acts and for other purposes.
+
+cxv. An Act to extend and enlarge the powers of the Liverpool and Birkenhead Subway Company.
+
+cxvi. An Act to incorporate a public Trust for better supplying with Water the Burgh of Falkirk, and districts and places adjacent; and to make and maintain new and additional Waterworks; and for other purposes.
+
+cxvii. An Act to authorise the Repeal of Rates and Duties now levied in the Port of Limerick and to authorise other Harbour Rates to be levied in lieu thereof and to authorise the Limerick Harbour Commissioners to borrow Money on the security of the said Rates and for other purposes.
 
 cxviii. An Act to confer additional Powers upon the Midland Railway Company for the construction of Works and the acquisition of Lands for raising further Capital for vesting in that Company the powers of the Dore and Chinley Railway Company and for extending the time for the acquisition of Lands for and the construction of the Dore and Chinley Railway and for other purposes.
 
-P. cxix. An Act to confirm certain Provisional Orders made by the Board of Trade under “The General Pier and Harbour Act, 1861, ” relating to Broadford, Clevedon, Cromer, Curran, Hopeman, Mill Point, Saint Ives, and Southbourne.
-
-51 & 52 Vict.
+P. cxix. An Act to confirm certain Provisional Orders made by the Board of Trade under “The General Pier and Harbour Act, 1861,” relating to Broadford, Clevedon, Cromer, Curran, Hopeman, Mill Point, Saint Ives, and Southbourne.
 
 562 Table of the Statutes.
 
@@ -20184,9 +20244,9 @@ P. cxxi. An Act to confirm certain Provisional Orders of the Local Government Bo
 
 P. cxxii. An Act to confirm certain Provisional Orders made by the Board of Trade under the Tramways Act, 1870, relating to Keighley Tramways, North Metropolitan Tramways, and South Birmingham Tramways.
 
-P. CXXiii. An Act to confirm a Provisional Order made by the Education Department under the Elementary Education Act, 1870, to enable the School Board for Birmingham to put in force the Lands Clauses Consolidation Act, 1845, and the Acts amending the same.
+P. cxxiii. An Act to confirm a Provisional Order made by the Education Department under the Elementary Education Act, 1870, to enable the School Board for Birmingham to put in force the Lands Clauses Consolidation Act, 1845, and the Acts amending the same.
 
-P. CXXiv. An Act to confirm certain Provisional Orders of the Local Government Board for Ireland relating to Ballymoney, Clones, and Tuam.
+P. cxxiv. An Act to confirm certain Provisional Orders of the Local Government Board for Ireland relating to Ballymoney, Clones, and Tuam.
 
 P. cxxv. An Act to confirm certain Provisional Orders made by the Board of Trade under the Gas and Water Works Facilities Act, 1870, relating to Chigwell, Loughton, and Woodford Gas, Great Berkhampstead Gas, Hatfield Gas, Snodland Gas, and Swansea Gas.
 
@@ -20200,7 +20260,7 @@ cxxix. An Act to incorporate and authorise Commissioners to supply with Gas the 
 
 cxxx. An Act to extend the time for the compulsory purchase of Lands for and for the completion of the Railways of the East and West Yorkshire Union Railways Company and for other purposes.
 
-P. CXXXI. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Boroughs of Bolton, Heywood,
+P. cxxxi. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Boroughs of Bolton, Heywood,
 
 1888. Local Acts. 568
 
@@ -20234,29 +20294,39 @@ cxliv. An Act to authorise the London Tramways Company (Limited) to extend their
 
 cxlv. An Act to authorise the Manchester Sheffield and Lincolnshire Railway Company to make new railways to confer further powers on the Company in connection with their undertaking and for other purposes.
 
-Nn 2
-
-51 & 52VICT.
-
 564 Table of the Stat utes.
 
 cxlvi. An Act to confer further powers upon the Local Board for the district of Nelson in the county of Lancaster with respect to their waterworks and gasworks undertakings and works for sewage disposal and for preventing the spread of infectious diseases; and for other purposes.
 
-cxlvii. An Act to confer further powers on the Didcot Newbury and Southampton Railway Company and for other purposes, cxlviii. An Act to authorise the construction of new and widening of existing Streets and the taking of Lands in the parish of Saint Mary Abbotts Kensington in the county of Middlesex and for other purposes.
+cxlvii. An Act to confer further powers on the Didcot Newbury and Southampton Railway Company and for other purposes.
+
+cxlviii. An Act to authorise the construction of new and widening of existing Streets and the taking of Lands in the parish of Saint Mary Abbotts Kensington in the county of Middlesex and for other purposes.
 
 cxlix. An Act to authorise the Bristol Port Railway and Pier Company to raise further money by Debenture Stock.
 
-cl. An Act to extend the time for the compulsory purchase of Lands and for completing the Manchester Middleton and District Tramways and for other purposes, cli. An Act to amend the Hampstead Heath Enlargement Act 1886. clii. An Act to provide for the pulling down of the Chapel of Saint John the Baptist in Epping and building a new Church and constituting such new Church the Parish Church of Epping in lieu of the existing Parish Church; and for other purposes, cliii. An Act for the granting of further powers to the Bristol Waterworks Company; and for other purposes.
+cl. An Act to extend the time for the compulsory purchase of Lands and for completing the Manchester Middleton and District Tramways and for other purposes.
+
+cli. An Act to amend the Hampstead Heath Enlargement Act 1886.
+
+clii. An Act to provide for the pulling down of the Chapel of Saint John the Baptist in Epping and building a new Church and constituting such new Church the Parish Church of Epping in lieu of the existing Parish Church; and for other purposes.
+
+cliii. An Act for the granting of further powers to the Bristol Waterworks Company; and for other purposes.
 
 cliv. An Act to empower the Hexham Local Board to make Waterworks and supply Water and for other purposes.
 
-civ. An Act to extend the Boundaries of the Borough of Lancaster to confer further powers upon the Corporation of Lancaster with respect to their Gas and Water Undertakings and with respect to Street Improvements to make further provision for the good Government of the Borough and for other purposes.
+clv. An Act to extend the Boundaries of the Borough of Lancaster to confer further powers upon the Corporation of Lancaster with respect to their Gas and Water Undertakings and with respect to Street Improvements to make further provision for the good Government of the Borough and for other purposes.
 
 clvi. An Act to confer powers on the Metropolitan Board of Works with respect to the improvement of Streets and Bridges the providing and extending of Recreation Grounds and for other purposes.
 
-clvii. An Act to extend the limits within which the Staffordshire Potteries Waterworks Company may supply Water and to empower them to construct additional Works to raise additional Capital and for other purposes, clviii. An Act to confer further powers on the London Tilbury and Southend Railway Company.
+clvii. An Act to extend the limits within which the Staffordshire Potteries Waterworks Company may supply Water and to empower them to construct additional Works to raise additional Capital and for other purposes.
 
-P. clix. An Act to confirm a Provisional Order for the Regulation of Therfield Heath and Greens, situated in the parish of Therfield, in the county of Hertford, in pursuance of a report from the Land Commissioners for England, clx. An Act to extend the time for the compulsory purchase of Lands and for completing the Worcester and Broom Railway, clxi. An Act to alter certain works authorised by the Manchester Ship Canal Act 1885; and to alter the Boundaries between the Townships of Stretford and Salford and the Borough of Salford and the District of the Local Board of Stretford; and for other purposes.
+clviii. An Act to confer further powers on the London Tilbury and Southend Railway Company.
+
+P. clix. An Act to confirm a Provisional Order for the Regulation of Therfield Heath and Greens, situated in the parish of Therfield, in the county of Hertford, in pursuance of a report from the Land Commissioners for England.
+
+clx. An Act to extend the time for the compulsory purchase of Lands and for completing the Worcester and Broom Railway.
+
+clxi. An Act to alter certain works authorised by the Manchester Ship Canal Act 1885; and to alter the Boundaries between the Townships of Stretford and Salford and the Borough of Salford and the District of the Local Board of Stretford; and for other purposes.
 
 1888. Local Acts. 565
 
@@ -20288,8 +20358,6 @@ clxxiv. An Act to authorise the acquisition of a House and Grounds known as Rale
 
 clxxv. An Act for enabling the Local Board of Health for the district of the borough of Llanelly to sell certain estates vested in them as trustees to appropriate for public purposes the sites of certain institutions vested in them as trustees on reinstating such institutions elsewhere and for altering the periods for the repayment of certain borrowed moneys making better provision for the health and government of the district; and for other purposes.
 
-51 & 52 Vict,
-
 566 Table of the Statutes.
 
 clxxvi. An Act for conferring further powers upon the London and North-western Railway Company in relation to their own undertaking and other undertakings in which they are interested jointly with other Companies and also for conferring powers upon the Great Western Railway Company the Midland Railway Company and other Railway Companies in relation to such other undertakings for dissolving the North Union Railway Company and the Preston and Wyre Railway Harbour and Dock Company and for appointing a joint committee of the Company and the Lancashire and Yorkshire Railway Company and for other purposes.
@@ -20298,9 +20366,9 @@ clxxvii. An Act to authorise the Rhymney Railway Company to make new Railways to
 
 clxxviii. An Act to authorise the acquisition of the Lawn and Carroun House, Lambeth, and its utilization for public purposes.
 
-clxxix. An Act to authorise the Corporation of the Borough of West Ham to construct certain Improvements and other works and to make provision for the transfer to such Corporation of the jurisdiction within the said borough of the Commissioners of Sewers for Havering Dagenham and other levels and for the good government of the borough to enable the said Corporation to boiTow money and for other purposes.
-
-clxxx. An Act to confer further Powers on the Plymouth Devon-port and South Western Junction Railway Company.
+clxxix. An Act to authorise the Corporation of the Borough of West Ham to construct certain Improvements and other works and to make provision for the transfer to such Corporation of the jurisdiction within the said borough of the Commissioners of Sewers for Havering Dagenham and other levels and for the good government of the borough to enable the said Corporation to borrow money and for other purposes.
+---
+clxxx. An Act to confer further Powers on the Plymouth Devonport and South Western Junction Railway Company.
 
 clxxxi. An Act to revive the powers and extend the periods for the compulsory purchase of Lands and for the construction of the Railway authorised by the Henley-in-Arden and Great Western Junction Railway Act 1873 and the Henley-in-Arden and Great Western Junction Railway (Revival of Powers) Act 1884 and for other purposes.
 
@@ -20316,15 +20384,13 @@ clxxxvi. An Act for making Tramways in the parishes of Lewisham and Greenwich, i
 
 clxxxvii. An Act to divide the District of the Local Board of Health of Tottenham in the County of Middlesex and for other purposes.
 
-1888. Local Acts. 567
-
 clxxxviii. An Act for authorising the Cheadle Railway Mineral and Land Company Limited to construct a Railway in the Parishes of Draycott-in-the-Moors and Cheadle in the County of Stafford; and for other purposes.
 
 clxxxix. An Act for incorporating the Chesham Boxmoor and Hemel Hempsted Steam Tramways Company and empowering them to construct tramways; and for other purposes.
 
 cxc. An Act to revive and extend the powers for the compulsory purchase of Lands granted by the Medina Subway Act 1884 for the purposes of the subway authorised by that Act.
 
-cxci. An Act for making a Railway to be called “ the Colling-bourne and Avon Valley Railway, ” and for other purposes.
+cxci. An Act for making a Railway to be called “the Colling-bourne and Avon Valley Railway,” and for other purposes.
 
 cxcii. An Act to incorporate the Shropshire Railways Company to empower them to acquire the Potteries Shrewsbury and North Wales Railway and to construct further railways and for other purposes.
 
@@ -20346,12 +20412,6 @@ cc. An Act for the abandonment of the Rotherham and Bawtry Railway.
 
 cci. An Act for conferring further powers upon the Great Western Railway Company in connexion with their own and other undertakings and upon them and other companies in connexion with undertakings in which they are jointly interested for vesting in the Great Western Railway Company the undertakings of the Leominster and Bromyard and the Worcester Bromyard and Leominster Railway Companies and the powers of the Kingsbridge and Salcombe Railway Company and for authorising and confirming agreements with other Railway Companies and for other purposes.
 
-568
-
-51 & 52 Vict.
-
-Table of the Statutes.
-
 ccii. An Act to incorporate a company for the construction of Railways between Southall and Edgware in the county of Middlesex to be called the Great Western and Great Northern Junction Railway; and for other purposes.
 
 PRIVATE ACT,
@@ -20360,19 +20420,13 @@ PRINTED BY THE QUEEN’S PRINTER,
 
 AND WHEREOF THE PRINTED COPIES MAY BE GIVEN IN EVIDENCE.
 
-1. AN Act to authorise the raising of a sum of Money on the -aA- Settle Estates of the Earl of Winchilsea and Nottingham and for other purposes relating thereto.
+1. AN Act to authorise the raising of a sum of Money on the Settle Estates of the Earl of Winchilsea and Nottingham and for other purposes relating thereto.
 
 PRIVATE ACT,
 
 NOT PRINTED.
 
 AN Act to dissolve the Marriage of Richard Watson Joynt of Ballina in the County of Mayo Ireland newspaper proprietor with Charlotte Barker Joynt his now wife and to enable him to marry again and for other purposes.
-
-569
-
-A LIST OF THE LOCAL AND PRIVATE ACTS, (51 & 52 Vict., 1888,)
-
-ARRANGED IN CLASSES.
 
 [List of Acts in classes removed.]
 
@@ -20384,14 +20438,14 @@ SHOWING
 
 THE EFFECT OF THE YEAR’S LEGISLATION.
 
-Table A. — Acts of 51 & 52 Vict, fin order of Chapter), showing their effect on fomier Acts.
+Table A. — Acts of 51 & 52 Vict, (in order of Chapter), showing their effect on former Acts.
 
 Table B. — Acts of former Sessions (in chronological order) Repealed and Amended by Acts of 51 & 52 Vict.
 
 (A.)
 
 Acts of 51 & 52 Vict, (in order of Chapter), showing their effect on former Acts.
-
+---
 Ch.
 
 1. Consolidated Fund (No. 1) (11, 810, 502/. 7*. 4d.) fu.K.'1
