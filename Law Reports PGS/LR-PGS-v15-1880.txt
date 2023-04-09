@@ -1012,11 +1012,11 @@ Provided that, whenever any such payment is made at more frequent intervals than
 
 Any person who makes a declaration for the purpose of this section, knowing the same to be untrue in any material particular, shall be guilty of a misdemeanor.
 
+[Short title of Act.]
+
 6. This Act may be cited for all purposes as the Appropriation Act, 1880.
 
 Declaration required in certain cases before receipt of sums appropriated.
-
-Short title of Act.
 
 ABSTRACT
 
@@ -1476,7 +1476,9 @@ No.
 
 (16. Sect. 1. For military pensions and allowances -
 
-16. Sect. 11. For civil pensions and allowances -17. For freight of ships, for the victualling and conveyance of troops, on account of the army department -
+16. Sect. 11. For civil pensions and allowances -
+
+17. For freight of ships, for the victualling and conveyance of troops, on account of the army department -
 
 On account -On account -On account -On account -
 
@@ -1512,9 +1514,7 @@ Schedule of Sums granted to defray the charges of the Abmy Services herein parti
 
 No.
 
-1. For the general staff and regimental pay, allowances, and charges of Her Majesty's
-
-land forces at home and abroad, exclusive of charges on India
+1. For the general staff and regimental pay, allowances, and charges of Her Majesty's land forces at home and abroad, exclusive of charges on India
 
 2. For divine service -
 

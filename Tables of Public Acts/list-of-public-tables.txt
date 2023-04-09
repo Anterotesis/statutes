@@ -28,8 +28,11 @@
 1696-8-9-William-3-Public.txt
 1698-10-11-William-3-Public.txt
 1699-11-12-William-3-Public.txt
+1701-12-William-3-Public.txt
 1703-2-3-Anne-Public.txt
 1709-8-Anne-Public.txt
+1710-9-Anne-Public.txt
+1711-10-Anne-Public.txt
 1713-12-Anne-sess-1-Public.txt
 1713-12-Anne-sess-2-Public.txt
 1714-1-George-1-sess-1-Public.txt
@@ -82,6 +85,7 @@
 1760-33-George-2-Public.txt
 1761-1-George-3-Public.txt
 1762-2-George-3-Public.txt
+1765-5-George-3-Public.txt
 1768-8-George-3-session-1-Public.txt
 1768-8-George-3-session-2-Public.txt
 1771-11-George-3-Public.txt
