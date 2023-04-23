@@ -23,6 +23,8 @@
 1688-1-William-Mary-sess-2-Private.txt
 1689-2-William-Mary-sess-1-Private.txt
 1690-2-William-Mary-sess-2-Private.txt
+1691-3-4-William-Mary-Private.txt
+1692-4-5-William-Mary-Private.txt
 1693-5-6-William-Mary-Private.txt
 1694-6-7-William-3-Private.txt
 1695-7-8-William-3-Private.txt
@@ -94,8 +96,10 @@
 1760-33-George-2-Private.txt
 1761-1-George-3-Private.txt
 1762-2-George-3-Private.txt
+1762-3-George-3-Private.txt
 1763-4-George-3-Private.txt
 1765-5-George-3-Private.txt
+1766-6-George-3-Private.txt
 1767-8-George-3-Private.txt
 1767-8-George-3-sess-2-Private.txt
 1775-15-George-3-Private.txt

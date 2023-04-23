@@ -25,6 +25,7 @@
 1689-2-William-Mary-sess-1-Public.txt
 1690-2-William-Mary-sess-2-Public.txt
 1691-3-William-Mary-Public.txt
+1692-4-5-William-Mary-Public.txt
 1693-5-6-William-Mary-Public.txt
 1694-6-7-William-3-Public.txt
 1695-7-8-William-3-Public.txt
@@ -96,7 +97,10 @@
 1760-33-George-2-Public.txt
 1761-1-George-3-Public.txt
 1762-2-George-3-Public.txt
+1762-3-George-3-Public.txt
+1763-4-George-3-Public.txt
 1765-5-George-3-Public.txt
+1766-6-George-3-Public.txt
 1768-8-George-3-session-1-Public.txt
 1768-8-George-3-session-2-Public.txt
 1771-11-George-3-Public.txt
