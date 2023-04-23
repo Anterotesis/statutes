@@ -3510,7 +3510,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 3. The commissioners for the general purposes of the Income Tax Acts shall be commissioners for executing the Acts relating to the inhabited house duties, and all appeals against the said duties shall be determined in like manner as appeals under schedule A. of the Income Tax Acts.
 
-4. This Act may be cited as " The Income Tax Assessment Act, 1870"
+4. This Act may be cited as "The Income Tax Assessment Act, 1870."
 
 1870.
 
@@ -10616,7 +10616,7 @@ exemptions from local dues on shipping and on goods carried in ships, and for pa
 
 287
 
-1870. Shipping Dues Eaxmption A ct, 1867, Amendt. Ch. 50, 51.
+1870. Shipping Dues Eaxmption Act, 1867, Amendt. Ch. 50, 51.
 
 compensation have been made between the claimant and such receiver, but through inadvertence such claims have not been sent in to the Board of Trade within the time prescribed by the said recited Act; and it is expedient to extend the time for sending in and approving such claims:
 
@@ -19407,22 +19407,32 @@ The School Sites Act, 1844.
 The School Sites Act, 1849.
 
 The School Sites Act, 1851.
-
+---
 FIFTH SCHEDULE.
 
 Divisions of Metropolis.
 
-Name of Division. Name of Division.
+Name of Division.
 
-Marylebone. Westminster.
+Marylebone.
 
-Finsbury. Southwark.
+Finsbury.
 
-Lambeth. City.
+Lambeth.
 
-Tower Hamlets. Chelsea.
+Tower Hamlets.
 
-Hackney. Greenwich.
+Hackney.
+
+Westminster.
+
+Southwark.
+
+City.
+
+Chelsea.
+
+Greenwich.
 
 CHAP. 76.
 
@@ -19434,43 +19444,37 @@ WHEREAS the laws now in force for the arrest of debtors absconding from England 
 
 And whereas frauds may be perpetrated upon creditors by insolvent debtors departing for distant countries before the necessary proceedings can be taken to make them bankrupt:
 
-484
-
-Provision* of Bankruptcy Act, 1869, extended.
-
-When arrest not valid.
-
-Security for debt given after arrest.
-
-Construction of terms.
-
-Costs and fees.
-
-[Short title.]
-
-Ch. 76. Absconding Debtors. 33 & 34 Vict 34 Vict.
+484 Ch. 76. Absconding Debtors. 33 & 34 Vict.
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+
+[Provisions of Bankruptcy Act, 1869, extended.]
 
 1. That the provisions of the Bankruptcy Act, 1869, be extended in manner following:
 
 The Court may, by warrant addressed to any constable or prescribed officer of the Court, cause a debtor to be arrested and safely kept as prescribed until such time as the Court may order, if, after a debtor's summons has been granted in the manner prescribed by the said Act, and before a petition of bankruptcy can be presented against him, it appear to the Court that there is probable reason for believing that he is about to go abroad, with a view of avoiding payment of the debt for which the summons has been granted, or of avoiding service of a petition of bankruptcy, or of avoiding appearing to such petition, or of avoiding examination in respect of his affairs, or otherwise avoiding, delaying, or embarrassing proceedings in bankruptcy: Provided always, that nothing herein contained shall be construed to alter or qualify the right of the debtor to apply to the Court in the prescribed manner to dismiss the said summons as in the said Act is provided, or to pay, secure, or compound for the said debt within the time by the said Act provided, without being deemed to have committed an act of bankruptcy; and provided also, that upon any such payment or composition being made, or such security offered as the Court shall think reasonable, the said debtor shall be discharged out of custody, unless the Court shall otherwise order.
 
+[When arrest not valid.]
+
 2. No arrest shall be valid or protected under this Act unless the debtor, before or at the time of his arrest, shall be served with the debtor's summons.
+
+[Security for debt given after arrest.]
 
 3. No payment or composition of a debt made or security for the same given after an arrest made under the provisions of this Act shall be exempted from the provisions of the said Act relating to fraudulent preferences.
 
+[Construction of terms.]
+
 4. The terms used in this Act shall have the same meaning as they have in the said recited Act, and this Act shall be read and construed therewith.
+
+[Costs and fees.]
 
 5. The costs and fees to be charged in respect of any proceedings authorised shall be prescribed in the like manner in which costs and fees to be charged in respect of proceedings under the Bankruptcy Act, 1869, are respectively directed by that Act to be prescribed.
 
+[Short title.]
+
 6. In citing this Act in other Acts of Parliament, or in any instrument, document, or proceeding, it shall be sufficient to use the expression "The Absconding Debtors Act, 1870."
 
-Juries.
-
-Ch. 77.
-
-485
+1870 Juries. Ch. 77. 485
 
 CHAP. 77.
 
@@ -19478,8 +19482,8 @@ An Act to amend the Laws relating to the qualifications, summoning, attendance, 
 
 [9th August 1870.]
 
-WHEREAS it is expedient to amend the laws regulating " the qualification, summoning, attendance, and remuneration of special and common juries in England and Wales, and otherwise to amend the laws as to trials by jury in England and Wales:
-
+WHEREAS it is expedient to amend the laws regulating the qualification, summoning, attendance, and remuneration of special and common juries in England and Wales, and otherwise to amend the laws as to trials by jury in England and Wales:
+---
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. This Act shall not come into force till the second day of November one thousand eight hundred and seventy.
@@ -24110,7 +24114,7 @@ Ch. 97.
 
 Stamp Duties.
 
-33 & 34 Vict 34 Vict.
+33 & 34 Vict .
 
 Penalty for neglect or refusal, 10/.
 
@@ -28476,7 +28480,7 @@ of Ireland, license any church or chapel for the celebration of marriages in any
 
 within the episcopal superintendence of such bishop such persons are respectively to issue the same, and in and for the district at the time of the passing of his Act known as the exempt jurisdiction of Newry and Morae the person at the time of the passing of this Act holding the office of vicar-generalfof the said exempt jurisdiction shall have power to issue licences for marriage, and shall continue so to do until the said district is included within the episcopal superintendence of some bishop of the said church; and every such licence shall be held to authorise marriage in any churches and chapels situate within such districts respectively in which marriages may be solemnized under the provisions of this Act, and which shall be specified in such licences, whenever both of the parties shall be Protestant Episcopalians, and resident within such districts; and such licences shall be in the form No. I. in the schedule (A) to this Act annexed, or to the like effect; and for every such licence such person shall be entitled to have for his own benefit, of the party requiring the same, such fee, not exceeding the sum of five shillings, as may from time to time be appointed in that behalf by any general synod or convention of the bishops, clergy, and laity of the said Church; and in any case in which such person shall refuse to grant such licence, the person applying for the same shall be entitled to appeal to the bishop by whom such person shall have been so appointed, or his successor, who shall thereupon either confirm the refusal or direct the grant of the licence; and every person so appointed shall four times in every year,
 
-Ch. 110. Matrimonial Causes, &c, (Ireland), 33 & 34 Vict 34 Vict.
+Ch. 110. Matrimonial Causes, &c, (Ireland), 33 & 34 Vict.
 
 on such days as shall be appointed by the registrar general, make a return to the registrar general of every licence granted by him since his last return, and of the particulars stated concerning the parties: Provided always, that no such person shall grant any such licence until he shall have given security by his bond in the sum of one hundred pounds to the registrar general for the due and faithful execution of his office.
 

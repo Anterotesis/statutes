@@ -2770,7 +2770,7 @@ Preliminary.
 
 [Short title.]
 
-1. This Act may be cited as " The Merchant Shipping (Colonial) Act, 1869."
+1. This Act may be cited as "The Merchant Shipping (Colonial) Act, 1869."
 
 2. In this Act, unless the context otherwise requires, — Definition of The term "British possession" means any territory or Jf1?
 
@@ -2796,7 +2796,7 @@ Application of Merchant Shipping Acts to Canada.
 
 Colonial certificates to master, mates, and engineers.
 
-Ch. 11. Merchant Shipping (CoUmiaJ), 1869. 32 Vict.
+Ch. 11. Merchant Shipping (Colonial), 1869. 32 Vict.
 
 has been publicly signified in the British possession in 'which it has been passed.
 
@@ -2822,21 +2822,15 @@ After the date specified in the order, or, if no date is specified, after the da
 
 135
 
-1869. Merchcmb Skipping (Colonial), 1869. Ch. 11, 12.
+1869. Merchant Shipping (Colonial), 1869. Ch. 11, 12.
 
 maimer, it shall be lawful for Her Majesty, by Order in Council,
 
-1. To declare that the said certificates shall be of the same
+1. To declare that the said certificates shall be of the same force as if they had been granted under the said Acts:
 
-force as if they had been granted under the said Acts:
+2. To declare that all or any of the provisions of the said Acts which relate to certificates of competency granted under those Acts shall apply to the certificates referred to in the said order:
 
-2. To declare that all or any of the provisions of the said
-
-Acts which relate to certificates of competency granted under those Acts shall apply to the certificates referred to in the said order:
-
-3. To impose such conditions and to make such regulations
-
-with respect to the said certificates, and to the use, issue, delivery, cancellation, and suspension thereof, as to Her Majesty may seem fit, and to impose penalties not exceeding fifty pounds for the breach of such conditions and regulations.
+3. To impose such conditions and to make such regulations with respect to the said certificates, and to the use, issue, delivery, cancellation, and suspension thereof, as to Her Majesty may seem fit, and to impose penalties not exceeding fifty pounds for the breach of such conditions and regulations.
 
 Upon the publication in the London Gazette of any such Order in Council as last aforesaid, the provisions therein contained shall, from a date to be mentioned for the purpose in such order, take effect as if they had been contained in this Act.
 
@@ -2844,7 +2838,7 @@ It shall be lawful for Her Majesty in Council to revoke any order made under thi
 
 BE it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. This Act may be cited as The Naval Stores Act, 1869. Short tide.
+1. This Act may be cited as The Naval Stores Act, 1869. Short title.
 
 The term "the Admiralty" means the Lord High Admiral of tenna* of the United Kingdom, or the Commissioners for executing the office of Lord High Admiral:
 
@@ -2894,7 +2888,7 @@ misdemeanor, and shall on conviction thereof be liable to be imprisoned for any 
 
 If any person acts in contravention of this provision he shall be liable, on summary conviction before a justice of the peace, to a penalty not exceeding five pounds, or, in the discretion of the justice, to be imprisoned for any term not exceeding three months, with or without hard labour.
 
-8* If stores are found in the possession or keeping of a person being in Her Majesty's service, or in the service of the Admiralty, or being a dealer in marine stores or in old
+8. If stores are found in the possession or keeping of a person being in Her Majesty's service, or in the service of the Admiralty, or being a dealer in marine stores or in old
 
 1869. Naval Stares. Ch. 12. 137
 
@@ -2910,7 +2904,7 @@ consequences under The Old Metal Dealers Act, 1861, be 24 & 25 Vict. equivalent 
 
 " Law of England and Ireland relating to larceny and other " similar offences," are hereby incorporated with this Act, and shall for the purposes of this Act be read as if they were here re-enacted, namely, sections ninety-eight to one hundred, one hundred and three, one hundred and seven to one hundred and thirteen, and one hundred and fifteen to one hundred and twenty-one, all inclusive; and for this purpose the expression "this Act," where used in those sections, shall be taken to include the present Act.
 
-1L Notwithstanding anything in any Act relating to Penalties, &c. municipal corporations or to the metropolitan police force, or to be applied in any other Act, any pecuniary penalty or other money AdiSraity6" ° recovered under this Act shall be paid and applied under such regulations as the Admiralty, with the concurrence of the Treasury, may from time to time make.
+11. Notwithstanding anything in any Act relating to Penalties, &c. municipal corporations or to the metropolitan police force, or to be applied in any other Act, any pecuniary penalty or other money AdiSraity6" ° recovered under this Act shall be paid and applied under such regulations as the Admiralty, with the concurrence of the Treasury, may from time to time make.
 
 12. Nothing in this Act shall prevent any person from being Not to prevent indicted under this Act or otherwise for any indictable offence Pei?°n<! *"8
 
@@ -3250,7 +3244,7 @@ As to Carriages.
 
 As to Horses omd Mules.
 
-(8.) The term "horse99 means and includes a horse or pony of any sex or description or age, except a foal, colt, or filly which shall never have been used for any purpose of draught or riding; and the term "mule " includes only such mule as shall have been at any time used for any purpose of draught or riding.
+(8.) The term "horse" means and includes a horse or pony of any sex or description or age, except a foal, colt, or filly which shall never have been used for any purpose of draught or riding; and the term "mule " includes only such mule as shall have been at any time used for any purpose of draught or riding.
 
 148
 
@@ -8276,6 +8270,8 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 3. This Act may be cited as "The Trades Unions Funds Protection Act."
 
+CHAP. 62.
+
 An Act for the Abolition of Imprisonment for Debt, for the punishment of fraudulent debtors, and for other purposes.
 
 [9th August 1860.]
@@ -8284,17 +8280,17 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 Preliminary.
 
-Short title
+[Short title.]
 
-1. This Act may be cited for all purposes as "The Debtors Act, 1869"
+1. This Act may be cited for all purposes as "The Debtors Act, 1869."
 
-Extent of Act.
+[Extent of Act.]
 
 2. This Act shall not extend to Scotland or Ireland.
 
-3. This Act shall not come into operation until the day on Commence-which The Bankruptcy Act, 1869, comes into operation, which meat and con-day is herein-after referred to as the commencement of this on 0 Act, and words and expressions defined or explained in The -Bankruptcy Act, 1869, shall have the same meaning in this
+[Commence-
 
-Act.
+3. This Act shall not come into operation until the day on which The Bankruptcy Act, 1869, comes into operation, which meat and con-day is herein-after referred to as the commencement of this on 0 Act, and words and expressions defined or explained in The Bankruptcy Act, 1869, shall have the same meaning in this Act.
 
 PART I.
 
@@ -11146,13 +11142,15 @@ CHAP. 71.
 
 Preliminary
 
-An Act to consolidate and amend the Law of Bankruptcy. [Oth August 1869.]
+An Act to consolidate and amend the Law of Bankruptcy.
+
+[Oth August 1869.]
 
 WHEREAS it is expedient to consolidate and amend the law relating to Bankruptcy:
 
 Be it enacted by the Queens most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-Prelimina/ry.
+Preliminary.
 
 1. This Act may be cited as " The Bankruptcy Act, 1869."
 
@@ -11162,9 +11160,9 @@ Prelimina/ry.
 
 Tided, apply to Scotland or Ireland. Act *
 
-3. This Act shall not come into operation until the first day Commence-of January one thousand eight hundred and seventy, which ment of Act* date is herein-after referred to as the commencement of this
+[Commence-
 
-Act.
+3. This Act shall not come into operation until the first day of January one thousand eight hundred and seventy, which ment of Act* date is herein-after referred to as the commencement of this Act.
 
 4. In this Act, if not inconsistent with the context, the ^Pr^tion
 
@@ -11172,11 +11170,11 @@ following terms have the meanings herein-after respectively assigned to them; th
 
 u The Court " shall mean the court having jurisdiction in " Court bankruptcy, as by this Act provided:
 
-"The registrar" shall mean the registrar of "the Court99 as "Registrar:" above defined:
+"The registrar" shall mean the registrar of "the Court" as "Registrar:" above defined:
 
 " Prescribed9 shall mean prescribed by rules of Court to " Prescribed " be made as in this Act provided:
 
-" Property99 shall mean and include money, goods, things " Property in action, land, and every description of property, whether real or personal; also, obligations, easements, and every description of estate, interest and profit, present or future, vested or contingent, arising out of or incident to property as above defined: u Debt provable in bankruptcy99 shall include any debt or " Debt:" liability by this Act made provable in bankruptcy:
+" Property" shall mean and include money, goods, things " Property in action, land, and every description of property, whether real or personal; also, obligations, easements, and every description of estate, interest and profit, present or future, vested or contingent, arising out of or incident to property as above defined: u Debt provable in bankruptcy" shall include any debt or " Debt:" liability by this Act made provable in bankruptcy:
 
 " Person " shall include a body corporate: " Person
 
@@ -12320,9 +12318,7 @@ enoe to the proceedings under a petition for adjudication of
 
 bankruptcy, as if a commission of or a fiat in bankruptcy had
 
-been actually issued at the time of the presentation of such
-
-petition.
+been actually issued at the time of the presentation of such petition.
 
 Oo 2
 
@@ -12376,7 +12372,7 @@ PART VI. Liquidation by Arrangement.
 
 Regulations.
 
-Part VL
+Part VI.
 
 Liquidation by Arrangement.
 
@@ -12386,7 +12382,7 @@ Liquidation by Arrangement.
 
 (2.) All the provisions of this Act relating to a first meeting of creditors, and to subsequent meetings of creditors in the case of a bankruptcy, including the description of creditors entitled to vote at such meetings, and the debts in respect of which they are entitled to vote, shall apply respectively to the first meeting of creditors, and to subsequent meetings of creditors, for the purposes of this section, subject to the following modifications:
 
-(a.) That every such meeting shall be presided over by such chairman as the meeting may elect; and (6.) That no creditor shall be entitled to vote until he has proved by a statutory declaration a debt provable in bankruptcy to be due to him, and the amount of such debt, with any prescribed particulars; and any person wilfully making a false declaration in relation to such debt shall be guilty of a misdemeanor.
+(a.) That every such meeting shall be presided over by such chairman as the meeting may elect; and (b.) That no creditor shall be entitled to vote until he has proved by a statutory declaration a debt provable in bankruptcy to be due to him, and the amount of such debt, with any prescribed particulars; and any person wilfully making a false declaration in relation to such debt shall be guilty of a misdemeanor.
 
 (3.) The debtor, unless prevented by sickness or other cause satisfactory to such meeting, shall be present at the meeting at which the special resolution is passed, and shall answer any inquiries made of him, and he, or if he is so prevented from being at such meeting some one on his behalf, shall produce to the meeting a statement showing the whole of his assets and debts, and the names and addresses of the creditors to whom his debts are due.
 
@@ -12450,7 +12446,7 @@ Part VII.
 
 Composition with Creditors.
 
-Ch. 71. Bankruptcy. 32 & 33 Vict *
+Ch. 71. Bankruptcy. 32 & 33 Vict.
 
 In calculating a majority for the purposes of a composition under this section, creditors whose debts amount to sums not exceeding ten pounds shall be reckoned in the majority in value, but not in the majority in number, and the value of the debts of secured creditors shall, as nearly as circumstances admit, be estimated in the same way, and the same description of creditors shall be entitled to vote at such general meetings as in bankruptcy.
 
@@ -12490,15 +12486,13 @@ Bankruptcy Courts.
 
 Part VII.
 
-Composition icith Creditors.
+Composition with Creditors.
 
 Registration of resolutions of creditors conclusive in certain cases.
 
 Part VIII.
 
-Temporary
-
-Provisions.
+Temporary Provisions.
 
 Commissioners of London Bankruptcy Court to cease to hold offices.
 
@@ -12584,15 +12578,19 @@ The Whitechapel County Court of Middlesex.
 
 CHAP. 72.
 
-An Act to amend " The Drainage and Improvement of Lands (Ireland) Act, 1863," and to afford further facilities for the purposes thereof.
+An Act to amend "The Drainage and Improvement of Lands (Ireland) Act, 1863," and to afford further facilities for the purposes thereof.
 
 [9th August 1869.]
 
-WHEREAS an Act passed in the session of Parliament 26 & 27 Vict. holden in the twenty-sixth and twenty-seventh years of c. 88.
+WHEREAS an Act passed in the session of Parliament holden in the twenty-sixth and twenty-seventh years of Her Majesty, chapter eighty-eight,
 
-Her Majesty, chapter eighty-eight, intituled "An Act to enable " landed proprietors to construct works for Drainage and " Improvement of Lands in Ireland
+[26 & 27 Vict. c. 88.]
 
-And whereas a further Act was passed in the session holden 27 & 23 Vict. in the twenty-seventh and twenty-eighth years of Her Majesty, c- 72 chapter seventy-two, explaining certain provisions contained in the said Act:
+intituled "An Act to enable landed proprietors to construct works for Drainage and " Improvement of Lands in Ireland
+
+[27 & 23 Vict. c. 72.]
+
+And whereas a further Act was passed in the session holden in the twenty-seventh and twenty-eighth years of Her Majesty, chapter seventy-two, explaining certain provisions contained in the said Act:
 
 And whereas a further Act was passed in the session of 2s & 29 Vict. Parliament holden in the twenty-eighth and twenty-ninth c- 52-years of Her Majesty, chapter fifty-two, intituled "An Act to " amend the Drainage and Improvement of Lands Acts " (Ireland), and to afford further facilities for the purposes " thereof:"
 
@@ -12626,7 +12624,7 @@ And it would be more equitable in some cases if such expenses so incurred as afo
 
 Pp 2
 
-Ch. 72 .Drainage, c6c. of Lands (I.) Act (1863) Arndt 32 & 33 Vict#
+Ch. 72 .Drainage, &c. of Lands (I.) Act (1863) Arndt 32 & 33 Vict#
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows: L This Act may be cited for all purposes as " The Drainage " and Improvement of Lands Amendment Act, Ireland, 1869/ '
 
@@ -12670,13 +12668,9 @@ Provision as to damage caused to banks of drains by cattle.
 
 Definition of term u court."
 
-Acts to be
+Acts to be *construed together.
 
-construed
-
-together.
-
-Ch. 7 2. Drainage, &c. of Lands (/.) A ct (1863) Amdt. 32 & 33 Vict,
+Ch. 7 2. Drainage, &c. of Lands (/.) Act (1863) Amdt. 32 & 33 Vict,
 
 6. The said commissioners in all proceedings under the said seventy-third, seventy-fourth, and seventy-fifth sections of the said " Drainage and Improvement of Lands Act (Ireland), 1863/' may, if they shall so think fit, declare by their certificate that the amount of the expenses of works mentioned therein and to be paid by any county or in equal moieties by any two counties shall be paid either by such county at large or in equal moieties by such counties at large respectively, or that the amount to be paid by such county or each of such counties as aforesaid shall be contributed by any barony or baronies, half barony or half baronies within the same in such proportions as the commissioners may think fit, having regard to the benefits which in their judgment are likely to be derived by such barony or baronies, half barony or half baronies respectively by reason of the execution of the said works, and the amount mentioned in any such certificate shall be presented by such grand jury or grand juries as the case may be, to be levied off such county or counties, baronies or half baronies, according to the tenor of such certificate, and in case any grand jury of any county shall fail or refuse to present the sum mentioned in any such certificate according to the effect thereof, the court shall make an order directing the treasurer of such county to insert such sum in his warrant, to be levied off such county, or barony or baronies, half barony or half baronies thereof, as the case may be, and as if the same had been duly presented by such grand jury, and the same shall be levied accordingly.
 
@@ -12688,11 +12682,13 @@ Ch. 7 2. Drainage, &c. of Lands (/.) A ct (1863) Amdt. 32 & 33 Vict,
 
 10. This Act and the said several herein recited Acts shall be read together and construed as one Act.
 
-1869. Telegraphs. Ch.J73.
+1869. Telegraphs. Ch. 73.
 
 CHAP. 73.
 
-An Act to alter and amend "The Telegraph Act, 1868 " [9th August 1869.]
+An Act to alter and amend "The Telegraph Act, 1868 "
+
+[9th August 1869.]
 
 WHEREAS «The Telegraph Act, 1868," Her Majesty's si & Postmaster General is empowered to purchase, in the c*11 manner therein mentioned, the whole or any part of the undertaking of any telegraph of other company authorized to transmit telegraphic messages in the United Kingdom except the undertakings of the Atlantic Telegraph Company and the Anglo-American Telegraph Company (Limited):
 
@@ -12944,7 +12940,7 @@ of the grantors or lessors of the same respectively to be performed, and to main
 
 6. The word " lands " or " land " in this Act shall be Interpretation deemed to mean and include all hereditaments, corporeal and °* terma-incorporeal, and whether held in fee simple, fee farm, or for
 
-a life or lives, or for lives and years concurrent, or for years only, and all rights, members, and appurtenances appertaining to such lands, or usually held or enjoyed therewith; and the words " grand jury 99 shall, as regards any borough of which the council is authorized by law to make presentments, be held to include such council.
+a life or lives, or for lives and years concurrent, or for years only, and all rights, members, and appurtenances appertaining to such lands, or usually held or enjoyed therewith; and the words " grand jury " shall, as regards any borough of which the council is authorized by law to make presentments, be held to include such council.
 
 CHAP. 75.
 
@@ -12952,7 +12948,7 @@ An Act to regulate and extend the Jurisdiction of Her Majesty's Consul at Zanzib
 
 [9th August 1869.]
 
-WHEREAS by the Foreign Jurisdiction Act, 1843, it was 6 ' " amongst other things enacted " that it is and shall be c-4' lawful for Her Majesty to hold, exercise, and enjoy any
+WHEREAS by the Foreign Jurisdiction Act, 1843, it was amongst other things enacted " that it is and shall be c-4' lawful for Her Majesty to hold, exercise, and enjoy any
 
 Si 7 Vict 94.
 
@@ -12974,7 +12970,9 @@ Be it therefore enacted by the Queen's most Excellent Majesty, by and with the a
 
 Jurisdiction of 2. Her Majesty's Consul at Zanzibar for the time being shall CoL^aTzan kave* an 8^ftll be deemed to have always since the com-xibar in slave" mencement of the said Order in Council had, all such juris-trade cases. diction as ordinarily belongs to Vice-Admiralty Courts in Her Majesty's possessions abroad in regard to vessels captured on suspicion of being engaged in or equipped for the slave trade, in the following cases:
 
-(1.) Where a Zanzibar vessel shall have been captured in pursuance of any treaty with the Sultan of Zanzibar, either within or beyond the dominions of Zanzibar: (2.) Where the vessel captured shall not be entitled to claim the protection of the flag of any state or nation.
+(1.) Where a Zanzibar vessel shall have been captured in pursuance of any treaty with the Sultan of Zanzibar, either within or beyond the dominions of Zanzibar:
+
+(2.) Where the vessel captured shall not be entitled to claim the protection of the flag of any state or nation.
 
 Provisions of 3. So far as relates to the matters enumerated in this sec-
 
@@ -13562,9 +13560,9 @@ An Act to amend the laws relating to the construction of buildings in the metrop
 
 The following words in sect. 70: 44 but when such structure is situate elsewhere, it shall mean the commissioners of police of the metropolis, or such one of them as may be authorized by one of Her Majesty's Principal Secre taries of State to act in the matter of this Act."
 
-The following words in sect. 75: 44 and in the cases of payments in respect of any structure situate elsewhere within the limits of this Act be made by or to the receiver of me tropolitan police."
+The following words in sect. 75: 44 and in the cases of payments in respect of any structure situate elsewhere within the limits of this Act be made by or to the receiver of metropolitan police."
 
-The following words in sect. 81: 44 subject to the approval of one of Her Majesty's Prin cipal Secretaries of State and the following words in the same section: 44 and all expen see incurred by them not hereby otherwise provided for snail, in the case of expenses incurred by the said commissioners of police, be deemed to be expenses in curred by them in respect of the police force of which they are commissioners, and be payable accordingly."
+The following words in sect. 81: 44 subject to the approval of one of Her Majesty's Principal Secretaries of State and the following words in the same section: and all expensee incurred by them not hereby otherwise provided for snail, in the case of expenses incurred by the said commissioners of police, be deemed to be expenses in curred by them in respect of the police force of which they are commissioners, and be payable accordingly."
 
 CHAP. 83.
 
@@ -13686,7 +13684,7 @@ courts under the Acts for the relief of insolvent debtors, the following provisi
 
 (4) If sufficient cause for postponement is not shown before the expiration of the said twelve months, or twenty years, or the period of postponement (as the case may be) or of such further period as may, subject to the rules of court, be allowed for an application by the court in which the case is pending, the insolvency shall at the expiration of the said times be ipso facto closed, and thereupon the insolvent or the hell's, devisees, or personal representatives of the insolvent (if he is dead) shall be in the same position and have the same rights in all respects as if the insolvent had been bankrupt, and had at the date of the closing obtained his discharge under The Bankruptcy Act,
 
-186 9:
+1869:
 
 (5.) The term insolvency in this section includes any proceeding taken to obtain protection under the Act of the session of the fifth and sixth years of Her Majesty's reign, chapter one hundred and sixteen.
 
@@ -15078,19 +15076,17 @@ Definition of terms.
 
 Preliminary.
 
-1. This Act may be cited as "The Courts of Justice (Salaries and Funds) Act, 1869. "
+1. This Act may be cited as "The Courts of Justice (Salaries and Funds) Act, 1869."
 
-2. This Act shall not come into operation until the first
-
-day of October one thousand eight hundred and sixty-nine, which date is herein-after referred to as the commencement of this Act. i
+2. This Act shall not come into operation until the first day of October one thousand eight hundred and sixty-nine, which date is herein-after referred to as the commencement of this Act. i
 
 3. In this Act —
 
-The term "the Treasury99 means the Commissioners of Her Majesty's Treasury for the time being, or any two or more of them:
+The term "the Treasury" means the Commissioners of Her Majesty's Treasury for the time being, or any two or more of them:
 
 The term "Court of Chancery" means the High Court of Chancery of England, and includes all offices mentioned in the third schedule to this Act:
 
-The term "Court of Admiralty99 means the High Court of Admiralty of England:
+The term "Court of Admiralty" means the High Court of Admiralty of England:
 
 The term "Court of Bankruptcy" means, except where otherwise expressly mentioned, the Court of Bankruptcy in London as constituted at the passing of this Act and the District Courts of Bankruptcy, and includes any Court, whether constituted before or after the commencement of this Act, which for the time being exercises the powers of the late Court for the Relief of Insolvent Debtors in England, so far as relates to such late Court
 
@@ -15140,7 +15136,9 @@ receipt of Her Majesty's Exchequer and carried to the Consolidated Fund. On any 
 
 Court of Bankruptcy.
 
-Transfer of 9. As soon as may be after the commencement of this Act Governor and Company of the Bank of England shall, upon Debt Commis- an order of the Lord Chancellor to be made in that behalf, sioners. and without any draft from the Accountant in Bankruptcy, or act done by him, transfer to the account of the Commissioners for the Reduction of the National Debt all sums of stock and cash which on the commencement of this Act may be standing in the books of the Bank of England in the name of the Accountant in Bankruptcy to the credit of any of the accounts described in the second part of the second schedule to this Act, and all dividends which may then be or thereafter become due on such stock.
+Transfer of
+
+9. As soon as may be after the commencement of this Act Governor and Company of the Bank of England shall, upon Debt Commis- an order of the Lord Chancellor to be made in that behalf, sioners. and without any draft from the Accountant in Bankruptcy, or act done by him, transfer to the account of the Commissioners for the Reduction of the National Debt all sums of stock and cash which on the commencement of this Act may be standing in the books of the Bank of England in the name of the Accountant in Bankruptcy to the credit of any of the accounts described in the second part of the second schedule to this Act, and all dividends which may then be or thereafter become due on such stock.
 
 10. After the commencement of this Act the Consolidated Fund shall be liable to make good the debts due in cash from the Court of Bankruptcy in respect of the estates of bankrupts, in manner stated in the first part of the second schedule to this Act, and the debts due in cash from the late Court for the Relief of Insolvent Debtors in England in respect of estates of insolvent debtors, in manner stated in the first part of the same schedule, and the Treasury shall in manner provided by this Act cause the sums required for the payment of such debts to be issued out of the Consolidated Fund.
 
