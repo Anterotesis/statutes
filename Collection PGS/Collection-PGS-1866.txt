@@ -370,7 +370,7 @@ Cap. 2.
 
 " Cattle Plague" shall mean the Rinderpest or Disease commonly called the Cattle Plague:
 
-" Municipal Borough " or " Borough " shall mean any Place for the Time being subject to an Act passed in the Session holden in the Fifth and Sixth Years of the Reign of King William the Fourth, Chapter Seventy-six, intituled An Act to provide for the Regulation of Municipal Corporations in England and Wales, which is not assessed to the County Rate of any County by the Justices of such County:
+"Municipal Borough " or " Borough" shall mean any Place for the Time being subject to an Act passed in the Session holden in the Fifth and Sixth Years of the Reign of King William the Fourth, Chapter Seventy-six, intituled An Act to provide for the Regulation of Municipal Corporations in England and Wales, which is not assessed to the County Rate of any County by the Justices of such County:
 
 " County99 shall not include a County of a City or County of a Town, but shall include any Riding, Division, or Parts of a County having a separate Commission of the Peace:
 
@@ -1826,7 +1826,9 @@ C^martial v*r*ue Act on any Officer or Soldier of Her Majesty's
 
 on Officers and Indian Forces, there shall sit on such Court-martial One or Soldiers of Her more Officer or Officers of Her Majesty's said Indian Forces, Majesty's if the Attendance of such Officer or Officers can be con-
 
-iau orces. Yenjen^]y an(j [f the Attendance of no such Officer or Officers can be conveniently had, then the Officer convening such Court-martial shall specify the same in his Warrant or Order convening the Court-martial; and the Government of any of the Presidencies in India may suspend the Proceedings of any Court-martial held in India on any Officer oi Soldier belonging to Her Majesty's Indian Forces within such Presidencies respectively; and if any Officer belonging to Her Majesty's Indian Forces shall think himself wronged by the Officer commanding the Regiment, and shall upon due Application made to him not receive the Redress to which he may consider himself entitled, he may complain to his Commander-in-Chief in order to obtain Justice, who is hereby required to examine into such Complaint, and thereupon, cither by himself or by his Adjutant General, to make his Report to the Government of the Presidency to which such Officer belongs, in order to Proviso. receive the further Directions of such Government: Provided
+[Proviso.]
+
+iau orces. Yenjen^]y an(j [f the Attendance of no such Officer or Officers can be conveniently had, then the Officer convening such Court-martial shall specify the same in his Warrant or Order convening the Court-martial; and the Government of any of the Presidencies in India may suspend the Proceedings of any Court-martial held in India on any Officer oi Soldier belonging to Her Majesty's Indian Forces within such Presidencies respectively; and if any Officer belonging to Her Majesty's Indian Forces shall think himself wronged by the Officer commanding the Regiment, and shall upon due Application made to him not receive the Redress to which he may consider himself entitled, he may complain to his Commander-in-Chief in order to obtain Justice, who is hereby required to examine into such Complaint, and thereupon, cither by himself or by his Adjutant General, to make his Report to the Government of the Presidency to which such Officer belongs, in order to receive the further Directions of such Government: Provided
 
 that no Officer of Her Majesty's Indian Forces aforesaid wTho may have joined or may join either of the Staff Corps formed in the several Presidencies of India under the Warrant of Her Majesty bearing Date the Sixteenth Day of January One thousand eight hundred and sixty-one, constituting the said Corps, and no Officer or Soldier of Her Majesty's Indian Forces aforesaid who shall have volunteered or may volunteer to join Her Majesty's General Military Service, shall be deemed to be an Officer of Her Majesty's Indian Forces for the Purposes of this Section.
 
@@ -3302,7 +3304,7 @@ separate Accounts, and arising from different Sources, that is to say, first, to
 
 Stock transferred to the Commissioners in pursuance of divers c Acts of Parliament, and secondly, to an Account intituled 6 44 The Account of Donations and Bequests towards reducing cc the National Debt," and arising from the Investment of certain Sums that have at various Times been given by way
 
-of Donation or Bequest toward reducing the National Debt: c And whereas it is expedient that Power should be given to c the Commissioners of Her Majesty's Treasury to cancel the said Capital Stocks to the Extent and in manner herein-after mentioned Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+of Donation or Bequest toward reducing the National Debt: And whereas it is expedient that Power should be given to c the Commissioners of Her Majesty's Treasury to cancel the said Capital Stocks to the Extent and in manner herein-after mentioned Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 1. This Act may be cited for all Purposes as The National Debt Reduction Act, 1860."
 
@@ -3536,7 +3538,7 @@ WHEREAS by the Act of the Session of the Eleventh and c Twelfth Years of the Rei
 
 Chapter One hundred and seven, (which Act has been from Time to Time continued until the First Day of August One thousand eight hundred and sixty-six, and the End of the e then next Session of Parliament,) it is amongst other things enacted that it shall be lawful for the Lords and others of
 
-Her Majesty's Privy Council, or any Two or more of them, c from Time to Time to make such Orders and Regulations
+Her Majesty's Privy Council, or any Two or more of them, from Time to Time to make such Orders and Regulations
 
 as to them may seem necessary for the Purpose of prohibiting c or regulating the Removal to or from such Parts or Places f as they may designate in such Order or Orders of Sheep,
 
@@ -3582,7 +3584,7 @@ Cattle, Sfc. Contagious Diseases.
 
 2. This Act, and the Principal Act in so far as it is amended by this Act, shall not extend to Ireland.
 
-3. " Privy Council " shall mean the said Lords and others of Her Majesty's Privy Council, or any Two of them.
+3. " Privy Council" shall mean the said Lords and others of Her Majesty's Privy Council, or any Two of them.
 
 4. The Orders made under the Principal Act by the said Privy Council, and dated respectively the Twenty-fourth Day of March and the Eleventh Day of April One thousand eight hundred and sixty-six, shall be deemed to have been authorized by the said Principal Act, and to be of the same Force as if contained in the said Act, subject to the Power of the said Privy Council to alter, vary, or revoke the same.
 
@@ -3608,7 +3610,7 @@ Acts,
 
 Acts, shall be valid if published once in the London Gazette, unless it relates to any particular County, Town, or other Place, in which Case it shall not be valid unless it be also published in some Newspaper circulating in such County, Town, or other Place, or in such other Manner as the Privy Council in ay direct.
 
-. Any Order or Regulation made by a Local Authority shall be- published in such Manner as the Privy Council may direct.
+Any Order or Regulation made by a Local Authority shall be- published in such Manner as the Privy Council may direct.
 
 The Expense of the local Publication of any Order or Regulation of the Privy Council shall be defrayed by the Local Authority of the Place where any such Order or Regulation is published, and the Expense of publishing any Order or Regulation of a Local Authority shall be defrayed by such Local Authority.
 
@@ -3690,7 +3692,7 @@ Be it therefore enacted by the Queen's most Excellent Majesty, by and with the A
 
 1. This Act may be cited as " The Cattle Sheds in Burghs (Scotland) Act, 1866."
 
-2. The Words " Cattle Sheds," " Cowhouses," and " Byres " shall mean and include every House, Building, Shed, Yard, or other enclosed Place or Premises in which Bulls, Cows, Heifers, Oxen, or Calves are kept or intended to be kept.
+2. The Words " Cattle Sheds," " Cowhouses," and " Byres" shall mean and include every House, Building, Shed, Yard, or other enclosed Place or Premises in which Bulls, Cows, Heifers, Oxen, or Calves are kept or intended to be kept.
 
 Except as otherwise provided in this Act, the Interpretation Section (No. 3) and the Jurisdiction of Magistrates Section (No. 408) of cc The Police and Improvement (Scotland) Act, 1862," are hereby incorporated with and shall be taken so as to extend to this Act.
 
@@ -3818,7 +3820,7 @@ Parliament shall be in the Form following:
 
 taken by J Members of Parliament.
 
-T A.B. do swear that I will be faithful and bear true c A Allegiance to Her Majesty Queen Victoria; and I do c faithfully promise to maintain and support the Succession to f the Crown, as the same stands limited and settled by virtue c of the Act passed in the Reign of King William the Third, c intituled " An Act for the further Limitation of the Crown,
+T A.B. do swear that I will be faithful and bear true c A Allegiance to Her Majesty Queen Victoria; and I do c faithfully promise to maintain and support the Succession to f the Crown, as the same stands limited and settled by virtue c of the Act passed in the Reign of King William the Third, intituled " An Act for the further Limitation of the Crown,
 
 " and better securing the Rights and Liberties of the c " Subject," and of the subsequent Acts of Union with ' Scotland and Ireland. So help me GOD. '
 
@@ -4426,7 +4428,7 @@ of the said District of Bangor, and is lighted, cleansed, and the Roads and Pave
 
 sole Costs and Charges of the said Colonel the Honourable 6 Edward Gordon Douglas Pennant: And whereas at the Time c of the making of the said Provisional Order Doubts were ' entertained whether the Part of the Parish of Llandegai was 6 included within such District of Bangor: And whereas in c consideration of the Local Board of Health for the said District terminating legal Proceedings which have been taken by them
 
-to enforce certain General District Rates made by them upon e the Property within the said Part of the Parish of Llandegai, c and upon the passing of an Act of Parliament to confirm the said Provisional Order excluding the said Part of the Parish
+to enforce certain General District Rates made by them upon e the Property within the said Part of the Parish of Llandegai, and upon the passing of an Act of Parliament to confirm the said Provisional Order excluding the said Part of the Parish
 
 of Llandegai from the District of the Local Board of Health e for Bangor, the said Colonel the Honourable Edward Gordon 6 Douglas Pennant hath agreed to give the said Local Board of c Health the Sum of Four thousand and five hundred Pounds c in exoneration of all such Kates as aforesaid: And whereas the Bangor Local Board of Health is indebted in the Sum f of Four thousand and five hundred Pounds or thereabouts ' borrowed by them upon the Security of the Kates within their said District, under the Powers contained in the Public
 
@@ -5220,7 +5222,7 @@ Money the Construction of Piers, Harbours, and other Works, and the Acts amendin
 
 Improvement of Lands and Estates, and to aid in the ' Construction of Public Works in Ireland, and for the e securing all such Advances by charging the same on the ' Lands, Estates, and Interests of Proprietors and others, and ' in priority to other Charges and Incumbrances, as in the said several Acts is particularly provided; and by certain of the said Acts it is enacted that such Charges should have Priority from the Registration in the Registry of Deeds ' Office of Ireland of certain Orders of the Commissioners of
 
-Public Works in Ireland thereby directed to be so registered: c And whereas divers Sums of Public Moneys have been already advanced for such Purposes, and on such Security,
+Public Works in Ireland thereby directed to be so registered: And whereas divers Sums of Public Moneys have been already advanced for such Purposes, and on such Security,
 
 and it is intended that further Sums will be hereafter f advanced for the like Purposes and upon the like Security:
 
@@ -5570,7 +5572,7 @@ Grant, and the Time when it shall be brought forward.
 
 8. In the Construction of this Act the Term " Metropolis " Interpretation shall have the same Interpretation as in the Metropolis Manage- of Terms* ment Act, 1855, and Metropolis Management Amendment
 
-Act, 1862; the Words " other Parochial Body " shall mean all Trustees, Overseers, and others who make the several Hates for the Purposes of the Vestry or the District Board of any District.
+Act, 1862; the Words " other Parochial Body" shall mean all Trustees, Overseers, and others who make the several Hates for the Purposes of the Vestry or the District Board of any District.
 
 CAP. XXXII.
 
@@ -6928,9 +6930,9 @@ or
 
 or Growers whose Description they so used, as'well as to the c Dealers in Hops and of the Public, it was by the said first-e mentioned Act enacted, that from and after the Fifth Day £ of July One thousand eight hundred and fourteen every ' Owner, Planter, or Grower of Hops, before he, she, or they should begin to put any Hops into any Bag or Pocket, should ' mark or cause to be marked on the Outside of each and every such Bag or Bags, in plain and legible Letters of Four
 
-Inches in Length at the least, and Half an Inch in Breadth, 6 and on the Outside of every such Pocket, in large, plain, c and legible Letters of Three Inches in Length and Half an
+Inches in Length at the least, and Half an Inch in Breadth, 6 and on the Outside of every such Pocket, in large, plain, and legible Letters of Three Inches in Length and Half an
 
-Inch in Breadth at the least, with durable Ink or Paint, c his, her, or their Name or Names, and the Parish and County 6 in which the said Hops to be packed therein were actually
+Inch in Breadth at the least, with durable Ink or Paint, his, her, or their Name or Names, and the Parish and County 6 in which the said Hops to be packed therein were actually
 
 grown; and that if any Owner, Planter, or Grower of Hops, c or any other Person or Persons, should put any Hops into any Bag or Pocket without having marked or caused to be e marked thereon, in manner therein-before directed, the several c Matters and Things therein-before required and prescribed,
 
@@ -7078,7 +7080,7 @@ An Act to enable Boards of Guardians in Ireland to provide Coffins and Shrouds f
 
 [11th June 1866.]
 
-WHEREAS it is expedient that Provision shall be made for the decent Burial of poor Persons in Ireland whose c Relatives may be unable to provide Means for such Purpose, c although such deceased Persons may not at the Time of ' their Death have been in receipt of Relief under the Acts in force for the Relief of the Poor in Ireland, or dependant for Support on any Person receiving such Relief Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS it is expedient that Provision shall be made for the decent Burial of poor Persons in Ireland whose c Relatives may be unable to provide Means for such Purpose, although such deceased Persons may not at the Time of ' their Death have been in receipt of Relief under the Acts in force for the Relief of the Poor in Ireland, or dependant for Support on any Person receiving such Relief Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 1. From and after the passing of this Act, it shall be lawful for the Guardians of any Union in Ireland, or in any Case- of [No. 22. Price 2d.\ Y Urgency
 
@@ -7116,11 +7118,11 @@ An Act to consolidate the Duties of the Exchequer and Audit Departments to regul
 
 [28th June 1866.]
 
-WHEREAS it is expedient to consolidate the Powers and c Duties of the Comptroller of Her Majesty's Exchequer and of the Commissioners for auditing the Public Accounts, c and to unite in One Department the Business hitherto conducted by the separate Establishments under them; and to make other Provisions for the more complete Examination of the Public Accounts of the United Kingdom Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
+WHEREAS it is expedient to consolidate the Powers and c Duties of the Comptroller of Her Majesty's Exchequer and of the Commissioners for auditing the Public Accounts, and to unite in One Department the Business hitherto conducted by the separate Establishments under them; and to make other Provisions for the more complete Examination of the Public Accounts of the United Kingdom Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
 1# This Act may be cited for all Purposes as "The Exchequer and Audit Departments Act, 1866."
 
-2. In this Act "the Treasury " shall mean the Commissioners of Her Majesty's Treasury for the Time being, or any Two or more of them;" the Bank of England " shall mean the Governor and Company of the Bank of England;" the Bank of Ireland " shall mean the Governor and Company of the Bank of Ireland;" the National Debt Commissioners " shall mean the Commissioners for the Reduction of the National Debt;"Principal Accountants " shall mean those who receive Issues directly from the Accounts of Her Majesty's Exchequer at the Banks of England and Ireland respectively;" Sub-Accountants " shall mean those who receive Advances, by way of Imprest, from Principal Accountants, or who receive Fees or other Public
+2. In this Act "the Treasury" shall mean the Commissioners of Her Majesty's Treasury for the Time being, or any Two or more of them;" the Bank of England" shall mean the Governor and Company of the Bank of England;" the Bank of Ireland" shall mean the Governor and Company of the Bank of Ireland;" the National Debt Commissioners" shall mean the Commissioners for the Reduction of the National Debt;"Principal Accountants" shall mean those who receive Issues directly from the Accounts of Her Majesty's Exchequer at the Banks of England and Ireland respectively;" Sub-Accountants" shall mean those who receive Advances, by way of Imprest, from Principal Accountants, or who receive Fees or other Public
 
 Moneys
 
@@ -7680,7 +7682,7 @@ was passed in the Session of Parliament held in the Fifteenth and Sixteenth Year
 
 and a further Act was passed in the Session of Parliament held in the Twenty-third Year of the Reign of Her said Majesty, intituled An Act to extend the Act to facilitate the
 
-Improvement of Landed Property in Ireland, and the Acts amending the same, to the Erection of Dwellings for the ' Labouring Classes in Ireland; and a further Act was passed in the Session of Parliament held in the Twenty-fifth and f Twenty-sixth Years of the Reign of Her said Majesty, c intituled An Act to amend and enlarge the Acts for the c Improvement of Landed Property in Ireland:
+Improvement of Landed Property in Ireland, and the Acts amending the same, to the Erection of Dwellings for the ' Labouring Classes in Ireland; and a further Act was passed in the Session of Parliament held in the Twenty-fifth and f Twenty-sixth Years of the Reign of Her said Majesty, intituled An Act to amend and enlarge the Acts for the c Improvement of Landed Property in Ireland:
 
 And whereas great Benefit has been derived by means of
 
@@ -7876,23 +7878,23 @@ Districts to encourage the Erection and Establishment of c Lodging Houses and Dw
 
 The Words "Dwelling Houses" shall include Lodging Houses:
 
-The Word " Borough " shall mean and include any City,
+The Word " Borough" shall mean and include any City,
 
 Borough, or Town:
 
-The Term " Council " shall mean the Mayor, Aldermen, and Burgesses, or other the Municipal Corporation of any Borough, or any Town having Municipal Commissioners under the Act Third and Fourth Victoria, Chapter One hundred and eight:
+The Term " Council" shall mean the Mayor, Aldermen, and Burgesses, or other the Municipal Corporation of any Borough, or any Town having Municipal Commissioners under the Act Third and Fourth Victoria, Chapter One hundred and eight:
 
-The Term " Town Commissioners " shall mean any Commissioners intrusted with the paving, lighting, or cleansing of any Borough, or any Commissioners in any Townships under Local Acts; and the Word " Person " shall include Persons:
+The Term " Town Commissioners" shall mean any Commissioners intrusted with the paving, lighting, or cleansing of any Borough, or any Commissioners in any Townships under Local Acts; and the Word " Person " shall include Persons:
 
 The Term uPublic Works Commissioners" shall mean the Commissioners of Public Works in Ireland for the Time being:
 
-The Term " Lords of the Treasury " shall mean the Lords Commissioners of Her Majesty's Treasury for the Time being:
+The Term " Lords of the Treasury" shall mean the Lords Commissioners of Her Majesty's Treasury for the Time being:
 
-" Bates " shall mean the Rates, Tolls, Bents, Income, and other Monies whatsoever which under the Provisions of any Act shall be applicable for the general Purposes of such Act:
+"Bates" shall mean the Rates, Tolls, Bents, Income, and other Monies whatsoever which under the Provisions of any Act shall be applicable for the general Purposes of such Act:
 
-" Lands " shall mean Tenements and Hereditaments of whatsoever Nature or Tenure:
+"Lands" shall mean Tenements and Hereditaments of whatsoever Nature or Tenure:
 
-tc Justice " shall mean Justice of the Peace for the County,
+tc Justice" shall mean Justice of the Peace for the County,
 
 Division, Liberty, Borough, or Place where the Matter requiring the Cognizance of such Justice shall arise.
 
@@ -8058,7 +8060,7 @@ WHEREAS an Act was passed in the Ninth Year of the Reign of Her Majesty the now 
 
 ---
 
-And whereas another Act was passed in the Session held ' in the Sixteenth and Seventeenth Years of the Reign of Her c said Majesty, being An Act for enabling Grand Juries in c Ireland to borrow Money from private Sources on the Security e of Presentment, and for transferring to Counties certain Works e constructed wholly or in part loith Public Money, and which f last-mentioned Act was amended by an Act of the Session held in the Nineteenth and Twentieth Years of Her said
+And whereas another Act was passed in the Session held ' in the Sixteenth and Seventeenth Years of the Reign of Her said Majesty, being An Act for enabling Grand Juries in c Ireland to borrow Money from private Sources on the Security e of Presentment, and for transferring to Counties certain Works e constructed wholly or in part loith Public Money, and which f last-mentioned Act was amended by an Act of the Session held in the Nineteenth and Twentieth Years of Her said
 
 Majesty, Chapter Thirty-seven:
 
@@ -8154,7 +8156,7 @@ An Act to legalize the Payment and Distribution of Indian Prize Money by the Tre
 
 WHEREAS by the Fourteenth Section of the Act of
 
-c* 53, the Second Year of His late Majesty King William
+c. 53, the Second Year of His late Majesty King William
 
 the Fourth, Chapter Fifty-three, for consolidating and amending the Laws relating to the Payment of Army Prize Money, e it is provided that all Grants of Money in the Nature of Prize
 
@@ -8170,7 +8172,7 @@ Distribution among the Officers and Troops of Her Majesty's
 
 Army in respect of Captures and Expeditions in which such (Officers and Troops have been engaged in India:
 
-e And whereas such Portions of the Sums of Money so granted as aforesaid as may not have been claimed and distributed in India have been from Time to Time paid over and accounted for by the said Directors and Secretary of State in Council to the said Treasurer as Sums of Money c to be received on behalf of the Army by the said Treasurer c or his Deputy, to be distributed lo the Persons entitled thereto, according to their respective Proportions, under the Provisions of the said recited Act, and the said Trea-e surer hath received and dealt with the same accordingly: c And whereas Doubts have been raised whether the said
+e And whereas such Portions of the Sums of Money so granted as aforesaid as may not have been claimed and distributed in India have been from Time to Time paid over and accounted for by the said Directors and Secretary of State in Council to the said Treasurer as Sums of Money c to be received on behalf of the Army by the said Treasurer c or his Deputy, to be distributed lo the Persons entitled thereto, according to their respective Proportions, under the Provisions of the said recited Act, and the said Trea-e surer hath received and dealt with the same accordingly: And whereas Doubts have been raised whether the said
 
 Directors and Secretary of State in Council had Authority (for paying over and accounting for such Monies as aforesaid c to the said Treasurer, and whether the said Treasurer or
 
@@ -8290,7 +8292,7 @@ by reason thereof the said Lands are prejudicially affected as ' to the Security
 
 and no efficient Remedy in such Cases is provided by the ' said Acts: And whereas an Act was passed in the Session
 
-of Parliament held in the Twenty-sixth and Twenty-seventh c Years of the Reign of Her Majesty, Chapter Eighty-eight, c intituled An Act to enable Landed Proprietors to construct 6 Works for the Drainage and Improvement of Lands in Ireland; and Provision is by the said Act and the Acts since ' passed amending the same made for the Advance of Public f Monies to Drainage Boards constituted under the said last-c mentioned Acts to be expended upon the Drainage and Improvement of Lands within their respective Districts, and c to be secured upon such Lands; and Provision is also thereby made for Maintenance of the Works constructed by such c Drainage Boards by means of Rates assessed upon the Lands ' within such Districts, and the Proprietors thereof, according to the Proportions specified in the Awards in the said last-c mentioned Act mentioned: And whereas the Advantages to
+of Parliament held in the Twenty-sixth and Twenty-seventh c Years of the Reign of Her Majesty, Chapter Eighty-eight, intituled An Act to enable Landed Proprietors to construct 6 Works for the Drainage and Improvement of Lands in Ireland; and Provision is by the said Act and the Acts since ' passed amending the same made for the Advance of Public f Monies to Drainage Boards constituted under the said last-c mentioned Acts to be expended upon the Drainage and Improvement of Lands within their respective Districts, and c to be secured upon such Lands; and Provision is also thereby made for Maintenance of the Works constructed by such c Drainage Boards by means of Rates assessed upon the Lands ' within such Districts, and the Proprietors thereof, according to the Proportions specified in the Awards in the said last-c mentioned Act mentioned: And whereas the Advantages to
 
 be derived from Works of Drainage are dependent upon the proper Maintenance <f such Works: And whereas it is
 
@@ -8470,7 +8472,7 @@ An Act to amend the Acts relating to Lunacy in Scotland, and to make further Pro
 
 WHEREAS an Act was passed in the Twentieth and
 
-* Twenty-first Year of the Reign of Her present Majesty, 6 intituled An Act for the Regulation of the Care and Treat-c ment of Lunatics, and for the Provision, Maintenance, and c Regidation of Lunatic Asylums, in Scotland; and another Act c was passed in the Twenty-first and Twenty-second Year of the Reign of Her present Majesty, intituled An Act to amend c an Act of the last Session for the Regulation of the Care and c Treatment of Lunatics, and for the Provision, Maintenance, c and Regidation of Lunatic Asylums, in Scotland; and another
+* Twenty-first Year of the Reign of Her present Majesty, 6 intituled An Act for the Regulation of the Care and Treat-c ment of Lunatics, and for the Provision, Maintenance, and c Regidation of Lunatic Asylums, in Scotland; and another Act was passed in the Twenty-first and Twenty-second Year of the Reign of Her present Majesty, intituled An Act to amend c an Act of the last Session for the Regulation of the Care and c Treatment of Lunatics, and for the Provision, Maintenance, and Regidation of Lunatic Asylums, in Scotland; and another
 
 Act was passed in the Twenty-fifth and Twenty-sixth Year 6 of the Reign of Her present Majesty, intituled An Act to make farther Provision respecting Lunacy in Scotland; and another Act was passed in the Twenty-seventh and Twenty-c eighth Year of the Reign of Her present Majesty, intituled
 
@@ -8766,7 +8768,7 @@ An Act to amend the Law relating to the Qualifications of Revising Barristers.
 
 [30th July 1866.]
 
-WHEREAS it is expedient to amend an Act passed in the Sixth Year of the Reign of Her present Majesty, c intituled An Act to amend the Law for the Registration of c Persons entitled to vote, and to define certain Rights of voting, e and to regulate certain Proceedings in the Election of Members Q to serve in Parliament for England and Wales, so far as it c relates to the Qualifications of Revising Barristers: *
+WHEREAS it is expedient to amend an Act passed in the Sixth Year of the Reign of Her present Majesty, intituled An Act to amend the Law for the Registration of c Persons entitled to vote, and to define certain Rights of voting, e and to regulate certain Proceedings in the Election of Members Q to serve in Parliament for England and Wales, so far as it c relates to the Qualifications of Revising Barristers: *
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
@@ -9866,7 +9868,7 @@ Exceeding ton and not exceeding 2 tons - - 0 6
 
 55 2 tons, 3 tons - 0 8
 
-55 3 tons, 4 tons - - 0 10
+55 3 tons, tons - - 0 10
 
 55 4 tons, 5 tons - 1 0
 
@@ -10832,7 +10834,7 @@ Exceeding; 1 ton and not exceeding 2 tons - 0 6
 
 33 2 tons 33 3 tons - 0 8
 
-33 3 tons 33 4 tons .. 0 10
+33 3 tons 33 4 tons 0 10
 
 33 4 tons 33 5 tons - - 1 0
 
@@ -12244,7 +12246,7 @@ Hornsea *
 
 358 Cap. 58. Pier and Harbour Orders Confirmation. 29 & 30 VICT.
 
-Hornsea.. s. d.
+Hornsea. s. d.
 
 Tea, per chest - 1 0
 
@@ -12550,7 +12552,7 @@ Cap. 58.
 
 S; d. Llandudno.
 
-.Beef or pork, per barrel Biscuits or bread, per cwt.
+Beef or pork, per barrel Biscuits or bread, per cwt.
 
 Blubber, per tun of 252 gallons Bones and bone dust, per ton Bottles, per gross Bricks, per 1,000 Butter and lard, per barrel Ditto, per firkin -Cables, iron or hempen, per ton Canvas, per bolt Carriages:
 
@@ -14246,7 +14248,7 @@ For goods weighed, for each ton or part of a ton - 0 2
 
 3d. Shed Dues.
 
-For each ton of goods of 40 cubic feet* or for each ton .. of goods of 20 cwt.* which shall remain in the sheds or other works of the pier for a longer time than 48 hours, the sum of 3d .; and the sum of 1 \d. per ton for each day during which, such goods shall remain after first 48 hours.
+For each ton of goods of 40 cubic feet* or for each ton of goods of 20 cwt.* which shall remain in the sheds or other works of the pier for a longer time than 48 hours, the sum of 3d .; and the sum of 1 \d. per ton for each day during which, such goods shall remain after first 48 hours.
 
 For any portmanteau* trunk, parcel* or other article of passengers luggage* for each day or part of a day* per package - 0 2
 
@@ -14734,7 +14736,7 @@ John Kelday Upper Clapton, ---- Merry Lower Terrace,
 
 Upper Clapton, John Gay Finsbury Place, Richard Brushfield Spitalfields, Caesar Alexander Long Shoreditch, John Harris Heal 169, Tottenham Court Road, James Hodge 445, 446, and 447, Drury Lane, and Ivy House, Highgate, John Hodge 57, Russell Squai'e, and 445, 446, and 447, Drury Lane, Thomas Henry Scarborough 5, Bloomsbury Square, Robert Stedall, Broad Street, Bloomsbury, and The Priory, Highgate, Nathaniel Hardingham 3, Paradise Row, Bethnal Green, N.E., Robert Barnes Harefield Grove, Esquire, Henry William Woodbridge Uxbridge, Barrister-at-Law, Frederick John Rutter Hillingdon,
 
-.Esquire, Richard Hall Hillingdon, Esquire, Joseph Fisher Hillingdon, Esquire, George Edwards 3, Canterbury Villas, Maida Hill, Charles Frederick Wallis 4, Springfield Road, Hampstead, Henry Cornick Heath Street, Hampstead, Arthur Elley Finch 46, Haverstock Hill, Edward Robert Butler Cromwell Hall, Finchley, John Savage 54, Thornhill Square, Islington, William Nathaniel Wortley Highgate, Middlesex, William Webb 4, York Place, Albion Road, Stoke Newington, Henry Witten 5, Alwyne Road, Canonbury, Robert Sinclair 9, St Mary Road, Islington, Marmaduke Levitt 47, Park Road, Upper Holloway, Leopold Keller Hornsey, Arthur Waller 4 4, Aberdeen Park, Highbury, Percy Arden Sunbury, Douglas Arden Sunbury, Robert Freeman 43, Upper Phillimore Place, George Farmiloq junior, 448, Saint John Street, West Smithfield, Arthur Walter 44, Aberdeen Park, Highbury, Richard Moreland junior, 5, Old Street, Saint Luke's, Edward Complin 24, Charterhouse Square, William Walton Williams Highbury New Park, Thomas Hall Upper Holloway, Benjamin Ambler 6, Oxford Terrace, Upper Holloway, Edward John Thompson 2, Myddelton Square, Clerkenwell, Frederick Shadbolt Hornsey Lane, Charles Edward Elston 24, Myddelton Street, Clerkenwell, Henry Hayne 5, Highbury Crescent, Islington, John Kilpatrick 2, Northampton Square, Clerkenwell, William Leavers 403, City Road, Islington, Sir George Samuel Abercromby Baronet, Portman Square, Charles Baddeley Regent Street, Frederick Beasley Upper Hamilton Terrace, James Renhain Wigmore Street, John Benham Wigmore Street, William Lionel Bird Castle Street East, John Bloomer Upper Gloucester Place, Matthias Boyce Greville Road, George Brown Newman Street,
+Esquire, Richard Hall Hillingdon, Esquire, Joseph Fisher Hillingdon, Esquire, George Edwards 3, Canterbury Villas, Maida Hill, Charles Frederick Wallis 4, Springfield Road, Hampstead, Henry Cornick Heath Street, Hampstead, Arthur Elley Finch 46, Haverstock Hill, Edward Robert Butler Cromwell Hall, Finchley, John Savage 54, Thornhill Square, Islington, William Nathaniel Wortley Highgate, Middlesex, William Webb 4, York Place, Albion Road, Stoke Newington, Henry Witten 5, Alwyne Road, Canonbury, Robert Sinclair 9, St Mary Road, Islington, Marmaduke Levitt 47, Park Road, Upper Holloway, Leopold Keller Hornsey, Arthur Waller 4 4, Aberdeen Park, Highbury, Percy Arden Sunbury, Douglas Arden Sunbury, Robert Freeman 43, Upper Phillimore Place, George Farmiloq junior, 448, Saint John Street, West Smithfield, Arthur Walter 44, Aberdeen Park, Highbury, Richard Moreland junior, 5, Old Street, Saint Luke's, Edward Complin 24, Charterhouse Square, William Walton Williams Highbury New Park, Thomas Hall Upper Holloway, Benjamin Ambler 6, Oxford Terrace, Upper Holloway, Edward John Thompson 2, Myddelton Square, Clerkenwell, Frederick Shadbolt Hornsey Lane, Charles Edward Elston 24, Myddelton Street, Clerkenwell, Henry Hayne 5, Highbury Crescent, Islington, John Kilpatrick 2, Northampton Square, Clerkenwell, William Leavers 403, City Road, Islington, Sir George Samuel Abercromby Baronet, Portman Square, Charles Baddeley Regent Street, Frederick Beasley Upper Hamilton Terrace, James Renhain Wigmore Street, John Benham Wigmore Street, William Lionel Bird Castle Street East, John Bloomer Upper Gloucester Place, Matthias Boyce Greville Road, George Brown Newman Street,
 
 L 1 2 Thomas
 
@@ -15276,7 +15278,7 @@ Artillery. £ s. d.
 
 10. Volunteers may* if they desire, be transferred to another Regiment, with the Consent of the Commanding Officers of both Regiments, whether of Great Britain or Ireland, without being required to take any Oath other than that which they took on their original Enrolment.
 
-11. And whereas certain Lieutenants, Ensigns, and Sur-c geons Mates of the Militia of Great Britain, or Subaltern c Officers and Assistant Surgeons of the Militia of Ireland, c when unfit for further Duty, have been placed upon a retired c Allowance equal to and instead of the Allowance granted to c them on the disembodying of the Militia at the Termination c of the War in the Year One thousand eight hundred and fifteen: And whereas certain Paymasters, Surgeons, and
+11. And whereas certain Lieutenants, Ensigns, and Sur-c geons Mates of the Militia of Great Britain, or Subaltern c Officers and Assistant Surgeons of the Militia of Ireland, when unfit for further Duty, have been placed upon a retired c Allowance equal to and instead of the Allowance granted to c them on the disembodying of the Militia at the Termination c of the War in the Year One thousand eight hundred and fifteen: And whereas certain Paymasters, Surgeons, and
 
 Quartermasters, when unfit for Duty, have also been placed c on a retired Allowance equal to and instead of their reduced
 
@@ -16226,7 +16228,7 @@ To make, erect, and repair any Lodges, Shafts, Steam and other Engines, Building
 
 To do any such other Acts as are for the Time being necessary or convenient for working, searching for, digging, raising, carrying away, dressing, or making merchantable the Coal, Stone, or other Substances aforesaid;
 
-Giving to the Board of Trade at least Two Months previous Notice in Writing of the Intention to exercise the Powers of this Section (stating the Nature, Extent, and Duration of the proposed Interference with the Foreshore), and doing as little Damage as may be in the Exercise of those Powers, and making full Compensation to all Persons interested for all Damage sustained by them by reason or in consequence of the Exercise of such Powers, the Amount and*Application of such Compensation to be determined in manner provided by The Lands Clauses Consolidation Act, 1845, The Lands Clauses Consolidation (Scotland) Act, 1845, or The Railways Act (Ireland0, 1851, and any Act amending those Acts respectively (as the Case requires), for Determination of the Amount and Application of Compensation for Lands taken or injuriously affected.
+Giving to the Board of Trade at least Two Months previous Notice in Writing of the Intention to exercise the Powers of this Section (stating the Nature, Extent, and Duration of the proposed Interference with the Foreshore), and doing as little Damage as may be in the Exercise of those Powers, and making full Compensation to all Persons interested for all Damage sustained by them by reason or in consequence of the Exercise of such Powers, the Amount and Application of such Compensation to be determined in manner provided by The Lands Clauses Consolidation Act, 1845, The Lands Clauses Consolidation (Scotland) Act, 1845, or The Railways Act (Ireland0, 1851, and any Act amending those Acts respectively (as the Case requires), for Determination of the Amount and Application of Compensation for Lands taken or injuriously affected.
 
 23. Nothing in the foregoing Provisions shall authorize any Person, and it shall not be lawful for any Person, to sink, drive, or make any Pit, Shaft, Adit, Drift, Level, Drain, Watercourse, Pool, or Embankment, so as to injure, weaken, or endanger, or be likely to injure, weaken, or endanger, any Pier or other Structure on or near the Foreshore.
 
@@ -16956,7 +16958,7 @@ Be it therefore enacted by the Queen's most Excellent Majesty, by and with the A
 
 Context repugnant to such Construction, — of Terms.
 
-The Word " Minister " shall mean the Minister of any Parish in Scotland for the Time who shall be in possession of a Glebe:
+The Word " Minister" shall mean the Minister of any Parish in Scotland for the Time who shall be in possession of a Glebe:
 
 The
 
@@ -16972,7 +16974,7 @@ The Word " Heritor>9 shall mean the Proprietor of any Lands within such Parish t
 
 The Word " Glebe" shall mean the Lands appropriated to the Minister as his Glebe, and any additional Lands settled in perpetuity on the Minister for the Time being, and enjoyed by him along with his Glebe:
 
-The Word " Court " shall mean the Court of Session as Commissioners for the Plantation of Kirks and Valuation of Teinds.
+The Word " Court" shall mean the Court of Session as Commissioners for the Plantation of Kirks and Valuation of Teinds.
 
 Power to grant Leases not exceeding Eleven Years.
 
@@ -17470,7 +17472,7 @@ accordance with repealed Enactment.
 
 25 & 26 Vict. c. 58.
 
-C, 74, 75. NewS. Wales and Van Diemen's Land Govt. 29 & 30 VICT.
+C. 74, 75. NewS. Wales and Van Diemen's Land Govt. 29 & 30 VICT.
 
 Ground that such Law being a Law altering or affecting the Duties of Customs aforesaid has not been reserved for the Signification of Her Majesty's Pleasure thereon.
 
@@ -17598,7 +17600,7 @@ of the Reign of Her present Majesty, Chapter Forty-f four, intituled An Act to f
 
 And whereas there are in Scotland United Parishes in f which there are already Two or more Parish Churches main^ c tained:
 
-And whereas in such United Parishes an Increase of c Population or other Change of Circumstances may take place, f rendering it expedient under the Provisions of the said Act f to apply for Disjunction from such United Parishes, and Erection into a Parish quoad sacra, of a District thereof: c And whereas by the said Act no Power is conferred upon the Heritors of such United Parishes to convey or make over any One of the Parish Churches of such United Parish to f the Party or Parties who shall have endowed or undertaken f to endow such Parish quoad sacra:
+And whereas in such United Parishes an Increase of c Population or other Change of Circumstances may take place, f rendering it expedient under the Provisions of the said Act f to apply for Disjunction from such United Parishes, and Erection into a Parish quoad sacra, of a District thereof: And whereas by the said Act no Power is conferred upon the Heritors of such United Parishes to convey or make over any One of the Parish Churches of such United Parish to f the Party or Parties who shall have endowed or undertaken f to endow such Parish quoad sacra:
 
 And whereas it is reasonable and proper that such Power should be conferred
 
@@ -18038,7 +18040,7 @@ Lessees or reputed Owners and Lessees, and of the Occu-f piers thereof, have bee
 
 Peace for the County of Middlesex at his Office at the f Sessions House, Clerkenwell, in the said County, and with the c Vestry Clerk of the Parish of Saint Martin-in-the-Fields at c his Office: And whereas Parts of the prescribed Lands are
 
-now the Site of the Workhouse for the Parish of Saint Martin-in-the-Fields, and other Parts thereof are now the 6 Site of the Parochial Schools of the said Parish, and other f Parts thereof are now the Site of the School founded by c Archbishop Tenison, and other Parts thereof belong to and s are now vested in Her Majesty as Part of the Hereditary f Land Revenues of the Crown, subject only to the existing c Leases and Tenancies thereof, which Leases and Tenancies are specified in the Second Schedule to this Act annexed: c And whereas a Provisional Agreement, a Copy whereof is f contained in the First Schedule to this Act annexed, has, c with the Consent of the Lords Commissioners of Her Majesty's Treasury, been entered into by the First Commissioner of Her Majesty's Works and Public Buildings with f the Guardians of the Poor of the said Parish: And whereas
+now the Site of the Workhouse for the Parish of Saint Martin-in-the-Fields, and other Parts thereof are now the 6 Site of the Parochial Schools of the said Parish, and other f Parts thereof are now the Site of the School founded by c Archbishop Tenison, and other Parts thereof belong to and s are now vested in Her Majesty as Part of the Hereditary f Land Revenues of the Crown, subject only to the existing c Leases and Tenancies thereof, which Leases and Tenancies are specified in the Second Schedule to this Act annexed: And whereas a Provisional Agreement, a Copy whereof is f contained in the First Schedule to this Act annexed, has, with the Consent of the Lords Commissioners of Her Majesty's Treasury, been entered into by the First Commissioner of Her Majesty's Works and Public Buildings with f the Guardians of the Poor of the said Parish: And whereas
 
 it is expedient that the said Agreement should be confirmed,
 
@@ -18264,7 +18266,7 @@ create any personal Obligation on the said First Commissioner or on the said Gua
 
 Witness the Hand of the said William Francis Cowper and the Corporate Seal of the said Guardians.
 
-Signed by the .said William Francis '"x
+Signed by the said William Francis '"x
 
 Cowper, in the Presence of / Corporate
 
@@ -18318,7 +18320,7 @@ and to establish a Registrar of all such Attorneys, Solicitors, ' and Apprentice
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the stune, as follows:
 
-1. In the Construction of this Act, unless there be something in the Subject or Context repugnant to such Construction, the Word " Attorney " shall mean Attorney of One or more of the Superior Courts of Law at Dublin; the Word "Solicitor" shall mean Solicitor of the High Court of Chancery in Ireland; the Word " Registrar " shall mean the Registrar of Attorneys and Solicitors; the Expression cc the Roll of Attorneys and Solicitors kept by the Registrar " shall mean the Roll or Book, Rolls or Books, of Attorneys and Solicitors, which by this Act the Registrar is required to keep; and the Expression " the Incorporated Law Society" shall mean "the Society of the Attorneys and Solicitors of Ireland " acting under their present or any future Charter.
+1. In the Construction of this Act, unless there be something in the Subject or Context repugnant to such Construction, the Word " Attorney" shall mean Attorney of One or more of the Superior Courts of Law at Dublin; the Word "Solicitor" shall mean Solicitor of the High Court of Chancery in Ireland; the Word " Registrar" shall mean the Registrar of Attorneys and Solicitors; the Expression cc the Roll of Attorneys and Solicitors kept by the Registrar" shall mean the Roll or Book, Rolls or Books, of Attorneys and Solicitors, which by this Act the Registrar is required to keep; and the Expression " the Incorporated Law Society" shall mean "the Society of the Attorneys and Solicitors of Ireland " acting under their present or any future Charter.
 
 2. This Act may be cited as " The Attorneys and Solicitors Act (Ireland), 1866."
 
@@ -19108,7 +19110,7 @@ Minister of which One of the said annual Charges is payable, such annual Charge 
 
 Provided also, that in the event of any Delay taking place in the Preparation or Registration of any Certificate of Endowment the said Commissioners shall in the meantime make such Payments in respect of the corresponding Augmentation as they in their Discretion shall think just.
 
-14. Jb'rom and after the Time when the Income of any Half the existing Benefice augmented under this Act shall amount to Sittings of the annual Sum of Three hundred Pounds, exclusive of Sur- chu^che^s to be plice Fees and Pew Rents, One Half Part at least of the free, whole Number of Pews or Sittings in the Church or Chapel
+14. Jb'rom and after the Time when the Income of any Half the existing Benefice augmented under this Act shall amount to Sittings of the annual Sum of Three hundred Pounds, exclusive of Sur- chu^che's to be plice Fees and Pew Rents, One Half Part at least of the free, whole Number of Pews or Sittings in the Church or Chapel
 
 thereof shall be declared by the Commissioners and the Bishop of the Diocese, to be free Sittings, such Sittings to be selected by the Bishop of the Diocese so that, haying regard to Position and Convenience, they may be as advantageously situated as the remaining Moiety of the Pews and Sittings.
 
@@ -19582,7 +19584,7 @@ Presence of and attested by a Justice of the Peace, or an Attorney or Solicitor 
 
 8. On or within Seven Days after the First Day of De- Time for First cemher One thousand eight hundred and sixty-six Elections Elections* shall be held for the Four elective Conservators added by this Act.
 
-9. On or within Seven Days after the First Day of December Time for in the Year One thousand eight hundred and sixty-seven, and,
+9. On or within Seven Days after the First Day of December Time for in the Year One thousand eight hundred and sixty-seven, and, 
 
 in every subsequent Year, Elections shall be held for filling up Vacancies among the Conservators elected under this Act.
 
@@ -20396,7 +20398,7 @@ Amendment of the Nuisances Removal Acts.
 
 14. The Expression "Nuisances Removal Acts" shall mean the Acts passed in the Years following of the Reign of Her present Majesty, that is to say, the one in the Session of the Eighteenth and Nineteenth Years, Chapter One hundred and twenty-one, and the other in the Session of the Twenty-third and Twenty-fourth Years, Chapter Seventy-seven, as amended by this Part of this Act; and this Part of this Act shall be construed as One with the said Acts, and all Expenses incurred by a Nuisance Authority in carrying into effect any of the Provisions of this Part of this Act shall be deemed to be Expenses incurred by it in carrying into effect the Nuisances Removal Acts.
 
-15. " Nuisance Authority " shall mean any Authority empowered to execute the Nuisances Removal Acts.
+15. " Nuisance Authority" shall mean any Authority empowered to execute the Nuisances Removal Acts.
 
 16. In any Place within the Jurisdiction of a Nuisance Authority the Chief Officer of Police within that Place, by and under the Directions of One of Her Majesty's Principal Secretaries of State, on its being proved to his Satisfaction that the Nuisance Authority has made default in doing its Duty, may institute any Proceeding which the Nuisance Authority of such Place might institute with respect to the Removal of Nuisances: Provided always, that no Officer of Police shall be at liberty to enter any House or Part of a House used as the Dwelling of any Person without such Person's Consent, or without the Warrant of a Justice of the Peace, for the Purpose of carrying into effect this Act.
 
@@ -23174,7 +23176,7 @@ Spiritual and Temporal* and Commons* in this present Parliament assembled, and b
 
 2. This Act may be cited for all Purposes as the " Oyster Fishery (Ireland) Amendment Act* 1866."
 
-3. In the Construction of this Act the Term " Commissioners" shall mean the Commissioners of Public Works in Ireland as Commissioners of Fisheries* together with the inspecting Commissioner of Fisheries in Ireland for the Time being associated with them for the Purpose of executing the said Acts* or any One or more of them; the Term " Owner of Lands " shall mean any Person entitled to the Possession or Receipt of the Rents and Profits of Lands for an Estate for his own Life* or for Years determinable on his own Life* or for any greater Estate* exclusive of any Person entitled to such Lands by virtue of any Lease for Lives or Years at a Rackrent.
+3. In the Construction of this Act the Term " Commissioners" shall mean the Commissioners of Public Works in Ireland as Commissioners of Fisheries* together with the inspecting Commissioner of Fisheries in Ireland for the Time being associated with them for the Purpose of executing the said Acts* or any One or more of them; the Term " Owner of Lands" shall mean any Person entitled to the Possession or Receipt of the Rents and Profits of Lands for an Estate for his own Life* or for Years determinable on his own Life* or for any greater Estate* exclusive of any Person entitled to such Lands by virtue of any Lease for Lives or Years at a Rackrent.
 
 4. It shall be lawful for the Commissioners to grant a Licence to the Owner of any Land bordering on the Sea* or any Estuary* or to any Person or Persons, with the Consent of such Owner* to form or plant any Oyster Bed or Laying* whether above or below Low-water Mark: Provided always* that the forming and planting of such Oyster Beds shall not give any exclusive Right or Title to the Occupancy of the Shore* except for the Purposes aforesaid.
 
@@ -25276,7 +25278,7 @@ No.
 
 Description Names of Owners or Names of Lessees or
 
-of Lands, Messuages, . Buildings, and Premises. reputed Owners. reputed Lessees.
+of Lands, Messuages, Buildings, and Premises. reputed Owners. reputed Lessees.
 
 Names of Occupiers.
 
@@ -25446,7 +25448,7 @@ No. on Plan. Description of Lands, Messuages, Buildings, and Premises. Names of 
 
 43 Tenement - Mary Atchley. Abraham Atchley Ann Hillman William Horn.
 
-44 Tenement - Mary Atchley. Abraham Atchley Ann Hillman James Slew ter.
+Tenement - Mary Atchley. Abraham Atchley Ann Hillman James Slew ter.
 
 45 House and Shop, Mary Atchley. Richard Phillips John Hill.
 
@@ -26194,7 +26196,7 @@ John Waite.
 
 Mary Babb. Thomas Lovell. Sophia Nicholls.
 
-44 Dwelling House and Yard.
+Dwelling House and Yard.
 
 College Green.
 
@@ -26694,7 +26696,7 @@ St Michael's Steps.
 
 43 Cottage, Yard, and Outbuildings. Prudence Court Joseph B. Taylor. Elizabeth Jones. - John Watkins.
 
-44 Cottage and Yard - Prudence Court Joseph B. Taylor. Elizabeth J ones. - - John Morgan.
+Cottage and Yard - Prudence Court Joseph B. Taylor. Elizabeth J ones. - - John Morgan.
 
 45 Cottage - Prudence Court Joseph B. Taylor. Elizabeth Jones. - — William Lewis Pike.
 
@@ -26960,7 +26962,7 @@ No. on Plan. Description of Lands, Messuages, Buildings, and Premises. Names of 
 
 38 House and Courtyard Augustus Payne James Wildgoose. John Dyer. George Charles Darlington and Emily his Wife. George Bray and Eliza his Wife. Richard Taylor. William Townsend Palmer. Elizabeth Davis.
 
-39 House and Courtyard Augustus Payne James Wildgoose. John Dyer. George Charles Darlington and Emily his Wife. George Bray and Eliza his Wife. Richard Taylor. William Townsend .. Palmer. William Tyler.
+39 House and Courtyard Augustus Payne James Wildgoose. John Dyer. George Charles Darlington and Emily his Wife. George Bray and Eliza his Wife. Richard Taylor. William Townsend Palmer. William Tyler.
 
 40 House - John Pritchard Fanny Gilmore. - John Pritchard.
 
@@ -26972,7 +26974,7 @@ No. on Plan. Description of Lands, Messuages, Buildings, and Premises. Names of 
 
 No. on Plan. Description of Lands, Messuages, Buildings, and Premises. Names of Owners or reputed Owners. Names of Lessees or reputed Lessees. Names of Occupiers.
 
-44 House and Shop Stephen A. Clark Fanny Gilmore. - Richard Wren.
+House and Shop Stephen A. Clark Fanny Gilmore. - Richard Wren.
 
 45 Shed The Mayor, Aldermen, and Burgesses of the City of Bristol. Walter Johns.
 
@@ -27898,7 +27900,7 @@ WHEREAS the Secretary of State for the Home Depart- merit, being One of Her Maje
 
 taries of State, has, under the Provisions of the Local Government Act, 1858, duly made certain Provisional Orders
 
-which are contained in the Schedule to this Act annexed, c and it is provided by the aforesaid Local Government Act 6 that no such Orders shall be of any Validity whatever until
+which are contained in the Schedule to this Act annexed, and it is provided by the aforesaid Local Government Act 6 that no such Orders shall be of any Validity whatever until
 
 they shall have been confirmed by Parliament; and it is
 
@@ -29374,7 +29376,7 @@ Supplemental Pkovisions.
 
 " Admiralty*" or " the Lords of the Admiralty*" shall mean the Lord High Admiral for the Time being of the United Kingdom of Great Britain and Ireland, and when there shall be no such Lord High Admiral in Office* any Two or more of the Commissioners for executing the Office of Lord High Admiral of the United Kingdom:
 
-" Officer " shall mean an Officer belonging to One of Her Majesty's Ships* and shall include a subordinate and a Warrant Officer, but shall not extend to Petty and Noncommissioned Officers:
+"Officer" shall mean an Officer belonging to One of Her Majesty's Ships* and shall include a subordinate and a Warrant Officer, but shall not extend to Petty and Noncommissioned Officers:
 
 When the Words cc Superior Officer" are used in this Act they shall be held to include all Officers* including Petty and Non-commissioned Officers.
 
@@ -30136,7 +30138,7 @@ WHEREAS divers Persons who, on account of their 4 *" Offices, Places, Employment
 
 Chapter Forty-eight, or according to an Act of the same
 
-Session, Chapter Forty-nine, or according to an Act of the Twenty-second Year of Her present Majesty, Chapter Ten, 4 have, through Ignorance of the Law, Absence, or some unavoidable Accident, omitted to qualify themselves, within such Time and in such Manner as in and by the said Acts or some of them respectively is required, whereby they have incurred, or may be in danger of incurring, divers Penalties and Disabilities
+Session, Chapter Forty-nine, or according to an Act of the Twenty-second Year of Her present Majesty, Chapter Ten, have, through Ignorance of the Law, Absence, or some unavoidable Accident, omitted to qualify themselves, within such Time and in such Manner as in and by the said Acts or some of them respectively is required, whereby they have incurred, or may be in danger of incurring, divers Penalties and Disabilities
 
 For quieting the Minds of Her Majesty's Subjects, and for preventing any Inconvenience that might otherwise happen by means of such Omissions, be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
@@ -31558,7 +31560,7 @@ An Act for the Amendment of the Law relating to Treaties of Extradition.
 
 WHEREAS Difficulties have been experienced in carrying £ 1 into execution Treaties for the Extradition of Persons
 
-f accused of Crimes between Her Majesty and the Sovereigns or Governments of certain Foreign States: And whereas the Statutes now in force for this Purpose have been found e insufficient: And whereas it is expedient to amend the same, c and to give greater Facilities than at present exist under the aforesaid Statutes for the Admission in Evidence of judicial e or official Documents or Copies of Documents:
+f accused of Crimes between Her Majesty and the Sovereigns or Governments of certain Foreign States: And whereas the Statutes now in force for this Purpose have been found e insufficient: And whereas it is expedient to amend the same, and to give greater Facilities than at present exist under the aforesaid Statutes for the Admission in Evidence of judicial e or official Documents or Copies of Documents:
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, as follows:
 
@@ -31734,7 +31736,7 @@ and all Expenditure incurred by the Metropolitan Board of out of Loc^f Works und
 
 to an original Scheme shall apply also to an amending Scheme, mutatis mutandis.
 
-28. Where any Lord of a Manor, Commoner, or other Provision for Person having any Estate, Interest, or Right in, over, or C^ts of'Dls' affecting a Common is under the Disability of Infancy,
+28. Where any Lord of a Manor, Commoner, or other Provision for Person having any Estate, Interest, or Right in, over, or C^ts of Dls' affecting a Common is under the Disability of Infancy,
 
 Lunacy, or Coverture, or other legal Disability, or is beyond
 
