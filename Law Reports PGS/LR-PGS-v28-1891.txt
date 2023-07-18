@@ -394,7 +394,9 @@ undertaking is, or is intended to be, connected, for the transfer to and vesting
 
 Part V. of the Railways Clauses Act, 1863, relating to amalgamation, shall be incorporated with this Act, and in the construction of that part for the purposes of such incorporation:—
 
-(a.) this Act and the agreement for transfer shall together be deemed to be the amalgamating Act; and (6.) the said transfer, vesting, and dissolution shall be deemed to be an amalgamation; and (c.) the railway company shall be deemed to be the amalgamated company, and the promoters the dissolved company; and (d.) the date at which the agreement for transfer is approved by the Railway and Canal Commission shall be deemed to be the time of amalgamation; and (e.) any grand jury presentment relating to the undertaking, and any Order in Council or Act of Parliament confirming such presentment which shall be in force at the date of the approval of the agreement for transfer by the Railway; nd Canal Commission, shall be deemed to be special Acts relating to or affecting the dissolved company or their undertaking in force at the passing of the amalgamating Act.
+(a.) this Act and the agreement for transfer shall together be deemed to be the amalgamating Act; and
+
+(b.) the said transfer, vesting, and dissolution shall be deemed to be an amalgamation; and (c.) the railway company shall be deemed to be the amalgamated company, and the promoters the dissolved company; and (d.) the date at which the agreement for transfer is approved by the Railway and Canal Commission shall be deemed to be the time of amalgamation; and (e.) any grand jury presentment relating to the undertaking, and any Order in Council or Act of Parliament confirming such presentment which shall be in force at the date of the approval of the agreement for transfer by the Railway; nd Canal Commission, shall be deemed to be special Acts relating to or affecting the dissolved company or their undertaking in force at the passing of the amalgamating Act.
 
 Provided always, that except as may be otherwise provided by the agreement for transfer, no debt due by the promoters shall become or be payable by, nor shall any clerk, officer, or servant of the promoters become or be a clerk, officer, or servant of the railway company.
 
@@ -602,7 +604,7 @@ Technical Instruction Act, 1891. Ch. 4, 5.
 
 be necessary for the requirements of the district in case3 where similar provision cannot be so advantageously made by-aiding a school or institution within its district; and
 
-(6.) Provide or assist in providing scholarships for or pay or assist in paying the fees of students ordinarily resident in the district of the local authority at schools or institutions within or outside that district.
+(b.) Provide or assist in providing scholarships for or pay or assist in paying the fees of students ordinarily resident in the district of the local authority at schools or institutions within or outside that district.
 
 (2.) In distributing the provision made in aid of technical or manual instruction, the local authority may consider all the circumstances of the case, and shall not be bound to distribute the provision so made exclusively in proportion to the nature and amount of efficient technical or manual instruction supplied by those schools or institutions respectively.
 
@@ -1920,9 +1922,9 @@ sub-section shall prevent the continuance of special investments in behalf of an
 
 (d.) The accounts of the bank shall be kept so as to distinguish between the receipts and expenditure on account of special investments and the receipts and expenditure on account of the general business of the bank;
 
-(c.) The assets of the bank in respect of ordinary deposits shall not be chargeable with any part of the expenditure on account of special investments, and shall not be liable for any loss or deficiency in respect of special investments;
+(e.) The assets of the bank in respect of ordinary deposits shall not be chargeable with any part of the expenditure on account of special investments, and shall not be liable for any loss or deficiency in respect of special investments;
 
-(/.) The security required by section eight of the Trustee Savings Banks Act, 1863, as amended by this Act, shall comprise separate security in respect of the amount received on account of special investments:
+(f.) The security required by section eight of the Trustee Savings Banks Act, 1863, as amended by this Act, shall comprise separate security in respect of the amount received on account of special investments:
 
 (g.) The annual statement required by section fifty-five of the Trustee Savings Bank Act, 1863, shall contain, or be accompanied by, such particulars with respect to the special investments of the bank as the National Debt Commissioners direct;
 
@@ -2096,7 +2098,7 @@ or to gymnasiums only.
 
 (a.) Given in the mode in which notices to attend meetings of the authority are usually given; or
 
-(6.) Where there is no such mode, then signed by the clerk of the authority, and delivered to the member or left at his usual or last known place of abode in England, or forwarded by post in a prepaid letter, addressed to the member at his usual or last known place of abode in England.
+(b.) Where there is no such mode, then signed by the clerk of the authority, and delivered to the member or left at his usual or last known place of abode in England, or forwarded by post in a prepaid letter, addressed to the member at his usual or last known place of abode in England.
 
 (3.) Such resolution shall be published by advertisement in some one or more newspapers circulating within the district of the authority, and by causing notice thereof to be affixed to the principal doors of every church and chapel in the place to which notices are usually fixed, and otherwise in such manner as the authority think sufficient for giving notice thereof to all persons interested, and shall come into operation at a time not less than one month after the first publication of the advertisement of the resolution as the authority may by the resolution fix, and upon its coming into operation the Act shall extend to that district.
 
@@ -2130,7 +2132,7 @@ by the urban authority, or with the consent of the urban authority by the person
 
 (a.) may regulate the admission of the public to such gymnasium, either by classes or otherwise as they think fit, and may charge fees for such admission; and
 
-(6.) may, for not more than two hours in each day, grant the exclusive use thereof to any person or body of persons for the purpose of gymnastic exercises, for such payment and on such terms and conditions as they think fit.
+(b.) may, for not more than two hours in each day, grant the exclusive use thereof to any person or body of persons for the purpose of gymnastic exercises, for such payment and on such terms and conditions as they think fit.
 
 (3.) An urban authority may (for not more than twenty-four days in one year nor more than six consecutive days) close the gymnasium for use as a gymnasium, and grant the use of the same gratuitously or for payment to any person for the purpose of any lecture, exhibition, public meeting, entertainment, or other public purpose, and the admission on such days shall be either with or without payment as directed by the urban authority, or with the consent of the urban authority by the person to whom the use of the same is granted.
 
@@ -2146,9 +2148,9 @@ by the urban authority, or with the consent of the urban authority by the person
 
 (e.) For prescribing conditions on which the exclusive use of the museum, or any room therein, or of the gymnasium is granted in any case:
 
-(/.) For determining the duties of the instructor, officers, and servants of the urban authority in connexion with a museum or gymnasium:
+(f.) For determining the duties of the instructor, officers, and servants of the urban authority in connexion with a museum or gymnasium:
 
-(g>) Generally for regulating and managing the museum or gymnasium.
+(g.) Generally for regulating and managing the museum or gymnasium.
 
 (2.) The urban authority may make byelaws for regulating the conduct of persons admitted to the museum or gymnasium, and may by any such byelaw provide for the removal from the museum or gymnasium of any person infringing any such byelaw by any officer of the urban authority or by any constable.
 
@@ -2602,7 +2604,7 @@ Presumption of Life Limitation (Scotland) Act, 1891.
 
 54 & 55 VICT.
 
-(6.) In cases where the total amount or value of the estate in Scotland, the right to which depends upon the death of the absent person, does not exceed five hundred pounds, the Sheriff Court of the county in which the said estate or the greater part thereof is situate, in which case the sheriff shall direct such intimation and service and such investigation or inquiry as he may think fit, and the procedure in so far as concerns appeal to and review by a higher court shall be in all respects the same as in an action in the ordinary sheriff court: Provided that the value of heritable estate, for the purpose of this section, shall be ascertained in terms of the provisions of the Act fortieth and forty-first Victoria, chapter fifty:
+(b.) In cases where the total amount or value of the estate in Scotland, the right to which depends upon the death of the absent person, does not exceed five hundred pounds, the Sheriff Court of the county in which the said estate or the greater part thereof is situate, in which case the sheriff shall direct such intimation and service and such investigation or inquiry as he may think fit, and the procedure in so far as concerns appeal to and review by a higher court shall be in all respects the same as in an action in the ordinary sheriff court: Provided that the value of heritable estate, for the purpose of this section, shall be ascertained in terms of the provisions of the Act fortieth and forty-first Victoria, chapter fifty:
 
 (2.) Unless it otherwise appear from the context, the word “estate ” shall mean and include all property heritable and moveable, real and personal, and any right or interest therein of any description.
 
@@ -2726,7 +2728,7 @@ Ch. 31. Mail Ships Act, 1891. 51 & 55 Vict.
 
 (a.) by the personal security of a surety, accompanied by an adequate real security given by the surety; or,
 
-(6.) by the payment or transfer into court of cash, or of securities of the Government of the United Kingdom.
+(b.) by the payment or transfer into court of cash, or of securities of the Government of the United Kingdom.
 
 (3.) If the owner gives such security to the satisfaction of the High Court, then so long as the security is maintained and is sufficient to the satisfaction of the Court, and the number and tonnage of the ships for the time being actually engaged in carrying mails for the postal service in respect of which the security is given does not exceed the number and tonnage of the ships to which the security applies, the ships actually engaged in carrying mails for the said service shall be deemed to be exempted mail ships, and be entitled to the exemptions and privileges given by this Act to exempted mail ships; and the Board of Trade shall give the prescribed notices for informing the arresting authorities that the ships actually engaged in carrying the mails for the said postal service are exempted mail ships.
 
@@ -3158,7 +3160,7 @@ Act, 1891.
 
 (a.) Each undertaking or purpose for, or in respect of, which any statutory borrowing power is exercised by them by the issue of stock; and
 
-(6.) Each statutory borrowing power so exercised.
+(b.) Each statutory borrowing power so exercised.
 
 (2.) Those separate accounts shall distinguish and show —
 
@@ -3170,7 +3172,7 @@ Act, 1891.
 
 (e.) All money being capital, or in the nature of capital, arising from any sale, lease, or other disposition of lands and heritages, or other property of the local authority, or (if the local authority have power to lend) principal received on payment off of any loan made by the local authority by means of the creation and issue of stock, under the powers of this Act, paid into the loans fund, and, in the judgment of the local authority, properly attributable to that undertaking or purpose, and the securities on which that money or any part thereof is from time to time invested; and
 
-(/.) All money from time to time received as interest, and annual proceeds of the last-mentioned money and securities; and
+(f.) All money from time to time received as interest, and annual proceeds of the last-mentioned money and securities; and
 
 (g.) All money from time to time received as rents and profits of any lands and heritages, and other property of the local authority so as aforesaid acquired, and not otherwise appropriated or made applicable; and (h.) All money and securities transferred to the loans fund as having formed part of a sinking fund, and all money from time to time received as interest and annual proceeds of the last-mentioned money and securities, or of securities wherein the same interest and annual proceeds are from time to time invested by way of accumulation; and (j.) All money paid into the loans fund as contributions from the local authority revenues in respect of dividends on the several portions of stock chargeable to that undertaking or purpose; and
 
@@ -3196,7 +3198,7 @@ tion, or purchase and extinction, of those several portions of stock.
 
 (a.) In reduction of such contributions out of the local authority revenues as are payable into the loans fund in respect of dividends on the portions of stock comprised in the separate account on which the money or interest and annual proceeds is or are standing:
 
-(6.) In reduction of such contributions out of the local authority revenues as are payable into the loans fund for redemption and extinction, or purchase and extinction, of those portions of stock.
+(b.) In reduction of such contributions out of the local authority revenues as are payable into the loans fund for redemption and extinction, or purchase and extinction, of those portions of stock.
 
 20. For the purposes of any contribution or account under this Act the local authority, if they think fit, having regard to all the circumstances of the case, and subject to the terms on which any loan of the local authority was contracted or any stock was issued, may, from time to time, determine and declare on which of the local authority revenues any loan of the local authority or any portion of stock is or shall be deemed to be primarily or collaterally charged, or determine and declare that any loan of the local authority or any portion of stock shall be apportioned, as regards
 
@@ -3334,7 +3336,7 @@ tinder the hand and seal of the party making the transfer, attested by one or mo
 
 (6.) Until the deed of transfer has been so delivered to the local authority or the registrar, the local authority or the registrar shall not be affected thereby, and the purchaser of the stock shall not be entitled to receive any dividend thereon.
 
-3L — (1.) The local authority or the registrar, before allowing any transfer of stock, may, if the circumstances of the case appear to them or him to make it expedient, require evidence of the title of any person claiming a right to make the transfer.
+31. — (1.) The local authority or the registrar, before allowing any transfer of stock, may, if the circumstances of the case appear to them or him to make it expedient, require evidence of the title of any person claiming a right to make the transfer.
 
 (2.) That evidence shall be a statutory declaration of one or more competent persons, or of such other nature as the local authority or the registrar, with the approval of the local authority, may require.
 
@@ -3578,7 +3580,7 @@ be required for carrying into effect the provisions of this Act, and may also fr
 
 (a.) The period for which coupons are to be given:
 
-(6.) The mode in which the bank are to act in issuing stock certificates to bearer, or entering in the transfer books the bearers of stock certificates to bearer:
+(b.) The mode in which the bank are to act in issuing stock certificates to bearer, or entering in the transfer books the bearers of stock certificates to bearer:
 
 (c.) The mode of proving the title of, or identifying any person applying for a stock receipt or stock certificate or stock certificate to bearer:
 
@@ -4804,7 +4806,7 @@ have been delivered to the payee, provided that another completed and duly stamp
 
 (a.) An instrument executed by any party thereto, but afterwards found to be absolutely void from the beginning:
 
-(6.) An instrument executed by any party thereto, but afterwards found unfit, by reason of any error or mistake therein, for the purpose originally intended:
+(b.) An instrument executed by any party thereto, but afterwards found unfit, by reason of any error or mistake therein, for the purpose originally intended:
 
 (c.) An instrument executed by any party thereto which has not been made use of for any purpose whatever, and which by reason of the inability or refusal of some necessary party to sign the same or to complete the transaction according to the instrument, is incomplete and insufficient for the purpose for which it was intended:
 
@@ -5176,7 +5178,7 @@ stamps.
 
 Assessment of duty by Commissioners.
 
-(6.) Sells or offers for sale, or utters, any adhesive stamp which has been so removed, or utters any instrument, having thereon any adhesive stamp which has to his knowledge been so removed as aforesaid; he shall, in addition to any other fine or penalty to which ho may be liable, incur a fine of fifty pounds.
+(b.) Sells or offers for sale, or utters, any adhesive stamp which has been so removed, or utters any instrument, having thereon any adhesive stamp which has to his knowledge been so removed as aforesaid; he shall, in addition to any other fine or penalty to which ho may be liable, incur a fine of fifty pounds.
 
 (2.) The expression “instrument ” in this section includes any post letter as defined by the Post Office Protection Act, 1884, and the cover of any post letter.
 
@@ -5214,7 +5216,7 @@ Stamp Act, 1891. Ch. 39.
 
 (a.) An instrument upon which the duty has been asst ssed by the Commissioners shall not, if it is unstamped or insufficiently stamped, be stamped otherwise than in accordance with the assessment:
 
-(6.) Nothing in this section shall extend to any instrument chargeable with ad valor em duty, and made as a security for money or stock without limit; or shall authorise the stamping after the execution thereof of any instrument which by law cannot be stamped after execution:
+(b.) Nothing in this section shall extend to any instrument chargeable with ad valor em duty, and made as a security for money or stock without limit; or shall authorise the stamping after the execution thereof of any instrument which by law cannot be stamped after execution:
 
 (c.) A statutory declaration made for the purpose of this section shall not be used against any person making the same in any proceeding whatever, except in an inquiry as to the duty with which the instrument to which it relates is chargeable; and everjT person by whom any such declaration is made shall, on payment of the duty chargeable upon the instrument to which it relates, be relieved from any tine or disability to which he may be liable by reason of the omission to state truly in the instrument any fact or circumstance required by this Act to be stated therein.
 
@@ -5402,7 +5404,7 @@ thereupon be considered to be sufficiently stamped for entitling the person to a
 
 (a.)If brought to be stamped within one year after date, ten pounds:
 
-(6.) If so brought after one year, and within five years after date, —
+(b.) If so brought after one year, and within five years after date, —
 
 For every complete year, and also for any additional part of a year elapsed since the date, ten pounds:
 
@@ -5416,7 +5418,7 @@ Bank Notes, Bills of Exchange, and Promissory.
 
 (a.) Any bill of exchange or promissory note issued by any banker, other than the Bank of England, for the payment of money not exceeding one hundred pounds to the bearer on demand; and
 
-(6.) Any bill of exchange or promissory note so issued which entitles or is intended to entitle the bearer or holder thereof, without indorsement or without any further or other indorsement than may be thereon at the time of the issuing thereof, to the payment of money not exceeding one hundred pounds on demand, whether the same be so expressed or not and in whatever form, and by whomsoever the bill or note is drawn or made.
+(b.) Any bill of exchange or promissory note so issued which entitles or is intended to entitle the bearer or holder thereof, without indorsement or without any further or other indorsement than may be thereon at the time of the issuing thereof, to the payment of money not exceeding one hundred pounds on demand, whether the same be so expressed or not and in whatever form, and by whomsoever the bill or note is drawn or made.
 
 30. A bank note issued duly stamped, or issued unstamped by a banker duly licensed or otherwise authorised to issue unstamped bank notes, may be from time to time re-issued without being liable to any stamp duty by reason of the re-issuing.
 
@@ -5428,7 +5430,7 @@ Bank Notes, Bills of Exchange, and Promissory.
 
 1891.
 
-Stamp Ac, 1891. Ch. 39.
+Stamp Act, 1891. Ch. 39.
 
 137
 
@@ -5436,7 +5438,7 @@ by any other person of, or to draw upon any other person for, any sum of money; 
 
 (a.) An order for the payment of any sum of money by a bill of exchange or promissory note, or for the delivery of any bill of exchange or promissory note in satisfaction of any sum of money, or for the payment of any sum of money out of any particular fund which may or may not be available, or upon any condition or contingency which may or may not be performed or happen; and
 
-(6.) An order for the payment of any sum of money weekly, monthly, or at any other stated periods, and also an order for the payment by any person at any time after the date thereof of any sum of money, and sent or delivered by the person making the same to the person by whom the payment is to be made, and not to the person to whom the payment is to be made, or to any person on his behalf.
+(b.) An order for the payment of any sum of money weekly, monthly, or at any other stated periods, and also an order for the payment by any person at any time after the date thereof of any sum of money, and sent or delivered by the person making the same to the person by whom the payment is to be made, and not to the person to whom the payment is to be made, or to any person on his behalf.
 
 33. — (I.) For the purposes of this Act the expression “promissory note" includes any document or writing (except a bank note) containing a promise to pay any sum of money.
 
@@ -5452,11 +5454,11 @@ by any other person of, or to draw upon any other person for, any sum of money; 
 
 (a.)If at the time when any such bill or note comes into the hands of any bon& fide holder there is affixed thereto an adhesive stamp effectually cancelled, the stamp shall, so far as relates to the holder, be deemed to be duly cancelled, although it may not appear to have been affixed or cancelled by the proper person;
 
-(6.) If at the time when any such bill or note comes into the hands of any bona fide holder there is affixed thereto an adhesive stamp not duly cancelled, it shall be competent for the holder to cancel the stamp as if he were the person by whom it was affixed, and upon his so doing the bill or
+(b.) If at the time when any such bill or note comes into the hands of any bona fide holder there is affixed thereto an adhesive stamp not duly cancelled, it shall be competent for the holder to cancel the stamp as if he were the person by whom it was affixed, and upon his so doing the bill or
 
 K
 
-Meaning of “ promissory note.”
+Meaning of “promissory note.”
 
 Provisions for use of adhesive stamps on bills and notes.
 
@@ -5466,7 +5468,7 @@ Provisions as to stamping foreign bills and notes.
 
 Ch. 39.
 
-Stamp Ac, 1891.
+Stamp Act, 1891.
 
 54 & 55 ViC7.
 
@@ -5522,7 +5524,7 @@ Certificates of Solicitors and others.
 
 (a.) Directly or indirectly acts or practises as a solicitor or law agent in any court, or as a notary public, without having in force at the time a duly stamped certificate; or
 
-(6.) On applying for his certificate does not truly specify the facts and circumstances upon which the amount of duty chargeable upon the certificate depends:shall incur a fine of fifty pounds, and shall be incapable of maintaining any action or suit for the recovery of any fee, reward, or disbursement on account of or in relation to any act or proceeding done or taken by him in any such capacity.
+(b.) On applying for his certificate does not truly specify the facts and circumstances upon which the amount of duty chargeable upon the certificate depends:shall incur a fine of fifty pounds, and shall be incapable of maintaining any action or suit for the recovery of any fee, reward, or disbursement on account of or in relation to any act or proceeding done or taken by him in any such capacity.
 
 (2.) Every person in whose name, either alone or together with any other person, any proceeding is taken in any court, shall, unless the proceeding is set aside by the court as irregular, or unless the contrary is otherwise satisfactorily proved, be deemed to have acted in the proceeding.
 
@@ -5534,7 +5536,9 @@ Provided as follows:
 
 (1.) This section does not extend to —
 
-(a.) Any public officer drawing or preparing instruments in the course of his duty; or (6.) Any person employed merely to engross any instrument or proceeding.
+(a.) Any public officer drawing or preparing instruments in the course of his duty; or
+
+(b.) Any person employed merely to engross any instrument or proceeding.
 
 Bills* of sale.
 
@@ -5558,7 +5562,7 @@ Ch. 39. Stamp Act, 1891. 54 & 55 Vict,
 
 (2.) The expression “instrument” in this section does not include —
 
-(a.) A will or other testamentary instrument; or (6.) An agreement under hand only; or (c.) A letter or power of attorney; or
+(a.) A will or other testamentary instrument; or (b.) An agreement under hand only; or (c.) A letter or power of attorney; or
 
 (d.) A transfer of stock containing no trust or limitation thereof.
 
@@ -5582,7 +5586,7 @@ Ch. 39. Stamp Act, 1891. 54 & 55 Vict,
 
 (a.) The certificates of law agents, writers to the signet, and notaries public in Scotland, and of conveyancers, special pleaders, and draftsmen in equity in England, are to be dated, if taken out between the thirty-first of October and the first of December, on the first of November, and if taken out at any other time, on the day on which they are issued, and are in all cases to expire on the thirty-first of October next after their date.
 
-(6.) The certificates of notaries public in England are to be dated, if taken out between the fifteenth of November and the sixteenth of December, on the sixteenth of November, and if taken out at any other time, on the day on which they are issued, and are in all cases to expire on the fifteenth of November next after their date.
+(b.) The certificates of notaries public in England are to be dated, if taken out between the fifteenth of November and the sixteenth of December, on the sixteenth of November, and if taken out at any other time, on the day on which they are issued, and are in all cases to expire on the fifteenth of November next after their date.
 
 (3.) The certificates of conveyancers, special pleaders, draftsmen in equity, and notaries public in Ireland are to be dated on the day on which they are issued, and are to expire, as to the certificates of notaries public, on the twenty-fifth day of March next after their date, and in all other cases on the sixth day of January next after their date.
 
@@ -5664,7 +5668,7 @@ Conveyances on Sale.
 
 1891.
 
-Stamp Ac, 1891. Ch. 39.
+Stamp Act, 1891. Ch. 39.
 
 143
 
@@ -5720,7 +5724,7 @@ into effect, so as to operate as or be followed by a conveyance or transfer.
 
 (a.) Where any copyhold or customary estate is conveyed by a deed, no surrender being necessary, the deed is to be deemed the principal instrument:
 
-(6.) In other cases of copyhold or customary estates, the surrender or grant, if made out of court, or the memorandum thereof, and the copy of court roll of the surrender or grant, if made in court, is to be deemed the principal instrument:
+(b.) In other cases of copyhold or customary estates, the surrender or grant, if made out of court, or the memorandum thereof, and the copy of court roll of the surrender or grant, if made in court, is to be deemed the principal instrument:
 
 (c.) Where in Scotland there is a disposition or assignation executed by the seller, and any other instrument is executed for completing the title, the disposition or assignation is to be deemed the principal instrument.
 
@@ -5762,7 +5766,7 @@ Duty may be denoted by adhesive stamp.
 
 Ch. 39.
 
-Stamp Ac, 1891.
+Stamp Act, 1891.
 
 54 & 55 VICT.
 
@@ -5784,13 +5788,13 @@ Copyhold and Customary Estates.
 
 (2.) The steward of every manor shall refuse —
 
-(a.) To accept in court any surrender, or to make in court any grant, until such a note as is required by this section has been delivered to him; or (6.) To enter on the court rolls, or accept any presentment of, or admit any person to be tenant under or by virtue of, any surrender or grant made out of court, or any deed which is not duly stamped:
+(a.) To accept in court any surrender, or to make in court any grant, until such a note as is required by this section has been delivered to him; or (b.) To enter on the court rolls, or accept any presentment of, or admit any person to be tenant under or by virtue of, any surrender or grant made out of court, or any deed which is not duly stamped:
 
 And in any case in which he does not so refuse shall incur a fine of fifty pounds.
 
 (3.) If any person with intent to defraud Her Majesty, —
 
-(a.) Makes in court any surrender before such a note as aforesaid has been delivered to the steward of the manor; or (6.) Being employed or concerned in or about the preparation of any such note as aforesaid, neglects or omits fully and truly to state therein all the above-mentioned facts and circumstances; he shall incur a fine of fifty pounds.
+(a.) Makes in court any surrender before such a note as aforesaid has been delivered to the steward of the manor; or (b.) Being employed or concerned in or about the preparation of any such note as aforesaid, neglects or omits fully and truly to state therein all the above-mentioned facts and circumstances; he shall incur a fine of fifty pounds.
 
 67. The steward of every manor shall, within four months from the day on which any surrender or grant is made in court, make out a duly stamped copy of court roll of such surrender or grant, and have the same ready for delivery to the person entitled thereto, and in default of so doing shall incur a fine of fifty pounds, and the duty payable in respect of the copy of court roll shall be a debt to Her Majesty from the steward, whether he has received it or not, and if he has not received the duty the same shall also be a debt to Her Majesty from the person entitled to the copy.
 
@@ -5912,7 +5916,7 @@ Duty in certain cases may be denoted by adhesive stamp.
 
 Ch. 39.
 
-Stamp Ac, 1891.
+Stamp Act, 1891.
 
 54 & 55 Vict.
 
@@ -5948,13 +5952,13 @@ Marketable Securities and Foreign and Colonial Share Certificates.
 
 (a.) A marketable security, made or issued by or on behalf of any company or body of persons corporate or unincorporate formed or established in the United Kingdom; and
 
-(6.) A marketable security by or on behalf of any foreign state or government, or foreign or colonial municipal body, corporation, or company (herein-after called a foreign security), bearing date or signed after the third day of June one thousand eight hundred and sixty-two,
+(b.) A marketable security by or on behalf of any foreign state or government, or foreign or colonial municipal body, corporation, or company (herein-after called a foreign security), bearing date or signed after the third day of June one thousand eight hundred and sixty-two,
 
 (i.) Which is made or issued in the United Kingdom, or (ii.) Which, though originally issued out of the United Kingdom, has been, after the sixth day of August one thousand eight hundred and eighty-five, or is offered for subscription, and given or delivered to a subscriber in the United Kingdom, or
 
 1891.
 
-Stamp Ac, 1891. Ch. 39.
+Stamp Act, 1891. Ch. 39.
 
 151
 
@@ -6000,7 +6004,7 @@ And includes —
 
 (a.) Conditional surrender by way of mortgage, further charge, wadset, and heritable l>ond, disposition, assignation, or tack in security, and eik to a reversion of or affecting any lands, estate, or property, real or personal, heritable or moveable, whatsoever: and
 
-(6.) Any deed containing an obligation to infeft any person in an annual rent, or in lands or other heritable subjects in Scotland, under a clause of reversion, but without any personal bond or obligation therein contained for payment of the money or stock intended to be secured: and
+(b.) Any deed containing an obligation to infeft any person in an annual rent, or in lands or other heritable subjects in Scotland, under a clause of reversion, but without any personal bond or obligation therein contained for payment of the money or stock intended to be secured: and
 
 (c.) Any conveyance of any lands, estate, or property whatsoever in trust to be sold or otherwise converted into money, intended only as a security, and redeemable before the sale or other disposal thereof, either by express stipulation or otherwise, except where the conveyance is made for the benefit of creditors generally, or for the benefit of creditors specified who accept the provision made for payment of their debts, in full satisfaction thereof, or who exceed five in number: and
 
@@ -6008,7 +6012,7 @@ And includes —
 
 (e.) Any agreement (other than an agreement chargeable with duty as an equitable mortgage), contract, or bond accompanied with a deposit of title deeds for making a mortgage, wadset, or any other security or conveyance as aforesaid of any lands, estate, or property comprised in the title deeds, or for pledging or charging the same as a security: and
 
-(/.) Any deed whereby a real burden is declared or created on lands or heritable subjects in Scotland:and (g.) Any deed operating as a mortgage of any stock or marketable security.
+(f.) Any deed whereby a real burden is declared or created on lands or heritable subjects in Scotland:and (g.) Any deed operating as a mortgage of any stock or marketable security.
 
 (2.) For the purpose of this Act the expression “equitable mortgage” means an agreement or memorandum, under hand only, relating to the deposit of any title deeds or instruments constituting or being evidence of the title to any property whatever (other than stock or marketable security), or creating a charge on such property.
 
@@ -6016,11 +6020,7 @@ And includes —
 
 (2.) A security for the payment of any rentcharge, annuity, or periodical payments, by way of repayment, or in satisfaction or
 
-1891.
-
-Stamp Act, 1891. Ch. 39.
-
-153
+1891. Stamp Act, 1891. Ch. 39. 153
 
 discharge of any loan, advance, or payment intended to be so repaid, satisfied, or discharged, is to be charged with the same duty as a similar security for the payment of the sum of money so lent, advanced, or paid.
 
@@ -6100,7 +6100,7 @@ at anchor, the policy is to be charged with duty as a policy for a voyage, and a
 
 (a.) Any policy of mutual insurance having a stamp impressed thereon may, if required, be stamped with an additional stamp provided that at the time when the additional stamp is required the policy has not been signed or underwritten to an amount exceeding the sum or sums which the duty impressed thereon extends to cover:
 
-(6.) Any policy made or executed out of, but being in any manner enforceable within, the United Kingdom, may be stamped at any time within ten days after it has been first received in the United Kingdom on payment of the duty only.
+(b.) Any policy made or executed out of, but being in any manner enforceable within, the United Kingdom, may be stamped at any time within ten days after it has been first received in the United Kingdom on payment of the duty only.
 
 (2.) Provided that a policy of sea insurance shall for the purpose of production in evidence be an instrument which may legally be stamped after the execution thereof, and the penalty payable by law on stamping the same shall be the sum of one hundred pounds.
 
@@ -6158,7 +6158,7 @@ __ v
 
 1891.
 
-Stamp Ac, 1891. Ch. 39.
+Stamp Act, 1891. Ch. 39.
 
 157
 
@@ -6196,7 +6196,7 @@ Settlements.
 
 (a.) Where, in the case of a policy, no provision is made for keeping up the policy, the ad valorem duty is to be charged only on the value of the policy at the date of the instrument:
 
-(6.) If in any such case the instrument contains a statement of the said value, and is stamped in accordance with the statement, it is, so far as regards the policy, to be deemed duly stamped, unless or until it is shown that the statement is untrue, and that the instrument is in fact insufficiently stamped.
+(b.) If in any such case the instrument contains a statement of the said value, and is stamped in accordance with the statement, it is, so far as regards the policy, to be deemed duly stamped, unless or until it is shown that the statement is untrue, and that the instrument is in fact insufficiently stamped.
 
 158
 
@@ -6304,7 +6304,7 @@ With the addition —
 
 (a.) when the period within which the stock is to be redeemed or paid off, or during which annual or other payments in respect of the redemption or payment off of the same are required to be made, exceeds sixty years, but does not exceed one hundred years from that date, of threepence for every such ten pounds or fraction of ten pounds; or
 
-(6.) when the said period exceeds one hundred years, or no period is fixed for such redemption or payment off, or no such annual or other payments are required to be made, of sixpence for every such ten pounds or fraction of ten pounds; and in consideration of the payment transfers of the stock in respect of which the composition has been paid shall be exempt from stamp duty.
+(b.) when the said period exceeds one hundred years, or no period is fixed for such redemption or payment off, or no such annual or other payments are required to be made, of sixpence for every such ten pounds or fraction of ten pounds; and in consideration of the payment transfers of the stock in respect of which the composition has been paid shall be exempt from stamp duty.
 
 (2.) All sums certified by the Commissioners to have been received by way of composition for stamp duty on transfers of stock under this section shall be paid over to the National Debt Commissioners, and shall be applied by them towards the reduction of the National Debt in such manner as the Treasury from time to time direct.
 
@@ -6708,7 +6708,7 @@ Exemptions
 
 Ch. 39.
 
-Stamp Ac, 1891.
+Stamp Act, 1891.
 
 54 & 55 Vict.
 
@@ -7476,7 +7476,9 @@ GRANT or LETTERS PATENT under the Great Seal or wafer Great Seal of the United K
 
 (2.) Of a cong6 d'elire to any dean and chapter for the' election of an archbishop or bishop -(3.) Of the Royal Assent to, or signification of, the election made by any dean and chapter, or of the nomination and presentation by Her Majesty, in default of such election of any person to be an arch- . bishop or bishop - - - V 30 0 0
 
-(4.) Of or for the restitution of the temporalities to any archbishop or bishop -(5.) Of any other honour, dignity, or promotion whatsoever ----
+(4.) Of or for the restitution of the temporalities to any archbishop or bishop -
+
+(5.) Of any other honour, dignity, or promotion whatsoever ----
 
 (6.) Of any franchise, liberty, or privilege to any person or body politic or corporate - -
 
@@ -7528,7 +7530,7 @@ rent not exceeding the rate of JO/, per. annum - -001
 
 Ch. 39.
 
-Stamp Ac, 1891.
+Stamp Act, 1891.
 
 54 & 55 Vict.
 
@@ -7756,9 +7758,7 @@ Any security, duly stamped with the duty of one shilling for every ten pounds, a
 
 182
 
-Ch. 39.
-
-Stamp Act, 1891.
+Ch. 39. Stamp Act, 1891.
 
 54 & 55 VICT. £ d.
 
@@ -9396,7 +9396,7 @@ the payment of the redemption money, or, as the case may be, of one-fourth of th
 
 (a) The guaranteed land stock issued for advances under any agreement made subsequently to the said date shall yield dividends at the rate only of two pounds ten shillings per cent per annum on the nominal amount of the capital;
 
-(6.) The annual sinking fund payment on stock issued for such advances shall be at the rate of one pound two shillings per cent on the nominal amount of the capital;
+(b.) The annual sinking fund payment on stock issued for such advances shall be at the rate of one pound two shillings per cent on the nominal amount of the capital;
 
 (c) The county percentage shall continue to be at the rate of five shillings per cent per annum on such advances;
 
@@ -9416,7 +9416,7 @@ Purchase of Land (Ireland) Act, 1891. Ca. 48.
 
 (a.) In paying the dividends and Sinking Fund payments on an amount of guaranteed land stock equal to the amount of the advance; and
 
-(6.) In paying to the Guarantee Fund an annual sum (in this Act referred to as the county percentage) at the rate of five shillings for every hundred pounds of the advance; and the whole or any part of such percentage not required for the purposes of the Guarantee Fund shall be paid out of that fund to the Local Taxation (Ireland) Account and applied towards the cost of providing labourers' cottages under the Labourers (Ireland) Acts, 1883 to 1886, in the comity in which is situate the holding charged with the annuity, on such terms and conditions and subject to such regulations as the Lord Lieutenant thinks expedient; save that, where it appears to him, on the representation of the Local Government Board, that the whole or any part of such percentage cannot with advantage be so applied, he may order the same to be applied as if it were part of the share of the county in the Irish probate duty grant, and he may for the purposes of this section withhold or suspend the distribution of the whole or part of the said percentage when paid to the Local Taxation (Ireland) Account.
+(b.) In paying to the Guarantee Fund an annual sum (in this Act referred to as the county percentage) at the rate of five shillings for every hundred pounds of the advance; and the whole or any part of such percentage not required for the purposes of the Guarantee Fund shall be paid out of that fund to the Local Taxation (Ireland) Account and applied towards the cost of providing labourers' cottages under the Labourers (Ireland) Acts, 1883 to 1886, in the comity in which is situate the holding charged with the annuity, on such terms and conditions and subject to such regulations as the Lord Lieutenant thinks expedient; save that, where it appears to him, on the representation of the Local Government Board, that the whole or any part of such percentage cannot with advantage be so applied, he may order the same to be applied as if it were part of the share of the county in the Irish probate duty grant, and he may for the purposes of this section withhold or suspend the distribution of the whole or part of the said percentage when paid to the Local Taxation (Ireland) Account.
 
 (3.) All sums carried to the account in respect of arrears of the purchase-annuity, whether paid by the proprietor of the holding, or from the guarantee deposit, or from the proceeds of the sale of a holding, or from any other source, shall be paid to the Guarantee Fund; provided that where a sum is applicable out of the guarantee deposit for the discharge or reduction of an irrecoverable debt, one half only of the amount so applicable shall be paid out of the guarantee deposit to the Land Purchase Account; and such one half shall be carried to the Land Purchase Account out of the guarantee deposit immediately on any sum due to the Land Commission in respect of an advance secured by a guarantee deposit having been declared an irrecoverable debt. Sums carried to the Guarantee Fund under this sub-section shall be applied in the same manner, subject to the provisions of this Act as to guarantee, and subject to the prescribed regulations, as the sums carried to the Land Purchase Account in respect of the current half-yearly instalments.
 
@@ -9470,7 +9470,7 @@ contingent portion, and in every financial year there shall be paid to the Fund 
 
 (a.) The Irish probate duty grant shall be paid to the Local Taxation (Ireland) Account, and applied in manner provided by section three of the Probate Duties (Scotland and Ireland) Act, 1888.
 
-(6.) The Exchequer contribution shall be carried to a Reserve Fund until a sum of two hundred thousand pounds has been so carried; and so far as not required for that purpose shall be paid to the Local Taxation (Ireland) Account; and the share of the municipal boroughs to which this Act does not apply shall be ascertained and applied as if it were part of the Irish probate duty grant; and the residue shall be divided between the counties as nearly as may be in the proportion of the shares of the counties in the Irish probate duty grant; and such residue shall be applied towards the cost of providing labourers' cottages in the several counties under the Labourers (Ireland) Acts, 1883 to 1886, on such terms and conditions and subject to such regulations as the Lord Lieutenant thinks
+(b.) The Exchequer contribution shall be carried to a Reserve Fund until a sum of two hundred thousand pounds has been so carried; and so far as not required for that purpose shall be paid to the Local Taxation (Ireland) Account; and the share of the municipal boroughs to which this Act does not apply shall be ascertained and applied as if it were part of the Irish probate duty grant; and the residue shall be divided between the counties as nearly as may be in the proportion of the shares of the counties in the Irish probate duty grant; and such residue shall be applied towards the cost of providing labourers' cottages in the several counties under the Labourers (Ireland) Acts, 1883 to 1886, on such terms and conditions and subject to such regulations as the Lord Lieutenant thinks
 
 1891.
 
@@ -10654,11 +10654,7 @@ A resolution of a local authority under this section shall not have effect until
 
 8. Nothing contained in or done in pursuance of the provisions of this Act shall in any way prejudice the rights or powers of creditors who before the passing of this Act have advanced moneys to any local authority under the Public Health (Scotland) Acts, and all securities for such moneys may be enforced against the same assessments against which they may be enforced at the passing of this Act.
 
-1891.
-
-Supreme Court of Judicature, 1891. Ch. 53.
-
-253
+1891. Supreme Court of Judicature, 1891. Ch. 53. 253
 
 CHAPTER 53.
 
@@ -10668,7 +10664,7 @@ An Act to amend the Supreme Court of Judicature Acts.
 
 BE it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. Every person who has held the office of Lord Chancellor shall be an ex-officio judge of the Court of Appeal, but he shall not be / required to sit and act as a judge of that court, unless upon the ' request of the Lord Chancellor he consents so to do, and while so sitting and acting he shall rank therein according to his precedence as a peer.
+1. Every person who has held the office of Lord Chancellor shall be an ex-officio judge of the Court of Appeal, but he shall not be required to sit and act as a judge of that court, unless upon the request of the Lord Chancellor he consents so to do, and while so sitting and acting he shall rank therein according to his precedence as a peer.
 
 2. Whenever there is a vacancy in the office of a judge of the High Court who is president of the Probate, Divorce, and Admiralty Division thereof, it shall be lawful for Her Majesty, by letters patent, to appoint to that office as president of the said division any person who is a barrister of not less than fifteen years' standing, or who is a judge of the High Court or Court of Appeal, and the person so appointed shall, without prejudice to the rights of any judge of the Supreme Court existing at the passing of this Act, take precedence in court next after all ordinary judges of the Court of Appeal appointed before the time at which he shall become an ordinary or ex-officio member thereof.
 
@@ -10726,7 +10722,7 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (a.) There shall not be incorporated with this Act sections sixteen or seventeen of the Lands Clauses Consolidation Act, 1845, or the provisions of that Act with respect to affording access to the special Act, or sections fifteen or sixteen of the Lands Clauses Consolidation (Scotland) Act, 1845:
 
-(6.) In the construction of this Act and the incorporated Acts this Act shall be deemed to be the special Act, and the volunteer corps shall be deemed to be the promoters of the undertaking:
+(b.) In the construction of this Act and the incorporated Acts this Act shall be deemed to be the special Act, and the volunteer corps shall be deemed to be the promoters of the undertaking:
 
 (c.) The volunteer corps shall not put in force the provisions of the incorporated Acts with respect to the purchase of land compulsorily until they have obtained the sanction of Parliament in manner in this Act mentioned:
 
@@ -10742,7 +10738,7 @@ Ch. 54.
 
 (e.) On compliance with the provisions of this section with respect to notices, the volunteer corps may, if they think fit, present a petition to the Secretary of State. The petition shall state the lands intended to be taken, and the purposes for which they are required, and the names of the owners, lessees, and occupiers of lands who have assented, dissented, or are neuter in respect of the taking such lands, or who have returned no answer to the notice. The petition shall pray that the volunteer corps may, with reference to such lands, be allowed to put in force the powers of the Lands Clauses Acts with respect to the purchase and taking of lands otherwise than by agreement, and the prayer shall be supported by such evidence as the Secretary of State requires:
 
-(/.) On receipt of the petition and on due proof of the proper notices having been served, the Secretary of State shall take the petition into consideration, and may either dismiss the same, or direct a local inquiry to be made by a competent officer as to the propriety of assenting to the prayer of the petition:
+(f.) On receipt of the petition and on due proof of the proper notices having been served, the Secretary of State shall take the petition into consideration, and may either dismiss the same, or direct a local inquiry to be made by a competent officer as to the propriety of assenting to the prayer of the petition:
 
 (g.) If after the inquiry has been made the Secretary of State is satisfied that the land ought to be taken, he shall submit a Bill to Parliament containing provisions authorising the volunteer corps to take the land, and any such Bill shall be deemed to be a public Bill, and, if passed into an Act, to have conveyed the sanction of Parliament to purchase the land therein mentioned or referred to:
 
@@ -10824,7 +10820,7 @@ Where any lands are vested in the Crown and are under the management of any comm
 
 (a.) Any person authorised by the Secretary of State may, after seven days' notice to the owner of the lands, enter upon any lands for the purpose of erecting, repairing, or replacing such alignment marks, and may do all things necessary for any such purpose, but shall do as little damage to the lands as possible.
 
-(6.) Full compensation shall be paid to the owner of the lands for any damage caused in or by the erection, repair, or replacement of such alignment marks, and in case of dispute the amount of compensation shall be determined by arbitration under the Arbitration Act, 1889. 52 & 53 Vict.
+(b.) Full compensation shall be paid to the owner of the lands for any damage caused in or by the erection, repair, or replacement of such alignment marks, and in case of dispute the amount of compensation shall be determined by arbitration under the Arbitration Act, 1889. 52 & 53 Vict.
 
 (c.) If any person refuses to permit any authorised person to c*49' enter upon any lands for the purpose of this section, or obstructs the erection, repair, or replacing of any such alignment marks, or destroys, displaces, damages, or obstructs, any such alignment marks, he shall be liable on summary conviction to a fine not exceeding five pounds.
 
@@ -10836,19 +10832,9 @@ volunteer corps on behalf of the corps, and may provide generally corps.
 
 for the carrying into effect of this Act by a volunteer corps.
 
-258
+258 Ch. 54, 55. Ranges Act, 1891. 54 & 55 Vict.
 
-Ch. 54, 55.
-
-Ranges Ac, 1891.
-
-54 & 55 Vict.
-
-Application to
-
-yeomanry
-
-corps.
+Application to yeomanry corps.
 
 Definitions.
 
@@ -12480,7 +12466,7 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (a.) For the purpose of loans by the Public Works Loan Commissioners any sum or sums not exceeding in the whole the sum of one million two hundred thousand pounds;
 
-(6.) For the purpose of loans by the Commissioners of Public Works in Ireland any sum or sums not exceeding in the whole the sum of one million pounds.
+(b.) For the purpose of loans by the Commissioners of Public Works in Ireland any sum or sums not exceeding in the whole the sum of one million pounds.
 
 (2.) The sums so issued shall be issued during a period ending on the day on which a further Act granting moneys for the purposes of those loans comes into operation and in accordance with the provisions of the National Debt and Local Loans Act, 1887. 50 & 51 Vict-
 
@@ -12884,7 +12870,7 @@ herein-after mentioned such sums as they may think fit, not exceeding the amount
 
 (a.) For the purposes of providing station houses and sites, fire engines, fire escapes, hydrants, fireplugs, and permanent plant properly chargeable to capital for the purposes of the Fire Brigade Act, 1865, in the financial year, sixty thousand pounds, and in the following six months, twenty-two thousand pounds.
 
-(6.) For the purposes of expenses properly chargeable to capital in relation to parks, gardens, and open spaces under the Acts mentioned in the Second Schedule to this Act in the financial year, one hundred and six thousand six hundred and forty-one pounds, and in the following six months thirty-five thousand pounds.
+(b.) For the purposes of expenses properly chargeable to capital in relation to parks, gardens, and open spaces under the Acts mentioned in the Second Schedule to this Act in the financial year, one hundred and six thousand six hundred and forty-one pounds, and in the following six months thirty-five thousand pounds.
 
 (c.) For the purposes of payments to be made in respect of the completion of Battersea and Putney Bridges under the Metropolitan Bridges Act, 1881, and the Metropolitan Board of Works (Bridges) Act, 1884, in the financial year, thirty-two thousand pounds, and in the following six months, one thousand pounds.
 
@@ -14566,7 +14552,7 @@ of land, that is to say, where owne?r«»tate
 
 (a.) under a power of sale conferred by a mortgage effected before the first registration of the land; or
 
-(6.) under a deed poll executed in pursuance of the Lands Clauses Acts or in pursuance of any statutory provision to the same effect; or
+(b.) under a deed poll executed in pursuance of the Lands Clauses Acts or in pursuance of any statutory provision to the same effect; or
 
 (c.) under a sale in execution of any judgment, order, decree, or process of a court; or
 
@@ -14574,7 +14560,7 @@ of land, that is to say, where owne?r«»tate
 
 (e.) under a vesting order; or
 
-(/.) in any other case not provided for by this Act, and which may be prescribed; the ownership of the land passes to another person otherwise than by transfer from the registered owner or from his legal representatives, then, subject to general rules, the registering authority shall, on the application of that person, and on production of the prescribed evidence, register him as owner of the land in the prescribed manner.
+(f.) in any other case not provided for by this Act, and which may be prescribed; the ownership of the land passes to another person otherwise than by transfer from the registered owner or from his legal representatives, then, subject to general rules, the registering authority shall, on the application of that person, and on production of the prescribed evidence, register him as owner of the land in the prescribed manner.
 
 Provided that, unless the registering authority is satisfied that the application is made with the concurrence of the registered owner, or, in case of his death, if he is lull owner, of his legal representatives, and if he is not full owner, of such persons as may be prescribed, the registering authority shall, subject to general rules, before registering the applicant as owner of the land, give notice of the application to the registered owner, or, in case of his death, if he is full owner, to his legal representatives, and if he is not full owner, to such persons as may be prescribed; and the registering authority may, if he thinks fit, decline to register the
 
@@ -14598,7 +14584,9 @@ effect of charge visions of this Act, charge the land with the payment of money 
 
 (4.) On registration of the owner of a charge on land for the payment of any principal sum of money with or without interest, the instrument of charge shall operate as a mortgage by deed within the meaning of the Conveyancing Acts, 1881, 1882, and the registered owner of the charge shall, for the purpose of enforcing his charge, have all the rights and powers of a mortgagee under a mortgage by deed.
 
-(5.) On registration of the owner of a charge by way of annuity, the owner of the charge shall have such remedies for recovering and compelling payment of the annuity as are described in section 44 & 45 Vict. forty-four of the Conveyancing and Law of Property Act, 1881. c-41- (6.) If the registered owner of a charge on land sells the land in pursuance of any of his powers, his transferee shall be registered as owner of the land, and thereupon the registration shall have the same effect as registration on a transfer for valuable consideration by a registered owner.
+(5.) On registration of the owner of a charge by way of annuity, the owner of the charge shall have such remedies for recovering and compelling payment of the annuity as are described in section 44 & 45 Vict. forty-four of the Conveyancing and Law of Property Act, 1881. c-41.
+
+(6.) If the registered owner of a charge on land sells the land in pursuance of any of his powers, his transferee shall be registered as owner of the land, and thereupon the registration shall have the same effect as registration on a transfer for valuable consideration by a registered owner.
 
 (7.) When it is expressed in the instrument of charge that any person covenants for payment of the principal sum charged, there shall be implied a covenant by that person with the registered owner for the time being of the charge to pay the sum charged and interest (if any) thereon at the time and rate specified in the certificate of charge, and ajso a covenant, if the sum or any part thereof is unpaid at the time so specified, to pay interest half-yearly at the specified rate on so much of the principal sum as for the time being remains unpaid.
 
@@ -14620,7 +14608,7 @@ Local Registration of Title (Ireland) Act, 1891. Ch. 66*.
 
 (a.) have the same title to the charge as a registered transferee of land under this Act has to the land, under a transfer for valuable consideration or without valuable consideration, as the case may be; and
 
-(6.) have for enforcing his charge the same rights and powers in respect of the land as if the charge had been originally created in his favour.
+(b.) have for enforcing his charge the same rights and powers in respect of the land as if the charge had been originally created in his favour.
 
 42. — (1.) The registering authority shall at the request of the Discharge of registered owner of a charge on land, or on proof in such manner registered as is herein-after mentioned, or in such other manner as may be c arge* prescribed, of the satisfaction of a charge or of any part of a charge
 
@@ -14642,7 +14630,7 @@ by registered disposition, and the registered owner of a charge shall and nterSd
 
 (a.) Registered as a burden affecting the land; or
 
-(6.) One of the burdens to which, though not registered, all registered land is by this Act declared to be subject.
+(b.) One of the burdens to which, though not registered, all registered land is by this Act declared to be subject.
 
 (3.) Any right in or over registered land may be protected by means of such cautions and inhibitions as are in this Act in that behalf mentioned.
 
@@ -14660,15 +14648,15 @@ Act, 1891.
 
 (a.) Any incumbrance on the land existing at the time of the first registration of the land;
 
-(6.) Any charge on the land created in pursuance of the foregoing provisions of this Act after the first registration of the land;
+(b.) Any charge on the land created in pursuance of the foregoing provisions of this Act after the first registration of the land;
 
 (c.) Any rentcharge (not being a rentcharge to which, though not registered, all registered land is by this Act declared to be subject) or fee farm or other perpetual rent issuing out of the land;
 
 (d.) Any power to charge land with payment of money, whether created or arising before or after the first registration of the land;
 
-(c.) Any trust for securing money created or arising after the first registration of the land;
+(e.) Any trust for securing money created or arising after the first registration of the land;
 
-(/.) Any lien on the land for uupaid purchase money;
+(f.) Any lien on the land for uupaid purchase money;
 
 (g.) Any lease where the term granted is for a life or lives, or is determinable on a life or lives, or exceeds thirty-one years, or where the term is for any less estate but the occupation is not in accordance with the lease;
 
@@ -14680,7 +14668,7 @@ Act, 1891.
 
 (k.) Any covenant or condition relating to the use or enjoyment of the land or of any specified portion thereof;
 
-(I.) Any estate in dower;
+(l.) Any estate in dower;
 
 (m.) Any such other matter as may be prescribed.
 
@@ -14722,11 +14710,13 @@ seven of the Landlord and Tenant (Ireland) Act, 1870; 33 & 84 Vict,
 
 , 1891.
 
-(/.) Customary rights, franchises, seigrorial rights, and liabilities arising from tenure;
+(f.) Customary rights, franchises, seigrorial rights, and liabilities arising from tenure;
 
 (g.) Easements and profits & prendre, unless they are respectively created by express grant or reservation after the first registration of the land;
 
-(h.) Tenancies created for any term not exceeding thirty-one years, or for any less estate, in cases where there is an occupation under such tenancies; and (i.) Statutory tenancies;
+(h.) Tenancies created for any term not exceeding thirty-one years, or for any less estate, in cases where there is an occupation under such tenancies; and
+
+(i.) Statutory tenancies;
 
 Provided as follows:
 
@@ -14784,17 +14774,19 @@ the lessor to make the lease has been so investigated and found to be good and v
 
 (2.) For the purposes of this section —
 
-(a.) The expression “leaseholder ” shall include an under leaseholder;
+(a.) The expression “leaseholder” shall include an under leaseholder;
 
-(6.) The expression “leasehold estate ” shall mean an estate for a term of years of which more than twenty-one are unexpired at the date of registration, not being a term for securing money, with or without a covenant for renewal, and shall include an estate held at a rent under a lease for a life or lives, or determinable on a life or lives and also a statutory tenancy;
+(b.) The expression “leasehold estate” shall mean an estate for a term of years of which more than twenty-one are unexpired at the date of registration, not being a term for securing money, with or without a covenant for renewal, and shall include an estate held at a rent under a lease for a life or lives, or determinable on a life or lives and also a statutory tenancy;
 
-(c.) A person holding land at a rent under a lease for a life or lives, or determinable on a life or lives, with or without a covenant for renewal, shall be deemed to be a leaseholder and not a freeholder; and (d.) Where a lease of land is converted under the provisions of any Act into a fee farm grant or grant in perpetuity the registering authority shall note on the register in the prescribed manner the fact of such conversion, and provision shall be made by general rules for the transfer, on the prescribed examination of title, of land from the register of leaseholders to the register of owners of freehold land, but, until such transfer is made, the registered leaseholder shall not, under the provisions of this Act, have any further or other title to the land than he -would have had if the lease had not been so converted.
+(c.) A person holding land at a rent under a lease for a life or lives, or determinable on a life or lives, with or without a covenant for renewal, shall be deemed to be a leaseholder and not a freeholder; and
+
+(d.) Where a lease of land is converted under the provisions of any Act into a fee farm grant or grant in perpetuity the registering authority shall note on the register in the prescribed manner the fact of such conversion, and provision shall be made by general rules for the transfer, on the prescribed examination of title, of land from the register of leaseholders to the register of owners of freehold land, but, until such transfer is made, the registered leaseholder shall not, under the provisions of this Act, have any further or other title to the land than he -would have had if the lease had not been so converted.
 
 Subsidiary.
 
 54. — (1.) Provision may from time to time be made by general rules for registering the owner of any of the following rights where the title to any such right is not otherwise registered under this Act, namely —
 
-(a.) any right which may be registered as a burden affecting registered land; and (6.) any right to any tithe rentcharge, tithes impropriate, or other incorporeal hereditaments of freehold tenure enjoyed in gross, which is declared by this Act to be, though not registered, a burden on registered land, and for applying the provisions of this Act with respect to the registration of the title to land or charges to the registration of the owner of rights capable of registration in pursuance of this section either without modification or with such modification as may be provided by the rules.
+(a.) any right which may be registered as a burden affecting registered land; and (b.) any right to any tithe rentcharge, tithes impropriate, or other incorporeal hereditaments of freehold tenure enjoyed in gross, which is declared by this Act to be, though not registered, a burden on registered land, and for applying the provisions of this Act with respect to the registration of the title to land or charges to the registration of the owner of rights capable of registration in pursuance of this section either without modification or with such modification as may be provided by the rules.
 
 (2.) Nothing in this Act or in any rules under this Act shall make the first registration of any person under this section compulsory.
 
@@ -15194,7 +15186,7 @@ that is to say, — fraud-
 
 (a.) in the course of any proceedings before a registering authority or the court in pursuance of this Act, with intent to conceal the title or claim of any person, or to substantiate a false claim, suppresses, attempts to suppress, or is privy to the suppression of any document or fact; or,
 
-(6.) fraudulently procures, attempts to fraudulently procure, or is privy to the fraudulent procurement of any entry, erasure, or alteration in the register; or,
+(b.) fraudulently procures, attempts to fraudulently procure, or is privy to the fraudulent procurement of any entry, erasure, or alteration in the register; or,
 
 (c.) in any affidavit required or authorised to be made for any purpose under this Act, or under any order or general rules made in pursuance of this Act, wilfully makes a false statement in any material particular; he shall be guilty of a misdemeanor, and if convicted on indictment shall be liable to imprisonment, with or without hard labour, for any term not exceeding two years, or to be fined such sum not exceeding five hundred pounds as the court before which he is tried may award.
 
@@ -15222,7 +15214,7 @@ Application of 93. — (1.) The insurance fund established under this Act shall 
 
 insurance fund, applicable to the following purposes, namely:—
 
-(<x.) To indemnify a person for his loss as owner, incumbrancer, or otherwise, in respect of any land, arising from some other person being, on the first registration registered as owner of the land, or from the non-registration or incorrect registration of any burden affecting the land.
+(a.) To indemnify a person for his loss as owner, incumbrancer, or otherwise, in respect of any land, arising from some other person being, on the first registration registered as owner of the land, or from the non-registration or incorrect registration of any burden affecting the land.
 
 (b.) To indemnify a person for his loss as owner, incumbrancer, or otherwise, in respect of any land, caused by an entry in the register made subsequent to the first registration of an owner of the land, where the entry was either obtained by forgery or fraud, or made by any error on the part of the registering authority or any of his officers:
 
@@ -15252,17 +15244,27 @@ Act, 1891. Ch. CG.
 
 (a) The conduct of the business in the central and local offices, and the powers and duties of the central aod local registering authorities, and of all officers and persons attached to the said offices; and
 
-(6.) The relations between the central office and the local offices; and
+(b.) The relations between the central office and the local offices; and
 
-(c.) The conduct of transfers of land at and through the medium of the said offices, and the publication of information relating to transfers of land; and (d.) The making, keeping, and indexing of the registers and the authentication and preservation of documents relating to title; and
+(c.) The conduct of transfers of land at and through the medium of the said offices, and the publication of information relating to transfers of land; and
 
-(e.) The projedure to be observed, the precautions to be taken, the notices to be given, and the evidence to be adduced in all proceedings in connexion with registration, and the circumstances under which and the persons to whom reference is to be made in respect of the examination of any title to land proposed to be registered; and (/.) The form in which and conditions under which entries in the register are to be made, and may be modified or cancelled; the order in which entries relating to the same land are to be made, and the correction of clerical errors in the register or in any document connected with registration; and (g.) The form and contents of any instrument, certificate, memorial, affidavit, or other document required or authorised to be used or given under or for the purposes of this Act; and (h.) The registration of the ownership of mines and minerals, rents, tithes impropriate, and other incorporeal hereditaments, and of other hereditaments of a special nature; and (i.) The conditions under which a new land certificate or certificate of charge may be given in place of a certificate lost, defaced, or destroyed; and
+(d.) The making, keeping, and indexing of the registers and the authentication and preservation of documents relating to title; and
+
+(e.) The projedure to be observed, the precautions to be taken, the notices to be given, and the evidence to be adduced in all proceedings in connexion with registration, and the circumstances under which and the persons to whom reference is to be made in respect of the examination of any title to land proposed to be registered; and
+
+(f.) The form in which and conditions under which entries in the register are to be made, and may be modified or cancelled; the order in which entries relating to the same land are to be made, and the correction of clerical errors in the register or in any document connected with registration; and
+
+(g.) The form and contents of any instrument, certificate, memorial, affidavit, or other document required or authorised to be used or given under or for the purposes of this Act; and
+
+(h.) The registration of the ownership of mines and minerals, rents, tithes impropriate, and other incorporeal hereditaments, and of other hereditaments of a special nature; and
+
+(i.) The conditions under which a new land certificate or certificate of charge may be given in place of a certificate lost, defaced, or destroyed; and
 
 (j) The custody of any instruments from time to time coming into the hands of any officer of the central or any local office; and
 
 (k.) The inspection of and making copies of or extracts from any register or document in the custody of the central or any local office; and
 
-(/.) The costs and fees to be charged by or allowed to solicitors or other persons in or incidental to or consequential on the registration of land, or other registered transaction in relation to land or charges thereon, or any matters authorised to be registered under this Act, or any other matter required to be done for the purpose of carrying this Act into execution, or otherwise in discharge of the duties imposed by this or any other Act on the registering authorities, with power to require
+(l.) The costs and fees to be charged by or allowed to solicitors or other persons in or incidental to or consequential on the registration of land, or other registered transaction in relation to land or charges thereon, or any matters authorised to be registered under this Act, or any other matter required to be done for the purpose of carrying this Act into execution, or otherwise in discharge of the duties imposed by this or any other Act on the registering authorities, with power to require
 
 360
 
@@ -17972,9 +17974,9 @@ Nothing shall authorise or require a returning officer to hold an election of a 
 
 3. For the purpose of the election of county councillors for any electoral division which is eo-extensive with, or wholly comprised in, a municipal boiough, the following provisions shall have effect: —
 
-(«.) The mayor of the lorough, or some person appointed by him, or, if the maycr is dead or absent or otherwise incapable of acting, an alderman appointed by the council of the borough, shall be the returning officer, and so far as respects such election shall follow the instructions of, and return the names of the persons elected to, the county returning officer:
+(a.) The mayor of the lorough, or some person appointed by him, or, if the maycr is dead or absent or otherwise incapable of acting, an alderman appointed by the council of the borough, shall be the returning officer, and so far as respects such election shall follow the instructions of, and return the names of the persons elected to, the county returning officer:
 
-(6.) Nothing in section seventy-five of the Local Government Act, 1888, substituting the returning officer or his deputy for the town clerk, shall extend to any such election.
+(b.) Nothing in section seventy-five of the Local Government Act, 1888, substituting the returning officer or his deputy for the town clerk, shall extend to any such election.
 
 4. The chairmen and vice-chairmen of county councils, and the deputy chairman of the London County Council, county aldermen, and county councillors, and committees (including the members of a joint committee appointed by a county council) whose term of office would but for this Act expire on the ordinary day of election in November next after the | assing of this Act, shall go out of office on the next following ordinary day of election or retirement (as the case may be) fixed by this Act, and their teim of office shall be extended accordingly; but nothing shall authorise or require the returning officer to hold an election of a county councillor to fill a casual vacancy at any time before the ordinary day of election next after the passing of this Act, and the aldermen whose term of office would, but for this Act, expi-e at the end of three years after the November next after the pas ii-g of this Act shall go out of office on the ordinary day of election next following the end of those years, and their term of office shall be extended accordingly.
 
@@ -18764,7 +18766,7 @@ Where the Secretary of State certifies that in his opinion any machinery or proc
 
 1891.
 
-Factory and Woi'Jcshop, 1891. Ch. 75.
+Factory and Workshop, 1891. Ch. 75.
 
 467
 
@@ -18822,7 +18824,7 @@ Period of Employment.
 
 (a.) The period of employment for a woman shall, except on Saturday, be a specified period of twelve hours taken between six o'clock in the morning and ten o'clock in the evening, and shall on Saturday be a specified period of eight hours, taken between six o'clock in the morning and four o'clock in the afternoon; and
 
-(6.) There shall be allowed to a woman for meals and absence from work during the period of employment, a specified period not less, except on Saturday, than one hour and a half, and on Saturday than half an hour.
+(b.) There shall be allowed to a woman for meals and absence from work during the period of employment, a specified period not less, except on Saturday, than one hour and a half, and on Saturday than half an hour.
 
 14. — (1.) The report required by section sixty-six of the principal Act respecting the employment of a child, young person, or woman in pursuance of an exception relating to employment overtime, must be sent to an inspector not later than eight o'clock in the evening on which the child, young person, or woman is employed in pursuance of the exception.
 
@@ -19124,7 +19126,7 @@ Public Health (London) Act, 1891. Ch. 76.
 
 477
 
-(6.) Any pool, ditch, gutter, watercourse, cistern, watercloset, Nuisances earth closet, privy, urinal, cesspool, drain, dung-pit, or ashpit (General). so foul or in such a state as to be a nuisance or injurious or dangerous to health;
+(b.) Any pool, ditch, gutter, watercourse, cistern, watercloset, Nuisances earth closet, privy, urinal, cesspool, drain, dung-pit, or ashpit (General). so foul or in such a state as to be a nuisance or injurious or dangerous to health;
 
 (c.) Any animal kept in such place or manner as to be a nuisance or injurious or dangerous to health;
 
@@ -19132,9 +19134,7 @@ Public Health (London) Act, 1891. Ch. 76.
 
 (e.) Any house or part of a house so overcrowded as to be injurious or dangerous to the health of the inmates, whether or not members of the same family;
 
-(/.) Any such absence from premises of water fittings as is a
-
-nuisance by virtue of section thirty-three of the Metropolis 34 & 35 vict Water Act, 1871, set out in the First Schedule to this Act; c- H3. and
+(f.) Any such absence from premises of water fittings as is a nuisance by virtue of section thirty-three of the Metropolis 34 & 35 vict Water Act, 1871, set out in the First Schedule to this Act; c- H3. and
 
 (g.) Any factory, workshop, or workplace which is not a factory subject to the provisions of the Factory and Workshop Act, 41 & 42 Vict. 1878, relating to cleanliness, ventilation, and overcrowding, c-16-and
 
@@ -19330,7 +19330,7 @@ Penalties in respect of particular Nuisances.
 
 (a.) for the prevention of nuisances arising from any snow, ice, salt, dust, ashes, rubbish, offal, carrion, fish, or filth, or other matter or thing in any street; and
 
-(6.) for preventing nuisances arising from any offensive matter running out of any manufactory, brewery, slaughter-house, knackers' yard, butcher's or fishmonger's shop, or dunghill, into any uncovered place, whether or not surrounded by a wall or fence; and
+(b.) for preventing nuisances arising from any offensive matter running out of any manufactory, brewery, slaughter-house, knackers' yard, butcher's or fishmonger's shop, or dunghill, into any uncovered place, whether or not surrounded by a wall or fence; and
 
 (c.) for the prevention of the keeping of animals on any premises in such place or manner as to be a nuisance or injurious or dangerous to health; and
 
@@ -19366,7 +19366,7 @@ Penalties in respect of particular Nuisances.
 
 or keeping of swine may create a nuisance or be injurious to health, or
 
-(6.) permit any swine to stray or go about in any street or public place.
+(b.) permit any swine to stray or go about in any street or public place.
 
 (2.) If any person acts in contravention of this section he shall be liable to a fine not exceeding forty shillings, and to forfeit the swine, and to a further fine not exceeding ten shillings for every day during which he continues such offence after notice from the sanitary authority to discontinue the same.
 
@@ -19390,7 +19390,7 @@ anew certain offensive businesses, and byelaws as to offensive businesses.
 
 (a.) establishes anew the following businesses, or any of them; that is to say, the business of blood boiler, bone boiler, manure manufacturer, soap boiler, tallow melter, or knacker; or
 
-(6.) establishes anew, without the sanction of the county council, the following businesses, or any of them; that is to say, the business of fellmonger, tripe boiler, slaughterer of cattle or horses, or any other business which the county council may declare by order confirmed by the Local Government Board and published in the London Gazette to be an offensive business,
+(b.) establishes anew, without the sanction of the county council, the following businesses, or any of them; that is to say, the business of fellmonger, tripe boiler, slaughterer of cattle or horses, or any other business which the county council may declare by order confirmed by the Local Government Board and published in the London Gazette to be an offensive business,
 
 he shall be liable to a fine not exceeding fifty pounds in respect of the establishment thereof, and any person carrying on the same when established shall be liable to a fine not exceeding fifty pounds for every day during which he so carries on the same:
 
@@ -19410,7 +19410,7 @@ established are situate, and by advertising, notice of the application Offensive
 
 (5.) Any such byelaw may empower a petty sessional court by summary order to deprive any person, either temporarily or permanently, of the right of carrying on any business to which such byelaw relates, as a punishment for breaking the same, and any person disobeying such order shall be liable to a fine not exceeding fifty pounds for every day during which such disobedience continues.
 
-(6.) Amy sanitary authority or person aggrieved by any proposed byelaw under this section, or by any proposed alteration or repeal of a byelaw, may forward notice of his objection to the Local Government Board, who shall consider the same.
+(6.) Any sanitary authority or person aggrieved by any proposed byelaw under this section, or by any proposed alteration or repeal of a byelaw, may forward notice of his objection to the Local Government Board, who shall consider the same.
 
 (7.) There shall be charged for an order of the county council under this section, and carried to the county fund, such fee not exceeding forty shillings as the county council may fix.
 
@@ -19542,7 +19542,7 @@ c. cxli.
 
 able, consume the smoke arising from the combustible used °
 
-therein, and which is used for working engines by steam, or caused by in any mill, factory, dyehouse, brewery, bakehouse, or gas work, 8moke-or in any manufacturing or trade process whatsoever; and (6.) Any chimney (not being the chimney of a private dwelling-house) sending forth black smoke in such quantity as to be a nuisance;
+therein, and which is used for working engines by steam, or caused by in any mill, factory, dyehouse, brewery, bakehouse, or gas work, 8moke-or in any manufacturing or trade process whatsoever; and (b.) Any chimney (not being the chimney of a private dwelling-house) sending forth black smoke in such quantity as to be a nuisance;
 
 shall be nuisances liable to be dealt with summarily under this Act, and the provisions of this Act relating to those nuisances shall apply accordingly:
 
@@ -19818,7 +19818,7 @@ Power to sanitary authority to provide public' conveniences.
 
 Ch. 76.
 
-Public Health (London) Ac, 1891. 54 & 55 Vict.
+Public Health (London) Act, 1891. 54 & 55 Vict.
 
 Regulations as to Water-closets, frc.
 
@@ -20172,7 +20172,7 @@ Infectious Diseases. — Prevention.
 
 spreading the said disease in any street, public place, shop, or things, inn; or
 
-(6.) being in charge of any person so suffering, so exposes such sufferer; or
+(b.) being in charge of any person so suffering, so exposes such sufferer; or
 
 (c.) gives, lends, sells, transmits, removes, or exposes, without previous disinfection, any bedding, clothing, or other articles which have been exposed to infection from any such disease; he shall be liable to a fine not exceeding five pounds.
 
@@ -20228,7 +20228,7 @@ powex'to evidence that any person in the district is suffering from a prohibit s
 
 (a.) proceedings in respect of the offence shall be taken before a court having jurisdiction in the place where the dairy is situate, and
 
-(6.) a dairyman shall not be liable to an action for breach of contract if the breach be due to an order under this section.
+(b.) a dairyman shall not be liable to an action for breach of contract if the breach be due to an order under this section.
 
 1891. Public Health (London) Act, 1891. Ch. 76. 511
 
@@ -20260,7 +20260,7 @@ except for the purpose of being forthwith buried, it shall not be y lawful for a
 
 hearse for conveying the body of a person who has died from ^“^carr any dangerous infectious disease, without previously notifying corpses!^* to the owner or driver of the conveyance that such person died from infectious disease, or
 
-(6.) the owner or driver does not, immediately alter the conveyance has to his knowledge been used for conveying such body, provide for the disinfection of the conveyance, he shall, on the information of the sanitary authority, be liable to a fine not exceeding five pounds, and if the offence continues to a further fine not exceeding forty shillings for every day during which the offence continues.
+(b.) the owner or driver does not, immediately alter the conveyance has to his knowledge been used for conveying such body, provide for the disinfection of the conveyance, he shall, on the information of the sanitary authority, be liable to a fine not exceeding five pounds, and if the offence continues to a further fine not exceeding forty shillings for every day during which the offence continues.
 
 512
 
@@ -20484,7 +20484,7 @@ say>)
 
 (e.) for the cleansing and lime-washing at stated times of the premises:
 
-(/.) for the taking of precautions in case of any infectious disease.
+(f.) for the taking of precautions in case of any infectious disease.
 
 (2.) This section shall not apply to common lodging-houses within the Common Lodging Houses Act, 1851, or any Act amending the same.
 
@@ -20496,7 +20496,7 @@ Tents and Van3.
 
 (3.) Where any person duly authorised by a sanitary authority or by a justice has reasonable cause to suppose either —
 
-(a.) that any tent, van, shed, or similar structure used for human habitation is in such a state or so overcrowded as aforesaid, or that there is any contravention therein of any byelaw made under this section; or (6.) that there is in any such tent, van, shed, or structure any person suffering from a dangerous infectious disease, he may enter by flay such tent, van, shed, or structure, and examine the same and every part thereof in or.ler to ascertain whether such tent, van, shed, or structure is in such a state or so overcrowded as aforesaid, or whether there is therein any such contravention, or a person suffering from a dangerous infectious disease, and the provisions of this Act with respect to the
+(a.) that any tent, van, shed, or similar structure used for human habitation is in such a state or so overcrowded as aforesaid, or that there is any contravention therein of any byelaw made under this section; or (b.) that there is in any such tent, van, shed, or structure any person suffering from a dangerous infectious disease, he may enter by flay such tent, van, shed, or structure, and examine the same and every part thereof in or.ler to ascertain whether such tent, van, shed, or structure is in such a state or so overcrowded as aforesaid, or whether there is therein any such contravention, or a person suffering from a dangerous infectious disease, and the provisions of this Act with respect to the
 
 Mortuaries,
 
@@ -20964,17 +20964,15 @@ Justice to act though member of sanitary authority or liable to contribute.
 
 Appearance of sanitary authority in legal proceedings.
 
-Protection of
-
-sanitary
+Protection of sanitary
 
 authority and their officers from personal liability.
 
 becoming due in respect of the premises, as if the same had been actually paid to the owner as part of the rent: Provided that —
 
-(a..) the occupier shall not be so required to pay any further sum than the amount of rent which either is for the time being due from him, or which after demand from him of such costs or expenses, and notice not to pay any rent without first deducting the same, becomes payable by him, unless he refuses, on the application of the sanitary authority, truly to disclose the amount of his rent and the name and address of the person to whom such rent is payable; but the burden of proof that the sum demanded from any such occupier is greater than the aforesaid amount of rent shall lie on such occupier; and
+(a.) the occupier shall not be so required to pay any further sum than the amount of rent which either is for the time being due from him, or which after demand from him of such costs or expenses, and notice not to pay any rent without first deducting the same, becomes payable by him, unless he refuses, on the application of the sanitary authority, truly to disclose the amount of his rent and the name and address of the person to whom such rent is payable; but the burden of proof that the sum demanded from any such occupier is greater than the aforesaid amount of rent shall lie on such occupier; and
 
-(6.) nothing in this section shall afiect any contract between any owner and occupier of any premises whereby the occupier agrees to pay or discharge all rates, dues, and sums of money payable in respect of such premises, or shall affect any contract whatsoever between landlord and tenant.
+(b.) nothing in this section shall afiect any contract between any owner and occupier of any premises whereby the occupier agrees to pay or discharge all rates, dues, and sums of money payable in respect of such premises, or shall affect any contract whatsoever between landlord and tenant.
 
 122. A judge or justice of the peace shall not be incapable of acting in cases arising under this Act by reason of his being a member of any sanitary authority, or by reason of his being, as one of several ratepayers, or as one of any other class of persons, liable in common with the others to contribute to or to be benefited by any rate or fund, out of which any expenses incurred by a sanitary authority are to be defrayed.
 
@@ -22200,7 +22198,7 @@ cxxxi. An Act to revive the Powers and extend the Time for the compulsory purcha
 
 cxxxii. An Act to extend the time for the completion of the Tramways authorised by the West Metropolitan Tramways Act 1889 and for other purposes. (West Metropolitan Tramways.)
 
-cxxxiii. An Act for the Abandonment of the Beverley and East Riding Railway. (Beverley and East Riding Railway (A bandonment).)
+cxxxiii. An Act for the Abandonment of the Beverley and East Riding Railway. (Beverley and East Riding Railway (Abandonment).)
 
 cxxxiv. An Act to empower the Northallerton Local Board to make Waterworks and supply Water and for other purposes. (Northallerton Waterworks.)
 
@@ -22246,9 +22244,7 @@ P. cxlviii. An Act to confirm certain Provisional Orders made by the Board of Tr
 
 P. cxlix. An Act to confirm certain Provisional Orders made by the Board of Trade under the General Pier and Harbour Act, 1861, relating to Bangor, Blackpool (South), Blackpool (South Shore), Sligo, and Stonehaven. (and Harbour Orders Confirmation (No. 2).)
 
-P. cl. An Act to confirm a Provisional Order made by the Local Government Board for Ireland relating to the Town of Dundalk. (Local Government Board )Provisional Order
-
-Confirmation (No. 5).)
+P. cl. An Act to confirm a Provisional Order made by the Local Government Board for Ireland relating to the Town of Dundalk. (Local Government Board Provisional Order Confirmation (No. 5).)
 
 P. cli. An Act to confirm a Provisional Order made by the Education Department under the Elementary Education Act, 1870, to enable the School Board for London to put in force the Lands Clauses Consolidation Act, 1845, and the Acts, amending the same. (Education Department Provisional Order Confirmation (London).)
 
@@ -22258,13 +22254,11 @@ P. cliii. An Act to confirm an Order of the Boundary Commissioners for Scotland 
 
 P. cliv. An Act to confirm an Order of the Boundary Commissioners for Scotland relating to the parishes of Cawdor, Croy and Dalcross, Daviot and Dunlichity, Inverness, and Naim, in the counties of Inverness and Naim. (Cawdor, &c. Order Confirmation.)
 
-P. civ. An Act to confirm an Order of the Boundary Commissioners for Scotland relating to the parishes of Kinnell, Lunan, and Maryton, in the county of Forfar. (Kinnell, Lunan, and Mary ton Order Confirmation.)
+P. civ. An Act to confirm an Order of the Boundary Commissioners for Scotland relating to the parishes of Kinnell, Lunan, and Maryton, in the county of Forfar. (Kinnell, Lunan, and Maryton Order Confirmation.)
 
 P. clvi. An Act to confirm certain Provisional Orders of the Local Government Board relating to the Urban Sanitary Districts of Ashton-under-Lyne (two), Blackpool, and York (two). (Local Government Board's Provisional Orders Confirmation (No. 7).)
 
 Table of the Statutes.
-
-[54 & 55 Vict.
 
 P. clvii. An Act to confirm an Order of the Boundary Commissioners for Scotland relating to the parish of New or East Kilpatrick in the counties of Dumbarton and Stirling. (New or East Kilpatrick Order Confirmation.)
 
@@ -22284,11 +22278,7 @@ P. clxiii. An Act to confirm a Provisional Order of the Local Government Board, 
 
 clxiv. An Act to confirm and give effect to an agreement for the working of certain parts of the South Yorkshire Junction Railway by the Hull Barnsley and West Riding Junction Railway and Dock Company. (Hull and Barnsley and South Yorkshire Junction Railways.) clxv. An Act for vesting in the Ecclesiastical Commissioners the endowments of the Rectory of Handsworth in the county of Stafford and for the re-endowment of the said Rectory and the transfer of the advowson to the See of Lichfield and for the endowment or augmentation of new districts within the parish of Handsworth aforesaid and for other purposes. (Handsworth Rectory.) . clxvi. An Act to confer further powers on the North Eastern Railway Company and to enable the North Eastern Railway Company and the London and North Western Railway Company to enlarge Leeds New Station and for other purposes. (North Eastern Railway.)
 
-A.D. 1891.
-
 Local Acts.
-
-571
 
 clxvii. An Act to empower the Freshwater Yarmouth aaid Newport Railway Company to raise further capital and for other purposes. (Freshwater Yarmouth and Newport Railway.)
 
@@ -22300,9 +22290,19 @@ clxx. An Act to authorise the Undertakers of the Navigation of the Rivers of Air
 
 clxxii. An Act to enable the Corporation of Bournemouth to make and maintain a New Cemetery in the Parish of Christchurch. (Bournemouth East .)
 
-clxxiii. An Act to confer further powers on the Lostwithiel and Fowey Railway Company and on other Companies and for other purposes. (Lostwithiel and Fo'ivey Railway.) clxxiv. An Act for the abandonment of the Lincoln Horncastle Spilsby and Skegness Railway. (Lincoln Horncastle and Skegness Railway (Abandonment).) clxxv. An Act to extend the time tor the completion of the authorised railway of the Birmingham and Henley-in-Arden Railway Company and for other purposes. (Birmingham and Henley-in-Arden Railway.) clxxvi. An Act to authorise the use of electrical and other, power on the Glasgow Street Tramways and for other purposes. (Glasgow Corporation.) clxxvii. An Act to amend the Acts relating to and to confer further powers for the maintenance and construction of works and otherwise upon the Company of Proprietors of the Canal Navigation from Leeds to Liverpool to Change the Name of the Company; and for other purposes. (Leeds and Liverpool Carnal.)
+clxxiii. An Act to confer further powers on the Lostwithiel and Fowey Railway Company and on other Companies and for other purposes. (Lostwithiel and Fo'ivey Railway.)
 
-clxxviii. An Act for authorising the Rhondda and Swansea Bay Railway Company to extend their Railways and for other purposes. (Rhondda and Swansea Bay . clxxix. An Act to make further provision for the improvement health and good government of the Borough of Dewsbury and for other purposes. (Dewsbury Improvement)
+clxxiv. An Act for the abandonment of the Lincoln Horncastle Spilsby and Skegness Railway. (Lincoln Horncastle and Skegness Railway (Abandonment).)
+
+clxxv. An Act to extend the time tor the completion of the authorised railway of the Birmingham and Henley-in-Arden Railway Company and for other purposes. (Birmingham and Henley-in-Arden Railway.)
+
+clxxvi. An Act to authorise the use of electrical and other, power on the Glasgow Street Tramways and for other purposes. (Glasgow Corporation.)
+
+clxxvii. An Act to amend the Acts relating to and to confer further powers for the maintenance and construction of works and otherwise upon the Company of Proprietors of the Canal Navigation from Leeds to Liverpool to Change the Name of the Company; and for other purposes. (Leeds and Liverpool Carnal.)
+
+clxxviii. An Act for authorising the Rhondda and Swansea Bay Railway Company to extend their Railways and for other purposes. (Rhondda and Swansea Bay .
+
+clxxix. An Act to make further provision for the improvement health and good government of the Borough of Dewsbury and for other purposes. (Dewsbury Improvement)
 
 572 Table of the Statutes.
 
@@ -22314,13 +22314,23 @@ clxxxii. An Act for rendering valid certain Letters Patent granted to Eugene Wor
 
 Royal Assent, 5th August 1891.
 
-clxxxiii. An Act for conferring further powers upon the Great Western Railway Company in respect of their own undertaking and upon that Company and the London and North Western Railway Company in respect of undertakings in which they are jointly interested and for other purposes. (Great Western Railway.) clxxxiv. An Act to enable the Barry Dock and Railways Company to construct new Railways and for other purposes. (Barry Dock and Railways.) clxxxv. An Act to vary and amend the provisions of the South Staffordshire Mines Drainage Acts 1873 to 1882. (South Staffordshire Mines Drainage.) clxxxvi. An Act to determine the rights of the Debenture Stockholders of the Golden Valley Railway Company and for other purposes. (Golden Valley Railway.) clXXXVII. An Act to extend the time for the compulsory purchase of lands and for completing the Metropolitan Outer Circle Railway. (Metropolitan Outer Circle Railway (Extension of Time).) clxxxviii. An Act for incorporating the Bognor Water Company and for enabling them to construct and maintain Waterworks and supply Water and for other purposes. (Bognor Water.) clxxxix. An Act for making and maintaining Railways in the Counties of Chester Lancaster Derby Nottingham and Lincoln to be called the Lancashire Derbyshire and East Coast Railway and for other purposes. (Lancashire Derbyshire and East Coast Railway.)
+clxxxiii. An Act for conferring further powers upon the Great Western Railway Company in respect of their own undertaking and upon that Company and the London and North Western Railway Company in respect of undertakings in which they are jointly interested and for other purposes. (Great Western Railway.)
+
+clxxxiv. An Act to enable the Barry Dock and Railways Company to construct new Railways and for other purposes. (Barry Dock and Railways.)
+
+clxxxv. An Act to vary and amend the provisions of the South Staffordshire Mines Drainage Acts 1873 to 1882. (South Staffordshire Mines Drainage.)
+
+clxxxvi. An Act to determine the rights of the Debenture Stockholders of the Golden Valley Railway Company and for other purposes. (Golden Valley Railway.)
+
+clxxxvii. An Act to extend the time for the compulsory purchase of lands and for completing the Metropolitan Outer Circle Railway. (Metropolitan Outer Circle Railway (Extension of Time).)
+
+clxxxviii. An Act for incorporating the Bognor Water Company and for enabling them to construct and maintain Waterworks and supply Water and for other purposes. (Bognor Water.)
+
+clxxxix. An Act for making and maintaining Railways in the Counties of Chester Lancaster Derby Nottingham and Lincoln to be called the Lancashire Derbyshire and East Coast Railway and for other purposes. (Lancashire Derbyshire and East Coast Railway.)
 
 cxc. An Act to revive the powers for the compulsory purchase of lands and to extend the time limited for the completion of the Exeter Teign Valley and Chagford Railway. (Exeter Teign Valley and Chagford Railway (Extension of Time).)
 
 Local Acts.
-
-573
 
 cxci. An Act to provide for the pulling down of the Parish Church of Hanover Chapel (Regent Street) and building a new Parish Church instead thereof and for other purposes. (Hanover Chapel (Regent Street).
 
@@ -22340,21 +22350,13 @@ cxcviii. An Act to authorise the Guiseley Yeadon and Rawdon. Railway Company to 
 
 cxcix. An Act to extend the time for the construction of certain waterworks authorised by the Keighley Waterworks Extension and Improvement Act 1869 to authorise the Corporation of Keighley to construct additional waterworks to make better provision for the health local government and improvement of the borough and for other purposes. (Corporation.)
 
-574
-
 Table of the Statutes.
 
-[54 & 55 Vict.
-
-CO. An Act to authorise the Kirkcaldy and District Railway Company to make a new Railway to extend the time limited for the completion of their authorised Railways Dock and Works and for other purposes. (and Distinct
-
-Railway.)
+CO. An Act to authorise the Kirkcaldy and District Railway Company to make a new Railway to extend the time limited for the completion of their authorised Railways Dock and Works and for other purposes. (Kirkcaldy and Distinct Railway.)
 
 cci. An Act to authorise the construction of a Railway from the Caledonian Railway at Glasgow to Dumbarton with subsidiary lines and other works in connexion therewith and for other purposes. (Lanar and Dumbartonshire Railway.)
 
-ccii. An Act to confer further Powers on the London Tilbury and Southend Railway Company. (Tilbury and
-
-Southend Railway.)
+ccii. An Act to confer further Powers on the London Tilbury and Southend Railway Company. (Tilbury and Southend Railway.)
 
 cciii. An Act to authorise the North British Railway Company to construct certain new Railways in the Counties of Dumbarton Lanark and Stirling to widen their Arbroath and Montrose Railway and to execute other works to acquire additional lands to amalgamate the Blane Valley and the Strathendrick and Aberfoyle Railway Companies respectively with the Company to acquire the Port and Harbour of Alloa to purchase the Whiteinch Railway and adapt the same for passenger traffic to vary the powers of the Eyemouth Railway Company and for other purposes. (Railway
 
@@ -22370,11 +22372,7 @@ ccvi. An Act to confer powers on the London County Council for the reconstructio
 
 ccvii. An Act to enable the Mayor Aldermen and Citizens of the City of Manchester to establish and contribute towards a Fund for the encouragement of Thrift amongst their Officers and Servants to confer upon them further powers and make further provision with respect to the improvement health and good government of the City to provide for vesting in the said Mayor Aldermen and Citizens as an open space the St. Michael's disused Burial Ground to amend and extend the provisions of the Local Acts relating to the City of Manchester and for other purposes. (Manchester Corporation.)
 
-A.D. 1891.
-
 Local Acts.
-
-575
 
 ccviii. An Act to authorise the construction of a Railway in extension of the Snailbeach District Railway in the County of Salop and for other purposes. (Shropshire Mineral (Light) Railway.)
 
