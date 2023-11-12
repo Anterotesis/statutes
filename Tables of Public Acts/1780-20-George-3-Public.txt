@@ -68,7 +68,7 @@ From Ruffhead, Statutes at Large, volume 13.
 
 33. An Act to explain and amend an Act, made in the seventeenth Year of the Reign of his present Majesty, intituled, An Act to repeal an Act, made in the twelfth Year of the Reign of King Charles the Second, intituled, The Master of the Rolls impowered to make Leases for Years in order to new-build the old Houses belonging to the Rolls; and for the better regulating the Method of granting Leases of the said Rolls Estate for the future; and for making Compensation to the Earl of Macclesfield, and Sir Thomas Sewell, for their beneficial Rights and Interests in certain Leases made of the Rolls Estate; and for regulating the Method of making Leases of the said Estate for the future.
 
-34  An Act for granting to His Majesty additional Duties upon Salt; and for regulating the Exportation of Salt to the Isle of Man.
+34. An Act for granting to His Majesty additional Duties upon Salt; and for regulating the Exportation of Salt to the Isle of Man.
 
 35. An Act for granting to His Majesty additional Duties upon Malt, and upon Low Wines and Spirits made for Home Consumption, and upon foreign Spirits imported into Great Britain, and upon the Produce of the said several Duties; and for granting a Duty on Licences to be taken out by all Persons taking in, vending or selling of Coffee, Tea or Chocolate.
 
@@ -84,9 +84,9 @@ From Ruffhead, Statutes at Large, volume 13.
 
 41. An Act to continue an Act, made in the twelfth Year of the Reign of His present Majesty, intituled, An Act for rendering the Payment of the Creditors of Insolvent Debtors more equal and expeditious, and for regulating the Diligence of the Law by Arrestment and Poinding, and for extending the Privilege of Bills to Promissory Notes, and for limiting Actions upon Bills and Promissory Notes in that Part of Great Britain called Scotland.
 
-42  An Act for granting to His Majesty several additional Duties upon certain Goods imported into the Isle of Man; and for better regulating the Trade and securing the Revenues of the said Island.
+42. An Act for granting to His Majesty several additional Duties upon certain Goods imported into the Isle of Man; and for better regulating the Trade and securing the Revenues of the said Island.
 
-43  An Act for raising a certain Sum of Money by Loans or Exchequer Bills for the Service of the Year One thousand seven hundred and eighty.
+43. An Act for raising a certain Sum of Money by Loans or Exchequer Bills for the Service of the Year One thousand seven hundred and eighty.
 
 44. An Act to explain an Act of the last Session of Parliament, intituled, An Act for augmenting the Militia; and to declare valid and effectual the Swearing in and Inrolment of Militia Men, Substitutes and Volunteers, in Cases where all the Provisions of the several Acts now in being, relative thereto, have not been observed; and to indemnify Deputy Lieutenants, Chief Magistrates and Justices of the Peace, for their Proceedings therein respectively; to declare valid and effectual the Commissions granted by Deputy Lieutenants, in the Absence of the Lieutenant of any County out of the Kingdom, to Officers commanding Volunteer Companies; and to indemnify Deputy Lieutenants and Officers who have granted, or acted under such Commissions; and to enlarge the Powers of Deputy Lieutenants in certain Cases.
 
@@ -99,14 +99,14 @@ From Ruffhead, Statutes at Large, volume 13.
 48. An Act for repairing, lighting, watching and cleansing the High Street or Road, called Goswell Street, leading from Aldersgate Bars, without Aldersgate, London, in the House of Woodhouse Coker Gentleman, near the Turnpike at the End of the said Street or Road, in the County of Middlesex; and also Bull Yard, Glasshouse Yard, the North Side of Fan's Alley, Mount Mill and Willow Court, contiguous to the said Street or Road, on the East and West Sides thereof; and for removing Nuisances therefrom, and preventing the like for the future.
 
 49. An Act to vest certain Messuages, Lands, Tenements and Hereditaments, in Trustees, for the better securing His Majesty's Dock, Ships and Stores at Chatham.
----
+
 50. An Act for exempting the City of Winchester, the County of Southampton, the Town of Shrewsbury, and the County of Salop, out of the Provisions of an Act made in the eight Year of the Reign of His late Majesty King George the Second, intituled, An Act for regulating the quartering of Soldiers during the time of the Elections of Members to serve in Parliament; so far as the same relates to the Removal of Troops during the Elections of Members to serve in Parliament, for a limited time.
 
 51. An Act for repealing an Act made in the nineteenth Year of the Reign of His present Majesty, intituled, An Act for granting to His Majesty certain Duties on Licences to be taken out by all Persons letting Horses to Hire, for travelling in the Manner therein mentioned; and certain Duties on all Horses to Hire, for the Purposes of travelling Post, and by Time; and upon certain Carriages therein mentioned; and for granting other Duties in lieu thereof.
 
 52. An Act for granting to His Majesty additional Duties upon Starch and Hair Powder imported, and upon Starch made in Great Britain, and upon Sweets.
 
-53  An Act for raising a further Sum of Money by Loans on Exchequer Bills for the Service of the Year One thousand seven hundred and eighty.
+53. An Act for raising a further Sum of Money by Loans on Exchequer Bills for the Service of the Year One thousand seven hundred and eighty.
 
 54. An Act for appointing and enabling Commissioners to examine, take and state the public Accounts of the Kingdom; and to report what Balances are in the Hands of Accountants, which may be applied to the public Service; and what Defects there are in the present Mode of receiving, collecting, issuing and accounting for public Money; and in what more expeditious and effectual, and less expensive Manner, the said Services can in future be regulated and carried on for the Benefit of the Public.
 
@@ -201,3 +201,4 @@ From Ruffhead, Statutes at Large, volume 13.
 99. An Act to enlarge the Term and Powers of an Act, passed in the thirty second Year of King George the Second, for repairing and widening the Road from a Place called The Old Gallows, in the Parish of Sunning in the County of Berks, through Wokingham, New Bracknowl and Sunning Hill, to Virginia Water, in the Parish of Egham, in the County of Surrey.
 
 100. An Act for enlarging the Term and Powers of an Act, made in the twenty eight Year of the Reign of His late Majesty King George the Second, intituled, An Act for amending, widening and keeping in Repair, the Roads from Epsom, through Ewell, to Tooting, and from Ewell to Kingston upon Thames, and Thames Ditton, in the County of Surrey; and for amending, widening and keeping in Repair, the Road from the Turnpike Road at Ewell, across Ewell Common Fields, to the Ryegate Turnpike Road, on Borough Heath, in the said County.
+
