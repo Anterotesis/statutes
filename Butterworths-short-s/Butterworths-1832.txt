@@ -10090,7 +10090,6 @@ Part of Beard Town\ ship, on the Cheshire (Side of the River (Goyt -)
 
 Thorncomb Parish
 
-* {
 
 Gloucestershire
 
@@ -10256,7 +10255,6 @@ Somerset-
 
 shire
 
-* {
 
 ire
 
@@ -11442,11 +11440,8 @@ r Beaumaris, -< Holyhead. I Llangefni,
 
 - Brecon.
 
-* {
 
-* {
 
-* {
 
 Llandilo Vawr.
 
@@ -17200,7 +17195,6 @@ o
 
 G
 
-f
 
 w
 
