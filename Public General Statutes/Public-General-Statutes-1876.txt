@@ -3449,8 +3449,6 @@ in the 18 ,
 
 If under 21 or over 06 years of age, state the fact, or if disqualified or exempted, the grounds of such disqualification or exemption. Consecutive Numbers. Surnames in Alphabetical Order. Christian Names. Place of Abode. Barony, Halfbarony, or Ward, in which Place of Abode is situate. Nature of Qualification. Title, Quality, Calling, or Business. Amount of Freehold or Leasehold Property. Annual Value of Rated Property. Place of Property.
 
-1 1 i 1 ' i
-
 We, the undersigned collectors of poor rate, hereby declare that, so far as relates to each of our respective districts of collection, we have made due and diligent inquiry for the purpose of assisting the clerk of the union in having the above list properly prepared, and we further declare that wherever any person named in said list is under 21 or over 65 years of age, or disqualified or exempted from serving as a juror, the fact of his being under or over age, or the grounds of such disqualification or exemption are truly stated in the proper column of said list, and that the true or last known place of abode, nature of the qualification, title, quality, calling, or business, place, and amount or annual value of property of each of the persons named in the above list are fully and truly stated therein, and that there is not omitted from the above list the name of any person whose name ought to be contained therein.
 
 Dated this day of in the year
@@ -3527,8 +3525,6 @@ Consecutive Numbers. Surnames in Alphabetical Order. Christian Names. Places of 
 
 Place. Value-
 
-j I 1 1; ' 1 1
-
 1876. Jurors Qualification (Ireland). Ch. 21, 22. 141
 
 (*) [Division of a baroi or in a count* or county of "Wtrd."]
@@ -3553,13 +3549,13 @@ WHEREAS it is expedient to amend the Trade Union Act, 1871:
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. This Act and the Trade Union Act, 1871, herein-after termed Construction the principal Act, shall be construed as one Act, and may be cited and short title-together as the "Trade Union Acts, 1871 and 1876/' and this Act may be cited separately as the " Trade Union Act Amendment Act,
+[Construction 
 
-1876."
+1. This Act and the Trade Union Act, 1871, herein-after termed the principal Act, shall be construed as one Act, and may be cited and short title-together as the "Trade Union Acts, 1871 and 1876/' and this Act may be cited separately as the "Trade Union Act Amendment Act, 1876."
 
 2. Notwithstanding anything in section five of the principal Act Trade unions
 
-contained, a trade union, whether registered or unregistered, which thm insures or pays money on the death of a child under ten years of Friendly age shall be deemed to be within the provisions of section twenty- Societies Act, eight of the Friendly Societies Act, 1875. 1875#
+contained, a trade union, whether registered or unregistered, which thm insures or pays money on the death of a child under ten years of Friendly age shall be deemed to be within the provisions of section twenty-eight of the Friendly Societies Act, 1875. Societies Act, 1875#
 
 3. Whereas by section eight of the principal Act it is enacted Amendment of
 
@@ -3587,9 +3583,9 @@ Deputy or Assistant Accountant-General of the Bank of England or Bank of Ireland
 
 6. Trade unions carrying or intending to carry on business in more than one country shall be registered in the country in which their registered office is situate; but copies of the rules of such unions, and of all amendments of the same, shall, when registered, be sent to the registrar of each of the other countries, to be recorded by him, and until such rules be so recorded the union shall not be entitled to any of the privileges of this Act or the principal Act, in the country in which such rules have not been recorded, and until such amendments of rules be recorded the same shall not take effect in such country.
 
-In this section " country" means England, Scotland, or Ireland.
+In this section "country" means England, Scotland, or Ireland.
 
-7. Whereas by the " Life Assurance Companies Act, 1870," it is provided that the said Act shall not apply to societies registered under the Acts relating to Friendly Societies: The said Act (or the amending Acts) shall not apply nor be deemed to have applied to trade unions registered or to be registered under the principal Act.
+7. Whereas by the "Life Assurance Companies Act, 1870," it is provided that the said Act shall not apply to societies registered under the Acts relating to Friendly Societies: The said Act (or the amending Acts) shall not apply nor be deemed to have applied to trade unions registered or to be registered under the principal Act.
 
 8. No certificate of registration of a trade union shall be withdrawn or cancelled otherwise than by the chief registrar of Friendly Societies, or in the case of trade unions registered and doing business exclusively in Scotland or Ireland, by the assistant registiar for Scotland or Ireland, and in the following cases:
 
@@ -3603,7 +3599,7 @@ A trade union whose certificate of registration has been withdrawn or cancelled 
 
 143
 
-1876. Trade Union Act (1871) Amend/mend. Ch. 22.
+1876. Trade Union Act (1871) Amendment. Ch. 22.
 
 cancelling, absolutely cease to enjoy as such the privileges of a registered trade union, but without prejudice to any liability actually incurred by such trade union, which may be enforced against the same as if such withdrawal or cancelling had not taken place.
 
@@ -3615,7 +3611,7 @@ rules of the trade union, enjoy all the rights of a member except as herein prov
 
 to, the registered office of the trade union, nominate any person not being an officer or servant of the trade union (unless such officer or servant is the husband, wife, father, mother, child, brother, sister, nephew, or niece of the nominator), to whom any moneys payable on the death of such member not exceeding fifty pounds shall be paid at his decease, and may from time to time revoke or vary such nomination by a writing under his hand similarly delivered or sent; and on receiving satisfactory proof of the death of a nominator, the trade union shall pay to the nominee the amount due to the deceased member not exceeding the sum aforesaid.
 
-XL A trade union may, with the approval in waiting of the chief Change of registrar of Friendly Societies, or in the case of trade unions regis- name-tered and doing business exclusively in Scotland or Ireland, of the assistant registrar for Scotland or Ireland respectively, change its name by the consent of not less than two thirds of the total number of members.
+11. A trade union may, with the approval in waiting of the chief Change of registrar of Friendly Societies, or in the case of trade unions regis- name-tered and doing business exclusively in Scotland or Ireland, of the assistant registrar for Scotland or Ireland respectively, change its name by the consent of not less than two thirds of the total number of members.
 
 No change of name shall affect any right or obligation of the trade union or of any member thereof, and any pending legal proceedings may be continued by or against the trustees of the trade union or any other officer who may sue or be sued on behalf of such trade union notwithstanding its new name.
 
@@ -3847,9 +3843,13 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 1. This Act maybe cited as " The Publicans* Certificates' (Scotland) Act, 1876."
 
-Extent of Act. 2. This Act shall apply to Scotland only.
+[Extent of Act.]
 
-Commence- 3. This Act shall, except so far as is otherwise expressly pro-ment of Act. vided, commence and come into operation on the first day of January one thousand eight hundred and seventy-seven, interpretation 4. In this Act the following words and terms have the meanings of terms. herein-after assigned to them; that is to say,
+2. This Act shall apply to Scotland only.
+
+[Commencement of Act.]
+
+3. This Act shall, except so far as is otherwise expressly provided, commence and come into operation on the first day of January one thousand eight hundred and seventy-seven, interpretation 4. In this Act the following words and terms have the meanings of terms. herein-after assigned to them; that is to say,
 
 " County " includes a county of a city, and for the purposes of this Act the upper and middle wards of the county of Lanark shall be considered as constituting a county, and the lower ward of the county of Lanark as also constituting a county:
 
@@ -3951,7 +3951,7 @@ Renewal and transfer of certificates.
 
 Table beer licenses not to be granted without certificates.
 
-Ch. 26. Publican, s' Certificates (Scotland). 39 & 40 Vict.
+Ch. 26. Publicans' Certificates (Scotland). 39 & 40 Vict.
 
 execution of the Act of the ninth year of the reign of His Majesty King George the Fourth, chapter fifty-eight, according to the provisions contained in the thirteenth section thereof; and every justice of the peace or magistrate of a burgh who shall be appointed a member of any such committee not being qualified as aforesaid shall, if he shall knowingly or wilfully act as a member of such committee, be liable to forfeit and pay the same penalty, to be recovered and applied in the same manner, and subject to the same conditions, as if he had been guilty of an offence under the said thirteenth section: Provided that no grant of a new certificate confirmed under the provisions of this Act shall be liable to objection on the ground that the magistrates or justices of the peace who granted or confirmed the same or any of them were not qualified to make such grant or confirmation.
 
@@ -3967,7 +3967,7 @@ execution of the Act of the ninth year of the reign of His Majesty King George t
 
 17. No license in the terms of the Act passed in the twenty-fourth and twenty-fifth years of the reign of Her present Majesty, chapter twenty-one, for the sale in any house, shop, or premises of table beer at a price not exceeding one penny halfpenny the quart, and not to be drunk on the premises, shall be granted by the commissioners or by any officer of inland revenue to any person in Scotland who shall not produce to the said commissioners or officer a certificate in terms of "The Public Houses Acts Amendment (Scotland) Act, 1862," and the Acts therein recited, or of this Act, and such certificate shall be applied for, granted, confirmed, transferred, and renewed in the manner, and subject to all the provisions applicable to other certificates in the like circumstances granted, confirmed, transferred, and renewed in terms of the foresaid Acts, and, mutatis mutandis, may be in. the form (so far as the same is applicable) of Schedule A, No. 3., of the "Public Houses Acts Amendment (Scotland) Act, 1862."
 
-1876*. Pvhlicans Certificates (Scotland). Ch. 26-28. ]53
+1876*. Publicans' Certificates (Scotland). Ch. 26-28. ]53
 
 SCHEDULE.
 
@@ -4011,11 +4011,15 @@ BE it enacted by the Queens most Excellent Majesty, by and with the advice and c
 
 [Short title.]
 
-1. This Act may be cited as " The Local Light Dues Reduction Act, 1876."
+1. This Act may be cited as "The Local Light Dues Reduction Act, 1876."
 
-2. Any local authority not otherwise empowered may and is Power to hereby authorised and empowered from time to time, with the consent of Her Majesty in Council, to reduce all or any dues for the time being receivable by such local authority in respect of lighthouses, buoys, or beacons.
+[Power to 
 
-The term "local authority " in this Act shall mean any person Definition of or body of persons having by law or usage authority over local RUtho lighthouses, buoys, or beacons.
+2. Any local authority not otherwise empowered may and is hereby authorised and empowered from time to time, with the consent of Her Majesty in Council, to reduce all or any dues for the time being receivable by such local authority in respect of lighthouses, buoys, or beacons.
+
+[Definition of
+
+The term "local authority " in this Act shall mean any person or body of persons having by law or usage authority over local RUtho lighthouses, buoys, or beacons.
 
 CHAPTER 28.
 
@@ -4023,7 +4027,7 @@ An Act to amend the Court of Admiralty (Ireland) Act, 1867, and confer a more ex
 
 [13th July 1876.]
 
-WHEREAS it is expedient to extend the jurisdiction in Admiralty conferred by the Court of Admiralty (Ireland) Act, 1867, (in this Act referred to as " the principal Act, ") upon the recorders of the boroughs of Cork and Belfast:
+WHEREAS it is expedient to extend the jurisdiction in Admiralty conferred by the Court of Admiralty (Ireland) Act, 1867, (in this Act referred to as "the principal Act,") upon the recorders of the boroughs of Cork and Belfast:
 
 Ch. 28.
 
