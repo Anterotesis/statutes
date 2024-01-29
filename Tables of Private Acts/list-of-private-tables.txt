@@ -139,6 +139,7 @@
 1800-41-George-3-Private.txt
 1805-45-George-3-Private.txt
 1813-53-George-3-Private.txt
+1815-55-George-3-Private.txt
 1816-56-George-3-Private.txt
 1817-57-George-3-Private.txt
 1818-58-George-3-Private.txt
@@ -186,6 +187,8 @@
 1857-20-21-Victoria-Private.txt
 1858-21-22-Victoria-Private.txt
 1859-22-23-Victoria-Private.txt
+1859-22-Victoria-Private.txt
+1860-23-24-Victoria-Private.txt
 1863-26-27-Victoria-Private.txt
 1864-27-28-Victoria-Private.txt
 1865-28-29-Victoria-Private.txt

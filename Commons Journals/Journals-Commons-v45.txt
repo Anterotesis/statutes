@@ -2416,13 +2416,13 @@ Inspector of Artillery at D®, and for proving Guns - - 1,377 12 6
 
 Superintendant of Military Machines at D® - - - 310 5 —
 
-Hampton Court, and St. James’s, Windsor' and Greenwich - 226 -----
+Hampton Court, and St. James’s, Windsor' and Greenwich - 226 -
 
 Woolwich - - 570 ——
 
 Purfleet - -- 541 5 —
 
-Gravesend and Tilbury - - - - 255 -----
+Gravesend and Tilbury - - - - 255 -
 
 Chatham - -- 663 17 6
 
@@ -2432,7 +2432,7 @@ Sheerness - -- 380 ——
 
 Feversham - 460 ——
 
-Dover - - - 120 -----
+Dover - - - 120 -
 
 Portsmouth ----- --- - 823 17 6
 
@@ -2468,7 +2468,7 @@ Jamaica ——
 
 Antigua ——
 
-St Christopher - -- -
+St Christopher -
 
 Dominica - -
 
@@ -2482,9 +2482,9 @@ Bahama Islands ——
 
 Quebec ——
 
-Halifax - - -
+Halifax -
 
-New Brunswick - - -
+New Brunswick -
 
 St. John’s and Placentia, in Newfoundland -
 
@@ -2502,7 +2502,7 @@ Pay of the Corps of Royal Engineers ——
 
 d.
 
-13,543 -----
+13,543 -
 
 554 10 --1,381 7 6 200 15
 
@@ -2676,13 +2676,13 @@ i,qoo ——
 
 10,000 ——
 
-1.000 -----
+1.000 -
 
-8.000 -----
+8.000 -
 
 10,000 ——
 
-1.000 -----
+1.000 -
 
 8.000 ——
 
@@ -2730,7 +2730,7 @@ For Contingencies in the Storekeeper’s Department ----- 1,800 ——
 
 For a Supply of Stores ---- - - 10,000 ——
 
-ISLE OF MAN: For Repairs, and Current Service - - -
+ISLE OF MAN: For Repairs, and Current Service -
 
 JERSEY:
 
@@ -2780,19 +2780,19 @@ CHATHAM:
 
 For Repairs of the Lines and Barracks at Chatham, and for Repairs at Gillingham, Upnor Castle, Cockhamwood, and Howness, Current Service,
 
-and Contingencies - -- - 6,500 -----
+and Contingencies - -- - 6,500 -
 
-Towards the Reveting Townshend’s Redoubt - - - 1,000 -----
+Towards the Reveting Townshend’s Redoubt - - - 1,000 -
 
 Pay of a Company of Royal Military Artificers ----- 1,924 1 8
 
 SHEERNESS:
 
-For Repairs of the Breakwaters, Current Service, and Contingencies - - -
+For Repairs of the Breakwaters, Current Service, and Contingencies -
 
 GRAVESEND AND TILBURY:
 
-For Repairs of the Works - -- -
+For Repairs of the Works -
 
 9,424 1 8
 
@@ -3628,9 +3628,9 @@ and!
 
 Between Small and Mid-/ dling Repair - - -J Middling Repair -
 
-Building - - -
+Building -
 
-Building - - -
+Building -
 
 Building - - - - -/Between Middling and/ / Great Repair - - -j Great Repair - - - -Middling Repair - - -Small Repair - - - -/Between Small and Mid-/ t dling Repair - - -j Middling Repair - -
 
@@ -4329,7 +4329,7 @@ of
 
 s. d. 6 2i
 
-Ditto of the Duties of Excise, for One Year, ended Ditto (exclusive of 554,962/. Produce of the Annual Malt Duties) as per Accompt, (B) - - -
+Ditto of the Duties of Excise, for One Year, ended Ditto (exclusive of 554,962/. Produce of the Annual Malt Duties) as per Accompt, (B) -
 
 Ditto of the Stamp Duties, for One Year, ended Ditto, as per Accompt, (C)
 
@@ -5159,7 +5159,7 @@ By Over Entries re-paid, and Allowances on Damaged Goods -
 
 By Portage Bills ——
 
-— Paid towards supporting the Three Supreme Courts of Justice in Scotland - -- -
+— Paid towards supporting the Three Supreme Courts of Justice in Scotland -
 
 — Paid for purchasing the Exemption of Pitfarren Coals from Duty- ——
 
@@ -5753,7 +5753,7 @@ Money repaid by Daniel Macknamara, Executor of Richard Rigby, late Paymaster of 
 
 Exchequer Bills ——
 
-by John Hatsell, Esquire, Clerk of the House of Commons - - -
+by John Hatsell, Esquire, Clerk of the House of Commons -
 
 by the Right honourable Lord North, and the Executors of George Cooke, late Paymaster of the Forces ——
 
@@ -5853,7 +5853,7 @@ s. d. 2 6
 
 By virtue of one other Act of the same Session, the Sum of 1,002,5001, was raised by Annuities' on Lives, with the Benefit of Survivorship, to be distributed into Classes, and to be paid at the Receipt of the Exchequer, and charged upon the Consolidated Fund; but the Annual Amount of these Annuities cannot be ascertained until the Classes into which the same are to be distributed are completed. The said Act directs, that the Contributors of the said 1,002,500!. shall be entitled to 4/. per Centum per Annum, from the 5th Day of July 1789 until the 10th Day of October 1790, from which Time the Annuity payable to the respective Nominees is to commence; the present Annual Charge therefore is- - -
 
-> 40,100 -----
+> 40,100 -
 
 Presented pursuant to an Act of the 27th Year of His present Majesty’s Reign, this 3d Day of February 1790, by
 
@@ -6636,7 +6636,7 @@ s. d. 10 —
 
 £. s. d. 1,000,000 ——
 
-24.000 -----
+24.000 -
 
 6,600 ——
 
@@ -7846,15 +7846,15 @@ EXCHEQUER:
 
 Annuities which were formerly charged on 99 Years Excise, with the Salaries to the Officers of the Receipt of the Exchequer, for Three Months, due 5th July 1789 4-ths Excise - with 11* — - for D® - -
 
-3,700 /. per Week Excise, with D® - — for D® - - -
+3,700 /. per Week Excise, with D® - — for D® -
 
 A® 1706, ..... with D® - - - for D'....
 
-A® 1707, - - with D° - - - for D® - - -
+A® 1707, - - with D° - - - for D® -
 
-per 1st Act, A® 1708 - - with D-for D® - - -
+per 1st Act, A® 1708 - - with D-for D® -
 
-per 2d Act, A® 1708 - - with D* - - - for D® - - -
+per 2d Act, A® 1708 - - with D* - - - for D® -
 
 Annuities on Lives, A® 1745, for Six Months, due D* - -
 
@@ -7878,7 +7878,7 @@ SOUTH SEA COMPANY:
 
 Annuity and Management on 24,065,0841?. 13*. lift?., their present Capital, for One Quarter, due 5th July 1789 - -
 
-Annuity and Management on 1,919,600l., for Half a Year, due D®, after abating the Sum of 42/. 3 s. 9 d.being after the Rate of 562/. 10s. per Million on the Principal Sum of 150,000 /., purchased by the Commissioners for the Reduction of the National Debt - -- -
+Annuity and Management on 1,919,600l., for Half a Year, due D®, after abating the Sum of 42/. 3 s. 9 d.being after the Rate of 562/. 10s. per Million on the Principal Sum of 150,000 /., purchased by the Commissioners for the Reduction of the National Debt -
 
 2,649
 
@@ -8044,9 +8044,9 @@ Lady Dorchester, Guy Carleton, Esquire, and Thomas Carlton, Esquire, on their An
 
 30,474 to 10
 
-3,750 -----
+3,750 -
 
-9.375 -----
+9.375 -
 
 13>,25 ——
 
@@ -8054,7 +8054,7 @@ Lady Dorchester, Guy Carleton, Esquire, and Thomas Carlton, Esquire, on their An
 
 24,000 ——
 
-7,500 -----
+7,500 -
 
 3,262 10 —
 
@@ -8072,21 +8072,21 @@ Lady Dorchester, Guy Carleton, Esquire, and Thomas Carlton, Esquire, on their An
 
 2.000 — —
 
-2.000 -----
+2.000 -
 
 2,250 ——
 
 75o ——
 
-1.000 -----
+1.000 -
 
 500 ——
 
 375 ——
 
-1.750 -----
+1.750 -
 
-1.750 -----
+1.750 -
 
 75 ——
 
@@ -8258,13 +8258,13 @@ Annuity for 18 I Years, by Act 29th Geo. 3*" R*, for D® - - 7,000 16 3 /
 
 Annuity and Management on 37,340,073/. 16#. 4 3 per Cent. Reduced Annts. for
 
-D®, after abating the Sum of 153/. for Half of 306/. being after the Rate of 45Q/. per Million on the Principal Sum of 680,000l. purchased by the Commissioners far she Reduction of the National Debt - - -
+D®, after abating the Sum of 153/. for Half of 306/. being after the Rate of 45Q/. per Million on the Principal Sum of 680,000l. purchased by the Commissioners far she Reduction of the National Debt -
 
 Annuity and Management for long Terms, consolidated by several Acts of Parliament,
 
 for D®.....- - -....
 
-Annuity granted A® 1777, for 10 Years, amounting to the Sum of 25,000l. per Ann, which ceased upon the 5th April 1787, and is to be placed to the Account of the Commissioners for the Reduction of the National Debt, for D® - - -
+Annuity granted A® 1777, for 10 Years, amounting to the Sum of 25,000l. per Ann, which ceased upon the 5th April 1787, and is to be placed to the Account of the Commissioners for the Reduction of the National Debt, for D® -
 
 d.
 
@@ -8348,7 +8348,7 @@ Annuity on 3,200,000l. at 3/. perCent. per Ann. for One Quarter, due 10th Octobe
 
 Management on the above Capital of 4,200,000l. for One Year, due D®
 
-The Judges of England and Wales, on their several additional Allowances, for One Quarter, due D® - -- -
+The Judges of England and Wales, on their several additional Allowances, for One Quarter, due D® -
 
 Charles Bembridge, Esquire, late Secretary and Accountant in the Office for managing the former Duties on Wine Licences ----- -- for D*
 
@@ -8828,7 +8828,7 @@ Annuity and Management on 17,8(19,993/. 9 s. 10 after the Rate of 5 /. per Cent,
 
 Annuity and Management on 1,000,000l. after the Rate of perCent per Annum, for D“....
 
-Annuity and Management on 3,200,000l. after the Rq.te of 3/. per Cent, per Annum, for One Quarter, ended 12th November 1789 - - -
+Annuity and Management on 3,200,000l. after the Rq.te of 3/. per Cent, per Annum, for One Quarter, ended 12th November 1789 -
 
 Annuity and Management on 4,000,000l. purchased of the South Sea Company, for One Quarter, ended 5th January 1790 - - - - ' -
 
@@ -8940,7 +8940,7 @@ G750
 
 10 —
 
-750 -----
+750 -
 
 250 ——
 
@@ -9592,7 +9592,7 @@ IO ---
 
 1,497 i° ~
 
-i>350 -----
+i>350 -
 
 3,080 2 6
 
@@ -10028,7 +10028,7 @@ Price.
 
 78 \
 
-U395 ----
+U395 -
 
 4,597 10 “
 
@@ -10060,7 +10060,7 @@ d.
 
 1,893 »5 —
 
-775 -----
+775 -
 
 782 lO --
 
@@ -11268,7 +11268,7 @@ Capital.
 
 771 I 5,425 ——
 
-289,800 -----
+289,800 -
 
 28*975 ——
 
@@ -11520,9 +11520,9 @@ Casual )uhK I lie Si cks
 
 2,351 5 —
 
-3,925 -----
+3,925 -
 
-785 -----
+785 -
 
 700
 
@@ -11762,7 +11762,7 @@ d.
 
 6,247 2 6
 
-6.210 -----
+6.210 -
 
 6,220 ——
 
@@ -14236,7 +14236,7 @@ N° 16. N» 27.
 
 William Moore, Junior, Keeper of Goose Green Lodge. Salary, paid by Lord Stawell ——
 
-Henry How, Keeper of Old Close Walk, occupies Part of Goose Green Lodge, and a small Garden; the other Part occupied by Lord Stawell's Game Keeper. Salary, paid by Lord Stawell - - -
+Henry How, Keeper of Old Close Walk, occupies Part of Goose Green Lodge, and a small Garden; the other Part occupied by Lord Stawell's Game Keeper. Salary, paid by Lord Stawell -
 
 26 5 __
 
@@ -15176,7 +15176,7 @@ Annual Value.
 
 £. s.
 
-4 -----
+4 -
 
 72 19 3
 
@@ -15954,7 +15954,7 @@ Mr. Legge.
 
 22 Trees, Part of the 60 Trees sold, &c. (See Note opposite) -
 
-*757* The Accomptant is charged with 150 dotard and decayed Trees, with the Bark thereof, felled and cut down in the said Forest, valued and sold to several Persons, for the Sum of - -- -
+*757* The Accomptant is charged with 150 dotard and decayed Trees, with the Bark thereof, felled and cut down in the said Forest, valued and sold to several Persons, for the Sum of -
 
 1758.
 
@@ -15982,7 +15982,7 @@ The like ——
 
 The like ——
 
-The like - -- -
+The like -
 
 1
 
@@ -16756,7 +16756,7 @@ Peat, 325 Loads -Turf, 340 Thousand -Heath, 8 Kilns -Fern -
 
 16 5 —
 
-17 -----
+17 -
 
 2 ——
 
@@ -16980,7 +16980,7 @@ D®....
 
 D®....
 
-D® - - -
+D® -
 
 D®....
 
@@ -17822,7 +17822,7 @@ RECEIPTS.
 
 NAVY TIMBER.
 
-By Navy Bills, for the Value of 1,777 Loads and 15 Feet of Oak Timber, felled for the Use of the Navy in the said Forest, from 1776 to 1784, at 1/. 18$. per Load (no Timber having been felled there for the Use of the Navy,between the Years 1700 and 1776) the Sum of -By Sale of 79 Loads and 31 Feet of Oak Timber and small Crooks, at 50s. per Load -By Sale of 301 Loads and 89 Yards of Bark -By Sale of the Tops of one Fall of 300 Loads in 1777, and of defective Trees - - -
+By Navy Bills, for the Value of 1,777 Loads and 15 Feet of Oak Timber, felled for the Use of the Navy in the said Forest, from 1776 to 1784, at 1/. 18$. per Load (no Timber having been felled there for the Use of the Navy,between the Years 1700 and 1776) the Sum of -By Sale of 79 Loads and 31 Feet of Oak Timber and small Crooks, at 50s. per Load -By Sale of 301 Loads and 89 Yards of Bark -By Sale of the Tops of one Fall of 300 Loads in 1777, and of defective Trees -
 
 By Sale of 102 Cords and J of a Cord of Wood -
 
@@ -17834,7 +17834,7 @@ WOOD SALES.
 
 By Sale of divers Quantities of dotard and decayed Trees felled in the said Forest, from 1761 to 1774 inclusive (no Wood Sales having been made there since 1774) the Sum of ——
 
-Salaries and other Disbursements charged in the Accounts of Wood Sales, as per Contra - - -
+Salaries and other Disbursements charged in the Accounts of Wood Sales, as per Contra -
 
 £. s. d.
 
@@ -17856,7 +17856,7 @@ Salaries and other Disbursements charged in the Accounts of Wood Sales, as per C
 
 Surplus of Disbursements charged in the Wood Sale Accounts, to be deducted from the Net Produce of the Navy Timber -General Balance of the Navy Timber and Wood Sale Accounts, from 1761 to 1786 - -- --....
 
-Note. — From the above Balance is to be deducted the Amount of the Fee Farm Rent of 31 /. 2 s. 11 per Ann. issuing out of the Manor of Wordleham, granted to the Lieutenant towards Payment of Salaries to the Under Keepers, from 1761 to 1786 - - -
+Note. — From the above Balance is to be deducted the Amount of the Fee Farm Rent of 31 /. 2 s. 11 per Ann. issuing out of the Manor of Wordleham, granted to the Lieutenant towards Payment of Salaries to the Under Keepers, from 1761 to 1786 -
 
 The remaining Balance^shews the clear Produce of the Forest during those 26 Years to be - -- £.
 
@@ -17888,7 +17888,7 @@ Paid Robert Briant for sundry Expences in 1783, relative to the Prosecution of W
 
 Navy Timber.
 
-20 -----
+20 -
 
 28 13 — 1211 4
 
@@ -17966,7 +17966,7 @@ Fees paid at the Treasury for Warrants and Entries, and to the Auditor for stati
 
 To Robert Briant, for sundry Expences in 1783, relative to the Prosecution of Wood Stealers ——
 
-To Mr. Oliver Farrer, Attorney at Law, his Bill of Charges relative thereto - -- -
+To Mr. Oliver Farrer, Attorney at Law, his Bill of Charges relative thereto -
 
 £ s. d. .2,678 10 10 11,220 ——
 
@@ -18579,9 +18579,9 @@ To Ships in Sea Pay on the aforesaid 31 st December 1789 To discharge and pay of
 
 Victualling Debt, as per Estimate received from those Commissioners; viz*.
 
-Due for short Allowance to the Companies of His Majesty’s Ships in Pay, and which have been paid off - - -
+Due for short Allowance to the Companies of His Majesty’s Ships in Pay, and which have been paid off -
 
-For paying off all Bills entered on their Course -For Provisions delivered, and Services performed, for which no Bills were made out on the aforesaid 31st December. 1789 -For Necessary and Extra Necessary Money, Bills of Exchange, and Contingencies - - -
+For paying off all Bills entered on their Course -For Provisions delivered, and Services performed, for which no Bills were made out on the aforesaid 31st December. 1789 -For Necessary and Extra Necessary Money, Bills of Exchange, and Contingencies -
 
 To the Officers, Workmen, and Labourers, employed at the several Ports - -
 
@@ -22330,7 +22330,7 @@ From the 10th of October 1778 to the loth of October 1779, the same Allowance fo
 
 Deductions from Ditto ——
 
-Prom the 10th of October 1779 to the 1st of September 1780, inclusive, when the Parliament was dissolved, the same Allowance for 327 Days, being Leap Year - -- -
+Prom the 10th of October 1779 to the 1st of September 1780, inclusive, when the Parliament was dissolved, the same Allowance for 327 Days, being Leap Year -
 
 Deductions from Ditto ——
 
@@ -22378,7 +22378,7 @@ N. B, Upon every Election of a Speaker there is an Allowance received for his Eq
 
 Deductions out of Ditto is. 6d. per Pound, Duties and Treasury Fees - ....
 
-1,000 -----
+1,000 -
 
 77 7 —
 
@@ -23752,13 +23752,13 @@ There remains
 
 - £ 659 14 6
 
-To Dr. Charles Hutton, for his Labour and Trouble in computing Tables of Products, Powers, and Roots of Natural Numbers, lately published, and for furnishing the necessary Precepts, and correcting the Press - - -
+To Dr. Charles Hutton, for his Labour and Trouble in computing Tables of Products, Powers, and Roots of Natural Numbers, lately published, and for furnishing the necessary Precepts, and correcting the Press -
 
 To the Reverend Dr. Maskelyne, Astronomer Royal (by way of Imprest) to enable him to pay Persons to compute and compare Nautical Almanacks, or Astronomical Ephemeridy, for the Years 1791 and 1792 ——
 
 To Mr. William Bayly, as a Recompence for his Trouble in reducing, compiling, and printing the Astronomical Observations made during Captain Cook’s last Voyage, and intended to be published with the Historical Account thereof -To Mr. William Richardson, Printer, being the Amount of his Bill for printing Astronomical Observations made during Captain Cook’s last Voyage, as also Nautical Almanacks, Tables, &c. -To Messrs. Wright, Gill and C*, Stationers, being the Amount of their Bill for Paper supplied by them for the Use of the Commissioners of the Longitude ——
 
-To Mr. Robert Blair, as a Reward for having discovered a Method of adjusting Hadley’s Quadrant for the Back Observation, with the same Ease and Accuracy, and on the same Principle, as the Method now practised in the Fore Observation, with little or no additional Apparatus - -- -
+To Mr. Robert Blair, as a Reward for having discovered a Method of adjusting Hadley’s Quadrant for the Back Observation, with the same Ease and Accuracy, and on the same Principle, as the Method now practised in the Fore Observation, with little or no additional Apparatus -
 
 To the Reverend Dr. Maskelyne, Astronomer Royal (by way of Imprest) to enable him to pay Persons to compute and compare Nautical Almanacks, or Astronomical Ephemeridy, for the Years
 
@@ -25399,7 +25399,7 @@ June 2d. To Lieut. Col. De Lancey, for Expences incurred in the Employment commi
 
 211 14 5 1,487 3 8 78 4 8
 
-5° -----
+5° -
 
 220 9 — -197 17 —
 
@@ -25417,7 +25417,7 @@ in recruiting the said Regiment in the Leeward' Islands, in the Year 1785 -July 
 
 August 4th. To John Dumaresq, Esquire, for Six Years Rent of an Hospital ib the Island of Jersey, to Michaelmas 1789, and for a Compensation for the Injury done to the said Hospital by a Quantity of Powder that was lodged therein taking Fire -8th. To Patrick Cruikshank, for Interest and Expences paid by him on sundry Bills drawn in his Favour by Governor Morris, for Work done at St. Vincent’s, which were returned protested, but have since been discharged by the Treasury - -
 
-26th. To Walter Paterson, Esquire, late Governor of the Island of St John, for the Contingent Expences incurred by him in the Year 1781 -October 7th. To M. G. O’Hara, for the Extra Contingent Expences of the Regiments at Gibraltar, from 25th December 1788 to 24th June 1789 - - -
+26th. To Walter Paterson, Esquire, late Governor of the Island of St John, for the Contingent Expences incurred by him in the Year 1781 -October 7th. To M. G. O’Hara, for the Extra Contingent Expences of the Regiments at Gibraltar, from 25th December 1788 to 24th June 1789 -
 
 November 27th. To Win, Hoyte, for the Use of his House at Gibraltar, which was occupied by the 73d Regiment of Foot for a considerable Time -December 14 th. To Messrs. Ross and Ogilvie, Agents to the 60th Regiment of Foot for the Passage of 26 Men of the 2d Battalion of that Regiment from Barbadoes to Grenada, from 25th June 1784 to 24th December following ——
 
@@ -25461,9 +25461,9 @@ To D®, drawn by James Seton, Governor of St. Vincent, for D° Services ——
 
 To D®, drawn by Thomas Carleton, Lieut. Governor of New Brunswick, for D® Services -To D®, drawn by John Orde, Governor of Dominica, for D* Services ——
 
-To D®, drawn by Thomas Shirley, Governor of the Leeward Islands, for D* Services -To D®, drawn by Arch1 M*Arthur, Commander in Chief in the Bahamas, for D* Services To D®, drawn by Lord Dunraore, Governor of the Bahamas, for D® Services - - -
+To D®, drawn by Thomas Shirley, Governor of the Leeward Islands, for D* Services -To D®, drawn by Arch1 M*Arthur, Commander in Chief in the Bahamas, for D* Services To D®, drawn by Lord Dunraore, Governor of the Bahamas, for D® Services -
 
-To D®, drawn by Wm. Macarmick, Governor of Cape Breton, for D® Services -----
+To D®, drawn by Wm. Macarmick, Governor of Cape Breton, for D® Services -
 
 To D®, drawn by Edmund Fanning, Lieut. Governor Island of St John, for D® Services -
 
@@ -25557,7 +25557,7 @@ To L. G. Morrison, for 183 Days Additional Pay, as Quarter Master General, to D�
 
 To sundry General Officers, for their Trouble and Expences in reviewing the Land Forces in the Year
 
-1788 - - -
+1788 -
 
 To L. G. Thomas, in lieu of Full Pay as Lieut. Governor of the late Garrison of Fort St. Philip, in Minorca, from 25th June to 24th December, 1788 . - *
 
@@ -25659,7 +25659,7 @@ November 30th. To Col. J. F. Erskine, for Half a Year’s Pension, to 10th Octob
 
 £. s
 
-750 -----
+750 -
 
 274 10 — 91 10 —
 
@@ -25683,7 +25683,7 @@ Year 1788
 
 May 19th. To Sir John Inglis, Baronet, for Oatmeal, Firing, Candles, &c. furnished to the Forces in the Garrisons of Fort William, Castle Duart, Fort Augustus, Fort George, and Fort Charlotte, in the Island of Shetland, and the Barracks of Bernera, Inversnaid, Corgarf, and Braemar, and the Out Posts in their Neighbourhood, in the Year 1788 -
 
-To D*, for Necessaries for the Use of the Forces in North Britain - - -
+To D*, for Necessaries for the Use of the Forces in North Britain -
 
 21st. To Pay a Bill of Exchange, drawn by the Royal Bank of Scotland, for One Year’s Allowance, to Christmas 1788, for furnishing Specie to the Troops in Scotland, See. ——
 
@@ -25741,7 +25741,7 @@ To D*, for providing D* for D° Forces, from 20th September to 19th December 178
 
 To Nich. Fiott, for Coals and Candles supplied for the Use of the Forces in the Island of Jersey, from 29th September 1788 to 24th March 1789 -To H. Henderson, for providing and repairing Utensils at Hilsea, Portsmouth, &c. and furnishing Coals and Candles for the Use of the Forces in the said Barracks ——
 
-To Edward Kent, Esquire, for providing Coals, Candles, Brooms, &c. for the Use of the Forces in Chatham Barradks, from 25th June to 24th December 1788 - - -
+To Edward Kent, Esquire, for providing Coals, Candles, Brooms, &c. for the Use of the Forces in Chatham Barradks, from 25th June to 24th December 1788 -
 
 To Tho. Best, Esquire, for supplying the Barracks of Dover Castle with Coals, Candles, &c. from 25th December 1787 to 24th December 1788 To J. Darwin, for providing D° for the Forces at Tynemouth Barracks and Clifford’s Fort, from 25th December 1787 to 24th June 1788 -
 
@@ -25761,7 +25761,7 @@ To D°, for divers Necessaries furnished for D", for Six . Months to D° -
 
 To Lord Elphinstone, for providing Coals, Candles, &c. for the Forces in Edinburgh Castle, from 20th December 1788 to 20th March 1789 -
 
-To D®, for providing D° for D* Forces, from 21st March to 19th June 1789 - - -
+To D®, for providing D° for D* Forces, from 21st March to 19th June 1789 -
 
 To M. G. Scott, for One Year’s additional Allowance for Coals and Candles for the Guards in Windsor Castle, to 24th December 1785-
 
@@ -25841,7 +25841,7 @@ To D®, for D® of D° Militia, from 25th June 1781 to 24th December 1782 -
 
 To D®, for D® of D® Militia, from 25th December 1782 to 24th March 1783 ——
 
-To Col. Vansittart, for D® of the Berkshire Militia, from 25th June to 24th December 1781 To D°, for D* of D* Militia, from 25th December 1781 to 24th June 1782 - - -
+To Col. Vansittart, for D® of the Berkshire Militia, from 25th June to 24th December 1781 To D°, for D* of D* Militia, from 25th December 1781 to 24th June 1782 -
 
 To D°, for D® of D° Militia, from 25th June to 24th
 
@@ -25945,7 +25945,7 @@ To Captain Lloyd Hill, of the 1st Regiment of Foot Guards, for the Expences of a
 
 To D°, for D° done in Repairs of the Horse and Foot Guards, in D4 Year ——
 
-April 17th. To M. G. M'Nab, for providing Knapsacks for the 41st Regiment of Foot - - -
+April 17th. To M. G. M'Nab, for providing Knapsacks for the 41st Regiment of Foot -
 
 To the Agents of the Three Regiments of Foot Guards, to reimburse the Effective Private Men of the said Regiments the Deduction of Poundage made from their Pay, from 25th June to 24th December 1788 ——
 
@@ -25961,7 +25961,7 @@ To Lord Amherst, for Knapsacks provided for the 3d Battalion of the 60th Regimen
 
 To Wm. Brown, Lieut Governor of Guernsey, for Rent of a House in the said Island, from nth February 1788 to 24th December following -To Sir A. Campbell, K. B. for Knapsacks provided for the 74th Regiment of Foot - -
 
-To Messrs. Cox, Cox, and Greenwood, acting as Agents to Col. Abercromby, for providing Knapsacks for the 75th Regiment of Foot - - -
+To Messrs. Cox, Cox, and Greenwood, acting as Agents to Col. Abercromby, for providing Knapsacks for the 75th Regiment of Foot -
 
 25th. To Sir W. Fawcett, K. B. for the Contingent Expences of the Office of Adjutant General, from 25th December 1788 to 24th June 1789 -
 
@@ -26179,7 +26179,7 @@ Subsistence and Recruiting, for the Year 1789 -To D® of the 73d Regiment of Foo
 
 To D* of D® Regiment, on Account of D® and D®, for the Year 1789 To D® of the 74th Regiment of Foot, on Account of Subsistence, for the Year 1787 -To D® of D® Regiment, on Account of Subsistence and Recruiting, for the Year 1788 -To D® of D® Regiment, on Account of D® and D®, for the Year 1789 To D® of the 75th Regiment of Foot, on Account of Subsistence, for the Year 1788 ——
 
-To D® of D® Regiment, on Account of Subsistence and Recruiting, for the Year 1789 - - -
+To D® of D® Regiment, on Account of Subsistence and Recruiting, for the Year 1789 -
 
 To D®of the 76th Regiment of Foot, on Account of Subsistence and Recruit-
 
@@ -31177,7 +31177,7 @@ To pay the Fees and Charges attending the Receipt thereof - - - - 24 14 —
 
 341 18 —
 
-To pay Bills drawn by Lord Dunmore, for Fees due to the Governor, on Grants of Lands to the Loyalists in the Bahama Islands, and for Disbursements made to the Surveyor General, for the Payment of Fees to the Deputy Surveyor, and Wages to Chain Bearers employed in surveying Lands, &e. - -- -
+To pay Bills drawn by Lord Dunmore, for Fees due to the Governor, on Grants of Lands to the Loyalists in the Bahama Islands, and for Disbursements made to the Surveyor General, for the Payment of Fees to the Deputy Surveyor, and Wages to Chain Bearers employed in surveying Lands, &e. -
 
 Exchequer, the 12th Day of April 1790.
 
@@ -31567,13 +31567,13 @@ D* - - by Robert Adair and Joseph Partridge, Executors of J. A, F. Hesse, on Acc
 
 6 13 4 2 ——
 
-6.000 -----
+6.000 -
 
 2,800 ——
 
 2,519 10 3*
 
-5.000 -----
+5.000 -
 
 2,100 ——
 
@@ -31621,7 +31621,7 @@ Annuity on 3,200,000 /., at 3 per Cent, per Ann. for One Quarter, due 5th April
 
 Annuity on 1,000,000l., at D® - - - for D®
 
-The Judges of England and Wales, on their several additionl Allowances, for One Quarter, due 5th April 1790 - -- -
+The Judges of England and Wales, on their several additionl Allowances, for One Quarter, due 5th April 1790 -
 
 Charles Bembridge, Esquire, late Secretary and Accountant in the Office for managing the former Duties on Wine Licences for D®
 
@@ -32039,9 +32039,9 @@ SERVICES.
 
 For Wages and Wear and Tear of the Navy, and the Victualling thereof, for 20,000 Men, including 3,860 Marines, from the £. t.
 
-1st Day of January 1789 - - - - -.....988,000 -----
+1st Day of January 1789 - - - - -.....988,000 -
 
-For the Ordinary of the Navy, including Half Pay to Sea and Marine Officers, for the Year 1789 ----- - 713,000 ----
+For the Ordinary of the Navy, including Half Pay to Sea and Marine Officers, for the Year 1789 ----- - 713,000 -
 
 Towards the Buildings, Re-buildings, and Repairs of the Ships of War in His Majesty's Yards, and other extra Works, over and above what are proposed to be done upon the Heads of Wear and Tear, and Ordinary, for the Year 1789 - - - 575,57o ——
 
@@ -32195,7 +32195,7 @@ For defraying the Charge of the Civil Establishment in New South Wales, from the
 
 For repairiq*, maintaining, and supporting the British Forts and Settlements on the Coast of Africa -
 
-Towards enabling the Trustees of the British Museum to carry on the Execution of the Trusts reposed in them by Parliament -----
+Towards enabling the Trustees of the British Museum to carry on the Execution of the Trusts reposed in them by Parliament -
 
 For jthe Expences of the New Roads of Communication, and building Bridges, in the Highlands of North Britain, in the Year 1789 -
 
@@ -32757,7 +32757,7 @@ in America,.from the fut of January 1790 to the 1st of January 1791.
 
 The Salary of the Lieutenant Governor ——
 
-Chief Justice - - -
+Chief Justice -
 
 Attorney General - - - - .
 
@@ -32773,7 +32773,7 @@ Agent ——
 
 Allowance to a Bishop ——
 
-to Ministers - -- -
+to Ministers -
 
 0* towards erecting a Building near Windsor for the Reception Students, to be called Ranges College, which, upon an Estimate made, may, it is supposed, be completed for about 3,000l. ——
 
@@ -32795,7 +32795,7 @@ ICO ——
 
 150 ——
 
-50 -----
+50 -
 
 200 ——
 
@@ -32827,7 +32827,7 @@ too —
 
 100 ——
 
-150 -----
+150 -
 
 136 17 $ 6,376 17 6
 
@@ -32867,7 +32867,7 @@ poo ——
 
 150 ——
 
-1 50 -----
+1 50 -
 
 700 ——
 
@@ -32917,7 +32917,7 @@ Total - -
 
 300 ——
 
-too -----
+too -
 
 150 ——
 
@@ -32943,7 +32943,7 @@ ESTIMATE of the Charge of defraying the Civil Establishment of the Island of Cap
 
 The Salary of the Lieutenant Governor -Chief Justice -Attorney General -
 
-Secretary, Register and Clerk of the Council Naval Officer - - -
+Secretary, Register and Clerk of the Council Naval Officer -
 
 Provost Marshal -
 
@@ -32997,13 +32997,13 @@ A. 1790.
 
 Bahama ESTIAMTE of the Sums necessary to support the Civil Establishment of the Bahama Islands, in Addition to the Salaries now paid to the public Officers out of the Duty Fund, and other incidental Charges attending the same, from the 1st of January 1790 to the 1st of January 1791.
 
-Additional Salary to the Governor - -- -
+Additional Salary to the Governor -
 
 Chief Justice ——
 
 to Two Assistant Judges, 200l. per Annum each - -
 
-Secretary, Register, and Clerk of the Council -----
+Secretary, Register, and Clerk of the Council -
 
 Provost Marshal ——
 
@@ -33045,7 +33045,7 @@ Total -
 
 70 ——
 
-70 -----
+70 -
 
 140 — —
 
@@ -33059,7 +33059,7 @@ Total -
 
 4,080 ——
 
-Bermuda SALARY to the Chief Justice of the Bermuda or Somers Islands, from the 24th of June Islands. 1790 to the 24th of June 1791 - -- -
+Bermuda SALARY to the Chief Justice of the Bermuda or Somers Islands, from the 24th of June Islands. 1790 to the 24th of June 1791 -
 
 Fees on Receipt ——
 
@@ -33091,7 +33091,7 @@ to the 10th of October 1791.
 
 Allowance to the Governor ——
 
-Lieutenant Governor - - -
+Lieutenant Governor -
 
 Deputy Judge Advocate ——
 
@@ -44577,7 +44577,7 @@ Quebec ——
 
 Halifax ——
 
-New Brunswick - - -
+New Brunswick -
 
 '-S' John’s and Placentia, in Newfoundland
 
@@ -44685,7 +44685,7 @@ Pay of Draughtsmen ——
 
 Pay of Superannuated and Disabled Men, Half Pay of Reduced Officers, Widows Pensions, and Allowances to Officers for good Services, &c. ——
 
-Fees at the Exchequer, &c. - -- -
+Fees at the Exchequer, &c. -
 
 EXTRAORDINARIES.
 
@@ -45143,7 +45143,7 @@ ROYAL LABORATORY: Towards the Extraordinary Charge of Labourers and Artificers
 
 ISLE OF MAN:
 
-For Repairs, and Current Service - - -
+For Repairs, and Current Service -
 
 WALTHAM ABBEY:
 

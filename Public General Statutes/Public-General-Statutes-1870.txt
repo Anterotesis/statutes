@@ -3247,8 +3247,6 @@ Repealed
 
 Amended
 
-Repealed
-
 62
 
 87
@@ -3273,19 +3271,17 @@ Repealed
 
 88 84 99 32 29 101 50 49 88 24
 
-69
+Repealed 69
 
 102
 
-69
-
+Repealed 69
+---
 THE
 
 PUBLIC GENERAL STATUTES,
 
 33 Victoria.
-
-U
 
 CHAP. 1.
 
@@ -3297,29 +3293,15 @@ WHEREAS it is expedient to empower Committees of both Houses of Parliament to aw
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. Any Select Committee of either House of Parliament to which any Bill for confirming Provisional Orders has been referred in relation to any Provisional Order therein contained may award costs in like manner and subject to the same conditions as costs may be awarded by any Select Committee empowered to award costs by the Act of the twenty-eighth Victoria, chapter twenty-eight, and the provisions of the said Act so far as they are applicable shall apply to such Select Committees and to the matters so referred to them
+[Power to Committees of either House of Parliament on Bills confirming Provisional Orders to award costs.]
+
+1. Any Select Committee of either House of Parliament to which any Bill for confirming Provisional Orders has been referred in relation to any Provisional Order therein contained may award costs in like manner and subject to the same conditions as costs may be awarded by any Select Committee empowered to award costs by the Act of the twenty-eighth Victoria, chapter twenty-eight, and the provisions of the said Act so far as they are applicable shall apply to such Select Committees and to the matters so referred to them.
+
+[Power to such Committees of House of Commons to examine witnesses upon oath.]
 
 2. Any Select Committee of the House of Commons to which any Bill for confirming Provisional Orders has been referred in relation to any Provisional Order therein contained may examine witnesses upon oath in like manner as any Select Committee to which any Private Bill has been referred may administer oaths under the Act of the twenty-second Victoria, chapter seventy-eight, and the provisions of the said Act so far as they are applicable shall apply to any Select Committee to winch any such Bill has been referred as aforesaid and to the oaths administered by such Committee.
 
-A
-
-Power to Committees of either House of Parliament on Bills confirming Provisional Orders to award costs.
-
-Power to such Committees of House of Commons to examine witnesses upon oa th.
-
-t
-
-2
-
-Ch. 2.
-
-Dissolved Districts and Unions.
-
-33 Vict.
-
-Persons acting as guardians or managers at time of dissolution, &c. to continue in office to wind up accounts;
-
-and empowered to make orders upon parishes or unions for contributions, and to enforce the same;
+2 Ch. 2. Dissolved Districts and Unions. 33 Vict.
 
 CHAP. 2.
 
@@ -3329,7 +3311,13 @@ An Act to make provision for the proceedings of Boards of Management and Boards 
 
 WHEREAS it is expedient that better provision should be made for the proceedings of boards of management and boards of guardians when the districts or unions for which they have acted respectively are dissolved, or the parish for which any such board of guardians have acted shall be added to a union or to another parish:
 
-Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows: 1. When the Poor Law Board shall have dissolved or shall dissolve any district the component parts whereof shall not have been formed into one union, or shall have dissolved or shall dissolve any union, or shall have added or shall add any parish in which the relief to the poor shall be or shall have been administered by a board of guardians to a union or to another parish, the persons who were acting as monagera or guardians at the time of the dissolution or addition, and the survivors of them, shall continue in office for the purpose of paying and discharging the debts and liabilities of such district, union, or parish, and of receiving and recovering moneys or ether property due to the said district, union, or parish, as the case may be, in like manner as the board of management or board of guardians could have done if no dissolution or addition had taken place; and the said managers or guardians shall be empowered to make all necessary orders for contributions upon the unions and parishes comprised within the district or union so dissolved, or upon the proper authorities of the parish so added, as the case may require, and to enforce the same as the board of management or board of guardians could have done previous to the dissolution or addition respectively: provided that the limitation of time for the payment of debts imposed by the statute of fihe twenty-second and twenty-third Victoria, chapter forty-nine, shall not apply to the cases of districts or unions dissolved or of parishes added to a union before the passing of this Act, where such limitation had not taken effect previous to the dissolution or addition thereof as aforesaid; and provided that no such managers or guardians shall be empowered to act in the manner aforesaid for a longer period than twelve months from the date of the dissolution or addition, unless the Poor Law Board by their order shall authorise them to continue to act for some special purpose.
+Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+
+[Persons acting as guardians or managers at time of dissolution, &c. to continue in office to wind up accounts;]
+---
+[and empowered to make orders upon parishes or unions for contributions, and to enforce the same;]
+
+1. When the Poor Law Board shall have dissolved or shall dissolve any district the component parts whereof shall not have been formed into one union, or shall have dissolved or shall dissolve any union, or shall have added or shall add any parish in which the relief to the poor shall be or shall have been administered by a board of guardians to a union or to another parish, the persons who were acting as monagera or guardians at the time of the dissolution or addition, and the survivors of them, shall continue in office for the purpose of paying and discharging the debts and liabilities of such district, union, or parish, and of receiving and recovering moneys or ether property due to the said district, union, or parish, as the case may be, in like manner as the board of management or board of guardians could have done if no dissolution or addition had taken place; and the said managers or guardians shall be empowered to make all necessary orders for contributions upon the unions and parishes comprised within the district or union so dissolved, or upon the proper authorities of the parish so added, as the case may require, and to enforce the same as the board of management or board of guardians could have done previous to the dissolution or addition respectively: provided that the limitation of time for the payment of debts imposed by the statute of fihe twenty-second and twenty-third Victoria, chapter forty-nine, shall not apply to the cases of districts or unions dissolved or of parishes added to a union before the passing of this Act, where such limitation had not taken effect previous to the dissolution or addition thereof as aforesaid; and provided that no such managers or guardians shall be empowered to act in the manner aforesaid for a longer period than twelve months from the date of the dissolution or addition, unless the Poor Law Board by their order shall authorise them to continue to act for some special purpose.
 
 1870. Dissolved Districts and Unions. Cb. 2. 3
 
@@ -3631,11 +3619,11 @@ Ch. 7. Mutiny. 33 Vict.
 
 6. For the purpose of bringing offenders against this Act and against the Articles of War to justice, Her Majesty may from time to time, in like manner as has been heretofore \19ed, grant commissions under the Royal Sign Manual for the holding of courts-martial within the United Kingdom of Great Britain and Ireland, and may grant commissions or warrants under the said Royal Sign Manual to the chief governor or governors of Ireland, the commander of the forces, or the person or persons commanding in chief; or commanding for the time being, any body of troops belonging to Her Majesty's army, as well within the United Kingdom of Great Britain and Ireland and the British Isles as in any of Her Majesty's garrisons and dominions or elsewhere beyond seas, for convening courts-martial, and for authorising any officer under their respective commands to convene courts-martial, as occasion may require, for the trial of offences committed by any of the forces under the command of any such last-mentioned officer, whether the same shall have been committed before or after such officer shall have taken upon him such command: Provided that the officer so authorised be not below the degree of a field officer, except in detached situations beyond seas where a field officer is not in command, in which case a captain may be authorised to convene district or garrison courts-martial: Every officer so authorised to convene courts-martial may confirm the sentence of any court-martial convened by him according to the terms of his warrant.
 
-7. Any person subject to this Act who shall, in any part of Her Majesty's dominions or elsewhere, commit any of the offences for which he may be liable to be tried by court-martial by virtue of this Act or of the Articles of War, may be tried and punished for the same in any part of Her Ma-
+7. Any person subject to this Act who shall, in any part of Her Majesty's dominions or elsewhere, commit any of the offences for which he may be liable to be tried by court-martial by virtue of this Act or of the Articles of War, may be tried and punished for the same in any part of Her Majesty's
 
 1870. Mutiny. Ch. 7. 15
 
-jerty's dominions or m any other place whereto he may have come or where he may be after the commission of the offence, as if the offence had been committed where such trial shall take place.
+dominions or in any other place whereto he may have come or where he may be after the commission of the offence, as if the offence had been committed where such trial shall take place.
 
 8. Every general court-martial convened within the United Powers of Kingdom or the British Isles shall consist of not less than nine ^J courts* commissioned officers, each of whom shall have held a commission for three years before the date of the assembly of the
 
@@ -4739,9 +4727,7 @@ t Insert "fit" or "unfit," as the case may be; and, if unfit, state the cause of
 
 § No fee will be allowed to a private medical practitioner where a military medical officer is stationed, unless it is shown that his services were not available.
 
-1870. Marine Mutiny. Ch. 8.
-
-75
+1870. Marine Mutiny. Ch. 8. 75
 
 CHAP. 8.
 
@@ -5075,13 +5061,11 @@ fully enlisted, although he may of right belong to another enlistment, corps, an
 
 48. Upon reasonable suspicion that a person is a deserter Apprehension it shall be lawful for any constable, or if no constable can be of deserters, immediately met with, then for any officer or marine or soldier
 
-in Her Majesty's service, or other person, to apprehend or cause to be apprehended such suspected person, and forthwith to bring him or cause him to be brought before any justice living in or near the place where he was so apprehended, and acting for the county, city, district, place, or borough wherein such place is situate, or for the county adjoining such first-mentioned county or such borough; and such justice is hereby authorised and required to inquire whether such suspected person is a deserter, and from time to time to defer the said inquiry, and to remand the said suspected person, in the manner prescribed by an Act passed in the eleventh and twelfth years of the reign of Her present Majesty, chapter forty-two, section twenty-one, and subject to every provision therein contained; and if it shall appear to the satisfaction of such justice, by the testimony of one or more witnesses taken upon oath, or by the confession of such suspected person, confirmed by some corroborative evidence upon oath, or by the knowledge of such justice, that such suspected person is a deserter, such justice shall forthwith cause him to be conveyed in civil custody to the head quarters or dep&t of the division to which he belongs, if stationed within a convenient and easily accessible distance from the place of commitment, or if not so stationed then to the nearest or most convenient public prison (other than a military prison) or police station legally provided as the lock-up house for temporary confinement of persons taken into custody, whetherjsuch prison or police station be in the county or borough in which such suspected person was apprehended or in which he was committed, or not; or if the deserter has been apprehended by a party of marines in charge of a commissioned officer, such justice may deliver him up to such party, unless the officer shall deem it necessary to have the deserter committed to prison for safe custody; and such justice shall transmit an account of the proceedings, in the form prescribed in the schedule annexed to this Act, to the Secretary of the
-
-100
+in Her Majesty's service, or other person, to apprehend or cause to be apprehended such suspected person, and forthwith to bring him or cause him to be brought before any justice living in or near the place where he was so apprehended, and acting for the county, city, district, place, or borough wherein such place is situate, or for the county adjoining such first-mentioned county or such borough; and such justice is hereby authorised and required to inquire whether such suspected person is a deserter, and from time to time to defer the said inquiry, and to remand the said suspected person, in the manner prescribed by an Act passed in the eleventh and twelfth years of the reign of Her present Majesty, chapter forty-two, section twenty-one, and subject to every provision therein contained; and if it shall appear to the satisfaction of such justice, by the testimony of one or more witnesses taken upon oath, or by the confession of such suspected person, confirmed by some corroborative evidence upon oath, or by the knowledge of such justice, that such suspected person is a deserter, such justice shall forthwith cause him to be conveyed in civil custody to the head quarters or dep&t of the division to which he belongs, if stationed within a convenient and easily accessible distance from the place of commitment, or if not so stationed then to the nearest or most convenient public prison (other than a military prison) or police station legally provided as the lock-up house for temporary confinement of persons taken into custody, whether such prison or police station be in the county or borough in which such suspected person was apprehended or in which he was committed, or not; or if the deserter has been apprehended by a party of marines in charge of a commissioned officer, such justice may deliver him up to such party, unless the officer shall deem it necessary to have the deserter committed to prison for safe custody; and such justice shall transmit an account of the proceedings, in the form prescribed in the schedule annexed to this Act, to the Secretary of the
 
 Transfer of deserters.
 
-Ch. 8. Marine Mutiny. 33 Vict.
+100 Ch. 8. Marine Mutiny. 33 Vict.
 
 Admiralty, specifying thereon whether such deserter was delivered to a party of marines in order to his being taken to the head quarters or dep6t of his division, or whether such deserter was committed to prison, to the end that the person so committed may be removed by an order from the said Lord High Admiral, or the said Commissioners for executing the office of Lord High Admiral, or deputy adjutant general of Royal Marines, and proceeded against according to law; and such justice shall also send to the Secretary of the Admiralty a report stating the names of the persons by whom or by or through whose means the deserter was apprehended and secured, and the Secretary of the Admiralty shall transmit to such justice an order upon the proper department for the payment of the sum of twenty shillings as a reward to the person so certified to be entitled thereto; and for such information, commitment, and report as aforesaid the clerk of the said justice shall be entitled to a fee of two shillings and no more; and every gaoler and other person into whose custody any person charged with desertion is committed shall, immediately upon the receipt of the person so charged into his custody, pay such fee of two shillings, and also, upon the production of a receipt from the medical practitioner who may have been required to examine such suspected person, a fee of two shillings and sixpence, and shall notify the fact to the Secretary of the Admiralty, and transmit also to the Secretary of the Admiralty a copy of the commitment, to the end that the Secretary of the Admiralty may order repayment of such fees; and that when any such person shall be apprehended and committed as a deserter in any part of Her Majesty's foreign dominions, the justice shall forthwith cause him to be conveyed to some public prison, if the detachment to which he is suspected to belong shall not be in such part, or if the detachment be in such part, the justice may deliver him into custody at the nearest military post, although the detachment to which such person is suspected to belong may not be stationed at such military post, if within reasonable distance; and such justice shall in every case transmit to the officer commanding a description return in the form prescribed in the schedule to this Act annexed, to the end that such person may be removed by the order of such officer, and proceeded against according to law; and such description return, purporting to be duly made and subscribed in accordance with the Act, shall, in the absence of proof to the contrary, be deemed sufficient evidence of the facts and matters therein stated: Provided always, that any such person so committed as a deserter in any part of Her Majesty's dominions shall, subject to the provisions herein-after contained, be liable to be transferred, by order of the colonel commandant or other officer commanding, to serve in any division, corps, detachment, or party nearest to the place where he shall have been apprehended or to any other division, corps, detachment, or party to which the
 
@@ -5103,21 +5087,19 @@ Temporary custody of deserters in gaols.
 
 Fraudulent confession of desertion.
 
-102
-
 24 & 25 Vict. c. 96.
 
 Punishment for inducing marines to desert
 
-Ch. 8. Marine Mutiny. 33 Vict.
+102 Ch. 8. Marine Mutiny. 33 Vict.
 
 of Queen Victoria, intituled An Act to consolidate and amend u the Statute Law of England and Ireland relating to Larceny a and other similar offences," or, if in Scotland, shsdl be deemed guilty of falsehood, fraud, and wilful imposition; and every person so deemed to be guilty of obtaining money under false pretences, or of falsehood, fraud, and wilful imposition, (as the case may be,) shall be liable to be proceeded against and punished accordingly; and the confession and receiving subsistence as a marine by such person shall be evidence of the false pretence, or of the falsehood, fraud, and imposition, (as the case may be,) and of the obtaining money to the amount of the value of such subsistence, and the value of such subsistence so obtained may be charged in the indictment as so much money received by such person; and in case such person shall have been previously convicted of the like offence, or shall have been summarily convicted and punished in England as a rogue and vagabond, or in Scotland or Ireland by commitment, for making a fraudulent confession of desertion, such former conviction may be alleged in the indictment, and may be proved upon the trial of such person; and in such indictment for a second offence it shall be sufficient to state that the offender was at a certain time and place convicted of obtaining money under false pretences as a deserter, for making a fraudulent confession of desertion, without otherwise describing the said offence; and a certificate containing the substance and effect only (omitting the formal part) of the indictment and conviction of the former offence, purporting to be signed by the clerk of the court or other officer having the custody of the record of the court where the offender was first convicted, or by the deputy of such clerk, or by the clerk of the convicting magistrates, shall, upon proof of the identity of the person of the offender, be sufficient evidence of the first conviction, without proof of the signature or official character of the person appearing to have signed such certificate; and if the person so confessing himself to be a deserter shall be serving at the time in Her Majesty's Royal Marine forces he shall be deemed to be and shall be dealt with by all justices and gaolers as a deserter.
 
-52. Any person who shall, in any part of Her Majesty's dominions, by any means whatsoever, directly or indirectly procure any marine to desert or absent himself from his duty without leave from his commanding officer, or attempt to procure or persuade any marine to desert or absent himself from his duty, and any person who, knowing that any marine is absent from his duty without leave from his commanding officer, shall harbour or conceal such marine, or aid or assist such marine in concealing himself, or aid and assist in his rescue, or aid or assist him to desert, shall be deemed guilty of a misdemeanor, and shall, on conviction thereof before any two justices acting for the county, district, city, burgh, or place where any such offender shall at any time happen to be, be liable to be committed to the common gaol or house of coiTec-
+52. Any person who shall, in any part of Her Majesty's dominions, by any means whatsoever, directly or indirectly procure any marine to desert or absent himself from his duty without leave from his commanding officer, or attempt to procure or persuade any marine to desert or absent himself from his duty, and any person who, knowing that any marine is absent from his duty without leave from his commanding officer, shall harbour or conceal such marine, or aid or assist such marine in concealing himself, or aid and assist in his rescue, or aid or assist him to desert, shall be deemed guilty of a misdemeanor, and shall, on conviction thereof before any two justices acting for the county, district, city, burgh, or place where any such offender shall at any time happen to be, be liable to be committed to the common gaol or house of correction,
 
-1870. Marine Mutvny. Ch. 8. 103
+1870. Marine Mutiny. Ch. 8. 103
 
-tion, there to be imprisoned, with or without hard labour, for such term not exceeding six calendar months as the convicting justices shall think fit.
+there to be imprisoned, with or without hard labour, for such term not exceeding six calendar months as the convicting justices shall think fit.
 
 53. When there shall not be any officer of Her Majesty's Extension of laud or marine forces of the rank of captain or of a superior fari<mgh in rank, or any adjutant of militia, within convenient distance of the place where any non-commissioned officer or marine, not
 
@@ -5251,7 +5233,7 @@ the peace may order a proper allowance to be paid by the persons relieved to the
 
 Allowance to 74. The innholder or other person on whom any marine innkeepers. is billeted in Great Britain shall, if required by such marine, furnish him for every day on the march, and for a period not exceeding two days, when halted at any intermediate place upon the march, and for the day of the arrival at the place of final destination, with one hot meal in each day, the meal to consist of such quantities of diet and small beer as may be fixed by Her Majesty's regulations, not exceeding one pound and a quarter of meat previously to being dressed, one pound of bread, one pound of potatoes or other vegetables, and two pints of small beer, and vinegar, salt, and pepper, and for such meal the innholder or other person furnishing the same shall be paid the sum of tenpence, and twopence halfpenny for a bed; and all innholders and other persons on whom marines may be billeted in Great Britain or Ireland, except when on the march in Great Britain, and entitled to be furnished with the hot meal as aforesaid, shall furnish such marines with a bed and with candles, vinegar, and salt, and shall allow them the use of fire, and the necessary utensils for dressing and eating their meat, and shall be paid in consideration thereof the sum of fourpence per diem for each marine; and the sum to be paid to the innholder or other person on whom any of the horses belonging to Her Majesty's Royal Marine forces shall
 
-1870. Marine Muti/ny. Ch. 8.
+1870. Marine Mutiny. Ch. 8.
 
 be billeted, in Great Britain or Ireland, for ten pounds of oats, twelve pounds of hay, and eight pounds of straw, shall be one shilling and ninepence per diem for each horse; and every officer or non-commissioned officer commanding a division, detachment, or party shall every four days, or before they shall quit their quarters if they shall not remain so long as four days, settle and discharge the just demands of all victuallers or other persons upon whom such officers, marines, or horses are billeted, out of the pay and subsistence of such officers and marines, before any part of the said pay or subsistence be paid or distributed to them respectively; and if any such officer or non-commissioned officer shall not pay the same as aforesaid, then, upon complaint and oath made thereof by any two witnesses before two justices of the peace for the county, riding, division, liberty, city, borough, or place where such quarters were situate, sitting in quarter or petty sessions, the Secretary of the Admiralty is hereby required, upon certificate of the justices before whom such oath shall be made of the sum due to complainant, to order payment of the amount which shall be charged against such officer; and in case of any marines being suddenly ordered to march, and of the commanding officer or non-commissioned officer not being enabled to make payment of the sums due on account of billets, every such officer or non-commissioned officer shall before his departure make up the account with every person upon whom any such marines may have been billeted, and sign a certificate thereof; which account and certificate, on being transmitted to the Secretary of the Admiralty, shall be immediately paid, and charged to the account of such officer or non-commissioned officer.
 
@@ -5259,7 +5241,7 @@ be billeted, in Great Britain or Ireland, for ten pounds of oats, twelve pounds 
 
 114
 
-Bates for carriages.
+Rates for carriages.
 
 day's march prescribed in the order of route, and shall in no case exceed twenty-five miles; and the constables receiving such warrant shall order such persons as they shall think proper, having carriages, to furnish the requisite supply, who are hereby required to furnish the same accordingly; and in case sufficient carriages cannot be procured within the proper jurisdiction, any justice of the next adjoining jurisdiction shall, by a like course of proceeding, supply the deficiency; and in order that the burden of providing carriages may fall equally, and to prevent inconvenience arising from there being no justice residing near the place where marines may be quartered on the march, the justice or justices residing nearest to such place shall cause a list to be made out, at least once in every year of all persons liable to furnish such carriages, and of the number and description of their said carriages, which list shall at all seasonable hours be open to the inspection of the said persons, and shall by warrant under his hand authorise the constables within his jurisdiction to give orders to provide carriages without any special warrant from him for that purpose, which orders shall be valid in all respects; and all orders for such carriages shall be made from such lists in regular rotation, so far as the same can be done.
 
@@ -5325,7 +5307,7 @@ Ch. 8. Marine Mutiny. 33 Vict.
 
 85. Any person who shall knowingly detain, buy, or exchange, or otherwise receive from any marine or marine deserter, or any other person acting for or on his behalf, upon any account or pretence whatsoever, or who shall solicit or entice any marine or marine deserter, or shall be employed by any marine or marine deserter, knowing him to be such, to sell any arms, ammunition, medals for good conduct, or distinguishment, or other service, marine clothes, or military furniture, or any other articles which, according to the custom of the marine corps, are generally deemed regimental or divisional necessaries, or any provisions, sheets, or other articles used in barracks or provided under barrack regulations, whether on shore or afloat, and whether the marine or marine deserter or other person be or be not borne on the books of any one of Her Majesty's ships, or be or be not embarked, or who shall have in his or her possession or keeping any arms, ammunition, medals, marine clothes, or military furniture, or any other articles which, according to the custom of the marine corps, are generally deemed regimental or divisional necessaries, or any provisions, spirits, sheets, or other articles used in barracks or provided under barrack regulations, and shall not give a satisfactory account how he or she came by the same, or shall change or cause the colour or mark of any such clothes, appointments, necessaries, sheets, or other articles to be changed or defaced, or who shall pawn, sell, or deposit in any place or with any person such articles of regimental necessaries, with or without the consent of such marine, shall forfeit for every such offence any sum not exceeding twenty pounds, together with treble the value of all or any of the several articles; and if any person having been at any time previously convicted of either of the above offences under this or any previous Act for the regulation of Her Majesty's Royal Marine forces while on shore shall afterwards be guilty of any such offence, he or she shall for every such offence forfeit any sum not exceeding twenty pounds but not less than five pounds, and the treble value of all or any of the several articles, and shall, in addition to such forfeiture, be committed to the common gaol or house of correction, there to be imprisoned only, or to be imprisoned with or without hard labour, for such term not exceeding six calendar months as the convicting justice or justices shall think fit; and upon any information against any person for a second or any subsequent offence, a copy of the former conviction, certified by the proper officer having the care or custody of such conviction, or any copy of the same proved to be a true copy, shall be sufficient evidence to prove such former conviction; and if any credible person shall prove, on oath before a justice of the peace or person exercising like authority according to the laws of that part of Her Majesty's dominions in which the offence shall be committed, a reasonable cause to suspect that any person has in his or her possession or on his or her premises any property of the description herein-before
 
-1870. Marine Mutvny. Ch. 8. 121
+1870. Marine Mutiny. Ch. 8. 121
 
 described, on or with respect to which any such offence shall have been committed, such justice may and he is hereby required to grant a warrant to search for such property as in the case of stolen goods; and if upon such search any such property shall be found, the same shall and may be seized by the officer charged with the execution of such warrant, who shall bring the offender in whose possession the same shall be found before the same or any other justice of the peace, to be dealt with according to law.
 
@@ -5355,7 +5337,7 @@ forfeiture of value or treble value, is by this Act imposed, shall and may be he
 
 90. One moiety of every such penalty or forfeiture, not including any treble value of any articles, shall go to the person who shall inform or sue for the same, and the other moiety, together with the treble value of such articles, or, where the offence shall be proved by the person who shall inform, then the whole of the penalty and such treble value, shall be paid over and applied in such manner as the Lord
 
-1870. Marine Mutiny. Ch\ 8. 223
+1870. Marine Mutiny. Ch. 8. 223
 
 High Admiral or the Commissioners for executing the office of Lord High Admiral shall direct, anything in an Act passed in the sixth year of the reign of His late Majesty King William the Fourth, intituled An Act to provide for the regulation of 5 & 6 W. 4.
 
@@ -5365,9 +5347,9 @@ High Admiral or the Commissioners for executing the office of Lord High Admiral 
 
 92. Any justice in the United Kingdom, within whose Mode of
 
-jurisdiction any marine shall be quartered on shore, may reco.rd"8
+jurisdiction any marine shall be quartered on shore, may record"8
 
-i i < i i marine 8 settle *
+marine 8 settle *
 
 summon such marine before him, which summons such marine ment
 
@@ -5453,7 +5435,7 @@ of (6) in the county of (c), and
 
 Note (a), (6), (c). — These blanks need not be filled up if the recruit is unable to give the requisite information.
 
-18701 Marine Mutiny. Ch.&
+18701 Marine Mutiny. Ch. 8.
 
 am years of age; that I am of the trade or calling
 
@@ -5600,7 +5582,7 @@ I certify, that I have inspected the prisoner, and consider him % for military s
 medical officer, or of private medical practitioner.
 
 t Insert "fit" or " unfit," as the case may be; and, if unfit, state the cause of unfitness.
-
+---
 Ch. 9.
 
 Peace Preservation (Ireland).
@@ -5609,21 +5591,21 @@ Peace Preservation (Ireland).
 
 CHAP. 9.
 
-[Short title.]
-
-Limitation of Act.
-
-General definitions of terms.
-
 An Act to amend "The Peace Preservation (Ireland) Act, 1856," and for other purposes relating to the Preservation of Peace in Ireland.
 
 [4th April 1870.]
 
-WHEREAS it is expedient to amend the " Peace Preserva tion (Ireland) Act, 1856," and to make further and better provisions for the protection of life and property in Ireland: Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+WHEREAS it is expedient to amend the "Peace Preservation (Ireland) Act, 1856," and to make further and better provisions for the protection of life and property in Ireland: Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+
+[Short title.]
 
 1. This Act may be cited for all purposes as "The Peace Preservation (Ireland) Act, 1870."
 
+[Limitation of Act.]
+
 2. This Act shall apply to Ireland only, and shall continue in operation until the first day of August one thousand eight hundred and seventy-one.
+
+[General definitions of terms.]
 
 3. In this Act —
 
@@ -5635,8 +5617,8 @@ The term "chief officer of police" shall mean within the police district of Dubl
 
 The term "county" shall extend to and include county of a city and county of a town, and a riding of a county, and a borough:
 
-The term "grand jury" shall include every corporation, committee, council, and body authorised to make presentments: The term "secretary to the grand jury " shall include town clerk;
-
+The term "grand jury" shall include every corporation, committee, council, and body authorised to make presentments: The term "secretary to the grand jury" shall include town clerk;
+---
 The term "assizes" shall include presenting term:
 
 The term "judge of assize," in the application of this Act to the county or county of the city of Dublin, shall include the Court of Queen s Bench at Dublin or any Judge of the said Court:
@@ -5767,7 +5749,9 @@ Every such last-mentioned notice shall require every person to whom any licence 
 
 Every person to whom any licence so revoked was granted, and to whom a new licence as aforesaid has not been granted, and who shall after the day named in such notice as aforesaid earry or have arms within such district, shall be guilty of carrying or having arms contrary to the provisions of the principal Act; provided always, that no person carrying any arms for the purpose only of depositing and leaving the same as herein-before mentioned shall by reason thereof be deemed or taken to be a person carrying or having any arms contrary to the provisions of the principal Act.
 
-Printed copies 20. Printed copies of every special proclamation or notice or^a^nial unc*er authority of this part of this Act shall be posted on to be posted^ or near to the door of one place of public worship, if there &c. be such, in every parish, and of every police station and
+Printed copies
+
+20. Printed copies of every special proclamation or notice or^a^nial unc*er authority of this part of this Act shall be posted on to be posted^ or near to the door of one place of public worship, if there &c. be such, in every parish, and of every police station and
 
 barrack, within the district named in such special proclamation, by some one or more of the constables or sub-constables of the Royal Irish Constabulary, and at the foot of every copy of any such special proclamation so posted as aforesaid an abstract of the provisions of this part of this Act shall be printed for the information of all persons affected by the said enactments; and after any constable or sub-constable has posted any such printed copies within such district, or any part thereof, he shall verify such posting by a solemn declaration annexed to such printed copy of such special proclamation and abstract or notice, to be made before a justice of the peace in the Form (VIII.) specified in the Schedule (A) to this Act annexed, or
 
@@ -5865,7 +5849,7 @@ Ch. 9. Peace Preservation (Ireland). 33 Vict.
 
 and contains any such engraving, matter, expressions, or incite* ments as aforesaid, all copies of such newspaper, wherever found in Ireland, shall be forfeited to Her Majesty.
 
-3L Where it appears to the Lord Lieutenant that any such newspaper after the publication and service of such notice, where such publication and sendee shall by this part of this Act be required, or that any such newspaper printed elsewhere than in Ireland and published or circulated in Ireland as aforesaid, contains any such engraving, matter, expressions, or incitements, as aforesaid, he may, by warrant under his hand in the Form (VI.) in the Schedule (A) to this Act annexed, or to the like effect, empower any person or persons to whom such warrant is addressed, or his or their assistants, to, enter upon any premises where the newspaper specified in said warrant, and containing such engraving, matter, expressions, or incitements as aforesaid, is printed or published, or where any printing press, engine, machine, types, implements, utensils, paper, or other plant or materials used or employed or intended to be used or employed* or suspected to be or to have been used or employed, for the printing or publishing of such newspaper as aforesaid shall be, or shall be suspected to be, or where any copy of such newspaper as aforesaid is sold, distributed, or published, or suspected to be sold, distributed, or published, or kept or deposited for sale, distribution, or publication, or suspected to be kept or deposited for sale, distribution, or publication, and to search for, seize, and take away such printing presses, engines, machines, types, papers, implements, utensils, and plant, and every copy of such newspaper as aforesaid; and no action, save as herein-after mentioned, shall be brought or maintained against any person for the issuing of such warrant, or for any entry, search, or seizure, or other act, matter, or thing done in pursuance or under the authority of any such warrant as aforesaid: Provided always, that any chattels so seized shall be kept and detained until the determination of any action brought as herein-after mentioned; and if such action shall be determined in favour of the plaintiff, being the owner of or entitled to the possession of such chattels, such chattels shall be restored to such plaintiff, and the jury shall take such restoration into consideration in mitigation of the damages to be awarded by them in such action.
+31. Where it appears to the Lord Lieutenant that any such newspaper after the publication and service of such notice, where such publication and sendee shall by this part of this Act be required, or that any such newspaper printed elsewhere than in Ireland and published or circulated in Ireland as aforesaid, contains any such engraving, matter, expressions, or incitements, as aforesaid, he may, by warrant under his hand in the Form (VI.) in the Schedule (A) to this Act annexed, or to the like effect, empower any person or persons to whom such warrant is addressed, or his or their assistants, to, enter upon any premises where the newspaper specified in said warrant, and containing such engraving, matter, expressions, or incitements as aforesaid, is printed or published, or where any printing press, engine, machine, types, implements, utensils, paper, or other plant or materials used or employed or intended to be used or employed* or suspected to be or to have been used or employed, for the printing or publishing of such newspaper as aforesaid shall be, or shall be suspected to be, or where any copy of such newspaper as aforesaid is sold, distributed, or published, or suspected to be sold, distributed, or published, or kept or deposited for sale, distribution, or publication, or suspected to be kept or deposited for sale, distribution, or publication, and to search for, seize, and take away such printing presses, engines, machines, types, papers, implements, utensils, and plant, and every copy of such newspaper as aforesaid; and no action, save as herein-after mentioned, shall be brought or maintained against any person for the issuing of such warrant, or for any entry, search, or seizure, or other act, matter, or thing done in pursuance or under the authority of any such warrant as aforesaid: Provided always, that any chattels so seized shall be kept and detained until the determination of any action brought as herein-after mentioned; and if such action shall be determined in favour of the plaintiff, being the owner of or entitled to the possession of such chattels, such chattels shall be restored to such plaintiff, and the jury shall take such restoration into consideration in mitigation of the damages to be awarded by them in such action.
 
 32. Where any person duly authorised by warrant, as aforesaid, to enter any premises, or his assistants, shall demand admittance, and give notice of such warrant, and the door of any house, room, shop, warehouse, outhouse, building, or other premises shall not be opened within reasonable time after the making of such demand, it shall be lawful for any such person, or his assistants, to break open such door, and to enter thereat* for the purpose of making such search or seizure as aforesaid, and if any person shall refuse to permit any person duly authorised in that behalf, or his assistants, to enter such pre-
 
@@ -5927,39 +5911,7 @@ him for that purpose provided, and distinguished by the name he inspected
 
 of " the book of sales," an account of every parcel of gun- eX-
 
-powder sold or disposed of or delivered, with the time when
-
-and to whom; and it shall be lawful for any justice of the
-
-peace, or any chief officer of police, or any person duly authorised by such justice or officer, at all reasonable times to
-
-have access to such books, and to examine the stock of such
-
-maker or seller of gunpowder, and compare and balance the same with the account kept in such books; and the several
-
-chief officers of police (except the chief officers of police within the police district of Dublin metropolis), to whom such accounts
-
-and returns shall be rendered, shall, from time to time, transmit the same to the inspector general of constabulary in Ireland
-
-as they may be by him directed; and if any such maker or
-
-manufacturer of, or dealer in, gunpowder shall not make such
-
-returns, or shall not truly make the same, or shall not keep
-
-such books, or shall not truly make, or cause to be made, such
-
-entries therein, or shall not, after demand, produce such books
-
-to any person hereby or by the said persons duly authorised
-
-as aforesaid, or shall not permit any such person to inspect the same, or to examine his stock, he shall, for the first offence,
-
-be liable to a penalty not exceeding ten pounds, and for any
-
-subsequent offence shall be liable to a penalty not exceeding
-
-twenty pounds.
++powder sold or disposed of or delivered, with the time when and to whom; and it shall be lawful for any justice of the peace, or any chief officer of police, or any person duly authorised by such justice or officer, at all reasonable times to have access to such books, and to examine the stock of such maker or seller of gunpowder, and compare and balance the same with the account kept in such books; and the several chief officers of police (except the chief officers of police within the police district of Dublin metropolis), to whom such accounts and returns shall be rendered, shall, from time to time, transmit the same to the inspector general of constabulary in Ireland as they may be by him directed; and if any such maker or manufacturer of, or dealer in, gunpowder shall not make such returns, or shall not truly make the same, or shall not keep such books, or shall not truly make, or cause to be made, such entries therein, or shall not, after demand, produce such books to any person hereby or by the said persons duly authorised as aforesaid, or shall not permit any such person to inspect the same, or to examine his stock, he shall, for the first offence, be liable to a penalty not exceeding ten pounds, and for any subsequent offence shall be liable to a penalty not exceeding twenty pounds.
 
 37. Every person who shall make, repair, or sell any gun,
 
@@ -6303,11 +6255,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 1. This Act may be cited as "The Coinage Act, 1870."
 
-2. In this Act — Definitions of
+2. In this Act — Definitions of terms.
 
-The term "Treasury" means the Lord High Treasurer for terms.
-
-the time being, or the Commissioners of Her Majesty's Treasury for the time being, or any two of them;
+The term "Treasury" means the Lord High Treasurer for the time being, or the Commissioners of Her Majesty's Treasury for the time being, or any two of them;
 
 The term "the Mint" means, except as expressly provided.
 
@@ -6317,7 +6267,9 @@ The term "British possession" means any colony, plantation, island, territory, o
 
 The term "person" includes a body corporate.
 
-3. All coins made at the Mint of the denominations men- Standard of tioned in the first schedule to this Act shall be of the weight comB# and fineness specified in that schedule, and the standard trial
+[Standard of 
+
+3. All coins made at the Mint of the denominations mentioned in the first schedule to this Act shall be of the weight comB# and fineness specified in that schedule, and the standard trial
 
 plates shall be made accordingly.
 
@@ -6375,7 +6327,7 @@ deputy master or officer of the Mint, in payment for coin to
 
 produced from bullion purchased by him, and all fees and payments received by the master or any deputy master or officer of the Mint as such, shall (save as otherwise provided in the case of any branch mint in a British possession by a proclamation respecting such branch mint) be paid into the receipt of the Exchequer, and carried to the Consolidated Fund.
 
-U. It shall be lawful for Her Majesty, with the advice of Regulations by Her Privy Council, from time to time by proclamation to do Proclamation* all or any of the following things; namely,
+11. It shall be lawful for Her Majesty, with the advice of Regulations by Her Privy Council, from time to time by proclamation to do Proclamation* all or any of the following things; namely,
 
 (1.) To determine the dimension of and design for any coin:
 
@@ -6510,14 +6462,6 @@ Provided that, —
 t
 
 SCHEDULES. FIRST SCHEDULE.
-
-o
-
-o
-
-o§
-
-?T
 
 Denomination of Coin.
 
@@ -7113,11 +7057,7 @@ Repeal of Acte mentioned in Schedule.
 
 174
 
-Ch. 14.
-
-Naturalization.
-
-33 Vict.
+Ch. 14. Naturalization. 33 Vict.
 
 SCHEDULE.
 
@@ -7343,7 +7283,7 @@ management and control of the Elgin County Road Trustees acting under "The Elgin
 
 6. From and after the fifteenth day of May one thousand As to contracts eight hundred and seventy, all contracts for the maintenance for main'f and repair of the roads and bridges throughout the district ° described in the schedule A. annexed to this Act shall cease
 
-and determine as regards the Elgin County Road Trustees, or any person or persons acting on their behalf, except in regard to any claims due and payable by the trustees prior to the said fifteenth day of May one thousand eight hundred and seventy; and such contracts shall thereafter be binding on and may be enforced by and against the Commissioners of Supply of the county of Inverness, acting under " The Highland Roads and Bridges Act, 1862," as fully and effectually as the same would have been binding on or might have been enforced by and against the Elgin County Road Trustees; and in like manner, from and after the said fifteenth day of May one thousand eight hundred and seventy, all contracts for the maintenance and repair of the roads and bridges throughout the district described in the schedule B. annexed to this Act shall cease and determine as regards the Commissioners of Supply of the county of Inverness, or the District Road Trustees of that county, or any person or persons acting on their behalf, except in regard to any claims due and payable by those Commissioners, or the District Trustees, prior to the said fifteenth day of May one thousand eight hundred and seventy, and such contracts shall thereafter be binding on and may be enforced by and against the Elgin County Road Trustees as fully and effectually as the same would have been binding on or might have been enforced by and against the said Commissioners or District Road Trustees.
+and determine as regards the Elgin County Road Trustees, or any person or persons acting on their behalf, except in regard to any claims due and payable by the trustees prior to the said fifteenth day of May one thousand eight hundred and seventy; and such contracts shall thereafter be binding on and may be enforced by and against the Commissioners of Supply of the county of Inverness, acting under "The Highland Roads and Bridges Act, 1862," as fully and effectually as the same would have been binding on or might have been enforced by and against the Elgin County Road Trustees; and in like manner, from and after the said fifteenth day of May one thousand eight hundred and seventy, all contracts for the maintenance and repair of the roads and bridges throughout the district described in the schedule B. annexed to this Act shall cease and determine as regards the Commissioners of Supply of the county of Inverness, or the District Road Trustees of that county, or any person or persons acting on their behalf, except in regard to any claims due and payable by those Commissioners, or the District Trustees, prior to the said fifteenth day of May one thousand eight hundred and seventy, and such contracts shall thereafter be binding on and may be enforced by and against the Elgin County Road Trustees as fully and effectually as the same would have been binding on or might have been enforced by and against the said Commissioners or District Road Trustees.
 
 7. Nothing herein contained shall affect the light of the Reserving present ministers of the parishes of Cromdale, Abemethy, and rfe*8 of . Duthil, so long as they shall continue ministers of those ^pectto parishes respectively, to be paid their stipends, according to stipends, the fiars prices of the county by which they are entitled to
 
@@ -7467,7 +7407,7 @@ Maintenance of indoor poor to be a charge upon the Metropolitan Common Poor Fund
 
 CHAP. 18.
 
-An Act to provide for the equal distribution oyer the Metropolis of a further portion of the charge for the Relief of the Poor.
+An Act to provide for the equal distribution over the Metropolis of a further portion of the charge for the Relief of the Poor.
 
 [20th June 1870.]
 
@@ -7481,11 +7421,11 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3.) The amount so repaid in respect of such maintenance shall be at the rate of fivepence per day for each pauper in such workhouse or asylum.
 
-(4.) If the guardians of any union or parish, or the managers of any asylum, shall, during any half year ending at Lady Day or Michaelmas respectively, have refused or neglected to comply with any Order of the Poor Law Board, issued under the Poor Law Acts, direct-
+(4.) If the guardians of any union or parish, or the managers of any asylum, shall, during any half year ending at Lady Day or Michaelmas respectively, have refused or neglected to comply with any Order of the Poor Law Board, issued under the Poor Law Acts, directing
 
 1870. Poor Relief (Metropolis). Ch. 18, 19. 185
 
-ing the alteration or enlargement of the workhouse, the provision of proper drainage, sewers, ventilation, fixtures, furniture, surgical and medical appliances, or directing the appointment of any officer, or prescribing the maximum number of paupers to be maintained in any workhouse or asylum, or the classification of such paupers, such guardians or managers shall be deemed to be in default, and the Poor Law Board may, if they think fit, omit from their precept for such half year, addressed to the Receiver of the Common Poor Fund, the sums which such guardians or the guardians of the unions and parishes comprised in the district to which the asylum belongs, would have been entitled to be repaid under this Act if there had been* no such default: Provided that if such guardians or managers shall comply with such Order before the termination of the next ensuing half year, it shall be lawful for the Poor Law Board to include in their precept, for that half year the sums so omitted from their precept for the previous half year.
+the alteration or enlargement of the workhouse, the provision of proper drainage, sewers, ventilation, fixtures, furniture, surgical and medical appliances, or directing the appointment of any officer, or prescribing the maximum number of paupers to be maintained in any workhouse or asylum, or the classification of such paupers, such guardians or managers shall be deemed to be in default, and the Poor Law Board may, if they think fit, omit from their precept for such half year, addressed to the Receiver of the Common Poor Fund, the sums which such guardians or the guardians of the unions and parishes comprised in the district to which the asylum belongs, would have been entitled to be repaid under this Act if there had been* no such default: Provided that if such guardians or managers shall comply with such Order before the termination of the next ensuing half year, it shall be lawful for the Poor Law Board to include in their precept, for that half year the sums so omitted from their precept for the previous half year.
 
 2. The term "salaries of officers/' referred to in the said The main-
 
@@ -7503,15 +7443,17 @@ within such union or parish, one or more copies of the financial statement of su
 
 CHAP. 19.
 
-An Act to amend " The Railway Companies Powers Act, 1864," and " The Railway Construction Facilities Act, 1864." [20th June 1870.]
+An Act to amend "The Railway Companies Powers Act, 1864," and "The Railway Construction Facilities Act, 1864."
 
-WHEREAS it is expedient to amend "The Railway Companies Powers Act, 1864/' and also " The Railways Construction Facilities Act, 1864
+[20th June 1870.]
+
+WHEREAS it is expedient to amend "The Railway Companies Powers Act, 1864/' and also "The Railways Construction Facilities Act, 1864
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 [Short title.]
 
-1. This Act may be cited for all purposes as "The Railways (Powers and Construction) Acts, 1864, Amendment Act, 1870/ '
+1. This Act may be cited for all purposes as "The Railways (Powers and Construction) Acts, 1864, Amendment Act, 1870."
 
 186
 
@@ -7617,9 +7559,11 @@ Notice of opposition by a Railway or Canal Company is to be lodged at the office
 
 CHAP. 20.
 
-An Act to amend "The Mortgage Debenture Act, 1865." [4th July 1870.]
+An Act to amend "The Mortgage Debenture Act, 1865."
 
-WHEREAS it is expedient that " The Mortgage Debenture Act, 1865," (herein-after called "the Principal Act, ") should be amended:
+[4th July 1870.]
+
+WHEREAS it is expedient that "The Mortgage Debenture Act, 1865," (herein-after called "the Principal Act, ") should be amended:
 
 189
 
@@ -7629,7 +7573,7 @@ Be it therefore enacted by the Queen's most Excellent Majesty, by and with the a
 
 1. This Act shall be construed as one with "The Mortgage Debenture Act, 1865," (which is herein-after referred to as u the Principal Act, '*) and may be cited for all purposes as "The Mortgage Debenture (Amendment) Act, 1870."
 
-2. The expression "the Company " when used in this Act has the same meaning as that attached to it in the Principal Act."
+2. The expression "the Company" when used in this Act has the same meaning as that attached to it in the Principal Act."
 
 3. Sections 5, 12, 14, 16, 17, 20, 24, 26, 28, and 36 of "The Mortgage Debenture Act, 1865," are hereby repealed.
 
@@ -7667,7 +7611,9 @@ Ch. 20. Mortgage Debenture Act (1865) AmendL 33 & 34 Vici
 
 6. Before any company shall be entitled to avail itself of the provisions of the Principal Act " and this Act such company shall file in the office of the Land Registry a return containing the following and such other particulars as the registrar may from time to time require, which return shall be under the hand of one, at least, of the directors of the company and the secretary.
 
-(a.) The amount of the nominal capital of the company: (6.) The amount per share and the aggregate amount paid up on the shares:
+(a.) The amount of the nominal capital of the company:
+
+(b.) The amount per share and the aggregate amount paid up on the shares:
 
 (c.) The assets or property of the company at the date of the return, and how invested:
 
@@ -8371,11 +8317,13 @@ C. 28, 29. Attorneys and Solicitors Remuneration. 33 & 34 Vict.
 
 CHAP. 29.
 
-An Act to amend and continue " The Wine and Beerhouse Act, 1869." [14th July 1870.]
+An Act to amend and continue "The Wine and Beerhouse Act, 1869."
+
+[14th July 1870.]
 
 BE it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. This Act may be cited as " The Wine and Beerhouse Act Amendment Act, 1870."
+1. This Act may be cited as  The Wine and Beerhouse Act Amendment Act, 1870."
 
 2. This Act shall not extend to Scotland or Ireland.
 
@@ -9183,7 +9131,9 @@ Ch. 38.
 
 CHAP. 38.
 
-An Act to disfranchise the Boroughs of Sligo and
+An Act to disfranchise the Boroughs of Sligo and Cashel.
+
+[1st August 1870.]
 
 jimjc audresses of both Houses of Parliament, to the effect that the judges selected in pursuance of the Parliamentary Elections Act, 1868, for the trial of the petitions com-
 
@@ -9201,13 +9151,7 @@ Be it enacted by the Queen's most Excellent Majesty, by
 
 Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-Cashel.
-
-WHEREAS representations
-
-[1st August 1870.]
-
-were made to Her Majesty, in
+WHEREAS representations were made to Her Majesty, in
 
 plaining of undue elections and returns for the boroughs of Sligo and Cashel at the elections of members to serve in
 
@@ -10383,7 +10327,7 @@ An Act for extending to Ireland and amending "The Dividends and Stock Act, 1869.
 
 [1st August 1870.]
 
-WHEREAS by the Dividends and Stock Act, 1869, facili ties were given for the payment by warrants through the post of dividends on the public stocks transferable in the books of the Governor and Company of the Bank of England, and other regulations were made respecting such dividends, and it is expedient to extend the provisions of the said Act to the dividends on the public stocks transferable in the books of the Governor and Company of the Bank of Ireland, and otherwise to amend the said Act:
+WHEREAS by the Dividends and Stock Act, 1869, facilities were given for the payment by warrants through the post of dividends on the public stocks transferable in the books of the Governor and Company of the Bank of England, and other regulations were made respecting such dividends, and it is expedient to extend the provisions of the said Act to the dividends on the public stocks transferable in the books of the Governor and Company of the Bank of Ireland, and otherwise to amend the said Act:
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
@@ -10393,11 +10337,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 3. The Dividends and Stock Act, 1869, and this Act shall each be construed as if the Comptroller and Auditor General were mentioned in the Dividends and Stock Act, 1869, instead of the commissioners for auditing the public accounts.
 
-1870.
-
-Paupers Conveyance (Expenses). Ch. 48, 49.
-
-285
+1870. Paupers Conveyance (Expenses). Ch. 48, 49. 285
 
 CHAP. 48.
 
@@ -10417,7 +10357,9 @@ Short title and interpretation.
 
 CHAP. 49.
 
-An Act to explain and amend cc the Evidence Further Amendment Act, 1869." [9th August 1870.]
+An Act to explain and amend " the Evidence Further Amendment Act, 1869."
+
+[9th August 1870.]
 
 WHEREAS it was enacted by the "Evidence, Further Amendment Act, 1869/' section 4, as follows:
 
@@ -10427,13 +10369,13 @@ WHEREAS it was enacted by the "Evidence, Further Amendment Act, 1869/' section 4
 
 "And any person who, having made such promise and declaration, shall wilfully and corruptly give false evidence, shall be liable to be indicted, tried, and convicted for perjury as if he had taken an oath
 
-Interpretation of " court of justice " and " presiding judge " in recited Act.
+Interpretation of "court of justice" and "presiding judge" in recited Act.
 
-And whereas doubts have arisen as to the extent and meaning of the words " court of justice " and " presiding judge" in the said section:
+And whereas doubts have arisen as to the extent and meaning of the words "court of justice" and "presiding judge" in the said section:
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. The words "court of justice," and the words "presiding6 judge," in section of the said Evidence Further Amendment Act, 1869, shall be deemed to include any person or persons having by law authority to administer an oath for the taking of evidence.
+1. The words "court of justice," and the words "presiding judge," in section of the said Evidence Further Amendment Act, 1869, shall be deemed to include any person or persons having by law authority to administer an oath for the taking of evidence.
 
 [Short title.]
 
@@ -10443,7 +10385,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 CHAP. 50.
 
-An Act to amend " The Shipping Dues Exemption Act, 1867." [9th August 1870.]
+An Act to amend "The Shipping Dues Exemption Act, 1867."
+
+[9th August 1870.]
 
 WHEREAS by u The Shipping Dues Exemption Act, c*15, 1867," provision is made for the abolition of certain
 
@@ -10628,8 +10572,6 @@ If he commits such criminal to prison, he shall commit him to the Middlesex Hous
 U. If the police magistrate commits a fugitive criminal to Surrender of prison, he shall inform such criminal that he will not be surrendered until after the expiration of fifteen days, and that he by warrant of has a right to apply for a writ of Habeas corpus. Secretary of
 
 Upon the expiration of the said fifteen days, or, if a writ State-of Habeas corpus is issued, after the decision of the court upon the return to the writ, as the case may be, or after such further period as may be allowed in either case by a Secretary of State, it shall be lawful for a Secretary of State, by warrant
-
-Bb 2
 
 Extradition.
 
@@ -11203,8 +11145,6 @@ The term "Commissioners" means the Commissioners of Inland Revenue.
 
 4. The said duty and licence shall be an excise duty and licence, and shall be under the management of the Commissioners, and all the provisions in any Act relating to excise duties or licences or to penalties under Excise Acts, and now or hereafter in force, shall apply to the said duty hereby
 
-Cc 3
-
 [Short title.]
 
 Definition of terms.
@@ -11483,9 +11423,7 @@ or to be established out of the United Kingdom which shall after the passing of 
 
 4. In the case of a company established after the passing Life fends of this Act transacting other business besides that of life assur- "parate-ance, a separate account shall be kept of all receipts in respect of the life assurance and annuity contracts of the company, and the said receipts shall be carried to and form a separate fund to be called the life assurance fund of the company, and such fund shall be as absolutely the security of the life policy and annuity holders as though it belonged to a company
 
-Dd 2
-
-316 Ch. 61. Life Assurance Companies. 33 & 34? Vict.
+316 Ch. 61. Life Assurance Companies. 33 & 34 Vict.
 
 carrying on no other business than that of life assurance, and shall not be liable for any contracts of the company for which, it would not have been liable had the business of the company-been only that of life assurance; and in respect to all existing companies, the exemption of the life assurance fond from liability for other obligations than to its life policy holders shall have reference only to the contracts entered into after the passing of this Act, unless by the constitution of the company such exemption already exists: Provided always, that this section shall not apply to any contracts made by any existing company by the terms of whose deed of settle* ment the whole of the profits of all the business are paid exclusively to the life policy holders, and on the face of which contracts the liability of the assured distinctly appears.
 
@@ -11503,11 +11441,7 @@ Statements by company doing other than life business.
 
 Actuarial report and abstract.
 
-Life Assurance Companies.
-
-Ch. 61.
-
-317
+Life Assurance Companies. Ch. 61. 317
 
 instead of on or before the thirty-first day of December one thousand eight hundred and seventy-two:
 
@@ -11519,17 +11453,15 @@ The expression date of each such investigation in this section shall mean the da
 
 10. Every statement or abstract herein-before required to be made shall be signed by the chairman and two directors of the company and by the principal officer managing the life assurance business, and, if the company has a managing director, by such managing director, and shall be printed; and the original, so signed as aforesaid, together with three
 
-?rinted copies thereof, shall be deposited at the Board of 'rade within nine months of the dates respectively hereinbefore prescribed as the dates at which the same are to be prepared. And every annual statement so deposited after the next investigation shall be accompanied by a printed copy of the abstract required to be made by section seven.
+?rinted copies thereof, shall be deposited at the Board of Trade within nine months of the dates respectively hereinbefore prescribed as the dates at which the same are to be prepared. And every annual statement so deposited after the next investigation shall be accompanied by a printed copy of the abstract required to be made by section seven.
 
 11. A printed copy of the last deposited statement, abstract* or other document by this Act required to be printed shall be forwarded by the company, by post or otherwise, on application, to every shareholder and policy holder of the company.
 
-12. Every company which is not registered under " The Companies Act, 1862," and which has not incorporated in its deed of settlement section ten of "The Companies Clauses Consolidation Act, 1845," shall keep a " Shareholders Address Book," in accordance with the provisions of that section, and shall furnish, on application, to every shareholder and policy holder of the Company a copy of such book, on payment of a sum not exceeding sixpence for every hundred words required to be copied for such purpose.
+12. Every company which is not registered under "The Companies Act, 1862," and which has not incorporated in its deed of settlement section ten of "The Companies Clauses Consolidation Act, 1845," shall keep a "Shareholders Address Book," in accordance with the provisions of that section, and shall furnish, on application, to every shareholder and policy holder of the Company a copy of such book, on payment of a sum not exceeding sixpence for every hundred words required to be copied for such purpose.
 
-13. Every company which is not registered under " The Companies Act, 1862, '' shall cause a sufficient number of copies of its deed of settlement to be printed, and shall furnish, on application, to every shareholder and policy holder of the company a copy of such deed of settlement on payment of a sum not exceeding two shillings and sixpence.
+13. Every company which is not registered under "The Companies Act, 1862," shall cause a sufficient number of copies of its deed of settlement to be printed, and shall furnish, on application, to every shareholder and policy holder of the company a copy of such deed of settlement on payment of a sum not exceeding two shillings and sixpence.
 
 14. Where it is intended to amalgamate two or more companies, or to transfer the life assurance business of one company to another, the directors of any one or more of such companies may apply to the Court, by petition, to sanction
-
-Dd 3
 
 Forms may be altered.
 
@@ -11561,19 +11493,13 @@ transfer. another company, the combined company or the purchasing company, as th
 
 i
 
-319
+319 1870. Life Assurance Companies. Ch. 61.
 
-1870.
-
-Life Assurance Companies.
-
-Ch. 61.
-
-deed is founded; and the statement and agreement or deed of amalgamation or transfer shall be accompanied by a declaration under the hand of the chairman of each company and the principal managing officer of each company, that to the best of their belief every payment made or to be made to any person -whatsoever on account of the said amalgamation or transfer is therein fully set forth, and that no other payments beyond those set forth have been made or are to be made either in money, policies, bonds, valuable securities, or other property by or with the knowledge of any parties to the said amalgamation or transfer.
+deed is founded; and the statement and agreement or deed of amalgamation or transfer shall be accompanied by a declaration under the hand of the chairman of each company and the principal managing officer of each company, that to the best of their belief every payment made or to be made to any person whatsoever on account of the said amalgamation or transfer is therein fully set forth, and that no other payments beyond those set forth have been made or are to be made either in money, policies, bonds, valuable securities, or other property by or with the knowledge of any parties to the said amalgamation or transfer.
 
 16. The Board of Trade may direct any printed or other Documents documents required by this Act, or certified copies thereof, to be kept by the registrar of Joint Stock Companies or other of Trade officer of the Board of Trade; and any person may, on pay- to registry of ment of such fees as the Board of Trade may direct, inspectJomt 8t<?°k the same at his office, and procure copies thereof. companies.
 
-IT. Every statement, abstract, or other document deposited Documents to with the Board of Trade or with the registrar of Joint Stock re?fived
+17. Every statement, abstract, or other document deposited Documents to with the Board of Trade or with the registrar of Joint Stock re?fived
 
 o jj evidence
 
@@ -11581,13 +11507,11 @@ Companies under this Act shall be receivable in evidence; and every document pur
 
 18. Every company which makes default in complying with Penalty for the requirements of this Act shall be liable to a penalty not exceeding fifty pounds for every day during which the default ance c ' continues; and if default continue for a period of three months after notice of default by the Board of Trade, which notice shall be published in one or more newspapers as the Board of Trade may direct, and after such publication the Court may order the winding up of the company, in accordance with The Companies Act, 1862, upon the application of one or more policy holders or shareholders.
 
-19. If any statement, abstract, or other document required Penalty for
+[Penalty for
 
-by this Act is false in any particular to the knowledge of any &c
+19. If any statement, abstract, or other document required by this Act is false in any particular to the knowledge of any &c
 
-person who signs the same, such person shall be liable on con- 9
-
-viction thereof on indictment to fine and imprisonment, or on summary conviction thereof to a penalty not exceeding fifty pounds.
+person who signs the same, such person shall be liable on conviction thereof on indictment to fine and imprisonment, or on summary conviction thereof to a penalty not exceeding fifty pounds.
 
 20. Every penalty imposed by this Act shall be recovered Penalties how and applied in the same manner as penalties imposed by The ^k^re^?Yred Companies Act, 1862, are recoverable and applicable.
 
@@ -11611,7 +11535,7 @@ Ch. 61. Life Assurance Companies. 33 & 34 Vict.
 
 23. Any notice which is by this Act required to be sent to any policy holder may be addressed and sent to the person to whom notices respecting such policy are usually sent, and any notice so addressed and sent shall be deemed and taken to be notice to the holder of such policy.
 
-24. The Board of Trade shall lay annually before Parliament the statements and abstracts of reports deposited with them under this Act during the preceding year.]
+24. The Board of Trade shall lay annually before Parliament the statements and abstracts of reports deposited with them under this Act during the preceding year.
 
 25. This Act shall not affect the Commissioners for the Reduction of the National Debt, nor the Postmaster General, acting under the authorities vested in them respectively by the Acts tenth George the Fourth, chapter forty-one, third and fourth William the Fourth, chapter fourteen, sixteenth and seventeenth Victoria, chapter forty-five, and twenty-seventh and twenty-eighth Victoria, chapter forty-three.
 
@@ -11795,7 +11719,7 @@ Consolidated Revenue Account of the__________for__________years
 
 commencing__________and ending__________.
 
-£ a. d. \ £ #. d.
+£ s. d. \ £ s. d.
 
 Amount of funds on 18 _, — the beginning of Premiums (after deduction of reassurance premiums) - Consideration for annuities granted - - Interest and dividends Other receipts (accounts to be specified) - - i Claims under policies (after deduction of sums re-assured) -Surrenders -Annuities - Commission -Expenses of management Dividends and bonuses to shareholders (if any) -Other payments (accounts to be specified) -Amount of funds on 18, — the end of the period, as per First (or Third) Schedule -
 
@@ -11829,13 +11753,7 @@ The term "extra premium " in this Act shall be taken to mean the charge for any 
 
 Dr. To net liability under Assurance and Annuity transactions (as per summary statement provided in Schedule 5) -To surplus, if any £ Cr' By life assurance and annuity funds (as per balance sheet under Schedule 2 or 4) . - By deficiency, if any -
 
-326
-
-Ch. 61, 62.
-
-Life Assurance Companies.
-
-33 & 34 Vict.
+326 Ch. 61, 62. Life Assurance Companies. 33 & 34 Vict.
 
 SIXTH SCHEDULE.
 
@@ -11941,9 +11859,7 @@ Provided that —
 
 Repeal of Acts.
 
-329
-
-1870. Factories and Workshops. Ch. 62.
+1870. Factories and Workshops. Ch. 62. 329
 
 person, or woman may be employed in such process for a period not exceeding thirty minutes beyond the said hour.
 
@@ -11972,8 +11888,6 @@ one day a child may be employed ten hours in any-one day on three alternate days
 Provided that, for the purpose only of preventing any damage which may arise from spontaneous combustion in the process of Turkey-red dyeing, or from any extraordinary atmospheric influence in the process of open-air bleaching, women and young persons may be employed so far as is necessary for the purpose of preventing such damage.
 
 7. Whereas the exigencies of the processes of Turkey-red dyeing require that the hours between which young persons, and women, or certain sets of them, may be employed, should be varied so as to correspond to the accustomed hours of the trade: 'It is hereby declared, that it shall be lawful for one of Her Majesty's Principal
-
-Ee 3
 
 330
 
@@ -12041,23 +11955,21 @@ An Act to limit Wages Arrestment in Scotland.
 
 [9th August 1870.]
 
-WHEREAS great evils Lave arisen through the arrestment of wages of labourers, manufacturers, artificers, and other workpeople, and also by the provisions relating to such arrestment in the Act first of Victoria, chapter forty-one, and it is desirable to remedy these evils:
+WHEREAS great evils have arisen through the arrestment of wages of labourers, manufacturers, artificers, and other workpeople, and also by the provisions relating to such arrestment in the Act first of Victoria, chapter forty-one, and it is desirable to remedy these evils:
 
 Be it hereby enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Tempral, and Commons, in this present Parliament assembled, and by the authority of the same:
 
-1. That from and after the first day of January one thousand Wages of ar-eight hundred and seventy-one the wages of all labourers, ^etoMTe^ farm servants, manufacturers, artificers, and workpeople shall ment for debts
+[Wages of ar-
+
+1. That from and after the first day of January one thousand eight hundred and seventy-one the wages of all labourers, ^etoMTe^ farm servants, manufacturers, artificers, and workpeople shall ment for debts
 
 after 1 Jan. 1871.
 
 Limitation of liability of *ages to arrestment
 
-As to debts incurred before passing of
-
-Act
+As to debts incurred before passing of Act
 
 Act not to affect decrees for alimentary allowances or for rates and taxes.
-
-[Short title.]
 
 [Short title.]
 
@@ -12073,7 +11985,9 @@ cease to be liable to arrestment for debts contracted subsequent to the passing 
 
 4. This Act shall in no way affect arrestments in virtue of decrees for alimentary allowances or payments, or for rates and taxes imposed by law; but every arrestment used after the first day of January one thousand eight hundred and seventy-one for such alimentary allowances or payments, or for rates and taxes imposed by law, shall set forth the nature of the debt for which it has been used, otherwise the same shall not be effectual.
 
-5. This Act may be cited as " The Wages Arrestment Limitation (Scotland) Act."
+[Short title.]
+
+5. This Act may be cited as "The Wages Arrestment Limitation (Scotland) Act."
 
 CHAP. 64.
 
@@ -12084,6 +11998,8 @@ An Act to amend the Petty Sessions Clerk (Ireland) Act, 1858.
 WHEREAS it is expedient to amend the Petty Sessions Clerk (Ireland) Act, 1858:
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+
+[Short title.]
 
 1. This Act may be cited for all purposes as "The Petty Sessions Clerk (Ireland) Act, 1858, Amendment Act, 1870."
 
@@ -12135,9 +12051,7 @@ hundred and two of The Larceny Act, 1861, the defendant in such action may apply
 
 21 & 22 Vict. c. 99.
 
-[Short title.]
-
-Interpretation of term " Governor."
+Interpretation of term "Governor."
 
 Power to Her Majesty by Order in Council to
 
@@ -12181,9 +12095,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 [Short title.]
 
-1. This Act may be cited as " The Army Enlistment Act,
-
-1870."
+1. This Act may be cited as "The Army Enlistment Act, 1870."
 
 2. From and after the passing of this Act, no person shall Twelve years be enlisted for the first term of his engagement to serve Her Majesty as a soldier for a longer period than twelve years, to be reckoned from the day on which the recruit is attested for service.
 
@@ -12215,7 +12127,7 @@ Ch. 67. Army Enlistment
 
 7. When a soldier has been attached to a regiment or corps he shall serve therein for the period of his army service; provided that it shall be lawful for the military authorities to transfer him to any regiment or corps of the same arm or branch of the service serving in the United Kingdom, in the following cases;
 
-1870. Army Enlistment. Ch. 67* 337
+1870. Army Enlistment. Ch. 67. 337
 
 (1.) When he has been invalided from foreign service;
 
@@ -12290,8 +12202,6 @@ Provided that nothing in this section contained shall affect any person eilliste
 17. AH' provisions of any Act of Parliament for the time Saying of pro-being in force relating to the enlistment of recruits for Her °to on* Majesty's army shall, in so far as they are not inconsistent listment. with this Act, be deemed to be incorporated with this Act,
 
 and to apply accordingly to any enlistments made in pursuance of this Act.
-
-Ff 2
 
 Application of Act to men under Army Enlistment Act, 1867.
 
@@ -12371,7 +12281,7 @@ nor shall such repeal affect any jurisdiction or procedure given or authorised b
 
 nor shall such repeal affect any right to any hereditary revenues of the Crown, or affect any charges thereupon, or prevent any enactment from being put in force for the collection of any such revenues, or otherwise in relation thereto.
 
-2. This Act may be cited as the Statute Law Be vision Act,
+2. This Act may be cited as the Statute Law Revision Act,
 
 1870.
 
@@ -12467,13 +12377,7 @@ c. 9. An Act for raising one million two hundred thousand pounds by annuities an
 
 c. 19. An Act for granting to His Majesty the sum of eight hundred thousand pounds, to be raised by annuities transferrable at the Bank of England; and for ascertaining the customs and duties upon quicksilver taken as prize during the present war; and for the further appropriating the supplies granted in this session of Parliament.
 
-346
-
-Off. 69.
-
-Statute Law Revision.
-
-33 & 34 Vict.
+346 Ch. 69. Statute Law Revision. 33 & 34 Vict.
 
 16 Geo. 2. c. 12.
 
@@ -13211,13 +13115,9 @@ Deposit on or before 30th November.
 
 1. A copy of the advertisement published by them.
 
-2. If the application relates to gas, a map showing the land
+2. If the application relates to gas, a map showing the land proposed to be used for the manufacture of gas, or of residual products arising in the manufacture of gas.
 
-proposed to be used for the manufacture of gas, or of residual products arising in the manufacture of gas.
-
-3. A proper plan and section of the proposed new works, if any,
-
-such plan and section to be prepared according to such regulations as may from time to time be made by the Board of Trade in that behalf.
+3. A proper plan and section of the proposed new works, if any, such plan and section to be prepared according to such regulations as may from time to time be made by the Board of Trade in that behalf.
 
 (2.) The documents aforesaid are to be deposited for public inspection —
 
@@ -13225,11 +13125,7 @@ In England or Ireland, in the office of the clerk of the peace for every county,
 
 (3.) The documents aforesaid are also to be deposited at the office of the Board of Trade.
 
-Hh 2
-
-Ch. 70.
-
-Gas and Water Facilities. 33 & 34. Vict.
+Ch. 70. Gas and Water Facilities. 33 & 34. Vict.
 
 Part III.
 
@@ -13237,17 +13133,11 @@ Deposit on or before 23rd December.
 
 (1.) The undertakers are to deposit at the office of the Board of Trade —
 
-1. A memorial signed by the undertakers, headed with a short
+1. A memorial signed by the undertakers, headed with a short title descriptive of the undertaking (corresponding with that at the head of the advertisement), addressed to the Board of Trade, and praying for a Provisional Order.
 
-title descriptive of the undertaking (corresponding with that at the head of the advertisement), addressed to the Board of Trade, and praying for a Provisional Order.
+2. A printed draft of the Provisional Order as proposed by the undertakers, with any schedule referred to therein.
 
-2. A printed draft of the Provisional Order as proposed by the
-
-undertakers, with any schedule referred to therein.
-
-3. An estimate of the expense of the proposed new works, if
-
-any, signed by the persons making the same.
+3. An estimate of the expense of the proposed new works, if any, signed by the persons making the same.
 
 (2.) They are also to deposit a sufficient number of such printed copies at the office named in that behalf in the advertisement; such copies to be there furnished to all persons applying for them at the price of not more than one shilling each.
 
@@ -13341,8 +13231,6 @@ Part VIII. — Miscellaneous.
 
 " The consolidated fund 99 means the consolidated fund of the United Kingdom of Great Britain and Ireland: u The Court of Chancery" means the Court of Chancery in England or the Court of Chancery in Ireland, as the case requires:
 
-Hh 3
-
 [Short title.]
 
 Division of Act into parts.
@@ -13371,9 +13259,9 @@ Banks to have chief cashier
 
 Ch. 71. - National Debt.
 
-" Person " includes corporation:
+"Person" includes corporation:
 
-" Representatives" means executors, administrators, or successors, and assigns.
+"Representatives" means executors, administrators, or successors, and assigns.
 
 4 The schedules to this Act shall be deemed part of this Act.
 
@@ -13395,7 +13283,7 @@ All the annuities aforesaid shall respectively continue redeemable by Parliament
 
 10. The annuities aforesaid shall continue to be not liable to foreign attachment by the custom of London or otherwise.
 
-U. The annuities of each denomination mentioned in the first schedule to this Act taken together shall continue to constitute one capital or joint stock; and all persons for the time being entitled thereto shall continue to have a proportional interest in every such capital or joint stock.
+11. The annuities of each denomination mentioned in the first schedule to this Act taken together shall continue to constitute one capital or joint stock; and all persons for the time being entitled thereto shall continue to have a proportional interest in every such capital or joint stock.
 
 Part III — Payment of Dividends.
 
@@ -13571,27 +13459,17 @@ All fees received in pursuance of this part of this Act shall be paid into the r
 
 1. The time for which coupons are to be given:
 
-2. The conversion of a stock certificate to bearer into a
+2. The conversion of a stock certificate to bearer into a nominal certificate:
 
-nominal certificate:
+3. The authority under which and the mode in which the Bank are to act in issuing stock certificates or exchanging nominal certificates for certificates to bearer, or registering in their books the holders of stock certificates, or taking any other proceedings in relation to stock authorised to be taken under this part of this Act:
 
-3. The authority under which and the mode in which the
+4. The mode of proving the title of or identifying any person applying for a stock certificate or deriving any title under a stock certificate:
 
-Bank are to act in issuing stock certificates or exchanging nominal certificates for certificates to bearer, or registering in their books the holders of stock certificates, or taking any other proceedings in relation to stock authorised to be taken under this part of this Act:
+5. The mode of proof of the death or bankruptcy of the nominee or of the marriage of the nominee being a female:
 
-4l The mode of proving the title of or identifying any person applying for a stock certificate or deriving any title under a stock certificate:
+6. The mode of proof of the loss or destruction of a stock certificate or coupon:
 
-5. The mode of proof of the death or bankruptcy of the
-
-nominee or of the marriage of the nominee being a female:
-
-6. The mode of proof of the loss or destruction of a stock
-
-certificate or coupon:
-
-7. Any other matter necessary to carry this part of this Act
-
-into effect.
+7. Any other matter necessary to carry this part of this Act into effect.
 
 Regulations so made before the passing of this Act shall continue in force unless and until altered by regulations made after the passing of this Act under this part thereof.
 
@@ -13623,7 +13501,7 @@ Any regulation so made before or after the passing of this Act shall be deemed t
 
 40. There shall be paid to the Banks of England and Ireland respectively out of the consolidated fund, on account of the additional trouble, expense, and responsibility, if any, imposed on them by this part of this Act, in addition to the remuneration otherwise payable to them in respect of the management of the National Debt, such remuneration as the Treasury and they agree on.
 
-4L Stock described in a stock certificate shall be charged on the same securities, and be subject to the same powers of redemption, and save as relates to the mode of transfer and payment of dividends thereon, shall be subject to the same incidents in all respects, including the remuneration payable to the Bank of England or of Ireland, as if it had continued registered in the books of that Bank as stock transferable therein.
+41. Stock described in a stock certificate shall be charged on the same securities, and be subject to the same powers of redemption, and save as relates to the mode of transfer and payment of dividends thereon, shall be subject to the same incidents in all respects, including the remuneration payable to the Bank of England or of Ireland, as if it had continued registered in the books of that Bank as stock transferable therein.
 
 42. Where a stock certificate has been issued under any former Act, this part of this Act shall have effect in relation thereto, and to the coupons annexed thereto and to the stock and dividends represented thereby respectively, in like manner, as nearly as may be, as if the certificate were issued after the passing of this Act under this part thereof.
 
@@ -13639,9 +13517,7 @@ Every application for permission to transfer, and every certificate of transfer,
 
 45. Where such a transfer is made from the books of the Bank of England, that Bank shall on the day of transfer give notice thereof to the National Debt Commissioners at their
 
-373
-
-1870. National Debt. Ch. 71.
+1870. National Debt. Ch. 71. 373
 
 office, who shall on receipt of the notice send it to the Bank of Ireland.
 
@@ -13685,9 +13561,7 @@ Mode of transfer.
 
 Subsequent dividends on stock transferred to be invested, &c.
 
-Re-transfer and payment
-
-to person showing title."
+Re-transfer and payment to person showing title."
 
 Ch. 71.
 
@@ -13727,9 +13601,7 @@ Every such notice shall state the name, residence, and description of the person
 
 Where any such re-transfer or payment is ordered by the Court of Chancery the notice shall also state the purport of the order.
 
-58. At any time before re-transfer of stock or payment of Application to dividend as aforesaid to a claimant any person may apply to ^tore8cmd the Court of Chancery, by motion or petition, to rescind or vary
-
-any order made for re-transfer or payment thereof.
+58. At any time before re-transfer of stock or payment of Application to dividend as aforesaid to a claimant any person may apply to ^tore8cmd the Court of Chancery, by motion or petition, to rescind or vary any order made for re-transfer or payment thereof.
 
 59. Where any stock or dividends having been re-transferred Bank not or paid as aforesaid to a claimant by either Bank is or are afterwards claimed by another person, the Bank and their claimant, officers shall not be responsible for the same to such other claimant, but he may have recourse against the person to whom
 
@@ -13740,8 +13612,6 @@ the re-transfer or payment was made.
 Court requires, order the National Debt Commissioners to transfer to him such sum in stock, and to pay to him such sum in money for dividend, as the Court thinks just.
 
 Such transfer shall be made from stock transferred to the National Debt Commissioners under this part of this Act; and such money for dividend shall be paid from dividends received by those Commissioners on stock so transferred, or the accu-
-
-Ii 2
 
 375
 
@@ -13818,8 +13688,6 @@ For the purposes of the Acts for regulating the reduction of the National Debt, 
 70. No fee, reward, or gratuity shall be demanded or taken No fee for pay-for paying any dividend or for any transfer of stock or for a^/penYity! receiving any certificate or duplicate certificate under Part VI.
 
 of this Act, on pain that any person offending by demanding or taking any such fee, reward, or gratuity shall for every such offence forfeit the sum of twenty pounds to the party aggrieved, with full costs of suit, to be recovered in any of Her Majesty's Superior Courts of Law in England or Ireland.
-
-Ii 3
 
 878 Stamp duty.
 
@@ -14303,8 +14171,6 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 8. The Acts specified in the eighth and ninth schedules annexed hereto shall continue in force until the first day of November one thousand eight hundred and seventy-one, and in the case of each trust for such further time, if any, as may be required to complete the term of one year, not later than the first day of June one thousand eight hundred and seventy-two, from the time for which the tolls, or any of them, shall have been let at the last meeting of such trust held for that purpose, unless Parliament in the meantime otherwise provides.
 
-Kk 2
-
 Repeal of certain Acts. Schedule 1.
 
 Expiration of certain Acts. Schedule 2.
@@ -14366,8 +14232,6 @@ justices before the trustees can award compensation to their officers, there sha
 [Short title.]
 
 14. This Act may be cited for all purposes as "The Annual Turnpike Acts Continuance Act, 1870."
-
-Kk 3
 
 t
 
@@ -15027,7 +14891,7 @@ Evesham, First District, Pershore Division 16
 
 York Boroughbridge and Durham (part) - 49
 
-Leeds and Harrogate ..... 62
+Leeds and Harrogate - 62
 
 Tadcaster Bridge and Hob Moor Lane End 58
 
@@ -15255,7 +15119,7 @@ Date of Act.
 
 Ch. 73.
 
-Turnpike Ada Ccmtinuanee. 33 & 34* Vict.
+Turnpike Ada Ccmtinuanee. 33 & 34 Vict.
 
 Date of Act. Title of Act
 
@@ -15449,11 +15313,7 @@ Date of Act Title of Act.
 
 1 G. 4. c. lxxix. 15. An Act for repairing the road from Chatteris Ferry, through Somersham, to the Crown Inn in Saint Ives, and also the road branching out of the said road near Stock's Bridge through Needingworth to Hermitage Bridge, in the parish of Earith, in the county of Huntingdon.
 
-Turnpike Acts Continuance.
-
-Ch. 73.
-
-405
+Turnpike Acts Continuance. Ch. 73. 405
 
 Date of Act Title of Act
 
@@ -15517,7 +15377,7 @@ Date of Act. Title of Act.
 
 7 G. 4. c. xv. - 32. An Act for maintaining and improving the road leading from Pengate in the parish of Westbury to a place formerly called Price's Wrarren Gate, at Tinhead in the parish of Edington in the county of Wilts, and other roads near or adjoining the said roads in the counties of Wilts and Somerset.
 
-7 G. 4. c. xx- - 33. An Act for amending an Act of His present Majesty, for repairing the road from Sandon in the county of Stafford to Bullock Smithy in the county of Chester, and from Hilderstone to Draycott-in-the-Moors, and from Wetley Rocks to Tean, in the county of Stafford; so far as relates to the Macclesfield District of the road, and for making a diversion of road in the said district.
+7 G. 4. c. xx. - 33. An Act for amending an Act of His present Majesty, for repairing the road from Sandon in the county of Stafford to Bullock Smithy in the county of Chester, and from Hilderstone to Draycott-in-the-Moors, and from Wetley Rocks to Tean, in the county of Stafford; so far as relates to the Macclesfield District of the road, and for making a diversion of road in the said district.
 
 7 G. 4. c. xxiL 34. An Act for repairing the road from Birmingham to Watford Gap in the parish or Sutton Coldfield in the county of Warwick, and other roads communicating therewith.
 
@@ -15583,7 +15443,7 @@ Date of Act. Title of Act.
 
 1 Vict. c. xvii. 62. An Act for repairing, amending, and maintaining the road from Shrewsbury, through Ellesmere in the county of Salop, to Wrexham in the county of Denbigh, and other roads branching out of the same; so far as the same relates to the Wem Division of such roads.
 
-1 Vict. c. xli. - 63. An Act to alter, amend, and enlarge the powers and provisions of an Act passed in the seventh year of the reign of His late Majesty King George the Fourth, intituled An Act for repairing the roaa " from the Thirty-three Mile Stone in the parish of Ruscombe in the " county of Berks, towards Reading, to a place called the Seven " Mile Stone, in the parish of Beenham in the said county, and a " certain other road communicating there with.* '
+1 Vict. c. xli. - 63. An Act to alter, amend, and enlarge the powers and provisions of an Act passed in the seventh year of the reign of His late Majesty King George the Fourth, intituled An Act for repairing the roa d" from the Thirty-three Mile Stone in the parish of Ruscombe in the " county of Berks, towards Reading, to a place called the Seven Mile Stone, in the parish of Beenham in the said county, and a "certain other road communicating there with."
 
 2 Vict. c. xxxiii. 64. An Act for repwring the road from Dover in the county of Kent, through Deal, to Sandwich in the said county.
 
@@ -18234,8 +18094,6 @@ this Act, except the provisions relating to access to puisoriiv. the special Act
 
 (2.) The school board, before putting in force any of the powers of the said Acts with respect to the purchase and taking of land otherwise than by agreement, shall —
 
-Pp 3
-
 450
 
 Publication of notices.
@@ -18812,8 +18670,6 @@ On any such day any religious observance may be practised, and any instruction i
 
 79. The rateable value of any parish or school district shall for the purposes of this Act be the rateable value as stated in the valuation lists, if any, and if there are none, then as stated in the rate book for the time being in force in such parish and in the parishes constituting the district; and the overseers and other persons having the custody of such valuation lists and rate book shall, when required by the school board, produce such lists and rate book to the school board, and allow the school board and any person appointed by them to inspect the same, and take copies of or extracts therefrom.
 
-Rr 3
-
 Inspection of voluntary schools by inspector not one of Her Majesty's inspectors.
 
 Parish divided by boundaries of boroughs.
@@ -19299,8 +19155,6 @@ The term "overseers" shall include churchwardens, and the term "quarter sessions
 The word "juror" shall mean male persons only.
 
 6. Every man whose name shall be in the jurors book for any county in England or Wales, or for the county of the city of London, and who shall be legally entitled to be called an esquire, or shall be a person of higher degree, or shall be a banker or merchant, or who shall occupy a private dwelling house rated or assessed to the poor rate or to the inhabited house duty on a value of not less than one hundred pounds in a town containing, according to the census next preceding the preparation of the jury list, twenty thousand inhabitants and upwards, or rated or assessed to the poor rate or to the inhabited house duty on a value of not less than fifty pounds elsewhere, or who shall occupy premises other than a farm rated or assessed as aforesaid on a value of not less than one hundred pounds, or a farm rated or assessed as aforesaid on a value of not less than three hundred pounds, shall be qualified and liable to serve on special juries in every such county in England and Wales, and in London respectively.
-
-Ss 3
 
 [Commencement of Act.]
 
@@ -19916,8 +19770,6 @@ Insolvency of Promoters.
 
 42. If at any time after the opening of any tramway in Proceedings in any district for traffic, it appears to the local authority or the c&8e of inso1 *
 
-Uu 2
-
 >08
 
 vency of promoters.
@@ -19945,8 +19797,6 @@ Every such Provisional Order shall be confirmed in like manner as a Provisional 
 Subject and according to the preceding provisions of this section two or more local authorities may jointly purchase any undertaking or so much of the same as is within their districts.
 
 44. Where any tramway in any district has been opened Power for traffic for a period of six months the promoters may, with the consent of the Board of Trade, sell their undertaking to any person, persons, corporation, or company, or to the local authority of such district; and when any such sale has been made all the rights, powers, authorities, obligations, and liabilities of such promoters in respect to the undertaking sold shall be transferred to, vested in, and may be exercised by, and shall attach to the person, persons, corporation, company, or
-
-Uu 3
 
 510 Ch, 78. Tramways* 33 & 34 Vict.
 
@@ -20570,8 +20420,6 @@ Ch. 79, 80.
 
 33 & 34. VICT.
 
-
-
 3 8s 4 Vict. <5.96. in part.
 
 11 & 12 Vict. c. 117.
@@ -20798,8 +20646,6 @@ watch, and for each of such men there shall be charged the stables for sum of si
 
 7. Notwithstanding any regulations requiring persons enter- Restrictions as ing the constabulary force to be unmarried, or to be under a *8-certain age, the Inspector General of the Royal Irish
 
-Yy 3
-
 Superannuation, &c. of constabulary.
 
 Provisions as to rates applicable to support of police establishment to continue in force.
@@ -20962,17 +20808,19 @@ Haddington,
 
 and Peebles,
 
-what to be
-
-called.
+what to be called.
 
 the counties of Roxburgh and Selkirk into one sheriffdom, to be called the sheriffdom of Roxburgh, Berwick, and Selkirk, and the functions of the sheriff of Berwick shall thereupon devolve on and be discharged by the sheriff of Roxburgh and Selkirk, who shall be and shall be denominated the sheriff of Roxburgh, Berwick, and Selkirk, without the necessity of any new commission being issued in his favour.
 
 6. So soon as the counties of Mid-Lothian, Linlithgow, and Haddington are united as herein-before provided they shall constitute one sheriffdom to be called the sheriffdom of the Lothians, and when the county of Peebles is added thereto the said four counties shall be constituted one sheriffdom to be called the sheriffdom of the Lothians and Peebles.
 
-Counties of 7. Whenever a vacancy shall occur in the office of sheriff of Wigtown and Wigtown and Kirkcudbright the said counties shall no longer to l^Cunitedht constitute one sheriffdom, but shall be united with the county with the county of Dumfries into one sheriffdom, to be called the sheriffdom of Dumfries. of Dumfries and Galloway, and the functions of the sheriff of Wigtown and Kirkcudbright shall thereupon devolve on and be discharged by the sheriff of Dumfries, who shall be and shall be denominated the sheriff of Dumfries and Galloway without the necessity of any new commission being issued in his favour.
+Counties of
 
-County of 8. Whenever a vacancy shall occur in the office of sheriff
+7. Whenever a vacancy shall occur in the office of sheriff of Wigtown and Wigtown and Kirkcudbright the said counties shall no longer to l^Cunitedht constitute one sheriffdom, but shall be united with the county with the county of Dumfries into one sheriffdom, to be called the sheriffdom of Dumfries. of Dumfries and Galloway, and the functions of the sheriff of Wigtown and Kirkcudbright shall thereupon devolve on and be discharged by the sheriff of Dumfries, who shall be and shall be denominated the sheriff of Dumfries and Galloway without the necessity of any new commission being issued in his favour.
+
+County of
+
+8. Whenever a vacancy shall occur in the office of sheriff
 
 b Uu?art°n, th um^)arl; on an Bute, th© said counties shall be disunited,the count/of an(* shall no longer constitute one sheriffdom, and the county Stirling, and of Dumbarton shall be united with the county of Stirling county of Bute int0 one sheriffdom, to be called the sheriffdom of Stirling of^Renfrew!1117 and Dumbarton, and the functions of the sheriff of Dumbarton shall thereupon devolve on and be discharged by the sheriff of Stirling, who shall be denominated the sheriff of Stirling and Dumbarton, without the necessity of any new commission being issued in his favour; and the county of Bute shall be united with the county of Renfrew into one sheriffdom, to be called the sheriffdom of Renfrew and Bute, and the functions of the sheriff of Bute shall thereupon devolve on and be discharged by the sheriff of Renfrew, who shall be and shall be denominated the sheriff of Renfrew and Bute, without the necessity of any new commission being issued in his favour.
 
@@ -21076,9 +20924,9 @@ the same may be made applicable and are not varied by this Act, shall be taken t
 
 and after the redemption and discharge of the said bond the said magistrates and council shall be bound to levy and collect the said increased assessments until the whole debt incurred by borrowing money under the authority of this Act shall be paid off: Provided always, that after the passing of this Act an account shall be kept, and annually published by the said magistrates and council, of the produce of said increased assessments, and the said publication shall be made at the same time and in the same manner as the account of the municipal expenditure of the city, and that after the redemption and discharge of the said bond of annuity the whole of said produce shall be used and applied to the purpose of paying off and extinguishing the debt incurred by borrowing money under the provisions of this Act, and the interest of said debt, and to no other purpose.
 
-U. The tax imposed in the parish of Canongate under sec- Tax in parish tion four of the Act thirtieth and thirty-first Victoria, chapter ^m^ed one hundred and seven, shall continue to be imposed until until bond is the said bond shall be redeemed and discharged, and until the redeemed and whole debt incurred by borrowing money under the authority debt Paid off* of this Act shall be paid off, and shall then cease to be imposed; and from and after such redemption and discharge the said tax shall be levied, collected, and applied by the
+[Tax in parish 
 
-Zz 3
+11. The tax imposed in the parish of Canongate under section four of the Act thirtieth and thirty-first Victoria, chapter ^m^ed one hundred and seven, shall continue to be imposed until until bond is the said bond shall be redeemed and discharged, and until the redeemed and whole debt incurred by borrowing money under the authority debt Paid off* of this Act shall be paid off, and shall then cease to be imposed; and from and after such redemption and discharge the said tax shall be levied, collected, and applied by the
 
 After which stipend to be paid by Ecclesiastical Commissioners.
 
@@ -21588,11 +21436,7 @@ court, or, if there are more courts than one, the court having the highest crimi
 
 Any warrant for the purposes of this section may be addressed to the master of any ship or to any other person or persons, and the person or persons to whom such warrant is addressed shall have power to convey the prisoner therein named to any place or places named in such warrant, and to deliver him, when arrived at such place or places, into the custody of any authority designated by such warrant.
 
-Ch. 90.
-
-Foreign Enlistment.
-
-33 & 34 Vict.
+Ch. 90. Foreign Enlistment. 33 & 34 Vict.
 
 Jurisdiction in respect of forfeiture of ships for offences against Act,
 
@@ -23230,7 +23074,7 @@ No.
 
 Sums not exceeding
 
-For management of prisons in Sootland, for maintenance of prisoners in prisons at Perth and Ayr, and for the department for the collection of judicial statistics For the expense of criminal prosecutions and other law charges in Ireland - For such salaries and expenses of the Court of Chancery in Ireland as are not charged on the Consolidated Fund For such salaries and expenses of the Superior Courts of Common Law in Ireland as are not charged on the Consolidated Fund -
+For management of prisons in Scotland, for maintenance of prisoners in prisons at Perth and Ayr, and for the department for the collection of judicial statistics For the expense of criminal prosecutions and other law charges in Ireland - For such salaries and expenses of the Court of Chancery in Ireland as are not charged on the Consolidated Fund For such salaries and expenses of the Superior Courts of Common Law in Ireland as are not charged on the Consolidated Fund -
 
 For salaries and the incidental expenses of the Court ctf Bankruptcy and Insolvency in Ireland For salaries and expenses of the Landed Estates Court in Ireland -
 
@@ -23292,11 +23136,15 @@ Sums not exceeding
 
 No. £
 
-1. For public education in Great Britain - 2. For the salaries and expenses of the Department of Science 914, 721
+1. For public education in Great Britain -
+
+2. For the salaries and expenses of the Department of Science 914, 721
 
 and Art, and of the establishments connected therewith 218, 336
 
-3. For salaries and expenses of the British Museum - 4. For salaries and expenses of the National Gallery, includ- 90, 765
+3. For salaries and expenses of the British Museum -
+
+4. For salaries and expenses of the National Gallery, includ- 90, 765
 
 ing the purchase of pictures - - 16, 181
 
@@ -23318,9 +23166,7 @@ No.
 
 in discharge of equivalents under the Treaty of Union, and for the exhibition of the Torrie Collection, and for other purposes -
 
-11. For public education under the Commissioners of National
-
-Education in Ireland -
+11. For public education under the Commissioners of National Education in Ireland -
 
 12. For the expenses of the Office of the Commissioners of Education in Ireland -
 
@@ -23628,15 +23474,13 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 
 (6.) " Stamped," with reference to instruments and material, applies as well to instruments and material impressed with stamps by means of a die as to instruments and material having adhesive stamps affixed thereto:
 
-(7.) " Executed " and " execution," with reference to instruments not under seal, mean signed and signature:
+(7.) "Executed" and "execution," with reference to instruments not under seal, mean signed and signature:
 
-(8.) " Money " includes all sums expressed in British or in any foreign or colonial currency:
+(8.) "Money" includes all sums expressed in British or in any foreign or colonial currency:
 
 (9.) "Stock" means and includes any share in any stocks or funds transferable at the Bank of England or at the Bank of Ireland, and India promissory notes, and any share in the stocks or funds of any foreign
 
-603
-
-Stamp Duties. Ch. 97.
+Stamp Duties. Ch. 97. 603
 
 or colonial state or government, or in the capital stock or funded debt of any company, corporation, or society in the United Kingdom, or of any foreign or colonial company, corporation, or society:
 
@@ -23644,7 +23488,7 @@ or colonial state or government, or in the capital stock or funded debt of any c
 
 (11.) "Person" includes company, corporation, and society:
 
-(12.) " Steward " of a manor includes deputy steward.
+(12.) "Steward" of a manor includes deputy steward.
 
 3. From and after the commencement of this Act, and of subject to the exemptions contained in the schedule to this ^es m sche" Act, and in any other Acts for the time being in force, there shall be charged for the use of Her Majesty, her heirs and successors, upon the several instruments specified in the schedule to this Act, the several duties in the said schedule specified, and no other duties.
 
@@ -24318,7 +24162,7 @@ from the sub-purchaser thereof, without regard to the amount or value of the ori
 
 (a.) Where any copyhold or customary estate is conveyed by a' deed, no surrender being necessary, the deed is to be deemed the principal instrument:
 
-(6.) In other cases of copyhold or customary estates, the surrender or grant, if made out of court, or the memorandum thereof, and the copy of court roll of the surrender or grant, if made in court, shall be deemed the principal instrument:
+(b.) In other cases of copyhold or customary estates, the surrender or grant, if made out of court, or the memorandum thereof, and the copy of court roll of the surrender or grant, if made in court, shall be deemed the principal instrument:
 
 (c.) Where in Scotland there is a disposition or assignation executed by the seller, and any other instrument is executed for completing the title, the disposition or assignation is to be deemed the principal instrument.
 
@@ -24576,13 +24420,7 @@ Also any defeazance, letter of reversion, back bond, declaration, or other deed 
 
 Also any agreement, contract, or bond accompanied with a deposit of title deeds for making a mortgage, wadset, or any such other security or conveyance as aforesaid of any lands, estate, or property comprised in such
 
-629
-
-1870.
-
-Stamp Duties.
-
-Cif. 97.
+1870. Stamp Duties. Ch. 97. 629
 
 title deeds, or for pledging or charging the same as a security:
 
@@ -26360,7 +26198,7 @@ her heirs or successors - 0 10 0
 
 WRIT —
 
-(1.) Of Acknowledgment under " The Registration of Leases (Scotland) Act "
+(1.) Of Acknowledgment under "The Registration of Leases (Scotland) Act "
 
 (2.) Of Acknowledgment by any person infeft of lands in Scotland in favour of the heir or disponee of a creditor fully vested in right of an heritable security constituted by > 0 5 0 infeftment -
 
@@ -26410,15 +26248,15 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3.) "Head offices" means the head offices of Inland Revenue in Edinburgh and Dublin:
 
-(4.) " Duty," " duties," mean the stamp duty and stamp duties from time to time chargeable by law:
+(4.) "Duty," "duties," mean the stamp duty and stamp duties from time to time chargeable by law:
 
-(5.) " Material" means and includes every sort of material upon which words or figures can be expressed:
+(5.) "Material" means and includes every sort of material upon which words or figures can be expressed:
 
 (6.) "Write," "written," and "writing," include every mode in which words or figures can be expressed upon material:
 
 (7.) "Instrument" means and includes every written document:
 
-(8.) Die" means and includes any plate, type, tool, or implement whatever used under the direction of the Commissioners for expressing or denoting any duty, or the fact that any duty or penalty has been paid, or that an instrument is duly stamped, or is not chargeable with any duty, and also any part of any such plate, type, tool, or implement:
+(8.) "Die" means and includes any plate, type, tool, or implement whatever used under the direction of the Commissioners for expressing or denoting any duty, or the fact that any duty or penalty has been paid, or that an instrument is duly stamped, or is not chargeable with any duty, and also any part of any such plate, type, tool, or implement:
 
 [Short title and commencement of Act.]
 
@@ -26550,7 +26388,7 @@ of his death or bankruptcy, or at the expiration or revocation of his licence, h
 
 664 Ch. 98. Stamp Duties Management 33 & 34 Vict.
 
-(&.) An instrument executed by any party thereto, but afterwards found to be absolutely void in law from the beginning:
+(b.) An instrument executed by any party thereto, but afterwards found to be absolutely void in law from the beginning:
 
 (c.) An instrument executed by any party thereto, but afterwards found unfit by reason of any error or mistake therein for the purpose originally intended:
 
@@ -27612,7 +27450,7 @@ Be it therefore enacted by the Queens most Excellent Majesty, by and with the ad
 
 2. The said town council of the city of Dublin shall apply all moneys raised under the authority of this Act in payment of the expenses incurred in the execution of the said works necessary for the purification of the River Liffey and the completion of the said main drainage of the said city of Dublin and incident thereto, and to or for no other purpose whatsoever.
 
-3* Notwithstanding anything in the Public Works Loan Act, 1853, contained to the contrary, all moneys advanced under the authority of this Act shall be repaid in manner following; (that is to say,)
+3. Notwithstanding anything in the Public Works Loan Act, 1853, contained to the contrary, all moneys advanced under the authority of this Act shall be repaid in manner following; (that is to say,)
 
 687
 
@@ -27780,11 +27618,7 @@ Registrar's districts to be formed into enumerator's divisions.
 
 Enumerators to be appointed.
 
-Ch. 108.
-
-Census (Scotland).
-
-33 & 34 Vict.
+Ch. 108. Census (Scotland). 33 & 34 Vict.
 
 Householders schedules to be left at dwelling-houses.
 
@@ -27888,9 +27722,9 @@ BE it enacted by the Queen's most Excellent Majesty, by u and with the advice an
 
 1. This Act shall commence and take effect on the second day of November one thousand eight hundred and seventy.
 
-2. This Act shall apply' to Ireland only.
+2. This Act shall apply to Ireland only.
 
-8. This Act may be cited for all purposes as "The Common Law Procedure Amendment Act, Ireland, 1870."
+3. This Act may be cited for all purposes as "The Common Law Procedure Amendment Act, Ireland, 1870."
 
 4. No writ of Right of Dower, or writ of Dower unde nihil habet, and no plaint for freebench or dower in the nature
 
@@ -27938,7 +27772,7 @@ The term "clerk of the peace " shall include the acting or deputy clerk of the p
 
 county, or recorder's courts lawfully discharging the duties of the clerk either in a county, county of a city, or county of a town:
 
-The word " county " shall include a county of a city, a county of a town, a town, a city, a borough, and a riding of a county.
+The word "county" shall include a county of a city, a county of a town, a town, a city, a borough, and a riding of a county.
 
 CHAP. 110.
 
@@ -28032,7 +27866,7 @@ Powers of the Court for the trial of questions by a
 
 jury.
 
-Ch. 110. McdH'inonial Causes, <Sk&(Irekmd), 33 & 34 Vict.
+Ch. 110. Matrimonial Causes, <Sk&(Irekmd), 33 & 34 Vict.
 
 10. The Court for Matrimonial Causes and Matters shall hold its sittings in the court from time to time appointed for the hearing of causes in the Court of Probate in Ireland.
 
@@ -28050,7 +27884,7 @@ Ch. 110. McdH'inonial Causes, <Sk&(Irekmd), 33 & 34 Vict.
 
 705
 
-1870. M(jdrimonicd Causes, &c. (Ireland). Ch. 110.
+1870. Matrimonial Causes, &c. (Ireland). Ch. 110.
 
 Court may seem requisite; and every such jury shall consist of persons possessing the like qualifications, and shall be struck, summoned, balloted for, and called in like manner, as if such jury were a jury for the trial of any cause in any of the said superior courts; and every juryman so summoned shall be entitled to the same rights and subject to the same duties and liabilities as if he had been duly summoned for the trial of any such cause in any of the said superior courts; and every party to any such proceeding shall be entitled to the same rights as to challenge and otherwise as if he were a party to any such cause; and generally for all purposes of or auxiliary to the trial of questions of fact by a jury before the Court itself, and in respect of new trials thereof, and also for all purposes in relation to or consequential upon the direction of issues, the Court for Matrimonial Causes and Matters shall have the same jurisdiction, powers, and authority in all respects as belong to any superior court of common law or to any judge thereof, or to the High Court of Chancery or any judge thereof, for the like purposes.
 
@@ -28088,13 +27922,11 @@ All records, books, &c. to be transmitted to the principal registry of the Court
 
 Mode of taking evidence.
 
-Powers to issue
-
-commissions,
+Powers to issue commissions,
 
 &c.
 
-Ch. 110. Matrimonial Causes, <bc. (Ireland). 33 & 34 Vict.
+Ch. 110. Matrimonial Causes, &c. (Ireland). 33 & 34 Vict.
 
 Gazette, and no other fees than those specified and allowed in such rules shall be demanded or taken.
 
@@ -28140,11 +27972,9 @@ Jurisdiction of Archbishop of Armagh, &c. transferred to Lord Chancellor.
 
 Compensation to officers of Court of Faculties.
 
-Rules and regulations to
+Rules and regulations to be laid before Parliament.
 
 708
-
-be laid before Parliament.
 
 Churches in which marriages may be celebrated.
 
@@ -28178,7 +28008,7 @@ to officiate in any aforesaid church or chapel in which marriage may be solemniz
 
 34. Every bishop of the said Church may from time to licence of time, by writing under his hand, subject to the approval of churches* the Lord Lieutenant or other general governor or governors of Ireland, license any church or chapel for the celebration of marriages in any district within his episocpal superintendence to be named in such licence between persons one or both of whom shall reside within the limits of such district; and every such bishop shall, as soon as may be after the granting of each such licence, certify the granting thereof to the Registrar General of Marriages in Ireland, and shall send a copy of such licence to the said Registrar General, who shall keep the same with the other records of his office: Provided always, that a person who shall have dwelt for fourteen days prior to the ceremony within the limits of the district shall be deemed to reside therein.
 
-35. Every'bishop of the said Church may, by writing under Licences for his hand, nominate persons to issue licences for marriages, and, mama?es* by the same or other writings, define in and for what districts
+35. Every bishop of the said Church may, by writing under Licences for his hand, nominate persons to issue licences for marriages, and, mama?es* by the same or other writings, define in and for what districts
 
 within the episcopal superintendence of such bishop such persons are respectively to issue the same, and in and for the district at the time of the passing of his Act known as the exempt jurisdiction of Newry and Morae the person at the time of the passing of this Act holding the office of vicar-generalfof the said exempt jurisdiction shall have power to issue licences for marriage, and shall continue so to do until the said district is included within the episcopal superintendence of some bishop of the said church; and every such licence shall be held to authorise marriage in any churches and chapels situate within such districts respectively in which marriages may be solemnized under the provisions of this Act, and which shall be specified in such licences, whenever both of the parties shall be Protestant Episcopalians, and resident within such districts; and such licences shall be in the form No. I. in the schedule (A) to this Act annexed, or to the like effect; and for every such licence such person shall be entitled to have for his own benefit, of the party requiring the same, such fee, not exceeding the sum of five shillings, as may from time to time be appointed in that behalf by any general synod or convention of the bishops, clergy, and laity of the said Church; and in any case in which such person shall refuse to grant such licence, the person applying for the same shall be entitled to appeal to the bishop by whom such person shall have been so appointed, or his successor, who shall thereupon either confirm the refusal or direct the grant of the licence; and every person so appointed shall four times in every year,
 
@@ -28242,7 +28072,7 @@ t
 
 marriages by licence or special licence, or after publication of banns:
 
-' 2d. That the certificate of the registrar is delivered to the clergyman solemnizing such marriage at the time of the solemnization of the marriage:
+2d. That the certificate of the registrar is delivered to the clergyman solemnizing such marriage at the time of the solemnization of the marriage:
 
 3d. That such marriage is solemnized in a building set apart for the celebration of divine service according to the rites and ceremonies of the religion of the clergyman solemnizing such marriage, and situate in the district of the registrar by whom the certificate is issued:
 
@@ -28262,7 +28092,7 @@ Where the marriage is intended to be contracted in the office of the registrar, 
 
 713
 
-1870. Matrimonial Causes, dec. (Ireland). Ch. 110.
+1870. Matrimonial Causes, &c. (Ireland). Ch. 110.
 
 consecutive weeks next after he has received such notice in some newspaper circulating in the district in which such marriage is intended, or if there is not any newspaper circulating in such district, then in some newspaper circulating in the county in which such district is situate; any registrar neglecting or refusing to publish such notice in manner aforesaid shall be liable to a penalty of forty pounds, recoverable in like manner as penalties under the said Act.
 

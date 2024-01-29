@@ -4626,7 +4626,7 @@ Charge of Poundage to be returned to the Infantry, upon Account — — -
 
 210,coo — — *
 
-80.000 -----
+80.000 -
 
 40.000 — —
 
@@ -12479,11 +12479,11 @@ T,oooo ——
 
 300 ——
 
-loo — ----
+loo — -
 
 200 —
 
-500 --- --
+500 -
 
 IOO — —
 
@@ -12495,7 +12495,7 @@ I50 ——
 
 250 ——
 
-coo — ----
+coo — -
 
 7.175 ——
 
@@ -12581,7 +12581,7 @@ too ——
 
 200 ——
 
-200 --- --
+200 -
 
 5.415 — —
 
@@ -12737,7 +12737,7 @@ I GO — —
 
 too--- —
 
-joo — ----
+joo — -
 
 Total
 
@@ -12885,7 +12885,7 @@ Allowance to Governor Phillip, in Consideration of his meritorious Services —
 
 Upon Account, for Fees and Audit — — ~ —
 
-I, COO -- ---
+I, COO -
 
 250 ——
 
@@ -12917,7 +12917,7 @@ J82 10 ---
 
 9> 5 —
 
-5t> -----
+5t> -
 
 91 5 —
 
@@ -18466,13 +18466,13 @@ he fth
 
 5,000 — —
 
-375 -----
+375 -
 
 SW 9 4
 
 500 — —
 
-375 -----
+375 -
 
 500 ——
 
@@ -18512,9 +18512,9 @@ To D®, for Stores destined for the Army under the Command of the Earl of Moira,
 
 25,000
 
--- 7,006 13 -----
+-- 7,006 13 -
 
-— — 35>°°° -----
+— — 35>°°° -
 
 3E
 
@@ -19004,7 +19004,7 @@ Tp Lieutenant J. Lyons Nixfor Pay and Forage, as a Major of Brigade, tp 15th Nov
 
 7 6 18 6
 
-34® -----
+34® -
 
 342 6 —
 
@@ -19290,7 +19290,7 @@ for D® Service for D® Service for D° Service for D° Service for D® Service 
 
 17.000 — —
 
-20.000 -----
+20.000 -
 
 20.000 — —
 
@@ -19298,9 +19298,9 @@ for D® Service for D® Service for D° Service for D° Service for D® Service 
 
 20.000 ----- .
 
-20.000 -----
+20.000 -
 
-75.000 -----
+75.000 -
 
 13.000 ——
 
@@ -20182,7 +20182,7 @@ Received 10th January 1795* by Warrant, dated 6th Instant, granted for, Quartet 
 
 3.450 — —
 
-3.450 -----
+3.450 -
 
 DISCHARGE*
 
@@ -47756,7 +47756,7 @@ I5o ——
 
 35°----
 
-105 -----
+105 -
 
 300 ——
 
@@ -47894,11 +47894,11 @@ A Housekeeper — —
 
 1,500 ——
 
-1,200 — ----
+1,200 — -
 
 3OO ——
 
-1,200 -- ---
+1,200 -
 
 4OO ---- —
 
@@ -47906,7 +47906,7 @@ A Housekeeper — —
 
 - 24O ——
 
-IOO -- --
+IOO -
 
 164 5 —
 
@@ -48532,7 +48532,7 @@ ioo — —
 
 5° ——
 
-IOO -- --
+IOO -
 
 449 1S —
 
@@ -48542,7 +48542,7 @@ IOO -- --
 
 500 ——
 
-1,200 ----
+1,200 -
 
 1,000 — —
 
@@ -53656,7 +53656,7 @@ An ACCOUNT of the several Sums paid from the Revenues of the Dutchy of Cornwall,
 
 26th June- 1780 21st May - 1781 25th March 1782 7th May - 1783
 
-20.000 -----
+20.000 -
 
 16,478 11 2
 
