@@ -3141,7 +3141,7 @@ The House divided:
 
 Tellers.
 
-v f Lord Newhaven - - -1
+v f Lord Newhaven - 1
 
 s I^Lord Beauchamp •} *
 
@@ -3361,15 +3361,15 @@ of this year, and another perpetual charge might have been saved the last year, 
 
 Navy debt - *5, 200,000
 
-Exchequer bills - - - - 2,000,000
+Exchequer bills - 2,000,000
 
 Vote of credit - 1,000,000
 
 Negotiable paper proposed for
 
-this year - - 1, 300,000
+this year - 1, 300,000
 
-Arrear of the Sinking Fund, and charges anticipated upon it, for the loan of this year, and the deficiencies of the two last ---- 1, 500,000
+Arrear of the Sinking Fund, and charges anticipated upon it, for the loan of this year, and the deficiencies of the two last - 1, 500,000
 
 Besides all these, the general arrears of war cannot be estimated at less than 10,000,000l. or nearly, especially as a Spanish war seems not very distant - 10,000,000
 
@@ -3387,11 +3387,11 @@ duced from 68 to 60 per cent, a fall of near SO per cent, upon the whole capital
 
 Expences of tlje American war, as by parliamentary supplies and public docu* tt. ments, more than ... 40,000,000 Destruction of capital to the proprietors of the public
 
-funds - - 40,000,000
+funds - 40,000,000
 
 Diminution of the value of the rents of Great Britain 150,000,000
 
-Total - - - 230,000,000
+Total - 230,000,000
 
 If this should be thought to be a speculative account, my answer is, double thiB account, and, 1 fear, you would be nearer to the truth.
 
@@ -3634,7 +3634,7 @@ The previous question being put on Mr. Thinning’s first motion, the House divi
 
 Tellers.
 
-Vi, < Mr. Thomas Townshend ? . oe *EAS (Mr. Grenville ---- 5 135
+Vi, < Mr. Thomas Townshend ? . oe *EAS (Mr. Grenville - 5 135
 
 k So it passed in the negative. The ques-. tion being then put on die second motion, the House divided:
 
@@ -3684,7 +3684,7 @@ The question being put, that the debate be adjourned till this day four months; 
 
 Tellers.
 
-Vca'o f Sir Wm. Bagot - - - -7
+Vca'o f Sir Wm. Bagot - 7
 
 I Sir Roger Newdigate - -J
 
@@ -5080,7 +5080,7 @@ Now, is there a noble lord in this House, is there a man in this kingdom, but mu
 
 My lords, looking £. into the grants made *
 
-by parliament fiir the services, of the navy, between the years 1751 and 1759, I find granted in that time for naval purposes - - - 19, 403, 663 1 1^ Out of which was to pay towards discharging the navy debt, and money given for building and repairing the different hospitals of Greenwich, Haslar,
+by parliament fiir the services, of the navy, between the years 1751 and 1759, I find granted in that time for naval purposes - 19, 403, 663 1 1^ Out of which was to pay towards discharging the navy debt, and money given for building and repairing the different hospitals of Greenwich, Haslar,
 
 Plymouth, &c. - - 2, 139, 696 9 0
 
@@ -5516,7 +5516,7 @@ establishment £.
 
 in 1763 - - - 10,000
 
-1764 m - - 10,000
+1764 m - 10,000
 
 1765 - - - 5,000
 
@@ -7774,7 +7774,7 @@ of the advantages that would have ensued from that operation, if the councils at
 
 This narrative has, I fear, been too prolix; but the subject was so complicated with matter, and the circumstances necessary to be brought into a clear point of view, were so numerous, that brevity would not have been consistent with perspicuity. Had 1 laboured to make my narrative short, it would have been obscure. Sensible as I am of the great attention and indulgence with which the committee has honoured me, I now hasten to the conclusion. The Secretary of State, as appears in his letters, has signified in the most flattering expressions, his Majesty’s approbation of every material part of my couduct, during the whole of my command. His lordship’s own personal applause is also very warmly conveyed throughout his correspondence; all his let-LVOL. XX. ]
 
-ters, however, may with propriety be said to have been private letters, until they were laid before ibis House. The knowledge of the approbation they contained was confined within his lordship’s breast and mine. When calumny first became busy with my reputation, I could have wished his lordship’s sentiments more generally known; — though it would not perhaps have become me to have obtruded upon the world those official declarations in my own favour. But I must ever think it would have been an ingenuous, an honourable, and a liberal part in the noble lord, to have avowed openly in parliament, the approbation, which it is to be presumed he was convinced I deserved, because he had advised the King to bestow it. Such a conduct would have stopped the current of ill-founded accusations against me. Such a conduct would have secured to himself the confidence, and to his country the cheerful services of future generals.
+ters, however, may with propriety be said to have been private letters, until they were laid before this House. The knowledge of the approbation they contained was confined within his lordship’s breast and mine. When calumny first became busy with my reputation, I could have wished his lordship’s sentiments more generally known; — though it would not perhaps have become me to have obtruded upon the world those official declarations in my own favour. But I must ever think it would have been an ingenuous, an honourable, and a liberal part in the noble lord, to have avowed openly in parliament, the approbation, which it is to be presumed he was convinced I deserved, because he had advised the King to bestow it. Such a conduct would have stopped the current of ill-founded accusations against me. Such a conduct would have secured to himself the confidence, and to his country the cheerful services of future generals.
 
 And now, Sir, having endeavoured to bring before you, by the most impartial quotations, all the evidence that I thought necessary to collect from the papers on your table, I shall only remind you, that the House has ordered the attendance of several of the most respectable officers who served in America during my command. Their testimony may confirm the truth of the facts I have advanced, and will undoubtedly explain and prove any other material circumstances which you may think necessary for your investigation.
 
@@ -11761,7 +11761,7 @@ Debate in the Commons [1148
 
 sterling; but, being ignorant of toy rupture with Spain, diey suffered her to proceed on her voyage. Indeed, the earliest intelligence of a Spanish war which reached that part of the world, was brought to admiral Byron’s fleet by a packet, which did not depart from England before the first or second of July.
 
-The western squadron, which ought always to be at sea at the latter end of May, for want of being fitted out in due time, suffered a junction of the French and Spanish force; the “ best of the minister’s understanding* then dictated to admiral I Hardy to keep a course from the south- I ward, that the enemy’s fleet might, with- I out the least shew of interruption, come over j to the coast of Devonshire, secure the British seas to the very mouth of the Thames, and cut off any reinforcements destined for sir C. Hardy from Portsmouth or the Downs. The Ardent hap> pened to be the only line of battle ship, taken by D’Orvilliers; many others had a narrow escape, and would have shared the ' same fate, had it not been for Providence, i which we learn from the King’s Speech, from the Address, and also'from the argu- (ments of many gentlemen over the way, will still be ever ready at our command. This invisible Providence is henceforth to i be our general, our admiral, secretary of state, and president of our councils-ldor we bad got rid of all those generals, admi- [rals, and statesmen, with whose characters ' we were personally acquainted, and looked i up to with a rational confidence and m» | gard; this Providence is likewise to be our fbreijp ally, the only ally we have a chance of; m short Providence must be bere» there, and every where: but, Sir, the mi- I nisters are possessed of that understand- j ing which passeth all common understanding, I mean a good understanding J with a venal majority, who betraying a most sacred trust, raise themselves upon the wreck of their country, and basely make the national good subservient to their private avarice and ambition. If I such understanding should prevail tonight, and the people shriuk from the true constitutional means to redress the evd, , they will deserve its fatal consequences.
+The western squadron, which ought always to be at sea at the latter end of May, for want of being fitted out in due time, suffered a junction of the French and Spanish force; the “ best of the minister’s understanding* then dictated to admiral I Hardy to keep a course from the south- I ward, that the enemy’s fleet might, with- I out the least shew of interruption, come over j to the coast of Devonshire, secure the British seas to the very mouth of the Thames, and cut off any reinforcements destined for sir C. Hardy from Portsmouth or the Downs. The Ardent hap> pened to be the only line of battle ship, taken by D’Orvilliers; many others had a narrow escape, and would have shared the ' same fate, had it not been for Providence, i which we learn from the King’s Speech, from the Address, and also'from the argu- (ments of many gentlemen over the way, will still be ever ready at our command. This invisible Providence is henceforth to i be our general, our admiral, secretary of state, and president of our councils-ldor we bad got rid of all those generals, admi- [rals, and statesmen, with whose characters ' we were personally acquainted, and looked i up to with a rational confidence and m» | gard; this Providence is likewise to be our foreijp ally, the only ally we have a chance of; m short Providence must be bere» there, and every where: but, Sir, the mi- I nisters are possessed of that understand- j ing which passeth all common understanding, I mean a good understanding J with a venal majority, who betraying a most sacred trust, raise themselves upon the wreck of their country, and basely make the national good subservient to their private avarice and ambition. If I such understanding should prevail tonight, and the people shriuk from the true constitutional means to redress the evd, , they will deserve its fatal consequences.
 
 But, let the minority of both Houses stand forward to apprize them of their situation, by a proper manifesto and appeal. I Let us secede in a body from these pol- | luted walls, and convene the several counties, to take instructions and collect the I real sense of our constituents at }*rg$ I
 

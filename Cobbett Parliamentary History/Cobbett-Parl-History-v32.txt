@@ -1464,11 +1464,11 @@ The question being put, “ That the other orders of the day be now read; ” th
 
 Tellers.
 
-., f Mr. John Smith - - 7
+., f Mr. John Smith - 7
 
 Yeas | Mr. Jenkinson - - - j 801
 
-vr o fMr. Bankes - - - -7
+vr o fMr. Bankes - 7
 
 1?0ES tMr. JckyU - . - -} 86
 
@@ -1832,7 +1832,7 @@ Tellers.
 
 v..(f Mr. Foster Barham -1EAS\ Mr. Manning -
 
-xr-.c f Mr. Whitbread - - 7
+xr-.c f Mr. Whitbread - 7
 
 Noes tMr. Sheridan - - - } 67 So it passed in the negative.
 
@@ -2352,7 +2352,7 @@ divided: Tellers.
 
 Yeas j i Mr. Jenkinson - - -^Mr. Adams - - - - J 157
 
-Noes } Mr. Sheridan - - - -1 Mr. Whitbread - - - \ 36
+Noes } Mr. Sheridan - 1 Mr. Whitbread - - - \ 36
 
 The House having resolved itself into the committee, Mr. Anstruther moved, “ That the blank in the clause for granting his Royal Highness an additional allowance, be filled up with the words, 65,000l.’, Mr. Wilberforce moved, “ That instead of 65,000l. the sum of 40,000l. be inserted.”
 
@@ -2426,9 +2426,9 @@ The question being put, That the said bill be now read the third time, the House
 
 divided: Tellers.
 
-Yeas -j 'Mr. Anstruther - - -7 [Mr. Edw. Jas. Eliot - j 54
+Yeas -j 'Mr. Anstruther - 7 [Mr. Edw. Jas. Eliot - j 54
 
-Noes 7 Mr. Sheridan - - - 7 General Tarleton - - j 10
+Noes 7 Mr. Sheridan - 7 General Tarleton - - j 10
 
 So it was resolved in the affirmative.
 
@@ -4208,7 +4208,7 @@ Yeas 5 Mr* Ald* Lushington -
 
 IEAS(Mr. Buxton - - - J 13°
 
-Noes f Mr. Lambton - - - 1
+Noes f Mr. Lambton - 1
 
 "0ES ^Mr. Christian Curwen J 11
 
@@ -4570,7 +4570,7 @@ Tellers.
 
 v — < Mr. Solicitor General - >01<, Yeas J Mr. Neville - - - - i213
 
-XT (Mr. Erskine - - - - 1
+XT (Mr. Erskine - 1
 
 Noes (Mr. St. John - - - { 43
 
@@ -6851,7 +6851,7 @@ The question was then put on the proposed omission of the words of Mr. Sheridan�
 
 Tellers.
 
-Mr. Adams - - - - ? oc Mr. Wigley - - - - J a Sir William Dolben - - 7 .
+Mr. Adams - - - - ? oc Mr. Wigley - - - - J a Sir William Dolben - 7 .
 
 Mr. Pole Carew - - - j And it appearing, that forty members were not present, the House adjourned.
 
@@ -7200,7 +7200,7 @@ The House divided on Mr. Grey’s motion:
 
 Tellers.
 
-Yeas }Mr. Whitbread - - 50
+Yeas }Mr. Whitbread - 50
 
 no-::\i*>
 
@@ -7394,7 +7394,7 @@ The question being put, “ That the other order of the day be now read, " the H
 
 , Tellers.
 
-Vrit fGeneral Tarleton- - -7 I IEAS j Sir William Young - -J 7
+Vrit fGeneral Tarleton - 7 I IEAS j Sir William Young - -J 7
 
 Noes {mc\Robert Smith - -} 93
 
@@ -8196,7 +8196,7 @@ The question being put, That the word tl now” stand part of the question, the 
 
 Tellers.
 
-f The Lord Muncaster -7 Yeas iMr. Robert Smith - J 64 xt™ f General Tarleton - - 7 Q1 Noes1 Sir William Young - j 31 The bill was then read a second time.
+f The Lord Muncaster -7 Yeas iMr. Robert Smith - J 64 xt™ f General Tarleton - 7 Q1 Noes1 Sir William Young - j 31 The bill was then read a second time.
 
 March 7. Mr. Wilberforce moved the order of the day for going into a committee on the bill. On the question, “ That the Speaker do now leave the Chair, ' *
 
@@ -8376,7 +8376,7 @@ Mr. Windham said, he rose to explain the doubts which he had felt upon this impo
 
 [892
 
-not altered. Even the late events that had taken place in Europe, which were sufficient to have reversed all former political opinions, and like an electric shock, to have destroyed the magnetism and polarity of the mind, had not overturned the principles on which his opinions on this subject w’ere founded. All the havoc of the rights of man had not blunted him to the rights of Africans, nor had the example of French liberty reconciled him to African slavery. He confessed he did not think the subject had been argued satisfactorily on either side, or in such a way as to remove the doubts under which he laboured. On the points of justice, both parties seemed agreed; though arguments upon this head had been advanced, that he could not admit. Those who supported the abolition upon the general principles of justice were not consistent with themselves, if they admitted any thing short of the total abolition of the institution of slavery. This should be a caution how they embraced principle without qualification, or divested any point of the comprehensive relations, that might be involved in it. Both sides had unnecessarily dwelt on the topics off justice and humanity, to which all were ready to subscribe. It was requisite, however, to hear something more than the exclamation of “ Fiat justitia, ruatcoelum!” — -He did not think it was a proper view of the case to say that we could not legislate for Africa. It was to be considered in what respect our conduct to them was unjust. It violated as yet no municipal law, and slaves were procured sometimes by consent of the African states; so that we were influenced only by a general regard for the happiness of mankind. It was for the welfare of other states, then, that we were so much interested, and by which our conduct was to be guided. He recalled this to the recollection of the House, to show how inconsistent those persons were, who, in discussions of the present time, equally important as this, maintained that we had no business with general views of the welfare of mankind, that this was mere quixotism, and and made up of chimerical reveries, and that a nation had nothing to do but to consult its own interest. It was likewise held out as a principle, that we ought not to do wrong merely because others would do it, whether we did or not. That ibis was true was unquestionable; the point, however, wa» this — whether there would
+not altered. Even the late events that had taken place in Europe, which were sufficient to have reversed all former political opinions, and like an electric shock, to have destroyed the magnetism and polarity of the mind, had not overturned the principles on which his opinions on this subject w’ere founded. All the havoc of the rights of man had not blunted him to the rights of Africans, nor had the example of French liberty reconciled him to African slavery. He confessed he did not think the subject had been argued satisfactorily on either side, or in such a way as to remove the doubts under which he laboured. On the points of justice, both parties seemed agreed; though arguments upon this head had been advanced, that he could not admit. Those who supported the abolition upon the general principles of justice were not consistent with themselves, if they admitted any thing short of the total abolition of the institution of slavery. This should be a caution how they embraced principle without qualification, or divested any point of the comprehensive relations, that might be involved in it. Both sides had unnecessarily dwelt on the topics off justice and humanity, to which all were ready to subscribe. It was requisite, however, to hear something more than the exclamation of “ Fiat justitia, ruatcoelum!” — -He did not think it was a proper view of the case to say that we could not legislate for Africa. It was to be considered in what respect our conduct to them was unjust. It violated as yet no municipal law, and slaves were procured sometimes by consent of the African states; so that we were influenced only by a general regard for the happiness of mankind. It was for the welfare of other states, then, that we were so much interested, and by which our conduct was to be guided. He recalled this to the recollection of the House, to show how inconsistent those persons were, who, in discussions of the present time, equally important as this, maintained that we had no business with general views of the welfare of mankind, that this was mere quixotism, and and made up of chimerical reveries, and that a nation had nothing to do but to consult its own interest. It was likewise held out as a principle, that we ought not to do wrong merely because others would do it, whether we did or not. That this was true was unquestionable; the point, however, wa» this — whether there would
 
 Debate ih the Commons on the Bill
 
@@ -8414,7 +8414,7 @@ of acres was brought into cultivation ? If* a hundred years ago, it was proposed
 
 ceased to be imported. Nor was this all: by diminishing the quantum of slaves, the demand for them would be reduced, the misery of the islands would be mitigated, and the horrid condition of the African natives would be meliorated. Neither would the blessings of abolition stop here; the example of our colonial possessions would have a happy effect on all Europe, and pave the way for universal abolition; in his mind this was an irresistible argument for speedy abolition. His hon. friend (Mr. Rose)had remarked, that if we abandoned this trade, its profits could be transferred to Ireland. He was surprised at such an idea having occurred to any man; if, however, such a consequence should follow, he would only say for one, that if the slave trade was to have a continuance at all, it was more honourable to the British legislature to have that national stain affixed to any other people than those over whom it exercised control. Ireland possessed an independence, which exempted it from the jurisdiction of the British government; yet Ireland, by participating of the advantages derived from our colonial trade, had in return agreed to respect the regulations we thought necessary, and upon that ground we had a right to expect from them a co-operation in this measure. But this was not what he relied on. He would not do 8o much injustice to any part of his majesty's dominions, much less to the spirit and generosity of the sister kingdom, as to suspect, for a single moment, that Ireland would meet this Question with any other sentiment but that of cheerful acquiescence. Ireland would certainly disdain to> transplant to ks own bosom the reproach ana shame indignantly driven from our shores. To proceed to his hon. friend’s objections to the clauses of the bill: the first clause was that of making persons taken on the high teas, in the exercise of this trade, guilty of felony, while it had been encouraged for a hundred years past. It was much to be lamented, that the legislature had so long sanctioned the continuance of this trade i but it was a perversion of the fact to say that this bill went to inflict punishments for any of those previous proceedings to which the law heretofore gave countenance. The bill had no such object; it merely stated and defined what it meant to constitute offences in future, mid those who should incur them, did it with their eyes open. The question, then,
 
-was, whether felony was a punishment too severe for the crimes described in the bill ? In order correctly to decide upon that point, the fair way would be to take a view of those oftences, which incurred the penalty of transportation, and then say whether, upon the comparison, many of them were not inferior in moral turpitude to the atrocity of crimes which aif-fused barbarity over the continent through which desolation had been previously carried. The avarice of man might lead him to such a course shocking as it was, but the law which restrained him could not be too severe. — The criticisms made upon that clause in the bill, which allowed the cargoes of slave ships taken in the prohibited trade to be sold for the reward and encouragement of the captors, at once gratified his mind, and confirmed his opinion, as to the absolute necessity for the immediate abolition of so horrid a traffic. Compared with the principle of the bill, the clause was doubtless inconsistent, and the necessity of it was to be deplored; but it flowed from the radical ana incorrigible viciousness of the system, that when you drag a man into slavery from the bosom of his family and connexions, it is in vain for you afterwards to attempt to make him any Atonement; the injury done is without possibility of remedy. Notwithstanding this, he hoped that this apparent inconsistency with the
+was, whether felony was a punishment too severe for the crimes described in the bill ? In order correctly to decide upon that point, the fair way would be to take a view of those oftences, which incurred the penalty of transportation, and then say whether, upon the comparison, many of them were not inferior in moral turpitude to the atrocity of crimes which aiffused barbarity over the continent through which desolation had been previously carried. The avarice of man might lead him to such a course shocking as it was, but the law which restrained him could not be too severe. — The criticisms made upon that clause in the bill, which allowed the cargoes of slave ships taken in the prohibited trade to be sold for the reward and encouragement of the captors, at once gratified his mind, and confirmed his opinion, as to the absolute necessity for the immediate abolition of so horrid a traffic. Compared with the principle of the bill, the clause was doubtless inconsistent, and the necessity of it was to be deplored; but it flowed from the radical ana incorrigible viciousness of the system, that when you drag a man into slavery from the bosom of his family and connexions, it is in vain for you afterwards to attempt to make him any Atonement; the injury done is without possibility of remedy. Notwithstanding this, he hoped that this apparent inconsistency with the
 
 Sle of the measure would be found i of some remedy. However much he* might lament the necessity which should include the House to agree to this partial augmentation of slaves, he would accept that alternative rather than suffer the indiscriminate importation to continue. He was nevertheless happy in being able to suggest some thing which might relieve the House from the necessity, and at least alleviate the sufferings of those who should be intercepted in their passage. Experience baa shown the necessity of securing to the persons employed, an interest a the execution of all laws of this description, and possibly that object might be gained by allowing the captors a reward governed by circumstances, calculated to ensure humane treatment to the negroes found on board the ships taken. — The next consideration was, how the Africans so takeuw should be disposed of? No man could deny, that it would be only an aggravation of their wrongs to send them back te suffer death in the place from which they were taken. Such conduct would be blit
 
@@ -8580,7 +8580,7 @@ these grounds he objected to the motion. The House divided:
 
 Tellers.
 
-v.10(Mr. Christian Curwen - > YsA8iMr. Whitbread - - - 5 *5
+v.10(Mr. Christian Curwen - > YsA8iMr. Whitbread - 5 *5
 
 So it pased in the negative.
 
@@ -8624,7 +8624,7 @@ island of Cuba to Jamaica, was through the medium of a newspaper; as that was no
 
 ; on General MaclcocTt Motion
 
-son inimical to government, nor to the introduction of the blood-hounds. The first inquiry that presented itself was, who these Maroons were? and the result of that inquiry would be, that they were men: and not only men, but freemen; that they never had been slaves themselves, nor had their ancestors been so, their freedom having been acknowledged by several generations. The second question, then, would be, what were these blood-hounds that were imported with thirty Spanish chasseurs to hunt up the Maroons from their recesses i and it would be found that they were dogs which the Spaniards had found of great use upon their discovery of Mexico for the purpose of extermination. He would crave the attention of the House to an extract from the writings of Bartholomew de las Casas, a simple monk, who was the only person that opposed the barbarities or his countrymen. [The general here read an extract from Robertson's History of America, descriptive of the horrors of this sort of warfare in Cuba.] Bartholomew de las Casas, on account of this inhuman butchery, separated from his countrymen; and represented to the court of Spain such abominable practices. Would the parliament of Great Britain wink at suen proceedings as these i It was usual in Cuba, for the Spaniards to feed their dogs with human flesh, that they might be unnaturally bloody and fierce; it was common among the soldiers to split a child in two; or cut up an Indian in quarters, and feast their dogs. Would the House sit careless, while fifty couple of blood-hounds were imported from Cuba, and thirty chasseurs, to pursue the same bloody and inhuman sports? And who were the sportsmen? British subjects, British soldiers, and British officers) Surely parliament would not suffer them to enjoy a chase that stained the character of the country, and would blot the annals of his majesty’s reign, as much as it had done those of Philip 2nd and Charles 5th of Spain. We had not heard the cause of this war, or what provocation the Maroons had given. He would, however, for the sake of argument, allow that the war was in defence of our rights, and consequently just; yet we had no right to resort to unjustifiable means in prosecuting it. We had no right to pursue them with bloodhounds into their inmost recesses. He had read in his youth the works of Puf-fendorff and Grotius, and he could recoL
+son inimical to government, nor to the introduction of the blood-hounds. The first inquiry that presented itself was, who these Maroons were? and the result of that inquiry would be, that they were men: and not only men, but freemen; that they never had been slaves themselves, nor had their ancestors been so, their freedom having been acknowledged by several generations. The second question, then, would be, what were these blood-hounds that were imported with thirty Spanish chasseurs to hunt up the Maroons from their recesses i and it would be found that they were dogs which the Spaniards had found of great use upon their discovery of Mexico for the purpose of extermination. He would crave the attention of the House to an extract from the writings of Bartholomew de las Casas, a simple monk, who was the only person that opposed the barbarities or his countrymen. [The general here read an extract from Robertson's History of America, descriptive of the horrors of this sort of warfare in Cuba.] Bartholomew de las Casas, on account of this inhuman butchery, separated from his countrymen; and represented to the court of Spain such abominable practices. Would the parliament of Great Britain wink at suen proceedings as these i It was usual in Cuba, for the Spaniards to feed their dogs with human flesh, that they might be unnaturally bloody and fierce; it was common among the soldiers to split a child in two; or cut up an Indian in quarters, and feast their dogs. Would the House sit careless, while fifty couple of blood-hounds were imported from Cuba, and thirty chasseurs, to pursue the same bloody and inhuman sports? And who were the sportsmen? British subjects, British soldiers, and British officers) Surely parliament would not suffer them to enjoy a chase that stained the character of the country, and would blot the annals of his majesty’s reign, as much as it had done those of Philip 2nd and Charles 5th of Spain. We had not heard the cause of this war, or what provocation the Maroons had given. He would, however, for the sake of argument, allow that the war was in defence of our rights, and consequently just; yet we had no right to resort to unjustifiable means in prosecuting it. We had no right to pursue them with bloodhounds into their inmost recesses. He had read in his youth the works of Puffendorff and Grotius, and he could recoL
 
 925] respecting the Employment of Bloodhounds, $c. A.D. 1796. [926
 
@@ -9292,7 +9292,7 @@ reviewed, the seta- relating, tn legacies, passed, in 178Q, 1/783, and 1788, one
 
 country.
 
-Mr. IF, Smith thought the clause in the bill respecting the disclosure of commercial property so objectionable, that, if it was understood by the public, he was convinced it would occasion serious opposition to the measure* The mercantile world were totally unaware of the clause. % and, ibis was a reason why time should he given for farther oonsideratioru Mr. Pin said, that in the course of the debate it had beep asserted *, that if thfl House agreed to the tax on collateral succession, they would establish the print ciple by which a tax might, attach on direct succession. How little was this argument consistent with the idea thrown out by gentlemen opposite with respect to illegitimate children 1 They thought the case of illegitimate children distinct from that of strangers; that they stood in a more intimate relation to the testator, Yet ^legitimate children stood, in the construction of the law, as absolute strangers, and, except an express provision was made for them, were not entitled to claim any thing. Yet they who affected to complain of the hardship in this in? Stance, affirmed, that in the present measure there was no distinction of principle from the case <rf the immediate succession of legitimate children- The present h*U introduced no new principle of inquiry. It had existed for a long series of years; and to those who were best acquainted with its operations he appealed, whether it was attended with any of those fatal consequences to commercial credit, which, it was stated, would result from the present measure *
+Mr. IF, Smith thought the clause in the bill respecting the disclosure of commercial property so objectionable, that, if it was understood by the public, he was convinced it would occasion serious opposition to the measure* The mercantile world were totally unaware of the clause. % and, this was a reason why time should he given for farther oonsideratioru Mr. Pin said, that in the course of the debate it had beep asserted *, that if thfl House agreed to the tax on collateral succession, they would establish the print ciple by which a tax might, attach on direct succession. How little was this argument consistent with the idea thrown out by gentlemen opposite with respect to illegitimate children 1 They thought the case of illegitimate children distinct from that of strangers; that they stood in a more intimate relation to the testator, Yet ^legitimate children stood, in the construction of the law, as absolute strangers, and, except an express provision was made for them, were not entitled to claim any thing. Yet they who affected to complain of the hardship in this in? Stance, affirmed, that in the present measure there was no distinction of principle from the case <rf the immediate succession of legitimate children- The present h*U introduced no new principle of inquiry. It had existed for a long series of years; and to those who were best acquainted with its operations he appealed, whether it was attended with any of those fatal consequences to commercial credit, which, it was stated, would result from the present measure *
 
 The question being put, That the word ‘now’ stand part 0» the question, the House divided:
 
@@ -9364,7 +9364,7 @@ Tellers.
 
 Tut f Mr. Solicitor Genera! - 1 I Mr. Douglas - - J
 
-Noxs f Mr. Rashleigh - - - 1 | Mr. Jekyll - - - - j
+Noxs f Mr. Rashleigh - 1 | Mr. Jekyll - - - - j
 
 24
 
@@ -9444,11 +9444,11 @@ Tellers.
 
 So it passed in the negative. Mr. Pitt moved, That the bill be read the third time tomorrow morning. Upon which l\lr. Sheridan moved to leave out the words “ tomorrow morning, ” and insert the words “ upon this day three months.” And, the question being put, That the words “ tomorrow morning ” stand part of the question, the House divided: Tellers.
 
-v, ac f Mr. Jenkinson - - - 7
+v, ac f Mr. Jenkinson - 7
 
 AS jMr. John Smyth - - j 54
 
-XT f Mr. Francis - - - 7 m
+XT f Mr. Francis - 7 m
 
 ?ES {Mr. Sheridan - - - J 53
 
@@ -10042,7 +10042,7 @@ But to return to the opening of the Scheldt. I am not one of those who conceive 
 
 or rather did not we drag them reluctantly into the contest? A variety of of other arguments were used at the time.
 
-I do not wish to recall the language of any particular gentleman to the recollection of the House; but the argument being adduced against a proposition which 1 had the honour to make, I have more particular reason to remember it. I was told, that we ought not to recognize the French republic, for fear of disgusting our allies. Let us inquire, then, who were our allies at the time ? The states-general were among the number. Then it was said, that even those who were disaffected to the interest of the stadtholder, were so aristocratic in their sentiments, that they would spurn with indignation at French principles, and that an invasion would heal all the internal divisions which subsisted in that republic. Notwithstanding these assertions, however, I have heard, and I know it is commonly believed, that Holland was not conquered by the arms of France, but by the disaffection of the Dutch to the cause in which they were engaged. Our other allies were Austria and Prussia. Whether the king of Prussia has acted to this country with fidelity and honour, or with falsehood and perfidy; whether he has performed his engagements, or whether he has, violated the faith of the treaty, we have never been informed by ministers; but this I will ask, whether, after granting him an enormous subsidy, a subsidy which roust be regarded as most extravagant, when compared with the amount of the services which he has performed; whether, if you had thought proper to recognize the French republic before you enteredinto the war, he would have deserted, you one day sooner, or swallowed up more of the treasure of the country than he has done. With respect to Austria, is there any man who seriously believes that, though we had recognized the French republic, we might not have availed ourselves as much as we can de at this moment, of the service of that power? Even if Austria had been disgusted, all that she could have done would havejbeen to make a separate peace, which would have probably been the means of restoring general tranquillity, because that must have happened before we engaged in the war. But if ibis danger would have attended the recognition of the French republic before, may not the effect be produced by the late negotiation
+I do not wish to recall the language of any particular gentleman to the recollection of the House; but the argument being adduced against a proposition which 1 had the honour to make, I have more particular reason to remember it. I was told, that we ought not to recognize the French republic, for fear of disgusting our allies. Let us inquire, then, who were our allies at the time ? The states-general were among the number. Then it was said, that even those who were disaffected to the interest of the stadtholder, were so aristocratic in their sentiments, that they would spurn with indignation at French principles, and that an invasion would heal all the internal divisions which subsisted in that republic. Notwithstanding these assertions, however, I have heard, and I know it is commonly believed, that Holland was not conquered by the arms of France, but by the disaffection of the Dutch to the cause in which they were engaged. Our other allies were Austria and Prussia. Whether the king of Prussia has acted to this country with fidelity and honour, or with falsehood and perfidy; whether he has performed his engagements, or whether he has, violated the faith of the treaty, we have never been informed by ministers; but this I will ask, whether, after granting him an enormous subsidy, a subsidy which roust be regarded as most extravagant, when compared with the amount of the services which he has performed; whether, if you had thought proper to recognize the French republic before you enteredinto the war, he would have deserted, you one day sooner, or swallowed up more of the treasure of the country than he has done. With respect to Austria, is there any man who seriously believes that, though we had recognized the French republic, we might not have availed ourselves as much as we can de at this moment, of the service of that power? Even if Austria had been disgusted, all that she could have done would havejbeen to make a separate peace, which would have probably been the means of restoring general tranquillity, because that must have happened before we engaged in the war. But if this danger would have attended the recognition of the French republic before, may not the effect be produced by the late negotiation
 
 I. t
 
@@ -12413,7 +12413,7 @@ The extraordinaries as far as they can be made up with accuracy - 4, 300,000
 
 Total of the army • ---- 10, 913,000
 
-Ordnance - - 1, 623,000
+Ordnance - 1, 623,000
 
 Miscellaneous Services - 378, oo0
 
@@ -14087,7 +14087,7 @@ M. Delacroix, a little hurt at my expression relative to the system adopted by F
 
 1433] Negotiation for Tenet toith France. A.D. 1796. [1434
 
-the negroes which did not militate against the principles of their constitution. Here our conference ended, and as, (hiring the whole course of it, I horc in my mind, the possibility, that this, although our first, might be the only favourable opportunity 1 should ever have of speaking on the general principles on which his majesty was disposed to treat, 1 endeavoured, by adverting more or less to almost every point in iny instructions, to enable M. Delacroix (if he reports faithfully) to state to the Directory what I said in such a manner as to put it out of their power to misconceive what were his majesty’s intentions, to remove all possibility of cavil on ibis case, and to bring them to a clear and distinct answer whether they would agree to open a negotiation on the principle of the status ante helium, or on one dilfcring from it only iu form, not in substance. I hope in attempting to do this I did not, in the first instance, commit myself, or discover more of my instructions than it became me to do, and that in the conversation with M. Delacroix nothing escaped me which might, at some subsequent period, hurt the progress of the negotiation. I have, I believe, given this conference nearly verbatim to your lordship; and I was particularly anxious to do this correctly and minutely, as well that you may judge on the propriety of what 1 said myself, as that what JM. Delacroix said to me may be accurately known, and remain on record.
+the negroes which did not militate against the principles of their constitution. Here our conference ended, and as, (hiring the whole course of it, I horc in my mind, the possibility, that this, although our first, might be the only favourable opportunity 1 should ever have of speaking on the general principles on which his majesty was disposed to treat, 1 endeavoured, by adverting more or less to almost every point in iny instructions, to enable M. Delacroix (if he reports faithfully) to state to the Directory what I said in such a manner as to put it out of their power to misconceive what were his majesty’s intentions, to remove all possibility of cavil on this case, and to bring them to a clear and distinct answer whether they would agree to open a negotiation on the principle of the status ante helium, or on one dilfcring from it only iu form, not in substance. I hope in attempting to do this I did not, in the first instance, commit myself, or discover more of my instructions than it became me to do, and that in the conversation with M. Delacroix nothing escaped me which might, at some subsequent period, hurt the progress of the negotiation. I have, I believe, given this conference nearly verbatim to your lordship; and I was particularly anxious to do this correctly and minutely, as well that you may judge on the propriety of what 1 said myself, as that what JM. Delacroix said to me may be accurately known, and remain on record.
 
 It must, however, be remembered (as I observed in the beginning of this dispatch) that lie spoke from himself, as minister indeed, but not under the immediate instructions of the Directory, and this consideration will take a little away from the singularity of some of the positions he advanced.
 
@@ -14971,7 +14971,7 @@ Tellers.
 
 Yeas f Mr. Grey ----] [Mr. Whitbread - -J
 
-Noes f Mr. Douglas - - - -1 [Mr. Rose - - - -J
+Noes f Mr. Douglas - 1 [Mr. Rose - - - -J
 
 86
 
