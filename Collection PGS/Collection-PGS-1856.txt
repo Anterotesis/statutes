@@ -14821,7 +14821,7 @@ Adjutant, if acting also as Paymaster in Corps consisting of Four Companies and 
 
 , if acting also as Paymaster in Corps consisting of less than Four Companies* -
 
-, if acting also as Paymaster and Quartermaster in Corps consisting of Four Companies and upwards* -, if acting also as Paymaster and Quartermaster in Corps consisting of less than Four Companies* - ' -
+, if acting also as Paymaster and Quartermaster in Corps consisting of Four Companies and upwards* -, if acting also as Paymaster and Quartermaster in Corps consisting of less than Four Companies* - -
 
 Quartermaster (if not holding a Subaltern's Commission, nor on the Per manent Staff1) -
 
@@ -15239,7 +15239,7 @@ Ditto - - from 401 to 600 Men - ' '' -v 'A
 
 Ditto - - from 601 to 800 Men - ' 5
 
-Ditto - - from 801 Men and upwards - ' - '
+Ditto - - from 801 Men and upwards - - '
 
 11. The actual Amount expended for printing and publishing the Advertise- rt K ±
 
@@ -15259,7 +15259,7 @@ ing Officer's Returns, Schedule (F.), in the Form Schedule (G.), for Her Majesty
 
 In Counties in England, Wales, and Scotland furnishing One Regiment Battalion, or Corps -
 
-Ditto - Two - Ditto - ' -
+Ditto - Two - Ditto - -
 
 Ditto - Three - Ditto -
 
