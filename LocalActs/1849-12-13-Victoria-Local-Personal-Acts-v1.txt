@@ -13808,7 +13808,6 @@ Copper Ore ... . - per Ton 0 6
 
 Copperas - . per Ton 0 8
 
-[Local.] 5 K
 
 406
 
@@ -15738,7 +15737,6 @@ Munjeet. (See Madder Root.)
 
 Musical Instruments, per Case per Box
 
-[Local.] 5 R
 
 0 2
 
@@ -21375,7 +21373,6 @@ XV. And be it enacted, That all the Costs, Charges, and Expenses Expenses of con
 
 whatsoever.
 
-[Local.] 8 Q
 
 706
 
@@ -24234,7 +24231,6 @@ Heading, per 120 ...
 
 Thin Pipe, 1 to 1^ Inch thick, per 120 Hogshead, per 120 -
 
-[Loca/.] 9 G
 
 RATES.
 
