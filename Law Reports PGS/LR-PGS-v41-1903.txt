@@ -1398,7 +1398,7 @@ WHEREAS His Majesty the King and divers foreign Powers have entered into a Conve
 
 And whereas provision is made under Article VII. of the Convention for the establishment of a permanent commission with a permanent bureau attached to it charged with watching the execution of the provisions of the Convention (in.this Act referred to as the Permanent Commission):
 
-f3e it therefore enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+Be it therefore enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 ' 1. — (1) Where it is reported by the; Permanent Commission that any direct or indirect bounty is granted in any foreign country on the production or export of sugars, His Majesty may, by Order in Council, make a prohibition order, that is to say, an order prohibiting sugar from that foreign country to be imported or brought into the United Kingdom, subject to any provision which may be made by Parliament, in lieu of such prohibition, to impose a special duty on such sugar in accordance with the Convention.
 
@@ -1430,8 +1430,6 @@ Sugar Convention Act, 1903.
 
 Revocation of orders and saving.
 
-[Short title.]
-
 the supervision either of the Commissioners of Customs or of the Commissioners of Inland Revenue; and those Commissioners may respectively make regulations —
 
 (a) for prohibiting the carrying on of any such factory or refinery otherwise than by persons authorised and in premises approved by the Commissioners and, if required, entered for the purpose; and for giving officers of the Commissioners powers of entry into any part of the premises at any time; and
@@ -1442,15 +1440,15 @@ the supervision either of the Commissioners of Customs or of the Commissioners o
 
 (d) for applying any provisions of the laws of Customs (including the Manufactured Tobacco Act, 1863) or of the laws of Excise; and
 
-(e) for attaching penalties not exceeding fifty pounds to any breach of or failure to comply with any regulation made under this section, and providing for the recovery and application of the penalty, and for the forfeiture of any article in respect of which any offence against the regulations is
-
-. committed;
+(e) for attaching penalties not exceeding fifty pounds to any breach of or failure to comply with any regulation made under this section, and providing for the recovery and application of the penalty, and for the forfeiture of any article in respect of which any offence against the regulations is committed;
 
 and the duties payable under the Finance Act, 1901, or any Act amending that Act, shall be taken on the delivery of any article from the factory or refinery, and shall be the same as those payable on the like articles on importation.
 
 3. — (1) His Majesty may by Order in Council revoke, alter or add to any Order in Council made under this Act.
 
 (2) Nothing in this Act shall apply to glucose.
+
+[Short title.]
 
 4. This Act may be cited as the Sugar Convention Act, 1903.
 
@@ -1462,21 +1460,13 @@ An Act to make further provision for the construction of works in the United Kin
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1903.
-
-Naval Wovks Act, 1903,
-
-Ch. 22.
-
-33
+1903. Naval Wovks Act, 1903, Ch. 22. 33
 
 1. — (1) In addition to any sum authorised to be issued under issue of money any other Act, the Treasury shall issue out of the Consolidated for works men-Fund or the growing produce thereof such sums, not exceeding sX>dule.
 
 in the whole seven million nine hundred and ninety-six thousand
 
-pounds, as may be required by the Admiralty for defraying the
-
-cost of the works specified in the schedule to this Act, subject to
+pounds, as may be required by the Admiralty for defraying the cost of the works specified in the schedule to this Act, subject to
 
 the terms and conditions in sections three and five of the Naval 59 & 60 Vict.
 
@@ -1590,7 +1580,7 @@ Keyham Engineers’ College
 
 " Britannia ” R.N. College -
 
-Magazines ....
+Magazines -
 
 Haslar Hospital Extension
 
@@ -1598,7 +1588,7 @@ Haulbowline Zymotic Hospital -
 
 Coast Guard Stations and Royal Naval Reserve Batteries.
 
-Torpedo ranges ....
+Torpedo ranges -
 
 Electric light and power in Naval establishments.
 
@@ -1776,7 +1766,7 @@ II This is a token sum only, and does not represent the total estimated cost.
 
 * An expenditure of 607. was incurred on this item in 1902-3 and charged to Vote 10. This is in addition to the estimate of 320,000l.
 
-ft Total estimated expenditure to 31st March 1905 ...
+ft Total estimated expenditure to 31st March 1905 -
 
 Expenditure already authorised, viz.
 
@@ -1878,11 +1868,7 @@ Two-thirds of every such body shall be appointed by the borough council and one-
 
 3. — (1) As from the passing of this Act, any public elementary school provided by the London School Board before the passing of this Act, which is wholly or partly situated outside the county of London, shall, for the purposes of this Act, be treated a% and
 
-1903.
-
-Education (London) Act, 1903. Ch. 24.
-
-37
+1903. Education (London) Act, 1903. Ch. 24. 37
 
 for the purposes of the principal Act be deemed to have been, wholly situated within the county of London an i within the nearest metropolitan borough.
 
@@ -3508,9 +3494,9 @@ Inspection of register, or applications, for each hour or part an hour - - .
 
 Warrant on complaint -Each witness examined in trials
 
-Conviction ....
+Conviction -
 
-Deciding objections -Lodging appeal and finding caution Deciding appeal - ....
+Deciding objections -Lodging appeal and finding caution Deciding appeal - -
 
 Extracts or certified copies of any proceedings, warrants conviction, per sheet, written or printed, of 150 words -
 
@@ -3756,7 +3742,7 @@ And whereas it is expedient under the circumstances aforesaid to remove all doub
 
 Ch. 26, 27.
 
-Muri'iages Legalization, 1903.
+Marriages Legalization, 1903.
 
 3 Edw. 7.
 
@@ -3870,17 +3856,15 @@ A. Advances by way of Loan - 3,000,000
 
 B. Other charges ... 2,000,000
 
----- 5, 090,000
+---- 5,090,000
 
-IV. New development in the Transvaal and
-
-Orange River Colony:
+IV. New development in the Transvaal and Orange River Colony:
 
 A. New Railways - 5,000,000
 
 B. Land Settlement - 3,000,000
 
-C. Other Public Works - - 2,000,000
+C. Other Public Works - 2,000,000
 
 ---- 10,000,000
 
@@ -4004,7 +3988,7 @@ Ch. 29,
 
 Military Works, 1903,
 
-3 Edw/7.
+3 Edw. 7.
 
 [Short title.]
 
@@ -4054,7 +4038,7 @@ tions:—
 
 Egypt — — 16-4, COO — 164,000
 
-N aval Bases and Coal- 1, 187,000 450,000 410,000 202,000 2, 249,000
+Naval Bases and Coal- 1, 187,000 450,000 410,000 202,000 2, 249,000
 
 ing Stations. South Africa 152,000 — — 2, 300,000 2, 452,000
 
@@ -4324,9 +4308,7 @@ Sea Fisheries Regulation Acts.
 
 - The Sea Fisheries Act, 1868, Part TII.
 
-- The Oyster and Mussel Fisheries Orders Confirma-
-
-tion Act, 1869 (No. 2).
+- The Oyster and Mussel Fisheries Orders Confirmation Act, 1869 (No. 2).
 
 - The Sea Fisheries Act, 1875.
 
@@ -4674,7 +4656,7 @@ Appropriation Act, 1903.
 
 3 Edw. 7.
 
-SOOKD. (B.) Part 5.
+SCHED. (B.) Part 5.
 
 Kaij,
 
@@ -4684,9 +4666,9 @@ Supply Grants. Appropriations in Aid.
 
 No. 8. For medical services, including the cost of medical establishments at home and abroad £ 259,000 £ 21, 942
 
-4. For martial law, including the cost of naval prisons at home and abroad 15, 500 198
+4. For martial law, including the cost of naval prisons at home and abroad - 15, 500 198
 
-5. For educational services ... 116, 100 36, 216
+5. For educational services - 116, 100 36, 216
 
 6. For scientific services - 69, 400 20, 184
 
@@ -4696,7 +4678,7 @@ No. 8. For medical services, including the cost of medical establishments at hom
 
 , Sect. 2. For the expense of the materiel for shipbuilding, repairs, maintenance, &o., including the cost of establishments of dockyards and naval yards at home and abroad - 4, 786, 700 317, 100
 
-, Sect. 3. For the expense of contraot work for shipbuilding, repairs, &c. ... 9, 571, 500 132,000
+, Sect. 3. For the expense of contraot work for shipbuilding, repairs, &c. - 9, 571, 500 132,000
 
 9. For naval armaments - 3, 206, 100 94, 864
 
@@ -4732,33 +4714,23 @@ No.
 
 His Majesty's Army at home and abroad (exclusive of India), and of the general staff, regiments and reserve (to a number not exceeding 235, 761), and departments -
 
-2. For the pay, &c. of medical establishments and
+2. For the pay, &c. of medical establishments and for medicines -
 
-for medicines -
+3. For the pay, bounty, &c. of the militia (to a number not exceeding 183, 881, including 50,000 militia reserve) -
 
-3. For the pay, bounty, &c. of the militia (to a
+4. For the pay and allowances of the Imperial yeomanry in Great Britain -
 
-number not exceeding 183, 881, including 50,000 militia reserve) ...
+5. For capitation grants and miscellaneous charges of volunteer corps, including pay, &c. of the permanent staff -
 
-4. For the pay and allowances of the Imperial
-
-yeomanry in Great Britain
-
-5. For capitation grants and miscellaneous charges
-
-of volunteer corps, including pay, &c. of the permanent staff -
-
-- 6. For the expense of transport and remounts
+6. For the expense of transport and remounts -
 
 7. For provisions, forage and other supplies, and for South African compensation claims
 
 8. For clothing establishments and services -
 
-9. For the supply and repair of warlike and other stores ....
+9. For the supply and repair of warlike and other stores -
 
-10. For the staff for engineer services and charges
-
-for Royal Engineer works, buildings and repairs at home and abroad (including purchases) -
+10. For the staff for engineer services and charges for Royal Engineer works, buildings and repairs at home and abroad (including purchases) -
 
 11. For establishments for military education
 
@@ -5128,29 +5100,19 @@ No.
 
 Wales and the Colonies -
 
-8. For the salaries and expenses of the office of
+8. For the salaries and expenses of the office of the Inspector of Reformatories, and the expenses of the maintenance of juvenile offenders in reformatory, industrial and day industrial schools and under the Youthful Offenders Act in Great Britain
 
-the Inspector of Reformatories, and the expenses of the maintenance of juvenile offenders in reformatory, industrial and day industrial schools and under the Youthful Offenders Act in Great Britain
+9. For the maintenance of criminal lunatics in Broadmoor Criminal Lunatic Asylum *
 
-9. For the maintenance of criminal lunatics in
-
-Broadmoor Criminal Lunatic Asylum *
-
-10. For salaries and expenses of the Lord Advo-
-
-oate’s department and other law charges, and the salaries and expenses of the Courts of Law and Justico in Scotland
+10. For salaries and expenses of the Lord Advocate’s department and other law charges, and the salaries and expenses of the Courts of Law and Justico in Scotland
 
 11. For salaries and expenses of the offices in His
 
 Majesty's General Register House, Edinburgh
 
-12. For the salaries and expenses of the Establish-
+12. For the salaries and expenses of the Establishment of the Crofters’ Commission -
 
-ment of the Crofters’ Commission -
-
-13. For the salaries and expenses of the Prison
-
-Commissioners for Scotland and of the prisons under their control, including the maintenance of criminal lunatics and inmates of the State inebriate reformatory, and the preparation of judicial statistics
+13. For the salaries and expenses of the Prison Commissioners for Scotland and of the prisons under their control, including the maintenance of criminal lunatics and inmates of the State inebriate reformatory, and the preparation of judicial statistics
 
 14. For the expenses of criminal prosecutions and
 
@@ -5158,19 +5120,15 @@ other law charges in Ireland -
 
 15. For such of the salaries^ and expenses of the
 
-Supreme Court of Judicature and of certain other legal departments in Ireland as are not charged on the Consc1. dated Fund -
+Supreme Court of Judicature and of certain other legal departments in Ireland as are not charged on the Consolidated Fund -
 
-16. For the salaries and expe es of the office of the
-
-Irish Land Commission ...
+16. For the salaries and expe es of the office of the Irish Land Commission -
 
 17. For the salaries, allowances and expenses
 
 of various county court officers and of magistrates in Ireland, and the expenses of revision -
 
-18. For salaries and expenses of the Commissioner
-
-of Police, the police courts and metropolitan police establishment of Dublin
+18. For salaries and expenses of the Commissioner of Police, the police courts and metropolitan police establishment of Dublin
 
 19. For the expenses of the Royal Irish Constabulary
 
@@ -5360,7 +5318,7 @@ Sums not exceeding
 
 No.
 
-1. For superannuation, compensation and compassionate allowances and gratuities under sundry Statutes, for compassionate allowances and gratuities awarded by the Treasury and for the salaries of medical referees (including a supplementary sum of 4,000l.) ......
+1. For superannuation, compensation and compassionate allowances and gratuities under sundry Statutes, for compassionate allowances and gratuities awarded by the Treasury and for the salaries of medical referees (including a supplementary sum of 4,000l.) -
 
 Supply Grants. Appropriations in Aid.
 
@@ -5758,7 +5716,7 @@ Any person who uses, or allows to be used, for the said purpose any such roof or
 
 burgh surveyor, have power to prohibit and stop the erection, use or employment, and to order the alteration or removal of any <*rane, scaffolding, staging or shoring in or connected with the construction and erection or the demolition, alteration, repair or securing of any new or existing building, or in or connected with- any . excavation for the purpose of any work authorised by the dean of guild court, where su:h crane, scaffolding, staging or shoring is, or is likely to be, in the judgiUent of the burgh surveyor, a source of danger. 1
 
-1 33. The burgh surveyor, or any inspectors appointed by him o'r by the town council or any men of skill appointed by the dean of guild court and exhibiting their authority, if'called upon to do so, may at any reasonable time enter upon and inspect all buildingi, premises or lands, upon which any operations are being executed under decree of the dean of guild court, and all public buildings, and any person who obstructs or interferes with the burgh surveyor or such inspec tors or men of skill, or who refuses to give all reason-ab’e facilities for the purpose of such inspection, shall be liable to a penalty not exceeding five pounds for each offence.
+1 33. The burgh surveyor, or any inspectors appointed by him o'r by the town council or any men of skill appointed by the dean of guild court and exhibiting their authority, if called upon to do so, may at any reasonable time enter upon and inspect all buildingi, premises or lands, upon which any operations are being executed under decree of the dean of guild court, and all public buildings, and any person who obstructs or interferes with the burgh surveyor or such inspec tors or men of skill, or who refuses to give all reason-ab’e facilities for the purpose of such inspection, shall be liable to a penalty not exceeding five pounds for each offence.
 
 34. The burgh surveyor may apply, or cause to be applied, any reasonable tests to determine the quality and strength of any material used or proposed to be used in the construction of any building, street, sewer or work, and the owner of such building, street, sewer or work shall, if required, provide facilities and assistance to enable him to test such quality and strength, and the determination of the burgh surveyor as to such quality and strength shall be subject to the review of the dean of guild court.
 
@@ -5834,11 +5792,7 @@ Penalties for laying out streets or erecting buildings without warrant.
 
 shall be liable to a penalty not exceeding fifty pounds.
 
-1903,
-
-Burgh Police (Scotland) Act, 1903. Ch. 33.
-
-137
+1903, Burgh Police (Scotland) Act, 1903. Ch. 33. 137
 
 (2) Every person who, in carrying out any of the operations aforesaid shall, otherwise than as above mentioned, contravene or fail to comply with any lawful order of the town council, the dean of guild court or the burgh surveyor, as the case may be, or shall contravene or fail to comply with any of the building rules under section one hundred and seventy-s wen of the principal Act, shall be liable to a penalty not exceeding twenty pounds.
 
@@ -5882,7 +5836,7 @@ Sinking fund-.
 
 Power to borrow temporarily.
 
-.., (8) Provide music by bands, concerts or otherwise:
+(3) Provide music by bands, concerts or otherwise:
 
 (4) . Set apart and layout any reasonable portion thereof foi* any game, and make such charges as they may tix for persons or clubs using such portion:and
 
@@ -5894,7 +5848,7 @@ Rating! and Borrowing Powers.
 
 f >45. in assessing* levying and collecting all rates and assessments, imposed by the town council under any Act, any fractional part of a pound exceeding ten shillings shall be reckoned as oner pound of rateable rent or value, and any fractional part less than ten shillings shall not be taken into account.
 
-46. Sections‘three hundred and forty-three to three hundred and forty-six inclusive, and three hundred and forty-eight to three hundred and fifty-seven inclusive, and section three hundred and seventy of the principal Act shall, notwithstanding any enactment to the contrary, be applicable to all assessments levied by the town council under statutory authority.
+46. Sections three hundred and forty-three to three hundred and forty-six inclusive, and three hundred and forty-eight to three hundred and fifty-seven inclusive, and section three hundred and seventy of the principal Act shall, notwithstanding any enactment to the contrary, be applicable to all assessments levied by the town council under statutory authority.
 
 47. The provisions of section three hundred and seventy-four of the principal Act, as to estimate, notice and disposal of any proposal to borrow, shall apply to all sums to be borrowed, whether temporarily or otherwise, by the town council of any burgh under any public general Act.
 
@@ -5930,7 +5884,7 @@ All vehicles to carry lights.
 
 Ch. 33.
 
-Burgh Police (Scotlan), 1903.
+Burgh Police (Scotland), 1903.
 
 3 Edw. 7.
 
@@ -5954,11 +5908,9 @@ Every existing power to make byelaws, requiring vehicles drawn by animal power t
 
 shall be liable to a penalty not exceeding forty shillings for each offence,
 
-1S03.
+1903.
 
-Burgh Police (Scotland) Act, 1903. Ch. 33.
-
-141
+Burgh Police (Scotland) Act, 1903. Ch. 33. 141
 
 53. It shall nob be lawful for any person in any common stair, passage or back court within the burgh, in which a notice signed by a duly qualified medical practitioner has been posted in a conspicuous position intimating the existence of serious illness, to make any unnecessary noise which might be hurtful to any person suffering from such serious illness in any dwelling-house entering therefrom.
 
@@ -6006,7 +5958,7 @@ Power to ap- 56. The town council of any burgh may appoint one or more point dep
 
 necessary for the principal officers, to act in the absence or illness of any such officers, and, in case of vacancies, may make interim appointments; and persons so appointed" shallj during such Absence or illness or during vacancies as aforesaid, have the same powers and duties as: such officers.
 
-Compensation 57. In all cases of disputed compensation under tins Act or for land to be any other public general Act whereby the town council of any sinale arbiter. kurgh is entitled to acquire land compulsorily under the Lands Clauses Acts, or whereby any compensation payable by a town council falls to be determined under the last-mentioned Acts, it shall, unless both parties concur in the appointment of a single arbiter in terms of such Acts, be in the power of either party to apply to the Secretary for Scotland to appoint a single arbiter to determine the compensation to be paid, and it shall not be competent thereafter to have the same determined by arbiters, oversman, sheriff or jury acting under the said last-mentioned Acts. The said arbiter upon appointment shall be deemed to be a sole arbiter within the meaning of the Lands Clauses Acts, and the provisions of the said Acts with regard to arbitration shall apply accordingly, and the arbiter shall, notwithstanding anything in the said Acts, determine the amount.of the expenses in the arbitration, and such determination shall be final. The remuneration of the said arbiter shall, failing agreement, be fixed by the Secretary for Scotland. The expression “land ” in this section includes water and any right or servitude to or over land or water. Provided that this section shall not apply in any case where the public general Act, authorising the acquisition of land or determining the compensation aforesaid, makes special provision for the appointment of a single arbiter.,
+Compensation 57. In all cases of disputed compensation under tins Act or for land to be any other public general Act whereby the town council of any sinale arbiter. kurgh is entitled to acquire land compulsorily under the Lands Clauses Acts, or whereby any compensation payable by a town council falls to be determined under the last-mentioned Acts, it shall, unless both parties concur in the appointment of a single arbiter in terms of such Acts, be in the power of either party to apply to the Secretary for Scotland to appoint a single arbiter to determine the compensation to be paid, and it shall not be competent thereafter to have the same determined by arbiters, oversman, sheriff or jury acting under the said last-mentioned Acts. The said arbiter upon appointment shall be deemed to be a sole arbiter within the meaning of the Lands Clauses Acts, and the provisions of the said Acts with regard to arbitration shall apply accordingly, and the arbiter shall, notwithstanding anything in the said Acts, determine the amount.of the expenses in the arbitration, and such determination shall be final. The remuneration of the said arbiter shall, failing agreement, be fixed by the Secretary for Scotland. The expression “land” in this section includes water and any right or servitude to or over land or water. Provided that this section shall not apply in any case where the public general Act, authorising the acquisition of land or determining the compensation aforesaid, makes special provision for the appointment of a single arbiter.
 
 Limitation of 58. Any factor, agent or commissioner, within the meaning
 
@@ -6820,7 +6772,7 @@ a reasonable sum in respect of the designing, measuring, contracting for and sup
 
 “ By virtue of the [cite the Act under which the money is borrowed], we, the provost magistrates and councillors of the burgh of [insert name], in consideration of the sum of [insert the sum in words], instantly advanced and paid to us for the purposes of the said Act, by C.D. of E., do hereby bind and oblige the said burgh, out of the first and readiest of the moneys to be raised under the annual assessments by the said Act authorised to be imposed and levied, and designated the
 
-assessment [or rate as the case may be], to pay at the term of [insert term of'payment] to the said G.1X, his executors or assignees the said sum of [state the sum], and also the interest thereof at the rate of [insert the rate of interest] per centum per annum from the date hereof, at the terms of Whitsunday and Martinmas In each year, till the said sum is paid; and for the further security of the said G.D., we do hereby assign to him, his executors or assignees such proportion of the said moneys, to be raised under the said annual assessment,
+assessment [or rate as the case may be], to pay at the term of [insert term of payment] to the said G.1X, his executors or assignees the said sum of [state the sum], and also the interest thereof at the rate of [insert the rate of interest] per centum per annum from the date hereof, at the terms of Whitsunday and Martinmas In each year, till the said sum is paid; and for the further security of the said G.D., we do hereby assign to him, his executors or assignees such proportion of the said moneys, to be raised under the said annual assessment,
 
 [or rate], as shall be equivalent to the said sum now paid to us, and the interest thereon as aforesaid from the date hereof to the term of payment; and we consent to the registration hereof for preservation and execution. —
 
@@ -6884,11 +6836,11 @@ Subsection (7) — insert after “ absence ” the words “the acting Chief Ma
 
 Sec. 4
 
-Subsection (8) — the words “under the provisions of “ this Act.”
+Subsection (8) — the words “under the provisions of this Act.”
 
 Sec. 4
 
-- Subsection (14) — the words “under the Municipal “ Elections Amendment “ (Scotland) Act, 1881.”
+Subsection (14) — the words “under the Municipal “ Elections Amendment “ (Scotland) Act, 1881.”
 
 Sec. 11
 
@@ -6992,7 +6944,7 @@ The words “ for the latter Sec. 164 “ purpose, ” and the word " such” wh
 
 The whole section.
 
-The words “such requisition not being complied " with.”
+The words “such requisition not being complied with.”
 
 Sec. 200
 
@@ -7880,8 +7832,6 @@ the Land Commission may, at the request of the parties interested, putes between
 
 23. — (1) The jurisdiction, powers and duties of the Land Certain powers Commission, under the foregoing provisions of this Act, shall be and duties of exercised and performed exclusively by three members of the to £“mls’ Commission (in this Act referred to as “the Estates Commis- exercised by sioners ’’) to be nominated or appointed as herein-after mentioned. Es, a!; e8 Com* Any question of law may, if the Estates Commissioners think fit, missloner8, and shall, on the application of any person interested, be referred
 
-Dig y
-
 198
 
 Ch. 37.
@@ -7916,7 +7866,7 @@ for the decision of a Judicial Commissioner, unless the Estates Commissioners ce
 
 Irish Land, 1 )03.
 
-Cit. 37.
+Ch. 37.
 
 199
 
@@ -7968,11 +7918,9 @@ O
 
 1903.
 
-Irish Land, 1903. Ch. 37.
+Irish Land, 1903. Ch. 37. 201
 
-201
-
-(10) The Land Commission shall have and may, without application being made to them, exercise, for the purpose of‘facilitating the completion of sales under this Act, including the distribution of purchase money, all the powers in that behalf conferred on them by the Land Purchase Acts in the case of sales from landlords to tenants.
+(10) The Land Commission shall have and may, without application being made to them, exercise, for the purpose of facilitating the completion of sales under this Act, including the distribution of purchase money, all the powers in that behalf conferred on them by the Land Purchase Acts in the case of sales from landlords to tenants.
 
 (11) For the purposes of this section, the Land Commission shall, in addition to any other powers which they possess, have all the powers vested in the High Court by virtue of sections seventy-
 
@@ -9924,7 +9872,7 @@ the warehouse is not within those premises, the Commissioners may attach to thei
 
 Part II.
 
-' Stamps.
+Stamps.
 
 5. The statement of the amount of any increase of registered Payment of capital of any company registered under the Companies Acts, camtdTof10 1862 to 1900, which is required by section one hundred and twelve companies, of the Stamp Act, 1891, to be delivered to the Registrar of Joint 54 & 55 Vict. Stock Companies, shall be delivered duly stamped with the duty c' 39, charged thereon within fifteen days after the passing of the resolution by which the registered capital is increased, and, in default of that delivery, the duty, with interest thereon at the rate
 
@@ -10006,13 +9954,7 @@ Provision as to fixed duty on small estates. 57 & 58 Vict 58 Vict. c. 30.
 
 44 & 45 Vict. c. 12.
 
-254
-
-Ch. 46.
-
-Revenue Act, 1903.
-
-3 Edw. 7.
+254 Ch. 46. Revenue Act, 1903. 3 Edw. 7.
 
 15. In section one of the National Debt (Supplemental) Act, 1888 (which relates to the basis for the calculation of the price of Government annuities), two and a half per cent. Consolidated stock within the meaning of the National Debt (Conversion) Act, 1888, shall, as from the first day of September nineteen hundred and three, be substituted for Bank annuities bearing interest at the rate of two and a half per cent, per annum. "
 
