@@ -276,7 +276,7 @@ PUBLIC GENERAL STATUTES.
 
 ---
 
-[5 Gf.O.]
+[5 GEO.]
 
 CHAPTER 1.
 
@@ -14214,16 +14214,12 @@ Act, 1915.
 
 Short title and construction.
 
-Amendment of •> Geo. 5. c. 23. s. 1.
-
-S!iort title.
-
 operation of any other provisions of that section or any other provisions of that Act.”
 
 5. Section six of the Customs (War Powers) Act, 1915, shall apply to all goods which at the commencement of this Act are under detention as being of suspected enemy origin, notwithstanding that they were originally detained or imported into the United Kingdom before the commencement of the first-mentioned Act.
 
 6. This Act may be cited as the Customs (War Powers) Act, 1916, and shall be construed as one with the Customs (War Powers) Act, 1915; and the Customs (War Powers) (No. 2) Act, 1915, and those Acts and this Act may be cited together as the Customs (War Powers) Acts, 1915 and 1916.
-
+---
 CHAPTER 103.
 
 An Act to amend the Army (Suspension of Sentences) Act, 1915.
@@ -14232,17 +14228,17 @@ An Act to amend the Army (Suspension of Sentences) Act, 1915.
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
+[Amendment of 5 Geo. 5. c. 23. s. 1.]
+
 1. — (1) The Army Council, and any general officer whom the Army Council may appoint for the purpose, shall be a superior military authority within the meaning of the Army (Suspension of Sentences) Act, 1915.
 
-(2) Subsection (5) of section one of that Act shall have effect, and shall be deemed always to have had effect, as if for the words “intervals of not less than three months” there were substituted the words “intervals of not more than three months, ” and subsection (8) as if for the words “superior authority” there were substituted the words “superior military authority.”
+(2) Subsection (5) of section one of that Act shall have effect, and shall be deemed always to have had effect, as if for the words “intervals of not less than three months” there were substituted the words “intervals of not more than three months,” and subsection (8) as if for the words “superior authority” there were substituted the words “superior military authority.”
+
+[Short title.]
 
 2. This Act may be cited as the Army (Suspension of Sentences) Amendment Act, 1916, and the Army (Suspension of Sentences) Act, 1915, and this Act may be cited together as the Army (Suspension of Sentences) Acts, 1915 and 1916.
 
-1916.
-
-Military Service, 1916. Ch. 104.
-
-367:
+1916. Military Service, 1916. Ch. 104. 367.
 
 CHAPTER 104.
 
@@ -14252,15 +14248,13 @@ An Act to make provision with, respect to Military Service in connexion with the
 
 BE it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
+[Obligation of unmarried men to serve.]
+
 1. — (1) Every male British subject who —
 
-(a) on the fifteenth day of August nineteen hundred and
+(a) on the fifteenth day of August nineteen hundred and fifteen, was ordinarily resident in Great Britain, and had attained the age of eighteen years and had not attained the age of forty-one years; and
 
-fifteen, was ordinarily resident in Great Britain, and had attained the age of eighteen years and had not attained the age of forty-one years; and
-
-(b) on the second day of November nineteen hundred and
-
-fifteen was unmarried or was a widower without any child dependent on him;
+(b) on the second day of November nineteen hundred and fifteen was unmarried or was a widower without any child dependent on him;
 
 shall, unless he either is within the exceptions set out in the First Schedule to this Act, or has attained the age of forty-one years before the appointed date, be deemed as from the appointed date to have been duly enlisted in His Majesty's regular forces for general service with the colours or in the reserve for the period of the war, and to have been forthwith transferred to the reserve.
 
@@ -14268,15 +14262,9 @@ shall, unless he either is within the exceptions set out in the First Schedule t
 
 Provided that —
 
-(o) where the question, whether a man is a man who, under this section is deemed to have been enlisted and transferred to the reserve or not, is raised on proceedings in respect of an offence alleged to have been committed by the man as a member of the reserve whilst he was a member of the reserve in pursuance of the transfer under this Act, or in respect of any alleged failure to comply with any order calling him up from the reserve for permanent service, that question shall be decided only on proceedings before a civil court; and
-
-Bb
-
-Obligation of unmarried men to serve.
-
-368
-
-Ch. 104.
+(a) where the question, whether a man is a man who, under this section is deemed to have been enlisted and transferred to the reserve or not, is raised on proceedings in respect of an offence alleged to have been committed by the man as a member of the reserve whilst he was a member of the reserve in pursuance of the transfer under this Act, or in respect of any alleged failure to comply with any order calling him up from the reserve for permanent service, that question shall be decided only on proceedings before a civil court; and
+---
+368 Ch. 104.
 
 5 & 6 Geo. 5.
 
@@ -14370,11 +14358,7 @@ short title and 4. This Act may be cited as the Military Service Act, 1916, ment
 
 The appointed date for the purposes of this Act shall be the twenty-first day after the day on which this Act comes into operation.
 
-1916.
-
-Military Service Act, 1916. Ch. 104.
-
-371
+1916. Military Service Act, 1916. Ch. 104. 371
 
 SCHEDULES.
 
@@ -14406,11 +14390,7 @@ Constitution of Tribunals.
 
 Section 2 (7).
 
-372
-
-Ch. 104, 105. Military Service, 1916.
-
-5 & 6 Geo. 5.
+372 Ch. 104, 105. Military Service, 1916. 5 & 6 Geo. 5.
 
 3. Tribunals may act through committees appointed by them, consisting of members of the tribunal.
 
@@ -14448,7 +14428,7 @@ nationality or associations.
 
 373
 
-Trading urith the Enemy Amendment Ch, 105.
+Trading with the Enemy Amendment Ch, 105.
 
 Act, 1916.
 
@@ -14512,7 +14492,7 @@ up of the company by the court, and the making of an order under this section sh
 
 2. Where it appears to the Board of Trade that a contract Provision as entered into before or during the war with an enemy or enemy to
 
-, ., against public
+against public
 
 subject or with a person, firm, or company in respect of whose interest, business an order shall have been made under section one of this Act is injurious to the public interest, the Board of Trade may by order cancel or determine such contract either unconditionally or upon such conditions as the Board may think fit, and thereupon such contract shall be deemed to be cancelled or determined accordingly.
 
@@ -15352,7 +15332,7 @@ c. 69 Companies .... Restr. as to registration of charges. 11, s. 2 (2).
 
 Effect of Legislation.
 
-[5 & 6 OrEO. 5.
+[5 & 6 GEO. 5.
 
 [Short Title.]
 
