@@ -1638,7 +1638,7 @@ Session and Chapter. Title.
 
 13 Geo. 3. c. 32. An Act the title of which begins with the words MAn Act for repealing so much of an Act* and ends with the words “Parsnips, Pease, and Carrots.* The Stealing of Vegetables Act, 1772.
 
-13 Geo. 3. c. 52. An Act for appointing Wardens and Assaymasiers for assaying Wrought Plate in the Towns of Sheffield and Birmingham. The Plate Assay (Sheffield and Birmingham) Act, 1772.
+13 Geo. 3. c. 52. An Act for appointing Wardens and Assaymasters for assaying Wrought Plate in the Towns of Sheffield and Birmingham. The Plate Assay (Sheffield and Birmingham) Act, 1772.
 
 13 Geo. 3. c. 54. An Act for the more effectual preservation of the game in that part of Great Britain called Scotland, and for repealing and amending several of the laws now in being relative thereto. The Game (Scotland) Act, 1772.
 
@@ -3232,7 +3232,7 @@ Short Titles Act, 1896. 59 & 60 Vict.
 
 Session and Chapter. Title.
 
-4 Geo. 4. c. 55. An Act to consolidate and amend the several Acts now in force so far as the same relate to the Election and Return of Members to serve in Parliament forCounties of Cities and Counties of Towns in Ireland. The Parliamentary Elections (Ireland) Act, 1823.
+4 Geo. 4. c. 55. An Act to consolidate and amend the several Acts now in force so far as the same relate to the Election and Return of Members to serve in Parliament for Counties of Cities and Counties of Towns in Ireland. The Parliamentary Elections (Ireland) Act, 1823.
 
 4 Geo. 4. c. 60. An Act for granting to His Majesty a Sum of Money to be raised by Lotteries. The Lotteries Act, 1823.
 
@@ -4020,9 +4020,9 @@ Short Titles, 1896. Ch. 14. 91
 
 2 & 3 Will. 4. c. 5.
 
-2 A 3 Will. 4. c. 42.
+2 & 3 Will. 4. c. 42.
 
-2 A 3 Will. 4. c. 45.
+2 & 3 Will. 4. c. 45.
 
 2 & 3 Will. 4. c. 16.
 
@@ -4090,9 +4090,9 @@ Session and Chapter. Title. Short Tide.
 
 2 & 3 Will. 4. c. 60. - An Act for holding the Assizes for the King's County in Ireland, Twice in every Year, at Tulla-mooro, instead of Philipstown. The King's County Assizes Act, 1832.
 
-2 A 3 Will. 4. c. 61. - An Act to render more effectual an Act passed in the fifty-ninth year of His late Majesty King George the Third, intituled “ An Act to “ amend and render more effectual an Act passed in the last “ session of Parliament, forbuild- ing and promoting the building “ of additional Churches in populous Parishes.” The Church Building Act, 1832.
+2 & 3 Will. 4. c. 61. - An Act to render more effectual an Act passed in the fifty-ninth year of His late Majesty King George the Third, intituled “ An Act to “ amend and render more effectual an Act passed in the last “ session of Parliament, forbuild- ing and promoting the building “ of additional Churches in populous Parishes.” The Church Building Act, 1832.
 
-2 A 3 Will. 4. c. 64. - An Act to settle and describe . the Limits of Cities and Boroughs, in England and Wales, in so far as respects the Election of Members to serre in Parliament. The Parliamentary Boundaries Act, 1832.)by
+2 & 3 Will. 4. c. 64. - An Act to settle and describe . the Limits of Cities and Boroughs, in England and Wales, in so far as respects the Election of Members to serre in Parliament. The Parliamentary Boundaries Act, 1832.)by
 
 18y6.
 
@@ -4120,17 +4120,13 @@ Session and Chapter. Title.
 
 2 & 3 Will. 4. c. 87. - An Act to regulate the Office for registering Deeds, Conveyances, and WiUs in Ireland. The Registry of Deeds (Ireland) Act, 1832.
 
-2 & 3 Will. 4. c. 88. - An Act to amend the Representa- The Representation of
+2 & 3 Will. 4. c. 88. - An Act to amend the Representation of the People of Ireland. - The Representation of the People (Ireland) Act, 1832.
 
-tion of the People of Ireland. the People (Ireland) Act, 1832.
+2 & 3 Will. 4. c. 89. - An Act to settle and describe the The Parliamentary Boundaries (Ireland) Act, 1832.
 
-2 h 3 Will. 4. c. 89. - An Act to settle and describe the The Parliamentary Boundaries (Ireland) Act, 1832.
+Limits of Cities, Towns, and Boroughs in Ireland, in so far as respects the Election of Members to serve in Parliament.
 
-Limits of Cities, Towns, and Boroughs in Ireland, in so far as respects the Election of Members
-
-to serve in Parliament.
-
-2 & 3 Will. 4 c. 92. - An Act for transferring the Powers of the High Court of Delegates, both in Ecclesiastical and Maritime Causes, to His Majesty in Council. H The Privy Council Appeals Act, 1832. (j.OO^lC
+2 & 3 Will. 4 c. 92. - An Act for transferring the Powers of the High Court of Delegates, both in Ecclesiastical and Maritime Causes, to His Majesty in Council. H The Privy Council Appeals Act, 1832. (
 
 94 Ch. 14.
 
@@ -4140,15 +4136,15 @@ Session and Chapter.
 
 Title.
 
-2 A 3 Will. 4. c. 93.
+2 & 3 Will. 4. c. 93.
 
 An Act for enforcing the Process upfoii Contempts in the Courts Ecclesiastical of England and Ireland.
 
-2 A 3 Will. 4. c. 100.
+2 & 3 Will. 4. c. 100.
 
-2 h 3 Will. 4. c. 105.
+2 & 3 Will. 4. c. 105.
 
-2 A 3 Will. 4.C. 108.
+2 & 3 Will. 4.C. 108.
 
 An Act for shortening the Time required in claims of Modus decimandi, or Exemption from or Discharge of Tithes.
 
@@ -4156,9 +4152,9 @@ An Act the Title of which begins with the words “An Act for the better/' and e
 
 An Act for amending the Laws in Ireland relative to the Appointment of Special Constables, and for the better Preservation of the Peace.
 
-2 A 3 Will. 4. c. 111.
+2 & 3 Will. 4. c. 111.
 
-An Act to make Provision for the Lord High Chancellor on his Retirement from Oflice.
+An Act to make Provision for the Lord High Chancellor on his Retirement from Office.
 
 2 A3 Will. 4. c. 112.-
 
@@ -4168,7 +4164,7 @@ An Act to authorise the Hereditary Lands Revenues of the Crown in Scotland being
 
 An Act to continue, until the Fifth Day of April One thousand eight hundred and thirty-four, Compositions for tho Assessed Taxes, and to grant Relief in certain Cases.
 
-2 A 3 Will. 4. c. 115.- An Act for the better securing the
+2 & 3 Will. 4. c. 115.- An Act for the better securing the
 
 Charitable Donations and Bequests of Her Majesty's subjects in Great Britain professing the Roman Catholic Religion.
 
@@ -5906,7 +5902,7 @@ Cfl. 14.
 
 Bcaaion mi Chapter. urn. BhMt'ttfe- .
 
-9 & 10 Vict. c. 08. An Act> far fetter* untillag the Buriftl4fe*ife»4*.to performed in . Ono Chapel. mkre contiguous Btmel Grounds:nfeU have been . providedrfor tmonmons Buddies or Places. The Church Httflting (Burial Service in Chapels) Act, 1846.
+9 & 10 Vict. c. 08. An Act> far fetter* untillag the Buriftl4fe*ife»4*.to performed in . Ono Chapel. mkre contiguous Btmel Grounds:nfeU have been . provided for tmonmons Buddies or Places. The Church Httflting (Burial Service in Chapels) Act, 1846.
 
 9 & 10 Vict. c. 70. An Act to amend the Act to facilitate the Inclosure and Improve- ' ment of Oommons. The Inclosure Act, 1846.
 
@@ -6854,7 +6850,7 @@ Session and Chapter. j Title. 1
 
 16 & 17 Vict. c. 134. - An Act to amend the Laws concerning the Banal of the Dead in England beyond the Limits of the Metropolis) and to amend the Act concerning the Burial of the Dead in the Metropolis. The Burial Act, 1853.
 
-16 & 17 Vict. c. 136. - An Act for enabling Grand Juries in Ireland to borrow Money from private Sources on the Security of Presentment, and for transferring to Counties certain Works constructed wholly or in pari with Public Money. Tho Grand Jury (Ireland) Act, 1853.
+16 & 17 Vict. c. 136. - An Act for enabling Grand Juries in Ireland to borrow Money from private Sources on the Security of Presentment, and for transferring to Counties certain Works constructed wholly or in pari with Public Money. The Grand Jury (Ireland) Act, 1853.
 
 17 & 18 Vict. c. 8. - An Act further to amend an Act relating to the Valuation of rateable Property in Ireland. The Valuation (Ireland) Act, 1854.
 
@@ -7192,7 +7188,7 @@ An Act for amending the Procedure before Magistrates and Justices of Peace in Sc
 
 The Justices (Scotland) Act, 1856.
 
-An Act the title of which begins:with the words “An Act to
+An Act the title of which begins with the words “An Act to
 
 enable, ” and ends with the words “to such Persons.”
 
@@ -7456,7 +7452,7 @@ Session and Chapter. i Title.
 
 21 & 22 Vict. c. 56. - An Act to amend the Law relating to the Confirmation of Executors in .Scotland, and to extend over all Parts of the United Kingdom the Effect of such Confirmation, and of Grants of Probate and Administration. The Confirmation of Executors (Scotland) Act, 1858.
 
-21 & 22 Vict. c. 64. - An Act to make further Provision for the Practice of Vaccination in Ireland. The Vaccination (Ireland) Act, 1858. :ized by oOO^lC
+21 & 22 Vict. c. 64. - An Act to make further Provision for the Practice of Vaccination in Ireland. The Vaccination (Ireland) Act, 1858. :ized by
 
 1896. Short Titles Act, 1896. Ch. 14. 173
 
@@ -9526,7 +9522,7 @@ The Charitable Trusts Acts, 1853 to 1894.
 
 1 A 2 Will. 4. c. 39.
 
-2 A 3 Will. 4. c. 61.
+2 & 3 Will. 4. c. 61.
 
 1 & 2 Vict. c. 107.
 
@@ -9922,9 +9918,9 @@ The Court of Session Acts, 1808 to 1895.
 
 10 Geo. 4. c. 50.
 
-2 A 3 Will. 4. c. 1.
+2 & 3 Will. 4. c. 1.
 
-2 A 3 Will. 4. ©. 112.
+2 & 3 Will. 4. ©. 112.
 
 3 A 4 Will. 4. c. 69.
 
@@ -10236,7 +10232,7 @@ Collective Title.
 
 10 Geo. 4. c. 53.
 
-2 A 3 Will. 4. c. 92.
+2 & 3 Will. 4. c. 92.
 
 2 & 3 Will. 4. c. 93.
 
@@ -10360,7 +10356,7 @@ s. 70.
 
 45 & 46 Vict. c. 53.
 
-The Sales to Crown Act, 1746 The Entail Improvement Act, 1770 The Entail Provisions Act, 1824 - The Entail Powers Act, 1836 The Entail Sites Act, 1810 - The Entail Amendment Act, 1348-The Entail Amendment Act, 1853 - The Entail Cottages Act, 1860 The Entail Amendment Act, 1868 - The Entail Amendment Act, 1875 -Tho Entail Amendment Act, 1878 - The Hoads and Bridges (Scotland) Act, 1878.
+The Sales to Crown Act, 1746 The Entail Improvement Act, 1770 The Entail Provisions Act, 1824 - The Entail Powers Act, 1836 The Entail Sites Act, 1810 - The Entail Amendment Act, 1348-The Entail Amendment Act, 1853 - The Entail Cottages Act, 1860 The Entail Amendment Act, 1868 - The Entail Amendment Act, 1875 -The Entail Amendment Act, 1878 - The Hoads and Bridges (Scotland) Act, 1878.
 
 The Bonds Amendment Act, 1880 - The Entail (Scotland) Act, 1882 -
 
@@ -10410,7 +10406,7 @@ The Previous Conviction Act, 1836 The Evidence (Scotland) Act, 1840 The (Colonie
 
 The Evidence Act, 1843 -
 
-Tho Evidence Act, 1845 -
+The Evidence Act, 1845 -
 
 The Evidence Act, 1851 - - I
 
@@ -10430,7 +10426,7 @@ The Docu mentary Evidence Act, 1868. !
 
 The Evidence Further Amendment 1 I
 
-Tho Evidence 1806 to 1895.
+The Evidence 1806 to 1895.
 
 Acts,
 
@@ -10746,7 +10742,7 @@ The Highway Act, 1835 The Highway Act, 1862 The Highway Act, 1863 The Highway Ac
 
 The Highway Rate Assessment and Expenditure Act, 1882.
 
-ThO Highway Act Amendment Act, 1885.
+The Highway Act Amendment Act, 1885.
 
 The Highway Acts, 1835 to 1885.
 
@@ -13150,7 +13146,7 @@ Glasgow Parliamentary Divisions Act, 1896. Ch. 17.
 
 along the centres of Carntyne Road and Duke Street to High Street; thence southwards along the centre of High Street to the Cross of Glasgow, the point first described.
 
-No. 3. — Thr St. Rollox Division.
+No. 3. — The St. Rollox Division.
 
 The area within a line beginning at a point in the centre of Buchanan Street, opposite the centre of Cathedral Street, and thence proceeding eastwards along the centre of Cathedral Street to John Street; thence southwards along the centre of John Street to Rottenrow; thence eastwards along the centre of Rottenrow to the centre of the line of High Street and Castle Street; thence southwards along the centre of High Street to Duke Street, thence eastwards along the centre of Duke Street to Carntyne Road, and continuing eastwards along the centre of Carntyne Road till it is intersected by the parliamentary boundary of the city; thence north-westwards, northwards, westward *, and north-westwards along said parliamentary boundary till it joins the boundary of the Ancient Royalty, near Garngad Road; thence northwards and westwards along that boundary till it intersects Saracen Street; thence southwards along the centres of Saracen Street and Craighall Road to the canal at a point in the centre of same opposite the northern end of Ann Street; thence eastwards along the centre of the canal to a point opposite the stair leading from canal bank to Port Dundas Road; then southwards along the centre of said stair and along the centres of Port Dundas Road and Buchanan Street to the point first described.
 
@@ -13976,8 +13972,6 @@ Privileges of Registered Societies.
 
 (a)is absent from the British Islands; or (6) becomes bankrupt, or files any petition or executes any deed foe' liquidation o£ his affair? by assignment or arrangement, or for composition with his creditors; or
 
-LiOO^lC
-
 s
 
 1896. '
@@ -14582,7 +14576,7 @@ Instrument of dissolution: — dissolution.
 
 (3.) A statutory declaration shall be made by one of the trustees, or by three members and the secretary of the society or branch, that the provisions of this Act have been complied
 
-vJiOO^lC
+v
 
 296
 
@@ -16274,7 +16268,7 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 Ch. 34.
 
-Railways (Ireland) Act, 1896. 59 & GO Vict.
+Railways (Ireland) Act, 1896. 59 & 60 Vict.
 
 Advance by Treasury.
 
@@ -16302,11 +16296,7 @@ Provided that —
 
 54 & 55 Vict. c. 48.
 
-1896.
-
-Railways (Ireland), 1896. Ch. 34.
-
-337
+1896. Railways (Ireland), 1896. Ch. 34. 337
 
 (6.) For the purposes of this section the Board of Works shall have all the powers conferred by the Lands Clauses Acts on the promoters of an undertaking.
 
@@ -17445,7 +17435,6 @@ BE it enacted by the Queen's roost Excellent Majesty, by and with the advice and
 (b)for transferring to a county court any proceedings pending in the said court at the commencement of this Act;
 
 (c) for determining the place of sitting for the exercise of any jurisdiction transferred by this Act;
-
 
 364
 
@@ -19431,7 +19420,6 @@ r VJ'* '
 
 D d
 
-
 398
 
 Ch. 47.
@@ -19538,7 +19526,7 @@ Land Law (Ireland Act, 1896. Ch. 47.
 
 (/.) Where a holding is sold under this section the powers conferred by the Land Purchase Acts and this Act for the apportionment of charges shall extend to an apportionment of charges between the purchase money and the rentcharge, and the provisions of section fifteen of the Land Law (Ireland) so A 51 Vict. Act, 1887, with respect to the acceptance by an incumbrancer c 33-of the purchase money in part discharge of his incumbrance shall apply as if the rentcharge were other lands within the meaning of those provisions.
 
-37. — (I.) Where the Land Commission, in pursuance of section Terms offifteen of the Land Law (Ireland) Act, 1887, order the redemption
+37. — (I.) Where the Land Commission, in pursuance of section Terms of fifteen of the Land Law (Ireland) Act, 1887, order the redemption
 
 of tithe rentcharge at a price not less than twenty times the net charge in case amount of such tithe rentcharge, after making such deduction in of sale, respect of rates as is provided by section seven of the Irish Church 50 & 51 Vict. Act, 1869, Amendment Act, 1872, the consent of the Treasury shall g'53£'86 vict not be required to such redemption. c. 70.
 
@@ -19816,7 +19804,6 @@ Land Law (Ireland) 1896. Ch. 47.
 
 409
 
-
 SCHEDULES.
 
 FIRST SCHEDULE.
@@ -19854,7 +19841,6 @@ Grass Lands A 1st class -B 2nd class ... C 3rd class ..... D 4th class -E 5th cl
 Ch. 47.
 
 Land Law (Ireland) Act, 1896. 59 & 60 Vict,
-
 
 2. For what description of stock is the grass land best suited ?
 
@@ -19992,7 +19978,7 @@ BE it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (5.) The Board of Trade may, with the consent of the Treasury as to number and remuneration, appoint and employ such number of officers and persons as they think necessary for the purpose of the execution of the duties of the Light Railway Commissioners under this Act, and may remove any officer or person so appointed or employed.
 
-(6.) The said salary and remuneration, and all expenses of the Light Railway Commissioneis incurred with the sanction of the Treasury in the execution of this Act shall, except so far as provision is made for their payment by or under this Act, be paid out of moneys provided by Parliament.
+(6.) The said salary and remuneration, and all expenses of the Light Railway Commissioners incurred with the sanction of the Treasury in the execution of this Act shall, except so far as provision is made for their payment by or under this Act, be paid out of moneys provided by Parliament.
 
 (7.) The Commissioners may act by any two of their number.
 
@@ -20980,7 +20966,7 @@ and may prescribe the mode of their joint action; or by forming & joint board co
 
 12. A port sanitary authority may, with the sanction of the Local Government Board, delegate to any sanitary authority within or bordering on their district the exercise of any powers conferred on such port sanitary authority by the order of the Local Government Board, but, except in so far as such delegation may extend, no other authority shall exercise any powers conferred on a port sanitary authority by the order of the Local Government Board within the district of such port sanitary authority. 13
 
-13. — (1.) Any expenses incurred by a port sanitary authority constituted temporarily in carrying into effect any purposes of this Act shall be defrayed out of a common fund to be contributed by the Banitary authorities whose districts abut on or form part of the
+13. — (1.) Any expenses incurred by a port sanitary authority constituted temporarily in carrying into effect any purposes of this Act shall be defrayed out of a common fund to be contributed by the Sanitary authorities whose districts abut on or form part of the
 
 Ch. 54.
 
@@ -21296,7 +21282,7 @@ anything in the Quarter Sessions Act, 1842, hvve jurisdiction to bur8'1*rie8 try
 
 (2.) A justice of the peace when committing for trial a person charged with burglary shall, nevertheless, commit him for trial before a court of assize unless, owing to the absence of any circumstances which make the case a grave or difficult one, he thinks it expedient, in the interests of justice, to commit him for trial before a court of quarter sessions; and the Assizes Relief 52 & 53 Vict Act, 1889, shall apply. c-12-
 
-2. — (1.) Th3 Act of the session of the fifth and sixth years of short title, the reign of Her present Majesty, chapter thirty-eight, intituled
+2. — (1.) The Act of the session of the fifth and sixth years of short title, the reign of Her present Majesty, chapter thirty-eight, intituled
 
 “ An Act to define the jurisdiction of justices in general and quarter sessions of the peace, ” is in this Act referred to, and may be cited, as the Quarter Sessions Act, 1842. 5 & 6 Vict.
 
@@ -21360,7 +21346,6 @@ i
 
 t
 
-
 i
 
 3<
@@ -21396,7 +21381,9 @@ shall be open at all reasonable times to examination and transcription by the Bo
 (7.) No liability shall attach to the Treasury under this Agreement other than the liability to pay in accordance with clause 6 of this Agreement the said sum of thirty thousand pounds, and from time to time during the continuance of this Agreement such sums as may be required to give effect to clause 5 of this Agreement out of moneys provided by Parliament, or if such moneys are not sufficient, out of moneys charged on and paid out of the Consolidated Fund or the growing produce thereof; provided that such last-mentioned moneys shall not be payable as part of the annual charge for the National Debt.
 
 (8.) If at any time during the continuance of this Agreement the portion of the undertaking of the Company authorised by the said Act is, with the sanction of Parliament, acquired by and transferred to or amalgamated with the undertaking of any other company or companies, then, on the completion of such acquisition, transfer, or amalgamation such other company or companies shall be and be deemed to be substituted for the Company in these presents.
+
 ---
+
 (9.) This Agreement is in substitution of the Agreement between the Company and two of the Lords Commissioners of Her Majesty's Treasury, dated the seventh day of May one thousand eight hundred and nine-five.
 
 In witness whereof the parties hereto of the first part have to one part of these presents set their hands and seals and the Company have to another part of these presents caused their Common Seal to be affixed the day and year first above written.
@@ -22012,7 +21999,9 @@ An Act to naturalise Isaac Aaron Abensur and to grant and confer upon him all th
 TABLE IV.
 
 Showing the Effect of the Year's Legislation.
+
 ---
+
 ACTS OF FORMER SESSIONS (IN CHRONOLOGICAL ORDER) REPEALED OR AMENDED BY ACTS OF 59 & 60 VICT.
 
 Statute and Chapter.
