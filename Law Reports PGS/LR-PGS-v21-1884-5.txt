@@ -324,7 +324,7 @@ Preliminary.
 
 Extension of the Household and Lodger Franchise.
 
-2. '[A uniform household franchise and a uniform lodger franchise at elections shall be established in all counties and boroughs throughout the United Kingdomjand every man possessed of a household qualification or a lodger qualification shall, if the qualifying premises be situate in a county in England or Scotland, be entitled to be registered as a voter, and when registered to vote at an election for such county, and if the qualifying premises be situate in a county or borough in Ireland, be entitled to be registered as a voter, and when registered to vote at an election for such county or borough.
+2. '[A uniform household franchise and a uniform lodger franchise at elections shall be established in all counties and boroughs throughout the United Kingdom and every man possessed of a household qualification or a lodger qualification shall, if the qualifying premises be situate in a county in England or Scotland, be entitled to be registered as a voter, and when registered to vote at an election for such county, and if the qualifying premises be situate in a county or borough in Ireland, be entitled to be registered as a voter, and when registered to vote at an election for such county or borough.
 
 3. Where a man himself inhabits any dwelling-house by virtue of any office, service, or employment, and the dwelling-house is not inhabited by any person under whom such man serves in such* office, service, or employment, he shall be deemed for the purposes of this Act and of the Representation of the People Acts to be an inhabitant occupier of such dwelling-house as a tenant. 1
 
@@ -1198,7 +1198,6 @@ An Act to assimilate the Law affecting the Registration of Occupation Voters in 
 
 WHEREAS it is expedient that the assimilation of the county and borough occupation franchises should be followed by an assimilation of the registration law applicable to those franchises in counties and boroughs:
 
-
 1885. Registration , 1885. Ch. 15.
 
 Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
@@ -1439,7 +1438,7 @@ Ch. 15. Registration' Act, 1885. 48 VICT.
 
 area in dividing a parliamentary county into polling districts, or by the clerk of the peace of any county quarter sessional area under the Parliamentary Registration Acts, or this Act, and such expenses were incurred partly in respect of a locality which does, and partly in respect of a locality (whether a division, liberty, county of a town, or other locality) which does not, contribute to the county rate levied by the court of county quarter sessions of such county quarter sessional area, that court shall apportion, the expenses between the localities in the ratio, so nearly as may be, which the number of registered voters in each locality for the time being bear to each other, and the amount apportioned to any such non-contributing locality shall be defrayed out of the county rate or rate in the nature of a county rate levied in such locality; and an order of the said court of county quarter sessions, made on the treasurer or other officer receiving such rate, shall be obeyed by and may be enforced against such treasurer, as if he were the treasurer of the court of county quarter sessions making the order.
 
-(2.) Where a. parliamentary borough is situate within the jurisdiction of more than one court of county quarter sessions, and by reason of there being no town council in such borough, the expenses of the town clerk under the Parliamentary Registration Aets and this Act are required to be allowed by the quarter sessions for the county in which such parliamentary borough is situate, such expenses-shall be allowed by the court of oounty quarter sessions within the jurisdiction of which the larger portion of such parliamentary borough in area is situate.
+(2.) Where a. parliamentary borough is situate within the jurisdiction of more than one court of county quarter sessions, and by reason of there being no town council in such borough, the expenses of the town clerk under the Parliamentary Registration Acts and this Act are required to be allowed by the quarter sessions for the county in which such parliamentary borough is situate, such expenses-shall be allowed by the court of oounty quarter sessions within the jurisdiction of which the larger portion of such parliamentary borough in area is situate.
 
 (3.), The receipts of any clerk of the peace under the Parliamentary Registration Acts shall be applied in aid of the rate which bears the expenses of such clerk, and if there is more than one such rate, then of each rate in the proportion in which the expenses are borne by such rates.
 
@@ -7031,7 +7030,7 @@ Ballymisert,
 
 Strandtown and Strandtown Town,
 
-Ballyhaokamore and Ballyhackamore Town, and BaUycloghan, all in the Parish of Holywood and County of Down.
+Ballyhackamore and Ballyhackamore Town, and BaUycloghan, all in the Parish of Holywood and County of Down.
 
 The Townlands of —
 
@@ -7551,7 +7550,7 @@ So much of the Parish of Toxteth Park as lies to the east of the following bound
 
 From a point where the North Boundary of the Parish of Toxteth Park
 
-crosses the end of the centre of Windsor Street, thence along the centres of WindsorStreetand Admiral Street to the'centre of High Park Street, thence along the centre of High Park Street to the centre of Park Road, thence along the centre of Park Road to the Municipal Borough Boundary, thence in an easterly direction along that Boundary to a point opposite the centre of Aigburth Road, thence along the centre of Aigburth Road to the Southern Boundary of Toxteth Park Parish.
+crosses the end of the centre of Windsor Street, thence along the centres of Windsor Streetand Admiral Street to the'centre of High Park Street, thence along the centre of High Park Street to the centre of Park Road, thence along the centre of Park Road to the Municipal Borough Boundary, thence in an easterly direction along that Boundary to a point opposite the centre of Aigburth Road, thence along the centre of Aigburth Road to the Southern Boundary of Toxteth Park Parish.
 
 No. 9. — THE WEST TOXTETH DIVISION.
 
@@ -8065,7 +8064,7 @@ No. 1. — THE EAST BELFAST DIVISION.
 
 Dock Ward (except so much as is comprised in Division No. 4, as herein described) so much of Cromac Ward as is situate in the County of Down,
 
-in the Parish of Holywood, in the County of Down, the Townlands of: — Ballycloghan, Ballyhackamorc (with the Town of Ballyhackamore), Ballymaghan, Ballymiscrt, and Strandtown (with the Town of Strandtown), and in the Parish of Knockbreda, in the County of Down, the Townlands of: — Bally-rushboy, Knock, and Multyhogy.
+in the Parish of Holywood, in the County of Down, the Townlands of: — Ballycloghan, Ballyhackamore (with the Town of Ballyhackamore), Ballymaghan, Ballymiscrt, and Strandtown (with the Town of Strandtown), and in the Parish of Knockbreda, in the County of Down, the Townlands of: — Bally-rushboy, Knock, and Multyhogy.
 
 No. 2. — THE SOUTH BELFAST DIVISION.
 
@@ -12599,7 +12598,6 @@ Date to which Act is continued.
 
 1 November 1887. 1 November 1888.
 
-
 1885. Annual Turnpike Acts Continuance Act, 1885. Ch. 37.
 
 241
@@ -13568,7 +13566,7 @@ Ch. 45. Post Office ([Sites) Act, 1885.
 
 And whereas maps or plans showing the respectiv e lands to be acquired by the Postmaster General under the authority of this Act, with books of reference containing the names of the owners or reputed owners, lessees or reputed lessees, and occupiers of the lands which may be taken compulsorily under this Act, and describing those lands, have been deposited with the respective clerks of the peace for the counties of Middlesex, Warwick, Gloucester, and Northumberland, and the same are in this Act referred to as the deposited plans and books of reference:
 
-Be it enacted by the Queen's most Exoellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 1. This Act may be cited as the Post Office (Sites) Act, 1885.
 
@@ -15689,7 +15687,6 @@ I, , do swear that I will be faithful
 and bear true allegiance to Her Majesty Queen Victoria and her successors in the Sovereignty of the United Kingdom of Great Britain and Ireland: So help me God.
 
 Note. — The name of the Sovereign of the United Kingdom of Great Britain and Ireland for the time being is to be substituted from time to time, with proper terms of reference thereto.
-
 
 1885. Secretary for Scotland Act, 1885. Ch. 61. 329
 
@@ -19914,7 +19911,6 @@ the application of the town council or governing body of any town directly affec
 38. The powers of making and approving of a scheme under this Duration of Act shall not, unless continued by Parliament, be exercised after the P of thirty-first of December one thousand eight hundred and eighty- schemes, eight: Provided that it shall be lawful for the Lord Lieutenant in Council, if special cause is shown, to extend the time limited by
 
 this section with reference to any endowments specified by the Lord Lieutenant. Upon the expiration of the said powers the office of the Commissioners, and of their secretary, officers, and clerks, shall cease; and no Assistant Commissioner, secretary, officer, or clerk, appointed under this Act, shall, by reason of such appointment, be entitled to any compensation, superannuation, or other allowance in respect of his office.
-
 
 420
 
