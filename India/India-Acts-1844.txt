@@ -74,7 +74,7 @@ A tf Act respecting the Expense of preparing Copies of Proceedings in Appeals.
 
 Whereas it is just and necessary that the expense of preparing copies in the English language of the proceedings in cases appealed to the Queen in Council, as now required by section 5, Regulation XVI. 1797, and section 34, Regulation V. 1803, of the Bengal Code, section 5, Regulation VIII. of 1818, of the Madras Code, and clause 6, section C, of Regulation IV. of 1827, of the Bombay Code, should be borne by the parties prosecuting those appeals:
 
-I. It is hereby enacted, that in all cases of appeals to the Queen in Council from judgments delivered by the Courts of Sudder Dewanny Adawlut at Fort William, Fort St. George, Bombay, and at Allahabad, the expense of preparing two copies of all the proceedings held, and judgments or orders given in the case appealed, ineluding the whole of the evidence and documents, and of translating into the English language such of the aforesaid proceedings as may have been originally drawn out in the country languages, shall be defrayed by the parties prosecuting the appeal.
+I. It is hereby enacted, that in all cases of appeals to the Queen in Council from judgments delivered by the Courts of Sudder Dewanny Adawlut at Fort William, Fort St. George, Bombay, and at Allahabad, the expense of preparing two copies of all the proceedings held, and judgments or orders given in the case appealed, including the whole of the evidence and documents, and of translating into the English language such of the aforesaid proceedings as may have been originally drawn out in the country languages, shall be defrayed by the parties prosecuting the appeal.
 
 II. And it is hereby further enacted, that the Courts of Sudder Dewanny Adawlut are empowered and required to cause the deposit by the appellant, within the time allowed for furnishing security for costs of appeal, of such a sum as shall be sufficient to cover the expense of making the two aforesaid copies, and when such deposit shall have been made, and not till then, to declare the appeal admitted, and to give notice thereof to the appellant and respondent respectively.
 
@@ -176,7 +176,6 @@ V. And it is hereby further enacted, that duties of customs shall be levied upon
 
 VI. And it is hereby enacted, that duties of customs shall be levied on goods passing by land into or out of foreign European settlements, situated on the line of coast within the limits of the Presidency of Fort St. George, at the rates prescribed in the Schedules of this Act for goods imported or exported on foreign bottoms at any British port in that Presidency.
 
-
 GOVERNMENT OF INDIA.
 
 VII. And it is hereby enacted, that it shall be lawful for the Governor in ACTS of 1844.
@@ -215,7 +214,7 @@ the goods shall be detained until a further certificate for the difference shall
 
 produced.
 
-X. And it is hereby enacted, that the said Governor in Council shall give public The appointment, of notice in the official Gazette of the Presidency of Fort St. George, of the appoint- t^dutie. ^'Vhe fron. ment of every officer appointed to receive customs duties on goods crossing the tier to be notified in the land frontier of the said foreign territories, and the officers so appointed shall, on Gaxette-receipt of money tendered as customs duty, be bound to give to any merchant or tmund^o^ronTcertfii. other person applying for the same, a certificate of payment, and to enter therein »«*» »n receipt of the the specification of goods, with the values and description thereof, according to ,ro,lcr duty‘
+X. And it is hereby enacted, that the said Governor in Council shall give public The appointment, of notice in the official Gazette of the Presidency of Fort St. George, of the appoint- t^dutie. ^'Vhe fron. ment of every officer appointed to receive customs duties on goods crossing the tier to be notified in the land frontier of the said foreign territories, and the officers so appointed shall, on Gazette-receipt of money tendered as customs duty, be bound to give to any merchant or tmund^o^ronTcertfii. other person applying for the same, a certificate of payment, and to enter therein »«*» »n receipt of the the specification of goods, with the values and description thereof, according to ,ro,lcr duty‘
 
 the statement furnished by the person so applying, provided only that the proper duty leviable thereupon, according to the descriptions and values stated, be covered by the payment made.
 
@@ -463,7 +462,6 @@ XLVII. And it is hereby enacted, that when there shall be no customs officer sen
 
 XLVIII. And it is hereby enacted, that when a customs officer shall be sent on board of any vessel discharging cargo, a further period of 15 days, Sundays and holidays excluded, beyond the 20 days above specified, shall be allowed for putting on board export cargo, if the vessel shall not exceed 600 tons burthen, and 20 days if it exceed that burthen, when the lading and unlading thereof shall be continuous, and the master or commander shall in such case not be charged with the wages and expenses of the customs officer on board until after the expiration of such additional period; and if a vessel having discharged its import cargo shall be laid up, the customs officer on board shall certify that no goods remain on board except necessary stores and articles for use, and when a vessel so laid up shall be entered at the custom-house for receipt of export cargo, a customs officer shall be sent on board, and if the said last-mentioned officer shall certify that no goods are on board except as above excepted, 20 days, exclusive of Sundays and holidays as above, shall be allowed from the date*of such certificate for the lading outwards of a vessel not exceeding 600 tons, and 30 days for vessels exceeding that burthen, after which periods respectively the master shall be charged with the wages and expenses of the customs officer on board to the date of the vessel’s sailing from the port.
 
-
 e
 
 . GOVERNMENT OF INDIA.
@@ -534,7 +532,7 @@ Penalty for Customs officer receiving consideration for doing or forbearing any 
 
 Cutcli, and of the Travancore and Cochin states, shall be treated in the ports of the Presidency of Fort St. George like the coasting craft of the British territory, provided that they conform to such special regulations as to the place of anchoring and mode of landing and shipping goods, as may be made by the Governor in Council for such vessels in the several ports of the Presidency of Fort St. George.
 
-LVJ. And it is hereby enacted, that no drawback shall be allowed on goods shipped on such native craft as are described in the last preceding section of this Act.
+LVI. And it is hereby enacted, that no drawback shall be allowed on goods shipped on such native craft as are described in the last preceding section of this Act.
 
 LVII. And it is hereby enacted, that goods exported in the same vessels, if manifested for re-export, shall not be subject to import or export duty, and if any goods brought to any port in any vessel be transhipped in such port, they shall in all cases be subject to the same duty as if they had been landed and passed through the custom-house for re-exportation in the vessel into which they may be transhipped.
 
@@ -904,7 +902,7 @@ ACTS of 1844. - >,.q.-
 
 ACTS OF THE
 
-ACTS of 1844. thereby also provided and enacted, that it shall not be lawful for the said Govemor-- - general in Council, without the previous sanction of the said Court of Directors, to
+ACTS of 1844. thereby also provided and enacted, that it shall not be lawful for the said Governor-- - general in Council, without the previous sanction of the said Court of Directors, to
 
 make any law or regulation whereby power shall be given to any courts of justice other than the courts of justice established by his Majesty’s charters, to sentence to the punishment of death any of his Majesty’s natural born subjects bom in Europe, or the children of such subjects, or which shall abolish any of the courts of justice established by his Majesty’s charters.
 
@@ -1158,13 +1156,13 @@ subject to the Government of the Presidency of Bombay.
 
 Whereas by Act VI. of 1844, all inland, transit and town duties levied on behalf of the government of the East India Company, within the limits of the .territories subordinate to the Presidency of Fort St. George, were abolished, and the impost on salt manufactured and sold within the said territories was raised to a rate more in accordance with the tax on the same article borne by other divisions of the British possessions: and whereas, although inquiries which have been instituted as to the origin and extent of certain town duties and local cesses within the Presidency of Bombay with a view to their abolition, have not yet been completed, it is nevertheless expedient, in order to equalize the average prices of salt within the Presidencies of Fort St. George and Bombay, to increase as well thb customs duty on imported salt, as the excise duty heretofore and at present payable on salt that may be delivered from any salt-work within the territories subject to the government of the Presidency of Bombay:.
 
-I. It is herebv enacted, that from the 1st day of September 1844, section 1 of Act XXVII. of 1837, shall be repealed.
+I. It is hereby enacted, that from the 1st day of September 1844, section 1 of Act XXVII. of 1837, shall be repealed.
 
 II. And it is hereby enacted, that from the 1st day of September 1844, there shall be paid to the Government on every maund of 3,200 tolas weight of salt that may be delivered from any salt-work within the territories subject to the government of the Presidency of Bombay, a duty of one Company’s rupee.
 
 III. And it is hereby enacted, that section 43, Act I. of 1838, shall be repealed.
 
-IV. And it is hereby enacted, that on application by the exporter from any port of the Presidency of Bombay of any salt that has paid the excise duty fixed bv section 2 of this Act, a certificate shall be granted by the collector of customs at the place of export, under authority of which certificate the quantity of salt
+IV. And it is hereby enacted, that on application by the exporter from any port of the Presidency of Bombay of any salt that has paid the excise duty fixed by section 2 of this Act, a certificate shall be granted by the collector of customs at the place of export, under authority of which certificate the quantity of salt
 
 • r specified
 
@@ -1406,7 +1404,7 @@ XIII. And it is hereby enacted, for the greater security against emigrant labour
 
 XIV- And it is hereby enacted, that every person who shall attempt by means of intoxication or by false imprisonment, or other means of crimping, to export any native on board any ship or vessel contrary to the provisions of this Act, •shall be liable to be punished on conviction before a magistrate Iu a fine not exceeding 500 rupees, or imprisonment not exceeding six months; provided that nothing in this Act contained shall prevent the offender from being proceeded against by indictment, but the offender shall only be liable to one of these courses of proceeding.
 
-XV. And it is hereby enacted, that whenever a vessel shall clear from Calcutta for Jamaica, British Guiana or Trinidad, with emigrant labourers duly embarked thereon, the customs officer on board such vessel shall countersign the pass or certificate brought on board such vessel by every such emigrant labourer, and shall keep a register of every such emigrant labourer as may come on board; and such customs officer shall remain on board such vessel until she shall arrive in Saugor Roads, and shall not come away until a muster of the crew and passengers and emigrant labourers has been made in his presence, and in that of the pilot in charge of the vessel; and after the customs officer has taken muster and quitted the vessel, the pilot shall continue to exercise the duties indicated in section 13 of this Act, and it shall be lawful for him, if he shall deem it necessary, to require the master or commander to take a general muster of the crew and passengers and emigrant labourers on board, and to sign a muster roll so taken, and every such custom-house officer and pilot shall make a complete report of the emigrant labourers on board of any ship at the time of his quitting the same, and such report shall contain a declaration, that to the best of the declarant’s belief, no additional emigrant labourers have been received on board since obtaining the certificate, and that nothing else has been done or omitted to be done in the ship or vessel contrary to the provisions of this Act, and every such report or muster, if any, shall be transmitted without delay to the emigration agent of the port; and any custom-house officer or pilot who shall wilfully make a false, erroneous or incomplete report of the emigrant labourers on board of any ship, or who shall connive at the unauthorized embarkation of any such emigrant labourers, shall be liable, besides dismissal, to a fine of 500 rupees, commutable, if not paid, to imprisonment in the Calcutta gaol for six months, and the penalty shall be adjudged in like manner as similar penalties are adjudged for oftences committed in respect to the Customs Revenue.
+XV. And it is hereby enacted, that whenever a vessel shall clear from Calcutta for Jamaica, British Guiana or Trinidad, with emigrant labourers duly embarked thereon, the customs officer on board such vessel shall countersign the pass or certificate brought on board such vessel by every such emigrant labourer, and shall keep a register of every such emigrant labourer as may come on board; and such customs officer shall remain on board such vessel until she shall arrive in Saugor Roads, and shall not come away until a muster of the crew and passengers and emigrant labourers has been made in his presence, and in that of the pilot in charge of the vessel; and after the customs officer has taken muster and quitted the vessel, the pilot shall continue to exercise the duties indicated in section 13 of this Act, and it shall be lawful for him, if he shall deem it necessary, to require the master or commander to take a general muster of the crew and passengers and emigrant labourers on board, and to sign a muster roll so taken, and every such custom-house officer and pilot shall make a complete report of the emigrant labourers on board of any ship at the time of his quitting the same, and such report shall contain a declaration, that to the best of the declarant’s belief, no additional emigrant labourers have been received on board since obtaining the certificate, and that nothing else has been done or omitted to be done in the ship or vessel contrary to the provisions of this Act, and every such report or muster, if any, shall be transmitted without delay to the emigration agent of the port; and any custom-house officer or pilot who shall wilfully make a false, erroneous or incomplete report of the emigrant labourers on board of any ship, or who shall connive at the unauthorized embarkation of any such emigrant labourers, shall be liable, besides dismissal, to a fine of 500 rupees, commutable, if not paid, to imprisonment in the Calcutta gaol for six months, and the penalty shall be adjudged in like manner as similar penalties are adjudged for offences committed in respect to the Customs Revenue.
 
 XVI. And it is hereby enacted, that if any person shall forge or shall use, knowing it to be forged, any document required by this Act, such person shall be liable to be imprisoned for any period not exceeding seven years.
 
@@ -1520,7 +1518,7 @@ A.
 
 Act 0 Geo. 4, so much of, as respects the period of the execution of persons con victed of murder, shall cease to have effect in the East India Company’s territories. [See Execution] ----
 
-----XXYII. of 1837, Section 1 of, repealed
+----XXVII. of 1837, Section 1 of, repealed
 
 ----I. of 1838, section 43 of, repealed. [See
 
@@ -1536,7 +1534,7 @@ Act XIV. of 1839, relating to the emigration of natives from Calcutta, Madras an
 
 Administration of the state of Colaba. [See Colaba.]
 
-Advances bon& fide made to agents entrusted with the possession of goods or documents of title tnereto, protected, and contracts made with such agents to be binding upon agents by the extension to the Company’s territories of Statute 6 & 6 Vict. c. 39 - bon& fide deposit of goods made in
+Advances bon& fide made to agents entrusted with the possession of goods or documents of title thereto, protected, and contracts made with such agents to be binding upon agents by the extension to the Company’s territories of Statute 6 & 6 Vict. c. 39 - bon& fide deposit of goods made in
 
 exchange to such agents to be considered as effectual as advances made in money, but in such case no hen shall be acquired beyond the value of the goods given up - The statute to be construed to pro-
 
@@ -1704,7 +1702,6 @@ Bombay.
 
 Bombay.
 
-
 (continue#)
 
 44
@@ -1749,7 +1746,7 @@ levy of any municipal tax, or toll on bridges, roads, canals, piers or causeways
 
 to be levied on goods imported
 
-bv sea into the Presidency of Fort St.
+by sea into the Presidency of Fort St.
 
 George
 
@@ -2619,7 +2616,6 @@ n
 
 l8.
 
-
 I.
 
 II.
@@ -3038,7 +3034,7 @@ respect to crews of ships wrecked or lost, and the officers to retain their auth
 
 ----payment of allowances of officers and seamen of ships taken by the enemy, how to be regulated ----no person not flying from justice to be tried or punished by a court martial without order of the Governor-general in Council or Governor in Council, or any officer who may order a court martial, and that within specified time after the commission of the offence for which he is to be tried -
 
----- Act not to interfere w ith the
+---- Act not to interfere with the
 
 Queen’s Admiralty power, jurisdiction or authority within her dominion -
 
@@ -3121,7 +3117,6 @@ IV.
 V.
 
 18.
-
 
 General.
 
