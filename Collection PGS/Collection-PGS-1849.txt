@@ -4328,13 +4328,13 @@ l
 
 0 0 0| 0 0 oi
 
-0 0 Oi 0 0 Oi 0 0 °i
+0 0 0i 0 0 0i 0 0 °i
 
 0 0 2
 
-0 0 Oi
+0 0 0i
 
-0 0 Oi 0 0 1 0 0 1
+0 0 0i 0 0 1 0 0 1
 
 179
 
@@ -4346,7 +4346,7 @@ Weighing Machines,
 
 For weighing any Waggon, the Sum of For weighing any Cart, the Sum of -
 
-£ s. d. 0 0 Oi
+£ s. d. 0 0 0i
 
 0 0 6(0 0 3
 

@@ -13548,7 +13548,7 @@ Under i$o 0 'S O
 
 350 z5 O
 
-400 2 0 O
+400 2 0 0
 
 45° 2 5 O
 
@@ -13556,7 +13556,7 @@ Under i$o 0 'S O
 
 550 2 15 O
 
-Above cco 3 0 O
+Above cco 3 0 0
 
 Makers of candles, (except wax) 1 O O
 
@@ -13576,13 +13576,13 @@ wark. S O O
 
 4n all other places, 2 IO O
 
-Tawers, - - z 0 O
+Tawers, - - z 0 0
 
-DreflTers of hides in oil. 2 0 O
+DreflTers of hides in oil. 2 0 0
 
-Curriers, 2 0 O
+Curriers, 2 0 0
 
-Vellum makers. Z 0 O
+Vellum makers. Z 0 0
 
 Every glass-house to pay, IO 0 0 Strong
 

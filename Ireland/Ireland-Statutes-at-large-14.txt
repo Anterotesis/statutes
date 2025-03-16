@@ -3422,7 +3422,7 @@ POT ASH \ free j
 
 and < But on failure thereof, then to pay
 
-PEARL ASH j the Barrel, containing 2oolb. i 5 0 17 0 5 >4r 0 O 0 7 0 5 I4f 0 0 0
+PEARL ASH j the Barrel, containing 2oolb. i 5 0 17 0 5 >4r 0 0 0 7 0 5 I4f 0 0 0
 
 L weight
 
@@ -4172,7 +4172,7 @@ DUTY.
 
 coo
 
-10 O 0
+10 0 0
 
 12 0#
 

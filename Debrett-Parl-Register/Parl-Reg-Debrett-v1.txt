@@ -6064,11 +6064,11 @@ Cert>s. a- -a Vi a .9
 
 70th foot 0 1 6 <10 6 0 1 I
 
-f 74th ditto 0 X 0 4 S I 0 O
+f 74th ditto 0 X 0 4 S I 0 0
 
 (& 2d do. 6 comp. 1 0 1 4 2 O I X
 
-Recruits 0 0 0 0 0 0 O 0 0
+Recruits 0 0 0 0 0 0 0 0 0
 
 f 7^(h foot 0 1 1 8 20 8 O t I
 
@@ -6082,7 +6082,7 @@ I 88th ditto. 1 X 1 7 9 6 O X X
 
 1 89th ditto 1 0 I 4 8 6 0 I X
 
-i Recruit* 0 0 O O O 0 0 0 0
+i Recruit* 0 0 0 O O 0 0 0 0
 
 ‘O
 
@@ -7838,7 +7838,7 @@ Vlfo for bill money, tallies, and other fe$s, paid and to be paid at the feye-ve
 
 IOO O O
 
-50 0 O
+50 0 0
 
 33 0
 

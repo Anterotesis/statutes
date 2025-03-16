@@ -4540,7 +4540,7 @@ five hundred Barrels, and shall not exceed Ten thousand Barrels ----If the same 
 
 0 0 2J
 
-0 6 0 1 0 O
+0 6 0 1 0 0
 
 1 10 O '
 
@@ -4548,7 +4548,7 @@ five hundred Barrels, and shall not exceed Ten thousand Barrels ----If the same 
 
 7 10 O
 
-10 0 O 20 0 0
+10 0 0 20 0 0
 
 96
 
@@ -7574,7 +7574,7 @@ i T A.B.do swear [or, affirm, as the Case may ], that
 
 over and above what will satisfy and discharge all my Debts.
 
-‘ So help me GOD. ’
+'So help me GOD. ’
 
 Nor unless he shall be an Inhabitant of the District for which he shall act as a Commissioner; and if any Person shall presume to act as a Commissioner in the Execution of this Act, or any of the Powers herein contained, within the City of London and Liberty of Saint Martin-le-Grand, or within the City and Liberty of Westminster, or in or for any Parish or Place, any Part whereof shall be situate within any other Part of the Bills of Mortality, or in or for the Parish of Saint Mary-le-Bone or Pa?icras, before he
 
@@ -16926,7 +16926,7 @@ or upwards, of and in the Ship or Ships, here insert the Name of the Ship or Shi
 
 Company], and that I have not before given my Vote at this ‘ Ballot.
 
-‘ So help me GOD. ’
+'So help me GOD. ’
 
 XXVI. And, for the Purpose of making the Docks, Basons,
 
@@ -23402,7 +23402,7 @@ Wales ......
 
 East India Recruiting Parties (five Troops of Dragoons and 17 Companies of Foot) in Britain -
 
-180,000 0 0 On Account of Re- iG.reat
+180,000 0 0 0n Account of Re- iG.reat
 
 cruiting and Contin- j n gencies for Land ran
 

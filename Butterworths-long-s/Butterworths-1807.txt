@@ -2338,7 +2338,7 @@ ICO
 
 25 O O
 
-20 O 0
+20 0 0
 
 Licences continued.
 
@@ -2390,7 +2390,7 @@ In any other Place in Ireland To keep a Tavern, Hotel, Club-House, House or Coff
 
 s6 S. d.
 
-0 0 O
+0 0 0
 
 2 O O
 
@@ -3998,7 +3998,7 @@ the best of my Understanding, and the Custom of War in the like Cases; And I fur
 
 4 at any Time whatsoever. disclose or discover the Vote or Opinion of any particular Member of the Court-martial, unlef s required to give Evidence thereof as a Witness, by a Court of Justice, or a Court-martial, in a due Course of Law.
 
-f So help me GOD.
+'So help me GOD.
 
 And fp foqn as the said Oaths shall have been administered to the respective Members, the President of the Court is hereby authorized #nd required to administer to the Judge Advocate, or the Person officiating as such, an Oath in the following Words
 
@@ -4042,7 +4042,7 @@ YOU shall well and truly try and determine, according to your Evidence in the Ma
 
 Am B. do swear, That I will duly administer Justice, according to the Rules and Articles for the better Government of His Majesty's Forces, and according to an Act of Parliament now in force, for the Punishment of Mutiny and Desertion, and other*Crimes therein mentioned, without Partiality, Fayour, or Affection and if any Doubt shall a rife, which is not explained by the said Articles, or Act of Parliament, according to my Confidence, the befl of my Underilanding, and the Custom of War in the like Cases.
 
-4 So help me GOD.*
+'So help me GOD.*
 
 Appointment of And the President of every such Court-martial (not being under the Rank of a Captain) shall be appointed by the Commanding Officer of the Regiment, Detachment, or Brigade* or the Governor or Commander of the Garrison, Fort, Castle, or Barrack, directing such Court-martial.
 
@@ -6678,7 +6678,7 @@ Any Admission of any Advocate, Pro6lor, Attorney, Solicitor, Clerk, or other Off
 
 2° O Q
 
-20 0 O
+20 0 0
 
 SCHEDULE (A.)
 
@@ -7022,17 +7022,17 @@ Duty.
 
 3?oooo - 4 0 0
 
-\ 4?oo° - 6 0 O
+\ 4?oo° - 6 0 0
 
-5, °°o - 8 0 O
+5, °°o - 8 0 0
 
-10, 000 - JO 0 O
+10, 000 - JO 0 0
 
-15 000 - 12 0 O
+15 000 - 12 0 0
 
-L20, 000 -shall exceed5 0 O
+L20, 000 -shall exceed5 0 0
 
-- 20 0 O
+- 20 0 0
 
 A.D. 1807. 47° GEO. III. Sess. 1. C. 50. W
 
@@ -7998,7 +7998,7 @@ my Office or Employment, on any Account whatever, other than
 
 my Salary, and what is or shall be allowed me by Law.
 
-4 So help me GOD.
+'So help me GOD.
 
 VII. And be it further enacted, That from and after the Fifth Day of July One thousand eight hundred and seven, no Holidays whatever shall be permitted or allowed to be observed and kept at the Custom House in any of the Ports in Great Britain, or by any Officer, Clerk, or other Person belonging to or employed in the Service of H.s Majesty's Customs in any of the said Ports, except Christmas Day and 'Good Friday in every Year and any Days which shall be appointed by His Majesty's Proclamation for the Purpose of a Central Fail or Thanksgiving, and also the Anniversaries of the Restoration of His Majesty King Charles the Second, and of the Coronation of His Majesty, and the Birth Days of Their Majesties and of Lis Royal Highness the Prince of Wales; but that all Business of the Culiom House, and relating to the Revenue of Customs within the said Ports, shall be carried on and performed on every Day throughout the Year, except on Sundays, and the Days before excepted; any Law, Usage or Custom, to the contrary notwithstanding.
 
@@ -9990,7 +9990,7 @@ Any attested Copy of any Decree or Dismissal made by or in the Court of Excheque
 
 £ s. d* 33 o ©
 
-22 0 O
+22 0 0
 
 II O O
 
@@ -10591,7 +10591,7 @@ Dut c.'. Drawbacks. Duties. Diawb cfcs. Duties. Drawbacks.
 
 2 19 8 2 13 io 3 6 4 3 0 0 1 0 II 0 OIO
 
-0 0 O 1 6 1 0 15 0 0 I 6
+0 0 0 1 6 1 0 15 0 0 I 6
 
 O I 4 1 0 2 4 - 016 0 0 2
 
@@ -11195,7 +11195,7 @@ O O 1 O 0 1
 
 O O 7 O 0 0
 
-O I t 0 O 0 0
+O I t 0 0 0 0
 
 0 5 6 O 0 6
 
@@ -13025,9 +13025,9 @@ And further, the Yard - - 0 0 7I 0 O H 0 O 51 0 0 4? 0 0 3$ 0 0 2* 0 O i? 0 0 of
 
 Printed, painted, or Gained, the
 
-Yard - O 1* 0 I4 0 I o* 0 0 11 0 0 9} 0 0 8 0 O 0 0 5 OOOO
+Yard - O 1* 0 I4 0 I o* 0 0 11 0 0 9} 0 0 8 0 0 0 0 5 OOOO
 
-For every £ioo of the Value O 0 0 0 O 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 0 0
+For every £ioo of the Value O 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 0 0
 
 MUSLINS.
 
@@ -13037,11 +13037,11 @@ pii-ited or Rained, for every / 12 12 2 OJ II l6 11 10 11 4 TO l8 o| 10 12 °9 1
 
 £ ioo of the Value - -) >10 00
 
-And further, the squareYard O 0 1 <* 0 O 0 O 51 p 0 4$ 0 0 0 0 2$ 0 O if 0 0 o| i
+And further, the squareYard O 0 1 <* 0 0 0 0 51 p 0 4$ 0 0 0 0 2$ 0 O if 0 0 o| i
 
-Plain White, the square Yard - O 0 11 O O 10 0 O90 0 8 0 0 7 0 p 6 0 O 5 0 0 4 0 0 0
+Plain White, the square Yard - O 0 11 O O 10 0 090 0 8 0 0 7 0 p 6 0 O 5 0 0 4 0 0 0
 
-For every <£ioooof the Value O 0 0 O O 0 0 O 0 0 0 0 0 0 0 0 0 0 0 O 0 0 0 0 10 0 0
+For every <£ioooof the Value O 0 0 0 O 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 0 0
 
 COTTON YARN, the Cwt. - -All Spun Cotron, -v 0 i8'1! Q 15 0 13 8* 0 II 4» 09\ j6 0 C 0 4 «£ 0 2 >Free.
 

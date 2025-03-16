@@ -10824,7 +10824,7 @@ Ditto from 51 to 150 Men 0 10 0
 
 Ditto from 151 to 250 Men 0 15 0
 
-Ditto from 251 and upwards 1 0 O
+Ditto from 251 and upwards 1 0 0
 
 ALLOWANCES to SCHOOLMASTERS in SCOTLAND.
 
@@ -22874,7 +22874,7 @@ Duty.
 
 0 17 6
 
-1 0 O
+1 0 0
 
 1 ?
 

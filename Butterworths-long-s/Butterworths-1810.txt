@@ -6754,7 +6754,7 @@ I 10 0
 
 3° 0 Q
 
-40 0 O
+40 0 0
 
 5° 0 Q
 
@@ -8644,7 +8644,7 @@ Bitter - 1 6 8 O 13 4
 
 4 0 0 2 0 0
 
-- In the Shell - 10 0 O5 0
+- In the Shell - 10 0 05 0
 
 Of any other Sort 2 0 0 I a 0
 
@@ -8966,7 +8966,7 @@ Duties. Drawbacks.
 
 0 0 8 O O 4
 
-O 1 0 0 O 6
+O 1 0 0 0 6
 
 0 18 0 O90
 
@@ -12206,7 +12206,7 @@ An Act for granting to His Majesty certain Sums of Money out of the Consolidated
 
 [20th June 1810.]
 
-§ I. £ 4,400,000 0 0 Out of Surplus of British Consolidated Fund.
+§ I. £ 4,400,000 0 0 0ut of Surplus of British Consolidated Fund.
 
 ---
 
@@ -12540,9 +12540,9 @@ Civil Establishments, viz.
 
 - 44I>5, 73 0
 
-2, 750, 000 0 O
+2, 750, 000 0 0
 
-200, 000 0 O
+200, 000 0 0
 
 XV. 3, 078, 742 19 2
 

@@ -9456,7 +9456,7 @@ Peats or Turf - - _ Per 1,000 0 0 2
 
 Potatoes _ Per Cwt 0 0 0 *
 
-Rags - - m - Ditto 0 0 O
+Rags - - m - Ditto 0 0 0
 
 209
 
@@ -9480,7 +9480,7 @@ Skins - - - Per Dozen 0 0 1
 
 Slates, Bricks, and Tiles - . Per 1, 200 0 0 C
 
-Soap, Soda, and Saltpetre - - Per Cwt. 0 0 Oh
+Soap, Soda, and Saltpetre - - Per Cwt. 0 0 0h
 
 Spirits:— Foreign or Colonial - - Per Gallon 0 0 0 *
 
@@ -9510,7 +9510,7 @@ Wine: — in Casks ... - Per Barrel Bulk 0 1 0
 
 in Bottles. - Ditto 0 0 6
 
-Wool ..... ..... f Per Stone of 1 \ 24 lbs. J 0 0 Oh
+Wool ..... ..... f Per Stone of 1 \ 24 lbs. J 0 0 0h
 
 All other Goods, Wares, Merchandise, and Commodities whatsoever, not enumerated or specified in the above Schedule, to pay at the Rate of Twopence per Barrel Bulk, or at Rates varying from Threepence to One Shilling Per Ton, in proportion to such Articles in the Schedule as they come nearest to.
 

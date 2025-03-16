@@ -7708,7 +7708,7 @@ o94 2 6 °,39o 7 2 O 0 12 s 3 2 4 4 12 098 0
 
 o93 2 5 5 3 8 4 7 1 O O 12 4 3 2 2 4 I I 396 6
 
-o93 2 5 3 o 0 8 o 7 0 O 0 12 3 3 1 6 4 IO b95 4
+o93 2 5 3 o 0 8 o 7 0 0 0 12 3 3 1 6 4 IO b95 4
 
 o92 2 5 o 3 7 4 6 15 I 0 12 3 3 1 2 4 10 094 0
 
@@ -7758,7 +7758,7 @@ Penny. Four Penny. Six Penny. Twelve Penny. Penny. Four Penny. Six Penny, Twelve
 
 3 5 0 O 5 3 > 5 4 2 O 2 4 0 4 O 8 O 2 O 2 3 O 3 6 0 6 O IO b 2 I I O 4 O 4 I O
 
-396 O 5 3 1 5 3 2 O O 4 0 0 O 8 O 2 O O 3 O O 6 0 O O IO e 2 10 5 4 O 0 8 O O
+396 O 5 3 1 5 3 2 O O 4 0 0 0 8 O 2 O O 3 O O 6 0 O O IO e 2 10 5 4 O 0 8 O O
 
 3 JO 0 O 5 2 5 1 *5 6 3 15 4 O 7 7 '5 6 2 *5 5 5 >5 2 O 10 5 2 10 31 3 15 4 7 15 O
 

@@ -11706,7 +11706,7 @@ i 10 6
 
 0 2 O
 
-1 0 O
+1 0 0
 
 - 0 6 8
 
@@ -18126,7 +18126,7 @@ o 10 0 0 10 0
 
 0 10 o
 
-1 0 O
+1 0 0
 
 400 O O 10
 
@@ -18690,7 +18690,7 @@ Flocks, the hundred weight, containing one hundred and twelve pound Freezes, the
 
 Fustians of Irish making of all forts to go out free
 
-o io o 8 o o 0 3 4 10 0 O 10 0
+o io o 8 o o 0 3 4 10 0 0 10 0
 
 o 13 4
 

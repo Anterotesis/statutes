@@ -11664,7 +11664,7 @@ And also any Paper containing any public News, Intelligence, or Occurrences, or 
 
 £ s. </. 0 0 1
 
-0 0 OJ 0 0 1
+0 0 0J 0 0 1
 
 0 0 0±
 
@@ -15470,7 +15470,7 @@ from 51 to 150 Men from 151 to 250 Men from 251 and upwards
 
 0 15 O
 
-1 0 O
+1 0 0
 
 0 5 0 0 10 0
 
@@ -15808,7 +15808,7 @@ To
 
 300,000 0 0 813, 985 0 0
 
-538, 570 0 O
+538, 570 0 0
 
 210, 042 0 0
 
@@ -20754,7 +20754,7 @@ Salaries for Officers in the County of the Town of Oxrridfergus.
 
 £ s. d.
 
-Treasurer - 45 0 O
+Treasurer - 45 0 0
 
 Clerk of the Crown - 23 1 6
 

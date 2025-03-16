@@ -2288,7 +2288,7 @@ O 2 6 - - - Let with Wetter’s Tenement, and-valued therein.
 
 15 0 a 21 10 6
 
-3 0 0 4 0 O
+3 0 0 4 0 0
 
 35 0 0 39 io 0
 
@@ -5900,7 +5900,7 @@ Clerks to b*- pence 5.
 
 of King George the Third, intituled [here insert the Title of this Act] according to the best of my Skill and Judgment, and without Favour or Af- section, Prejudice or Malice, to any Person or Persons whomsoever.
 
-4 So help me God.’
+'So help me God.’
 
 And if any Person not being so qualified shall presume to act as such Trustee, contrary to the true Intent and Meaning of this Act, every such Person shall for every such Offence forfeit and pay the Sum of Fifty Pounds to any Person or Persons who shall sue for the same, to be recovered with full Costs of Suit in any of His Majesty's Courts of Record at Westminster, or in His Majesty's Court of Common Pleas held in and for the said County Palatine of Lancaster, by Action of Debt or on the Cafe, or by Bill, Plaint, Suit, or Information, wherein no Essoign, Protection, or Wager of Law, or mpre than One Imparlance shall be allowed; and every Person so prosecuted shall prove that he is qualified as aforesaid, or otherwise shall pay the said Penalty, without any other Proof or Evidence on the Part of the Prosecution than that such Person hath, afted as a Trustee in the Execution of this Act.
 
@@ -13588,7 +13588,7 @@ A. R. p. t- J. d.
 
 223 3 29 309 II 2
 
-131 2 22 3f° 0 O
+131 2 22 3f° 0 0
 
 78 3 21 )03 16 2
 
@@ -14010,7 +14010,7 @@ Scrogwood Lane Closes - - 24 0 26 32 IO O
 
 JOHN MOSEY.
 
-Whitewood doles 36 3 >4 40 O 0
+Whitewood doles 36 3 >4 40 0 0
 
 CHRISTOPHER JEFFERSON.
 
@@ -14482,11 +14482,11 @@ Ljpfed. Extinguithed. F.,.b)c.
 
 Anne Warner (now the Wife of Thomas Bagge £ ' £ d. £ ' d.
 
-Esquire,) Mary Pleasance Richard Huntley Daniel Henry Woodward, (eldest Son of Mary Woodward, now called Daniel Henry Lee Warner Esquire,) - The said Mary Woodward Her two younger Children, Christopher Woodward, (who is now living,) and Mary Woodward (who married Robert Nicholl Cleric, and died in the OOOO 400 O O 200 0 O OOOO 4OO O O 000 200 O O too 0 0
+Esquire,) Mary Pleasance Richard Huntley Daniel Henry Woodward, (eldest Son of Mary Woodward, now called Daniel Henry Lee Warner Esquire,) - The said Mary Woodward Her two younger Children, Christopher Woodward, (who is now living,) and Mary Woodward (who married Robert Nicholl Cleric, and died in the OOOO 400 O O 200 0 0 OOOO 4OO O O 000 200 O O too 0 0
 
-Testator’s Lifetime,) The Children of the said Richard Huntley, (namely) Richard Huntley, Cleric Wad ham Huntley, Cleric Ann Huntley Mary Huntley OOOO OOOO 200 0 O
+Testator’s Lifetime,) The Children of the said Richard Huntley, (namely) Richard Huntley, Cleric Wad ham Huntley, Cleric Ann Huntley Mary Huntley OOOO OOOO 200 0 0
 
-Elizabeth Huntley Catharine Huntley, (now the Wife of the Reverend Benjamin Spry,) and Sarah Huntley, (now the Wife of William Veel Esquire) Heery Arnold Esquire The Children of the said Henry Arnold, (namely) Henry Arnold Samuel Arnold John Arnold - j Tryphena Arnold OOOO 200 0 0 O O 200 O C
+Elizabeth Huntley Catharine Huntley, (now the Wife of the Reverend Benjamin Spry,) and Sarah Huntley, (now the Wife of William Veel Esquire) Heery Arnold Esquire The Children of the said Henry Arnold, (namely) Henry Arnold Samuel Arnold John Arnold - j Tryphena Arnold OOOO 200 0 0 0 O 200 O C
 
 Mary Arnold Cafla; dra Arnold (now the Wife of John Walsh Esquire) and Elizabeth Arnold, (now the Wife of Benjamin Clarke,) Ann Layton - - Margaret Codham O OO O OO 200 0 0
 
@@ -14512,7 +14512,7 @@ paid. been paid. laps i.
 
 £ d £. ,. d. £ d
 
-2000 O 0
+2000 0 0
 
 500 0 c
 
@@ -14524,7 +14524,7 @@ i
 
 ICO 0 0
 
-' 200 0 O
+' 200 0 0
 
 IOO 0 0
 
@@ -14928,7 +14928,7 @@ A. R. P. £ ' a.
 
 3 2 36 O O CO
 
-14 0 0 O O I?
+14 0 0 0 O I?
 
 10 0 0
 
@@ -16354,7 +16354,7 @@ An Act for the wore easy and speedy Recovery of Small Debts within the 4 Western
 
 Provisions of the said Act of the Thirty-Jirfl Year of the Reign of His said 'ate Majesty King George the Second; or conformably to the Directions, and true Intent and Meaning of such or so much of the fame Two Acts of Parliament as now are or is in force, and that without Favour or Affec-9 tion, Prejudice or Malice.
 
-‘ So help me GOD.
+'So help me GOD.
 
 Which Oath shall be in lieu and dead of the Oath mentioned or prescribed
 
@@ -17850,7 +17850,7 @@ Wool, brought for Sale, per Stone Ditto, for Shipping, or fending by Carriers, p
 
 0 0 If 0 0 2f 0 0 3*
 
-0 0 Of 0 0 1 0 0 If
+0 0 0f 0 0 1 0 0 If
 
 0 0 If 0 0 3 0 0 4f
 
@@ -17860,15 +17860,15 @@ Wool, brought for Sale, per Stone Ditto, for Shipping, or fending by Carriers, p
 
 0 0 4 0 0 8 0 I 0
 
-0 0 of 0 0 Of 0 0 0»
+0 0 of 0 0 0f 0 0 0»
 
-0 0 Of 0 0 I 0 0 If
+0 0 0f 0 0 I 0 0 If
 
 0 0 I 0 0 2 0 0 3
 
-0 0 of 0 0 of 0 0 Of
+0 0 of 0 0 of 0 0 0f
 
-0 0 Of 0 0 Of 0 0
+0 0 0f 0 0 0f 0 0
 
 0 0 4 0 0 8 0 I 0
 
@@ -17882,9 +17882,9 @@ Wool, brought for Sale, per Stone Ditto, for Shipping, or fending by Carriers, p
 
 0 0 I 0 0 2 0 0 3
 
-0 0 Os 0 0 of 0 0 Of
+0 0 0s 0 0 of 0 0 0f
 
-0 0 Of 0 0 Of 0 0 of
+0 0 0f 0 0 0f 0 0 of
 
 0 0 I 0 0 2 0 0 3
 
@@ -17898,13 +17898,13 @@ Wool, brought for Sale, per Stone Ditto, for Shipping, or fending by Carriers, p
 
 0 0 of 0 0 If 0 0 af
 
-0 0 of 0 0 Of 0 0 Of
+0 0 of 0 0 0f 0 0 0f
 
-0 0 Of 0 0 Of 0 0 Of
+0 0 0f 0 0 0f 0 0 0f
 
 0 0 of 0 0 0 3 0 0 I
 
-0 0 Of 0 0 Of 0 0 of
+0 0 0f 0 0 0f 0 0 of
 
 0 0 I 0 0 2 0 0 3
 
@@ -17916,11 +17916,11 @@ Wool, brought for Sale, per Stone Ditto, for Shipping, or fending by Carriers, p
 
 0 0 1 © 0 2 0 0 3
 
-0 0 of 0 0 Of 0 0 Of
+0 0 of 0 0 0f 0 0 0f
 
-0 0 Of 0 0 Of 0 0 Of
+0 0 0f 0 0 0f 0 0 0f
 
-0 0 Of 0 0 Of 0 0
+0 0 0f 0 0 0f 0 0
 
 +6‘ GEORGII III. Cap. 9
 
@@ -17946,7 +17946,7 @@ O O Of O O of O 0 of
 
 ° ° Oi 0 0 1 0 0 If
 
-0 0 of 0 0 Of O 0 I
+0 0 of 0 0 0f O 0 I
 
 0 O of O 0 I O 0 li
 
@@ -17966,9 +17966,9 @@ O O Of O O of O 0 of
 
 0 O Os 0 0 of O 0 oi
 
-0 O of 0 0 Of O 0 Of
+0 O of 0 0 0f O 0 Of
 
-0 O 0' 0 0 Of O 0 Of
+0 0 0' 0 0 0f O 0 Of
 
 0 O of 0 0 I O 0 »{
 
@@ -17978,13 +17978,13 @@ O O Of O O of O 0 of
 
 0 O Oi 0 0 X O 0 1}
 
-0 O 0 0 6 O 0
+0 0 0 0 6 O 0
 
-0 O of *0 0 Oi O 0 of
+0 O of *0 0 0i O 0 of
 
-0 0 Of 0 0 1 O 0 If
+0 0 0f 0 0 1 O 0 If
 
-0 0 Oi 0 0 I O 0 If
+0 0 0i 0 0 I O 0 If
 
 0 0 I 0 0 2 O 0
 
@@ -17994,25 +17994,25 @@ O O Of O O of O 0 of
 
 0 0 4i 0 0 9 0 I if
 
-0 0 of 0 0 oi 0 0 O i
+0 0 of 0 0 oi 0 0 0 i
 
 0 0 of 0 0 I 0 0 if
 
 0 0 °i 0 0 04 0 0 of
 
-0 0 Oi 0 0 I 0 0 if
+0 0 0i 0 0 I 0 0 if
 
 0 0 «i 0 0 of 0 0
 
-0 0 O-J 0 0 oi 0 0 Of
+0 0 0-J 0 0 oi 0 0 0f
 
-0 0 OJ 0 0 oi 0 0 0*.
+0 0 0J 0 0 oi 0 0 0*.
 
-0 0 °{ 0 0 Oi 0 0 °l
+0 0 °{ 0 0 0i 0 0 °l
 
-0 0 oi 0 0 oi 0 0 Or
+0 0 oi 0 0 oi 0 0 0r
 
-0 °i 0 0 Oi 0 0 Of
+0 °i 0 0 0i 0 0 0f
 
 A Cart-load of Fruit, Greens, or Garden Stuff Less Quantities
 
@@ -18120,7 +18120,7 @@ Refiiient Burgesses to pay Non-resident Burgesses to pay Strangers 0 pay
 
 0 0 1 O 0 10 O 1 3
 
-0 0 0 O 0 Oi O O oi
+0 0 0 0 0 0i O O oi
 
 0 0 of O 0 0} 0 0 of
 
@@ -18138,13 +18138,13 @@ Refiiient Burgesses to pay Non-resident Burgesses to pay Strangers 0 pay
 
 0 0 01 0 0 I 0 0 if
 
-0 0 Of 0 0 of 0 0 Of
+0 0 0f 0 0 of 0 0 0f
 
 0 0 of 0 0 0| 0 0 of-
 
 0 0 °5 0 0 0 0 If
 
-0 0 Of 0 0 1 0 0 If
+0 0 0f 0 0 1 0 0 If
 
 0 0 2 0 0 4 0 0 6
 
@@ -18164,21 +18164,21 @@ Refiiient Burgesses to pay Non-resident Burgesses to pay Strangers 0 pay
 
 0 0 of 0 0 of 0 0
 
-0 0 Oj 0 0 Of 0 0 0{
+0 0 0j 0 0 0f 0 0 0{
 
-p 0 Of 0 0 °i 0 0 Of
+p 0 Of 0 0 °i 0 0 0f
 
 0 6 0 0 0 0 b
 
-0 0 Of 1 d’ 0 Of 0 0
+0 0 0f 1 d’ 0 Of 0 0
 
 0 0 2 0 0 4 0 0 6
 
 0 0 of 0 0 of 0 0 0 i
 
-0 0 of 0 0 Of 0 0
+0 0 of 0 0 0f 0 0
 
-0 0 Of 0 0 Of 0 0
+0 0 0f 0 0 0f 0 0
 
 0 0 6 0 9 0 I 3
 
@@ -18264,7 +18264,7 @@ O 0 2 0 0 4. 0 0 6
 
 O 0 'i 0 0 A.i 0 0 l\
 
-° 0 oi 0 0 O- 0 0 M
+° 0 oi 0 0 0- 0 0 M
 
 O 61 0 6 1 0. 0 si
 
@@ -18388,7 +18388,7 @@ O O is O O 2} O O 3i
 
 0 O 3 0 0 b . O O 9
 
-0 0 O 0 I O - O
+0 0 0 0 I O - O
 
 0 0 1 0 0 1 i 0 0 2*
 
@@ -18430,11 +18430,11 @@ a *v fH
 
 0 0 IO 0 1 0 2 b
 
--’0 0 TT 0 0 6 0 O
+-’0 0 TT 0 0 6 0 0
 
 o- 0 '} & r O I Si
 
-0 °T 0 0 Oi O O
+0 °T 0 0 0i O O
 
 0 © 6' 0 6 9 O J
 
@@ -18444,9 +18444,9 @@ o- 0 '} & r O I Si
 
 0 0 il 0 0 3 O O
 
-0 0 3i 0 0 7 0 O
+0 0 3i 0 0 7 0 0
 
-0 0 Oi 0 0 1 O O
+0 0 0i 0 0 1 O O
 
 0 0 oi 0 0 o3 O
 

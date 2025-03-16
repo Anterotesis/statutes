@@ -5716,7 +5716,7 @@ Ib. oz.dr.pts.
 
 3 0* 2 TT
 
-3 0 O
+3 0 0
 
 12 Penny Loaf.
 
@@ -11922,7 +11922,7 @@ I 6 8
 
 3 IO O
 
-2 0 O
+2 0 0
 
 I.
 
@@ -12566,7 +12566,7 @@ SEAL SKINS,
 
 290 i8£ 18 5 H 6 3l IS t6 3 133
 
-And besides for every Pound \ Weight I o o o o 0 6 163 0 0 O 6* O 0 6 16* O O O 6i
+And besides for every Pound \ Weight I o o o o 0 6 163 0 0 0 6* O 0 6 16* O O O 6i
 
 Dressed, except those usually called 3!
 
@@ -12728,7 +12728,7 @@ Dressed in Oil, the Pound Tanned, the Pound — Tawed, the Hide ——
 
 s. d. J. s. d. 20 1. s. a. 20 1. s. d. 20 1. s. d. 20
 
-o 2 6 o 0 0 O I 2 1 O 0 0 0 O 0 0 0
+o 2 6 o 0 0 0 I 2 1 O 0 0 0 0 0 0 0
 
 o to o *7 I 6 I8| *7 1 7 8* 1490 3i 15 5 5 '3#
 
@@ -12798,7 +12798,7 @@ C Drest or undreft, the Skin o 6 O z7 4 6 i8£ 24 *3 1 8$ 28 13 O 3$ 24 >4 5 133
 
 ELK S K I N S. ( And besides if drest in Oil. for 7 >93
 
-i every Pound Weight o 0 O 0 O 7 O 0 5 8M 0 0 7 193 0 0 5 8 U
+i every Pound Weight o 0 0 0 0 7 O 0 5 8M 0 0 7 193 0 0 5 8 U
 
 FISHERS SKINS the Piece o 5 O 27 4 6 M OO 24 ‘3 1 8-J 28 13 0 33 24 14 5 i33
 

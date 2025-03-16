@@ -7905,7 +7905,7 @@ Other Kinds of Wood and Lumber, per 1,000 feet - - 1 8 0
 
 For every 1,000 Wood Hoops - 0 5
 
-Horserf, for every 100/. of the value thereof - - 10 0 O
+Horserf, for every 100/. of the value thereof - - 10 0 0
 
 Neat Cattle, for every 100/. of the value thereof - - 10 0 0
 
@@ -8327,9 +8327,9 @@ For every 100L of the true and real Value thereof - -3
 
 £. s. d.
 
-12 0 O
+12 0 0
 
-110 110 18 0 10 O 0 0 7 0
+110 110 18 0 10 0 0 0 7 0
 
 0 14 0 110 0 5
 
@@ -21584,7 +21584,7 @@ CXUX. SCHEDULE (B.)
 
 * his deputy, without favour, affection, fee, or reward.
 
-* So help me GOD/
+'So help me GOD/
 
 SCHEDULE (C.)
 

@@ -4590,7 +4590,7 @@ By the Quarter, the Sum of - 0 0 6
 
 If otherwise taken, for each Market Day
 
-or other Day, the Sum of - 0 0 OJ
+or other Day, the Sum of - 0 0 0J
 
 For every Waggon used by any Person for exposing or in which shall be exposed to Sale any Article, Commodity, or Thing, for each Market Day or other Day, the Sum of - 0 1 6
 
@@ -4614,7 +4614,7 @@ By the Quarter, the Sum of - 0 0 6
 
 If otherwise taken, for every Market Day
 
-or other Day in the Week, the Sum of 0 0 OJ
+or other Day in the Week, the Sum of 0 0 0J
 
 If the Compartment or Space be not within the covered Market:—
 

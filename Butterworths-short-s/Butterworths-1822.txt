@@ -19452,11 +19452,11 @@ I 1 0
 
 0 5 3
 
-10 O 0
+10 0 0
 
-10 O 0
+10 0 0
 
-10 O 0
+10 0 0
 
 CAP. CXX.
 
@@ -23038,7 +23038,7 @@ Such part of the Balance of Public Money remaining in the Exchequer, or which ma
 
 532, 350 0 0 559, 650 0 0
 
-81, 900 0 O
+81, 900 0 0
 
 55, 616 5 1
 
@@ -23842,7 +23842,7 @@ British Currency net.
 
 1, 500 0 0 1, 449 19 4 1, 200 0 0
 
-28,000 0 O
+28,000 0 0
 
 3, 092 6 2
 

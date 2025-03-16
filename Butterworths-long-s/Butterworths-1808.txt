@@ -4240,7 +4240,7 @@ o
 
 o
 
-*5 0 O
+*5 0 0
 
 0 10 O
 
@@ -6590,7 +6590,7 @@ I 11 6 0 4
 
 19 11 6 O4 6
 
-21 0 0 OS Q
+21 0 0 0S Q
 
 ouse, in the
 
@@ -18850,7 +18850,7 @@ On O <* i-O On m ^"VO On - ^"VO Os CO VO HI inON'OO'O cv On M M' M M HI NO 1
 
 *0Ov^vj no 'O'Oio'Oovo VO VO VO NOO rs^t^ 4^00»00 00 On
 
-6 0 0 0 0 OOOO OOOO 0
+6 0 0 0 0 0OOO OOOO 0
 
 D O H Mi tsOsw m VOQO O en \000 M m _m m«VJO cnoo t^to n MM MM H^ M VCN
 
@@ -19052,7 +19052,7 @@ and under and under and undei and under and under and under and under and under 
 
 48° GEO. III. A.D. 1808.
 
-0 0, 0 O 0 0 O O 0 0 0 0 0 0 0 0 O 0
+0 0, 0 0 0 0 0 O 0 0 0 0 0 0 0 0 0 0
 
 V) rs Os4 CO VO 00 P CO Vi 00 vo 00«VO M VO M VO 1
 
@@ -19060,7 +19060,7 @@ V) rs Os4 CO VO 00 P CO Vi 00 vo 00«VO M VO M VO 1
 
 to >0 vo vo v> VO vo vo vo vo VO VO vo vo ts rs rs ts 00 00
 
-0 0 0 O O 0 0 0 0 0 ' O O 0 0 d O 0 O 0 0
+0 0 0 0 O 0 0 0 0 0 ' O O 0 0 d O 0 0 0 0
 
 >0 00 0 0 + IS os N rs O co IS M os 0 <4-
 
@@ -19068,7 +19068,7 @@ M M s M M M >4 M
 
 to vo V) V) to vo VO VO vo VO VO VO VO is rs <s rs .00 00
 
-0 0 0 O 0 O O 0 0 0 O O 0 0 O O 0 0 0 0
+0 0 0 0 0 0 O 0 0 0 0 O 0 0 0 O 0 0 0 0
 
 co tN Ov M CO VO 004 CO vo OS (S vo O co 00 co 00 CO
 
@@ -19076,7 +19076,7 @@ M H s 4 M 14
 
 0 Vi V) vo VO 'to vo vo VO vo VO vo ts ts ts rs 0 00
 
-O 0 O O O O 0 0 0 O 0 0 0 0 O O O 0 O
+O 0 O O O O 0 0 0 0 0 0 0 0 0 O O 0 0
 
 «o «4- VO 00 O c* vo rs 0 W4*0B M to os N ts X >4 IS M
 
@@ -19084,7 +19084,7 @@ M M M* "* Hi H 14
 
 to vj Vi Vi VO0 to VO vo VO vo VO vo VO is r> rs is 00
 
-O 0 O O 0 O O 0 O 0 O 0 0 0 O 0 O O 0 0
+O 0 O O 0 O O 0 0 0 0 0 0 0 0 0 0 O 0 0
 
 n M iO is ov 4 -t* vo Os 0 co VO 0 CO r» 0 VO O vo 0
 
@@ -19092,7 +19092,7 @@ n M iO is ov 4 -t* vo Os 0 co VO 0 CO r» 0 VO O vo 0
 
 ' to Vi VO Vi to vo vi tO vo vo vo VO VO vo VO IS ts rs IS QO
 
-0 O O 0 O O O O O 0 0 O O 0 O 6 O O 0 O
+0 O O 0 O O O O O 0 0 0 O 0 O 6 O O 0 0
 
 H CO 4$- VO OO, Hi CO vo OO OS M VO os c* VO Ov4- 00 CO OO
 
@@ -19100,7 +19100,7 @@ M M M M M 14 Hi M Hi
 
 V) vo vi Vi Vi vo VO tO VO VO VO VO vo VO VO VO ts ts ts rs
 
-O 0 O O, 0 O O O O 0 O 0 0 0 O 0 0 0 O O
+O 0 O O, 0 O O O O 0 0 0 0 0 0 0 0 0 0 O
 
 O n VO rs O c* K GO M <4- is vo CO CS rs«VO
 
@@ -19108,7 +19108,7 @@ M M H M 14* M c* Hi M
 
 ' vo vi Vi vi voo VO > V» to VO v* VO vo VO 0 ts ts rr IS
 
-0 O 0 O O 0 O O 0 O O O 0 O 0 O 0 0 O
+0 0 0 0 O 0 O O 0 O O O 0 0 0 0 0 0 0
 
 0 M CO Vi ts C?\ M CO VO ts O «i vo 0 <0 rs M VO 0 VO
 
@@ -19118,7 +19118,7 @@ M M H M 14* M c* Hi M
 
 4*
 
-O 0 0 O 0 O 0 O 0 O O 0 0 O.0 0 0 O 0 O
+O 0 0 0 0 0 0 0 0 0 O 0 0 0.0 0 0 0 0 0
 
 Os 0* a VO 0* 0 e* to VO Os cs vo OS (S to O -4- os CO
 
@@ -19126,7 +19126,7 @@ M M M M HI 44 M
 
 >0 V) vo V) VO vi VO VO vo to vo VO vo VO VO ts ts r* ts
 
-O O 0 O 0 O O O O 0 0 0 0 0 0 0 0 0 O O
+O O 0 0 0 0 O O O 0 0 0 0 0 0 0 0 0 0 O
 
 OO OS M CO. vo Is OV M "4* VO 00 M is 14 + 00 CO rs f*
 
@@ -19174,7 +19174,7 @@ V to and under 62 and under and under and under and under and under and under an
 
 A.D. 1808; 48° GEO. nti C. 14a.' 5*7
 
-0 O, O O O O 0, O 0 0 O 0 0 O 0
+0 O, O O O O 0, O 0 0 0 0 0 0 0
 
 o\ O d*'O <P 0 CO vo OV d vo 00, d vo
 
@@ -19182,7 +19182,7 @@ X X X X X M X
 
 *0o »00 VO VO vo VO VO Vo VO VO VO VO VO
 
-0 O 0 O 0 O O 0 0 O 0 0 O O 0 0
+0 0 0 0 0 O O 0 0 0 0 0 0 O 0 0
 
 CO O X O0 IN, Ov d «o vo 00 X ' fN 0
 
@@ -19190,7 +19190,7 @@ X X X X X X X
 
 T* VO V) Vo VO VO VO VO vo VO VO VO vo VO vo
 
-O O O O 0 0 O O O O 0 O 0 0 0 0
+O O O O 0 0 0 O O O 0 0 0 0 0 0
 
 r- Os X d VO 00 M X IN, OV d vo OV <0
 
@@ -19198,7 +19198,7 @@ X M M M X. X X
 
 0 vj w» Vo VO0 vo VO y> VO vo VO v> vo
 
-O O O O'O 0 O O 0 O 0 O 0 0 0 0
+O O O O'O 0 O O 0 0 0 0 0 0 0 0
 
 vo 00 O M CO VO in O 0 CO 'O 00 X Vo ot>4
 
@@ -19206,7 +19206,7 @@ M M M.* X X
 
 *0 VO VO Vo000 VO vo »o VO VO vo
 
-0 0 0 O 0, 0 O O 0 O O 0 0 0 0 0
+0 0 0 0 0, 0 O O 0 O O 0 0 0 0 0
 
 VO IN o\ O O + VO Ov Ov N«C IN 0 CO IN. p
 
@@ -19214,7 +19214,7 @@ X X X X X.X X
 
 o VO VO Vo VO vo VO vo VO vo VO vo VO
 
-O O 0 O O '0 0 O 0 O 0 O O O 0 O
+O O 0 O O '0 0 0 0 0 0 O O O 0 0
 
 ,0 VO 00 O X co Vo 00 00 X <0 VO OV d VO Ov
 
@@ -19222,7 +19222,7 @@ X H X - X x- X
 
 '* w> VO VO Vo VO vo Vo Vo vo vo VO vo vo
 
-0 O 0. O O 0 0 O 0 O 0 O O 0 0 0
+0 0 0. O O 0 0 0 0 0 0 O O 0 0 0
 
 't*0 fN Ov d IN, tN O d vo 00 X- IN.
 
@@ -19230,7 +19230,7 @@ X M X X X X
 
 .«- VO VO VO W vo vo vo VO vo »o vo vo vo
 
-O O O 0 0 0 0 O 0 O O O O 0 0 0
+O O O 0 0 0 0 0 0 0 O O O 0 0 0
 
 V) VO 00 0 M <0 VO vo On vc ov CO vo
 
@@ -19238,7 +19238,7 @@ X M M X X. X
 
 o VO VO vo vo O Vo vo VO0 0 vo
 
-O 0 O O O 0 0 O 0 O 0 O O O 0
+O 0 O O O 0 0 0 0 0 0 O O O 0
 
 d Th0N Ov M d Vo0 00 0 CO VO00 H vo
 
@@ -19246,7 +19246,7 @@ X M X X M X X X X
 
 - Vo vo vo vo vo vo vo Vo vo JL vo
 
-O O 0 O O 0 0 O 0 O 0 0 0 O 0 0
+O O 0 O O 0 0 0 0 0 0 0 0 0 0 0
 
 (1 «0 vo 00 0 x CO- vo OV X rf- 0.CO
 
@@ -19254,7 +19254,7 @@ X X M X X X'X
 
 Vo0 Vo vo vo VO vo Vo VO \VO vo
 
-O O O O 0 0 O 0 O O 0 0 0 O 0 0
+O O O O 0 0 0 0 0 O 0 0 0 0 0 0
 
 x <+ O IN Ov X d0 Vo 00 0 CO VO Ov d
 
@@ -21038,9 +21038,9 @@ s 9>4*9 18 0
 
 1, 047 10 2
 
-740 0 O
+740 0 0
 
-10, 000 0 O
+10, 000 0 0
 
 1, 250 13 1
 
@@ -21912,7 +21912,7 @@ I IO 0
 
 100 0 0
 
-IJO 0 O
+IJO 0 0
 
 A.D. 1808. 48° GEO. III. C. 149.
 
@@ -22830,9 +22830,9 @@ S Q 0
 
 7 20 0
 
-10 O 0
+10 0 0
 
-20 O 0
+20 0 0
 
 3° O 0
 
@@ -23460,11 +23460,11 @@ I IO Q
 
 4a 0 0
 
-50 0 O
+50 0 0
 
-7S 0 O
+7S 0 0
 
-ISO 0 O
+ISO 0 0
 
 IJO 0 0
 
@@ -23698,11 +23698,11 @@ I IO 0
 
 10 0 0
 
-12 0 O
+12 0 0
 
 *5 0 0
 
-20 0 O
+20 0 0
 
 603
 
@@ -24840,19 +24840,19 @@ Duty.
 
 s 0 0
 
-8 0 O
+8 0 0
 
-11 0 O
+11 0 0
 
-15 0 O
+15 0 0
 
-22 0 O
+22 0 0
 
-30 0 O
+30 0 0
 
-V> 0 O
+V> 0 0
 
-SO 0 O
+SO 0 0
 
 INVENTORY — coninued.'
 

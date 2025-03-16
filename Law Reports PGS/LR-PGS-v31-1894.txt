@@ -22878,11 +22878,11 @@ Table of Maximum Fees to be paid for the Measurement of Merchant Ships.
 
 £ s. d.
 
-For a ship under 50 tons register tonnage - - 1 0 O
+For a ship under 50 tons register tonnage - - 1 0 0
 
 99 from 50 to 100 tons 99 - 1 10 O
 
-99, 100 to 200, 99 - - 2 0 O
+99, 100 to 200, 99 - - 2 0 0
 
 99, 20u to 500, 99 - - 3 0 0
 
@@ -22916,9 +22916,9 @@ Certificate as first-class engineer Certificate as second-class engineer
 
 2 0 0
 
-1 0 O
+1 0 0
 
-2 0 O
+2 0 0
 
 1 0 0
 

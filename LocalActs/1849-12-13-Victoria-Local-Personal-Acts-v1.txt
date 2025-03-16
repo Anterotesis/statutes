@@ -9350,7 +9350,7 @@ Rates and Duties.
 
 9. All Steam Vessels from any Port in Great Britain, or Places enumerated in Number 7., carrying Passengers and their Luggage exclusively ... 0 0 2 Per Ditto.
 
-10. All Steam Vessels employed in the River Tay only, and carrying Passengers and their Luggage exclusively - 0 0 OJ Per Ditto.
+10. All Steam Vessels employed in the River Tay only, and carrying Passengers and their Luggage exclusively - 0 0 0J Per Ditto.
 
 11. All Steam Vessels carrying Goods and Passengers 0 0 1£ Per Register Ton.
 
@@ -24526,7 +24526,7 @@ Cork Wood, loose . Ton - 2 3 0 4 0 9
 
 Corks, large - Bag - 0 H 0 0i 0 Oi
 
-, small - - _ - 0 i 0 0 Oi
+, small - - _ - 0 i 0 0 0i
 
 Crates of Ware, 10 Cwt. - large - 0 9 0 03 0 3
 

@@ -10283,7 +10283,7 @@ I 0 0
 
 4 0 4
 
-4 0 O
+4 0 0
 
 2 0 4
 
@@ -12112,7 +12112,7 @@ I i a
 
 0 12 6
 
-30 O 0
+30 0 0
 
 0 O 4
 
@@ -12462,19 +12462,19 @@ ells, containing one hundred and twenty r — r — working canvas {yoad, the hu
 
 I 10 0
 
-10 O 0
+10 0 0
 
 7 4 0
 
 o S Q
 
-5 0 O
+5 0 0
 
-20 0 O
+20 0 0
 
-40 0 O
+40 0 0
 
-IO 0 O
+IO 0 0
 
 5 Q Q
 
@@ -12498,9 +12498,9 @@ IO 0 O
 
 90 Q
 
-to 0 O
+to 0 0
 
-l> 0 O
+l> 0 0
 
 3 0 0
 
@@ -12508,7 +12508,7 @@ l> 0 O
 
 1 10 0
 
-; 0 O
+; 0 0
 
 0 18 0
 
@@ -16783,7 +16783,7 @@ P 3 Q
 
 0 1 <4.
 
-1 0 O
+1 0 0
 
 1 IP O
 
@@ -17089,9 +17089,9 @@ Ladles nmat. melting ladles, the hundred.weight, containing one hundred and twel
 
 030 030 300 8 o o 4 00 I 10 o 1 10 o 030 400 600
 
-2 0 O
+2 0 0
 
-8 0 0 O3O lOO
+8 0 0 03O lOO
 
 0 JO IQ Q
 
@@ -19053,7 +19053,7 @@ I 10 a
 
 o 10 0 800
 
-0 3 4 100 o 10 0 O 13 4 o 10 0 600 o 10 0
+0 3 4 100 o 10 0 0 13 4 o 10 0 600 o 10 0
 
 a farthing
 
@@ -19061,7 +19061,7 @@ o 13 4 003
 
 026
 
-o 16 0 o 10 0 o 10 0 O 3 4
+o 16 0 o 10 0 o 10 0 0 3 4
 
 o 16 0 0 2 0
 

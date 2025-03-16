@@ -3626,7 +3626,7 @@ t
 
 23 12 6 7 17 6 3* 10 0
 
-J9 139155 0 6113 5 jo 26 5 0 21 0 O
+J9 139155 0 6113 5 jo 26 5 0 21 0 0
 
 0 1590 5 .3 I I O
 
@@ -11112,19 +11112,19 @@ And for every additional Body successively used on the same Car-, ri&ge or Numbe
 
 £. s. d.
 
-12 0 O
+12 0 0
 
-13 0 O
+13 0 0
 
-H 0 O
+H 0 0
 
-*5 0 O
+*5 0 0
 
 *5 15 O
 
 16 8 O
 
-*7 0 O
+*7 0 0
 
 *2 12 O
 
@@ -13134,7 +13134,7 @@ t
 
 30 O O
 
-20 O 0
+20 0 0
 
 Duty.
 
@@ -13314,7 +13314,7 @@ Where such Sum or Value shall Exceed 300I. and shall not exceed 400I. -
 
 o 10 o
 
-2 0 O
+2 0 0
 
 0 5
 
@@ -13886,21 +13886,21 @@ GRANT from His Majesty, his Heirs and Successors, which shall pass the Great Sea
 
 150 0 0
 
-350 O 0
+350 0 0
 
-300 O 0
+300 0 0
 
-250 O 0
+250 0 0
 
-200 O 0
-
-IOO O 0
-
-150 O 0
+200 0 0
 
 IOO O 0
 
-20 O 0
+150 0 0
+
+IOO O 0
+
+20 0 0
 
 20 o
 
@@ -13962,13 +13962,13 @@ SCHEDULE, PART I, Duty.
 
 GRANT — tontitrued. Where the Salary, Fee's and Emolument* appertaining thereto, shall not amount to 50I. per £. i. d.
 
-Annum -And where the same shall amount to 50L and not 2 0 O
+Annum -And where the same shall amount to 50L and not 2 0 0
 
 amount to loot, per Annum And where the same shall amount to iool. and not*0 O
 
-amount to 200b per Annum And where the same shall amount to zool- and not 5 0 O
+amount to 200b per Annum And where the same shall amount to zool- and not 5 0 0
 
-amount to 300I. per Annum And where the same shall amount to 300I. and not 10 0 O
+amount to 300I. per Annum And where the same shall amount to 300I. and not 10 0 0
 
 amount to cool, per Annum And where the same shall amount to 500I. and not 20 0
 
@@ -34052,7 +34052,7 @@ f 0 0
 
 2 0 0
 
-o 0 0 o o 0 0 0 O 0
+o 0 0 o o 0 0 0 0 0
 
 0 0
 
@@ -34390,7 +34390,7 @@ not amount to 12,500l. HO 0 n
 
 And where the same shall amount to 12,500l. and
 
-not amount to 15,000l. - r30 O 0
+not amount to 15,000l. - r30 0 0
 
 And where the same shall amount to 15,000l. and
 
@@ -35046,11 +35046,11 @@ I 20 0
 
 4 O 0
 
-10 O 0
+10 0 0
 
-20 O 0
+20 0 0
 
-30 O 0
+30 0 0
 
 5 O 0
 
@@ -37940,9 +37940,9 @@ I2, $oo, oooo o Lotteries
 
 IX.
 
-1, 500, 000 O 0
+1, 500, 000 0 0
 
-4, 500, 000 O 0
+4, 500, 000 0 0
 
 15, 000, 000 0 0
 
@@ -38326,7 +38326,7 @@ k
 
 99, 826 o o 1, 099, 961 o o
 
-91, 600 O 0 13, 322 14 4
+91, 600 0 0 13, 322 14 4
 
 47, 002 o 6
 

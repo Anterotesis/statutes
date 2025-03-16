@@ -3816,7 +3816,7 @@ Name of Borrower. Act authorising Advance. Amount Advanced. Amount Repaid. Amoun
 
 ' Giies Eyre Lambert The Landed Property £ s. d. 500 0 0 £ s. d. 182 0 10 £ a. d. 317 19 S
 
-Ditto Improvement (Ireland) Act, 1847 (10 Vict. c. 32). Do. 100 0 0 100 0 O
+Ditto Improvement (Ireland) Act, 1847 (10 Vict. c. 32). Do. 100 0 0 100 0 0
 
 Core McCarthy Do. - 90 0 0 41 16 9 3 3 5
 
@@ -3840,7 +3840,7 @@ Michael O’Brien - Do. - 60 0 0 30 17 8 29 2 4
 
 James Collins Do. 17 0 0 6 18 1 10 1 11
 
-P. J. Burke Do. - 200 0 O 76 6 8 123 13 4
+P. J. Burke Do. - 200 0 0 76 6 8 123 13 4
 
 Denis Hartnett Do. 100 0 0 16 17 11 83 2 I
 

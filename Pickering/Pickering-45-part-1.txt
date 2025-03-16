@@ -2620,7 +2620,7 @@ Cinnabaris Nativa, the lb. 018 0 1 (,
 
 Cinnamon, the lb. Cinamoni Oleum, as Oil of Cinnamon. See Oil. 022 0 i q
 
-Citterns of Latten, the lb. Citron, viz; — preserved with salt, for every j£.ioo of the value preserved with Sugar, as Succards. SeeSuccards. 00 0 O O 00 CO 0 0 6 29 8
+Citterns of Latten, the lb. Citron, viz; — preserved with salt, for every j£.ioo of the value preserved with Sugar, as Succards. SeeSuccards. 00 0 0 O 00 CO 0 0 6 29 8
 
 Civet, the oz. troy. Clap Boards. See Boards in Wood. Clay, fine clay and land clay, free. 029 018
 
@@ -4458,7 +4458,7 @@ Duty. Dnvba c
 
 0 0 6 O 0
 
-0 0 10 O 0 ]
+0 0 10 0 0 ]
 
 O 3 4 O 2
 
@@ -4920,7 +4920,7 @@ Duty. Drawback.
 
 1 0 11 0 17 3
 
-O 00 O 073
+O 00 0 073
 
 3 19 2 072
 
@@ -5384,7 +5384,7 @@ Sea Cow Teeth, the lb., 0 0 10 0 0 8
 
 Sea Holly Roots, the cwt. 7 0 12 1 0 16 0
 
-Sea Hone Teeth, the lb. 0 i 0 0 O XI
+Sea Hone Teeth, the lb. 0 i 0 0 0 XI
 
 Sea Morft; Teeth, die lb. 0 0 11 0 0 10
 
@@ -7232,7 +7232,7 @@ tzi 0 19 4'1
 
 180 1 4 4
 
-056 <6 0 O
+056 <6 0 0
 
 0 1 10 1 0 1 g
 
@@ -9430,11 +9430,11 @@ For and upon every licence to any person to fell'me-thegKn or m^ad by retail - t
 
 For and upon every licence to any person in Ireland, to fell or n>ake any gold or silver plate for sale - 1 o O*
 
-For and upon every licence to any person in Ireland, to keep a tan-yard or tan»pit, or tan leather for sale 100 For and upon every licence to any person in Ireland, to dress hides and skins in oil - I 0 O
+For and upon every licence to any person in Ireland, to keep a tan-yard or tan»pit, or tan leather for sale 100 For and upon every licence to any person in Ireland, to dress hides and skins in oil - I 0 0
 
 For and upon every licence to any person in Ireland, to make vellum and parchment - 1 0 o
 
-For and upon every licence to any person to fell any kind of spirituous liquors by retail in the city of Dublin, or within the circular road surrounding the said city, and within the district of the metropolis 30 O 0 For and upon every licence to any person to felt any kind of spirituous liquors by retail, beyond the said circular road and wall of his Majesty's park the Phoenix, not more than two miles distant therefrom - - -20 o o
+For and upon every licence to any person to fell any kind of spirituous liquors by retail in the city of Dublin, or within the circular road surrounding the said city, and within the district of the metropolis 30 0 0 For and upon every licence to any person to felt any kind of spirituous liquors by retail, beyond the said circular road and wall of his Majesty's park the Phoenix, not more than two miles distant therefrom - - -20 o o
 
 For and upon every licence to any person to fell any kind of spirituous liquors by retail, in every other place within the district of the excise office of Dubtin, beyond the circular road and wall of his Majesty's park the Phoenix, not distant more than five miles therefrom -'-, - -1500
 
@@ -9490,7 +9490,7 @@ Hament, for each and every brewhouse used by
 
 such person - - to O
 
-For and upon every licence to any person in any other place in Ireland to brew strong beer or ale, or small beer for sale, for each and every brewhouse used by such person - - io 0 O
+For and upon every licence to any person in any other place in Ireland to brew strong beer or ale, or small beer for sale, for each and every brewhouse used by such person - - io 0 0
 
 for and upon every licence to any person to keep any coffee-house - - % - -200
 
@@ -20582,7 +20582,7 @@ T AI S. upon my corporal oath, in the presence of Almighty Oath.
 
 X God, do solemnly swear, profess, and declare. That all and every person and persons whole name or names is or are inferred and contained in the lift by me now delivered in, and subscribed, was or were, to the best of my knowledge and belief, upon the first day of January one thousand eight hundred and four, really and truly prisoners in actual custody in the prison of {insert the name of the prison) at the suit or suits of the several person or persons therein respectively mentioned (sr, for costs or contempt, as the case may be), and, to the best of my knowledge and belief, have ever since continued to be, and at the time of the delivery of this lift now are really and truly prisoners in actual custody.
 
-" So help me GOD."
+'So help me GOD."
 
 Which oath the said justices, at their first or second general Oath to be quarter session, or general session aforesaid, or at some adjourn- administered jnent thereof, within their respective jurisdictions, are hereby re- 10 °Pcftcourt* quired and empowered to administer in open court; and the words of the said oath herein-before directed to he taken by the Ibid.warden and marshal respectively, and other keeper or gaoler of any prison respectively, shall be entered or written at the cqd
 
@@ -20778,7 +20778,7 @@ in custody in some other prison or prisons, as the case may be] to the bed of my
 
 and produced to the said court, is [or, are] a true copy or copies of the cause or causes of such commitment qc detainer, without any fraud or deceit by me, or any other person whatsoever, to the bed of my knowledge and belief.
 
-u So help me GOD."
+'So help me GOD."
 
 If the person And if any person who was keeper or gaoler or deputed delivering in or gaoler of any such prison or gaol on the said first
 

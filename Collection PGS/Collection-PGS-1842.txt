@@ -15298,7 +15298,7 @@ Chinchilla, undressed - the Dozen Skins 0 2 0 0 1 o
 
 Coney, undressed - the 100 Skins 0 0 6 0 0 3
 
-Deer, undressed ... the Skin 0 0 1 0 0 OJ
+Deer, undressed ... the Skin 0 0 1 0 0 0J
 
 Indian, half-dressed - the Skin 0 0 2 0 0 1
 
@@ -15450,7 +15450,7 @@ Muscovy or Russia Hides, or Pieces thereof, tanned, coloured, shaved, or otherwi
 
 Hides, or Pieces thereof, raw or undressed, not otherwise enumerated - for every 100/. Value o o 2 10 0
 
-Hides, or Pieces thereof, tanned, tawed, curried, or in any way dressed, not otherwise enumerated - for every 100L Value 10 O 0 .500
+Hides, or Pieces thereof, tanned, tawed, curried, or in any way dressed, not otherwise enumerated - for every 100L Value 10 0 0 .500
 
 Class XI. — Manufactures of Leather. Leather Manufactures, viz. Boots, Shoes, and Calashes, viz. — Women's Boots and Calashes - the Dozen Pairs ' ' i. 0 12 0 0 12 0
 
@@ -15670,7 +15670,7 @@ with Cotton or with Wool, not particularly enumerated or otherwise charged with 
 
 5
 
-5 O 0 O
+5 O 0 0
 
 O 1 0 6
 
@@ -15750,7 +15750,7 @@ Goats, or Hair - - the Cwt. 0 2 6 Free.
 
 Hares - - the lb. 0 0 1 Free.
 
-Sheep or Lambs Wool, viz. not being of the Value of la. the lb. thereof - the lb. 0 0 OJ Free.
+Sheep or Lambs Wool, viz. not being of the Value of la. the lb. thereof - the lb. 0 0 0J Free.
 
 being of the Value of la. the lb., or upwards - - the lb. 0 0 1 Free.
 
@@ -15792,7 +15792,7 @@ ARTICLES. Of or from Foreign Countries. Of and from British Possessions.
 
 Class XIII. — Glass, Earthenware, and Porcelain — continued. £ $. d. £ s. d.
 
-Earthenware, not otherwise enumerated or described - - for every 100L Value 10 0 0 10 0 O
+Earthenware, not otherwise enumerated or described - - for every 100L Value 10 0 0 10 0 0
 
 Enamel ..... the lb. 0 2 0 0 2 0
 
@@ -15816,9 +15816,9 @@ Glass, viz. Crown Glass, or any Kind of Window Glass, not exceeding One Ninth of
 
 containing more than 36 Square Feet, the Square Foot 0 7 0 0 7 0
 
-Glass Manufactures not otherwise enumerated or described, and old broken Glass fit only to be re-manufactured the Cwt. I 0 0 1 0 O
+Glass Manufactures not otherwise enumerated or described, and old broken Glass fit only to be re-manufactured the Cwt. I 0 0 1 0 0
 
-and further, on account of the Excise Duty - - the Cwt- 10 0 1 0 O
+and further, on account of the Excise Duty - - the Cwt- 10 0 1 0 0
 
 Paintings on Glass - for every 100/. Value 5 0 0 5 0 0
 
@@ -16042,7 +16042,7 @@ SO 0 0 5 0 0
 
 4*0 0 0 40 0 0
 
-30 O 0 20 0 0 30 0 0 20 0 0
+30 0 0 20 0 0 30 0 0 20 0 0
 
 0 5 0 0 2 6
 
@@ -16758,7 +16758,7 @@ Of or from Foreign Countries. Of and from British Possessions.
 
 10 0 0 10 0 0
 
-15 0 0 O o
+15 0 0 0 o
 
 1 0 0 1 0 0
 
@@ -30754,7 +30754,7 @@ XII. And be it enacted, That the Justices shall cause the Persons so chosen to b
 
 [or Parishes of D.E^ §*c.] for the Year now next following, or until another Constable shall be sworn in my Stead, according to the best of my Skill and Knowledge.
 
-4 So help me GOD/ Substitutes may Provided always, that if any qualified Person chosen as aforesaid u 11 - J shall be unwilling to serve the Office of Constable in Person, and shall find a Substitute, to be approved by the Justices, and willing to serve for him, the Person so chosen and unwilling to serve shall attend with his proposed Substitute at the Time and Place appointed for swearing in Constables; and the Justices, if they shall approve of such proposed Substitute, shall caost the Oath to be administered to him, instead of the Person to chosen and unwilling to serve; but the Service of any Person as Substitute for another Person shall not be reckoned as his own Service, so as to exempt him from being sooner chosen to serve in his own Person than otherwise he would have been liable to.
+'So help me GOD/ Substitutes may Provided always, that if any qualified Person chosen as aforesaid u 11 - J shall be unwilling to serve the Office of Constable in Person, and shall find a Substitute, to be approved by the Justices, and willing to serve for him, the Person so chosen and unwilling to serve shall attend with his proposed Substitute at the Time and Place appointed for swearing in Constables; and the Justices, if they shall approve of such proposed Substitute, shall caost the Oath to be administered to him, instead of the Person to chosen and unwilling to serve; but the Service of any Person as Substitute for another Person shall not be reckoned as his own Service, so as to exempt him from being sooner chosen to serve in his own Person than otherwise he would have been liable to.
 
 be allowed.
 
@@ -33224,7 +33224,7 @@ II. And be it enacted, That each Inspector General shall, before he acts in the 
 
 4 J A.B. do swear, That I will discreetly, impartially, and faithfully execute all the Trusts committed unto me by virtue of an Act passed in the Sixth Year of the Reign of Her Majesty Queen Victoria) intituled [insert Title of this Act\ and that I will keep secret all such Matters as come to my Knowledge in the Execution of my Office (except when required to divulge the same by legal Authority), or so far as I shall feel myself called upon to do so for the better Execution of the Duty imposed upon me by this Act.
 
-4 So help me GOD.' Which Oath it shall and may be lawful for the Lord Chancellor to administer to every such Inspector General.
+'So help me GOD.' Which Oath it shall and may be lawful for the Lord Chancellor to administer to every such Inspector General.
 
 III. And be it enacted, That from and after the Commencement of this Act it shall not be lawful for any Person to keep a House for the Reception of Two or more Insane Persons in Ireland unless the same shall have been first duly licensed in the Manner directed by this Act; and every Person keeping a House for the Reception of Two or more Insane Persons, not duly licensed, shall be deemed guilty of a Misdemeanor: Provided always, that no One Licence shall authorize any Person to keep more than One such House.
 

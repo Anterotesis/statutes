@@ -5071,7 +5071,7 @@ For and upon all deer skins, goat skins and beaver skins, for every pound weight
 
 0 10
 
-0 0 1 0 0 OJ
+0 0 1 0 0 0J
 
 0 0 2 0 0 S 0 0 2 0 0 1*
 
@@ -5187,7 +5187,7 @@ i I 0 0 0 0 2 3
 
 0 0 0 0 3 0 j
 
-0 O 0 o o 1}1
+0 0 0 o o 1}1
 
 0 0 0 0 3 0
 
@@ -5273,7 +5273,7 @@ For and upon every square yard of printed, painted, or stained paper for hanging
 
 £. s. d
 
-0 0 Oh 0 5 0 0 10 0
+0 0 0h 0 5 0 0 10 0
 
 0 0 2h
 
@@ -5413,7 +5413,7 @@ On importation into Great Britain from Ireland. ARTICLES.
 
 0 0 0 0 0 1
 
-0 0 0 0 0 Oh 1
+0 0 0 0 0 0h 1
 
 SILK MANUFACTURE.
 
@@ -5601,7 +5601,7 @@ Customs.
 
 £ f d.
 
-O 0 O 0 0 0
+O 0 0 0 0 0
 
 0 5-0
 
