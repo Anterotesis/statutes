@@ -6658,21 +6658,21 @@ Where the amount of the appraisement not exceed 61. - or valuation does 0 0 3
 
 Exceeds 51. and does not exceed 10/. - 0 0 6
 
-, 10/. 11 201. - - 0 1 0
+, 10/. 11 20l. - - 0 1 0
 
-, 20/. 11 SO I. - - 0 1 6
+, 20/. 11 30/. - - 0 1 6
 
 , 30/. 11 40/. - 0 2 0
 
 , 40/. 11 50/. - 0 2 6
 
-, 50/. 11 100/. - 0 5 0
+, 50/. 11 100l. - 0 5 0
 
-, 100/. 11 200/. - 0 10 0
+, 100l. 11 200l. - 0 10 0
 
-, 200/. 11 500/. - 0 15 0
+, 200l. 11 500l. - 0 15 0
 
-, 500/. - - 1 0 0
+, 500l. - - 1 0 0
 
 Exemptions.
 
@@ -6756,13 +6756,13 @@ Exceeds 5/. and does not exceed 10/. 0 0 6
 
 , 40/. 11 50/. 0 2 6
 
-, 50/. 1) 100/. 0 5 0
+, 50/. 1) 100l. 0 5 0
 
-, 100/. 11 200/. 0 10 0
+, 100l. 11 200l. 0 10 0
 
-, 200/. 11 500/. 0 15 0
+, 200l. 11 500l. 0 15 0
 
-, 500/. )1 750/. 1 0 0
+, 500l. )1 750/. 1 0 0
 
 , 750/. 11 1,000l. - 1 5 0
 
@@ -6802,7 +6802,7 @@ Exceeding 51. and not exceeding 10/. - 0 1 9
 
 , 30/., 50/. - 0 5 0
 
-, 50/., 100/. - 0 8 6
+, 50/., 100l. - 0 8 6
 
 And see sections 29, 30, and 31.
 
@@ -6824,11 +6824,11 @@ Exceeds 51. and does not exceed 10/.
 
 , 50/. 91 75/.
 
-, 75/. 99 100/.
+, 75/. 99 100l.
 
-, 100/. —
+, 100l. —
 
-for every 100/., and also for any fractional part of 100/., of such amou%t or value -
+for every 100l., and also for any fractional part of 100l., of such amou%t or value -
 
 0 0 1
 
@@ -6968,13 +6968,13 @@ Exemptions.
 
 (1.) Bond given by the widow, child, father, mother, brother or sister, of any common seaman, marine or soldier, dying in the service of Her Majesty.
 
-(2.) Bond given by any person where the estate to be administered does not exceed 100/. in value.
+(2.) Bond given by any person where the estate to be administered does not exceed 100l. in value.
 
 BOND of any kind whatsoever not specifically charged with any duty:
 
 0 5 0
 
-Where the amount limited to be recoverable does not exceed 300/.
+Where the amount limited to be recoverable does not exceed 300l.
 
 ; (
 
@@ -7086,9 +7086,9 @@ CONTRACT. See Agreement.
 
 CONTRACT NOTE for or relating to the sale or purchase of any stock or marketable security —
 
-Of the value of 51. and under the value of 100/. -00
+Of the value of 51. and under the value of 100l. -00
 
-, 100/. or upwards - -00
+, 100l. or upwards - -00
 
 And tee sections 62 and 53.
 
@@ -7098,9 +7098,9 @@ CONVEYANCE or TRANSFER, whether on sale or otherwise, —
 
 (2.) Of any stock of the Government of Canada inscribed in books kept in the United Kingdom, or of any Colonial stock to which the Colonial Stock Act, 1877, applies —
 
-For every 100/., and also for any fractional part of
+For every 100l., and also for any fractional part of
 
-100/., of the nominal amount of stock transferred - 0 2
+100l., of the nominal amount of stock transferred - 0 2
 
 And see section 62.
 
@@ -7124,23 +7124,23 @@ Exceeds 51., and does not exceed 10/. 0 1
 
 99 50/. 99 75/. 0 7
 
-99 7 51. 99 100/. 0 10
+99 7 51. 99 100l. 0 10
 
-99 100/. 99 125/. - 0 12
+99 100l. 99 125/. - 0 12
 
 99 125/. 99 160/. 0 15
 
 99 150/. 99 175/. 0 17
 
-99 175/. 99 200/. 1 0
+99 175/. 99 200l. 1 0
 
-99 200/. 99 225/. 1 2
+99 200l. 99 225/. 1 2
 
 99 225/. 99 250/. - 1 5
 
 99 250/. 9 J 275/. 1 7
 
-99 99 275/. 300/. 99 300/. 1 10
+99 99 275/. 300l. 99 300l. 1 10
 
 12 UW*.
 
@@ -7564,7 +7564,7 @@ Not exceeding 5/. per annum Exceeding — 5 Land not exceeding 10/. 0 0 6 0 3 0 
 
 50/., , 75/. 0 7 6 2 5 0 4 10 0
 
-75/., , 100/. 100/. For every full sum of 50 and also for any fractional 0 10 0 3 0 0 6 0 0
+75/., , 100l. 100l. For every full sum of 50 and also for any fractional 0 10 0 3 0 0 6 0 0
 
 part of 50/. thereof, i 0 5 0 1 10 0 3 0 0
 
@@ -7776,23 +7776,23 @@ exceeding 10/. and not exceeding 25/.
 
 , 25/. 50/.
 
-, 50/. jf 100/.
+, 50/. jf 100l.
 
-, 100/. 99 150/.
+, 100l. 99 150/.
 
-, 150/. 99 200/.
+, 150/. 99 200l.
 
-, 200/. 99 250/.
+, 200l. 99 250/.
 
-250/. 99 300/.
+250/. 99 300l.
 
-, 300/. For every 100/., and also for any fractional part of
+, 300l. For every 100l., and also for any fractional part of
 
 of the amount secured -
 
-(2.) Being a collateral, or auxiliary, or additional, or substituted security (other than an equitable mortgage), or by way of further assurance for the above-mentioned purpose where the principal or primary security is duly stamped: For every 100/., and also for any fractional part of 100/., of the amount secured -(3.) Being an equitable mortgage:
+(2.) Being a collateral, or auxiliary, or additional, or substituted security (other than an equitable mortgage), or by way of further assurance for the above-mentioned purpose where the principal or primary security is duly stamped: For every 100l., and also for any fractional part of 100l., of the amount secured -(3.) Being an equitable mortgage:
 
-For every 100/., and any fractional part of 100/., of the amount secured -(4.) Transfer, Assignment, Disposition, or Assignation of any mortgage, bond, debenture, or covenant (except a marketable security), or of any money or
+For every 100l., and any fractional part of 100l., of the amount secured -(4.) Transfer, Assignment, Disposition, or Assignation of any mortgage, bond, debenture, or covenant (except a marketable security), or of any money or
 
 0 0 3
 
@@ -7826,7 +7826,7 @@ Stamp Act, 1891. Ch. 39.
 
 stock secured by any such instrument, or by any warrant of attorney to enter up judgment, or by any judgment:
 
-For every 100/., and also for any fractional part of 100/., of the amount transferred, assigned, or disponed, exclusive of interest which is not in arrear 0 0 6
+For every 100l., and also for any fractional part of 100l., of the amount transferred, assigned, or disponed, exclusive of interest which is not in arrear 0 0 6
 
 r The same duty
 
@@ -7838,7 +7838,7 @@ L money.
 
 (5.) Reconveyance, Release, Discharge, Surrender, Resurrender, Warrant to Vacate, or Renunciation of any such security as aforesaid, or of the benefit thereof, or of the money thereby secured:
 
-For every 100/., and also for any fractional part of 100/., of the total amount or value of the money at any time secured - - -006
+For every 100l., and also for any fractional part of 100l., of the total amount or value of the money at any time secured - - -006
 
 And see sections 86, 87, 88, and 89.
 
@@ -7874,13 +7874,13 @@ the rate of 2s. 6 d.per centum of the sum insured - 0 0 1
 
 (a.) For or upon any voyage —
 
-In respect of every full sum of 100/., and also any
+In respect of every full sum of 100l., and also any
 
-fractional part of 100/. thereby insured - 0 0 3
+fractional part of 100l. thereby insured - 0 0 3
 
 (b.) For time —
 
-In respect of every full sum of 100/., and also any fractional part of 100/. thereby insured —
+In respect of every full sum of 100l., and also any fractional part of 100l. thereby insured —
 
 Where the insurance shall be made for any time
 
@@ -7902,13 +7902,13 @@ Where the sum insured does not exceed 10/.
 
 Exceeds 10/. but does not exceed 25/.
 
-Exceeds 25/. but does not exceed 500/.:
+Exceeds 25/. but does not exceed 500l.:
 
 For every full sum of 50/., and &1bo for any fractional part of 50/., of the amount insured -
 
-Exceeds 500/. but does not exceed 1,000l.:
+Exceeds 500l. but does not exceed 1,000l.:
 
-For every full sum of 100/., and also for any fractional part of 100/., of the amount insured
+For every full sum of 100l., and also for any fractional part of 100l., of the amount insured
 
 Exceeds 1,000l.:
 
@@ -8040,7 +8040,7 @@ Stamp Act, 1891.
 
 SETTLEMENT. Any instrument, whether voluntary or upon any good or valuable consideration, other than a bonk fide pecuniary consideration, whereby any definite and certain principal sum of money (whether charged or chargeable on lands or other hereditaments or heritable subjects, or not, or to be laid out in the purchase of lands or other hereditaments or heritable subjects or not), or any definite and certain amount of stock, or any security, is settled or agreed to be settled in any manner whatsoever:
 
-For every 100/., and also for any fractional part of 100/., of the amount or value of the property settled or agreed to be settled - - 050
+For every 100l., and also for any fractional part of 100l., of the amount or value of the property settled or agreed to be settled - - 050
 
 Exemption.
 
@@ -12832,19 +12832,19 @@ purposes during the financial period.
 
 65,000l.
 
-121, 300/.
+121, 300l.
 
-50, 600/.
+50, 600l.
 
-5, 500/.
+5, 500l.
 
-600/.
+600l.
 
-100/.
+100l.
 
-300/.
+300l.
 
-100/.
+100l.
 
 Ch. 62. London Comity Council (Money) 54 & 55 Vict.
 
@@ -12892,7 +12892,7 @@ Act, 1886, in the financial year one hundred and twenty-.five 125/. pounds and i
 
 (I.) For the purposes of works and capital expenditure authorised by the Metropolitan Board of Works (Various Powers) Act,
 
-1887, in the financial year nine hundred pounds. 900/.
+1887, in the financial year nine hundred pounds. 900l.
 
 (m.) For the purposes of works and capital expenditure authorised by the Metropolitan Board of Works (Various Powers)
 
@@ -12902,9 +12902,9 @@ Act, 1888, in the financial year six thousand and eighty-one 6, 081/. pounds, an
 
 (0.) For the purposes of contribution towards the purchase of gardens and the acquisition of Brockwell Park authorised by the London Council (General Powers) Act, 1890, or other purposes of that Act properly chargeable to capital account, in the financial year four thousand six hundred and sixty-three 4, 663/. pounds.
 
-(p.) For the purposes of providing sites for and building, enlarging, and improving lunatic asylums, in the financial year three hundred and seventeen thousand three hundred and nineteen 317, 319/. pounds, and in the following six months one hundred and two 102, 400/. thousand and four hundred pounds.
+(p.) For the purposes of providing sites for and building, enlarging, and improving lunatic asylums, in the financial year three hundred and seventeen thousand three hundred and nineteen 317, 319/. pounds, and in the following six months one hundred and two 102, 400l. thousand and four hundred pounds.
 
-(q.) For the purposes of additions to and other expenditure properly chargeable to capital in respect of industrial schools, in the financial year one thousand six hundred and fifty i, 650Z. pounds and in the following six months seven hundred 700/. pounds.
+(q.) For the purposes of additions to and other expenditure properly chargeable to capital in respect of industrial schools, in the financial year one thousand six hundred and fifty i, 650Z. pounds and in the following six months seven hundred 700l. pounds.
 
 (r.) For the purposes of the provision of stations and sites for the verification and stamping of weights and measures and
 
@@ -12912,25 +12912,25 @@ Act, 1888, in the financial year six thousand and eighty-one 6, 081/. pounds, an
 
 Ch. 62.
 
-31, 650/.
+31,650l.
 
-1, 900/.
+1,900l.
 
-4, 800/.
+4,800l.
 
 8,000l.
 
-500/.
+500l.
 
-277, 509/. 168, 750/.
+277,509l. 168,750l.
 
 Power to expend money for purposes of Acts of this session.
 
-51,000L 97,000l.
+51,000l. 97,000l.
 
-100, 500/.
+100, 500l.
 
-101, 500/.
+101, 500l.
 
 Expenditure for tramway purposes.
 
@@ -12938,7 +12938,7 @@ London County Council (Money) 54 & 55 .VICT. Act, 189L
 
 the provision of local standards and appliances in the financial year twenty-one thousand six hundred and fifty pounds, and in the following six months one thousand and nine hundred pounds.
 
-(«.) For the purpose of acquiring a site for a council chamber and offices for the Council such sum or sums as the Council with the approval of the Treasury may think fit in the financial year and the following six months respectively.
+(s.) For the purpose of acquiring a site for a council chamber and offices for the Council such sum or sums as the Council with the approval of the Treasury may think fit in the financial year and the following six months respectively.
 
 (t.) For the purposes of providing testing stations, sites, and plant under any Acts relating to electric lighting, in the financial year lour thousand eight hundred pounds, and in the following six months three thousand pounds.
 
@@ -12952,7 +12952,7 @@ Expenditure for Works authorised this Session.
 
 (i.) For the purposes of the London County Council (General Powers) Bill, 1891, if it becomes law, in the financial year fifty-one thousand pounds, and in the following six months ninety-seven thousand pounds.
 
-(iL) For the purposes of the London (Boundary Street, Bethnal Green) Scheme, 1891 (including provision for rehousing of persons displaced), if the Provisional Order confirming the same becomes law, in the financial year one hundred thousand and five hundred pounds, and in the following six months one hundred and one thousand and five hundred pounds.
+(ii.) For the purposes of the London (Boundary Street, Bethnal Green) Scheme, 1891 (including provision for rehousing of persons displaced), if the Provisional Order confirming the same becomes law, in the financial year one hundred thousand and five hundred pounds, and in the following six months one hundred and one thousand and five hundred pounds.
 
 Provided that any money expended for any of the said purposes during the six months ending the thirtieth day of September one thousand eight hundred and ninety-two, shall be expended on account of the financial year ending the thirty-first day of March one thousand eight hundred and ninety-three.
 
@@ -12960,11 +12960,7 @@ Expenditure for Tramway and General Purposes.
 
 7. — (i.) The Council may expend on capital account during the financial period such sums of money as may become payable by
 
-1891.
-
-London County Council (Money) Act, 1891. Ch. 62.
-
-297
+1891. London County Council (Money) Act, 1891. Ch. 62. 297
 
 them during that period in respect of the purchase of any tramways which they are authorised to purchase during that period by any Act of Parliament, and also such sums as may be necessary for the purposes of any expenses of and incidental to such purchase which may be properly chargeable to capital account.
 
