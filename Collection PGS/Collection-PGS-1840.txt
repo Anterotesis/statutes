@@ -2843,18 +2843,18 @@ II. And be it enacted, That in case of any Civil or Criminal Proceeding hereafte
 
 [In Proceedings for printing any Extract or Abstract of a Paper, it may be shewn that such Extract was bona fide made.]
 
-III. And be it enacted, That it shall be lawful in any Civil or Criminal Proceeding to be commenced or prosecuted for printing any Extract from or Abstract of such Report, Paper, Paper, Votes, or Proceedings, to give in Evidence under the General Issue such Report, Paper, Votes, or Proceedings, and to show that such Extract or Abstract was published bond fide and without Malice; and if such shall be the Opinion of the Jury a Verdict of Not guilty shall be entered for the Defendant or Defendants.
+III. And be it enacted, That it shall be lawful in any Civil or Criminal Proceeding to be commenced or prosecuted for printing any Extract from or Abstract of such Report, Paper, Paper, Votes, or Proceedings, to give in Evidence under the General Issue such Report, Paper, Votes, or Proceedings, and to show that such Extract or Abstract was published bona fide and without Malice; and if such shall be the Opinion of the Jury a Verdict of Not guilty shall be entered for the Defendant or Defendants.
 
 [Act not to affect the Privileges of Parliament.]
 
-IV. Provided always, and it is hereby expressly declared and enacted, That nothing herein contained shall be deemed or taken, or held or construed, direcdy or indirectly, by Implication or otherwise, to affect the Privileges of Parliament in any Manner whatsoever.
+IV. Provided always, and it is hereby expressly declared and enacted, That nothing herein contained shall be deemed or taken, or held or construed, directly or indirectly, by Implication or otherwise, to affect the Privileges of Parliament in any Manner whatsoever.
 
 CAP. X.
 
 An Act to authorize the Issue of Exchequer Bills for Public Works and Fisheries and Employment of the Poor.
----
-[14th April 1840.]
 
+[14th April 1840.]
+---
 'WHEREAS an Act was passed in the Fifty-seventh Year of the Reign of His Majesty King George the Third,
 
 [57 G. 3. c. 34.]
@@ -3035,7 +3035,7 @@ Cap. ll
 
 107
 
-CAP. XL
+CAP. XI.
 
 An Act to settle an Annuity on Lord Seaton and the Two next surviving Heirs Male of the Body of the said Lord Seaton to whom the Title of Lord Seaton shall descend, in consideration of his important Services.
 
@@ -6409,7 +6409,7 @@ recited Act, it shall and may be lawful to and for the Board of Superintendence 
 
 Prisons in Ireland, with the Approval of the Lord Lieutenant or other Chief Governor or
 
-Governors oi Ireland, by and with the Advice and Consent of Her Majesty's Privy Council in
+Governors of Ireland, by and with the Advice and Consent of Her Majesty's Privy Council in
 
 Ireland, from Time to Time to make such Rules, Orders, and Regulations for the Govern *
 
@@ -6433,8 +6433,6 @@ or any Part of the Period of his or her Imprisonment, under the Restrictions her
 
 IV. And be it declared and enacted, That separate Confinement under the Provisions of this Act shall not be deemed solitary Confinement within the Meaning of any Act forbidding the Continuance of solitary Confinement for more than a limited Time: Provided always, that no Cell shall be used for the separate Confinement of any Prisoner which is not of such a Size, and lighted, warmed, ventilated, and fitted up in such Manner, as may be required by a due Regard to Health, and furnished with the Means of enabling the Prisoner to communicate at any Time with an Officer of the Prison; and that no Cell shall be used for such
 
-3 & 4 Vict. B b separate
-
 Separate Confinement not to be deemed solitary Confinement.
 
 Regulations respecting solitary Confinement.
@@ -6449,7 +6447,9 @@ to the said Lord Lieutenant or other Chief Governor or Governors and Council, th
 
 tion of all the Prisoners who may be confined therein at One Time, the Rules of the Prison shall specify the Class or Description of Prisoners who shall be confined in the separate Cells, having regard either to the Nature of the Crime with which the Prisoner may be charged, or of which he or she may have been convicted, or to the Sex or Age of the Prisoner, or to the Term of Imprisonment, or to such other Circumstances as the Board of Superintendence shall think fit, and as the said Lord Lieutenant or other Chief Governor or Governors and Council shall approve.
 
-Like Provision V. And whereas it is expedient to make the like Provision for the Superannuation of the for the Super- Keepers, Turnkeys, and Matrons of Prisons within the County of Dublin and County of of City of Dublin as has been made for the same Purpose in other Counties throughout Prisons in Ireland f be it therefore enacted, That it shall and may be lawful for the several Grand Dublin as has Juries at the Presenting Terms in the County of Dublin and County of the City of Dublin, c^er'cc^tfos upon the Recommendation of the Inspectors General of Prisons, or One of them, supported in Ireland. by the Certificate of the Board of Superintendence of any Gaol, Bridewell, House of Correction, or other Prison, in or for either of such Counties respectively, or by such other Certificates as the said Lord Lieutenant or other Chief Governor or Governors shall require or direct, that any Keeper, Turnkey, or Matron of such Gaol, Bridewell, House of Correction, or other Prison, is incapable, from Age, or Infirmity of Mind or Body, to discharge the Duties of his or her Office, to order that such Keeper, Turnkey, or Matron shall and may be superannuated, and shall and may receive such yearly Allowance or Superannuation as to such Grand Jury shall seem fitting and proper, and thereupon such Keeper, Turnkey, or Matron shall cease to hold his or her Office, and the yearly Sum to which he or she shall become entitled shall be presented by the Grand Jury of the County of the City of Dublin or of the County of Dublin, as the Case may be, in equal Moieties, One at each Presenting Term during the Life of the Person so superannuated, on its being proved to the Satisfaction of such Grand Jury that such Person is living: Provided always, that no such Superannuation Allowance for any such Keeper, Turnkey, or Matron shall in any Case exceed Two Thirds of the annual Salary to which such Person shall be entitled at the Time of his or her Superannuation, nor the Proportions with reference to the Amount of the Salary of any such Keeper, Turnkey, or Matron, and the Periods of their Services respectively, which, by an Act passed in the Fourth and Fifth Years of the Reign of His late Majesty King William 4 & 5 W.4. c. 24. the Fourth, intituled An Act to alter, amend, and consolidate the Laws for regulating the Pensions, Compensations, and Allowances to be made to Persons in respect of their having held Civil Offices in His Majeshfs Service, are directed to be observed.
+Like Provision
+
+V. And whereas it is expedient to make the like Provision for the Superannuation of the for the Super- Keepers, Turnkeys, and Matrons of Prisons within the County of Dublin and County of of City of Dublin as has been made for the same Purpose in other Counties throughout Prisons in Ireland f be it therefore enacted, That it shall and may be lawful for the several Grand Dublin as has Juries at the Presenting Terms in the County of Dublin and County of the City of Dublin, c^er'cc^tfos upon the Recommendation of the Inspectors General of Prisons, or One of them, supported in Ireland. by the Certificate of the Board of Superintendence of any Gaol, Bridewell, House of Correction, or other Prison, in or for either of such Counties respectively, or by such other Certificates as the said Lord Lieutenant or other Chief Governor or Governors shall require or direct, that any Keeper, Turnkey, or Matron of such Gaol, Bridewell, House of Correction, or other Prison, is incapable, from Age, or Infirmity of Mind or Body, to discharge the Duties of his or her Office, to order that such Keeper, Turnkey, or Matron shall and may be superannuated, and shall and may receive such yearly Allowance or Superannuation as to such Grand Jury shall seem fitting and proper, and thereupon such Keeper, Turnkey, or Matron shall cease to hold his or her Office, and the yearly Sum to which he or she shall become entitled shall be presented by the Grand Jury of the County of the City of Dublin or of the County of Dublin, as the Case may be, in equal Moieties, One at each Presenting Term during the Life of the Person so superannuated, on its being proved to the Satisfaction of such Grand Jury that such Person is living: Provided always, that no such Superannuation Allowance for any such Keeper, Turnkey, or Matron shall in any Case exceed Two Thirds of the annual Salary to which such Person shall be entitled at the Time of his or her Superannuation, nor the Proportions with reference to the Amount of the Salary of any such Keeper, Turnkey, or Matron, and the Periods of their Services respectively, which, by an Act passed in the Fourth and Fifth Years of the Reign of His late Majesty King William 4 & 5 W.4. c. 24. the Fourth, intituled An Act to alter, amend, and consolidate the Laws for regulating the Pensions, Compensations, and Allowances to be made to Persons in respect of their having held Civil Offices in His Majeshfs Service, are directed to be observed.
 
 Act may be
 
@@ -6469,7 +6469,7 @@ WHEREAS it is expedient that the several Acts for regulating Turnpike Roads in G
 
 it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That every Act for making, amending, or repairing any Turnpike Road or Roads in Great Britain which will expire on the First Day of June in the Year One thousand eight hundred and forty-one, or if Parliament shall be then sitting at the End of the then Session of Parliament, shall be and the same is hereby continued until the First Day of June One thousand eight hundred and forty-two* or if Parliament shall then be sitting until the End of the then Session of Parliament.
 
-II. And be it enacted, That nothing in this Act contained shall extend or be construed to extend to an Act passed in the Fifty-eighth Year of the Reign of His late Majesty King George the Third, intituled An Act for repairing the Road from Blakedown Poole in the Parish of Hagley in the County of Worcester to Birmingham in the County t?/* Warwick.
+II. And be it enacted, That nothing in this Act contained shall extend or be construed to extend to an Act passed in the Fifty-eighth Year of the Reign of His late Majesty King George the Third, intituled An Act for repairing the Road from Blakedown Poole in the Parish of Hagley in the County of Worcester to Birmingham in the County of Warwick.
 
 CAP. XLVI.
 
@@ -6477,19 +6477,13 @@ An Act to continue for One Year from the passing of this Act, and thenceforth un
 
 [4th August 1840.]
 
-WHEREAS the several Acts for making, amending, and repairing the Turnpike Roads in Ireland were by an Act passed in the First and Second Years of the Reign of
+'WHEREAS the several Acts for making, amending, and repairing the Turnpike Roads in Ireland were by an Act passed in the First and Second Years of the Reign of Her present Majesty continued for the Term of One Year and thenceforth until the End of the present Session of Parliament; and it is expedient that the said Acts should be further continued:' Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That all and every Act and Acts of Parliament for making, amending, and repairing any Turnpike Road or Roads in Ireland, which will expire during or with the present Session of Parliament, shall be and the same is and are hereby continued for One Year from the passing of this Act, and thenceforth until the End of the then next Session of Parliament.
 
-Her present Majesty continued for the Term of One Year and thenceforth until the End ' of the present Session of Parliament; and it is expedient that the said Acts should be further continued:' Be it therefore enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That all and every Act and Acts of Parliament for making, amending, and repairing any Turnpike Road or Roads in Ireland, which will expire during or with the present Session of Parliament, shall be and the same is and are hereby continued for One Year from the passing of this Act, and thenceforth until the End of the then next Session of Parliament.
-
-CAP. XL VII.
+CAP. XLVII.
 
 An Act to repeal so much of an Act of the Ninth Year of the Reign of Her late Majesty Queen Anne as prevents the Re-election of Mayors of Parliamentary Boroughs and other annual Returning Officers.
 
 [4th August 1840.]
-
-c
-
-i
 
 WHEREAS by an Act passed in the Ninth Year of the Reign of Her late Majesty Queen Anne, intituled An Act for rendering the Proceedings upon Writs of Mandamus and Informations in the Nature of a Quo warranto more speedy and effectual, and for the more
 

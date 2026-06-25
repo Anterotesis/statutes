@@ -542,7 +542,7 @@ Most Gracious Sovereign,
 
 WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Kingdom of Great Britain and Ireland, in Parliament assembled, towards making good the supply which we have cheerfully granted to Your Majesty in this session of Parliament, have resolved to grant unto Your Majesty the sum herein-after mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted; and be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-L The Commissioners of Her Majesty's Treasury for the time being may issue out of the Consolidated Fund of the United Kingdom of Great Britain and Ireland, and apply towards making good the supply granted to Her Majesty for the service of the year ending on the thirty-first day of March one thousand eight hundred and eighty-three, the sum of nine million two hundred and eighty-two thousand four hundred and thirty-five pounds.
+1. The Commissioners of Her Majesty's Treasury for the time being may issue out of the Consolidated Fund of the United Kingdom of Great Britain and Ireland, and apply towards making good the supply granted to Her Majesty for the service of the year ending on the thirty-first day of March one thousand eight hundred and eighty-three, the sum of nine million two hundred and eighty-two thousand four hundred and thirty-five pounds.
 
 2. The Commissioners of the Treasury may borrow from time to time, on the credit of the said sum, any sum or sums not exceeding in the whole the sum of nine million two hundred and eighty-two thousand four hundred and thirty-five pounds, and shall repay the moneys so borrowed, with interest not exceeding five pounds per centum per annum, out of the growing produce of the Consolidated Fund at any period not later than the next succeeding quarter to that in which the said moneys were borrowed.
 
@@ -1324,11 +1324,7 @@ or cannot be found by the Board or their officers, any such summons 8 uc 8‘
 
 or notice shall be deemed to be duly served or given if a copy of the same be posted in a conspicuous place on such dangerous structure
 
-or neglected structure, or on the land whereon it stands or stood, at
-
-least two months before the time named in such summons or notice
-
-for the hearing of such complaint or for the making of such
+or neglected structure, or on the land whereon it stands or stood, at least two months before the time named in such summons or notice for the hearing of such complaint or for the making of such
 
 application.
 
@@ -1344,7 +1340,7 @@ When any such difference as aforesaid has arisen and each party has appointed a 
 
 When any such difference as aforesaid has arisen, and each party has appointed a surveyor for the settlement of such difference in manner prescribed by the said section, then, if the two surveyors so appointed refuse or for seven days after request of either party
 
-40 Ch. 1 4. Metropolis Management, &c. (Amendment) Act, 1882. 45 Vict.
+40 Ch. 14. Metropolis Management, &c. (Amendment) Act, 1882. 45 Vict.
 
 neglect to select a third surveyor or another third surveyor in the event of the refusal or neglect to act, death, or incapacity of the third surveyor for the time being, one of Her Majesty's Principal Secretaries of State may, on the application of either party, select some fit person to act as third surveyor, and every surveyor so selected as aforesaid shall have the same powers and authorities as if he had been selected as a third surveyor by the two surveyors so appointed by the parties.
 
@@ -1368,7 +1364,7 @@ Exceptions from Metropolis Management Acts extended to this Act 18 & 19 Vict c. 
 
 41
 
-1882. Metropolis Management , <kc. (Amendment) Act 1882. Ctt.14, 15.
+1882. Metropolis Management , <kc. (Amendment) Act 1882. Ctt. 14, 15.
 
 to such of the provisions of this Act as axe to be construed as aforesaid with such Acts.
 
@@ -1432,15 +1428,13 @@ body or otherwise under the provisions of the Lands Clauses Act and any Act inco
 
 (c.) In defraying the expense of any legal proceedings for the protection of such common land, or the commoners’ rights over the same;
 
-(<£) In the purchase of additional land to be used as common land;
+(d.) In the purchase of additional land to be used as common land;
 
 (e.) In the purchase of land to be used as a recreation ground for the neighbourhood; and any such resolution shall bind the minority and all absent parties, and the Commissioners shall make an order under their seal for the payment to them of any expenses incurred by them in relation to the matter, and (subject to such payment) for the application of the money according to such resolution, and the committee or the persons in whose names such money stands or is invested, or the survivors or survivor in account of such persons, or the legal personal representative of such survivor, shall, upon service of any such order of the Commissioners as aforesaid upon them or any of them or any person on their behalf as the Commissioners may direct, pay and apply the said money or realise any security in which the same is invested, and pay and apply the proceeds thereof in manner directed by the said order.
 
 (2.) Any land so purchased as aforesaid for use as common land shall be conveyed to and vest in trustees upon trusts for the persons interested, such trustees to be appointed, and such trusts, and the powers and duties of the trustees, and provisions for the appointment of new trustees from time to time to be declared and provided by an order under the seal of the Commissioners, pursuant to resolutions to be passed at a special meeting of the persons
 
-43
-
-1882. Commonable Rights. Ch. 15.
+1882. Commonable Rights. Ch. 15. 43
 
 interested, convened by the said Commissioners by such majorities as aforesaid.
 
@@ -1510,9 +1504,7 @@ Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the
 
 3. In addition to any rules heretofore made the Lord Lieutenant in Council may make such further rules as may seem expedient to enable the Inspectors of Irish Fisheries to supply, in cases where they may deem it expedient, to persons obtaining loans under the said Act and this Act, boats or fishing-gear in lieu of money; and on the certificate of the Inspectors that such boats and gear have
 
-45
-
-1882. Irish Reproductive Loan Fund Act (1874) Ch. 16, 17.
+1882. Irish Reproductive Loan Fund Act (1874) Ch. 16, 17. 45
 
 been supplied the Commissioners may pay for such boats and gear instead of paying the money to the borrowers, which shall be as effectually binding on the borrowers, so far as the liabilities or securities they may have entered into with the Commissioners shall extend, as if such borrowers had received the actual value of such securities in money instead of boats and gear.
 
@@ -1638,7 +1630,7 @@ WHEREAS it is expedient that the laws and usages relating to the interment of th
 
 Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the advice find consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
-1. The Act of the fourth year of George the Fourth, chapter fifty-two, intituled " An Act to alter and amend the law relating to " the interment of the remains of any person found felo de se, " shall be and the same is hereby repealed.
+1. The Act of the fourth year of George the Fourth, chapter fifty-two, intituled "An Act to alter and amend the law relating to the interment of the remains of any person found felo de se," shall be and the same is hereby repealed.
 
 2. From and after the passing of this Act it shall not be lawful for any coroner or other officer having authority to hold inquests to issue any warrant or other process directing the interment of the remains of persons against whom a finding of felo de se shall be had in any public highway, or with any stake being driven through the body of such person, but such coroner or other officer shall give directions for the interment of the remains of such person felo de se in the churchyard or other burial ground of the parish or place in which the remains of such person might by the laws or custom of England sgjfciterred if the verdict of felo de se had not been found against such person.
 
@@ -1656,7 +1648,7 @@ Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the
 
 CHAPTER 20.
 
-An Act to amend the Poor Kate Assessment and Collection Act, 1869.
+An Act to amend the Poor Rate Assessment and Collection Act, 1869.
 
 [3rd July 1882.]
 
@@ -1932,7 +1924,7 @@ Constitution of Court of Criminal Appeal.
 
 Special jurors in criminal cases.
 
-Ch. 25. Prevention of Crime (Ire) Act, 1882. 45 & 46 Vict.
+Ch. 25. Prevention of Crime (Ireland) Act, 1882. 45 & 46 Vict.
 
 jury in Ireland would, but for this section, have had jurisdiction to try that person for the said offence.
 
@@ -1968,7 +1960,7 @@ mt
 
 57
 
-Prevention of Crime (Ireland Act, 1882. Ch. 25.
+Prevention of Crime (Ireland) Act, 1882. Ch. 25.
 
 v'2) The special jurors shall be taken by ballot in manner provided by the nineteenth section of the Juries Procedure (Ireland) Act, 187G, from all the jurors upon the panel returned by the sheriff from the special jurors book.
 
@@ -1996,7 +1988,7 @@ liiots and other offences.
 
 Unlawful associations.
 
-Ch. 25. Prevention of Crime (IrAct, 1882. 45 & 46 VICT.
+Ch. 25. Prevention of Crime (Ireland) Act, 1882. 45 & 46 VICT.
 
 of any person, of the reasonable expenses of such person coming to the place at which, in pursuance of such order, he is to be tried in any case where he was admitted to bail, and also of the witnesses required for the defence of such person, and certified by the court before whom he is tried to be so required.
 
@@ -2036,7 +2028,7 @@ In this Act the expression "intimidation " includes any word spoken or act done 
 
 59
 
-IS82. Prevention of Criine (Ireland) Act, 1882. Ch. 25.
+IS82. Prevention of Crime (Ireland) Act, 1882. Ch. 25.
 
 (b.) Takes part in the oi>erations of an unlawful association as defined by this Act, or of any meeting thereof, shall be guilty of an offence against this Act.
 
@@ -2196,7 +2188,7 @@ Every warrant imposing a charge upon a district in respect of such additional co
 
 65
 
-Prevention of Grime (h'flavd) Act, 1882. Ch. 25.
+Prevention of Crime (Ireland) Act, 1882. Ch. 25.
 
 before Parliament within ono month after the date of the warrant, if Parliament is then sitting, and if not within one month after the next meeting of Parliament, together with a statement showing the following particulars, in cases where such particulars do not appear in the warrant; that is to say, the valuation of the district proposed to be charged; the number of instalments by and the time within which the charge is to be raised; the poundage rate neces-mry for raising the same; and the grounds upon which the district has beeo charged, and the number of inhabitants in such district at the last census as far as can be ascertained.
 
@@ -2208,9 +2200,9 @@ SlPPLEMENTAL PROVISIONS AND DEFINITIONS.
 
 21 (1.) Any offence against this Act shall be punishable on summary conviction, and may be prosecuted —
 
-(o.) Within the police district of Dublin Metropolis in manner provided by the Acts regulating the powers and duties of justices of the peace of such district or of the police of such district; and
+(a.) Within the police district of Dublin Metropolis in manner provided by the Acts regulating the powers and duties of justices of the peace of such district or of the police of such district; and
 
-(6.) Elsewhere in manner provided by the Petty Sessions (Ireland) Act, 1851, and the Acts amending the same, subject nevertheless to the provisions of this section.
+(b.) Elsewhere in manner provided by the Petty Sessions (Ireland) Act, 1851, and the Acts amending the same, subject nevertheless to the provisions of this section.
 
 (2.) The proceedings for enforcing the appearance of the person charged, and the attendance of witnesses, shall be the same, and the evidence for both the prosecution and defence shall be taken as depositions in the same manner as if the offence were an indictable offence: but, save as aforesaid, the procedure, including the enforcing of the attendance of witnesses for the defence, shall be the same as in the case of an offence punishable on summary conviction.
 
@@ -2218,7 +2210,7 @@ SlPPLEMENTAL PROVISIONS AND DEFINITIONS.
 
 (a.) Within the police district of Dublin Metropolis before a divisional justice of that district; and
 
-(6.) Elsewhere before two resident magistrates in petty sessions, one of whom shall be a person of the sufficiency of whose legal knowledge the Lord Lieutenant shall be satisfied:
+(b.) Elsewhere before two resident magistrates in petty sessions, one of whom shall be a person of the sufficiency of whose legal knowledge the Lord Lieutenant shall be satisfied:
 
 And in this Act the expression "court of summary jurisdiction acting under this Act" means any such divisional justico or two resident magistrates.
 
@@ -2268,7 +2260,7 @@ charge for an offence against this Act, shall not bo reviewed in any other manne
 
 67
 
-Prevention of Crime (Act, 1882. Ch. 25.
+Prevention of Crime (Ireland) Act, 1882. Ch. 25.
 
 and containing the publication of any proclamation, order, or notice under this Act, shall be conclusive evidence of the contents of such proclamation, order, or notice, and of the date thereof, and in the case of a proclamation that the district specified in such proclamation is a proclaimed district within the meaning of the provisions of this Act mentioned in the proclamation, and that the said proclamation has been duly promulgated, and in the case of an order that it has been duly made.
 
@@ -2370,7 +2362,7 @@ Provided that no person shall be tried or punished twice for the same offence.
 
 (a.) for the commission of crimes; or
 
-(6.) carrying on operations for or by the commission of crimes; or
+(b.) carrying on operations for or by the commission of crimes; or
 
 (c.) for encouraging or aiding persons to commit crimes; and the expression "crime " for the purposes of this section means any offence against this Act, and also any crime punishable on indictment by imprisonment with hard labour or by any greater punishment.
 
@@ -2428,9 +2420,7 @@ The expression "inspector of constabulary" means a county inspector of the Royal
 
 The expression <(judges of the Supreme Court of Judicature" means the judges of Her Majesty's Court of Appeal and of Her Majesty's High Court of Justice in Ireland other than the Judicial Commissioner of the Irish Land Commission.
 
-36. This Act may be cited as the Prevention of Crime (Ireland)
-
-Act, 1882.
+36. This Act may be cited as the Prevention of Crime (Ireland) Act, 1882.
 
 37. This Act shall continue in force until the expiration of three years next after the passing thereof, and to the end of the then current session of Parliament.
 
@@ -3384,7 +3374,7 @@ The expression "Main Drainage Acts " in this Act shall have the same meaning as 
 
 97
 
-1882. MetropolitaniBoard of Works (Money) Act, 1882. Ch. 33.
+1882. Metropolitan Board of Works (Money) Act, 1882. Ch. 33.
 
 for the purposes mentioned in this section shall be raised and created by them from time to time in such amounts and at such times only as the Board shall actually require and as the Treasury shall approve for the purpose of carrying out the provisions of the said Act in a proper and efficient manner.
 
@@ -3392,7 +3382,7 @@ for the purposes mentioned in this section shall be raised and created by them f
 
 (a.) For the purposes mentioned in section one hundred and forty-four of the Metropolis Management Act, 1855, and section is & 19 Vict. seventy-two of the Metropolis Management Amendment Act, c. 120.
 
-1862, one hundred thousand pounds; V'Ct
+1862, one hundred thousand pounds; Vict
 
 (b.) For the purposes of the Metropolitan Street Improvements 35 & 36 vict Act, 1872, thirty-four thousand and nine hundred and thirty- c. clxiii. seven pounds eight shillings and threepence;
 
@@ -3460,7 +3450,7 @@ Money lent by the Board under this section shall, notwithstanding anything in an
 
 100
 
-Ch. 83. Met'i'opolitanBoard of Works 1882.45 & 40 Vict.
+Ch. 83. Metropolitan Board of Works 1882.45 & 40 Vict.
 
 is & 19 Vict, Management Act, 1855, desire, in pursuance of authority vested in c-120. them, to borrow money for the purpose of any work, or for the purpose of paying off any loan or debt, or for any other purpose, and it appears to the Board and the Treasury expedient that the repayment of the money to be borrowed shall be spread over a series of years, then from time to time during the year ending the thirty-first day of December, one thousand eight hundred and eighty-three, the Board may lend to the board of guardians, and the board of guardians may borrow from the Board, such money as the Board think fit, and as the board of guardians are authorised and desire to borrow, not exceeding two hundred thousand pounds.
 
@@ -3498,7 +3488,7 @@ Where the Board under the authority of this Act create consolidated stock to rai
 
 101
 
-1882. Metropolitan, Board of Works (Money) Act, 1882. Ch. 33.
+1882. Metropolitan Board of Works (Money) Act, 1882. Ch. 33.
 
 Treasury approve as being in their opinion sufficient to redeem within the period of thirty years from the date of the creation of such stock, or in the case of any such loan within any lesser period for which the same may be made, an amount of consolidated stock equal to that so created; and
 
